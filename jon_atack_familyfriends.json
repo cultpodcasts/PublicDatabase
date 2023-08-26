@@ -1,10 +1,46 @@
 {
   "id": "ad3c0291-c9c2-4114-a382-b300096f9f26",
   "name": "jon atack, family \u0026 friends",
-  "spotifyId": null,
+  "spotifyId": "1HxLYQiT9udPo5ldlyhpbH",
   "appleId": 1534364303,
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
+    {
+      "id": "f29d70f1-adbf-446e-9b1f-8fbf474da5d7",
+      "title": "Manson, Scientology, and more",
+      "description": "Jon and Chris talk about how Manson\u0027s 150 hours of Scientology processing might have affected him and his actions - along with ...",
+      "release": "2023-08-26T10:59:11Z",
+      "duration": "02:09:38",
+      "explicit": false,
+      "spotifyId": null,
+      "appleId": null,
+      "youTubeId": "F1Mt_9VDv7s",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=F1Mt_9VDv7s"
+      }
+    },
+    {
+      "id": "ff7d3f68-f167-47a0-a0cd-2964d6ce7e31",
+      "title": "What\u0026#39;s Up With #kanye?",
+      "description": "kanyewest #bipolar #hypermania #mania.",
+      "release": "2023-08-24T03:58:02Z",
+      "duration": "00:00:59",
+      "explicit": false,
+      "spotifyId": null,
+      "appleId": null,
+      "youTubeId": "6fgl5M55jc4",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=6fgl5M55jc4"
+      }
+    },
     {
       "id": "ee76d9a7-a6dd-4075-a345-e379bf7fe214",
       "title": "large group awareness trainings, peak experiences and dopamine - with John Hunter, PhD",
@@ -15,6 +51,9 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "2J1cxxPXyt8",
+      "subjects": [
+        "Large Group Awareness Trainings (LGATs)"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -31,6 +70,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "3MzGtpM_Tn0",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -47,10 +87,31 @@
       "spotifyId": null,
       "appleId": 1534364303,
       "youTubeId": "UyTazrCmnZE",
+      "subjects": [
+        "Children of God/Family International",
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4P3B6SH91lnDDfd8DwWyCb",
         "apple": "https://podcasts.apple.com/us/podcast/jon-atack-family-friends/id1534364303?uo=4",
         "youtube": "https://www.youtube.com/watch?v=UyTazrCmnZE"
+      }
+    },
+    {
+      "id": "49830468-0cd4-4a81-be81-8eac647f06cb",
+      "title": "William Branham\u0027s Message, the Nazis, Jim Jones and even the Kardashians with John Andrew Collins",
+      "description": "John Andrew Collins grew up in the royal family of the William Branham Message movement. His grandfather was the senior pastor at Branham\u0027s Tabernacle. John began to have doubts when he was 37 and started research that has continued for more than a decade. He is a prolific author who has revealed the intimate connection between some Pentecostalists - including Branham - with the Ku Klux Klan from its re-founding in 1915. He found links between Pentecostal Christianity and the Kardashian family; a Branham complex in Chile that smuggled Nazis into Argentina; the connection between Branham and Jim Jones who was responsible for the Jonestown killings; and even a connection to David \u0027Moses\u0027 Berg founder of the despicable child-molesting Children of God. A fascinating tour through one of the most influential groups in today\u0027s politicized religious right.  Spike\u0027s note: most of the pictures in this video were taken from John Collins\u0027 excellent website - it is truly amazing in the depth of information there, so check it out!!!!   Other Links:  Victim of the Flaming Sword  serpent seed  chart of lineage  Kenya Branham splinter starvation    And a link to a really nifty music video by John Collins - the guy\u0027s got some mad talent; check it out!!!",
+      "release": "2023-08-18T00:00:00",
+      "duration": "01:31:10.8690000",
+      "explicit": false,
+      "spotifyId": "4P3B6SH91lnDDfd8DwWyCb",
+      "appleId": 1000624912425,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4P3B6SH91lnDDfd8DwWyCb",
+        "apple": "https://podcasts.apple.com/us/podcast/william-branhams-message-the-nazis-jim-jones-and/id1534364303?i=1000624912425\u0026uo=4",
+        "youtube": null
       }
     },
     {
@@ -63,6 +124,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "fEku7heKb3s",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -79,6 +141,9 @@
       "spotifyId": "",
       "appleId": null,
       "youTubeId": "lXAcxbKSSiM",
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -95,6 +160,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "oE0BfY6wA7s",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -111,6 +177,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "dDMfvpEybLA",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -127,6 +194,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "NKaxB61BZiA",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -143,6 +211,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "hDlD5stzoXE",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -159,6 +228,9 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "2njxcZWdBUY",
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -175,6 +247,7 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "6pbvfOhus6c",
+      "subjects": [],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -191,6 +264,9 @@
       "spotifyId": null,
       "appleId": null,
       "youTubeId": "6hEpkqvItdU",
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -198,15 +274,16 @@
       }
     },
     {
-      "id": "aaf40004-c53d-4eb5-8680-127755a61464",
+      "id": "9f37af1c-04dd-4821-801f-0fd54b5d31d1",
       "title": "Janis Gillham-Grady on her years with Ron Hubbard and the search for Andrew Barton",
-      "description": "Janis joined Hubbard\u0027s ship at age 11. She was the first Commodore\u0027s Messenger and spent more than a decade at Hubbard\u0027s ...",
-      "release": "2023-08-05T11:07:41Z",
-      "duration": "00:53:53",
+      "description": "Janis joined Hubbard\u0027s ship at age 11. She was the first Commodore\u0027s Messenger and spent more than a decade at Hubbard\u0027s side. Her books give vital insight into the \u0027slave ship\u0027 and Hubbard\u0027s frequently traumatizing behavior. She is eager to have any information about her lifelong friend Andrew Barton, one of many disappeared Scientologists.  links:  Janis\u0027 channel with Mark Fisher, \u0022Peeling the Onion\u0022  The search for Andrew Barton  The episode where Janis talks to the disconnected mother  Jon\u0027s paper, \u0022Scientology: Religion or Intelligence Agency?\u0022",
+      "release": "2023-08-05T00:00:00",
+      "duration": "00:53:52.2340000",
       "explicit": false,
-      "spotifyId": null,
+      "spotifyId": "38lxrRcKSKrGaM0oz5ka7f",
       "appleId": 1000623525818,
       "youTubeId": "s8dToatNcus",
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/38lxrRcKSKrGaM0oz5ka7f",
         "apple": "https://podcasts.apple.com/us/podcast/janis-gillham-grady-on-her-years-with-ron-hubbard/id1534364303?i=1000623525818\u0026uo=4",
@@ -214,19 +291,1941 @@
       }
     },
     {
-      "id": "d669bc54-172b-4ef7-a731-17a06bf06dbf",
+      "id": "8a7b28bc-f23d-4e1d-8bc3-46364c2fe4d9",
       "title": "camaraderie in cults with Hoyt Richards",
-      "description": "documentarian and thriving survivor Hoyt Richards joins Jon for a conversation about the positive effects of membership in ...",
-      "release": "2023-07-29T11:00:42Z",
-      "duration": "01:30:15",
+      "description": "documentarian and thriving survivor Hoyt Richards joins Jon for a conversation about the positive effects of membership in negative groups and the camaraderie found during wars and catastrophes. Jon starts with Biderman\u0027s Chart of Coercion first devised to explain the steps of the Chinese Thought Reform Program and more recently applied to Guantanamo Bay. As ever, many controversial points are discussed!  Links:  Petition to Save the Brazilian Rainforest   Biderman\u0027s Chart of Coercion  Chris Shelton\u0027s Truth Rundown video  A musical rundown of the Borgia family  Windsor soup  The Robbers Cave Experiment  Chinese Blank Paper Protests  And yes, you can get Jaffa cakes in the US. My [Spike] local store has them in the \u0022international foods\u0022 aisle. Failing that, one can always buy them on Amazon.",
+      "release": "2023-08-05T00:00:00",
+      "duration": "01:30:14.0800000",
       "explicit": false,
-      "spotifyId": null,
+      "spotifyId": "0cstyQJ74t3meqjENnrO8k",
       "appleId": 1000623519634,
       "youTubeId": "uYwNsXc84Qc",
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cstyQJ74t3meqjENnrO8k",
         "apple": "https://podcasts.apple.com/us/podcast/camaraderie-in-cults-with-hoyt-richards/id1534364303?i=1000623519634\u0026uo=4",
         "youtube": "https://www.youtube.com/watch?v=uYwNsXc84Qc"
+      }
+    },
+    {
+      "id": "34c1c93c-48fd-4911-934a-f0e1f764c79f",
+      "title": "The Brainwashing of My Dad - with Jen Senko",
+      "description": "Jen Senko talks about her fascinating documentary and the book of the same title which gives even more detail of the information war waging in the US. Jen\u0027s dad Frank was a thoughtful, considerate man who became a raging fanatic when his information sources were restricted to right-wing media - especially Fox \u0022News\u0022 and Rush Limbaugh. Jen found that this plague has touched many families in the US. It seems astonishing that a literate, intelligent man who spoke seven languages could have been pulled into this hateful echo chamber. Jen gives us a remarkable perspective on the machinations of the right and the need for us to check our information.  Links: Jen\u0027s site watch TBoMD on YouTube (trailer) Facebook page The YouTube Channel ------ Madison Square Garden rally 1939 Velasquez men of pleasure paintings more on Intelligent Disobedience",
+      "release": "2023-07-23T00:00:00",
+      "duration": "01:21:20.0210000",
+      "explicit": false,
+      "spotifyId": "1C6ns3XiuLL0SeRfHtKPyn",
+      "appleId": 1000622067965,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1C6ns3XiuLL0SeRfHtKPyn",
+        "apple": "https://podcasts.apple.com/us/podcast/the-brainwashing-of-my-dad-with-jen-senko/id1534364303?i=1000622067965\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "863b6337-af6a-4add-979d-71413371ce19",
+      "title": "multi-level-marketing and pyramid schemes - with Doug Brooks",
+      "description": "Attorney Doug Brooks has created a website to help anyone entangled with a multilevel marketing organization. Doug shares his extensive experience in the field and offers sound practical advice to anyone who has been involved or is considering joining one of these get-rich-quick schemes which, as Doug says, benefit only the top one percent of members, often to the significant detriment of the remaining 99%.  Check out Doug\u0027s website   ",
+      "release": "2023-07-15T00:00:00",
+      "duration": "00:56:43.4340000",
+      "explicit": false,
+      "spotifyId": "3QuvlNIY3niAlEn5UlTSVh",
+      "appleId": 1000621233299,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3QuvlNIY3niAlEn5UlTSVh",
+        "apple": "https://podcasts.apple.com/us/podcast/multi-level-marketing-and-pyramid-schemes-with-doug-brooks/id1534364303?i=1000621233299\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "a4032c5d-ab3e-406e-950e-dd648d364a47",
+      "title": "More on Manson with Kacey at the Cult Vault",
+      "description": "Jon digs deeper into the causes of the Manson Family murders with Kacey, who has also spent time researching Manson. Manson was passionately interested in Scientology while in prison. At least three other Family members were involved in Scientology. Popular works about Manson fail to understand that Scientology is an elaborate system of control techniques rather than simply a set of beliefs or rituals. It is important to factor in Scientology\u0027s secret internal documents and the group\u0027s repeated attempts to distance Scientology from Manson.   Links:  CrimeconAustralian Royal CommissionPortugal reportSteven Hassan\u0027s Psychology Today articlehis blog response to Scientology\u0027s intimidation tacticsThe internal Scientology report on Manson  ",
+      "release": "2023-07-14T00:00:00",
+      "duration": "01:51:53.0450000",
+      "explicit": false,
+      "spotifyId": "3FiKwwXoEyMqhdgYlcMtfP",
+      "appleId": 1000621104906,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3FiKwwXoEyMqhdgYlcMtfP",
+        "apple": "https://podcasts.apple.com/us/podcast/more-on-manson-with-kacey-at-the-cult-vault/id1534364303?i=1000621104906\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "1f07d3c2-405a-40a7-a9d6-a08efffce8ed",
+      "title": "Let\u0027s cancel \u0022cancel culture\u0022 - with Chris Shelton",
+      "description": "Should we be outraged that Roger Waters has been accused of anti-Semitism for a dramatic piece that shows the downfall of an authoritarian leader? We believe with John Stuart Mill\u0027s\u00A0On Liberty\u00A0which insists that we should never close our ears to disagreeable ideas and always be open to discussion. \u00A0 The Roger Waters video Jon mentions",
+      "release": "2023-07-08T00:00:00",
+      "duration": "02:24:14.0370000",
+      "explicit": false,
+      "spotifyId": "7fYnPpyg8BCkZVgTni0eSP",
+      "appleId": 1000620172609,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fYnPpyg8BCkZVgTni0eSP",
+        "apple": "https://podcasts.apple.com/us/podcast/lets-cancel-cancel-culture-with-chris-shelton/id1534364303?i=1000620172609\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "9c125c90-fe61-47c8-8708-fccd3dc619d1",
+      "title": "what do we mean when we say God? with Joe Szimhart",
+      "description": "Joe and Jon have both spent their lives delving into belief systems, fascinated by the twists and turns that convince people to behave in benevolent or malevolent ways to those around them. A wide-ranging discussion about human perception of the divine that will doubtless unsettle some of the devout.  Link: https://youtu.be/mdKst8zeh-U",
+      "release": "2023-07-01T00:00:00",
+      "duration": "00:58:56",
+      "explicit": false,
+      "spotifyId": "3iCgfXmYLUYeLy2m1lwTlr",
+      "appleId": 1000618960723,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3iCgfXmYLUYeLy2m1lwTlr",
+        "apple": "https://podcasts.apple.com/us/podcast/what-do-we-mean-when-we-say-god-with-joe-szimhart/id1534364303?i=1000618960723\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "cbae5372-e73c-4feb-9d57-cd2ded366974",
+      "title": "tribe or cult? with Hoyt Richards",
+      "description": "documentarian, actor, and activist Hoyt Richards talks with Jon about Sebastian Junger\u0027s Tribe: Homecoming and Belonging and how ways in which authoritarian cults are tribes where recruits mistakenly believe they indeed found their home and feel they belong.   Velasquez \u2013 the men of pleasure and the cretins  UN figures on modern slavery ",
+      "release": "2023-06-26T00:00:00",
+      "duration": "01:36:26.0260000",
+      "explicit": false,
+      "spotifyId": "2KeX5mpZYkRHPaVvMerkX4",
+      "appleId": 1000618413450,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2KeX5mpZYkRHPaVvMerkX4",
+        "apple": "https://podcasts.apple.com/us/podcast/tribe-or-cult-with-hoyt-richards/id1534364303?i=1000618413450\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "3eab799e-d434-4e0f-ab44-e2ac5cd5723c",
+      "title": "narcissism, authoritarian cults and social psychiatry with Professor Steven Moffic, MD",
+      "description": "Professor emeritus Steven Moffic shares insights from his discipline of social psychiatry in a wide-ranging discussion about the prevalence of sociopathy in our society and the need for highly trained professionals to take a role in helping us to evolve towards better solutions and outgrow warfare. Including ideas about political leaders and the various forms of narcissism and anti-social behavior encouraged in our society.  The whole complicated story of Beethoven\u0027s \u0022Eroica\u0022 symphony (#3) and its problematic dedication (Spike is happier than she probably should be that she got to use the knowledge left over from her music degree today!)",
+      "release": "2023-06-20T00:00:00",
+      "duration": "01:23:41.0340000",
+      "explicit": false,
+      "spotifyId": "7z0e7mttYGLtdB1fzkPX82",
+      "appleId": 1000617759669,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7z0e7mttYGLtdB1fzkPX82",
+        "apple": "https://podcasts.apple.com/us/podcast/narcissism-authoritarian-cults-and-social-psychiatry/id1534364303?i=1000617759669\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
+      "id": "b2d2e1a3-677f-462d-b596-7290ed8b33c4",
+      "title": "reason, emotion and morality with Chris Shelton, MSc",
+      "description": "Chris Shelton explains the model of behavior he is developing to understand cultic involvement. As ever, a lively discussion!  Links:  Hassan\u0027s BITE Model  Lifton\u0027s Eight Criteria of Thought Reform  Cialdini\u0027s 7 Principles of Persuasion  our \u0022human predator\u0022 poster, prinatble and shareable  John Oliver on Solitary Confinement  Jane MacGregor\u0027s SEAT model  the Spiritual Death of Howard Greer  Nine Emotional Needs  How to Roll a Rick",
+      "release": "2023-06-10T00:00:00",
+      "duration": "01:45:00.9700000",
+      "explicit": false,
+      "spotifyId": "324ttYu8jXhR5ay7ZYQMSV",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/324ttYu8jXhR5ay7ZYQMSV",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "6e387552-bcf4-4452-8bb8-db068cf06b1d",
+      "title": "two wishes - parental alienation (and more) with Dr Nick Child",
+      "description": "Nick Child spent his working life as a family psychiatrist. He has turned his attention to the prevention of parental alienation with the international Two Wishes Foundation. The aim of Two Wishes is to replace the adversarial approach to parental separation and focus on the needs of the children involved. Nick and Jon start by talking about aspects of coercive control as they relate to parental alienation, but, because this is our channel, the conversation cannot stick to one topic, and they move into education, history, AI, and the meaning of life.  Links:  The Alienation Experience    Two Wishes Foundation   UN figures on modern slavery  Bee elections  Lippman\u0027s Socrates for 6-year-olds  Kahn Academy   The Brightsky App   Alan Scheflin\u0027s Social Influence Model",
+      "release": "2023-06-03T00:00:00",
+      "duration": "01:24:19.9890000",
+      "explicit": false,
+      "spotifyId": "0OOvul4XLUA2Zw98GOSlnF",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0OOvul4XLUA2Zw98GOSlnF",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "8264211e-6e85-4509-8c01-6b6a1f07da7e",
+      "title": "Sexually predatory groups: Cult Trip with Anke Richter",
+      "description": "Anke Richter is one of the few journalists who has seriously researched authoritarian cults. Her own positive experience with a neo-tantra group helped her to understand the devastations caused by three very different cults: Centrepoint and Gloriavale in Aotearoa, New Zealand, and Agama Yoga in Thailand. Centrepoint was a free-love cult whose leaders were eventually imprisoned for sexual abuse and child sexual abuse. Gloriavale is a contemporary pseudo-Christian cult with bizarre sexual mores. Agama Yoga has been called the \u0027rape cult\u0027 and belongs to the neo-tantra movement - which promotes the notion of bliss or even enlightenment through sex. Anke gives readings from her well-researched and shocking book. A must-read that will become a classic.  Links:  Anke\u0027s site: https://www.ankerichter.net/  the Gloriavale Leaver Support Trust: https://www.gloriavaleleavers.org.nz  If you have experienced sexual abuse and need help: US UK   AUS   NZ  If you are feeling suicidal: US   UK   AUS   NZ  Fight Against Conspiracy Theories https://factaotearoa.nz  Portugal sex abuse findings Australian Royal Commission",
+      "release": "2023-05-31T00:00:00",
+      "duration": "01:25:01.6300000",
+      "explicit": false,
+      "spotifyId": "4w3inUYAsZpJDOETxokWr4",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4w3inUYAsZpJDOETxokWr4",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "88117b1a-3848-44c0-beaa-cbd996ba7dd3",
+      "title": "a warrior\u0027s journey in and out of Scientology, part three - with Mark Plummer",
+      "description": "For this part of Mark\u0027s story, he and Jon do a deep dive into Scientology\u0027s financial systems and the intricate rules of how staff are paid - if and when they are paid at all.",
+      "release": "2023-05-20T00:00:00",
+      "duration": "00:57:16.9060000",
+      "explicit": false,
+      "spotifyId": "6UzKGkm0dQVdOMGJL2kDFk",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6UzKGkm0dQVdOMGJL2kDFk",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4db3d5a3-d162-47e5-8e20-1962f0c2fb38",
+      "title": "the cult of the Singularity \u0026 the future of Artificial General Intelligence with Chris Shelton, MSc",
+      "description": "GPT-4 has caused a storm, including a petition signed by Elon Musk and Steve Wozniak for a moratorium on research while we ponder the ethical implications. Chris and Jon react to Jean-Pierre Jeunet\u0027s excellent comic take on AGI, Big Bug, and delve into the deeper issues, including Microsoft\u0027s admission that GPT-4 \u0027hallucinates\u0027.  Links:  AlphaGo beats human Fan Hui at Go; Deep Blue beats Garry Kasparov at chess.  petition to pause AI experiments  New Scientist Article on Chat GPT  Washington post article on Chat GPT   Portugal sex abuse findings   Australian Royal Commission  ",
+      "release": "2023-05-17T00:00:00",
+      "duration": "02:05:57.9510000",
+      "explicit": false,
+      "spotifyId": "4Szz9ZMytPiaU0Nz8op7RG",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Szz9ZMytPiaU0Nz8op7RG",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "c8bde6a4-c36a-4253-9ce2-a543a6579143",
+      "title": "Bad Cadet - a childhood in Scientology\u0027s Sea Organization with Katherine Spallino",
+      "description": "Bad Cadet is an excellent addition to the welter of biographies by former members. Katherine Spallino was born into the Sea Org in Los Angeles and gives a vivid description of her childhood and coming of age. I had intended to skim the book before talking with Katherine, but found the material so compelling that I read from cover to cover. Katherine reads a few passages and tells us about life after Scientology.  Links:  For more about Katherine\u0027s book  Katherine\u0027s Twitter: @BadCadet  Tony Ortega\u0027s Underground Bunker  Ex-Scientology Kids  Never Believe a Hypnotist  the paper the video  Possible Origins of Dianetics and Scientology: the paper the video part one the video part two",
+      "release": "2023-05-07T00:00:00",
+      "duration": "01:07:13.8980000",
+      "explicit": false,
+      "spotifyId": "4FXQZjCkQLmVq47mXelJsY",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4FXQZjCkQLmVq47mXelJsY",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "ec82576a-01c6-4f0b-8932-45f574b7366c",
+      "title": "a warrior\u0027s journey in and out of Scientology - with Mark Plummer, part two",
+      "description": "Mark continues the story of his amazing journey, including the shocking contents of the \u0022cadet org / cadet estates org establishment eval\u0022, one of the most incriminating of all Scientology issues.  This is part two; part one may be found here  links:   Mark\u0027s website  cadet org / cadet estates org establishment eval   Lisa McPherson story  Spike\u0027s note: Qual = qualifications, where one has to go if you haven\u0027t gotten your \u0022training\u0022 right. \u0022Word Clearing\u0022 is where a Scientologist has to look up the meanings of the words involved in a given document and prove that they understand them. The idea is that the ONLY reason anyone would disagree with an order from Scientology management is that they had a \u0022misunderstood word,\u0022 that is, they didn\u0027t understand a word in the order. In Mark\u0027s case, management was essentially telling him that the only reason he didn\u0027t want to not spend time with his family was that he had misunderstood some word in one of the relevant Scientology policies, NOT because they were going against their own policies and ignoring the established \u0022family time.\u0022",
+      "release": "2023-05-07T00:00:00",
+      "duration": "01:03:13.4080000",
+      "explicit": false,
+      "spotifyId": "63ihUBEzhmVZFh0SlPKu9i",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/63ihUBEzhmVZFh0SlPKu9i",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f1f48e65-2b7c-40ed-a250-e1c8286ff5fb",
+      "title": "peak experiences, placebo, and the sunk cost fallacy - with Mike Rinder",
+      "description": "Mike Rinder worked closely with both Ron Hubbard and David Miscavige before escaping Scientology. Mike talks with Jon about Hubbard\u0027s strange daily schedule, his self-auditing, his foul temper and his decline after his first heart attack in 1974. Mike and Jon also discuss peak experiences and the part that expectation or placebo plays in them, along with \u0027reverie\u0027 states and the inertia which locks us in even when the \u0027wins\u0027 evaporate.",
+      "release": "2023-04-29T00:00:00",
+      "duration": "00:55:04.3830000",
+      "explicit": false,
+      "spotifyId": "7nL9lbKvvdWnNFZajRamCj",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7nL9lbKvvdWnNFZajRamCj",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "2e68d2a9-acca-463c-b28b-3c61fe7ac3c4",
+      "title": "a warrior\u2019s journey in and out of Scientology - part one - with Mark Plummer",
+      "description": "Mark \u0022Warrior\u0022 Plummer has had an amazing life, of which his membership in Scientology is only a small fraction - but a fascinating one!  Join us as Jon and Mark talk about Mark\u2019s early days in Scientology, his entrance into the Sea Org, and his eventual exit and first days protesting against Scientology abuses.  Links: Mark\u0027s website  for more on Gregg Hagglund, read Tony Ortega\u0027s article: Spying, intimidation, and ruin: Two lives caught up in Scientology\u2019s notorious \u2018Fair Game\u2019   Confront of Evil Checklist page one page two page three",
+      "release": "2023-04-22T00:00:00",
+      "duration": "01:01:32.2020000",
+      "explicit": false,
+      "spotifyId": "5HOxyZXCOTmnIjNprZa0IE",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5HOxyZXCOTmnIjNprZa0IE",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "409ff0ae-6048-4366-976e-29c827db9cc7",
+      "title": "hope for kids in Georgia with Kelvin Pierce",
+      "description": "In this heartwarming chat, Kelvin Pierce tells us about his work helping hundreds of children in the small country of Georgia. Kelvin wrote The Sins of My Father about his own terrible childhood as the son of America\u0027s leading neo-Nazi - the author of The Turner Diaries. His childhood left him angry and with no self-esteem. He has come to exemplify the thriving survivor. In 1995, he and his wife adopted two babies from Georgia. Ten years later, Kelvin realized that the children were the greatest gift he\u0027d ever received and wanted to give something back. The couple helped to turn around an orphanage in Georgia. Here Kelvin talks about their increasing commitment to children in Georgia through the Divine Child Foundation - not a religious organization, named with the idea that every child is divine.  Links: Divine Child Foundation  The Mendota Mental Health Institute",
+      "release": "2023-04-22T00:00:00",
+      "duration": "00:51:43.8710000",
+      "explicit": false,
+      "spotifyId": "1qmD1BQaTIn6CvdLL6S2a0",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1qmD1BQaTIn6CvdLL6S2a0",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "7dd742ca-8186-47dd-bf21-80a42ebbea96",
+      "title": "overcoming the shame of cult membership - with Hoyt Richards",
+      "description": "Documentarian, actor and former cult member Hoyt Richards talks with Jon about the need to take responsibility for what we did and said when in an authoritarian cult. It is important to understand how we hurt other people and not to excuse our misdeeds and harsh words by saying we were \u0022in a cult\u0022. Once we\u0027ve accepted our imperfect behavior, we can take steps to heal those we hurt and to heal ourselves.  Links:  Dr. Steven Hassan talks with Hoyt  Alan Scheflin\u0027s Social Influence Model  Dr. Steven Hassan interviews Dr. Carl Marci, author of Rewired",
+      "release": "2023-04-22T00:00:00",
+      "duration": "01:17:02.8370000",
+      "explicit": false,
+      "spotifyId": "1YPEBMWGh1MB4YpFT4XOSu",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1YPEBMWGh1MB4YpFT4XOSu",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "99ee74bb-26bc-485d-813b-3c3ec834fedd",
+      "title": "Kacey at the cult vault",
+      "description": "Kacey tells us about her Cult Vault project where she chats with survivors and experts about authoritarian cults and coercive control. Kacey also talks about Jon\u0027s Opening Our Minds and the pair discuss recent events relating to Harry and Meghan and whether the British Royal Family is a cult.  Links: Blink, Think, Choice, Voice Spike\u0027s Blink, Think, Choice, Voice song Institute for propaganda analysis Alan Scheflin\u0027s Social Influence Model",
+      "release": "2023-04-08T00:00:00",
+      "duration": "01:35:54.0260000",
+      "explicit": false,
+      "spotifyId": "0f2U1u1o2rWBTYuRCxL1xE",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0f2U1u1o2rWBTYuRCxL1xE",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "7e691779-e516-4e63-9d12-8ece3c578662",
+      "title": "hypnosis, mind control and coercive control - with Chris Shelton, MSc",
+      "description": "Chris Shelton has a master\u0027s degree in the psychology of coercive control. He was born into Scientology and has made a study of its use of mind control techniques. Jon explains his own extensive research into the real foundations of hypnotic susceptibility. Hypnosis is not something done to us but an aspect of our everyday processing of the world. Understanding this makes us much less vulnerable to advertising, spin doctoring, fake news and recruitment into authoritarian groups and relationships.  Links: Possible Origins of Dianetics and Scientology the paper the videos -  part one part two the Kalama Sutta: \u201CDon\u0027t go by reports, by legends, by traditions, by scripture, by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability \u2026 When you know for yourselves that, \u2018These qualities are skillful; these qualities are blameless; these qualities are praised by the wise; these qualities, when adopted \u0026 carried out, lead to welfare \u0026 to happiness\u2019 \u2014 then you should enter \u0026 remain in them.\u201D[i]\u00A0 [i]\u00A0translated from the Pali by Thanissaro Bhikkhu (1994), courtesy of the Pali Text Society. Retrieved on 04-07-23 from Captive MindsShrinking World of L. Ron Hubbard  Jon\u2019s Greta poem",
+      "release": "2023-04-01T00:00:00",
+      "duration": "02:30:50.0480000",
+      "explicit": false,
+      "spotifyId": "5VGQfEkiA5Wia0HvE4cXIj",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5VGQfEkiA5Wia0HvE4cXIj",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "5147939f-84f5-43eb-873f-028fd616b135",
+      "title": "Avatar: Scientology, reworked - with Ariela Sarai",
+      "description": "Harry Palmer transformed his Scientology Franchise into Avatar in the 1980s. Despite staff allegations of misconduct, he was able to create a worldwide movement with more members than the International Association of Scientologists. Ariela Sarai graduated from Columbia University in philosophy and religion and then spent six months working with Mother Theresa\u0027s outreach program before studying Tibetan Buddhism in the Dalai Lama\u0027s community. Returning to the US, she received a Master\u0027s in Social Work and was a practicing psychotherapist when therapist friends recruited her into Avatar; she was at the top of the organization by the time she left - after 21 years. Jon discusses the training methods - which borrow extensively from Scientology - the abuse within the group, and her departure and recovery from it. One of the most interesting chats on the channel!  Notes from Ariela:  -The Avatar courses were held in conference rooms in hotels with 200-4000 people from 50 countries attending. When we didn\u0027t have a student, we paid an internship fee of $650 plus hotel and airfare to teach the course. I was in the top inner circle, having daily contact with Harry Palmer\u0027s wife Avra Honey-Smith. I ran international teams, helping them recruit students and making sure they all had good results using the tools. I was on a course for 14-17 days per month.  -I am now a therapist with a full private practice, and I also work as a leadership coach at a Venture Capital firm. I am dedicated to helping people understand the tactics of manipulation and how to protect themselves and heal from this type of abuse. Although I don\u0027t actively seek to get people out of Avatar, I have helped many Avatars who reached out to me and needed help leaving and recovering.  -I am writing a memoir with my partner Mark to share our inner journey of this experience. I am also starting a Newsletter here.  To sign up please go to www.ArielaSarai.com   Additional Links:   Ariela\u0027s talk with Chris Shelton  Rachel Bernstein interviews Ariela\u2019s son  Ariela on Rachel Bernstein\u0027s podcast:  part one part two   Avatar\u0027s \u0022forgiveness option\u0022  Taylor Swift documentary, Americana Girl",
+      "release": "2023-03-25T00:00:00",
+      "duration": "01:56:15.1460000",
+      "explicit": false,
+      "spotifyId": "1PjP2mcC8yYnCzoJGlP010",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1PjP2mcC8yYnCzoJGlP010",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "1acd40e3-deaa-4d1a-81ef-d2074f52f193",
+      "title": "How Scientology violates sexual privacy - with Karen De La Carriere",
+      "description": "Karen and Jon talk about the humiliation of Scientology staff through sexual control, from the publication of their intimate details to enforced abortion.   Links: Ramana\u0027s story in the Daily Mail Ramana\u0027s story\u2060\u00A0in the Village Voice  Links to Scientology deaths: Fandom Wiki\u0027s list Spike\u0027s own list Why are they dead? They should not have died Listverse: Ten Strange deaths connected to Scientology And the death they were particularly discussing:   BBC Documentary about Andrew Tate  ",
+      "release": "2023-03-19T00:00:00",
+      "duration": "01:04:20.1600000",
+      "explicit": false,
+      "spotifyId": "6uCPauGqNI2H9EOQLb7LTW",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6uCPauGqNI2H9EOQLb7LTW",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "ec8ec862-4657-4ddc-bfd3-aac43501179b",
+      "title": "Decompressing from Scientology - with Mike Rinder",
+      "description": "Mike Rinder, former head of harassment for Scientology, author of A Billion Years and co-creator of Aftermath shares insights about recovery from Scientology and prompts Jon to talk about how to maintain a relationship with a Scientologist. Also some conversation about the decline of Scientology and its causes - including Rich Behar\u0027s Time article and South Park\u0027s Come Out of the Closet.  Links: \u00A0 possible origins of Dianetics and Scientology -\u00A0 the paper video part one video part two Fair Game episode with Jon \u00A0\u00A0\u00A0 downloadable infographics: Questions to Unlock a Captive Mind \u00A0\u00A0 What to Say When a Loved One is in a Coercive Situation \u00A0\u00A0 People Don\u0027t Join Cults",
+      "release": "2023-03-11T00:00:00",
+      "duration": "01:12:12.4800000",
+      "explicit": false,
+      "spotifyId": "5RXHk8pQpckMUfPqVl9faF",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5RXHk8pQpckMUfPqVl9faF",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "b9194550-049c-4a7b-b83d-760f94a5f90d",
+      "title": "Clearwater City Councilman Mark Bunker on Scientology",
+      "description": "Mark Bunker is one of those rare \u0027never-ins\u0027 who stood up to Scientology. He tells the story of his introduction to the subject and how his concerns grew until he moved to Clearwater to work with the Lisa McPherson Trust. In this talk, he shares the work he\u0027s done as one of Clearwater\u0027s five councilors and David Miscavige\u0027s hamfisted attempts to control the city. Mark is an inspiration to us all. \u00A0  Links: Mark Bunker\u0027s YouTube channel Scientology\u0027s old orientation video \u00A0\u00A0 Mark Bunker\u0027s video of the Urban Land Institute meeting \u00A0\u00A0 Jon\u0027s paper, \u0022Scientology: Religion or Intelligence Agency?\u0022 \u00A0\u00A0\u00A0 Clearwater Aquarium\u0027s website",
+      "release": "2023-03-04T00:00:00",
+      "duration": "01:03:30.5170000",
+      "explicit": false,
+      "spotifyId": "40fcUn311O0MITBwKtm261",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/40fcUn311O0MITBwKtm261",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "cabc613b-5445-447f-ab3e-456f25dc9114",
+      "title": "the \u0022ripple effect\u0022 - with Hoyt Richards",
+      "description": "Documentarian, actor, and interventionist Hoyt Richards talks with Jon about the effects that cult involvement has on those close to a member. This subject is rarely discussed because the emphasis is on the damage done to the member. Hoyt talks about his brother\u0027s attempt at an intervention which severed their communication for years. Tips and strategies for helping members and a broad discussion that will be useful to most former members and the families and friends of members.",
+      "release": "2023-02-25T00:00:00",
+      "duration": "01:44:45.5250000",
+      "explicit": false,
+      "spotifyId": "0WgMzPCJczJYvOz6HMDF1I",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0WgMzPCJczJYvOz6HMDF1I",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "e1968287-8bd1-4753-91fe-216c7b494a77",
+      "title": "Scientology\u0027s Truth Rundown and Chinese Thought Reform - with Chris Shelton, MSc",
+      "description": "Jon has been diving deep into the Chinese Thought Reform program, started by Mao and continuing to this day in Xinjiang. Jon explores parallels with the Thought Reform program and Chris\u0027s experience of Scientology\u0027s mind-bending Truth Rundown. Through \u0022re-education\u0022 China and North Korea have created two of the most obedient societies of all time. To what extent does Scientology employ the same approach to clone members into a belief so fervent that even the best evidence will not shake it? \u00A0 Links: \u00A0 Chris Shelton\u0027s Truth Rundown video \u00A0\u00A0 Bruce Hines\u0027 Truth Rundown video \u00A0\u00A0 Shrinking world of L. Ron Hubbard",
+      "release": "2023-02-18T00:00:00",
+      "duration": "02:05:48.5220000",
+      "explicit": false,
+      "spotifyId": "4TeyJhnf9EVZHT4aDFYvZi",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4TeyJhnf9EVZHT4aDFYvZi",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "b888fa55-8264-4284-94d3-7d8bb5e47161",
+      "title": "redemption for Scientology\u0027s enforcers - with Mike Rinder",
+      "description": "Mike Rinder ran Scientology\u0027s intelligence agency for years. He worked directly for Ron Hubbard and for David Miscavige. Mike talks about his dedication to Scientology and the complex network of circumstances that made him a true believer willing to harass and try to destroy critics of Scientology. Mike shows how a decent, compassionate, intelligent person can become the tool of an unscrupulous authoritarian cult leader.  to read Jon\u0027s paper, never believe a hypnotist or watch the video  for more about scrofula - Mycobacterial cervical lymphadenitis  no ants were harmed in the making of this video.",
+      "release": "2023-02-11T00:00:00",
+      "duration": "01:14:49.5360000",
+      "explicit": false,
+      "spotifyId": "6k5D4p3hTXuIOxQ5lU0aQg",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6k5D4p3hTXuIOxQ5lU0aQg",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "47023f10-073d-42c6-8e9c-c3888b26b5b6",
+      "title": "Scientology, celebrities, \u0026 children: why people stay, \u0026 why they leave - with Karen De La Carriere",
+      "description": "As one of the eight most highly trained Scientologists on the planet, Karen was involved in applying Scientology to Lisa-Marie Presley from the age of eleven. Karen and Jon explain how even highly intelligent and successful people are lured into Scientology through the euphoric experiences it provides. \u00A0 Links: \u00A0 Ex-Scientology Kids \u00A0\u00A0 Australian Royal Commission",
+      "release": "2023-02-04T00:00:00",
+      "duration": "01:15:59.5300000",
+      "explicit": false,
+      "spotifyId": "0W1mGvI7dkytjGAR0aLbkY",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0W1mGvI7dkytjGAR0aLbkY",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "9f88a471-d4ee-444c-99b4-dea9a5ec3386",
+      "title": "authoritarianism, expertise and why we have hope - with Steven Hassan, PhD",
+      "description": "Jon talks with his longtime friend and colleague Steven Hassan, PhD. Steven is famous for his groundbreaking book, Combating Cult Mind Control, and his penetrative analysis, The Cult of Trump. In a wide-ranging discussion, Steven and Jon talk about authoritarianism, QAnon, psy-ops and the war against experts and explain why they both have hope for humanity, as long as we take responsibility and overcome the bully culture that is authoritarianism. \u00A0 Links:\u00A0 Steven\u0027s website\u00A0 Steven\u0027s YouTube channel\u00A0 Steven\u0027s TEDx \u0022Dismantling QAnon\u0022 \u00A0\u00A0 Yuval talks with Steven \u00A0\u00A0 Possible Origins of Dianetics and Scientology\u00A0 the paper the videos:\u00A0 part one part two\u00A0 Bolsinaro supporters attack their congress",
+      "release": "2023-01-30T00:00:00",
+      "duration": "00:52:18.5170000",
+      "explicit": false,
+      "spotifyId": "0lTkUdKpegSOGozSLP8O8A",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0lTkUdKpegSOGozSLP8O8A",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "ecdaff2d-dbb0-4562-8671-35bde359ca90",
+      "title": "Scientology: the religion of hate",
+      "description": "Jon reads a keynote paper given to the Europe-wide cult monitoring group FECRIS in Copenhagen. Jon challenges the peculiar IRS decision to allow tax-exempt status to Scientology and explains why this should be reversed. \u00A0 To see the original paper, complete with footnotes and sources [scroll to page 68]",
+      "release": "2023-01-25T00:00:00",
+      "duration": "00:32:00",
+      "explicit": false,
+      "spotifyId": "7z0DFoheUIzKakSzaWndVg",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7z0DFoheUIzKakSzaWndVg",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "b33a7095-51b0-4e31-a1fa-01b81b38cb57",
+      "title": "Scientology: magick, rebranded",
+      "description": "How Ron Hubbard rebranded childish ideas of magical belief into his \u0027science of mind\u0027/\u0027religion\u0027 Scientology. A deep dive into the relationship between \u0027intention\u0027 in Scientology and the \u0027will\u0027 of the Crowleyite magickal system. With diversions into loaded language and Ron Hubbard\u0027s perverted sexual behavior. Is Scientology a \u0022gnostic\u0022 faith or simply a system of smoke and mirrors? \u00A0\u00A0As Jon says, \u0022Scientology is an idea of giving you magical powers and it should be looked at in the same way that we look at other fairy stories.\u0027 \u00A0 Links:\u00A0 the Don Rogers Letters The complete \u0022stop it!\u0022 sketch (highly recommended) The Shrinking World of L. Ron Hubbard",
+      "release": "2023-01-25T00:00:00",
+      "duration": "01:56:13.9090000",
+      "explicit": false,
+      "spotifyId": "7nvzbwoNY88Cog1G6Pol8l",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7nvzbwoNY88Cog1G6Pol8l",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "e51f0b6f-fa8f-48f1-b1a6-b1bfa27d779f",
+      "title": "tales from the Underground Bunker - the secret at the heart of Scientology",
+      "description": "in 1952, Hubbard explained how he was going to construct Scientology. As he said, Scientology is a game, but you may have wondered what the rules of the game are. Here Hubbard explains that he is the \u0022game-maker\u0022 and that, at best, we are no more than players (more usually simply pieces). The first of a series of pieces that first appeared in Tony Ortega\u0027s Underground Bunker during its first decade. \u00A0 links: \u00A0 the original article\u00A0 possible origins of Dianetics and Scientology:\u00A0 paper online video part one video part two\u00A0 never believe a hypnotist:\u00A0 paper online video",
+      "release": "2023-01-07T00:00:00",
+      "duration": "00:23:06.9220000",
+      "explicit": false,
+      "spotifyId": "1LnExZmK2l3oYz9w7udijT",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1LnExZmK2l3oYz9w7udijT",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "7ed3f17b-78de-4348-854b-0125a3fd1b5b",
+      "title": "recovery, humility, and trust - with Hoyt Richards",
+      "description": "Actor, documentarian, and Princeton graduate Hoyt Richards talks about his recovery from a small, isolated cult group. Hoyt found the aftermath of the cult even more challenging than his 20-year membership. He left the group because he believed he simply wasn\u0027t good enough. As with most members of authoritarian groups, he was constantly set up to fail and felt demeaned. Hoyt tells us how important it is to tell the story, even though we\u0027ll feel humbled in the telling. Links: Intersection\u00A0 Australian Royal Commission",
+      "release": "2023-01-02T00:00:00",
+      "duration": "01:14:05.9090000",
+      "explicit": false,
+      "spotifyId": "3ShWolSnk9Zj0OObcWIzzi",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ShWolSnk9Zj0OObcWIzzi",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "d6a6e760-b1dc-44cb-823e-75c2886132cd",
+      "title": "Jon and Spike take on Santa - and risk a stocking full of coal!",
+      "description": "Armed with fuzzy reindeer antlers, penguin earrings, and a healthy sense of humor, Spike joins Jon to examine the concept of Santa Claus, the way we treat faith in general, and the ubiquitous trope in holiday movies of unquestioning faith \u0022winning out\u0022 over worldly skepticism. Grab your eggnog and a slice of mince pie; this is going to be a bumpy sleigh ride. \u00A0 Links: \u00A0 List of St. Nick patronage \u00A0 Mullah Nasrudin\u0027s tales on YouTube \u00A0 Atlantis video \u00A0 \u00A0Trekkies Trekkies II",
+      "release": "2022-12-24T00:00:00",
+      "duration": "01:20:48.9810000",
+      "explicit": false,
+      "spotifyId": "4v5WHC0jvTsFATuq2cHMsO",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4v5WHC0jvTsFATuq2cHMsO",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "d15f1a6e-85b6-4283-befe-9ff042b0e3bd",
+      "title": "cult \u0022lite\u0022 - Eckhart Tolle and others with Joe Szimhart",
+      "description": "leading cult specialist Joe Szimhart joins Jon for a discussion about the popular gurus who hold millions in their sway with their simplistic mysticism. Eckhart Tolle, Baba Ram Das, Jach Purcell and other channeling cults including Ramtha are all mentioned. The idea of the \u0027just world\u0027 or karma-vipaka is also discussed. \u00A0 link to Joe\u2019s channel Eckhart Tolle part 1 Eckhart Tolle part 2\u00A0 The Big Questions episode with Jon",
+      "release": "2022-12-20T00:00:00",
+      "duration": "01:06:30.9330000",
+      "explicit": false,
+      "spotifyId": "1NltAPXnIgCr1SAJVzcRi4",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1NltAPXnIgCr1SAJVzcRi4",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "de2464a0-e84a-4120-ad5b-6745dd5316bf",
+      "title": "growing up in Scientology and beyond - with Aaron Smith-Levin",
+      "description": "Through his YouTube channel Growing Up in Scientology, Aaron Smith-Levin has become one of the best-known critics of the cult. His mother joined when he was four and he left school at 12 to study. He was a Sea Org member for a decade before he withdrew and began to speak out. A fascinating interview. Jon demolishes fundamental Hubbard teachings about the eight dynamics and the ARC triangle. \u00A0 Aaron\u0027s channel \u00A0\u00A0 Liability formula \u2013 when a Scientologist is in any sort of \u201Cethical\u201D trouble (\u201Ccrimes\u201D can range from adultery to self-pleasure to getting the \u201Cwrong\u201D reading on an e-meter), they have to do the \u201CLiability Formula,\u201D one step of which is to \u201Cdeliver an effective blow to the enemies of Scientology\u201D, meaning they are encouraged to harass any critics in any way they can, regardless of local laws or simple decency. \u00A0 Tec/Sec ASHO: Technical Secretary - this is the person in charge of all counseling at the Org.\u00A0 ASHO, or American Saint Hill Organization, is the \u0022Saint Hill-sized\u0022 Org in Los Angeles. \u00A0 RPF = Rehabilitation Project Force:: Members of the Sea Org, Scientology\u2019s fervent core group, have signed a billion-year loyalty contract, are paid next to nothing, live in crowded berthing, work a six \u00BD -day week and are fed on a poor diet. How can it be made worse to punish them? By being assigned to the Rehabilitation Project Force, where they are stripped of their rank, forced to sleep in \u201Cpigs\u2019 berthing\u201D, assigned to the meanest of manual labor, fed on the table scraps of the \u201Cregular\u201D Sea Org, made to wear black, not allowed to speak unless spoken to, and made to run rather than walk everywhere. In addition, they are subjected to hours of auditing to find out the \u201Ccrimes\u201D that they must have committed to have been such a \u201Cdegraded being.\u201D \u00A0 TR8 - Training Routine eight involves understanding how to place \u0022Intention\u0022 in any object, or, in the case of the routine, an ashtray. To see Jon, Chris Shelton, Christian Szurko, and Steven Hassan break down these TRs, see here. Purification Rundown, aka \u0022Purif\u0022 - the sauna and megavitamin-ingestion treatment used by Scientologists to \u0022cleanse\u0022 themselves of toxins. Based on outdated pseudoscience and not at all healthy.\u00A0",
+      "release": "2022-12-15T00:00:00",
+      "duration": "00:52:45.0340000",
+      "explicit": false,
+      "spotifyId": "1pUq1HXx9Owpxo8n2lz9Lx",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1pUq1HXx9Owpxo8n2lz9Lx",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "90c31e3b-36d5-47b0-bdf4-dc842eae6560",
+      "title": "Scientology litigation: from Danny Masterson to the IRS",
+      "description": "Scientology\u0027s former intelligence chief Mike Rinder gives his views on the deadlocked jury and the upcoming civil trial. Mike - who was part of the team that worked on the exemption - offers his opinion on the IRS\u0027s crazy decision to grant tax-exemption to the cult. Mike was part of the team that worked on exemption. Warning: this show contains humor.\u00A0 Links: \u00A0Mike Rinder on Court TV (cued up to his appearance) \u00A0\u00A0 Notes (by Spike): \u00A0Celebrity Centre: given the British spelling to make it more \u0022fancy\u0022, Scientology\u0027s Celebrity Centres service the rich and famous parishioners of the cult, giving them their own dedicated entrances, auditing suites, and courserooms, and assuring that they are a) treated like royalty and b) will never, ever see any of the abuses going on behind the scenes. \u00A0 Body Thetans: discorporated entities and/or spirits who have attached themselves to humans, often in groups known as \u0022clusters.\u0022 According to Scientology beliefs, these spirits cause much of our distress and confusion. \u00A0 Wog: from the racist epithet \u0022golliwog\u0022 (sometimes styled \u0022Worthy Oriental Gentleman\u0022, in the UK it is a tasteless slur for people of color, on a level with the n-word. In Scientology, it is a nasty term for anyone who is not a Scientologist, meant to convey distaste and scorn for the unenlightened savages we non-believing outsiders are. \u00A0\u00A0 Freewinds: Scientology\u0027s private cruise ship and the only place the highest OT levels are able to be done. While aboard ship, \u0022public\u0022 members are easy prey for \u0022regges\u0022 (Scientology salespeople) hard-selling them the next course. Staff - with their passports confiscated and locked up - are able to be kept safely far away from any pesky non-believing relatives or friends who might be looking for them, let alone any court official or police officers looking for evidence and/or a statement.",
+      "release": "2022-12-09T00:00:00",
+      "duration": "01:08:44.9910000",
+      "explicit": false,
+      "spotifyId": "3FQ5NIKsb2X1TajzdOTTpd",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3FQ5NIKsb2X1TajzdOTTpd",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4137e845-e84d-42eb-8827-0472afa473cc",
+      "title": "Scientology and ritual magick: the whole story",
+      "description": "A review of Ron Hubbard\u0027s involvement with ritual magic from the age of 16 and into the Scientology years. Jon spent years unraveling Ron Hubbard\u0027s practice of sex magick from his first infatuation with Aleister Crowley\u0027s Book of the Law as a teenager to the attempt to incarnate the Whore of Babylon, the destroyer of mankind in 1946 and the incorporation of Crowley\u0027s ideas into Scientology. Jon advances the bold but carefully reasoned argument that Scientology is an enormous magical ritual intended to raise Hubbard to godhood. \u00A0 Links: \u00A0 Ron Hubbard: Black Magic, Dianetics and the Creation of Scientology Hubbard and the Occult:\u00A0 the paper the video Possible Origins for Dianetics and Scientology:\u00A0 the paper the video\u00A0 Part one part two Jon\u0027s books:\u00A0 Let\u0027s Sell These People a Piece of Blue Sky \u00A0 Scientology Cult of Greed \u00A0 Spike\u0027s note: I was in a Crowleyan Ritual Magick order, where I was the group\u0027s Tarot geek. That\u0027s why I know Tarot.",
+      "release": "2022-12-01T00:00:00",
+      "duration": "01:56:50.0050000",
+      "explicit": false,
+      "spotifyId": "2jScGcIk3DZadAOhLPOO57",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2jScGcIk3DZadAOhLPOO57",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a9250bef-c39c-4cd7-8bf3-691e52ec3afc",
+      "title": "disinformation - with Mark Laxer",
+      "description": "Author Mark Laxer talks with Jon about the rise of disinformation in our society and some ways to help people - and especially the next generation - spot fake news, propaganda, and sales pitches. \u00A0 links:\u00A0 Bellingcat institute for propaganda analysis Take Me For a Ride free download",
+      "release": "2022-12-01T00:00:00",
+      "duration": "01:33:59.9780000",
+      "explicit": false,
+      "spotifyId": "3Pv45dZqh5BFRnhefu8cKd",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Pv45dZqh5BFRnhefu8cKd",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a3eb07ab-3a4f-4a49-a5d5-a6d858e28b4d",
+      "title": "L. Ron Hubbard\u0027s temporal lobe epilepsy - with Yuval Laor, PhD",
+      "description": "Yuval Laor, PhD, makes the case that Ron Hubbard suffered from temporal lobe epilepsy. Jon and Yuval examine the traits given by Bear and Fedio for TLE and show that Hubbard exhibited all of them. As Yuval says, this allows those harmed by Scientology to feel pity rather than rage for Hubbard. \u00A0 Links:\u00A0 the complete 2015 Toronto conference can be rented here Yuval and Chris\u0027 talk about Hubbard\u0027s temporal lobe epilepsy \u00A0\u00A0 the Aberree online \u00A0\u00A0 Gerry Armstrong\u0027s website\u00A0 Nova documentary - cued up to section on TLE\u00A0",
+      "release": "2022-11-23T00:00:00",
+      "duration": "02:18:49.0020000",
+      "explicit": false,
+      "spotifyId": "1QhXhyHSYBScsToXlvsqfs",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QhXhyHSYBScsToXlvsqfs",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a7273af2-6527-46b5-b5c7-ce305a6c39c8",
+      "title": "Scientology trial ~ The 5 crucial points of Danny Masterson\u2019s court case",
+      "description": "A review of the current court case in Los Angeles Criminal Courts where Danny Masterson is being tried for sexual assault. \u00A0\u00A0These are the TOP 5 points covered in this video: \u00A0\u00A0 1. Three women came forward to report the same incident to the Los Angeles Police Department: actor Danny Masterson had allegedly offered them a drink which made them semi-incapacitated, and then coerced them into physical relations.\u00A0 2. When one of these women reported the incident to a Scientology ethics officer she was told \u201CThere is no such thing as r*pe\u201D when you are in an intimate relationship. Another Ethics Officer told one of the women that she needed to supply physical intimacy to Danny on demand in EXCHANGE for living rent-free and having her meals paid for.\u00A0 3. Lisa Marie Presley, who was friendly with one of the women, was asked by Scientology staff to persuade her to NOT go to LAPD to report the assault. Lisa has subsequently apologized to the woman for doing this.\u00A0 4. Scientology (or any other cult) is ALWAYS the 3rd party, ever present in any intimate relationship and in Scn, anything voiced in counselling is carefully kept for blackmail, publication and control in the future.\u00A0 5. Jane Doe 4 was the fourth witness to Masterson\u2019s \u201Csignature\u201D of drugging before sexual assault. She had no \u201Cfish to fry\u201D \u2013 she wants no money from this case, only justice. \u00A0\u00A0\u00A0 Jon and Karen discuss details directly from court records. Journalist Tony Ortega has been faithfully transcribing the daily court prosecution and defense arguments at https://tonyortega.org for those who want to learn more. \u00A0\u00A0Note that Danny Masterson was in the Scientology for 40 years - this is an organization that takes \u201Cpride\u201D in their HIGH ETHICS and HIGH technology.",
+      "release": "2022-11-14T00:00:00",
+      "duration": "01:00:10.0260000",
+      "explicit": false,
+      "spotifyId": "1pFWawkkF6RpvMtfxyT3Wf",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1pFWawkkF6RpvMtfxyT3Wf",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "69acc1fe-9600-4cc5-9f03-98c0fc4855e6",
+      "title": "Recovery and responsibility with Christian Szurko",
+      "description": "Christian Szurko has helped thousands of former members of extremist authoritarian sects in their recovery. He and Jon agree that taking responsibility for the harm you have done is a necessary part of that recovery. This responsibility is balanced against the coercive control the member was subjected to, but this mitigates rather than excuses our harmful actions. Christian and Jon also discuss the polarization of society into warring factions and the need for a more individual approach to belief. \u00A0 article: 8 steps out of Scientology, by Arnie Lerma http://lermanet.org/cos/8steps.html",
+      "release": "2022-11-14T00:00:00",
+      "duration": "01:15:00.9060000",
+      "explicit": false,
+      "spotifyId": "3Y1Mn5ArAwR4qCeiT9Xt4G",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Y1Mn5ArAwR4qCeiT9Xt4G",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "356ba1ea-53f8-4eaf-a45a-8fdd7628dd9c",
+      "title": "A Billion Years - with Mike Rinder",
+      "description": "Mike Rinder was at the very pinnacle of Scientology management. under both Ron Hubbard and David Miscavige for more than three decades. He reveals the inner, and malevolent, workings of the group during that time. Mike reads from his remarkable new book and shares his insights with Jon about the dreadful conditions at the heart of Scientology. \u00A0\u00A0 As a Watch Messenger, Mike was often alone with Ron Hubbard. He went on to work under David Miscavige for two decades as part of the culture of fear and violence generated by him. At the heart of the book is the power of belief and the distortions of reality it can create through fearmongering and hatred. As Voltaire said, \u0022Those who believe absurdities will commit atrocities\u0022. \u00A0There have been many excellent accounts by former members, but this book is at the top of the list. \u00A0 Links:\u00A0 A Billion Years Audiobook: https://www.amazon.com/Billion-Years-Escape-Highest-Scientology/dp/B0B72F2VV8/ \u00A0\u00A0 Bear Fedio Inventory (scroll down for charts): https://neuro.psychiatryonline.org/doi/full/10.1176/appi.neuropsych.11020039\u00A0 Mike\u0027s interview with Watchman fellowship president James Walker: https://www.podomatic.com/podcasts/jwalker55293/episodes/2022-11-06T23_00_00-08_00",
+      "release": "2022-11-07T00:00:00",
+      "duration": "01:27:41.9300000",
+      "explicit": false,
+      "spotifyId": "1tfoV1Sa3TE6MRsBFp2IDO",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1tfoV1Sa3TE6MRsBFp2IDO",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4feb4cf4-4586-4e33-95b5-38651be1b3c1",
+      "title": "Scientology\u0027s secret weekly reports: the DSA checklist",
+      "description": "Investigator Jeffrey Augustine talks through the Director of Special Affairs checklist with Jon. Every Scientology organization has an official who monitors potential public relations catastrophes through infiltration, staff criminality, or legal threats. Jeffrey reads through a copy of the weekly report showing just how paranoid Scientology is.  Links:\u00A0 Scientology Money Project: https://scientologymoneyproject.com\u00A0 Scientology ties to org crime: https://scientologymoneyproject.com/2019/11/07/ties-to-russian-organized-crime-alleged-in-blockbuster-new-lawsuit-against-scientologist-owned-gpb-capital/\u00A0 Reed Slatkin: https://scientologymoneyproject.com/2017/02/13/what-happens-when-scientology-helps-you-reach-your-full-potential/ \u00A0\u00A0 Danny Masterson trial: https://tonyortega.org/?s=masterson\u0026submit.x=0\u0026submit.y=0\u0026submit=Search \u00A0 the DSA checklist: https://drive.google.com/file/d/123vqqt4sUeBfVeCLscgpy5NALsL3Zb7n/view?usp=sharing \u00A0\u00A0 Scientology domain list: https://scientologymoneyproject.com/2014/12/11/370-scientology-domains/ \u00A0\u00A0 Jon on the Big Questions:\u00A0 part 1 : https://youtu.be/6MJP3hWevEE \u00A0 part 2: https://youtu.be/hwl60WJkOWU \u00A0\u00A0 The Chase Wave saga on the Underground Bunker: https://tonyortega.org/?s=chase\u002Bwave\u0026submit.x=0\u0026submit.y=0\u0026submit=Search \u00A0\u00A0 The Hubbard policy on finance and paying bills (with thanks to Mark Plummer): https://drive.google.com/file/d/1LKZJsh8HmDswG8Npej3Dx3EG75hJW4cG/view?usp=sharing \u00A0\u00A0 The Apollo sunk by a train: \u00A0https://scientologymoneyproject.com/2018/09/29/what-a-train-wreck-the-ignominious-fate-of-scientologys-original-flagship-the-apollo/\u00A0 extra random bonus link to Spike\u0027s parakeets: https://youtu.be/79A1sCrTy-M",
+      "release": "2022-11-07T00:00:00",
+      "duration": "01:49:29.8980000",
+      "explicit": false,
+      "spotifyId": "59Y9P1he8SYPzQXhGLI9Si",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/59Y9P1he8SYPzQXhGLI9Si",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "6f0d3e2a-fa08-4d9b-a2ad-64d2698449e0",
+      "title": "Scientology: L.A.\u2019s political chaos, and the origins of upper-level exorcisms",
+      "description": "There is much said about the Scientology Cult and L Ron Hubbard, but condensing it down to basics, it is a church that wants tens of thousands of dollars, even hundreds of thousands of dollars, to train you to use Scientology techniques to expel the attached spirits that are stuck to you or your body. This is their Holy Grail and Secret of Secrets.  ---------- Links: \u00A0 Vanity Fair - What Katie Does Not Know: https://www.vanityfair.com/hollywood/... \u00A0\u00A0 the Secret life of L Ron Hubbard: https://youtu.be/FwX7Fjqt7c4",
+      "release": "2022-11-07T00:00:00",
+      "duration": "01:03:45.9750000",
+      "explicit": false,
+      "spotifyId": "5VypsADo0JvyEwSl17vZc2",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5VypsADo0JvyEwSl17vZc2",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "2fe94b27-56ad-4090-8f40-48db47a22993",
+      "title": "leaving the Mormons and trauma recovery with Jolyn Armstrong",
+      "description": "Jolyn Armstrong grew up as a Mormon in Utah but never really believed. She became a trauma recovery coach after experiencing trauma and has just published Trauma Recovery: A 90-Day Guidebook to Building a Great Life After Trauma. \u00A0 links: \u00A0\u00A0 Jolyn\u0027s book: https://www.amazon.com/Trauma-Recovery-90-Day-Guidebook-Building-ebook/dp/B0B9Q46QYC/\u00A0 Steven Hassan\u0027s BITE model: https://freedomofmind.com/cult-mind-control/bite-model/",
+      "release": "2022-10-24T00:00:00",
+      "duration": "00:59:28.8310000",
+      "explicit": false,
+      "spotifyId": "6yl0KdDoO42el8jknFmTmb",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6yl0KdDoO42el8jknFmTmb",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4a917224-663c-41db-a1ad-013044fb2d1f",
+      "title": "the need for certainty - with Mark Laxer",
+      "description": "Why do so many people crave certainty despite evidence that their certainty is emotional rather than rational? What can we learn from this need and how can we come to terms with uncertainty? Celebrated author Mark Laxer speaks with Jon about these weighty questions.\u00A0 \u00A0Mark Laxer\u0027s books: https://www.ramatraumatrump.com\u00A0 read about \u0022suspendergate\u0022: http://brendanixononamish.blogspot.com/2015/12/suspendergate-amish-rules-on-suspender.html",
+      "release": "2022-10-08T00:00:00",
+      "duration": "01:07:44.7680000",
+      "explicit": false,
+      "spotifyId": "2y8eEqGBHJEkcALEBOB8BZ",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2y8eEqGBHJEkcALEBOB8BZ",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f6367bba-efa0-43a7-90f4-173b5c73bd42",
+      "title": "escaping Scientology\u2019s prison of the mind - with Karen De La Carriere",
+      "description": "many former members remain trapped in Ron Hubbard\u0027s psychological prison. Karen talks with Jon about escaping the dismal mental slavery of Scientology\u0027s implants and the tools that former members have to stop authoritarian groups like Scientology from ruining the future. \u00A0 full George Bailey clip: https://youtu.be/_2YnX83ghME",
+      "release": "2022-10-08T00:00:00",
+      "duration": "01:02:15.3170000",
+      "explicit": false,
+      "spotifyId": "7K7I4GMQfvoVEkT6Ac9swu",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7K7I4GMQfvoVEkT6Ac9swu",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f60bcf60-cb04-48dc-9308-d24d773e4078",
+      "title": "the wrong way to solve discrimination - with Yuval Laor, PhD",
+      "description": "An interviewer told Jon that he\u0027d been told repeatedly that he couldn\u0027t work as a documentary presenter because he is a white male. This sparked a conversation with Yuval Laor, PhD, about the neo-liberal dogma followed so blindly by all parts of the political spectrum when image overtakes reason.",
+      "release": "2022-10-08T00:00:00",
+      "duration": "01:48:24.2770000",
+      "explicit": false,
+      "spotifyId": "7I5C7sL45F2YwPvB4KSSaw",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7I5C7sL45F2YwPvB4KSSaw",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "9573e974-bd81-482e-a737-c0f0f943799b",
+      "title": "understanding extremist authoritarian sects - with Christian Szurko",
+      "description": "Jon talks with one of the most successful recovery experts Christian Szurko about his model of involvement with authoritarian groups. Christian refines decades of work with thousands of recovering members to give a clear and exceptionally useful model that will help many to better understand their own and other people\u0027s involvement with extremist authoritarian sects. \u00A0 learn more about the tritone! https://www.fender.com/articles/tech-talk/the-devils-chord-the-eerie-history-of-diabolus-in-musica",
+      "release": "2022-09-18T00:00:00",
+      "duration": "01:46:10.2820000",
+      "explicit": false,
+      "spotifyId": "4hPkyUzfihyAZsalDqrTjV",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4hPkyUzfihyAZsalDqrTjV",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "48f5d73d-8660-47ed-84bd-2d36a2a90ae0",
+      "title": "NRMs, influence and the Moonies - with Professor Eileen Barker",
+      "description": "Professor Emerita Eileen Barker talks with Jon about her long career as a sociologist studying various religious groups with a special focus on the Unification Church. Jon talks with Professor Barker about coercive control, brainwashing and kidnap deprogramming and her continued study of the Moonie sects.",
+      "release": "2022-09-14T00:00:00",
+      "duration": "00:51:13.3230000",
+      "explicit": false,
+      "spotifyId": "16YeTlQNae41U1fqC8BeUR",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/16YeTlQNae41U1fqC8BeUR",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "e681cd32-d452-443d-abed-9722a7e81d32",
+      "title": "untangling the myth of narcissism with Chris Shelton, MSc",
+      "description": "Craig Malkin of the Harvard Medical School has defined narcissism as \u0027feeling special.\u0027 We question this definition and even the use of the word \u0027narcissism\u0027 to describe people who demand adulation because they don\u0027t feel love. A wide-ranging discussion that also questions the use of symptoms to define psychiatric conditions, the authoritarian nature of our society, and the danger of human predators and hatemongers.",
+      "release": "2022-09-14T00:00:00",
+      "duration": "01:58:30.0160000",
+      "explicit": false,
+      "spotifyId": "1353h9jeh3oxPkB9V7fP3H",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1353h9jeh3oxPkB9V7fP3H",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4189e25c-c1a6-4f5a-837c-f56273c31ac2",
+      "title": "Taking on Scientology in the law courts - with Karen De La Carriere",
+      "description": "Jon Atack coaches the audience on suing Scientology after years and years of experience in handling SCN litigation.",
+      "release": "2022-09-14T00:00:00",
+      "duration": "00:59:30.8800000",
+      "explicit": false,
+      "spotifyId": "3yLbdgZrQEgylGYa6UYTiU",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3yLbdgZrQEgylGYa6UYTiU",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "2b8f864c-62c9-45df-b14f-e26414e26179",
+      "title": "Putin\u0027s guru and the new Russian Empire with Joe Szimhart",
+      "description": "Putin\u0027s advisor Alexander Dugin wants to reclaim Russia\u0027s empire through conquest. He hates science and technology and longs for the time of Ivan the Terrible. He\u0027d like to stop the machines, destroy the Internet and return the Russians to serfdom. Yet the Russians celebrate and support him. A discussion with Joe Szimhart.",
+      "release": "2022-08-20T00:00:00",
+      "duration": "00:54:45.8880000",
+      "explicit": false,
+      "spotifyId": "5tfMv5gLxlaI7xiKz6jYyr",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5tfMv5gLxlaI7xiKz6jYyr",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "e8f86d11-c679-4612-b920-6487bea00525",
+      "title": "the polarized society with Kelvin Pierce",
+      "description": "Kelvin Pierce wrote his book, \u0022Sins of My Father\u0022 because he heard Donald Trump using the same rhetoric as his neo-Nazi father. Kelvin and Jon talk about the divisions in our society and the divisiveness of our politicians. \u00A0  \u00A0links:\u00A0 debunking the protocols of the elders of Zion: https://www.britannica.com/topic/Protocols-of-the-Elders-of-Zion \u00A0\u00A0 lyrics to \u0022you\u0027ve got to be carefully taught\u0022: https://www.britannica.com/topic/Protocols-of-the-Elders-of-Zion",
+      "release": "2022-08-16T00:00:00",
+      "duration": "00:54:40.2980000",
+      "explicit": false,
+      "spotifyId": "6O5oBoSsgcQg367NrrKA90",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6O5oBoSsgcQg367NrrKA90",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "797720c9-e0a7-4f43-8486-3990b3224d64",
+      "title": "when should we speak out? - with Hoyt Richards",
+      "description": "Should former members of authoritarian groups speak out immediately or should they wait until they\u0027re beyond the trauma of membership? Jon and director documentarian Hoyt Richards go into the fine print about speaking out. \u00A0  Hoyt talks with Steven Hassan: https://youtu.be/oTC_9v8gIvU",
+      "release": "2022-08-16T00:00:00",
+      "duration": "00:54:40",
+      "explicit": false,
+      "spotifyId": "7L4jcuYeInT911OaQ9gHUy",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7L4jcuYeInT911OaQ9gHUy",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "b7f5a3d0-739d-453f-adda-35bc40b75e40",
+      "title": "traditionalism is fake history - with Christian Szurko",
+      "description": "Modern \u0027Traditionalism\u0027 is based on a shallow study of mysticism interfused with a lust for the End Days. Traditionalism inspired Putin to invade Ukraine and led to Donald Trump\u0027s attempt to isolate the US from the world. Many of our leaders listen to Traditionalist gurus who have created a new tribalism through a simplistic view of history. Jon talks with Christian about tradition and the danger of letting someone else do our thinking for us... \u00A0  The complete list of St. Nick\u0027s patronage:\u00A0 https://www.stnicholascenter.org/who-is-st-nicholas/patron-saint/people\u00A0 NOTE: Yes, Jon knows that St. Nick\u0027s role is to help thieves (and other wrongdoers) *repent*, NOT to help them \u0027Nick their stuff,\u0027 but he couldn\u0027t resist the pun and will most likely get coal in his stocking for his trouble. \u00A0  Jon\u0027s appearance on \u0022A Little Bit Culty\u0022 - https://www.alittlebitculty.com/season-3/blog-post-title-one-kldc6-en2f4-3cbje-bc9ak-ebcw6-e8fyn-xbkyn-sswxy\u00A0  Spike notes that she didn\u0027t miss out on Legos, and possesses an embarrassingly large collection dating back to the early 60s.",
+      "release": "2022-08-06T00:00:00",
+      "duration": "01:41:15.0080000",
+      "explicit": false,
+      "spotifyId": "5Ybq9H8oPeAcx2ONK5zhnB",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Ybq9H8oPeAcx2ONK5zhnB",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a7ab36d0-dc47-4b04-ba8b-52fbebb49851",
+      "title": "traditionalism is fake news - with Mark Laxer",
+      "description": "Voltaire said that people who believe absurdities will commit atrocities. Traditionalism is the simplistic creation of a golden age to support ideas of tribalism and racial purity. It has taken hold of populist movements and generated a new and ill-informed rightist upsurge. In the US, it is represented by Steve Bannon - who put Trump in the White House and was his first Chief of Staff; in Russia, by Alexander Dugin who preaches the re-unification of the Russian empire; and in Brazil by Olavo de Carvalho - Bolsanaro\u0027s guru. These pundits follow the teachings of Mussolini\u0027s advisor Julius Evola. They claim spiritual insight, but are ignorant of the subtle and complex ideas of true mysticism, instead grabbing beliefs in human decline - the End Days or Kali Yuga - as if they were prophetic truth, rather than bronze age anxieties. Mark and Jon show how traditions are often inventions to create tribalist separation between people. They offer some solutions to move us towards a pro-social, pro-human democracy that is neither left nor right wing.",
+      "release": "2022-07-26T00:00:00",
+      "duration": "01:00:20.0100000",
+      "explicit": false,
+      "spotifyId": "1g1LEs8ez5fooTIPa33tIS",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1g1LEs8ez5fooTIPa33tIS",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "397c4525-e055-4d4a-8f13-ac0e15eb3e79",
+      "title": "Cult Recruitment and the Fear of Death - with Joe Szimhart",
+      "description": "Cult expert Joe Szimhart discusses attitudes toward death from prehistoric times to present cult recruitment. This fear makes us all vulnerable to cultic lures.",
+      "release": "2022-07-16T00:00:00",
+      "duration": "00:36:25.0200000",
+      "explicit": false,
+      "spotifyId": "16ppRqVQ0AKttFbCMsqIsX",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/16ppRqVQ0AKttFbCMsqIsX",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "6f8fa01f-9463-4cf5-9fc9-6c11c799e005",
+      "title": "The tyrant L. Ron Hubbard \u0026 his Sea Organization slaves - with Karen De La Carriere",
+      "description": "Scientology\u0027s most highly trained defector discusses Ron Hubbard\u0027s inhumane treatment of his followers - from throwing a pensioner who couldn\u0027t swim from four storeys into the sea to ordering a four-year-old to be locked in his ship\u0027s chain locker. Karen considers the attributes of a human predator given in Jon\u0027s book Opening Our Minds as they apply to Hubbard.",
+      "release": "2022-07-15T00:00:00",
+      "duration": "00:58:30.6130000",
+      "explicit": false,
+      "spotifyId": "2PZg0iMlXc31W3STQuNn7u",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2PZg0iMlXc31W3STQuNn7u",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f63f905e-525c-4f78-be51-35c6bb27e6ce",
+      "title": "signs of cult membership and how to help - with Frances Peters",
+      "description": "ANALYTICS EDIT VIDEO Recovery counselor Frances Peters talks with Jon about the signs that show someone has joined an extreme authoritarian group and how best to help them reconsider their involvement.",
+      "release": "2022-07-11T00:00:00",
+      "duration": "00:58:52.0100000",
+      "explicit": false,
+      "spotifyId": "2MjBIliVtJfT1lSTlZVDOx",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2MjBIliVtJfT1lSTlZVDOx",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "0a95cf76-cb7a-4e03-95f3-00739de56a7e",
+      "title": "when mindfulness does harm - with Pat Ryan and Joe Kelly",
+      "description": "For some people, meditation can be devastating. Scientific investigation showed this decades ago, but health systems continue to recommend Mindfulness as a panacea. Joe and Pat were long-term meditators and are steeped in the scientific literature. They describe the puja ceremony in Transcendental Meditation and Jon describes his own experience at age 18 of learning zazen in an accredited Soto Zen monastery. This is also a discussion of the possible benefits of meditation and offers resources for the 40% of people for whom meditation causes difficulties.",
+      "release": "2022-07-11T00:00:00",
+      "duration": "01:19:04.2540000",
+      "explicit": false,
+      "spotifyId": "3FORx32J4sYg6RfRJfY3Kt",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3FORx32J4sYg6RfRJfY3Kt",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f2f96542-2408-4c34-b5ca-082c0e1fb7a6",
+      "title": "cult membership - was it worth it? - with Mark Laxer",
+      "description": "Mark Laxer was there from the beginning when Frederick Lenz splintered from the Sri Chinmoy group and created the Rama cult. Mark has written three books and is currently working on a screen play about his experiences. Mark reconnected with a friend from those earlier days and was interested he felt that the experience - although in many ways negative - had been formative. Although Nietzsche\u0027s \u0027what doesn\u0027t kill you makes you stronger\u0027 is usually untrue, those of us who survived membership of authoritarian groups can be tremendously helpful to others.",
+      "release": "2022-06-15T00:00:00",
+      "duration": "00:49:03.7630000",
+      "explicit": false,
+      "spotifyId": "4X2tEvvHYbMXhr0lfp4NX1",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4X2tEvvHYbMXhr0lfp4NX1",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "95d56a15-e67e-4904-b440-845f8375caf7",
+      "title": "The Myth of \u0022Racial Purity\u0022 - with Yuval Laor",
+      "description": "A deep dive into the reality of \u0027racial purity, the origins of Aryanism, and the reality of our genetic interconnectedness to all the people of Earth. As Yuval says, there\u0027s no such thing as race, but there is such a thing as racism.",
+      "release": "2022-06-14T00:00:00",
+      "duration": "00:37:52.8510000",
+      "explicit": false,
+      "spotifyId": "4tezRV6IUc235QAlZwyqYE",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4tezRV6IUc235QAlZwyqYE",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "3dfb2b5e-cf11-4ca0-96b6-6f38c8795986",
+      "title": "Scientology: the 70-year crime wave of villainous lawbreaking - with Karen De La Carriere",
+      "description": "Karen and Jon discuss the 70-year criminal history of Scientology.",
+      "release": "2022-05-31T00:00:00",
+      "duration": "01:08:45.0130000",
+      "explicit": false,
+      "spotifyId": "3RdY1MCFybl07ubKmfGg7T",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3RdY1MCFybl07ubKmfGg7T",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "34ad3ff4-9a80-47d5-b442-2e8fb7e9c265",
+      "title": "The dangers of auditing - with Chris Shelton",
+      "description": "Chris joins Jon to answer a question a commenter asked over on Chris\u0027 channel - why is auditing bad for you? Their answer delves into history, psychology, and contains many twists, turns and some excellent minutiae of the Scientology world.",
+      "release": "2022-05-27T00:00:00",
+      "duration": "02:08:13.4810000",
+      "explicit": false,
+      "spotifyId": "0x0JnZKws2eiGKiy2qf9MF",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0x0JnZKws2eiGKiy2qf9MF",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "36d2fe4f-46ec-4a98-8a2a-c9cadafc3825",
+      "title": "William Pierce - American neo-Nazi - a talk with his son, Kelvin Pierce",
+      "description": "WARNING: this video contains descriptions of physical harm to a child. \u00A0  William Pierce\u0027s Turner Diaries inspired the Oklahoma City bombing and is an essential text for neo-Nazis. Kelvin Pierce talks about his father, a professor of physics who became embroiled in the American Nazi Party and created the National Alliance and the Church of Cosmotheism. Kelvin and Jon discuss about the hatred that turned his father into a monster.",
+      "release": "2022-05-16T00:00:00",
+      "duration": "00:53:30.0050000",
+      "explicit": false,
+      "spotifyId": "4wIwwgbm4wjqXh0ZA2BRJb",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4wIwwgbm4wjqXh0ZA2BRJb",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "38610375-c94b-4a61-818b-9e87aa5f7a3a",
+      "title": "Scientology and sex in a high-control group - how far will they go",
+      "description": "Scientology inc\u0027s obsession with sex, \u00A0particularly the sexual activities of its members, comes to a head when it demands every detail in \u0022confessional\u0022 interrogations, which public members pay for. \u00A0The demand for sexual activity secrets is a disturbing preoccupation. \u00A0All confessions are stored on video and in worksheets, as ammunition for later blackmail as needed. \u00A0Wholesale coerced \u00A0abortions are also discussed.",
+      "release": "2022-05-08T00:00:00",
+      "duration": "01:07:25.0130000",
+      "explicit": false,
+      "spotifyId": "2oLy6REmTnuAeWaM6ouvxP",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2oLy6REmTnuAeWaM6ouvxP",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "b83836b7-f187-437e-8251-9baa1f34d467",
+      "title": "After a Cult, Who am I? - with Frances Peters",
+      "description": "It is vital to form your own identity after leaving an abusive relationship or group. Why \u0027narcissism\u0027 is the wrong word and the importance of growing up. Frances shares her own remarkable story as a born-in member who left at age 44. Frances Peters has successfully counseled many former followers of authoritarian groups.",
+      "release": "2022-05-05T00:00:00",
+      "duration": "00:49:45.0020000",
+      "explicit": false,
+      "spotifyId": "2Qut3dxOSMPCZ04lmL9VLM",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Qut3dxOSMPCZ04lmL9VLM",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "edc47e71-ba51-420c-93e0-d699a160257e",
+      "title": "Robert J. Liftons \u0022eight deadly sins\u0022 of Thought Control",
+      "description": "Spike joins Jon to break down a seminal model of thought control - Robert Jay Lifton\u0027s classic \u0022eight deadly sins\u0022 - a list of behaviors and tactics used by authoritarian groups and abusive predators to gain control, whether in a spiritual or philosophical group, a multi-level marketing scheme, a dysfunctional family, or an entire nation. First laid out in Robert Jay Lifton\u0027s excellent book \u0022Thought Reform and the Psychology of Totalism\u0022, these eight points can be found in some form in most authoritarian groups and abusive relationships of all kinds and sizes.\u00A0",
+      "release": "2022-04-30T00:00:00",
+      "duration": "01:49:15.0080000",
+      "explicit": false,
+      "spotifyId": "2nG1njtmTofrYRgHAKfqaN",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2nG1njtmTofrYRgHAKfqaN",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4e0b5d0e-628b-40a7-ba26-207dabf4cf84",
+      "title": "decision-making under stress with Jessica Terwiel",
+      "description": "Psychotherapist Jessica Terwiel talks with Jon about the effect of fear, threat and PTSD on decision-making and prioritizing. Some helpful suggestions for those in stressful situations caused by relationship break-ups and departure from authoritarian cults. \u00A0________________ help support our channel! paypal (for one-time donations) : https://www.paypal.com/paypalme/jonatackandfriends patreon (for a monthly subscription - also for goodies like early access and a monthly Q\u0026A with Jon!): https://www.patreon.com/jonatack \u00A0follow us on Twitter: https://twitter.com/atack_jonand Instagram: https://www.instagram.com/openmindstoday/ \u00A0\u00A0for respectful, insightful, and engaging discussion on coercive control, manipulation, abusive groups and individuals, and more, join our facebook group: https://www.facebook.com/groups/803202686721445/ (for faster acceptance to the group, please answer the \u201Cprove you\u2019re not a \u2018bot\u201D questions)",
+      "release": "2022-04-25T00:00:00",
+      "duration": "00:00:26.0260000",
+      "explicit": false,
+      "spotifyId": "0GBe2nqKdN6mxspOf5xE1g",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0GBe2nqKdN6mxspOf5xE1g",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "51d44fd5-4e2a-41b2-9a64-a17f8d517110",
+      "title": "culty geek: Encanto \u2013 when good families do culty things, or, why don\u2019t we talk about Bruno?",
+      "description": "Everyone\u0027s talking about not talking about Bruno, and with all this family dysfunction, there\u0027s bound to be something culty going on, right? \u00A0\u00A0Spike and Monia take a look at this charming Disney offering and talk about not only Bruno, but also the high expectations of a \u0022perfect\u0022 magical family, the unhealthy repression of feelings kept under the surface, and exactly why Abuela Alma is NOT a cult leader. They also discuss some of the theories floating around the internet, and rave about just how wonderful the music and animation is, with a few tangents thrown in for good measure.",
+      "release": "2022-04-18T00:00:00",
+      "duration": "01:33:00.0100000",
+      "explicit": false,
+      "spotifyId": "0hHLDzMWtr8k3P6PYVocY8",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0hHLDzMWtr8k3P6PYVocY8",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "1daeba90-9c0a-4a3e-b328-01b8e6f02077",
+      "title": "cults and the authoritarian spectrum - with Hoyt Richards",
+      "description": "there are many forms of authoritarian relationship - from the reverence given to a dictator to submission to an intimate partner. Documentarian and actor Hoyt Richards talks with Jon about the intricacies of these relationships.",
+      "release": "2022-04-17T00:00:00",
+      "duration": "01:03:00.0100000",
+      "explicit": false,
+      "spotifyId": "0bfa4qI55gXRNp6QKbiYEa",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0bfa4qI55gXRNp6QKbiYEa",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "9a37a1f1-e08e-49cd-8013-6523d971b46f",
+      "title": "Jon talks about Scientology (and the perils of investigating it) at Eton College",
+      "description": "Eton College is perhaps the world\u0027s most prestigious school. The college\u0027s journalism society invited Jon to give a full and frank talk on the perils of investigating scientology, the 16 years of harassment he suffered in consequence, and the immense amount of pre-internet research for Let\u0027s Sell These People a Piece of Blue Sky, Bare-faced Messiah, and Cult of Greed. \u00A0 links: the shrinking world of L. Ron Hubbard https://youtu.be/L_w-YWwC1lI\u00A0 possible origins for Scientology and Dianetics: r ead the paper https://home.snafu.de/tilman/j/origins6.htmlor\u00A0 watch the video part one: https://youtu.be/VGQXQaiLa2A part two: https://youtu.be/0wzlxBiAQtc",
+      "release": "2022-04-10T00:00:00",
+      "duration": "01:12:40",
+      "explicit": false,
+      "spotifyId": "1Hei1HPAVQ4IB7KoTZm5Bs",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Hei1HPAVQ4IB7KoTZm5Bs",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "47604b66-b085-4342-9c03-cac144fc9b1b",
+      "title": "Scientology erodes love and destroys family \u2013 with Karen De La Carriere",
+      "description": "Hubbard taught nothing about love or compassion. Just as Mao transformed traditional family loyalty into devotion of the Communist Party, Hubbard demanded loyalty to Scientology and even shattered the natural bond between parents and their children. Conversation about the \u0027genetic entity\u0027 showing how Hubbard actually despised family relationship and showed neither love nor compassion for his own wives and children. \u00A0 links: \u00A0 Jon\u0027s paper \u0022possible origins of Dianetics and Scientology\u0022 : http://home.snafu.de/tilman/j/origins... or watch the video: \u00A0 part 1: https://youtu.be/VGQXQaiLa2A part 2: https://youtu.be/0wzlxBiAQtc \u00A0________________\u00A0 help support our channel!\u00A0 paypal (for one-time donations) : https://www.paypal.com/paypalme/jonat...\u00A0 patreon (for a monthly subscription - also for goodies like early access and a monthly Q\u0026A with Jon!): https://www.patreon.com/jonatack \u00A0 follow us on Twitter: https://twitter.com/atack_jon and Instagram: https://www.instagram.com/openmindsto... \u00A0\u00A0 for respectful, insightful, and engaging discussion on coercive control, manipulation, abusive groups and individuals, and more, join our facebook group: https://www.facebook.com/groups/80320... (for faster acceptance to the group, please answer the \u201Cprove you\u2019re not a \u2018bot\u201D questions)",
+      "release": "2022-04-09T00:00:00",
+      "duration": "01:01:35.0180000",
+      "explicit": false,
+      "spotifyId": "75cxTqtjtXLsdLnZvM3e8b",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/75cxTqtjtXLsdLnZvM3e8b",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "b81167f8-5cb8-4696-a8c3-03e9d6fa1956",
+      "title": "is it really complex PTSD? - with Jessica Terwiel",
+      "description": "psychotherapist Jessica Terwiel talks with Jon about Complex Post Traumatic Stress Disorder and her perception from significant clinical experience that the symptoms attributed to CPTSD are not necessarily caused by trauma. This becomes extremely important in cases where therapists have insisted that there must be a trauma, so have at times led clients to generate false memories. This is relevant to the nascent Satanic Panic that is once again taking hold in the West. \u00A0  help support our channel!\u00A0 paypal (for one-time donations) : https://www.paypal.com/paypalme/jonatackandfriends\u00A0 patreon (for a monthly subscription - also for goodies like early access and a monthly Q\u0026A with Jon!): https://www.patreon.com/jonatack",
+      "release": "2022-03-20T00:00:00",
+      "duration": "00:37:40.0100000",
+      "explicit": false,
+      "spotifyId": "2O129IQh2KovrSgGbkpniD",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2O129IQh2KovrSgGbkpniD",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "1770ef1e-c6dc-44fc-853b-0a2a6359438b",
+      "title": "Scientology Sells Selfishness! with Jeffrey Augustine",
+      "description": "Despite its many claims, Scientology is the opposite of Buddhism because it encourages selfishness and erodes compassion. Scientology enslaves its followers mentally and physically by selling dreams of liberation. Jeffrey talks with Jon about the 1st dynamic - the urge to survive for yourself - which is at the heart of Hubbard\u0027s doctrine. Why are there so many suicides in Scientology and why do so many Scientologists - even high-level Scientologists - \u00A0die before their time, often from curable diseases?\u00A0  links: the 1982 Clearwater hearings: https://youtube.com/playlist?list=PLB8A8C6C0BFB607D1\u00A0 Jeff\u0027s Scientology Money project: https://scientologymoneyproject.com\u00A0  Scientology deaths:\u00A0 https://phoenyxrose.wordpress.com/those-who-died/\u00A0 https://theyshouldnothavedied.wordpress.com\u00A0 http://www.xenu-directory.net/mirrors/www.whyaretheydead.net/\u00A0  final song: \u0022the names on the wall\u0022 written \u0026 performed by Karin \u0022Spike\u0022 Robinson -originally composed for the \u0022Enough is enough\u0022 conference, Dublin 2015 - copyright released in the hopes that other, better singers might take the song and sing it to spread the word. \u00A0  bookmarks: \u00A0 2:22 what is your \u201Ccase\u201D?\u00A0 9:29 Scientology \u2013 the \u201CME\u201D religion\u00A0 11:21 the Death of a Sea Org member and how the Sea Org is denied their individuality\u00A0 16:06 living life \u201Cfree and clear\u201D? Scientology\u2019s true god is money\u00A0 24:01 What is the suicide rate in Scientology?\u00A0 27:53 the ephemerality of faith healing and the deaths in Scn from cancer\u00A0 37:30 Those who have died 49:20 Scientology gives its retired staff NOTHING for a pension! \u00A0 54:37 how Scn strips its members of compassion for others\u00A0 1:01:56 Scientology does not allow for individualism 1:08:01 conclusion \u2013 there is no real \u201Cfirst dynamic\u201D in Scientology\u00A0 1:14:26 Scientology as Hubbard\u2019s personal \u201Cimmortality\u201D project, his way of making himself into a god",
+      "release": "2022-03-13T00:00:00",
+      "duration": "01:23:14.0050000",
+      "explicit": false,
+      "spotifyId": "6wCfRoPNzrM9uCZs5vtEvU",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6wCfRoPNzrM9uCZs5vtEvU",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a5a550a2-5e43-48de-bc96-89edbd714aab",
+      "title": "Scientology 101 on implants: explaining their core doctrine - with Karen De La Carriere",
+      "description": "This video describes the core doctrine of Scientology which is IMPLANTS. \u00A0\u00A0OT 2 to OT 8 is excorcism which is ritual and procedures to get rid of the spirits attached to the body or the host spirit of a body. \u00A0\u00A0When a person goes criminal after achieving OT 7 and OT 8 they are labelled \u0022by-passed case\u0022 which means they did not REALLY do the procedures and they are ordered to redo everything over again AT THEIR EXPENSE. \u00A0This is Scientology 101 on IMPLANTS. \u00A0 links: \u00A0The meeting at the Crown Hotel: https://youtu.be/tvfioivtY6c (part one only; all the internets points to whoever can find part two) \u00A0 Never believe a hypnotist: \u00A0 the video: https://youtu.be/tUMwJgCGBOA the paper: http://home.snafu.de/tilman/j/hypnosi...\u00A0 Hubbard describes OTIII: https://youtu.be/FnRY75LThqw \u00A0\u00A0 read more here about the death of Lisa McPherson: http://lisamcpherson.org\u00A0 the list of implant \u0022incidents\u0022 : https://en.wikipedia.org/wiki/Inciden...) \u00A0 the ballad of Captain Bill: https://youtu.be/A5qOxlC61Xo",
+      "release": "2022-03-06T00:00:00",
+      "duration": "00:59:05.0020000",
+      "explicit": false,
+      "spotifyId": "5DjpUeRElxpS3KvG37BZC1",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5DjpUeRElxpS3KvG37BZC1",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "e04c69cf-65b9-4bdd-827a-3ab110024ac0",
+      "title": "Cults and culture - with Mark Laxer",
+      "description": "author and cult expert Mark Laxer talks with Jon about cult education. We tend to see our own culture as normal and reject other people\u0027s as cultic. Mark talks about his travels to Indonesia and the notion that some people are \u0027chaots\u0027 - and accept chaos - but many are \u0027certs\u0027 - and demand certainty. Mark and Jon talk about the dangers of believing and certainties and the advantages of accepting chaos. Rajneesh, Paul Theroux, the awful film Holy Smoke and the excellent Kumare are all mentioned.",
+      "release": "2022-02-28T00:00:00",
+      "duration": "01:22:10.0050000",
+      "explicit": false,
+      "spotifyId": "4ubPaGHnbMIj0YJFvCMpT3",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ubPaGHnbMIj0YJFvCMpT3",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "60d7d0f8-0ee3-43fb-983a-3ef1b30108aa",
+      "title": "Culty Geek - the Gilmore Girls, or, copiously caffeinated culture",
+      "description": "Monia has got Spike watching the \u0022Gilmore Girls,\u0022 and, boy, is there a lot to rant on about! Even in this delightful, wholesome, witty masterpiece there\u0027s a couple of tropes on our \u0022culty\u0022 list here, principally the human predator posing as the \u0022bad boy who can be fixed by your love (tm)\u0022, but also triangulation, emotional manipulation, gaslighting, and even an authoritarian town selectman who feels it\u0027s his duty to legislate the main characters\u0027 relationships. Spike and Monia pick it all apart, while having a super-caffeinated good time. \u00A0 Links: \u00A0 You can read/download our predator poster here: https://jonatacksopeningourminds.files.wordpress.com/2021/09/predator-poster-a2.jpg?w=1448 (left-click on image and select \u0022save image.\u0022) Harrison Kowiak\u0027s death (his mother\u0027s account): https://grownandflown.com/hazing-death-mom-tells-story/\u00A0  Program notes (by Spike): \u00A0The Hays Code (yes, I misspelled it in the video; I also misspelled \u0022caffeinated\u0022 on the title card) was a set of industry guidelines set up by US filmmakers of the mid-20th century to self-censor and keep movies in line with the accepted social mores of the time; the section I\u0027m referring to is the proviso that all \u0022wrongdoers\u0022 are seen to be punished adequately by the end of the film.\u00A0 According to the plot synopses I\u0027ve found, Michel is married to a man in the revival \u0022Year in the Life\u0022 episodes. Also, Sookie was originally supposed to be gay but it was considered too risky at the time, at least for the WB. All the Internets points go to whoever can tell me what Sookie\u0027s actual first name is; I\u0027ve looked and looked and can find it nowhere. \u00A0 According to the Gilmore Girls Wiki, the actress who plays wJess\u2019 dad\u2019s girlfriend plays Luke\u0027s season 6 girlfriend/baby-mama Anna Nardini; \u00A0Kirk\u2019s girlfriend is played by Rini Bell.",
+      "release": "2022-02-24T00:00:00",
+      "duration": "01:43:40.0100000",
+      "explicit": false,
+      "spotifyId": "6k2P3ldKcWSuSOJpSWjkUu",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6k2P3ldKcWSuSOJpSWjkUu",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f50d7210-7709-48d4-b9f2-2e2b68b216ab",
+      "title": "false friendship in cults \u0026 post-traumatic growth \u2013 with Hoyt Richards",
+      "description": "Director and documentarian Hoyt Richards talks with Jon about the growth made possible by traumatic cult experiences and the false friendships found in authoritarian cults.",
+      "release": "2022-02-20T00:00:00",
+      "duration": "01:05:50.0160000",
+      "explicit": false,
+      "spotifyId": "0BgEF6LfsCydbR5zlJAPRe",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0BgEF6LfsCydbR5zlJAPRe",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a9fb0bed-61f0-4266-8336-2aecc5a6d277",
+      "title": "cults and pro-social behavior - with Jessica Terwiel",
+      "description": "Membership of an authoritarian group demands a different set of rules to those of the larger society. Members often adopt anti-social behaviors. Psychologist Jessica Terwiel explores this theme with Jon, sharing her considerable experience of authoritarian groups as a clinical and forensic psychologist. \u00A0  For more on VTaiwan: https://info.vtaiwan.tw",
+      "release": "2022-02-19T00:00:00",
+      "duration": "00:51:20",
+      "explicit": false,
+      "spotifyId": "0viHwSQSozMlocSDSI7KVx",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0viHwSQSozMlocSDSI7KVx",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "c02f0a37-9ba3-43f5-8aed-54a5aefc0a10",
+      "title": "Scientology: sex magick, Lucifer, and the Antichrist",
+      "description": "Hubbard\u0027s lifelong commitment to Crowleyite Sex Magick led to him proclaiming himself Lucifer the Antichrist in Scientology\u0027s most secret teachings. A deep dive into Hubbard self-hypnotic Affirmations and the real purpose of Scientology. \u00A0 links: \u00A0 Jack Parsons\u0027 writings: https://sacred-texts.com/oto/lib49.htm Jon\u0027s paper on Hubbard and the occult: https://youtu.be/VJbZS9sfRF8 the full list of Hubbard\u0027s affirmations: https://gerryarmstrong.ca/the-affirmations-what-was-l-ron-hubbard-thinking/ Hubbard and black magick: https://youtu.be/2ILs6yB-d6A Jon\u0027s \u0022Piece of Blue Sky\u0022: https://www.amazon.com/Lets-sell-these-people-Piece/dp/1482023032/ Jon\u0027s \u0022Cult of Greed: https://www.amazon.com/Scientology-Cult-Greed-Jon-Atack-ebook/dp/B00QVDPM62/",
+      "release": "2022-02-09T00:00:00",
+      "duration": "01:06:10.0080000",
+      "explicit": false,
+      "spotifyId": "6SDRXB1j1GhEJzPNHaPORY",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6SDRXB1j1GhEJzPNHaPORY",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "0e7bc61e-94dc-4d8d-9d0d-6c25b0ecdc1a",
+      "title": "Trailers across time Episode 1 - with Mike Rinder",
+      "description": "This is a collection of trailers hand-picked from across 100s of videos to give you, the viewer the most pleasant time watching them, and giving you the opportunity to dive right into our collection of videos. This particular episode collection is about the making and breaking of a Scientologist\u0027s belief system, plus some playful, more personal clips from our own creators. If this goes well we will be including a whole range of material, including trailers to help you navigate individual playlists, to make you an expert at challenging all sorts of absurd belief systems. Remembering not beliefs (necessarily), but the methods which seek to move against the realisation (through understanding) of those beliefs, through recruitment techniques which are manipulative, is hurtful, and immoral. Have fun! First months on Hubbard\u2019s flagship Apollo 4 mins 10 secs (in podcast) Mike Rinder on meeting Commodore Hubbard 8 mins 32 secs Leaving TM and Scientology behind 15 mins 14 secs The self and others 18 mins 41 secs Unhelpful help 21 mins 2 secs Just wake up 15 minutes earlier 21 mins 9 secs Information overload 24 mins 55 secs Love in the time of Corona 28 mins 44 secs Drug prohibition \u2013 the history 32 mins 41 secs",
+      "release": "2022-01-28T00:00:00",
+      "duration": "00:32:41.4590000",
+      "explicit": false,
+      "spotifyId": "7MEstBPX0PFW3UBF5iErWY",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MEstBPX0PFW3UBF5iErWY",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "bc331ab5-0675-43de-a523-c0ba2a981151",
+      "title": "Jon and Karen uncover some Scientology lies",
+      "description": "Jon and Karen talk about how language is used to control thought \u2013 \u00A0particularly in Scientology and especially in its paramilitary branch, \u00A0the Sea Org. They reminisce about dear friends lost to the web of this \u00A0controlling group, and their hopes for the future. \u00A0 links: \u00A0to a .pdf of the full appendix to Orwell\u0027s 1984: \u00A0https://kickapooclark.weebly.com/uploads/5/0/8/5/5085586/the_principles_of_newspeak_orwell.pdf \u00A0 the shrinking world of L Ron Hubbard: https://youtu.be/L_w-YWwC1lI \u00A0 for Hubbard\u0027s full letter to the Vets\u0027 Administration: \u00A0https://www.spaink.net/cos/LRH-bio/psychbeg.htm \u00A0 to read Jon\u0027s paper \u0022Scientology: Religion or Intelligence Agency\u0022 : \u00A0http://home.snafu.de/tilman/j/berlin.html?fbclid=IwAR3G8FA_m_jpw1sqwJLRTPtqlT8vTONCYInPmOlZ5yDPQVsNQeY8aNRAMto \u00A0 to see the excellent work done by the Aftermath Foundation: \u00A0http://theaftermathfoundation.org",
+      "release": "2021-06-25T00:00:00",
+      "duration": "00:59:30.0210000",
+      "explicit": false,
+      "spotifyId": "0Gp8x2acDCi6wfy5B0cBOj",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Gp8x2acDCi6wfy5B0cBOj",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "7cc1ea7b-29fe-45c2-8232-659cd5dd6d0f",
+      "title": "Scientology arrives in Clearwater - part 3 of Mike Rinder\u2019s Scientology story",
+      "description": "Mike Rinder continues his account of his life in Scientology, focusing \u00A0this week on the first years ashore in Florida, when Scientology began \u00A0buying property in Clearwater, posing as the fictious \u201CSouthern Land \u00A0Development Corporation\u201D. In between some fascinating tangents and \u00A0comparisons to Clearwater\u2019s more current experiences with Scientology, \u00A0Mike and Jon discuss the organization\u2019s legal battles of that era, \u00A0particularly with Clearwater mayor Gabe Cazares and other early critics. \u00A0As always, it\u2019s a wild ride, and an amazing, must-listen conversation. \u00A0 the Clearwater hearings: https://www.youtube.com/playlist?list=PLB8A8C6C0BFB607D1 \u00A0 the Truth Rundown articles: https://www.tampabay.com/special-reports/2019/10/17/scientology-the-truth-rundown/ \u00A0 the Truth Rundown book: https://www.amazon.com/Truth-Rundown-violence-intimidation-Scientology-ebook/dp/B013UWYHAI \u00A0 To learn about the death of Kyle Brnnan: kyle page: http://www.kylebrennan.com \u00A0 To learn about the death of Lisa McPherson: lisa page: http://lisamcpherson.org",
+      "release": "2021-06-22T00:00:00",
+      "duration": "01:09:30.0010000",
+      "explicit": false,
+      "spotifyId": "1rPMPVp0693aZWQTeqQdcu",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1rPMPVp0693aZWQTeqQdcu",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "39b8e950-b036-434a-8467-88c3eeda3168",
+      "title": "Jamie DeWolf: behind the curtain",
+      "description": "Jamie DeWolf, great-grandson of Ron Hubbard, talks with Jon about his \u00A0infamous ancestor, and about his mission to speak out against the \u00A0Scientology \u201Cdragon\u201D his infamous ancestor brought into the world. \u00A0 if you would like to rent or buy the videos from the \u0022Getting Clear\u0022 \u00A0conference, they are available here: \u00A0https://vimeo.com/ondemand/gettingclear two of the sessions are available free here: \u00A0https://youtube.com/playlist?list=PLOprfY0DnRsZ3rZ1a4TomFI8R_8uw_7Uu \u00A0 The Shrinking World of L. Ron Hubbard: https://youtu.be/L_w-YWwC1lI\u00A0 Scientology: A Faith for Sale: https://youtu.be/aFpgWjtcwYg \u00A0 to stream the Nature of Existence: http://thenatureofexistence.com \u00A0 for more of Jamie\u0027s work, see his website: https://www.jamiedewolf.com see Jamie in \u0022Salvation Summer Camp\u0022: https://youtu.be/e_pdu9N1yeY",
+      "release": "2021-04-22T00:00:00",
+      "duration": "01:46:30.8970000",
+      "explicit": false,
+      "spotifyId": "6akllQYEwIwwUhHIft6qR7",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6akllQYEwIwwUhHIft6qR7",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "2e043c34-c307-4805-abeb-90950e8eade0",
+      "title": "suggestibility, susceptibility \u0026 Derren Brown \u2013 with Hoyt Richards",
+      "description": "Our friend Hoyt Richards joins Jon for a discussion about Derren Brown\u2019s work and how it shows our suggestibility and susceptibility to fraud of \u00A0all kinds. \u00A0 the Cottingley Fairies: https://en.wikipedia.org/wiki/Cottingley_Fairies \u00A0 Derren Brown and Simon Pegg: https://youtu.be/rr05Dchmlww",
+      "release": "2021-03-27T00:00:00",
+      "duration": "01:10:23.2220000",
+      "explicit": false,
+      "spotifyId": "3CLgSOyznQytKRmUtBRWz8",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3CLgSOyznQytKRmUtBRWz8",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "776cd093-f466-4796-b271-f7b36926771a",
+      "title": "Karen De La Carriere speaks out against Scientology",
+      "description": "Karen De La Carriere is one of a handful of people who achieved the \u00A0pinnacle of Scientology training, the Class XII auditor course. In this \u00A0wide-ranging discussion, she talks about conditions aboard Hubbard\u2019s \u00A0flagship, about the negligence that led to her son\u2019s death, and her \u00A0attitude to Scientology now after her forty-year membership. \u00A0 Links: Karen\u0027s channel: https://www.youtube.com/user/SurvivingScientology\u00A0 Jeffrey Augustine\u0027s Scientology Money Project: https://scientologymoneyproject.com \u00A0 L Rundowns: https://www.xenu.net/archive/L-Rundowns/ Aberree: https://www.aberree.com \u00A0 Shrinking world: https://youtu.be/L_w-YWwC1lI \u00A0 The memorial Service for Alexander Jentzsch: https://youtu.be/msHDW2g7GM0",
+      "release": "2021-03-23T00:00:00",
+      "duration": "01:04:15.0930000",
+      "explicit": false,
+      "spotifyId": "7mIvXukVtx9IYybDgkrEU4",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7mIvXukVtx9IYybDgkrEU4",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "099f44e2-0e31-46a0-8319-28f0a0799cb7",
+      "title": "polarization vs. cooperation - with Joe Szimhart",
+      "description": "concepts of \u0022left\u0022 and \u0022right\u0022 have become meaningless, thought-stopping \u00A0labels; Joe Szimhart joins Jon to deconstruct what is really meant by \u00A0these terms - and how it is much better to cooperate and find common \u00A0ground than to polarize into separate, ever-battling camps.",
+      "release": "2021-03-23T00:00:00",
+      "duration": "00:45:22.0990000",
+      "explicit": false,
+      "spotifyId": "1YRMvegym0HGzxIM4Z9b3E",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1YRMvegym0HGzxIM4Z9b3E",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "98ad1bcc-cc1c-4ac8-9487-1bc766154317",
+      "title": "cult recruitment and the autistic spectrum - with Richard Turner",
+      "description": "Counsellor Richard Turner talks with Jon about how cults take advantage of people who are, like him, on the autistic spectrum. \u00A0For more on Bhutan\u0027s Gross National Happiness: https://www.bhutan.travel/page/gross-national-happiness \u00A0Richard\u0027s Website: www.tothinkagain.co.uk Richard\u0027s Linked in profile: https://www.linkedin.com/in/richard-j-turner/ Article Richard wrote about cults and autism: https://www.linkedin.com/pulse/autism-cults-richard-james-turner/",
+      "release": "2021-03-22T00:00:00",
+      "duration": "00:48:10.0950000",
+      "explicit": false,
+      "spotifyId": "4vw5pjr2KlmkcSvVPD8LNi",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4vw5pjr2KlmkcSvVPD8LNi",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "97a1c654-4a94-401c-b541-b46a9887d8c5",
+      "title": "Mike Rinder on Scientology: deception, delusion, and cognitive dissonance",
+      "description": "Mike and Jon explore the striking difference between Hubbard\u2019s public \u00A0pose as a benefactor and the reality of his rage, illness, sadism and \u00A0paranoia. \u00A0links to the Hubbard death announcement event: full event: https://youtu.be/rR6R80W2J8Y Miscavige\u2019s announcement: https://youtu.be/dgDa22Fx_V4",
+      "release": "2021-03-22T00:00:00",
+      "duration": "00:39:07.6070000",
+      "explicit": false,
+      "spotifyId": "4A1mHu3cHIoy3Fjt92mCtY",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4A1mHu3cHIoy3Fjt92mCtY",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "faa2113c-1bba-4a7e-94b6-af2553e2ad33",
+      "title": "QAnon, fervor, and being certain with Yuval Laor, PhD",
+      "description": "what is the difference between casual and fervent belief? how does the feeling of certainty drive a believer\u2019s sense of reality? Yuval Laor, PhD, joins Jon for a discussion on these and other matters.",
+      "release": "2021-03-19T00:00:00",
+      "duration": "00:32:10.6230000",
+      "explicit": false,
+      "spotifyId": "6HRLgBwlprDfIxw0rfyLEr",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6HRLgBwlprDfIxw0rfyLEr",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "beb1cc91-4e14-4ffc-8535-dad9c0ce2ed8",
+      "title": "Mike Rinder\u0027s first months on Hubbard\u0027s flagship Apollo",
+      "description": "An astonishing series of revelations about Scientology\u0027s abuse of its members. Mike Rinder describes his arrival on Scientology\u0027s flagship the \u00A0Apollo at the tender age of 18. Sent from Australia for management training, after handing over his passport, he found he\u0027d been traded in a \u00A0typical case of Scientology\u0027s human trafficking. Conditions for the \u0022elite\u0022 Sea Org under Hubbard\u0027s direct control were deplorable. As Mike says, the former cattle hold which had become the men\u0027s dorm was like \u0022the black hole of Calcutta\u0022 and the food was \u0022garbage\u0022. Mike was tasked with \u0022baby-watching\u0022 the first victim of the Introspection Rundown (on which Lisa McPherson later died), which Hubbard claimed would cure insanity. Mike was also the only Scientologist left on the island of \u00A0Madeira after the notorious \u0022rock festival\u0022, where locals hurled bricks \u00A0and cobblestones at the Apollo, and was lucky to escape with his life. links: ex-Scientology kids: http://exscientologykids.com the Aftermath Foundation: http://theaftermathfoundation.org",
+      "release": "2021-03-18T00:00:00",
+      "duration": "01:04:45.0930000",
+      "explicit": false,
+      "spotifyId": "1DnS7M2oy35kt9TOLOj2lq",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1DnS7M2oy35kt9TOLOj2lq",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "4da42025-f005-4cd7-95fa-571c04ab3acc",
+      "title": "apologies, self-esteem, and other esteem with Jessica Terwiel",
+      "description": "often apologies are not really apologies. Psychologist Jessica Terwiel \u00A0also talks with Jon about the importance of self-esteem and the need for \u00A0\u201Cother-esteem\u201D.",
+      "release": "2020-12-31T00:00:00",
+      "duration": "00:41:32.2210000",
+      "explicit": false,
+      "spotifyId": "4Di9gqKonbxFvvmgjgsff4",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Di9gqKonbxFvvmgjgsff4",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "774b75f3-aa73-4b7d-af6e-bc9bbb3895a4",
+      "title": "art, virtuosity, and the stuff in the middle - with Rio Harada-Parr",
+      "description": "Rio joins Jon to chat about virtuosity, art, ego and talent. As usual, they make a whistle-stop tour of art and music history. \u00A0See Jon\u0027s paintings, poetry, and thoughts on music, art, literature and life at http://jonatack.com",
+      "release": "2020-12-29T00:00:00",
+      "duration": "01:22:23.2030000",
+      "explicit": false,
+      "spotifyId": "0HwWxNwL2LP4G1fiGm5PXu",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0HwWxNwL2LP4G1fiGm5PXu",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "26fd8f4e-0175-4270-a82a-aa3ed48d50ba",
+      "title": "elfcam: Big Santa is watching you!",
+      "description": "Light-hearted Christmas fun or cold-blooded manipulation? In the age of \u00A0Big Brother, is it sensible to trick our children into believing they\u2019re \u00A0constantly under surveillance? Maybe deception really shouldn\u0027t be part \u00A0of the spirit of Christmas.",
+      "release": "2020-12-29T00:00:00",
+      "duration": "00:11:09.0130000",
+      "explicit": false,
+      "spotifyId": "38y17dA8iYLrbizPnuvmLG",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/38y17dA8iYLrbizPnuvmLG",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "c789eff4-a1af-4201-8d72-e44597b9a039",
+      "title": "Ron Hubbard: Black Magic, Dianetics and the Creation of Scientology",
+      "description": "Jon\u2019s opening talks from the legendary 2015 Getting Clear conference. \u00A0Jon gives an overview of Hubbard\u2019s own history \u2013 including his \u00A0involvement with ritual Sex Magick \u2013 and the creation of Dianetics \u00A0through the early years of Scientology. Including an interview by \u00A0Stephen Jones with Hubbard biographer Russell Miller. \u00A0Jon gives some surprising answers to questions about the founder of \u00A0Scientology, including how many of the Dianetics and Scientology books \u00A0did Hubbard actually write? Did Hubbard steal the Dianetic technique \u00A0from psychiatrists? Why did Hubbard sell the rights to Dianetics to Don \u00A0Purcell for one dollar? Why did Hubbard register the Church of \u00A0Scientology secretly, and why did he register the Church of American \u00A0Science (the \u201Cmother church\u201D) and the Church of Spiritual Engineering? \u00A0Are the Scientology upper levels an aspect of ritual magic?\u00A0 You can rent the complete set of lectures from this important conference \u00A0on vimeo, here: https://vimeo.com/ondemand/gettingclear",
+      "release": "2020-12-28T00:00:00",
+      "duration": "01:38:36.5370000",
+      "explicit": false,
+      "spotifyId": "7ocQgufJKXLn18JQE8w8Qr",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7ocQgufJKXLn18JQE8w8Qr",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "8e997d88-eceb-4e63-9e1b-5d3853673115",
+      "title": "do we make a difference?",
+      "description": "Jon talks with his good friend Chris Shelton about whether our work \u00A0makes a difference. As ever, we touch on many topics, including recovery \u00A0from authoritarian groups and relationships, and the need to prepare \u00A0the next generation so that they will not be so easily exploited by \u00A0gurus, spin-doctors and other malignant narcissists. links: \u00A0\u00A0 The Randy Newman song that mentions Hitler and Stalin is A Few Words in \u00A0Defense of Our Country - here: \u00A0https://www.youtube.com/watch?v=E0EAwSpTcM4 \u00A0 Bob Newhart \u2013 Stop It!: \u00A0https://www.youtube.com/watch?v=Ow0lr63y4Mw\u0026t=138s \u00A0 Empathy Quotient test: \u00A0https://psychology-tools.com/test/empathy-quotient \u00A0\u00A0 Jon\u2019s Never Believe a Hypnotist cites tens of Ron Hubbard\u2019s often conflicting statements about hypnosis. A must-read for anyone who has \u00A0been involved in Scientology. Read it free, here: \u00A0http://lermanet.org/exit/parsons.html \u00A0 Arnie Lerma\u2019s Ten Steps Out of Scientology is here: \u00A0https://lermanet.org/cos/8steps.html \u00A0Jon does not entirely agree with it (especially the bit about realizing \u00A0you are an \u2018ex-Nazi\u2019), but it is a model that can be varied according to \u00A0the experience of the reader. Chris and Jon will talk in more detail \u00A0about the stages of recovery very soon.",
+      "release": "2020-12-27T00:00:00",
+      "duration": "01:43:54.2100000",
+      "explicit": false,
+      "spotifyId": "5KQCleicLdIRolQv0jo5Xi",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5KQCleicLdIRolQv0jo5Xi",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "7b728e84-c00e-41c5-91b4-9a91a9ff8818",
+      "title": "Captain Bill, the craziest Scientologist?",
+      "description": "Jon reminisces with Sam about the craziest Scientologist he ever knew: \u00A0legendary Captain Bill Robertson, founder and architect of \u201CRon\u2019s Org\u201D \u00A0and the independent Scientology Freezone. Jon reads extracts from \u00A0Captain Bill\u2019s Sector Operations Bulletins \u2013 which Bill claimed to have \u00A0received telepathically from Ron Hubbard \u2013 aboard the \u201CMothership\u201D \u2013 In \u00A01982. \u00A0\u00A0 Crown Hotel Meeting, Oct 18, 1983 https://youtu.be/tvfioivtY6c \u00A0Sector 9 book: http://galac-patra.org/sector9.html \u00A0 For Scientology membership numbers: https://medium.com/how-many-scientologists-are-there-really) \u00A0\u00A0 Peter Forde\u0027s analysis of OT III: https://www.spaink.net/cos/essays/forde_volcanos.html",
+      "release": "2020-12-25T00:00:00",
+      "duration": "00:55:37.3340000",
+      "explicit": false,
+      "spotifyId": "5Vc0erJkVXCMdbEqDKFgeG",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Vc0erJkVXCMdbEqDKFgeG",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "8ebc5c0d-08fc-41cd-8e5f-e5cb33149c52",
+      "title": "New Kadampa Tradition - a talk with Michelle Haslam",
+      "description": "jon is joined by special guest Dr. Michelle Haslam; they discuss her \u00A0time in the authoritarian group known as \u0022new kadampa tradition\u0022, her \u00A0background in psychology, and how and why people are drawn into \u00A0destructive groups. \u00A0links discussed in the video: the research of Miriam Anders on the cultic misuse of Buddhist \u00A0teachings: https://www.mdpi.com/2077-1444/10/11/622/htm \u00A0 The Pema Ch\u00F6dr\u00F6n Foundation: https://pemachodronfoundation.org \u00A0the findings of the Australian Royal Commission on Institutional \u00A0Responses to Child Sexual Abuse: \u00A0https://www.childabuseroyalcommission.gov.au \u00A0 Michelle\u0027s YouTube channel: https://www.youtube.com/channel/UCDz-Wk0ykecFBgB7Pg31cVQ/videos \u00A0 and for help getting out of/surviving the NKT and other similar groups, \u00A0Michelle\u0027s website is here: https://newkadampatraditionreport.org \u00A0 jon\u0027s paper, the Total Freedom Trap: \u00A0https://www.cs.cmu.edu/~dst/Fishman/atack-freedom-trap.html \u00A0 Sir Ken Robinson\u0027s work: http://sirkenrobinson.com",
+      "release": "2020-12-23T00:00:00",
+      "duration": "01:23:02.7240000",
+      "explicit": false,
+      "spotifyId": "5NdeBW0K1U9jykWy3F6tHX",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5NdeBW0K1U9jykWy3F6tHX",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "18c78869-4e3c-4387-ae0a-86c0996e9e58",
+      "title": "parental alienation and prevention with Nick Child",
+      "description": "What happens when after separating, one parent turns the children \u00A0against the other? Retired psychiatrist Nick Child talks to Jon about \u00A0the dire failure of the court system, and how to focus on the needs of \u00A0the children. \u00A0 links: \u00A0 Nick\u2019s blog: https://thealienationexperience.org.uk\u00A0 Blink, Think, Choice Voice: https://youtu.be/RdKPIK71SP8 (and Spike\u2019s song based on it): https://youtu.be/La2NnQVwJXE\u00A0 Socrates for six-year-olds (poor quality): https://youtu.be/vyD0l9En6Io\u00A0 the Brainwashing of my Dad: https://www.thebrainwashingofmydad.com/\u00A0 Institute for propaganda analysis: https://en.wikipedia.org/wiki/Institute_for_Propaganda_Analysis",
+      "release": "2020-12-23T00:00:00",
+      "duration": "02:01:55.0060000",
+      "explicit": false,
+      "spotifyId": "335m7m94dDQuEy44ckRB9t",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/335m7m94dDQuEy44ckRB9t",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "c32831bc-92a7-49ca-be0b-7f6479cb9258",
+      "title": "truth and certainty with Mike Rinder",
+      "description": "Mike Rinder joins Jon again to answer some viewer questions and address \u00A0L. Ron Hubbard\u0027s problematic relationship to the truth. They also \u00A0discuss how the feeling of certainty keeps the members of many \u00A0destructive authoritarian groups from asking questions, considering that \u00A0the leader might be wrong, or even leaving the group. \u00A0 links:\u00A0 to Jon\u0027s paper \u0022the possible origins for Dianetics and Scientology\u0022: \u00A0http://home.snafu.de/tilman/j/origins6.html?fbclid=IwAR3-V34IOIp8GcbWyOk_jdRtuMEV2S4NiA_m-igR0O17DNAvn7A79uK8IdQ#F63 \u00A0 and the accompanying video: https://youtu.be/VGQXQaiLa2A",
+      "release": "2020-12-22T00:00:00",
+      "duration": "00:59:35.0140000",
+      "explicit": false,
+      "spotifyId": "200DDgRRqybSKOxNtmypVs",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/200DDgRRqybSKOxNtmypVs",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "71f5e73e-96f4-4529-baef-c501d99e2a98",
+      "title": "possible origins of Dianetics and Scientology, part one",
+      "description": "Does Scientology have origins in Sex Magick and Psychoanalysis? Is Ron \u00A0Hubbard\u2019s claim to have been the only \u201Csource\u201D of Dianetics and \u00A0Scientology true? Jon examines Hubbard\u2019s many borrowings from other \u00A0authors and shows that Hubbard was aware of many of these sources. \u00A0 This is the third in a series of recordings of Jon\u0027s papers on \u00A0Scientology, all of which are available to read free here: \u00A0https://www.facebook.com/notes/jon-atack/jons-writings-books-speeches/284316635347772/ \u00A0 To see the other two recordings of Jon reading his papers, see our \u00A0playlist here: \u00A0https://www.youtube.com/playlist?list=PLOprfY0DnRsb0GBFQzrqmpMmNLRL6vmYi \u00A0 To see Jon\u0027s talk on the history of Hubbard and the origins of \u00A0Scientology: https://youtu.be/2ILs6yB-d6A \u00A0 Buy your copy of Jon\u0027s Tao Te Ching here: \u00A0https://www.amazon.com/Tao-Te-Ching-Lao-Tzu-ebook/dp/B072JL13DR/ \u00A0 And Let\u0027s Sell These People a Piece of Blue Sky here: \u00A0https://www.amazon.com/Lets-sell-these-people-Piece-ebook/dp/B00BF385HG/ \u00A0(now FREE with Kindle Unlimited!) \u00A0 For Jeff Jacobsen\u0027s work on Hubbard: \u00A0http://www.xenu.net/archive/lrhbare/ his other writings: http://jeffjacobsen.org/writings.htm and his YouTube channel: https://www.youtube.com/user/cultxpt \u00A0please also see\u00A0 Caroline Letkeman\u2019s excellent work on the origins of \u00A0Scientology: http://www.carolineletkeman.org/propaganda/papers.html",
+      "release": "2020-12-21T00:00:00",
+      "duration": "00:41:39.0480000",
+      "explicit": false,
+      "spotifyId": "0Gp6PbjCsDhwMdniGGDHw1",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Gp6PbjCsDhwMdniGGDHw1",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "2077453e-9669-48c2-8944-4f608e2a742b",
+      "title": "possible origins of Dianetics and Scientology, part two",
+      "description": "the second part of Jon\u0027s paper about Ron Hubbard\u0027s plagiarism. Hubbard \u00A0was not the \u0027sole source\u0027 of Dianetics and Scientology, nor did all of \u00A0the \u0027major\u0027 ideas come from him. With a comparison of Tibetan ideas \u00A0popularized by Alexandra David-Neel in the 1930s to some of the \u00A0fundamental ideas of Scientology. \u00A0With many thanks to Mark Owen Plummer, for help in finding the right \u00A0covers to the correct editions. \u00A0 This is the second of two parts; here is part one: \u00A0https://youtu.be/VGQXQaiLa2A \u00A0 This is the fourth in a series of recordings of Jon\u0027s papers on \u00A0Scientology, all of which are available to read free here: \u00A0https://www.facebook.com/notes/jon-atack/jons-writings-books-speeches/284316635347772/ \u00A0 To see the previous videos of Jon reading his papers, see our playlist \u00A0here: \u00A0https://www.youtube.com/playlist?list=PLOprfY0DnRsb0GBFQzrqmpMmNLRL6vmYi \u00A0 To see Jon\u0027s talk on the history of Hubbard and the origins of \u00A0Scientology: https://youtu.be/2ILs6yB-d6A",
+      "release": "2020-12-21T00:00:00",
+      "duration": "00:57:09.9820000",
+      "explicit": false,
+      "spotifyId": "1k2EVDsxZRCt0OJNRNA3EA",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1k2EVDsxZRCt0OJNRNA3EA",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "66d5bdeb-db4a-4734-b94c-096390417032",
+      "title": "manipulation by gaslighting - a talk with Spike Robinson",
+      "description": "gaslighting is the \u201Croyal road\u201D to exerting control \u2013 but can you spot \u00A0it? Spike joins Jon to talk about gaslighting and the major techniques \u00A0predators use to confuse and paralyze people into compliance. \u00A0 links:\u00A0 the Levenson empathy index: https://openpsychometrics.org/tests/LSRP.php \u00A0\u00A0\u00A0 Australian Royal Commission final report: \u00A0https://www.childabuseroyalcommission.gov.au/final-report \u00A0 Gaslighting:\u00A0 the play: \u00A0https://www.amazon.com/Gaslight-Frenchs-Acting-Patrick-Hamilton/dp/0573115796/ \u00A0\u00A0\u00A0 rent the 1940 movie: \u00A0https://www.amazon.com/Gaslight-Anton-Walbrook/dp/B002R1Q1ZS/ \u00A0\u00A0 or watch free on YouTube: \u00A0https://www.youtube.com/watch?v=UYmtzaHwCKo\u0026t=8s \u00A0\u00A0 the DVD of the 1944 movie: \u00A0https://www.amazon.com/Gaslight-Charles-Boyer/dp/B07N4CL3HD/ \u00A0 and take our fun gaslighting quiz here: shorturl.at/glnN2",
+      "release": "2020-12-20T00:00:00",
+      "duration": "01:14:08.1310000",
+      "explicit": false,
+      "spotifyId": "1q1OEWfjbA0QGW6r2PGhiW",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1q1OEWfjbA0QGW6r2PGhiW",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "f03dfe84-e387-4ce4-88a8-e05808a33512",
+      "title": "how Scientology harassment works - with Mike Rinder",
+      "description": "Mike Rinder was head of Scientology\u2019s sophisticated harassment \u00A0department for 20 years. In this stunning interview he describes the \u00A0fanatical determination to utterly ruin anyone who questions Hubbard\u0027s \u00A0work as a \u0027Supppressive Person\u0027, an \u0027enemy\u0027 of humanity. That included \u00A0Jon, when they last spoke in the mid-90s. Mike shows the secret Hubbard \u00A0documents that direct the harassment of \u0027Suppressives\u0027 and describes in \u00A0chilling detail the activities of the Office of Special Affairs which is \u00A0now trying to silence him with a typical smear campaign. In the 80s and \u00A090s there were only a handful of persistent critics, but now thousands \u00A0are speaking out, so Scientology no longer has the resources to harass \u00A0any but its most vocal critics. These include Mike Rinder who has become \u00A0Scientology\u0027s most dangerous former insider. \u00A0\u00A0 We urge you to join the #IGotOut campaign! \u00A0\u00A0 for Chris Owens\u0027 research and papers on Scientology: http://www.cs.cmu.edu/~dst/Cowen/ \u00A0for Jon\u0027s paper, \u0022Scientology: religion or intelligence agency?\u0022: http://home.snafu.de/tilman/j/berlin.html?fbclid=IwAR3G8FA_m_jpw1sqwJLRTPtqlT8vTONCYInPmOlZ5yDPQVsNQeY8aNRAMto \u00A0 Mike Rinder\u0027s blogpost on Scientology\u0027s harassment procedures: https://www.mikerindersblog.org/dealing-with-critics-of-scientology-the-l-ron-hubbard-playbook/ \u00A0 for the documentary, \u0022the Shrinking World of L. Ron Hubbard\u0022: https://youtu.be/L_w-YWwC1lI \u00A0 for all the current news on Scientology, check out Tony Ortega\u0027s Underground Bunker: https://tonyortega.org \u00A0 for Chris Shelton\u0027s YouTube channel: https://www.youtube.com/channel/UCF326xyA0QHI7Z5xAwKQDJg",
+      "release": "2020-12-18T00:00:00",
+      "duration": "00:59:35.2460000",
+      "explicit": false,
+      "spotifyId": "3rsJwzqwBdfy51dn1UpwJt",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rsJwzqwBdfy51dn1UpwJt",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "6b1b588c-7998-4be1-8dc2-59c4e016e22a",
+      "title": "the Kazan seminar on cults with Professor Alexander Dvorikin",
+      "description": "Jon joins Professor Alexander Dvorkin for the Kazan seminar in Kazan, in \u00A0the republic of Tatarstan, Russia, speaking remotely to an audience of \u00A0psychologists and educators about cults and how to deal with them. \u00A0 links:\u00A0 How Scientology Harassment works with Mike Rinder: https://youtu.be/M6KxZ6lnvIU \u00A0 predator list: https://www.facebook.com/AuthorJonAtack/posts/1076831346096293 \u00A0\u00A0 predator video: https://youtu.be/fHgbFLN3Nvs \u00A0 Ira Chaleff\u0027s \u0022Blink, Think, Choice, Voice\u0022: https://youtu.be/RdKPIK71SP8 \u00A0(and Spike\u0027s song based on his handbook): https://youtu.be/La2NnQVwJXE \u00A0 Yuval\u0027s presentation on fervor (part one): https://youtu.be/JF7ImlGUgCQ",
+      "release": "2020-12-17T00:00:00",
+      "duration": "01:45:30.0150000",
+      "explicit": false,
+      "spotifyId": "6cxyheTOzgghUAGyaoDOp2",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6cxyheTOzgghUAGyaoDOp2",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "53876d65-e6e6-41ea-9453-abadf7c8af7c",
+      "title": "moving beyond the guru - with Joe Kelly",
+      "description": "Joe Kelly spent nine years in Transcendental Meditation and then five \u00A0more with a rival swami, who convinced his former TM followers to sue \u00A0for refunds from that group. This led to Joe meeting Margaret Singer, \u00A0who helped to begin to rethink his involvement. For many years, Joe has \u00A0worked helping members of authoritarian groups to rethink their \u00A0involvement. \u00A0 note: the former Cult Awareness Network was shut down as a result of a \u00A0Scientology lawsuit, and then sold to that group as part of the \u00A0resulting settlement. Today those who contact CAN via its website or \u00A0phone number are connected to a Scientology front group. For more \u00A0information: https://en.wikipedia.org/wiki/New_Cult_Awareness_Network \u00A0\u00A0 links: \u00A0to the documentary \u2018Captive Minds\u2019: https://youtu.be/9UEfsSauTf4 the full story of the song \u2018Sexy Sadie\u2019: https://en.wikipedia.org/wiki/Sexy_Sadie",
+      "release": "2020-12-15T00:00:00",
+      "duration": "01:11:40.0110000",
+      "explicit": false,
+      "spotifyId": "1O6097u579MXYSPEhpnKwa",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1O6097u579MXYSPEhpnKwa",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "36ea96b2-7850-4e2a-831a-e7d7093b598f",
+      "title": "brainwashing",
+      "description": "jon and sam talk about the concept of brainwashing, as it is understood - \u00A0and misunderstood - by academics and governments. they consider the \u00A0ancient history of the term, and the modern applications being used to \u00A0deny whole populations their basic human rights worldwide.",
+      "release": "2020-10-13T00:00:00",
+      "duration": "00:18:19.3020000",
+      "explicit": false,
+      "spotifyId": "0IjpeUusWGeA72OQ5r3vHY",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0IjpeUusWGeA72OQ5r3vHY",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "aeb7f703-d277-4425-a793-07911305a46b",
+      "title": "human predators",
+      "description": "jon and sam atack discuss what we mean by the term \u0022human predator\u0022, and \u00A0how to spot and avoid those people who hurt others for their own gain \u00A0or even amusement. \u00A0for more information on human predators, including the complete list of \u00A0traits, check out jon\u0027s article here: \u00A0https://www.openmindsfoundation.org/faces_of_undue_influence/what-is-manipulation/human-predator/",
+      "release": "2020-10-13T00:00:00",
+      "duration": "00:16:33.0480000",
+      "explicit": false,
+      "spotifyId": "4Di8al4nmLq04dCUl3RJMK",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Di8al4nmLq04dCUl3RJMK",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "513919b6-4f94-479d-94f9-b37317f7ef25",
+      "title": "recruitment and seduction",
+      "description": "jon and sam atack discuss how people get seduced or recruited into high-control groups or relationships.",
+      "release": "2020-10-13T00:00:00",
+      "duration": "00:11:09.8960000",
+      "explicit": false,
+      "spotifyId": "6QZqKnKGG77m8rtriihKzo",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6QZqKnKGG77m8rtriihKzo",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "31bd3dc9-00e8-473f-9686-7327062a6541",
+      "title": "Types of predator",
+      "description": "jon and sam discuss the types of predatory people, how people become \u00A0predatory, and what they would like to see done to guard the world from \u00A0those who manipulate and hurt others for their own gain or amusement. \u00A0 for more information on human predators, including the complete list of \u00A0traits, check out jon\u0027s article here: \u00A0https://www.openmindsfoundation.org/faces_of_undue_influence/what-is-manipulation/human-predator/ follow us on Twitter: https://twitter.com/atack_jon\u00A0 Facebook: https://www.facebook.com/AuthorJonAtack and on Instagram: https://www.instagram.com/jon_atack Or watch our YouTubes : https://www.youtube.com/channel/UCI4tcSMV2kEh3BooY_XFSYQ",
+      "release": "2020-10-01T00:00:00",
+      "duration": "00:12:21.1350000",
+      "explicit": false,
+      "spotifyId": "6BeWT1KiSywLZbeheyFXvF",
+      "appleId": null,
+      "youTubeId": null,
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6BeWT1KiSywLZbeheyFXvF",
+        "apple": null,
+        "youtube": null
       }
     }
   ]

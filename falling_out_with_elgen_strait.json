@@ -15,6 +15,7 @@
       "spotifyId": "6bpdXoNf5aZpaP8jR7MCjY",
       "appleId": 1550448436,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bpdXoNf5aZpaP8jR7MCjY",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e11-inchon-deez-nuts-w-jane-austen-culture-night/id1550448436?i=1000620813539\u0026uo=4",
@@ -31,6 +32,9 @@
       "spotifyId": "5bRF4MGdAU1MtHqV1oslSq",
       "appleId": 1000618971355,
       "youTubeId": null,
+      "subjects": [
+        "Unification Church / Moonies"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5bRF4MGdAU1MtHqV1oslSq",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e10-the-abandonment-loop/id1550448436?i=1000618971355\u0026uo=4",
@@ -47,6 +51,7 @@
       "spotifyId": "70udADfydpZFUxHC1FKvtF",
       "appleId": 1000614645515,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/70udADfydpZFUxHC1FKvtF",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e9-the-empress-old-clothes/id1550448436?i=1000614645515\u0026uo=4",
@@ -63,6 +68,7 @@
       "spotifyId": "0wsRc8CNf9dzCtXlGehijr",
       "appleId": 1000610630822,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0wsRc8CNf9dzCtXlGehijr",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e8-a-marble-dicked-legacy/id1550448436?i=1000610630822\u0026uo=4",
@@ -79,6 +85,9 @@
       "spotifyId": "20B7XfK2ReqnienbDx5nBN",
       "appleId": 1000606201743,
       "youTubeId": null,
+      "subjects": [
+        "One-on-One Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/20B7XfK2ReqnienbDx5nBN",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e7-i-am-israel-israel-van-dorsten/id1550448436?i=1000606201743\u0026uo=4",
@@ -95,6 +104,7 @@
       "spotifyId": "5IkAe3PRoK6zMIFhfiUSCt",
       "appleId": 1000604023471,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5IkAe3PRoK6zMIFhfiUSCt",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e6-a-cinderhella-story-lillian-holdhus-part-2/id1550448436?i=1000604023471\u0026uo=4",
@@ -111,6 +121,7 @@
       "spotifyId": "6LkDx4N1yMCVETPtsf9EGF",
       "appleId": 1000603063429,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6LkDx4N1yMCVETPtsf9EGF",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e5-too-many-times-lillian-holdhus-part-1/id1550448436?i=1000603063429\u0026uo=4",
@@ -127,6 +138,7 @@
       "spotifyId": "1Vywc96jVrr7VHzCY5ZORL",
       "appleId": 1000600984880,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Vywc96jVrr7VHzCY5ZORL",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e4-unconditional-love-becca-spies-part-2/id1550448436?i=1000600984880\u0026uo=4",
@@ -143,6 +155,7 @@
       "spotifyId": "0PMdrPeNKnn1AQRI6SxOUH",
       "appleId": 1000599449121,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0PMdrPeNKnn1AQRI6SxOUH",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e3-unholy-positions-becca-spies-part-1/id1550448436?i=1000599449121\u0026uo=4",
@@ -159,6 +172,7 @@
       "spotifyId": "4aBQY2R3Xz3RjYYLk2Uhai",
       "appleId": 1000597380022,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4aBQY2R3Xz3RjYYLk2Uhai",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e2-fistful-of-luck-rob-lisa-kohn-part-2/id1550448436?i=1000597380022\u0026uo=4",
@@ -175,6 +189,7 @@
       "spotifyId": "3q7BBf7qqBzcHJchobjn70",
       "appleId": 1000596394821,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3q7BBf7qqBzcHJchobjn70",
         "apple": "https://podcasts.apple.com/us/podcast/s4-e1-raised-by-wolves-rob-lisa-kohn-part-1/id1550448436?i=1000596394821\u0026uo=4",
@@ -191,6 +206,7 @@
       "spotifyId": "5q01UoHEXHexH5KU1JTdPZ",
       "appleId": 1000594434760,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5q01UoHEXHexH5KU1JTdPZ",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e14-the-gambino-family-federation-tying-up-some/id1550448436?i=1000594434760\u0026uo=4",
@@ -207,6 +223,7 @@
       "spotifyId": "7B77bZDwzkp0Lg2PQJmqm2",
       "appleId": 1000591213499,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7B77bZDwzkp0Lg2PQJmqm2",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e13-falling-out-w-a-teenage-fundamentalist-on/id1550448436?i=1000591213499\u0026uo=4",
@@ -223,6 +240,7 @@
       "spotifyId": "4fAY9T6H7y5RmctMIkEAxV",
       "appleId": 1000577827475,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4fAY9T6H7y5RmctMIkEAxV",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e12-all-that-was-lost-and-all-that-is-yet-to-be/id1550448436?i=1000577827475\u0026uo=4",
@@ -239,6 +257,7 @@
       "spotifyId": "2SFB1j8ko5H0cf3luZYIPf",
       "appleId": 1000577123840,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2SFB1j8ko5H0cf3luZYIPf",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e11-fifty-to-seventy-theresa-tsukahara-part-1/id1550448436?i=1000577123840\u0026uo=4",
@@ -255,6 +274,7 @@
       "spotifyId": "75CP17SS4IqiTuHsizcsXx",
       "appleId": 1000576518697,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75CP17SS4IqiTuHsizcsXx",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e10-falling-out-x-blessed-child-heavenly-deception/id1550448436?i=1000576518697\u0026uo=4",
@@ -271,6 +291,7 @@
       "spotifyId": "3tsb8Un4zmc7ys1JGlVA18",
       "appleId": 1000575553150,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3tsb8Un4zmc7ys1JGlVA18",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e9-double-meanings-by-design-chris-kavanagh-matthew/id1550448436?i=1000575553150\u0026uo=4",
@@ -287,6 +308,7 @@
       "spotifyId": "76uAo2v8rmBCAD9xZ6o0H4",
       "appleId": 1000574802691,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/76uAo2v8rmBCAD9xZ6o0H4",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e8-the-downward-charisma-trajectory-chris-kavanagh/id1550448436?i=1000574802691\u0026uo=4",
@@ -303,6 +325,7 @@
       "spotifyId": "5wRPdGNjCUZxdQ2eXR09G9",
       "appleId": 1000570496416,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5wRPdGNjCUZxdQ2eXR09G9",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e7-fatal-hubris-tim-porter-part-2/id1550448436?i=1000570496416\u0026uo=4",
@@ -319,6 +342,7 @@
       "spotifyId": "2vgKkPWRDdvHkZmB0TDxtz",
       "appleId": 1000569697234,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2vgKkPWRDdvHkZmB0TDxtz",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e6-quote-friends-unquote-tim-porter-part-1/id1550448436?i=1000569697234\u0026uo=4",
@@ -335,6 +359,7 @@
       "spotifyId": "0rI9kvLwVXVMFBZYfiw2Cg",
       "appleId": 1000568774970,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0rI9kvLwVXVMFBZYfiw2Cg",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e5-falling-out-x-cult-vault-crimecon-lovebomb-live/id1550448436?i=1000568774970\u0026uo=4",
@@ -351,6 +376,7 @@
       "spotifyId": "2JZUElnwBNUC3FznmjKnUa",
       "appleId": 1000568020598,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JZUElnwBNUC3FznmjKnUa",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e4-fathers-day-john-gorenfeld-part-2/id1550448436?i=1000568020598\u0026uo=4",
@@ -367,6 +393,7 @@
       "spotifyId": "5l7QvUKlbvwVa1VZBPoF0J",
       "appleId": 1000567296164,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5l7QvUKlbvwVa1VZBPoF0J",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e3-dead-presidents-john-gorenfeld-part-1/id1550448436?i=1000567296164\u0026uo=4",
@@ -383,6 +410,7 @@
       "spotifyId": "7ap6Xu630ZrfGwJEJp2zk7",
       "appleId": 1000565547366,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ap6Xu630ZrfGwJEJp2zk7",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e2-naming-the-elephant-mx-yeb-raven-part-2/id1550448436?i=1000565547366\u0026uo=4",
@@ -399,6 +427,7 @@
       "spotifyId": "7fuA3CqKhjQvJANijvlxjY",
       "appleId": 1000564720495,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7fuA3CqKhjQvJANijvlxjY",
         "apple": "https://podcasts.apple.com/us/podcast/s3-e1-animals-in-the-halls-mx-yeb-raven-part-1/id1550448436?i=1000564720495\u0026uo=4",
@@ -415,6 +444,7 @@
       "spotifyId": "1I62WYEHtA3OuOVKzkBTC9",
       "appleId": 1000541258472,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1I62WYEHtA3OuOVKzkBTC9",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e12-the-house-wrapped-in-sorrow/id1550448436?i=1000541258472\u0026uo=4",
@@ -431,6 +461,7 @@
       "spotifyId": "3xIBAtnccpCCFOmVBW1vGW",
       "appleId": 1000539791972,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3xIBAtnccpCCFOmVBW1vGW",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e11-jesus-isnt-black-hes-korean-aurl-jin-vornbrock/id1550448436?i=1000539791972\u0026uo=4",
@@ -447,6 +478,7 @@
       "spotifyId": "7mdCPnVKwZcbJwsi6yKgWw",
       "appleId": 1000539082921,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7mdCPnVKwZcbJwsi6yKgWw",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e10-no-hope-academy-aurl-jin-vornbrock-sun-ae-davis-part-1/id1550448436?i=1000539082921\u0026uo=4",
@@ -463,6 +495,7 @@
       "spotifyId": "5GavRM6O9fgdY8DxUjnimU",
       "appleId": 1000537636340,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5GavRM6O9fgdY8DxUjnimU",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e9-survive-any-way-you-can-yousei-sama-part-2/id1550448436?i=1000537636340\u0026uo=4",
@@ -479,6 +512,7 @@
       "spotifyId": "1509H5UOCsRTLgOO0m024A",
       "appleId": 1000536904912,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1509H5UOCsRTLgOO0m024A",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e8-cha-cha-the-true-dog-yousei-sama-part-1/id1550448436?i=1000536904912\u0026uo=4",
@@ -495,6 +529,7 @@
       "spotifyId": "3kaWyk0m8UuhkbDwba1PHp",
       "appleId": 1000535323117,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3kaWyk0m8UuhkbDwba1PHp",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e7-this-is-trafficking-enryka-christopher-part-2/id1550448436?i=1000535323117\u0026uo=4",
@@ -511,6 +546,7 @@
       "spotifyId": "4dMMzYxMoKIsZsqwB2Pd4E",
       "appleId": 1000534606749,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4dMMzYxMoKIsZsqwB2Pd4E",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e6-a-ticket-to-heaven-enryka-christopher-part-1/id1550448436?i=1000534606749\u0026uo=4",
@@ -527,6 +563,7 @@
       "spotifyId": "1XwN1Flow4BhvFUDU4M0AD",
       "appleId": 1000533007633,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1XwN1Flow4BhvFUDU4M0AD",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e5-logical-phalluses/id1550448436?i=1000533007633\u0026uo=4",
@@ -543,6 +580,7 @@
       "spotifyId": "6Bun2klwUCMNRwnLLCFoPc",
       "appleId": 1000532285233,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Bun2klwUCMNRwnLLCFoPc",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e4-the-fathers-swelling-place/id1550448436?i=1000532285233\u0026uo=4",
@@ -559,6 +597,7 @@
       "spotifyId": "4XpGTwqZtzY9335v7s2djG",
       "appleId": 1000530898909,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4XpGTwqZtzY9335v7s2djG",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e3-a-million-dreams-limi-bauer-part-2/id1550448436?i=1000530898909\u0026uo=4",
@@ -575,6 +614,7 @@
       "spotifyId": "4iT1T7QvYdgWFneASONyFZ",
       "appleId": 1000525637293,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4iT1T7QvYdgWFneASONyFZ",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e2-a-chorus-of-sorrows-limi-bauer-part-1/id1550448436?i=1000525637293\u0026uo=4",
@@ -591,6 +631,7 @@
       "spotifyId": "4PADZEqr9OpSFlIgv8pqyE",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4PADZEqr9OpSFlIgv8pqyE",
         "apple": "https://podcasts.apple.com/us/podcast/s2-e1-the-f-d-up-brady-bunch/id1550448436?i=1000524407787\u0026uo=4",
@@ -607,6 +648,7 @@
       "spotifyId": "0kzZpINl7kqOqo3cyksycH",
       "appleId": 1000517928255,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0kzZpINl7kqOqo3cyksycH",
         "apple": "https://podcasts.apple.com/us/podcast/15-her-name-was-jen-kiaba-part-3/id1550448436?i=1000517928255\u0026uo=4",
@@ -623,6 +665,7 @@
       "spotifyId": "3b9WTLhD9FfMlUONB6RmRL",
       "appleId": 1000516958607,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3b9WTLhD9FfMlUONB6RmRL",
         "apple": "https://podcasts.apple.com/us/podcast/14-scorpion-house-jen-kiaba-part-2/id1550448436?i=1000516958607\u0026uo=4",
@@ -639,6 +682,7 @@
       "spotifyId": "380KFF3ANEUh7BpEwzVXhx",
       "appleId": 1000516011584,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/380KFF3ANEUh7BpEwzVXhx",
         "apple": "https://podcasts.apple.com/us/podcast/13-fuel-for-nightmares-jen-kiaba-part-1/id1550448436?i=1000516011584\u0026uo=4",
@@ -655,6 +699,7 @@
       "spotifyId": "67NC6OJ245d4I3UhbCgsEG",
       "appleId": 1000514109548,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/67NC6OJ245d4I3UhbCgsEG",
         "apple": "https://podcasts.apple.com/us/podcast/12-no-matter-what-happens-you-can-just-say-its-providential/id1550448436?i=1000514109548\u0026uo=4",
@@ -671,6 +716,7 @@
       "spotifyId": "4FvdzdzJXifcAGMwM3uXUM",
       "appleId": 1000513322646,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4FvdzdzJXifcAGMwM3uXUM",
         "apple": "https://podcasts.apple.com/us/podcast/11-i-think-jesus-wife-still-lives-there-hye-nam-gehring-part-1/id1550448436?i=1000513322646\u0026uo=4",
@@ -687,6 +733,7 @@
       "spotifyId": "6d5MdIhUAXt7KCIXvxjnV3",
       "appleId": 1000511331421,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6d5MdIhUAXt7KCIXvxjnV3",
         "apple": "https://podcasts.apple.com/us/podcast/10-fellas-is-it-gay-to-eat-plants-faith-yeon-part-2/id1550448436?i=1000511331421\u0026uo=4",
@@ -703,6 +750,7 @@
       "spotifyId": "1tK9D1Hi0nhPXIzoUeeHO1",
       "appleId": 1000510360434,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1tK9D1Hi0nhPXIzoUeeHO1",
         "apple": "https://podcasts.apple.com/us/podcast/9-district-twelve-faith-yeon-part-1/id1550448436?i=1000510360434\u0026uo=4",
@@ -719,6 +767,7 @@
       "spotifyId": "1hbiRmxrERuZUwy4epcI4j",
       "appleId": 1000508359367,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1hbiRmxrERuZUwy4epcI4j",
         "apple": "https://podcasts.apple.com/us/podcast/8-aids-teddy-bear-akina-cox-part-2/id1550448436?i=1000508359367\u0026uo=4",
@@ -735,6 +784,7 @@
       "spotifyId": "5ohouf4ooLLw8dJfldt6co",
       "appleId": 1000507483279,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ohouf4ooLLw8dJfldt6co",
         "apple": "https://podcasts.apple.com/us/podcast/7-torture-guns-and-hate-akina-cox-part-1/id1550448436?i=1000507483279\u0026uo=4",
@@ -751,6 +801,7 @@
       "spotifyId": "10J8OeEEKzqqWmqJArMmjK",
       "appleId": 1000506558587,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/10J8OeEEKzqqWmqJArMmjK",
         "apple": "https://podcasts.apple.com/us/podcast/1-miseducation-donna-cervelli-part-1/id1550448436?i=1000506558587\u0026uo=4",
@@ -767,6 +818,7 @@
       "spotifyId": "6NMJ0Oa21OM3Emg0Fj37Zr",
       "appleId": 1000506558434,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6NMJ0Oa21OM3Emg0Fj37Zr",
         "apple": "https://podcasts.apple.com/us/podcast/2-eternity-in-a-box-donna-cervelli-part-2/id1550448436?i=1000506558434\u0026uo=4",
@@ -783,6 +835,7 @@
       "spotifyId": "3FVGkKqIYUNFeu7mjkBQ5q",
       "appleId": 1000506558591,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FVGkKqIYUNFeu7mjkBQ5q",
         "apple": "https://podcasts.apple.com/us/podcast/3-tainted-blood-ares-meyer-part-1/id1550448436?i=1000506558591\u0026uo=4",
@@ -799,6 +852,7 @@
       "spotifyId": "7G6HJ0LIpmEqQi2QTMYjRG",
       "appleId": 1000506558436,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7G6HJ0LIpmEqQi2QTMYjRG",
         "apple": "https://podcasts.apple.com/us/podcast/4-forced-beatings-ares-meyer-part-2/id1550448436?i=1000506558436\u0026uo=4",
@@ -815,6 +869,7 @@
       "spotifyId": "4Nuo7gDKjPgJBJ9tMQEBm0",
       "appleId": 1000506558589,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Nuo7gDKjPgJBJ9tMQEBm0",
         "apple": "https://podcasts.apple.com/us/podcast/5-true-mafia-family-teddy-hose-part-1/id1550448436?i=1000506558589\u0026uo=4",
@@ -831,6 +886,7 @@
       "spotifyId": "5ienhP4WTZaJEBFhwqG8F7",
       "appleId": 1000506558590,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ienhP4WTZaJEBFhwqG8F7",
         "apple": "https://podcasts.apple.com/us/podcast/6-parentification-teddy-hose-part-2/id1550448436?i=1000506558590\u0026uo=4",
@@ -847,6 +903,7 @@
       "spotifyId": "4eU5UHAolJQctvqs6dur1N",
       "appleId": 1000506558588,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4eU5UHAolJQctvqs6dur1N",
         "apple": "https://podcasts.apple.com/us/podcast/0-1-welcome-to-falling-out/id1550448436?i=1000506558588\u0026uo=4",
@@ -863,6 +920,7 @@
       "spotifyId": "2c0E3RJ9ic7V4mQitzFKfq",
       "appleId": 1000506558435,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2c0E3RJ9ic7V4mQitzFKfq",
         "apple": "https://podcasts.apple.com/us/podcast/0-2-cultspeak-translator/id1550448436?i=1000506558435\u0026uo=4",

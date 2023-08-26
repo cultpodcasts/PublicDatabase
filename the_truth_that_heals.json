@@ -14,7 +14,8 @@
       "explicit": true,
       "spotifyId": "4dgLHilo1JHO8FAfalJyBR",
       "appleId": 1000624861057,
-      "youTubeId": null,
+      "youTubeId": "kxV46sh-tVA",
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4dgLHilo1JHO8FAfalJyBR",
         "apple": "https://podcasts.apple.com/us/podcast/grieving-the-loss-of-a-child-interview-with-barbara-legere/id1559758565?i=1000624861057\u0026uo=4",
@@ -31,6 +32,7 @@
       "spotifyId": "5XSp4ZXOofjk8nqMFTwtF8",
       "appleId": 1000623944715,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5XSp4ZXOofjk8nqMFTwtF8",
         "apple": "https://podcasts.apple.com/us/podcast/the-difficulties-of-leaving-an-end-times/id1559758565?i=1000623944715\u0026uo=4",
@@ -47,6 +49,11 @@
       "spotifyId": "2UJANwQsUtQzt06Gu31MAr",
       "appleId": 1000623498363,
       "youTubeId": null,
+      "subjects": [
+        "Children of God/Family International",
+        "Odyssey Study Group",
+        "Vishwananda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2UJANwQsUtQzt06Gu31MAr",
         "apple": "https://podcasts.apple.com/us/podcast/the-guru-interview-with-annabel/id1559758565?i=1000623498363\u0026uo=4",
@@ -63,6 +70,7 @@
       "spotifyId": "12BMTB3a982uFHbEzVnMnU",
       "appleId": 1000621963639,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/12BMTB3a982uFHbEzVnMnU",
         "apple": "https://podcasts.apple.com/us/podcast/a-discussion-on-purity-culture/id1559758565?i=1000621963639\u0026uo=4",
@@ -79,6 +87,7 @@
       "spotifyId": "43Ncj7y5GLTcyWnSSW7QK6",
       "appleId": 1000621607344,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/43Ncj7y5GLTcyWnSSW7QK6",
         "apple": "https://podcasts.apple.com/us/podcast/the-cults-views-on-purity-and-control/id1559758565?i=1000621607344\u0026uo=4",
@@ -95,6 +104,7 @@
       "spotifyId": "0Hf7QFfrDHiYpCU2INRJaA",
       "appleId": 1000618061585,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Hf7QFfrDHiYpCU2INRJaA",
         "apple": "https://podcasts.apple.com/us/podcast/the-shaming-behind-purity-culture-with-radiant-style/id1559758565?i=1000618061585\u0026uo=4",
@@ -111,6 +121,7 @@
       "spotifyId": "4qpDTMuFGM2ShQVGZY0FrI",
       "appleId": 1000615762094,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qpDTMuFGM2ShQVGZY0FrI",
         "apple": "https://podcasts.apple.com/us/podcast/healing-after-trafficking-interview-with-kellie-from/id1559758565?i=1000615762094\u0026uo=4",
@@ -127,6 +138,7 @@
       "spotifyId": "449qvNyPmhzeyDa6akNM2q",
       "appleId": 1000614564680,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/449qvNyPmhzeyDa6akNM2q",
         "apple": "https://podcasts.apple.com/us/podcast/interview-with-andrew-pledger-healing-from-religious/id1559758565?i=1000614564680\u0026uo=4",
@@ -143,6 +155,7 @@
       "spotifyId": "1HwIztWIVrCWgmKS6MnRJX",
       "appleId": 1000613289793,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1HwIztWIVrCWgmKS6MnRJX",
         "apple": "https://podcasts.apple.com/us/podcast/rising-above-the-darkness-my-healing-journey/id1559758565?i=1000613289793\u0026uo=4",
@@ -159,6 +172,7 @@
       "spotifyId": "1Ub4kbR5gfiVNK00KgWRdo",
       "appleId": 1000612549761,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Ub4kbR5gfiVNK00KgWRdo",
         "apple": "https://podcasts.apple.com/us/podcast/whats-the-meaning-of-being-alone/id1559758565?i=1000612549761\u0026uo=4",
@@ -175,6 +189,7 @@
       "spotifyId": "2aF6NlXnPN1VsqpDTT9lo3",
       "appleId": 1000611581314,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2aF6NlXnPN1VsqpDTT9lo3",
         "apple": "https://podcasts.apple.com/us/podcast/setting-up-healthy-boundaries/id1559758565?i=1000611581314\u0026uo=4",
@@ -191,6 +206,7 @@
       "spotifyId": "63gf2OnLUXCmf9Nmnyh9eK",
       "appleId": 1000611132920,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/63gf2OnLUXCmf9Nmnyh9eK",
         "apple": "https://podcasts.apple.com/us/podcast/making-connections-after-leaving-a-cult/id1559758565?i=1000611132920\u0026uo=4",
@@ -207,6 +223,7 @@
       "spotifyId": "0WEblKNNj6aOMD82tUrh9G",
       "appleId": 1000610154653,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0WEblKNNj6aOMD82tUrh9G",
         "apple": "https://podcasts.apple.com/us/podcast/my-healing-journey-after-leaving-an-end-times-cult/id1559758565?i=1000610154653\u0026uo=4",
@@ -223,6 +240,7 @@
       "spotifyId": "4F6h7DhwDV0Y4kOevVmiUg",
       "appleId": 1000609410190,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4F6h7DhwDV0Y4kOevVmiUg",
         "apple": "https://podcasts.apple.com/us/podcast/healing-from-an-end-times-cult/id1559758565?i=1000609410190\u0026uo=4",
@@ -239,6 +257,7 @@
       "spotifyId": "3EBoyonpUt1HKIH6gvzQRu",
       "appleId": 1000607800332,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3EBoyonpUt1HKIH6gvzQRu",
         "apple": "https://podcasts.apple.com/us/podcast/cult-vault-podcast-interview-with-kacey/id1559758565?i=1000607800332\u0026uo=4",
@@ -255,6 +274,7 @@
       "spotifyId": "1SJ2CXZk7xAETbl3fIO7GW",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1SJ2CXZk7xAETbl3fIO7GW",
         "apple": "https://podcasts.apple.com/us/podcast/my-story-of-solitary-confinement-the-dark/id1559758565?i=1000606684869\u0026uo=4",
@@ -271,6 +291,7 @@
       "spotifyId": "5VVjzNNl98fPAZGPpCZVd0",
       "appleId": 1000604613435,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VVjzNNl98fPAZGPpCZVd0",
         "apple": "https://podcasts.apple.com/us/podcast/the-painful-truth-on-shunning/id1559758565?i=1000604613435\u0026uo=4",
@@ -287,6 +308,9 @@
       "spotifyId": "0SGKCfkuCCLKuKKyRztV4u",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0SGKCfkuCCLKuKKyRztV4u",
         "apple": "https://podcasts.apple.com/us/podcast/interview-with-author-of-mentally-diseased-micah-losh/id1559758565?i=1000603576293\u0026uo=4",
@@ -303,6 +327,7 @@
       "spotifyId": "0MZQVKfE8hHpfoxPjscFUd",
       "appleId": 1000602576540,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0MZQVKfE8hHpfoxPjscFUd",
         "apple": "https://podcasts.apple.com/us/podcast/persecution-delusion-in-the-two-hearts-movement/id1559758565?i=1000602576540\u0026uo=4",
@@ -319,6 +344,7 @@
       "spotifyId": "5RYTgNvlqXU7MVCfo7zyn3",
       "appleId": 1000601588731,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5RYTgNvlqXU7MVCfo7zyn3",
         "apple": "https://podcasts.apple.com/us/podcast/an-intro-on-a-catholic-communitys-development/id1559758565?i=1000601588731\u0026uo=4",
@@ -335,6 +361,7 @@
       "spotifyId": "2E9Bsl89vCfdwanQzCXhpU",
       "appleId": 1000600082378,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2E9Bsl89vCfdwanQzCXhpU",
         "apple": "https://podcasts.apple.com/us/podcast/the-healing-power-of-music-interview-with-deciderio-beats/id1559758565?i=1000600082378\u0026uo=4",
@@ -351,6 +378,9 @@
       "spotifyId": "2OaHIoJOlpq6TAomPFnmYV",
       "appleId": 1000599208128,
       "youTubeId": null,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2OaHIoJOlpq6TAomPFnmYV",
         "apple": "https://podcasts.apple.com/us/podcast/inside-the-community-part-2-interview-with/id1559758565?i=1000599208128\u0026uo=4",
@@ -367,6 +397,9 @@
       "spotifyId": "2AyBTKjdqrUz2ZWOMBDSC6",
       "appleId": 1000599130526,
       "youTubeId": null,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AyBTKjdqrUz2ZWOMBDSC6",
         "apple": "https://podcasts.apple.com/us/podcast/inside-the-community-interview-with-junel-part-1/id1559758565?i=1000599130526\u0026uo=4",
@@ -383,6 +416,7 @@
       "spotifyId": "0HFCKLmqoWtZx9pQmZFYUs",
       "appleId": 1000597018727,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HFCKLmqoWtZx9pQmZFYUs",
         "apple": "https://podcasts.apple.com/us/podcast/the-truth-about-the-darkness-of-sex-trafficking/id1559758565?i=1000597018727\u0026uo=4",
@@ -399,6 +433,9 @@
       "spotifyId": "4uZSISOOfM0NtXrkEgrFSL",
       "appleId": 1000595855187,
       "youTubeId": null,
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4uZSISOOfM0NtXrkEgrFSL",
         "apple": "https://podcasts.apple.com/us/podcast/interview-with-dr-tamara-mc-on-the-healing-journey/id1559758565?i=1000595855187\u0026uo=4",
@@ -415,6 +452,7 @@
       "spotifyId": "60Hfy8haabmy1Ddp4g6Ksu",
       "appleId": 1000594211251,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/60Hfy8haabmy1Ddp4g6Ksu",
         "apple": "https://podcasts.apple.com/us/podcast/taking-back-your-power-after-leaving-a-toxic-relationship/id1559758565?i=1000594211251\u0026uo=4",
@@ -431,6 +469,9 @@
       "spotifyId": "2GepoSL2P1y3vsH3XyQO6j",
       "appleId": 1000593592955,
       "youTubeId": null,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GepoSL2P1y3vsH3XyQO6j",
         "apple": "https://podcasts.apple.com/us/podcast/fear-and-suffering/id1559758565?i=1000593592955\u0026uo=4",
@@ -447,6 +488,9 @@
       "spotifyId": "6pqwvabDiIGuneYrhI9LoJ",
       "appleId": 1000591185521,
       "youTubeId": null,
+      "subjects": [
+        "Children of God/Family International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6pqwvabDiIGuneYrhI9LoJ",
         "apple": "https://podcasts.apple.com/us/podcast/uncultured-interview-with-daniella-m-young/id1559758565?i=1000591185521\u0026uo=4",
@@ -463,6 +507,7 @@
       "spotifyId": "0gftTXpZHkXSsSQgY8obcP",
       "appleId": 1000590772920,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gftTXpZHkXSsSQgY8obcP",
         "apple": "https://podcasts.apple.com/us/podcast/the-spa-life-part-2-interview-with-diane-halfman/id1559758565?i=1000590772920\u0026uo=4",
@@ -479,6 +524,7 @@
       "spotifyId": "0ZBlMlD36KvLc45IepQ59c",
       "appleId": 1000590772833,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZBlMlD36KvLc45IepQ59c",
         "apple": "https://podcasts.apple.com/us/podcast/the-spa-life-part-1-interview-with-diane-halfman/id1559758565?i=1000590772833\u0026uo=4",
@@ -495,6 +541,7 @@
       "spotifyId": "0h8eW5hzXSygWVGPFcTu8p",
       "appleId": 1000590005744,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0h8eW5hzXSygWVGPFcTu8p",
         "apple": "https://podcasts.apple.com/us/podcast/interview-w-erika-bornman-pt-2-healing-from-cultic-abuse/id1559758565?i=1000590005744\u0026uo=4",
@@ -511,6 +558,7 @@
       "spotifyId": "4pcYnu8WQ53F0rjzma2HM9",
       "appleId": 1000589686158,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4pcYnu8WQ53F0rjzma2HM9",
         "apple": "https://podcasts.apple.com/us/podcast/interview-w-erika-bornman-when-leaving-isnt-enough/id1559758565?i=1000589686158\u0026uo=4",
@@ -527,6 +575,9 @@
       "spotifyId": "7x342C474VgGI9Zxk82Lkc",
       "appleId": 1000586057389,
       "youTubeId": null,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7x342C474VgGI9Zxk82Lkc",
         "apple": "https://podcasts.apple.com/us/podcast/forbidden-to-mourn-or-grieve-a-culty-experience/id1559758565?i=1000586057389\u0026uo=4",
@@ -543,6 +594,7 @@
       "spotifyId": "7ajCIdI7pKQPr9oyhLXsSa",
       "appleId": 1000585853226,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ajCIdI7pKQPr9oyhLXsSa",
         "apple": "https://podcasts.apple.com/us/podcast/owning-yourself-and-who-you-are-with-claire-millane/id1559758565?i=1000585853226\u0026uo=4",
@@ -559,6 +611,7 @@
       "spotifyId": "3VAKJypFWmcKGoTTlFDRkh",
       "appleId": 1000585138246,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3VAKJypFWmcKGoTTlFDRkh",
         "apple": "https://podcasts.apple.com/us/podcast/healing-from-childhood-trauma-and-life-after-leaving/id1559758565?i=1000585138246\u0026uo=4",
@@ -575,6 +628,9 @@
       "spotifyId": "2dysCBRwbAMWA6Z6Rohs0u",
       "appleId": 1000584209580,
       "youTubeId": null,
+      "subjects": [
+        "Mormonism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2dysCBRwbAMWA6Z6Rohs0u",
         "apple": "https://podcasts.apple.com/us/podcast/healing-from-childhood-trauma-conversations-with-ex/id1559758565?i=1000584209580\u0026uo=4",
@@ -591,6 +647,9 @@
       "spotifyId": "5YPnjmM2lECyC8txbDkH9O",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5YPnjmM2lECyC8txbDkH9O",
         "apple": "https://podcasts.apple.com/us/podcast/my-battles-with-thought-reform-and-brainwashing/id1559758565?i=1000582946459\u0026uo=4",
@@ -607,6 +666,9 @@
       "spotifyId": "0oNq2M7CDoG7nSrMpj1BQT",
       "appleId": 1000581248462,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0oNq2M7CDoG7nSrMpj1BQT",
         "apple": "https://podcasts.apple.com/us/podcast/conversations-with-former-jw/id1559758565?i=1000581248462\u0026uo=4",
@@ -623,6 +685,7 @@
       "spotifyId": "4MjJNmlG4Y4G0A99z67tvx",
       "appleId": 1000580746834,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4MjJNmlG4Y4G0A99z67tvx",
         "apple": "https://podcasts.apple.com/us/podcast/the-ex-members-of-the-community-the-hexed-members/id1559758565?i=1000580746834\u0026uo=4",
@@ -639,6 +702,7 @@
       "spotifyId": "3kwJyM3pjEY4VFXpdtOPvw",
       "appleId": 1000580116824,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3kwJyM3pjEY4VFXpdtOPvw",
         "apple": "https://podcasts.apple.com/us/podcast/healing-friendships-in-dublin/id1559758565?i=1000580116824\u0026uo=4",
@@ -655,6 +719,7 @@
       "spotifyId": "2BB2IyIQSSGBRJwqRftwzx",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BB2IyIQSSGBRJwqRftwzx",
         "apple": "https://podcasts.apple.com/us/podcast/fr-bing-exorcisms-and-dover-delaware/id1559758565?i=1000579708217\u0026uo=4",
@@ -671,6 +736,7 @@
       "spotifyId": "4O1EzotXSNYcjnQBsxnuvU",
       "appleId": 1000579311397,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4O1EzotXSNYcjnQBsxnuvU",
         "apple": "https://podcasts.apple.com/us/podcast/pushing-my-limits-with-purpose/id1559758565?i=1000579311397\u0026uo=4",
@@ -687,6 +753,7 @@
       "spotifyId": "75YTbad1zRR1dPfk16Iknv",
       "appleId": 1000579311341,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75YTbad1zRR1dPfk16Iknv",
         "apple": "https://podcasts.apple.com/us/podcast/when-following-god-feels-like-a-mistake/id1559758565?i=1000579311341\u0026uo=4",
@@ -703,6 +770,7 @@
       "spotifyId": "2tYhNGPCy6UgsrSpIewjWc",
       "appleId": 1000579024189,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tYhNGPCy6UgsrSpIewjWc",
         "apple": "https://podcasts.apple.com/us/podcast/outside-the-kingdom-hall-with-natalie-grand/id1559758565?i=1000579024189\u0026uo=4",
@@ -719,6 +787,7 @@
       "spotifyId": "0I8K0qbucqUFcGzu50pkUp",
       "appleId": 1000578233594,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0I8K0qbucqUFcGzu50pkUp",
         "apple": "https://podcasts.apple.com/us/podcast/healing-from-cult-experiences-with-dr-janja-lalich/id1559758565?i=1000578233594\u0026uo=4",
@@ -735,6 +804,9 @@
       "spotifyId": "1e8ByCEubFWdZA8vqxvlYH",
       "appleId": 1000577588682,
       "youTubeId": null,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1e8ByCEubFWdZA8vqxvlYH",
         "apple": "https://podcasts.apple.com/us/podcast/the-true-meaning-of-consent-with-joyce-short-and-nina-lucas/id1559758565?i=1000577588682\u0026uo=4",
@@ -751,6 +823,7 @@
       "spotifyId": "04jVFojzx0a1OkTnFBXfBb",
       "appleId": 1000576716949,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/04jVFojzx0a1OkTnFBXfBb",
         "apple": "https://podcasts.apple.com/us/podcast/interview-w-john-corcoran-a-love-story/id1559758565?i=1000576716949\u0026uo=4",
@@ -767,6 +840,7 @@
       "spotifyId": "32jrsJHsJ9xVGkZOfK4oFb",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/32jrsJHsJ9xVGkZOfK4oFb",
         "apple": "https://podcasts.apple.com/us/podcast/my-experience-leaving-religious-cult-life/id1559758565?i=1000576295402\u0026uo=4",
@@ -783,6 +857,7 @@
       "spotifyId": "0nJJYSVFHloV0wWi4ngSKa",
       "appleId": 1000571630557,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nJJYSVFHloV0wWi4ngSKa",
         "apple": "https://podcasts.apple.com/us/podcast/my-recruitment-story/id1559758565?i=1000571630557\u0026uo=4",
@@ -799,6 +874,7 @@
       "spotifyId": "0ORzNlAHGTKMMnRwuD3TxM",
       "appleId": 1000571284421,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ORzNlAHGTKMMnRwuD3TxM",
         "apple": "https://podcasts.apple.com/us/podcast/call-for-convent-reform-with-fellow-podcaster-alycia/id1559758565?i=1000571284421\u0026uo=4",
@@ -815,6 +891,7 @@
       "spotifyId": "0llkrxnKThINfpg5qxeL0X",
       "appleId": 1000570158462,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0llkrxnKThINfpg5qxeL0X",
         "apple": "https://podcasts.apple.com/us/podcast/ways-religious-abuse-was-justified-in-my-experience/id1559758565?i=1000570158462\u0026uo=4",
@@ -831,6 +908,7 @@
       "spotifyId": "46VLcsNHGFh6ppKNmuWc8v",
       "appleId": 1000569419144,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/46VLcsNHGFh6ppKNmuWc8v",
         "apple": "https://podcasts.apple.com/us/podcast/loving-your-genuine-self-healing-after-trauma-with/id1559758565?i=1000569419144\u0026uo=4",
@@ -847,6 +925,7 @@
       "spotifyId": "3ap6aiEcvrcLkZQu9vmDSh",
       "appleId": 1000567919957,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ap6aiEcvrcLkZQu9vmDSh",
         "apple": "https://podcasts.apple.com/us/podcast/positives-and-negatives-of-the-alliance-interview/id1559758565?i=1000567919957\u0026uo=4",
@@ -863,6 +942,7 @@
       "spotifyId": "2QpuaP3VDxlILNAJnfseOA",
       "appleId": 1000566047970,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2QpuaP3VDxlILNAJnfseOA",
         "apple": "https://podcasts.apple.com/us/podcast/exorcisms-in-a-cult-religious-community-and-mental-health/id1559758565?i=1000566047970\u0026uo=4",
@@ -879,6 +959,7 @@
       "spotifyId": "3FcPW6OyVWFzyxe54Iu4TC",
       "appleId": 1000564250510,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FcPW6OyVWFzyxe54Iu4TC",
         "apple": "https://podcasts.apple.com/us/podcast/what-is-spiritual-abuse/id1559758565?i=1000564250510\u0026uo=4",
@@ -895,6 +976,7 @@
       "spotifyId": "6FOSxnm8Z8PLPWaOW7yxt6",
       "appleId": 1000563161232,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6FOSxnm8Z8PLPWaOW7yxt6",
         "apple": "https://podcasts.apple.com/us/podcast/calling-for-transparency-of-a-cult/id1559758565?i=1000563161232\u0026uo=4",
@@ -911,6 +993,7 @@
       "spotifyId": "1szwMf90pwPlUmTRIUqBvG",
       "appleId": 1000561986983,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1szwMf90pwPlUmTRIUqBvG",
         "apple": "https://podcasts.apple.com/us/podcast/toxic-environments-and-the-cross/id1559758565?i=1000561986983\u0026uo=4",
@@ -927,6 +1010,7 @@
       "spotifyId": "7H4tf2nwtNTOYSP3bNFcWd",
       "appleId": 1000560865421,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7H4tf2nwtNTOYSP3bNFcWd",
         "apple": "https://podcasts.apple.com/us/podcast/separating-the-christ-like-from-the-cult-like/id1559758565?i=1000560865421\u0026uo=4",
@@ -943,6 +1027,7 @@
       "spotifyId": "6euuesVaOnv7PAjmNXscfY",
       "appleId": 1000559528299,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6euuesVaOnv7PAjmNXscfY",
         "apple": "https://podcasts.apple.com/us/podcast/was-i-in-a-cult/id1559758565?i=1000559528299\u0026uo=4",
@@ -959,6 +1044,7 @@
       "spotifyId": "6CZuwc5A3rqP8vzbGBIRRC",
       "appleId": 1000558062748,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CZuwc5A3rqP8vzbGBIRRC",
         "apple": "https://podcasts.apple.com/us/podcast/silenced-and-shamed-a-deeper-look-into-tactics-to/id1559758565?i=1000558062748\u0026uo=4",
@@ -975,6 +1061,7 @@
       "spotifyId": "0MXiKH9Mb6KsDMba7vnYxV",
       "appleId": 1000556597411,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0MXiKH9Mb6KsDMba7vnYxV",
         "apple": "https://podcasts.apple.com/us/podcast/why-i-remained-silent-part-ii-plus-commentary/id1559758565?i=1000556597411\u0026uo=4",
@@ -991,6 +1078,7 @@
       "spotifyId": "5VnPhCjtDTrXNBqtEIqpIA",
       "appleId": 1000555641383,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VnPhCjtDTrXNBqtEIqpIA",
         "apple": "https://podcasts.apple.com/us/podcast/why-i-remained-silent-part-1-plus-bonus-commentary-at-the-end/id1559758565?i=1000555641383\u0026uo=4",
@@ -1007,6 +1095,7 @@
       "spotifyId": "4538g3p4kjZFnK8bdvpZ8G",
       "appleId": 1000553497579,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4538g3p4kjZFnK8bdvpZ8G",
         "apple": "https://podcasts.apple.com/us/podcast/how-to-talk-to-ex-religious-followed-by-calling-out/id1559758565?i=1000553497579\u0026uo=4",
@@ -1023,6 +1112,7 @@
       "spotifyId": "69SSSatdvvpovR7i42CPxZ",
       "appleId": 1000551587917,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/69SSSatdvvpovR7i42CPxZ",
         "apple": "https://podcasts.apple.com/us/podcast/beaten-but-not-broken/id1559758565?i=1000551587917\u0026uo=4",
@@ -1039,6 +1129,7 @@
       "spotifyId": "1q5PNa8Yn41FwLKT3PEstV",
       "appleId": 1000550482446,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1q5PNa8Yn41FwLKT3PEstV",
         "apple": "https://podcasts.apple.com/us/podcast/hidden-in-the-jungle-dark-side-of-religious-life/id1559758565?i=1000550482446\u0026uo=4",
@@ -1055,6 +1146,7 @@
       "spotifyId": "2HFPWNd8c2KYFD24PEaRi9",
       "appleId": 1000550099625,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2HFPWNd8c2KYFD24PEaRi9",
         "apple": "https://podcasts.apple.com/us/podcast/the-good-side-of-religious-life/id1559758565?i=1000550099625\u0026uo=4",
@@ -1071,6 +1163,7 @@
       "spotifyId": "65rJake6leUyvjRoZH8l7h",
       "appleId": 1000549000099,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/65rJake6leUyvjRoZH8l7h",
         "apple": "https://podcasts.apple.com/us/podcast/when-following-god-feels-like-a-mistake-part-ii/id1559758565?i=1000549000099\u0026uo=4",
@@ -1087,6 +1180,7 @@
       "spotifyId": "5jfMD7prdRC67F3bdiGcVn",
       "appleId": 1000548011403,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5jfMD7prdRC67F3bdiGcVn",
         "apple": "https://podcasts.apple.com/us/podcast/santo-anghell/id1559758565?i=1000548011403\u0026uo=4",
@@ -1103,6 +1197,7 @@
       "spotifyId": "7se196FG3VXdNASRLIaXLN",
       "appleId": 1000547383542,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7se196FG3VXdNASRLIaXLN",
         "apple": "https://podcasts.apple.com/us/podcast/ptsd-of-a-former-religious/id1559758565?i=1000547383542\u0026uo=4",
@@ -1119,6 +1214,7 @@
       "spotifyId": "0JPEcUUII5X5PZmy6qeZ8p",
       "appleId": 1000546735520,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0JPEcUUII5X5PZmy6qeZ8p",
         "apple": "https://podcasts.apple.com/us/podcast/response-to-episode-when-following-god-feels-like-a-mistake/id1559758565?i=1000546735520\u0026uo=4",
@@ -1135,6 +1231,7 @@
       "spotifyId": "1haQoC3Ldt0iFWGBYfFkio",
       "appleId": null,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1haQoC3Ldt0iFWGBYfFkio",
         "apple": "https://podcasts.apple.com/us/podcast/skating-misfit/id1559758565?i=1000514090321\u0026uo=4",
