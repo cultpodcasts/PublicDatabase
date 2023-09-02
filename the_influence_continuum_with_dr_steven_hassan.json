@@ -13,13 +13,13 @@
       "duration": "01:02:55.4770000",
       "explicit": false,
       "spotifyId": "7aHDnzRVUpBTd6oFKkxQL9",
-      "appleId": null,
-      "youTubeId": "",
+      "appleId": 1000625915069,
+      "youTubeId": "QGDfhH3_IUQ",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7aHDnzRVUpBTd6oFKkxQL9",
-        "apple": null,
-        "youtube": null
+        "apple": "https://podcasts.apple.com/us/podcast/the-dangerous-case-of-donald-trump-and/id1603773245?i=1000625915069\u0026uo=4",
+        "youtube": "https://www.youtube.com/watch?v=QGDfhH3_IUQ"
       }
     },
     {

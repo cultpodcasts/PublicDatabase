@@ -6,6 +6,23 @@
   "youTubeChannelId": "",
   "episodes": [
     {
+      "id": "d2a9568b-4ff1-4e88-b57d-11b33b0344fe",
+      "title": "Cult hopping with Sue Winter",
+      "description": "Our guest today Sue Winter describes herself as a cult hopper and analyses her experiences of coercive control in the family in a religious group and in a commercial setting. She also raises the issue of the exploitation of older people through cultic practices within organizations. If you\u0027d like to support Stephen\u0027s charity bike ride from Lands End to John o\u0027Groats you can do so here: \u00A0 To reach out to us: https://www.culthackers.com/ To become a patron: https://www.patreon.com/culthackers/posts \u00A0",
+      "release": "2023-09-01T00:00:00",
+      "duration": "00:56:13.0560000",
+      "explicit": true,
+      "spotifyId": "3JnnRTvwMKHh3KyO4jnbpN",
+      "appleId": 1000626507085,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3JnnRTvwMKHh3KyO4jnbpN",
+        "apple": "https://podcasts.apple.com/us/podcast/cult-hopping-with-sue-winter/id1540824671?i=1000626507085\u0026uo=4",
+        "youtube": null
+      }
+    },
+    {
       "id": "38abd1c3-46ae-44e7-87f1-0de8c8f83cbb",
       "title": "Anti-cult activism: Hate, disgruntlement or something else?",
       "description": "Why do people do activism, write books or make podcasts after they\u0027ve left a \u00A0cultic group? Is it down to hate? Are they just disgruntled former members? A good-faith attempt to address the question of why so many ex members choose to take action or talk about their experience.\u00A0 If you\u0027d like to support Stephen\u0027s charity bike ride from Lands End to John o\u0027Groats you can do so here: \u00A0 To reach out to us: https://www.culthackers.com/ To become a patron: https://www.patreon.com/culthackers/posts \u00A0 \u00A0 \u00A0",
@@ -706,23 +723,6 @@
       }
     },
     {
-      "id": "382abe12-0baf-43cf-9500-b5db0dd8c4bf",
-      "title": "Escaping Morningland Church with Frankie Tease",
-      "description": "Frankie Tease was a member of Morningland Monastery at Long Beach California group from the age of 8 through to 22. Frankie describes the group as a New Age religious soup of Jesus, Buddha and Gandhi and she describes some harrowing experiences. She now hosts her own podcast called The Frankie Files which focuses on cults, mind control and sexuality in society. If you are enjoying the podcast you can support for just $1.50 per month by becoming a patron. You will also receive a weekly exclusive podcast and other benefits. Patreon https://www.patreon.com/culthackers Contact us at https://culthackers.com/ The Frankie Files Podcast https://pod.link/1615611478 \u00A0",
-      "release": "2023-02-11T00:00:00",
-      "duration": "01:02:22.8000000",
-      "explicit": true,
-      "spotifyId": "1CCaVmVXgLTJ4rqqXCd80K",
-      "appleId": 1000599101971,
-      "youTubeId": null,
-      "subjects": [],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/1CCaVmVXgLTJ4rqqXCd80K",
-        "apple": "https://podcasts.apple.com/podcast/escaping-morningland-church-with-frankie-tease/id1540824671?i=1000599101971",
-        "youtube": null
-      }
-    },
-    {
       "id": "527a5aff-4418-436b-aaf4-74496ef8780c",
       "title": "Identity and our three selves after leaving a cult",
       "description": "Celine and Stephen explore the question of identity and how cults attempt to control the individual, social and group self. And, what\u0027s the journey after leaving? Contact us https://culthackers.com/ If you find the podcast useful and you\u0027d like to support it you can do so through our Patreon page.\u00A0 https://www.patreon.com/culthackers/posts Reference Leary, M. R., \u0026 Tangney, J. P. (Eds.). (2011).\u00A0Handbook of self and identity. Guilford Press.",
@@ -772,23 +772,6 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/7GnKszlZzBIjx5T5PEvKvN",
         "apple": "https://podcasts.apple.com/podcast/recovering-from-jehovahs-witnesses-mental-health-counsellor/id1540824671?i=1000597003396",
-        "youtube": null
-      }
-    },
-    {
-      "id": "e3987bbf-2304-4f09-b9d3-39d5b8c3c5fa",
-      "title": "Cracking Cults Collaboration - Meet The Podcasters!",
-      "description": "Today Stephen and Celine are joined by Elgen Strait ex Moonie - Falling Out Podcast, Frankie Tease ex Morningland Church - Frankie Files and Clint Heacock ex Evangelical - The Mindshift Podcast to talk about cults, coercive control, cult research, cult education and much more.\u00A0 Thank you to Frankie, Elgen and Clint. If you\u0027ve not already, check out their shows. \u00A0 If you\u0027d like to support the podcast you can for just $1.50 https://www.patreon.com/culthackers/posts The Guest\u0027s Podcasts The Frankie Files https://pod.link/1615611478 Falling Out https://pod.link/1550448436 Mindshift https://pod.link/1199559501 \u00A0 \u00A0 \u00A0 \u00A0",
-      "release": "2023-01-21T00:00:00",
-      "duration": "01:12:56.5680000",
-      "explicit": true,
-      "spotifyId": "1Js9VXKCf6hLRxz8tPY1Jk",
-      "appleId": 1000595829041,
-      "youTubeId": null,
-      "subjects": [],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/1Js9VXKCf6hLRxz8tPY1Jk",
-        "apple": "https://podcasts.apple.com/podcast/cracking-cults-collaboration-meet-the-podcasters/id1540824671?i=1000595829041",
         "youtube": null
       }
     },
@@ -2307,23 +2290,6 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/7aq7tJPso6p8t4i3cdMQ8a",
         "apple": "https://podcasts.apple.com/podcast/christmas-special/id1540824671?i=1000545716965",
-        "youtube": null
-      }
-    },
-    {
-      "id": "cc9b73af-c5fc-4648-be94-c9c55dc2435f",
-      "title": "MindShift Time! Interview with Clint Heacock on Religious Deconstruction and Dominion Theology",
-      "description": "Clint Heacock was raised in a Fundamentalist Christian group.\u00A0As a young man he studied theology and Bible studies in various academic settings and completed his PHD in 2011 with his dissertation being a rhetorical-critical study of the book of Ezekiel. He is a former pastor of an Evangelical church and served in full time ministry.\u00A0 He moved to the UK and started a podcast called \u0027The Preacher\u0027s Forum\u0027. Already deconstructing his fundamentalist beliefs he found during the podcast that he was questioning everything. He changed the name of the podcast to MindShift and now explores christian deconstruction, religious trauma and dominion theology. We talked to him about his story and about his research into Dominion Theology and what it means for politics in the US and beyond. Become a patron to \u0027What should I think about...?\u0027 for just \u00A31 ($1:50) https://www.patreon.com/whatshouldithinkabout/posts \u00A0  Check out Clint\u0027s MindShift Podcast   https://pod.link/1199559501 \u00A0 MindShift Website https://mindshiftpodcast.co.uk/ \u00A0  \u00A0",
-      "release": "2021-12-18T00:00:00",
-      "duration": "01:05:25.1760000",
-      "explicit": true,
-      "spotifyId": "5dEVwlhWDQ4fXbADswqdlj",
-      "appleId": 1000545357311,
-      "youTubeId": null,
-      "subjects": [],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/5dEVwlhWDQ4fXbADswqdlj",
-        "apple": "https://podcasts.apple.com/podcast/mindshift-time-interview-with-clint-heacock-on/id1540824671?i=1000545357311",
         "youtube": null
       }
     },
