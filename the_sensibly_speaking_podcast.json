@@ -3511,12 +3511,12 @@
       "duration": "00:53:20",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000439282600,
       "youTubeId": "187sKVuyDTA",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/the-anti-scientology-cult-and-ex-cult-members/id1030984057?i=1000439282600",
         "youtube": "https://www.youtube.com/watch?v=187sKVuyDTA"
       }
     },
@@ -3545,12 +3545,12 @@
       "duration": "01:15:46",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000437192668,
       "youTubeId": "wrmJTKY0GBU",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/why-do-people-go-nuts-over-belief-ft-dr-yuval-laor/id1030984057?i=1000437192668",
         "youtube": "https://www.youtube.com/watch?v=wrmJTKY0GBU"
       }
     },
@@ -3681,12 +3681,12 @@
       "duration": "01:11:36",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000431444276,
       "youTubeId": "q3FkFmaYZVY",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/scientology-and-case-supervision-ft-sunny-pereira/id1030984057?i=1000431444276",
         "youtube": "https://www.youtube.com/watch?v=q3FkFmaYZVY"
       }
     },
@@ -3715,12 +3715,12 @@
       "duration": "01:00:20",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000430473642,
       "youTubeId": "X58czBL47Bc",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/the-psychology-of-social-media/id1030984057?i=1000430473642",
         "youtube": "https://www.youtube.com/watch?v=X58czBL47Bc"
       }
     },
@@ -3834,12 +3834,12 @@
       "duration": "01:07:44",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000427054949,
       "youTubeId": "TIkf_vMBUmw",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/politics-religion-and-other-inoffensive-subjects-with/id1030984057?i=1000427054949",
         "youtube": "https://www.youtube.com/watch?v=TIkf_vMBUmw"
       }
     },
@@ -3902,12 +3902,12 @@
       "duration": "01:03:01",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000425396461,
       "youTubeId": "SAZ0RT2T2_A",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/inherent-bias-in-academia-and-politics-ft-mark-horowitz/id1030984057?i=1000425396461",
         "youtube": "https://www.youtube.com/watch?v=SAZ0RT2T2_A"
       }
     },
@@ -3936,12 +3936,12 @@
       "duration": "01:34:56",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000424466599,
       "youTubeId": "87IH-O9ZNQI",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/what-it-means-to-be-an-american-in-2019/id1030984057?i=1000424466599",
         "youtube": "https://www.youtube.com/watch?v=87IH-O9ZNQI"
       }
     },
@@ -3970,12 +3970,12 @@
       "duration": "00:30:51",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000423571428,
       "youTubeId": "TgYyR-cNCkU",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/save-your-internet-article-13-and-the-eu/id1030984057?i=1000423571428",
         "youtube": "https://www.youtube.com/watch?v=TgYyR-cNCkU"
       }
     },
@@ -4004,12 +4004,12 @@
       "duration": "00:46:22",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000422678565,
       "youTubeId": "aZSMA65q-EM",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/pipe-bombs-and-terorrism-where-does-the-buck-stop/id1030984057?i=1000422678565",
         "youtube": "https://www.youtube.com/watch?v=aZSMA65q-EM"
       }
     },
@@ -4123,12 +4123,12 @@
       "duration": "02:05:28",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000419347581,
       "youTubeId": "c51kU8fMBnk",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/why-trump-in-in-a-lot-of-trouble/id1030984057?i=1000419347581",
         "youtube": "https://www.youtube.com/watch?v=c51kU8fMBnk"
       }
     },
@@ -4463,12 +4463,12 @@
       "duration": "01:11:19",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000409457098,
       "youTubeId": "utO31TKGAjk",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/a-sensible-discussion-about-gun-control/id1030984057?i=1000409457098",
         "youtube": "https://www.youtube.com/watch?v=utO31TKGAjk"
       }
     },
@@ -4582,12 +4582,12 @@
       "duration": "00:46:09",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000401917316,
       "youTubeId": "9IEjsREUmmI",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/anonymous-vs-scientology-10th-anniversary-protest-episode/id1030984057?i=1000401917316",
         "youtube": "https://www.youtube.com/watch?v=9IEjsREUmmI"
       }
     },
@@ -4667,12 +4667,12 @@
       "duration": "01:02:27",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000399211038,
       "youTubeId": "-Z8iU-gDopU",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/exposing-scientology-ft-karen-pressley/id1030984057?i=1000399211038",
         "youtube": "https://www.youtube.com/watch?v=-Z8iU-gDopU"
       }
     },
@@ -4939,12 +4939,12 @@
       "duration": "01:24:52",
       "explicit": false,
       "spotifyId": null,
-      "appleId": null,
+      "appleId": 1000392321464,
       "youTubeId": "o7GHFXPQ6gs",
       "subjects": [],
       "urls": {
         "spotify": null,
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/escaping-scientology-ft-karen-pressley/id1030984057?i=1000392321464",
         "youtube": "https://www.youtube.com/watch?v=o7GHFXPQ6gs"
       }
     },
