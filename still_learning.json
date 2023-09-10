@@ -1,42 +1,28 @@
 {
   "id": "cd13ad52-6cd2-4cd2-a93e-28611ea58d2e",
-  "type": "Podcast",
   "name": "Still Learning w/India Oxenberg",
-  "publisher": "India Oxenberg",
-  "hasBundledEpisodes": false,
-  "indexAllEpisodes": true,
-  "primaryPostService": "Spotify",
   "spotifyId": "4Zp7TT9IM8Z99JmEZQrLwO",
   "appleId": 1703268205,
   "youTubeChannelId": "",
-  "youTubePublicationDelay": "",
-  "titleRegex": "(?\u0027episodenumberprefix\u0027^\\d\u002B)?( ?\\:? ?)?(?\u0027title\u0027.*?)$",
-  "descriptionRegex": "",
-  "episodeMatchRegex": "",
   "episodes": [
     {
       "id": "2b90b621-a026-4c41-980a-692aa572d911",
-      "type": "Episode",
       "title": "1: Diane Benscoter: Cult Survivor Turned Deprogrammer",
       "description": "In this episode, India is speaking with Diane Benscoter on how to identify psychological manipulation and emotional vulnerabilities in ourselves and others, using their own stories.\u00A0  If there\u0027s anything else you want to learn, or if you have any inquiries:  \u00A0 \u00A0Email: stilllearningthepodcast@gmail.com   Social media:   \u00A0 \u00A0 Instagram: @stilllearningthepodast \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0@indiaoxenberg    **Don\u0027t forget to REVIEW and SUBSCRIBE on Apple Podcasts and Spotify!**  Created and Produced by India Oxenberg Co-Producer, editing and sound by Madigan\u00A0 Music by Max Ramm\u00A0 Artwork by www.byanmari.com   ",
-      "posted": true,
-      "ignored": false,
       "release": "2023-08-18T00:00:00",
       "duration": "01:00:49.8540000",
       "explicit": true,
       "spotifyId": "4mzLPydUZQQtk5mUaReGWF",
       "appleId": 1000624895764,
       "youTubeId": null,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mzLPydUZQQtk5mUaReGWF",
         "apple": "https://podcasts.apple.com/podcast/diane-benscoter-cult-survivor-turned-deprogrammer/id1703268205?i=1000624895764",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "NXIVM"
-      ]
+      }
     }
-  ],
-  "fileKey": "still_learning"
+  ]
 }

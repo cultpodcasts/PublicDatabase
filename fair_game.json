@@ -1,1762 +1,1420 @@
 {
   "id": "7bbe5d28-1fce-4eff-a901-fbc191c24154",
-  "type": "Podcast",
   "name": "Fair Game",
-  "publisher": "Leah Remini \u0026 Mike Rinder",
-  "hasBundledEpisodes": false,
-  "indexAllEpisodes": true,
-  "primaryPostService": "Spotify",
   "spotifyId": "4vKGBFQuKX5QZOzWZKrh3T",
   "appleId": 1523307706,
   "youTubeChannelId": "",
-  "youTubePublicationDelay": "",
-  "titleRegex": "",
-  "descriptionRegex": "",
-  "episodeMatchRegex": "",
   "episodes": [
     {
       "id": "b10c4dbd-1a09-4ac4-81c5-25a053a96dec",
-      "type": "Episode",
       "title": "Fair Game 2.0",
       "description": "If you thought that Scientology could fair game the Fair Game podcast, you were mistaken. We\u2019re back; and we\u2019re coming back stronger than ever. There will be new episodes twice a week starting at the end of August \u2013 make sure to subscribe so you don\u2019t miss them. It feels good to be back.  For more on this and all other topics covered on the show, head to our website: https://fairgamepodcast.com ",
-      "posted": false,
-      "ignored": false,
       "release": "2022-08-10T00:00:00",
       "duration": "00:01:04.1820000",
       "explicit": false,
       "spotifyId": "6qnm9luPjNacQFTN823Y7r",
       "appleId": 1000575712516,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6qnm9luPjNacQFTN823Y7r",
         "apple": "https://podcasts.apple.com/podcast/fair-game-2-0/id1523307706?i=1000575712516",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "eacfa568-6456-4a20-86bd-4e5c34948143",
-      "type": "Episode",
       "title": "Episode 80: Tony Ortega Inside the Scientology Bubble",
       "description": "\u00A0We welcome our old friend Tony Ortega back to the Fair Game podcast to talk about\u00A0the current state of scientology, their ongoing financial crimes and the devastation COVID 19 has wrought on their information control.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-03-08T00:00:00",
       "duration": "00:58:09.1490000",
       "explicit": false,
       "spotifyId": "7fo4EkaGKCsH2FBuvbmZ1h",
       "appleId": 1000574698567,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7fo4EkaGKCsH2FBuvbmZ1h",
         "apple": "https://podcasts.apple.com/podcast/episode-80-tony-ortega-inside-the-scientology-bubble/id1523307706?i=1000574698567",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b732c7ca-7b9b-45f8-99f0-22d18a366aa1",
-      "type": "Episode",
       "title": "Episode 79: Roberta Blevins MLM Whistleblower",
       "description": "We spoke with Roberta Blevins, a former member of a Multi-Level-Marketing (MLM) scam known as LuLaRoe.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-03-01T00:00:00",
       "duration": "01:16:01.2400000",
       "explicit": false,
       "spotifyId": "0FtkUAkvVELfQ1gDJuq4q0",
       "appleId": 1000574698568,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0FtkUAkvVELfQ1gDJuq4q0",
         "apple": "https://podcasts.apple.com/podcast/episode-79-roberta-blevins-mlm-whistleblower/id1523307706?i=1000574698568",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "d6ee7733-634e-4101-bc16-2172a60d9470",
-      "type": "Episode",
       "title": "Episode 78: Dylan Gill and Church of Spiritual Technology",
       "description": "We talk to former executive of Church of Spiritual Technology (CST) about the organization established to preserve Hubbard\u0027s words in the event of a nuclear holocaust for all future civilizations, what the symbols etched into the ground mean, the various homes built for Hubbard after his death that are maintained to this day, and much more.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-02-22T00:00:00",
       "duration": "01:11:41.6090000",
       "explicit": false,
       "spotifyId": "4K5JvHfDcAVxPaVRjQvIuN",
       "appleId": 1000574698569,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4K5JvHfDcAVxPaVRjQvIuN",
         "apple": "https://podcasts.apple.com/podcast/episode-78-dylan-gill-and-church-of-spiritual-technology/id1523307706?i=1000574698569",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "74cbe431-eff0-4890-a9ae-747c055d8c7b",
-      "type": "Episode",
       "title": "Episode 77: Jefferson Hawkins",
       "description": "Leah and Mike are joined by Jeff Hawkins, an extremely talented, thoughtful and articulate former Sea Org member to recount his experiences with David Miscavige, his role in making Dianetics a bestseller again the 80\u0027s and his journey into and out of scientology.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-02-15T00:00:00",
       "duration": "00:54:17.2340000",
       "explicit": false,
       "spotifyId": "1o21AnSv21KMjICVnkPM4U",
       "appleId": 1000574698505,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1o21AnSv21KMjICVnkPM4U",
         "apple": "https://podcasts.apple.com/podcast/episode-77-jefferson-hawkins/id1523307706?i=1000574698505",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "da3b14c0-d855-4376-8089-1560eeb703b1",
-      "type": "Episode",
       "title": "Episode 76: Professor Aharon Friedman",
       "description": "Former scientologist Aharon Friedman is a professor of Physics and Electrical Engineering and serves on the Board of the Israeli Center for Cults\u2019 Victims. Unlike L. Ron Hubbard, he really IS a nuclear physicist. We talk about his experiences in scientology, what drove him to escape and his work helping victims of cults today.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-02-08T00:00:00",
       "duration": "01:07:30.6250000",
       "explicit": false,
       "spotifyId": "3CZRSADS2j7ousJ5uZ98Om",
       "appleId": 1000574698435,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3CZRSADS2j7ousJ5uZ98Om",
         "apple": "https://podcasts.apple.com/podcast/episode-76-professor-aharon-friedman/id1523307706?i=1000574698435",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "47860a76-5897-4d6b-abdb-d46bb703b670",
-      "type": "Episode",
       "title": "Episode 75: Marc Headley on Scientology and the Internet",
       "description": "We welcome back our old friend Marc Headley to talk about Scientology and the internet, including covering the bonkers domain names scientology has registered, and how they have unsuccessfully attempted to control access to information on the World Wide Web.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-02-01T00:00:00",
       "duration": "01:02:32.6200000",
       "explicit": false,
       "spotifyId": "1D0UbVdkotLO6Uh2Ca6z3W",
       "appleId": 1000574698479,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1D0UbVdkotLO6Uh2Ca6z3W",
         "apple": "https://podcasts.apple.com/podcast/episode-75-marc-headley-on-scientology-and-the-internet/id1523307706?i=1000574698479",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "017b93b5-1f98-495d-97d6-e70ea8227af0",
-      "type": "Episode",
       "title": "Episode 74: Julian Wain on WISE",
       "description": "We speak to our old friend and Leah family member Julian Wain about his experiences with WISE (World Institute of Scientology Enterprises) companies and how they implement high pressure sales techniques into dental and chiropractic offices, and are recruitment agencies for scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-01-25T00:00:00",
       "duration": "01:00:59.6240000",
       "explicit": false,
       "spotifyId": "2oUXr906TSwG2CJ7oiKhSU",
       "appleId": 1000574698480,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2oUXr906TSwG2CJ7oiKhSU",
         "apple": "https://podcasts.apple.com/podcast/episode-74-julian-wain-on-wise/id1523307706?i=1000574698480",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "1baa9546-77fb-4b5f-8d44-4a538bc57225",
-      "type": "Episode",
       "title": "Episode 73: Operation Clambake Founder Andreas Heldal-Lund",
       "description": "\u00A0This week we have a treat -- we talk with the creator of Operation Clambake, and one of the earliest non-scientologists to go head-to-head with scientology in the fledgling days of the internet.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-01-18T00:00:00",
       "duration": "01:07:41.6220000",
       "explicit": false,
       "spotifyId": "11WiQoEFExb89ylqmXV2Kb",
       "appleId": 1000574698592,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/11WiQoEFExb89ylqmXV2Kb",
         "apple": "https://podcasts.apple.com/podcast/episode-73-operation-clambake-founder-andreas-heldal-lund/id1523307706?i=1000574698592",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4ae0f1d9-6890-4a26-a674-930e83c22d45",
-      "type": "Episode",
       "title": "Episode 72: Stefani Hutchison Exposing the Lies",
       "description": "We bring back one of our favorites this week, the wonderful Stefani Hutchison. Stefani was never a scientologist, but has taken up the cudgel of exposing the lies of scientology on her excellent blog: Confront and Shatter.\u00A0In this episode, we cover some of the sleuth work Stefani has done, investigating the claims made by scientology and their front groups.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-01-11T00:00:00",
       "duration": "01:11:59.1110000",
       "explicit": false,
       "spotifyId": "2tZL0w9iYT8zkF6Sb5rifc",
       "appleId": 1000574698531,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tZL0w9iYT8zkF6Sb5rifc",
         "apple": "https://podcasts.apple.com/podcast/episode-72-stefani-hutchison-exposing-the-lies/id1523307706?i=1000574698531",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "41a90be5-5c11-40c4-bb69-db0236a29d0e",
-      "type": "Episode",
       "title": "Episode 71: Listener Questions #10",
       "description": "Leah and Mike start 2022 with one of our favorites -- more Listener Questions. We cover a wide scope of topics, from Fair Game campaign tactics to preserving Hubbard\u0027s \u0022legacy\u0022 on stainless steel plates in titanium capsules in nuclear-bomb-proof vaults and the embarrassing \u0022We Stand Tall\u0022 song video...    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2022-01-04T00:00:00",
       "duration": "01:04:06.6870000",
       "explicit": false,
       "spotifyId": "2Eb6koUi10WLQxOzCNtaXT",
       "appleId": 1000574698434,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Eb6koUi10WLQxOzCNtaXT",
         "apple": "https://podcasts.apple.com/podcast/episode-71-listener-questions-10/id1523307706?i=1000574698434",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4b39b172-7c8f-41bc-9308-4f6593e33bf1",
-      "type": "Episode",
       "title": "Episode 70: Claire Headley Knowledge Reports",
       "description": "Leah and Mike continue their discussion from last week about Committees of Evidence with Claire Headley, covering the snitch culture of scientology and the subject of Knowledge Reports -- one of the most important control mechanisms within the scientology world.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-12-21T00:00:00",
       "duration": "01:03:54.1220000",
       "explicit": false,
       "spotifyId": "3NKKJ0i3o1ihwyL0mrQvth",
       "appleId": 1000574698370,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3NKKJ0i3o1ihwyL0mrQvth",
         "apple": "https://podcasts.apple.com/podcast/episode-70-claire-headley-knowledge-reports/id1523307706?i=1000574698370",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "10b256a8-ab74-4c90-a0e5-ea08646e0fb6",
-      "type": "Episode",
       "title": "Episode 69: Claire Headley on Committees of Evidence",
       "description": "Leah and Mike talk to their old friend and Aftermath OG Claire Headley again this week, this time to discuss Committees of Evidence. What are they exactly, our personal experiences convening, participating and being victims of them, and how they differ from arbitration.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-12-14T00:00:00",
       "duration": "01:19:12.9790000",
       "explicit": false,
       "spotifyId": "2ZfONuZjaADBOspIVz41qZ",
       "appleId": 1000574698570,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ZfONuZjaADBOspIVz41qZ",
         "apple": "https://podcasts.apple.com/podcast/episode-69-claire-headley-on-committees-of-evidence/id1523307706?i=1000574698570",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "66a4cb6b-003c-422d-afcc-04955debc08c",
-      "type": "Episode",
       "title": "Episode 68: Chris Shelton on Cult Apologists",
       "description": "This week Leah and Mike talk to their old friend Chris Shelton about cult apologists. These are the people who make a career (often lucrative) out of offering expert academic opinions in support of \u0022New Religious Movements\u0022 -- cults. It\u0027s a racket that scientology has used to gain credibility.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-12-07T00:00:00",
       "duration": "01:14:17.1160000",
       "explicit": false,
       "spotifyId": "1qXkN9ovIDUjVblBnv5j6u",
       "appleId": 1000574698571,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1qXkN9ovIDUjVblBnv5j6u",
         "apple": "https://podcasts.apple.com/podcast/episode-68-chris-shelton-on-cult-apologists/id1523307706?i=1000574698571",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "8838d011-c8ac-483c-af0c-058836a0d789",
-      "type": "Episode",
       "title": "Episode 67: Listener Questions #9",
       "description": "This week we have another one of our favorite Listener Questions episodes... We have a lot of great questions, including what the organization does with all the money it makes? Are the PI\u0027s scientologists? What would happen if we tried to rejoin scientology? What is the most bizarre Hubbard policy?    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-11-23T00:00:00",
       "duration": "01:04:19.3040000",
       "explicit": false,
       "spotifyId": "2eCa4OWzMotUtP0P03eBcF",
       "appleId": 1000574698371,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2eCa4OWzMotUtP0P03eBcF",
         "apple": "https://podcasts.apple.com/podcast/episode-67-listener-questions-9/id1523307706?i=1000574698371",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "94f27fa1-a6d7-414d-a9a3-242824689359",
-      "type": "Episode",
       "title": "Episode 66 : Dr. Willy Rice Pastor of Calvary Baptist Clearwater",
       "description": "Leah and Mike welcome Dr. Willy Rice, Senior Pastor at Calvary Baptist Church in Clearwater to the podcast. Willy has been one of the few community leaders who has taken a strong, public stance against the abuses of scientology. We talk about the influence of scientology in the community and the lie that you can a Christian and a scientologist.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-11-16T00:00:00",
       "duration": "01:08:38.6220000",
       "explicit": false,
       "spotifyId": "0TdyLBVkUKwHEc2DzFBXLM",
       "appleId": 1000574698436,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0TdyLBVkUKwHEc2DzFBXLM",
         "apple": "https://podcasts.apple.com/podcast/episode-66-dr-willy-rice-pastor-of-calvary-baptist/id1523307706?i=1000574698436",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ccdf9ec0-04cd-4a6c-9748-0310a31dc034",
-      "type": "Episode",
       "title": "Episode 65: Filmmaker and former Jehovah\u0027s Witness Aaron Kaufman",
       "description": "Leah and Mike talk to filmmaker Aaron Kaufman. Known for producing Robert Rodriguez films, more recently he directed Crusaders, a documentary on Jehovah\u0027s Witnesses for Vice TV.\u00A0Aaron was raised a JW. His doc focuses on the data base containing allegations of sexual abuse amassed by the organization which they have refused to make public. Plenty of scientology parallels in this discussion. \u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-11-09T00:00:00",
       "duration": "01:13:01.2310000",
       "explicit": false,
       "spotifyId": "3vLqbYNf3FJ46Ee8ZpL0AH",
       "appleId": 1000574698572,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vLqbYNf3FJ46Ee8ZpL0AH",
         "apple": "https://podcasts.apple.com/podcast/episode-65-filmmaker-and-former-jehovahs-witness/id1523307706?i=1000574698572",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e8254d13-2e62-4072-a690-9ba650a6697c",
-      "type": "Episode",
       "title": "Episode 64 : Tory \u0022Magoo\u0022 Christman",
       "description": "Leah and Mike talk to a long term scientology whistleblower, Tory \u0022Magoo\u0022 Christman. Her story covers the gamut -- OSA dirty tricks, disconnection, the Lisa McPherson Trust, being Fair Gamed and a whole lot more. It is an episode that seemed too short with such a bright, smart and kind person.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-11-02T00:00:00",
       "duration": "01:14:49.6130000",
       "explicit": false,
       "spotifyId": "39DDLcKtkFCSFVCCsZk83h",
       "appleId": 1000574698482,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/39DDLcKtkFCSFVCCsZk83h",
         "apple": "https://podcasts.apple.com/podcast/episode-64-tory-magoo-christman/id1523307706?i=1000574698482",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e30aae4e-c7f9-4b4f-9e29-8399c1ea09a4",
-      "type": "Episode",
       "title": "Episode 63: Former SO Member Nora Ames",
       "description": "Leah and Mike welcome Nora Ames, former SO member and outspoken whistleblower concerning the hypocrisy of scientology\u0027s rampant homophobia. She has one of the most incredible and harrowing escape from the Sea Org stories as well as what she did to get her mother out of scientology. Both her father and mother were scientology Guardian Office workers.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-10-26T00:00:00",
       "duration": "01:13:25.8640000",
       "explicit": false,
       "spotifyId": "7qfNeATkd5FAnDpyfJ7o42",
       "appleId": 1000574698481,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7qfNeATkd5FAnDpyfJ7o42",
         "apple": "https://podcasts.apple.com/podcast/episode-63-former-so-member-nora-ames/id1523307706?i=1000574698481",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "aad2fb58-4d7b-45f8-bef2-59cf719c0e41",
-      "type": "Episode",
       "title": "Episode 62: The Aftermath OG Amy Scobee",
       "description": "Leah and Mike welcome their dear friend Amy Scobee. Amy was in charge of scientology Celebrity Centres for many years and had a lot of personal experience with scientology\u0027s biggest celebrities. She was also the catalyst for The Aftermath when she reached out with the story of her mother, Bonnie. They were featured in the first episode.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-10-19T00:00:00",
       "duration": "01:19:24.1070000",
       "explicit": false,
       "spotifyId": "37o9kOHev8FFg9YV7IOfBN",
       "appleId": 1000574698506,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37o9kOHev8FFg9YV7IOfBN",
         "apple": "https://podcasts.apple.com/podcast/episode-62-the-aftermath-og-amy-scobee/id1523307706?i=1000574698506",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "76d859a1-dec1-4199-b40b-8c2f2389db3a",
-      "type": "Episode",
       "title": "Episode 61: Julian Wain and the Delphian School",
       "description": "Leah and Mike welcome back Julian Wain, who appeared with his wife Katherine in Episode 49. This time they discuss the Delphian schools -- Julian both attended and taught there. These, like other \u0022Applied Scholastics\u0022 schools use Hubbard \u0022technology\u0022 to indoctrinate kids and act as recruitment pools for the Sea Org, despite the public claims they make.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-10-12T00:00:00",
       "duration": "00:57:52.1170000",
       "explicit": false,
       "spotifyId": "3G3H9LaqMJ4mjaho5Vn7P5",
       "appleId": 1000574698577,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3G3H9LaqMJ4mjaho5Vn7P5",
         "apple": "https://podcasts.apple.com/podcast/episode-61-julian-wain-and-the-delphian-school/id1523307706?i=1000574698577",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ed30b0ec-4879-40ba-a4ff-5573aa682689",
-      "type": "Episode",
       "title": "Episode 60: Clearwater City Council Candidate Aaron Smith-Levin",
       "description": "\u00A0In this episode Leah and Mike talk to their old friend Aaron Smith-Levin about a wide variety of topics, including the status of Goliath the SP dog, but focus on his announcement that he is running to be elected to the Clearwater City Council and the activities of the Aftermath Foundation.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-10-07T00:00:00",
       "duration": "00:54:59.6040000",
       "explicit": false,
       "spotifyId": "7e3yziB3nVQS2w4NOW3YeA",
       "appleId": 1000574698507,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7e3yziB3nVQS2w4NOW3YeA",
         "apple": "https://podcasts.apple.com/podcast/episode-60-clearwater-city-council-candidate-aaron/id1523307706?i=1000574698507",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "00bf112b-4c1b-424b-b15e-22246d755f4b",
-      "type": "Episode",
       "title": "Episode 59: Listener Questions Part 8",
       "description": "A special edition of Listener Questions. Leah and Mike recorded this together in LA. As usual, they cover a lot of ground from why any OT would wear glasses and a question about Tom Cruise\u0027s bravery to High Crimes and the traits of an SP. Mike even has an answer that shocked Leah about something Hubbard claimed about himself. \u00A0Check out video from this Q\u0026A on www.mikerindersblog.org    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-09-28T00:00:00",
       "duration": "00:50:06.5630000",
       "explicit": false,
       "spotifyId": "6yHLB75ddiLx6GBfzyfNOM",
       "appleId": 1000574698573,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yHLB75ddiLx6GBfzyfNOM",
         "apple": "https://podcasts.apple.com/podcast/episode-59-listener-questions-part-8/id1523307706?i=1000574698573",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "a3e5b6dc-5d9d-40f5-901a-b41a4b178a0c",
-      "type": "Episode",
       "title": "Episode 58: Nicole Norton \u0026 Becky Lovell Inside RA MA and Guru Jagat",
       "description": "Leah and Mike talk with Nicole Norton and Becky Lovell , whistleblowers exposing the abuses of the RA MA Institute for Applied Yogic Science and Technology and its leader Guru Jagat (Katie Griggs). The stories of abuse, money motivation and a culture of worship of the guru are reminiscent of scientology and so many other high control organizations.        Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-09-21T00:00:00",
       "duration": "00:51:00.2440000",
       "explicit": false,
       "spotifyId": "4ql2F1dYqXe2qIrrGownje",
       "appleId": 1000574698647,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ql2F1dYqXe2qIrrGownje",
         "apple": "https://podcasts.apple.com/podcast/episode-58-nicole-norton-becky-lovell-inside-ra-ma/id1523307706?i=1000574698647",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "6659aa8d-1412-49cf-abeb-9697f32a0a7c",
-      "type": "Episode",
       "title": "Episode 57 - Ex Int Base Security Chief Gary (Jackson) Morehead",
       "description": "Leah and Mike interview Gary \u0022Jackson\u0022 Morehead, the former head of security at the confidential scientology headquarters near Hemet in Riverside County California. They cover the efforts taken to prevent Sea Org members from leaving, both physical and mental, what the \u0022Blow Drill\u0022 consists of, what a \u0022Life History\u0022 is and plenty more.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-09-14T00:00:00",
       "duration": "01:17:24.3620000",
       "explicit": false,
       "spotifyId": "1Wnue5dzTgX8PP78VprTER",
       "appleId": 1000574698648,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Wnue5dzTgX8PP78VprTER",
         "apple": "https://podcasts.apple.com/podcast/episode-57-ex-int-base-security-chief-gary-jackson-morehead/id1523307706?i=1000574698648",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "8ec31595-d631-4a17-98ca-b4f45adc812b",
-      "type": "Episode",
       "title": "Episode 56: Mat Pesch Former Scientology Finance Guy",
       "description": "Leah and Mike do a deep dive into scientology finances and fundraising with Mat Pesch. Mat was formerly in charge of the money-making and money control divisions at the Flag Land Base -- the single largest source of revenue for scientology on earth. Mat\u0027s no nonsense explanations of the inner-workings of the scientology business machine are at times humorous, but always horrifying.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-08-31T00:00:00",
       "duration": "00:54:53.1260000",
       "explicit": false,
       "spotifyId": "6grmgn23bmQAB8KXmuFZRq",
       "appleId": 1000574698575,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6grmgn23bmQAB8KXmuFZRq",
         "apple": "https://podcasts.apple.com/podcast/episode-56-mat-pesch-former-scientology-finance-guy/id1523307706?i=1000574698575",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ae757934-9c21-4870-8152-28db134fffd6",
-      "type": "Episode",
       "title": "Episode 55: Ian Rafalko and Dylan Follo",
       "description": "Leah and Mike talk with Ian Rafalko and Dylan Follo.\u00A0\u00A0Ian became an internet sensation when he posted a TikTok video about his father, scientologist chiropractor Eric Berg. Both were recently staff in scientology \u0022ideal\u0022 orgs -- their experiences are pretty shocking. Ian\u0027s family has been torn apart and his wife chose scientology over him.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-08-23T00:00:00",
       "duration": "01:36:03.6830000",
       "explicit": false,
       "spotifyId": "5ADQqS3t3gMEMOBC5wcdCB",
       "appleId": 1000574698484,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ADQqS3t3gMEMOBC5wcdCB",
         "apple": "https://podcasts.apple.com/podcast/episode-55-ian-rafalko-and-dylan-follo/id1523307706?i=1000574698484",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "6bb3690e-e9f3-424b-997b-cf76d302383a",
-      "type": "Episode",
       "title": "Episode 54: The Sea Organization Deep Dive with Hana Whitfield",
       "description": "Leah and Mike do a deep dive into the Sea Organization with Hana Whitfield, one of the first Sea Org members. Hana joined L. Ron Hubbard in Las Palmas in 1967, and went on to Captain various Sea Org ships and bases. We cover the early years of the formation of the SO, her recollections of Hubbard, his \u0022Mission Into Time\u0022 and much more.      Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-08-17T00:00:00",
       "duration": "01:03:18.5170000",
       "explicit": false,
       "spotifyId": "63dPCYDybARXnEz83KlM88",
       "appleId": 1000574698574,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/63dPCYDybARXnEz83KlM88",
         "apple": "https://podcasts.apple.com/podcast/episode-54-the-sea-organization-deep-dive-with/id1523307706?i=1000574698574",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "9fd75946-0915-4ab9-ac40-fe7957a66871",
-      "type": "Episode",
       "title": "Episode 53 Listener Questions 7",
       "description": "Leah and Mike take on more listener questions: Who does the Fair Gaming?\u00A0What is CCHR? How scientology views the disabled? What PTSness is. Who was the Duke of Chug? Scientology\u0027s sense of humor... and much more. Leah and Mike even act out what happens in an auditing session.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-08-10T00:00:00",
       "duration": "00:51:44.5740000",
       "explicit": false,
       "spotifyId": "2QOPpuEMe67XBsd8uPvmuT",
       "appleId": 1000574698593,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2QOPpuEMe67XBsd8uPvmuT",
         "apple": "https://podcasts.apple.com/podcast/episode-53-listener-questions-7/id1523307706?i=1000574698593",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "2d599e8e-a4c4-45d4-8496-873c505e1291",
-      "type": "Episode",
       "title": "Episode 52: The Bridge Deep Dive Part 3 with Vicki Marshall",
       "description": "Leah and Mike are joined by Leah\u0027s mother, Vicki, to discuss the OT levels. Vicki achieved the highest level of scientology auditing, OT VIII. They discuss the earlier OT levels and their experiences on them and then Vicki\u0027s recollections of OT VIII and how underwhelming it was.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-08-03T00:00:00",
       "duration": "01:09:40.1920000",
       "explicit": false,
       "spotifyId": "5ywn7p4j5mpz36vPRmT2Qs",
       "appleId": 1000574698649,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ywn7p4j5mpz36vPRmT2Qs",
         "apple": "https://podcasts.apple.com/podcast/episode-52-the-bridge-deep-dive-part-3-with-vicki-marshall/id1523307706?i=1000574698649",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "9af319cc-f956-4fe8-b1fd-0248595c98e5",
-      "type": "Episode",
       "title": "Episode 51: The Bridge Deep Dive Part 2 with Bruce Hines",
       "description": "Leah and Mike continue breaking down the Bridge to total Freedom towards the level of Clear with Bruce Hines. It\u0027s a stairway to heaven with turnstiles at every step.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-07-27T00:00:00",
       "duration": "01:08:13.5960000",
       "explicit": false,
       "spotifyId": "2M7ypQ6Cetk0RGJbTGEIdb",
       "appleId": 1000574698373,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2M7ypQ6Cetk0RGJbTGEIdb",
         "apple": "https://podcasts.apple.com/podcast/episode-51-the-bridge-deep-dive-part-2-with-bruce-hines/id1523307706?i=1000574698373",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "5436fd57-a375-4c09-ac5f-5f4a3b68d6a0",
-      "type": "Episode",
       "title": "Episode 50: The Bridge Deep Dive Part 1 with Bruce Hines",
       "description": "Leah and Mike\u0027s old friend Bruce Hines joins them for Part 1 breaking down the scientology \u0022Bridge to Total Freedom.\u0022 They delve into scientology testing, Introductory Services and how scientology hooks new customers (\u0022raw meat\u0022).    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-07-20T00:00:00",
       "duration": "01:08:17.1230000",
       "explicit": false,
       "spotifyId": "3qud47Zc4TBdDUlStGdoPN",
       "appleId": 1000574698650,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qud47Zc4TBdDUlStGdoPN",
         "apple": "https://podcasts.apple.com/podcast/episode-50-the-bridge-deep-dive-part-1-with-bruce-hines/id1523307706?i=1000574698650",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ffcd11ef-49ae-4104-9b2f-f5f075a60f6e",
-      "type": "Episode",
       "title": "Episode 49: Katherine and Julian Wain",
       "description": "Leah and Mike talk to two members of Leah\u0027s family who disconnected after she left scientology and have now reconnected. It\u0027s an up close and personal look at scientology disconnection and \u0022ethics.\u0022    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-07-19T00:00:00",
       "duration": "01:18:19.3760000",
       "explicit": false,
       "spotifyId": "1bDULxUe7cXQ8TTO2jCx3j",
       "appleId": 1000574698372,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1bDULxUe7cXQ8TTO2jCx3j",
         "apple": "https://podcasts.apple.com/podcast/episode-49-katherine-and-julian-wain/id1523307706?i=1000574698372",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "6a21f0e9-be12-4703-ade2-b2dd7af1e8f6",
-      "type": "Episode",
       "title": "Episode 48: Listener Questions Part 6",
       "description": "Leah and Mike answer more listener questions. In this episode they cover how many scientologists are left, why scientology is so \u0022white,\u0022 should scientology celebrities be boycotted, the front groups of scientology, Applied Scholastics schools, Degraded Beings, Dilettantes and more.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-07-06T00:00:00",
       "duration": "01:02:34.7360000",
       "explicit": false,
       "spotifyId": "4bZkQqEmHKAbnYM2sVChYX",
       "appleId": 1000574698580,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4bZkQqEmHKAbnYM2sVChYX",
         "apple": "https://podcasts.apple.com/podcast/episode-48-listener-questions-part-6/id1523307706?i=1000574698580",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "23f39512-67bb-43ad-bec3-6c94585624de",
-      "type": "Episode",
       "title": "Episode 47: The Life and Lies of L. Ron Hubbard Part 2",
       "description": "Leah and Mike continue the deep dive into the life and lies of Hubbard with Jon Atack, covering a whole new range of topics. Also a special tribute to Ron Miscavige.      Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-06-29T00:00:00",
       "duration": "01:18:34.7880000",
       "explicit": false,
       "spotifyId": "0NFyOxc7COWfZfCwbzEOb7",
       "appleId": 1000574698483,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0NFyOxc7COWfZfCwbzEOb7",
         "apple": "https://podcasts.apple.com/podcast/episode-47-the-life-and-lies-of-l-ron-hubbard-part-2/id1523307706?i=1000574698483",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "cdbda403-0485-4695-b0a5-4dcbe4a29e16",
-      "type": "Episode",
       "title": "Episode 46: The Life and Lies of L. Ron Hubbard Part 1",
       "description": "We begin a new series of episodes taking a detailed look at specific areas of scientology. We begin with L. Ron Hubbard. This first parts focuses on his life and claims up to Dianetics. We are very fortunate to welcome Jon Atack back to help us navigate the maze of lies, half-truths and exaggerations that characterize the man\u0027s life.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-06-22T00:00:00",
       "duration": "01:18:17.9650000",
       "explicit": false,
       "spotifyId": "6LFT5aTnqlb5eeLLRdfBi3",
       "appleId": 1000574698446,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6LFT5aTnqlb5eeLLRdfBi3",
         "apple": "https://podcasts.apple.com/podcast/episode-46-the-life-and-lies-of-l-ron-hubbard-part-1/id1523307706?i=1000574698446",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e0d3eb15-e094-48c7-a2bf-9e183d814b8a",
-      "type": "Episode",
       "title": "Episode 45: Activist and Author Dr. Brian Sheen",
       "description": "Brian is an old time scientologist who ended his involvement and went on earn a PhD. He never spoke about the abuses he witnessed because his former wife and daughter were still involved. The story of how he came to be declared SP and his daughter\u0027s disconnection is typically tragic but especially insane. His heroic fight to get her back continues to this day.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-06-15T00:00:00",
       "duration": "01:18:42.5200000",
       "explicit": false,
       "spotifyId": "4ya01jIpkr0OngdknUNAl1",
       "appleId": 1000574698576,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ya01jIpkr0OngdknUNAl1",
         "apple": "https://podcasts.apple.com/podcast/episode-45-activist-and-author-dr-brian-sheen/id1523307706?i=1000574698576",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "7ea12b83-1431-42bf-8482-98caae842bab",
-      "type": "Episode",
       "title": "Episode 44: Sheriff Nick Hanna",
       "description": "Leah and Mike speak with the Sheriff of Tom Green County, Texas, Nick Hanna. He describes his work (and that of many others) in discovering, investigating and prosecuting the abuses in a Fundamentalist Latter Day Saints compound near the small town of Eldorado Texas in 2003.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-06-08T00:00:00",
       "duration": "00:54:18.6970000",
       "explicit": false,
       "spotifyId": "6oxuCUdbNLQcKYSznRnK5x",
       "appleId": 1000574698532,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6oxuCUdbNLQcKYSznRnK5x",
         "apple": "https://podcasts.apple.com/podcast/episode-44-sheriff-nick-hanna/id1523307706?i=1000574698532",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "eaf0912c-157a-441b-8110-ebf3d5f8ef53",
-      "type": "Episode",
       "title": "Episode 43: Investigator and Blogger Jeffrey Augustine",
       "description": "This week we are joined by whistleblower, investigator, researcher and friend Jeffrey Augustine. Jeff does great work tracking and exposing scientology legal matters. We run down a list of scientologist criminals and the juxtaposition with the public claims of scientology being the most ethical group on earth.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-06-01T00:00:00",
       "duration": "00:50:46.3210000",
       "explicit": false,
       "spotifyId": "2OoyW7iyBjkXLxmw9apD9w",
       "appleId": 1000574698624,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2OoyW7iyBjkXLxmw9apD9w",
         "apple": "https://podcasts.apple.com/podcast/episode-43-investigator-and-blogger-jeffrey-augustine/id1523307706?i=1000574698624",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "580b0546-3ec4-411a-a731-e9bf1fba0aad",
-      "type": "Episode",
       "title": "Episode 42: Listener Questions Part 5",
       "description": "We cover a variety of topics from the succession plan of Hubbard, silent births, what happens when a scientologist dies, to the Supreme Court decision about the deducibility of donations to scientology and the big lie about the death of L. Ron Hubbard.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-05-25T00:00:00",
       "duration": "01:02:37.1650000",
       "explicit": false,
       "spotifyId": "4kVVycr6xI8gAAwBnC7J3J",
       "appleId": 1000574698533,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4kVVycr6xI8gAAwBnC7J3J",
         "apple": "https://podcasts.apple.com/podcast/episode-42-listener-questions-part-5/id1523307706?i=1000574698533",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "394b0730-effe-4244-bd2b-970f45b75cd4",
-      "type": "Episode",
       "title": "Episode 41: Law Review Author Taylor Holley",
       "description": "Leah and I had the great pleasure of speaking to Taylor Holley, a law student at Texas Tech University who published a legal analysis of scientology\u0027s tax exempt status in the Law Review. Her paper is a wonderful summation and careful analysis of the law and makes a compelling argument that the IRS should revisit the exempt status of scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-05-18T00:00:00",
       "duration": "00:53:42.1250000",
       "explicit": false,
       "spotifyId": "10INfzFfY1zLKl0NCwuJB0",
       "appleId": 1000574698579,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/10INfzFfY1zLKl0NCwuJB0",
         "apple": "https://podcasts.apple.com/podcast/episode-41-law-review-author-taylor-holley/id1523307706?i=1000574698579",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "5f10b843-abfd-42a1-a5c7-fc86644c83aa",
-      "type": "Episode",
       "title": "Episode 40: Cult Expert Dr. Steven Hassan",
       "description": "Leah and Mike welcome Dr. Hassan this week for a wide-ranging discussion about scientology and other cults, undue influence, hypnotism and methods of control. Steve is a former Moonie, who is now internationally recognized expert in the field of cults.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-05-11T00:00:00",
       "duration": "01:19:39.7810000",
       "explicit": false,
       "spotifyId": "6zWIOBQ4pUzAN28YHK5vhJ",
       "appleId": 1000574698655,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6zWIOBQ4pUzAN28YHK5vhJ",
         "apple": "https://podcasts.apple.com/podcast/episode-40-cult-expert-dr-steven-hassan/id1523307706?i=1000574698655",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "951b112e-208e-4495-9d1f-3f25e735da57",
-      "type": "Episode",
       "title": "Episode 39: Former A\u0026E Executive Devon Graham Hammonds",
       "description": "Mike and Leah talk to the network guardian angel who oversaw The Aftermath show, Devon Graham Hammonds. They cover how the show came to be, a lot of behind-the-scenes glimpses into production, the Fair Gaming of those who worked on the show and why it ended.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-05-04T00:00:00",
       "duration": "00:44:01.7630000",
       "explicit": false,
       "spotifyId": "0SuliVUFZMTUxPrTqOqbyW",
       "appleId": 1000574698651,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0SuliVUFZMTUxPrTqOqbyW",
         "apple": "https://podcasts.apple.com/podcast/episode-39-former-a-e-executive-devon-graham-hammonds/id1523307706?i=1000574698651",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4a02bcba-8178-4ae1-9f70-80134090920a",
-      "type": "Episode",
       "title": "Episode 38: Listener Questions #4",
       "description": "\u00A0Leah and Mike take questions from listeners covering scientology tax exemption, the Sea Org and staff contracts, scientology Security guards, what listeners can do and a whole lot\u00A0more insight into the world of scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-04-27T00:00:00",
       "duration": "00:55:57.7010000",
       "explicit": false,
       "spotifyId": "7vd6HInLf0Tf8t9qXEMpxI",
       "appleId": 1000574698578,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vd6HInLf0Tf8t9qXEMpxI",
         "apple": "https://podcasts.apple.com/podcast/episode-38-listener-questions-4/id1523307706?i=1000574698578",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "76e5830f-8360-4eb0-a243-62c3bb1b48f2",
-      "type": "Episode",
       "title": "Episode 37: Mormon Stories Host Dr. John Dehlin",
       "description": "Leah and Mike venture into the world of Mormonism with Dr. John Dehlin to learn about problems in the Mormon world, the many similarities with scientology, and some important differences which have tended to make the Mormons more successful, and certainly a lot more powerful and wealthy, than scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-04-20T00:00:00",
       "duration": "01:16:26.4480000",
       "explicit": false,
       "spotifyId": "2F38ZbL9rlKt4YTiuGm3Ag",
       "appleId": 1000574698625,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2F38ZbL9rlKt4YTiuGm3Ag",
         "apple": "https://podcasts.apple.com/podcast/episode-37-mormon-stories-host-dr-john-dehlin/id1523307706?i=1000574698625",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "c5763722-ec3b-430a-bcb0-d1325c6dd0b6",
-      "type": "Episode",
       "title": "Episode 36: Critical Thinker Chris Shelton Part 2",
       "description": "Leah and Mike dive deep into some of the most abusive practices of scientology: the so-called Rehabilitation Project Force, the Thought Reform Program for Sea Org members, and the Truth Rundown \u0022security checking\u0022 designed to convince\u00A0a person that anything bad they observed about scientology is untrue, ending with a written apology for ever having such a thought.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-04-13T00:00:00",
       "duration": "00:57:06.2720000",
       "explicit": false,
       "spotifyId": "3pBKDcm9WaeyL7lkWKnwd9",
       "appleId": 1000574698584,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3pBKDcm9WaeyL7lkWKnwd9",
         "apple": "https://podcasts.apple.com/podcast/episode-36-critical-thinker-chris-shelton-part-2/id1523307706?i=1000574698584",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b1d7bb6f-aefd-4fdd-954a-1c942961fa44",
-      "type": "Episode",
       "title": "Episode 35: Former Scientology Executive and Critical Thinker Chris Shelton",
       "description": "This week, Leah and Mike are joined by their old friend Chris Shelton -- a well-informed former scientology executive who has provided some of the most cogent analyses of scientology in his podcasts, appearances and writings. A lot of what is covered in this week\u0027s episode\u00A0concerns the fake \u201Creligious\u201D aspects of scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-04-06T00:00:00",
       "duration": "01:07:47.3690000",
       "explicit": false,
       "spotifyId": "6i1masQPtnxPtI5EIHQoGP",
       "appleId": 1000574698652,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6i1masQPtnxPtI5EIHQoGP",
         "apple": "https://podcasts.apple.com/podcast/episode-35-former-scientology-executive-and-critical/id1523307706?i=1000574698652",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "a3899f5d-2916-4e47-a055-d3f5388f919a",
-      "type": "Episode",
       "title": "Episode 34: Journalist and Author John Sweeney",
       "description": "Our friend -- and scientology nemesis -- journalist, author and podcaster John Sweeney talks about making his BBC programs on scientology and compares his experiences to his reporting in N. Korea, Russia, Serbia and other places. He is an entertaining and well-informed on the subject of scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-03-30T00:00:00",
       "duration": "01:22:53.6620000",
       "explicit": false,
       "spotifyId": "5JorDWH3cYmYve6mXlDoDw",
       "appleId": 1000574698654,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5JorDWH3cYmYve6mXlDoDw",
         "apple": "https://podcasts.apple.com/podcast/episode-34-journalist-and-author-john-sweeney/id1523307706?i=1000574698654",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "3952c459-8f4e-4382-9ad0-bae2cc29447f",
-      "type": "Episode",
       "title": "Episode 33: Journalist Yashar Ali",
       "description": "Leah and Mike are joined by media and political reporter Yashar Ali. Yashar has covered scientology for years. He was recently named one of Time\u0027s 25 most influential people on the internet: The topics range from celebrities in scientology, to media and elected officials responsibility dealing with cults to the Fair Game campaign against him.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-03-23T00:00:00",
       "duration": "01:16:58.8400000",
       "explicit": false,
       "spotifyId": "3H0bEawgr4KcrrugI1BDkR",
       "appleId": 1000574698508,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3H0bEawgr4KcrrugI1BDkR",
         "apple": "https://podcasts.apple.com/podcast/episode-33-journalist-yashar-ali/id1523307706?i=1000574698508",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "f376455c-0e86-471b-9a61-b98fee3d1cb1",
-      "type": "Episode",
       "title": "Episode 32: Aftermath Executive Producer Aaron Saidman",
       "description": "Leah and Mike talk to Aaron Saidman, co-founder of production company (IPC) that was brave enough to bring The Aftermath to air, for some behind-the-scenes insight into the making of the program, the impact it had and how the people involved dealt with scientology and their Fair Game tactics.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-03-16T00:00:00",
       "duration": "00:55:38.5530000",
       "explicit": false,
       "spotifyId": "1EsY0A4QDfKqv4Ka8fJWV5",
       "appleId": 1000574698534,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1EsY0A4QDfKqv4Ka8fJWV5",
         "apple": "https://podcasts.apple.com/podcast/episode-32-aftermath-executive-producer-aaron-saidman/id1523307706?i=1000574698534",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "67bff726-b5df-4ddc-80e7-6fe3f423187f",
-      "type": "Episode",
       "title": "Episode 31: NXIVM Whistleblower Sarah Edmondson",
       "description": "Leah and Mike talk with Sarah, featured in\u00A0The Vow,\u00A0author of\u00A0Scarred\u00A0and host of a new podcast,\u00A0A Little Bit Culty.\u00A0We cover the similarities between NXIVM and Scientology, The Vow\u00A0and what recovering from a cult experience is like, and a lot more.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-03-09T00:00:00",
       "duration": "01:03:31.2910000",
       "explicit": false,
       "spotifyId": "6qEFPggbKjIK1HHHsNUbR5",
       "appleId": 1000574698581,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6qEFPggbKjIK1HHHsNUbR5",
         "apple": "https://podcasts.apple.com/podcast/episode-31-nxivm-whistleblower-sarah-edmondson/id1523307706?i=1000574698581",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "62283e59-51d5-448f-b972-f52632b7b378",
-      "type": "Episode",
       "title": "Episode 30: Marc Headley: Author, Whistleblower and Activist",
       "description": "Leah and Mike talk to their old friend Marc Headley \u2014The BFG. Marc not only has a phenomenal memory, he possesses a great sense of humor as anyone who has read his book\u00A0Blown For Good\u00A0knows. We discuss the Int base, David Miscavige, the Aftermath Foundation\u00A0and even the Rinder bobblehead.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-03-02T00:00:00",
       "duration": "01:33:21.8800000",
       "explicit": false,
       "spotifyId": "15SkImf3M4CGfHdfCirGEn",
       "appleId": 1000574698594,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15SkImf3M4CGfHdfCirGEn",
         "apple": "https://podcasts.apple.com/podcast/episode-30-marc-headley-author-whistleblower-and-activist/id1523307706?i=1000574698594",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "f64b2eb2-c275-4d8d-a459-c2f413fcb388",
-      "type": "Episode",
       "title": "Episode 29: Journalist Tony Ortega",
       "description": "Leah and Mike talk with Tony, who over his decades of reporting on scientology has become an expert reporter in the world on the subject. He has a daily blog about scientology, wrote an excellent book about Paulette Cooper, the poster child for scientology Fair Game. He has been subjected to Fair Game campaigns by scientology since the 90\u0027s.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-02-23T00:00:00",
       "duration": "01:01:45.3640000",
       "explicit": false,
       "spotifyId": "0EJmsuphO60pSlVXBXj97G",
       "appleId": 1000574698485,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0EJmsuphO60pSlVXBXj97G",
         "apple": "https://podcasts.apple.com/podcast/episode-29-journalist-tony-ortega/id1523307706?i=1000574698485",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "9c97db37-97a8-4bbd-b732-c0c5bd59f9c4",
-      "type": "Episode",
       "title": "Episode 28: Cultbusting Attorney Ford Greene",
       "description": "Leah and Mike talk to Ford, the former Moonie who became a lawyer to fight cults. He has participated in some of the most important anti-cult litigation. The discussion covers the Fair Game assaults he has endured, the army of high-priced lawyers he fought and how best to deal with scientology in the legal arena.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-02-16T00:00:00",
       "duration": "00:58:47.4440000",
       "explicit": false,
       "spotifyId": "4l1AbW96xM7GzYb0LPorxA",
       "appleId": 1000574698653,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4l1AbW96xM7GzYb0LPorxA",
         "apple": "https://podcasts.apple.com/podcast/episode-28-cultbusting-attorney-ford-greene/id1523307706?i=1000574698653",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "50042afa-487e-4d3c-b64a-26c2f06f0a85",
-      "type": "Episode",
       "title": "Episode 27: Jon Atack \u2014 OG Scientology Whistleblower",
       "description": "Leah and Mike talk all things scientology and Fair Game with one of the most well-informed former scientologist whistleblowers. Jon has spent decades studying and exposing scientology brainwashing and abuse and has fascinating insights on so much.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-02-09T00:00:00",
       "duration": "01:24:06.3860000",
       "explicit": false,
       "spotifyId": "5UebMdaGidY7i7SFg84JlR",
       "appleId": 1000574698586,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5UebMdaGidY7i7SFg84JlR",
         "apple": "https://podcasts.apple.com/podcast/episode-27-jon-atack-og-scientology-whistleblower/id1523307706?i=1000574698586",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "3ea0f260-62e4-4f0c-a28e-95e009d97b84",
-      "type": "Episode",
       "title": "Episode 26: Phil Jones -- the man behind The Billboard",
       "description": "This week, Leah and Mike welcome Phil Jones of the \u0022Call Me\u0022 billboards fame. They cover a lot of ground -- from what caused them to leave scientology, to their efforts to reach their children, to interaction with the LAPD, scientology\u0027s Fair Game intimidation tactics and the realities of family life in scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-02-02T00:00:00",
       "duration": "01:12:10.9450000",
       "explicit": false,
       "spotifyId": "484cGx5nL1FZun5FAWfVxr",
       "appleId": 1000574698582,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/484cGx5nL1FZun5FAWfVxr",
         "apple": "https://podcasts.apple.com/podcast/episode-26-phil-jones-the-man-behind-the-billboard/id1523307706?i=1000574698582",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b5a98f0d-7cf0-4c67-bdaa-f43cb03a60f1",
-      "type": "Episode",
       "title": "Episode 25: Whistleblower Valeska Guider Paris",
       "description": "Leah and Mike talk with Valeska, raised in scientology and the Sea Org, covering her experiences as a child, being held captive on the Freewinds, losing her family to disconnection and her escape.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-01-26T00:00:00",
       "duration": "01:12:15.3600000",
       "explicit": false,
       "spotifyId": "6Yu4B27GmNVLwedZXM5Zz0",
       "appleId": 1000574698375,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Yu4B27GmNVLwedZXM5Zz0",
         "apple": "https://podcasts.apple.com/podcast/episode-25-whistleblower-valeska-guider-paris/id1523307706?i=1000574698375",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "878041fb-45e3-4c2f-b062-b9d2aca49504",
-      "type": "Episode",
       "title": "Episode 24: Author, Activist and Icon Kate Bornstein",
       "description": "Leah and Mike talk with author, actor, activist and icon Kate Bornstein about homophobia and transphobia in scientology, how she lost her family to disconnection, Fair Game and how scientology\u00A0thinks gender identity is \u0022solved\u0022 with auditing.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-01-19T00:00:00",
       "duration": "00:59:56.6950000",
       "explicit": false,
       "spotifyId": "3JqPTND225WoDpzuFkv5dF",
       "appleId": 1000574698583,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3JqPTND225WoDpzuFkv5dF",
         "apple": "https://podcasts.apple.com/podcast/episode-24-author-activist-and-icon-kate-bornstein/id1523307706?i=1000574698583",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b700cd01-1f62-4da4-9e05-8b4494203622",
-      "type": "Episode",
       "title": "Episode 23: Activist and Blogger Stefani Hutchison",
       "description": "Leah and Mike talk to Stefani -- never a scientologist -- about her effective advocacy against scientology abuses and her example of what anyone can do to take an active role in ending the pain and suffering that scientology causes so many.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-01-12T00:00:00",
       "duration": "00:50:53.1650000",
       "explicit": false,
       "spotifyId": "3z60k1WuN1LPywecYiCVnc",
       "appleId": 1000574698509,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3z60k1WuN1LPywecYiCVnc",
         "apple": "https://podcasts.apple.com/podcast/episode-23-activist-and-blogger-stefani-hutchison/id1523307706?i=1000574698509",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4e9c9347-19e0-4003-9d7f-15537f0d53dc",
-      "type": "Episode",
       "title": "Episode 22: Geoff Levin Musician, a Founder of Celebrity Centre",
       "description": "Leah and Mike talk to musician Geoff Levin about his decades in scientology, and how it tore apart his successful band, damaged his mental health and wrecked his family.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2021-01-05T00:00:00",
       "duration": "01:27:01.3020000",
       "explicit": false,
       "spotifyId": "18H1DCY0d1QbNEdhUXyOm9",
       "appleId": 1000574698448,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/18H1DCY0d1QbNEdhUXyOm9",
         "apple": "https://podcasts.apple.com/podcast/episode-22-geoff-levin-musician-a-founder-of/id1523307706?i=1000574698448",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "3dc5367d-7509-476a-b35f-ce935bcd67dc",
-      "type": "Episode",
       "title": "Episode 21: Listener Questions Part 3",
       "description": "The listener questions this week include how scientology is responding to Covid, scientology\u0027s views on voting and many more.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-12-22T00:00:00",
       "duration": "01:03:11.0200000",
       "explicit": false,
       "spotifyId": "3npzKocI9cvWWe79StyzFI",
       "appleId": 1000574698656,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3npzKocI9cvWWe79StyzFI",
         "apple": "https://podcasts.apple.com/podcast/episode-21-listener-questions-part-3/id1523307706?i=1000574698656",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "41d049bc-9850-4f0d-9213-0a1cf2496b32",
-      "type": "Episode",
       "title": "Episode 20: Jonestown Survivor Capt. Yulanda Williams\u00A0",
       "description": "Leah and Mike talk with Jonestown survivor and SFO PD Captain Yulanda Williams about her story, the parallels to scientology and how to better equip law enforcement to deal with cults. \u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-12-15T00:00:00",
       "duration": "01:48:24.4630000",
       "explicit": false,
       "spotifyId": "6ioN1A5wk7VhMeyUUHKnJc",
       "appleId": 1000574698585,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ioN1A5wk7VhMeyUUHKnJc",
         "apple": "https://podcasts.apple.com/podcast/episode-20-jonestown-survivor-capt-yulanda-williams/id1523307706?i=1000574698585",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e8db1102-952b-4225-87f2-e03fadc96f2c",
-      "type": "Episode",
       "title": "Episode 19: Christie Collbran Rinder",
       "description": "Leah and Mike talk to Mike\u0027s wife, Christie, about being raised in scientology, disconnection, Fair Game and what life is like today.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-12-08T00:00:00",
       "duration": "01:28:11.1280000",
       "explicit": false,
       "spotifyId": "2TpTDeXzkBq4P47IRpnRMI",
       "appleId": 1000574698486,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2TpTDeXzkBq4P47IRpnRMI",
         "apple": "https://podcasts.apple.com/podcast/episode-19-christie-collbran-rinder/id1523307706?i=1000574698486",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "dffae404-e68b-483c-a4ae-763a3a28eb0d",
-      "type": "Episode",
       "title": "Episode 18: Mary Kahn from The Aftermath",
       "description": "Leah and Mike welcome Mary Kahn to talk about her experience reaching the top of the scientology \u0022Bridge to Total Freedom,\u0022 disconnection, scientology\u0027s view of psychiatry and much more.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-11-24T00:00:00",
       "duration": "00:58:06.9020000",
       "explicit": false,
       "spotifyId": "4wbmuhiVEk0STy56cLzGn9",
       "appleId": 1000574698626,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4wbmuhiVEk0STy56cLzGn9",
         "apple": "https://podcasts.apple.com/podcast/episode-18-mary-kahn-from-the-aftermath/id1523307706?i=1000574698626",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "471774b8-6932-46bf-b790-4fa406ae00a6",
-      "type": "Episode",
       "title": "Episode 17: Former Sea Org Executive Claire Headley",
       "description": "The Ex-RTC executive talks about life at scientology\u0027s international headquarters and why scientologists\u00A0may\u00A0lie, Fair Game and much, much more.      Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-11-17T00:00:00",
       "duration": "01:18:11.9050000",
       "explicit": false,
       "spotifyId": "2Aq9sizkLS6U4kZ7GkUBLR",
       "appleId": 1000574698628,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Aq9sizkLS6U4kZ7GkUBLR",
         "apple": "https://podcasts.apple.com/podcast/episode-17-former-sea-org-executive-claire-headley/id1523307706?i=1000574698628",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "bcfa9376-7c42-4070-990e-2497df01c865",
-      "type": "Episode",
       "title": "Episode 16: Jehovah\u0027s Witness Whistleblower Lloyd Evans",
       "description": "Mike and Leah discuss the similarities between scientology and the JW\u0027s and how the JW\u0027s have grown more scientology-like in their Fair Game-style attacks on those who expose their abuses.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-11-10T00:00:00",
       "duration": "01:00:36.9240000",
       "explicit": false,
       "spotifyId": "6ahqJkUEdRTsVVkxmw3iVT",
       "appleId": 1000574698658,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ahqJkUEdRTsVVkxmw3iVT",
         "apple": "https://podcasts.apple.com/podcast/episode-16-jehovahs-witness-whistleblower-lloyd-evans/id1523307706?i=1000574698658",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ef51aa8a-9b8c-4b34-bf3f-89a223119cc3",
-      "type": "Episode",
       "title": "Episode 15: Former President of Narconon, Luke Catton",
       "description": "Leah and Mike cover a wide range of topics related to Narconon: including scientology\u0027s involvement, the effectiveness of the program and the Fair Gaming Luke has been subjected to.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-11-03T00:00:00",
       "duration": "01:02:14.3340000",
       "explicit": false,
       "spotifyId": "2TyYoFuluNZah9nNBeMrMS",
       "appleId": 1000574698627,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2TyYoFuluNZah9nNBeMrMS",
         "apple": "https://podcasts.apple.com/podcast/episode-15-former-president-of-narconon-luke-catton/id1523307706?i=1000574698627",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "3b74b960-798b-4222-9687-428be09f03ec",
-      "type": "Episode",
       "title": "Episode 14: Listener Questions Part 2",
       "description": "The questions this week include: Why is scientology popular with dentists? What happened to Pat and Annie Broeker? And much more.      Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-10-27T00:00:00",
       "duration": "00:58:09.1230000",
       "explicit": false,
       "spotifyId": "58eWCFOAoRpRioN93Gdfit",
       "appleId": 1000574698657,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58eWCFOAoRpRioN93Gdfit",
         "apple": "https://podcasts.apple.com/podcast/episode-14-listener-questions-part-2/id1523307706?i=1000574698657",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ce0232f4-dd3c-4a7c-a126-cdc6365dc2c6",
-      "type": "Episode",
       "title": "Episode 13: Listener Questions Part 1",
       "description": "Leah and Mike cover a broad range of topics responding to listener questions: from scientologists coming back after death, to the 411 on Leah\u0027s fingernails.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-10-20T00:00:00",
       "duration": "00:46:44.6360000",
       "explicit": false,
       "spotifyId": "6wtJ2946wgUtPxKA6jVhhR",
       "appleId": 1000574698487,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wtJ2946wgUtPxKA6jVhhR",
         "apple": "https://podcasts.apple.com/podcast/episode-13-listener-questions-part-1/id1523307706?i=1000574698487",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4cf84e87-2ba3-45dc-9fd0-6045f1fc24ad",
-      "type": "Episode",
       "title": "Episode 12: Clearwater City Councilman Mark Bunker",
       "description": "Mark Bunker has been a lightning rod for scientology Fair Game for more than 20 years. Now he is elected to the City Council in Clearwater, Florida, also, the locale of scientology\u0027s spiritual headquarter.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-10-13T00:00:00",
       "duration": "01:26:28.9110000",
       "explicit": false,
       "spotifyId": "3760s9XaGaBxhoOJCNfJk6",
       "appleId": 1000574698660,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3760s9XaGaBxhoOJCNfJk6",
         "apple": "https://podcasts.apple.com/podcast/episode-12-clearwater-city-councilman-mark-bunker/id1523307706?i=1000574698660",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "669ec75c-7227-4a4a-af60-ce4516e31fab",
-      "type": "Episode",
       "title": "Episode 11: Mark Vicente from The Vow talks NXIVM and Scientology",
       "description": "Leah and Mike talk to Mark Vicente about the HBO documentary series, The Vow, the similarities with Scientology and common themes of high control groups.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-10-06T00:00:00",
       "duration": "01:29:48.3030000",
       "explicit": false,
       "spotifyId": "1PBfdVzv7SUuj0uyslm0jU",
       "appleId": 1000574698595,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1PBfdVzv7SUuj0uyslm0jU",
         "apple": "https://podcasts.apple.com/podcast/episode-11-mark-vicente-from-the-vow-talks-nxivm/id1523307706?i=1000574698595",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "bc6db03c-f65e-427c-bc1e-2147f8268eab",
-      "type": "Episode",
       "title": "Episode 10: Attorney Ray Jeffrey Taking on Scientology in the Courtroom",
       "description": "Attorney Ray Jeffrey talks about scientology Fair Game campaigns and legal tactics.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-09-29T00:00:00",
       "duration": "01:25:07.8530000",
       "explicit": false,
       "spotifyId": "3HKDuA1xBIRMalDG28hCTA",
       "appleId": 1000574698629,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3HKDuA1xBIRMalDG28hCTA",
         "apple": "https://podcasts.apple.com/podcast/episode-10-attorney-ray-jeffrey-taking-on-scientology/id1523307706?i=1000574698629",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b281be03-d0c2-46ff-9378-fa1b7d0b6585",
-      "type": "Episode",
       "title": "Episode 9: Author of \u0027Fair Game\u0027 Australian investigative journalist Steve Cannane",
       "description": "Steve Cannane joins Leah and Mike to talk about his book, Fair Game and his experiences reporting on scientology and tracing the history of scientology\u0027s most notorious policies.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-09-22T00:00:00",
       "duration": "01:09:23.6300000",
       "explicit": false,
       "spotifyId": "7r7fGHwSraNLisl2iMZppb",
       "appleId": 1000574698659,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7r7fGHwSraNLisl2iMZppb",
         "apple": "https://podcasts.apple.com/podcast/episode-9-author-of-fair-game-australian/id1523307706?i=1000574698659",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "76a0e5ee-9f26-4629-bb5a-026148fab230",
-      "type": "Episode",
       "title": "Episode 8: Fair Gaming the Scientology President\u0027s Ex-wife",
       "description": "Karen de LaCarriere, ex-wife of Scientology President Heber Jentzsch, discusses the untimely death of their only child, Alexander, and the Fair Game she has had to endure.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-09-15T00:00:00",
       "duration": "00:54:21.8310000",
       "explicit": false,
       "spotifyId": "7DinD6k3hgnpfjDYf7pd3h",
       "appleId": 1000574698677,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7DinD6k3hgnpfjDYf7pd3h",
         "apple": "https://podcasts.apple.com/podcast/episode-8-fair-gaming-the-scientology-presidents-ex-wife/id1523307706?i=1000574698677",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "5671a7bd-53c4-4910-9206-b74fc1134de3",
-      "type": "Episode",
       "title": "Episode 7: Emmy and Oscar Winner Alex Gibney",
       "description": "The legendary documentary filmmaker talks to Leah and Mike about making Going Clear and the Fair Game he has been subjected to. He provides insight into how scientology is different from other organizations he has tackled and what the government should be doing about it.\u00A0    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-09-08T00:00:00",
       "duration": "00:41:30.4090000",
       "explicit": false,
       "spotifyId": "7zRsjTKTBgLKey83XmMcbE",
       "appleId": 1000574698678,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7zRsjTKTBgLKey83XmMcbE",
         "apple": "https://podcasts.apple.com/podcast/episode-7-emmy-and-oscar-winner-alex-gibney/id1523307706?i=1000574698678",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "c844d3d3-eb79-4fb3-acd3-84541b7fe655",
-      "type": "Episode",
       "title": "Episode 6: The Leader\u0027s Father is Fair Gamed",
       "description": "Leader of Scientology\u0027s father, Ron Miscavige, talks to Leah and Mike about how he has been Fair Gamed. Nobody is immune from Hubbard\u0027s tactics and policies.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-09-01T00:00:00",
       "duration": "00:58:03.0620000",
       "explicit": false,
       "spotifyId": "71R6Qam3sITzENmmVq0qYw",
       "appleId": 1000574698679,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/71R6Qam3sITzENmmVq0qYw",
         "apple": "https://podcasts.apple.com/podcast/episode-6-the-leaders-father-is-fair-gamed/id1523307706?i=1000574698679",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e930be0f-4e9b-4e69-9b43-6dd96b874d80",
-      "type": "Episode",
       "title": "Episode 5: The History of Fair Game",
       "description": "Leah and Mike discuss the origins of Fair Game and what prompted L. Ron Hubbard to seek to \u0022utterly destroy\u0022 those he named as enemies. They cover what they have experienced and continue to experience, despite Scientology claiming Fair Game has been canceled.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-08-25T00:00:00",
       "duration": "00:55:07.4410000",
       "explicit": false,
       "spotifyId": "0VuHzvtFzP2Qhd0xEz2nty",
       "appleId": 1000574698682,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0VuHzvtFzP2Qhd0xEz2nty",
         "apple": "https://podcasts.apple.com/podcast/episode-5-the-history-of-fair-game/id1523307706?i=1000574698682",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "5e87625d-1371-4c9a-85c4-8119fe0a4538",
-      "type": "Episode",
       "title": "Episode 4: Scientology\u0027s War on a Holocaust Survivor, Paulette Cooper",
       "description": "Leah and Mike talk with Paulette Cooper, a journalist who became the object of the single largest Fair Game campaign in history. She was framed, sued, smeared, spied on and harassed. And ultimately vindicated when the FBI raided scientology and uncovered their secret operations.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-08-18T00:00:00",
       "duration": "00:45:09.9680000",
       "explicit": false,
       "spotifyId": "4ySPzBuquRtrdNCEEi7R0r",
       "appleId": 1000574698535,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ySPzBuquRtrdNCEEi7R0r",
         "apple": "https://podcasts.apple.com/podcast/episode-4-scientologys-war-on-a-holocaust-survivor/id1523307706?i=1000574698535",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "34eb69c2-afad-44f5-8a7d-e74b7da4f195",
-      "type": "Episode",
       "title": "Episode 3: Scientology\u0027s War on The Media",
       "description": "Award-winning investigative journalist Richard Behar -- author of Time magazine\u2019s shocking cover story, \u0022The Thriving Cult of Greed and Power,\u0022 which ignited scientology\u2019s 10 year Fair Game assault on him, -- talks about Fair Game and the recent controversy over VP hopeful Karen Bass\u0027 statements about scientology.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-08-11T00:00:00",
       "duration": "00:53:25.4850000",
       "explicit": false,
       "spotifyId": "1kVTXeJZZiAf2CbGQxVb6l",
       "appleId": 1000574698630,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1kVTXeJZZiAf2CbGQxVb6l",
         "apple": "https://podcasts.apple.com/podcast/episode-3-scientologys-war-on-the-media/id1523307706?i=1000574698630",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "253de796-16cd-4b79-b2e2-caa70992ae8d",
-      "type": "Episode",
       "title": "Episode 2: The Welfare Check",
       "description": "When a family member who was never a Scientologist attempted to conduct a welfare check on her uncle former scientology President, Heber Jentzsch, who reports say is sick, being tortured and not seen in public for over 10 years, she immediately became the target of Fair Game. She tells the story to Leah and Mike.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-08-04T00:00:00",
       "duration": "00:59:04.5280000",
       "explicit": false,
       "spotifyId": "4JpoYK7WKo23VJLkxY5gaK",
       "appleId": 1000574698536,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4JpoYK7WKo23VJLkxY5gaK",
         "apple": "https://podcasts.apple.com/podcast/episode-2-the-welfare-check/id1523307706?i=1000574698536",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "5291f2de-5e6d-45b1-b1a7-89ce0cc425a5",
-      "type": "Episode",
       "title": "Episode 1: Scientology Deaths and Suicides",
       "description": "Leah Remini and Mike Rinder discuss the recent tragic deaths of Kelly Preston and Benjamin Keough and how scientology views doctors and mental health professionals. They explain how scientologists believe L. on Hubbard\u0027s \u0022technology\u0022 is the answer for all ailments and illnesses, both physical and mental and what they believe is the cause of all illness.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-07-28T00:00:00",
       "duration": "00:58:51.4150000",
       "explicit": false,
       "spotifyId": "2KytW8y4m4O2eUo1tFaxus",
       "appleId": 1000574698680,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2KytW8y4m4O2eUo1tFaxus",
         "apple": "https://podcasts.apple.com/podcast/episode-1-scientology-deaths-and-suicides/id1523307706?i=1000574698680",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "1ea4b244-c320-494a-8b61-864036a1bf51",
-      "type": "Episode",
       "title": "Episode 0: When Scientology Declares You Fair Game",
       "description": "Leah Remini and Mike Rinder detail the history, practice and consequences of Scientology\u2019s Fair Game policy. These abusive practices have been employed by scientology for decades to try to intimidate and destroy anyone perceived as enemies - from former members to the media and government officials.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-07-21T00:00:00",
       "duration": "00:59:51.8620000",
       "explicit": false,
       "spotifyId": "1CHpguu9dyyL3itakzu3Lt",
       "appleId": 1000574698681,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1CHpguu9dyyL3itakzu3Lt",
         "apple": "https://podcasts.apple.com/podcast/episode-0-when-scientology-declares-you-fair-game/id1523307706?i=1000574698681",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "8ef7c841-df6f-48f7-b040-5b3f6d62c914",
-      "type": "Episode",
       "title": "Introducing Scientology: Fair Game",
       "description": "Leah Remini and Mike Rinder\u0027s new podcast, Scientology: Fair Game will take you behind the facade and expose the terrible truth about scientology\u0027s Fair Game doctrine. It\u0027s been used for 5 decades to destroy anyone they label an enemy -- former scientologists, media, government officials -- anyone they think is impeding their objectives. Leah and Mike are covering new ground, digging deeper than ever into the shocking documents, facts and stories that will make you wonder how any of this is going on in America today.    Learn more about your ad-choices at https://www.iheartpodcastnetwork.com",
-      "posted": false,
-      "ignored": false,
       "release": "2020-07-06T00:00:00",
       "duration": "00:03:26.0010000",
       "explicit": false,
       "spotifyId": "3n1q5iEXXTeFKWaksG5Roi",
       "appleId": 1000574698488,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3n1q5iEXXTeFKWaksG5Roi",
         "apple": "https://podcasts.apple.com/podcast/introducing-scientology-fair-game/id1523307706?i=1000574698488",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     }
-  ],
-  "fileKey": "fair_game"
+  ]
 }

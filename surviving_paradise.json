@@ -1,1590 +1,1288 @@
 {
   "id": "1196354d-cbed-454f-826a-a1d71795c915",
-  "type": "Podcast",
   "name": "Surviving Paradise",
-  "publisher": "Surviving Paradise",
-  "hasBundledEpisodes": false,
-  "indexAllEpisodes": true,
-  "primaryPostService": "Spotify",
   "spotifyId": "7yYMyycO8sctBAz1Ke0WcK",
   "appleId": 1667168726,
   "youTubeChannelId": "",
-  "youTubePublicationDelay": "",
-  "titleRegex": "",
-  "descriptionRegex": "",
-  "episodeMatchRegex": "",
   "episodes": [
     {
       "id": "3604d2a3-16a3-496c-bb65-26e1badb5848",
-      "type": "Episode",
       "title": "The Erosion of \u0022Self\u0022 - How Jehovah\u0027s Witnesses Steal Your Identity",
       "description": "A person has a lot to lose by associating with Jehovah\u0027s Witnesses. But perhaps the most devastating is the loss of \u0027self\u0027 or identity. Like all high control cults, leadership requires conformity, from and children and adults. How does one lose themselves as a Jehovah\u0027s Witness? Listen in.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-09-04T00:00:00",
       "duration": "01:11:50.2300000",
       "explicit": true,
       "spotifyId": "1J5inxaByLxMbm36aZ0H0e",
       "appleId": 1000626666309,
       "youTubeId": "",
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1J5inxaByLxMbm36aZ0H0e",
         "apple": "https://podcasts.apple.com/podcast/the-erosion-of-self-how-jehovahs-witnesses-steal/id1667168726?i=1000626666309",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e34cf829-7ee3-42df-9200-f39ad2c9351d",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 War: A Sordid History of \u0027Excitement\u0027 Around Tragedy",
       "description": "Jehovah\u0027s Witnesses are obsessed with two, three letter words. You know the first one, the second is WAR. Jehovah was sure to share his warmongering in great detail in his book to mankind... and his guys on earth, the Governing Body, have found a way to make the tragic conflicts of the past century all about them. We take a limited look back... listen in.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-08-28T00:00:00",
       "duration": "01:19:11.0980000",
       "explicit": true,
       "spotifyId": "7CxAsHxdQB0VCueVrIZE4i",
       "appleId": 1000625906112,
       "youTubeId": "",
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CxAsHxdQB0VCueVrIZE4i",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-war-a-sordid-history-of/id1667168726?i=1000625906112",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b6aedb10-7d17-4c56-a2b4-7e774067358f",
-      "type": "Episode",
       "title": "Why Do Jehovah\u0027s Witnesses Need \u002240 Billion Pieces of Literature?\u0022",
       "description": "At 2 Timothy 3:16, 17 Jehovah\u0027s Witnesses are told that reading the Bible makes them \u0022fully competent, completely equipped for every good work.\u0022 It raises a question: If Jehovah provided a perfect book, claiming it was all they ever needed for a relationship with him, why did he create the Watchtower Bible \u0026 Tract Society? Why have book carts? Was Jehovah kidding when he had that put in the Bible? Is there a reason Watchtower \u0026 Awake magazine are piling up in laundromats? Listen in...TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-08-21T00:00:00",
       "duration": "01:15:17.1460000",
       "explicit": true,
       "spotifyId": "0ifRsZsHkqCD41LlY73ubC",
       "appleId": 1000625099242,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ifRsZsHkqCD41LlY73ubC",
         "apple": "https://podcasts.apple.com/podcast/why-do-jehovahs-witnesses-need-40-billion-pieces-of/id1667168726?i=1000625099242",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "37dd3ec5-453e-473f-9632-105d80cb35bd",
-      "type": "Episode",
       "title": "Jehovah Needs Your Money! Donations, ATMs, Real Estate \u0026 More!",
       "description": "Jehovah needs your money. Despite being all powerful and the creator of all things, the Governing Body of Jehovah\u0027s Witnesses assure us he still needs cash... and he will take it from anyone, including children and \u0027poor people.\u0027 When not monitoring \u0027donations\u0027, he spends time investing in property on a planet he says he will soon destroy. So many questions.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-08-14T00:00:00",
       "duration": "01:13:53.9720000",
       "explicit": true,
       "spotifyId": "15w8O9yEcjGUq1fD011qmd",
       "appleId": 1000624360828,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15w8O9yEcjGUq1fD011qmd",
         "apple": "https://podcasts.apple.com/podcast/jehovah-needs-your-money-donations-atms-real-estate-more/id1667168726?i=1000624360828",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "97b53a3c-fb0d-4418-9ec5-9fe3e9e07ac4",
-      "type": "Episode",
       "title": "\u0022That\u0027s a Conscience Matter\u0022 - The Voice Jehovah\u0027s Witnesses Ignore",
       "description": "Jehovah\u0027s Witnesses are taught that they have an inner voice that guides them through life, helping them make decisions and can make you feel good or bad about yourself. What is the voice in their head? Where did it come from and how do I make sure mine works right? Should I trust this voice? What is a \u0027conscience matter\u0027 \u2026 and does it even matter?\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-07-31T00:00:00",
       "duration": "01:06:48.3590000",
       "explicit": true,
       "spotifyId": "3o7H2lTZm5W3uaIHsthhd4",
       "appleId": 1000622896429,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3o7H2lTZm5W3uaIHsthhd4",
         "apple": "https://podcasts.apple.com/podcast/thats-a-conscience-matter-the-voice-jehovahs/id1667168726?i=1000622896429",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "b7de674d-d5f4-480c-8d17-a063e8ccbac5",
-      "type": "Episode",
       "title": "A Closer Look at How Jehovah\u0027s Witnesses Define \u0022Perfection\u0022",
       "description": "Jehovah\u0027s Witnesses are constantly reminded that they\u0027re flawed. It\u0027s no wonder their main message includes a hope of future \u0027perfection.\u0027 But what does that even mean? Will I be a superhero? Will a lifetime of fruit and veggies taste different? Will I have six pack abs? We take a look at the subject of \u0027perfection\u0027 as told to us by the nine guys in upstate New York!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-07-24T00:00:00",
       "duration": "01:10:47.4570000",
       "explicit": true,
       "spotifyId": "6A95sjzFYadPY8u20kXQnW",
       "appleId": 1000622111379,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6A95sjzFYadPY8u20kXQnW",
         "apple": "https://podcasts.apple.com/podcast/a-closer-look-at-how-jehovahs-witnesses-define-perfection/id1667168726?i=1000622111379",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "2401de0c-bd25-4f57-a32e-c20402d9b2a0",
-      "type": "Episode",
       "title": "Your Thoughts Are Not Your Own: Jehovah \u0026 His Guys Are Inside Your Head",
       "description": "The battle for your mind starts early in Jehovah\u0027s Witnesses. Each repetitive meeting, convention or piece of literature serves as a reminder that your thoughts need to be in line with the nine guys in upstate New York. In addition, each publisher, young or old, is reminded that Jehovah lives inside your head, examining what you\u0027re thinking about at any moment... anyone else find that \u2026 creepy?\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": true,
-      "ignored": false,
       "release": "2023-07-17T00:00:00",
       "duration": "01:13:09.3020000",
       "explicit": true,
       "spotifyId": "79gadnu8mybRCBLWi33jT4",
       "appleId": 1000621362599,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/79gadnu8mybRCBLWi33jT4",
         "apple": "https://podcasts.apple.com/podcast/your-thoughts-are-not-your-own-jehovah-his-guys-are/id1667168726?i=1000621362599",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "368044f9-abf9-410f-b26b-1adb11552aea",
-      "type": "Episode",
       "title": "Divorce, Separation, Remarriage \u0026 Unbelieving Mates Among Jehovah\u0027s Witnesses",
       "description": "Love is in the air... until it\u0027s not. Your marriage is not your own when you\u0027re a Jehovah\u0027s Witness. Life\u0027s most intimate relationship includes a \u0027three fold cord\u0027: the \u0027organization.\u0027 We look at divorce among \u0027god\u0027s people,\u0027 including the potentially dangerous, man made rules that \u0027allow\u0027 people to separate and remarry.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-07-10T00:00:00",
       "duration": "01:20:31.8170000",
       "explicit": true,
       "spotifyId": "45A2VW7Zn04uguHDfrbSgb",
       "appleId": 1000620466021,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/45A2VW7Zn04uguHDfrbSgb",
         "apple": "https://podcasts.apple.com/podcast/divorce-separation-remarriage-unbelieving-mates-among/id1667168726?i=1000620466021",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "9add3dac-9cd5-4aba-9ef6-7691d7062ad4",
-      "type": "Episode",
       "title": "\u0022Violence is Bad!\u0022 Unless You\u0027re Jehovah and the Governing Body",
       "description": "How does Jehovah compare to Bugs Bunny and Ironman? Jehovah\u0027s Witnesses have been told \u0027violence is bad\u0027 for over a century, including endless counsel regarding entertainment, sports and more. It begs a few questions: have they read Jehovah\u0027s book the Bible? Do they know how he has handled problems in the past? Why is Star Wars so bad, but violent convention videos okay? Even more important, are they familiar with how Jehovah ends this whole story?TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-07-03T00:00:00",
       "duration": "01:14:12.2310000",
       "explicit": true,
       "spotifyId": "0qLl6AUOQsEL5kQsnjsSfB",
       "appleId": 1000619101529,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0qLl6AUOQsEL5kQsnjsSfB",
         "apple": "https://podcasts.apple.com/podcast/violence-is-bad-unless-youre-jehovah-and-the-governing-body/id1667168726?i=1000619101529",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "0f5b07da-0131-44e5-b4b0-149946ba31d0",
-      "type": "Episode",
       "title": "The Dynamic Duo: How Gossip \u0026 Slander Poison the Congregations of Jehovah\u0027s Witnesses",
       "description": "The culture of Jehovah\u0027s Witnesses is filled with pitfalls. When your schedule every week includes another meeting in a windowless building where you listen to the same messages year after year, your mind begins to wander... and it usually wanders into everyone else\u0027s business. Despite the Bible\u0027s command to shun gossipers and those that slander, the body of elders will do nothing to stop the runaway mouths and imaginations of those in their congregation. Many times, the elders and their wives are top contributors.\u00A0Let\u0027s take a look at the damage and hypocrisy caused by the \u0027dynamic duo\u0027 of gossip \u0026 slander!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-06-26T00:00:00",
       "duration": "01:10:28.4400000",
       "explicit": true,
       "spotifyId": "6U9rNzaQeiDnME384Sk2ZH",
       "appleId": 1000618319858,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6U9rNzaQeiDnME384Sk2ZH",
         "apple": "https://podcasts.apple.com/podcast/the-dynamic-duo-how-gossip-slander-poison/id1667168726?i=1000618319858",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "86ae535b-d684-46ad-960b-4c363a820d90",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 Friendship: It\u0027s Conditional",
       "description": "What does friendship look like inside the world of Jehovah\u0027s Witnesses? Will they truly give up their lives for each other? How about a better seat at a District Convention? Like every relationship within the organization, friendships are dependent on many conditions... and decades of loyalty can be gone in seconds.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-06-19T00:00:00",
       "duration": "01:08:15.4250000",
       "explicit": true,
       "spotifyId": "5K4Wyi8IjeBEkyyf9dyQuS",
       "appleId": 1000617519003,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5K4Wyi8IjeBEkyyf9dyQuS",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-friendship-its-conditional/id1667168726?i=1000617519003",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "91cdcb1e-f6e6-4ffb-bfd0-f6e09e0a9aed",
-      "type": "Episode",
       "title": "Stealing Innocence: Why Jehovah\u0027s Witness Children are in Danger",
       "description": "The world of a child within Jehovah\u0027s Witnesses is wrought with danger. Aside from the refusal of \u0027god\u0027s organization\u0027 to protect children and turn predators over to the authorities, there are other, more subtle dangers a child faces when they are born into the organization. Dangers surrounding discipline, medical help... and perhaps the most insidious of all: a calculated brainwashing that the Governing Body encourages from infancy.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-06-12T00:00:00",
       "duration": "01:21:40.3360000",
       "explicit": true,
       "spotifyId": "45qnUXirXATQ6YhdPvcfN8",
       "appleId": 1000616605493,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/45qnUXirXATQ6YhdPvcfN8",
         "apple": "https://podcasts.apple.com/podcast/stealing-innocence-why-jehovahs-witness-children-are/id1667168726?i=1000616605493",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "1ae695dd-f03e-4659-bb92-01611ac15692",
-      "type": "Episode",
       "title": "Jehovah\u0027s Personality Test: Love, Justice, Wisdom \u0026 Power",
       "description": "Let\u0027s put the \u0027Jehovah\u0027 of Jehovah\u0027s Witnesses to a personality test! The Governing Body claims he has four main personality traits: Love, Justice, Wisdom and Power... but what do we find when we examine that claim? What happens when we put each quality to the test? The answers may surprise you.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-06-05T00:00:00",
       "duration": "01:19:37.3510000",
       "explicit": true,
       "spotifyId": "2T74G5LeljAzEwEA6bFANU",
       "appleId": 1000615677502,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2T74G5LeljAzEwEA6bFANU",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-personality-test-love-justice-wisdom-power/id1667168726?i=1000615677502",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "45647452-3bae-42d3-a07c-afc58f95735b",
-      "type": "Episode",
       "title": "Panic in Paradise: Marriage, Resurrection \u0026 Single Life After Armageddon",
       "description": "The subject of marriage in a perfect paradise earth has set many Jehovah\u0027s Witnesses into a panic for decades. Based on Jesus words at Luke 20:34-36, the Governing Body has made claims that we will not be able to remarry a resurrected spouse in paradise and they get to live alone for all eternity while still seeing you daily. What about single people? \u0022The faithful and discreet slave\u0022 have gone back and forth on their future and most of it depends on if or when they die!? Listen in as we watch Jesus guys tie themselves in knots trying to explain their reading comprehension issues.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-05-29T00:00:00",
       "duration": "01:11:01.4070000",
       "explicit": true,
       "spotifyId": "2UabDHr9KiP9VNqz9hUBA1",
       "appleId": 1000614835995,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2UabDHr9KiP9VNqz9hUBA1",
         "apple": "https://podcasts.apple.com/podcast/panic-in-paradise-marriage-resurrection-single-life/id1667168726?i=1000614835995",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b13ebb55-2207-49d5-983d-7d5910ccf942",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses Greatest Hits Volume I: Golden Age, Beth Sarim \u0026 Space Travel!",
       "description": "When you\u0027re directed by the Jehovah and his Son, you\u0027re bound to produce some of the universe\u0027s most memorable moments! In our first ever installment of JW Greatest Hits, this former elder reaches into the grab bag to look at three unforgettable gifts given to mankind by the leadership of Jehovah\u0027s Witnesses: The Golden Age magazine, Beth Sarim and one sentence in a 1986 book that had some of the brothers preparing Star Trek uniforms (now that Tony Morris is out, tight pants are back in!).TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-05-22T00:00:00",
       "duration": "01:09:51.1370000",
       "explicit": true,
       "spotifyId": "34uFXpxrED7keZe60gwVmn",
       "appleId": 1000614012243,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/34uFXpxrED7keZe60gwVmn",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-greatest-hits-volume-i-golden-age/id1667168726?i=1000614012243",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "bfbf520d-8beb-4068-9644-d433c6fd10b6",
-      "type": "Episode",
       "title": "Revelation: How Monsters, Whores \u0026 More All Point to Jehovah\u0027s Witnesses!",
       "description": "Jehovah\u0027s Witnesses have had a lot to say about the Bible book of Revelation. Starting with Charles Taze Russell, who claimed he was \u0027the mouthpiece of God\u0027, they have written and claimed as fact FIVE publications interpreting a book that God wrote himself. Listen in as we take a look back at those five books, including claims that Revelation prophesied about vacuum cleaners, that angels blowing trumpets is about Ohio U.S.A \u2026. and much more!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-05-15T00:00:00",
       "duration": "01:17:06.2330000",
       "explicit": true,
       "spotifyId": "4E3sr2nRXTF3p2OuXRKbhC",
       "appleId": 1000613032419,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4E3sr2nRXTF3p2OuXRKbhC",
         "apple": "https://podcasts.apple.com/podcast/revelation-how-monsters-whores-more-all-point-to-jehovahs/id1667168726?i=1000613032419",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "7c406d25-9468-4f59-819f-41b0dbe9728b",
-      "type": "Episode",
       "title": "The Last Days: Pyramids,1914, Four Horses... Mankind on the Clock!",
       "description": "Jehovah\u0027s Witnesses are regularly reminded that they\u0027re living in \u0027the last days\u0027 \u2026 a time period marked by endless misery all pointing to a conclusion that in itself is odd. Where did this teaching come from? How does it affect JW\u0027s? 109 years into the \u0027last days\u0027, we are still waiting for them to end...and\u00A0 we have some questions.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-05-08T00:00:00",
       "duration": "01:23:16.1270000",
       "explicit": true,
       "spotifyId": "3ts6tFSY3pr1MmsF70oZTQ",
       "appleId": 1000612135253,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ts6tFSY3pr1MmsF70oZTQ",
         "apple": "https://podcasts.apple.com/podcast/the-last-days-pyramids-1914-four-horses-mankind-on-the-clock/id1667168726?i=1000612135253",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "c5317da5-e8d1-429f-b8fd-5153d40b465a",
-      "type": "Episode",
       "title": "The Elders \u0026 Holy Spirit: A Closer Look at the \u0022Princes\u0022 Among Jehovah\u0027s Witnesses",
       "description": "Jehovah\u0027s Witnesses are taught that their congregation elders are appointed by holy spirit; that this magical force... that no one can explain, both guides and directs them in everything that they do. But if this is true, it raises both comical and serious questions about them as men, \u2026 as well as Jehovah and Jesus. Join us as we take a closer look at the guys they claim are \u0027princes\u0027 on the earth.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-05-01T00:00:00",
       "duration": "01:16:01.4490000",
       "explicit": true,
       "spotifyId": "7IIrt7LUYAVITypv697ih3",
       "appleId": 1000611276916,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7IIrt7LUYAVITypv697ih3",
         "apple": "https://podcasts.apple.com/podcast/the-elders-holy-spirit-a-closer-look-at-the/id1667168726?i=1000611276916",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "74fe8624-da96-4d5e-94c3-2643abd83a59",
-      "type": "Episode",
       "title": "The Governing Body\u0027s \u0022Inspired\u0022 Authority: We Speak for God... Sometimes",
       "description": "The Governing Body demands strict obedience from eight million plus Jehovah\u0027s Witnesses today. Their self proclaimed authority spans almost two centuries, with bold reminders that they are \u0027god\u0027s mouthpiece\u0027 and that they alone receive instructions directly from Jesus Christ. With a long history of changing doctrines, mistakes and ever changing policies... they then say, in print, that \u0022Jesus never said we would be perfect...\u0022 We have some questions: Are they inspired or infallible? Should we obey their authority?\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-04-24T00:00:00",
       "duration": "01:06:53.3220000",
       "explicit": true,
       "spotifyId": "5eyfzzIpvncpVsGhvG1egl",
       "appleId": 1000610364210,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5eyfzzIpvncpVsGhvG1egl",
         "apple": "https://podcasts.apple.com/podcast/the-governing-bodys-inspired-authority-we-speak-for/id1667168726?i=1000610364210",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "7a81d8fa-3d5c-4a75-b87a-d9ad58b55060",
-      "type": "Episode",
       "title": "The Biggest Lie of All: You Can Live Forever on a Paradise Earth",
       "description": "Eight million\u002B Jehovah\u0027s Witnesses base their entire lives on the belief that they may never die and will live forever on a paradise earth, complete with pet elephants, perfect food, perfect health and surrounded by generations of their resurrected family members. The Governing Body commands them to sacrifice immediate happiness to spread this \u0027message\u0027 to billions of people not yet baptized into the religion. But there\u0027s a problem: the Bible never mentions a paradise earth hope... and neither did their king, Jesus Christ during his visit to earth. Jesus forgot all about this \u0027hope\u0027... until 1935. Join us as we unpack the lie that steals time \u2026 and lives...TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-04-17T00:00:00",
       "duration": "01:18:02.4750000",
       "explicit": true,
       "spotifyId": "4mJOXPa9tqqzay53v8mWZP",
       "appleId": 1000609253265,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mJOXPa9tqqzay53v8mWZP",
         "apple": "https://podcasts.apple.com/podcast/the-biggest-lie-of-all-you-can-live-forever-on/id1667168726?i=1000609253265",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "9fb26c28-ceaf-4c7e-8a3a-0e883f03e95e",
-      "type": "Episode",
       "title": "What a Bleeding Rulebreaker Teaches Us About the Governing Body of Jehovah\u0027s Witnesses",
       "description": "In Part III and our final installment of Story Time with the King, we take a look at an often overlooked and underrated story from the Bible in Mark Chapter 5, where we meet a woman suffering with a flow of blood for twelve years. Knowing that the storyteller, Jesus Christ himself, chose the nine guys in upstate New York to lead all of mankind into paradise, those same guys surely understand the finer points of this story, right? How to handle the mental and physical pain of eight million\u002B Jehovah\u0027s Witnesses? How to handle sin? We take a closer look... and we have some questions!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-04-10T00:00:00",
       "duration": "01:07:49.9030000",
       "explicit": true,
       "spotifyId": "6RpQbPVX23bB3shCrCkAlT",
       "appleId": 1000608154038,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6RpQbPVX23bB3shCrCkAlT",
         "apple": "https://podcasts.apple.com/podcast/what-a-bleeding-rulebreaker-teaches-us-about/id1667168726?i=1000608154038",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "2b437c15-3b8a-4c57-9d50-988205bda754",
-      "type": "Episode",
       "title": "The Prodigal Son: Why Over Eight Million Jehovah\u0027s Witnesses Miss the Point",
       "description": "Our second installment of Story Time with the King: The Prodigal Son! In one of Jesus\u0027 most powerful parables, he sets the tone for how he expects Jehovah\u0027s Witnesses to treat people, including those that have committed serious sins. Where did procedures like judicial committees, disfellowshipping, requests for reinstatement and more, come from? So how does the Governing Body explain their actions? \u00A0 Let\u0027s take a look at the main characters and what the King of Jehovah\u0027s Witnesses expects from his guys in upstate New York.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-04-03T00:00:00",
       "duration": "01:19:00.9630000",
       "explicit": true,
       "spotifyId": "0QJz7kHzmfOO4zETfrAJPa",
       "appleId": 1000607073321,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0QJz7kHzmfOO4zETfrAJPa",
         "apple": "https://podcasts.apple.com/podcast/the-prodigal-son-why-over-eight-million-jehovahs/id1667168726?i=1000607073321",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "ae083e96-43bc-40e7-8ada-5bbe5128a00e",
-      "type": "Episode",
       "title": "How a Guy \u0026 His Donkey Expose the Ignorance of the Governing Body",
       "description": "Episode One of a three part series entitled Story Time With the King; a special look at three Bible parables that come from the leader of the Governing Body of Jehovah\u0027s Witnesses, Jesus Christ himself! This week, the Good Samaritan from Luke 10! Who are the main players? What should we take away from this story? Some history, some laughs... and more importantly, some questions: who in this powerful story most closely resembles Jesus\u0027 guys in upstate New York?#jehovahswitness #exjw #governingbody #jehovahswitnesses\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-03-27T00:00:00",
       "duration": "01:12:50.2850000",
       "explicit": true,
       "spotifyId": "6RZQM17R89gtMGxYe2XovZ",
       "appleId": 1000606042089,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6RZQM17R89gtMGxYe2XovZ",
         "apple": "https://podcasts.apple.com/podcast/how-a-guy-his-donkey-expose-the-ignorance/id1667168726?i=1000606042089",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "e7fc6bf9-47bd-4d4b-a3df-dc6ef499b460",
-      "type": "Episode",
       "title": "The Tortured Life of a Gay Jehovah\u0027s Witness - Part II",
       "description": "In our second installment on the messaging a gay Jehovah\u0027s Witness is exposed to, we take a look at the bizarre, cruel teachings from the Governing Body, including those directed at teenagers and how congregation elders handle the pain of a closeted gay person.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-03-20T00:00:00",
       "duration": "01:08:50.4020000",
       "explicit": true,
       "spotifyId": "6O1PorukQUyTcFjU7nfo7r",
       "appleId": 1000604925950,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6O1PorukQUyTcFjU7nfo7r",
         "apple": "https://podcasts.apple.com/podcast/the-tortured-life-of-a-gay-jehovahs-witness-part-ii/id1667168726?i=1000604925950",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "0e17ce20-b7c2-4953-ac06-aaebf565df62",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses and the Attack on Gay People - Part I",
       "description": "For decades, the Governing Body of Jehovah\u0027s Witnesses has been attacking gay people. A gay person, including children and teenagers, face a steady\u00A0 diet of ignorant and cruel speech for simply being themselves. The results to gay individuals is devastating, including the constant reminder that Jehovah hates them and they face destruction. We unpack the insanity promoted by leadership that they claim is directed by Jesus Christ himself.#jehovahswitness #exjw #gay #watchtower #governingbody\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-03-13T00:00:00",
       "duration": "01:10:27.1080000",
       "explicit": true,
       "spotifyId": "2x0L6guRLgJt3lWzAGY1Ov",
       "appleId": 1000603890152,
       "youTubeId": null,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2x0L6guRLgJt3lWzAGY1Ov",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-and-the-attack-on-gay-people-part-i/id1667168726?i=1000603890152",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ]
+      }
     },
     {
       "id": "74ea9753-1989-450e-9d42-b57debd85b8a",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 Mental Health: The Making of a Crisis",
       "description": "Jehovah\u0027s Witnesses are exposed to an onslaught of negative information. When it comes to mental health, many live a life of silent pain... or worse. While leadership has somewhat softened on receiving professional help, the message is still the same: read the Bible more and go out in field service; seeing a therapist is a personal decision. However, there are generations of former JW\u0027s who never sought help; with many stories ending in tragedy. We take a look at the \u0027inspired\u0027 counsel they gave to millions of people suffering from mental health issues and the end result.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-03-06T00:00:00",
       "duration": "01:13:44.0710000",
       "explicit": true,
       "spotifyId": "52G2qXpdlw4GseGRpm2EzD",
       "appleId": 1000602917129,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/52G2qXpdlw4GseGRpm2EzD",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-mental-health-the-making-of-a-crisis/id1667168726?i=1000602917129",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "1ed7a52d-ad7c-4163-bf70-bd8cd6d2aa3f",
-      "type": "Episode",
       "title": "The Tony Morris Story: When Jesus Fires a King!",
       "description": "After being appointed by means of holy spirit ...by Jesus Christ himself, Tony Morris was \u0027fired\u0027 from his kingly post as a member of the Governing Body of Jehovah\u0027s Witnesses. Let\u0027s take a look back at his life at the top, including his connection to Charles Taze Russell, the rare ex Governing Body Hall of Fame he is now a part of, as well as some supposition, predictions and \u0027guesses\u0027... and as always, we got questions!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-02-27T00:00:00",
       "duration": "01:11:16.7670000",
       "explicit": true,
       "spotifyId": "7gHyuhnoQ2Up3LqSGrea5B",
       "appleId": 1000601780697,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gHyuhnoQ2Up3LqSGrea5B",
         "apple": "https://podcasts.apple.com/podcast/the-tony-morris-story-when-jesus-fires-a-king/id1667168726?i=1000601780697",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "fff2f605-9c47-4f49-943d-3d707d345c98",
-      "type": "Episode",
       "title": "Apostasy: Why the Governing Body of Jehovah\u0027s Witnesses Has it All Wrong",
       "description": "The Big A. Apostasy. No word or accusation is feared more by a baptized Jehovah\u0027s Witness. If you question anything from the ten guys in upstate New York, they can destroy your entire life, alienate you from family and friends... and that\u0027s the \u0027easy\u0027 part. They plan on killing you at Armageddon. We take a look at how the Governing Body has apostasy all wrong, how it damages millions... and prove from their magic book that they clearly don\u0027t know their \u0027god\u0027 \u2026 or his son.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-02-20T00:00:00",
       "duration": "01:12:17.2140000",
       "explicit": true,
       "spotifyId": "6EcD9zn6XRIup58wwaEKSV",
       "appleId": 1000600518545,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6EcD9zn6XRIup58wwaEKSV",
         "apple": "https://podcasts.apple.com/podcast/apostasy-why-the-governing-body-of-jehovahs/id1667168726?i=1000600518545",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "279eb0fe-f271-459a-8928-0c401ab67fb9",
-      "type": "Episode",
       "title": "The Dangers of Entertainment: Jesus is Worried About TV \u0026 the Movies!",
       "description": "In the Governing Body\u0027s ongoing attempt to control every aspect of a Jehovah\u0027s Witness life, they have always had plenty to say about television and movies. But while counseling us all on the dangers of E.T., the Brady Bunch and Netflix \u0026 chill, they seemed to forget about the content of their own modern day videos.... and uh, that book Jehovah game them. This episode is:Rated R...for RIDICULOUS\u00A0Under 17 Requires Accompanying Baptized Parents for Section on the BibleStrong Content Including: Absurdity, Laughter, SarcasmTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-02-13T00:00:00",
       "duration": "01:08:16.7830000",
       "explicit": true,
       "spotifyId": "6rGuApbLZNT8cpUCPnxTmr",
       "appleId": 1000599291838,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6rGuApbLZNT8cpUCPnxTmr",
         "apple": "https://podcasts.apple.com/podcast/the-dangers-of-entertainment-jesus-is-worried-about/id1667168726?i=1000599291838",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "90a74ad3-792f-4a69-8c7f-ea5a47cba40d",
-      "type": "Episode",
       "title": "Do Jehovah\u0027s Witnesses Follow the Bible? Or \u2026 Men?",
       "description": "The claim is that Jehovah wrote the perfect book for all of mankind. A book that makes you \u0027fully competent\u0027 and \u0027completely equipped\u0027 for anything life throws at you. Do Jehovah\u0027s Witnesses really believe that? Do they lean into the Bible when making decisions about birthdays, healthcare, relationships and more? We take a look a look at what \u0022God\u0027s Word\u0027 says versus billions of pages of other books and magazines... and we have some questions!\u00A0NOTE: no trees were harmed or ink used in bringing you this information.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-02-06T00:00:00",
       "duration": "01:05:56.3490000",
       "explicit": true,
       "spotifyId": "3zyJKvJUQ2mFGEMUoBvIy5",
       "appleId": 1000598207517,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3zyJKvJUQ2mFGEMUoBvIy5",
         "apple": "https://podcasts.apple.com/podcast/do-jehovahs-witnesses-follow-the-bible-or-men/id1667168726?i=1000598207517",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "8c58deea-5839-4bb7-a8ac-c846978e1cbc",
-      "type": "Episode",
       "title": "Persecution: Obsession \u0026 Tragedy Among Jehovah\u0027s Witnesses",
       "description": "The Governing Body of Jehovah\u0027s Witnesses has an obsession with persecution. Tragically, thousands of JW\u0027s have died remaining loyal to a publishing company; some of which was avoidable! Today, publishers are consistently fed messaging, images and videos reminding them they too will face persecution. Why? Are children exposed to this stuff? Are world governments really worried about people preaching fairy tales and passing on birthday cake? We take a look.WARNING: Their literature features gruesome experiences, some of which will be shared.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-01-30T00:00:00",
       "duration": "01:05:00.2640000",
       "explicit": true,
       "spotifyId": "27lrOyfR9QOVtqlHQH0mGR",
       "appleId": 1000597213491,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/27lrOyfR9QOVtqlHQH0mGR",
         "apple": "https://podcasts.apple.com/podcast/persecution-obsession-tragedy-among-jehovahs-witnesses/id1667168726?i=1000597213491",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "2f86ace4-c7f8-49c6-a445-1de2af3d5c55",
-      "type": "Episode",
       "title": "The Governing Body Has Two New \u0027Kings\u0027 - A Look at Jesus\u0027 Arrangement, Past \u0026 Present",
       "description": "Jesus is making moves! The Governing Body of Jehovah\u0027s Witnesses added two new \u0027kings\u0027 to their ranks this week... at a time when they teach that the world is ending. Any second now. We take a look at who the new guys are, how such universe altering news was handled and where the entire \u0027doctrine\u0027 of the Governing Body came from. HINT: no apostles were interviewed.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-01-23T00:00:00",
       "duration": "01:02:16.7900000",
       "explicit": true,
       "spotifyId": "1N0thihFixycwf7KSInDYn",
       "appleId": 1000596019419,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1N0thihFixycwf7KSInDYn",
         "apple": "https://podcasts.apple.com/podcast/the-governing-body-has-two-new-kings-a-look-at/id1667168726?i=1000596019419",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "d6021029-e074-4f89-b7af-e6e9e062d308",
-      "type": "Episode",
       "title": "Bad Association: How Classmates, Workmates, Dinah and Bugs Bunny \u0027Spoil Useful Habits\u0027",
       "description": "It\u0027s tattooed onto your brain from a young age as a Jehovah\u0027s Witness: 1 Corinthians 15:33, \u0022Bad associations, spoil useful habits.\u0022 The Governing Body likes to point at Dinah of Bible fame, as someone who made a bad decision on friends. Let\u0027s take a look at how everyone outside the \u0027organization\u0027 is a \u0027bad person\u0027 looking to corrupt your character, including the kids in the neighborhood, your workmates, the Road Runner and Wile E. Coyote and anyone else not following the eight guys in upstate New York!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-01-16T00:00:00",
       "duration": "01:07:18.6870000",
       "explicit": true,
       "spotifyId": "7deO2OJoEMy9A0JMmkfEcO",
       "appleId": 1000595955830,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7deO2OJoEMy9A0JMmkfEcO",
         "apple": "https://podcasts.apple.com/podcast/bad-association-how-classmates-workmates-dinah-and/id1667168726?i=1000595955830",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "962c8246-8fd2-4401-87f8-7b9b4af7219b",
-      "type": "Episode",
       "title": "Dating in Jehovah\u0027s Witnesses - \u0027Flirting\u0027 with Disaster",
       "description": "Love is in the air \u2026 but it comes with rules if you\u0027re a Jehovah\u0027s Witness! We take a look at the Governing Body\u0027s rules on dating and courtship, including what qualifies as dating, chaperones, what it means for women... and a look at wise King Solomon\u0027s pointers on all things romance from the Song of Solomon!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-01-09T00:00:00",
       "duration": "01:09:56.0750000",
       "explicit": true,
       "spotifyId": "46ZM0gMfW8OIdzuThQ91mp",
       "appleId": 1000595955831,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/46ZM0gMfW8OIdzuThQ91mp",
         "apple": "https://podcasts.apple.com/podcast/dating-in-jehovahs-witnesses-flirting-with-disaster/id1667168726?i=1000595955831",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "aa1e36c9-d4e1-47c2-9602-24cac66a0278",
-      "type": "Episode",
       "title": "Parenting in Jehovah\u0027s Witnesses: A Culture of Failure, Loopholes \u0026 Denial",
       "description": "Being a parent in Jehovah\u2019s Witnesses is filled with some bizarre and painful stuff. A parent\u2019s entire purpose in life isn\u2019t to enjoy their children, but to get them to a baptism pool before Armageddon hits. In a set of bizarre observations, VERY few JW parents set a good example, study with their children or even believe this is a life and death matter. When the child leaves the organization as an adult, they shift to believing in \u2018spiritual loopholes\u2019 that aren\u2019t true\u2026 and don\u2019t seem to take responsibility for their failure to make little Jehovah\u2019s Witnesses. We take a look at the bizarre thinking and actions of JW parents, both good and bad\u2026 and share the Governing Body\u2019s teaching that any child not baptized as one of their disciples is doomed to destruction at Armageddon.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2023-01-02T00:00:00",
       "duration": "01:10:12.3490000",
       "explicit": true,
       "spotifyId": "7M4TBpRICTd2R6sH0qoEhk",
       "appleId": 1000595955932,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7M4TBpRICTd2R6sH0qoEhk",
         "apple": "https://podcasts.apple.com/podcast/parenting-in-jehovahs-witnesses-a-culture-of/id1667168726?i=1000595955932",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ade5c44b-e725-47d8-82d0-3e77cf08b21f",
-      "type": "Episode",
       "title": "Why Don\u0027t Jehovah\u0027s Witnesses Celebrate Christmas?",
       "description": "Why are Jehovah\u0027s Witnesses forbidden to celebrate Christmas? Their website, built by \u0027holy spirit\u0027 and the Governing Body, gives four reasons why they aren\u0027t allowed to celebrate Jesus birth, have a tree, put up lights or give gifts to family. We unwrap these presents from heaven \u2026 and what\u0027s inside is both insulting and absurd.\u00A0#jehovahswitnesses #exjw #christmas #jehovahswitness #watchtower\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-12-26T00:00:00",
       "duration": "01:02:56.4700000",
       "explicit": true,
       "spotifyId": "791TFVEWKDigjxRhqzeohu",
       "appleId": 1000595955990,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/791TFVEWKDigjxRhqzeohu",
         "apple": "https://podcasts.apple.com/podcast/why-dont-jehovahs-witnesses-celebrate-christmas/id1667168726?i=1000595955990",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4957967f-fa27-453e-b174-afea571e3ca1",
-      "type": "Episode",
       "title": "The Governing Body \u0026 the Pharisees: Heavy Loads, Swallowing Camels and Delusion",
       "description": "In perhaps the most striking example of how deluded the Governing Body of Jehovah\u0027s Witnesses are, we take a look at their boss\u0027 Jesus diatribe against a group he hated during his visit to planet earth... a little group known as the Pharisees... and how the Governing Body either has comprehension issues, Jesus changed his mind about the Pharisees when he got back to heaven or those guys in upstate New York decided on their own to steal and emulate the playbook of a group that their King referred to as \u0027serpents set to burn in Gehenna\u0027 \u2026\u00A0Laughs will be had.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-12-19T00:00:00",
       "duration": "01:07:18.4000000",
       "explicit": true,
       "spotifyId": "3xzZpfb4m3rjUZy7oiD8E7",
       "appleId": 1000595955874,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3xzZpfb4m3rjUZy7oiD8E7",
         "apple": "https://podcasts.apple.com/podcast/the-governing-body-the-pharisees-heavy-loads/id1667168726?i=1000595955874",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4eca2cd4-02f9-46d6-b124-4b09318558d7",
-      "type": "Episode",
       "title": "Are Jehovah\u0027s Witnesses the \u0027Happiest People on Earth?\u0027",
       "description": "For the better part of a century, the Governing Body have claimed that Jehovah\u0027s Witnesses are the \u0027happiest people on earth.\u0027 But a quick look at the people inside a Kingdom Hall raise a lot of questions. Not only do they look unhappy, but they\u0027re regularly reminded that any happiness they DO experience isn\u0027t deserved anyway. And if you don\u0027t like that message... there is a fireball waiting for you at Armageddon. Let\u0027s take a look at their \u0027happiness\u0027 and how this can go from comedy to tragedy.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-12-12T00:00:00",
       "duration": "01:08:21.5890000",
       "explicit": true,
       "spotifyId": "1dhCfzT7Yh7wDHKhPChmKI",
       "appleId": 1000595955832,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1dhCfzT7Yh7wDHKhPChmKI",
         "apple": "https://podcasts.apple.com/podcast/are-jehovahs-witnesses-the-happiest-people-on-earth/id1667168726?i=1000595955832",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "147ab088-bbaa-4fbd-a563-9011a89ee16f",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 the CULTure of Control: Hair, Skin, Dress \u0026 more!",
       "description": "The world of Jehovah\u2019s Witnesses is all about control. The Governing Body have built a CULTure that eliminates personality, individuality, self esteem\u2026. In favor of compliance to man made rules found nowhere in the Bible. Listen in as we examine how and why millions are led to believe that Jehovah and his son Jesus, are very concerned with fashion, hairstyles, cosmetics and more. NOTE: 40,000 precious children will die today in developing countries from lack of food and water. But we are blessed to know that the Almighty isn\u2019t too distracted by all that to be sure that men are shaving.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-12-05T00:00:00",
       "duration": "01:14:20.5910000",
       "explicit": true,
       "spotifyId": "6YaKPYYbvdOGr26TpIOtiS",
       "appleId": 1000595955991,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6YaKPYYbvdOGr26TpIOtiS",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-the-culture-of-control-hair/id1667168726?i=1000595955991",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "16021c42-db8a-49b3-8284-dddcc231bc88",
-      "type": "Episode",
       "title": "Congregation Elders, How \u0026 Why? The 7 Archetypes of the \u0027God Squad\u0027",
       "description": "Each congregation of Jehovah\u0027s Witnesses is led by a Body of Elders, a mish mash of personalities that publishers are supposed to believe will shepherd and guide them through the \u0027last days of this system of things.\u0027 However, most know they are primarily enforcers for the Governing Body. Where did this come from? We take a look at the \u0027personalities\u0027 that make up a typical group of elders. Warning: Laughs are had.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-11-28T00:00:00",
       "duration": "01:12:47.6470000",
       "explicit": true,
       "spotifyId": "21EqyzAQ4Eb5X4NmNiWnRW",
       "appleId": 1000595955796,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/21EqyzAQ4Eb5X4NmNiWnRW",
         "apple": "https://podcasts.apple.com/podcast/congregation-elders-how-why-the-7-archetypes-of/id1667168726?i=1000595955796",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "0610e7f3-8cec-4b08-b273-c8bc6fa2b9a0",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 Alcohol: What\u0027s All the \u0022Buzz\u0022 About?",
       "description": "Despite the Bible\u0027s command against drunkenness, overdrinking has worked it\u0027s way into the everyday life of Jehovah\u0027s Witnesses... and it\u0027s not just the publishers. From biblical characters held up as examples, to the modern day Governing Body... many of them can\u0027t resist a stiff drink. Listen in as we take a look at why getting buzzed, tipsy or straight hammered drunk is often overlooked in JW culture.\u00A0We have some stories.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-11-21T00:00:00",
       "duration": "01:10:55.4510000",
       "explicit": true,
       "spotifyId": "2CD7AzfPjW4e12c2AezmhF",
       "appleId": 1000595955969,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2CD7AzfPjW4e12c2AezmhF",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-alcohol-whats-all-the-buzz-about/id1667168726?i=1000595955969",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "178ded9e-5dcd-4b13-a070-791521286e77",
-      "type": "Episode",
       "title": "Do Jehovah\u0027s Witnesses Have \u0027Free Will?\u0027 A Tree, a Fish \u0026 Consequences",
       "description": "The Governing Body twists itself in knots to get eight million people to believe that they \u0027want\u0027 to serve a publishing company in upstate NY. We take a look at the concept of \u0027free will\u0027 as taught to Jehovah\u0027s Witnesses and how a tree, a fish and many other factors lead to consequences that end in misery.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-11-14T00:00:00",
       "duration": "01:08:12.1600000",
       "explicit": true,
       "spotifyId": "0H8nHOfShVfYx9wgZvWcKq",
       "appleId": 1000595955795,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0H8nHOfShVfYx9wgZvWcKq",
         "apple": "https://podcasts.apple.com/podcast/do-jehovahs-witnesses-have-free-will-a-tree-a/id1667168726?i=1000595955795",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "1aff15ba-4b40-4bd8-b081-b7b3d6ad11cb",
-      "type": "Episode",
       "title": "Why Field Service is a Scam: Coffee Breaks 108 Years into the Last Days",
       "description": "Jehovah\u0027s Witnesses are known for their door to door, house to house preaching work. But does it make sense? Is it effective? Was it even commanded? We take a look at the misery of field service, from oversized car groups and \u0027not at homes\u0027... to why they do it all. Listen in!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-11-07T00:00:00",
       "duration": "01:09:01.0070000",
       "explicit": true,
       "spotifyId": "7fFcOhP8I6TlwrnISAA9L9",
       "appleId": 1000595955860,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7fFcOhP8I6TlwrnISAA9L9",
         "apple": "https://podcasts.apple.com/podcast/why-field-service-is-a-scam-coffee-breaks-108-years/id1667168726?i=1000595955860",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "cb25ed59-4dec-41d2-a81e-1089dace35eb",
-      "type": "Episode",
       "title": "How Jehovah\u0027s Suspect Character Affects Jehovah\u0027s Witnesses",
       "description": "The Governing Body of Jehovah\u0027s Witnesses attempt to use the Bible and their \u0027inspired\u0027 publications to paint a picture of a loving god who makes decisions in the best interest of his children here on earth. We take a look at examples, past \u0026 present \u2026 and it raises some QUESTIONS!\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-10-31T00:00:00",
       "duration": "01:07:02.0470000",
       "explicit": true,
       "spotifyId": "5mxJtWjcQNSPutHFazWQtH",
       "appleId": 1000595955875,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mxJtWjcQNSPutHFazWQtH",
         "apple": "https://podcasts.apple.com/podcast/how-jehovahs-suspect-character-affects-jehovahs-witnesses/id1667168726?i=1000595955875",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b7b9df69-577b-4f3b-8c77-ade3e6285f01",
-      "type": "Episode",
       "title": "\u0022Love Your Neighbor\u0022 - No Charity, No Help, But Here\u0027s a Book!",
       "description": "\u201CLove your neighbor\u201D\u2026 seems like a simple command. Why don\u2019t Jehovah\u2019s Witnesses get involved in their community? Give to charities? Feed the homeless? Donate clothing or money to those in need? The Governing Body discourages it and frequently ask that all resources be sent to them in New York. But it\u2019s WORSE than you think! The needs and protection of children, as well as those in life or death circumstances are ignored in favor of \u2026 \u2018hope\u2019 in a fairy tale\u2026 and a Watchtower magazine.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-10-24T00:00:00",
       "duration": "01:03:57.1520000",
       "explicit": true,
       "spotifyId": "21SUAbLWiv1ObLLLVWSSGY",
       "appleId": 1000595955834,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/21SUAbLWiv1ObLLLVWSSGY",
         "apple": "https://podcasts.apple.com/podcast/love-your-neighbor-no-charity-no-help-but-heres-a-book/id1667168726?i=1000595955834",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b5acddbf-d35d-450c-9229-df63761a4d00",
-      "type": "Episode",
       "title": "Jehovah\u2019s Witnesses \u0026 the Assault on Children\u2019s Minds",
       "description": "For almost a century there has been an assault on the minds of young children inside of Jehovah\u0027s Witnesses, including a weekly meeting schedule, publications featuring frightening illustrations of death \u0026 destruction, subtle cartoons, as well as \u0027counsel\u0027 that creates shame and low self esteem. In 2022, the Governing Body of Jehovah\u0027s Witnesses stated to millions that they consider babies to be \u0027enemies of God.\u0027 Aside from the threat of physical danger within a Kingdom Hall, children are being exposed to messaging that does lifelong damage. We shine a light on the dangers innocent children are facing inside the \u0027religion.\u0027\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-10-17T00:00:00",
       "duration": "01:12:09.4560000",
       "explicit": true,
       "spotifyId": "5FZmhnRduo9J38xJjKTJW8",
       "appleId": 1000595955992,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5FZmhnRduo9J38xJjKTJW8",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-the-assault-on-childrens-minds/id1667168726?i=1000595955992",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "1f3f8fd0-e952-4783-9481-aa7e4d747c38",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witness End Game: Baptism; It\u0027s a Trap!",
       "description": "Baptism is all about controlling Jehovah\u0027s Witnesses. They are locking children as young as six years old into a lifetime of service to a publishing company in upstate New York. Baptism allows them to control every aspect of a person\u0027s life, young or old. We look at all the loopholes leveraged by parents, why a simple dunk in a pool opens you up to disfellowshipping or worse and their admission that their entire baptism process is found nowhere in the Bible. It\u0027s a trap!#jehovahwitnesses #exjw #baptism #disfellowshippingTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-10-10T00:00:00",
       "duration": "01:01:27.2620000",
       "explicit": true,
       "spotifyId": "4iJPAAoj6lgdDMxvGauGj6",
       "appleId": 1000595956017,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4iJPAAoj6lgdDMxvGauGj6",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witness-end-game-baptism-its-a-trap/id1667168726?i=1000595956017",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "a22a991c-125e-49b8-be62-fdd1eed61e88",
-      "type": "Episode",
       "title": "The Flood, Noah\u0027s Ark and Jehovah\u0027s Witnesses",
       "description": "Did you know that the Bible\u2019s story of a global flood and Noah\u2019s ark is historical fact?? The Governing Body of Jehovah\u2019s Witnesses says so! If you ever wondered how a 600 year old guy, 270 carnivores in a boat and mountains of POOP provide a preview of a global genocide that God promised he would never do again, you\u2019re not alone! We take a look at the major players, ask some valid questions and explore what this \u2018story\u2019 tells us about God himself!\u00A0#jehovahwitnesses #exjw\u00A0\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-10-03T00:00:00",
       "duration": "01:12:01.4360000",
       "explicit": true,
       "spotifyId": "7jkMThzfOfGIptOZwrCFm1",
       "appleId": 1000595955833,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jkMThzfOfGIptOZwrCFm1",
         "apple": "https://podcasts.apple.com/podcast/the-flood-noahs-ark-and-jehovahs-witnesses/id1667168726?i=1000595955833",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e055aaa8-5806-48a8-8372-8425dd00fbff",
-      "type": "Episode",
       "title": "How Millions of Jehovah\u0027s Witnesses are Trapped by Fear \u0026 Guilt",
       "description": "It\u0027s the perfect cocktail served up by the Governing Body of Jehovah\u0027s Witnesses: scare them and make them feel bad about it. Millions are trapped by the FEAR that they must stay in this organization... and then hit with guilt for knowing something is wrong. We take a look at these powerful \u0027weapons,\u0027 as well as share thoughts on breaking free.#jehovahwitnesses #exjw #watchtower #jw #governingbody\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-09-26T00:00:00",
       "duration": "01:11:21.6260000",
       "explicit": true,
       "spotifyId": "5mnAO0hrW9AL2yiQzxC7gi",
       "appleId": 1000595955775,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mnAO0hrW9AL2yiQzxC7gi",
         "apple": "https://podcasts.apple.com/podcast/how-millions-of-jehovahs-witnesses-are-trapped-by/id1667168726?i=1000595955775",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "9a30337f-955d-41ae-bcf4-8099ec4a6806",
-      "type": "Episode",
       "title": "Universal Sovereignty: Jehovah Can\u0027t Handle a Bully",
       "description": "When challenged by a bully.... his own \u0027son\u0027... Jehovah decided to \u0027take the challenge\u0027 and let the bully torture all of his children to get a point across. Let\u0027s take a look at the details of this cornerstone doctrine of Jehovah\u0027s Witnesses and learn how Jehovah\u0027s name means more to him than anything else....\u00A0#jehovahwitnesses #exjw #watchtower #jw\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-09-18T00:00:00",
       "duration": "01:07:21.5340000",
       "explicit": true,
       "spotifyId": "3B8Sp3b5BFpkiC23amWerF",
       "appleId": 1000595955934,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3B8Sp3b5BFpkiC23amWerF",
         "apple": "https://podcasts.apple.com/podcast/universal-sovereignty-jehovah-cant-handle-a-bully/id1667168726?i=1000595955934",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "a4b3910c-dc5b-4058-948d-d4a3072f5baf",
-      "type": "Episode",
       "title": "Witnesses: NEVER Confess Your Sins to the Elders: How \u0026 Why to Avoid!",
       "description": "Witnesses are taught that they must confess their sins to the elders to be forgiven. But that is NOT necessary. There is the mother of all \u0027loopholes\u0027 in print, rendering confessions, judicial committees and punishment completely unnecessary for the common JW... and it\u0027s been there for 50 years. Listen in on why a Jehovah\u0027s Witness should NEVER confess there sins to the elders or feel guilty in NOT doing so.#jehovahwitnesses #exjw #bible #elders #watchtower #governingbody\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-09-12T00:00:00",
       "duration": "01:03:58.7720000",
       "explicit": true,
       "spotifyId": "2Zw0FXf25cxpuqxJTZSMQC",
       "appleId": 1000595955933,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Zw0FXf25cxpuqxJTZSMQC",
         "apple": "https://podcasts.apple.com/podcast/witnesses-never-confess-your-sins-to-the-elders-how/id1667168726?i=1000595955933",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "4710ce22-e4f2-4bc9-870a-29cded36fa24",
-      "type": "Episode",
       "title": "\u0022Going Beyond What is Written\u0022 - Jesus Needs the Governing Body?",
       "description": "Jehovah and Jesus aren\u0027t \u0027detail\u0027 guys. They need eight guys in upstate New York to talk to mankind for them. Despite the Bible saying it alone makes us \u2018fully competent\u2019 and \u2018completely equips\u2019 a person for a relationship with God, Jehovah\u2019s Witnesses don\u2019t believe it\u2019s true. The Governing Body have outright ignored the \u0027rule\u0027 at 1 Corinthians 4:6: \u2018never go beyond the things written.\u2019 Remember when Jesus mentioned college, piercings, pi\u00F1atas or disco? No? Neither do we. That\u0027s why Jesus needs these eight guys.#jehovahwitnesses #exjw #bible #cults #watchtower #governingbody\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-09-05T00:00:00",
       "duration": "01:12:01.4100000",
       "explicit": true,
       "spotifyId": "0QQwTL6gy9bcygm1ieftdy",
       "appleId": 1000595955861,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0QQwTL6gy9bcygm1ieftdy",
         "apple": "https://podcasts.apple.com/podcast/going-beyond-what-is-written-jesus-needs-the-governing-body/id1667168726?i=1000595955861",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "ce362755-de01-4b84-86d0-ebf8ed5402fa",
-      "type": "Episode",
       "title": "Disfellowshipping \u0026 Jehovah\u0027s Witnesses Part II: Pain \u0026 Misery Since 1952",
       "description": "The Governing Body of Jehovah\u0027s Witnesses have millions believing that shunning is a \u0027loving arrangement.\u0022 Disfellowshipping isn\u0027t taught in the Bible or by Jesus Christ in the Gospels. We take a look at how it started in 1952; why it was implemented, the list of sins that get a person shunned, how this effects any baptized JW, including children... and much more!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-08-28T00:00:00",
       "duration": "01:10:35.8590000",
       "explicit": true,
       "spotifyId": "6eGncoP7p8euATKHHbkmmC",
       "appleId": 1000595955797,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6eGncoP7p8euATKHHbkmmC",
         "apple": "https://podcasts.apple.com/podcast/disfellowshipping-jehovahs-witnesses-part-ii-pain-misery/id1667168726?i=1000595955797",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "507b73b0-2e66-40b2-846a-9f1a67593655",
-      "type": "Episode",
       "title": "Disfellowshipping \u0026 Jehovah\u0027s Witnesses: A Timeline to Pain \u0026 Tragedy",
       "description": "Jehovah\u0027s Witnesses are shunned by everyone they love, including family and friends, if three guys in the B School consider them unrepentant after committing a serious sin. No love, no communication, no help. Unless they follow mundane steps over an undetermined amount of time to be reinstated, this punishment is for the remainder of their life. We take a look at how this started, how it is NOT Bible based, how Jesus forgot to mention it.... and how the guys in upstate New York have wielded it to create unbelievable misery, including death. (PART ONE)#jehovahwitnesses #exjw #disfellowshipping #shunning #cults #watchtower\u00A0 TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-08-22T00:00:00",
       "duration": "01:08:03.0950000",
       "explicit": true,
       "spotifyId": "3bh7dZKeFr57jE0nzERHec",
       "appleId": 1000595955776,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bh7dZKeFr57jE0nzERHec",
         "apple": "https://podcasts.apple.com/podcast/disfellowshipping-jehovahs-witnesses-a-timeline-to/id1667168726?i=1000595955776",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "c272f5b2-9306-4946-bf58-529ec61c534c",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 Sex Part II: An \u0022Oral\u0022 History of What Married People Can Do in the Bedroom",
       "description": "Without any foundation or instruction from the Bible they alone claim to understand, the Governing Body of Jehovah\u0027s Witnesses have a lot to say on how MARRIED people make love. A big \u0027no no\u0027 is anything involving your mouth or backdoor. When a husband and wife engage in anything \u0027oral\u0027 they risk being disfellowshipped from the congregation; losing everything. A look back at decades worth of leadership telling consenting, married adults how to touch each other in private \u2026 and the untold damage it has done to innocent people.#jehovahswitnesses #exjw #exjehovahswitness #watchtower\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-08-15T00:00:00",
       "duration": "01:06:52.1200000",
       "explicit": true,
       "spotifyId": "15s7NBrgqu2d6RSOiqYJyt",
       "appleId": 1000595955862,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15s7NBrgqu2d6RSOiqYJyt",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-sex-part-ii-an-oral-history-of/id1667168726?i=1000595955862",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "f1b78d13-2a65-4739-9e5a-99b8f29f297e",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 Sex: The Governing Body is in Your Bedroom",
       "description": "The Governing Body of Jehovah\u0027s Witnesses are eager to control every aspect of a person\u0027s entire life... including sex. How do they manage to find themselves in the beds of consulting adults? We take a look at how eight guys in upstate New York convince millions just how married people should be doing the deed, their \u0027creative\u0027 interpretations of Greek words, how to keep your mouth to yourself and who is always watching... and of course, much more!#jehovahswitnesses #exjw #exjehovahswitness #watchtower\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-08-08T00:00:00",
       "duration": "01:08:43.8460000",
       "explicit": true,
       "spotifyId": "2Oc239F2eFvQlmmzmLr6rD",
       "appleId": 1000595955863,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Oc239F2eFvQlmmzmLr6rD",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-sex-the-governing-body-is-in-your/id1667168726?i=1000595955863",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "13498ee6-5282-484d-a4d9-3d37472e7352",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses on Higher Education: Over One Hundred Years of Keeping People Dumbed Down",
       "description": "Jehovah\u0027s Witnesses face a steady stream of subtle...and not so subtle propaganda against pursuing higher education.\u00A0 The Governing Body targets young Jehovah\u0027s Witnesses with an ongoing guilt trip for wanting to pursue a college degree. With endless commentary on the dangers of college, university and against bettering yourself, they have kept millions from reaching their true potential \u2026 and under their control.\u00A0We take a look back at how generations of JW\u0027s missed out on opportunities and how it continues to effect them.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-08-01T00:00:00",
       "duration": "00:51:32.0620000",
       "explicit": true,
       "spotifyId": "7zhTwrYYj3pmSdigYN1BTN",
       "appleId": 1000595955970,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7zhTwrYYj3pmSdigYN1BTN",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-on-higher-education-over-one-hundred/id1667168726?i=1000595955970",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "6fb44a6d-a69f-4fda-8e96-dc38b84a3b64",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 The Chosen Path of Ignorance",
       "description": "What shocks YOU the most about Jehovah\u2019s Witnesses? I\u2019m often asked that question. The answer probably differs for everyone, but let\u2019s take a look at how millions of people devote themselves to a cult without ever knowing it\u2019s history, reading the Bible or being able to explain their \u2018life or death\u2019 beliefs. How are innocent people held captive to a life of ignorance about their own \u2018religion?\u2019 Why do they choose to bury their heads in the sand on \u2018generations,\u2019 blood, birthdays and more? Why are most JW\u2019s so uneducated, despite being baptized for decades? \u00A0We take a look at how the Governing Body of Jehovah\u2019s Witnesses has molded millions of people into followers with a steady dose of fear and complacency that goes back over a century\u2026and keeps millions of publishers coming to your door, unable to answer basic questions about their faith. Don\u2019t worry\u2026 you won\u2019t hear \u201CI\u2019ll need to research that and come back with an answer\u201D\u2026 no \u2018return visits here!#jehovahswitnesses #exjw #exjehovahswitness #watchtower\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-07-25T00:00:00",
       "duration": "01:03:58.6410000",
       "explicit": true,
       "spotifyId": "0UlolQUDp9iqgAYkk8pTjk",
       "appleId": 1000595955971,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0UlolQUDp9iqgAYkk8pTjk",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-the-chosen-path-of-ignorance/id1667168726?i=1000595955971",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "0261f799-471e-45be-8c48-6c83a36b0643",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses \u0026 Those Crazy Demons: Buff, Supernatural Perverts With All Access Passes",
       "description": "In our longest episode yet, we take a look at the Jehovah\u0027s Witnesses belief that invisible boogey men continue to influence our lives.\u00A0 God wiped out the demon\u0027s families at the Flood, but then let them come home to heaven and what? Grab a snack? Only to send them right back to vulnerable mankind on earth to do it all over again. From a young age, adults and children alike are fed a steady diet of fear. Witnesses have been taught that everything from Smurfs, to music, toys, movies, album covers and that pair of socks you got at the garage sale, are potentially dangerous items highjacked by demons that want to come to your house. Let\u0027s talk urban legend, where all of this comes from... and several other sensitive questions you probably never considered... this week on Surviving Paradise!\u00A0#jehovahswitnesses #exjw #exjehovahswitness #watchtower\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-07-18T00:00:00",
       "duration": "01:19:31.9180000",
       "explicit": true,
       "spotifyId": "7dv435zzJBhgSHNdl6ipSo",
       "appleId": 1000595955993,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7dv435zzJBhgSHNdl6ipSo",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-those-crazy-demons-buff-supernatural/id1667168726?i=1000595955993",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e5c56cd6-5e9e-4d08-b408-359c8bb058db",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witness Hypocrisy Ala Carte: Dodging Gluttons and Birthday Cake",
       "description": "Jehovah\u0027s Witnesses are the definition of hypocrisy. As a teenager, I came up with the term \u0022JW Ala Carte\u0022 when watching \u0027god\u0027s organization\u0027 pick and choose what Bible teachings they applied and which ones they ignored. Consider two: Why are Jehovah\u0027s Witnesses, including elders and circuit overseers, allowed to be so overweight when the Bible condemns gluttony? How can you punish a kid for celebrating a pagan birthday while mom wears a pagan wedding ring? ... and other observations!TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-07-12T00:00:00",
       "duration": "01:02:51.1670000",
       "explicit": true,
       "spotifyId": "0XUrMDLwm7O4Cjbw6pqtgi",
       "appleId": 1000595955835,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0XUrMDLwm7O4Cjbw6pqtgi",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witness-hypocrisy-ala-carte-dodging-gluttons/id1667168726?i=1000595955835",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "95df6e86-d578-4325-9f1f-43c3fca1f73e",
-      "type": "Episode",
       "title": "You Can Live Forever in Paradise on Earth: Jesus Missed the Memo... until 1932",
       "description": "Jehovah\u0027s Witnesses believe that the Bible promises them eternal life on a paradise earth. It is their core teaching and what they use to attract people to the religion. They\u0027ve devoted billions of pages of literature to illustrations showing paradise, wild animals as pets and the perfect fruit basket. But there is a problem: Jesus missed the memo and left it out of the Bible, his teachings...or even a mention. A hope that impacts billions in human history... nary a mention? No worries, he told his buddies in New York in 1932! Let\u0027s take a look at lie that traps millions of innocent people...TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-07-04T00:00:00",
       "duration": "00:50:03.7680000",
       "explicit": true,
       "spotifyId": "0FfeVgMustgny8eBhUekVN",
       "appleId": 1000595955902,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0FfeVgMustgny8eBhUekVN",
         "apple": "https://podcasts.apple.com/podcast/you-can-live-forever-in-paradise-on-earth-jesus-missed/id1667168726?i=1000595955902",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b838b356-6202-4d4d-b7b8-a7db3eb294c5",
-      "type": "Episode",
       "title": "Judicial Committees: Three Guys and a Prayer",
       "description": "The infamous march to the B School. You did something naughty and now you get a visit with three elders... and your future is in their hands. Where did this come from? How does it work? Who are these three guys and why do they get to judge other people? Let\u0027s take a look at the Jehovah\u0027s Witness judicial committee arrangement.#jehovahswitnesses #exjw #exjehovahswitness #watchtower \u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-06-27T00:00:00",
       "duration": "01:00:21.3810000",
       "explicit": true,
       "spotifyId": "5wnJvU5viWcK9VBs5WBDtF",
       "appleId": 1000595955996,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5wnJvU5viWcK9VBs5WBDtF",
         "apple": "https://podcasts.apple.com/podcast/judicial-committees-three-guys-and-a-prayer/id1667168726?i=1000595955996",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "6734989d-01f5-4844-b7c6-36397dedf308",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses - Delaying Your Happiness One Day at a Time",
       "description": "The Governing Body of Jehovah\u0027s Witnesses claim their religion is filled with \u0027the best and happiest people on earth\u0027 (Watchtower 1988 Mar 1 p.17) But that is far from \u0027the truth.\u0027 With a steady, weekly diet of fear and shame, leaders have been delaying people\u0027s happiness for over a century. What\u0027s been the result for those that have obeyed their counsel on having babies, creating a family, pursuing a career? Observations from a \u002770\u0027s kid and former elder...TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-06-21T00:00:00",
       "duration": "00:50:23.6730000",
       "explicit": true,
       "spotifyId": "7oGzVzDla9ExMsMDX07WMb",
       "appleId": 1000595955935,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7oGzVzDla9ExMsMDX07WMb",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-delaying-your-happiness-one-day/id1667168726?i=1000595955935",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "dcbf5997-4ef0-40f7-aa43-308ce585c2fd",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses on Resurrection: Good Guys, Bad Guys, 2nd Chances and Khakis!",
       "description": "A deep dive into what Jehovah\u0027s Witnesses teach regarding the resurrection to a paradise earth, including who gets in, who is left out for good, 2nd chances for some famous bad guys and a whole litany of questions surrounding how it all works! Why are they preaching again?\u00A0#jehovahswitnesses #exjw #exjehovahswitness #watchtower\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-06-13T00:00:00",
       "duration": "00:54:17.9650000",
       "explicit": true,
       "spotifyId": "71fG5XBHrwDLtyhP9Pv5Qq",
       "appleId": 1000595955903,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/71fG5XBHrwDLtyhP9Pv5Qq",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-on-resurrection-good-guys-bad-guys/id1667168726?i=1000595955903",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "c9d968f8-e32d-410e-b55c-7359c5b33368",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses Demeaning and Dangerous View of Women",
       "description": "Despite women making up most of the of the nearly 9 million members of Jehovah\u0027s Witnesses (including doing the bulk of the door to door preaching work) the self proclaimed \u0027mouthpiece of God on earth,\u0027 the Governing Body, continue to foster an often dangerous culture where women are disrespected and minimized. Let\u0027s look at some examples, including \u0027inspiring\u0027 comments made about women from their leadership and publications over the past century.TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-06-06T00:00:00",
       "duration": "01:05:51.2550000",
       "explicit": true,
       "spotifyId": "2oTLrURMjZ053wCiI8OQqe",
       "appleId": 1000595955994,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2oTLrURMjZ053wCiI8OQqe",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-demeaning-and-dangerous-view-of-women/id1667168726?i=1000595955994",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "e2a5f537-155d-4cc6-a511-2b9b6e078835",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witnesses: Hypocrisy Ala Carte: Beards, Gyms, Blood \u0026 More!",
       "description": "Jehovah\u0027s Witnesses live in a world built on hypocrisy. It starts with the idea that Jesus never spoke to apostates (uh... his whole ministry was to apostates) and covers everything from the evils of facial hair, working out in gyms, blood, the United Nations and so... much... more. When did I coin the phrase \u0027Christianity ala Carte\u0027 and how did it impact my life? Join us!#jehovahswitnesses #exjw #apostatesTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-05-31T00:00:00",
       "duration": "01:04:56.9730000",
       "explicit": true,
       "spotifyId": "3E8m5fvKjYMGZKZaNwf09n",
       "appleId": 1000595955972,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3E8m5fvKjYMGZKZaNwf09n",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-hypocrisy-ala-carte-beards-gyms/id1667168726?i=1000595955972",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "c7e38eb1-03e6-479a-9a70-154affab25ab",
-      "type": "Episode",
       "title": "\u0022New Light\u0022 - How the Governing Body of Jehovah\u0027s Witnesses Insults the Intelligence of Millions",
       "description": "Whether it\u0027s personal matters like sex and grooming or life altering doctrines like blood and organ transplants \u2026 or now their most comically embarrassing teaching on\u00A0 \u0027overlapping generations\u0027 leading back to 1914, the Governing Body of Jehovah\u0027s Witnesses claim they can change the foundation of their \u0027religion\u0027 with the flick of a light switch. Lifting a sentence out of Proverbs chapter four, these guys claim they\u0027re \u0027God\u0027s mouthpiece\u0027 to mankind and the Almighty himself allows billions to believe in error until He decides to give \u0027new light\u0027 to those special fellas in upstate New York....consequences be damned! Let\u0027s take a look at what \u0022new light\u0022 means to the common Jehovah\u0027s Witness.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-05-24T00:00:00",
       "duration": "01:00:50.6120000",
       "explicit": true,
       "spotifyId": "3MrMLGAB991GlRmSM0fgbK",
       "appleId": 1000595956018,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3MrMLGAB991GlRmSM0fgbK",
         "apple": "https://podcasts.apple.com/podcast/new-light-how-the-governing-body-of-jehovahs/id1667168726?i=1000595956018",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "9df8a86a-6132-41fe-be6a-40bf6e103c2e",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witness End Game: Who Dodges the Fireballs at Armageddon?",
       "description": "Is it true that only Jehovah\u0027s Witnesses will dodge the fireballs at Armageddon? Let\u0027s unpack decades of eager anticipation for a mass genocide from the \u0027god of love, not fear\u0027 (1 John 4:18) and his chosen guys in upstate New York... after all, those guys were chosen by Jesus to help him decide who gets to be bird food... and who get\u0027s to live forever in khakis on a paradise earth!NOTE: still need to shave your face in paradise and dogs will now be on leashes.\u00A0TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-05-17T00:00:00",
       "duration": "00:55:07.2840000",
       "explicit": true,
       "spotifyId": "5LIXuWhUz0Nv75sFyCuZze",
       "appleId": 1000595955973,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5LIXuWhUz0Nv75sFyCuZze",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witness-end-game-who-dodges-the-fireballs-at/id1667168726?i=1000595955973",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "d90426e1-3a60-4565-8103-3ef700695af1",
-      "type": "Episode",
       "title": "The Not So Faithful \u0026 \u0022Discreet\u0022 Slave and Their Wild Inspirations!",
       "description": "Jehovah\u0027s Witnesses claim that Jesus Christ chose them as his one and only organization for communication. Let\u0027s check in on what Jesus saw when he decided \u0027these guys\u0027 are the best of the best to represent him to all of mankind! Jesus sent them \u0022inspiration\u0022 on everything from a parable turned into a prophecy about 8 guys in NY, to tinfoil, tonsils, male superiority and more! Listen in... laugh, cry, bang your head against the wall ... let\u0027s see what Jesus saw!#exjw #exjehovahswitness #jehovahswitnesses #apostate #exjwhumor #watchtower #governingbodyTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-05-09T00:00:00",
       "duration": "00:59:04.1630000",
       "explicit": true,
       "spotifyId": "5KyHD477LXDLa5xXtAdYA5",
       "appleId": 1000595955876,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5KyHD477LXDLa5xXtAdYA5",
         "apple": "https://podcasts.apple.com/podcast/the-not-so-faithful-discreet-slave-and-their/id1667168726?i=1000595955876",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "9224b02b-cbc3-4f08-a524-826b7910f8be",
-      "type": "Episode",
       "title": "Jehovah\u0027s Witness Elders: Chosen by God Magic aka Holy Spirit?",
       "description": "Jehovah\u0027s Witnesses claim Jesus personally chooses all congregation elders by means of the all magical \u0027holy spirit\u0027....otherwise known as \u0027the force\u0027 to Star Wars fans. How does Jesus make so many mistakes when choosing his guys to lead the congregation? Why does Jesus appoint men that have never read the bible or their own literature; that have family problems and like their booze? Or worse: commit crimes against children?! This former elder pulls back the curtain on the \u0027elder arrangement\u0027 and what really goes down in the B school!TWITTER: @exjwpodcastYouTube: Surviving ParadiseInstagram: survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-05-02T00:00:00",
       "duration": "00:50:32.8680000",
       "explicit": true,
       "spotifyId": "5StTPsyEG9jMxSTAb2UoOY",
       "appleId": 1000595955798,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5StTPsyEG9jMxSTAb2UoOY",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witness-elders-chosen-by-god-magic-aka-holy-spirit/id1667168726?i=1000595955798",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "b2d06bff-2ed4-4840-b89d-354cf7d99dbf",
-      "type": "Episode",
       "title": "It\u0027s \u0027Partaker Watch\u0027 Season...Otherwise Know as Memorial, the JW Holiday",
       "description": "Memorial Season, it\u0027s the closest Jehovah\u0027s Witnesses get to a \u0027holiday.\u0027 Face it, it\u0027s all about seeing who \u0027partakes\u0027 of the crackers or wine... and with 1935 long gone, those with a Fast Pass to heaven continues to grow! Relive your favorite Memorial memories, take another look at the Passover and ask yourself how you ever believed this crap.\u00A0TWITTER: @exjwpodcastYOUTUBE: Surviving ParadiseTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-04-19T00:00:00",
       "duration": "00:42:25.7890000",
       "explicit": true,
       "spotifyId": "7uL1mCeuoClhPS8EfErS38",
       "appleId": 1000595955936,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7uL1mCeuoClhPS8EfErS38",
         "apple": "https://podcasts.apple.com/podcast/its-partaker-watch-season-otherwise-know-as-memorial/id1667168726?i=1000595955936",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "d2f9abcd-a410-4b02-b71d-bd753db1d5a7",
-      "type": "Episode",
       "title": "Introduction: Leaving Jehovah\u0027s Witnesses...and Paradise... Behind...",
       "description": "Why would anyone want to leave the \u0027spiritual paradise\u0027 that is Jehovah\u0027s Witnesses? We are prepared to give you well over 144,000 reasons why overlapping generations aren\u0027t a thing, facial hair is normal, Smurfs aren\u0027t demonized ... and Jehovah\u0027s Witnesses are a cult. In our first episode we cover \u0027who is this guy? where did he come from? And why is he starting a podcast now?\u0027With each episode we will laugh, cry, talk old doctrine, the new \u0027religion\u0027 and what it was like to grow up in the 70\u0027s and 80\u0027s as a Jehovah\u0027s Witness. It\u0027s very likely we will stray into hard hitting subjects like the magic of the cheese danish, being a kid in a Kingdom Hall with no windows ... and how some of us went from teenagers chasing girls at District Conventions, to the elders that busted the next generation. Let\u0027s hang out ... heal, laugh, reminisce!\u00A0TWITTER: @exjwpodcastInstagram: @survivingparadisepodcastTWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2022-04-06T00:00:00",
       "duration": "00:45:08.1400000",
       "explicit": true,
       "spotifyId": "0YWygrKHo5pJrvCCalSLZy",
       "appleId": 1000595955995,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0YWygrKHo5pJrvCCalSLZy",
         "apple": "https://podcasts.apple.com/podcast/introduction-leaving-jehovahs-witnesses-and-paradise/id1667168726?i=1000595955995",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     },
     {
       "id": "06ceb741-30c4-4cd4-b5e1-5e3c07708c03",
-      "type": "Episode",
       "title": "Surviving Paradise, an Ex-JW Podcast Trailer!",
       "description": "An ex-elder diving into the absurd, but often painful, \u0027spiritual paradise\u0027 of Jehovah\u0027s Witnesses. Featuring solo conversations, guest interviews with people I love and admire, in a safe space, where they can share their own musings, experiences and observations . We will cover the thoughtful to the random, including the culture, beliefs and history of the Jehovah\u0027s Witnesses. Join us! You can count your time....TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
-      "posted": false,
-      "ignored": false,
       "release": "2021-11-07T00:00:00",
       "duration": "00:02:35.7680000",
       "explicit": true,
       "spotifyId": "7eph2JMKZulraPmmBNmTwc",
       "appleId": 1000595955904,
       "youTubeId": null,
+      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7eph2JMKZulraPmmBNmTwc",
         "apple": "https://podcasts.apple.com/podcast/surviving-paradise-an-ex-jw-podcast-trailer/id1667168726?i=1000595955904",
         "youtube": null
-      },
-      "removed": false,
-      "subjects": []
+      }
     }
-  ],
-  "fileKey": "surviving_paradise"
+  ]
 }
