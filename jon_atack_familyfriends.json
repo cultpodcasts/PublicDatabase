@@ -13,12 +13,12 @@
       "duration": "01:18:52.2660000",
       "explicit": false,
       "spotifyId": "2GkOhAKBFjZVwapWaa0wgz",
-      "appleId": null,
+      "appleId": 1000627330386,
       "youTubeId": "Gp_d3MREOn4",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GkOhAKBFjZVwapWaa0wgz",
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/control-through-phobia-with-hoyt-richards/id1534364303?i=1000627330386",
         "youtube": "https://www.youtube.com/watch?v=Gp_d3MREOn4"
       }
     },
