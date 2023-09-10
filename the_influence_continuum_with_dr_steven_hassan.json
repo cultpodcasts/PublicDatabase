@@ -1,1600 +1,1995 @@
 {
   "id": "186529ba-43e3-497f-9770-9a9d46232333",
+  "type": "Podcast",
   "name": "The Influence Continuum with Dr. Steven Hassan",
+  "publisher": "MeidasTouch Network, Dr. Steven Hassan",
+  "hasBundledEpisodes": false,
+  "indexAllEpisodes": true,
+  "primaryPostService": "YouTube",
   "spotifyId": "3fy5dEPagR2T8MPeS7ieAM",
   "appleId": 1603773245,
   "youTubeChannelId": "UCxYM6bAC_3l66uCRxFO0QAg",
+  "youTubePublicationDelay": "3:06:00:00",
+  "titleRegex": "",
+  "descriptionRegex": "",
+  "episodeMatchRegex": "",
   "episodes": [
     {
+      "id": "fc36853a-a782-48e2-95cc-5e6d038a0b2b",
+      "type": "Episode",
+      "title": "Surviving our Catastrophes: Celebrating the Resilience and Renewal of Survivors with Robert Jay Lifton, M.D.",
+      "description": "I speak with the acclaimed psychiatrist and my mentor, Robert Jay Lifton, M.D., about his new book, Surviving Our Catastrophes: Resilience and Renewal from Hiroshima to the Covid-19 Pandemic. Lifton\u2019s research on thought reform and the psychology of totalism, specifically his study on \u201Cbrainwashing\u201D in China, has been widely regarded as groundbreaking. His book Thought Reform and the Psychology of Totalism (1961) was used in my deprogramming. It was Lifton who encouraged my career which has spanned 47 years. In this new book, Lifton delves into \u201CSurvivor Power\u201D and the transformation from victimhood to survivorship. He emphasizes the importance of drawing on the knowledge and wisdom gained from surviving traumatic experiences to continue living meaningful lives. The book takes inspiration from historical examples of survivors who have endured unimaginable suffering and trauma. Lifton highlights the remarkable responses of individuals who, in the face of unspeakable horror, have created activist movements, converted their experiences into art and literature, and demonstrated the resilience of the human spirit. From the people of Hiroshima, who responded to the atomic bombing by creating an activist \u201Ccity of peace,\u201D to the survivors of Nazi death camps who combated mass killing and showcased their healing through art and literature, these examples serve as beacons of hope. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-04T00:00:00",
+      "duration": "00:41:22.0760000",
+      "explicit": false,
+      "spotifyId": "5EbTrWuj5WM1uyOX7GUwYo",
+      "appleId": 1000626678301,
+      "youTubeId": "4UAz5EmG00I",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5EbTrWuj5WM1uyOX7GUwYo",
+        "apple": "https://podcasts.apple.com/podcast/surviving-our-catastrophes-celebrating-the-resilience/id1603773245?i=1000626678301",
+        "youtube": "https://www.youtube.com/watch?v=4UAz5EmG00I"
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
       "id": "2a6553e7-5246-4183-8926-4429db625302",
+      "type": "Episode",
       "title": "The Dangerous Case of Donald Trump and Censorship of Experts with Bandy X. Lee M.D.",
       "description": "I talk with the forensic psychiatrist and an internationally recognized expert on violence who edited the best-selling book, The Dangerous Case of Donald Trump: 37 Psychiatrists and Mental Health Experts Assess a President. Years after she and other mental health experts warned Trump was unfit and a danger to the public, we continue to see vivid proof that the public has suffered by censoring experts! Her recent book is Profile of a Nation: Trump\u2019s Mind, America\u2019s Soul. What was behind the mainstream media silencing of credible experts like Dr. Lee and myself? We discuss this and many important topics like the \u201Cduty to warn\u201D and the importance of mental health, especially in people who are supposed to be public servants. We discuss the 25th Amendment of the Constitution and how it could be bolstered to prevent anyone who is so grossly incompetent from coming to the Presidency again. We also discuss the corrupt and authoritarian family court system in the United States- the subject of a forthcoming book. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-28T00:00:00",
       "duration": "01:02:55.4770000",
       "explicit": false,
       "spotifyId": "7aHDnzRVUpBTd6oFKkxQL9",
       "appleId": 1000625915069,
       "youTubeId": "QGDfhH3_IUQ",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7aHDnzRVUpBTd6oFKkxQL9",
         "apple": "https://podcasts.apple.com/us/podcast/the-dangerous-case-of-donald-trump-and/id1603773245?i=1000625915069\u0026uo=4",
         "youtube": "https://www.youtube.com/watch?v=QGDfhH3_IUQ"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e9f83b94-9e8d-4c5e-af14-d02ba77014bc",
+      "type": "Episode",
       "title": "Chinese Netizen\u2019s Protests and Freedom of Mind as a Human Right with Matthew Bywater",
       "description": "Did you know that my BITE Model of Authoritarian Control was translated into Chinese and used by Chinese netizens during the November 2022 protests in China against the zero covid lockdown policy? This week\u2019s fascinating interview is with Matt Bywater, who lived in China for years teaching English and who is now on a quest to do a PhD to create a new internationally recognized human right: Freedom of Mind.\u00A0 Matthew Bywater learned about Freedom of Mind from a statement on the World Mental Health Coalition founded by forensic psychiatrist Bandy X. Lee. Dr. Bandy X. Lee edited the best-selling book, The Dangerous Case of Donald Trump, with 37 experts weighing in on Trump. This work seeks to establish a political and legal framework for incorporating freedom of mind within the international human rights architecture. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-21T00:00:00",
       "duration": "01:05:48.1730000",
       "explicit": false,
       "spotifyId": "1I8eUAgi4CqbWuZwlC4CMM",
       "appleId": 1000625110867,
       "youTubeId": "CIlmy_HaKGw",
-      "subjects": [
-        "Children of God/Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1I8eUAgi4CqbWuZwlC4CMM",
         "apple": "https://podcasts.apple.com/podcast/chinese-netizens-protests-and-freedom-of-mind-as/id1603773245?i=1000625110867",
         "youtube": "https://www.youtube.com/watch?v=CIlmy_HaKGw"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Children of God/Family International"
+      ]
     },
     {
       "id": "c344298a-2d60-48c6-8336-a0b96f6732b5",
+      "type": "Episode",
       "title": "Identifying and Healing Religious Trauma, with Darren M. Slade, Ph.D.",
       "description": "In my book, The Cult of Trump, I identify many groups who are deeply involved in politics and influence believers to vote according to the leader\u2019s direction of who is \u201Cgodly.\u201D Here to discuss his experiences with this and his evolution away from religion is Dr. Darren M. Slade, a graduate of the controversial Liberty University\u2019s seminary and apologetics program. Darren is a professor of history and comparative religion in Denver, Colorado. He specializes in the socio-political development of religious belief systems. He serves as the Director of the North American Committee on Religious Trauma Research. He is also the President of the Global Center for Religious Research (GCRR.org) and Founding Editor of the peer-reviewed academic journal Socio-Historical Examination of Religion and Ministry (SHERMjournal.org). Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-14T00:00:00",
       "duration": "01:03:30.3770000",
       "explicit": false,
       "spotifyId": "08C0rPzhfkyxfMqrLNkOoJ",
       "appleId": 1000624371269,
       "youTubeId": "UrugSZUWrbA",
-      "subjects": [
-        "Cult Recovery",
-        "Odyssey Study Group"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/08C0rPzhfkyxfMqrLNkOoJ",
         "apple": "https://podcasts.apple.com/podcast/identifying-and-healing-religious-trauma-with-darren/id1603773245?i=1000624371269",
         "youtube": "https://www.youtube.com/watch?v=UrugSZUWrbA"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Recovery",
+        "Odyssey Study Group"
+      ]
     },
     {
       "id": "ec9f293c-dfc1-46a1-a388-7510e4aa45ee",
+      "type": "Episode",
       "title": "Exiting the Cult of Trump with #Jan6er Pam Hemphill",
       "description": "Pam is a 70-year-old Boise, Idaho resident, who, while recovering from cancer treatment traveled to Washington, DC and was arrested, charged and sentenced for her connection to the January 6th 2021 attack. Hemphill pled guilty and was sentenced to 60 days in jail, 36 months of probation and fined $500 in restitution. Jack Smith has now announced that Trump has been indicted and faces four counts of Federal charges for his activity regarding the insurrection attempt. Pam Hemphill has been active calling out Trump and the MAGA cult for using her for propaganda on his Truth Social platform. Hemphill chose to plead guilty and has said the Capitol police saved her life from being trampled. I hope many more ex-members will speak up and renounce the Cult of Trump. Pam and I talk about her being harassed since speaking out, strategies for messaging and healing techniques. Join us for this fascinating conversation. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-07T00:00:00",
       "duration": "01:07:35.9540000",
       "explicit": false,
       "spotifyId": "730OzQEfIrM8dEkyEdQ34s",
       "appleId": 1000623659127,
       "youTubeId": null,
-      "subjects": [
-        "Odyssey Study Group"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/730OzQEfIrM8dEkyEdQ34s",
         "apple": "https://podcasts.apple.com/podcast/exiting-the-cult-of-trump-with-jan6er-pam-hemphill/id1603773245?i=1000623659127",
         "youtube": "https://www.youtube.com/watch?v=bU7F6DhOo_8"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Odyssey Study Group"
+      ]
     },
     {
       "id": "fdc1b3f7-1985-4e10-ba06-40863f8b0dc2",
+      "type": "Episode",
       "title": "Sins of my Father: Growing up with America\u0027s Most Dangerous White Supremacist with Kelvin Pierce",
       "description": "Kelvin\u2019s father, Dr. William Pierce, was a notorious white supremacist and founded the National Alliance, a prominent hate group. Dr. Pierce wrote the novel The Turner Diaries, which racists widely cite as inspiration for their racist beliefs and actions. Kelvin was subjected to physical and emotional abuse and was taught to believe that Jews and non-whites were responsible for society\u0027s ills. Despite the personal abuse he suffered, Kelvin accepted his father\u0027s teachings and held onto these racist beliefs as he transitioned into adulthood. It shaped his worldview and interactions with others, even though he didn\u0027t openly broadcast these beliefs.\u00A0Kelvin was able to shed his indoctrination, create the charitable organization \u0022Divine Child Foundation\u0022 to help orphans in Georgia, publish his memoir, and live a life of activism and inspiration in fighting racism and extremism. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-07-31T00:00:00",
       "duration": "00:58:51.1540000",
       "explicit": false,
       "spotifyId": "2AJJz1xXAk6gaCkuaOzBEa",
       "appleId": 1000622905857,
       "youTubeId": null,
-      "subjects": [
-        "Odyssey Study Group"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AJJz1xXAk6gaCkuaOzBEa",
         "apple": "https://podcasts.apple.com/podcast/sins-of-my-father-growing-up-with-americas-most/id1603773245?i=1000622905857",
         "youtube": "https://www.youtube.com/watch?v=9LUPJH07x3E"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Odyssey Study Group"
+      ]
     },
     {
       "id": "8ab19313-cde2-4756-b858-ac133546e12c",
+      "type": "Episode",
       "title": "The Rod of Fear: Combating Gun Violence with Jonathan Lowy",
       "description": "Gun-related deaths are already over 17,000 as of May of this year. In 2021, they were at their highest ever at almost 50,000 murders, suicides, and accidental deaths involving firearms. These statistics are personal to me due to my experiences in the Moonies cult with the Rod of Iron Ministries, Kahr Arms, the AR15 factory, and two compounds (TN and TX) training people for civil war. I spoke with expert Jonathan Lowy who told me he successfully sued Kahr Arms. Jonathan founded Global Action on Gun Violence, a nonprofit working with the international community to stop gun trafficking and violence through litigation, human rights, and other strategies. He has been litigating and advocating against gun violence for over 25 years. He helped win over $100 million for victims in verdicts and settlements, created the precedent that holds gun companies accountable and reformed dangerous gun industry practices. His articles include \u201CThe Right Not to Be Shot.\u201D He has been named one of the 500 leading lawyers in America for over ten years by Lawdragon magazine. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-07-24T00:00:00",
       "duration": "01:02:18.4620000",
       "explicit": false,
       "spotifyId": "17gjzvsS9ODzjjKV11LpOA",
       "appleId": 1000622127441,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/17gjzvsS9ODzjjKV11LpOA",
         "apple": "https://podcasts.apple.com/podcast/the-rod-of-fear-combating-gun-violence-with-jonathan-lowy/id1603773245?i=1000622127441",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "48725ef8-b560-434c-99f4-5592f2690b7e",
+      "type": "Episode",
       "title": "Unmasking the Kundalini Yoga Cult of Yogi Bhajan With Els Coenen",
       "description": "Under the Yoga Mat: The Dark History of Bhajan\u2019s Kundalini Yoga, is a new book that helps expose the destructive authoritarian cult of Yogi Bhajan, Healthy, Happy, Holy Organization (3HO). When allegations of half a century of concealed abuse and criminal actions by Bhajan and his associates came to light in early 2020, which impacted the lives of hundreds of his followers and their children, Els Coenen, Ph.D., felt compelled to stop teaching and promoting kundalini Yoga and wish to help reveal the facts. In 2021, she created the website Abuse in Kundalini Yoga, a platform aimed at exposing and addressing sexual abuse, child abuse, homophobia, exploitation, business fraud, and drugs and arms trafficking within the community. If you have ever seen white-turbaned people calling themselves Sikhs, done yoga, or gone to a workshop, you will be educated about the reality of this billion-dollar corporate empire. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": true,
+      "ignored": false,
       "release": "2023-07-17T00:00:00",
       "duration": "01:02:27.9700000",
       "explicit": false,
       "spotifyId": "0LesKkMkviBrDRKDW65zuy",
       "appleId": 1000621371383,
       "youTubeId": null,
-      "subjects": [
-        "Yogi Bhajan"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0LesKkMkviBrDRKDW65zuy",
         "apple": "https://podcasts.apple.com/podcast/unmasking-the-kundalini-yoga-cult-of-yogi-bhajan/id1603773245?i=1000621371383",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Yogi Bhajan"
+      ]
     },
     {
       "id": "3aaad118-39db-45c8-bb6b-c0e28e8fe582",
+      "type": "Episode",
       "title": "Forager: Field Notes on Surviving a Family Cult with Michelle Dowd",
       "description": "Michelle\u2019s memoir, Forager: Field Notes on Surviving a Family Cult, showcases her life growing up on an isolated mountain in California as part of an apocalyptic cult and how she found her way out of poverty and illness by drawing on the gifts of the wilderness. Michelle was raised on a mountain in the Angeles National Forest, where she learned to identify flora and fauna, navigate by the stars, forage for edible plants, and care for the earth. A highly accomplished journalism professor and contributor to many top national publications, she was the 2022 Faculty Lecturer of the Year at Chaffey College. She founded the award-winning literary journal and creative collective, The Chaffey Review, advises Student Media, and teaches poetry and critical thinking in the California Institutions for Men and Women in Chino. Interestingly, former Manson follower Leslie Van Houten assisted her courses for incarcerated women. We discussed her and her hopefully impending release from jail.\u00A0 Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-10T00:00:00",
       "duration": "01:01:15.5330000",
       "explicit": false,
       "spotifyId": "0ArP7F0SdVxKDCSZQDDgy5",
       "appleId": 1000620503573,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ArP7F0SdVxKDCSZQDDgy5",
         "apple": "https://podcasts.apple.com/podcast/forager-field-notes-on-surviving-a-family-cult/id1603773245?i=1000620503573",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "01de3472-1f6c-48c8-91bb-0921c3c649e8",
+      "type": "Episode",
       "title": "Country Over Party: An Interview with Denver Riggleman",
       "description": "The Breach: The Untold Story of the Investigation into January 6th is former Republican congressman Denver Riggleman\u2019s book as a senior technical advisor for the House Select Committee to Investigate the January 6th Attack on the US Capitol. Denver Riggleman has served for over two decades as an intelligence officer, NSA adviser, federal contractor, research and development technology lead, and successful CEO of support companies for the Department of Defense. A veteran of the Global War on Terror and multiple worldwide operations, he served honorably in the US Air Force for nine active-duty years. We discuss his exit of the LDS (Mormons) and being shunned. Also his conviction to stand up for his values and to put his country over his party. This was a truly fascinating conversation. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-03T00:00:00",
       "duration": "01:05:47.7280000",
       "explicit": false,
       "spotifyId": "6dEfDWuN0WxVA4lXLa43k4",
       "appleId": 1000619108926,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6dEfDWuN0WxVA4lXLa43k4",
         "apple": "https://podcasts.apple.com/podcast/country-over-party-an-interview-with-denver-riggleman/id1603773245?i=1000619108926",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "0f915288-565a-4376-b799-2093c016fa65",
+      "type": "Episode",
       "title": "Forensic Psychologist and Cult Expert Dr. Steve Eichel on Hypnosis, Social Contagion, and Disinformation",
       "description": "There are few people in the field of forensic psychology with the training, background, and experience of Dr. Steve Eichel. In 1975, almost a year before I was deprogrammed from the Moonies, he decided to do his dissertation research on my former cult. He has had a long distinguished career, serving as the President of the International Cultic Studies Association (ICSA), and remains an active member of their Board of Directors. He has been published extensively in the field and has served as an expert witness on undue influence in many cases. I asked him about his experience working for the defense in the case of DC sniper Lee Boyd Malvo. Steve joined the podcast to discuss these experiences and his expertise in therapeutic hypnosis. He was one of the experts I interviewed in researching my last book, The Cult of Trump. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-26T00:00:00",
       "duration": "01:06:14.6350000",
       "explicit": false,
       "spotifyId": "1ST7h66irtV1GFxJQXBMwe",
       "appleId": 1000618332092,
       "youTubeId": null,
-      "subjects": [
-        "Odyssey Study Group",
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ST7h66irtV1GFxJQXBMwe",
         "apple": "https://podcasts.apple.com/podcast/forensic-psychologist-and-cult-expert-dr-steve-eichel/id1603773245?i=1000618332092",
         "youtube": "https://www.youtube.com/watch?v=GY22dUUnx_U"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Odyssey Study Group",
+        "Cult Psychology"
+      ]
     },
     {
       "id": "21e9ceab-e257-4311-a545-a959bcbb384c",
+      "type": "Episode",
       "title": "The Brainwashing of My Dad with Jen Senko",
       "description": "With Trump\u2019s Indictment, the GOP is being described as the Cult of Trump, and the other GOP candidates are scrambling to figure out how to position themselves. Come listen to a fascinating talk with the award-winning documentarian Jen Senko on her film, The Brainwashing of My Dad, and the book based on it. Jen Senko\u2019s experience with her father, Frank, hits close to home for many Americans today.\u00A0Frank was a happy-go-lucky progressive Democrat when he came across a talk radio show hosted by Bob Grant.\u00A0He started being more critical of Democrats and was somewhat combative about it.\u00A0When he fully retired, he discovered Rush Limbaugh and listened to him for three hours daily. Then he started watching Fox News. At that point, his personality changed.\u00A0He was always angry and couldn\u2019t have discussions with his family anymore without them turning to politics. She delves into the experts who use social psychology to recruit and indoctrinate people. The good news is her father comes back to himself\u2014a fascinating interview. Of course, as the author of the Cult of Trump, I weigh in. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-19T00:00:00",
       "duration": "01:01:38.6770000",
       "explicit": false,
       "spotifyId": "4XyvpCKu3ezFiDMbQp0jZd",
       "appleId": 1000617534102,
       "youTubeId": null,
-      "subjects": [
-        "Qanon"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4XyvpCKu3ezFiDMbQp0jZd",
         "apple": "https://podcasts.apple.com/podcast/the-brainwashing-of-my-dad-with-jen-senko/id1603773245?i=1000617534102",
         "youtube": "https://www.youtube.com/watch?v=OIJGLAiRuJs"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Qanon"
+      ]
     },
     {
       "id": "0e7d4693-647d-4604-8e5f-a44fa48058ae",
+      "type": "Episode",
       "title": "YOU-KNOW-WHO: An Alienated Daughter\u2019s Memoir with Dana Laquidara",
       "description": "Parental alienation is a highly destructive form of undue influence where one parent systematically manipulates their children to reject the other parent. This damaging form of psychological abuse not only disrupts family dynamics but can also leave lasting emotional scars on the child, potentially impacting their development, mental health, and future relationships. Often, children are not only alienated from their mother or their father but the entire side of the family, traumatizing all who are related. The BITE Model of Authoritarian Control can be used to analyze any case. I have previously done multiple blogs on this topic. Dana Laquidara, a professional author and writer, brings a unique perspective as an adult survivor of parental alienation. Through this memoir, she seeks to raise awareness and support parents and children ensnared in this devastating form of mind control and abuse. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-12T00:00:00",
       "duration": "01:01:31.7550000",
       "explicit": false,
       "spotifyId": "4PAOJGIVC0JFXnlcmQB5lb",
       "appleId": 1000616619349,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4PAOJGIVC0JFXnlcmQB5lb",
         "apple": "https://podcasts.apple.com/podcast/you-know-who-an-alienated-daughters-memoir-with/id1603773245?i=1000616619349",
         "youtube": "https://www.youtube.com/watch?v=eu8HuRZaHOw"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "94f34b33-64d2-4b65-8763-42064e0f731d",
+      "type": "Episode",
       "title": "QAnon, Chaos and the Cross: Christianity and Conspiracy Theories with Dr. Michael Austin and Dr. Gregory Bock",
       "description": "Dr. Austin and Dr. Bock are accomplished Christian scholars with extensive experience in ethics and philosophy. Although I am Jewish by faith, I support the principles of Christianity and all major religions that promote truth, peace, love, and forgiveness. Their collaborative work, QAnon, Chaos, and the Cross, is a compendium of essays exploring the rise of conspiracies like QAnon, an online conspiracy group I wrote about in my book, The Cult of Trump. Their book raises awareness about the allures and pitfalls of conspiracy theories and draws upon Christian principles for discerning truth from misinformation and fostering productive dialogues. Anger and fear are potent emotions that tend to override our critical thinking and common sense, sometimes leading to falling out with loved ones who have an opposing view to our own. Accepting a conspiracy theory as fact does not make a person weak, stupid, or gullible. This is an extremely important interview that I believe everyone would benefit from listening to.\u00A0 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-05T00:00:00",
       "duration": "01:02:01.1420000",
       "explicit": false,
       "spotifyId": "6EwJjycjAjQgRhWtniwLlk",
       "appleId": 1000615690833,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6EwJjycjAjQgRhWtniwLlk",
         "apple": "https://podcasts.apple.com/podcast/qanon-chaos-and-the-cross-christianity/id1603773245?i=1000615690833",
         "youtube": "https://www.youtube.com/watch?v=2tGVzI6pWJw"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "22e4fab3-3301-42d7-8642-f084f97d3d43",
+      "type": "Episode",
       "title": "Elizabeth Holmes\u2019 Theranos Corporate Cult with Dr. Dennis Tourish",
       "description": "Elizabeth Holmes, founder and CEO of Theranos, was convicted of fraud and sentenced to 11 years in jail. Her company claimed to be able to determine health issues from merely a pinprick of blood. She conned many famous, educated people, and the company was valued at hundreds of millions of dollars.\u00A0Dr. Dennis Tourish is a Professor of Leadership and Organization Studies at the University of Sussex Business School and wrote a journal article on Theranos as an authoritarian corporate cult. Dr. Tourish was himself involved in a left-wing political cult and wrote the book On the Edge: Political Cults on the Right and Left with Tim Wohlforth. In 2023, understanding how corporations can act like authoritarian cults is vital for everyone to understand. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-29T00:00:00",
       "duration": "00:54:34.1870000",
       "explicit": false,
       "spotifyId": "0sdxCr0l87KzbBfWhjAMQ8",
       "appleId": 1000614845765,
       "youTubeId": null,
-      "subjects": [
-        "Corporate Cult"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0sdxCr0l87KzbBfWhjAMQ8",
         "apple": "https://podcasts.apple.com/podcast/elizabeth-holmes-theranos-corporate-cult-with-dr/id1603773245?i=1000614845765",
         "youtube": "https://www.youtube.com/watch?v=MTfK29Eb3aE"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Corporate Cult"
+      ]
     },
     {
       "id": "80c24892-2169-4b7c-9a33-27e1e4515b2a",
+      "type": "Episode",
       "title": "Playing God: American Catholic Bishops and the Far Right with Mary Jo McConahay",
       "description": "For anyone interested in understanding why religious extremism has such a large influence in America, this fascinating interview focuses on an elite group of Catholic Bishops who oppose the current Pope and his policies of wishing to move the Church away from its abusive authoritarian past. Want to understand more about our current Supreme Court and why they demonstrated that they lied during their confirmation hearings when they said that Roe v. Wade was established law after fifty years. As soon as they had the majority, they showed their true allegiance, and it wasn\u0027t to the law and the majority of the American people. Mary Jo McConahay is a Catholic journalist who takes the position of supporting the changes in Vatican 2, which included allowing the mass to be given in languages other than Latin. Vatican 2 stated categorically that Jews were not Christ-killers but affirmed God is Almighty and that His promise to Abraham was eternal. We discuss the Manhattan Declaration which was signed by Catholics and Protestants to work together to undermine gay rights, and women\u2019s right to choose and to promote the freedom to religious impose their version of religion on all others. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-22T00:00:00",
       "duration": "01:09:08.2170000",
       "explicit": false,
       "spotifyId": "5sRGhw68YDqRiV3AMEtYEX",
       "appleId": 1000613966444,
       "youTubeId": null,
-      "subjects": [
-        "Sedevacantism / Independent Catholicism"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5sRGhw68YDqRiV3AMEtYEX",
         "apple": "https://podcasts.apple.com/podcast/playing-god-american-catholic-bishops-and-the-far/id1603773245?i=1000613966444",
         "youtube": "https://www.youtube.com/watch?v=qS7_2IQnA28"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Sedevacantism / Independent Catholicism"
+      ]
     },
     {
       "id": "034b57c8-a115-49c7-8fe5-66b1903ce3e4",
+      "type": "Episode",
       "title": "The Gaslight Effect: Protecting Yourself from Emotional Abuse with Dr. Robin Stern",
       "description": "The term \u2018gaslight effect\u2019 was introduced by Dr. Robin Stern in her 2007 book to describe the long-term consequences of persistent gaslighting, a subtle and often hidden form of emotional abuse. Gaslighting is a devastating form of undue influence. It occurs when an individual manipulates another person by distorting, twisting, and dismissing their experiences, making them question their memories, perceptions, and reality. Gaslighting can occur in a romantic relationship, among family members, in the workplace, within mind control cults as well as by politicians. Robin Stern, Ph.D., has been a practicing psychoanalyst for over thirty years and is the co-founder and associate director of the Yale Center for Emotional Intelligence. She\u2019s the author of The Gaslight Effect and the newly released The Gaslight Effect Recovery Guide.\u00A0 Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-15T00:00:00",
       "duration": "00:59:46.2460000",
       "explicit": false,
       "spotifyId": "1lgq7ZzG8th5HgRYcK9mzM",
       "appleId": 1000613045294,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1lgq7ZzG8th5HgRYcK9mzM",
         "apple": "https://podcasts.apple.com/podcast/the-gaslight-effect-protecting-yourself-from/id1603773245?i=1000613045294",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ab4fc7b6-cab6-45ae-bef4-1065769e2808",
+      "type": "Episode",
       "title": "Concerns with The Seventh Day Adventist Church with Dr. Steve Daily",
       "description": "The Seventh Day Adventist Church (SDA) is a widely recognized Christian organization with around 20 million members worldwide. However, many of its beliefs and practices fall under my BITE Model of Authoritarian Control, which I developed to evaluate control of Behavior, Information, Thoughts, and Emotions. To gain more insight into this organization, I invited Dr. Steve Daily, a former pastor of the SDA, to share his valuable personal and professional experiences. Dr. Steve Daily is a licensed psychologist, church historian, and accomplished author who has written 28 books, including 11 on Seventh-day Adventism and its founder Ellen G. White. He grew up in an Adventist home and received his education from Adventist institutions. In 2010, Dr. Daily left Adventism and went on to work as a psychologist at UCLA. Since then, he has become an outspoken critic of founder Ellen G. White and the Adventist Church, authoring Ellen G. White A Psychobiography. The book explores whether the accusations of fraud and pathology leveled against her over the years stand up to historical and psychological scrutiny.\u00A0 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-08T00:00:00",
       "duration": "01:02:11.3560000",
       "explicit": false,
       "spotifyId": "73SuoVXibK9O8ZnrwCQ0D1",
       "appleId": 1000612145709,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/73SuoVXibK9O8ZnrwCQ0D1",
         "apple": "https://podcasts.apple.com/podcast/concerns-with-the-seventh-day-adventist-church-with/id1603773245?i=1000612145709",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e1a72199-0f41-400d-b930-1c8d66c2b04c",
+      "type": "Episode",
       "title": "Overcoming Sleep Challenges with Dr. Lauren Broch, Psychologist, and Sleep Specialist",
       "description": "Did you know most people need 7-9 hours of quality sleep to function optimally? Sleep deprivation is one of the most common and powerful techniques for weakening psychological defenses. It is one of the most significant policies in the Behavior Control criteria of the BITE Model of Authoritarian Control. I recently had the opportunity to interview sleep expert Dr. Lauren Broch to gain a deeper insight into prevalent sleep issues that individuals face and to explore effective sleep hygiene habits that can help to overcome these obstacles. Dr. Lauren Broch is a clinical psychologist, nutritionist, and sleep disorders specialist who takes a holistic approach to address various sleep, mood, and health issues. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-01T00:00:00",
       "duration": "00:56:06.4520000",
       "explicit": false,
       "spotifyId": "7z8bmbNLTEelVBM4UNWto7",
       "appleId": 1000611287202,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7z8bmbNLTEelVBM4UNWto7",
         "apple": "https://podcasts.apple.com/podcast/overcoming-sleep-challenges-with-dr-lauren-broch/id1603773245?i=1000611287202",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7ccc6426-76b6-47f4-9e05-83d50208064f",
+      "type": "Episode",
       "title": "Attorney Faith Jones, ex-Children of God, on \u201CI Own Me\u201D",
       "description": "International corporate attorney and strategic business advisor Faith Jones is a phenomenon. She authored two books: Sex Cult Nun and I Own Me. She explains her model for utilizing the law regarding undue influence in a great TEDx talk: I Own Me: Understanding Our Property Rights to Our Own Bodies. Faith Jones is an inspiration to all women and especially to those born and raised in authoritarian cults. Join us for a fascinating discussion. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-24T00:00:00",
       "duration": "01:07:56.5120000",
       "explicit": false,
       "spotifyId": "1jJ8f6qnLrhgMUP3y7iSC3",
       "appleId": 1000610380688,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jJ8f6qnLrhgMUP3y7iSC3",
         "apple": "https://podcasts.apple.com/podcast/attorney-faith-jones-ex-children-of-god-on-i-own-me/id1603773245?i=1000610380688",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6b02cf0b-ea97-46b2-98b5-16cfae359f46",
+      "type": "Episode",
       "title": "Attorney Bobby Samini and former ICOC leader Michele Roland discuss their lawsuits on behalf of former members of this Bible cult",
       "description": "Shepherding/discipling Bible cults like the International Churches of Christ have an authoritarian structure with the \u201Capostle\u201D or \u201Cprophet\u201D being the person closest to God and everyone else having a human to disciple over them all the way down. It is patently abusive by its nature as it is based on submission of one\u2019s own conscience and following directions of a person who is in the \u201Crole of Jesus\u201D over them. Lawsuits are being filed on behalf of those victimized in the cult, some of whom were sexually assaulted in the group and no responsible action was taken. Over one million people have been involved with this group, most of whom have exited. Most have never spoken out about the abuses they experienced- including breaking sessions, excessive pressure to donate money, or the loss of their personal autonomy and sense of self. If you are interested in legal issues or have been in a controlling Christian group of any kind, you will want to listen to this fascinating episode. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-17T00:00:00",
       "duration": "01:05:15.6500000",
       "explicit": false,
       "spotifyId": "5wKbILEh67JY4CSg9Fexxc",
       "appleId": 1000609268296,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5wKbILEh67JY4CSg9Fexxc",
         "apple": "https://podcasts.apple.com/podcast/attorney-bobby-samini-and-former-icoc-leader-michele/id1603773245?i=1000609268296",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e6920fd6-3635-4169-a136-09e13fd16e63",
+      "type": "Episode",
       "title": "Watchtower Society: Understanding the Jehovah\u0027s Witnesses with Isaac Carmignani",
       "description": "The Jehovah\u0027s Witnesses have millions of members and are well-known for their door-to-door solicitation and distribution of materials, such as their Watchtower and Awake! magazines. However, most people do not realize the authoritarian BITE Model policies that affect their believers. Former elder Isaac Carmignani, a friend and colleague, shares the critically important facts about the Jehovah\u0027s Witnesses. Did you know they have prophesied at least 4 times that Armageddon would occur in a particular year? Or that Bible scholars say their version is wrong? Or that they practice corporal punishment? Prohibit blood transfusions? Shun former members? Or that they have had a huge pedophile problem for many decades? They are very nice, hard-working people, but involvement in this group has caused much suffering and harm worldwide. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-10T00:00:00",
       "duration": "01:11:27.9730000",
       "explicit": false,
       "spotifyId": "0G1uiO9uaxgur85cBLnZBE",
       "appleId": 1000608161616,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0G1uiO9uaxgur85cBLnZBE",
         "apple": "https://podcasts.apple.com/podcast/watchtower-society-understanding-the-jehovahs/id1603773245?i=1000608161616",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "a262f0b3-e7a9-4dc7-9dac-d3165440c62e",
+      "type": "Episode",
       "title": "Birth, Parenting, and Empowerment with Birth Doula, Certified Lactation Counselor, and New Parent Educator Julie Hartman",
       "description": "On the ethical side of the Influence Continuum,\u00A0we invite an expert to discuss preparing how to do ethical parenting. Julie Hartman is a Certified Birth Doula, Certified Lactation Counselor, and New Parent Educator. She supports families in the perinatal period through support groups and teaching classes on living with a newborn. Most importantly, she is the mom of three adult children and can connect with the people she works with through shared experiences. We discuss what a doula and lactation counselor is, as many people are unaware. Julie tells us a birth doula is often confused with a midwife, but they are different. Whereas the role of a midwife requires formal medical training, birth doulas support the family before, during, and after birth. They assist the family in empowering and speaking up for themselves so that they can advocate for their needs in the birthing process. Birth Doulas also help educate families on the decisions that could need to be made during a hospital birth so there are no surprises and families can think those options through before they are in the heat of the moment. Julie shares her expertise in ethical, positive parenting techniques. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-03T00:00:00",
       "duration": "01:09:21.1230000",
       "explicit": false,
       "spotifyId": "6yaH7QFEsOnmLWXcRRxwRA",
       "appleId": 1000607104711,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yaH7QFEsOnmLWXcRRxwRA",
         "apple": "https://podcasts.apple.com/podcast/birth-parenting-and-empowerment-with-birth-doula/id1603773245?i=1000607104711",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "1a80c505-0a9f-47b1-bae7-fa4b6cd6e02a",
+      "type": "Episode",
       "title": "Freeing People from Indoctrination with Rachel Bernstein, LMFT",
       "description": "Working with people in cults or who have escaped them requires much empathy, compassion, and knowledge. Rachel Bernstein has all those and more, which she\u2019s used for the last 30 years in her work in cult intervention and re-acclimation. I have known and worked with Rachel for many decades now. Bernstein is a Licensed Marriage and Family Therapist (LMFT) from Los Angeles, California. She is the host of IndoctriNATION: A weekly podcast covering cults, manipulators, and protecting yourself from systems of control, where she has interviewed hundreds of cult survivors, journalists, and experts.\u00A0 Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-27T00:00:00",
       "duration": "01:05:57.1850000",
       "explicit": false,
       "spotifyId": "7bnyxofw898vlWfs6oK44P",
       "appleId": 1000606062835,
       "youTubeId": null,
-      "subjects": [
-        "Interview with a Cult Expert"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7bnyxofw898vlWfs6oK44P",
         "apple": "https://podcasts.apple.com/podcast/freeing-people-from-indoctrination-with-rachel/id1603773245?i=1000606062835",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Interview with a Cult Expert"
+      ]
     },
     {
       "id": "42449d90-89bf-4356-b000-17350a6091c7",
+      "type": "Episode",
       "title": "Nazis in Copley Square: The Forgotten History of the Christian Front with Charles R. Gallagher",
       "description": "Rachel Maddow\u2019s podcast, Ultra, is about Nazism in the United States in the 1930s and 1940s. She based her podcast on the scholarly work of a Jesuit historian Professor Charles R. Gallagher, and his award-winning book.\u00A0I was fascinated to learn more and discovered that he teaches at nearby Boston College. So we met for lunch, and he kindly consented to this fascinating interview. I learned that the Nazis sent agents such as Charles Scholtz to Boston to recruit and radicalize Americans. These agents wanted to prevent the United States from coming to the defense of the United Kingdom and other European countries. The Nazis did not want America to help Jews who were persecuted and exterminated. Father Charles Coughlin was a Roman Catholic priest and radio personality with a listenership of 30 million people. He was a vocal supporter of the Christian Front. He praised Hitler\u2019s efforts to combat communism and advocated for a similar approach in the United States. Coughlin also used his radio broadcasts to spread anti-Semitic conspiracy theories and to attack Jewish people and Jewish-owned businesses. Coughlin also supported fascist regimes in Europe. In the 1940s, Coughlin and some of his followers began to plot a violent coup to overthrow the US government. The Nazis are still actively promoting violent fascism. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-20T00:00:00",
       "duration": "00:57:52.1690000",
       "explicit": false,
       "spotifyId": "6kMu540HPJkOtGvWZcXQNX",
       "appleId": 1000604940357,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6kMu540HPJkOtGvWZcXQNX",
         "apple": "https://podcasts.apple.com/podcast/nazis-in-copley-square-the-forgotten-history/id1603773245?i=1000604940357",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b6d2224c-947b-4450-9c01-6ef9a352188f",
+      "type": "Episode",
       "title": "How Online Spaces and Communities are Indoctrinating Gen Z and Gen A with Chloe Combi",
       "description": "An international researcher and author, Chloe Combi, is a leading authority on Generation Z (those born between 1999 and 2009). Having interviewed over 10,000 members of Gen Z, she provides invaluable insights into what the next decade and beyond will bring. The digital age has brought about a massive change in the way we think, feel, communicate, and behave. For young people born and raised in a digital world, being online for an average of eleven hours a day affects not only their brain development, such as shortened attention span, ability to concentrate, social skills, and mental well-being. As well as this, young people\u2019s need for connection and belonging is being exploited by unhealthy \u2018influencers\u2019 online, who are using the internet to indoctrinate and radicalize them. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-13T00:00:00",
       "duration": "01:08:17.6710000",
       "explicit": false,
       "spotifyId": "38INMORrrB3yiRD8jbN1Q2",
       "appleId": 1000603902725,
       "youTubeId": null,
-      "subjects": [
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/38INMORrrB3yiRD8jbN1Q2",
         "apple": "https://podcasts.apple.com/podcast/how-online-spaces-and-communities-are-indoctrinating/id1603773245?i=1000603902725",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Psychology"
+      ]
     },
     {
       "id": "2dd3b169-3d4a-4b80-a8a1-ab22ff2f6791",
+      "type": "Episode",
       "title": "Born Into and Married in the Moon cult with Elgen Strait",
       "description": "Want to know more about the Moonies? This week, we talk with Elgen Strait, who was not only born into the Moonies but participated in an arranged mass marriage ceremony (the so-called \u201Cblessing\u201D). His parents were active members when I was in the cult in the 1970s.\u00A0He\u2019s a fellow survivor. Strait hosts Falling Out with Elgen Strait, a podcast focused on the experiences of second-generation survivors of the Moonies. This episode goes into not only the abuse of children but also the trafficking of people. There are many \u201Csecond generation\u201D cult members now exiting and speaking up. This is a valuable episode. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-06T00:00:00",
       "duration": "01:00:29.9490000",
       "explicit": false,
       "spotifyId": "48mRQLOXvuprV1KsVxPXO1",
       "appleId": 1000602942959,
       "youTubeId": null,
-      "subjects": [
-        "Unification Church / Moonies"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/48mRQLOXvuprV1KsVxPXO1",
         "apple": "https://podcasts.apple.com/podcast/born-into-and-married-in-the-moon-cult-with-elgen-strait/id1603773245?i=1000602942959",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Unification Church / Moonies"
+      ]
     },
     {
       "id": "8808463a-e3a4-4b11-8df7-30fbfff00644",
+      "type": "Episode",
       "title": "Autism, Extremism, and Protecting the Vulnerable with Dr. Tony Attwood",
       "description": "Wish to learn more about the psychology of Elon Musk and Aspergers Syndrome? In this episode, I am honored to interview Dr. Tony Attwood, one of the world\u2019s foremost experts on Autism Spectrum Disorder. His first book, Asperger\u2019s Syndrome: A Guide for Parents and Professionals, is widely considered the foundational book on the subject. In past decades, I have had many clients who were on the spectrum and I long ago realized they are particularly vulnerable to authoritarian cults, as well as being radicalized online to do acts of terrorism. Years ago I taught an online webinar to warm folks and their families about their vulnerability to undue influence. Folks on the spectrum can be absolute geniuses and over the centuries have made major contributions. That said, these gifts can be manipulated and abused to harm or help others. Join me in this incredible learning experience. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-27T00:00:00",
       "duration": "00:45:21.0180000",
       "explicit": false,
       "spotifyId": "4JioOf7TS3asWTYrmSAf1n",
       "appleId": 1000601807859,
       "youTubeId": null,
-      "subjects": [
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4JioOf7TS3asWTYrmSAf1n",
         "apple": "https://podcasts.apple.com/podcast/autism-extremism-and-protecting-the-vulnerable-with/id1603773245?i=1000601807859",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Psychology"
+      ]
     },
     {
       "id": "9e960764-a3f4-4def-a97b-f22d8f3138f9",
+      "type": "Episode",
       "title": "Shadow Network: Media, Money, and the Secret Hub of the Radical Right with Anne Nelson",
       "description": "Ever heard of the Council for National Policy? Wish to understand this alliance of far-right wealthy donors and operators (which includes my former cult, the Moonies)? For everyone who cares about America and democracy worldwide, this interview is vitally important. Anne Nelson talks to us about this and more, including her book Shadow Network: Media, Money, and the Secret Hub of the Radical Right. Nelson is a prize-winning writer, contributing to the New Republic, the Washington Spectator, and the Times Literary Supplement. She is also a research scholar at Columbia University\u2019s School of International and Public Affairs. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-20T00:00:00",
       "duration": "01:04:10.5790000",
       "explicit": false,
       "spotifyId": "0pqZ2OHiElD3kcMmcG7kP5",
       "appleId": 1000600546498,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0pqZ2OHiElD3kcMmcG7kP5",
         "apple": "https://podcasts.apple.com/podcast/shadow-network-media-money-and-the-secret-hub/id1603773245?i=1000600546498",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b90a59ae-7b29-49af-9b69-8b5b2256bd81",
+      "type": "Episode",
       "title": "Mormonism, Mental Health, and Whistleblowing with Dr. John Dehlin",
       "description": "Whistleblowers often suffer consequences for speaking out, and our guest Dr. John Dehlin knows that first-hand. A 6th generation member, he was excommunicated from the Church of Latter Day Saints (LDS) for speaking up about gay rights and the suicide problem within the LDS church. They didn\u0027t like him raising those issues, but he persevered and is now helping others find their way out of religious faith crises and transition to a free life. Dr. Dehlin holds a master\u0027s degree in instructional technology and a Ph.D. in Clinical and Counseling Psychology. His interests revolve around the nexus of religion and mental health, emphasizing navigating religious faith crises and LGBTQ religious identity conflict. He is the CEO of the Open Stories Foundation. Yes, The BITE Model fits the LDS Church. The FLDS is much more destructive and extreme on the Influence Continuum. This is a blockbuster interview! Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-13T00:00:00",
       "duration": "01:03:39.1540000",
       "explicit": false,
       "spotifyId": "7nA8qFkpUfG13pDCY9hzyc",
       "appleId": 1000599311505,
       "youTubeId": null,
-      "subjects": [
-        "Mormonism"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7nA8qFkpUfG13pDCY9hzyc",
         "apple": "https://podcasts.apple.com/podcast/mormonism-mental-health-and-whistleblowing-with-dr/id1603773245?i=1000599311505",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Mormonism"
+      ]
     },
     {
       "id": "19ea456e-1f10-4d4c-83b8-e2e6cc979021",
+      "type": "Episode",
       "title": "Recruited at Sarah Lawrence College into the Larry Ray Cult with Daniel Barban Levin",
       "description": "On January 20th, 2023, Larry Ray was sentenced to 60 years in prison for racketeering conspiracy, violent crime in aid of racketeering, extortion, sex trafficking, forced labor, tax evasion, and money laundering offenses. Daniel Barban Levin escaped the cult and used writing to process his mind control experience. He also wanted to do something to help his friends, who were still psychologically imprisoned. His memoir, Slonim Woods 9, published in 2021, was a revealing and poetic description of his time in a mind control cult. Hulu releases its docuseries this week\u2013Stolen Youth: Inside the Cult at Sarah Lawrence.\u00A0 Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-06T00:00:00",
       "duration": "01:05:31.7150000",
       "explicit": false,
       "spotifyId": "7yJ2DnYy4fjd8tlewrjdZp",
       "appleId": 1000598235549,
       "youTubeId": null,
-      "subjects": [
-        "Sarah Lawrence College / Larry Ray"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7yJ2DnYy4fjd8tlewrjdZp",
         "apple": "https://podcasts.apple.com/podcast/recruited-at-sarah-lawrence-college-into-the-larry/id1603773245?i=1000598235549",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Sarah Lawrence College / Larry Ray"
+      ]
     },
     {
       "id": "0c26a622-dee7-4bcd-88a6-b71bb5c876b6",
+      "type": "Episode",
       "title": "The Perils of Extreme Religious Liberty and Protecting Children with Marci Hamilton",
       "description": "Did you know that current American law looks at children as property? Even though we know corporal punishment has been banned by most civilized countries, it is legal in the USA due to the religious lobby. Hamilton is a law professor as well as the Founder and CEO of CHILD USA, www.childusa.org, a 501(c)(3) nonprofit academic think tank dedicated to interdisciplinary, evidence-based research to improve laws and public policy to end child abuse and neglect. She is the author of God vs. the Gavel: The Perils of Extreme Religious Liberty, (2009, Cambridge University Press), Justice Denied: What America Must Do to Protect Its Children (2012, Cambridge University Press), and co-author of Children and the Law (2017, Carolina Academic Press). This is one of the most important interviews that I have ever done with one of the great activists of our day.\u00A0 Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-30T00:00:00",
       "duration": "00:59:09.3090000",
       "explicit": false,
       "spotifyId": "1zmuuOUF1bIcjT09GiAL8j",
       "appleId": 1000597249598,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1zmuuOUF1bIcjT09GiAL8j",
         "apple": "https://podcasts.apple.com/podcast/the-perils-of-extreme-religious-liberty/id1603773245?i=1000597249598",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e76e1110-ed50-4ae6-bfd4-b54f626fc8ea",
+      "type": "Episode",
       "title": "Training Therapists to Work in Post-Cult Counseling with Dr. Gillie Jenkinson",
       "description": "Herself a former cult member and accredited psychotherapist in the U.K., is an international speaker, director of Hope Valley Counselling and author of the new book, Walking Free from the Trauma of Coercive, Cultic, and Spiritual Abuse: A Workbook for Recovery and Growth. Most people require specialized counseling to recover from an experience of cult indoctrination. But many therapists that work with former members are not trained to help with the after-effects of mind control and cult-related problems, such as the formation of a pseudo \u201Ccult identity.\u201D Inspired by her experience of encountering unethical and inexperienced therapists, Gillie created an approach to counseling former members, which she calls Post-Cult Counselling (PCC), that brings together ethical therapy and the knowledge of cults.\u00A0   \uFEFFLearn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-23T00:00:00",
       "duration": "00:59:46.5070000",
       "explicit": false,
       "spotifyId": "2kWw3jm5PsAHX1GQBjh31D",
       "appleId": 1000596038123,
       "youTubeId": null,
-      "subjects": [
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2kWw3jm5PsAHX1GQBjh31D",
         "apple": "https://podcasts.apple.com/podcast/training-therapists-to-work-in-post-cult-counseling/id1603773245?i=1000596038123",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Psychology"
+      ]
     },
     {
       "id": "90754a7a-a41f-4eba-b94f-f65dc542d3a5",
+      "type": "Episode",
       "title": "Cured: Strengthen Your Immune System and Heal Your Life with Jeffrey Rediger, MD",
       "description": "Dr. Rediger, MD, MDiv, is a board-certified psychiatrist, best-selling author, and popular speaker. He holds a Master of Divinity degree from Princeton Theological Seminary. He is on the faculty at Harvard Medical School and has served as Medical Director of McLean SE Adult psychiatry and Community Affairs at McLean Hospital for many years. He has spent years researching cases of what doctors call \u201Cspontaneous remission\u201D and what others call \u201Cmiracles.\u201D We discuss the terribly broken medical care system that fails to see a whole person rather than a set of symptoms or diseases in \u201Csilos.\u201D He talks about specific scientifically validated cases where people were given a terminal diagnosis and yet, lived. He focuses on the immune system and not only eliminating what is sabotaging it (lack of sleep, sugar, refined foods, and more) and what we can do to help ourselves heal ourselves. This one you won\u0027t want to miss! Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-16T00:00:00",
       "duration": "01:07:05.9910000",
       "explicit": false,
       "spotifyId": "5a4CoykMP4Rigt8i0Y2azH",
       "appleId": 1000594727967,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5a4CoykMP4Rigt8i0Y2azH",
         "apple": "https://podcasts.apple.com/podcast/cured-strengthen-your-immune-system-and-heal-your/id1603773245?i=1000594727967",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "28804cb0-4ce3-4a25-bad2-9a3341d0fb07",
+      "type": "Episode",
       "title": "Unveiled: Discovering the Truth Behind Islamic Extremism with Yasmine Mohammed",
       "description": "Yasmine was raised in an extreme Islamic household and was married to a man who turned out to be an Al-Qaeda terrorist. She is a tireless human rights campaigner advocating for the rights of women living within Muslim-majority countries as well as those who struggled under religious fundamentalism in general. She is the founder of Free Hearts Free Minds, an organization providing mental health support for members of the LGBTQ\u002B community and free thinkers living within Muslim-majority countries where both \u201Ccrimes\u201D can be punished by execution. I wish to support women\u2019s equal rights everywhere, and please join me for a very important interview on her book and her work. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-09T00:00:00",
       "duration": "01:08:44.1600000",
       "explicit": false,
       "spotifyId": "5CnpDZH4uYqjtCrAlv8chN",
       "appleId": 1000593159716,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5CnpDZH4uYqjtCrAlv8chN",
         "apple": "https://podcasts.apple.com/podcast/unveiled-discovering-the-truth-behind-islamic/id1603773245?i=1000593159716",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "856ffacc-8da5-4b48-b037-fb67c9bc36c9",
+      "type": "Episode",
       "title": "Former Trump Attorney Michael Cohen on His Experience in The Cult of Trump",
       "description": "The host of the Mea Culpa podcast and author of the #1 best-selling book,\u00A0 Disloyal: A Memoir, and now with his latest book Revenge: How Donald Trump Weaponized the Department of Justice Against His Critics. So much has happened that is timely with the 2nd anniversary of the Jan 6th violent attempted coup. His latest book is an indictment of Trump weaponizing the Department of Justice, headed by AG Bill Barr. Putting Cohen in jail- solitary confinement for 51 days! Learn more about this horrendous abuse of power. This is a great interview! Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-02T00:00:00",
       "duration": "01:10:01.9000000",
       "explicit": false,
       "spotifyId": "5KKfW0gUbdP0Hd885M2MYN",
       "appleId": 1000591888659,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5KKfW0gUbdP0Hd885M2MYN",
         "apple": "https://podcasts.apple.com/podcast/former-trump-attorney-michael-cohen-on-his-experience/id1603773245?i=1000591888659",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "670c9fb0-f6a3-49c5-af2b-6992a6b0f160",
+      "type": "Episode",
       "title": "Growing Up in Scientology and the Aftermath Foundation with Aaron Smith-Levin",
       "description": "Being raised in an authoritarian cult and exiting is usually a very difficult and traumatic experience. Many people have learned about the cult of Hubbard, Scientology, and Aaron Smith-Levin signed a billion-year commitment when he entered the SeaOrg- the elite troops of the cult. There have been many books, podcasts, and documentaries about Scientology. Aaron started a very successful YouTube Channel Growing up in Scientology and is the vice president of the Aftermath Foundation, a non-profit aimed at helping former members to recover. Three former Sea Org members who were inducted as children are currently suing the cult and David Miscavige, its head, for labor trafficking. Join us for this fascinating interview! Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-26T00:00:00",
       "duration": "01:15:53.0120000",
       "explicit": false,
       "spotifyId": "4cOde7i7tsaqK6PS7Q2oL7",
       "appleId": 1000591329438,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cOde7i7tsaqK6PS7Q2oL7",
         "apple": "https://podcasts.apple.com/podcast/growing-up-in-scientology-and-the-aftermath/id1603773245?i=1000591329438",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "76044042-6fc2-4956-bbbf-496737ccab14",
+      "type": "Episode",
       "title": "Helping to counsel people in the UK with Cult Issues with Christian Szurko",
       "description": "My interview with the founder of the non-profit\u00A0DialogCentre UK, Christian Szurko, shares his decades of experience helping people involved with abusive, controlling cults and relationships since 1973. A former member of Yogananda (Autobiography of a Yogi), Christian was mentored by a pastoral counselor, moved to England, and has been actively helping people reclaim their personal power and reenter society. This is a fascinating interview, and we cover many essential topics, from the need to focus more on helping people recover from authoritarian cults and not just \u201Cget them out.\u201D We discuss the need for active listening, developing accurate mental maps, radicalization online, and the activism some of us have done over many decades offers a unique perspective to providing solutions. Join us in this fascinating discussion! Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-19T00:00:00",
       "duration": "01:14:51.2320000",
       "explicit": false,
       "spotifyId": "0wk2rZn4dsq0LGPfw3eTeG",
       "appleId": 1000590633160,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0wk2rZn4dsq0LGPfw3eTeG",
         "apple": "https://podcasts.apple.com/podcast/helping-to-counsel-people-in-the-uk-with-cult/id1603773245?i=1000590633160",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "820358d9-90b4-4b8c-80e1-8f11e7b5526d",
+      "type": "Episode",
       "title": "BELIEVING THE IRRATIONAL AND DISPELLING IT \u2013 A HOW TO with Michael Shermer",
       "description": "A very important conversation with one of the top skeptics in the world about his new, excellent book, Conspiracy: Why the Rational Believe the Irrational. Dr. Shermer is the Founding Publisher of Skeptic magazine, the host of the podcast The Michael Shermer Show, and a Presidential Fellow at Chapman University, where he teaches Skepticism 101. For 18 years, he has been a monthly columnist for Scientific American. In this interview, you will learn about the biology that motivates people to believe in conspiracy theories as well as understand there are, in fact, actual conspiracies. The important thing is understanding what one needs to consider in order to accept a belief about a conspiracy as \u201Ctrue.\u201D Shermer gives very practical, good advice on how to interact with folks that mirrors my work of what is effective. Most importantly\u2013being willing to be curious, respectful, ask good questions, don\u2019t be emotional or attack the individual and much more. Please check it out. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-12T00:00:00",
       "duration": "01:08:36.7410000",
       "explicit": false,
       "spotifyId": "5yd1ndnRyiKs4vo7PpHGja",
       "appleId": 1000589843507,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5yd1ndnRyiKs4vo7PpHGja",
         "apple": "https://podcasts.apple.com/podcast/believing-the-irrational-and-dispelling-it-a-how/id1603773245?i=1000589843507",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "5b8d7ad0-fba8-4844-b572-f64ed4f3106b",
+      "type": "Episode",
       "title": "From Growing Up in the Jehovah\u2019s Witnesses to Counseling People Who Wish to Exit it with Frances Peters",
       "description": "Come join me in this fascinating interview with Frances Peters who lives in the Netherlands and has a coaching and counseling practice serving people who are former members of a large variety of authoritarian cults, including the one she was raised in. The journey out of a cult for someone raised in it differs from working with someone recruited later in life. This conversation will be of interest to all, but especially to second-generation cult members as well as counselors, spouses, and anyone interested in different approaches to helping. Working with former members is a unique specialization and Frances Peters has a wonderful reputation. I am so pleased to share this interview with her. \uFEFFLearn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-05T00:00:00",
       "duration": "01:18:51.9240000",
       "explicit": false,
       "spotifyId": "4Fs57JYKRMlHB1NTBZVtYf",
       "appleId": 1000588800101,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Fs57JYKRMlHB1NTBZVtYf",
         "apple": "https://podcasts.apple.com/podcast/from-growing-up-in-the-jehovahs-witnesses-to/id1603773245?i=1000588800101",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "0749ff7f-beb5-4c0f-91ac-4cb3794a9634",
+      "type": "Episode",
       "title": "Former Cult of Trump member and Congressman Joe Walsh on the Political Scene in the United States",
       "description": "Former Republican congressman and Tea Party advocate, Joe Walsh discusses his realizations about Trump and how he has been dissed by the MAGA powers in the GOP. He started \u201CCenter Street Pac\u201D to help elect any politician devoted to putting country over party, in service of freedom. Joe has a podcast of his own, \u201CWhite Flag with Joe Walsh\u201D where he talks with progressives as well as GOD folks willing to discuss what has happened to the United States. Joe and I discuss Twitter, free speech, and libertarianism, and agree we all need to lower the temperature and get more people talking together to each other. Our current system is broken with dark money and bad actors manipulating the media and politics. So it is a fascinating important conversation that offers some ideas and directions for hope. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-28T00:00:00",
       "duration": "00:58:11.7610000",
       "explicit": false,
       "spotifyId": "6W0q5jHzu7gC3pG4SNyGNP",
       "appleId": 1000587754650,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6W0q5jHzu7gC3pG4SNyGNP",
         "apple": "https://podcasts.apple.com/podcast/former-cult-of-trump-member-and-congressman-joe-walsh/id1603773245?i=1000587754650",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "744efce6-fa2c-4699-995e-bba8e6e3a0cd",
+      "type": "Episode",
       "title": "How Evangelical Christianity morphed into a Political Machine, Became Anti-Abortion, and into NAR with Frank Schaeffer",
       "description": "For anyone with a background in Evangelical Christianity, Francis Schaeffer is regarded as royalty. He has written books that sold many millions of copies and two films were made by his namesake son to promote them. This interview is one of the most important ones for people to listen to if they really wish to understand what has happened to Christianity in America. Frank Schaeffer, a New York Times best-selling author, and host of the podcast, In Conversation\u2026 with Frank Schaeffer, was homeschooled and raised in an evangelical/fundamentalist home and bears firsthand testimony of how his father\u2019s life work was corrupted into a movement that wishes to secure political power, money, and control over people\u2019s lives. Frank Schaeffer is a brilliant, creative man who truly cares about people and improving the world. Come listen to this incredible interview! Learn more about Frank at www.lovechildrenplanet.com. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-21T00:00:00",
       "duration": "01:01:29.4820000",
       "explicit": false,
       "spotifyId": "1O3XVypXfdi71kpqYT4V3G",
       "appleId": 1000586938582,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1O3XVypXfdi71kpqYT4V3G",
         "apple": "https://podcasts.apple.com/podcast/how-evangelical-christianity-morphed-into-a/id1603773245?i=1000586938582",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "0d5df0d2-ffd1-48e6-ac27-55c7900b563d",
+      "type": "Episode",
       "title": "The Traumatizing Narcissist\u0027s Relational System, with Daniel Shaw LCSW",
       "description": "Daniel Shaw is a psychotherapist in New York City, and author of 2 books on the subject of traumatic narcissism. He left the Siddha Yoga cult in 1994, after more than a decade of living and working for it. In this interview we discuss his concept of the relational system of the traumatizing narcissist, that explains the psychology of cult leaders and abusers and helps survivors of narcissistic abuse in their recovery. There are many \u201Cexperts\u201D on narcissist abuse but this framework is uniquely helpful. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-14T00:00:00",
       "duration": "01:06:43.6040000",
       "explicit": false,
       "spotifyId": "1NKiJ78IHorgbWekXPUGhT",
       "appleId": 1000586087417,
       "youTubeId": null,
-      "subjects": [
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1NKiJ78IHorgbWekXPUGhT",
         "apple": "https://podcasts.apple.com/podcast/the-traumatizing-narcissists-relational-system-with/id1603773245?i=1000586087417",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Psychology"
+      ]
     },
     {
       "id": "e8cd99a1-aeb7-4e0f-8c37-0e25d2d182ab",
+      "type": "Episode",
       "title": "Humiliation, Media Shaming, Trauma, and work with the FLDS with Dr. Christine Marie",
       "description": "Media shaming has been around for decades. Now, we live with the Internet and 24/7 information cycles. Sensationalism and misinformation can create harmful media which is accessible forever. The adverse effects on everyday people\u2019s lives are monumental and sometimes deadly. Dr. Christine Marie specializes in media psychology, a field that is becoming more important than ever, given the proliferation of media sources. Media influence can lead to shame, humiliation, and complex PTSD. Join us in this important interview. Then we turn to her work with the nonprofit Voices For Dignity. A survivor and an academic, she and her husband live in Colorado City, Arizona, and help members of the FLDS cult. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-07T00:00:00",
       "duration": "01:06:39.2420000",
       "explicit": false,
       "spotifyId": "4VFl6RpN77Q5RkXkR8zllN",
       "appleId": 1000585310174,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4VFl6RpN77Q5RkXkR8zllN",
         "apple": "https://podcasts.apple.com/podcast/humiliation-media-shaming-trauma-and-work-with-the/id1603773245?i=1000585310174",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b3ce598a-ca30-4079-a906-5ff1617f5e9e",
+      "type": "Episode",
       "title": "REWIRED: Protecting Your Brain in the Digital Age with Carl D. Marci, M.D.",
       "description": "Rewired is one of the most important new books I have read that has yet to get significant media attention. Dr. Marci is a Harvard psychiatrist and social neuroscientist who uses incontrovertible scientific evidence in this remarkable and sobering book. He has a chapter titled \u2018The Power of the Prefrontal Cortex\u2019 that describes it as the \u2018most highly evolved part of the modern human brain.\u2019 It performs executive functions and is an \u2018orchestral conductor of neuronal symphonies\u2019 in our brain. One of the central premises of this book is that our obsession with social media and cell phones is rewiring our brains and causing irreversible damage. Specific advice on what we can do to have a healthy tech-life balance is given and discussed. Please listen to this fascinating and essential conversation at this pivotal time in human history. We need to control our technology and not allow our technology to control or unduly influence us.  Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-31T00:00:00",
       "duration": "00:57:27.7710000",
       "explicit": false,
       "spotifyId": "7hQlzqzdqUr7wXRJbmUQU2",
       "appleId": 1000584474816,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hQlzqzdqUr7wXRJbmUQU2",
         "apple": "https://podcasts.apple.com/podcast/rewired-protecting-your-brain-in-the-digital-age-with/id1603773245?i=1000584474816",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "8885f420-2737-44da-a883-f51f422fa3b3",
+      "type": "Episode",
       "title": "The Game is Up: Disillusioned Trump Voters Tell Their Stories",
       "description": "Please listen to this interview with two-time Emmy award-winning filmmaker Melissa Jo Peltier about this documentary. Former tea party congressman Joe Walsh, David Weissman, Batya Goldberg, and other former voters for Trump share their realizations about how destructive Trump has been for America. Several experts were interviewed for this project, including myself, talking about my book, The Cult of Trump. Let\u2019s amplify the voices of former believers in Trump! Let\u2019s expand the exit ramp to using conscience and employing American values. Let\u2019s not shame or denigrate folks for being sucked into the Republican machine. Help us end the polarization, and let\u2019s make a large exit ramp for folks to be able to reevaluate their involvement. Let\u2019s begin a more informed conversation about our future. This essential documentary movie is now widely available on Amazon, Google Play, and other venues. Please see https://thegameisupmovie.com/ for more information. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-24T00:00:00",
       "duration": "01:00:18.2460000",
       "explicit": false,
       "spotifyId": "37dNn8VAYgGC1hCz7S9SSX",
       "appleId": 1000583666572,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37dNn8VAYgGC1hCz7S9SSX",
         "apple": "https://podcasts.apple.com/podcast/the-game-is-up-disillusioned-trump-voters-tell-their/id1603773245?i=1000583666572",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "0ac825bf-80b1-4534-b735-10b3d269fd82",
+      "type": "Episode",
       "title": "Beware the Metaverse: Dr. Rand Waltzman discusses Artificial Intelligence (AI) and the Internet",
       "description": "Please join me in a profound but disturbingly honest conversation with one of the world\u2019s true experts in Artificial Intelligence. The Information Professionals Association (IPA) co-founder, Dr. Rand Waltzman, has over 40 years of experience performing and managing research in AI applied to domains including social media and cognitive security in the information environment. His distinguished career includes being the former Deputy Chief Technology Officer and Senior Information Scientist at the Rand Corporation. His perspective is dire. He says that without dramatic intervention into data privacy and technology regulations worldwide, those with power will be able to conduct massive mind control at scale, as we see in current dictatorships. He agrees that the human mind is easily manipulated, provided a person doesn\u2019t understand how social psychology principles and propaganda techniques are being used on them. There is no freedom without responsibility. Virtual Reality (VR) technology is able to obtain vast amounts of information about a user\u2019s mind that can be used to manipulate and control them. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-17T00:00:00",
       "duration": "01:09:15.1150000",
       "explicit": false,
       "spotifyId": "3STrlzBf38Wi6t9wLgmIfV",
       "appleId": 1000582870741,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3STrlzBf38Wi6t9wLgmIfV",
         "apple": "https://podcasts.apple.com/podcast/beware-the-metaverse-dr-rand-waltzman-discusses/id1603773245?i=1000582870741",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "70ecf9b9-0f64-44be-b88d-c869d59074a8",
+      "type": "Episode",
       "title": "A BILLION YEARS: My Escape From a Life in the Highest Ranks of Scientology with Mike Rinder",
       "description": "Mike Rinder escaped his 46 years of Scientology, having achieved the #3 spot of power and head of their intelligence unit OSA. His new book helps pull back the curtain on many aspects of this notorious authoritarian cult. He starred with Leah Remini on Scientology and the Aftermath, and now their podcast Fair Game. In this special interview, I cover some essential details that folks (especially cult watchers) will wish to know. For example, he answers my specific questions that help connect the dots with the criminal activity and mind control that Hubbard enshrined into cult doctrine. In this age of mass radicalization, understanding Scientology cult mind control offers a window to understand how intelligent and educated people can fall prey to malignant narcissists. It also proves that people (including top leaders) can exit and become contributing members of society. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-10T00:00:00",
       "duration": "01:08:52.2560000",
       "explicit": false,
       "spotifyId": "0W7YhPMjCzeh98c8Y7O25p",
       "appleId": 1000582127304,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0W7YhPMjCzeh98c8Y7O25p",
         "apple": "https://podcasts.apple.com/podcast/a-billion-years-my-escape-from-a-life-in/id1603773245?i=1000582127304",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "dd5e4b9b-4d07-44da-b7fd-bcbc1b241cca",
+      "type": "Episode",
       "title": "Wake Up Grateful: The Transformative Practice of Taking Nothing for Granted with Kristi Nelson",
       "description": "Join me in a thoroughly uplifting episode with author Kristi Nelson. Kristi is a very special person, bright, educated, accomplished in the world of non-profit leadership. She is a wounded healer, having survived a terminal diagnosis of stage 4 cancer and lived. I rarely encounter a book where I agree with everything in it. I feel energized by practicing this simple but difficult practice. I tend to think and worry too much in a way that is draining. By reminding yourself to put your attention on all the good things, all the body parts that you still have and are in working order, the beauty of nature, the awesomeness of being alive empowers and enlivens me. Please join me in listening to this episode and I highly recommend listening to her read this wonderful book afterward. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-03T00:00:00",
       "duration": "00:56:35.4480000",
       "explicit": false,
       "spotifyId": "49DldfTeuRygIE9dpJAlhV",
       "appleId": 1000581373296,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/49DldfTeuRygIE9dpJAlhV",
         "apple": "https://podcasts.apple.com/podcast/wake-up-grateful-the-transformative-practice-of/id1603773245?i=1000581373296",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "35b4c424-647d-4f2c-bc68-a526007ecdaf",
+      "type": "Episode",
       "title": "Rabbi Natan Margalit Science and Torah: Ancient Wisdom for Healing the Earth",
       "description": "Rabbi Natan Margalit, the author of the newly released book, The Pearl and the Flame, has an answer. The problem, he believes, is not understanding the connectedness of all things\u2014people, plants, animals, and the natural world. His solution is to integrate our vast and valuable scientific knowledge about complex systems with the ancient wisdom of the Torah (the Hebrew Bible). In this fascinating conversation, Natan shares his spiritual journey, which eventually led him to become a rabbi, educator, and environmental activist. We cover many topics, sharing hopeful ways to move forward in our highly fragmented and polarized times.\u00A0\u00A0 Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-26T00:00:00",
       "duration": "01:07:48.3880000",
       "explicit": false,
       "spotifyId": "3qrqXc13NdrmJMSPZKcizA",
       "appleId": 1000580638069,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qrqXc13NdrmJMSPZKcizA",
         "apple": "https://podcasts.apple.com/podcast/rabbi-natan-margalit-science-and-torah-ancient-wisdom/id1603773245?i=1000580638069",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "f4a94eed-275e-485a-a736-aa3bfe402914",
+      "type": "Episode",
       "title": "Growing up in a Sex Cult with former Army Captain Daniella Mestyanek Young",
       "description": "Daniella Mestyanek Young is a strong, courageous woman who has written the memoir, Uncultured. This fascinating interview will be of interest to anyone born into an authoritarian cult, to women everywhere, to anyone who served in the military as well as anyone who wants to read about the incredible journey. Daniella was trained to obey orders in a cult that regularly raped children, endured hours of corporal punishment, ran away at age 15, became valedictorian, became an Army intelligence captain, and is working towards a Masters degree in Organizational Development and Change at Harvard. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-19T00:00:00",
       "duration": "00:58:46.6080000",
       "explicit": false,
       "spotifyId": "3Ei39fzLfG5HV0wacMpMqt",
       "appleId": 1000579907298,
       "youTubeId": null,
-      "subjects": [
-        "Children of God/Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Ei39fzLfG5HV0wacMpMqt",
         "apple": "https://podcasts.apple.com/podcast/growing-up-in-a-sex-cult-with-former-army/id1603773245?i=1000579907298",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Children of God/Family International"
+      ]
     },
     {
       "id": "07d18958-0d49-47b1-ac9e-0bbb98d0ca79",
+      "type": "Episode",
       "title": "Exposing Cult Propagandists with Jeffrey Augustine",
       "description": "Jeffrey Augustine is an investigative journalist whose blog, The Scientology Money Project, covers Scientology\u0027s money, crimes, lies, and legal matters. Augustine covers Scientology in real time and offers in-depth analysis, legal and governmental documents, and court cases. Augustine reports on the pervasive culture of white-collar criminality and financial scams within Scientology perpetrated by its members, in addition to Scientology\u0027s cover-ups or rapes and child molestation. He is a former Pentecostal who has researched Massimo Introvigne, head of Cesnur.org, and outs him as a cult propagandist along with a host of other sociologists who say brainwashing does not exist and don\u0027t trust former members or critics. This interview is fascinating, especially for all interested in disinformation messaging, cults, and academics. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-12T00:00:00",
       "duration": "01:16:09.0770000",
       "explicit": false,
       "spotifyId": "72gcpJOzWwqshvV9kTTsBU",
       "appleId": 1000579176339,
       "youTubeId": null,
-      "subjects": [
-        "Cult Apologists"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/72gcpJOzWwqshvV9kTTsBU",
         "apple": "https://podcasts.apple.com/podcast/exposing-cult-propagandists-with-jeffrey-augustine/id1603773245?i=1000579176339",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Apologists"
+      ]
     },
     {
       "id": "f58ffd1f-e434-4ded-9dce-b9e5e2a47718",
+      "type": "Episode",
       "title": "Invisible Storm: A Soldier\u2019s Memoir of Politics and PTSD with Jason Kander",
       "description": "Jason Kander\u2019s new book significantly contributes to mental health, particularly to military folks walking around with undiagnosed PTSD. He is a former Army Captain and rising political star\u2013yes, he was invited to the White House to meet with President Obama, who encouraged him to run for President. Jason realized that he had been suffering from classic PTSD symptoms for ten years and needed to stop everything and get help. He stepped out of political life, is a devoted husband and father, and has been working to help veterans. Jason\u2019s previous best-selling book was Outside the Wire. He hosts the Majority 54 podcast. Jason is truly fascinating and inspiring, and I believe you will find this conversation fascinating. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-05T00:00:00",
       "duration": "00:59:33.9950000",
       "explicit": false,
       "spotifyId": "25gSqrw58QWi2lzxCgW7sV",
       "appleId": 1000578393082,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/25gSqrw58QWi2lzxCgW7sV",
         "apple": "https://podcasts.apple.com/podcast/invisible-storm-a-soldiers-memoir-of-politics/id1603773245?i=1000578393082",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b33344b6-e70b-4b9c-846e-1957ed904b97",
+      "type": "Episode",
       "title": "Ira Chaleff Discusses the Importance of Courageous Followership and Intelligent Disobedience",
       "description": "Named one of the \u201C100 best minds on leadership\u201D by Leadership Excellence magazine, Ira Chaleff has a lot of positive, constructive things to guide people. I loved his books, Intelligent Disobedience: Doing Right When What You\u2019re Told To Do Is Wrong, and The Courageous Follower: Standing Up To and For Our Leaders. At this time in world history, Chaleff has a lot of important wisdom to help people realign with their values and empower them to act with integrity. His program to teach children to Think, Blink, Choice, and Voice will help empower children to speak up if they are being pressured to do something wrong. Join me for this fascinating discussion. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-29T00:00:00",
       "duration": "01:01:18.5370000",
       "explicit": false,
       "spotifyId": "3r9WLxSKTmsJvQfd7VvBOY",
       "appleId": 1000577650476,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3r9WLxSKTmsJvQfd7VvBOY",
         "apple": "https://podcasts.apple.com/podcast/ira-chaleff-discusses-the-importance-of/id1603773245?i=1000577650476",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c05356c7-b658-406d-b204-b2423fafa4f5",
+      "type": "Episode",
       "title": "The New Apostolic Reformation is facing rifts from Trump prophecies - Fred Clarkson and Andr\u00E9 Gagn\u00E9",
       "description": "There are an estimated 40 million Americans and approximately 650 million people worldwide involved with Pentecostal/ Charismatic groups led by a prophet or apostle who claims to get direct revelations from God. Most of these fulfill the BITE model of Authoritarian Control criteria. Some of these folks see themselves as \u201Cspiritual warriors\u201D and are convinced other people who wish to have human rights (women who wish to have control of their bodies, gay marriage, and reject theocracy) are satanic/ demonic forces. Dr. Andr\u00E9 Gagn\u00E9, professor in theological studies at Concordia University (Montr\u00E9al) teams up for this interview with Frederick Clarkson, Senior Research Analyst at Political Research Associates who has been reporting on the rise of the theocratic Christian Right for four decades. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-22T00:00:00",
       "duration": "01:02:52.9430000",
       "explicit": false,
       "spotifyId": "0pioYqZz3eEDZmIWTLS7Dn",
       "appleId": 1000576910526,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0pioYqZz3eEDZmIWTLS7Dn",
         "apple": "https://podcasts.apple.com/podcast/the-new-apostolic-reformation-is-facing-rifts-from/id1603773245?i=1000576910526",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3c1012f0-dcd4-466b-88b8-302676a44946",
+      "type": "Episode",
       "title": "Netflix\u2019s \u201CBad Vegan\u201D shows how Celebrity Restaurateur, Sarma Melngailis was Hypnotized by a Predator",
       "description": "A frank discussion on the subject of the Netflix docu-series Bad Vegan. One-on-one coercive control is what this story was about! Sarma co-founded Pure Food and Wine restaurant in NYC and founded the raw vegan brand, One Lucky Duck. The series failed utterly by not explaining how predators operate, or how hypnosis can be used to elicit obedience and induce amnesia. In this case, large sums were drained from Sarma\u0027s business, and both she and her predator were jailed at Rikers Island, prosecuted as if both had criminal intent. This episode is for anyone wishing to understand how an educated, intelligent woman\u0027s business and life were obliterated via years-long grooming and mind control. All the evidence was there but prosecutors IMPO did not wish to investigate what really happened. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-15T00:00:00",
       "duration": "01:17:49.8310000",
       "explicit": false,
       "spotifyId": "6i3jmqUS7A2Eqa58ehzTDJ",
       "appleId": 1000576106733,
       "youTubeId": null,
-      "subjects": [
-        "One-on-One Cult"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6i3jmqUS7A2Eqa58ehzTDJ",
         "apple": "https://podcasts.apple.com/podcast/netflixs-bad-vegan-shows-how-celebrity-restaurateur/id1603773245?i=1000576106733",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "One-on-One Cult"
+      ]
     },
     {
       "id": "fcfe42fb-6190-4e4d-96a2-3b66a7ea8b13",
+      "type": "Episode",
       "title": "Alzheimer\u0027s, Dementia and on being wise consumers: A conversation with Germaine Odenheimer, M.D.",
       "description": "Germaine is a Geriatric Neurologist, Professor Emeritus at OU College of Medicine.\u00A0Her career has been devoted to people with dementia and their caregiver. She became a caregiver for her mother with dementia. She was recruited to Oklahoma University College of Medicine to develop a geriatric curriculum for medical students and focused her teaching on recognizing and caring for people with cognitive impairments. She required all her medical students to participate in Alzheimer\u0027s support groups. As the population ages in America, more and more people are suffering from severe cognitive impairments. While there is a great deal of research, Dr. Odenheimer warns us that caveat emptor: buyer beware. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-08T00:00:00",
       "duration": "00:59:25.5570000",
       "explicit": false,
       "spotifyId": "3iBeo6MzsaFokvUaqjrFC6",
       "appleId": 1000575349032,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3iBeo6MzsaFokvUaqjrFC6",
         "apple": "https://podcasts.apple.com/podcast/alzheimers-dementia-and-on-being-wise-consumers/id1603773245?i=1000575349032",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4a2f2066-e7a3-42ff-978d-7c12a9e8f653",
+      "type": "Episode",
       "title": "An Expert on Addiction and critic of 12 Step Programs: A conversation with Lance Dodes MD",
       "description": "Lance Dodes, M.D. is a retired assistant clinical professor of psychiatry at Harvard Medical School. He has been the Director of the substance abuse treatment unit of Harvard\u2019s McLean Hospital, Director of the Alcoholism Treatment Unit at Spaulding Rehabilitation Hospital (now part of Massachusetts General Hospital), and Director of the Boston Center for Problem Gambling. He is the author or co-author of many journal articles and book chapters about the psychology of addiction and the author of three books: The Heart of Addiction (HarperCollins, 2002), Breaking Addiction: A 7-Step Handbook for Ending Any Addiction (HarperCollins, 2011), and The Sober Truth: Debunking the Bad Science Behind 12-Step Programs and the Rehab Industry (Beacon Press, 2014; senior author). This fascinating exchange helps to challenge the idea of a \u201Cdisease\u201D model of addiction and offers his decades of experience helping people overcome the compulsion underlying most addictions. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit freedomofmind.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-01T00:00:00",
       "duration": "01:06:11.0560000",
       "explicit": false,
       "spotifyId": "0LlpRRPdmGfYH4c5GT9UXH",
       "appleId": 1000574638201,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0LlpRRPdmGfYH4c5GT9UXH",
         "apple": "https://podcasts.apple.com/podcast/an-expert-on-addiction-and-critic-of-12/id1603773245?i=1000574638201",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "1f31b2e7-9bd6-4674-bdde-8fe7cf7bce76",
+      "type": "Episode",
       "title": "Lone-Actor Terrorism: A discussion with Jacob Holzer M.D.",
       "description": "Dr. Holzer was co-editor of the Oxford University textbook entitled Lone-Actor Terrorism: An Integrated Framework. The book is a scholarly endeavor to approach the complex subject from a variety of disciplines. I contributed a chapter titled, Understanding Online Indoctrination, with my coauthors, Jon Caven-Atack, Mansi Shah, and Simron Malhotra. With hundreds of mass shootings as well as other violent terrorist acts, it is essential to not limit discussion to banning assault rifles as solutions will require far more robust approaches. Citizens, along with law enforcement, and intelligence officials will all need a more refined understanding of what can be done to make the world safer. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-25T00:00:00",
       "duration": "01:00:28.8520000",
       "explicit": false,
       "spotifyId": "6hs8hgxjc9G3ZJCACLmabH",
       "appleId": 1000571069264,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6hs8hgxjc9G3ZJCACLmabH",
         "apple": "https://podcasts.apple.com/podcast/lone-actor-terrorism-a-discussion-with-jacob-holzer-m-d/id1603773245?i=1000571069264",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4577f95d-657f-4502-be38-e7d5dbb8c756",
+      "type": "Episode",
       "title": "Growing up in an Apocalyptic Cult: A conversation with Dr. Tricia Jenkins",
       "description": "Tricia Jenkins, Ph.D. is a podcaster and professor of film, TV, and digital media at TCU in Fort Worth, TX. She is the author of three books including The CIA in Hollywood, as well as Superheroes, Movies, and the State. Her new podcast, Worldwide: The Unchosen Church, features stories about growing up in the Worldwide Church of God- a doomsday apocalyptic cult. We talk about issues facing children and second-generation members born into cults. Details about Herbert W. Armstrong\u2019s authoritarian cult group, an influential Christian right group, and its history are fascinating.\u00A0 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-18T00:00:00",
       "duration": "01:06:04.8130000",
       "explicit": false,
       "spotifyId": "3vLz1BX7Jc9lvMcr7Rg9D0",
       "appleId": 1000570314665,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vLz1BX7Jc9lvMcr7Rg9D0",
         "apple": "https://podcasts.apple.com/podcast/growing-up-in-an-apocalyptic-cult-a-conversation/id1603773245?i=1000570314665",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "19cb18f7-cc19-46ec-9a3a-75e25cd63039",
+      "type": "Episode",
       "title": "The Moon Cult: an interview with former top American leader Allen Tate Wood",
       "description": "In the wake of the assassination of former prime minister Shinzo Abe by the assassin Tetsuya Yamagami, we are posting this interview. The killer was reportedly angered because of Abe\u2019s family\u2019s support of the Unification Church - aka Moon organization. Wood was a major expert testifying to courts including before the Supreme Court. Allen Tate Wood a former American Leader of the group talks with Steven Hassan in this must-watch interview. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-11T00:00:00",
       "duration": "01:00:26.3960000",
       "explicit": false,
       "spotifyId": "5sbe3QPsZCAGctRKhUo2oq",
       "appleId": 1000569510134,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5sbe3QPsZCAGctRKhUo2oq",
         "apple": "https://podcasts.apple.com/podcast/the-moon-cult-an-interview-with-former-top/id1603773245?i=1000569510134",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6005c0b8-6e3c-4e3f-8ed2-3517e1bacc2f",
+      "type": "Episode",
       "title": "Child-Centered Adoption: A Conversation with Dr. Joyce Maguire Pavao",
       "description": "Dr.\u00A0 Pavao is a psychologist, trained social worker, and licensed marriage and family therapist who is an internationally recognized expert in the field of adoption. An adoptee herself, she has been influential in moving adoption from a parent-centered process to a child-centered one. This in-depth interview is essential listening for all people who have been adopted, have a relationship with an adoptee, or have adopted a child. Open adoptions have become more commonplace and inexpensive DNA testing has allowed people to find biological relatives. But most people are not aware of the deep trauma that some children experience, even as grown adults. Mental health professionals, as well as teachers, will benefit from this fascinating discussion. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-04T00:00:00",
       "duration": "00:57:03.0590000",
       "explicit": false,
       "spotifyId": "2gq7IDIDN9O6HRjC9ZIPR0",
       "appleId": 1000568718557,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2gq7IDIDN9O6HRjC9ZIPR0",
         "apple": "https://podcasts.apple.com/podcast/child-centered-adoption-a-conversation-with-dr/id1603773245?i=1000568718557",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "71cce0d6-98a2-4d35-811c-710f84706374",
+      "type": "Episode",
       "title": "The National Center for Missing \u0026 Exploited Children (NCMEC): An In-Depth Discussion with Marsha Gilmer-Tullis",
       "description": "Founded by John and Rev\u00E9 Walsh (America\u0027s Most Wanted), the National Center (NCMEC) is the major resource to help children in America. Marsha Gilmer Tullis is a trained social worker and the Vice President of Family Advocacy. For anyone truly interested in helping children who are abducted, being trafficked, or being abused, this non-profit is THE go-to resource. Their center has experts from the FB, to Immigration and is a fantastic entity that deserves not only praise and contributions but more public exposure for its good work. There are millions of people who have been mobilized to save children from exploitation. Everyone should know about this agency that has helped children and their families for decades. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-27T00:00:00",
       "duration": "00:55:09.5050000",
       "explicit": false,
       "spotifyId": "1KdqnR9LOBnXJcIFhyYWsD",
       "appleId": 1000567803767,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1KdqnR9LOBnXJcIFhyYWsD",
         "apple": "https://podcasts.apple.com/podcast/the-national-center-for-missing-exploited-children/id1603773245?i=1000567803767",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "cfe92dbf-fa26-4912-bb15-691ddfcd3fc8",
+      "type": "Episode",
       "title": "Understanding High Conflict and Proven Solutions with Amanda Ripley",
       "description": "Amanda Ripley is the Co-Host of the Slate podcast How-To and is the best-selling author of High Conflict: Why We Get Trapped and How We \u0026 The Unthinkable.\u0027 This book was so well researched and easy to read and so interesting that in all of her research, it pretty much aligns with my experience. This is a fascinating conversation and helps to identify patterns characteristic of high conflict. She gave practical advice on how we can take steps ourselves to lower the temperature, and realize there is complexity in every situation.\u00A0 When people operate out of All or nothing/ us vs them thinking, polarization takes place. Curiosity, respect, and listening to each other with the goal of reaching a solution work well. We need to come together to do real problem solving- NOW! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-20T00:00:00",
       "duration": "00:57:20.0910000",
       "explicit": false,
       "spotifyId": "5mxVRtkNvDGXgH4WC2oYWX",
       "appleId": 1000567143882,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mxVRtkNvDGXgH4WC2oYWX",
         "apple": "https://podcasts.apple.com/podcast/understanding-high-conflict-and-proven-solutions/id1603773245?i=1000567143882",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "821b733b-ed50-4b52-b600-971256c15f34",
+      "type": "Episode",
       "title": "Combating Sex Trafficking with Survivor and Attorney Carissa Phelps",
       "description": "A leader in the anti-human trafficking movement, Carissa Phelps is a highly respected and impressive advocate to protect young people from pimps and traffickers. She has an MBA and JD from UCLA, had a documentary, Carissa, and a book, Runaway Girl: Escaping Life on the Streets One Helping Hand at a Time, and a company to help train survivors on how to educate and help victims. Carissa invited me to a law enforcement training and the first curriculum for survivors, championed by Rachel Thomas called Ending The Game was developed. If you care about helping to expose high-level traffickers, you must listen to this interview and understand the problem and what is being done. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-13T00:00:00",
       "duration": "00:54:02.5270000",
       "explicit": false,
       "spotifyId": "2OSfKms5YdhNR4tGbYnigU",
       "appleId": 1000566198887,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2OSfKms5YdhNR4tGbYnigU",
         "apple": "https://podcasts.apple.com/podcast/combating-sex-trafficking-with-survivor-and/id1603773245?i=1000566198887",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "37a08dea-7edc-4ead-b677-5b5de0116dc3",
+      "type": "Episode",
       "title": "Fighting for Victims of Multi-level Marketing (MLMs) with Douglas Brooks",
       "description": "Multi-level Marketing (MLMs) is a consumer protection challenge! The Direct Selling Association (DSA) is a powerful lobby influencing American politics. Attorney Douglas Brooks has championed victims of pyramid schemes and MLMs. We describe the critical things you need to know about to protect yourself and your loved ones. Are you concerned that Crypto uses the same formula as MLMs - buy into the \u201Cdream\u201D of making a fortune? For creators and early adopters, yes, it is possible to make money. But not for the vast majority\u2014they lose money and time and often relationships. A second 2-day Global virtual workshop will take place June 10/11. See mlmconference.com for speakers and recordings. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-06T00:00:00",
       "duration": "01:08:25.5340000",
       "explicit": false,
       "spotifyId": "0gNuJQGgYicRpTmpO5R66P",
       "appleId": 1000565333882,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gNuJQGgYicRpTmpO5R66P",
         "apple": "https://podcasts.apple.com/podcast/fighting-for-victims-of-multi-level-marketing-mlms/id1603773245?i=1000565333882",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e5fd6440-e755-484b-bb28-aa3ee95bfaa1",
+      "type": "Episode",
       "title": "The horror of school shootings and where we go from here with S.E. Cupp",
       "description": "S.E. Cupp is a nationally syndicated political columnist, culture critic, author, and CNN political commentator. In this episode, we talk about the horrific recent school shooting in Texas and the root causes as we see them. She talks about how she used to repeat the same talking points as other Republicans and what can be done as a country to avoid these tragedies in the future. We talk about other political current events and how we maintain good mental health during these troubled times. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-26T00:00:00",
       "duration": "00:57:02.3540000",
       "explicit": false,
       "spotifyId": "0vVIOAnzN5VXxwqpXLYSni",
       "appleId": 1000564103495,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0vVIOAnzN5VXxwqpXLYSni",
         "apple": "https://podcasts.apple.com/podcast/the-horror-of-school-shootings-and-where-we-go-from-here/id1603773245?i=1000564103495",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b6914f73-9754-4678-8988-5107b389002d",
+      "type": "Episode",
       "title": "The importance of election integrity with Jennifer Cohn",
       "description": "Jennifer Cohn is a writer, journalist, and election integrity advocate. Since the 2016 election, she\u2019s focused her professional efforts exclusively on investigating and exposing our country\u2019s insecure computerized elections. In this wide-ranging conversation, we talk about her work and steps that all of us can take in our own communities to uphold the integrity of our elections. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-23T00:00:00",
       "duration": "00:58:07.0330000",
       "explicit": false,
       "spotifyId": "3DOdEohx7XQaerx5hhTx69",
       "appleId": 1000563239707,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3DOdEohx7XQaerx5hhTx69",
         "apple": "https://podcasts.apple.com/podcast/the-importance-of-election-integrity-with-jennifer-cohn/id1603773245?i=1000563239707",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b731a23a-be04-4924-b704-da335b703d01",
+      "type": "Episode",
       "title": "The NXIVM cult with whistleblowers Sarah Edmondson and Anthony \u201CNippy\u201D Ames",
       "description": "Sarah Edmondson and Anthony \u201CNippy\u201D Ames are former members of the NXIVM cult but today are some of the most visible whistleblowers of the cult. They host the popular podcast \u201CA Little Bit Culty,\u201D and Sarah is the author of \u201CScarred: The True Story of How I Escaped NXIVM, the Cult That Bound My Life.\u201D In this wide-ranging conversation, we talk about NXIVM and the attributes we also find in other cults. We talk about human trafficking (what NXIVM cult leader Keith Raniere was convicted of) and how intelligent, educated people can fall victim to a cult leader. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here.  Remember to subscribe to ALL the Meidas Media Podcasts: MeidasTouch: https://pod.link/1510240831 Legal AF: https://pod.link/1580828595 The PoliticsGirl Podcast: https://pod.link/1595408601 The Influence Continuum: https://pod.link/1603773245 Kremlin File: https://pod.link/1575837599 Mea Culpa with Michael Cohen: https://pod.link/1530639447 Zoomed In: https://pod.link/1580828633 The Weekend Show: https://pod.link/1612691018  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-16T00:00:00",
       "duration": "00:58:35.6890000",
       "explicit": false,
       "spotifyId": "7t6AZ40WWvjKFEMSDbtbue",
       "appleId": 1000561534685,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7t6AZ40WWvjKFEMSDbtbue",
         "apple": "https://podcasts.apple.com/podcast/the-nxivm-cult-with-whistleblowers-sarah-edmondson/id1603773245?i=1000561534685",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "cd9ad3ee-bd1b-45e6-b8d5-7a49e1f087b4",
+      "type": "Episode",
       "title": "Living Well and Dying Well with Judith Stevens-Long, Ph.D",
       "description": "For this week\u2019s episode, we\u2019re focusing on the POSITIVE side of the Influence Continuum. I interview Judy Stevens-Long, Ph.D. Judy is a faculty emerita at Fielding Graduate University, where she served as Associate Dean for Curriculum Development from 2001-2008. She is an expert in developmental psychology and was my mentor for my doctoral program and oversaw my dissertation. Her research publications range from works on child development to work on death and dying. She is the author of \u201CLiving Well, Dying Well: A Guide to Choices, Costs, and Consequences\u201D (with co-author Dohrea Bardell). In this episode, we talk about death, but this is not a depressing episode! We talk about living a full life and choices we can make to improve our lives and make death less daunting. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-09T00:00:00",
       "duration": "01:00:49.7240000",
       "explicit": false,
       "spotifyId": "61mnOq6I9Fo3Rsn0pKPSZL",
       "appleId": 1000560020686,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61mnOq6I9Fo3Rsn0pKPSZL",
         "apple": "https://podcasts.apple.com/podcast/living-well-and-dying-well-with-judith-stevens-long-ph-d/id1603773245?i=1000560020686",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "26873aec-20ea-47ae-8388-85e536118453",
+      "type": "Episode",
       "title": "4th Generation Warfare and The Christian Right with James Scaminaci III",
       "description": "James Scaminaci III is an expert on 4th generation warfare. He has a Ph.D. from Stanford University in political sociology and is a retired US Navy Reserve intelligence officer. He was a senior civilian military intelligence analyst responsible for the Balkans and the former Soviet Union. Following the Balkan conflicts of the 1990s, from outside and inside the former Yugoslavia, James learned a great deal about how political and religious ideologies interact and combine into ethno-nationalist projects that delegitimize left-wing governing philosophies (that often end in genocide).  His expertise on 4th generation warfare has wide-reaching implications for today. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-02T00:00:00",
       "duration": "00:52:32.6130000",
       "explicit": false,
       "spotifyId": "5xiROEcUX9vc2kEjcWJW8F",
       "appleId": 1000559303985,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5xiROEcUX9vc2kEjcWJW8F",
         "apple": "https://podcasts.apple.com/podcast/4th-generation-warfare-and-the-christian-right/id1603773245?i=1000559303985",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "d059d097-ccb4-4bbd-bb49-315e831c4605",
+      "type": "Episode",
       "title": "The roots of racism in the Christian Right with John Collins",
       "description": "John Collins grew up as \u201Croyalty\u201D in the William Branham \u201CMessage\u201D cult. He has worked tirelessly to understand and reveal its true history with the KKK and its influence on modern Pentecostalism today. He has authored two books and built an incredible website to expose the facts of this criminal, white supremacist, misogynistic cult. John helps us realize an essential part of American authoritarianism which to this day has an international following. By freeing himself from the mental and emotional damage he suffered as a child growing up in that atmosphere, he can help millions realize they were following a false prophet, believing they are just being \u201CChristian.\u201D There is a growing movement of people realizing it was really about power, money, sex and politics, and not religion. They are exiting and reclaiming their own\u00A0\u201CFreedom of Mind!\u201D Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here.  Remember to subscribe to ALL the Meidas Media Podcasts: MeidasTouch: https://pod.link/1510240831 Legal AF: https://pod.link/1580828595 The PoliticsGirl Podcast: https://pod.link/1595408601 The Influence Continuum: https://pod.link/1603773245 Kremlin File: https://pod.link/1575837599 Mea Culpa with Michael Cohen: https://pod.link/1530639447 Zoomed In: https://pod.link/1580828633 The Weekend Show: https://pod.link/1612691018 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-04-25T00:00:00",
       "duration": "01:02:09.5020000",
       "explicit": false,
       "spotifyId": "6T2Q1QMD4z0VeWGUSbs0KN",
       "appleId": 1000558577675,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6T2Q1QMD4z0VeWGUSbs0KN",
         "apple": "https://podcasts.apple.com/podcast/the-roots-of-racism-in-the-christian-right-with-john-collins/id1603773245?i=1000558577675",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "9cc63157-9941-468f-8d9e-9355dd890b7b",
+      "type": "Episode",
       "title": "How we Fight Human Trafficking With Paul Chang",
       "description": "Paul Chang serves as a Regional Anti-Human Trafficking Coordinator at the U.S. Department of Labor \u2013 Wage and Hour Division. In his 25\u002B years with the agency, Paul worked on some of the most notorious cases as an investigator and Assistant District Director. He\u2019s developed numerous training materials and programs that also utilize my BITE Model and Influence Continuum. He has also been on a special assignment to the White House Initiative on Asian Americans Native Hawaiians and Pacific Islanders (WHIAANHPI) since 2013 where he currently serves as the National Co-Chair of the Regional Network.  Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here.  Remember to subscribe to ALL the Meidas Media Podcasts: MeidasTouch: https://pod.link/1510240831 Legal AF: https://pod.link/1580828595 The PoliticsGirl Podcast: https://pod.link/1595408601 The Influence Continuum: https://pod.link/1603773245 Kremlin File: https://pod.link/1575837599 Mea Culpa with Michael Cohen: https://pod.link/1530639447 Zoomed In: https://pod.link/1580828633 The Weekend Show: https://pod.link/1612691018 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-04-18T00:00:00",
       "duration": "01:03:55.8980000",
       "explicit": false,
       "spotifyId": "1kAXbVV31MuXyLa25XeIFD",
       "appleId": 1000557890676,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1kAXbVV31MuXyLa25XeIFD",
         "apple": "https://podcasts.apple.com/podcast/how-we-fight-human-trafficking-with-paul-chang/id1603773245?i=1000557890676",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "21939be9-4470-47bd-bbf2-461bd25f4c7a",
+      "type": "Episode",
       "title": "Traditionalist ideology: From Ginni Thomas to Vladimir Putin",
       "description": "n this episode, I interview Joe Szimhart. Joe is a cult information specialist I have known for decades. He is also an author and knows a great deal about psychology. Joe appears in the unearthed 1986 former member video I recently shared as a former CUT and Agni Yoga member. Like me, Joe is a former cult member who uses his experience to help others understand and reevaluate destructive cults. Joe and I talk about current events and cult behaviors we recognize all over the world. We talk about Clarence Thomas\u2019s wife Ginni, her deprogrammer Kevin Garvey, Vladimir Putin, and the ideology that binds them.  For more of Joe\u2019s work, visit his website: jszimhart.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-04-11T00:00:00",
       "duration": "00:46:51.8460000",
       "explicit": false,
       "spotifyId": "4fI0m5TgzFjxULeOyVXT2j",
       "appleId": 1000557112669,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4fI0m5TgzFjxULeOyVXT2j",
         "apple": "https://podcasts.apple.com/podcast/traditionalist-ideology-from-ginni-thomas-to-vladimir/id1603773245?i=1000557112669",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "1cb4bc96-b4cb-4ff9-bd32-499a2bffa0e5",
+      "type": "Episode",
       "title": "Ginni Thomas\u2019s Cultic Past",
       "description": "A tweet thread I wrote about Supreme Court Justice Clarence Thomas\u2019s wife Ginni went VIRAL two days ago. I shared a video from 1986 few people have seen from a conference for former cult members. Ginni Thomas spoke in this video about her past experience in a cult. Ginni later went on to do a great deal of anti-cult work, but as is the case with so many former members, she joined a new authoritarian cult (The Cult of Trump). Steve is interviewed by Freedom of Mind\u2019s own Dan McCollister about the issues surrounding Ginni Thomas. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here.  Remember to subscribe to ALL the Meidas Media Podcasts: MeidasTouch: https://pod.link/1510240831 Legal AF: https://pod.link/1580828595 The PoliticsGirl Podcast: https://pod.link/1595408601 The Influence Continuum: https://pod.link/1603773245 Kremlin File: https://pod.link/1575837599 Mea Culpa with Michael Cohen: https://pod.link/1530639447 Zoomed In: https://pod.link/1580828633 The Weekend Show: https://pod.link/1612691018 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-04-02T00:00:00",
       "duration": "00:54:46.4650000",
       "explicit": false,
       "spotifyId": "6r3ROF5d3nAW7503AtY5Px",
       "appleId": 1000556037460,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6r3ROF5d3nAW7503AtY5Px",
         "apple": "https://podcasts.apple.com/podcast/ginni-thomass-cultic-past/id1603773245?i=1000556037460",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "43cd05dc-4cae-4074-9078-a3bf6e5a48ab",
+      "type": "Episode",
       "title": "Mind Control Used on Indigenous People to Colonize Them with Dr. Cindy Blackstock",
       "description": "Dr. Cindy Blackstock is Gixtan native in Canada, Professor of Social Work at McGill University, and Executive Director of First Nations Child \u0026 Family Caring Society. I collaborated with Dr. Blackstock for the presentation \u201CMind Control and Colonization.\u201D With her help, I\u2019ve come to realize that the same mind control I\u2019ve studied for 45\u002B years exerted by cult leaders has unquestionably been exerted and is still exerted on Indigenous People. In this fascinating conversation, we talk about this vital issue through this underreported lens. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-03-28T00:00:00",
       "duration": "01:02:26.4290000",
       "explicit": false,
       "spotifyId": "4LKCl3K5JQ8TDk8zcvhLpg",
       "appleId": 1000555465693,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LKCl3K5JQ8TDk8zcvhLpg",
         "apple": "https://podcasts.apple.com/podcast/mind-control-used-on-indigenous-people-to-colonize/id1603773245?i=1000555465693",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "66802808-898f-45ed-a56f-faf18e9e70fa",
+      "type": "Episode",
       "title": "Mental Health and Forensics: Psychiatry and the Law with Dr. Thomas Gutheil",
       "description": "Dr. Thomas Gutheil is an internationally known forensic psychiatrist and author of over 300 publications. He is a Professor of Psychiatry and co-founder of the Program in Psychiatry and the Law (PIPATL) associated with Harvard Medical School. In this interview, we talk about how he got interested in psychiatry, what makes a mentoring relationship ethical and successful, and most importantly, his help in helping to establish a clear understanding of undue influence which can be used to promote justice. \uFEFFLearn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-03-21T00:00:00",
       "duration": "00:47:04.9070000",
       "explicit": false,
       "spotifyId": "2hkpukgRCo1JAL8OoKK3ir",
       "appleId": 1000554690145,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2hkpukgRCo1JAL8OoKK3ir",
         "apple": "https://podcasts.apple.com/podcast/mental-health-and-forensics-psychiatry-and-the-law/id1603773245?i=1000554690145",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "00bfd51e-c56a-4571-b5b6-996b8d82c4c7",
+      "type": "Episode",
       "title": "Christian Dominionism with Frederick Clarkson",
       "description": "Frederick Clarkson is one of the foremost experts on Christian Dominionism in the United States (\u201CDominionism\u201D is the theocratic idea that Christians are called by God to exercise dominion over every aspect of society by taking control of political and cultural institutions). Fred is a journalist and the author of the classic \u0022Eternal Hostility: The Struggle Between Theocracy and Democracy.\u0022 He broke the story of Project Blitz, a coalition of conservative Christian groups working to enact Dominionist legislation in state \u0026 local legislatures across the U.S., and helped set up BlitzWatch.org to monitor, track, and defeat attempts by Christian Nationalists to implement their distorted view of religious freedom. In this interview, we talk about the contemporary politics of Dominionism. We talk about how we got here and why Dominionists are exerting so much power and influence in public life. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-03-14T00:00:00",
       "duration": "01:08:17.7240000",
       "explicit": false,
       "spotifyId": "4WQiNynAewGUPpCHKtfh8x",
       "appleId": 1000553915084,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4WQiNynAewGUPpCHKtfh8x",
         "apple": "https://podcasts.apple.com/podcast/christian-dominionism-with-frederick-clarkson/id1603773245?i=1000553915084",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "06f044b5-658b-41b1-8a7d-faf598cff9a6",
+      "type": "Episode",
       "title": "Terrorism expert Anne Speckhard on ISIS and White Supremacy",
       "description": "Anne Speckhard is an Adjunct Associate Professor of Psychiatry at Georgetown University\u0027s Medical School in Washington D.C. Her research focuses on developing counter-terrorism initiatives and understanding the motivations of terrorists. In this talk, we discuss what ISIS members and white supremacists have in common and how effective counterterrorism efforts use\u00A0psychology. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-03-07T00:00:00",
       "duration": "00:50:21.5570000",
       "explicit": false,
       "spotifyId": "2WfTZIQoFOuezQhBu2Mfsk",
       "appleId": 1000553181052,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2WfTZIQoFOuezQhBu2Mfsk",
         "apple": "https://podcasts.apple.com/podcast/terrorism-expert-anne-speckhard-on-isis-and-white/id1603773245?i=1000553181052",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c1526cf9-e495-46aa-b849-1eb920db50f8",
+      "type": "Episode",
       "title": "Using Social Psychology to teach heroism with Matthew Winkler",
       "description": "Matthew Winkler Is the program manager for the Heroic Imagination Project. Founded by seminal social psychologist Philip Zimbardo (Stanford Prison Experiment), The Heroic Imagination Project provides training for individuals and groups using groundbreaking scientific research and experiential training workshops. Matthew Winkler has taught and mentored teenagers at middle schools, high schools, and colleges in New York, New England, China, and Japan. His viral TED-Ed video \u201CWhat Makes a Hero,\u201D snowballed into his first book \u201CMentoring Teenage Heroes: The Hero\u2019s Journey of Adolescence.\u201D Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-28T00:00:00",
       "duration": "00:56:27.9770000",
       "explicit": false,
       "spotifyId": "4hzzR6Zm9ivstqZFCYLxBa",
       "appleId": 1000552417987,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4hzzR6Zm9ivstqZFCYLxBa",
         "apple": "https://podcasts.apple.com/podcast/using-social-psychology-to-teach-heroism-with-matthew/id1603773245?i=1000552417987",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "d9d1597b-a60c-49d7-8dd6-7e973df4a2ea",
+      "type": "Episode",
       "title": "Conspiracy Theories and how to talk to people who\u2019ve become lost in them with debunker Mick West",
       "description": "Mick West is a science writer, skeptical investigator, and creator of the websites Contrail Science and Metabunk. West investigates and debunks pseudoscientific claims and conspiracy theories such as chemtrails and UFO\u2019s. To help people out of these dead ends, he advocates a kind, patient approach similar to my Strategic Interactive Approach. His first book is Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-21T00:00:00",
       "duration": "01:04:27.3240000",
       "explicit": false,
       "spotifyId": "53RFlDd1MpeWuhq5GtXux1",
       "appleId": 1000551737588,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/53RFlDd1MpeWuhq5GtXux1",
         "apple": "https://podcasts.apple.com/podcast/conspiracy-theories-and-how-to-talk-to-people-whove/id1603773245?i=1000551737588",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "29c3153f-a83a-48c7-afb2-090f780f2b53",
+      "type": "Episode",
       "title": "The Jehovah\u0027s Witnesses Cult with Mark and Kimberly O\u0027Donnell",
       "description": "Mark and Kimberly O\u0027Donnell are former Jehovah\u0027s Witnesses who\u2019ve become some of the loudest whistleblowers of the cult. They were prominently featured in the Vice Documentary \u201CThe Crusaders,\u201D highlighting rampant child sexual abuse in the cult. They continue to speak out today and work with former members working to recover from undue influence. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-14T00:00:00",
       "duration": "00:57:52.6400000",
       "explicit": false,
       "spotifyId": "3c3wROEgnkgPxhcXxK9BHA",
       "appleId": 1000551009164,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3c3wROEgnkgPxhcXxK9BHA",
         "apple": "https://podcasts.apple.com/podcast/the-jehovahs-witnesses-cult-with-mark/id1603773245?i=1000551009164",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "07907df8-1713-490f-b5a4-a6eb2793bcd8",
+      "type": "Episode",
       "title": "Terrorists are cult members with Malcolm Nance",
       "description": "Malcolm Nance was a career counterterrorism and intelligence officer for the U.S. government\u2019s Special Operations, Homeland Security, and Intelligence agencies. He has over 33 years of experience combating radical extremism. While researching Al-Qaeda, Nance referenced my BITE Model in his book, Defeating ISIS. He (accurately) labels ISIS a terrorist \u201Ccult.\u201D His latest book is They Want to Kill Americans: The Militias, Terrorists, and Deranged Ideology of the Trump Insurgency. Nance is a frequent media contributor and counterterrorism analyst. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-07T00:00:00",
       "duration": "01:04:39.8880000",
       "explicit": false,
       "spotifyId": "7jnolc72nIKr8zSYqdOgqN",
       "appleId": 1000550281129,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jnolc72nIKr8zSYqdOgqN",
         "apple": "https://podcasts.apple.com/podcast/terrorists-are-cult-members-with-malcolm-nance/id1603773245?i=1000550281129",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "1740da31-89ec-47f1-8423-34fb3b7808d4",
+      "type": "Episode",
       "title": "Positively influencing your kids with parenting expert Molly Brown Koch",
       "description": "Molly Brown Koch has been leading parenting workshops for over 60 years. She is the author of the award-winning book, \u201C27 Secrets to Raising Amazing Children.\u201D When I was about to become a parent, I read this book and have been relying on its wisdom for many years. At 94 years young, Koch has been a respected voice on ethical parenting for decades. In this conversation, she highlights her main ideas about parenting and shares interesting stories from her past. I have been recommending this book to second-generation former cult members in my work. I do this because when they read it, they realize what healthy parenting should have been and it helps them for their future with their children. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-02T00:00:00",
       "duration": "01:00:45.8840000",
       "explicit": false,
       "spotifyId": "6VHoHWkm4GEW0T06HwTmJY",
       "appleId": 1000549792512,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VHoHWkm4GEW0T06HwTmJY",
         "apple": "https://podcasts.apple.com/podcast/positively-influencing-your-kids-with-parenting-expert/id1603773245?i=1000549792512",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "d8b074c0-f855-43ca-be1a-e0f05fb672fe",
+      "type": "Episode",
       "title": "Opening Minds, and The Cult of Scientology with leading authority Jon Atack",
       "description": "Jon Atack is generally acknowledged as the world\u0027s leading authority on the cult of Scientology. He spent nine years in the cult, training as an \u0027auditor\u0027 and becoming \u0027OT V.\u2019 He\u2019s the author of the definitive biography of Ron Hubbard, \u201CLet\u2019s Sell These People a Piece of Blue Sky.\u201D His new book \u0022Opening Minds,\u0022 is a must-read that helps explain undue influence and in particular, how to protect yourself from predators. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-31T00:00:00",
       "duration": "01:04:21.4720000",
       "explicit": false,
       "spotifyId": "33cxHf6mMFuAaVvV7yTTkz",
       "appleId": 1000549499065,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/33cxHf6mMFuAaVvV7yTTkz",
         "apple": "https://podcasts.apple.com/podcast/opening-minds-and-the-cult-of-scientology/id1603773245?i=1000549499065",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3777a263-6a6b-4fe8-a366-a3e39e255a5f",
+      "type": "Episode",
       "title": "\u201CThe Dangerous Case of Donald Trump\u201D and the censorship of mental health experts in the media with Dr. Bandy X. Lee",
       "description": "Dr. Bandy Lee is a forensic psychiatrist and a renowned expert on violence. Dr. Lee taught at Yale and Yale Law School from 2003-2020 and became known to the public by leading a group of mental health experts in breaking the silence about the dangerous mental impairments of Donald Trump. She edited the book \u201CThe Dangerous Case of Donald Trump,\u201D with 37 experts weighing in on their concerns about Trump. She\u2019s been heavily censored in the media due to the American Psychiatric Association citing \u201CThe Goldwater Rule\u201D, but they are a private institution and have power only over their members. Dr. Lee is not a member. Nevertheless, Dr. Lee believes that all medical professionals have a \u201Cduty to warn.\u201D In this fascinating conversation, we talk about a wide range of topics. She too believes that trained mental health professionals are a valued resource in the media and are not called on to help the public enough. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-26T00:00:00",
       "duration": "00:46:30.1910000",
       "explicit": false,
       "spotifyId": "4j8Wn0BXPAwYypTPOqJvhG",
       "appleId": 1000549091531,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4j8Wn0BXPAwYypTPOqJvhG",
         "apple": "https://podcasts.apple.com/podcast/the-dangerous-case-of-donald-trump-and/id1603773245?i=1000549091531",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6aaba212-7d9d-4865-8b2a-e036d7c626d1",
+      "type": "Episode",
       "title": "The cult of Mormonism with excommunicated whistleblower Dr. John Dehlin",
       "description": "John Dehlin is a 6th generation member of the Church of Latter-Day Saints (LDS). He is an American psychologist, podcast host, and excommunicated member of the Mormon church. He was excommunicated by the church for speaking out in support of gay rights. Dehlin is the host of the popular \u201CMormon Stories\u201D podcast, a podcast he created in 2005. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-24T00:00:00",
       "duration": "01:11:02.9740000",
       "explicit": false,
       "spotifyId": "2TgijJJA2A2kRx2tT4nr6G",
       "appleId": 1000548790189,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2TgijJJA2A2kRx2tT4nr6G",
         "apple": "https://podcasts.apple.com/podcast/the-cult-of-mormonism-with-excommunicated/id1603773245?i=1000548790189",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "cfa3a0f2-93a4-4e69-8f0f-701dcdd9de44",
+      "type": "Episode",
       "title": "The ethical side of the influence continuum! How to harness positive influence in your life and the life of others with Dr. Laurence Sugarman.",
       "description": "In this episode, Steve shares a paradigm shift taking place in mind-body medicine. He talks with pediatrician and Research Professor and Director of the Center for Applied Psychophysiology and Self-regulation (CAPS) at the Rochester Institute of Technology, Laurence Sugarman M.D. Sugarman talks about a new conceptualization of mind-body healing and hypnotic approaches one can use to improve their own life or the life of others. He proposes a new model of healthcare that differs greatly from our disease-based system. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-19T00:00:00",
       "duration": "00:58:52.2250000",
       "explicit": false,
       "spotifyId": "76yaeLAOCNDjsQFOlmGutr",
       "appleId": 1000548321552,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/76yaeLAOCNDjsQFOlmGutr",
         "apple": "https://podcasts.apple.com/podcast/the-ethical-side-of-the-influence-continuum-how/id1603773245?i=1000548321552",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7f483a1e-14f4-46af-a5ce-490eafac8dc3",
+      "type": "Episode",
       "title": "How we got here; the history of right-wing extremism and the groups and themes still with us today with Dave Troy",
       "description": "Dave Troy is a disinformation researcher, tech-entrepreneur, TEDxMidAtlantic curator, and data visualization expert. In this episode, he takes us on a journey through American history-starting in the Great Depression and spanning all the way to today. We learn how extremist groups like the John Birch Society have pushed for very specific monetary policy in America and how this intersects with oil company money and the current cryptocurrency movement. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-17T00:00:00",
       "duration": "01:01:13.7560000",
       "explicit": false,
       "spotifyId": "6dczZ2ex39vm8q3626mcUq",
       "appleId": 1000548090528,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6dczZ2ex39vm8q3626mcUq",
         "apple": "https://podcasts.apple.com/podcast/how-we-got-here-the-history-of-right-wing/id1603773245?i=1000548090528",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3eb471eb-b242-41d9-bc84-37bfa1b99a7a",
+      "type": "Episode",
       "title": "Dr. Robert Jay Lifton on current affairs and the importance of survivors telling their stories",
       "description": "On today\u2019s episode, Dr. Hassan interviews Dr. Robert Jay Lifton, author of the seminal 1961 book, \u201CThought Reform and the Psychology of Totalism\u201D about Chinese brainwashing programs under Mao. Dr. Lifton, now 95 years old, mentored Hassan starting in 1976 and it was his 8 criteria of thought reform or mind control that was the foundation for all subsequent work. Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-12T00:00:00",
       "duration": "00:37:33.1130000",
       "explicit": false,
       "spotifyId": "6ZsrePevx4DfRkCRbvX4pJ",
       "appleId": 1000547638793,
       "youTubeId": null,
-      "subjects": [
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ZsrePevx4DfRkCRbvX4pJ",
         "apple": "https://podcasts.apple.com/podcast/dr-robert-jay-lifton-on-current-affairs-and/id1603773245?i=1000547638793",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Psychology"
+      ]
     },
     {
       "id": "35b4ba68-609c-498d-a64e-4ba9f40f61b8",
+      "type": "Episode",
       "title": "Introduction to the Influence Continuum",
       "description": "In this episode, Dr. Steven Hassan will introduce himself and will bring you up to speed on what brought him to study, write, and help people out of destructive mind-control cults for the last 45 years. While there are many podcasts by former members, Hassan is unique as a cult survivor, and mental health expert, with 45 years of field experience. He\u2019ll preview what the podcast will be about and guests he will interview.  Learn more about Dr. Steven Hassan\u0027s work and find more resources at his website FreedomOfMind.com. Follow Dr. Hassan on Twitter here. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-10T00:00:00",
       "duration": "00:56:56.2930000",
       "explicit": false,
       "spotifyId": "6OScFMyKlUVCiM0lliPpFR",
       "appleId": 1000547393920,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6OScFMyKlUVCiM0lliPpFR",
         "apple": "https://podcasts.apple.com/podcast/introduction-to-the-influence-continuum/id1603773245?i=1000547393920",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "f404c4b8-f961-4969-99a1-bbc3fedacf58",
+      "type": "Episode",
       "title": "The Influence Continuum with Dr. Steven Hassan - Trailer",
       "description": "The Influence Continuum with Dr. Steven Hassan begins Monday, January 10, 2022. New episodes weekly. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-07T00:00:00",
       "duration": "00:00:30.3800000",
       "explicit": false,
       "spotifyId": "2Pgi6a6J0svbHJY7Tt7qA1",
       "appleId": 1000547165178,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Pgi6a6J0svbHJY7Tt7qA1",
         "apple": "https://podcasts.apple.com/podcast/the-influence-continuum-with-dr-steven-hassan-trailer/id1603773245?i=1000547165178",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     }
-  ]
+  ],
+  "fileKey": "the_influence_continuum_with_dr_steven_hassan"
 }

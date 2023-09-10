@@ -1,1259 +1,1578 @@
 {
   "id": "01d4de78-e090-4994-ab83-106b2c11ef21",
+  "type": "Podcast",
   "name": "The Truth that Heals",
+  "publisher": "Ryan Anthony Hernandez",
+  "hasBundledEpisodes": false,
+  "indexAllEpisodes": true,
+  "primaryPostService": "YouTube",
   "spotifyId": "2QKA0Oh6qJuOc4OAU55MXm",
   "appleId": 1559758565,
   "youTubeChannelId": "UCDspcPEdITAadgtJGBMvzZA",
+  "youTubePublicationDelay": "0:01:00:00",
+  "titleRegex": "",
+  "descriptionRegex": "",
+  "episodeMatchRegex": "",
   "episodes": [
     {
+      "id": "75e5e75e-6f65-44fe-838e-ea3e2e591a84",
+      "type": "Episode",
+      "title": "Finding Light After Darkness. Healing After Abuse. Interview with Twana Lawler",
+      "description": "In today\u0027s episode on The Truth That Heals Podcast I was able to listen to the powerful story of Twana Lawler. She is a strong woman who was has faced lots of pain and suffering in this life. But that hasn\u0027t stopped her from trying to live the best life that she can. She shares about the tragedies she has experienced in life, from abuse to disease. Today, she shares her story to bring hope to people through her poetry, her screenplays, and through motivational talks. For more about Twana you can find information about her at this link:       www.twanalawler.net   To support The Truth That Heals Podcast check out my links: Linktree: https://linktr.ee/truththathealspod Patreon: https://www.patreon.com/Truththathealspodcast/posts  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-09T00:00:00",
+      "duration": "00:46:37.7910000",
+      "explicit": true,
+      "spotifyId": "5shBrGrzAvao8wYxqVr3TS",
+      "appleId": 1000627284747,
+      "youTubeId": "_7o5hw9eDRs",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5shBrGrzAvao8wYxqVr3TS",
+        "apple": "https://podcasts.apple.com/podcast/finding-light-after-darkness-healing-after-abuse-interview/id1559758565?i=1000627284747",
+        "youtube": "https://www.youtube.com/watch?v=_7o5hw9eDRs"
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
       "id": "6190a11a-ebba-4a41-ba12-1a18b93f5cad",
+      "type": "Episode",
       "title": "Interview with Peter Young: Escaping from a Family Guru",
       "description": "Today\u0027s episode is a conversation with author Peter Young who talks with us about his book Stop The Tall Man, Save The Tiger: A Memoir as well as his experiences inside a family cult lead by a family guru. It is a powerful true story on Faith, Family, and Friendship. For more information on Peter Young check out his website:  www.authorpeteryoung.com Order a copy of his book today!  https://a.co/d/jgV1Zay  Don\u0027t forget to subscribe to The Truth That Heals Podcast. Your subscription matters :) If you would like to support this podcast feel free to check out my links Linktree: https://linktr.ee/truththathealspod Patreon: https://www.patreon.com/Truththathealspodcast/posts  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": true,
+      "ignored": false,
       "release": "2023-09-02T00:00:00",
       "duration": "00:36:01.0880000",
       "explicit": false,
       "spotifyId": "3ShdrTQoeNVgDySSJLsNlP",
       "appleId": 1000626530570,
       "youTubeId": "P6YK6FnjCWc",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ShdrTQoeNVgDySSJLsNlP",
         "apple": "https://podcasts.apple.com/us/podcast/interview-with-peter-young-escaping-from-a-family-guru/id1559758565?i=1000626530570\u0026uo=4",
         "youtube": "https://www.youtube.com/watch?v=P6YK6FnjCWc"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "a6c0d607-cbcd-4e42-811f-83dd9b183ae0",
+      "type": "Episode",
       "title": "Grieving the Loss of a Child: Interview with Barbara Legere",
       "description": "In this episode we discuss the pain of losing a child and healing through the painful journey. Here is some more information on Barbara Legere and where you can order a copy of her bookswww.barbaralegere.com Talk to Me I\u0027m Grieving: Buy Best Books about Grief For Adults Online | Barbara Legere https://www.barbaralegere.com/bookshttps://www.amazon.com/Kevens-Choice-Mothers-Journey-Addiction/dp/1956955143/ref=tmm_pap_swatch_0?_encoding=UTF8\u0026qid=1689022350\u0026sr=8-3https://smile.amazon.com/Kevens-Choice-Mothers-Journey-Addiction-ebook/dp/B09WL1QP6G/ref=cm_cr_arp_d_product_top?ie=UTF8https://smile.amazon.com/Epiphanies-Project-Twenty-Personal-Revelations/dp/1737664607/ref=sr_1_2?crid=21NJZ5COOB0C\u0026dchild=1\u0026keywords=the\u002Bepiphanies\u002Bproject\u002Btwenty\u002Bpersonal\u002Brevelations\u0026qid=1635816346\u0026qsid=139-9401714-6508403\u0026sprefix=the\u002Bepiph%2Caps%2C671\u0026sr=8-2\u0026sres=1737664607%2CB0012JK8UA%2CB003X4E4CU%2CB004XCQWLM%2CB009B1ENUM%2CB01MRDNCF1%2CB06WRX54YG%2CB01N5QBUUT%2CB01K54Z834%2CB09BPJJGRB%2CB001CE3XWA%2CB01N9JCM46%2CB08HGMFJT8%2CB01465C1E2%2CB09CGRR8VS%2CB007V80OCI\u0026srpt=ABIS_BOOK Social, podcasts, articles: https://linktr.ee/BarbaraLegere925  If you would like to support The Truth That Heals Podcast check out my links. I also have a Patreon which you can help support:Linktree: https://linktr.ee/truththathealspodPatreon: https://www.patreon.com/Truththathealspodcast/posts  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-18T00:00:00",
       "duration": "00:41:23.3280000",
       "explicit": true,
       "spotifyId": "4dgLHilo1JHO8FAfalJyBR",
       "appleId": 1000624861057,
       "youTubeId": "kxV46sh-tVA",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4dgLHilo1JHO8FAfalJyBR",
         "apple": "https://podcasts.apple.com/podcast/grieving-the-loss-of-a-child-interview-with-barbara-legere/id1559758565?i=1000624861057",
         "youtube": "https://www.youtube.com/watch?v=kxV46sh-tVA"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "404aac5e-cdeb-4b9d-adf5-82d3046af082",
+      "type": "Episode",
       "title": "The Difficulties of Leaving an End Times Cult and Finding Healing",
       "description": "Once you are in an End Times Cult it\u0027s as if you have been frozen in time. All you look forward to are persecutions and THE END. After being inside for so long I finally found my freedom however I soon discovered that I still felt trapped. I felt like a prisoner and a part of me wanted to go back to the cult. I didn\u0027t have any life skills. I didn\u0027t have any idea of what the real world was like. I was trained, or programmed, to look at education and relationships as something toxic. It took quite a while for me to untangle my thoughts from the lies and to finally break free and find peace with life in the outside world. While I thought I was preparing for the end I now look back and think how controlling the community leaders were to the point that we had to see abuse as a gift from God, or as a reflection of God\u0027s infinite love.I want to share my story as well as the dirty side of my story such as the depression, the loneliness, the heartaches, so that the viewer may understand what life is like for someone who has left an end times cult. Not everyone went through what I experienced however I am sure that there are many who left not knowing what to do with their life. Feeling like you were hated by God, hated by the community, and that your life was damned. If the cult leaders are in charge of the narrative you will only see doom and gloom. It is my hope that survivors of cult abuse, of abuse within a Catholic Community that pretends to follow Christ while beating the members, it is my hope that survivors take back the narrative and live their life with peace. These cult leaders even wounded my religious faith nonetheless I have been on a path towards healing, forgiveness, love, and courage.To support my journey and my channel check out my links:Linktree: https://linktr.ee/truththathealspodPatreon: https://www.patreon.com/Truththathealspodcast/posts  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-09T00:00:00",
       "duration": "00:25:00.8890000",
       "explicit": true,
       "spotifyId": "5XSp4ZXOofjk8nqMFTwtF8",
       "appleId": 1000623944715,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5XSp4ZXOofjk8nqMFTwtF8",
         "apple": "https://podcasts.apple.com/podcast/the-difficulties-of-leaving-an-end-times/id1559758565?i=1000623944715",
         "youtube": "https://www.youtube.com/watch?v=ebhLpaTxsaE"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2d989c74-157f-44a2-90dc-a6e26816cb59",
+      "type": "Episode",
       "title": "The Guru- Interview with Annabel",
       "description": "In today\u0027s episode you will hear me interviewing Annabel who shares her story of what life was when she started her involvement with a particular group (cult), how life was like inside the community, as well as how life was like after leaving. Thank you for listening to The Truth That Heals Podcast! To support my journey and my channel check out my links: Linktree: https://linktr.ee/truththathealspod Patreon: https://www.patreon.com/Truththathealspodcast/posts  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-05T00:00:00",
       "duration": "00:54:34.1110000",
       "explicit": true,
       "spotifyId": "2UJANwQsUtQzt06Gu31MAr",
       "appleId": 1000623498363,
       "youTubeId": null,
-      "subjects": [
-        "Children of God/Family International",
-        "Odyssey Study Group",
-        "Vishwananda"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2UJANwQsUtQzt06Gu31MAr",
         "apple": "https://podcasts.apple.com/podcast/the-guru-interview-with-annabel/id1559758565?i=1000623498363",
         "youtube": "https://www.youtube.com/watch?v=XCTiMYgUX1g"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Children of God/Family International",
+        "Odyssey Study Group",
+        "Vishwananda"
+      ]
     },
     {
       "id": "92c10890-4b40-429c-8dfa-f255e40a1762",
+      "type": "Episode",
       "title": "A Discussion On Purity Culture",
       "description": "Purity Culture has been coming up a lot lately in my quest to understand life, religion, trauma, and healing. To get a better understanding of what this culture was like I sat down and discussed this theme with Erin so that my understanding of it would be clearer. We talked about some of the good things regarding purity, but, we also talked about the things that many don\u0027t want to be talked about, or, the dark side of purity culture. While many may think that Purity Culture only focuses on staying virgin one will begin to see that there is a lot of judgement and shaming in this environment. Also, in many instances, the youth are being formed to look upon the body as something dirty. Many who are brought up in the system of purity have neglected other Christian virtues such as patience and kindness. Also, there seems to be a strong rush to condemn and beat down on those who don\u0027t reach the standards of purity which opens the door for shame and at times even trauma depending on the scenario.  Check out my links and please support my channel. Like, Subscribe, and please share as this all helps me to grow! Thank you!   https://linktr.ee/truththathealspod?utm_source=linktree_profile_share",
+      "posted": true,
+      "ignored": false,
       "release": "2023-07-22T00:00:00",
       "duration": "00:56:44.5760000",
       "explicit": true,
       "spotifyId": "12BMTB3a982uFHbEzVnMnU",
       "appleId": 1000621963639,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/12BMTB3a982uFHbEzVnMnU",
         "apple": "https://podcasts.apple.com/podcast/a-discussion-on-purity-culture/id1559758565?i=1000621963639",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4b109daa-a204-479b-8afe-6acfcc5b276e",
+      "type": "Episode",
       "title": "The Cult\u0027s Views on Purity and Control",
       "description": "One of the hardest things for me to do is to breakdown the story of my cult experience in a way that is not complicated or all over the place. My journey inside the cult has been difficult at times to talk about, even to this day, but for me to tell my story I believe that it is best to simplify things to make the cult experience understandable for those who were not members. In no way is this episode an attempt to bash those who seek to live a life of purity and who cherish the chaste life. Not at all. Instead I simply wish to shed light on how the cult and leaders used purity as a way to bring guilt, control, and even fear upon members. It was even used as a tactic to recruit members by telling young adults that if they didn\u0027t \u0022try God first they would regret it.\u0022 Hopefully by listening to this episode people, including former cult members, will understand that there was a lot of abuse of power as well as terrible spiritual direction on the part of some of the superiors within the group. It is my desire by sharing my story that people will understand what we went through and that if there are people who feel guilt or shame from the experience may find freedom from the psychological, and at times physical, torture we endured. To support my journey and my channel check out my links: Linktree: https://linktr.ee/truththathealspod Patreon: https://www.patreon.com/Truththathealspodcast/posts  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": true,
+      "ignored": false,
       "release": "2023-07-19T00:00:00",
       "duration": "00:36:28.9910000",
       "explicit": true,
       "spotifyId": "43Ncj7y5GLTcyWnSSW7QK6",
       "appleId": 1000621607344,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/43Ncj7y5GLTcyWnSSW7QK6",
         "apple": "https://podcasts.apple.com/podcast/the-cults-views-on-purity-and-control/id1559758565?i=1000621607344",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4d8785bb-91e2-4bec-8d26-9e71ac846970",
+      "type": "Episode",
       "title": "The Shaming Behind Purity Culture with Radiant Style",
       "description": "In today\u0027s episode I had the opportunity to sit down with Radiant Style (tiktok name) to listen to her experiences of being in a Christian religious group, which she and many others, have found to be culty and controlling. Furthermore, Radiant Style breaks it down for us about how \u0022Purity Culture\u0022 was used to shame and control members, especially the women. While purity was hammered down upon the women and so much focus was given to modesty she noticed that there was a lack of attention on other important issues like morality, consent, boundaries, and the understanding of what it means to be a good person.  To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-23T00:00:00",
       "duration": "00:58:29.8230000",
       "explicit": true,
       "spotifyId": "0Hf7QFfrDHiYpCU2INRJaA",
       "appleId": 1000618061585,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Hf7QFfrDHiYpCU2INRJaA",
         "apple": "https://podcasts.apple.com/podcast/the-shaming-behind-purity-culture-with-radiant-style/id1559758565?i=1000618061585",
         "youtube": "https://www.youtube.com/watch?v=30ZOrpzpjwM"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "113516c3-f7ae-4310-8540-4125b3f93956",
+      "type": "Episode",
       "title": "Healing After Trafficking: Interview with Kellie from the Unbroken Podcast",
       "description": "Today\u2019s guest is Kellie from the Unbroken Podcast. In today\u2019s interview she breaks down her life after escaping the world of being sex trafficked as well as how she was able to find hope despite her trials.  If you would like to check out Kellie\u2019s link press the link   https://www.afterthelastsalefoundation.com/  To support my journey on The Truth That Heals Podcast and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-05T00:00:00",
       "duration": "01:09:08.4800000",
       "explicit": true,
       "spotifyId": "4qpDTMuFGM2ShQVGZY0FrI",
       "appleId": 1000615762094,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qpDTMuFGM2ShQVGZY0FrI",
         "apple": "https://podcasts.apple.com/podcast/healing-after-trafficking-interview-with-kellie-from/id1559758565?i=1000615762094",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "70b193fc-52d8-4a79-95cd-21198a8aa30d",
+      "type": "Episode",
       "title": "Interview with Andrew Pledger: Healing from Religious Trauma",
       "description": "Today\u0027s Guest: Andrew Pledger Bio  Andrew Pledger is a survivor, creator, and activist who uses social media to share his story and inspire others. He is a religious trauma survivor homeschooled K-12 and raised in a fundamentalist Christian cult (Independent Fundamental Baptist movement). He brings awareness to spiritual and religious abuse. Being a part of the LGBTQ\u002B community and experiencing religious trauma has inspired him to pursue psychology to help survivors. After being homeschooled, he found his way to Bob Jones University. He attended the fundamentalist Christian college for over three years until he was expelled in his last semester for sharing his story and denouncing fundamentalist teachings. He has a limited podcast premiering soon called \u0022Surviving Bob Jones University: A Christian Cult.\u0022 This podcast explores the school\u0027s history, the psychology of fundamentalism, the criteria for cults, and survivors\u0027 experiences. He also hosts his regular podcast, \u0022Speaking Up w/ Andrew Pledger\u0022 which features interviews with experts and survivors of cults and high-control religions.  Andrew\u0027s Links: Linktree: https://andrewpledger.mypixieset.com/links Instagram: https://www.instagram.com/4ndrewpledger/ Speaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledger/about Surviving BJU Podcast: https://shows.acast.com/surviving-bob-jones-university-a-christian-cult/about   To support my journey on The Truth That Heals Podcast:   PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-26T00:00:00",
       "duration": "01:17:06.4960000",
       "explicit": true,
       "spotifyId": "449qvNyPmhzeyDa6akNM2q",
       "appleId": 1000614564680,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/449qvNyPmhzeyDa6akNM2q",
         "apple": "https://podcasts.apple.com/podcast/interview-with-andrew-pledger-healing-from-religious/id1559758565?i=1000614564680",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "60ed99ec-7511-4723-ad8f-561144ad3cd3",
+      "type": "Episode",
       "title": "Rising Above the Darkness: My Healing Journey",
       "description": "Leaving a cult has a lot of dark moments especially when a person has been so deep inside of it for so long. In this episode I want to share the darkness that I have been through and to shed light on how difficult this journey has been.  To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-16T00:00:00",
       "duration": "00:12:44.5430000",
       "explicit": false,
       "spotifyId": "1HwIztWIVrCWgmKS6MnRJX",
       "appleId": 1000613289793,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1HwIztWIVrCWgmKS6MnRJX",
         "apple": "https://podcasts.apple.com/podcast/rising-above-the-darkness-my-healing-journey/id1559758565?i=1000613289793",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4cd7ebdb-1585-4da8-b7b9-fe5b2435ad2f",
+      "type": "Episode",
       "title": "What\u0027s the Meaning of Being Alone?",
       "description": "Lately I have been examining my life and my journey after leaving the cult. So many moments have been spent alone. Not all moments alone are necessarily negative. But I just want to share my thoughts and my insight after experiencing years of healing after leaving an End Times Cult.  To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-10T00:00:00",
       "duration": "00:18:53.5360000",
       "explicit": false,
       "spotifyId": "1Ub4kbR5gfiVNK00KgWRdo",
       "appleId": 1000612549761,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Ub4kbR5gfiVNK00KgWRdo",
         "apple": "https://podcasts.apple.com/podcast/whats-the-meaning-of-being-alone/id1559758565?i=1000612549761",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "94ce6dc5-6506-4968-a4c1-5a8c44a686f0",
+      "type": "Episode",
       "title": "Setting up Healthy Boundaries",
       "description": "It is important to be able to set up healthy boundaries in life. As a survivor of cult abuse it came very difficult to me but once I was able to set up healthy boundaries I was able to discover who were true friends and who were the pretend friends. To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-03T00:00:00",
       "duration": "00:10:41.6000000",
       "explicit": true,
       "spotifyId": "2aF6NlXnPN1VsqpDTT9lo3",
       "appleId": 1000611581314,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2aF6NlXnPN1VsqpDTT9lo3",
         "apple": "https://podcasts.apple.com/podcast/setting-up-healthy-boundaries/id1559758565?i=1000611581314",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "0fa4663e-aa52-4b57-9b2c-d7c2c59d0c19",
+      "type": "Episode",
       "title": "Making Connections After Leaving a Cult",
       "description": "I want to share with the audience how difficult it was for me at first to connect with people after leaving the cult. It took me years of hard work, not only for me but also hard work by my family members, to be able to reconnect after years of separation. I would often feel guilty for enjoying life and I would even feel anxiety from socializing with family and friends. I know I hid it well but when I came home I felt like a complete wreck. It is my hope that by sharing my story and my healing journey that others will be able to live life after a cult experience.  This podcast is not however limited to only cult survivors. This podcast is also dedicated to those who have been through abusive environments and coercive control. We all deserve healing  To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-29T00:00:00",
       "duration": "00:17:30.6560000",
       "explicit": true,
       "spotifyId": "63gf2OnLUXCmf9Nmnyh9eK",
       "appleId": 1000611132920,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/63gf2OnLUXCmf9Nmnyh9eK",
         "apple": "https://podcasts.apple.com/podcast/making-connections-after-leaving-a-cult/id1559758565?i=1000611132920",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "683282df-bb24-4af1-aee1-34f0c680c349",
+      "type": "Episode",
       "title": "My Healing Journey after leaving an End Times Cult",
       "description": "I want to share my journey after leaving an End Times Cult To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-21T00:00:00",
       "duration": "00:26:59.5910000",
       "explicit": true,
       "spotifyId": "0WEblKNNj6aOMD82tUrh9G",
       "appleId": 1000610154653,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0WEblKNNj6aOMD82tUrh9G",
         "apple": "https://podcasts.apple.com/podcast/my-healing-journey-after-leaving-an-end-times-cult/id1559758565?i=1000610154653",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6cc53233-a0ab-4837-bfdc-7f498c090bad",
+      "type": "Episode",
       "title": "Healing From an End Times Cult",
       "description": "My Healing Journey after leaving the End Times Cult has not been easy and it\u2019s definitely not over yet. It is my goal that by sharing my journey people will begin to understand what life was like living under Fr. Bing\u2019s End Times Cult. Spending time alone in an End Times basement was one of the darkest things I\u2019ve ever experienced. Nuclear war was right around the corner. We were told to drink colloidal silver as that would keep us safe from any sickness including nuclear radiation. Also, Fr. Bing told us to cover the windows with black trash bags because that would keep us safe from any nuclear fallout or radioactive contamination. This is my story.    To support my journey and my channel check out my links: PayPal: https://www.paypal.me/1hernandez1  Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod                                   Email: truththathealspodcast@gmail.com  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-18T00:00:00",
       "duration": "00:42:39.8830000",
       "explicit": false,
       "spotifyId": "4F6h7DhwDV0Y4kOevVmiUg",
       "appleId": 1000609410190,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4F6h7DhwDV0Y4kOevVmiUg",
         "apple": "https://podcasts.apple.com/podcast/healing-from-an-end-times-cult/id1559758565?i=1000609410190",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6dd0658c-f553-4e52-9db1-dffd2afc7235",
+      "type": "Episode",
       "title": "Cult Vault Podcast: Interview with Kacey",
       "description": "In todays episode I was honored to sit down with one of my good friends Kacey from \u00A0@CultVaultPod\u00A0 who was an inspiration for me in my own podcast journey. In this episode we will talk about cults, podcasting, survivor stories and more!  If you haven\u2019t followed the Cult Vault yet I highly recommend it   https://www.cultvaultpodcast.com  To contact Cult Vault: cultvaultpodcast@gmail.com  Don\u2019t forget to subscribe to The Truth That Heals Podcast   To support my journey and my channel check out my links: Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-07T00:00:00",
       "duration": "01:43:46.9760000",
       "explicit": true,
       "spotifyId": "3EBoyonpUt1HKIH6gvzQRu",
       "appleId": 1000607800332,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3EBoyonpUt1HKIH6gvzQRu",
         "apple": "https://podcasts.apple.com/podcast/cult-vault-podcast-interview-with-kacey/id1559758565?i=1000607800332",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "81db5f0e-deee-4450-97e8-6da597af9540",
+      "type": "Episode",
       "title": "My Story of Solitary Confinement: The Dark Side of Victimhood and Isolation",
       "description": "This episode dives into my experiences i had feeling isolated by the \u201CCommunity\u201D and the \u201CVictimhood\u201D theology used by Fr. Bing to keep members silent about abuses in the community.                                      I was put on silence and expected to be in prayer like a robot. Dead to emotions and dead to myself. I was expected to \u201Crejoice\u201D when I received obedience that gave me suffering because that was how a \u201Cvictim soul\u201D is supposed to behave. But this theology gave a pass to superiors to be abusive and even harsh because as victim souls members were trained to rejoice because the more pain we received we had to see it as a gift from God. This is my story.                                 To support my journey and my channel check out my links: Venmo: https://venmo.com/u/ryan11hernandez  Cash app: https://cash.app/$tony11hernandez  Linktree: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-31T00:00:00",
       "duration": "00:53:50.0350000",
       "explicit": true,
       "spotifyId": "1SJ2CXZk7xAETbl3fIO7GW",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1SJ2CXZk7xAETbl3fIO7GW",
         "apple": "https://podcasts.apple.com/podcast/my-story-of-solitary-confinement-the-dark/id1559758565?i=1000606684869",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "732d1d02-6e5e-4196-b32e-366a6070c924",
+      "type": "Episode",
       "title": "The painful truth on shunning",
       "description": "Shunning family members and friends is something that destroys a person. It breaks hearts and minds. I believe it is necessary to shed a light on this form of abuse and torture.  https://linktr.ee/truththathealspod  https://www.patreon.com/Truththathealspodcast  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-17T00:00:00",
       "duration": "00:25:58.3370000",
       "explicit": false,
       "spotifyId": "5VVjzNNl98fPAZGPpCZVd0",
       "appleId": 1000604613435,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VVjzNNl98fPAZGPpCZVd0",
         "apple": "https://podcasts.apple.com/podcast/the-painful-truth-on-shunning/id1559758565?i=1000604613435",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "84de86f5-fe2f-4a64-8832-4dbf2264542e",
+      "type": "Episode",
       "title": "Interview with author of Mentally Diseased Micah Losh ",
       "description": "Here are links to where you can order a copy of Micah\u0027s book Mentally Diseased https://www.barnesandnoble.com/w/mentally-diseased-moses-montgomery/1142825523  https://www.amazon.com/Mentally-Diseased-Apostasy-Trilogy-Book-ebook/dp/B0BPPGWXL8/ref=nodl_?dplnkId=eab5333c-ae4c-49d2-a8a8-5d685853d98f  https://www.walmart.com/ip/Mentally-Diseased-Hardcover-9798218115876/2618607435  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-10T00:00:00",
       "duration": "01:23:26.1990000",
       "explicit": true,
       "spotifyId": "0SGKCfkuCCLKuKKyRztV4u",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0SGKCfkuCCLKuKKyRztV4u",
         "apple": "https://podcasts.apple.com/podcast/interview-with-author-of-mentally-diseased-micah-losh/id1559758565?i=1000603576293",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ]
     },
     {
       "id": "d3284cd5-8820-4d2f-8b5e-ab17a9788e89",
+      "type": "Episode",
       "title": "Persecution Delusion in the Two Hearts Movement",
       "description": "In this episode we will be diving into the persecution delusion that I saw in the founder of the Two Hearts movement and the growth of the Us versus Them mentality which had us living in fear and constant paranoia.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-03T00:00:00",
       "duration": "00:41:27.2050000",
       "explicit": false,
       "spotifyId": "0MZQVKfE8hHpfoxPjscFUd",
       "appleId": 1000602576540,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0MZQVKfE8hHpfoxPjscFUd",
         "apple": "https://podcasts.apple.com/podcast/persecution-delusion-in-the-two-hearts-movement/id1559758565?i=1000602576540",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "11146d20-b37a-45d4-b6a7-4e553ff681ca",
+      "type": "Episode",
       "title": "An Intro on a Catholic Community\u0027s Development into a Cult Bending and Breaking Canon Law",
       "description": "To Support my channel please visit my patreon  https://www.patreon.com/Truththathealspodcast  You can also check out my linktree as i have a tip jar there. all your assistance goes a long way in helping me with my podcast and projects. thank you https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-25T00:00:00",
       "duration": "00:22:37.7860000",
       "explicit": true,
       "spotifyId": "5RYTgNvlqXU7MVCfo7zyn3",
       "appleId": 1000601588731,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5RYTgNvlqXU7MVCfo7zyn3",
         "apple": "https://podcasts.apple.com/podcast/an-intro-on-a-catholic-communitys-development/id1559758565?i=1000601588731",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "8f9b6856-2f4d-43b5-8282-e4447f559c41",
+      "type": "Episode",
       "title": "The Healing Power of Music: Interview with Deciderio Beats",
       "description": "In this interview I was able to speak with my cousin to talk about his ups and downs in the music industry and the wisdom that he has discovered along the way.  Many times there will be people in life who try to bring us down or who just use us as a steppingstone to their own success. In this interview Deciderio shares his experiences of getting through bad friendships, bad business partners, and how creating music was been the anchor in his life to keep him focused in life.   Follow his links here:  http://www.instagram.com/xdeciderio  http://www.instagram.com/decideriobeats  http://www.twitter.com/xdeciderio  https://www.beatstars.com/deciderio  https://youtube.com/@decideriobeats690   And if you would like to follow my journey you can find my links on Linktree: \u00A0 https://linktr.ee/truththathealspod And if you would like to support me on my journey you can follow me on my Patreon where I promise to add more content soon https://www.patreon.com/Truththathealspodcast  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-17T00:00:00",
       "duration": "01:31:20.5590000",
       "explicit": false,
       "spotifyId": "2E9Bsl89vCfdwanQzCXhpU",
       "appleId": 1000600082378,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2E9Bsl89vCfdwanQzCXhpU",
         "apple": "https://podcasts.apple.com/podcast/the-healing-power-of-music-interview-with-deciderio-beats/id1559758565?i=1000600082378",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "763c5057-ec7b-47e4-8f2d-573036fe6990",
+      "type": "Episode",
       "title": "Inside the Community Part 2 Interview with Junel (DISCRETION- TALKS ABOUT ABUSE)",
       "description": "In part 2 of my interview with Junel we talk a lot about our community experiences as well as many of the bizarre practices that we witnessed while living there. A lot of it had to do with abuse so Discretion is advised as some of the conversations in this episode may make many people uncomfortable. It was also very interesting for me personally to have Junel as a guest on the show because he witnessed me getting beaten and punished for no real reason which gives credibility to the things that I have been sharing on this platform.  Follow me on Twitter, Instagram and if you would like to support I have a tip jar or you can help support my channel on Patreon. Links will be found here: https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-12T00:00:00",
       "duration": "00:49:49.0560000",
       "explicit": true,
       "spotifyId": "2OaHIoJOlpq6TAomPFnmYV",
       "appleId": 1000599208128,
       "youTubeId": null,
-      "subjects": [
-        "Alliance of the Holy Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2OaHIoJOlpq6TAomPFnmYV",
         "apple": "https://podcasts.apple.com/podcast/inside-the-community-part-2-interview-with/id1559758565?i=1000599208128",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ]
     },
     {
       "id": "27fd84a5-71ff-4797-94b6-40fd6f0f98b7",
+      "type": "Episode",
       "title": "Inside the Community: Interview with Junel Part 1",
       "description": "Part 1  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-11T00:00:00",
       "duration": "00:53:34.1430000",
       "explicit": true,
       "spotifyId": "2AyBTKjdqrUz2ZWOMBDSC6",
       "appleId": 1000599130526,
       "youTubeId": null,
-      "subjects": [
-        "Alliance of the Holy Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AyBTKjdqrUz2ZWOMBDSC6",
         "apple": "https://podcasts.apple.com/podcast/inside-the-community-interview-with-junel-part-1/id1559758565?i=1000599130526",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ]
     },
     {
       "id": "84fe7d00-04e7-4766-9f01-236ab06e5495",
+      "type": "Episode",
       "title": "The Truth about the Darkness of Sex Trafficking",
       "description": "I am joined by the speaker from The Unbroken Podcast  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-28T00:00:00",
       "duration": "01:13:00.3510000",
       "explicit": true,
       "spotifyId": "0HFCKLmqoWtZx9pQmZFYUs",
       "appleId": 1000597018727,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HFCKLmqoWtZx9pQmZFYUs",
         "apple": "https://podcasts.apple.com/podcast/the-truth-about-the-darkness-of-sex-trafficking/id1559758565?i=1000597018727",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e8a6ce44-0537-4f0d-b63a-e2e3fb1434fe",
+      "type": "Episode",
       "title": "Interview with Dr. Tamara MC on the Healing Journey after Leaving a Cult",
       "description": "In todays episode we listen to Dr. Tamara MC share her story from the time she was in a religious cult as well as her experiences after leaving the cult. To follow Dr. Tamara MC you can find her here: https://tamaramc.com/ https://twitter.com/TamaraMCPhD https://www.instagram.com/tamaramcphd/ https://www.facebook.com/tamaramcphd/  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-21T00:00:00",
       "duration": "01:16:13.3550000",
       "explicit": true,
       "spotifyId": "4uZSISOOfM0NtXrkEgrFSL",
       "appleId": 1000595855187,
       "youTubeId": null,
-      "subjects": [
-        "Cult Recovery"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4uZSISOOfM0NtXrkEgrFSL",
         "apple": "https://podcasts.apple.com/podcast/interview-with-dr-tamara-mc-on-the-healing-journey/id1559758565?i=1000595855187",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Recovery"
+      ]
     },
     {
       "id": "f449780c-20bf-4743-895c-182c77f71ce1",
+      "type": "Episode",
       "title": "Taking Back Your Power After Leaving a Toxic Relationship",
       "description": "In this episode Melody in Motion shares her story about leaving a toxic relationship and recovering her health after years of trauma. \u00A0Here\u2019s a bit more about Melody in Motion: \u00A0Digital Nomad, certified by NASM (National Academy of Sports Medicine) for Group Fitness Trainer, Personal Trainer, and Nutrition Coach. \u00A0In the past I was on a self-destructive path, morbidly obese, suffering from PTSD, depression, and anxiety triggered by an ex-boyfriend turned stalker. \u00A0Now, after years of fighting for my health and fitness I\u2019m in the best shape of my life. \u00A0This was all due to changing my mindset, my diet, exercising, and getting help for my eating disorder. \u00A0Through all of this I have learned so much, and yet I continue to learn and improve as each year ticks by. \u00A0I stay active daily and really enjoy adventure and travel. \u00A0Not only am I available for personal training and nutrition coaching virtually/in person. \u00A0But, I am also a veteran house and pet sitter traveling around the globe as much as possible for these opportunities. \u00A0With my active lifestyle, my love of helping others achieve their health and fitness goals, and lust for travel, the name Melody In Motion seemed a perfect fit. \u00A0You can reach me, and follow my adventures here: \u00A0@MELODYNMOTION (Instagram) \u00A0https://www.facebook.com/melodynmotion (Melody In Motion on Facebook Blog Pages) \u00A0@melodyim (TikTok) \u00A0contactmelodyinmotion@gmail.com \u00A0\u00A0   Thank you for watching The Truth that Heals Podcast . Find me on Instagram and Twitter \u00A0\u00A0https://linktr.ee/truththathealspod  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-13T00:00:00",
       "duration": "01:20:39.9440000",
       "explicit": true,
       "spotifyId": "60Hfy8haabmy1Ddp4g6Ksu",
       "appleId": 1000594211251,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/60Hfy8haabmy1Ddp4g6Ksu",
         "apple": "https://podcasts.apple.com/podcast/taking-back-your-power-after-leaving-a-toxic-relationship/id1559758565?i=1000594211251",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c150b2c5-3f26-42a2-b83f-1523e175bda0",
+      "type": "Episode",
       "title": "Fear and Suffering",
       "description": "Happy 2023 everyone! For today\u0027s episode I wanted to talk about the fears I\u0027ve had to push through when it came to starting this podcast. It hasn\u0027t been easy but I am glad that I found the courage to do this. Secondly, I wanted to talk about suffering. There are so many discussions that can be recorded on suffering and I wanted to focus on the way the cult sees suffering: they pretty much glorified it... versus the suffering that people endure while trying to be virtuous. It\u0027s hard to really explain but I am just sharing my thoughts on the cults way of viewing suffering and how they pushed this narrative that suffering was good in order to allow abuse to happen. Enjoy the show!! :) If you would like to follow me I am on Twitter, Instagram and YouTube. https://t.co/xplhsUjVZ8  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-10T00:00:00",
       "duration": "00:25:55.2260000",
       "explicit": false,
       "spotifyId": "2GepoSL2P1y3vsH3XyQO6j",
       "appleId": 1000593592955,
       "youTubeId": null,
-      "subjects": [
-        "Alliance of the Holy Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GepoSL2P1y3vsH3XyQO6j",
         "apple": "https://podcasts.apple.com/podcast/fear-and-suffering/id1559758565?i=1000593592955",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ]
     },
     {
       "id": "b5d225f3-7ef7-43a3-a652-6fbc65c9b409",
+      "type": "Episode",
       "title": "Uncultured: interview with Daniella M Young",
       "description": "Today on the Truth that Heals Podcast we listen to author Daniella M Young as she shares with us about her bestselling memoir titled Uncultured. She was raised in the religious cult Children of God and later found herself joining the US Army. She shares with us her story of not only survival but also of finding the courage to share her story by writing her memoir. (NOTE: This episode will be discussing sexual abuse) \u00A0You can find her book at all major book stores or you can buy it on amazon: \u00A0https://www.amazon.com/Uncultured-Memoir-Daniella-Mestyanek-Young-ebook/dp/B09NTK34N7/ref=sr_1_1?keywords=uncultured\u002Bby\u002Bdaniella\u002Bmestyanek\u002Byoung\u0026qid=1671875008\u0026sprefix=uncul%2Caps%2C167\u0026sr=8-1  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-24T00:00:00",
       "duration": "01:17:22.5280000",
       "explicit": true,
       "spotifyId": "6pqwvabDiIGuneYrhI9LoJ",
       "appleId": 1000591185521,
       "youTubeId": null,
-      "subjects": [
-        "Children of God/Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6pqwvabDiIGuneYrhI9LoJ",
         "apple": "https://podcasts.apple.com/podcast/uncultured-interview-with-daniella-m-young/id1559758565?i=1000591185521",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Children of God/Family International"
+      ]
     },
     {
       "id": "60c0a65b-e3c9-47d8-95df-3093b2dae430",
+      "type": "Episode",
       "title": "The SPA LIFE Part 2 interview with Diane Halfman",
       "description": "continuation of my interview with Diane Halfman  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-20T00:00:00",
       "duration": "00:29:21.8370000",
       "explicit": false,
       "spotifyId": "0gftTXpZHkXSsSQgY8obcP",
       "appleId": 1000590772920,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gftTXpZHkXSsSQgY8obcP",
         "apple": "https://podcasts.apple.com/podcast/the-spa-life-part-2-interview-with-diane-halfman/id1559758565?i=1000590772920",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "47b45dc7-4d79-4b66-9091-fab7396d6ba6",
+      "type": "Episode",
       "title": "The SPA LIFE: Part 1 interview with Diane Halfman",
       "description": "In this two part episode I was able to sit down and chat with Diane Halfman who has an amazing story of resilience and uncovering the tools to help a person grow. We talk about her background working as an undercover police officer to look into the human trafficking that was going on and how her experiences shaped her into the amazing person she is today.   ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-20T00:00:00",
       "duration": "00:35:18.1470000",
       "explicit": false,
       "spotifyId": "0ZBlMlD36KvLc45IepQ59c",
       "appleId": 1000590772833,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZBlMlD36KvLc45IepQ59c",
         "apple": "https://podcasts.apple.com/podcast/the-spa-life-part-1-interview-with-diane-halfman/id1559758565?i=1000590772833",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2ad68183-d32e-4046-aa6d-36d9e98d94a1",
+      "type": "Episode",
       "title": "Interview w/Erika Bornman Pt 2: Healing From Cultic Abuse",
       "description": "Pt 2  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-13T00:00:00",
       "duration": "01:02:31.2990000",
       "explicit": true,
       "spotifyId": "0h8eW5hzXSygWVGPFcTu8p",
       "appleId": 1000590005744,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0h8eW5hzXSygWVGPFcTu8p",
         "apple": "https://podcasts.apple.com/podcast/interview-w-erika-bornman-pt-2-healing-from-cultic-abuse/id1559758565?i=1000590005744",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ca58fac0-27e4-493e-b6f6-7627b0316660",
+      "type": "Episode",
       "title": "Interview w/Erika Bornman: When Leaving Isn\u0027t Enough",
       "description": "In today\u0027s episode we listen to the experiences of Erika Bornman from her time within the Mission. It was a place which preached a lot about God however not all was good and holy. There came a point where she knew that she had to leave this place. This is her story.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-10T00:00:00",
       "duration": "01:05:07.3140000",
       "explicit": true,
       "spotifyId": "4pcYnu8WQ53F0rjzma2HM9",
       "appleId": 1000589686158,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4pcYnu8WQ53F0rjzma2HM9",
         "apple": "https://podcasts.apple.com/podcast/interview-w-erika-bornman-when-leaving-isnt-enough/id1559758565?i=1000589686158",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e60a1898-1962-4dd0-8401-827e7703ce26",
+      "type": "Episode",
       "title": "Forbidden to Mourn or Grieve: A Culty Experience",
       "description": "Today I tell the story of how I was not allowed to mourn or grieve the loss of a family member when I was in the cult   ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-14T00:00:00",
       "duration": "00:25:31.4950000",
       "explicit": false,
       "spotifyId": "7x342C474VgGI9Zxk82Lkc",
       "appleId": 1000586057389,
       "youTubeId": null,
-      "subjects": [
-        "Alliance of the Holy Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7x342C474VgGI9Zxk82Lkc",
         "apple": "https://podcasts.apple.com/podcast/forbidden-to-mourn-or-grieve-a-culty-experience/id1559758565?i=1000586057389",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ]
     },
     {
       "id": "d8d91b1d-4b2e-49b3-b135-476a238ce4fe",
+      "type": "Episode",
       "title": "Owning Yourself and Who You Are with Claire Millane",
       "description": "Welcome back! For this episode I am joined by Claire Millane to talk about the importance of owning yourself and who you are despite the difficulties which may arise in life. She\u0027s an actor, writer, filmmaker and newbie stand-up comedian. She\u0027s Dublin based but originally from County Galway in the West of Ireland. She\u0027s experienced a lot of ups and downs throughout the years including mountains of failure. She even failed her driving test...before she left the centre. But it hasn\u0027t been all bad. She\u0027s also met some amazing people, experienced a lot of laughs, had the craic (of the Irish kind) and had some successes along the\u00A0way. Comedy and creativity transformed Claire\u0027s life and in the tough times they\u0027ve been the two things that have gotten her through. You can find her on Youtube here: https://www.youtube.com/channel/UCLCh-cVs4pPbOGsCEgYTfJw  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-12T00:00:00",
       "duration": "01:29:07.4850000",
       "explicit": false,
       "spotifyId": "7ajCIdI7pKQPr9oyhLXsSa",
       "appleId": 1000585853226,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ajCIdI7pKQPr9oyhLXsSa",
         "apple": "https://podcasts.apple.com/podcast/owning-yourself-and-who-you-are-with-claire-millane/id1559758565?i=1000585853226",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "8a4cb464-f5ac-4c87-ae2f-ea6b8b289070",
+      "type": "Episode",
       "title": "Healing from Childhood Trauma and life after leaving the Mormon Church with Angie Berrett Pt. 2",
       "description": "Angie Berrett (she/they) is an Intuitive Movement Coach, Registered Nurse, Advanced Trauma Informed Yoga Instructor and Stand-Up Paddleboard Yoga Instructor who understands  the human body and how it works. She helps people relieve stress, anxiety, depression and trauma through play, movements and fun so they can have healing and peace in their lives.    After going from child abuse survivor to registered nurse to yoga instructor, she has spent much of her life caring for others. In 2017 she hit rock bottom and started  on a journey to heal.  Discovering playful ways of using movements helped her learn to listen to her body, overcoming her suffering in ways traditional modalities could not. Now, she helps others heal their pain, transforming their lives.    She is the Owner and Creator of Angie Berrett Movement, coaching people how to release stored trauma in their bodies while increasing energy, strength and  flexibility.  For her expertise, she has been featured in Psychology  Today, Authority  Magazine, Bustle, Subkit, The  Feisty News and NewsBreak. https://angieberrettmovement.com/ https://www.linkedin.com/in/angieberrettmovement/ https://Instagram.com/angieberrettmovement https://twitter.com/AngieBerrett  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-05T00:00:00",
       "duration": "00:33:45.9640000",
       "explicit": false,
       "spotifyId": "3VAKJypFWmcKGoTTlFDRkh",
       "appleId": 1000585138246,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3VAKJypFWmcKGoTTlFDRkh",
         "apple": "https://podcasts.apple.com/podcast/healing-from-childhood-trauma-and-life-after-leaving/id1559758565?i=1000585138246",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "00370af4-627d-4474-baf9-c9a04b2cc2ae",
+      "type": "Episode",
       "title": "Healing from Childhood Trauma: Conversations with Ex-Mormon Angie Berrett Part 1",
       "description": "In today\u0027s episode I was able to sit down with Angie Berrett to hear her story and experiences growing up Mormon and the trauma she experienced in her childhood. In the second episode we will learn more from Angie on how she was able to find healing in her journey.  Angie Berrett (she/they) is an Intuitive Movement Coach, Registered Nurse, Advanced Trauma Informed Yoga Instructor and Stand-Up Paddleboard Yoga Instructor who understands  the human body and how it works. She helps people relieve stress, anxiety, depression and trauma through play, movements and fun so they can have healing and peace in their lives.      After going from child abuse survivor to registered nurse to yoga instructor, she has spent much of her life caring for others. In 2017 she hit rock bottom and started  on a journey to heal.  Discovering playful ways of using movements helped her learn to listen to her body, overcoming her suffering in ways traditional modalities could not. Now, she helps others heal their pain, transforming their lives.      She is the Owner and Creator of Angie Berrett Movement, coaching people how to release stored trauma in their bodies while increasing energy, strength and  flexibility.  For her expertise, she has been featured in Psychology  Today, Authority  Magazine, Bustle, Subkit, The  Feisty News and NewsBreak  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-28T00:00:00",
       "duration": "00:33:30.6850000",
       "explicit": false,
       "spotifyId": "2dysCBRwbAMWA6Z6Rohs0u",
       "appleId": 1000584209580,
       "youTubeId": null,
-      "subjects": [
-        "Mormonism"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2dysCBRwbAMWA6Z6Rohs0u",
         "apple": "https://podcasts.apple.com/podcast/healing-from-childhood-trauma-conversations-with-ex/id1559758565?i=1000584209580",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Mormonism"
+      ]
     },
     {
       "id": "1cd4c882-d069-477f-a2dc-0e9d49289c21",
+      "type": "Episode",
       "title": "My Battles with Thought Reform and Brainwashing ",
       "description": "In today\u0027s episode I give details how we were trained to die to ourselves and to no longer think freely. Free Will no longer existed. The only thing that existed was the Community. There was no I in the community. I break down the battles I had to go through when trying to leave and how hard it was to pierce through all of the brainwashing from over the years. I held on to the smallest bit of hope and that has helped me get through the darkest thoughts.  If you would like to make a contribution to help me out you can donate anchor.fm/ryan-anthony-hernandez/support Subscribe to my YouTube: https://youtube.com/channel/UCDspcPEdITAadgtJGBMvzZA   ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-17T00:00:00",
       "duration": "00:37:28.7820000",
       "explicit": true,
       "spotifyId": "5YPnjmM2lECyC8txbDkH9O",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Alliance of the Holy Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5YPnjmM2lECyC8txbDkH9O",
         "apple": "https://podcasts.apple.com/podcast/my-battles-with-thought-reform-and-brainwashing/id1559758565?i=1000582946459",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Alliance of the Holy Family International"
+      ]
     },
     {
       "id": "f98454f8-e253-4797-87d8-144efabbadd4",
+      "type": "Episode",
       "title": "Conversations with former JW",
       "description": "In today\u2019s episode I sat down with good friend Gilbert Gonzalez to hear his story regarding faith, individual journey, healing, and surviving after leaving the Jehovah Witnesses.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-01T00:00:00",
       "duration": "00:32:11.7600000",
       "explicit": false,
       "spotifyId": "0oNq2M7CDoG7nSrMpj1BQT",
       "appleId": 1000581248462,
       "youTubeId": null,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0oNq2M7CDoG7nSrMpj1BQT",
         "apple": "https://podcasts.apple.com/podcast/conversations-with-former-jw/id1559758565?i=1000581248462",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ]
     },
     {
       "id": "5844ba0a-e8f7-4316-988e-0c3ccf4ab94d",
+      "type": "Episode",
       "title": "the EX members of the Community. The HEXED Members",
       "description": "In this episode I want to give examples of how Fr. Bing gave us an US VERSUS THEM MENTALITY so that you can understand what religious abuse, spiritual abuse, and cult abuse looks like from the world I lived in.  If you would like to support my podcast with a donation you are welcomed to do so as your help gives me the assistance to keep my work going. You may go to this link: https://anchor.fm/ryan-anthony-hernandez/support  Follow me on twitter @TruthThatHeals  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-27T00:00:00",
       "duration": "00:50:00.4120000",
       "explicit": true,
       "spotifyId": "4MjJNmlG4Y4G0A99z67tvx",
       "appleId": 1000580746834,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4MjJNmlG4Y4G0A99z67tvx",
         "apple": "https://podcasts.apple.com/podcast/the-ex-members-of-the-community-the-hexed-members/id1559758565?i=1000580746834",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3e54856c-a1f4-4d1d-99ac-315f14387c10",
+      "type": "Episode",
       "title": "Healing Friendships in Dublin",
       "description": "Thank you for coming this far with me in my healing journey!! Today I wanted to share the importance of having a friend to be there for you and to listen to you. Being told to keep quiet about my traumas has been so devastating and has been painful however I\u2019ve had a few friends step it up and show their support and love. So I came to Dublin to find healing through friendship. It\u2019s been a short trip but it has been completely worth it \u2764\uFE0F \u2764\uFE0F\u200D\uD83E\uDE79   ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-20T00:00:00",
       "duration": "00:14:38.8750000",
       "explicit": false,
       "spotifyId": "3kwJyM3pjEY4VFXpdtOPvw",
       "appleId": 1000580116824,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3kwJyM3pjEY4VFXpdtOPvw",
         "apple": "https://podcasts.apple.com/podcast/healing-friendships-in-dublin/id1559758565?i=1000580116824",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7c3f7ad3-c826-4068-a40c-a8e52f097eec",
+      "type": "Episode",
       "title": "Fr. Bing, Exorcisms, and Dover, Delaware ",
       "description": "in this episode I share with you the narrative that Fr Bing and his closest superiors shared with the people when we were kicked out from the Diocese of Wilmington in Dover, Delaware. He made it look like we were an innocent community receiving unjust persecution from the Church. However, as an insider during these events, I want to share what REALLY happened as I watched things play out in real time. You deserve to know the ENTIRE TRUTH  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-16T00:00:00",
       "duration": "00:37:26.2750000",
       "explicit": false,
       "spotifyId": "2BB2IyIQSSGBRJwqRftwzx",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BB2IyIQSSGBRJwqRftwzx",
         "apple": "https://podcasts.apple.com/podcast/fr-bing-exorcisms-and-dover-delaware/id1559758565?i=1000579708217",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "53aaee1e-bd96-4c44-88c7-d5d6517c4af6",
+      "type": "Episode",
       "title": "Pushing my Limits with Purpose",
       "description": "Hey y\u0027all! It\u0027s been a while since I last did a podcast. As your can hear from my voice I am so rusty and nervous but I felt that it was time to get back to doing something which I find to be exciting. Not long ago my father passed away. I always looked up to him and seeing him helpless on his deathbed sort of woke me up on the need to give life my best and to follow my dad\u0027s example of putting love in everything he did.  At the end of this episode I put a challenge on my listeners to try to practice doing an act of love throughout the day or throughout the week. I\u0027m still new at this so please be patient as I work on my podcast speaking skills. Thank you for listening :)  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-13T00:00:00",
       "duration": "00:13:44.7490000",
       "explicit": false,
       "spotifyId": "4O1EzotXSNYcjnQBsxnuvU",
       "appleId": 1000579311397,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4O1EzotXSNYcjnQBsxnuvU",
         "apple": "https://podcasts.apple.com/podcast/pushing-my-limits-with-purpose/id1559758565?i=1000579311397",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e7016f58-cdf6-4dbc-bc54-62e32bb5f0fa",
+      "type": "Episode",
       "title": "When Following God Feels like a Mistake",
       "description": "Hey y\u0027all! I am still hella nervous when doing podcasting so for now I am reading from my blog. I still don\u0027t feel comfortable talking on a mic but I love pushing myself a but. Plus its fun. In todays podcast I am describing a bit about myself and my journey with God. There are some people who took advantage of my eagerness to follow God. I met a lot of wolves in sheeps clothing but I also met many amazing people on my journey as well.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-13T00:00:00",
       "duration": "00:17:19.4410000",
       "explicit": false,
       "spotifyId": "75YTbad1zRR1dPfk16Iknv",
       "appleId": 1000579311341,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75YTbad1zRR1dPfk16Iknv",
         "apple": "https://podcasts.apple.com/podcast/when-following-god-feels-like-a-mistake/id1559758565?i=1000579311341",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ac4779a2-3865-4795-8c28-05695085008b",
+      "type": "Episode",
       "title": "Outside the Kingdom Hall with Natalie Grand",
       "description": "To order Cult Girls https://www.amazon.com/Cult-Girls-Natalie-Grand/dp/1736764799 More about Natalie Grand https://jwsurvivorsoriginal.com/cult-survivors-stories-1/f/post-cult-success-can-be-yours-author-of-cult-girls-speaks-up Petition Links https://www.change.org/p/petition-invisible-is-calling-on-congress-to-pass-a-childrightsact-abused-children-in-strict-religions-churches-cults-often-have-nowhere-to-turn-for-help-metoo-churchtoo-childabuse https://www.change.org/p/end-child-abuse-and-neglect-in-america  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-10T00:00:00",
       "duration": "01:18:49.6720000",
       "explicit": false,
       "spotifyId": "2tYhNGPCy6UgsrSpIewjWc",
       "appleId": 1000579024189,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tYhNGPCy6UgsrSpIewjWc",
         "apple": "https://podcasts.apple.com/podcast/outside-the-kingdom-hall-with-natalie-grand/id1559758565?i=1000579024189",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "33f088ab-d9f4-4291-892d-8ed16efb1125",
+      "type": "Episode",
       "title": "Healing From Cult Experiences with Dr. Janja Lalich",
       "description": "I am joined today by cult expert Dr. Janja Lalich. She has authored books which will help people to understand the healing journey for cult survivors and how those around them can be very supporting in their healing journey.  Leaving the cult life had left me feeling wounded, lost, confused, and at times even feeling shame. Dr. Janja Lalich really breaks down the ways my experience was culty and she also gives hope that healing and recovery is possible. For more information you can check out her website here:  http://janjalalich.com/  http://www.tbylr.com/\u00A0  Janja Lalich, Ph.D. Professor Emerita of Sociology Founder, Center for Research on Cults and Coercion Co-Founder, Take Back Your Life Recovery, LLC International Authority on Cults \u0026 Coercion  Order a copy of her book Take Back Your Life: Recovering from Cults and Abusive Relationships \uD83D\uDCF8: photo credit: Robert Palumbo  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-03T00:00:00",
       "duration": "01:03:39.0320000",
       "explicit": true,
       "spotifyId": "0I8K0qbucqUFcGzu50pkUp",
       "appleId": 1000578233594,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0I8K0qbucqUFcGzu50pkUp",
         "apple": "https://podcasts.apple.com/podcast/healing-from-cult-experiences-with-dr-janja-lalich/id1559758565?i=1000578233594",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "02175443-bc23-4cdf-a111-cf19435a1375",
+      "type": "Episode",
       "title": "The TRUE meaning of Consent with Joyce Short and Nina Lucas",
       "description": "In today\u2019s episode we will be learning the true meaning of consent to avoid confusion and to protect ourselves. As a survivor of cult tactics and manipulation one of the biggest hurts I had was the thought that I had consented to allowing the craziness to happen to me. Joyce and Nina helped me to see the deception that happened and to understand that I never gave full consent. #FGKIA FREELY GIVEN, KNOWLEDGEABLE, and INFORMED AGREEMENT. For more information here are a few links:  http://consentawareness.net/\u00A0 https://www.change.org/p/supporting-bill-a6540a-and-s6200a-to-define-consent-in-penal-law?redirect=false   https://m.youtube.com/watch?v=imr5ZiAY_ao\u0026t=19s https://alittlebitculty.com/episode/fgkia-joyce-short-nina-lucas-on-defining-consent\u00A0 https://www.washingtonpost.com/world/2022/08/26/spain-only-yes-law-sexual-consent/   Joyce Short IG @yourconsent Nina Lucas IG @standfirmvoice\u00A0 Amazon Link for Your Consent: The Key to Conquering Sexual Assault https://www.amazon.com/Your-Consent-Conquering-Sexual-Assault-ebook/dp/B07N1CXDCC/ref=nodl_?dplnkId=63e49c51-1b0f-4382-8221-ebfbeb0b1685  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-28T00:00:00",
       "duration": "01:19:35.7170000",
       "explicit": false,
       "spotifyId": "1e8ByCEubFWdZA8vqxvlYH",
       "appleId": 1000577588682,
       "youTubeId": null,
-      "subjects": [
-        "Cult Psychology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1e8ByCEubFWdZA8vqxvlYH",
         "apple": "https://podcasts.apple.com/podcast/the-true-meaning-of-consent-with-joyce-short-and-nina-lucas/id1559758565?i=1000577588682",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Cult Psychology"
+      ]
     },
     {
       "id": "5fc91700-ea94-44f8-b285-a74e5700c3ba",
+      "type": "Episode",
       "title": "Interview w/John Corcoran: A Love Story",
       "description": "I met John as a postulant in Delaware a few years back. Although he was only there for a few months we became very good friends. Today he shares his story on how he was recruited into the Community, how he was able to leave the Community, and how he ultimately found True Love. Here is the link to their CatholicMatch story https://plus.catholicmatch.com/articles/crystal-wore-an-arwen-costume-when-she-met-john-at-the-airport  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-21T00:00:00",
       "duration": "01:35:24.8790000",
       "explicit": false,
       "spotifyId": "04jVFojzx0a1OkTnFBXfBb",
       "appleId": 1000576716949,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/04jVFojzx0a1OkTnFBXfBb",
         "apple": "https://podcasts.apple.com/podcast/interview-w-john-corcoran-a-love-story/id1559758565?i=1000576716949",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c5d5afd2-6434-462f-91f7-29a1bb758b41",
+      "type": "Episode",
       "title": "My experience Leaving Religious Cult Life ",
       "description": "In the movie Vanilla Sky there is a scene where \u0022revolution of the mind\u0022 is mentioned. Tom Cruise then starts to understand that he is in a nightmare and wants to wake up. When I was in the cult everything was \u0022perfect\u0022 until I started seeing the truth for what it really was instead of the \u0022truth\u0022 fed to me by the community. In today\u0027s episode I want to share how I started to change my mind about the group and how I broke free from their iron grip on my mind.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-16T00:00:00",
       "duration": "00:36:30.3610000",
       "explicit": true,
       "spotifyId": "32jrsJHsJ9xVGkZOfK4oFb",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/32jrsJHsJ9xVGkZOfK4oFb",
         "apple": "https://podcasts.apple.com/podcast/my-experience-leaving-religious-cult-life/id1559758565?i=1000576295402",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c4bb7936-c659-4807-a90b-51266894688d",
+      "type": "Episode",
       "title": "My Recruitment Story",
       "description": "people often ask me how come I stayed in this religious community/cult for so long. Today i want to answer that question by sharing how i was recruited in the first place  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-30T00:00:00",
       "duration": "00:22:00.7040000",
       "explicit": false,
       "spotifyId": "0nJJYSVFHloV0wWi4ngSKa",
       "appleId": 1000571630557,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nJJYSVFHloV0wWi4ngSKa",
         "apple": "https://podcasts.apple.com/podcast/my-recruitment-story/id1559758565?i=1000571630557",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7e6f8cfb-354f-4c03-9725-68f3c91a6eec",
+      "type": "Episode",
       "title": "Call For Convent Reform with fellow podcaster Alycia",
       "description": "For today\u2019s episode I had the honor of chatting with fellow podcaster Alycia who is the host of Call For Convent Reform. We discuss the reasons for her podcast and the things she saw in the convent which need to be addressed.                            (After editing this episode and fixing a few glitches I am republishing this episode. As a podcaster I am still learning so please bear with my mistakes :) )  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-27T00:00:00",
       "duration": "00:46:20.5660000",
       "explicit": false,
       "spotifyId": "0ORzNlAHGTKMMnRwuD3TxM",
       "appleId": 1000571284421,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ORzNlAHGTKMMnRwuD3TxM",
         "apple": "https://podcasts.apple.com/podcast/call-for-convent-reform-with-fellow-podcaster-alycia/id1559758565?i=1000571284421",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "cab5f1a4-00e3-40a9-86e4-3cd0563eb985",
+      "type": "Episode",
       "title": "Ways Religious Abuse was Justified in my Experience",
       "description": "Have you ever been in a cult? Or in a religious community that took things way too far that abuses were allowed and at times even justified? Today I share two ways in which I saw abuses getting justified as being for a greater good. I am not a expert or doctor of psychology or anything like that however in this podcast I simply share what my experiences were after living in a cult environment for over a decade. The ways religious abuse was justified in my environment might not be what you have experienced however I feel it is necessary for me to share my story so that these forms of manipulation can be discovered sooner.\u00A0  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-17T00:00:00",
       "duration": "00:28:12.3630000",
       "explicit": true,
       "spotifyId": "0llkrxnKThINfpg5qxeL0X",
       "appleId": 1000570158462,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0llkrxnKThINfpg5qxeL0X",
         "apple": "https://podcasts.apple.com/podcast/ways-religious-abuse-was-justified-in-my-experience/id1559758565?i=1000570158462",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "43d1b42f-5c29-43e7-a421-acb9f97cc5c6",
+      "type": "Episode",
       "title": "Loving Your Genuine Self: Healing After Trauma with Claudia M. Villanueva",
       "description": "In today\u0027s episode with Claudia Moreno Villanueva I open up about some of the verbal abuse that I and other members had gone through and the process that needs to start in order for healing to happen. For me it was a mixture of verbal abuse, religious bullying and harassment, manipulation and shaming. After speaking with Claudia I felt so much resilience within me and a new sense of hope. It had been a long journey and I am still trying my best to love my genuine self. I thank God for sending me friends like Claudia M. Villanueva who have aided me so much with my journey towards full recovery. If you would like to learn more about Claudia and the work that she does you can find her on Instagram @higherloveSA_anxietycoaching or on FB @ Overcoming Panic Attacks with Higher Love Life Coaching  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-10T00:00:00",
       "duration": "00:46:33.1280000",
       "explicit": true,
       "spotifyId": "46VLcsNHGFh6ppKNmuWc8v",
       "appleId": 1000569419144,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/46VLcsNHGFh6ppKNmuWc8v",
         "apple": "https://podcasts.apple.com/podcast/loving-your-genuine-self-healing-after-trauma-with/id1559758565?i=1000569419144",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6a88b405-5bd0-47d0-9c66-02ef36d9dcd9",
+      "type": "Episode",
       "title": "Positives and Negatives of the Alliance (Interview w/Daniel Holland)",
       "description": "In today\u0027s episode I am joined by my good friend Daniel Holland who also joined the same religious community that I joined. You will hear his story from his point of view.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-28T00:00:00",
       "duration": "02:51:08.8850000",
       "explicit": false,
       "spotifyId": "3ap6aiEcvrcLkZQu9vmDSh",
       "appleId": 1000567919957,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ap6aiEcvrcLkZQu9vmDSh",
         "apple": "https://podcasts.apple.com/podcast/positives-and-negatives-of-the-alliance-interview/id1559758565?i=1000567919957",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "64c742a1-0815-40e8-98eb-5bed86dc40ca",
+      "type": "Episode",
       "title": "Exorcisms in a Cult/Religious Community and Mental Health",
       "description": "The Catholic Church has protocols in place to make sure that exorcisms are done carefully and with much respect to the person in need of deliverance. In today\u0027s episode I want to share my experience of having exorcisms done on me and the rest of the members in a bizarre way and how the founder, in his cult like ways, used exorcism at his own whim instead of following the proper protocols which have been put in place by the Church. Unfortunately, many mental issues would be dismissed and they would label everything as a spiritual issue instead.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-11T00:00:00",
       "duration": "00:37:41.1590000",
       "explicit": true,
       "spotifyId": "2QpuaP3VDxlILNAJnfseOA",
       "appleId": 1000566047970,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2QpuaP3VDxlILNAJnfseOA",
         "apple": "https://podcasts.apple.com/podcast/exorcisms-in-a-cult-religious-community-and-mental-health/id1559758565?i=1000566047970",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "5dcc4d40-adf8-4bc0-9b91-ac7e8cb80caf",
+      "type": "Episode",
       "title": "What is Spiritual Abuse?",
       "description": "In todays episode I quoted from an article I found on spiritual abuse. The link to that article can be found here https://www.ncronline.org/news/accountability/spiritual-abuse-occurs-more-frequently-believed-vatican-official-says Sadly there is spiritual abuse that happens and my goal is that by speaking up people will be aware as to what it is and be open to allowing victims to heal instead of always putting victims down.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-27T00:00:00",
       "duration": "00:21:15.8900000",
       "explicit": true,
       "spotifyId": "3FcPW6OyVWFzyxe54Iu4TC",
       "appleId": 1000564250510,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FcPW6OyVWFzyxe54Iu4TC",
         "apple": "https://podcasts.apple.com/podcast/what-is-spiritual-abuse/id1559758565?i=1000564250510",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c197d85a-5354-4c49-9a38-3abf28033c8f",
+      "type": "Episode",
       "title": "Calling For Transparency of a Cult",
       "description": "There are so many dark areas in cults. I joined a religious community in 2004 and was there for 11 years. I thought I was just joining a good religious community until I discovered after leaving that in fact the way some superiors ran the show was very cult like. The side that wanted to do things the right way are being very transparent and are working on doing things the right way and I applaud them for their endeavors. The side that went with Fr. Bing however are still in the dark and are unable to see the lack of transparency of the Founder. Fr. Bing, it is high time that you make a public apology, along with other members who were abusive as well to do the same. You have the power to do something good in this life and it starts with being transparent and apologize in public.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-22T00:00:00",
       "duration": "00:19:11.1980000",
       "explicit": true,
       "spotifyId": "6FOSxnm8Z8PLPWaOW7yxt6",
       "appleId": 1000563161232,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6FOSxnm8Z8PLPWaOW7yxt6",
         "apple": "https://podcasts.apple.com/podcast/calling-for-transparency-of-a-cult/id1559758565?i=1000563161232",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "cb7e430f-bcdf-4c00-982e-864d4f3100d6",
+      "type": "Episode",
       "title": "Toxic Environments and the Cross: Understanding the Difference",
       "description": "In today\u0027s episode I want to shed light on how people can mistaken being in a toxic environment as carrying your cross and following God. With the cross there should also be prayer and discernment.  For music shout out to my cousin Mauricio. You can find him on Instagram under @decideriobeats and you can find his band @wallatheband  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-17T00:00:00",
       "duration": "00:32:43.8970000",
       "explicit": false,
       "spotifyId": "1szwMf90pwPlUmTRIUqBvG",
       "appleId": 1000561986983,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1szwMf90pwPlUmTRIUqBvG",
         "apple": "https://podcasts.apple.com/podcast/toxic-environments-and-the-cross/id1559758565?i=1000561986983",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "250bf923-b641-4c9a-993c-6e6c2a311b03",
+      "type": "Episode",
       "title": "Separating the Christ Like from the Cult Like",
       "description": "In today\u0027s episode I will be discussing some questions and clarifications which were brought up to me by a few of the listeners. We\u0027ll be talking a bit more of some of the cult like details and how these tactics make people feel that it is their fault for being the victim. Also will be discussing the need for priests and religious men and women to be allowed to have a proper education.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-12T00:00:00",
       "duration": "00:45:12.3690000",
       "explicit": true,
       "spotifyId": "7H4tf2nwtNTOYSP3bNFcWd",
       "appleId": 1000560865421,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7H4tf2nwtNTOYSP3bNFcWd",
         "apple": "https://podcasts.apple.com/podcast/separating-the-christ-like-from-the-cult-like/id1559758565?i=1000560865421",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "048ec0de-a306-4960-8f8a-d3d437502895",
+      "type": "Episode",
       "title": "Was I in a Cult",
       "description": "In today\u0027s episode I want to share the tactics which I experienced as well as observed on how the Founder Fr. Bing took the community down a path of fear and paranoia and made it a cult like experience. Trigger Warning: This episode deals with a lot of abuse. If you would like to read my blog format which may get into different details of the same tactics you may find it here at this link https://ryantonyblogs.wordpress.com/2022/04/28/was-i-in-a-cult/  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-05-04T00:00:00",
       "duration": "00:53:49.8720000",
       "explicit": true,
       "spotifyId": "6euuesVaOnv7PAjmNXscfY",
       "appleId": 1000559528299,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6euuesVaOnv7PAjmNXscfY",
         "apple": "https://podcasts.apple.com/podcast/was-i-in-a-cult/id1559758565?i=1000559528299",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ab1f45b5-643d-4995-b0b1-54d1adefffff",
+      "type": "Episode",
       "title": "Silenced and Shamed- A Deeper look into tactics to keep victims of abuse silent",
       "description": "Read my blog post Why I remained Silent part 3 here https://ryantonyblogs.wordpress.com/2022/04/01/why-i-remained-silent-part-3-the-founder/  In this episode I talk a bit deeper about the lies that were fed to the members and how there is abuse that is allowed to happen in the Alliance Movement.  The mission might be good. I am not against spreading devotion to the Hearts of Jesus and Mary.  I am however against the lies, manipulation, and abuse that happens all under the disguise of saving souls.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-04-19T00:00:00",
       "duration": "00:31:10.1110000",
       "explicit": true,
       "spotifyId": "6CZuwc5A3rqP8vzbGBIRRC",
       "appleId": 1000558062748,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CZuwc5A3rqP8vzbGBIRRC",
         "apple": "https://podcasts.apple.com/podcast/silenced-and-shamed-a-deeper-look-into-tactics-to/id1559758565?i=1000558062748",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "a3e5fdd0-a5ba-4859-aed9-5edcfd3aadb6",
+      "type": "Episode",
       "title": "Why I remained Silent Part II Plus Commentary",
       "description": "In this episode I continue talking about my experience in Alabama after trying to find peace with the religious community I had just left. I thought it would be nice to see them but instead I saw how messed up they treated me and other ex members. You don\u0027t wanna miss the commentary!  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-04-08T00:00:00",
       "duration": "00:28:06.5110000",
       "explicit": true,
       "spotifyId": "0MXiKH9Mb6KsDMba7vnYxV",
       "appleId": 1000556597411,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0MXiKH9Mb6KsDMba7vnYxV",
         "apple": "https://podcasts.apple.com/podcast/why-i-remained-silent-part-ii-plus-commentary/id1559758565?i=1000556597411",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e19f1f39-a6ac-4e2b-9fd1-8ee038b8baa8",
+      "type": "Episode",
       "title": "Why I Remained Silent Part 1 plus BONUS COMMENTARY at the end",
       "description": "For years I have been living in silence about the things that I went through as well as the pain and suffering I observed in a religious community, which in my opinion, evolved into a cult and has a cult leader. This story is Part 1 in a series of 3 parts. This part of my life was very critical because I still did not see this as a cult at the time but once we get to the end you will understand why I had more questions.\u00A0 here is the link to my blog https://ryantonyblogs.wordpress.com/2022/03/19/why-i-remained-silent-part-1/  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-03-29T00:00:00",
       "duration": "00:19:08.7840000",
       "explicit": false,
       "spotifyId": "5VnPhCjtDTrXNBqtEIqpIA",
       "appleId": 1000555641383,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VnPhCjtDTrXNBqtEIqpIA",
         "apple": "https://podcasts.apple.com/podcast/why-i-remained-silent-part-1-plus-bonus-commentary-at-the-end/id1559758565?i=1000555641383",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2682f112-9bda-4eaf-b260-80c23efa4453",
+      "type": "Episode",
       "title": "How to talk to ex religious Followed by: CALLING OUT CULT LIKE MEMBERS",
       "description": "As I was leaving the religious life I was approached by two religious members from my community. One of them was offering me his prayers, support and wishing me the best. The other member tried to shame me and put me down which resulted in me putting my foot down that his behavior towards me would not be tolerated anymore. Towards the end of this podcast I call out the members who have been cult like by brainwashing their members and manipulating people that they come clean and be transparent with the church and with the people instead of always running or making up stories. The truth needs to come out.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-03-09T00:00:00",
       "duration": "00:21:15.1000000",
       "explicit": true,
       "spotifyId": "4538g3p4kjZFnK8bdvpZ8G",
       "appleId": 1000553497579,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4538g3p4kjZFnK8bdvpZ8G",
         "apple": "https://podcasts.apple.com/podcast/how-to-talk-to-ex-religious-followed-by-calling-out/id1559758565?i=1000553497579",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "500c8a06-cb6e-455c-9d17-fc6fc7206d5b",
+      "type": "Episode",
       "title": "Beaten but not Broken",
       "description": "In this episode I talk about the current journey I am on when it comes to healing and the long road that I have been on over the years. Sadly, many victims of abuse are silenced and shamed. I want to bring hope by sharing my journey and the difficulties that I have been in. For years I had felt all alone.\u00A0 In this episode I also pick up from where I left off in my last episode and describe an incident that really set me off and brought me into a deep darkness. I was beaten for nothing really and felt that I could trust no one in life anymore. I am no longer in that deep darkness and would now like to share my story so that people may understand what is what that I and other people go through in life.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-19T00:00:00",
       "duration": "00:28:45.7760000",
       "explicit": true,
       "spotifyId": "69SSSatdvvpovR7i42CPxZ",
       "appleId": 1000551587917,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/69SSSatdvvpovR7i42CPxZ",
         "apple": "https://podcasts.apple.com/podcast/beaten-but-not-broken/id1559758565?i=1000551587917",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2c9369db-9c8c-4f01-805b-251dd1eb9dfc",
+      "type": "Episode",
       "title": "Hidden in the Jungle: Dark Side of Religious Life",
       "description": "I continue sharing my experiences from the religious life on this podcast. In today\u0027s episode I share the story when I was sent to a jungle area up in the mountains in the Philippines. At first I was under a superior who treated me well until he was replaces by a superior who loved to slap, humiliate, and physically beat members through the vow of \u0022obedience.\u0022 I had tried to do every thing in my religious life perfectly by the standards of my superiors yet I was always getting punished. I had wanted to leave but I did not know how. This is my story. Enjoy!  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-08T00:00:00",
       "duration": "00:27:11.4570000",
       "explicit": true,
       "spotifyId": "1q5PNa8Yn41FwLKT3PEstV",
       "appleId": 1000550482446,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1q5PNa8Yn41FwLKT3PEstV",
         "apple": "https://podcasts.apple.com/podcast/hidden-in-the-jungle-dark-side-of-religious-life/id1559758565?i=1000550482446",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7ddc9f35-f157-4744-ba58-354ac0d73dfb",
+      "type": "Episode",
       "title": "The Good Side of Religious Life",
       "description": "In this podcast episode I share about what I loved from living the religious life. It\u2019s a beautiful vocation however the life of obedience can often be abused. I want to make a distinction between the wrong ways of religious life and the beauty of the religious life when it is done the right way.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-02-04T00:00:00",
       "duration": "00:24:10.5500000",
       "explicit": false,
       "spotifyId": "2HFPWNd8c2KYFD24PEaRi9",
       "appleId": 1000550099625,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2HFPWNd8c2KYFD24PEaRi9",
         "apple": "https://podcasts.apple.com/podcast/the-good-side-of-religious-life/id1559758565?i=1000550099625",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e29b5bff-db7a-4661-b3d1-6e661445292b",
+      "type": "Episode",
       "title": "When Following God Feels Like a Mistake Part II",
       "description": "In this podcast episode I tell the true story about how I held on to my sanity while being isolated from the other community members and how my family life was played with. Psychological abuse and gaslighting was a big part of it. There is a web of lies in this story and I want to get to the truth.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-26T00:00:00",
       "duration": "00:28:50.3740000",
       "explicit": false,
       "spotifyId": "65rJake6leUyvjRoZH8l7h",
       "appleId": 1000549000099,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/65rJake6leUyvjRoZH8l7h",
         "apple": "https://podcasts.apple.com/podcast/when-following-god-feels-like-a-mistake-part-ii/id1559758565?i=1000549000099",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "db28e323-02c2-404b-9860-928769d36114",
+      "type": "Episode",
       "title": "Santo AngHELL",
       "description": "In this podcast I talk about how there was a force of good and evil that was very much alive during my time as a religious brother.  There was one side of religious life that was truly Christian and there was another side of it that was Cultish and abusive.  The Cultish members tried to ruin my life and found pleasure in seeing my sufferings and the sufferings of others which caused me severe PTSD.  Being between the two sides of good and bad members in religious life was very difficult but I was able to hold on to HOPE with the help of good brothers and sisters.  In this podcast I lift up the good members, although not perfect, however, they did so much to help me on my road of healing.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-16T00:00:00",
       "duration": "00:18:19.5570000",
       "explicit": true,
       "spotifyId": "5jfMD7prdRC67F3bdiGcVn",
       "appleId": 1000548011403,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5jfMD7prdRC67F3bdiGcVn",
         "apple": "https://podcasts.apple.com/podcast/santo-anghell/id1559758565?i=1000548011403",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6c2232c6-bbf5-4c61-b023-48f81e887e21",
+      "type": "Episode",
       "title": "PTSD of a former religious",
       "description": "In this podcast I touch briefly on the excitement I had when I first joined the religious life and the depression and misery that resulted after my return.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-10T00:00:00",
       "duration": "00:24:15.0780000",
       "explicit": true,
       "spotifyId": "7se196FG3VXdNASRLIaXLN",
       "appleId": 1000547383542,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7se196FG3VXdNASRLIaXLN",
         "apple": "https://podcasts.apple.com/podcast/ptsd-of-a-former-religious/id1559758565?i=1000547383542",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "78fd4430-2055-44fe-9525-12367e3a15bc",
+      "type": "Episode",
       "title": "Response to Episode When Following God Feels like a Mistake",
       "description": "I am overwhelmed by the amount of people have reached out to me. I had to make a response to that episode because I want to be clear: I am not doing this to please people or as some sort of healing. I primarily want to do this because I believe that my story is something that can be shared with many people, particularly those who left religious life. Entering the religious life as a Catholic was so exciting but by the time I left I was so messed up. It has taken years for me to find peace. Now I want to share my peace and a piece of my mind on what happened in there.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2022-01-02T00:00:00",
       "duration": "00:13:51.7850000",
       "explicit": false,
       "spotifyId": "0JPEcUUII5X5PZmy6qeZ8p",
       "appleId": 1000546735520,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0JPEcUUII5X5PZmy6qeZ8p",
         "apple": "https://podcasts.apple.com/podcast/response-to-episode-when-following-god-feels-like-a-mistake/id1559758565?i=1000546735520",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "477a538e-c3d4-4f98-8a14-5610f6c8fe13",
+      "type": "Episode",
       "title": "Skating misfit ",
       "description": "My first podcast. Briefly interviewing Aaron Gutierrez on the life of being a skateboarder in Texas.   ---   Support this podcast: https://podcasters.spotify.com/pod/show/ryan-anthony-hernandez/support",
+      "posted": false,
+      "ignored": false,
       "release": "2021-03-21T00:00:00",
       "duration": "00:03:54.2890000",
       "explicit": false,
       "spotifyId": "1haQoC3Ldt0iFWGBYfFkio",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1haQoC3Ldt0iFWGBYfFkio",
         "apple": "https://podcasts.apple.com/podcast/skating-misfit/id1559758565?i=1000514090321",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     }
-  ]
+  ],
+  "fileKey": "the_truth_that_heals"
 }

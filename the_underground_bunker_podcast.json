@@ -1,1121 +1,1408 @@
 {
   "id": "4dd09e62-9e90-4a66-86f6-d25ad2e313be",
+  "type": "Podcast",
   "name": "The Underground Bunker Podcast",
+  "publisher": "Tony Ortega",
+  "hasBundledEpisodes": false,
+  "indexAllEpisodes": true,
+  "primaryPostService": "YouTube",
   "spotifyId": "6HeXZgYuiL6cH5auHgpIFw",
   "appleId": null,
   "youTubeChannelId": "UCOTK4ae6wrPbRbYynM95mjA",
+  "youTubePublicationDelay": "1:00:00:00",
+  "titleRegex": "(PODCAST\\: )(?\u0027title\u0027.*?)$",
+  "descriptionRegex": "",
+  "episodeMatchRegex": "",
   "episodes": [
     {
+      "id": "0dd5917a-c952-4ee9-ab9d-442280428c3a",
+      "type": "Episode",
+      "title": "PODCAST: This week\u2019s sentencing and letters drama left us needing some group therapy",
+      "description": "The gang is back together this week for some Group Therapy, but given the magnitude of this week\u2019s Scientology news, we thought we\u2019d make this episode available to everyone.If you like what you hear, please consider becoming a paid subscriber of the Underground Bunker. For $7 a month, you\u2019ll not only help keep this place going, but you\u2019ll get access to future episodes of Group Therapy and other special items we are planning to put together.Hey, the news is only going to get more interesting at this point. Please join us as we inject Scientology news with a little J\u0026D!Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-09T00:00:00",
+      "duration": "00:50:02.6690000",
+      "explicit": false,
+      "spotifyId": "4WrBr53r6Uo6L8JFRU0ohF",
+      "appleId": null,
+      "youTubeId": "M1qqvz6oJJE",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4WrBr53r6Uo6L8JFRU0ohF",
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=M1qqvz6oJJE"
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
       "id": "35da93be-6851-4485-bffc-0a2f27b78f60",
+      "type": "Episode",
       "title": "PODCAST: Apollo crew member Sandy Holeman on serving L. Ron Hubbard and fleeing Scientology",
       "description": "We\u2019ve been talking to Sandy Holeman for years, and we should have introduced you to her long ago. And when she told us that she had attended the San Jose world premiere of \u2018Brothers Broken\u2019 last month, we decided to make up for lost time.Imagine, at only 19, making the decision to leave behind everything to join a ship in the Mediterranean and serve the leader of Scientology, L. Ron Hubbard, aboard the yacht Apollo.And then to be assigned the task of auditing Scientology\u2019s books so it could get its IRS tax exempt status back! (Something that wouldn\u2019t happen for another 20 years.)Sandy Holeman was such a fixture on the Apollo, she ended up being featured in the original \u2018What is Scientology\u2019 book with Hubbard\u2019s goofy photos shot in Trinidad and Tobago.And part of the reason she was at the \u2018Brothers Broken\u2019 premiere was that she had actually gone to the same high school as Robbie and Geoff Levin, and had a photo of them performing at the school in a 1967 yearbook.Yes, we certainly had a lot to talk about, and it\u2019s good to finally get Sandy\u2019s story out now. Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.org And whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": true,
+      "ignored": false,
       "release": "2023-09-02T00:00:00",
       "duration": "01:02:48.2680000",
       "explicit": false,
       "spotifyId": "5T88TTXDFxDmbN85HRuttE",
       "appleId": null,
       "youTubeId": "19GvteDoqb4",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5T88TTXDFxDmbN85HRuttE",
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=19GvteDoqb4"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2b86168c-f853-4f6f-a8e3-3b4f9f27f404",
+      "type": "Episode",
       "title": "PODCAST: Jonny Jacobsen, our man in Paris, was on Scientology\u0027s abuses before most",
       "description": "We\u2019ve had a lot of fun recently talking to great reporters who have covered Scientology like John Sweeney, Mark Ebner, and Steve Cannane. So of course we wanted to check in with our man in Paris, one of the very best journalists we know, Jonny Jacobsen.It was really fun to go back over his work to see how early he was to stories like David Miscavige beating his staff, and that his blog \u2018Infinite Complacency,\u2019 contains such amazingly detailed and well-researched material. But we\u2019re also indebted to Jonny for being the Underground Bunker\u2019s Paris correspondent over the years. We can always rely on him for thorough and smart coverage that really explains the larger context of what\u2019s going on over there.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Judge sets Dec 4 hearing in Leah Remini\u2019s lawsuitJudge Randolph Hammock has set an initial hearing date of December 4 in Leah Remini\u2019s lawsuit against Scientology and David Miscavige.In the meantime, Leah has submitted evidence that she\u2019s served the defendants (Church of Scientology International and the Religious Technology Center) or at least attempted \u201Csubstitute service\u201D on the third defendant, David Miscavige, at his 6331 Hollywood Blvd address, the Hollywood Guaranty Building.But we\u2019ve seen how that goes. We expect now that CSI and RTC will make their initial response to the lawsuit, but Miscavige will send down an attorney to make a \u201Cspecial appearance\u201D and say that Miscavige has not been served properly and should not be a part of the lawsuit. Let the drama begin.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-26T00:00:00",
       "duration": "01:01:38.6980000",
       "explicit": false,
       "spotifyId": "5zT5WAI2JqkhQhxvo6I2aZ",
       "appleId": null,
       "youTubeId": "09byX4j2HS4",
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5zT5WAI2JqkhQhxvo6I2aZ",
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=09byX4j2HS4"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "abbd5e07-bb8e-4410-8483-595525a0d821",
+      "type": "Episode",
       "title": "PODCAST: Sands Hall updates us on her Scientology memoir adventure!",
       "description": "We\u2019re such huge admirers of Sands Hall, a luminous writer and musician, whose memoir about her time in Scientology was first published in 2018.It\u2019s out in paperback now, and with a slightly different title. We talked about why that\u2019s so, and how she continues to think about Scientology and the process of writing about it.Also, if you haven\u2019t seen her 2019 piece for the Los Angeles Review of Books about how she lost her voice during the Portland Freedom Crusade, you really must.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": true,
       "release": "2023-08-19T00:00:00",
       "duration": "00:53:38.0180000",
       "explicit": false,
       "spotifyId": "1O6h3l7O6hreTMmHr7Yx5Q",
       "appleId": null,
       "youTubeId": "quuNBLwg0jk",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1O6h3l7O6hreTMmHr7Yx5Q",
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=quuNBLwg0jk"
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c0555698-39f0-467e-bfec-bf9d90dd1436",
+      "type": "Episode",
       "title": "PODCAST: When the \u2018Brothers Broken\u2019 lured David Miscavige to their Hollywood celeb blowout!",
       "description": "Oh wow, what a treat it was to get to talk to both \u201CBrothers Broken\u201D \u2014 musicians and former Scientology Sea Org members Geoff and Robbie Levin \u2014 for our podcast this week.We\u2019ve discussed their story before: They were the core members of the band People! that had a big 1968 hit, \u201CI Love You,\u201D but then were sucked into Scientology and helped Yvonne Gillham as she was creating the Hollywood Celebrity Centre. Robbie soon soured on the Sea Org and left, and then Scientology\u2019s toxic \u201Cdisconnection\u201D policy kept them apart as Geoff spent a total of 46 years in the organization, becoming a mainstay of the Celebrity Centre and creator of some Scientology\u2019s most iconic music.Finally, after Geoff nearly died and began making his way out of Scientology, the brothers were reunited and People! was reformed.  But disconnection has not loosened its grip, as Scientology has separated Geoff from his own grown children.Now,  after several years of hard work, Geoff and Robbie are premiering their documentary in theaters, and you have a chance to go!Here are the dates and times.The US premiere of Brothers Broken\u2026Cinequest Film Festival, San Jose, CA Sunday August 20: Hammer Theatre Center, 4:30 pmSaturday August 26: Mountain View ShowPlace ICON Theatre \u0026 Kitchen, 11:30 am.Also, the Los Angeles premiere...At the Studio City Film FestivalSunday Sept 3, Laemmle NoHo 7, 5240 Lankershim Blvd, North Hollywood, 7:30 pmBut today\u2019s podcast is about more than what\u2019s in the movie. In fact, Robbie told us a story about David Miscavige we\u2019d never heard before, and it\u2019s really something: In 1983, Robbie and Geoff threw a party for Scientology\u2019s celebrities as a way to lure in Miscavige, and it worked! You have to hear Robbie tell this tale.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Hoax 1983 document coming up again?We can certainly understand Amy Scobee\u2019s excitement about being sent what appears to be a 1983 document written by David Miscavige and ordering, in typical foul language, to have fake footage of L. Ron Hubbard created to pass off as genuine to gullible Scientologists. Amy featured it in a video yesterday, suggesting that it was a new leak.In fact, that document has been floating around online since at least 1995, and it purports to come from a year, 1983, that we\u2019ve noticed was the source of some questionable documents from breakaway factions that were taking advantage of the absence of L. Ron Hubbard.In a 1999 sworn declaration in the Wollersheim lawsuit, Miscavige himself testified that this particular document, titled \u201CRE: SMASH SQUIRRELS PJT\u201D was a forgery that had been certified as such in a previous court matter:The resultant attempts to harass me in litigation extended to not just creating false allegations, but false documents as well. In 1984, a former church staff member then employed by one of those splinter groups, created a document entitled SMASH SQUIRRELS PJT. This forged document, allegedly written by me, purported to show that the taped message by Mr. Hubbard denouncing their movement was actually created by me through use of a digital sampling device. Putting aside that lie, no digital sampling device was, or is to this day, capable of accomplishing such a task. Moreover, the digital device referred to, and by which I allegedly accomplished this impersonation of Mr. Hubbard\u0027s voice, was an early generation musical instrument, capable of replicating a short sample of natural sounds for use in playing music. Notwithstanding the absurdity of the allegation, the ramifications of this forgery had a severe impact on me. It implied I intended some form of harassment of apostate Scientologists (colloquially called \u0022SQUIRRELS\u0022 in Scientology). The document was widely circulated to Scientologists and to the government in an attempt to discredit me. It also was circulated by civil litigants, and continuously used against me in litigation. I had to fight this issue for years, until the document was examined in 1993 in a Freedom of Information Act case, Miscavige v. IRS, No. CV 88-7341 TJH (C.D. Cal.) by Special Master Jack Tenner, who found that it was, in fact, a forgery. That conclusion was affirmed in an order issued by Judge Terry J. Hatter of the United States District Court for the Central District of California. [Ex. E, order of Judge Hatter.]So, while we are always skeptical of claims by Miscavige, the least we can say is that the authenticity of this document has been heavily questioned numerous times over many years, and it is not a new leak. We\u2019re sorry to spoil the party, but we tend to believe that this document is most likely not what it purports to be.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": true,
       "release": "2023-08-12T00:00:00",
       "duration": "00:56:54.6810000",
       "explicit": false,
       "spotifyId": "1jHjq69AW1J4K36sgB5652",
       "appleId": null,
       "youTubeId": "zBRKef68FUI",
-      "subjects": [
-        "Odyssey Study Group"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jHjq69AW1J4K36sgB5652",
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=zBRKef68FUI"
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Odyssey Study Group"
+      ]
     },
     {
       "id": "2c7608aa-7adb-4aa6-9420-07e3feef95a7",
+      "type": "Episode",
       "title": "PODCAST: Spanky Taylor and Karen Pressley assess Leah Remini\u0027s damage on Scientology!",
       "description": "Karen Pressley is in Los Angeles to celebrate the 25th anniversary of her decision to leave the Church of Scientology, and she\u2019s visiting other escapees, including her good friend Spanky Taylor.Spanky, of course, appeared in the 2015 HBO documentary \u2018Going Clear,\u2019 and she\u2019s a longtime friend to the Underground Bunker.We had a lot to discuss with both of them, but we definitely wanted to sound them out about this week\u2019s bombshell news about Leah Remini filing a lawsuit against the church and David Miscavige.The two of them also wanted to talk about the testimony in the Danny Masterson trial that exposed how Scientology punishes members who admit to being victims of crime, and they each related their own experiences seeing this. Both Spanky and Karen were important figures at the Hollywood Celebrity Centre in their eras.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-08-05T00:00:00",
       "duration": "01:02:44.2640000",
       "explicit": false,
       "spotifyId": "5mNDCK6Ax7PvbMdDiY5T36",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mNDCK6Ax7PvbMdDiY5T36",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "0e2bc452-f330-4616-875c-b2a7be0e4cde",
+      "type": "Episode",
       "title": "PODCAST: \u2018Oppenheimer\u2019 and Scientology, with physicist Bruce Hines",
       "description": "The highly anticipated new film Oppenheimer, directed by Christopher Nolan, hit theaters yesterday, and we had a crazy idea: Watch the film on opening day here in New York while former Scientology auditor Bruce Hines caught it in Denver, and then talk about it!Why Bruce? Well, not only has he been a great contributor to the Underground Bunker, writing really terrific narratives about his time in the Sea Org and auditing some really interesting people (such as Nicole Kidman and Mary Sue Hubbard), but he\u2019s also a physicist!And we wanted to discuss with him the totally nutty way that Scientology and the Oppenheimer film actually do intersect, thanks to a particularly bombastic tall tale from founder L. Ron Hubbard, who claimed to have been involved with the scientists working on the first atomic bombs.You can read about that in this 2015 piece we put together with help from researcher Lauren Wolfe. It\u2019s amazing stuff, and we know Bruce would have some fun things to say about it.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-22T00:00:00",
       "duration": "00:59:02.1420000",
       "explicit": false,
       "spotifyId": "3ts57p34J5qmmV76AGIY5k",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ts57p34J5qmmV76AGIY5k",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3e29a923-dd0a-46f9-86e8-12ec63deb43a",
+      "type": "Episode",
       "title": "PODCAST: Mark Ebner dishes on Tom Cruise whisperer and \u2018M:I7\u2019 director Chris McQuarrie",
       "description": "We didn\u2019t really need an excuse to bring Mark Ebner back to the podcast, but what the hell, we figured Tom Cruise coming out with another movie was reason enough to call our old pal for his thoughts.What we didn\u2019t realize is that Ebner was once a close friend to the man film reviewer Luke Y. Thompson called a \u201CCruise-Whisperer extraordinaire,\u201D writer and director Chris McQuarrie.Mission: Impossible \u2014 Dead Reckoning Part One, which opened this week in theaters, marks the third film in a row in the franchise with McQuarrie directing. But Ebner knew McQuarrie before that bromance bloomed and he spilled some tea in this episode that you are possibly never going to forget. All we can say is, be prepared for maximum Ebner at his most graphic, and don\u2019t say we didn\u2019t warn you!Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-15T00:00:00",
       "duration": "01:06:52.5450000",
       "explicit": false,
       "spotifyId": "4VfpHdpnGre6BsG7RsC3tA",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4VfpHdpnGre6BsG7RsC3tA",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "389c0271-50fe-44b3-a298-04976bf3145c",
+      "type": "Episode",
       "title": "PODCAST: Film critic Luke Y. Thompson on Tom Cruise as action star and Scientologist dope",
       "description": "Luke Y. Thompson (AV Club) once again knocked us out with a great film review at the Underground Bunker, this time for the premiere of Tom Cruise\u2019s new actioner, Mission: Impossible \u2013 Dead Reckoning Part One. Last year Luke made us laugh over his review of Cruise\u2019s \u2018Narcissistic Navy Jesus\u2019 in Top Gun: Maverick. And our association with him goes back more than 20 years.So we figured it was about time we had him on the podcast to pick his brain about Cruise, Scientology, and the movies.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-08T00:00:00",
       "duration": "00:58:28.6750000",
       "explicit": false,
       "spotifyId": "6Jp7mPYvcqiZ7efp2PSukW",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Jp7mPYvcqiZ7efp2PSukW",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "e9c7ff38-e38b-4e36-8e1c-91f560429695",
+      "type": "Episode",
       "title": "PODCAST: Jon Atack on Charles Manson and Scientology",
       "description": "Jon Atack\u2019s piece for us this week about Charles Manson and Scientology was such a hit with our readers, we knew we had to get him on the podcast this week to chat with him about it further.Once again, choose your poison. You can listen to the audio podcast (above) or watch the video version at YouTube, which is embedded below.Also, as he mentions at the end, Jon now has an audiobook version of his short overview, Scientology: Cult of Greed. We recommend you give it a listen.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019shappening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-01T00:00:00",
       "duration": "01:04:29.4360000",
       "explicit": false,
       "spotifyId": "0XJJlBwAJO4ynMChQsZaH8",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0XJJlBwAJO4ynMChQsZaH8",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c0dee094-9675-4db7-bffa-8299ad18d330",
+      "type": "Episode",
       "title": "Mark Bunker: Scientology spokesman Ben Shaw said what about me?",
       "description": "In another round of howling to the Tampa Bay Times, Scientology\u2019s Clearwater spokesman Ben Shaw made numerous not very nice accusations about Vice Mayor Mark Bunker.So naturally we thought we\u2019d ask Wise Beard Man about that, and we had lots of fun.Listen to the podcast or watch the video version, which we\u2019ve posted at YouTube.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-24T00:00:00",
       "duration": "00:48:47.6940000",
       "explicit": false,
       "spotifyId": "7weeGrqV9fLqa40hoU60tI",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7weeGrqV9fLqa40hoU60tI",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ae01186f-3b6d-4e1f-b530-37c7dcaef85d",
+      "type": "Episode",
       "title": "PODCAST: \u0027Chicago Fire\u0027 star Christian Stolte on his Scientology experience",
       "description": "We had heard from some of you about our video interviews not going out on the usual podcast feed, so we think we have figured it out this week.Our interview with Christian Stolte will go out both as an audio version on the usual Podcast feeds (above and at Spotify, etc), but you can also watch the video version of it if you\u2019d like, embedded below as a YouTube video.Christian is one our favorite people, and he\u2019s been involved here at the Bunker for quite a few years. If you were at HowdyCon Chicago in 2018, you even got to see him sing a song about Scientology! We think you\u2019re really going to enjoy what he has to say about his own involvement in the church, his brush with \u2018disconnection,\u2019 and his thoughts about the Danny Masterson trial.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-17T00:00:00",
       "duration": "01:07:57.9780000",
       "explicit": false,
       "spotifyId": "7xbAlk5QQuPHYfCSzr0T9C",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7xbAlk5QQuPHYfCSzr0T9C",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c55fa51f-4d56-40c2-8096-57b0d0cde069",
+      "type": "Episode",
       "title": "PODCAST: Kate Bornstein is plugged into our Danny Masterson retrial coverage",
       "description": "We can\u2019t believe it\u2019s been 11 years since we put Kate Bornstein on the cover of the Village Voice. It\u2019s one of our proudest moments during our five years at the Voice, and it was a real treat to spend time catching up.Kate\u2019s an avid reader of our Danny Masterson retrial coverage, and now that we\u2019ve finished with testimony in the case (closing arguments are scheduled to take placed on Tuesday), we thought we\u2019d check in.We ended up having the tables turned on us as some really interesting questions about the trial came our way.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link, and for Zelle, please use (tonyo94 AT gmail).Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-14T00:00:00",
       "duration": "01:04:54.9620000",
       "explicit": false,
       "spotifyId": "5avc0XSKYONUFLic5uvJse",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5avc0XSKYONUFLic5uvJse",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "cf6c06aa-80ef-436d-b419-92b7fff7228d",
+      "type": "Episode",
       "title": "PODCAST: Tory Christman on visiting the Danny Masterson retrial",
       "description": "We first wrote about Tory Christman in 2001, and 22 years later it\u2019s still one of our favorite stories of all time \u2014 about a woman who went from one of Scientology\u2019s most reliable foot soldiers to one of its most resilient critics.She was in the courtroom this week at the Danny Masterson retrial, and we were curious about how it compared to some of the trials she had attended as a church operative. We think you\u2019re going to find her observations fascinating. But we also enjoyed having her on because Tory is so fun to talk about anything with. She\u2019s a hoot!So please enjoy this recording as we trade notes about the trial, and consider Tory\u2019s career as a whistleblower.Want to help?You can support the Underground Bunker with a Paypal contribution to bunkerfund@tonyortega.org, an account administered by the Bunker\u2019s attorney, Scott Pilutik. And by request, this is our Venmo link.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-05-05T00:00:00",
       "duration": "01:01:20.7800000",
       "explicit": false,
       "spotifyId": "46zxIdYrBMJVYSfEQIVvyj",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/46zxIdYrBMJVYSfEQIVvyj",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "4497f68e-6e1d-4448-9424-037a7eff033f",
+      "type": "Episode",
       "title": "Group Therapy, Ep. 16: The full gang is back, with an episode for everyone!",
       "description": "With the Danny Masterson retrial starting tomorrow, we\u2019re shifting gears and preparing for some hard work in the weeks ahead.So, in that spirit we thought we\u2019d let the larger community in on something our subscribers have known about for a few months now: On Sundays, they receive a copy of our special podcast series we call \u201CGroup Therapy.\u201DEach week, some of our longtime Underground Bunker favorites get together to discuss the Scientology news of the week, and we have a lot of fun doing so.This week, we\u2019d like the rest of you to listen in and get a sense for what fun we have.If you enjoy the episode, please consider joining our list of paid subscribers. You\u2019d not only help support the work we do here, day in and day out, but you\u2019ll also get access to the special podcast series we\u2019ve been doing with Sunny Pereira, \u201CUp the Bridge.\u201D (Go here for a sample episode we recently made available for everyone.)\u2014 Your ProprietorThank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-16T00:00:00",
       "duration": "01:00:23.7230000",
       "explicit": false,
       "spotifyId": "3TXer0L87oTcMPolF7cF04",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3TXer0L87oTcMPolF7cF04",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "42d82399-942e-4493-8096-7675eb08a810",
+      "type": "Episode",
       "title": "Pre-trial Scientology special: The new episode of Up the Bridge, for everyone!",
       "description": "In 2013 we began a very popular series at the Underground Bunker which lasted more than a year.We called it \u201CUp the Bridge,\u201D and with Claire Headley\u2019s help we explained something about every step on Scientology\u2019s \u201CBridge to Total Freedom,\u201D from beginning to end, and tallying up the costs along the way.We wanted to give non-Scientologists some sense of what it was like to go all the way from beginner to Operating Thetan, and learn something about what Scientologists actually do all day as they\u2019re making their way to that goal.Recently we decided to try that again, but in a special podcast series for our subscribers, and with the help of our technical expert, former Hollywood Celebrity Centre officer and Sea Org veteran Sunny Pereira.For several weeks now Sunny has been taking us on a pretty strange and entertaining journey through what it\u2019s like to go through Scientology courses and auditing. And now, with everything about to change as we head back to LA for the Danny Masterson retrial, we thought we\u2019d let the rest of you get a listen to what an episode with Sunny has been like. So, for this week, we\u2019re making the new installment available to everyone. As you\u2019ll see, we\u2019re now up to Grade One on the Bridge, and things are only getting stranger!Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-13T00:00:00",
       "duration": "00:43:45.9600000",
       "explicit": false,
       "spotifyId": "0Y42jr0jRydQqKtQx5ZXrg",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Y42jr0jRydQqKtQx5ZXrg",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "f3913e65-c97c-4a1b-a044-c9da61a964f9",
+      "type": "Episode",
       "title": "PODCAST: John Sweeney stops by to chat about Scientology\u0027s \u0027dark nonsense\u0027",
       "description": "When we took a photo of John Sweeney pouring a cup of tea on a visit to London, we didn\u2019t know that in a few years he\u2019d not only be a best-selling author of multiple books, but that he\u2019d become known for reporting from the Battle of Kyiv in an orange wool cap.We\u2019re fortunate that we caught the very busy former BBC journalist, and for a fun trip down memory lane about reporting on Scientology. We hope you enjoy it as much as we did!Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-01T00:00:00",
       "duration": "01:15:44.6440000",
       "explicit": false,
       "spotifyId": "6mqbTEhVbOF6brKpE9QCPO",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6mqbTEhVbOF6brKpE9QCPO",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "b95905af-ebc9-4837-a57d-68a33f219a72",
+      "type": "Episode",
       "title": "PODCAST: Louise Shekter compares working closely with both Hubbard and Miscavige",
       "description": "Louise Shekter has written some dynamite pieces for us at the Underground Bunker. She not only was in some amazing places to witness Scientology history during her tenure (1969-2000), but she\u2019s a terrific writer of evocative prose.We thought it was time to bring her on the podcast, and we told her we had a special subject in mind. Louise is a member of a pretty select club: She worked closely, for years, with both Scientology\u2019s founder, L. Ron Hubbard, and the man who succeeded him, David Miscavige.On the yacht Apollo, she was one of Hubbard\u2019s longest-serving personal aides. For Miscavige at Gold Base, she was a film director. She saw both men up close, and worked with them on major projects. How many people today who have left Scientology can say the same thing, we thought.We asked her to compare her experiences with these two ultimate leaders of Scientology, and we hope you find her answers as fascinating as we did.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning.Paid subscribers get access to two special podcast series every week\u2026Up the Bridge: A weekly journey through Scientology\u2019s actual \u201Ctechnology\u201DGroup Therapy: Our round table of rowdy regulars on the week\u2019s news   This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-25T00:00:00",
       "duration": "01:08:20.4000000",
       "explicit": false,
       "spotifyId": "7zleknLWH0K2RxJYdPw74D",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7zleknLWH0K2RxJYdPw74D",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "42bd2bab-f73a-4845-984a-3ec1563c4f7c",
+      "type": "Episode",
       "title": "PODCAST: Clarissa Adams on Scientology ripping apart families right now",
       "description": "One of the people who reached out to us about the unfortunate news about Jenny Burpee was Clarissa Adams, who knew Jenny in the Sea Org.It\u2019s been a while since we had talked to Clarissa, and so we were anxious to catch up with her, and then we invited her on the podcast to talk about the terrible example of Scientology disconnection that has ripped apart her family.Clarissa was a second-generation Scientologist who grew up in the church, spent time in the Sea Org, and then paid a heavy price when she finally broke away. We think her story is important because it illustrates how Scientology \u2018disconnection\u2019 is actively harming current and former members of the church in the present day.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-18T00:00:00",
       "duration": "01:18:24.4040000",
       "explicit": false,
       "spotifyId": "1oD0XpXbiwxCqMTX9CVaav",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1oD0XpXbiwxCqMTX9CVaav",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "03793a6e-0ee2-4ee8-af88-64023c486a48",
+      "type": "Episode",
       "title": "PODCAST: HBO \u0027Q Into the Storm\u0027 star Fredrick Brennan on Scientology and QAnon",
       "description": "We hope you had a chance to see HBO\u2019s excellent 2021 investigation into the origins of the QAnon phenomenon, Q Into the Storm, directed by Cullen Hoback. One of the surprising stars of the series was Fredrick Brennan, the young man who had founded 8chan, the imageboard that became the nursery for the QAnon movement, something Brennan came to regret. In the series, he helped Hoback unearth the history of the Q phenomenon, which has led to credible threats to his life.It turns out that Fred is a regular reader of the Underground Bunker and had reached out to us. We invited him on for a rollicking fun podcast episode to talk about the similarities between Scientology and QAnon, and other subjects. Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-11T00:00:00",
       "duration": "01:10:41.3740000",
       "explicit": false,
       "spotifyId": "70nAOqLrLwySH83rF4ytxt",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology \u0026 QAnon"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/70nAOqLrLwySH83rF4ytxt",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology \u0026 QAnon"
+      ]
     },
     {
       "id": "1d586098-b9b2-41a7-97ed-def98d8e1804",
+      "type": "Episode",
       "title": "PODCAST: Steve Cannane checks in after reporting from the war in Ukraine",
       "description": "One of our favorite people in the whole world is Australian journalist Steve Cannane. We first became aware of Steve\u2019s work because he was tearing it up at the ABC with story after story about Scientology in the land Down Under. In particular, he was the first reporter to interview Valeska Paris, who alleged that for more than ten years she had been a prisoner on Scientology\u2019s cruise ship the Freewinds. We then interviewed Valeska for the Village Voice, and it became the most popular story we ever published there.Today Valeska is suing Scientology for labor trafficking in Tampa, and it\u2019s been several years since Steve\u2019s terrific book about Scientology in Australia, Fair Game, came out and was sued in court \u2014 but not by Scientology. (Go figure.) And let\u2019s not forget that part of Steve\u2019s book tour included stopping by HowdyCon 2017 in Denver!We wanted to catch up with Steve, especially after seeing some of the reporting he\u2019s done from the war in Ukraine. Amazing stuff!Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-03-04T00:00:00",
       "duration": "01:00:58.0240000",
       "explicit": false,
       "spotifyId": "7cL2NIgEDmR8nFxuIMY3pf",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7cL2NIgEDmR8nFxuIMY3pf",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3ae499f0-2869-4234-ba70-3c08934e449c",
+      "type": "Episode",
       "title": "PODCAST: Karen Pressley on Scientology\u0027s radicalizing of Tom Cruise",
       "description": "Karen Pressley spent almost 20 years in Scientology, and then turned her experience into a terrific book, Escaping Scientology: My Journey with the Cult of Celebrity Spirituality, Greed \u0026 Power.We\u2019ve posted an excerpt of it in the past, but we wanted to check in with Karen because of her experience working at the Hollywood Celebrity Centre. This week, Scientology really took it in the shorts when Judd Apatow, speaking at the Directors Guild of America Awards this weekend, aimed some barbs at Tom Cruise.You no doubt saw reporting on it, but we wanted to go over Apatow\u2019s zingers with Karen and ask her, how would Scientology, when she was at CC, deal with this kind of fallout? We think you\u2019ll find her answers very interesting.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-25T00:00:00",
       "duration": "01:06:39.2990000",
       "explicit": false,
       "spotifyId": "6MJXn7TQqJ2HEohyYXkVKE",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6MJXn7TQqJ2HEohyYXkVKE",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4b3bbfbe-34b2-4305-ab76-3983c7d369c1",
+      "type": "Episode",
       "title": "PODCAST: Mark Ebner joined Scientology for two weeks and we\u0027re still recovering from it",
       "description": "Way back at the turn of the century, your Proprietor and Mark Ebner were both slaving away for a newspaper that no longer exists that was called New Times Los Angeles. We both took on Scientology as a subject, and we\u2019ve been good friends ever since, with Ebner contributing some unusual and hilarious items for us here at the Bunker over the years. (Remember Gay Ribisi\u2019s Scientology plaques, for example?)Ebner has done some terrific work on Scientology, but the one piece we admire most was his first: His epic 1996 article for Spy magazine about the time he actually joined Scientology for a short time to learn what it was like. Titled, \u201CDo You Want to Buy a Bridge?\u201D it\u2019s a classic.And we thought it was time to have him on the podcast to revisit that work, and ask him about the newest book he has out now, Off the Deep End: Jerry and Becki Falwell and the Collapse of an Evangelical Dynasty. But be prepared, this is Ebner we\u2019re talking about, and there\u2019s rough language ahead!(At Dresden in Los Feliz, blowing off steam after the mistrial, Nov 30.)Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-18T00:00:00",
       "duration": "01:03:28.2410000",
       "explicit": false,
       "spotifyId": "68v0A2BoJ0UnXNbIOetrn6",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/68v0A2BoJ0UnXNbIOetrn6",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "6166098e-1a46-4e2a-885f-fbee1228fe93",
+      "type": "Episode",
       "title": "Where does Valerie Haney go from here? A free excerpt from the \u0027Group Therapy\u0027 podcast",
       "description": "Bonus material! We have for you another excerpt from our podcast for subscribers, which we call Group Therapy.Each week we bring together four of our Underground Bunker regulars, Andrea \u0027i-Betty\u0027 Garner, Lynette \u0027Observer\u0027 Waggoner, Phil Jones, and the enigmatic Pan.We spend an hour talking about the Scientology news of the week, and we have a lot of fun.To give you a sense of it, this week we\u0027re pulling out about ten minutes from this week\u0027s episode when we discussed the quandary that Valerie Haney finds herself in, regarding her lawsuit that has been forced into Scientology arbitration.You\u0027ll see that Phil Jones came up with a pretty creative suggestion for Valerie, and we wanted to share it with the rest of you. It\u0027s a small part of what you would have heard if you received Group Therapy on the weekend, and we hope you consider subscribing to get future episodes and to support the work we do here at the Underground Bunker. Thank you very much.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-08T00:00:00",
       "duration": "00:12:12.1980000",
       "explicit": false,
       "spotifyId": "1yDet3YVDKHpNql1aX6z8o",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1yDet3YVDKHpNql1aX6z8o",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3372731b-f69f-44d1-ad5b-857007185aab",
+      "type": "Episode",
       "title": "PODCAST: Mark \u2018Warrior\u2019 Plummer remembers Scientology\u2019s deceptions",
       "description": "We were very happy we got the chance to catch up with Mark Plummer this week. Mark has been a friend to the Underground Bunker for many years, supplying us with killer documents that he took out of the Church of Scientology when he left it in the early 1980s. We met him in person for the first time in Austin on our book tour in 2015. And we\u2019ve been grateful for his friendship and his deep knowledge about Scientology\u2019s history.We knew that some of our readers may not be familiar with this important researcher of all things Hubbardian, and so we were glad to talk with him this week about his Scientology journey.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-02-04T00:00:00",
       "duration": "01:02:55.4080000",
       "explicit": false,
       "spotifyId": "30VFyAiFvDpXvgjFyAJbEx",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/30VFyAiFvDpXvgjFyAJbEx",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "4d0935e6-a758-40cc-a5e3-d488eb16bf8e",
+      "type": "Episode",
       "title": "Podcast: Mark Bunker explains that David Miscavige is not \u0027missing,\u0027 he\u0027s HIDING",
       "description": "Over the last few days, you\u2019ve probably noticed some breathless tabloid claims that Scientology\u2019s leader David Miscavige has gone \u201Cmissing.\u201DThis is a mischaracterization of a story that we\u2019ve been covering for more than three years now \u2014 that Miscavige has gone to extreme lengths to evade process servers in a few different lawsuits that are attempting to name him as a defendant.In other words, as our podcast subject Clearwater City Councilman Mark Bunker explains, Miscavige isn\u2019t missing, he\u2019s hiding.Bunker attended a key court hearing for us last week, and wrote an inspired report about the shenanigans coming from Miscavige\u2019s attorneys, who are trying to justify the evasive behavior of Scientology\u2019s diminutive leader.We really enjoyed getting into it with Bunker, and also revisiting some other instances of Miscavige trying not to be seen, including a wild day in Portland that Mark Bunker reminded us of. What a great trip down memory lane.We hope you enjoy it!And hey, here\u2019s a bonus. Mark mentioned shooting this video in the Tampa Ideal Org when it opened in 2011. What a great look at that time!Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-28T00:00:00",
       "duration": "01:01:57.4500000",
       "explicit": false,
       "spotifyId": "0h1ydcbxWsoLxfY6j8mBAR",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0h1ydcbxWsoLxfY6j8mBAR",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "bbb629b2-1817-43f9-acb4-d5edc5fa04be",
+      "type": "Episode",
       "title": "Who takes over Scientology after Dave? Surprising answers from our experts",
       "description": "Well, we did it once again this week.We got into some newsy stuff on our new podcast that we created for our subscribers, which we call Group Therapy.We\u0027ve brought together four of our Underground Bunker regulars, Andrea \u0027i-Betty\u0027 Garner, Lynette \u0027Observer\u0027 Waggoner, Phil Jones, and the enigmatic Pan.We spend an hour talking about the Scientology news of the week, and we have a lot of fun.This time, we described something surprising that happened during our conversation with Mike Rinder for the Mark Twain House. When we asked a question the both of us get all the time \u2014 who will succeed David Miscavige as leader of Scientology \u2014 Mike surprised himself with an intriguing answer.He suggested that Shelly Miscavige might be in a position to take over in Dave\u0027s absence.And then, we heard from Phil Jones another surprising suggestion which might be even more plausible.And it\u0027s his own son-in-law, John Goodwin, who runs Galaxy Press out of Author Services, Inc. ASI is L. Ron Hubbard\u2019s literary agency, and David Miscavige once ran it before he took over Scientology itself, so there\u2019s some precedent.Could these be plausible scenarios? We\u2019re looking forward to reading your thoughts.And as for that discussion with Mike about his book, Mark Twain House has now put the hour-long talk on YouTube. Please dive in and let us know what you think of our questions and Mike\u2019s answers.We have a feeling that Pan is correct: Now that John Goodwin has been suggested as a possible successor to Dave, his goose is cooked.But it made for some interesting discussion this weekend.So that\u0027s a small part of what you would have heard if you received Group Therapy on the weekend and we hope you consider subscribing to get future episodes and to support the work we do here at the Underground Bunker.She\u0027s baaaack!Years ago we were approached by a woman who claimed she was dying in a Canadian hospital, that Scientology wanted her dead, and that she had been brought up a sex slave to Scientology leader David Miscavige, who kept her in an underground lab beneath Gold Base, where she was forced to bear him four sons, and also to be used for bizarre experiments in growing body parts. She was a complete fabulist, of course, and we tried to warn folks about her nonsense. But to this day, there are still some gullible folks who take this woman\u0027s claims seriously.And now, she\u0027s returned with a new story. We found out last night that she is claiming to have been sent lewd texts and photos from one of Scientology\u0027s wealthy donors.We just want to caution you if you hear these claims you should just dismiss them out of hand. This woman needs serious mental health help. Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-24T00:00:00",
       "duration": "00:07:10.3970000",
       "explicit": false,
       "spotifyId": "0asr5E76vuRRNMyMLavQG6",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0asr5E76vuRRNMyMLavQG6",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "40b484a9-f0c7-485a-8bd3-d05040aa4e30",
+      "type": "Episode",
       "title": "PODCAST: Karen de la Carriere on the \u2018Ls\u2019 \u2014 Scientology\u2019s nuttiest \u2018technology\u2019?",
       "description": "On Wednesday, we showed you a new promotional video that Scientology has recently put out that is intended to lure its wealthier members to the Flag Land Base in Clearwater, Florida for some arcane practices known as the \u201CL Rundowns.\u201DWe\u2019ve long marveled at how \u201Cthe Ls\u201D are sold to Scientologists at such high prices \u2014 tens of thousands of dollars for each of three rundowns \u2014 and that they are separate from the normal progression of courses and auditing levels.What is in them that is so enticing to wealthy Scientologists?The Ls are so rarefied, they can only be delivered by Class XII auditors, the most highly trained. And we remembered that we only know one person who was Class XII, and that\u2019s Karen de la Carriere.For that story on Wednesday, she told us some amazing and bizarre things about the L11 Rundown in particular, and she hinted to us that there was a lot more there.So for this week\u2019s podcast, we asked Karen to tell us all about the Ls. And wow, this is some of the nuttiest Scientology \u201Ctechnology\u201D ever!We think you\u2019re going to enjoy this discussion.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-21T00:00:00",
       "duration": "00:57:46.9000000",
       "explicit": false,
       "spotifyId": "3hidFZreHVdRw2AZ7SslD9",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3hidFZreHVdRw2AZ7SslD9",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "898d86b4-e83d-45e9-9c9d-eda68bf321a4",
+      "type": "Episode",
       "title": "Shelly Miscavige and her beagles: A Group Therapy podcast extra",
       "description": "A couple of weeks ago we started a new podcast for our subscribers that we call Group Therapy.We\u0027ve brought together four of our favorite Underground Bunker regulars, Andrea i-Betty Garner, Lynette Observer Waggoner, Phil Jones, and the enigmatic Pan.We spend an hour talking about the Scientology news of the week, and we have a lot of fun.This past week, however, we related some things we had learned while continuing to report on the Shelly Miscavige situation. It was newsworthy, we think, and so we\u0027ve decided to peel off that short segment from the episode. As for the report on Shelly and the beagles that were left behind when she was moved to the CST compound near Twin Peaks: The dogs continued to be taken care of afterward at the Sublet Road house after Shelly vanished in 2005.We recently spoke with a former base employee who told us that in 2008, three or four of the beagles were still living there, being taken care of by the same crew that had helped out Dave and Shelly with them.The information we have about the beagles and Sublet Road house \u2014 which is no longer there \u2014 we\u0027ve corroborated with several Int Base employees who worked there at the time.One of told us this about Shelly: \u0022I\u0027m sure she was devastated. She was crazy about animals and nature. She preferred animals to people.\u0022So yeah, we don\u0027t think Shelly is maybe living her best life at the CST compound. The challenge is finding out what she thinks about her situation, because as John Brousseau has said, Dave will keep her where she is until she dies.[For a roundup of what we know about Shelly and her location, please see the annual report we post on Christmas Day.]Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-17T00:00:00",
       "duration": "00:04:06.0790000",
       "explicit": false,
       "spotifyId": "68qRih24rJQrwJssrqatMb",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/68qRih24rJQrwJssrqatMb",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "5853930d-8acf-49a5-829f-a0abb2b0f122",
+      "type": "Episode",
       "title": "PODCAST: Our never-heard 2021 interview with Ron Miscavige about daughter-in-law Shelly",
       "description": "This week, a story we have been covering for a long time, the disappearance of Shelly Miscavige, suddenly became national news, thanks to a joke by comedian Jerrod Carmichael as he was hosting the Golden Globes Awards.For years, we\u0027ve been telling you what we\u0027ve uncovered about Shelly, the wife of Scientology\u0027s ruthless leader, David Miscavige. Shelly used to help Dave run his empire, but in late August or early September 2005, she vanished from Scientology\u0027s secretive international management base near Hemet, California.Two years later, in 2007, she was seen at the funeral of her father in the presence of a Scientology \u0022handler.\u0022 But since then, there\u0027s been no confirmed sighting of this person who used to be a very visible figure in the Hubbardite world.You know, if you\u0027ve been reading our reporting, that we believe David Miscavige had his wife banished to a small mountain compound near Lake Arrowhead, California that is operated by a Scientology subsidiary known as the Church of Spiritual Technology, or CST. And yes, we hear from readers all the time that they have a hard time believing that Shelly is still alive, but we have reason to believe that she is still living at the CST base, which is often referred to as Twin Peaks, the name of a nearby hamlet. And yes, Shelly may be resigned to her fate.A couple of years ago, we were interviewing various people who knew Shelly for an unnamed project that we couldn\u0027t publish anything from.Until now.On March 15, 2021, we knew that our friend Ron Miscavige, father to Scientology leader David Miscavige, had received a medical diagnosis that he had only weeks to live. We called him up in part to ask him about his memories of Shelly, and we spoke for about 40 minutes.Ron died several weeks later, in June 2021. He was a wonderful man, a great trumpet player, and we\u2019re really glad that we got to know him. Now, we are publishing material from the conversation we had that day in March 2021, with some explanations to help listeners follow what we\u0027re talking about. Also, we must apologize for the technical quality of the call. At the time we thought that we would have a chance to have a more formal recording session with Ron later, but that turned out not to be the case.You\u2019ll see that along the way we learned some very interesting new things about Shelly Miscavige as Ron described for us what he remembered about his daughter-in-law.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-14T00:00:00",
       "duration": "00:37:25.8450000",
       "explicit": false,
       "spotifyId": "0694JWFaacS0aoETQF8wnG",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0694JWFaacS0aoETQF8wnG",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "e8bb0161-bf83-48a2-a651-c41539c1f202",
+      "type": "Episode",
       "title": "PODCAST: Karen de la Carriere says former president of Scientology is in a nursing home",
       "description": "Karen de la Carriere has been a regular feature of the Underground Bunker going back to our days at the Village Voice. Her career in Scientology was extraordinary, and so is her track record as a whistleblower.We\u0027re so pleased that she\u0027s agreed to talk with us for the podcast, and she surprised us with a number of things we hadn\u2019t heard before. We hope you enjoy our latest offering.Today\u2019s podcast episode is for everyone. Tomorrow at noon we\u2019ll be sending our second episode of Group Therapy just for subscribers. It\u2019s a wild one.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2023-01-07T00:00:00",
       "duration": "01:07:06.8260000",
       "explicit": false,
       "spotifyId": "7HgilpUjMGpTu2ygzNdILe",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7HgilpUjMGpTu2ygzNdILe",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "574b5733-7269-419f-b380-a8502478f3fb",
+      "type": "Episode",
       "title": "PODCAST: Bruce Hines on what it was like to spy for Scientology",
       "description": "Once again this week we received a timely and terrific narrative from Bruce Hines, a former top auditor in Scientology whose involvement in the church went back decades. This time, he was reacting to news we reported about the death of Jane Kember, the woman who at one time ran Scientology\u0027s worldwide spy network, the Guardian\u0027s Office.It turned out that Bruce had worked as a Guardian\u0027s Office volunteer on a local level, and he had some really interesting things to say about what it was like to engage in espionage for Scientology. We thought we\u0027d talk some more with him about that.Continuing our year in review: The stories of October 2022Jon Atack talked to us on the podcast about Mike Rinder\u2019s new book \u201CA Billion Years\u201D and where it belongs in the Scientology reporting pantheon.The US Supreme Court didn\u2019t take up Scientology\u2019s petition, and so a stunning California appeals court decision restoring the lawsuit filed by Danny Masterson\u2019s accusers can proceed without being derailed by Scientology\u2019s \u201Creligious arbitration.\u201DDanny Masterson\u2019s attorney Philip Cohen asked to delay trial because of Rick Caruso\u2019s mayoral campaign ads that attacked Scientology. (Cohen\u2019s motion was denied.) We broke the news that the prosecution was planning to call Lisa Marie Presley as a witness in the trial, and how a major Scientology donor couple\u2019s son was another witness on the list.And then, on the eve of trial, we began a series of what would become very popular short video reports from the courthouse.On Day 2 of the trial, we were stunned to spot prosecutor Deputy DA Reinhold Mueller greeting a known Scientology spy in the court hallway. What was up?On our first weekend break in the trial, Bruce Hines really delivered with a story about what it was like to audit Mary Sue Hubbard in her years of exile, and then he talked to us for a podcast on the same subject.On October 18, the Danny Masterson trial seated a jury and shifted into gear with opening statements, its first witness, Jane Doe 1, and even defense attorney Philip Cohen\u2019s first of many motions for a mistrial.Day 2 of  testimony began with another move for a mistrial, then more testimony from Jane Doe 1 and then the beginning of her cross-examination. We summarized Day 3\u2019s full day of cross.Judge Charlaine Olmedo chastised Philip Cohen on Day 4 of testimony for his \u201Cincredibly condescending\u201D questions for Jane Doe 1, and then DA Mueller began his redirect of the witness.As the second week of testimony began, Marc Headley helped explain who the Scientology spy in the hallway was in a fun new podcast episode. Then a Scientologist, Shaun Fabos, was called to the witness stand and was declared a hostile witness. He was followed by the second victim, Jane Doe 3. The next day, on October 25, Jane Doe 3 had an epic panic attack on the stand when describing attacks on her family by Scientology. We then summed up her third and final day on the witness stand.Danny Masterson and Marc Headley had an interesting encounter in the hallway, rocker Cedric Bixler-Zavala testified on behalf of Jane Doe 3, and an LAPD witness made us wonder if Danny might have been prosecuted 18 years ago if a detective could have moved her vacation.Jeffrey Augustine helped us review the wild second week of testimony in the trial as we prepared for it continue after the Halloween weekend.A LOOK BACK AT OCTOBER 2021: Dan Ribacoff\u2019s PI firm was not only working for Scientology, it was also being paid to stalk your Proprietor. Chris Shelton took on the academics. Taking a look at L. Ron Hubbard\u2019s nutty cosmology. Revealing the name of the \u2018Cooper I/C.\u2019 David Miscavige passed L. Ron Hubbard in tenure. A Toronto woman added her name to the list of Danny Masterson\u2019s victims. How the Sea Org broke Bruce Hines\u2019s spirit. And at the Daily Beast, the mysterious death of Kuba Ka. A LOOK BACK AT OCTOBER 2020: A leaked document showed Scientology\u2019s outside investments at the time it got tax exemption. Geoff and Robbie Levin previewed the trailer for their documentary. Bijou Phillips said her husband Danny Masterson was the \u201CStrong Island\u201D type with women. Tommy Davis hires Australian attorneys to go after the \u2018Black Ops\u2019 leak.A LOOK BACK AT OCTOBER 2019: Valerie Haney dropped \u2018Jane Doe\u2019 and filed a brutal amended complaint. Hanan Islam in handcuffs in a Los Angeles courtroom as her Narconon insurance fraud case got crazy. FreeZone wizard offers the secret to living to 150. Nancy Cartwright\u2019s new trophy for reaching $17 million in giving. Tom Cruise brought Isabella and Connor to the IAS gala for the first time. The Kominsky Method skewers Scientology, and we figured out that creator Chuck Lorre had an extensive Scientology past.A LOOK BACK AT OCTOBER 2018: Heather Ruggeri told us her story of forced abortion and escape from the Sea Org. The Underground Bunker gave statuses to its own whales. DC District Attorney Stanley Harris schooled Scientology in 1983. Detroit got its Ideal Org. Sylvia DeWall spoke truth to family that had abandoned her. Alec Nevala-Lee\u2019s fine book \u2018Astounding\u2019 came out, and he gave us an amazing document he found in his research, when L. Ron Hubbard invented a friendly psychiatrist to rebut Dianetics. On Halloween we released our book with Paulette Cooper, Battlefield Scientology.A LOOK BACK AT OCTOBER 2017: We received reports that the RPF was a thing of the past. We marveled at the 1989 OT 8 graduation of Margie Zacks. David Miscavige\u2019s new portrait in the belly of the Freewinds wowed us. Aftermath looked at Mace-Kingsley Ranch and talked to Mimi Faust. The vile secret in Dianetics got dissected.A LOOK BACK AT OCTOBER 2016: Karla Taylor\u2019s lawsuit reminded us of the chances people take when the sue Scientology. We broke the news that Tom Cruise was building a double penthouse in Clearwater. And we ID\u2019d one of the private eyes stalking Leah Remini in Denver.A LOOK BACK AT OCTOBER 2015: The month began with a lot of Cat White and Jim Carrey and Mark Burton coverage, including the young Hollywood Scientologists she hung out with, and the family in Ireland that had first pointed her toward the church. We went to the London premiere of Louis Theroux\u2019s My Scientology Movie. And thanks to Bryan Seymour and Steve Cannane, our trip to Australia\u2019s cities of Sydney, Melbourne, Adelaide, and Perth was a great success. And our big bombshell: The \u201CKnowledge Reports\u201D about Leah Remini that informed her book.A LOOK BACK AT OCTOBER 2014: Scientology\u2019s private threat letter to the S.F. Chronicle. A perplexing tale about Bob Duggan, the richest Scientologist in the world. Tom Cruise and his medal in London. Marty Rathbun ambushed at LAX by raving Jenny Linson. L. Ron Hubbard\u2019s amazing 1949 letter to Forrest Ackerman. Mark Ebner finds Gay Ribisi\u2019s plaques.A LOOK BACK AT OCTOBER 2013: Live-blogging the Garcia mini-trial in Tampa, Scientology denied by the US Supreme Court, interpreting Leah Remini\u2019s epic dance, and live-blogging a dramatic hearing in Laura DeCrescenzo\u2019s lawsuit in Los Angeles.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-30T00:00:00",
       "duration": "01:08:21.5340000",
       "explicit": false,
       "spotifyId": "0C7D3W39dpEqWPv1DJGodm",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0C7D3W39dpEqWPv1DJGodm",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "783be529-1cd8-4db9-be16-537bebd643e7",
+      "type": "Episode",
       "title": "PODCAST: How Tory Christman saved Rosie O\u0027Donnell from joining Scientology",
       "description": "One of the people we were happy to see in Los Angeles when we were covering the Danny Masterson trial was our old friend Tory Christman.We first wrote about Tory back in 2001, and she\u0027s still one of our favorite people in the world. On this Christmas Eve, we asked if she would join us on the Underground Bunker Podcast. And wow, she let us get into some things we\u0027d kept under our belt for a long time, as you will see.Tory was a \u201Cpublic\u201D Scientologist, someone who doesn\u2019t work for the organization, but she explains how she was called on to help with operations to defend the church, such as at the Lawrence Wollersheim lawsuit in the 1980s, and at the Usenet group alt.religion.scientology as the new century dawned.But it was there that she ran into a kind man named Andreas Heldal-Lund, and it led to her rather spectacular and public defection from Scientology, which was the subject of our story about her.Since then she\u2019s helped educate thousands of people through her YouTube channel about Scientology\u2019s abuses and controversies. And along the way, she\u2019s convinced some people not to get involved in the church at all. Including one prominent television personality, as you\u2019ll hear.Happy holidays, people!Lawyers added to David Miscavige\u2019s teamA couple of minor developments we wanted to tell you about as we prepare for a January 20 showdown between Scientology leader David Miscavige and a Tampa federal court.We told you previously that Miscavige had finally responded to the court in a labor trafficking lawsuit by hiring a Florida Bar past president, William Schifino, who is preparing to argue that Miscavige should not be declared served by the court.The plaintiffs, represented by attorney Neil Glazer, asked for the January 20 hearing to argue that they have done enough to prove that Miscavige has purposely been evading service in the suit and should be declared an official defendant.Now, a couple of things to report: First, the January 20 hearing, which was originally scheduled to be a Zoom conference, has now been set by Magistrate Judge Julie S. Sneed for courtroom 11A at the federal courthouse. Also, Schifino is bringing in some ringers from the powerhouse Washington DC firm Williams \u0026 Connolly: Attorney Krystal Durham and partner Joseph Terry (pictured).With Miscavige, money is no object if it means keeping him out of a courtroom.That January 20 hearing should be pretty interesting, and we plan to have someone there.Continuing our year in review: The stories of April 2022Emory University invited us to give a brief talk about Scientology\u2019s legal battles over \u201Creligious arbitration,\u201D but after our appearance in an online forum, Scientology frightened the folks at Emory into removing our presentation from the video record and didn\u2019t publish our brief paper. So we did at the Underground Bunker. Nothing we said was libelous of course. But it was startling to see Emory lose its nerve.Louise Shekter was back with another piece, this time about witnessing the birth of the RPF, the Sea Org\u2019s notorious prison program.The Scientology oversharer, an enthusiastic woman who loves to post things about her journey up the Bridge, topped herself by showing us her graduation speech as \u201CClear\u201D at the new Kansas City Ideal Org.We learned that OT 8 Scientologist and YouTube chiropractor Dr. Eric Berg was being sued for forcing Scientology on an employee. We told Berg\u2019s son Ian Rafalko about it, and Ian offered to help the former employee with her litigation. The next day, Berg threw in the towel and cut a check to make the case go away.We even beat TMZ with this one: Scientologist actor Eddie Deezen was, sadly, arrested again, and this time he was being held on a mental health watch. We just hope he can shake off Scientology\u2019s indoctrination against psychiatric care.We took another look at Scientology\u2019s \u201Cat Home\u201D program, which suggested that members tend to be concentrated in Mexico and Taiwan these days, as well as some of the traditional places. California\u2019s Supreme Court refused Scientology\u2019s petition to review an appellate court\u2019s stunning decision to restore the lawsuit filed by Danny Masterson\u2019s accusers in January. It was another defeat for Scientology\u2019s \u201Creligious arbitration\u201D scheme.Bruce Hines gave us another great narrative about his time in the Sea Org and remembering some of the crazy things he was expected to do to defend Scientology.Another scoop: We\u2019re leaked audio of David Miscavige announcing the new \u201CGolden Age of Admin\u201D release, the first audio we\u2019ve had of him in several years.And on April 28, the big news that Valeska Paris and two other former Sea Org workers living in Australia file a new labor trafficking lawsuit against Scientology in Tampa, Florida. It alleges that they were forced to become child workers in Scientology, including horrific treatment into adulthood aboard the cruise ship Freewinds.A LOOK BACK AT APRIL 2021: Ben Schneiders uncorked a beauty about Scientology\u2019s finances in Australia. OT 8 art dealer Izzy Chait went on to his reward. SNL\u2019s breakout new star, Chloe Fineman, is a Scientologist and the child of Scientologists. New York chiropractor and Scientology donor Jay Spina was sentenced to nine years in prison for Medicare fraud. Tommy Davis and his new wife welcomed a son into the world. A LOOK BACK AT APRIL 2020: Whoopi Goldberg recommended Narconon. Wealthy Scientologist Jim Mathers said of Covid, \u201Chealthy people don\u2019t get sick.\u201D Scientology started putting out some very weird videos as a result of members being locked down at home. LRH 2.0 faced a revolt. Another confirmation from Scientology itself that its numbers are in the thousands, not millions. David Miscavige turned 60.A LOOK BACK AT APRIL 2019: Shooting victim Brian Statler was identified. Chris Owen filled us in on Scientology\u2019s odd efforts in Papua New Guinea. Graham Berry shared another stunning demand letter with us. Sunny Perreira told us her story about Brad Pitt bringing his pet igauna to the Celebrity Centre for some auditing. Danny Masterson\u2019s accusers and Mike Rinder\u2019s daughter had a confrontation caught on video.A LOOK BACK AT APRIL 2018: Chris Owen found that L. Ron Hubbard tried to buy Malawi. Leah Remini was subjected to a Scientology \u201Cnoisy investigation.\u201D We chatted with the convicted felon who says he\u2019s the returned L. Ron Hubbard. Tommy Davis showed up with a new look. Kim Poff was finally able to give us an interview about getting fired by Oklahoma for blowing the whistle on Narconon. Rocker Cedric Bixler-Zavala told us about the harassment his wife Chrissie Carnell Bixler was going through after coming forward as a victim of Scientologist actor Danny Masterson.A LOOK BACK AT APRIL 2017: Scientologist actor Erika Christensen raised eyebrows for playing a Christian convert on film. We dug up a reference to \u2018Mount Xenu\u2019 in a Hubbard lecture. Dee Findlay schooled the Clearwater city council. A 1973 documentary featuring Nan McLean resurfaced.A LOOK BACK AT APRIL 2016: David Miscavige was filmed opening an Ideal Org in Atlanta. Phil and Willie Jones put up a billboard in Los Angeles about Scientology disconnection. We revealed that Giovanni Ribisi\u2019s daughter Lucia Ribisi had ditched Scientology. The Gregg Hagglund story \u2014 seeing a Fair Game operation from both ends. How David Miscavige ripped apart his own family, and how Lisa Marie Presley became (at least for a short time) his biggest nightmare. David Miscavige threatened to sue his own Dad, and we were live on the scene as Laura DeCrescenzo\u2019s lawsuit survived a second motion for summary judgment. Was this the greatest single month for news in the history of the Bunker? It was certainly up there.A LOOK BACK AT APRIL 2015: We broke down the elements that made SNL\u2019s parody, \u2018Neurotology,\u2019 so great. We brought you full audio tapes of police interviews with the Scientology private eyes who stalked Ron Miscavige. And we dug up the true history of Tom Cruise and Mimi Rogers.A LOOK BACK AT APRIL 2014: We checked with his tailor to find out David Miscavige\u2019s actual height. Tax documents spelled out Scientology\u2019s amazing cash value. And an insider provided us documents showing that Narconon Arrowhead is running on fumes.A LOOK BACK AT APRIL 2013: Live-blogging Rock Center\u2018s Narconon expose, behind the scenes at Int Base with \u201CLove in the Time of Miscavige,\u201D and Narconon in Georgia raided.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-24T00:00:00",
       "duration": "01:02:21.7750000",
       "explicit": false,
       "spotifyId": "5AyiwJnht6hYrfLSxdZlMg",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5AyiwJnht6hYrfLSxdZlMg",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "e072d392-67d5-470c-aea8-55516d5d5ba1",
+      "type": "Episode",
       "title": "PODCAST: If Scientology expert Claire Headley had testified at the Danny Masterson trial",
       "description": "We\u0027re still going through the wreckage of the Danny Masterson Trial, which ended with a hung jury on November 30. And one thing that surprised us about the interview we did with Chris Shelton of the jury foreman, was the revelation that the jury had largely ignored the Scientology component of the case.And it reminded us that Judge Charlaine Olmedo had not allowed the prosecution to bring in a Scientology expert, former Sea Org official Claire Headley, to explain Scientology\u0027s policies to the jury. Would that have made a difference?We decided to ask Claire herself about the trial and what she might have brought to it if she\u0027d been allowed to testify.Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link for today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-12-18T00:00:00",
       "duration": "01:01:55.5820000",
       "explicit": false,
       "spotifyId": "4i5Qxq4FNAaA4aC2mmYKUX",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4i5Qxq4FNAaA4aC2mmYKUX",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "273e217b-0eea-4b88-9c1b-7db44385d061",
+      "type": "Episode",
       "title": "Special Thanksgiving Podcast: \u0027A Billion Years\u0027 author Mike Rinder on Scientology\u0027s epic fails",
       "description": "On September 27, we had the treat of meeting Mike Rinder in Manhattan on the publication day of his book, A Billion Years: My Escape from a Life in the Highest Ranks of Scientology. (See our review of the book here.)We were just plain lucky that we could dine with Mike that evening when he had so much going on. But neither of us really had any idea what the next several weeks would have in store for us.Finally, almost two months later, we had time to meet up again, this time for the Underground Bunker Podcast. We had a lot to discuss. About the media reaction to his book, the mayor\u0027s race in Los Angeles, the Danny Masterson trial also in that city, and so much more. We even asked him about Marty Rathbun! So we hope you can set aside a little time on this holiday to join us.And as ever, we\u0027d like to hear what you\u0027re thankful for this Thanksgiving. We hope this podcast is one of those things!Thank you for reading today\u2019s story here at Substack. For the full picture of what\u2019s happening today in the world of Scientology, please join the conversation at tonyortega.org, where we\u2019ve been reporting daily on David Miscavige\u2019s cabal since 2012. There you\u2019ll find additional stories, and our popular regular daily features:Source Code: Actual things founder L. Ron Hubbard said on this date in historyAvast, Ye Mateys: Snapshots from Scientology\u2019s years at seaOverheard in the Freezone: Indie Hubbardism, one thought at a timePast is Prologue: From this week in history at alt.religion.scientologyRandom Howdy: Your daily dose of the CaptainHere\u2019s the link to today\u2019s post at tonyortega.orgAnd whatever you do, subscribe to this Substack so you get our breaking stories and daily features right to your email inbox every morning\u2026 This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-24T00:00:00",
       "duration": "01:01:48.5080000",
       "explicit": false,
       "spotifyId": "7cyoqA3OUZc7BNYMiQu9zo",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7cyoqA3OUZc7BNYMiQu9zo",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7228de19-e43f-4f34-b2aa-7c6ee8d9c673",
+      "type": "Episode",
       "title": "SPECIAL: Leah Remini on LAPD corruption, Scientology, and Shelly Miscavige",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-14T00:00:00",
       "duration": "01:07:25.3450000",
       "explicit": false,
       "spotifyId": "0rJkEg35c7izdrWDGwvdih",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0rJkEg35c7izdrWDGwvdih",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "c7efcf3b-252e-4c9f-adc2-d2171bb1bb9a",
+      "type": "Episode",
       "title": "SPECIAL: Danny Masterson trial, Week Four review",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-11T00:00:00",
       "duration": "01:00:42.1080000",
       "explicit": false,
       "spotifyId": "6OnCqhXox9wwN5aJVtFsok",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6OnCqhXox9wwN5aJVtFsok",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3ce92421-1fae-41bf-bbba-102b870c6891",
+      "type": "Episode",
       "title": "SPECIAL: Danny Masterson trial, Week Three review",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-11-05T00:00:00",
       "duration": "01:07:07.8940000",
       "explicit": false,
       "spotifyId": "0HpV7hNiIzS9P9i6ljOy1V",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HpV7hNiIzS9P9i6ljOy1V",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "47067101-d29b-4ede-a620-49487b33a016",
+      "type": "Episode",
       "title": "SPECIAL: Danny Masterson trial, Week Two review",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-29T00:00:00",
       "duration": "01:02:45.8990000",
       "explicit": false,
       "spotifyId": "3Ft559tJnTf9ycbtaqI5RE",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Ft559tJnTf9ycbtaqI5RE",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2cca1f9f-e343-41cf-9eeb-528c6750a338",
+      "type": "Episode",
       "title": "SPECIAL: Marc Headley on the Scientology spy in the hallway",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-24T00:00:00",
       "duration": "01:04:02.9430000",
       "explicit": false,
       "spotifyId": "57CisfskNpcSRlwe2KDIEl",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/57CisfskNpcSRlwe2KDIEl",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "22f16a03-1367-4a26-838b-f078d8eb983d",
+      "type": "Episode",
       "title": "SPECIAL: Danny Masterson trial, Week One review",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-22T00:00:00",
       "duration": "01:08:01.6150000",
       "explicit": false,
       "spotifyId": "7MInUYnGhHHil27kuNk3yi",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7MInUYnGhHHil27kuNk3yi",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "fea44586-190c-4687-a57f-2dac04187454",
+      "type": "Episode",
       "title": "PODCAST: Trial special episode with Chris Shelton",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-19T00:00:00",
       "duration": "00:34:38.6120000",
       "explicit": false,
       "spotifyId": "4QPGD2D96l9uhPdL2tduqa",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4QPGD2D96l9uhPdL2tduqa",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2e5e4f24-23ab-40d3-b9e0-78c5bc59b41c",
+      "type": "Episode",
       "title": "Episode 17: Bruce Hines on auditing Mary Sue Hubbard",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-16T00:00:00",
       "duration": "01:00:26.6260000",
       "explicit": false,
       "spotifyId": "0bLjKAVXIELaShr3wnDRR4",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0bLjKAVXIELaShr3wnDRR4",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "8de61bfe-0eeb-4dbb-83d7-a302942bc4f1",
+      "type": "Episode",
       "title": "Episode 16: Mirriam Francis on breaking Scientology\u0027s code of silence",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-08T00:00:00",
       "duration": "01:02:16.2020000",
       "explicit": false,
       "spotifyId": "1WpTG26RBuCfAK5n2OWNDT",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1WpTG26RBuCfAK5n2OWNDT",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "c450ca82-5c6e-43ba-859e-16f0a21f54ce",
+      "type": "Episode",
       "title": "Episode 15: Jon Atack shares his thoughts on Mike Rinder\u0027s \u0027A Billion Years\u0027",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-10-01T00:00:00",
       "duration": "01:20:54.2200000",
       "explicit": false,
       "spotifyId": "7JxkRfi6aemETeJrpcln6b",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7JxkRfi6aemETeJrpcln6b",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "fbfc5f0e-7dcd-4546-a032-e90b59e7ae7b",
+      "type": "Episode",
       "title": "SPECIAL: Your proprietor on the Underground Bunker\u0027s 10th anniversary",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-28T00:00:00",
       "duration": "00:27:50.3030000",
       "explicit": false,
       "spotifyId": "4I3i51f8ct7YRUhnmYfNNr",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4I3i51f8ct7YRUhnmYfNNr",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2d9d9a24-0c0e-4f7a-8fa2-b773ec7ef3ce",
+      "type": "Episode",
       "title": "Episode 14: Mark Bunker, on Scientology\u0027s future in Clearwater",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-24T00:00:00",
       "duration": "01:06:18.5780000",
       "explicit": false,
       "spotifyId": "134R1YB8NGC3Q7LR4znd75",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/134R1YB8NGC3Q7LR4znd75",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "d0dacc36-777a-436d-8fa1-0e3469957fa8",
+      "type": "Episode",
       "title": "SPECIAL: Your proprietor\u0027s update",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-21T00:00:00",
       "duration": "00:29:07.4470000",
       "explicit": false,
       "spotifyId": "2n25M8GglJJkPfM40c8lK9",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2n25M8GglJJkPfM40c8lK9",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "694863bd-3dfd-4d66-839d-b1a8864a3874",
+      "type": "Episode",
       "title": "Episode 13: Jesse Prince, Scientology\u0027s \u0027Expert Witness\u0027 and David Miscavige\u0027s former auditor",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-17T00:00:00",
       "duration": "01:00:04.2710000",
       "explicit": false,
       "spotifyId": "5FHpIJjrpO166ZZQKgYIOG",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5FHpIJjrpO166ZZQKgYIOG",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "070e17f2-a7c4-455a-be9a-86b6d34b5fe8",
+      "type": "Episode",
       "title": "Episode 12: Paulette Cooper, Scientology\u0027s longtime nemesis, on her new memoir",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-10T00:00:00",
       "duration": "01:02:52.9730000",
       "explicit": false,
       "spotifyId": "27GwwqsQE7y4A2CepH9p5R",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [
-        "Scientology"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/27GwwqsQE7y4A2CepH9p5R",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Scientology"
+      ]
     },
     {
       "id": "ac2465dc-5dac-4741-8e40-43a574692c3b",
+      "type": "Episode",
       "title": "SPECIAL: The best TV show on Scientology you never got to see, Episode 5 with Jamie DeWolf",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-09-07T00:00:00",
       "duration": "01:00:57.7240000",
       "explicit": false,
       "spotifyId": "0wJe2wrJ6Erp4KWVbYBvOo",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0wJe2wrJ6Erp4KWVbYBvOo",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "dc6f8604-2e52-466b-a3ee-2fd63ca07475",
+      "type": "Episode",
       "title": "SPECIAL: The best TV show on Scientology you never got to see, Episode 4 with Katrina Reyes",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-31T00:00:00",
       "duration": "01:15:28.2950000",
       "explicit": false,
       "spotifyId": "4n8fgsE3bRBGV28QZeGB9g",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4n8fgsE3bRBGV28QZeGB9g",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b792657a-7048-41cc-8763-411131273fa2",
+      "type": "Episode",
       "title": "Episode 10: Jefferson Hawkins on Scientology\u0027s \u0027wider Bridge\u0027",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-27T00:00:00",
       "duration": "01:01:34.8940000",
       "explicit": false,
       "spotifyId": "1WSdgUX4OfMDGZKdKfUbjo",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1WSdgUX4OfMDGZKdKfUbjo",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "eb27b5bd-36b8-40ff-a600-a07a91b5cc45",
+      "type": "Episode",
       "title": "SPECIAL: The best TV show on Scientology you never got to see, Episode 3 with Carol Nyburg",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-24T00:00:00",
       "duration": "00:59:29.2350000",
       "explicit": false,
       "spotifyId": "3ZaV8VxgrQSxLoYPOITcjv",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ZaV8VxgrQSxLoYPOITcjv",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "43ef42e5-5b08-4150-9a03-57bb4386750d",
+      "type": "Episode",
       "title": "Episode 9: Would a Scientologist lie about Xenu to his fans?",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-20T00:00:00",
       "duration": "01:07:33.9200000",
       "explicit": false,
       "spotifyId": "6WwsizjIiBjjLFJSh1s3vt",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6WwsizjIiBjjLFJSh1s3vt",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "644a6b44-795d-4ed6-8413-637c5d976e8c",
+      "type": "Episode",
       "title": "SPECIAL: The best TV show on Scientology you never got to see, Episode 2 with Derek Bloch",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-17T00:00:00",
       "duration": "00:48:02.1820000",
       "explicit": false,
       "spotifyId": "0B0Wcsevb98X5QB3ZkgHvQ",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0B0Wcsevb98X5QB3ZkgHvQ",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7ff24b8c-a9eb-437c-aca7-5c52e3d2abef",
+      "type": "Episode",
       "title": "Episode 8: The former Scientology spy who made historic amends",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-13T00:00:00",
       "duration": "00:58:36.5830000",
       "explicit": false,
       "spotifyId": "4u86gcPR7TbECOtLPUfinv",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4u86gcPR7TbECOtLPUfinv",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ac4f31e4-b3b4-4523-bbcc-6762a5b34dd7",
+      "type": "Episode",
       "title": "SPECIAL: The best TV show on Scientology you never got to see, Episode 1 with Phil Jones",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-10T00:00:00",
       "duration": "01:04:31.4040000",
       "explicit": false,
       "spotifyId": "3INv0KliyvyfT5SWa0PaWL",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3INv0KliyvyfT5SWa0PaWL",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7929091f-28ff-4f1e-b5f0-0d163817ba99",
+      "type": "Episode",
       "title": "Episode 7: Checking on our predictions about Scientology celebs",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-08-06T00:00:00",
       "duration": "01:11:42.1020000",
       "explicit": false,
       "spotifyId": "175iMQx9gEFt8A46qXZDzp",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/175iMQx9gEFt8A46qXZDzp",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "58fa26f9-0722-4796-8734-8478834023a0",
+      "type": "Episode",
       "title": "Episode 6: The SP who ran a Scientology mission",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-30T00:00:00",
       "duration": "01:03:07.1530000",
       "explicit": false,
       "spotifyId": "6Xam5Tbo46UOasq2njFuFP",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Xam5Tbo46UOasq2njFuFP",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "2bda8ecc-4de7-4733-92b3-dbbb9b1e79a8",
+      "type": "Episode",
       "title": "Episode 5: Secrets of Scientology\u0027s Hollywood Celebrity Centre",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-23T00:00:00",
       "duration": "00:56:24.3170000",
       "explicit": false,
       "spotifyId": "5KNUNZxMOdyCXLynMOR0L7",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5KNUNZxMOdyCXLynMOR0L7",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "ac71d5d9-c3c4-4af5-8fe2-71bc71864f44",
+      "type": "Episode",
       "title": "Episode 4: Bruce Hines on Scientology Sea Org insanity, and a Shelly story we hadn\u0027t heard",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-16T00:00:00",
       "duration": "00:57:01.9890000",
       "explicit": false,
       "spotifyId": "3BxIZFwUdF48klLgx6zQMd",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3BxIZFwUdF48klLgx6zQMd",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7d10a09c-f1d6-4573-a8b9-ac0e832c6b3a",
+      "type": "Episode",
       "title": "Episode 3: In court, it\u0027s Scientology\u0027s move",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-09T00:00:00",
       "duration": "01:06:09.7360000",
       "explicit": false,
       "spotifyId": "5GXE13iLB29o471m0x7omA",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5GXE13iLB29o471m0x7omA",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "3f604ddd-f290-49cb-af49-d3dffcd77567",
+      "type": "Episode",
       "title": "Episode 2: Claire Headley on the questions Tom Cruise never gets asked",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-07-02T00:00:00",
       "duration": "01:04:05.5450000",
       "explicit": false,
       "spotifyId": "54YoUwYFBlIPLvAByUSTf4",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/54YoUwYFBlIPLvAByUSTf4",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "783adec5-a851-4633-84ac-31d69802b584",
+      "type": "Episode",
       "title": "Episode 1: Let\u0027s get this thing started!",
       "description": " This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit tonyortega.substack.com/subscribe",
+      "posted": false,
+      "ignored": false,
       "release": "2022-06-25T00:00:00",
       "duration": "00:59:13.9540000",
       "explicit": false,
       "spotifyId": "714nXvheUSL04IFbl9F2pN",
       "appleId": null,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/714nXvheUSL04IFbl9F2pN",
         "apple": null,
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     }
-  ]
+  ],
+  "fileKey": "the_underground_bunker_podcast"
 }

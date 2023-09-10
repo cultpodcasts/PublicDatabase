@@ -1,266 +1,441 @@
 {
   "id": "736781cb-6a02-41db-a0c4-3b3336e61a65",
+  "type": "Podcast",
   "name": "Surviving Bob Jones University: A Christian Cult",
+  "publisher": "Andrew Pledger",
+  "hasBundledEpisodes": false,
+  "indexAllEpisodes": true,
+  "primaryPostService": "Spotify",
   "spotifyId": "6zpFerrBjOuNACq1oklIU6",
   "appleId": 1681943920,
   "youTubeChannelId": "",
+  "youTubePublicationDelay": "",
+  "titleRegex": "",
+  "descriptionRegex": "",
+  "episodeMatchRegex": "",
   "episodes": [
     {
+      "id": "b81cb962-5c0f-4111-a48d-fa1806472c05",
+      "type": "Episode",
+      "title": "11 - Is BJU Really a Cult?",
+      "description": "Subscribe to my Substack here: https://speakingupandrewpledger.substack.com/In this captivating episode, we embark on an in-depth exploration of Bob Jones University, examining its characteristics and practices through the lens of cult analysis. Drawing from the renowned works of cult expert Steven Hassan\u0027s BITE model and psychiatrist Robert Jay Lifton\u0027s Criteria for Thought Reform, we unravel the complex dynamics at play within this institution.We meticulously examine the various elements of the BITE model, including behavior control, information control, thought control, and emotional control, to gain a comprehensive understanding of the institution\u0027s influence and power dynamics. We delve into the ways in which Bob Jones University exhibits traits identified in Lifton\u0027s Criteria for Thought Reform.Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-06T00:00:00",
+      "duration": "00:45:17.9880000",
+      "explicit": true,
+      "spotifyId": "28YpQs1AntROFIRtWYyXi9",
+      "appleId": 1000626904727,
+      "youTubeId": "",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/28YpQs1AntROFIRtWYyXi9",
+        "apple": "https://podcasts.apple.com/podcast/11-is-bju-really-a-cult/id1681943920?i=1000626904727",
+        "youtube": null
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
+      "id": "faf8379c-2890-47bc-9889-d843de6ce98f",
+      "type": "Episode",
+      "title": "10 - Survivors Stories",
+      "description": "Learn more about BJU on Dr. Camille Lewis\u0027s blog WutBJU: https://wutbju.tumblr.com/In this episode, we will hear powerful stories of resilience, healing, and growth from survivors who have overcome the trauma and abuse they experienced at Bob Jones University. BJU is a controversial fundamentalist Christian college, and this podcast sheds light on the experiences of those who have survived this high-control environment. Our guests will share their personal journeys and the challenges they faced while attending BJU, as well as the ways in which they have found healing and hope after leaving the university. This is a must-listen for anyone interested in understanding the complex and often overlooked ways in which cults can harm vulnerable individuals and communities.Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-06T00:00:00",
+      "duration": "01:16:29.2440000",
+      "explicit": true,
+      "spotifyId": "0nbEB32r4d9gYSRCOyAXpL",
+      "appleId": 1000626902583,
+      "youTubeId": "",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0nbEB32r4d9gYSRCOyAXpL",
+        "apple": "https://podcasts.apple.com/podcast/10-survivors-stories/id1681943920?i=1000626902583",
+        "youtube": null
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
+      "id": "85cf860b-056c-4167-bec1-cee90799dda8",
+      "type": "Episode",
+      "title": "09 - BIPOC at BJU",
+      "description": "Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/In this episode, we delve into the experiences of BIPOC (Black, Indigenous, and People of Color) students at Bob Jones University, an institution with a deeply rooted racist past. Join us as we navigate the complexities of being a minority in an environment that has historically perpetuated discrimination and exclusion. Listen to the personal stories and reflections of BIPOC individuals who have walked the halls of Bob Jones University. We explore the challenges they faced in a predominantly white institution, the isolation they experienced, and the impact of limited representation within the student body.Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-06T00:00:00",
+      "duration": "00:33:01.4920000",
+      "explicit": true,
+      "spotifyId": "6hWzMRevsEHS2RlpRQ6RXb",
+      "appleId": 1000626897465,
+      "youTubeId": "",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6hWzMRevsEHS2RlpRQ6RXb",
+        "apple": "https://podcasts.apple.com/podcast/09-bipoc-at-bju/id1681943920?i=1000626897465",
+        "youtube": null
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
+      "id": "d05296af-eb4d-4fe7-a548-5a764ab816be",
+      "type": "Episode",
+      "title": "Fashion Show Controversy: The Untold Story - PATREON BONUS",
+      "description": "Listen to the full episode on my Patreon Here: https://www.patreon.com/4ndrewpledgerIn this Patreon bonus episode, I dig into the untold story of the infamous BJU fashion show controversy. \u0022The Bob Jones University fashion controversy, also known as \u201CWrap-Coat-Gate,\u201D arose when trustees and administrators at Bob Jones University grew alarmed over a wrap coat designed by a student for a class project.\u00A0They publicly called the student\u2019s work sacrilegious, blasphemous, dishonoring to Jesus, offensive, and egregious.\u00A0The controversy may appear to have spun out of nowhere, but given the history and perspectives that have been woven into the fabric of BJU for decades, it was only a matter of time before a student in the fashion design department would pull the wrong strings. (Sources: Baptist News, Get Religion)Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledger Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-06T00:00:00",
+      "duration": "00:05:16.7080000",
+      "explicit": true,
+      "spotifyId": "5K1wTMI7C8AcC45loTzqgV",
+      "appleId": 1000626963792,
+      "youTubeId": "",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5K1wTMI7C8AcC45loTzqgV",
+        "apple": "https://podcasts.apple.com/podcast/fashion-show-controversy-the-untold-story-patreon-bonus/id1681943920?i=1000626963792",
+        "youtube": null
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
+      "id": "a8ba6e74-1118-49a8-8d36-cc9f82ea5df5",
+      "type": "Episode",
+      "title": "My BJU Story - PATREON BONUS",
+      "description": "Listen to the full episode on my Patreon Here: https://www.patreon.com/4ndrewpledgerIn this Patreon episode, I share my story of attending Bob Jones University. Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledger Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
+      "release": "2023-09-06T00:00:00",
+      "duration": "00:06:18.5140000",
+      "explicit": true,
+      "spotifyId": "0REqQV2Gdmy4mJGt6jWpmY",
+      "appleId": 1000626963533,
+      "youTubeId": "",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0REqQV2Gdmy4mJGt6jWpmY",
+        "apple": "https://podcasts.apple.com/podcast/my-bju-story-patreon-bonus/id1681943920?i=1000626963533",
+        "youtube": null
+      },
+      "removed": false,
+      "subjects": []
+    },
+    {
       "id": "9e785c48-3b8d-410e-a83a-60eb9f7d49de",
+      "type": "Episode",
       "title": "08 - Being a Woman, GRACE Report",
       "description": "Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/In this episode, we look at how women at Bob Jones University, a conservative Christian school, face challenges and limitations due to strict dress codes and patriarchal teachings. We talk about the ways women are pressured, objectified, and criticized for their appearance, and how they are indoctrinated to obey male leadership. We also reveal how representatives of the school mistreated and blamed sexual abuse survivors, and how an outside organization called GRACE (Godly Response to Abuse in the Christian Environment) investigated and published a report that exposed the school\u0027s mishandling of sexual abuse claims. One of the survivors, Erin Burchwell, tells us her story of the trauma she endured, and how the school treated her when she came forward to be interviewed for the GRACE Report.Leave a 5-star rating on Apple Podcasts and SpotifyConnect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-30T00:00:00",
       "duration": "00:48:01.0710000",
       "explicit": true,
       "spotifyId": "5uIorCrSjBfUiDu88Pb7vy",
       "appleId": 1000626166851,
       "youTubeId": "",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5uIorCrSjBfUiDu88Pb7vy",
         "apple": "https://podcasts.apple.com/us/podcast/08-being-a-woman-grace-report/id1681943920?i=1000626166851\u0026uo=4",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "747969e1-2291-4a31-90c6-1fb2fc6b33f8",
+      "type": "Episode",
       "title": "07 - BJU and Me: Queer Voices",
       "description": "Buy the book BJU and Me: Queer Voices from the World\u0027s Most Christian UniversityLeave a 5-star rating on Apple Podcasts and SpotifyIn this group interview, we hear from some of the queer survivors who share their stories in the book BJU and Me: Queer Voices from the World\u2019s Most Christian University.\u00A0This book, edited by Lance Weldy, a former queer student of BJU himself, provides behind-the-scenes explanations from nineteen former BJU students from the past few decades who now identify as LGBTQ\u002B. They write about their experiences, reflect on their relationships with the religious institution, and describe their vulnerability under a controlling regime.\u00A0The survivors who sit down with me are Lance Weldy, David Diachenko, and Andrew Bolden.Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-30T00:00:00",
       "duration": "01:07:55.1280000",
       "explicit": true,
       "spotifyId": "3XuAO2QAwKHVA2Ez9xr5ve",
       "appleId": 1000626163740,
       "youTubeId": "",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3XuAO2QAwKHVA2Ez9xr5ve",
         "apple": "https://podcasts.apple.com/us/podcast/07-bju-and-me-queer-voices/id1681943920?i=1000626163740\u0026uo=4",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "39911b9b-1013-41ea-bda3-21408db4eaca",
+      "type": "Episode",
       "title": "06 - Being Queer at BJU",
       "description": "Leave a 5-star rating on Apple Podcasts and SpotifyIn this powerful episode, we delve into the lived experiences of queer individuals at Bob Jones University, where being queer is viewed as a sin that requires fixing through counseling. Join us as we shed light on the harmful environment created by the spread of homophobia through hateful sermons and the weaponization of scripture. Through candid interviews with former students, we explore the challenges faced by queer individuals within the confines of Bob Jones University. We discuss the damaging impact of a religious doctrine that labels queerness as inherently sinful and in need of correction, perpetuating a hostile environment for LGBTQ\u002B students.Join the Facebook discussion group: https://www.facebook.com/groups/1153866318625322/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-30T00:00:00",
       "duration": "01:13:15.4150000",
       "explicit": true,
       "spotifyId": "2KsXtjRWI8nfGPu84EY5Os",
       "appleId": 1000626161418,
       "youTubeId": "",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2KsXtjRWI8nfGPu84EY5Os",
         "apple": "https://podcasts.apple.com/us/podcast/06-being-queer-at-bju/id1681943920?i=1000626161418\u0026uo=4",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "1e281090-f808-4eb9-a073-e20950a5acc3",
+      "type": "Episode",
       "title": "05 - Approach to Mental Health",
       "description": "Leave a 5-star rating on Apple Podcasts and SpotifyIn this eye-opening episode, we shine a spotlight on the concerning approach to mental health at Bob Jones University, where psychological evidence takes a backseat to spiritual beliefs. Join us as we explore the detrimental impact of this perspective, which often blames and shames students for their mental health struggles, attributing them solely to a lack of spiritual closeness to Jesus and perceived sins. Lee Foster studied Biblical Counseling in her Bachelors\u0027s and Master\u0027s at BJU, and she pulls back the curtain on this dangerous and unethical practice.Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerFull SermonsMazak: https://www.sermonaudio.com/sermoninfo.asp?SID=1115201656507514Jim Berg: https://www.sermonaudio.com/sermoninfo.asp?SID=101003151620Sources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-30T00:00:00",
       "duration": "00:57:52.1690000",
       "explicit": true,
       "spotifyId": "69LFmWcaT5Sw9nQPffFZ3J",
       "appleId": 1000626158611,
       "youTubeId": "",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/69LFmWcaT5Sw9nQPffFZ3J",
         "apple": "https://podcasts.apple.com/us/podcast/05-approach-to-mental-health/id1681943920?i=1000626158611\u0026uo=4",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "6eb8e070-a114-4ddc-8456-bd86bb1da477",
+      "type": "Episode",
       "title": "After GRACE",
       "description": "In this episode, an anonymous survivor came forward about their sexual abuse and how it was mishandled at BJU. This person experienced this at BJU many years after the GRACE Report was released to the public.Join the Facebook discussion group: https://www.facebook.com/groups/1153866318625322/Leave a 5-star rating on Apple Podcasts and SpotifyConnect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-30T00:00:00",
       "duration": "00:38:08.4830000",
       "explicit": true,
       "spotifyId": "1nQBwuKNuytbdqdfnBmOVV",
       "appleId": 1000626166851,
       "youTubeId": "",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1nQBwuKNuytbdqdfnBmOVV",
         "apple": "https://podcasts.apple.com/us/podcast/08-being-a-woman-grace-report/id1681943920?i=1000626166851\u0026uo=4",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "b2a94f2f-e132-4cf9-88d1-f70dfd5eeed3",
+      "type": "Episode",
       "title": "Reading the GRACE Report",
       "description": "Read the full GRACE Report: http://bjugrace.com/the-grace-investigation-at-bju/the-grace-report-on-bob-jones-university/In this episode, I read some highlights of the GRACE Report of BJU. The GRACE report is a 301-page report on the mishandling of sex abuse allegations at Bob Jones University.\u00A0The report shows Bob Jones University responding to rape and abuse claims with woeful ignorance of state law, a near-complete lack of training in psychology and trauma counseling best practices, and an overarching campus culture that blames women and girls for any abuse they suffer, and which paints all sexuality-from rape to consensual sex-as equivalent misdeeds.(Source)Leave a 5-star rating on Apple Podcasts and SpotifyJoin the Facebook discussion group: https://www.facebook.com/groups/1153866318625322/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-30T00:00:00",
       "duration": "01:32:59.8330000",
       "explicit": true,
       "spotifyId": "37yECqH6Kds9sdpxAgz9oA",
       "appleId": 1000626166851,
       "youTubeId": "",
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37yECqH6Kds9sdpxAgz9oA",
         "apple": "https://podcasts.apple.com/us/podcast/08-being-a-woman-grace-report/id1681943920?i=1000626166851\u0026uo=4",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "8cb089da-d794-4b09-a805-46d84b0a337c",
+      "type": "Episode",
       "title": "01 - History, Politics",
       "description": "Full series available on my Patreon: https://www.patreon.com/4ndrewpledgerBob Jones University is a private Christian university located in Greenville, South Carolina. The university has a long and complex history, marked by controversies and legal battles over issues such as racial segregation, academic freedom, sexual abuse claims, discrimination against LGBTQIA\u002B students, and the toxicity of religious fundamentalism. In this episode, we will explore the history of Bob Jones University and its influence on politics.Wut BJU Blog: https://wutbju.tumblr.com/Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSermonsSermon 1: https://youtu.be/Smdmq5Hi7MQSermon 2: https://youtu.be/oRWlUaKVw_oSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-23T00:00:00",
       "duration": "01:15:44.7310000",
       "explicit": true,
       "spotifyId": "6lS7WCavwARg8TzhmLhxUJ",
       "appleId": 1000625340765,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6lS7WCavwARg8TzhmLhxUJ",
         "apple": "https://podcasts.apple.com/podcast/01-history-politics/id1681943920?i=1000625340765",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "da8c79bf-6c6f-4b19-be72-e0bf4bece0ad",
+      "type": "Episode",
       "title": "02 - Understanding Fundamentalism",
       "description": "Full series available on my Patreon: https://www.patreon.com/4ndrewpledgerFundamentalism refers to a belief system that upholds a strict interpretation of religious or political ideologies, which are considered fundamental to the faith or cause. Fundamentalism is a mindset or an approach to an ideology and can happen in any social group. This episode will specifically examine the needs that fundamentalist Christianity provides for people, and the lengths people will go to protect the emotional high they get from its teachings and approach. The psychological underpinnings of fundamentalism, focus on the black and white/ us vs them mindset, authoritarianism, anti-intellectualism, justification of evil, narcissism, and claim of absolute truth.Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/Connect with Camille K. LewisWutBJU Blog: https://wutbju.tumblr.com/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-23T00:00:00",
       "duration": "00:46:22.2230000",
       "explicit": true,
       "spotifyId": "4lbEg2W7V7jsD9YfPDmbSN",
       "appleId": 1000625344816,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4lbEg2W7V7jsD9YfPDmbSN",
         "apple": "https://podcasts.apple.com/podcast/02-understanding-fundamentalism/id1681943920?i=1000625344816",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "a0f5f9d1-f2b2-41b8-859f-a6f6c912d312",
+      "type": "Episode",
       "title": "03 - Teachings, Rules, and Toxic Culture",
       "description": "Full series available on my Patreon: https://www.patreon.com/4ndrewpledgerThis episode exposes the troubling legacy of Bob Jones University, a Christian college that has faced intense scrutiny for its toxic teachings and harmful rules. In this eye-opening episode, we dive deep into the controversial practices of this institution, shedding light on the experiences of those affected by its ideologies, and its toxic culture. Join us as survivors guide us through a comprehensive exploration of Bob Jones University\u0027s policies. We uncover the strict codes of conduct, discriminatory practices, and the stifling of critical thinking within the university\u0027s academic environment.Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/Follow Craig Viette on YouTube: https://youtu.be/tQ3Cd-w-oGQConnect with Nate Nakao Linktree: linktr.ee/natenakaoPodcast: fullmutuality.comNetwork: dauntless.fmDiscord: dauntless.fm/discord-serverConnect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-23T00:00:00",
       "duration": "00:58:47.5230000",
       "explicit": true,
       "spotifyId": "2tbRXMyWgn9WmnEk41DFQe",
       "appleId": 1000625346546,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tbRXMyWgn9WmnEk41DFQe",
         "apple": "https://podcasts.apple.com/podcast/03-teachings-rules-and-toxic-culture/id1681943920?i=1000625346546",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "5c124eb8-d81c-4281-8072-5e35fb1f1489",
+      "type": "Episode",
       "title": "04 - Leadership, Control, and Daily Life",
       "description": "Full series available on my Patreon: https://www.patreon.com/4ndrewpledgerThis episode reveals the authoritarian leadership at Bob Jones University. We expose the hidden dynamics of this institution and the struggles of students who face a rigid system of control. We also explore control and daily life as a student at Bob Jones University. We share the stories of former students who reveal the challenges and harms of this culture. From strict rules and activities to judgment and fear, we show how this environment impacts students\u2019 mental, emotional, and social well-being. Dr. Laura Anderson shares some insights on her experiences at Liberty University, and how it is similar to BJU. Check out her new book \u0022When Religion Hurts You.\u0022Join the discussion group HERE https://www.facebook.com/groups/1153866318625322/Connect with Andrew PledgerSocial Media: https://andrewpledger.mypixieset.com/linksJoin my Patreon: https://www.patreon.com/4ndrewpledgerSpeaking Up Podcast: https://shows.acast.com/speaking-up-with-andrew-pledgerSources: https://www.tumblr.com/survivingbjupodcast/726104816669081600/sources?source=share Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-23T00:00:00",
       "duration": "01:23:52.0190000",
       "explicit": true,
       "spotifyId": "37unP5QfSvJr9rPafLtGc8",
       "appleId": 1000625349740,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37unP5QfSvJr9rPafLtGc8",
         "apple": "https://podcasts.apple.com/podcast/04-leadership-control-and-daily-life/id1681943920?i=1000625349740",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "7b4c3cec-4e45-4f44-8a65-aee63b6f958e",
+      "type": "Episode",
       "title": "Full Series Available On...",
       "description": "Listen to the FULL SERIES HERE: https://www.patreon.com/4ndrewpledger Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": true,
+      "ignored": false,
       "release": "2023-08-15T00:00:00",
       "duration": "00:02:20.2510000",
       "explicit": false,
       "spotifyId": "7ldXxBoGtrcx4OpKPh51RB",
       "appleId": 1000624461647,
       "youTubeId": null,
-      "subjects": [
-        "Bob Jones University"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ldXxBoGtrcx4OpKPh51RB",
         "apple": "https://podcasts.apple.com/podcast/full-series-available-on/id1681943920?i=1000624461647",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": [
+        "Bob Jones University"
+      ]
     },
     {
       "id": "626da72b-6fbf-4170-b1e3-11635232be06",
+      "type": "Episode",
       "title": "Trailer #2",
       "description": "Surviving Bob Jones University: A Christian Cult is a limited podcast by Andrew Pledger. The podcast is a thought-provoking series that delves into the history of BJU, the psychology of fundamentalism, the criteria for cults, and survivors\u2019 experiences. BJU is a controversial fundamentalist Christian college, and this podcast sheds light on the experiences of those who have survived this high-control environment. The series features interviews with a diverse group of survivors, including queer people, BIPOC, women, and men who share their unique perspectives on the institution.Through these interviews, listeners gain insight into the strict rules, culture, and leadership of Bob Jones University, and how it has impacted the lives of those who attended. The series also examines how the institution\u0027s fundamentalist beliefs have contributed to a toxic and damaging environment for many students. Listeners will hear powerful stories of resilience, healing, and growth from survivors who have overcome the trauma and abuse they experienced at the Christian college.Surviving Bob Jones University: A Christian Cult is a must-listen for anyone interested in understanding the complex and often overlooked ways in which cults can harm vulnerable individuals and communities. The series provides a powerful and eye-opening exploration of one of the most notorious religious institutions in the country and its impact on survivors from all backgrounds. Please subscribe to stay updated on the premiere of this podcast which is coming August 23, 2023.Join Andrew\u0027s Patreon HERE and access all bonus episodes \u002B other benefits. https://www.patreon.com/4ndrewpledgerConnect with Andrew Pledger through social media, and his website. https://andrewpledger.mypixieset.com/linksMental Health ResourcesNational Suicide Hotline (988)Trevor Project HotlineCDC ResourcesMusic Credit: https://www.purple-planet.comFind a Therapist (Psychology Today) Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": false,
+      "ignored": false,
       "release": "2023-07-10T00:00:00",
       "duration": "00:01:42.1910000",
       "explicit": false,
       "spotifyId": "2mAKir8KlfS8WZKuIpzisp",
       "appleId": 1000620607407,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2mAKir8KlfS8WZKuIpzisp",
         "apple": "https://podcasts.apple.com/podcast/trailer-2/id1681943920?i=1000620607407",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "1a520627-0c2d-4cb1-81dc-ce3424c4814a",
+      "type": "Episode",
       "title": "Premiere, Episode List",
       "description": "I announce the premiere date and the episode list in this short clip. The episode list can be accessed HERE on the Facebook discussion group. https://www.facebook.com/groups/1153866318625322/Follow Andrew Pledger on Social Media Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": false,
+      "ignored": false,
       "release": "2023-06-24T00:00:00",
       "duration": "00:01:37.7500000",
       "explicit": false,
       "spotifyId": "7IqQ054afin8Gn3dl1Odxd",
       "appleId": 1000618185361,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7IqQ054afin8Gn3dl1Odxd",
         "apple": "https://podcasts.apple.com/podcast/premiere-episode-list/id1681943920?i=1000618185361",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "dd3dc376-068c-4bcb-945a-d58f2e8f2b46",
+      "type": "Episode",
       "title": "Introduction",
       "description": "TRIGGER WARNING (Suicide, Abuse)Hello, I\u2019m your host Andrew Pledger and this is \u0022Surviving Bob Jones University: A Christian Cult.\u0022I grew up in fundamentalist Christianity, specifically the Independent Fundamental Baptist cult. I was homeschooled my entire life to be indoctrinated into this environment. I was subjected to psychological, spiritual, and emotional abuse. I experienced religious trauma from abusive theology on hell, the end times, purity culture, sexuality, and human nature. As a queer person, I experienced so much trauma from their hateful and violent speech towards the LGBTQ\u002B community and also harm from authoritarian parents. Fundamentalist Christianity was my whole world and I ended up at Bob Jones University. I was at BJU for 3.5 years from 2018-2021. While at Bob Jones I struggled with my mental health from religious trauma, sexual repression, and minority stress. I was driven to the point of nearly committing suicide from my traumas in this system of control. I knew I could not get the help I needed in this environment so I searched outside the group. I was able to connect with people on the outside who would eventually get me out of this cult.\u00A0Series coming in 2023.Music Credit: https://www.purple-planet.comConnect with Andrew PledgerMental Health ResourcesNational Suicide Hotline (988)Trevor Project HotlineCDC ResourcesFind a Therapist (Psychology Today) Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-13T00:00:00",
       "duration": "00:05:53.2800000",
       "explicit": false,
       "spotifyId": "1mXktXAsOB8apigKCONrLm",
       "appleId": 1000608715211,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mXktXAsOB8apigKCONrLm",
         "apple": "https://podcasts.apple.com/podcast/introduction/id1681943920?i=1000608715211",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     },
     {
       "id": "436257de-e7db-4dcc-ac5d-f60fd0f504a6",
+      "type": "Episode",
       "title": "Trailer #1",
       "description": "Surviving Bob Jones University: A Christian Cult is a limited podcast by Andrew Pledger. The podcast is a thought-provoking series that delves into the history of Bob Jones University, the psychology of fundamentalism, the criteria for cults, and survivors\u2019 experiences. BJU is a controversial fundamentalist Christian college, and this podcast sheds light on the experiences of those who have survived this high-control environment. The series features interviews with a diverse group of survivors, including queer people, BIPOC, women, and men who share their unique perspectives on the institution.Through these interviews, listeners gain insight into the strict rules, culture, and leadership of Bob Jones University, and how it has impacted the lives of those who attended. The series also examines how the institution\u0027s fundamentalist beliefs have contributed to a toxic and damaging environment for many students. Listeners will hear powerful stories of resilience, healing, and growth from survivors who have overcome the trauma and abuse they experienced at the Christian college.Surviving Bob Jones University: A Christian Cult is a must-listen for anyone interested in understanding the complex and often overlooked ways in which cults can harm vulnerable individuals and communities. The series provides a powerful and eye-opening exploration of one of the most notorious religious institutions in the country and its impact on survivors from all backgrounds. Please subscribe to stay updated on the premiere of this podcast which is coming in 2023.Music Credit: https://www.purple-planet.comConnect with Andrew PledgerMental Health ResourcesNational Suicide Hotline (988)Trevor Project HotlineCDC ResourcesFind a Therapist (Psychology Today)\uFEFF Hosted on Acast. See acast.com/privacy for more information.",
+      "posted": false,
+      "ignored": false,
       "release": "2023-04-11T00:00:00",
       "duration": "00:02:50.4220000",
       "explicit": false,
       "spotifyId": "7w9sQRWO8Jc3zGpFyRwzxG",
       "appleId": 1000608529459,
       "youTubeId": null,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7w9sQRWO8Jc3zGpFyRwzxG",
         "apple": "https://podcasts.apple.com/podcast/trailer-1/id1681943920?i=1000608529459",
         "youtube": null
-      }
+      },
+      "removed": false,
+      "subjects": []
     }
-  ]
+  ],
+  "fileKey": "surviving_bob_jones_university_a_christian_cult"
 }
