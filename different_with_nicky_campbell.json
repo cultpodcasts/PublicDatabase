@@ -1,0 +1,26 @@
+{
+  "id": "c054e0ed-09e3-4cb4-bdb2-d18e2222d10e",
+  "name": "Different with Nicky Campbell",
+  "spotifyId": "5pF1A8HyPCn8wFHDanjsnf",
+  "appleId": 1628519589,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "568c7f26-8346-4317-ba61-79236d42e161",
+      "title": "Total Control",
+      "description": "Nicky meets Richard, a man who found himself trapped in a cult. Richard tells him what it\u2019s like to be under the spell of a charismatic cult leader.",
+      "release": "2022-06-14T00:00:00",
+      "duration": "00:31:25.5860000",
+      "explicit": false,
+      "spotifyId": "0Yjok8OB8C4XwwSzaOlKJm",
+      "appleId": 1000566446372,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Yjok8OB8C4XwwSzaOlKJm",
+        "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372",
+        "youtube": null
+      }
+    }
+  ]
+}
