@@ -1,0 +1,26 @@
+{
+  "id": "54456543-a5c0-4627-9a23-3afec432aaa1",
+  "name": "TED-Ed",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCsooa4yRKGN_zEE8iknghZA",
+  "episodes": [
+    {
+      "id": "16f54bd4-776c-439d-b3eb-3dba82b892d7",
+      "title": "Why do people join cults? - Janja Lalich",
+      "description": "View full lesson: http://ed.ted.com/lessons/why-do-people-join-cults-janja-lalich\n\nToday, there are thousands of cults around the world. Broadly speaking, a cult is a group or movement with a shared commitment to a usually extreme ideology that\u2019s typically embodied in a charismatic leader. But what exactly differentiates cults from other groups \u2013 and why do people join them? Janja Lalich describes how cults recruit and manipulate their members. \n\nLesson by Janja Lalich, animation by Globizco.",
+      "release": "2017-06-12T15:01:38Z",
+      "duration": "00:06:27",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "kB-dJaCXAxA",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=kB-dJaCXAxA"
+      }
+    }
+  ]
+}
