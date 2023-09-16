@@ -1,0 +1,43 @@
+{
+  "id": "97ba6213-1e0b-416e-9ad2-0e5e6936ed3a",
+  "name": "The Cult Next Door",
+  "spotifyId": "4dojrCgB54VhDBRGZSEdbg",
+  "appleId": 1699470395,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "ec0777ff-60d9-45e6-97fe-b8a5d4a0ab2e",
+      "title": "Ep.2: \u0022If He Can\u0027t Control Her, He Will Destroy Her.\u0022",
+      "description": "Ep.2 of \u0022The Cult Next Door\u0022 Podcast w/ Ashleigh Teeter \u0026 Mattie C. Lasiter. September 13, 2023.",
+      "release": "2023-09-13T00:00:00",
+      "duration": "01:25:02.3570000",
+      "explicit": false,
+      "spotifyId": "61MQZf4Eaoo7YcslBcadlk",
+      "appleId": 1000627715745,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/61MQZf4Eaoo7YcslBcadlk",
+        "apple": "https://podcasts.apple.com/podcast/ep-2-if-he-cant-control-her-he-will-destroy-her/id1699470395?i=1000627715745",
+        "youtube": null
+      }
+    },
+    {
+      "id": "6459148c-6d44-499a-a3fd-253885c3b9aa",
+      "title": "Ep.1: \u0022God Has Given Me a Message for You\u0022",
+      "description": "Episode 1 of \u0022The Cult Next Door\u0022 Podcast w/ Ashleigh Teeter \u0026 Mattie C. Lasiter. September 6, 2023.",
+      "release": "2023-09-06T00:00:00",
+      "duration": "01:23:21.5570000",
+      "explicit": false,
+      "spotifyId": "34Y3WF62XEYHrWEp1AQkrA",
+      "appleId": 1000626935669,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/34Y3WF62XEYHrWEp1AQkrA",
+        "apple": "https://podcasts.apple.com/podcast/ep-1-god-has-given-me-a-message-for-you/id1699470395?i=1000626935669",
+        "youtube": null
+      }
+    }
+  ]
+}
