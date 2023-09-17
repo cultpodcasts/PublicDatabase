@@ -1,0 +1,26 @@
+{
+  "id": "a8a82f34-73b8-4cbe-965e-47716ab83d63",
+  "name": "Crime World",
+  "spotifyId": "65o6FlP05o1ukHWUejIHlR",
+  "appleId": 1540069464,
+  "youTubeChannelId": "UC8MalTYHvpmBKt5y365hDmQ",
+  "episodes": [
+    {
+      "id": "afbe4d5d-bd69-4502-a7b0-41d0489e80d1",
+      "title": "Episode 357: Andrew Tate - Villain or Victim?",
+      "description": "Former kick boxer turned internet influencer Andrew Tate has been on a publicity blitz from his compound in Romania since he was released on house arrest and more recently limited to travel within Bucharest.  Facing possible rape and human trafficking charges, Tate has racked up millions of views on social media despite being banned from many platforms and has appeared doing lengthy interviews on popular podcast shows.  So what has he got to say? And how worried is he about the serious criminal offences he is under investigation for.  Nicola is joined by Sunday World Features Editor Daragh Keany as they discuss a previous backlash from Tate fans, his curious relationship with facts and what the future holds for the most googled an on the internet.See omnystudio.com/listener for privacy information.",
+      "release": "2023-08-25T00:00:00",
+      "duration": "00:48:48.5610000",
+      "explicit": false,
+      "spotifyId": "4NB0zOVeuXLIccgpK8ldeX",
+      "appleId": 1000625636829,
+      "youTubeId": "FOdfZcxpi2Q",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4NB0zOVeuXLIccgpK8ldeX",
+        "apple": "https://podcasts.apple.com/podcast/episode-357-andrew-tate-villain-or-victim/id1540069464?i=1000625636829",
+        "youtube": "https://www.youtube.com/watch?v=FOdfZcxpi2Q"
+      }
+    }
+  ]
+}

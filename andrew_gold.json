@@ -542,7 +542,15 @@
       "spotifyId": "",
       "appleId": null,
       "youTubeId": "sX3MEQK66ds",
-      "subjects": [],
+      "subjects": [
+        "Lighthouse International Group",
+        "LIG",
+        "Paul Waugh",
+        "Shaun Cooper",
+        "A Very British Cult",
+        "Chris Nash",
+        "Warren Vaughan"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
