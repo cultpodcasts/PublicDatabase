@@ -15,7 +15,14 @@
       "spotifyId": "",
       "appleId": null,
       "youTubeId": "59szDrlqvs0",
-      "subjects": [],
+      "subjects": [
+        "Ian Haworth",
+        "Cult Information Centre",
+        "Catalyst",
+        "Catalyst Counselling",
+        "Graham Baldwin",
+        "FECRIS"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
