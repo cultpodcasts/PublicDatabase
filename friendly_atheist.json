@@ -1,0 +1,26 @@
+{
+  "id": "a323c574-7302-4e7f-b02f-080bdfcfb6a0",
+  "name": "Friendly Atheist",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCsgjnUBCB9xbUXQfMg0pd8A",
+  "episodes": [
+    {
+      "id": "c6ca4a26-e72b-4545-a463-14f4b4148863",
+      "title": "A chat with Andrew Pledger, host of \u0022Surviving Bob Jones University: A Christian Cult\u0022",
+      "description": "Andrew Pledger is a former student at Bob Jones University, a fundamentalist Christian school with a long and not-so-great history. He\u0027s\u00A0also the host of a new podcast called Surviving Bob Jones University: A Christian Cult.\u0022 \r\n\r\nThe stories in that podcast are depressing as all hell but they\u0027re so important to hear if you want to get a real sense of what schools like these do to people.\r\n\r\nYou can listen to the podcast here: https://podcasts.apple.com/us/podcast/surviving-bob-jones-university-a-christian-cult/id1681943920",
+      "release": "2023-09-21T07:21:28Z",
+      "duration": "01:03:02",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "UPMgpT1rM3E",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=UPMgpT1rM3E"
+      }
+    }
+  ]
+}
