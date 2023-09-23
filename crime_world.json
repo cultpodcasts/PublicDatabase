@@ -15,7 +15,11 @@
       "spotifyId": "4NB0zOVeuXLIccgpK8ldeX",
       "appleId": 1000625636829,
       "youTubeId": "FOdfZcxpi2Q",
-      "subjects": [],
+      "subjects": [
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4NB0zOVeuXLIccgpK8ldeX",
         "apple": "https://podcasts.apple.com/podcast/episode-357-andrew-tate-villain-or-victim/id1540069464?i=1000625636829",
