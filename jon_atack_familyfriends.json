@@ -12,13 +12,13 @@
       "release": "2023-09-23T11:00:14Z",
       "duration": "01:20:44",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
+      "spotifyId": "6jlHNVMBb8BECtUKu6IxZI",
+      "appleId": 1000629113545,
       "youTubeId": "KICdWec8zrI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
+        "spotify": "https://open.spotify.com/episode/6jlHNVMBb8BECtUKu6IxZI",
+        "apple": "https://podcasts.apple.com/podcast/the-troubled-teen-industry-and-the-need/id1534364303?i=1000629113545",
         "youtube": "https://www.youtube.com/watch?v=KICdWec8zrI"
       }
     },

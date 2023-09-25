@@ -1,0 +1,43 @@
+{
+  "id": "edfef3bb-2c78-4107-a8a6-826bd7f90cfe",
+  "name": "Eilise McMullan",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCppX4MPoG1KxtH8W40HNzSQ",
+  "episodes": [
+    {
+      "id": "83956274-3fd9-4e03-a984-12bc03a15ed8",
+      "title": "ALEXANDRA STEIN, CULT SURVIVOR, WRITER AND SOCIAL PSYCHOLOGIST #cultsandextremebeliefs #igotout",
+      "description": "#cultsurvivor",
+      "release": "2022-11-20T21:07:26Z",
+      "duration": "00:49:27",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "BYF3tcfgz4g",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=BYF3tcfgz4g"
+      }
+    },
+    {
+      "id": "52ffeadc-03bf-4401-a69b-3b83923d74c1",
+      "title": "CULT SURVIVOR - Joy Cranham on surviving the Exclusive Brethren Cult and coercive control",
+      "description": "#igotout #cultsandextremebeliefs #cultsandextremebeliefs #cults #exclusivebrethren #brethrenchurch",
+      "release": "2022-10-20T13:50:50Z",
+      "duration": "00:47:33",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "vDXWX1NsSyw",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=vDXWX1NsSyw"
+      }
+    }
+  ]
+}

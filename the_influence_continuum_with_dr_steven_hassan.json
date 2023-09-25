@@ -6,6 +6,23 @@
   "youTubeChannelId": "UCxYM6bAC_3l66uCRxFO0QAg",
   "episodes": [
     {
+      "id": "225bb93b-f9b0-4a3c-a96b-ae4ecb43c645",
+      "title": "Wisdom from the Psychedelic Underground with Rachel Harris, PhD",
+      "description": "One of the hottest topics in modern psychology is utilizing psychedelics to aid psychotherapy. Research is being conducted on the potentially beneficial use of substances like psilocybin, LSD, DMT, and MDMA in a controlled environment. In recent years, it\u2019s gotten attention for its efficacy in treating treatment-resistant depression and PTSD, addiction, and end-of-life anxiety. Related to this is the psychedelic underground, a movement that similarly wants to use these substances to improve lives but takes a different, more spiritual approach. I spoke with Rachel Harris, who has experience in both, about this exciting world. Rachel is the author of Swimming in the Sacred: Wisdom from the Psychedelic Underground and Listening to Ayahuasca: New Hope for Depression, Addiction, PTSD, and Anxiety. A psychologist who has been in private practice for 40 years, she spent ten years in an academic research department where she published more than 40 scientific studies in peer-reviewed journals and received a National Institutes of Health New Investigator\u2019s Award. Join us for the fascinating interview! Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2023-09-25T00:00:00",
+      "duration": "01:01:05.2660000",
+      "explicit": false,
+      "spotifyId": "3EU8QTDLldVyNXwmPU9RnC",
+      "appleId": 1000629050664,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3EU8QTDLldVyNXwmPU9RnC",
+        "apple": "https://podcasts.apple.com/podcast/wisdom-from-the-psychedelic-underground-with-rachel/id1603773245?i=1000629050664",
+        "youtube": null
+      }
+    },
+    {
       "id": "b846cb14-20b2-43c5-a192-2f1391db2b72",
       "title": "Redemption and the Prison System with Ramadan Shabazz and Richard Parker, MD",
       "description": "Ramadan was freed from prison on March 15th 2023, after 51 years of incarceration by\u00A0\u00A0the parole board and finally Governor Baker who commuted his life sentence. A Vietnam vet Shabazz suffered PTSD and drug addiction upon his return from service and got involved in armed robbery that\u00A0\u00A0resulted in the deaths of two innocent people. He was initially sentenced to death. Ramadan Shabazz is a rare success story and a model that proves a person who commits a horrible crime can reform and truly become a model citizen. In 1983, he began his 40-year association with the Parker family. While incarcerated, Ramadan earned his bachelor\u0027s degree and master\u0027s degree from Boston University. He also participated in programs to assist other prisoners with mental health struggles. Ramadan Shabazz and my friend, Dr. Richard Parker, joined me on the Influence Continuum podcast this week to discuss his life journey and the phenomenal effort to help him be a free man today. This is a heartwarming story which brings much needed light on a prison system that deserves reformation. Learn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -14,12 +31,12 @@
       "explicit": false,
       "spotifyId": "2Sdtj5PhUqrD1cr00l2Low",
       "appleId": 1000628231559,
-      "youTubeId": "",
+      "youTubeId": "oibTElcsl6E",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Sdtj5PhUqrD1cr00l2Low",
         "apple": "https://podcasts.apple.com/podcast/redemption-and-the-prison-system-with-ramadan/id1603773245?i=1000628231559",
-        "youtube": "https://www.youtube.com/watch?v=EaBgA8fJf4I"
+        "youtube": "https://www.youtube.com/watch?v=oibTElcsl6E"
       }
     },
     {
@@ -1645,6 +1662,23 @@
         "spotify": "https://open.spotify.com/episode/2Pgi6a6J0svbHJY7Tt7qA1",
         "apple": "https://podcasts.apple.com/podcast/the-influence-continuum-with-dr-steven-hassan-trailer/id1603773245?i=1000547165178",
         "youtube": null
+      }
+    },
+    {
+      "id": "4a17cb9e-0b8a-4780-8d46-927eaad35cf0",
+      "title": "Terror, Love \u0026 Brainwashing: A Discussion with Alexandra Stein About Extremist Political Cults",
+      "description": "https://freedomofmind.com/terror-love-brainwashing-a-discussion-with-alexandra-stein-about-extremist-political-cults/\n\nDiscussion with Dr. Stein, a cult survivor specializing in the social psychology of ideological extremism and other dangerous social relationships.\n***********************************************************************\nContact Freedom of Mind to schedule a consultation or to learn about offered services.\nhttps://freedomofmind.com/contact/\n\nLearn about how the Strategic Interactive Approach can help rescue your friend or loved one out from under predatory influence.\nhttps://freedomofmind.com/strategic-interaction-approach-sia-frequently-asked-questions-faq/\n\nSubscribe to receive updates on news, events, blogs, videos, webinars, and workshops.\nhttps://freedomofmind.com/subscribe/\n\nLearn about my not-for-profit and scientific research on undue influence, its effects, and the law.\nhttp://freedomfromundueinfluence.org/",
+      "release": "2019-04-04T16:45:03Z",
+      "duration": "00:31:26",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "670me358xm0",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=670me358xm0"
       }
     }
   ]

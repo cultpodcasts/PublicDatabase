@@ -1,0 +1,26 @@
+{
+  "id": "e82f1ee8-75e9-4ad8-8d17-13410cfc78b1",
+  "name": "Vanity Fair",
+  "spotifyId": "4Lf74zu5xoNFxOL02KTF1g",
+  "appleId": null,
+  "youTubeChannelId": "UCIsbLox_y9dCIMLd8tdC6qg",
+  "episodes": [
+    {
+      "id": "ac8b8c45-fc60-4b85-a98f-548ec422981e",
+      "title": "Vanity Fair",
+      "description": "",
+      "release": "1970-01-01T00:00:00",
+      "duration": "00:05:00.0420000",
+      "explicit": false,
+      "spotifyId": null,
+      "appleId": null,
+      "youTubeId": "WLoVHyuYVBY",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=WLoVHyuYVBY"
+      }
+    }
+  ]
+}

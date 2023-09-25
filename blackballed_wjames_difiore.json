@@ -1,0 +1,26 @@
+{
+  "id": "f3fca88b-8906-4fde-be8b-9cbf0b7557ed",
+  "name": "Blackballed w/james difiore",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCkXl_d--yg89cUP8ZLNBlIw",
+  "episodes": [
+    {
+      "id": "f691f5ff-7af5-4f99-ad2f-03f89777b226",
+      "title": "Blackballed: Dr. Janja Lalich - the world\u0027s foremost expert on cults",
+      "description": "Dr. Janja Lalich drops in to talk about the Plymouth Brethren Christian Church and why the cult is so dangerous.",
+      "release": "2022-07-30T12:08:22Z",
+      "duration": "01:08:48",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "hD1TSQo9vXM",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=hD1TSQo9vXM"
+      }
+    }
+  ]
+}
