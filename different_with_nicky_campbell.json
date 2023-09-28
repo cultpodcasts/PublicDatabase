@@ -15,7 +15,11 @@
       "spotifyId": "0Yjok8OB8C4XwwSzaOlKJm",
       "appleId": 1000566446372,
       "youTubeId": "",
-      "subjects": [],
+      "subjects": [
+        "BBC",
+        "Richard Turner",
+        "Nicky Campbell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Yjok8OB8C4XwwSzaOlKJm",
         "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372",
