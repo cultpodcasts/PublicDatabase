@@ -6,6 +6,23 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "149876cb-d50b-40b3-9eca-bd8e851a32ea",
+      "title": "Chris Shelton | The Beginnings of Dianetics",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 1\u0022 ...",
+      "release": "2023-09-29T18:00:22Z",
+      "duration": "00:08:25",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "UR162P8L8bw",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=UR162P8L8bw"
+      }
+    },
+    {
       "id": "3968dab9-4222-495c-af77-23c3b233dce9",
       "title": "Chris Shelton | The Basics of Dianetics",
       "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 1\u0022 ...",
