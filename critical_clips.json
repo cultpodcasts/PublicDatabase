@@ -6,6 +6,23 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "ccab7875-c992-4567-978c-dd96c01bb0c7",
+      "title": "Chris Shelton | When Dianetics was Popular",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
+      "release": "2023-10-02T18:30:24Z",
+      "duration": "00:08:14",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "ri7y6dfluZ8",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=ri7y6dfluZ8"
+      }
+    },
+    {
       "id": "149876cb-d50b-40b3-9eca-bd8e851a32ea",
       "title": "Chris Shelton | The Beginnings of Dianetics",
       "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 1\u0022 ...",

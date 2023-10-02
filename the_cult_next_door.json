@@ -72,6 +72,108 @@
         "apple": "https://podcasts.apple.com/podcast/ep-1-god-has-given-me-a-message-for-you/id1699470395?i=1000626935669",
         "youtube": null
       }
+    },
+    {
+      "id": "ada76e88-8a54-4672-bd93-e4ae14f3d6cb",
+      "title": "Ep.3 Teaser: \u0022I can\u0027t imagine more of a family cult dynamic...\u0022",
+      "description": "Excerpt from Episode 3 of \u0022The Cult Next Door\u0022 Podcast  ---   Support this podcast: https://podcasters.spotify.com/pod/show/cultnextdoor/support",
+      "release": "2023-08-31T00:00:00",
+      "duration": "00:01:08.6710000",
+      "explicit": false,
+      "spotifyId": "6YNN2siA5w24F5qDhx71sQ",
+      "appleId": null,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6YNN2siA5w24F5qDhx71sQ",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "154e16ae-02c8-4102-8843-f0350bbde4c4",
+      "title": "Ep.3 Teaser: \u0022I think he thought he had me in the bag\u0022",
+      "description": "Excerpt from Ep.3 of \u0022The Cult Next Door\u0022. Episodes releasing September 2023.  ---   Support this podcast: https://podcasters.spotify.com/pod/show/cultnextdoor/support",
+      "release": "2023-08-28T00:00:00",
+      "duration": "00:01:16.8850000",
+      "explicit": false,
+      "spotifyId": "3VOll5DtRrJmsTQ89sCkIi",
+      "appleId": null,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3VOll5DtRrJmsTQ89sCkIi",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "a7ec7ba8-4c37-488b-a389-8a96c422b890",
+      "title": "Ep.2 Teaser: \u0022We knew what would happen if you didn\u0027t stay in line.\u0022",
+      "description": "Excerpt from Ep.2 of The Cult Next Door Podcast. Full episodes coming September 2023. #cultnextdoor   ---   Support this podcast: https://podcasters.spotify.com/pod/show/cultnextdoor/support",
+      "release": "2023-08-25T00:00:00",
+      "duration": "00:00:58.8160000",
+      "explicit": false,
+      "spotifyId": "0zngPHRm17uxnHbYLnSe83",
+      "appleId": null,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0zngPHRm17uxnHbYLnSe83",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "8406ef70-cae3-4d81-b899-e54edede3bf0",
+      "title": "Trailer: \u0022This isn\u0027t just another cult story.\u0022",
+      "description": "Full episodes releasing September 2023. #cultnextdoor   ---   Support this podcast: https://podcasters.spotify.com/pod/show/cultnextdoor/support",
+      "release": "2023-08-25T00:00:00",
+      "duration": "00:03:12.3620000",
+      "explicit": false,
+      "spotifyId": "6r9lQkrHelcSoj0WZdAmFd",
+      "appleId": null,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6r9lQkrHelcSoj0WZdAmFd",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "194c6dc7-434c-46ec-b7b1-d54feca2773a",
+      "title": "Ep.2 Teaser: \u0022It felt like I Jumped Out of a Burning Building\u0022",
+      "description": "Excerpt from Ep.2. Coming September 2023  ---   Support this podcast: https://podcasters.spotify.com/pod/show/cultnextdoor/support",
+      "release": "2023-08-18T00:00:00",
+      "duration": "00:01:23.7970000",
+      "explicit": false,
+      "spotifyId": "24B1WYR0k7AFBus4vJ8Skm",
+      "appleId": null,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/24B1WYR0k7AFBus4vJ8Skm",
+        "apple": null,
+        "youtube": null
+      }
+    },
+    {
+      "id": "6cbc6775-46e0-4f4c-851c-c5b93c05b909",
+      "title": "Ep.1 Teaser: \u0022Seared into my memory like a branding iron\u0022 ",
+      "description": "An excerpt from Ep.1 of \u0022The Cult Next Door\u0022. Full episodes coming September 2023.   ---   Support this podcast: https://podcasters.spotify.com/pod/show/cultnextdoor/support",
+      "release": "2023-08-05T00:00:00",
+      "duration": "00:01:14.4100000",
+      "explicit": false,
+      "spotifyId": "5OAedkZEK2gFsJIrPxQzr2",
+      "appleId": null,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5OAedkZEK2gFsJIrPxQzr2",
+        "apple": null,
+        "youtube": null
+      }
     }
   ]
 }

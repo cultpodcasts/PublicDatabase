@@ -1,0 +1,26 @@
+{
+  "id": "0045edd6-4c88-4bb1-bc84-e47668e895e5",
+  "name": "Hibernia Eugenesis",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCUX-NUI9UT7JTTRWOO-pwlg",
+  "episodes": [
+    {
+      "id": "286283bb-8fef-4dae-94d1-310d2464f0c1",
+      "title": "Psychiatrist on scientology Ireland 1968",
+      "description": "Irish Psychiatrist, the late Dr. Anthony Clare, was ahead of his time in his synopsis of the $cientology cult. His words ring true today more than ever.",
+      "release": "1968-07-26T00:00:00Z",
+      "duration": "00:01:16",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "74XuOJIOO_0",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=74XuOJIOO_0"
+      }
+    }
+  ]
+}

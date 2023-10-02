@@ -15,7 +15,14 @@
       "spotifyId": "306tu5KoaPgiWlZ7iPEEvZ",
       "appleId": 1000629704810,
       "youTubeId": "",
-      "subjects": [],
+      "subjects": [
+        "Lighthouse International",
+        "Lighthouse International Group",
+        "Paul Waugh",
+        "Shaun Cooper, Warren Vaughan",
+        "Chris Nash",
+        "LIG"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/306tu5KoaPgiWlZ7iPEEvZ",
         "apple": "https://podcasts.apple.com/podcast/exposing-cultic-abuse-with-dr-alexandra-stein/id1540824671?i=1000629704810",
@@ -653,7 +660,12 @@
       "appleId": 1000609027830,
       "youTubeId": null,
       "subjects": [
-        "Lighthouse International Group"
+        "Lighthouse International",
+        "Lighthouse International Group",
+        "Paul Waugh",
+        "Shaun Cooper, Warren Vaughan",
+        "Chris Nash",
+        "LIG"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23gYFXwI77YvtRpXrzUMhz",

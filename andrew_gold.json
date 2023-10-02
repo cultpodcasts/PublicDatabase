@@ -539,8 +539,8 @@
       "release": "2023-03-28T16:24:25Z",
       "duration": "00:51:58",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
+      "spotifyId": "66BgBIRMvt6aDKbROIGdUx",
+      "appleId": 1000607399890,
       "youTubeId": "sX3MEQK66ds",
       "subjects": [
         "Lighthouse International Group",
@@ -552,8 +552,8 @@
         "Warren Vaughan"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
+        "spotify": "https://open.spotify.com/episode/66BgBIRMvt6aDKbROIGdUx",
+        "apple": "https://podcasts.apple.com/us/podcast/i-lost-both-my-sons-to-a-very-british-cult/id1515932214?i=1000607399890",
         "youtube": "https://www.youtube.com/watch?v=sX3MEQK66ds"
       }
     },
@@ -2111,13 +2111,13 @@
       "release": "2022-11-14T12:11:21Z",
       "duration": "00:41:29",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
+      "spotifyId": "1Gd7MUhiJdjUIhFEDjJoQv",
+      "appleId": 1000586025408,
       "youTubeId": "2skMS1VDqTg",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
+        "spotify": "https://open.spotify.com/episode/1Gd7MUhiJdjUIhFEDjJoQv",
+        "apple": "https://podcasts.apple.com/podcast/living-biblically-for-a-year-aj-jacobs/id1515932214?i=1000586025408",
         "youtube": "https://www.youtube.com/watch?v=2skMS1VDqTg"
       }
     },
@@ -2884,6 +2884,57 @@
         "spotify": null,
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=E1LLoLl2Hsc"
+      }
+    },
+    {
+      "id": "71c22583-a7a8-4dda-a21c-a2c3d55337ec",
+      "title": "211. NXIVM vs Scientology Part 1",
+      "description": "Kelly Thiel - a former member of the NXIVM cult - joins me and former scientologist Aaron Smith-Levin to discuss the similarities between the two cults.\u00A0  Kelly Thiel links: https://kellythielbook.com https://www.instagram.com/thekellythiel  Aaron Smith-Levin links: https://www.youtube.com/c/GrowingUpInScientology https://twitter.com/GrowingupinSCN  Andrew Gold links: http://youtube.com/andrewgold1 http://instagram.com/andrewgold_ok http://twitter.com/andrewgold_ok Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2022-12-19T00:00:00",
+      "duration": "00:59:54.1350000",
+      "explicit": false,
+      "spotifyId": "1jL89bBFUyCtVJON4MzbkG",
+      "appleId": 1000590526500,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1jL89bBFUyCtVJON4MzbkG",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-vs-scientology-part-1/id1515932214?i=1000590526500",
+        "youtube": null
+      }
+    },
+    {
+      "id": "1338371c-b2f7-42e0-825e-9ea7e3944d2c",
+      "title": "215. NXIVM vs Scientology Part 2",
+      "description": "This is Part 2 of our talk with Kelly Thiel - a former member of the NXIVM cult - and Aaron Smith-Levin - a former scientologist.  Kelly Thiel links: https://kellythielbook.com https://www.instagram.com/thekellythiel  Aaron Smith-Levin links: https://www.youtube.com/c/GrowingUpInScientology https://twitter.com/GrowingupinSCN  Andrew Gold links: http://youtube.com/andrewgold1 http://instagram.com/andrewgold_ok http://twitter.com/andrewgold_ok Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2022-12-29T00:00:00",
+      "duration": "01:07:14.0630000",
+      "explicit": false,
+      "spotifyId": "0Wxf7feeZmxsdyvDWJCgz8",
+      "appleId": 1000591032746,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Wxf7feeZmxsdyvDWJCgz8",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-vs-scientology-part-2/id1515932214?i=1000591032746",
+        "youtube": null
+      }
+    },
+    {
+      "id": "a8579c49-ed02-436b-987d-ca83e52318d2",
+      "title": "83: NXIVM Sex-Trafficking Cult Survivor Kelly Thiel",
+      "description": "Kelly Thiel was once a member of the notorious NXIVM cult. For those of you who \u2013 like me \u2013 don\u2019t or didn\u2019t know much about this sect, you\u2019re in for a bit of a shock \u2013 not least in how that bunch of capital letters are supposed to be pronounced. But I\u2019ll let Kelly explain that part.    The cult was on the surface a multi-level marketing group that had various levels of memberships. Its members would learn a lot about self-help stuff, such as how to find purpose and be happy. Its methods were said to have been somewhere between those of Tony Robbins and the cult of Scientology, and there was even some stuff about going back to your childhood or past lives.  Sign up on Apple VIP or http://patreon.com/andrewgold for the half-hour bonus chat.     Kelly Thiel links:     https://www.instagram.com/thekellythiel/   https://kellythiel.com\u00A0     Andrew Gold links:     http://youtube.com/andrewgold1  http://instagram.com/andrewgold_ok  http://twitter.com/andrewgold_ok  http://andrewgoldpodcast.com   Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2021-11-29T00:00:00",
+      "duration": "00:59:51.2620000",
+      "explicit": false,
+      "spotifyId": "2GWjDnEU1OuRDugPo5XIAO",
+      "appleId": 1000543316379,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2GWjDnEU1OuRDugPo5XIAO",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-sex-trafficking-cult-survivor-kelly-thiel/id1515932214?i=1000543316379",
+        "youtube": null
       }
     }
   ]
