@@ -1,0 +1,43 @@
+{
+  "id": "9a5d0c44-0db3-4cf1-835c-cb2bac38a526",
+  "name": "William Ramsey Investigates",
+  "spotifyId": "6LLqKSobRAK9CdOoxO5m8g",
+  "appleId": 1388815042,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "22743c24-2e99-4a87-b5cd-519f4efe49e7",
+      "title": "Roberta Glass of the True Crime Report discusses NXIVM, Keith Raniere, and the WM3 (2018)",
+      "description": "Roberta Glass of the True Crime Report discusses NXIVM, Keith Raniere, and the WM3 (2018)  Roberta Glass Youtube Channel: https://www.youtube.com/user/robertaglass Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2022-04-21T00:00:00",
+      "duration": "00:59:17.6940000",
+      "explicit": false,
+      "spotifyId": "7bUc7QxS6ogp7TmO0tJCPf",
+      "appleId": 1000558299417,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7bUc7QxS6ogp7TmO0tJCPf",
+        "apple": "https://podcasts.apple.com/podcast/roberta-glass-of-the-true-crime-report-discusses/id1388815042?i=1000558299417",
+        "youtube": null
+      }
+    },
+    {
+      "id": "ed9fdfb9-8480-4c88-976a-9a0f1b566e7e",
+      "title": "Roberta Glass of the True Crime Report on NXIVM updates on May 18th, 2019",
+      "description": "Roberta Glass of True Crime Report on NXIVM updates on May 18th, 2019 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2022-05-13T00:00:00",
+      "duration": "00:57:17.2960000",
+      "explicit": false,
+      "spotifyId": "0O5fujiQxxWPX8ovCVvDXj",
+      "appleId": 1000561076166,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0O5fujiQxxWPX8ovCVvDXj",
+        "apple": "https://podcasts.apple.com/podcast/roberta-glass-of-the-true-crime-report-on-nxivm/id1388815042?i=1000561076166",
+        "youtube": null
+      }
+    }
+  ]
+}
