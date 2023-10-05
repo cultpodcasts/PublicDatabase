@@ -6,6 +6,40 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "231f1124-16ab-4550-bd15-3b7e0bc80470",
+      "title": "Chris Shelton | The Birth of Scientology\u0026#39;s E-meter",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
+      "release": "2023-10-04T18:00:06Z",
+      "duration": "00:05:15",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "DZW8yy8LFMI",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=DZW8yy8LFMI"
+      }
+    },
+    {
+      "id": "3e48f0fd-7d3c-4573-ba3a-e6fb8fea5857",
+      "title": "Chris Shelton | How Hubbard Lost Dianetics",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
+      "release": "2023-10-03T18:00:14Z",
+      "duration": "00:10:38",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "dvGAvULckMc",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=dvGAvULckMc"
+      }
+    },
+    {
       "id": "ccab7875-c992-4567-978c-dd96c01bb0c7",
       "title": "Chris Shelton | When Dianetics was Popular",
       "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
