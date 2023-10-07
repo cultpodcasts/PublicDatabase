@@ -1,0 +1,26 @@
+{
+  "id": "23227d81-f793-4a19-b47b-c44a9d48ff57",
+  "name": "ABC News (Australia)",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+  "episodes": [
+    {
+      "id": "6cc6b127-0b89-4fbd-9fee-44c3045c34e6",
+      "title": "How the Church of Scientology tried to bring down Paulette Cooper",
+      "description": "Journalist Paulette Cooper was once the Church of Scientology\u0027s public enemy number one. After publishing a book critical of the church in the 1970\u0027s she was harassed in a vicious campaign which included death threats and being framed for a serious crime.",
+      "release": "2015-07-28T06:11:19Z",
+      "duration": "00:09:30",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "4ncz9-QqMBw",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=4ncz9-QqMBw"
+      }
+    }
+  ]
+}

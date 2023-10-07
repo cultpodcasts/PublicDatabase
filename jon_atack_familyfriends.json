@@ -13,12 +13,12 @@
       "duration": "01:09:30",
       "explicit": false,
       "spotifyId": "2wRoxOSowP7J380Ahf5zxA",
-      "appleId": null,
+      "appleId": 1000630540891,
       "youTubeId": "ZPpryda7z_c",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wRoxOSowP7J380Ahf5zxA",
-        "apple": null,
+        "apple": "https://podcasts.apple.com/podcast/when-groups-go-crazy-with-dr-steven-moffic/id1534364303?i=1000630540891",
         "youtube": "https://www.youtube.com/watch?v=ZPpryda7z_c"
       }
     },
