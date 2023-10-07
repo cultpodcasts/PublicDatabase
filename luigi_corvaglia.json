@@ -1,0 +1,26 @@
+{
+  "id": "719da29f-d185-4e8d-bd3c-7a607b25e9ce",
+  "name": "Luigi Corvaglia",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UC8Wwvdt6MheGPy9pJY-9g3w",
+  "episodes": [
+    {
+      "id": "a7c1f508-3bf2-4a88-a090-c838c68bb071",
+      "title": "Luigi Corvaglia (FECRIS) at the OSCE meeting 2023",
+      "description": "",
+      "release": "2023-10-06T14:04:44Z",
+      "duration": "00:02:33",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "MqaxNyBnFBk",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=MqaxNyBnFBk"
+      }
+    }
+  ]
+}

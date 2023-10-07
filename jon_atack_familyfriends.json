@@ -6,6 +6,23 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "399f13a7-2cf7-4232-9e44-74e65e892beb",
+      "title": "when groups go crazy - with Dr Steven Moffic",
+      "description": "A look at group psychosis, mass sociogenic illness, and the folie a plusiers with the eminent social psychiatrist Dr Steven Moffic.",
+      "release": "2023-10-07T11:20:54Z",
+      "duration": "01:09:30",
+      "explicit": false,
+      "spotifyId": "2wRoxOSowP7J380Ahf5zxA",
+      "appleId": null,
+      "youTubeId": "ZPpryda7z_c",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2wRoxOSowP7J380Ahf5zxA",
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=ZPpryda7z_c"
+      }
+    },
+    {
       "id": "4981ea36-3f7b-4395-bb27-5eaeef6f4af9",
       "title": "Ron Hubbard: the Kali ceremony and ritual magick - with Janis Gillham-Grady",
       "description": "Before creating Scientology, Ron Hubbard performed a ritual to incarnate the Wh*re of Babylon. Is Scientology itself perhaps an ...",

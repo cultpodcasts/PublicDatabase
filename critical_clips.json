@@ -6,6 +6,40 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "93c4b0bb-1732-42c1-995b-3cca1026c9a4",
+      "title": "Chris Shelton | How Hubbard Grew Scientology",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
+      "release": "2023-10-06T18:00:04Z",
+      "duration": "00:09:49",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "Bra9kz6-y4A",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=Bra9kz6-y4A"
+      }
+    },
+    {
+      "id": "0701372a-9810-4bba-87b9-c329019f3e9d",
+      "title": "Chris Shelton | How Dianetics Became Scientology",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
+      "release": "2023-10-05T18:00:21Z",
+      "duration": "00:07:15",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "lVCF1UDfsAQ",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=lVCF1UDfsAQ"
+      }
+    },
+    {
       "id": "231f1124-16ab-4550-bd15-3b7e0bc80470",
       "title": "Chris Shelton | The Birth of Scientology\u0026#39;s E-meter",
       "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
