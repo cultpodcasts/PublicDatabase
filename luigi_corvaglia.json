@@ -21,6 +21,40 @@
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=MqaxNyBnFBk"
       }
+    },
+    {
+      "id": "3e51856d-197a-4c97-8f7d-1eb236dc07f2",
+      "title": "Luigi Corvaglia on cult apologists and geopolitics",
+      "description": "Statement by Luigi Corvaglia (CeSAP, FECRIS, Open Minds Foundation) at the International Conference \u0022Nation State and the New Transformational Forms of Religious Consciousness\u0022 organized by ICSE (International Center of Studies on Eurasia), Paris, February, 25  2021",
+      "release": "2021-02-28T21:30:39Z",
+      "duration": "00:08:30",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "4tmz348kmwE",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=4tmz348kmwE"
+      }
+    },
+    {
+      "id": "fc7b11af-712c-43ff-aaaa-e75f3f570d78",
+      "title": "Mothers in cults",
+      "description": "Fecris 2016 (Sofia, Bulgaria). Luigi Corvaglia speaks on Mothers in Cults. Introduced by Dr. Janja Lalich.",
+      "release": "2017-06-11T21:13:19Z",
+      "duration": "00:09:36",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "PelOoujZrTI",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=PelOoujZrTI"
+      }
     }
   ]
 }

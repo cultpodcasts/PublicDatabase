@@ -6,15 +6,15 @@
   "youTubeChannelId": "UCeLNAd7-nYU_7D7Z7S3a6Hw",
   "episodes": [
     {
-      "id": "94bb8074-8b2d-4bd1-9d48-d47a7780675d",
-      "title": "Pat Kenny Talk Show 12th Nov 1997",
-      "description": "Pat Kenny Talk Show 12th Nov 1997 \u2013 Cancer Cure by Post and other claims by Tony Quinn/EDUCO\n\n\nSource: https://dialogueireland.wordpress.com/2012/06/04/pat-kenny-talk-show-12th-nov-1997-cancer-cure-by-post-and-other-claims-by-tony-quinn/\n\n\n#drtonyquinn #educoseminar #educoworld",
-      "release": "1997-11-12T10:00:00Z",
-      "duration": "00:33:09",
+      "id": "7c1153b0-ee27-4d82-bc83-98da41c7d345",
+      "title": "\u0026quot;Boxing Clever\u0026quot; Fair Game w/ Greg Dyke",
+      "description": "(S02E05) - Channel 4 (10 June 1996)",
+      "release": "1996-06-10T20:00:00Z",
+      "duration": "00:24:39",
       "explicit": false,
       "spotifyId": "",
       "appleId": null,
-      "youTubeId": "u77DTkkVcv0",
+      "youTubeId": "GF52vfbXd5A",
       "subjects": [
         "Dr. Tony Quinn",
         "Dr Tony Quinn",
@@ -22,24 +22,27 @@
         "EDUCO",
         "Ireland",
         "LGAT",
-        "Seminar"
+        "Seminar",
+        "Steve Collins",
+        "Paul McKenna",
+        "Greg Dyke"
       ],
       "urls": {
         "spotify": null,
         "apple": null,
-        "youtube": "https://www.youtube.com/watch?v=u77DTkkVcv0"
+        "youtube": "https://www.youtube.com/watch?v=GF52vfbXd5A"
       }
     },
     {
-      "id": "1d69bb80-9f4a-4c3e-8da6-dfb026968496",
-      "title": "Dialogue Ireland Conference 2001 on Tony Quinn  - Gerry Kerr and Caroline.",
-      "description": "Source: https://dialogueireland.wordpress.com/2009/09/07/dialogue-ireland-conference-2001-on-tony-quinn-listen-to-conference-talks/dialogue_ireland_gerry_kerr_4/\n#drtonyquinn #educoseminar #educoworld",
-      "release": "2001-10-13T00:00:00Z",
-      "duration": "00:49:26",
+      "id": "00470cbe-210a-4d6d-9ec8-065ed5d60ec4",
+      "title": "TV3 - 20/20 - \u0026quot;Tony Quinn\u0026quot; (2001)",
+      "description": "Broadcast by Ireland\u0027s TV3 on 2 March 2001.",
+      "release": "2001-03-02T20:00:00Z",
+      "duration": "00:35:32",
       "explicit": false,
       "spotifyId": "",
       "appleId": null,
-      "youTubeId": "YXlYje6UZDI",
+      "youTubeId": "i-B473VwvOk",
       "subjects": [
         "Dr. Tony Quinn",
         "Dr Tony Quinn",
@@ -52,7 +55,54 @@
       "urls": {
         "spotify": null,
         "apple": null,
-        "youtube": "https://www.youtube.com/watch?v=YXlYje6UZDI"
+        "youtube": "https://www.youtube.com/watch?v=i-B473VwvOk"
+      }
+    },
+    {
+      "id": "4ecc5720-d6aa-479b-96bb-3ddf41692ff8",
+      "title": "BBC Spotlight (BBC NI) - Belize Oil",
+      "description": "Tue 16 Oct 2012, BBC One Investigation into Irish hypnotist Tony Quinn and his company Educo, and his influence and ...",
+      "release": "2012-10-16T22:00:00Z",
+      "duration": "00:28:48",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "TZ5-26C5V5s",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar",
+        "BBC"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=TZ5-26C5V5s"
+      }
+    },
+    {
+      "id": "c0c4d93c-361b-423e-8c81-0d2aa35fc60c",
+      "title": "Network First - Mind Control - 1998",
+      "description": "Stacy Brooks and Vaughn Young demonstrate TR drills. Featuring Paul McKenna.",
+      "release": "1998-01-01T00:00:00Z",
+      "duration": "00:03:48",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "g-lOcLFDprU",
+      "subjects": [
+        "Scientology",
+        "Paul McKenna",
+        "ITV"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=g-lOcLFDprU"
       }
     },
     {
@@ -78,6 +128,56 @@
         "spotify": null,
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=_2UIDU4YuJw"
+      }
+    },
+    {
+      "id": "5418b830-0f7b-44bb-a0a6-2c366289aebc",
+      "title": "Live Line with Joe Duffy - 26 Jan 2006 - Tony Quinn and the EDUCO Cult",
+      "description": "",
+      "release": "2006-01-26T00:00:00Z",
+      "duration": "00:26:49",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "QbRwYt59fOs",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=QbRwYt59fOs"
+      }
+    },
+    {
+      "id": "1d69bb80-9f4a-4c3e-8da6-dfb026968496",
+      "title": "Dialogue Ireland Conference 2001 on Tony Quinn  - Gerry Kerr and Caroline.",
+      "description": "Source: https://dialogueireland.wordpress.com/2009/09/07/dialogue-ireland-conference-2001-on-tony-quinn-listen-to-conference-talks/dialogue_ireland_gerry_kerr_4/\n#drtonyquinn #educoseminar #educoworld",
+      "release": "2001-10-13T00:00:00Z",
+      "duration": "00:49:26",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "YXlYje6UZDI",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=YXlYje6UZDI"
       }
     },
     {
@@ -131,15 +231,15 @@
       }
     },
     {
-      "id": "5418b830-0f7b-44bb-a0a6-2c366289aebc",
-      "title": "Live Line with Joe Duffy - 26 Jan 2006 - Tony Quinn and the EDUCO Cult",
-      "description": "",
-      "release": "2006-01-26T00:00:00Z",
-      "duration": "00:26:49",
+      "id": "94bb8074-8b2d-4bd1-9d48-d47a7780675d",
+      "title": "Pat Kenny Talk Show 12th Nov 1997",
+      "description": "Pat Kenny Talk Show 12th Nov 1997 \u2013 Cancer Cure by Post and other claims by Tony Quinn/EDUCO\n\n\nSource: https://dialogueireland.wordpress.com/2012/06/04/pat-kenny-talk-show-12th-nov-1997-cancer-cure-by-post-and-other-claims-by-tony-quinn/\n\n\n#drtonyquinn #educoseminar #educoworld",
+      "release": "1997-11-12T10:00:00Z",
+      "duration": "00:33:09",
       "explicit": false,
       "spotifyId": "",
       "appleId": null,
-      "youTubeId": "QbRwYt59fOs",
+      "youTubeId": "u77DTkkVcv0",
       "subjects": [
         "Dr. Tony Quinn",
         "Dr Tony Quinn",
@@ -152,7 +252,7 @@
       "urls": {
         "spotify": null,
         "apple": null,
-        "youtube": "https://www.youtube.com/watch?v=QbRwYt59fOs"
+        "youtube": "https://www.youtube.com/watch?v=u77DTkkVcv0"
       }
     }
   ]

@@ -1,0 +1,26 @@
+{
+  "id": "6416afb6-3b2f-4c66-a1f2-99d1f593d133",
+  "name": "Isles of Mistery",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCFk6jxVFJc4OHe3t8NgNh2w",
+  "episodes": [
+    {
+      "id": "e184ba81-02be-40a3-9e04-9ded5e6cfc65",
+      "title": "Irish CULT | The Screamers",
+      "description": "The Atlantis Primal Therapy Commune, or The Atlantis Foundation, is a commune established in Ireland in 1974. It is also known as The Screamers because of their practice of primal scream therapy. \n\nEpisode References:\nWikipedia\nhttps://www.youtube.com/watch?v=7Sm-AjNMxco \nhttps://www.bbc.co.uk/sounds/play/b0bbp9qf",
+      "release": "2023-06-12T16:00:15Z",
+      "duration": "00:25:12",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "PPmNRPomr6Q",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=PPmNRPomr6Q"
+      }
+    }
+  ]
+}
