@@ -6,4 +6,4 @@ The objective is to grow this to include all historic episodes, and to include e
 
 The data is presented as json files.
 
-See [CultPodcasts.DatabasePublisher](https://github.com/cultpodcasts/RedditPodcastPoster/tree/main/CultPodcasts.DatabasePublisher) for the source-code for that produces this data in this form.
+See [CultPodcasts.DatabasePublisher](https://github.com/cultpodcasts/RedditPodcastPoster/tree/main/Console-Apps/CultPodcasts.DatabasePublisher) for the source-code for that produces this data in this form.
