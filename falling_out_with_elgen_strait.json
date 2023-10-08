@@ -3,8 +3,28 @@
   "name": "Falling Out with Elgen Strait",
   "spotifyId": "2KothAr2epngctKNrUGJ96",
   "appleId": 1550448436,
-  "youTubeChannelId": "",
+  "youTubeChannelId": "UCQxe2oIqVQgIGkFbjCIivMw",
   "episodes": [
+    {
+      "id": "3d4b101e-1a78-4312-9952-05bdb1ffa783",
+      "title": "S4 E13- $42M Gambled Away by Hak Ja Han in Las Vegas",
+      "description": "(Hak Ja Han is the widow of Sun Myung Moon - the founder of the Unification Church)",
+      "release": "2023-10-08T19:30:00",
+      "duration": "00:23:27.5820000",
+      "explicit": true,
+      "spotifyId": "7MVIFuSIzf7axPUV2zowJd",
+      "appleId": 1000630616682,
+      "youTubeId": "IGUGp4Qw4Sc",
+      "subjects": [
+        "Unification Church",
+        "Moonies"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MVIFuSIzf7axPUV2zowJd",
+        "apple": "https://podcasts.apple.com/podcast/s4-e13-$42m-gambled-away-by-hak-ja-han-in-las-vegas/id1550448436?i=1000630616682",
+        "youtube": "https://www.youtube.com/watch?v=IGUGp4Qw4Sc"
+      }
+    },
     {
       "id": "ba6a3d68-d547-4c2e-ad76-31fea935b140",
       "title": "S4 E12- Three Billboards on Peter Dinklage\u0027s Lawn",

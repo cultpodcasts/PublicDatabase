@@ -1,0 +1,34 @@
+{
+  "id": "7376ca32-d05c-4203-b99f-bf58d08534ea",
+  "name": "Today in Focus",
+  "spotifyId": "2cSQmzYnf6LyrN0Mi6E64p",
+  "appleId": 1440133626,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "448dbd43-4b53-449d-9cfa-4a44a89c8c94",
+      "title": "The young people speaking out against the Universal Church of the Kingdom of God",
+      "description": "Rachael Reign was an active member of an evangelical Christian church with branches worldwide. It was only after leaving that she came to believe it had exposed her to a \u2018horrendous\u2019 ordeal. Maeve McClenaghan reports. Help support our independent journalism at theguardian.com/infocus",
+      "release": "2022-12-02T00:00:00",
+      "duration": "00:43:33.3600000",
+      "explicit": false,
+      "spotifyId": "0yhj8JdEC4dHNVe2pNE7I2",
+      "appleId": 1000588419421,
+      "youTubeId": "",
+      "subjects": [
+        "Universal Church of the Kingdom of God",
+        "UCKG",
+        "Charity Commission",
+        "The Guardian",
+        "Finsbury Park",
+        "Maeve McClenaghan",
+        "Nosheen Iqbal"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0yhj8JdEC4dHNVe2pNE7I2",
+        "apple": "https://podcasts.apple.com/podcast/the-young-people-speaking-out-against-the/id1440133626?i=1000588419421",
+        "youtube": null
+      }
+    }
+  ]
+}
