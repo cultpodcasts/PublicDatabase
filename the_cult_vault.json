@@ -64,13 +64,13 @@
       "duration": "00:34:08.3510000",
       "explicit": true,
       "spotifyId": "5c2DG7n1CzGfF64QdY06tZ",
-      "appleId": 1000629660606,
-      "youTubeId": "",
+      "appleId": 1000629663328,
+      "youTubeId": "NRUZGWvB5tw",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5c2DG7n1CzGfF64QdY06tZ",
-        "apple": "https://podcasts.apple.com/podcast/ep-274-coercion-control-with-evan-stark/id1514656568?i=1000629660606",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/us/podcast/ep-275-children-of-god-with-bexy-cameron-live-at-crimecon-uk/id1514656568?i=1000629663328",
+        "youtube": "https://www.youtube.com/watch?v=NRUZGWvB5tw"
       }
     },
     {
@@ -82,12 +82,12 @@
       "explicit": true,
       "spotifyId": "4b1aInbcOn6po2rfeUyU0a",
       "appleId": 1000629660606,
-      "youTubeId": "",
+      "youTubeId": "4wnlDBvVEIQ",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4b1aInbcOn6po2rfeUyU0a",
         "apple": "https://podcasts.apple.com/podcast/ep-274-coercion-control-with-evan-stark/id1514656568?i=1000629660606",
-        "youtube": null
+        "youtube": "https://www.youtube.com/watch?v=4wnlDBvVEIQ"
       }
     },
     {
