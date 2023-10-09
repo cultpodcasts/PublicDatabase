@@ -15,7 +15,10 @@
       "spotifyId": "",
       "appleId": null,
       "youTubeId": "BYF3tcfgz4g",
-      "subjects": [],
+      "subjects": [
+        "Family Survival Trust",
+        "FST"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
@@ -32,11 +35,116 @@
       "spotifyId": "",
       "appleId": null,
       "youTubeId": "vDXWX1NsSyw",
-      "subjects": [],
+      "subjects": [
+        "PBCC",
+        "Plymouth Brethren",
+        "Exclusive Brethren",
+        "Family Survival Trust",
+        "FST"
+      ],
       "urls": {
         "spotify": null,
         "apple": null,
         "youtube": "https://www.youtube.com/watch?v=vDXWX1NsSyw"
+      }
+    },
+    {
+      "id": "f7e4af07-d049-4ce2-8fbb-82b923e681f1",
+      "title": "Cult survivor stories - Edith, survivor of Brethren Cult",
+      "description": "#igotout #cultsandextremebeliefs #brethrenchurch",
+      "release": "2022-10-11T20:04:19Z",
+      "duration": "00:43:15",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "dnAUfkHo4Qg",
+      "subjects": [
+        "PBCC",
+        "Plymouth Brethren",
+        "Exclusive Brethren"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=dnAUfkHo4Qg"
+      }
+    },
+    {
+      "id": "63037244-e3ed-4287-a547-fbbda47fac8b",
+      "title": "ADOPTEE AND CULT SURVIVOR STORIES - ANGELA WOODS, PART ONE",
+      "description": "#igotout #mormonism #exmormon #mormons #cultsandextremebeliefs #cults",
+      "release": "2022-10-07T18:59:15Z",
+      "duration": "01:33:00",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "hfOeSgU8rKg",
+      "subjects": [
+        "Mormonism",
+        "Mormons",
+        "The Church of Jesus Christ of Latter-day Saints",
+        "Latter-day Saints"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=hfOeSgU8rKg"
+      }
+    },
+    {
+      "id": "8edc1101-f871-4fc3-a3c6-425611d71c5c",
+      "title": "CULT SURVIVOR ANGELA WOODS - PART TWO",
+      "description": "",
+      "release": "2022-10-29T18:48:49Z",
+      "duration": "00:56:26",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "m5z5ovi2pGI",
+      "subjects": [
+        "Mormonism",
+        "Mormons",
+        "The Church of Jesus Christ of Latter-day Saints",
+        "Latter-day Saints"
+      ],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=m5z5ovi2pGI"
+      }
+    },
+    {
+      "id": "05362b92-e3b3-4c6c-92c5-6697f7a876ca",
+      "title": "DANIEL SHAW ON TRAUMATIC NARCISSISM: RELATIONAL SYSTEMS OF SUBJUGATION",
+      "description": "Daniel Shaw, Cult Survivor and theorist, Psychoanalytic therapist and author of \u0027Traumatic Narcissism: Relational Systems of Subjugation\u0027 and \u0027Traumatic Narcissism and Recovery: Leaving the Prison of Shame and Fear.\u0027 #igotout #narcissism #danielshaw #cults #cultsandextremebeliefs #narcissisticabusesurvivor #narcissist",
+      "release": "2022-09-26T17:59:35Z",
+      "duration": "00:46:25",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "0fYJYBo_NsE",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=0fYJYBo_NsE"
+      }
+    },
+    {
+      "id": "f78a6d83-23be-4e52-bf3d-299a90d6afd5",
+      "title": "Gerette Buglion, Cult Survivor and Expert, #igotout",
+      "description": "",
+      "release": "2022-09-15T10:39:47Z",
+      "duration": "00:50:31",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "RVtcUG6PGPk",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=RVtcUG6PGPk"
       }
     }
   ]

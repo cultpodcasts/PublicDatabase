@@ -15,7 +15,15 @@
       "spotifyId": "6vTBBhdgxo98ydvFDZk7Gl",
       "appleId": 1000628975061,
       "youTubeId": "a4L5HPsIwyg",
-      "subjects": [],
+      "subjects": [
+        "AHFI",
+        "Alliance of the Holy Family International",
+        "Edgardo Arellano",
+        "Father Bing",
+        "Fr. Bing",
+        "Fr Bing",
+        "Fr.Bing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6vTBBhdgxo98ydvFDZk7Gl",
         "apple": "https://podcasts.apple.com/podcast/was-i-trafficked-by-the-ahfi-cult/id1559758565?i=1000628975061",

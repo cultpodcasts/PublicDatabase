@@ -1,0 +1,26 @@
+{
+  "id": "d8a14c54-c1da-48a4-b924-f01f6694d9e4",
+  "name": "Dateline NBC",
+  "spotifyId": "3MGn724Y6BOSQzfmk3TyuY",
+  "appleId": 1464919521,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "655f15f9-e815-4765-9970-83137e3db354",
+      "title": "Unbreakable",
+      "description": "The story of Rebecca Musser vs. FLDS leader and notorious FBI fugitive Warren Jeffs. Rebecca opens up to Keith Morrison about life in the church and why she decided to leave the denomination. Originally aired on NBC on May 8, 2020. ",
+      "release": "2020-05-12T00:00:00",
+      "duration": "01:22:47.6540000",
+      "explicit": false,
+      "spotifyId": "3S3eMV1swfYUGqvxhhwNLm",
+      "appleId": 1000474335093,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3S3eMV1swfYUGqvxhhwNLm",
+        "apple": "https://podcasts.apple.com/podcast/unbreakable/id1464919521?i=1000474335093",
+        "youtube": null
+      }
+    }
+  ]
+}
