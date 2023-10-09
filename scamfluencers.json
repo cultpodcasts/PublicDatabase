@@ -1,0 +1,43 @@
+{
+  "id": "a948c7b4-b32a-4ccf-ae8d-90e9de5b8af5",
+  "name": "Scamfluencers",
+  "spotifyId": "0OMab5B3vorLGoViqrXMxI",
+  "appleId": 1616682405,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "44c714bc-b7ca-4b43-8e6a-04f6ccd67c7e",
+      "title": "Dr. Oz: Supplement Spin Doctor",
+      "description": "In the mid-90s, Dr. Mehmet Oz is a rock star surgeon with a reputation for performing on high-profile clients. He eventually scores his own television show, and soon he becomes daytime television royalty. Oprah even dubs him \u201CAmerica\u2019s doctor.\u201D But his drive for stardom has him hawking questionable products, mostly related to weight loss. When his medical reputation is up in the air, he does what past-their-prime reality stars do best: he pivots to politics.See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2023-07-10T00:00:00",
+      "duration": "00:43:00.9240000",
+      "explicit": true,
+      "spotifyId": "1UeXrfwkW2L2kEoObzf0b6",
+      "appleId": 1000618901510,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1UeXrfwkW2L2kEoObzf0b6",
+        "apple": "https://podcasts.apple.com/podcast/dr-oz-supplement-spin-doctor/id1616682405?i=1000618901510",
+        "youtube": null
+      }
+    },
+    {
+      "id": "743b8128-f6bb-4ce8-92a6-f08525923b2f",
+      "title": "The Yoga Hustler | Gurus Gone Wild | Part Two",
+      "description": "As Guru Jagat starts spewing dangerous conspiracy theories, her followers become determined to expose her for what she really is: A fraud. Their revelations, coupled with explosive new allegations from other members of the kundalini yoga community, force everyone to choose a side: Guru Jagat or\u2026 reality.Support us by supporting our sponsors!See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2022-07-18T00:00:00",
+      "duration": "00:41:43.4440000",
+      "explicit": true,
+      "spotifyId": "0NC1jsOOLgBMDKLpSVcPaK",
+      "appleId": 1000569293434,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0NC1jsOOLgBMDKLpSVcPaK",
+        "apple": "https://podcasts.apple.com/podcast/the-yoga-hustler-gurus-gone-wild-part-two/id1616682405?i=1000569293434",
+        "youtube": null
+      }
+    }
+  ]
+}

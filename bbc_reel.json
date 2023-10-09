@@ -1,0 +1,26 @@
+{
+  "id": "0df71ecc-4267-4114-8e65-5339ab5d6bf4",
+  "name": "BBC Reel",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCfYW5GXBXueSO5p9bxD45qg",
+  "episodes": [
+    {
+      "id": "e1af5753-6a3b-4ad4-9181-cc3d789db003",
+      "title": "What are cults and why do people join them? \u2013\u00A0BBC REEL",
+      "description": "Most cults don\u0027t claim to be cults. In fact, many of the people involved may not even realise they are in one.\n\nJournalist Tui McLean explores these mysterious groups through a psychological lens, examining what a cult actually is, and how some cults have been able to make ordinary people do unthinkable things.\n\n\nVideo by Tui McLean\nAnimation by Michal Bialozej\n\n#bbcreel #bbc #bbcnews",
+      "release": "2022-04-27T14:58:53Z",
+      "duration": "00:10:46",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "psXook7FyVQ",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=psXook7FyVQ"
+      }
+    }
+  ]
+}

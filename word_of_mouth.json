@@ -1,0 +1,26 @@
+{
+  "id": "c23e9314-801c-49a4-8868-0d1273154306",
+  "name": "Word of Mouth",
+  "spotifyId": "4XFYBSds7Wc8tfQ3cpvqSC",
+  "appleId": 869276405,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "94e7b0c6-2b25-4ad0-a0b9-1ef7b795066c",
+      "title": "Cultish Language",
+      "description": "Michael Rosen and Amanda Montell talk about the language used by cults that has permeated other, and more unexpected, areas of life.  Produced by Beth O\u0027Dea for BBC Audio in Bristol.",
+      "release": "2021-08-03T00:00:00",
+      "duration": "00:27:29.2930000",
+      "explicit": false,
+      "spotifyId": "0jMdOPeYkdc3mHBRaRrHjU",
+      "appleId": 1000530880604,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0jMdOPeYkdc3mHBRaRrHjU",
+        "apple": "https://podcasts.apple.com/podcast/cultish-language/id869276405?i=1000530880604",
+        "youtube": null
+      }
+    }
+  ]
+}
