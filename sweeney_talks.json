@@ -1,0 +1,26 @@
+{
+  "id": "96fe2a1f-fcd0-4f7a-905f-b7c1d964973f",
+  "name": "Sweeney Talks",
+  "spotifyId": "2Y7N1kdGoD8ig0ShrR6lMz",
+  "appleId": 1539949999,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "763b9365-fb3c-486a-b9b4-7866d2db78b9",
+      "title": "Elgen Strait: Escaping the Moonies",
+      "description": "Elgen Strait is an ex-member of the Moonies, better known as the Unification Church. Set up in South Korea by Sun Myung Moon in the early 1950s, the organisation has been accused by critics of being \u0027cult-like\u0027. Elgen\u2019s parents became members in their twenties and Elgen and his siblings were born into the Unification Church. Elgen tells John Sweeney what it was like to grow up as a Moonie and what led him to leave not once, but twice.",
+      "release": "2022-12-18T00:00:00",
+      "duration": "00:34:53.0340000",
+      "explicit": true,
+      "spotifyId": "5Nhpu3KWAbee2UzRjB4Kvd",
+      "appleId": 1000590563078,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Nhpu3KWAbee2UzRjB4Kvd",
+        "apple": "https://podcasts.apple.com/podcast/elgen-strait-escaping-the-moonies/id1539949999?i=1000590563078",
+        "youtube": null
+      }
+    }
+  ]
+}

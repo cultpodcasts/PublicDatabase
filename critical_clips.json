@@ -6,6 +6,23 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "62467025-e5ac-49be-8749-c573d9673890",
+      "title": "Chris Shelton | Hubbard in South Africa",
+      "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",
+      "release": "2023-10-09T20:00:21Z",
+      "duration": "00:06:48",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "mnyBv8a5FYs",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=mnyBv8a5FYs"
+      }
+    },
+    {
       "id": "93c4b0bb-1732-42c1-995b-3cca1026c9a4",
       "title": "Chris Shelton | How Hubbard Grew Scientology",
       "description": "From the video \u0022The History of L. Ron Hubbard and Scientology, Part 2\u0022 ...",

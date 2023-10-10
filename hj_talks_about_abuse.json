@@ -1,0 +1,26 @@
+{
+  "id": "32fdd927-86a4-4906-bb93-b1852b219b0f",
+  "name": "HJ Talks About Abuse",
+  "spotifyId": "5ehsPetv8i5uo8zQNCoeaN",
+  "appleId": 1465259035,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "c4ac213c-ce94-4d9f-bce8-07522b549057",
+      "title": "Vicar barred from Church of England after failing to disclose husband\u2019s abuse",
+      "description": "This week, the abuse team discuss a recent headline in the BBC which discusses a vicar from Solihull who failed to disclose to the Church of England her husband\u0027s sexual abuse of children, which led to her being barred from the ministry.",
+      "release": "2023-03-10T00:00:00",
+      "duration": "00:24:03.7350000",
+      "explicit": false,
+      "spotifyId": "5fAOjrPuVIqOpdcmjAdu88",
+      "appleId": 1000603601964,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5fAOjrPuVIqOpdcmjAdu88",
+        "apple": "https://podcasts.apple.com/podcast/vicar-barred-from-church-of-england-after-failing-to/id1465259035?i=1000603601964",
+        "youtube": null
+      }
+    }
+  ]
+}

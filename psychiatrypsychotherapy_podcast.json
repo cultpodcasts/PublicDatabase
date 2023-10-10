@@ -1,0 +1,26 @@
+{
+  "id": "d72ece05-99e7-41c3-b905-aff5ba615dd4",
+  "name": "Psychiatry \u0026 Psychotherapy Podcast",
+  "spotifyId": "3DYkrmcLjfgHWbkoUWNmVF",
+  "appleId": 1335892956,
+  "youTubeChannelId": "",
+  "episodes": [
+    {
+      "id": "60f1d396-991f-48ce-8d92-846103cc1bcf",
+      "title": "Narcissism with Jonathan Shedler, PhD",
+      "description": "In this episode of the podcast, we are joined by Dr. Jonathan Shedler to discuss narcissistic personality disorder. Dr. Shedler is a psychologist, consultant, clinical educator, researcher, and author with over 100 scholarly publications. His article, \u201CThe Efficacy of Psychodynamic Psychotherapy,\u201D has garnered worldwide recognition for establishing evidence-based support of psychodynamic psychotherapy. Link to Blog:\u00A0  https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/185-narcissism-with-jonathan-shedler",
+      "release": "2023-06-30T00:00:00",
+      "duration": "01:16:30.0530000",
+      "explicit": true,
+      "spotifyId": "380HioyOkAOgCbccNNX9To",
+      "appleId": 1000618895063,
+      "youTubeId": "",
+      "subjects": [],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/380HioyOkAOgCbccNNX9To",
+        "apple": "https://podcasts.apple.com/podcast/185-narcissism-with-jonathan-shedler-phd/id1335892956?i=1000618895063",
+        "youtube": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0676714e-566f-419d-ac25-591ea038015b",
+  "name": "Marilyn Honig- Coffee, Cults and Crafts ",
+  "spotifyId": "",
+  "appleId": null,
+  "youTubeChannelId": "UCWndyWsp3eZGJ42_hl4SnzQ",
+  "episodes": [
+    {
+      "id": "916bbfe4-aee8-4357-abb6-f54926dc69b0",
+      "title": "Diamond Way: A Conversation with Jo, a Survivor (Part 1)",
+      "description": "This Part 1 of Jo\u0027s story, who as a young 18 year old, got involved in Diamond Way, a group claiming to be Buddhist. She found that this group was not what they had seemed at all, and not consistent with Buddhist teachings and values. This is one of several accounts of the practices of this controverial group and its leader, Ole Nydahl, by former members of Diamond Way. \n\nPart 2 of Jo\u0027s Story:\nhttps://www.youtube.com/live/uFiIUKxPHpE?si=HEwpqaqBbtWYwy0g",
+      "release": "2023-08-04T03:00:00Z",
+      "duration": "00:50:36",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "56l0IWZU7Hg",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=56l0IWZU7Hg"
+      }
+    },
+    {
+      "id": "aa7df63e-b4dd-440c-b189-91ad0ffee2d7",
+      "title": "Diamond Way Part 2 Jo\u0027s Story",
+      "description": "View Part 1 Of Jo\u0027s story here:\nhttps://www.youtube.com/live/56l0IWZU7Hg?si=a_3UBOsmbX4PK2i6",
+      "release": "2023-08-29T06:07:49Z",
+      "duration": "01:49:00",
+      "explicit": false,
+      "spotifyId": "",
+      "appleId": null,
+      "youTubeId": "uFiIUKxPHpE",
+      "subjects": [],
+      "urls": {
+        "spotify": null,
+        "apple": null,
+        "youtube": "https://www.youtube.com/watch?v=uFiIUKxPHpE"
+      }
+    }
+  ]
+}
