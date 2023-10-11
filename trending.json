@@ -3,7 +3,6 @@
   "name": "BBC Trending",
   "spotifyId": "4OvEMfsvAFIDll2CwowkDD",
   "appleId": 739773408,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "5c71cfe3-8a92-49c8-9d11-2b2a038a9e65",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "4R36tLoyJ5POxjHbLtrImu",
       "appleId": 1000611956874,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4R36tLoyJ5POxjHbLtrImu",
-        "apple": "https://podcasts.apple.com/podcast/trolled-by-a-life-coaching-cult/id739773408?i=1000611956874",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/trolled-by-a-life-coaching-cult/id739773408?i=1000611956874"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "404PqueHPNn7QJIcg2G8ag",
       "appleId": 1000588593233,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/404PqueHPNn7QJIcg2G8ag",
-        "apple": "https://podcasts.apple.com/podcast/indias-anti-mlm-movement/id739773408?i=1000588593233",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/indias-anti-mlm-movement/id739773408?i=1000588593233"
       }
     }
   ]

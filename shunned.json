@@ -3,7 +3,8 @@
   "name": "shunned",
   "spotifyId": "65G1yXkWL5CTfQHDqyB5I9",
   "appleId": 1278684468,
-  "youTubeChannelId": "",
+  "youTubeChannelId": "UC4UJZdPiABipv9mESMjjdfA",
+  "youTubePlaylistId": "PL22RVnuOCWvAISEJ7IY5GIhFJ4hITe210",
   "episodes": [
     {
       "id": "12dcbd38-606a-467c-8800-378483fcef24",
@@ -14,12 +15,10 @@
       "explicit": false,
       "spotifyId": "0ZOtKfc6s5fru0Bpjxq5qU",
       "appleId": 1000630628553,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZOtKfc6s5fru0Bpjxq5qU",
-        "apple": "https://podcasts.apple.com/podcast/exjwhelp-day-2023-the-results-former-jehovahs/id1278684468?i=1000630628553",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/exjwhelp-day-2023-the-results-former-jehovahs/id1278684468?i=1000630628553"
       }
     },
     {
@@ -31,12 +30,10 @@
       "explicit": false,
       "spotifyId": "3X1gtmwoXVOturpwyMarnq",
       "appleId": 1000630383162,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3X1gtmwoXVOturpwyMarnq",
-        "apple": "https://podcasts.apple.com/podcast/episode-151-religion-before-relationships-daniels-story/id1278684468?i=1000630383162",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-151-religion-before-relationships-daniels-story/id1278684468?i=1000630383162"
       }
     },
     {
@@ -48,12 +45,10 @@
       "explicit": false,
       "spotifyId": "6PK7jcqRX3FRS5U6VTYabi",
       "appleId": 1000628860158,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6PK7jcqRX3FRS5U6VTYabi",
-        "apple": "https://podcasts.apple.com/podcast/episode-150-showtime-trish-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000628860158",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-150-showtime-trish-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000628860158"
       }
     },
     {
@@ -65,12 +60,10 @@
       "explicit": true,
       "spotifyId": "3jQXNQCxNY9sUYXR23sDpy",
       "appleId": 1000627217128,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3jQXNQCxNY9sUYXR23sDpy",
-        "apple": "https://podcasts.apple.com/podcast/episode-149-chameleon-from-bethel-to-the-army-a/id1278684468?i=1000627217128",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-149-chameleon-from-bethel-to-the-army-a/id1278684468?i=1000627217128"
       }
     },
     {
@@ -82,12 +75,10 @@
       "explicit": false,
       "spotifyId": "6E1hIaQSTAq6iswh33bHtz",
       "appleId": 1000626011784,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6E1hIaQSTAq6iswh33bHtz",
-        "apple": "https://podcasts.apple.com/us/podcast/exjwhelp-day-2023-announcement/id1278684468?i=1000626011784\u0026uo=4",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/us/podcast/exjwhelp-day-2023-announcement/id1278684468?i=1000626011784\u0026uo=4"
       }
     },
     {
@@ -99,14 +90,12 @@
       "explicit": false,
       "spotifyId": "59qtburHUcuPjoW3NvyzFh",
       "appleId": 1000625681600,
-      "youTubeId": null,
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/59qtburHUcuPjoW3NvyzFh",
-        "apple": "https://podcasts.apple.com/podcast/episode-148-breaking-patterns-tara-is-shunned-by-jehovahs/id1278684468?i=1000625681600",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-148-breaking-patterns-tara-is-shunned-by-jehovahs/id1278684468?i=1000625681600"
       }
     },
     {
@@ -118,14 +107,12 @@
       "explicit": false,
       "spotifyId": "7jOZlRFCClnXcEcFPevtDk",
       "appleId": 1000624185775,
-      "youTubeId": null,
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jOZlRFCClnXcEcFPevtDk",
-        "apple": "https://podcasts.apple.com/podcast/episode-147-was-it-worth-it-alyssa-is-shunned-by-jehovahs/id1278684468?i=1000624185775",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-147-was-it-worth-it-alyssa-is-shunned-by-jehovahs/id1278684468?i=1000624185775"
       }
     },
     {
@@ -137,14 +124,12 @@
       "explicit": false,
       "spotifyId": "3DgS1mxl3LlwW4XtQ9kFZL",
       "appleId": 1000622302975,
-      "youTubeId": null,
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3DgS1mxl3LlwW4XtQ9kFZL",
-        "apple": "https://podcasts.apple.com/podcast/episode-146-we-get-to-be-ourselves-without-the-fear/id1278684468?i=1000622302975",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-146-we-get-to-be-ourselves-without-the-fear/id1278684468?i=1000622302975"
       }
     },
     {
@@ -156,12 +141,10 @@
       "explicit": false,
       "spotifyId": "4P6YgZfyIwLjCQgqcdxTm6",
       "appleId": 1000621151998,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4P6YgZfyIwLjCQgqcdxTm6",
-        "apple": "https://podcasts.apple.com/podcast/episode-145-invalidated-arthurs-baptism-is-annulled/id1278684468?i=1000621151998",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-145-invalidated-arthurs-baptism-is-annulled/id1278684468?i=1000621151998"
       }
     },
     {
@@ -173,14 +156,12 @@
       "explicit": false,
       "spotifyId": "4lC9gfHkR8hUKWnWSjwduB",
       "appleId": 1000620622258,
-      "youTubeId": null,
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4lC9gfHkR8hUKWnWSjwduB",
-        "apple": "https://podcasts.apple.com/podcast/2023-international-cultic-studies-association-presentation/id1278684468?i=1000620622258",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/2023-international-cultic-studies-association-presentation/id1278684468?i=1000620622258"
       }
     },
     {
@@ -192,12 +173,10 @@
       "explicit": false,
       "spotifyId": "7pFuuB2NHSyPrEG2r1TdCa",
       "appleId": 1000618258542,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7pFuuB2NHSyPrEG2r1TdCa",
-        "apple": "https://podcasts.apple.com/podcast/quick-announcement-its-international-cultic-studies/id1278684468?i=1000618258542",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/quick-announcement-its-international-cultic-studies/id1278684468?i=1000618258542"
       }
     },
     {
@@ -209,12 +188,10 @@
       "explicit": false,
       "spotifyId": "1Qh1MqfRgbLqTi3Vx6lqAI",
       "appleId": 1000617293101,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Qh1MqfRgbLqTi3Vx6lqAI",
-        "apple": "https://podcasts.apple.com/podcast/episode-144-youre-not-my-homeland-anymore-rachel-is/id1278684468?i=1000617293101",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-144-youre-not-my-homeland-anymore-rachel-is/id1278684468?i=1000617293101"
       }
     },
     {
@@ -226,12 +203,10 @@
       "explicit": false,
       "spotifyId": "0ln1qPCDr8CNefbNoqe9Nr",
       "appleId": 1000615440091,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ln1qPCDr8CNefbNoqe9Nr",
-        "apple": "https://podcasts.apple.com/podcast/episode-143-spencer-saves-the-day/id1278684468?i=1000615440091",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-143-spencer-saves-the-day/id1278684468?i=1000615440091"
       }
     },
     {
@@ -243,12 +218,10 @@
       "explicit": false,
       "spotifyId": "0ZI3QrwRXRu9rT4LxRK18L",
       "appleId": 1000613690418,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZI3QrwRXRu9rT4LxRK18L",
-        "apple": "https://podcasts.apple.com/podcast/episode-142-how-is-this-fair-joel-is-shunned-by-jehovahs/id1278684468?i=1000613690418",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-142-how-is-this-fair-joel-is-shunned-by-jehovahs/id1278684468?i=1000613690418"
       }
     },
     {
@@ -260,12 +233,10 @@
       "explicit": false,
       "spotifyId": "3oG2Xe5Z1nVJlzLkmEqF2O",
       "appleId": 1000611898991,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3oG2Xe5Z1nVJlzLkmEqF2O",
-        "apple": "https://podcasts.apple.com/podcast/episode-141-you-dont-even-know-me-jarvis-is-shunned/id1278684468?i=1000611898991",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-141-you-dont-even-know-me-jarvis-is-shunned/id1278684468?i=1000611898991"
       }
     },
     {
@@ -277,12 +248,10 @@
       "explicit": false,
       "spotifyId": "08P29L1A5petjyESSlfmHT",
       "appleId": 1000610092620,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/08P29L1A5petjyESSlfmHT",
-        "apple": "https://podcasts.apple.com/podcast/episode-140-spiritual-munchausen-syndrome-by-proxy/id1278684468?i=1000610092620",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-140-spiritual-munchausen-syndrome-by-proxy/id1278684468?i=1000610092620"
       }
     },
     {
@@ -294,12 +263,10 @@
       "explicit": false,
       "spotifyId": "4LbSGfJCTGK2pw3j1CAdIu",
       "appleId": 1000608842046,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LbSGfJCTGK2pw3j1CAdIu",
-        "apple": "https://podcasts.apple.com/podcast/2023-update-episode/id1278684468?i=1000608842046",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/2023-update-episode/id1278684468?i=1000608842046"
       }
     },
     {
@@ -311,12 +278,10 @@
       "explicit": false,
       "spotifyId": "2wXUEPt9DZUWBcpl6l20z3",
       "appleId": 1000607860154,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wXUEPt9DZUWBcpl6l20z3",
-        "apple": "https://podcasts.apple.com/podcast/episode-139-child-bride-growing-up-in-a-sufi-community/id1278684468?i=1000607860154",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-139-child-bride-growing-up-in-a-sufi-community/id1278684468?i=1000607860154"
       }
     },
     {
@@ -328,12 +293,10 @@
       "explicit": false,
       "spotifyId": "2wcuNHPIsgAZ3A5vAKiJe0",
       "appleId": 1000605762188,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wcuNHPIsgAZ3A5vAKiJe0",
-        "apple": "https://podcasts.apple.com/podcast/episode-138-kidnapped-child-custody-jehovahs-witnesses/id1278684468?i=1000605762188",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-138-kidnapped-child-custody-jehovahs-witnesses/id1278684468?i=1000605762188"
       }
     },
     {
@@ -345,12 +308,10 @@
       "explicit": false,
       "spotifyId": "0Ll9oQb0I2OkIo1PdsBtar",
       "appleId": 1000603657811,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Ll9oQb0I2OkIo1PdsBtar",
-        "apple": "https://podcasts.apple.com/podcast/episode-137-nazi-bedtime-stories-johanna-is-shunned/id1278684468?i=1000603657811",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-137-nazi-bedtime-stories-johanna-is-shunned/id1278684468?i=1000603657811"
       }
     },
     {
@@ -362,12 +323,10 @@
       "explicit": false,
       "spotifyId": "1hR6cZYoCZfghqir8ijWIf",
       "appleId": 1000601501168,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1hR6cZYoCZfghqir8ijWIf",
-        "apple": "https://podcasts.apple.com/podcast/episode-136-a-beautiful-process-karen/id1278684468?i=1000601501168",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-136-a-beautiful-process-karen/id1278684468?i=1000601501168"
       }
     },
     {
@@ -379,12 +338,10 @@
       "explicit": false,
       "spotifyId": "3Q8R6UdGVHIg0iNEhJQswR",
       "appleId": 1000599039548,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Q8R6UdGVHIg0iNEhJQswR",
-        "apple": "https://podcasts.apple.com/podcast/episode-135-a-fork-in-the-road-daniel-is-shunned/id1278684468?i=1000599039548",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-135-a-fork-in-the-road-daniel-is-shunned/id1278684468?i=1000599039548"
       }
     },
     {
@@ -396,12 +353,10 @@
       "explicit": false,
       "spotifyId": "6CYCUSe68O58zQPwY0YAux",
       "appleId": 1000597052414,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CYCUSe68O58zQPwY0YAux",
-        "apple": "https://podcasts.apple.com/podcast/episode-134-careers-without-college-exjwhelp-2/id1278684468?i=1000597052414",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-134-careers-without-college-exjwhelp-2/id1278684468?i=1000597052414"
       }
     },
     {
@@ -413,12 +368,10 @@
       "explicit": false,
       "spotifyId": "1t3DkyBAzdjjufzdnmHSoH",
       "appleId": 1000594380750,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1t3DkyBAzdjjufzdnmHSoH",
-        "apple": "https://podcasts.apple.com/podcast/episode-133-adoption-and-jehovahs-witnesses-ashley-is/id1278684468?i=1000594380750",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-133-adoption-and-jehovahs-witnesses-ashley-is/id1278684468?i=1000594380750"
       }
     },
     {
@@ -430,12 +383,10 @@
       "explicit": false,
       "spotifyId": "3lXqGC0hSD6LkDETBqCVg6",
       "appleId": 1000591784429,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3lXqGC0hSD6LkDETBqCVg6",
-        "apple": "https://podcasts.apple.com/podcast/episode-132-gaslight-jehovahs-witnesses-edition-lexi/id1278684468?i=1000591784429",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-132-gaslight-jehovahs-witnesses-edition-lexi/id1278684468?i=1000591784429"
       }
     },
     {
@@ -447,12 +398,10 @@
       "explicit": false,
       "spotifyId": "122AkQkU0uSKm9BPjKDRRb",
       "appleId": 1000590396845,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/122AkQkU0uSKm9BPjKDRRb",
-        "apple": "https://podcasts.apple.com/podcast/episode-131-california-dreamin-catherine-is-shunned/id1278684468?i=1000590396845",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-131-california-dreamin-catherine-is-shunned/id1278684468?i=1000590396845"
       }
     },
     {
@@ -464,12 +413,10 @@
       "explicit": false,
       "spotifyId": "5PEbdavPbCbIM2Ij6v3UBY",
       "appleId": 1000588145701,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5PEbdavPbCbIM2Ij6v3UBY",
-        "apple": "https://podcasts.apple.com/podcast/episode-130-sincerity-is-not-enough-jose-is-shunned/id1278684468?i=1000588145701",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-130-sincerity-is-not-enough-jose-is-shunned/id1278684468?i=1000588145701"
       }
     },
     {
@@ -481,12 +428,10 @@
       "explicit": false,
       "spotifyId": "66VrLA3F59VRS6jRPGURRL",
       "appleId": 1000586734852,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66VrLA3F59VRS6jRPGURRL",
-        "apple": "https://podcasts.apple.com/podcast/episode-129-being-noticed-was-bad-trevor-is-shunned/id1278684468?i=1000586734852",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-129-being-noticed-was-bad-trevor-is-shunned/id1278684468?i=1000586734852"
       }
     },
     {
@@ -498,12 +443,10 @@
       "explicit": false,
       "spotifyId": "0gXWEw1f6c3CZbu7lixebq",
       "appleId": 1000585143785,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gXWEw1f6c3CZbu7lixebq",
-        "apple": "https://podcasts.apple.com/podcast/episode-128-if-i-do-this-maybe-theyll-leave-me-alone/id1278684468?i=1000585143785",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-128-if-i-do-this-maybe-theyll-leave-me-alone/id1278684468?i=1000585143785"
       }
     },
     {
@@ -515,12 +458,10 @@
       "explicit": false,
       "spotifyId": "0LGpLlqaxBY5eaKOgpZbIB",
       "appleId": 1000583339538,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0LGpLlqaxBY5eaKOgpZbIB",
-        "apple": "https://podcasts.apple.com/podcast/episode-127-if-he-kills-me-we-wont-be-married-in-paradise/id1278684468?i=1000583339538",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-127-if-he-kills-me-we-wont-be-married-in-paradise/id1278684468?i=1000583339538"
       }
     },
     {
@@ -532,12 +473,10 @@
       "explicit": false,
       "spotifyId": "3Ujf1cWtbx2lwfAk68GUtI",
       "appleId": 1000581919109,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Ujf1cWtbx2lwfAk68GUtI",
-        "apple": "https://podcasts.apple.com/podcast/episode-126-gay-at-bethel-harrison-is-shunned-by-jehovahs/id1278684468?i=1000581919109",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-126-gay-at-bethel-harrison-is-shunned-by-jehovahs/id1278684468?i=1000581919109"
       }
     },
     {
@@ -549,12 +488,10 @@
       "explicit": false,
       "spotifyId": "2Xrf7i6JHoGOeQQlwbMHel",
       "appleId": 1000580443140,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Xrf7i6JHoGOeQQlwbMHel",
-        "apple": "https://podcasts.apple.com/podcast/episode-125-make-it-be-true-elizabeth-is-shunned-by/id1278684468?i=1000580443140",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-125-make-it-be-true-elizabeth-is-shunned-by/id1278684468?i=1000580443140"
       }
     },
     {
@@ -566,12 +503,10 @@
       "explicit": false,
       "spotifyId": "1CRAeNWpUVbED7hkSxvs0R",
       "appleId": 1000578949728,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1CRAeNWpUVbED7hkSxvs0R",
-        "apple": "https://podcasts.apple.com/podcast/episode-124-confusion-escaping-a-life-of-contradiction/id1278684468?i=1000578949728",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-124-confusion-escaping-a-life-of-contradiction/id1278684468?i=1000578949728"
       }
     },
     {
@@ -583,12 +518,10 @@
       "explicit": false,
       "spotifyId": "0QjN6HqGPm4ggJoM0H7Ds7",
       "appleId": 1000577692721,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0QjN6HqGPm4ggJoM0H7Ds7",
-        "apple": "https://podcasts.apple.com/podcast/9-2-22-your-chance-to-help-exjwhelp-day-2022/id1278684468?i=1000577692721",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/9-2-22-your-chance-to-help-exjwhelp-day-2022/id1278684468?i=1000577692721"
       }
     },
     {
@@ -600,12 +533,10 @@
       "explicit": false,
       "spotifyId": "6PTZH76iVKVFQPX1PUDuDL",
       "appleId": 1000577120657,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6PTZH76iVKVFQPX1PUDuDL",
-        "apple": "https://podcasts.apple.com/podcast/episode-123-waiting-on-death-row-a-pimo-speaks-out/id1278684468?i=1000577120657",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-123-waiting-on-death-row-a-pimo-speaks-out/id1278684468?i=1000577120657"
       }
     },
     {
@@ -617,12 +548,10 @@
       "explicit": false,
       "spotifyId": "09zmn83dnqxEHzZOj1pg4S",
       "appleId": 1000575811452,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/09zmn83dnqxEHzZOj1pg4S",
-        "apple": "https://podcasts.apple.com/podcast/episode-122-family-matters/id1278684468?i=1000575811452",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-122-family-matters/id1278684468?i=1000575811452"
       }
     },
     {
@@ -634,12 +563,10 @@
       "explicit": false,
       "spotifyId": "2udLkDMuxXfwxV7cDKi5do",
       "appleId": 1000571581904,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2udLkDMuxXfwxV7cDKi5do",
-        "apple": "https://podcasts.apple.com/podcast/episode-121-reading-apostate-material-at-the-meeting/id1278684468?i=1000571581904",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-121-reading-apostate-material-at-the-meeting/id1278684468?i=1000571581904"
       }
     },
     {
@@ -651,12 +578,10 @@
       "explicit": false,
       "spotifyId": "03gFHvHdGV7pzFVKgD8WqM",
       "appleId": 1000569938118,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/03gFHvHdGV7pzFVKgD8WqM",
-        "apple": "https://podcasts.apple.com/podcast/episode-120-how-to-go-to-college-exjwhelp-1/id1278684468?i=1000569938118",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-120-how-to-go-to-college-exjwhelp-1/id1278684468?i=1000569938118"
       }
     },
     {
@@ -668,12 +593,10 @@
       "explicit": false,
       "spotifyId": "4PLJVtPboWHZNjMICNhgga",
       "appleId": 1000568451929,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4PLJVtPboWHZNjMICNhgga",
-        "apple": "https://podcasts.apple.com/podcast/episode-119-going-back/id1278684468?i=1000568451929",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-119-going-back/id1278684468?i=1000568451929"
       }
     },
     {
@@ -685,12 +608,10 @@
       "explicit": false,
       "spotifyId": "52KGw7n0r0q9ZqKAED3g3o",
       "appleId": 1000566858997,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/52KGw7n0r0q9ZqKAED3g3o",
-        "apple": "https://podcasts.apple.com/podcast/episode-118-bethel-burnout/id1278684468?i=1000566858997",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-118-bethel-burnout/id1278684468?i=1000566858997"
       }
     },
     {
@@ -702,12 +623,10 @@
       "explicit": false,
       "spotifyId": "23jf4F2cYEarbr9xkVH62l",
       "appleId": 1000565146528,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23jf4F2cYEarbr9xkVH62l",
-        "apple": "https://podcasts.apple.com/podcast/episode-117-headship-hardships/id1278684468?i=1000565146528",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-117-headship-hardships/id1278684468?i=1000565146528"
       }
     },
     {
@@ -719,12 +638,10 @@
       "explicit": false,
       "spotifyId": "7ur6rbi6Tmd69HHJDE3lCQ",
       "appleId": 1000562927887,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ur6rbi6Tmd69HHJDE3lCQ",
-        "apple": "https://podcasts.apple.com/podcast/episode-116-the-invisible-aubrey/id1278684468?i=1000562927887",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-116-the-invisible-aubrey/id1278684468?i=1000562927887"
       }
     },
     {
@@ -736,12 +653,10 @@
       "explicit": false,
       "spotifyId": "7EDSxPfsyDZEpE9i8rrdH6",
       "appleId": 1000559589466,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7EDSxPfsyDZEpE9i8rrdH6",
-        "apple": "https://podcasts.apple.com/podcast/episode-115-i-am-enough/id1278684468?i=1000559589466",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-115-i-am-enough/id1278684468?i=1000559589466"
       }
     },
     {
@@ -753,12 +668,10 @@
       "explicit": false,
       "spotifyId": "43hQ1KEmPiV5vOxCXQOm5O",
       "appleId": 1000558431187,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/43hQ1KEmPiV5vOxCXQOm5O",
-        "apple": "https://podcasts.apple.com/podcast/episode-114-never-a-jw-but-still-shunned/id1278684468?i=1000558431187",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-114-never-a-jw-but-still-shunned/id1278684468?i=1000558431187"
       }
     },
     {
@@ -770,12 +683,10 @@
       "explicit": false,
       "spotifyId": "4dOTX7MvWtEnLCIwZ2rydw",
       "appleId": 1000556675792,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4dOTX7MvWtEnLCIwZ2rydw",
-        "apple": "https://podcasts.apple.com/podcast/episode-113-a-great-spiritual-heritage/id1278684468?i=1000556675792",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-113-a-great-spiritual-heritage/id1278684468?i=1000556675792"
       }
     },
     {
@@ -787,12 +698,10 @@
       "explicit": false,
       "spotifyId": "43ZD8aNb3torIL58PKTO53",
       "appleId": 1000555260595,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/43ZD8aNb3torIL58PKTO53",
-        "apple": "https://podcasts.apple.com/podcast/episode-112-paternity-fraud/id1278684468?i=1000555260595",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-112-paternity-fraud/id1278684468?i=1000555260595"
       }
     },
     {
@@ -804,12 +713,10 @@
       "explicit": false,
       "spotifyId": "4p7N57dL0yj9Z68NlB9Ud8",
       "appleId": 1000553769683,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4p7N57dL0yj9Z68NlB9Ud8",
-        "apple": "https://podcasts.apple.com/podcast/episode-111-mts-graduate-is-shunned/id1278684468?i=1000553769683",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-111-mts-graduate-is-shunned/id1278684468?i=1000553769683"
       }
     },
     {
@@ -821,12 +728,10 @@
       "explicit": true,
       "spotifyId": "1p4FaMb3Azj4JWD3AQeZfq",
       "appleId": 1000552262010,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1p4FaMb3Azj4JWD3AQeZfq",
-        "apple": "https://podcasts.apple.com/podcast/episode-110-shattered-illusions/id1278684468?i=1000552262010",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-110-shattered-illusions/id1278684468?i=1000552262010"
       }
     },
     {
@@ -838,12 +743,10 @@
       "explicit": true,
       "spotifyId": "0fGYUz6TyUjgHgAi77YB6j",
       "appleId": 1000550844084,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0fGYUz6TyUjgHgAi77YB6j",
-        "apple": "https://podcasts.apple.com/podcast/episode-109-what-do-you-really-have/id1278684468?i=1000550844084",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-109-what-do-you-really-have/id1278684468?i=1000550844084"
       }
     },
     {
@@ -855,12 +758,10 @@
       "explicit": false,
       "spotifyId": "7vt3Fqgqtre39sa9a2UT2Q",
       "appleId": 1000549330654,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vt3Fqgqtre39sa9a2UT2Q",
-        "apple": "https://podcasts.apple.com/podcast/episode-108-family-secrets/id1278684468?i=1000549330654",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-108-family-secrets/id1278684468?i=1000549330654"
       }
     },
     {
@@ -872,12 +773,10 @@
       "explicit": false,
       "spotifyId": "3kepTIWYbGCMLkd7htlWsF",
       "appleId": 1000547925802,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3kepTIWYbGCMLkd7htlWsF",
-        "apple": "https://podcasts.apple.com/podcast/episode-107-cloak-of-secrecy/id1278684468?i=1000547925802",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-107-cloak-of-secrecy/id1278684468?i=1000547925802"
       }
     },
     {
@@ -889,12 +788,10 @@
       "explicit": false,
       "spotifyId": "3AUhhZhQgfv9VUbkJMcCHr",
       "appleId": 1000546628534,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3AUhhZhQgfv9VUbkJMcCHr",
-        "apple": "https://podcasts.apple.com/podcast/episode-106-no-safe-place/id1278684468?i=1000546628534",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-106-no-safe-place/id1278684468?i=1000546628534"
       }
     },
     {
@@ -906,12 +803,10 @@
       "explicit": false,
       "spotifyId": "3aXnWKZhk2RXxuhr1cNOG0",
       "appleId": 1000545299291,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3aXnWKZhk2RXxuhr1cNOG0",
-        "apple": "https://podcasts.apple.com/podcast/episode-105-in-memory-of-sarah/id1278684468?i=1000545299291",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-105-in-memory-of-sarah/id1278684468?i=1000545299291"
       }
     },
     {
@@ -923,12 +818,10 @@
       "explicit": false,
       "spotifyId": "4apzxXc6zwBe21WQzgAUg3",
       "appleId": 1000543951653,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4apzxXc6zwBe21WQzgAUg3",
-        "apple": "https://podcasts.apple.com/podcast/episode-104-education-matters/id1278684468?i=1000543951653",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-104-education-matters/id1278684468?i=1000543951653"
       }
     },
     {
@@ -940,12 +833,10 @@
       "explicit": true,
       "spotifyId": "2CMo0N9Frz9YqqHdRc6fwh",
       "appleId": 1000542530836,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2CMo0N9Frz9YqqHdRc6fwh",
-        "apple": "https://podcasts.apple.com/podcast/episode-103-threatened-for-reporting-abuse/id1278684468?i=1000542530836",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-103-threatened-for-reporting-abuse/id1278684468?i=1000542530836"
       }
     },
     {
@@ -957,12 +848,10 @@
       "explicit": false,
       "spotifyId": "27Atn2Razdi6faBVk0S0AK",
       "appleId": 1000539487940,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/27Atn2Razdi6faBVk0S0AK",
-        "apple": "https://podcasts.apple.com/podcast/episode-102-a-jw-misfit/id1278684468?i=1000539487940",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-102-a-jw-misfit/id1278684468?i=1000539487940"
       }
     },
     {
@@ -974,12 +863,10 @@
       "explicit": true,
       "spotifyId": "0bM2f903LNtc2C460sJwUa",
       "appleId": 1000538062668,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0bM2f903LNtc2C460sJwUa",
-        "apple": "https://podcasts.apple.com/podcast/episode-101-dont-you-ever-embarrass-me/id1278684468?i=1000538062668",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-101-dont-you-ever-embarrass-me/id1278684468?i=1000538062668"
       }
     },
     {
@@ -991,12 +878,10 @@
       "explicit": false,
       "spotifyId": "0AI049csbpQ41fRYaQfSGn",
       "appleId": 1000536587083,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0AI049csbpQ41fRYaQfSGn",
-        "apple": "https://podcasts.apple.com/podcast/episode-100-100-things-you-need-to-know-to-heal-from/id1278684468?i=1000536587083",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-100-100-things-you-need-to-know-to-heal-from/id1278684468?i=1000536587083"
       }
     },
     {
@@ -1008,12 +893,10 @@
       "explicit": false,
       "spotifyId": "1aLmuefEa3DKvP4KcS0vCq",
       "appleId": 1000534952417,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1aLmuefEa3DKvP4KcS0vCq",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-nine-role-play/id1278684468?i=1000534952417",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-nine-role-play/id1278684468?i=1000534952417"
       }
     },
     {
@@ -1025,12 +908,10 @@
       "explicit": true,
       "spotifyId": "4RmcVcMoYLLjXKAX2wbACN",
       "appleId": 1000533338927,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4RmcVcMoYLLjXKAX2wbACN",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-eight-human-kintsugi/id1278684468?i=1000533338927",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-eight-human-kintsugi/id1278684468?i=1000533338927"
       }
     },
     {
@@ -1042,12 +923,10 @@
       "explicit": false,
       "spotifyId": "6GfJ1c7eUin2SCpAyEH0sk",
       "appleId": 1000533125526,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6GfJ1c7eUin2SCpAyEH0sk",
-        "apple": "https://podcasts.apple.com/podcast/announcing-ex-jw-help-day-2021/id1278684468?i=1000533125526",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/announcing-ex-jw-help-day-2021/id1278684468?i=1000533125526"
       }
     },
     {
@@ -1059,12 +938,10 @@
       "explicit": false,
       "spotifyId": "54PlIsj9BA7d2mUxijgSfx",
       "appleId": 1000531742918,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/54PlIsj9BA7d2mUxijgSfx",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-seven-save-yourself/id1278684468?i=1000531742918",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-seven-save-yourself/id1278684468?i=1000531742918"
       }
     },
     {
@@ -1076,12 +953,10 @@
       "explicit": false,
       "spotifyId": "0AfXL0GARABKqH2YiLtHhi",
       "appleId": 1000530606133,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0AfXL0GARABKqH2YiLtHhi",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-six-altworldly-tells-his-story/id1278684468?i=1000530606133",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-six-altworldly-tells-his-story/id1278684468?i=1000530606133"
       }
     },
     {
@@ -1093,12 +968,10 @@
       "explicit": false,
       "spotifyId": "2wrPkqQqolD2MRzpRzPlOO",
       "appleId": 1000527662356,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wrPkqQqolD2MRzpRzPlOO",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-four-it-never-felt-right/id1278684468?i=1000527662356",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-four-it-never-felt-right/id1278684468?i=1000527662356"
       }
     },
     {
@@ -1110,12 +983,10 @@
       "explicit": false,
       "spotifyId": "0wLxXycMgES5q1RG6dL53h",
       "appleId": 1000526400102,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0wLxXycMgES5q1RG6dL53h",
-        "apple": "https://podcasts.apple.com/podcast/introducing-i-am-rama/id1278684468?i=1000526400102",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/introducing-i-am-rama/id1278684468?i=1000526400102"
       }
     },
     {
@@ -1127,12 +998,10 @@
       "explicit": false,
       "spotifyId": "5OTNKV0EPxTudwd0tCXzDk",
       "appleId": 1000526129897,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5OTNKV0EPxTudwd0tCXzDk",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-three-last-man-standing/id1278684468?i=1000526129897",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-three-last-man-standing/id1278684468?i=1000526129897"
       }
     },
     {
@@ -1144,12 +1013,10 @@
       "explicit": false,
       "spotifyId": "3CYeRRL5p5X7XJo5XhtoAi",
       "appleId": 1000524283705,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3CYeRRL5p5X7XJo5XhtoAi",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-two-shunned-during-a-pandemic/id1278684468?i=1000524283705",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-two-shunned-during-a-pandemic/id1278684468?i=1000524283705"
       }
     },
     {
@@ -1161,12 +1028,10 @@
       "explicit": false,
       "spotifyId": "1T0cc6AAavZeT8VTgvTwQI",
       "appleId": 1000522770891,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1T0cc6AAavZeT8VTgvTwQI",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-one-my-husband-said-im-a-sex-addict/id1278684468?i=1000522770891",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-one-my-husband-said-im-a-sex-addict/id1278684468?i=1000522770891"
       }
     },
     {
@@ -1178,12 +1043,10 @@
       "explicit": false,
       "spotifyId": "5QI1N1s43pMCoBDPb0qfSE",
       "appleId": 1000520718178,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5QI1N1s43pMCoBDPb0qfSE",
-        "apple": "https://podcasts.apple.com/podcast/episode-ninety-how-you-treat-people-matters/id1278684468?i=1000520718178",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ninety-how-you-treat-people-matters/id1278684468?i=1000520718178"
       }
     },
     {
@@ -1195,12 +1058,10 @@
       "explicit": false,
       "spotifyId": "0A31IPssI3DyMZ44cWppyF",
       "appleId": 1000518380749,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0A31IPssI3DyMZ44cWppyF",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-nine-to-the-moon-and-back/id1278684468?i=1000518380749",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-nine-to-the-moon-and-back/id1278684468?i=1000518380749"
       }
     },
     {
@@ -1212,12 +1073,10 @@
       "explicit": false,
       "spotifyId": "3XdhkwgLolKhbJ7yawUbQK",
       "appleId": 1000516497746,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3XdhkwgLolKhbJ7yawUbQK",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-eight-do-you-know-where-my-family-is/id1278684468?i=1000516497746",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-eight-do-you-know-where-my-family-is/id1278684468?i=1000516497746"
       }
     },
     {
@@ -1229,12 +1088,10 @@
       "explicit": false,
       "spotifyId": "5akrFEBPx3KTZjvOPz7GCn",
       "appleId": 1000514590075,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5akrFEBPx3KTZjvOPz7GCn",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-seven-it-felt-like-jehovah-hated-us/id1278684468?i=1000514590075",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-seven-it-felt-like-jehovah-hated-us/id1278684468?i=1000514590075"
       }
     },
     {
@@ -1246,12 +1103,10 @@
       "explicit": true,
       "spotifyId": "0I5V7AJTtNBg8wnSHSusdq",
       "appleId": 1000512747587,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0I5V7AJTtNBg8wnSHSusdq",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-six-a-need-greater-in-the-dominican-republic/id1278684468?i=1000512747587",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-six-a-need-greater-in-the-dominican-republic/id1278684468?i=1000512747587"
       }
     },
     {
@@ -1263,12 +1118,10 @@
       "explicit": false,
       "spotifyId": "6U0HVFlI2WxAgSNmCXxU0w",
       "appleId": 1000510938363,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6U0HVFlI2WxAgSNmCXxU0w",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-five-taking-a-stand-at-19/id1278684468?i=1000510938363",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-five-taking-a-stand-at-19/id1278684468?i=1000510938363"
       }
     },
     {
@@ -1280,12 +1133,10 @@
       "explicit": false,
       "spotifyId": "4eCwNh5mj6nNf8B9V7s6cc",
       "appleId": 1000508823782,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4eCwNh5mj6nNf8B9V7s6cc",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-four-all-she-did-was-ask-a-question/id1278684468?i=1000508823782",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-four-all-she-did-was-ask-a-question/id1278684468?i=1000508823782"
       }
     },
     {
@@ -1297,12 +1148,10 @@
       "explicit": false,
       "spotifyId": "3V82ysyjKh7FCXMiDC4mW1",
       "appleId": 1000506881623,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3V82ysyjKh7FCXMiDC4mW1",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-three-laurel-growing-up-in-and-leaving/id1278684468?i=1000506881623",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-three-laurel-growing-up-in-and-leaving/id1278684468?i=1000506881623"
       }
     },
     {
@@ -1314,12 +1163,10 @@
       "explicit": false,
       "spotifyId": "3fEo8ctUbuiUvsW9vkKn4w",
       "appleId": 1000505327153,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3fEo8ctUbuiUvsW9vkKn4w",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-two-geoff-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000505327153",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-two-geoff-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000505327153"
       }
     },
     {
@@ -1331,12 +1178,10 @@
       "explicit": false,
       "spotifyId": "2LBuYy3C9Ve3meGOLluVuM",
       "appleId": 1000504137421,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2LBuYy3C9Ve3meGOLluVuM",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-one-suzanna-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000504137421",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-one-suzanna-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000504137421"
       }
     },
     {
@@ -1348,12 +1193,10 @@
       "explicit": false,
       "spotifyId": "4CMFeObe7Vc1FjbRXctPOi",
       "appleId": 1000502859073,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4CMFeObe7Vc1FjbRXctPOi",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighty-ramil-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000502859073",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighty-ramil-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000502859073"
       }
     },
     {
@@ -1365,12 +1208,10 @@
       "explicit": false,
       "spotifyId": "3vt77ByJQZyyEoRMq4HvgA",
       "appleId": 1000501381608,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vt77ByJQZyyEoRMq4HvgA",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-nine-allison-is-shunned-by-jehovahs/id1278684468?i=1000501381608",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-nine-allison-is-shunned-by-jehovahs/id1278684468?i=1000501381608"
       }
     },
     {
@@ -1382,12 +1223,10 @@
       "explicit": false,
       "spotifyId": "2oVo6hj7nIkJblPm9Rgm2V",
       "appleId": 1000499851985,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2oVo6hj7nIkJblPm9Rgm2V",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-eight-z-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000499851985",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-eight-z-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000499851985"
       }
     },
     {
@@ -1399,12 +1238,10 @@
       "explicit": false,
       "spotifyId": "6gPDvk583WZDSVZVwrUpdi",
       "appleId": 1000497504225,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6gPDvk583WZDSVZVwrUpdi",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-seven-kim-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000497504225",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-seven-kim-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000497504225"
       }
     },
     {
@@ -1416,12 +1253,10 @@
       "explicit": false,
       "spotifyId": "5UOIIKYRh634uOjrlyqIY5",
       "appleId": 1000495463602,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5UOIIKYRh634uOjrlyqIY5",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-six-seth-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000495463602",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-six-seth-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000495463602"
       }
     },
     {
@@ -1433,12 +1268,10 @@
       "explicit": true,
       "spotifyId": "2KQM3tvBMo4Nyl67YFYV26",
       "appleId": 1000494081765,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2KQM3tvBMo4Nyl67YFYV26",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-five-kayla-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000494081765",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-five-kayla-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000494081765"
       }
     },
     {
@@ -1450,12 +1283,10 @@
       "explicit": false,
       "spotifyId": "2wfp2349PPUIz8208g6wYJ",
       "appleId": 1000492561926,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wfp2349PPUIz8208g6wYJ",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-four-lashanda-is-shunned-by-jehovahs/id1278684468?i=1000492561926",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-four-lashanda-is-shunned-by-jehovahs/id1278684468?i=1000492561926"
       }
     },
     {
@@ -1467,12 +1298,10 @@
       "explicit": false,
       "spotifyId": "58cZbX8Q7DeptbYT73aDDa",
       "appleId": 1000490852243,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58cZbX8Q7DeptbYT73aDDa",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-three-jen-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000490852243",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-three-jen-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000490852243"
       }
     },
     {
@@ -1484,12 +1313,10 @@
       "explicit": false,
       "spotifyId": "4mH4vJzPWsJC6mh8ZJsHTn",
       "appleId": 1000489261024,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mH4vJzPWsJC6mh8ZJsHTn",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-two-ramo-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000489261024",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-two-ramo-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000489261024"
       }
     },
     {
@@ -1501,12 +1328,10 @@
       "explicit": false,
       "spotifyId": "2sTeQEQiITIApn05d7J1Ng",
       "appleId": 1000488413709,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2sTeQEQiITIApn05d7J1Ng",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-one-mitch-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000488413709",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-one-mitch-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000488413709"
       }
     },
     {
@@ -1518,12 +1343,10 @@
       "explicit": false,
       "spotifyId": "1iEpNiF7IkCMFOZzwmChwO",
       "appleId": 1000486720826,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1iEpNiF7IkCMFOZzwmChwO",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventy-angela-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000486720826",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventy-angela-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000486720826"
       }
     },
     {
@@ -1535,12 +1358,10 @@
       "explicit": false,
       "spotifyId": "5yeyAOAjZHE4v8wpowZy57",
       "appleId": 1000486193322,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5yeyAOAjZHE4v8wpowZy57",
-        "apple": "https://podcasts.apple.com/podcast/success-stories-3-like-a-river-cutting-through-rock/id1278684468?i=1000486193322",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/success-stories-3-like-a-river-cutting-through-rock/id1278684468?i=1000486193322"
       }
     },
     {
@@ -1552,12 +1373,10 @@
       "explicit": false,
       "spotifyId": "1p98YrzBnK7TS8e16m0FME",
       "appleId": 1000485359901,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1p98YrzBnK7TS8e16m0FME",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-nine-stephanie-is-shunned-by-jehovahs/id1278684468?i=1000485359901",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-nine-stephanie-is-shunned-by-jehovahs/id1278684468?i=1000485359901"
       }
     },
     {
@@ -1569,12 +1388,10 @@
       "explicit": false,
       "spotifyId": "6b2DbgjMXaYlLl3xck5ypF",
       "appleId": 1000481902295,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6b2DbgjMXaYlLl3xck5ypF",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-eight-mario-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000481902295",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-eight-mario-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000481902295"
       }
     },
     {
@@ -1586,12 +1403,10 @@
       "explicit": false,
       "spotifyId": "5onTbIh89A4WYyvyENZztF",
       "appleId": 1000479647078,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5onTbIh89A4WYyvyENZztF",
-        "apple": "https://podcasts.apple.com/podcast/success-stories-2-using-your-time-treasure-and-talent/id1278684468?i=1000479647078",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/success-stories-2-using-your-time-treasure-and-talent/id1278684468?i=1000479647078"
       }
     },
     {
@@ -1603,12 +1418,10 @@
       "explicit": false,
       "spotifyId": "2sw1g6O7Ojyxq2ZCDvW2Uu",
       "appleId": 1000478832029,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2sw1g6O7Ojyxq2ZCDvW2Uu",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-seven-ryan-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000478832029",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-seven-ryan-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000478832029"
       }
     },
     {
@@ -1620,12 +1433,10 @@
       "explicit": false,
       "spotifyId": "5R9kr6Q07eyanOVkKCKRTR",
       "appleId": 1000477304786,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5R9kr6Q07eyanOVkKCKRTR",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-six-the-truth-about-disfellowshipping/id1278684468?i=1000477304786",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-six-the-truth-about-disfellowshipping/id1278684468?i=1000477304786"
       }
     },
     {
@@ -1637,12 +1448,10 @@
       "explicit": false,
       "spotifyId": "4Wz798fpwtBVJ6q3UCPqHr",
       "appleId": 1000476832962,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Wz798fpwtBVJ6q3UCPqHr",
-        "apple": "https://podcasts.apple.com/podcast/success-stories-1-from-ged-to-mit/id1278684468?i=1000476832962",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/success-stories-1-from-ged-to-mit/id1278684468?i=1000476832962"
       }
     },
     {
@@ -1654,12 +1463,10 @@
       "explicit": true,
       "spotifyId": "3ezgtQxINgdmEjrUD74TZ8",
       "appleId": 1000476100660,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ezgtQxINgdmEjrUD74TZ8",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-five-daniel-a-is-shunned-by-jehovahs/id1278684468?i=1000476100660",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-five-daniel-a-is-shunned-by-jehovahs/id1278684468?i=1000476100660"
       }
     },
     {
@@ -1671,12 +1478,10 @@
       "explicit": false,
       "spotifyId": "50fIxPRwRwZh0sSeWdcmqJ",
       "appleId": 1000474837526,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/50fIxPRwRwZh0sSeWdcmqJ",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-four-karamat-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000474837526",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-four-karamat-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000474837526"
       }
     },
     {
@@ -1688,12 +1493,10 @@
       "explicit": false,
       "spotifyId": "20o6pLs4y0VIlqCTVvopAz",
       "appleId": 1000473565606,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/20o6pLs4y0VIlqCTVvopAz",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-three-dani-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000473565606",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-three-dani-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000473565606"
       }
     },
     {
@@ -1705,12 +1508,10 @@
       "explicit": false,
       "spotifyId": "5bqoc1SYQx8dIleSAQeDNz",
       "appleId": 1000471918114,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5bqoc1SYQx8dIleSAQeDNz",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-two-aaron-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000471918114",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-two-aaron-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000471918114"
       }
     },
     {
@@ -1722,12 +1523,10 @@
       "explicit": true,
       "spotifyId": "2wPeHGubmHtYc3M8lLPjKb",
       "appleId": 1000470144996,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wPeHGubmHtYc3M8lLPjKb",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-one-joseph-h-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000470144996",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-one-joseph-h-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000470144996"
       }
     },
     {
@@ -1739,12 +1538,10 @@
       "explicit": true,
       "spotifyId": "6oS1mGjGFEDQ1aKz5qSrSt",
       "appleId": 1000468430539,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6oS1mGjGFEDQ1aKz5qSrSt",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixty-laura-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000468430539",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixty-laura-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000468430539"
       }
     },
     {
@@ -1756,12 +1553,10 @@
       "explicit": false,
       "spotifyId": "2andIoXYv4TrwNuoTE4iBu",
       "appleId": 1000466440499,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2andIoXYv4TrwNuoTE4iBu",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-nine-cassandra-is-shunned-by-jehovahs/id1278684468?i=1000466440499",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-nine-cassandra-is-shunned-by-jehovahs/id1278684468?i=1000466440499"
       }
     },
     {
@@ -1773,12 +1568,10 @@
       "explicit": false,
       "spotifyId": "5JlOxzPCmowABA31hoxOn2",
       "appleId": 1000465076235,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5JlOxzPCmowABA31hoxOn2",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-eight-derek-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000465076235",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-eight-derek-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000465076235"
       }
     },
     {
@@ -1790,12 +1583,10 @@
       "explicit": false,
       "spotifyId": "741pNnRjxssnZw76m2jPyE",
       "appleId": 1000463560787,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/741pNnRjxssnZw76m2jPyE",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-seven-alexa-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000463560787",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-seven-alexa-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000463560787"
       }
     },
     {
@@ -1807,12 +1598,10 @@
       "explicit": false,
       "spotifyId": "0dxdMmmjCfe6PAwxJ6QI4u",
       "appleId": 1000463477678,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0dxdMmmjCfe6PAwxJ6QI4u",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-six-nina-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000463477678",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-six-nina-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000463477678"
       }
     },
     {
@@ -1824,12 +1613,10 @@
       "explicit": false,
       "spotifyId": "23Rvo7xZwORZXhuVdc7V30",
       "appleId": 1000463267375,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23Rvo7xZwORZXhuVdc7V30",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-four-rebecca-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000463267375",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-four-rebecca-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000463267375"
       }
     },
     {
@@ -1841,12 +1628,10 @@
       "explicit": false,
       "spotifyId": "2U4MxbQ4TXQXH9IJSx29Hj",
       "appleId": 1000463177746,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2U4MxbQ4TXQXH9IJSx29Hj",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-three-joaquin-is-shunned-by-jehovahs/id1278684468?i=1000463177746",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-three-joaquin-is-shunned-by-jehovahs/id1278684468?i=1000463177746"
       }
     },
     {
@@ -1858,12 +1643,10 @@
       "explicit": false,
       "spotifyId": "1hBdlJKYCn4Roy1OLyiwLL",
       "appleId": 1000462915897,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1hBdlJKYCn4Roy1OLyiwLL",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-two-taira-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000462915897",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-two-taira-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000462915897"
       }
     },
     {
@@ -1875,12 +1658,10 @@
       "explicit": false,
       "spotifyId": "3bPFdlbRqLM7zrjgvNcH9A",
       "appleId": 1000462785278,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bPFdlbRqLM7zrjgvNcH9A",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-one-serena-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000462785278",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-one-serena-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000462785278"
       }
     },
     {
@@ -1892,12 +1673,10 @@
       "explicit": false,
       "spotifyId": "2rmlWMPQeHt7d8MYUq6UKa",
       "appleId": 1000462590044,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rmlWMPQeHt7d8MYUq6UKa",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifty-updates-on-guests-from-2017-and-2018/id1278684468?i=1000462590044",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifty-updates-on-guests-from-2017-and-2018/id1278684468?i=1000462590044"
       }
     },
     {
@@ -1909,12 +1688,10 @@
       "explicit": false,
       "spotifyId": "0mgoZWz4BryMClA0d9TdeO",
       "appleId": 1000462472715,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0mgoZWz4BryMClA0d9TdeO",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-nine-xitlalitl-is-shunned-by-jehovahs/id1278684468?i=1000462472715",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-nine-xitlalitl-is-shunned-by-jehovahs/id1278684468?i=1000462472715"
       }
     },
     {
@@ -1926,12 +1703,10 @@
       "explicit": false,
       "spotifyId": "0BPB8x5CKks84RPa2VHORl",
       "appleId": 1000462395719,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0BPB8x5CKks84RPa2VHORl",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-eight-kelsey-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000462395719",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-eight-kelsey-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000462395719"
       }
     },
     {
@@ -1943,12 +1718,10 @@
       "explicit": false,
       "spotifyId": "3WPLZSYm095WiM9Av38sCx",
       "appleId": 1000461164521,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3WPLZSYm095WiM9Av38sCx",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-seven-the-fangsruds-are-shunned-by/id1278684468?i=1000461164521",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-seven-the-fangsruds-are-shunned-by/id1278684468?i=1000461164521"
       }
     },
     {
@@ -1960,12 +1733,10 @@
       "explicit": false,
       "spotifyId": "6DWalysM5gcFX9PStHYyIw",
       "appleId": 1000459618900,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6DWalysM5gcFX9PStHYyIw",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-six-candace-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000459618900",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-six-candace-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000459618900"
       }
     },
     {
@@ -1977,12 +1748,10 @@
       "explicit": false,
       "spotifyId": "3FRICRvTR8Kfmq4kspEFbz",
       "appleId": 1000458289004,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FRICRvTR8Kfmq4kspEFbz",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-five-tamara-sw-is-shunned-by-jehovahs/id1278684468?i=1000458289004",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-five-tamara-sw-is-shunned-by-jehovahs/id1278684468?i=1000458289004"
       }
     },
     {
@@ -1994,12 +1763,10 @@
       "explicit": true,
       "spotifyId": "2kvGzqUmnw848fyRL6pCct",
       "appleId": 1000456995184,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2kvGzqUmnw848fyRL6pCct",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-four-cassie-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000456995184",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-four-cassie-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000456995184"
       }
     },
     {
@@ -2011,12 +1778,10 @@
       "explicit": false,
       "spotifyId": "61OdWolhqEmCkM8YvTB0m2",
       "appleId": 1000456923584,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61OdWolhqEmCkM8YvTB0m2",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-three-matthew-is-shunned-by-jehovahs/id1278684468?i=1000456923584",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-three-matthew-is-shunned-by-jehovahs/id1278684468?i=1000456923584"
       }
     },
     {
@@ -2028,12 +1793,10 @@
       "explicit": true,
       "spotifyId": "4tvZ6dJO69hlgh2iUFoVFl",
       "appleId": 1000455440163,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4tvZ6dJO69hlgh2iUFoVFl",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-two-daniel-sp-is-shunned-by-jehovahs/id1278684468?i=1000455440163",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-two-daniel-sp-is-shunned-by-jehovahs/id1278684468?i=1000455440163"
       }
     },
     {
@@ -2045,12 +1808,10 @@
       "explicit": false,
       "spotifyId": "76mioc70LirNiTh1x3hjq6",
       "appleId": 1000452289770,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/76mioc70LirNiTh1x3hjq6",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-one-joseph-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000452289770",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-one-joseph-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000452289770"
       }
     },
     {
@@ -2062,12 +1823,10 @@
       "explicit": false,
       "spotifyId": "315tOU4uL22auJB44WAY6L",
       "appleId": 1000450393113,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/315tOU4uL22auJB44WAY6L",
-        "apple": "https://podcasts.apple.com/podcast/episode-forty-renee-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000450393113",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-forty-renee-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000450393113"
       }
     },
     {
@@ -2079,12 +1838,10 @@
       "explicit": false,
       "spotifyId": "7FMJrgQxdWMnjy8lRYOgdp",
       "appleId": 1000448832543,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7FMJrgQxdWMnjy8lRYOgdp",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-nine-corrie-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000448832543",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-nine-corrie-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000448832543"
       }
     },
     {
@@ -2096,12 +1853,10 @@
       "explicit": false,
       "spotifyId": "1wbmzI5pTE3hddsotefBOx",
       "appleId": 1000447701241,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1wbmzI5pTE3hddsotefBOx",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-eight-nicoles-life-with-jehovahs-witnesses/id1278684468?i=1000447701241",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-eight-nicoles-life-with-jehovahs-witnesses/id1278684468?i=1000447701241"
       }
     },
     {
@@ -2113,12 +1868,10 @@
       "explicit": false,
       "spotifyId": "1rfxho6vHjC5uWVSwypcnT",
       "appleId": 1000446585964,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1rfxho6vHjC5uWVSwypcnT",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-seven-adrian-is-shunned-by-jehovahs/id1278684468?i=1000446585964",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-seven-adrian-is-shunned-by-jehovahs/id1278684468?i=1000446585964"
       }
     },
     {
@@ -2130,12 +1883,10 @@
       "explicit": false,
       "spotifyId": "0Bc3JXvVUSQpoTr4fzB5bV",
       "appleId": 1000445374945,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Bc3JXvVUSQpoTr4fzB5bV",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-six-linda-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000445374945",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-six-linda-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000445374945"
       }
     },
     {
@@ -2147,12 +1898,10 @@
       "explicit": true,
       "spotifyId": "3F5weSpmu2k3BKFB2jzoyj",
       "appleId": 1000444443399,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3F5weSpmu2k3BKFB2jzoyj",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-five-andie-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000444443399",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-five-andie-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000444443399"
       }
     },
     {
@@ -2164,12 +1913,10 @@
       "explicit": false,
       "spotifyId": "0RDj9B3XQruy6HTYPAAPq2",
       "appleId": 1000443169345,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0RDj9B3XQruy6HTYPAAPq2",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-four-lyla-is-shunned-by-die-uitverkore/id1278684468?i=1000443169345",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-four-lyla-is-shunned-by-die-uitverkore/id1278684468?i=1000443169345"
       }
     },
     {
@@ -2181,12 +1928,10 @@
       "explicit": false,
       "spotifyId": "5UJMpIfpstZMNyf6DjVbN6",
       "appleId": 1000441606634,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5UJMpIfpstZMNyf6DjVbN6",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-three-naomi-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000441606634",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-three-naomi-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000441606634"
       }
     },
     {
@@ -2198,12 +1943,10 @@
       "explicit": false,
       "spotifyId": "5u9PIogds3SEIa5JhkMAy4",
       "appleId": 1000440322147,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5u9PIogds3SEIa5JhkMAy4",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-two-james-schwartz-growing-up-gay-and-amish/id1278684468?i=1000440322147",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-two-james-schwartz-growing-up-gay-and-amish/id1278684468?i=1000440322147"
       }
     },
     {
@@ -2215,12 +1958,10 @@
       "explicit": false,
       "spotifyId": "5yqhFnuR26uwLo6BCc5ZZ2",
       "appleId": 1000438705710,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5yqhFnuR26uwLo6BCc5ZZ2",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-one-dave-warnock-dying-out-loud/id1278684468?i=1000438705710",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-one-dave-warnock-dying-out-loud/id1278684468?i=1000438705710"
       }
     },
     {
@@ -2232,12 +1973,10 @@
       "explicit": false,
       "spotifyId": "1lDvzg3kvEj67SMnc64wrP",
       "appleId": 1000437182615,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1lDvzg3kvEj67SMnc64wrP",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirty-chloe-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000437182615",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirty-chloe-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000437182615"
       }
     },
     {
@@ -2249,12 +1988,10 @@
       "explicit": false,
       "spotifyId": "06Kr7UlrKGQhf9zX0PDjT2",
       "appleId": 1000435750698,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/06Kr7UlrKGQhf9zX0PDjT2",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-nine-nico-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000435750698",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-nine-nico-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000435750698"
       }
     },
     {
@@ -2266,12 +2003,10 @@
       "explicit": false,
       "spotifyId": "6GavGK3YHo2kEY1WAnpJCW",
       "appleId": 1000434227301,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6GavGK3YHo2kEY1WAnpJCW",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-eight-yolanda-and-jehovahs-witnesses/id1278684468?i=1000434227301",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-eight-yolanda-and-jehovahs-witnesses/id1278684468?i=1000434227301"
       }
     },
     {
@@ -2283,12 +2018,10 @@
       "explicit": false,
       "spotifyId": "4wi3VCptF6Vm1Gu5EUBKwr",
       "appleId": 1000431879636,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4wi3VCptF6Vm1Gu5EUBKwr",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-seven-georgia-is-shunned-by-jehovahs/id1278684468?i=1000431879636",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-seven-georgia-is-shunned-by-jehovahs/id1278684468?i=1000431879636"
       }
     },
     {
@@ -2300,12 +2033,10 @@
       "explicit": false,
       "spotifyId": "3yZdNRbMkHDhyO22W4i2pZ",
       "appleId": 1000430916084,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3yZdNRbMkHDhyO22W4i2pZ",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-six-nicholas-is-shunned-by-is-was-and-will-be/id1278684468?i=1000430916084",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-six-nicholas-is-shunned-by-is-was-and-will-be/id1278684468?i=1000430916084"
       }
     },
     {
@@ -2317,12 +2048,10 @@
       "explicit": false,
       "spotifyId": "50LluLS37mSN2lWhrXuixC",
       "appleId": 1000429980068,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/50LluLS37mSN2lWhrXuixC",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-five-daniel-is-a-pimo-jehovahs-witness/id1278684468?i=1000429980068",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-five-daniel-is-a-pimo-jehovahs-witness/id1278684468?i=1000429980068"
       }
     },
     {
@@ -2334,12 +2063,10 @@
       "explicit": false,
       "spotifyId": "78Ffbkz0ZpBetiF3DrsVyA",
       "appleId": 1000429037149,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/78Ffbkz0ZpBetiF3DrsVyA",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-four-silvers-is-shunned-by-jehovahs/id1278684468?i=1000429037149",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-four-silvers-is-shunned-by-jehovahs/id1278684468?i=1000429037149"
       }
     },
     {
@@ -2351,12 +2078,10 @@
       "explicit": false,
       "spotifyId": "3YlN8YU0mqfwQVahD9C9Ef",
       "appleId": 1000427972147,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3YlN8YU0mqfwQVahD9C9Ef",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-three-sherrie-is-shunned-by-jehovahs/id1278684468?i=1000427972147",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-three-sherrie-is-shunned-by-jehovahs/id1278684468?i=1000427972147"
       }
     },
     {
@@ -2368,12 +2093,10 @@
       "explicit": false,
       "spotifyId": "6QlDpCiE6lUrg2oN0Ssoha",
       "appleId": 1000425923966,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6QlDpCiE6lUrg2oN0Ssoha",
-        "apple": "https://podcasts.apple.com/podcast/shunned-vidcast-5-2019-goals/id1278684468?i=1000425923966",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/shunned-vidcast-5-2019-goals/id1278684468?i=1000425923966"
       }
     },
     {
@@ -2385,12 +2108,10 @@
       "explicit": false,
       "spotifyId": "65cBQpUSd1EDx3tDNgFWMT",
       "appleId": 1000424955210,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/65cBQpUSd1EDx3tDNgFWMT",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-one-v-shunning-in-a-racist-family-cult/id1278684468?i=1000424955210",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-one-v-shunning-in-a-racist-family-cult/id1278684468?i=1000424955210"
       }
     },
     {
@@ -2402,12 +2123,10 @@
       "explicit": false,
       "spotifyId": "1MXi42V4vbTauzcHLQiu3N",
       "appleId": 1000423130729,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1MXi42V4vbTauzcHLQiu3N",
-        "apple": "https://podcasts.apple.com/podcast/episode-twenty-tamara-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000423130729",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twenty-tamara-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000423130729"
       }
     },
     {
@@ -2419,12 +2138,10 @@
       "explicit": false,
       "spotifyId": "63uigKxZurhvHxmMDZHWpi",
       "appleId": 1000420944163,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/63uigKxZurhvHxmMDZHWpi",
-        "apple": "https://podcasts.apple.com/podcast/episode-nineteen-lyndi-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000420944163",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-nineteen-lyndi-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000420944163"
       }
     },
     {
@@ -2436,12 +2153,10 @@
       "explicit": false,
       "spotifyId": "60fhgbPFGiwToMYolrLgMn",
       "appleId": 1000419815552,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/60fhgbPFGiwToMYolrLgMn",
-        "apple": "https://podcasts.apple.com/podcast/episode-eighteen-torah-bontrager-escaping-the-amish/id1278684468?i=1000419815552",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eighteen-torah-bontrager-escaping-the-amish/id1278684468?i=1000419815552"
       }
     },
     {
@@ -2453,12 +2168,10 @@
       "explicit": false,
       "spotifyId": "6yCRglkltjMYxAKs2P9B3b",
       "appleId": 1000419359582,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yCRglkltjMYxAKs2P9B3b",
-        "apple": "https://podcasts.apple.com/podcast/episode-seventeen-midwest-apostafest-2018/id1278684468?i=1000419359582",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seventeen-midwest-apostafest-2018/id1278684468?i=1000419359582"
       }
     },
     {
@@ -2470,12 +2183,10 @@
       "explicit": false,
       "spotifyId": "6KxDg51gxY2Sl1y2opmsbp",
       "appleId": 1000418929403,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6KxDg51gxY2Sl1y2opmsbp",
-        "apple": "https://podcasts.apple.com/podcast/episode-sixteen-sydney-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000418929403",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-sixteen-sydney-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000418929403"
       }
     },
     {
@@ -2487,12 +2198,10 @@
       "explicit": false,
       "spotifyId": "5c43umb4Gytcv8Xm6DQQl8",
       "appleId": 1000417758891,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5c43umb4Gytcv8Xm6DQQl8",
-        "apple": "https://podcasts.apple.com/podcast/episode-fifteen-jason-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000417758891",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fifteen-jason-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000417758891"
       }
     },
     {
@@ -2504,12 +2213,10 @@
       "explicit": false,
       "spotifyId": "1m8CcUBV5GDuxwBVzXrxs9",
       "appleId": 1000417059136,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1m8CcUBV5GDuxwBVzXrxs9",
-        "apple": "https://podcasts.apple.com/podcast/episode-fourteen-kacey-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000417059136",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-fourteen-kacey-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000417059136"
       }
     },
     {
@@ -2521,12 +2228,10 @@
       "explicit": false,
       "spotifyId": "54NL1QgBiitJaY3X0gXiIu",
       "appleId": 1000415335852,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/54NL1QgBiitJaY3X0gXiIu",
-        "apple": "https://podcasts.apple.com/podcast/episode-thirteen-fernando-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000415335852",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-thirteen-fernando-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000415335852"
       }
     },
     {
@@ -2538,12 +2243,10 @@
       "explicit": false,
       "spotifyId": "2dbVNyGEjwzsJNNalipxjV",
       "appleId": 1000413611950,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2dbVNyGEjwzsJNNalipxjV",
-        "apple": "https://podcasts.apple.com/podcast/asking-for-your-help/id1278684468?i=1000413611950",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/asking-for-your-help/id1278684468?i=1000413611950"
       }
     },
     {
@@ -2555,12 +2258,10 @@
       "explicit": false,
       "spotifyId": "5kAeLio1ozwDRlyieYpe3O",
       "appleId": 1000412874412,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5kAeLio1ozwDRlyieYpe3O",
-        "apple": "https://podcasts.apple.com/podcast/episode-twelve-mark-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000412874412",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-twelve-mark-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000412874412"
       }
     },
     {
@@ -2572,12 +2273,10 @@
       "explicit": false,
       "spotifyId": "6aNqATMfko3VKBV9rivdS6",
       "appleId": 1000410519238,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6aNqATMfko3VKBV9rivdS6",
-        "apple": "https://podcasts.apple.com/podcast/episode-eleven-brenda-is-shunned-by-the-flds/id1278684468?i=1000410519238",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eleven-brenda-is-shunned-by-the-flds/id1278684468?i=1000410519238"
       }
     },
     {
@@ -2589,12 +2288,10 @@
       "explicit": false,
       "spotifyId": "3145Au8236eQA5Bf3ILcCO",
       "appleId": 1000408364010,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3145Au8236eQA5Bf3ILcCO",
-        "apple": "https://podcasts.apple.com/podcast/episode-ten-dj-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000408364010",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-ten-dj-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000408364010"
       }
     },
     {
@@ -2606,12 +2303,10 @@
       "explicit": true,
       "spotifyId": "1OJrM1VwWz0F3fm8DeADc7",
       "appleId": 1000406675055,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1OJrM1VwWz0F3fm8DeADc7",
-        "apple": "https://podcasts.apple.com/podcast/episode-nine-update-david-speaks-out/id1278684468?i=1000406675055",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-nine-update-david-speaks-out/id1278684468?i=1000406675055"
       }
     },
     {
@@ -2623,12 +2318,10 @@
       "explicit": false,
       "spotifyId": "5NVaTtVOtHLQnfkdi498Ua",
       "appleId": 1000402850965,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5NVaTtVOtHLQnfkdi498Ua",
-        "apple": "https://podcasts.apple.com/podcast/episode-eight-bonus-content-sexual-abuse-and-jehovahs/id1278684468?i=1000402850965",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-eight-bonus-content-sexual-abuse-and-jehovahs/id1278684468?i=1000402850965"
       }
     },
     {
@@ -2640,12 +2333,10 @@
       "explicit": true,
       "spotifyId": "5VjStnWgIb0FlPBh3RB9oW",
       "appleId": 1000401822390,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VjStnWgIb0FlPBh3RB9oW",
-        "apple": "https://podcasts.apple.com/podcast/episode-seven-part-2-sexual-abuse-and-jehovahs/id1278684468?i=1000401822390",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-seven-part-2-sexual-abuse-and-jehovahs/id1278684468?i=1000401822390"
       }
     },
     {
@@ -2657,12 +2348,10 @@
       "explicit": false,
       "spotifyId": "6CC3uS4gjUSQ6NUOVLjuNk",
       "appleId": 1000401330214,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CC3uS4gjUSQ6NUOVLjuNk",
-        "apple": "https://podcasts.apple.com/podcast/episode-six-part-1-sexual-abuse-and-jehovahs/id1278684468?i=1000401330214",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-six-part-1-sexual-abuse-and-jehovahs/id1278684468?i=1000401330214"
       }
     },
     {
@@ -2674,12 +2363,10 @@
       "explicit": false,
       "spotifyId": "6jaY6hiUGieuhfY0dz7iFx",
       "appleId": 1000398887582,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6jaY6hiUGieuhfY0dz7iFx",
-        "apple": "https://podcasts.apple.com/podcast/episode-five-caleb-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000398887582",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-five-caleb-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000398887582"
       }
     },
     {
@@ -2691,12 +2378,10 @@
       "explicit": false,
       "spotifyId": "5BSKsQGdneSUdxKU2uToH3",
       "appleId": 1000397013027,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BSKsQGdneSUdxKU2uToH3",
-        "apple": "https://podcasts.apple.com/podcast/episode-four-mike-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000397013027",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-four-mike-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000397013027"
       }
     },
     {
@@ -2708,12 +2393,10 @@
       "explicit": false,
       "spotifyId": "2U5aRzdqZuqfho1eh0MJe7",
       "appleId": 1000394418616,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2U5aRzdqZuqfho1eh0MJe7",
-        "apple": "https://podcasts.apple.com/podcast/episode-three-emily-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000394418616",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-three-emily-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000394418616"
       }
     },
     {
@@ -2725,12 +2408,10 @@
       "explicit": false,
       "spotifyId": "34Ryeg8fpW8I65WF5GEXVy",
       "appleId": 1000393207086,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/34Ryeg8fpW8I65WF5GEXVy",
-        "apple": "https://podcasts.apple.com/podcast/episode-two-jerry-is-shunned-by-the-mennonites/id1278684468?i=1000393207086",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-two-jerry-is-shunned-by-the-mennonites/id1278684468?i=1000393207086"
       }
     },
     {
@@ -2742,12 +2423,10 @@
       "explicit": false,
       "spotifyId": "7rG5bvkBr4VjNwiBRCndMN",
       "appleId": 1000391771391,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7rG5bvkBr4VjNwiBRCndMN",
-        "apple": "https://podcasts.apple.com/podcast/episode-one-jenny-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000391771391",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-one-jenny-is-shunned-by-jehovahs-witnesses/id1278684468?i=1000391771391"
       }
     }
   ]

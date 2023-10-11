@@ -1,8 +1,6 @@
 {
   "id": "694b995e-53c0-45c6-a26f-718f09bdc9c9",
   "name": "One American Podcast",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCubhMPKZ6C5LW9JSxkM0miA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-01-11T08:44:31Z",
       "duration": "01:10:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "5QBOL2QxtUw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=5QBOL2QxtUw"
       }
     }

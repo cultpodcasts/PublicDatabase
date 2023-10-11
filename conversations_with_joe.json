@@ -1,8 +1,6 @@
 {
   "id": "bc6ce6c9-fea9-4f3d-98c3-00c24bc536dd",
   "name": "Conversations With Joe",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCJzc7TiJ2nnuyJkUpOZ8RKA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-05-01T16:51:14Z",
       "duration": "01:09:59",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "tS_zzEPAXO0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=tS_zzEPAXO0"
       }
     }

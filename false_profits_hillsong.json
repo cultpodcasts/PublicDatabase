@@ -3,7 +3,6 @@
   "name": "False Profits: Hillsong",
   "spotifyId": "179hLPVHBub8jNEVlNpEiG",
   "appleId": 1668018669,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "b7289f84-9be7-4d39-9a16-f576c7f64561",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "7ECOqvp6z9j3na4E93oWY5",
       "appleId": 1000605516256,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ECOqvp6z9j3na4E93oWY5",
-        "apple": "https://podcasts.apple.com/podcast/a-reckoning/id1668018669?i=1000605516256",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-reckoning/id1668018669?i=1000605516256"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "1npyr8x4qM8MuURFz57FOf",
       "appleId": 1000604454553,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1npyr8x4qM8MuURFz57FOf",
-        "apple": "https://podcasts.apple.com/podcast/the-reunion/id1668018669?i=1000604454553",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-reunion/id1668018669?i=1000604454553"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": false,
       "spotifyId": "4T5Bz5kM5XafTihzETpDg1",
       "appleId": 1000603410689,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4T5Bz5kM5XafTihzETpDg1",
-        "apple": "https://podcasts.apple.com/podcast/the-darkest-night/id1668018669?i=1000603410689",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-darkest-night/id1668018669?i=1000603410689"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "3yvn9XOgo50yTlKKfRevVT",
       "appleId": 1000602434004,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3yvn9XOgo50yTlKKfRevVT",
-        "apple": "https://podcasts.apple.com/podcast/terms-and-conditions-apply/id1668018669?i=1000602434004",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/terms-and-conditions-apply/id1668018669?i=1000602434004"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "59A1x5VVhkPR7B0GO20x6Y",
       "appleId": 1000601227771,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/59A1x5VVhkPR7B0GO20x6Y",
-        "apple": "https://podcasts.apple.com/podcast/the-house-of-houston/id1668018669?i=1000601227771",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-house-of-houston/id1668018669?i=1000601227771"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "21oTLzou6nlbGDgPFknJdp",
       "appleId": 1000599898083,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/21oTLzou6nlbGDgPFknJdp",
-        "apple": "https://podcasts.apple.com/podcast/follow-the-money/id1668018669?i=1000599898083",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/follow-the-money/id1668018669?i=1000599898083"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": false,
       "spotifyId": "1wC0qpeZamIjDhrbBJnu7f",
       "appleId": 1000598817488,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1wC0qpeZamIjDhrbBJnu7f",
-        "apple": "https://podcasts.apple.com/podcast/a-culture-of-submission/id1668018669?i=1000598817488",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-culture-of-submission/id1668018669?i=1000598817488"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": false,
       "spotifyId": "5FHh7fvt84pF2sYLywe3dH",
       "appleId": 1000597725052,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5FHh7fvt84pF2sYLywe3dH",
-        "apple": "https://podcasts.apple.com/podcast/welcome-home/id1668018669?i=1000597725052",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/welcome-home/id1668018669?i=1000597725052"
       }
     },
     {
@@ -150,12 +133,10 @@
       "explicit": false,
       "spotifyId": "71G3j6oMnXuEjUt1izOfiH",
       "appleId": 1000596662780,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/71G3j6oMnXuEjUt1izOfiH",
-        "apple": "https://podcasts.apple.com/podcast/introducing-false-profits-hillsong/id1668018669?i=1000596662780",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/introducing-false-profits-hillsong/id1668018669?i=1000596662780"
       }
     }
   ]

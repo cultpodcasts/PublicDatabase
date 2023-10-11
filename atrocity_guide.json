@@ -1,8 +1,6 @@
 {
   "id": "bfcddad3-db63-48d8-a2f1-653476a74046",
   "name": "Atrocity Guide",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCn8OYopT9e8tng-CGEWzfmw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-06-12T21:10:11Z",
       "duration": "01:16:44",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "urMxgevzd4c",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=urMxgevzd4c"
       }
     }

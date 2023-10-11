@@ -1,8 +1,6 @@
 {
   "id": "23227d81-f793-4a19-b47b-c44a9d48ff57",
   "name": "ABC News (Australia)",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2015-07-28T06:11:19Z",
       "duration": "00:09:30",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "4ncz9-QqMBw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=4ncz9-QqMBw"
       }
     }

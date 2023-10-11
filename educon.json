@@ -1,8 +1,6 @@
 {
   "id": "956fee7e-ab04-42ce-9339-8ef0bad81105",
   "name": "EducoN",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCeLNAd7-nYU_7D7Z7S3a6Hw",
   "episodes": [
     {
@@ -12,8 +10,6 @@
       "release": "1996-06-10T20:00:00Z",
       "duration": "00:24:39",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "GF52vfbXd5A",
       "subjects": [
         "Dr. Tony Quinn",
@@ -28,8 +24,6 @@
         "Greg Dyke"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=GF52vfbXd5A"
       }
     },
@@ -40,8 +34,6 @@
       "release": "2001-03-02T20:00:00Z",
       "duration": "00:35:32",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "i-B473VwvOk",
       "subjects": [
         "Dr. Tony Quinn",
@@ -53,8 +45,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=i-B473VwvOk"
       }
     },
@@ -65,8 +55,6 @@
       "release": "2012-10-16T22:00:00Z",
       "duration": "00:28:48",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "TZ5-26C5V5s",
       "subjects": [
         "Dr. Tony Quinn",
@@ -79,8 +67,6 @@
         "BBC"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=TZ5-26C5V5s"
       }
     },
@@ -91,8 +77,6 @@
       "release": "1998-01-01T00:00:00Z",
       "duration": "00:03:48",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "g-lOcLFDprU",
       "subjects": [
         "Scientology",
@@ -100,8 +84,6 @@
         "ITV"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=g-lOcLFDprU"
       }
     },
@@ -112,8 +94,6 @@
       "release": "2007-11-17T00:00:00Z",
       "duration": "00:59:01",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "_2UIDU4YuJw",
       "subjects": [
         "Dr. Tony Quinn",
@@ -125,20 +105,15 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=_2UIDU4YuJw"
       }
     },
     {
       "id": "5418b830-0f7b-44bb-a0a6-2c366289aebc",
       "title": "Live Line with Joe Duffy - 26 Jan 2006 - Tony Quinn and the EDUCO Cult",
-      "description": "",
       "release": "2006-01-26T00:00:00Z",
       "duration": "00:26:49",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "QbRwYt59fOs",
       "subjects": [
         "Dr. Tony Quinn",
@@ -150,8 +125,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=QbRwYt59fOs"
       }
     },
@@ -162,8 +135,6 @@
       "release": "2001-10-13T00:00:00Z",
       "duration": "00:49:26",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "YXlYje6UZDI",
       "subjects": [
         "Dr. Tony Quinn",
@@ -175,8 +146,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=YXlYje6UZDI"
       }
     },
@@ -187,8 +156,6 @@
       "release": "2001-10-13T00:00:00Z",
       "duration": "00:51:23",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "5aEWpOhTuEM",
       "subjects": [
         "Dr. Tony Quinn",
@@ -200,8 +167,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=5aEWpOhTuEM"
       }
     },
@@ -212,8 +177,6 @@
       "release": "2001-10-13T00:00:00Z",
       "duration": "01:00:41",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "qFPxhNTFRZg",
       "subjects": [
         "Dr. Tony Quinn",
@@ -225,8 +188,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=qFPxhNTFRZg"
       }
     },
@@ -237,8 +198,6 @@
       "release": "1997-11-12T10:00:00Z",
       "duration": "00:33:09",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "u77DTkkVcv0",
       "subjects": [
         "Dr. Tony Quinn",
@@ -250,8 +209,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=u77DTkkVcv0"
       }
     }

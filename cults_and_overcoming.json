@@ -1,8 +1,6 @@
 {
   "id": "175463da-03bc-434e-98c7-a22b1a222c17",
   "name": "Cults and Overcoming",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCq5yaIICSgQ-ADw86VHJ52Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-11-08T16:57:09Z",
       "duration": "01:17:18",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "VNZkQIv2nQY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=VNZkQIv2nQY"
       }
     }

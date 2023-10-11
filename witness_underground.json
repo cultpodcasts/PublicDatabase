@@ -1,8 +1,6 @@
 {
   "id": "bc73e16d-e8f4-4242-861d-b79483f24d0d",
   "name": "Witness Underground",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCnXbnuEB0iwtpY_Dl_Q9KdA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-05-28T00:20:22Z",
       "duration": "01:14:11",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "IlaWSh88x1U",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=IlaWSh88x1U"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-09-12T18:57:56Z",
       "duration": "00:42:54",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "AnesyqlBUkU",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=AnesyqlBUkU"
       }
     }

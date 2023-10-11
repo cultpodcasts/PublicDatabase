@@ -1,8 +1,6 @@
 {
   "id": "7483ab75-e332-42a3-8eb3-448462efbfb0",
   "name": "Lloyd Evans",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCz1w0ll081JJiYcjb298pOw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-11-15T14:00:29Z",
       "duration": "00:56:00",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "_Lrff60z9T4",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=_Lrff60z9T4"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2021-07-01T11:00:32Z",
       "duration": "01:46:06",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "rh3TMiNvi2s",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=rh3TMiNvi2s"
       }
     }

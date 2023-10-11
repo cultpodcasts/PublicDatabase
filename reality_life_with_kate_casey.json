@@ -3,7 +3,6 @@
   "name": "Reality Life with Kate Casey",
   "spotifyId": "7iZzKUbEWAsWVkFRebb9Gu",
   "appleId": 1154758766,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "942cef20-e24f-40f2-bdc5-123c1d16874e",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "5EFUCdxNiElOTvoSwrUPDh",
       "appleId": 1000604592322,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5EFUCdxNiElOTvoSwrUPDh",
-        "apple": "https://podcasts.apple.com/podcast/ep-630-elizabeth-smart-kidnapping-and-rescue/id1154758766?i=1000604592322",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-630-elizabeth-smart-kidnapping-and-rescue/id1154758766?i=1000604592322"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "7LlCVNL9JfMIFgSE3EM9Wr",
       "appleId": 1000605104547,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7LlCVNL9JfMIFgSE3EM9Wr",
-        "apple": "https://podcasts.apple.com/podcast/ep-633-waco-american-apocalypse-on-netflix/id1154758766?i=1000605104547",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-633-waco-american-apocalypse-on-netflix/id1154758766?i=1000605104547"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": false,
       "spotifyId": "2EIg4Xb8Becwj21hFPaVR3",
       "appleId": 1000607460681,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2EIg4Xb8Becwj21hFPaVR3",
-        "apple": "https://podcasts.apple.com/podcast/ep-644-lori-vallow-trial-begins-murdaugh-and-idaho/id1154758766?i=1000607460681",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-644-lori-vallow-trial-begins-murdaugh-and-idaho/id1154758766?i=1000607460681"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "4QhtSHgsk9GkhEMztIbREU",
       "appleId": 1000613321498,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4QhtSHgsk9GkhEMztIbREU",
-        "apple": "https://podcasts.apple.com/podcast/ep-674-the-secrets-of-hillsong-the-curious/id1154758766?i=1000613321498",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-674-the-secrets-of-hillsong-the-curious/id1154758766?i=1000613321498"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "3gDC3vgWUsVOtWagZkjnKx",
       "appleId": 1000614416729,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gDC3vgWUsVOtWagZkjnKx",
-        "apple": "https://podcasts.apple.com/podcast/ep-680-the-secrets-of-hillsong-executive-producer/id1154758766?i=1000614416729",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-680-the-secrets-of-hillsong-executive-producer/id1154758766?i=1000614416729"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "5ESLVFELETLRLuzA9t9jEa",
       "appleId": 1000586368285,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ESLVFELETLRLuzA9t9jEa",
-        "apple": "https://podcasts.apple.com/podcast/ep-564-best-cult-documentaries/id1154758766?i=1000586368285",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-564-best-cult-documentaries/id1154758766?i=1000586368285"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": false,
       "spotifyId": "2uypPqhJPwa0Z8GkVdsysq",
       "appleId": 1000588057320,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2uypPqhJPwa0Z8GkVdsysq",
-        "apple": "https://podcasts.apple.com/podcast/ep-570-mike-rinder-author-of-a-billion-years-my/id1154758766?i=1000588057320",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-570-mike-rinder-author-of-a-billion-years-my/id1154758766?i=1000588057320"
       }
     }
   ]

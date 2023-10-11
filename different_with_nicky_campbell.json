@@ -3,7 +3,6 @@
   "name": "Different with Nicky Campbell",
   "spotifyId": "5pF1A8HyPCn8wFHDanjsnf",
   "appleId": 1628519589,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "568c7f26-8346-4317-ba61-79236d42e161",
@@ -14,7 +13,6 @@
       "explicit": false,
       "spotifyId": "0Yjok8OB8C4XwwSzaOlKJm",
       "appleId": 1000566446372,
-      "youTubeId": "",
       "subjects": [
         "BBC",
         "Richard Turner",
@@ -22,8 +20,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Yjok8OB8C4XwwSzaOlKJm",
-        "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372"
       }
     }
   ]

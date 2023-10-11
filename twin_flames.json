@@ -3,7 +3,6 @@
   "name": "Twin Flames",
   "spotifyId": "3n640S4GJ93YmoyRnaP2Si",
   "appleId": 1609466357,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "fff4f843-a2b5-4271-8929-ced72a0d5c0c",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "69LU6ozoKFZMjclRFHuQVw",
       "appleId": 1000630010592,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/69LU6ozoKFZMjclRFHuQVw",
-        "apple": "https://podcasts.apple.com/podcast/where-to-find-episodes-2-7-of-twin-flames/id1609466357?i=1000630010592",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/where-to-find-episodes-2-7-of-twin-flames/id1609466357?i=1000630010592"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": true,
       "spotifyId": "763ECFylcEHxUMYhRCuRU7",
       "appleId": 1000629758000,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/763ECFylcEHxUMYhRCuRU7",
-        "apple": "https://podcasts.apple.com/podcast/desperately-seeking-soulmate/id1609466357?i=1000629758000",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/desperately-seeking-soulmate/id1609466357?i=1000629758000"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": true,
       "spotifyId": "7KXJS99IeCS7KSf3RatGNZ",
       "appleId": 1000627832353,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7KXJS99IeCS7KSf3RatGNZ",
-        "apple": "https://podcasts.apple.com/podcast/listen-now-infamous-international-the-pink-panthers-story/id1609466357?i=1000627832353",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/listen-now-infamous-international-the-pink-panthers-story/id1609466357?i=1000627832353"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": true,
       "spotifyId": "6xrbGGbAXnhwhYI8ZI51xs",
       "appleId": 1000550856834,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6xrbGGbAXnhwhYI8ZI51xs",
-        "apple": "https://podcasts.apple.com/podcast/follow-me/id1609466357?i=1000550856834",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/follow-me/id1609466357?i=1000550856834"
       }
     }
   ]

@@ -1,8 +1,6 @@
 {
   "id": "4685a2c9-7240-4a14-b72f-56bbc548ff26",
   "name": "Megyn Kelly",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCzJXNzqz6VMHSNInQt_7q6w",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-09-28T21:27:21Z",
       "duration": "01:38:28",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "xzwflJtjInI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=xzwflJtjInI"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-06-15T20:00:08Z",
       "duration": "01:35:56",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "4Za_SoIAX4s",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=4Za_SoIAX4s"
       }
     }

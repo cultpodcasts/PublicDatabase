@@ -1,8 +1,6 @@
 {
   "id": "cf57ba37-1140-4934-b71e-2821acc74857",
   "name": "CR\u0027s Video Vaults",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCa07aL-nJHQfLkTHAkH4SAw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-24T17:00:09Z",
       "duration": "00:01:32",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "FWnYaILJ9vE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=FWnYaILJ9vE"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2022-11-05T18:41:59Z",
       "duration": "00:01:39",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "IY51kCN6oTk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=IY51kCN6oTk"
       }
     }

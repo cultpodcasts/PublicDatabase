@@ -1,8 +1,6 @@
 {
   "id": "6eaf4d04-2105-4f6f-bc5b-0c8af6202bc6",
   "name": "MeidasTouch",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC9r9HYFxEQOBXSopFS61ZWg",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-07-17T01:30:04Z",
       "duration": "01:18:33",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "RXY268ocwp0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=RXY268ocwp0"
       }
     }

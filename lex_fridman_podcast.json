@@ -3,7 +3,6 @@
   "name": "Lex Fridman Podcast",
   "spotifyId": "2MAi0BvDc6GTFvKFPXnkCL",
   "appleId": 1434243584,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "4e73efd7-c9e3-4377-8b50-90b0b099107b",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "0kLoK1vIf1BccLApOLYzCP",
       "appleId": 1000601586670,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0kLoK1vIf1BccLApOLYzCP",
-        "apple": "https://podcasts.apple.com/podcast/361-aaron-smith-levin-scientology/id1434243584?i=1000601586670",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/361-aaron-smith-levin-scientology/id1434243584?i=1000601586670"
       }
     }
   ]

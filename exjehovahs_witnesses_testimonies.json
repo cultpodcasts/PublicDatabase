@@ -1,8 +1,6 @@
 {
   "id": "fdfb7763-6df6-4d33-882a-400a259d717e",
   "name": "EX-Jehovah\u0027s Witnesses Testimonies",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCDBrln_PSljAl7f68k9NIug",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2019-02-28T01:57:54Z",
       "duration": "00:47:58",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "nU6-wo2MI3A",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=nU6-wo2MI3A"
       }
     }

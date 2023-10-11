@@ -1,9 +1,8 @@
 {
   "id": "c8311ab6-4bc0-4ba0-aa0d-9ab97bddb586",
   "name": "Straight Up And Vertical",
-  "spotifyId": null,
-  "appleId": null,
   "youTubeChannelId": "UCF326xyA0QHI7Z5xAwKQDJg",
+  "youTubePlaylistId": "PLGrPM1Pg2h72Q0pX9Ywa9_nYr9MRBCX07",
   "episodes": [
     {
       "id": "bbb43c63-0e3f-44a0-acd3-51956c0e50eb",
@@ -12,13 +11,9 @@
       "release": "2023-10-09T16:49:32Z",
       "duration": "00:27:16",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ZdTx48ufrV0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ZdTx48ufrV0"
       }
     },
@@ -29,13 +24,9 @@
       "release": "2023-10-02T14:42:03Z",
       "duration": "00:29:42",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "dqKJywbB5NU",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=dqKJywbB5NU"
       }
     },
@@ -46,13 +37,9 @@
       "release": "2023-09-25T16:49:22Z",
       "duration": "00:32:59",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "irO5GC7EMTU",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=irO5GC7EMTU"
       }
     },
@@ -63,13 +50,9 @@
       "release": "2023-09-18T17:45:08Z",
       "duration": "00:33:29",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "BeMLtq71o9U",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=BeMLtq71o9U"
       }
     },
@@ -80,13 +63,9 @@
       "release": "2023-09-11T17:43:06Z",
       "duration": "00:35:38",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "mkfYlfC5xtg",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=mkfYlfC5xtg"
       }
     },
@@ -97,13 +76,9 @@
       "release": "2023-09-04T18:05:58Z",
       "duration": "00:35:20",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "xCcPgdZIrcM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=xCcPgdZIrcM"
       }
     },
@@ -114,13 +89,9 @@
       "release": "2023-08-28T17:39:11Z",
       "duration": "00:34:06",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "RhLFKTkSksY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=RhLFKTkSksY"
       }
     },
@@ -131,13 +102,9 @@
       "release": "2023-08-21T16:56:54Z",
       "duration": "00:19:42",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "NV7V-JsQxeQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=NV7V-JsQxeQ"
       }
     },
@@ -148,13 +115,9 @@
       "release": "2023-08-14T14:51:53Z",
       "duration": "00:27:25",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "5tt7PW0XZUE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=5tt7PW0XZUE"
       }
     },
@@ -165,13 +128,9 @@
       "release": "2023-08-07T17:43:45Z",
       "duration": "00:35:20",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "xQkeAuLPFRk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=xQkeAuLPFRk"
       }
     },
@@ -182,13 +141,9 @@
       "release": "2023-07-31T18:03:02Z",
       "duration": "00:30:58",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ti-Qh8Ko0_E",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ti-Qh8Ko0_E"
       }
     },
@@ -199,13 +154,9 @@
       "release": "2023-07-24T17:14:13Z",
       "duration": "00:25:30",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "_r2j--CwgHk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=_r2j--CwgHk"
       }
     },
@@ -216,13 +167,9 @@
       "release": "2023-07-17T17:22:39Z",
       "duration": "00:29:04",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "tuVZnlineHY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=tuVZnlineHY"
       }
     },
@@ -233,13 +180,9 @@
       "release": "2023-07-10T17:19:13Z",
       "duration": "00:23:09",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "5aCMuRIfIZc",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=5aCMuRIfIZc"
       }
     },
@@ -250,13 +193,9 @@
       "release": "2023-07-03T17:04:52Z",
       "duration": "00:28:32",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "q_fOFt4nHJ4",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=q_fOFt4nHJ4"
       }
     },
@@ -267,13 +206,9 @@
       "release": "2023-06-25T23:03:46Z",
       "duration": "00:31:38",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "r9wTP0JbHfg",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=r9wTP0JbHfg"
       }
     },
@@ -284,13 +219,9 @@
       "release": "2023-06-19T15:54:01Z",
       "duration": "00:31:53",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "YTGZ1ukIamo",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=YTGZ1ukIamo"
       }
     },
@@ -301,13 +232,9 @@
       "release": "2023-06-12T15:54:14Z",
       "duration": "00:35:09",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "82yJW20PkcE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=82yJW20PkcE"
       }
     },
@@ -318,13 +245,9 @@
       "release": "2023-06-05T16:38:58Z",
       "duration": "00:34:32",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-r3wCVCOi00",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-r3wCVCOi00"
       }
     },
@@ -335,13 +258,9 @@
       "release": "2023-05-29T15:14:09Z",
       "duration": "00:23:24",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "JW6e_vgHKlY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=JW6e_vgHKlY"
       }
     },
@@ -352,13 +271,9 @@
       "release": "2023-05-22T16:31:39Z",
       "duration": "00:30:26",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "1eVwkT0Gff0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=1eVwkT0Gff0"
       }
     },
@@ -369,13 +284,9 @@
       "release": "2023-05-15T16:52:05Z",
       "duration": "00:35:02",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ERPh9YJDJpQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ERPh9YJDJpQ"
       }
     },
@@ -386,13 +297,9 @@
       "release": "2023-05-08T17:56:39Z",
       "duration": "00:32:17",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "0S-2uSNpqPs",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=0S-2uSNpqPs"
       }
     },
@@ -403,13 +310,9 @@
       "release": "2023-05-01T16:46:37Z",
       "duration": "00:37:27",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "9SjEEMlQvyw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=9SjEEMlQvyw"
       }
     },
@@ -420,13 +323,9 @@
       "release": "2023-04-24T17:21:24Z",
       "duration": "00:28:56",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "mAMXKZN_6YA",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=mAMXKZN_6YA"
       }
     },
@@ -437,13 +336,9 @@
       "release": "2023-04-17T23:44:56Z",
       "duration": "00:15:45",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ThzWYXVipGk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ThzWYXVipGk"
       }
     },
@@ -454,13 +349,9 @@
       "release": "2023-04-10T16:28:15Z",
       "duration": "00:26:03",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "5LZnKTN9pCo",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=5LZnKTN9pCo"
       }
     },
@@ -471,13 +362,9 @@
       "release": "2023-04-03T15:59:20Z",
       "duration": "00:44:20",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "l9x6mzPqfK0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=l9x6mzPqfK0"
       }
     },
@@ -488,13 +375,9 @@
       "release": "2023-03-27T16:36:52Z",
       "duration": "00:36:28",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "bzmN7JIj3jw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=bzmN7JIj3jw"
       }
     },
@@ -505,13 +388,9 @@
       "release": "2023-03-20T16:43:24Z",
       "duration": "00:29:41",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "7ZfTkt2wt8c",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=7ZfTkt2wt8c"
       }
     },
@@ -522,13 +401,9 @@
       "release": "2023-03-13T17:45:19Z",
       "duration": "00:38:02",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "u8jd5vtvAAg",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=u8jd5vtvAAg"
       }
     }

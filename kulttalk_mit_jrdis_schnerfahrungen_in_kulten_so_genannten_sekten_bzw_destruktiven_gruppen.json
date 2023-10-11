@@ -3,7 +3,6 @@
   "name": "KULTTALK mit J\u00F6rdis Sch\u00F6n  (Erfahrungen in Kulten, so genannten Sekten bzw. destruktiven Gruppen)",
   "spotifyId": "55VGFW8l4fNt0RaJBJD2Bd",
   "appleId": 1579185816,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "83698a12-063a-4abc-9151-a5d656cc8790",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "22meflK5hlHDH8xSv6U5si",
       "appleId": 1000614900434,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/22meflK5hlHDH8xSv6U5si",
-        "apple": "https://podcasts.apple.com/podcast/3-alexandra-stein-enov-its-not-just-a-quirky-little/id1579185816?i=1000614900434",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/3-alexandra-stein-enov-its-not-just-a-quirky-little/id1579185816?i=1000614900434"
       }
     }
   ]

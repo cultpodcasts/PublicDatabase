@@ -3,7 +3,6 @@
   "name": "The Southern Star In The News Podcast",
   "spotifyId": "5QfR7KdlKwPYF872DxoX9q",
   "appleId": 1494107235,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "01d34bcb-37f5-46ab-8d29-76ef0d799d5e",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "5cQNownZoo6w18Erl1zKnB",
       "appleId": 1000594866567,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5cQNownZoo6w18Erl1zKnB",
-        "apple": "https://podcasts.apple.com/podcast/the-holocaust-deniers-on-our-doorstep/id1494107235?i=1000594866567",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-holocaust-deniers-on-our-doorstep/id1494107235?i=1000594866567"
       }
     }
   ]

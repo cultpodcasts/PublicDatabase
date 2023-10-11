@@ -1,8 +1,6 @@
 {
   "id": "ff376457-529b-4edf-aa5b-7308fd220408",
   "name": "The Recovering Hunbot",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCX8b5D9_f7vMHG1paZ74psA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-08-27T21:23:41Z",
       "duration": "02:02:52",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ZM4LgOUn11Y",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ZM4LgOUn11Y"
       }
     }

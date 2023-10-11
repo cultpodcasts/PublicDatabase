@@ -1,8 +1,6 @@
 {
   "id": "d8478f54-21a0-40e3-be48-d43b8756c200",
   "name": "Lauren Marie",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCblL6ggwzxiv5c4H2iWccxw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-03-16T11:12:24Z",
       "duration": "00:18:33",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "HeRhFCOc10U",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=HeRhFCOc10U"
       }
     }

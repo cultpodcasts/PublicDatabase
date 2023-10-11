@@ -1,8 +1,6 @@
 {
   "id": "0df71ecc-4267-4114-8e65-5339ab5d6bf4",
   "name": "BBC Reel",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCfYW5GXBXueSO5p9bxD45qg",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-04-27T14:58:53Z",
       "duration": "00:10:46",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "psXook7FyVQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=psXook7FyVQ"
       }
     }

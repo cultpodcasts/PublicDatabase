@@ -1,8 +1,6 @@
 {
   "id": "f5beb66b-b93c-4ff1-b02e-934d60f9bbb4",
   "name": "Don Smath",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCn8vrbNmWiJ-I04-mf4NoJQ",
   "episodes": [
     {
@@ -12,8 +10,6 @@
       "release": "2002-05-23T20:00:00Z",
       "duration": "00:51:43",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "56qP7EBZMrw",
       "subjects": [
         "Dr. Tony Quinn",
@@ -26,8 +22,6 @@
         "Marcus Fearon"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=56qP7EBZMrw"
       }
     }

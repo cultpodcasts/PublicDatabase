@@ -1,8 +1,6 @@
 {
   "id": "5c61ba9f-e014-46dd-a20c-c80e16e0400e",
   "name": "The AUXORO Podcast",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC_ZiUv9V72nv_IjeGgbbg6g",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-02-05T15:54:54Z",
       "duration": "02:47:54",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "V61YUBhvh3M",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=V61YUBhvh3M"
       }
     }

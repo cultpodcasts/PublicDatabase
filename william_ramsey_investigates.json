@@ -3,7 +3,6 @@
   "name": "William Ramsey Investigates",
   "spotifyId": "6LLqKSobRAK9CdOoxO5m8g",
   "appleId": 1388815042,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "22743c24-2e99-4a87-b5cd-519f4efe49e7",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "7bUc7QxS6ogp7TmO0tJCPf",
       "appleId": 1000558299417,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7bUc7QxS6ogp7TmO0tJCPf",
-        "apple": "https://podcasts.apple.com/podcast/roberta-glass-of-the-true-crime-report-discusses/id1388815042?i=1000558299417",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/roberta-glass-of-the-true-crime-report-discusses/id1388815042?i=1000558299417"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "0O5fujiQxxWPX8ovCVvDXj",
       "appleId": 1000561076166,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0O5fujiQxxWPX8ovCVvDXj",
-        "apple": "https://podcasts.apple.com/podcast/roberta-glass-of-the-true-crime-report-on-nxivm/id1388815042?i=1000561076166",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/roberta-glass-of-the-true-crime-report-on-nxivm/id1388815042?i=1000561076166"
       }
     }
   ]

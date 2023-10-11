@@ -1,8 +1,6 @@
 {
   "id": "cc7b7d80-066c-47db-86d2-3d7b1aa75104",
   "name": "Syran Warner",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCrOYLMtOe1CExqwd_eHOg9Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-03-04T17:47:01Z",
       "duration": "00:29:59",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "57xSVk8BOxs",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=57xSVk8BOxs"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2022-03-19T19:53:53Z",
       "duration": "00:29:59",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ShIJujHmVCk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ShIJujHmVCk"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2022-06-11T19:52:52Z",
       "duration": "00:34:05",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "LWKFFFP1Xjg",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=LWKFFFP1Xjg"
       }
     },
@@ -63,30 +49,21 @@
       "release": "2022-05-17T22:25:17Z",
       "duration": "00:34:17",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "MNDICyDafTI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=MNDICyDafTI"
       }
     },
     {
       "id": "a5800077-3cc2-4a41-a17e-6f7b426591b7",
       "title": "Alexandra Stein Interview On Cults",
-      "description": "",
       "release": "2022-11-15T09:10:12Z",
       "duration": "00:37:40",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "o_yQXqj49hU",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=o_yQXqj49hU"
       }
     },
@@ -97,13 +74,9 @@
       "release": "2023-03-07T20:57:20Z",
       "duration": "00:09:53",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "NDWEACQiZik",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=NDWEACQiZik"
       }
     },
@@ -114,13 +87,9 @@
       "release": "2023-03-27T21:35:28Z",
       "duration": "00:36:12",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "8OyjN7HIGns",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=8OyjN7HIGns"
       }
     },
@@ -131,13 +100,9 @@
       "release": "2023-04-16T01:17:11Z",
       "duration": "00:21:36",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "26ozOHPADSw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=26ozOHPADSw"
       }
     },
@@ -148,13 +113,9 @@
       "release": "2023-08-18T05:34:03Z",
       "duration": "00:05:28",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "vJV4p8gjfN0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=vJV4p8gjfN0"
       }
     }

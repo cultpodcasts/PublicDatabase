@@ -1,8 +1,6 @@
 {
   "id": "677a56f3-336d-480a-902a-255466c9ad8f",
   "name": "AtheismWorked",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCu4bumnRX1e1_ILV5_nWI3Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2013-02-09T18:40:57Z",
       "duration": "00:49:11",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "D1fAeRXn6aM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=D1fAeRXn6aM"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "679aad76-4754-4845-8866-16a4066e768f",
   "name": "The Interfaith Center at Miami University",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC0pq08p9H2y0IrqtVyAUUWQ",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-10-06T12:08:00Z",
       "duration": "00:55:46",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "QaKHMvJheiY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=QaKHMvJheiY"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "0676714e-566f-419d-ac25-591ea038015b",
   "name": "Marilyn Honig- Coffee, Cults and Crafts ",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCWndyWsp3eZGJ42_hl4SnzQ",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-08-04T03:00:00Z",
       "duration": "00:50:36",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "56l0IWZU7Hg",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=56l0IWZU7Hg"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-08-29T06:07:49Z",
       "duration": "01:49:00",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "uFiIUKxPHpE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=uFiIUKxPHpE"
       }
     }

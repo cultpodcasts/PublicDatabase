@@ -3,7 +3,6 @@
   "name": "Generation Cult",
   "spotifyId": "1rP7SzbAYNJURd7QTq5UAa",
   "appleId": 1387341884,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "1a42a74c-e0b7-4693-9670-f02a20d6968c",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "30qoaiozlCCLIzaSDrUutH",
       "appleId": 1000626055311,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/30qoaiozlCCLIzaSDrUutH",
-        "apple": "https://podcasts.apple.com/podcast/book-launch-edition-i-see-you-survivor-with-liz/id1387341884?i=1000626055311",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/book-launch-edition-i-see-you-survivor-with-liz/id1387341884?i=1000626055311"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "5OSoc9qTxIwhis4vIL8HaN",
       "appleId": 1000608921498,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5OSoc9qTxIwhis4vIL8HaN",
-        "apple": "https://podcasts.apple.com/podcast/tween-marriage-and-the-culture-of-polygamy-with-tamara/id1387341884?i=1000608921498",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/tween-marriage-and-the-culture-of-polygamy-with-tamara/id1387341884?i=1000608921498"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": false,
       "spotifyId": "6IPXEg2FBVxJT3z49AAfAP",
       "appleId": 1000606730737,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6IPXEg2FBVxJT3z49AAfAP",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-declared-evil-with-rhonda/id1387341884?i=1000606730737",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-13-declared-evil-with-rhonda/id1387341884?i=1000606730737"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "3HaHwwFUfo0ybYtu3fdYAY",
       "appleId": 1000605677921,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3HaHwwFUfo0ybYtu3fdYAY",
-        "apple": "https://podcasts.apple.com/podcast/ep-12-searching-for-healthy-community-with-sarah/id1387341884?i=1000605677921",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-12-searching-for-healthy-community-with-sarah/id1387341884?i=1000605677921"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "2MIpFf1Kr5jM1LfVr7xzZS",
       "appleId": 1000603568890,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2MIpFf1Kr5jM1LfVr7xzZS",
-        "apple": "https://podcasts.apple.com/podcast/the-influence-of-faith-with-will/id1387341884?i=1000603568890",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-influence-of-faith-with-will/id1387341884?i=1000603568890"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "1Hsdt5WDTFqBkU6HAlgL1h",
       "appleId": 1000601428015,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Hsdt5WDTFqBkU6HAlgL1h",
-        "apple": "https://podcasts.apple.com/podcast/cults-and-courts-with-carol/id1387341884?i=1000601428015",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/cults-and-courts-with-carol/id1387341884?i=1000601428015"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": false,
       "spotifyId": "4P270kd2snxaMwWsb44DHs",
       "appleId": 1000600999473,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4P270kd2snxaMwWsb44DHs",
-        "apple": "https://podcasts.apple.com/podcast/bonus-talking-twelve-tribes-with-tim/id1387341884?i=1000600999473",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/bonus-talking-twelve-tribes-with-tim/id1387341884?i=1000600999473"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": true,
       "spotifyId": "3bp4jEpVPPkFv7cadt6C1X",
       "appleId": 1000599000088,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bp4jEpVPPkFv7cadt6C1X",
-        "apple": "https://podcasts.apple.com/podcast/finding-freedom-from-the-twelve-tribes-with-suvav/id1387341884?i=1000599000088",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/finding-freedom-from-the-twelve-tribes-with-suvav/id1387341884?i=1000599000088"
       }
     },
     {
@@ -150,12 +133,10 @@
       "explicit": false,
       "spotifyId": "3fFSA3Tz65Kxgv8K4zk9C2",
       "appleId": 1000596886019,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3fFSA3Tz65Kxgv8K4zk9C2",
-        "apple": "https://podcasts.apple.com/podcast/end-times-and-conspiracy-theories-with-emily/id1387341884?i=1000596886019",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/end-times-and-conspiracy-theories-with-emily/id1387341884?i=1000596886019"
       }
     },
     {
@@ -167,12 +148,10 @@
       "explicit": false,
       "spotifyId": "4e96KPwlYs4mRRutfXN0IY",
       "appleId": 1000594203717,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4e96KPwlYs4mRRutfXN0IY",
-        "apple": "https://podcasts.apple.com/podcast/life-after-mormon-and-trauma-recovery-with-jolyn/id1387341884?i=1000594203717",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/life-after-mormon-and-trauma-recovery-with-jolyn/id1387341884?i=1000594203717"
       }
     },
     {
@@ -184,12 +163,10 @@
       "explicit": true,
       "spotifyId": "66D729gGdecKdZdoxbUel6",
       "appleId": 1000590365877,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66D729gGdecKdZdoxbUel6",
-        "apple": "https://podcasts.apple.com/podcast/the-cog-and-the-media-part-ii-with-amy/id1387341884?i=1000590365877",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cog-and-the-media-part-ii-with-amy/id1387341884?i=1000590365877"
       }
     },
     {
@@ -201,12 +178,10 @@
       "explicit": true,
       "spotifyId": "7rOokxuB9L8SAGbDoiWZvJ",
       "appleId": 1000588447106,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7rOokxuB9L8SAGbDoiWZvJ",
-        "apple": "https://podcasts.apple.com/podcast/the-cog-and-the-media-part-i-with-christina/id1387341884?i=1000588447106",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cog-and-the-media-part-i-with-christina/id1387341884?i=1000588447106"
       }
     },
     {
@@ -218,12 +193,10 @@
       "explicit": false,
       "spotifyId": "2Z8u0F0qMZrC4WoEeFVc4E",
       "appleId": 1000587467181,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Z8u0F0qMZrC4WoEeFVc4E",
-        "apple": "https://podcasts.apple.com/podcast/ep-4-scientology-confessionals-with-chris/id1387341884?i=1000587467181",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-4-scientology-confessionals-with-chris/id1387341884?i=1000587467181"
       }
     },
     {
@@ -235,12 +208,10 @@
       "explicit": false,
       "spotifyId": "25EXoQV30RLhT736pa6dgk",
       "appleId": 1000585857313,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/25EXoQV30RLhT736pa6dgk",
-        "apple": "https://podcasts.apple.com/podcast/ep-3-weight-loss-coercive-control-with-megan/id1387341884?i=1000585857313",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-3-weight-loss-coercive-control-with-megan/id1387341884?i=1000585857313"
       }
     },
     {
@@ -252,12 +223,10 @@
       "explicit": false,
       "spotifyId": "0gWBJiMi9H2Pa9ymt7c9Gj",
       "appleId": 1000585073801,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gWBJiMi9H2Pa9ymt7c9Gj",
-        "apple": "https://podcasts.apple.com/podcast/ep-2-denial-with-dhyana/id1387341884?i=1000585073801",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-2-denial-with-dhyana/id1387341884?i=1000585073801"
       }
     },
     {
@@ -269,12 +238,10 @@
       "explicit": false,
       "spotifyId": "4cFMzlk4zHfoFOxPqs5g88",
       "appleId": 1000584225418,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cFMzlk4zHfoFOxPqs5g88",
-        "apple": "https://podcasts.apple.com/podcast/ep-1-what-is-a-cult-with-ashlen/id1387341884?i=1000584225418",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-1-what-is-a-cult-with-ashlen/id1387341884?i=1000584225418"
       }
     },
     {
@@ -286,12 +253,10 @@
       "explicit": true,
       "spotifyId": "2c5DKpaZvuVW6RLfjecz6r",
       "appleId": 1000472280730,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2c5DKpaZvuVW6RLfjecz6r",
-        "apple": "https://podcasts.apple.com/podcast/you-dont-have-to-tell-them-anything/id1387341884?i=1000472280730",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/you-dont-have-to-tell-them-anything/id1387341884?i=1000472280730"
       }
     },
     {
@@ -303,12 +268,10 @@
       "explicit": false,
       "spotifyId": "4bKk5RZGLd3f1W60ngU4Mq",
       "appleId": 1000467197160,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4bKk5RZGLd3f1W60ngU4Mq",
-        "apple": "https://podcasts.apple.com/podcast/tm-redux/id1387341884?i=1000467197160",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/tm-redux/id1387341884?i=1000467197160"
       }
     },
     {
@@ -320,12 +283,10 @@
       "explicit": false,
       "spotifyId": "2RaiFmiLr8DKidghU7vLS8",
       "appleId": 1000465260653,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2RaiFmiLr8DKidghU7vLS8",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-pseudo-identity/id1387341884?i=1000465260653",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-pseudo-identity/id1387341884?i=1000465260653"
       }
     },
     {
@@ -337,12 +298,10 @@
       "explicit": true,
       "spotifyId": "51F1OeMu9tEFqSdLcDXkag",
       "appleId": 1000463535283,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/51F1OeMu9tEFqSdLcDXkag",
-        "apple": "https://podcasts.apple.com/podcast/devastating-disconnections/id1387341884?i=1000463535283",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/devastating-disconnections/id1387341884?i=1000463535283"
       }
     },
     {
@@ -354,12 +313,10 @@
       "explicit": true,
       "spotifyId": "7aZAzkxBx2M3NUV6TB4sJy",
       "appleId": 1000460582713,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7aZAzkxBx2M3NUV6TB4sJy",
-        "apple": "https://podcasts.apple.com/podcast/the-medium-and-the-time-machine/id1387341884?i=1000460582713",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-medium-and-the-time-machine/id1387341884?i=1000460582713"
       }
     },
     {
@@ -371,12 +328,10 @@
       "explicit": false,
       "spotifyId": "7ggwOt3FiM7H8h6QsylGac",
       "appleId": 1000457432744,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ggwOt3FiM7H8h6QsylGac",
-        "apple": "https://podcasts.apple.com/podcast/you-might-as-well-be-a-therapist/id1387341884?i=1000457432744",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/you-might-as-well-be-a-therapist/id1387341884?i=1000457432744"
       }
     },
     {
@@ -388,12 +343,10 @@
       "explicit": false,
       "spotifyId": "5NzjGS3cvKgR1P7nHYAALp",
       "appleId": 1000455682917,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5NzjGS3cvKgR1P7nHYAALp",
-        "apple": "https://podcasts.apple.com/podcast/fright-based-faith/id1387341884?i=1000455682917",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/fright-based-faith/id1387341884?i=1000455682917"
       }
     },
     {
@@ -405,12 +358,10 @@
       "explicit": false,
       "spotifyId": "5ayjKZAiAxxPeLafAYQaFG",
       "appleId": 1000453394887,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ayjKZAiAxxPeLafAYQaFG",
-        "apple": "https://podcasts.apple.com/podcast/lost-in-madison-square-garden/id1387341884?i=1000453394887",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/lost-in-madison-square-garden/id1387341884?i=1000453394887"
       }
     },
     {
@@ -422,12 +373,10 @@
       "explicit": false,
       "spotifyId": "0UJjv1EB8hlQlnTncNxXOn",
       "appleId": 1000451874672,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0UJjv1EB8hlQlnTncNxXOn",
-        "apple": "https://podcasts.apple.com/podcast/guns-guns-marriage/id1387341884?i=1000451874672",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/guns-guns-marriage/id1387341884?i=1000451874672"
       }
     },
     {
@@ -439,12 +388,10 @@
       "explicit": false,
       "spotifyId": "5Q1lSnV4AQN0JOGZnqG0hm",
       "appleId": 1000439187531,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Q1lSnV4AQN0JOGZnqG0hm",
-        "apple": "https://podcasts.apple.com/podcast/promo-generation-cult-preparing-for-season-2/id1387341884?i=1000439187531",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/promo-generation-cult-preparing-for-season-2/id1387341884?i=1000439187531"
       }
     },
     {
@@ -456,12 +403,10 @@
       "explicit": false,
       "spotifyId": "1rmxLXfCs40JecLfz4rEuU",
       "appleId": 1000423515165,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1rmxLXfCs40JecLfz4rEuU",
-        "apple": "https://podcasts.apple.com/podcast/sandy-footprints/id1387341884?i=1000423515165",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/sandy-footprints/id1387341884?i=1000423515165"
       }
     },
     {
@@ -473,12 +418,10 @@
       "explicit": false,
       "spotifyId": "3tnNNZ1vmL09U7yFyepQxD",
       "appleId": 1000422629634,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3tnNNZ1vmL09U7yFyepQxD",
-        "apple": "https://podcasts.apple.com/podcast/escaping-utopia-a-conversation-with-janja-lalich/id1387341884?i=1000422629634",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/escaping-utopia-a-conversation-with-janja-lalich/id1387341884?i=1000422629634"
       }
     },
     {
@@ -490,12 +433,10 @@
       "explicit": false,
       "spotifyId": "2AN9eBziQV0LFoMKprXZjv",
       "appleId": 1000422158663,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AN9eBziQV0LFoMKprXZjv",
-        "apple": "https://podcasts.apple.com/podcast/the-age-of-enlightenment/id1387341884?i=1000422158663",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-age-of-enlightenment/id1387341884?i=1000422158663"
       }
     },
     {
@@ -507,12 +448,10 @@
       "explicit": false,
       "spotifyId": "7MBucYoalI8AOFnLp8wrxP",
       "appleId": 1000419725209,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7MBucYoalI8AOFnLp8wrxP",
-        "apple": "https://podcasts.apple.com/podcast/gods-chosen-people/id1387341884?i=1000419725209",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/gods-chosen-people/id1387341884?i=1000419725209"
       }
     },
     {
@@ -524,12 +463,10 @@
       "explicit": false,
       "spotifyId": "4u54vUIJiGDdBqRwL54J8u",
       "appleId": 1000418828401,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4u54vUIJiGDdBqRwL54J8u",
-        "apple": "https://podcasts.apple.com/podcast/indoctrination-interview-w-dhyana-levey/id1387341884?i=1000418828401",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/indoctrination-interview-w-dhyana-levey/id1387341884?i=1000418828401"
       }
     },
     {
@@ -541,12 +478,10 @@
       "explicit": false,
       "spotifyId": "151rkg3nC4oF6ccBJ3r3ep",
       "appleId": 1000418159927,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/151rkg3nC4oF6ccBJ3r3ep",
-        "apple": "https://podcasts.apple.com/podcast/lets-call-an-expert/id1387341884?i=1000418159927",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/lets-call-an-expert/id1387341884?i=1000418159927"
       }
     },
     {
@@ -558,12 +493,10 @@
       "explicit": false,
       "spotifyId": "2dTTNqCP5QkwLPoZQ30Wkl",
       "appleId": 1000417130705,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2dTTNqCP5QkwLPoZQ30Wkl",
-        "apple": "https://podcasts.apple.com/podcast/the-perpetual-armageddon/id1387341884?i=1000417130705",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-perpetual-armageddon/id1387341884?i=1000417130705"
       }
     },
     {
@@ -575,12 +508,10 @@
       "explicit": true,
       "spotifyId": "0cBrz514y7JE22odybgqtu",
       "appleId": 1000416253930,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cBrz514y7JE22odybgqtu",
-        "apple": "https://podcasts.apple.com/podcast/thetans-anonymous/id1387341884?i=1000416253930",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/thetans-anonymous/id1387341884?i=1000416253930"
       }
     },
     {
@@ -592,12 +523,10 @@
       "explicit": false,
       "spotifyId": "6lQmUmtlJxiuzz5g8eDY4I",
       "appleId": 1000415282288,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6lQmUmtlJxiuzz5g8eDY4I",
-        "apple": "https://podcasts.apple.com/podcast/a-recovering-monk/id1387341884?i=1000415282288",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-recovering-monk/id1387341884?i=1000415282288"
       }
     },
     {
@@ -609,12 +538,10 @@
       "explicit": false,
       "spotifyId": "1Up0IIEKXiojpuVr6GrPL7",
       "appleId": 1000414239880,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Up0IIEKXiojpuVr6GrPL7",
-        "apple": "https://podcasts.apple.com/podcast/the-real-guru/id1387341884?i=1000414239880",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-real-guru/id1387341884?i=1000414239880"
       }
     },
     {
@@ -626,12 +553,10 @@
       "explicit": false,
       "spotifyId": "6dJUWnb1a96pOIOl4UwZzK",
       "appleId": 1000412688664,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6dJUWnb1a96pOIOl4UwZzK",
-        "apple": "https://podcasts.apple.com/podcast/promo-generation-cult-launches-june-20/id1387341884?i=1000412688664",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/promo-generation-cult-launches-june-20/id1387341884?i=1000412688664"
       }
     },
     {
@@ -643,12 +568,10 @@
       "explicit": false,
       "spotifyId": "2qAfWHma0eRnKI3IaiQZsE",
       "appleId": 1000411951260,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2qAfWHma0eRnKI3IaiQZsE",
-        "apple": "https://podcasts.apple.com/podcast/preview-featuring-full-song-the-road-the-chaw/id1387341884?i=1000411951260",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/preview-featuring-full-song-the-road-the-chaw/id1387341884?i=1000411951260"
       }
     }
   ]

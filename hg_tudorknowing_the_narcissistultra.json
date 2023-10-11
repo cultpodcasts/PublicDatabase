@@ -1,8 +1,6 @@
 {
   "id": "c6916613-7d7b-4a2e-9609-6d6dd12695fe",
   "name": "HG Tudor - Knowing The Narcissist : Ultra",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC5zIX8qBAl2CUIyF9AeTjaA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-10-10T19:00:15Z",
       "duration": "00:19:48",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "YpLxwPoI48c",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=YpLxwPoI48c"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2020-11-11T18:49:59Z",
       "duration": "00:47:41",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "9KuF8Nx7LpQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=9KuF8Nx7LpQ"
       }
     }

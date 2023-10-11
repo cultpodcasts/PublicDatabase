@@ -12,13 +12,9 @@
       "release": "2023-06-04T00:00:00",
       "duration": "01:13:02.8760000",
       "explicit": false,
-      "spotifyId": null,
-      "appleId": null,
       "youTubeId": "jfrqyV98Ijw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=jfrqyV98Ijw"
       }
     }

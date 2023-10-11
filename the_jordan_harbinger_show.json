@@ -3,7 +3,6 @@
   "name": "The Jordan Harbinger Show",
   "spotifyId": "5RVoEOIACQbBDZnGBJ7Ec2",
   "appleId": 1344999619,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "e92ebd53-5023-48a8-bf8a-d20010256135",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "7CmAGCrMAAfnwrmIhOwffg",
       "appleId": 1000608334904,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CmAGCrMAAfnwrmIhOwffg",
-        "apple": "https://podcasts.apple.com/podcast/823-daniella-mestyanek-young-how-to-disengage-from/id1344999619?i=1000608334904",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/823-daniella-mestyanek-young-how-to-disengage-from/id1344999619?i=1000608334904"
       }
     }
   ]

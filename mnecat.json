@@ -1,8 +1,6 @@
 {
   "id": "c40a6166-401d-486c-a66c-50bd45c55f4d",
   "name": "m\u00FCnecat",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCqNpjt_UcMPgm_9gphZgHYA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-02-26T15:00:19Z",
       "duration": "01:31:06",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "sUP86fStX6Q",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=sUP86fStX6Q"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2021-04-04T14:00:04Z",
       "duration": "01:36:04",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "J1zm9GU70Fo",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=J1zm9GU70Fo"
       }
     }

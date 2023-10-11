@@ -3,7 +3,6 @@
   "name": "Still Learning w/India Oxenberg",
   "spotifyId": "4Zp7TT9IM8Z99JmEZQrLwO",
   "appleId": 1703268205,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "33ce555d-f0c7-40e6-aab0-da12e26debca",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "3MJy8RTov688xqyNmw3RGd",
       "appleId": 1000629606852,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3MJy8RTov688xqyNmw3RGd",
-        "apple": "https://podcasts.apple.com/podcast/jason-suran-credit-the-con/id1703268205?i=1000629606852",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/jason-suran-credit-the-con/id1703268205?i=1000629606852"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": true,
       "spotifyId": "31j3rYNqlhG3LccsB0kySI",
       "appleId": 1000628541173,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31j3rYNqlhG3LccsB0kySI",
-        "apple": "https://podcasts.apple.com/podcast/sochil-martin-survivor-and-whistleblower/id1703268205?i=1000628541173",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/sochil-martin-survivor-and-whistleblower/id1703268205?i=1000628541173"
       }
     },
     {
@@ -48,14 +43,12 @@
       "explicit": true,
       "spotifyId": "4mzLPydUZQQtk5mUaReGWF",
       "appleId": 1000624895764,
-      "youTubeId": null,
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mzLPydUZQQtk5mUaReGWF",
-        "apple": "https://podcasts.apple.com/podcast/diane-benscoter-cult-survivor-turned-deprogrammer/id1703268205?i=1000624895764",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/diane-benscoter-cult-survivor-turned-deprogrammer/id1703268205?i=1000624895764"
       }
     }
   ]

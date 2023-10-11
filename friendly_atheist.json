@@ -1,8 +1,6 @@
 {
   "id": "a323c574-7302-4e7f-b02f-080bdfcfb6a0",
   "name": "Friendly Atheist",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCsgjnUBCB9xbUXQfMg0pd8A",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-21T07:21:28Z",
       "duration": "01:03:02",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "UPMgpT1rM3E",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=UPMgpT1rM3E"
       }
     }

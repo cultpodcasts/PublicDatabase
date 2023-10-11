@@ -1,8 +1,6 @@
 {
   "id": "c0013fdf-8c93-4a12-affc-bbbba27a1fc6",
   "name": "ExJW Fifth",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCKL75mqydHevP6iYxXtR5Vg",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2019-05-02T02:55:42Z",
       "duration": "00:55:24",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "hACsaG0rXd8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=hACsaG0rXd8"
       }
     }

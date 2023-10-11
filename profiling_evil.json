@@ -1,8 +1,6 @@
 {
   "id": "f768718d-9a70-454a-bf03-6c8b0c07bf08",
   "name": "Profiling Evil",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCVxvknxY87GXuteBkjkaj8A",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-02-09T06:40:23Z",
       "duration": "01:40:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "EFSaP-s3x8I",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=EFSaP-s3x8I"
       }
     }

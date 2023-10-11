@@ -1,8 +1,6 @@
 {
   "id": "559d675a-8653-4d03-8c49-453fd76b2012",
   "name": "Late Boomers",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCqZPdG0YBNmQpq32Sfp9sGg",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-08-09T13:00:47Z",
       "duration": "00:40:51",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "wV4qQbBcWKY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=wV4qQbBcWKY"
       }
     }

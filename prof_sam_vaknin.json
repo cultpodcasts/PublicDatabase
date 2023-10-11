@@ -1,8 +1,6 @@
 {
   "id": "a0542911-0e48-42f6-87f4-3dd004c89272",
   "name": "Prof. Sam Vaknin",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCLadFapyecCYAeuTqc12avA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-28T12:26:10Z",
       "duration": "00:58:13",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "_2SAVMS6xno",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=_2SAVMS6xno"
       }
     }

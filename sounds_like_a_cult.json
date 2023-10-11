@@ -3,7 +3,6 @@
   "name": "Sounds Like A Cult",
   "spotifyId": "0podj5AKLOFvJAS1raltmw",
   "appleId": 1566917047,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "793bff12-6f15-4f07-985a-176d55490f27",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "15s5BbDxlWFxgBjZtj3aFj",
       "appleId": 1000627580495,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15s5BbDxlWFxgBjZtj3aFj",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-life-coaches/id1566917047?i=1000627580495",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-life-coaches/id1566917047?i=1000627580495"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "7vlkdhlSwyI9UmiEc6mkw2",
       "appleId": 1000624498326,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vlkdhlSwyI9UmiEc6mkw2",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-spiritual-scammers-feat-listener-stories/id1566917047?i=1000624498326",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-spiritual-scammers-feat-listener-stories/id1566917047?i=1000624498326"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": false,
       "spotifyId": "6oxG2YXNd4kN8Wm4zvAAmz",
       "appleId": 1000599536576,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6oxG2YXNd4kN8Wm4zvAAmz",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-self-help/id1566917047?i=1000599536576",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-self-help/id1566917047?i=1000599536576"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "7diqjzjux2mq6b2XATxUd4",
       "appleId": 1000567970355,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7diqjzjux2mq6b2XATxUd4",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-teal-swan/id1566917047?i=1000567970355",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-teal-swan/id1566917047?i=1000567970355"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "7aMvWxAOR8ZsJuDOD0JJcN",
       "appleId": 1000558019889,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7aMvWxAOR8ZsJuDOD0JJcN",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-essential-oils/id1566917047?i=1000558019889",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-essential-oils/id1566917047?i=1000558019889"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "5HWB1Sx17BWGRoObd7J0nD",
       "appleId": 1000539054927,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5HWB1Sx17BWGRoObd7J0nD",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-lularoe/id1566917047?i=1000539054927",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-lularoe/id1566917047?i=1000539054927"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": false,
       "spotifyId": "3AZBXG7ySoUtvksem7bc0S",
       "appleId": 1000532265843,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3AZBXG7ySoUtvksem7bc0S",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-tony-robbins/id1566917047?i=1000532265843",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-tony-robbins/id1566917047?i=1000532265843"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": false,
       "spotifyId": "4gMXQCoRiafE7Q6FeLxGMQ",
       "appleId": 1000528729017,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4gMXQCoRiafE7Q6FeLxGMQ",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-multi-level-marketing/id1566917047?i=1000528729017",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-multi-level-marketing/id1566917047?i=1000528729017"
       }
     }
   ]

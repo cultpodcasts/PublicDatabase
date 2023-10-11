@@ -1,8 +1,6 @@
 {
   "id": "6416afb6-3b2f-4c66-a1f2-99d1f593d133",
   "name": "Isles of Mistery",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCFk6jxVFJc4OHe3t8NgNh2w",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-06-12T16:00:15Z",
       "duration": "00:25:12",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "PPmNRPomr6Q",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=PPmNRPomr6Q"
       }
     }

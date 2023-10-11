@@ -3,7 +3,6 @@
   "name": "Guru: The Dark Side of Enlightenment",
   "spotifyId": "0QBYq2PoV5VtUbCkV8t6uV",
   "appleId": 1518839824,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "205d7d16-b936-4dca-bd4f-1d3c5d7e05ef",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "3uIYZFvWEvqIbGCS4Oz6mY",
       "appleId": 1000629876826,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uIYZFvWEvqIbGCS4Oz6mY",
-        "apple": "https://podcasts.apple.com/podcast/where-to-find-episodes-2-6-of-guru/id1518839824?i=1000629876826",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/where-to-find-episodes-2-6-of-guru/id1518839824?i=1000629876826"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": true,
       "spotifyId": "0zWtQSCwrssITWB0gwXxjY",
       "appleId": 1000480903618,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zWtQSCwrssITWB0gwXxjY",
-        "apple": "https://podcasts.apple.com/podcast/spiritual-warriors/id1518839824?i=1000480903618",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/spiritual-warriors/id1518839824?i=1000480903618"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": true,
       "spotifyId": "2rXa45jhAiqmQu0bMclvj9",
       "appleId": 1000478197191,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rXa45jhAiqmQu0bMclvj9",
-        "apple": "https://podcasts.apple.com/podcast/introducing-guru/id1518839824?i=1000478197191",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/introducing-guru/id1518839824?i=1000478197191"
       }
     }
   ]

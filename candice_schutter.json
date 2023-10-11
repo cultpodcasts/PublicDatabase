@@ -1,8 +1,6 @@
 {
   "id": "df4f9ba2-3963-459e-9496-3df8d0ec9a1c",
   "name": "Candice Schutter",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCd63KIKhdTNbG1k8Vc3imsQ",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-09-21T12:00:20Z",
       "duration": "01:34:02",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Z3ItfX0Lkng",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Z3ItfX0Lkng"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2022-09-21T01:00:12Z",
       "duration": "00:03:22",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "skDe6pn6wzw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=skDe6pn6wzw"
       }
     }

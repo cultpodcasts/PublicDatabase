@@ -1,8 +1,6 @@
 {
   "id": "64ec4df9-58eb-4f9f-9048-9b14ab545467",
   "name": "Mormon Book Reviews",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCNUSy8gSiEizL5U2npMVUhQ",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-08-31T22:00:22Z",
       "duration": "01:05:36",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "KbviVayTos4",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=KbviVayTos4"
       }
     }

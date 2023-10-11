@@ -3,7 +3,6 @@
   "name": "What Came Next",
   "spotifyId": "3amRVnSbdrioaBoaHcNRiq",
   "appleId": 1674051643,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "ddfeacaa-c58f-4b7d-9a5a-e68065acb70f",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "1810I30LJmieeSpUsiSzC2",
       "appleId": 1000608916504,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1810I30LJmieeSpUsiSzC2",
-        "apple": "https://podcasts.apple.com/podcast/sarah-edmondson-maxs-the-vow-i-got-out/id1674051643?i=1000608916504",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/sarah-edmondson-maxs-the-vow-i-got-out/id1674051643?i=1000608916504"
       }
     }
   ]

@@ -1,8 +1,6 @@
 {
   "id": "98ee2ae9-c34f-40be-8a60-b08e1455fe81",
   "name": "Potential Trouble Source",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCaY5_uAYgJhe4Q3ojy3qf-w",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-28T12:00:10Z",
       "duration": "01:13:31",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "CEloTcKVZP8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=CEloTcKVZP8"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-09-27T08:30:11Z",
       "duration": "00:18:55",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "3isMh9JBqrw",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=3isMh9JBqrw"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2023-09-24T21:00:11Z",
       "duration": "01:13:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "LRK4-7fv3bE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=LRK4-7fv3bE"
       }
     },
@@ -63,13 +49,9 @@
       "release": "2023-09-23T02:17:50Z",
       "duration": "01:04:22",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-abNL60FmsM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-abNL60FmsM"
       }
     }

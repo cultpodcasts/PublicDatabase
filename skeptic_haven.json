@@ -1,8 +1,6 @@
 {
   "id": "2d0300c7-c1bd-48f6-9cff-759461c102de",
   "name": "Skeptic Haven",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC_qyZ7H6h6rHajEO2L8Dt_Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-04-02T09:43:17Z",
       "duration": "01:01:34",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ahUESkF5GpA",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ahUESkF5GpA"
       }
     }

@@ -3,7 +3,6 @@
   "name": "The Plain People\u0027s Podcast",
   "spotifyId": "6ku9wOvcbvyGKsS6F2Jtxe",
   "appleId": 1440513300,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "e4f1855b-1ad7-4792-871e-2d34e76143e4",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "1ffIxRGDrU2T7f49OJhUn4",
       "appleId": 1000547835923,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ffIxRGDrU2T7f49OJhUn4",
-        "apple": "https://podcasts.apple.com/podcast/the-liberty-ridge-lawsuit/id1440513300?i=1000547835923",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-liberty-ridge-lawsuit/id1440513300?i=1000547835923"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": true,
       "spotifyId": "6yL9rO5ARGCayitxQbyFyM",
       "appleId": 1000524587093,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yL9rO5ARGCayitxQbyFyM",
-        "apple": "https://podcasts.apple.com/podcast/breaking-amish-with-dawn-martin/id1440513300?i=1000524587093",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/breaking-amish-with-dawn-martin/id1440513300?i=1000524587093"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": false,
       "spotifyId": "0oGinSYJ9LkqylPUMUZ4R4",
       "appleId": 1000523841508,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0oGinSYJ9LkqylPUMUZ4R4",
-        "apple": "https://podcasts.apple.com/podcast/behind-blue-curtains-with-lizzie-hershberger/id1440513300?i=1000523841508",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/behind-blue-curtains-with-lizzie-hershberger/id1440513300?i=1000523841508"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": true,
       "spotifyId": "4CQqdpqV671wp0uV24KjP7",
       "appleId": 1000522975404,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4CQqdpqV671wp0uV24KjP7",
-        "apple": "https://podcasts.apple.com/podcast/debs-story-pt-2/id1440513300?i=1000522975404",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/debs-story-pt-2/id1440513300?i=1000522975404"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": true,
       "spotifyId": "3ut2PF55WG0TUybCs2pTBZ",
       "appleId": 1000522087654,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ut2PF55WG0TUybCs2pTBZ",
-        "apple": "https://podcasts.apple.com/podcast/debs-story-part-1/id1440513300?i=1000522087654",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/debs-story-part-1/id1440513300?i=1000522087654"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": true,
       "spotifyId": "2ne3s4CY50k8aq0I53E3zj",
       "appleId": 1000521217003,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ne3s4CY50k8aq0I53E3zj",
-        "apple": "https://podcasts.apple.com/podcast/a-grooming-case-with-stephanie-krehbiel/id1440513300?i=1000521217003",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-grooming-case-with-stephanie-krehbiel/id1440513300?i=1000521217003"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": true,
       "spotifyId": "0hNOfigx4M0vSxVXr1Hiom",
       "appleId": 1000520057775,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0hNOfigx4M0vSxVXr1Hiom",
-        "apple": "https://podcasts.apple.com/podcast/i-was-never-a-good-girl-with-anna-mae/id1440513300?i=1000520057775",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/i-was-never-a-good-girl-with-anna-mae/id1440513300?i=1000520057775"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": true,
       "spotifyId": "7f1tAF0lI0F6DAR4uiUEyA",
       "appleId": 1000518738175,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7f1tAF0lI0F6DAR4uiUEyA",
-        "apple": "https://podcasts.apple.com/podcast/therapy-trauma-and-thriving-with-anna-mae-and-chris-hancock/id1440513300?i=1000518738175",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/therapy-trauma-and-thriving-with-anna-mae-and-chris-hancock/id1440513300?i=1000518738175"
       }
     },
     {
@@ -150,12 +133,10 @@
       "explicit": true,
       "spotifyId": "4ij1jdlhM0S4MLsPE4TyQN",
       "appleId": 1000517741192,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ij1jdlhM0S4MLsPE4TyQN",
-        "apple": "https://podcasts.apple.com/podcast/but-i-must-go-austins-story/id1440513300?i=1000517741192",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/but-i-must-go-austins-story/id1440513300?i=1000517741192"
       }
     },
     {
@@ -167,12 +148,10 @@
       "explicit": true,
       "spotifyId": "5vaSs47tVlwXvJXV1X9j3W",
       "appleId": 1000516871355,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5vaSs47tVlwXvJXV1X9j3W",
-        "apple": "https://podcasts.apple.com/podcast/gaslighter-gaslighter-send-audrey-on-over/id1440513300?i=1000516871355",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/gaslighter-gaslighter-send-audrey-on-over/id1440513300?i=1000516871355"
       }
     },
     {
@@ -184,12 +163,10 @@
       "explicit": true,
       "spotifyId": "5hMngXreX0evdmXVTOdbNX",
       "appleId": 1000515919542,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5hMngXreX0evdmXVTOdbNX",
-        "apple": "https://podcasts.apple.com/podcast/wife-swapping-a-marital-pastime-with-delite/id1440513300?i=1000515919542",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/wife-swapping-a-marital-pastime-with-delite/id1440513300?i=1000515919542"
       }
     },
     {
@@ -201,12 +178,10 @@
       "explicit": false,
       "spotifyId": "1s3Izk0cCYQVhatpKTy1bN",
       "appleId": 1000473045535,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1s3Izk0cCYQVhatpKTy1bN",
-        "apple": "https://podcasts.apple.com/podcast/meet-laura-pt-2/id1440513300?i=1000473045535",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-laura-pt-2/id1440513300?i=1000473045535"
       }
     },
     {
@@ -218,12 +193,10 @@
       "explicit": true,
       "spotifyId": "03kOReSwsGVb88thl19hki",
       "appleId": 1000472946089,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/03kOReSwsGVb88thl19hki",
-        "apple": "https://podcasts.apple.com/podcast/meet-laura-pt-1/id1440513300?i=1000472946089",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-laura-pt-1/id1440513300?i=1000472946089"
       }
     },
     {
@@ -235,12 +208,10 @@
       "explicit": true,
       "spotifyId": "4cLRzeM9z0pHkiovUmo0oa",
       "appleId": 1000471155276,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cLRzeM9z0pHkiovUmo0oa",
-        "apple": "https://podcasts.apple.com/podcast/meet-michelle-pt-2/id1440513300?i=1000471155276",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-michelle-pt-2/id1440513300?i=1000471155276"
       }
     },
     {
@@ -252,12 +223,10 @@
       "explicit": true,
       "spotifyId": "5dokPC0YhcpR8EJet9AIqZ",
       "appleId": 1000471155275,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5dokPC0YhcpR8EJet9AIqZ",
-        "apple": "https://podcasts.apple.com/podcast/meet-michelle-pt-1/id1440513300?i=1000471155275",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-michelle-pt-1/id1440513300?i=1000471155275"
       }
     },
     {
@@ -269,12 +238,10 @@
       "explicit": false,
       "spotifyId": "4C5dGlDozvrGcTBnw4olWp",
       "appleId": 1000467490167,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4C5dGlDozvrGcTBnw4olWp",
-        "apple": "https://podcasts.apple.com/podcast/meet-josh-pt-2/id1440513300?i=1000467490167",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-josh-pt-2/id1440513300?i=1000467490167"
       }
     },
     {
@@ -286,12 +253,10 @@
       "explicit": true,
       "spotifyId": "7tBhQ1sro2P9cEGbhS9bFb",
       "appleId": 1000467478587,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7tBhQ1sro2P9cEGbhS9bFb",
-        "apple": "https://podcasts.apple.com/podcast/meet-josh-pt-1/id1440513300?i=1000467478587",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-josh-pt-1/id1440513300?i=1000467478587"
       }
     },
     {
@@ -303,12 +268,10 @@
       "explicit": true,
       "spotifyId": "3tBIbk9whDeem8K2fsYTHG",
       "appleId": 1000466805414,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3tBIbk9whDeem8K2fsYTHG",
-        "apple": "https://podcasts.apple.com/podcast/meet-misty-pt-2/id1440513300?i=1000466805414",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-misty-pt-2/id1440513300?i=1000466805414"
       }
     },
     {
@@ -320,12 +283,10 @@
       "explicit": true,
       "spotifyId": "0AssYxEgKESQTKQkOssUwH",
       "appleId": 1000466776524,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0AssYxEgKESQTKQkOssUwH",
-        "apple": "https://podcasts.apple.com/podcast/meet-misty-pt-1/id1440513300?i=1000466776524",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-misty-pt-1/id1440513300?i=1000466776524"
       }
     },
     {
@@ -337,12 +298,10 @@
       "explicit": false,
       "spotifyId": "1yTMmppyL3T5KppzDWbUmT",
       "appleId": 1000466146747,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1yTMmppyL3T5KppzDWbUmT",
-        "apple": "https://podcasts.apple.com/podcast/meet-clara-and-jimmy-pt-2/id1440513300?i=1000466146747",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-clara-and-jimmy-pt-2/id1440513300?i=1000466146747"
       }
     },
     {
@@ -354,12 +313,10 @@
       "explicit": false,
       "spotifyId": "3UVDVVs8BekF0FbOEXpEKL",
       "appleId": 1000466146748,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3UVDVVs8BekF0FbOEXpEKL",
-        "apple": "https://podcasts.apple.com/podcast/meet-clara-and-jimmy/id1440513300?i=1000466146748",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-clara-and-jimmy/id1440513300?i=1000466146748"
       }
     },
     {
@@ -371,12 +328,10 @@
       "explicit": false,
       "spotifyId": "0NYUbFRlHEsKTpX5mXuKuk",
       "appleId": 1000456207341,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0NYUbFRlHEsKTpX5mXuKuk",
-        "apple": "https://podcasts.apple.com/podcast/meet-peter-pt-2/id1440513300?i=1000456207341",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-peter-pt-2/id1440513300?i=1000456207341"
       }
     },
     {
@@ -388,12 +343,10 @@
       "explicit": true,
       "spotifyId": "4vrionqV2qs4ycK4YDZ6Ch",
       "appleId": 1000456141907,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4vrionqV2qs4ycK4YDZ6Ch",
-        "apple": "https://podcasts.apple.com/podcast/meet-peter-pt-1/id1440513300?i=1000456141907",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-peter-pt-1/id1440513300?i=1000456141907"
       }
     },
     {
@@ -405,12 +358,10 @@
       "explicit": true,
       "spotifyId": "37wkEWj6Wao6QxYKwA7ktE",
       "appleId": 1000455780706,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37wkEWj6Wao6QxYKwA7ktE",
-        "apple": "https://podcasts.apple.com/podcast/meet-elam-pt-2/id1440513300?i=1000455780706",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-elam-pt-2/id1440513300?i=1000455780706"
       }
     },
     {
@@ -422,12 +373,10 @@
       "explicit": true,
       "spotifyId": "3hjprOjGugJ5Scmw3vNzvs",
       "appleId": 1000455318067,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3hjprOjGugJ5Scmw3vNzvs",
-        "apple": "https://podcasts.apple.com/podcast/meet-elam-pt-1/id1440513300?i=1000455318067",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-elam-pt-1/id1440513300?i=1000455318067"
       }
     },
     {
@@ -439,12 +388,10 @@
       "explicit": true,
       "spotifyId": "4M1XLiFYo83rSzbFalrA3l",
       "appleId": 1000454222817,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4M1XLiFYo83rSzbFalrA3l",
-        "apple": "https://podcasts.apple.com/podcast/meet-oriana/id1440513300?i=1000454222817",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-oriana/id1440513300?i=1000454222817"
       }
     },
     {
@@ -456,12 +403,10 @@
       "explicit": true,
       "spotifyId": "0KZm1ka3Jv9nMfirVurZC3",
       "appleId": 1000452959206,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0KZm1ka3Jv9nMfirVurZC3",
-        "apple": "https://podcasts.apple.com/podcast/meet-michele-pt-2/id1440513300?i=1000452959206",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-michele-pt-2/id1440513300?i=1000452959206"
       }
     },
     {
@@ -473,12 +418,10 @@
       "explicit": true,
       "spotifyId": "7oBoWmrg3a9XrRXMuke5du",
       "appleId": 1000452854145,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7oBoWmrg3a9XrRXMuke5du",
-        "apple": "https://podcasts.apple.com/podcast/meet-michele-pt-1/id1440513300?i=1000452854145",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-michele-pt-1/id1440513300?i=1000452854145"
       }
     },
     {
@@ -490,12 +433,10 @@
       "explicit": true,
       "spotifyId": "20ORXOo1kW4Ac3l1tfgOCZ",
       "appleId": 1000443950877,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/20ORXOo1kW4Ac3l1tfgOCZ",
-        "apple": "https://podcasts.apple.com/podcast/wisconsin-v-yoder-pt-2/id1440513300?i=1000443950877",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/wisconsin-v-yoder-pt-2/id1440513300?i=1000443950877"
       }
     },
     {
@@ -507,12 +448,10 @@
       "explicit": true,
       "spotifyId": "1PPiEEe1WZd34rBDh34cMb",
       "appleId": 1000443950878,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1PPiEEe1WZd34rBDh34cMb",
-        "apple": "https://podcasts.apple.com/podcast/wisconsin-v-yoder-with-torah/id1440513300?i=1000443950878",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/wisconsin-v-yoder-with-torah/id1440513300?i=1000443950878"
       }
     },
     {
@@ -524,12 +463,10 @@
       "explicit": true,
       "spotifyId": "2frGXp0JGe5uugmWnuH7pm",
       "appleId": 1000443428706,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2frGXp0JGe5uugmWnuH7pm",
-        "apple": "https://podcasts.apple.com/podcast/meet-harvey-pt-2/id1440513300?i=1000443428706",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-harvey-pt-2/id1440513300?i=1000443428706"
       }
     },
     {
@@ -541,12 +478,10 @@
       "explicit": true,
       "spotifyId": "4amLLf6qVU4gkvKFSRKpXk",
       "appleId": 1000443353200,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4amLLf6qVU4gkvKFSRKpXk",
-        "apple": "https://podcasts.apple.com/podcast/meet-harvey-pt-1/id1440513300?i=1000443353200",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-harvey-pt-1/id1440513300?i=1000443353200"
       }
     },
     {
@@ -558,12 +493,10 @@
       "explicit": true,
       "spotifyId": "6ilfxb2VrU27ZDcRqWYT7R",
       "appleId": 1000442389080,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ilfxb2VrU27ZDcRqWYT7R",
-        "apple": "https://podcasts.apple.com/podcast/meet-james/id1440513300?i=1000442389080",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-james/id1440513300?i=1000442389080"
       }
     },
     {
@@ -575,12 +508,10 @@
       "explicit": true,
       "spotifyId": "26nLl65ameQzmf3f0skMF3",
       "appleId": 1000442220330,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/26nLl65ameQzmf3f0skMF3",
-        "apple": "https://podcasts.apple.com/podcast/sexual-abuse-in-haiti-a-conversation-with-hope-anne/id1440513300?i=1000442220330",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/sexual-abuse-in-haiti-a-conversation-with-hope-anne/id1440513300?i=1000442220330"
       }
     },
     {
@@ -592,12 +523,10 @@
       "explicit": true,
       "spotifyId": "3H1EIlVnsFyNx91RFfUV2a",
       "appleId": 1000440527615,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3H1EIlVnsFyNx91RFfUV2a",
-        "apple": "https://podcasts.apple.com/podcast/meet-nikki/id1440513300?i=1000440527615",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-nikki/id1440513300?i=1000440527615"
       }
     },
     {
@@ -609,12 +538,10 @@
       "explicit": true,
       "spotifyId": "4JmcQgdlBBAjQG8yRaHNAi",
       "appleId": 1000439102580,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4JmcQgdlBBAjQG8yRaHNAi",
-        "apple": "https://podcasts.apple.com/podcast/meet-kenneth-pt-3/id1440513300?i=1000439102580",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-kenneth-pt-3/id1440513300?i=1000439102580"
       }
     },
     {
@@ -626,12 +553,10 @@
       "explicit": true,
       "spotifyId": "0RAAwcMM9157BtfQ3XEJc8",
       "appleId": 1000438970727,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0RAAwcMM9157BtfQ3XEJc8",
-        "apple": "https://podcasts.apple.com/podcast/meet-kenneth-pt-2/id1440513300?i=1000438970727",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-kenneth-pt-2/id1440513300?i=1000438970727"
       }
     },
     {
@@ -643,12 +568,10 @@
       "explicit": false,
       "spotifyId": "0bLswtnsmndaYPxw31MJcC",
       "appleId": 1000438924948,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0bLswtnsmndaYPxw31MJcC",
-        "apple": "https://podcasts.apple.com/podcast/meet-kenneth-pt-1/id1440513300?i=1000438924948",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-kenneth-pt-1/id1440513300?i=1000438924948"
       }
     },
     {
@@ -660,12 +583,10 @@
       "explicit": true,
       "spotifyId": "6g4XA2FKPZLYdKA4EJCHep",
       "appleId": 1000436172273,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6g4XA2FKPZLYdKA4EJCHep",
-        "apple": "https://podcasts.apple.com/podcast/meet-joel-pt-2/id1440513300?i=1000436172273",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-joel-pt-2/id1440513300?i=1000436172273"
       }
     },
     {
@@ -677,12 +598,10 @@
       "explicit": true,
       "spotifyId": "5mu3uCAVFh7UTTYaRAqBr9",
       "appleId": 1000434989674,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mu3uCAVFh7UTTYaRAqBr9",
-        "apple": "https://podcasts.apple.com/podcast/meet-joel-pt-1/id1440513300?i=1000434989674",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-joel-pt-1/id1440513300?i=1000434989674"
       }
     },
     {
@@ -694,12 +613,10 @@
       "explicit": true,
       "spotifyId": "7k8okYbjLLJmT0sFEgrJAS",
       "appleId": 1000432451649,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7k8okYbjLLJmT0sFEgrJAS",
-        "apple": "https://podcasts.apple.com/podcast/meet-lori-pt-2/id1440513300?i=1000432451649",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-lori-pt-2/id1440513300?i=1000432451649"
       }
     },
     {
@@ -711,12 +628,10 @@
       "explicit": false,
       "spotifyId": "6Mg1LtDFPhDZTTfqcrqOkp",
       "appleId": 1000432276138,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Mg1LtDFPhDZTTfqcrqOkp",
-        "apple": "https://podcasts.apple.com/podcast/meet-lori-pt-1/id1440513300?i=1000432276138",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-lori-pt-1/id1440513300?i=1000432276138"
       }
     },
     {
@@ -728,12 +643,10 @@
       "explicit": true,
       "spotifyId": "6hAmMv2bW7jsZdJ4f49ZFf",
       "appleId": 1000429716908,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6hAmMv2bW7jsZdJ4f49ZFf",
-        "apple": "https://podcasts.apple.com/podcast/meet-sharon/id1440513300?i=1000429716908",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-sharon/id1440513300?i=1000429716908"
       }
     },
     {
@@ -745,12 +658,10 @@
       "explicit": true,
       "spotifyId": "5VyXhvg6dNeQE2pLGRLzlH",
       "appleId": 1000428886429,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VyXhvg6dNeQE2pLGRLzlH",
-        "apple": "https://podcasts.apple.com/podcast/meet-meg-pt-2/id1440513300?i=1000428886429",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-meg-pt-2/id1440513300?i=1000428886429"
       }
     },
     {
@@ -762,12 +673,10 @@
       "explicit": true,
       "spotifyId": "2wm7JTq9MLehdg6CPS7eq7",
       "appleId": 1000428797536,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wm7JTq9MLehdg6CPS7eq7",
-        "apple": "https://podcasts.apple.com/podcast/meet-meg-pt-1/id1440513300?i=1000428797536",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-meg-pt-1/id1440513300?i=1000428797536"
       }
     },
     {
@@ -779,12 +688,10 @@
       "explicit": true,
       "spotifyId": "19FHJRM9YMzTklBfddiFV6",
       "appleId": 1000428253059,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19FHJRM9YMzTklBfddiFV6",
-        "apple": "https://podcasts.apple.com/podcast/meet-justin/id1440513300?i=1000428253059",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-justin/id1440513300?i=1000428253059"
       }
     },
     {
@@ -796,12 +703,10 @@
       "explicit": true,
       "spotifyId": "5XEbKZRuzSoWXRztqrcA02",
       "appleId": 1000427424385,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5XEbKZRuzSoWXRztqrcA02",
-        "apple": "https://podcasts.apple.com/podcast/meet-joanna-pt-2/id1440513300?i=1000427424385",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-joanna-pt-2/id1440513300?i=1000427424385"
       }
     },
     {
@@ -813,12 +718,10 @@
       "explicit": true,
       "spotifyId": "6iU71J0pR7ZskSCk3bGVFJ",
       "appleId": 1000427389132,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6iU71J0pR7ZskSCk3bGVFJ",
-        "apple": "https://podcasts.apple.com/podcast/meet-joanna-pt-1/id1440513300?i=1000427389132",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-joanna-pt-1/id1440513300?i=1000427389132"
       }
     },
     {
@@ -830,12 +733,10 @@
       "explicit": true,
       "spotifyId": "3iOew3qhCKoVDzVf01l3fk",
       "appleId": 1000426398276,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3iOew3qhCKoVDzVf01l3fk",
-        "apple": "https://podcasts.apple.com/podcast/pt-3-meet-audrey/id1440513300?i=1000426398276",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/pt-3-meet-audrey/id1440513300?i=1000426398276"
       }
     },
     {
@@ -847,12 +748,10 @@
       "explicit": true,
       "spotifyId": "1MeNPymrS6UjrvDrOfAhW8",
       "appleId": 1000426333292,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1MeNPymrS6UjrvDrOfAhW8",
-        "apple": "https://podcasts.apple.com/podcast/pt-2-meet-audrey/id1440513300?i=1000426333292",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/pt-2-meet-audrey/id1440513300?i=1000426333292"
       }
     },
     {
@@ -864,12 +763,10 @@
       "explicit": true,
       "spotifyId": "5sYKmmz99V3dd3FfQMBN6r",
       "appleId": 1000426054352,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5sYKmmz99V3dd3FfQMBN6r",
-        "apple": "https://podcasts.apple.com/podcast/pt-1-meet-audrey-bonus-episode/id1440513300?i=1000426054352",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/pt-1-meet-audrey-bonus-episode/id1440513300?i=1000426054352"
       }
     },
     {
@@ -881,12 +778,10 @@
       "explicit": false,
       "spotifyId": "7FSZxUjFX2I0ZWXWbZYSnP",
       "appleId": 1000425364798,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7FSZxUjFX2I0ZWXWbZYSnP",
-        "apple": "https://podcasts.apple.com/podcast/meet-robert/id1440513300?i=1000425364798",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-robert/id1440513300?i=1000425364798"
       }
     },
     {
@@ -898,12 +793,10 @@
       "explicit": true,
       "spotifyId": "1eyMl8E3S0P7vwG5PAkLXH",
       "appleId": 1000425205826,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1eyMl8E3S0P7vwG5PAkLXH",
-        "apple": "https://podcasts.apple.com/podcast/meet-ruthy/id1440513300?i=1000425205826",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-ruthy/id1440513300?i=1000425205826"
       }
     },
     {
@@ -915,12 +808,10 @@
       "explicit": true,
       "spotifyId": "05PgW5ORRp864x7eN7gayP",
       "appleId": 1000424971779,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/05PgW5ORRp864x7eN7gayP",
-        "apple": "https://podcasts.apple.com/podcast/meet-kelsye/id1440513300?i=1000424971779",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-kelsye/id1440513300?i=1000424971779"
       }
     },
     {
@@ -932,12 +823,10 @@
       "explicit": false,
       "spotifyId": "7Lw7rtVTh02kQbNP6kftLx",
       "appleId": 1000424464795,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Lw7rtVTh02kQbNP6kftLx",
-        "apple": "https://podcasts.apple.com/podcast/a-message-from-marc/id1440513300?i=1000424464795",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-message-from-marc/id1440513300?i=1000424464795"
       }
     },
     {
@@ -949,12 +838,10 @@
       "explicit": false,
       "spotifyId": "4QgVulUDWcdclZjiAhnwqB",
       "appleId": 1000424439896,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4QgVulUDWcdclZjiAhnwqB",
-        "apple": "https://podcasts.apple.com/podcast/meet-becca/id1440513300?i=1000424439896",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-becca/id1440513300?i=1000424439896"
       }
     },
     {
@@ -966,12 +853,10 @@
       "explicit": true,
       "spotifyId": "2VUTlgr9YMuw1oam1JDzpy",
       "appleId": 1000424099397,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2VUTlgr9YMuw1oam1JDzpy",
-        "apple": "https://podcasts.apple.com/podcast/meet-laura/id1440513300?i=1000424099397",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-laura/id1440513300?i=1000424099397"
       }
     },
     {
@@ -983,12 +868,10 @@
       "explicit": true,
       "spotifyId": "07L7jonxCR1P55mrjrJpWQ",
       "appleId": 1000423960842,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/07L7jonxCR1P55mrjrJpWQ",
-        "apple": "https://podcasts.apple.com/podcast/pt-2-meet-ashley/id1440513300?i=1000423960842",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/pt-2-meet-ashley/id1440513300?i=1000423960842"
       }
     },
     {
@@ -1000,12 +883,10 @@
       "explicit": true,
       "spotifyId": "2SXdA8s3HS40xOLvp4NCyF",
       "appleId": 1000423960842,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2SXdA8s3HS40xOLvp4NCyF",
-        "apple": "https://podcasts.apple.com/podcast/pt-2-meet-ashley/id1440513300?i=1000423960842",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/pt-2-meet-ashley/id1440513300?i=1000423960842"
       }
     },
     {
@@ -1017,12 +898,10 @@
       "explicit": true,
       "spotifyId": "5JirVkyPkBbuv8g5vxgCpT",
       "appleId": 1000423655570,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5JirVkyPkBbuv8g5vxgCpT",
-        "apple": "https://podcasts.apple.com/podcast/meet-r/id1440513300?i=1000423655570",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-r/id1440513300?i=1000423655570"
       }
     },
     {
@@ -1034,12 +913,10 @@
       "explicit": true,
       "spotifyId": "3iBUC1bTgQvQ7XEd9AwpJE",
       "appleId": 1000423344184,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3iBUC1bTgQvQ7XEd9AwpJE",
-        "apple": "https://podcasts.apple.com/podcast/meet-marsela/id1440513300?i=1000423344184",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/meet-marsela/id1440513300?i=1000423344184"
       }
     },
     {
@@ -1051,12 +928,10 @@
       "explicit": true,
       "spotifyId": "3AvKv4zZXzg0W0z4XTAGaB",
       "appleId": 1000422798977,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3AvKv4zZXzg0W0z4XTAGaB",
-        "apple": "https://podcasts.apple.com/podcast/brennas-story-an-ex-mennonite-woman-creating-a/id1440513300?i=1000422798977",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/brennas-story-an-ex-mennonite-woman-creating-a/id1440513300?i=1000422798977"
       }
     }
   ]

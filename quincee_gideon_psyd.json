@@ -1,8 +1,6 @@
 {
   "id": "a5f473eb-9a9a-46e6-8554-c5ebe9c973ec",
   "name": "Quincee Gideon, PsyD",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCZOcDTjSJNkOHJuYZthnPXQ",
   "episodes": [
     {
@@ -12,8 +10,6 @@
       "release": "2022-05-09T16:12:09Z",
       "duration": "00:05:34",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "vbam9qkcTdw",
       "subjects": [
         "Two By Twos",
@@ -21,8 +17,6 @@
         "William Irvine"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=vbam9qkcTdw"
       }
     },
@@ -33,13 +27,9 @@
       "release": "2022-04-30T06:03:21Z",
       "duration": "00:04:40",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "H2v5jWlSafM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=H2v5jWlSafM"
       }
     },
@@ -50,8 +40,6 @@
       "release": "2022-04-18T19:54:35Z",
       "duration": "00:07:16",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "LYBK3Gn1Yyk",
       "subjects": [
         "Duggars",
@@ -60,8 +48,6 @@
         "Bill Gothard"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=LYBK3Gn1Yyk"
       }
     },
@@ -72,8 +58,6 @@
       "release": "2022-04-11T19:59:33Z",
       "duration": "00:06:49",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "3NW0QPoXpPQ",
       "subjects": [
         "Twelve Tribes",
@@ -81,8 +65,6 @@
         "Yellow Deli"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=3NW0QPoXpPQ"
       }
     }

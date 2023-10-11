@@ -1,8 +1,6 @@
 {
   "id": "1b98b5c0-3d3e-443a-945e-f22e7f3e8446",
   "name": "REALWOMEN/REALSTORIES",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC4KUIwEy5gS6dE3imFyFUTw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-07-22T20:45:08Z",
       "duration": "00:54:45",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-Q0Q47znpyc",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-Q0Q47znpyc"
       }
     }

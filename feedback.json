@@ -3,7 +3,6 @@
   "name": "Feedback",
   "spotifyId": "0B62NDMMLsQWmqOVsUxeh6",
   "appleId": 323350266,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "96bc6527-b384-4a62-89d0-bdee17f8602b",
@@ -14,7 +13,6 @@
       "explicit": false,
       "spotifyId": "3vG4Cf9YIoiQrFfKIT2jNA",
       "appleId": 1000608985091,
-      "youTubeId": "",
       "subjects": [
         "Lighthouse International Group",
         "Lighthouse International",
@@ -28,8 +26,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vG4Cf9YIoiQrFfKIT2jNA",
-        "apple": "https://podcasts.apple.com/podcast/14-04-2023/id323350266?i=1000608985091",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/14-04-2023/id323350266?i=1000608985091"
       }
     }
   ]

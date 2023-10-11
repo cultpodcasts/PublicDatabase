@@ -1,8 +1,6 @@
 {
   "id": "0d957f8a-40b6-4e25-8bad-730e3330daa9",
   "name": "Derren Brown",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCZFjYOyCdMxbt59vZNuqBpw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2020-05-02T16:00:06Z",
       "duration": "00:48:33",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "HDtMMsFoHuY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=HDtMMsFoHuY"
       }
     }

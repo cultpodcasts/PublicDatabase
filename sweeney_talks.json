@@ -3,7 +3,6 @@
   "name": "Sweeney Talks",
   "spotifyId": "2Y7N1kdGoD8ig0ShrR6lMz",
   "appleId": 1539949999,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "763b9365-fb3c-486a-b9b4-7866d2db78b9",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "5Nhpu3KWAbee2UzRjB4Kvd",
       "appleId": 1000590563078,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Nhpu3KWAbee2UzRjB4Kvd",
-        "apple": "https://podcasts.apple.com/podcast/elgen-strait-escaping-the-moonies/id1539949999?i=1000590563078",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/elgen-strait-escaping-the-moonies/id1539949999?i=1000590563078"
       }
     }
   ]

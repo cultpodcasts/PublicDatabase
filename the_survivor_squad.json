@@ -3,7 +3,6 @@
   "name": "The Survivor Squad",
   "spotifyId": "3kCOaPbEVZTdYMeOC8vwen",
   "appleId": 1684990477,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "ae426a4b-660e-4775-b0a0-65553181f7fb",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "2cuJvEw79oXR1goKsCOKcC",
       "appleId": 1000622557873,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2cuJvEw79oXR1goKsCOKcC",
-        "apple": "https://podcasts.apple.com/podcast/part-i-piercing-the-vow-w-mark-vicente/id1684990477?i=1000622557873",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-i-piercing-the-vow-w-mark-vicente/id1684990477?i=1000622557873"
       }
     }
   ]

@@ -1,8 +1,6 @@
 {
   "id": "5463cd5d-68cf-4522-bc2f-0c6695adf99d",
   "name": "Dodge Landesman",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC8kJAX_zxlDctZpgJxdA-Fw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-28T00:45:15Z",
       "duration": "01:35:46",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "aud8dewYj-c",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=aud8dewYj-c"
       }
     }

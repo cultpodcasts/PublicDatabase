@@ -1,8 +1,6 @@
 {
   "id": "3eefd1d8-4b93-4e9b-9213-5e993e251d17",
   "name": "Leaving Scientology",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCu8drtuj34o65i_4RPFjBnA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-10-07T16:17:34Z",
       "duration": "00:01:54",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "U-chGGxBMGY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=U-chGGxBMGY"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-10-07T16:13:47Z",
       "duration": "00:04:48",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "lMu142eCrd8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=lMu142eCrd8"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2023-09-13T20:19:54Z",
       "duration": "00:02:10",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Eld7PSW0nD4",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Eld7PSW0nD4"
       }
     },
@@ -63,13 +49,9 @@
       "release": "2023-09-12T22:11:36Z",
       "duration": "00:01:16",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "BvSfl7Mbl0M",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=BvSfl7Mbl0M"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "c8672b51-2d8f-48c1-ab86-a2d540e23bc1",
   "name": "Massachusetts School of Law at Andover",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCYDkoHuyBUb6yNlpGyQLQJw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2011-08-08T22:38:35Z",
       "duration": "01:00:00",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "VJ1w6lgrttE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=VJ1w6lgrttE"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2011-08-05T17:30:36Z",
       "duration": "00:06:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "LHMYwtjaFjI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=LHMYwtjaFjI"
       }
     }

@@ -1,24 +1,17 @@
 {
   "id": "00f2c26a-74a1-445e-8ba2-b68c081c7502",
   "name": "Growing Up In Scientology",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCD8AAvA3_JDFeOps-HzPPHg",
   "episodes": [
     {
       "id": "501440c3-a403-4102-ba1e-5ff772c31178",
       "title": "Scientology\u0027s Obstructor-In-Chief: JULIAN SWARTZ",
-      "description": "",
       "release": "2023-09-16T05:21:51Z",
       "duration": "00:17:55",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "JmZ96-gEuAM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=JmZ96-gEuAM"
       }
     },
@@ -29,13 +22,9 @@
       "release": "2022-11-14T20:01:48Z",
       "duration": "00:54:10",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "IMSlri6AwD0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=IMSlri6AwD0"
       }
     },
@@ -46,13 +35,9 @@
       "release": "2023-10-08T17:21:02Z",
       "duration": "00:17:43",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-x-xLjrsum8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-x-xLjrsum8"
       }
     },
@@ -63,13 +48,9 @@
       "release": "2022-11-08T19:18:07Z",
       "duration": "01:10:12",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "WLqo_QPFPQM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=WLqo_QPFPQM"
       }
     }

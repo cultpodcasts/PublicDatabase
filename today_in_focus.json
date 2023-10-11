@@ -3,7 +3,6 @@
   "name": "Today in Focus",
   "spotifyId": "2cSQmzYnf6LyrN0Mi6E64p",
   "appleId": 1440133626,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "448dbd43-4b53-449d-9cfa-4a44a89c8c94",
@@ -14,7 +13,6 @@
       "explicit": false,
       "spotifyId": "0yhj8JdEC4dHNVe2pNE7I2",
       "appleId": 1000588419421,
-      "youTubeId": "",
       "subjects": [
         "Universal Church of the Kingdom of God",
         "UCKG",
@@ -26,8 +24,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0yhj8JdEC4dHNVe2pNE7I2",
-        "apple": "https://podcasts.apple.com/podcast/the-young-people-speaking-out-against-the/id1440133626?i=1000588419421",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-young-people-speaking-out-against-the/id1440133626?i=1000588419421"
       }
     }
   ]

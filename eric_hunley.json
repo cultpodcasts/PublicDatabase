@@ -1,8 +1,6 @@
 {
   "id": "a6751277-d953-425e-b95e-8b12714a6950",
   "name": "Eric Hunley",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC2CIfFE1vjaMmSIl-xIWprA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-08-02T19:00:34Z",
       "duration": "01:06:57",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "zXOpw7AgsTQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=zXOpw7AgsTQ"
       }
     }

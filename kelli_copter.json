@@ -1,8 +1,6 @@
 {
   "id": "254b0384-cfe0-435f-9e0e-9a0c6199f1c4",
   "name": "Kelli Copter",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC6q1t92tB_nPPWkW76Gzeww",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-04-10T19:44:19Z",
       "duration": "00:10:05",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "1R9PCkCO16A",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=1R9PCkCO16A"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-04-01T22:11:24Z",
       "duration": "00:13:06",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "LvJB7XfkAWk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=LvJB7XfkAWk"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2022-05-09T20:16:30Z",
       "duration": "00:31:47",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "EU_IDRRkf_w",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=EU_IDRRkf_w"
       }
     },
@@ -63,13 +49,9 @@
       "release": "2022-01-24T15:05:30Z",
       "duration": "00:33:33",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "p6XCXe-99Ys",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=p6XCXe-99Ys"
       }
     },
@@ -80,13 +62,9 @@
       "release": "2021-09-14T13:58:24Z",
       "duration": "00:51:45",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "XHMAWuQZECY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=XHMAWuQZECY"
       }
     },
@@ -97,13 +75,9 @@
       "release": "2021-07-21T12:36:50Z",
       "duration": "00:52:37",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "qaV1q1Ga5bs",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=qaV1q1Ga5bs"
       }
     },
@@ -114,13 +88,9 @@
       "release": "2021-07-14T18:21:07Z",
       "duration": "00:04:40",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "tc03EnCvwj4",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=tc03EnCvwj4"
       }
     },
@@ -131,13 +101,9 @@
       "release": "2021-07-05T16:45:22Z",
       "duration": "00:01:54",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "asbgwL4DB38",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=asbgwL4DB38"
       }
     },
@@ -148,13 +114,9 @@
       "release": "2021-07-05T16:45:07Z",
       "duration": "00:44:52",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Vvbe4WBrCWU",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Vvbe4WBrCWU"
       }
     },
@@ -165,13 +127,9 @@
       "release": "2021-06-21T17:00:02Z",
       "duration": "00:35:36",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "4hLHLmUa4qI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=4hLHLmUa4qI"
       }
     },
@@ -182,15 +140,11 @@
       "release": "2023-09-24T18:35:48Z",
       "duration": "00:25:58",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "jopHYxxQgFU",
       "subjects": [
         "Mark Stevens"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=jopHYxxQgFU"
       }
     },
@@ -201,13 +155,9 @@
       "release": "2023-10-08T13:54:57Z",
       "duration": "00:50:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Ic7ZJ42Ys68",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Ic7ZJ42Ys68"
       }
     }

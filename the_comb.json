@@ -3,7 +3,6 @@
   "name": "The Comb",
   "spotifyId": "6BYFzS65TGffIFIx7Ojv7Y",
   "appleId": 1519410161,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "7699d8e5-0410-4338-9f7c-a14546a6fe03",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "3IP4zjOOu3xGYQBZQEFHWQ",
       "appleId": 1000604573433,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3IP4zjOOu3xGYQBZQEFHWQ",
-        "apple": "https://podcasts.apple.com/podcast/am-i-in-a-cult/id1519410161?i=1000604573433",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/am-i-in-a-cult/id1519410161?i=1000604573433"
       }
     }
   ]

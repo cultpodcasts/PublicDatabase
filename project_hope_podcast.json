@@ -3,7 +3,6 @@
   "name": "Project Hope Podcast",
   "spotifyId": "5zY4b21b2L2hbVHjWuIBH1",
   "appleId": 1539680073,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "da24c66b-d439-4174-954a-670c964f859a",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "5qJCeGsY4Z40O3oLvKIAXF",
       "appleId": 1000628635296,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5qJCeGsY4Z40O3oLvKIAXF",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-26-dr-tamara-mc-p2-on-the-sufi-based-cult-she/id1539680073?i=1000628635296",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-26-dr-tamara-mc-p2-on-the-sufi-based-cult-she/id1539680073?i=1000628635296"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "7IKm1VOxpGLDEoRLGsYphv",
       "appleId": 1000627775548,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7IKm1VOxpGLDEoRLGsYphv",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-25-dr-tamara-mc-p1-on-the-sufi-based-cult-she/id1539680073?i=1000627775548",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-25-dr-tamara-mc-p1-on-the-sufi-based-cult-she/id1539680073?i=1000627775548"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": true,
       "spotifyId": "0IqZGjA84e4cO3oVJeR1dy",
       "appleId": 1000626237055,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0IqZGjA84e4cO3oVJeR1dy",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-24-esther-friedman-p2-on-her-book-the-gentle/id1539680073?i=1000626237055",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-24-esther-friedman-p2-on-her-book-the-gentle/id1539680073?i=1000626237055"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": true,
       "spotifyId": "0clffDKk809av26vfTehTv",
       "appleId": 1000625474248,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0clffDKk809av26vfTehTv",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-23-esther-friedman-p1-on-her-book-the-gentle/id1539680073?i=1000625474248",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-23-esther-friedman-p1-on-her-book-the-gentle/id1539680073?i=1000625474248"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "48EJ9qumv3iMOErdsmr15w",
       "appleId": 1000623922645,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/48EJ9qumv3iMOErdsmr15w",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-22-sally-m-meyer-p3-on-her-books-ordinarily-sarah/id1539680073?i=1000623922645",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-22-sally-m-meyer-p3-on-her-books-ordinarily-sarah/id1539680073?i=1000623922645"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "2LWD4iCW3AJyPYPmtKIvTX",
       "appleId": 1000623138317,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2LWD4iCW3AJyPYPmtKIvTX",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-21-sally-m-meyer-p2-on-her-books-ordinarily-sarah/id1539680073?i=1000623138317",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-21-sally-m-meyer-p2-on-her-books-ordinarily-sarah/id1539680073?i=1000623138317"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": false,
       "spotifyId": "37M0PffUOqtXmXibEd0hGR",
       "appleId": 1000622431555,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37M0PffUOqtXmXibEd0hGR",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-20-sally-m-meyer-p1-on-her-books-ordinarily-sarah/id1539680073?i=1000622431555",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-20-sally-m-meyer-p1-on-her-books-ordinarily-sarah/id1539680073?i=1000622431555"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": true,
       "spotifyId": "0sJrzRAEhqWMgLyNXOFUzg",
       "appleId": 1000616945775,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0sJrzRAEhqWMgLyNXOFUzg",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-19-anke-richter-p3-on-her-book-cult-trip-inside/id1539680073?i=1000616945775",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-19-anke-richter-p3-on-her-book-cult-trip-inside/id1539680073?i=1000616945775"
       }
     },
     {
@@ -150,12 +133,10 @@
       "explicit": true,
       "spotifyId": "1YdvOiNCQhrEp0xJ2fg97j",
       "appleId": 1000615964470,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1YdvOiNCQhrEp0xJ2fg97j",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-18-anke-richter-p2-on-her-book-cult-trip-inside/id1539680073?i=1000615964470",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-18-anke-richter-p2-on-her-book-cult-trip-inside/id1539680073?i=1000615964470"
       }
     },
     {
@@ -167,12 +148,10 @@
       "explicit": true,
       "spotifyId": "6wkmrPOOMw10InV4fitHcG",
       "appleId": 1000615158148,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wkmrPOOMw10InV4fitHcG",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-17-anke-richter-p1-on-her-book-cult-trip-inside/id1539680073?i=1000615158148",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-17-anke-richter-p1-on-her-book-cult-trip-inside/id1539680073?i=1000615158148"
       }
     },
     {
@@ -184,12 +163,10 @@
       "explicit": true,
       "spotifyId": "22LEYsnTDCm3PYuwuHwlLu",
       "appleId": 1000613423079,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/22LEYsnTDCm3PYuwuHwlLu",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-16-dr-marlene-winell-on-religious-trauma-syndrome/id1539680073?i=1000613423079",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-16-dr-marlene-winell-on-religious-trauma-syndrome/id1539680073?i=1000613423079"
       }
     },
     {
@@ -201,12 +178,10 @@
       "explicit": false,
       "spotifyId": "2fz0TQfLph8n6kJXBzZrD7",
       "appleId": 1000611547218,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2fz0TQfLph8n6kJXBzZrD7",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-15-jaia-suri-p2-on-the-order-of-christ-sophia-ocs/id1539680073?i=1000611547218",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-15-jaia-suri-p2-on-the-order-of-christ-sophia-ocs/id1539680073?i=1000611547218"
       }
     },
     {
@@ -218,12 +193,10 @@
       "explicit": false,
       "spotifyId": "25tLFifeZSzFSMnsLEqpRP",
       "appleId": 1000609736310,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/25tLFifeZSzFSMnsLEqpRP",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-14-jaia-suri-p1-on-the-order-of-christ-sophia-ocs/id1539680073?i=1000609736310",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-14-jaia-suri-p1-on-the-order-of-christ-sophia-ocs/id1539680073?i=1000609736310"
       }
     },
     {
@@ -235,12 +208,10 @@
       "explicit": false,
       "spotifyId": "5m9PHhNcWOmaOjODggdb9b",
       "appleId": 1000608615766,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5m9PHhNcWOmaOjODggdb9b",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-13-marc-henri-sandoz-paradella-on-his-life-family/id1539680073?i=1000608615766",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-13-marc-henri-sandoz-paradella-on-his-life-family/id1539680073?i=1000608615766"
       }
     },
     {
@@ -252,12 +223,10 @@
       "explicit": true,
       "spotifyId": "0N6s14PUxeBgE4OKIEdlwv",
       "appleId": 1000607607326,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0N6s14PUxeBgE4OKIEdlwv",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-12-erika-bornman-p2-on-her-life-advocacy-work/id1539680073?i=1000607607326",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-12-erika-bornman-p2-on-her-life-advocacy-work/id1539680073?i=1000607607326"
       }
     },
     {
@@ -269,12 +238,10 @@
       "explicit": true,
       "spotifyId": "4GGWYXLcgY6ocTqHG0umTR",
       "appleId": 1000606476908,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4GGWYXLcgY6ocTqHG0umTR",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-11-erika-bornman-p1-on-her-life-advocacy-work/id1539680073?i=1000606476908",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-11-erika-bornman-p1-on-her-life-advocacy-work/id1539680073?i=1000606476908"
       }
     },
     {
@@ -286,12 +253,10 @@
       "explicit": false,
       "spotifyId": "05Svb1laJYymJeUGEgPld6",
       "appleId": 1000605440241,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/05Svb1laJYymJeUGEgPld6",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-10-lorna-bill-goldberg-on-helping-families-cult/id1539680073?i=1000605440241",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-10-lorna-bill-goldberg-on-helping-families-cult/id1539680073?i=1000605440241"
       }
     },
     {
@@ -303,12 +268,10 @@
       "explicit": false,
       "spotifyId": "2mPJKEgBpn7qwSlBzvzLii",
       "appleId": 1000604346622,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2mPJKEgBpn7qwSlBzvzLii",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-9-kathleen-p2-on-maum-meditation/id1539680073?i=1000604346622",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-9-kathleen-p2-on-maum-meditation/id1539680073?i=1000604346622"
       }
     },
     {
@@ -320,12 +283,10 @@
       "explicit": false,
       "spotifyId": "0nt4oDREwhjtkZFDmPv6xl",
       "appleId": 1000603299752,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nt4oDREwhjtkZFDmPv6xl",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-8-kathleen-p1-on-maum-meditation/id1539680073?i=1000603299752",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-8-kathleen-p1-on-maum-meditation/id1539680073?i=1000603299752"
       }
     },
     {
@@ -337,12 +298,10 @@
       "explicit": false,
       "spotifyId": "3rQnapAvukxh9BX0d3CKLp",
       "appleId": 1000602342145,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3rQnapAvukxh9BX0d3CKLp",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-7-joyce-short-nina-lucas-on-defining-consent/id1539680073?i=1000602342145",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-7-joyce-short-nina-lucas-on-defining-consent/id1539680073?i=1000602342145"
       }
     },
     {
@@ -354,12 +313,10 @@
       "explicit": false,
       "spotifyId": "3OUQbMP2pkl6JHITaEnOMa",
       "appleId": 1000601120552,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OUQbMP2pkl6JHITaEnOMa",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-6-debby-shriver-p2-icsa-president-on-her-most/id1539680073?i=1000601120552",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-6-debby-shriver-p2-icsa-president-on-her-most/id1539680073?i=1000601120552"
       }
     },
     {
@@ -371,12 +328,10 @@
       "explicit": false,
       "spotifyId": "3it3D97IJDbk2VlfrOEio8",
       "appleId": 1000599756819,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3it3D97IJDbk2VlfrOEio8",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-5-debby-shriver-p1-on-her-life-career-and-most/id1539680073?i=1000599756819",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-5-debby-shriver-p1-on-her-life-career-and-most/id1539680073?i=1000599756819"
       }
     },
     {
@@ -388,12 +343,10 @@
       "explicit": true,
       "spotifyId": "1TicIQPevK8D70mZbsLLhG",
       "appleId": 1000597523007,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1TicIQPevK8D70mZbsLLhG",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-3-amanda-redwine-on-her-experience-with-exposure/id1539680073?i=1000597523007",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-3-amanda-redwine-on-her-experience-with-exposure/id1539680073?i=1000597523007"
       }
     },
     {
@@ -405,12 +358,10 @@
       "explicit": false,
       "spotifyId": "5N2Pzr3wiwyWBJ3hZaLlC8",
       "appleId": 1000596458724,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5N2Pzr3wiwyWBJ3hZaLlC8",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-2-my-brother-p2-on-his-experience-around-my-involvement/id1539680073?i=1000596458724",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-2-my-brother-p2-on-his-experience-around-my-involvement/id1539680073?i=1000596458724"
       }
     },
     {
@@ -422,12 +373,10 @@
       "explicit": false,
       "spotifyId": "0Mei8SfbJU8BuTFVwzbGjg",
       "appleId": 1000595328790,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Mei8SfbJU8BuTFVwzbGjg",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-1-my-brother-p1-on-his-experience-around-my-involvement/id1539680073?i=1000595328790",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-1-my-brother-p1-on-his-experience-around-my-involvement/id1539680073?i=1000595328790"
       }
     },
     {
@@ -439,12 +388,10 @@
       "explicit": false,
       "spotifyId": "3cVqEdMOM6nj0AmPVnn4ZD",
       "appleId": 1000594087145,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3cVqEdMOM6nj0AmPVnn4ZD",
-        "apple": "https://podcasts.apple.com/podcast/season-2-pre-launch-bonus-jaia-suri-on-her-music-leaving/id1539680073?i=1000594087145",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/season-2-pre-launch-bonus-jaia-suri-on-her-music-leaving/id1539680073?i=1000594087145"
       }
     },
     {
@@ -456,12 +403,10 @@
       "explicit": true,
       "spotifyId": "36j4kh38Lb3QAB1sac8jG1",
       "appleId": 1000552017237,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36j4kh38Lb3QAB1sac8jG1",
-        "apple": "https://podcasts.apple.com/podcast/season-1-bonus-sarah-edmondson-anthony-nippy-ames-on/id1539680073?i=1000552017237",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/season-1-bonus-sarah-edmondson-anthony-nippy-ames-on/id1539680073?i=1000552017237"
       }
     },
     {
@@ -473,12 +418,10 @@
       "explicit": false,
       "spotifyId": "2jF63rpxfcIOvJcFsmZ0ls",
       "appleId": 1000542962869,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2jF63rpxfcIOvJcFsmZ0ls",
-        "apple": "https://podcasts.apple.com/podcast/ep-32-adam-jones-on-growing-up-seventh-day-adventist/id1539680073?i=1000542962869",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-32-adam-jones-on-growing-up-seventh-day-adventist/id1539680073?i=1000542962869"
       }
     },
     {
@@ -490,12 +433,10 @@
       "explicit": true,
       "spotifyId": "5I2eZkSXcKhAWWUckBjSuI",
       "appleId": 1000539176008,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5I2eZkSXcKhAWWUckBjSuI",
-        "apple": "https://podcasts.apple.com/podcast/ep-31-deb-donner-p3-on-growing-up-in-the-wesleyan/id1539680073?i=1000539176008",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-31-deb-donner-p3-on-growing-up-in-the-wesleyan/id1539680073?i=1000539176008"
       }
     },
     {
@@ -507,12 +448,10 @@
       "explicit": true,
       "spotifyId": "2DzFgXb53bkwIcqRYQFX3A",
       "appleId": 1000538467343,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DzFgXb53bkwIcqRYQFX3A",
-        "apple": "https://podcasts.apple.com/podcast/ep-30-deb-donner-p2-on-growing-up-in-the-wesleyan/id1539680073?i=1000538467343",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-30-deb-donner-p2-on-growing-up-in-the-wesleyan/id1539680073?i=1000538467343"
       }
     },
     {
@@ -524,12 +463,10 @@
       "explicit": true,
       "spotifyId": "0IgpEAHcOJ5atjRyl2C44r",
       "appleId": 1000537698094,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0IgpEAHcOJ5atjRyl2C44r",
-        "apple": "https://podcasts.apple.com/podcast/ep-29-deb-donner-p1-on-growing-up-in-the-wesleyan/id1539680073?i=1000537698094",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-29-deb-donner-p1-on-growing-up-in-the-wesleyan/id1539680073?i=1000537698094"
       }
     },
     {
@@ -541,12 +478,10 @@
       "explicit": true,
       "spotifyId": "5iLtNjPjThcgpmL3pWNVU3",
       "appleId": 1000536277916,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5iLtNjPjThcgpmL3pWNVU3",
-        "apple": "https://podcasts.apple.com/podcast/ep-28-melissa-on-growing-up-seventh-day-adventist-and/id1539680073?i=1000536277916",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-28-melissa-on-growing-up-seventh-day-adventist-and/id1539680073?i=1000536277916"
       }
     },
     {
@@ -558,12 +493,10 @@
       "explicit": false,
       "spotifyId": "2364C4ySOUJnO3vIldi2By",
       "appleId": 1000533956343,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2364C4ySOUJnO3vIldi2By",
-        "apple": "https://podcasts.apple.com/podcast/ep-27-naomi-van-winkle-on-growing-up-in-kings-chapel/id1539680073?i=1000533956343",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-27-naomi-van-winkle-on-growing-up-in-kings-chapel/id1539680073?i=1000533956343"
       }
     },
     {
@@ -575,12 +508,10 @@
       "explicit": true,
       "spotifyId": "3HLdeTGS3a4DKpefwjsT1W",
       "appleId": 1000532353175,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3HLdeTGS3a4DKpefwjsT1W",
-        "apple": "https://podcasts.apple.com/podcast/ep-26-janice-selbie-on-her-mennocostal-life-and/id1539680073?i=1000532353175",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-26-janice-selbie-on-her-mennocostal-life-and/id1539680073?i=1000532353175"
       }
     },
     {
@@ -592,12 +523,10 @@
       "explicit": false,
       "spotifyId": "615j3eNe9gUfYdU1YA5zLx",
       "appleId": 1000528865261,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/615j3eNe9gUfYdU1YA5zLx",
-        "apple": "https://podcasts.apple.com/podcast/ep-25-ken-garrett-p2-on-his-book-in-the-house-of/id1539680073?i=1000528865261",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-25-ken-garrett-p2-on-his-book-in-the-house-of/id1539680073?i=1000528865261"
       }
     },
     {
@@ -609,12 +538,10 @@
       "explicit": false,
       "spotifyId": "2JdC8ZKKqK4qMNThERNdNn",
       "appleId": 1000528083746,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JdC8ZKKqK4qMNThERNdNn",
-        "apple": "https://podcasts.apple.com/podcast/ep-24-ken-garrett-p1-on-his-book-in-the-house-of/id1539680073?i=1000528083746",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-24-ken-garrett-p1-on-his-book-in-the-house-of/id1539680073?i=1000528083746"
       }
     },
     {
@@ -626,12 +553,10 @@
       "explicit": false,
       "spotifyId": "2BaYwaHEUsthuysw0I1dF1",
       "appleId": 1000524741206,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BaYwaHEUsthuysw0I1dF1",
-        "apple": "https://podcasts.apple.com/podcast/ep-23-kelly-alder-on-her-neo-native-american-cult-the/id1539680073?i=1000524741206",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-23-kelly-alder-on-her-neo-native-american-cult-the/id1539680073?i=1000524741206"
       }
     },
     {
@@ -643,12 +568,10 @@
       "explicit": false,
       "spotifyId": "05JGYUVzPfzy1wuwpUCpih",
       "appleId": 1000523133638,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/05JGYUVzPfzy1wuwpUCpih",
-        "apple": "https://podcasts.apple.com/podcast/ep-22-jen-kiaba-on-being-raised-in-the-unification/id1539680073?i=1000523133638",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-22-jen-kiaba-on-being-raised-in-the-unification/id1539680073?i=1000523133638"
       }
     },
     {
@@ -660,12 +583,10 @@
       "explicit": false,
       "spotifyId": "6g7ETrMaeUDv9kMXaJqEJM",
       "appleId": 1000522300262,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6g7ETrMaeUDv9kMXaJqEJM",
-        "apple": "https://podcasts.apple.com/podcast/ep-21-megan-dom-benninger-p2-on-the-narrowgate-cult/id1539680073?i=1000522300262",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-21-megan-dom-benninger-p2-on-the-narrowgate-cult/id1539680073?i=1000522300262"
       }
     },
     {
@@ -677,12 +598,10 @@
       "explicit": false,
       "spotifyId": "4t4FITMzcltf8e2YaVojof",
       "appleId": 1000521432168,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4t4FITMzcltf8e2YaVojof",
-        "apple": "https://podcasts.apple.com/podcast/ep-20-megan-dom-benninger-p1-on-the-narrowgate-cult/id1539680073?i=1000521432168",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-20-megan-dom-benninger-p1-on-the-narrowgate-cult/id1539680073?i=1000521432168"
       }
     },
     {
@@ -694,12 +613,10 @@
       "explicit": false,
       "spotifyId": "0zQPspxAYHg8rHcDvPKaO7",
       "appleId": 1000517995145,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zQPspxAYHg8rHcDvPKaO7",
-        "apple": "https://podcasts.apple.com/podcast/ep-19-gabrielle-locke-on-growing-up-in-the-order/id1539680073?i=1000517995145",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-19-gabrielle-locke-on-growing-up-in-the-order/id1539680073?i=1000517995145"
       }
     },
     {
@@ -711,12 +628,10 @@
       "explicit": false,
       "spotifyId": "2A3T8qD719bXo4NK5vZeCz",
       "appleId": 1000516093223,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2A3T8qD719bXo4NK5vZeCz",
-        "apple": "https://podcasts.apple.com/podcast/ep-18-debbie-pitney-on-her-sons-involvement-with/id1539680073?i=1000516093223",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-18-debbie-pitney-on-her-sons-involvement-with/id1539680073?i=1000516093223"
       }
     },
     {
@@ -728,12 +643,10 @@
       "explicit": false,
       "spotifyId": "3s1z83Qa7wpMHJVlOKdeUt",
       "appleId": 1000514219065,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3s1z83Qa7wpMHJVlOKdeUt",
-        "apple": "https://podcasts.apple.com/podcast/ep-17-anna-fienbork-on-her-experience-in-an/id1539680073?i=1000514219065",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-17-anna-fienbork-on-her-experience-in-an/id1539680073?i=1000514219065"
       }
     },
     {
@@ -745,12 +658,10 @@
       "explicit": false,
       "spotifyId": "6apq9dc0huvCTU3HqLUYv1",
       "appleId": 1000513416658,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6apq9dc0huvCTU3HqLUYv1",
-        "apple": "https://podcasts.apple.com/podcast/ep-16-mari-gonzalez-p2-on-ruach-center-her-return-to-self/id1539680073?i=1000513416658",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-16-mari-gonzalez-p2-on-ruach-center-her-return-to-self/id1539680073?i=1000513416658"
       }
     },
     {
@@ -762,12 +673,10 @@
       "explicit": false,
       "spotifyId": "6yfDQUWPcNIZ9lWtbd5hY8",
       "appleId": 1000511386104,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yfDQUWPcNIZ9lWtbd5hY8",
-        "apple": "https://podcasts.apple.com/podcast/ep-15-michael-maciel-on-the-holy-order-of-mans/id1539680073?i=1000511386104",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-15-michael-maciel-on-the-holy-order-of-mans/id1539680073?i=1000511386104"
       }
     },
     {
@@ -779,12 +688,10 @@
       "explicit": false,
       "spotifyId": "5hliP8xqmLtxjEmCCGpjad",
       "appleId": 1000509495796,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5hliP8xqmLtxjEmCCGpjad",
-        "apple": "https://podcasts.apple.com/podcast/ep-14-mari-gonzalez-p1-on-ruach-center-peter-bowes/id1539680073?i=1000509495796",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-14-mari-gonzalez-p1-on-ruach-center-peter-bowes/id1539680073?i=1000509495796"
       }
     },
     {
@@ -796,12 +703,10 @@
       "explicit": false,
       "spotifyId": "4q03gcwLAhRyLePRfE8HJR",
       "appleId": 1000507538129,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4q03gcwLAhRyLePRfE8HJR",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-helen-zuman-on-zendik-farm-mating-in-captivity/id1539680073?i=1000507538129",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-13-helen-zuman-on-zendik-farm-mating-in-captivity/id1539680073?i=1000507538129"
       }
     },
     {
@@ -813,12 +718,10 @@
       "explicit": false,
       "spotifyId": "6VIVtET6tI0F8j9DM5pOef",
       "appleId": 1000505886719,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VIVtET6tI0F8j9DM5pOef",
-        "apple": "https://podcasts.apple.com/podcast/ep-12-laura-hartzell-pitney-on-andrew-cohen-enlightennext/id1539680073?i=1000505886719",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-12-laura-hartzell-pitney-on-andrew-cohen-enlightennext/id1539680073?i=1000505886719"
       }
     },
     {
@@ -830,12 +733,10 @@
       "explicit": false,
       "spotifyId": "1jVEwTOm6S30taHukfYrZt",
       "appleId": 1000504475600,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jVEwTOm6S30taHukfYrZt",
-        "apple": "https://podcasts.apple.com/podcast/ep-11-joel-pitney-on-andrew-cohen-enlightennext/id1539680073?i=1000504475600",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-11-joel-pitney-on-andrew-cohen-enlightennext/id1539680073?i=1000504475600"
       }
     },
     {
@@ -847,12 +748,10 @@
       "explicit": false,
       "spotifyId": "4Qxa977qP0iiXv9Fwa2bRe",
       "appleId": 1000503856198,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Qxa977qP0iiXv9Fwa2bRe",
-        "apple": "https://podcasts.apple.com/podcast/ep-10-victoria-reyna-on-truth-house-ministry-church/id1539680073?i=1000503856198",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-10-victoria-reyna-on-truth-house-ministry-church/id1539680073?i=1000503856198"
       }
     },
     {
@@ -864,12 +763,10 @@
       "explicit": false,
       "spotifyId": "4LxzwDaTFQngEXfqh4YXxJ",
       "appleId": 1000502542279,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LxzwDaTFQngEXfqh4YXxJ",
-        "apple": "https://podcasts.apple.com/podcast/ep-9-alexandra-amor-on-cult-a-love-story-her-memoir/id1539680073?i=1000502542279",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-9-alexandra-amor-on-cult-a-love-story-her-memoir/id1539680073?i=1000502542279"
       }
     },
     {
@@ -881,12 +778,10 @@
       "explicit": true,
       "spotifyId": "2gLEqO1nnSY9STTEapiYw9",
       "appleId": 1000501046972,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2gLEqO1nnSY9STTEapiYw9",
-        "apple": "https://podcasts.apple.com/podcast/ep-8-jamie-dewolf-p2-on-his-great-grandfather-l-ron/id1539680073?i=1000501046972",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-8-jamie-dewolf-p2-on-his-great-grandfather-l-ron/id1539680073?i=1000501046972"
       }
     },
     {
@@ -898,12 +793,10 @@
       "explicit": true,
       "spotifyId": "3AGHtgbINWe4FFqRZHJ8Rj",
       "appleId": 1000501016368,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3AGHtgbINWe4FFqRZHJ8Rj",
-        "apple": "https://podcasts.apple.com/podcast/ep-7-jamie-dewolf-p1-on-his-great-grandfather-l-ron/id1539680073?i=1000501016368",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-7-jamie-dewolf-p1-on-his-great-grandfather-l-ron/id1539680073?i=1000501016368"
       }
     },
     {
@@ -915,12 +808,10 @@
       "explicit": true,
       "spotifyId": "4ZOXNdn1mJjdafKI0cFtH5",
       "appleId": 1000499126504,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ZOXNdn1mJjdafKI0cFtH5",
-        "apple": "https://podcasts.apple.com/podcast/ep-6-elise-borow-on-her-history-with-religion-the/id1539680073?i=1000499126504",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-6-elise-borow-on-her-history-with-religion-the/id1539680073?i=1000499126504"
       }
     },
     {
@@ -932,12 +823,10 @@
       "explicit": true,
       "spotifyId": "7iobDbYbHPUiBiuEYnHEm1",
       "appleId": 1000498358306,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7iobDbYbHPUiBiuEYnHEm1",
-        "apple": "https://podcasts.apple.com/podcast/ep-5-andey-fellowes-p2-on-teal-swan-the-teal-tribe/id1539680073?i=1000498358306",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-5-andey-fellowes-p2-on-teal-swan-the-teal-tribe/id1539680073?i=1000498358306"
       }
     },
     {
@@ -949,12 +838,10 @@
       "explicit": false,
       "spotifyId": "0kzW4gKTfyhHBlB1iyWhQZ",
       "appleId": 1000498358307,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0kzW4gKTfyhHBlB1iyWhQZ",
-        "apple": "https://podcasts.apple.com/podcast/ep-4-andey-fellowes-p1-on-teal-swan-the-teal-tribe/id1539680073?i=1000498358307",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-4-andey-fellowes-p1-on-teal-swan-the-teal-tribe/id1539680073?i=1000498358307"
       }
     },
     {
@@ -966,12 +853,10 @@
       "explicit": false,
       "spotifyId": "4bwoTiwypyHURz7EFY1cPA",
       "appleId": 1000497978594,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4bwoTiwypyHURz7EFY1cPA",
-        "apple": "https://podcasts.apple.com/podcast/ep-1-jennifer-french-p1-how-i-got-into-the-order/id1539680073?i=1000497978594",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-1-jennifer-french-p1-how-i-got-into-the-order/id1539680073?i=1000497978594"
       }
     },
     {
@@ -983,12 +868,10 @@
       "explicit": false,
       "spotifyId": "6xNRypSGaHL2gpwannzdQv",
       "appleId": 1000497978593,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6xNRypSGaHL2gpwannzdQv",
-        "apple": "https://podcasts.apple.com/podcast/ep-3-pamela-dyson-on-kundalini-yoga-yogi-bhajan-white/id1539680073?i=1000497978593",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-3-pamela-dyson-on-kundalini-yoga-yogi-bhajan-white/id1539680073?i=1000497978593"
       }
     },
     {
@@ -1000,12 +883,10 @@
       "explicit": false,
       "spotifyId": "6Jo60gFJTLFbGn2JZW22Qq",
       "appleId": 1000497978592,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Jo60gFJTLFbGn2JZW22Qq",
-        "apple": "https://podcasts.apple.com/podcast/ep-2-jennifer-french-p2-how-i-got-out-of-the/id1539680073?i=1000497978592",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/ep-2-jennifer-french-p2-how-i-got-out-of-the/id1539680073?i=1000497978592"
       }
     }
   ]

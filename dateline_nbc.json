@@ -3,7 +3,6 @@
   "name": "Dateline NBC",
   "spotifyId": "3MGn724Y6BOSQzfmk3TyuY",
   "appleId": 1464919521,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "655f15f9-e815-4765-9970-83137e3db354",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "3S3eMV1swfYUGqvxhhwNLm",
       "appleId": 1000474335093,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3S3eMV1swfYUGqvxhhwNLm",
-        "apple": "https://podcasts.apple.com/podcast/unbreakable/id1464919521?i=1000474335093",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/unbreakable/id1464919521?i=1000474335093"
       }
     }
   ]

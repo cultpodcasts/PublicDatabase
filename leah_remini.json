@@ -1,8 +1,6 @@
 {
   "id": "413a8521-0de5-4a7f-81fd-0349b3925373",
   "name": "Leah Remini",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCHz-rH0kR_wzshscjRap74Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-20T03:05:57Z",
       "duration": "01:14:24",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "chUfGJnayHM",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=chUfGJnayHM"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-09-20T15:47:39Z",
       "duration": "01:17:26",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "QEaCMqJ6Nd8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=QEaCMqJ6Nd8"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2023-09-29T22:42:55Z",
       "duration": "00:01:58",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Zfogb2TBChQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Zfogb2TBChQ"
       }
     },
@@ -63,13 +49,9 @@
       "release": "2023-09-14T01:22:07Z",
       "duration": "01:05:15",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "InWA5BXJ_5Y",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=InWA5BXJ_5Y"
       }
     }

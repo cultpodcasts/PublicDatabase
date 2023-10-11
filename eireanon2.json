@@ -1,8 +1,6 @@
 {
   "id": "57b17c25-a41c-43c7-8911-c8ca2183569a",
   "name": "eireanon2",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCATUDvY2hp4jYLi94OKYKaw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2011-09-27T00:56:59Z",
       "duration": "00:45:11",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "jKgx94QIiSc",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=jKgx94QIiSc"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2013-12-23T03:13:33Z",
       "duration": "00:28:33",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "hQFzbsyp60E",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=hQFzbsyp60E"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2011-10-27T00:45:23Z",
       "duration": "00:33:29",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "2JwCS1OexwY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=2JwCS1OexwY"
       }
     }

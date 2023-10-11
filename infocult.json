@@ -1,8 +1,6 @@
 {
   "id": "4badecee-d0d3-476d-bc19-039f9359ea93",
   "name": "Info-Cult",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCatiJsg74rYkEmzc03lWmvg",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-05-20T17:00:21Z",
       "duration": "00:39:10",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "gmAurqBEF88",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=gmAurqBEF88"
       }
     }

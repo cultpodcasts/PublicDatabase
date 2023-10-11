@@ -3,7 +3,6 @@
   "name": "The Unbelievable House",
   "spotifyId": "0N9VVsJMbx8SK96eUKkiA2",
   "appleId": 1696414140,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "f3ea5a84-e06f-45a0-93f3-763f9764aba0",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "1ESSiUyjOTgTJghMubsK39",
       "appleId": 1000620688587,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ESSiUyjOTgTJghMubsK39",
-        "apple": "https://podcasts.apple.com/podcast/part-3-finale-the-unbelievable-house/id1696414140?i=1000620688587",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-3-finale-the-unbelievable-house/id1696414140?i=1000620688587"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "2JycqVhFdYFpIuXTuQAAp6",
       "appleId": 1000620643427,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JycqVhFdYFpIuXTuQAAp6",
-        "apple": "https://podcasts.apple.com/podcast/part-2-the-unbelievable-house/id1696414140?i=1000620643427",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-2-the-unbelievable-house/id1696414140?i=1000620643427"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": true,
       "spotifyId": "0mkTT0OXd9UCVf5pGr8yrM",
       "appleId": 1000620608175,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0mkTT0OXd9UCVf5pGr8yrM",
-        "apple": "https://podcasts.apple.com/podcast/part-1-the-unbelievable-house/id1696414140?i=1000620608175",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-1-the-unbelievable-house/id1696414140?i=1000620608175"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "0x1fXSljGExY6rqgmDpvf0",
       "appleId": 1000620008016,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0x1fXSljGExY6rqgmDpvf0",
-        "apple": "https://podcasts.apple.com/podcast/trailer-the-unbelievable-house/id1696414140?i=1000620008016",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/trailer-the-unbelievable-house/id1696414140?i=1000620008016"
       }
     }
   ]

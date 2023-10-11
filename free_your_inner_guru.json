@@ -2,7 +2,6 @@
   "id": "57877981-9d92-4f34-b6b2-901a7bdca242",
   "name": "Free Your Inner Guru",
   "spotifyId": "00PTYkdUKOHzRoAXypT4rL",
-  "appleId": null,
   "youTubeChannelId": "UC68Bjtqbz3XURmLQz8aHvpw",
   "episodes": [
     {
@@ -13,12 +12,10 @@
       "duration": "00:56:45.8200000",
       "explicit": true,
       "spotifyId": "7DI6aiRGPLwLqyiBWwYd1F",
-      "appleId": null,
       "youTubeId": "9tIrRWLZ9_Y",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7DI6aiRGPLwLqyiBWwYd1F",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=9tIrRWLZ9_Y"
       }
     }

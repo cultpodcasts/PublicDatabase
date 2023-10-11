@@ -3,7 +3,6 @@
   "name": "Call Bethel",
   "spotifyId": "3y0nyQXZvjICaSnF0ejTMV",
   "appleId": 1630422946,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "d5df5ce6-3d8b-415f-82c2-fede80b669ce",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "7cC3ukYNVzQHy5U9UVsgKG",
       "appleId": 1000570399628,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7cC3ukYNVzQHy5U9UVsgKG",
-        "apple": "https://podcasts.apple.com/podcast/the-unknown-boy/id1630422946?i=1000570399628",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-unknown-boy/id1630422946?i=1000570399628"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": false,
       "spotifyId": "23RpANbA0Qlj9JM16OWD8m",
       "appleId": 1000569641825,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23RpANbA0Qlj9JM16OWD8m",
-        "apple": "https://podcasts.apple.com/podcast/the-library/id1630422946?i=1000569641825",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-library/id1630422946?i=1000569641825"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": false,
       "spotifyId": "3JhSJ3Et9pFowcSVyBTOKo",
       "appleId": 1000568806499,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3JhSJ3Et9pFowcSVyBTOKo",
-        "apple": "https://podcasts.apple.com/podcast/paper-trails/id1630422946?i=1000568806499",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/paper-trails/id1630422946?i=1000568806499"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "0OHG5UiHy56zM3mMxcErgl",
       "appleId": 1000567916431,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0OHG5UiHy56zM3mMxcErgl",
-        "apple": "https://podcasts.apple.com/podcast/missing-pieces/id1630422946?i=1000567916431",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/missing-pieces/id1630422946?i=1000567916431"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "4Zt3BUD5f0GZKlQomcPVjN",
       "appleId": 1000567189016,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Zt3BUD5f0GZKlQomcPVjN",
-        "apple": "https://podcasts.apple.com/podcast/the-tip-off/id1630422946?i=1000567189016",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-tip-off/id1630422946?i=1000567189016"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "4ddGPR2lNPolwlvNBBVoQj",
       "appleId": 1000566918209,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ddGPR2lNPolwlvNBBVoQj",
-        "apple": "https://podcasts.apple.com/podcast/introducing-call-bethel/id1630422946?i=1000566918209",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/introducing-call-bethel/id1630422946?i=1000566918209"
       }
     }
   ]

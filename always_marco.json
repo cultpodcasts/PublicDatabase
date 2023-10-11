@@ -1,8 +1,6 @@
 {
   "id": "df6f1281-f70c-4fbf-80e1-a7842549cabe",
   "name": "Always Marco",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC-e26L0Gv3tTlL4j8dWLe6A",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-11-04T21:08:39Z",
       "duration": "01:39:01",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "53ys5A5VfdE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=53ys5A5VfdE"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2023-05-25T16:05:12Z",
       "duration": "01:12:52",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-8dV3GoO4mI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-8dV3GoO4mI"
       }
     }

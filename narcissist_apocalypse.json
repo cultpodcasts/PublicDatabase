@@ -3,7 +3,6 @@
   "name": "Narcissist Apocalypse",
   "spotifyId": "3MYWa9mrMlN3FSTLiFkK7F",
   "appleId": 1452117002,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "35f7980f-ee2f-4e9a-b3ae-dda000c80ed9",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "5PwLLlqSx989gfy2xeiKgD",
       "appleId": 1000619734886,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5PwLLlqSx989gfy2xeiKgD",
-        "apple": "https://podcasts.apple.com/podcast/cults-the-bite-model-of-authoritarian-control/id1452117002?i=1000619734886",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/cults-the-bite-model-of-authoritarian-control/id1452117002?i=1000619734886"
       }
     }
   ]

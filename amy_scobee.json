@@ -1,8 +1,6 @@
 {
   "id": "2033c5f4-5dc5-42e2-9973-1a9beeec7b79",
   "name": "Amy Scobee",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCFscZDFNhtAoueALCSDW44A",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-07-01T02:34:07Z",
       "duration": "00:16:18",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "WLtVjaJF_2A",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=WLtVjaJF_2A"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "d4ed8e5c-40c8-4826-ae63-2de75b501fa2",
   "name": "This Morning",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UChFsYLqPUyLiZnfRog6wiZA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-08-25T10:35:24Z",
       "duration": "00:11:19",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "N8aABrjMZSs",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=N8aABrjMZSs"
       }
     }

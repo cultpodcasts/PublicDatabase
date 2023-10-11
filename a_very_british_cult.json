@@ -3,7 +3,6 @@
   "name": "A Very British Cult",
   "spotifyId": "5dtqSBKauSYP7vRoxTw5k7",
   "appleId": 1679737896,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "be8342de-698c-4e30-b4f1-e839559fea15",
@@ -14,7 +13,6 @@
       "explicit": false,
       "spotifyId": "0cLih8v92RbdMm1WTHgcV3",
       "appleId": 1000607444539,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -27,8 +25,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cLih8v92RbdMm1WTHgcV3",
-        "apple": "https://podcasts.apple.com/podcast/7-us-and-them/id1679737896?i=1000607444539",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/7-us-and-them/id1679737896?i=1000607444539"
       }
     },
     {
@@ -40,7 +37,6 @@
       "explicit": false,
       "spotifyId": "0fKg8k99rc9q7vNgsuCvH9",
       "appleId": 1000607446084,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -53,8 +49,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0fKg8k99rc9q7vNgsuCvH9",
-        "apple": "https://podcasts.apple.com/podcast/8-the-showdown/id1679737896?i=1000607446084",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/8-the-showdown/id1679737896?i=1000607446084"
       }
     },
     {
@@ -66,7 +61,6 @@
       "explicit": true,
       "spotifyId": "6nkNsh0tz6roKHqT9VtXLL",
       "appleId": 1000607440010,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -79,8 +73,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6nkNsh0tz6roKHqT9VtXLL",
-        "apple": "https://podcasts.apple.com/podcast/1-lighthouse/id1679737896?i=1000607440010",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/1-lighthouse/id1679737896?i=1000607440010"
       }
     },
     {
@@ -92,7 +85,6 @@
       "explicit": true,
       "spotifyId": "6P4KAnkqW7U7arFXrJB4J1",
       "appleId": 1000607442279,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -105,8 +97,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6P4KAnkqW7U7arFXrJB4J1",
-        "apple": "https://podcasts.apple.com/podcast/2-the-daily-call/id1679737896?i=1000607442279",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/2-the-daily-call/id1679737896?i=1000607442279"
       }
     },
     {
@@ -118,7 +109,6 @@
       "explicit": false,
       "spotifyId": "53KQbxfmpvJEGn8vFj5YL6",
       "appleId": 1000607442328,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -131,8 +121,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/53KQbxfmpvJEGn8vFj5YL6",
-        "apple": "https://podcasts.apple.com/podcast/3-the-life-coach/id1679737896?i=1000607442328",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/3-the-life-coach/id1679737896?i=1000607442328"
       }
     },
     {
@@ -144,7 +133,6 @@
       "explicit": true,
       "spotifyId": "0noSgOpJotqDU0uw7dgGM1",
       "appleId": 1000607442302,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -157,8 +145,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0noSgOpJotqDU0uw7dgGM1",
-        "apple": "https://podcasts.apple.com/podcast/4-getting-out/id1679737896?i=1000607442302",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/4-getting-out/id1679737896?i=1000607442302"
       }
     },
     {
@@ -170,7 +157,6 @@
       "explicit": true,
       "spotifyId": "2x1aAnvWxhl9v1jshqS1p4",
       "appleId": 1000607443011,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -183,8 +169,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2x1aAnvWxhl9v1jshqS1p4",
-        "apple": "https://podcasts.apple.com/podcast/5-paulie/id1679737896?i=1000607443011",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/5-paulie/id1679737896?i=1000607443011"
       }
     },
     {
@@ -196,7 +181,6 @@
       "explicit": false,
       "spotifyId": "3amtUDfCQprRjJtgWAnAgM",
       "appleId": 1000607444538,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -209,8 +193,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3amtUDfCQprRjJtgWAnAgM",
-        "apple": "https://podcasts.apple.com/podcast/6-control/id1679737896?i=1000607444538",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/6-control/id1679737896?i=1000607444538"
       }
     },
     {
@@ -222,7 +205,6 @@
       "explicit": false,
       "spotifyId": "5Rr9jRzrjOFOcJiAauLAGH",
       "appleId": 1000606429265,
-      "youTubeId": null,
       "subjects": [
         "LIG",
         "Lighthouse International Group",
@@ -235,8 +217,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Rr9jRzrjOFOcJiAauLAGH",
-        "apple": "https://podcasts.apple.com/podcast/welcome-to-a-very-british-cult/id1679737896?i=1000606429265",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-a-very-british-cult/id1679737896?i=1000606429265"
       }
     }
   ]

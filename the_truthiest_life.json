@@ -3,7 +3,6 @@
   "name": "The Truthiest Life",
   "spotifyId": "2bDQHVu9dEVcFlHPxJr5Pz",
   "appleId": 1535516122,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "1c36d208-14fd-4ea7-be7a-1dd946658d94",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "49IOLcHq5XEKXd7gCtnHSj",
       "appleId": 1000608919062,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/49IOLcHq5XEKXd7gCtnHSj",
-        "apple": "https://podcasts.apple.com/podcast/surviving-a-sex-cult-ft-sylvie-lloyd-part-1/id1535516122?i=1000608919062",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/surviving-a-sex-cult-ft-sylvie-lloyd-part-1/id1535516122?i=1000608919062"
       }
     }
   ]

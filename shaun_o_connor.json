@@ -1,8 +1,6 @@
 {
   "id": "aee50fa8-013c-4996-ba69-fe82185bd01a",
   "name": "Shaun O Connor",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCh8nHt-WrUDSrmV2sW-U4wA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:11",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "VA98Uy1pc0Y",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=VA98Uy1pc0Y"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:09:57",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "7wWhkNLgonY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=7wWhkNLgonY"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:06",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "X2iWi5Q5T-E",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=X2iWi5Q5T-E"
       }
     },
@@ -63,13 +49,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:01",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "GnAEMOwo-n8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=GnAEMOwo-n8"
       }
     },
@@ -80,13 +62,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:09:52",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "8Qi9EZj_uRI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=8Qi9EZj_uRI"
       }
     },
@@ -97,13 +75,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "K7ODdmeVLIA",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=K7ODdmeVLIA"
       }
     },
@@ -114,13 +88,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:09:50",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "zaDfrgQQS00",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=zaDfrgQQS00"
       }
     },
@@ -131,13 +101,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:09:49",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "pnCaJ391LTA",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=pnCaJ391LTA"
       }
     },
@@ -148,13 +114,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:08",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Bz28RrtMl_0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Bz28RrtMl_0"
       }
     },
@@ -165,13 +127,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:19",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "GD6d2VZtY58",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=GD6d2VZtY58"
       }
     },
@@ -182,13 +140,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:08:19",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "IGZCzN33GKk",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=IGZCzN33GKk"
       }
     },
@@ -199,13 +153,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:10:33",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "GoNgJSGgYr0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=GoNgJSGgYr0"
       }
     },
@@ -216,13 +166,9 @@
       "release": "2009-01-29T18:53:31Z",
       "duration": "00:08:17",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "HDVkVY2wvhQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=HDVkVY2wvhQ"
       }
     },
@@ -233,13 +179,9 @@
       "release": "2009-01-29T18:53:30Z",
       "duration": "00:03:39",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "9vrtKuaCjas",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=9vrtKuaCjas"
       }
     },
@@ -250,13 +192,9 @@
       "release": "2009-01-29T18:53:30Z",
       "duration": "00:08:47",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "4Aju1tTsti4",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=4Aju1tTsti4"
       }
     },
@@ -267,13 +205,9 @@
       "release": "2009-01-28T18:55:33Z",
       "duration": "00:07:58",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ScVBJPGeEio",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ScVBJPGeEio"
       }
     }

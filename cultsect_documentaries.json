@@ -1,8 +1,6 @@
 {
   "id": "6cea9710-bf15-4c09-960f-bde0502e2a21",
   "name": "Cult \u0026 Sect Documentaries",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UClkXc1-Rku52l7nPam3LQiQ",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-03-22T16:00:30Z",
       "duration": "00:57:59",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "cqvfmHbEP30",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=cqvfmHbEP30"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2022-03-29T15:00:04Z",
       "duration": "01:35:31",
       "explicit": true,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "9nIpHWOk9mI",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=9nIpHWOk9mI"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2022-03-25T16:00:25Z",
       "duration": "00:56:24",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "uit5KM9ZLeY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=uit5KM9ZLeY"
       }
     }

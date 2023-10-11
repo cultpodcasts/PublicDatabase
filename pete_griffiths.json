@@ -1,8 +1,6 @@
 {
   "id": "99de9904-3f5d-44ec-8b90-1bd7548e88b4",
   "name": "Pete Griffiths",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UC7MA7YojnQaIoUqUqvTZ4rg",
   "episodes": [
     {
@@ -14,12 +12,10 @@
       "explicit": true,
       "spotifyId": "2tiM4RUzdqsAOSn3EbIgUW",
       "appleId": 1000440578347,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tiM4RUzdqsAOSn3EbIgUW",
-        "apple": "https://podcasts.apple.com/podcast/part-one-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440578347",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-one-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440578347"
       }
     },
     {
@@ -29,13 +25,9 @@
       "release": "2015-12-13T22:49:51Z",
       "duration": "00:08:38",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "5Q7N-C6lm-E",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=5Q7N-C6lm-E"
       }
     }

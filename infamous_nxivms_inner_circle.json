@@ -3,7 +3,6 @@
   "name": "Infamous: NXIVM\u0027s Inner Circle",
   "spotifyId": "2MKpYJq6wdfEggxkG8SeoH",
   "appleId": 1702731406,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "8922ed61-500c-402c-a6e2-bb47e2dfe460",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "2CEOP49Se7LpGF8PLCnyr4",
       "appleId": 1000629906188,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2CEOP49Se7LpGF8PLCnyr4",
-        "apple": "https://podcasts.apple.com/podcast/the-horse-queen-scandal-that-destroyed-dixon-il/id1702731406?i=1000629906188",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-horse-queen-scandal-that-destroyed-dixon-il/id1702731406?i=1000629906188"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": true,
       "spotifyId": "4jA0Kal2EYHPAxEOQoENWu",
       "appleId": 1000627475882,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4jA0Kal2EYHPAxEOQoENWu",
-        "apple": "https://podcasts.apple.com/podcast/the-man-who-almost-got-away-with-a-%2420-million-art-fraud/id1702731406?i=1000627475882",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-man-who-almost-got-away-with-a-%2420-million-art-fraud/id1702731406?i=1000627475882"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": true,
       "spotifyId": "3p2Pc4JPx9zDlEORpfe8bB",
       "appleId": 1000624549129,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3p2Pc4JPx9zDlEORpfe8bB",
-        "apple": "https://podcasts.apple.com/podcast/part-6/id1702731406?i=1000624549129",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-6/id1702731406?i=1000624549129"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": true,
       "spotifyId": "5ADVDH5p1ZTOObldtRwDe4",
       "appleId": 1000624548940,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ADVDH5p1ZTOObldtRwDe4",
-        "apple": "https://podcasts.apple.com/podcast/part-5/id1702731406?i=1000624548940",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-5/id1702731406?i=1000624548940"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": true,
       "spotifyId": "3Y8TouOnwX5YdebaoMgZhm",
       "appleId": 1000624549035,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Y8TouOnwX5YdebaoMgZhm",
-        "apple": "https://podcasts.apple.com/podcast/part-4/id1702731406?i=1000624549035",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-4/id1702731406?i=1000624549035"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": true,
       "spotifyId": "7geN5xQ2tICanUDUfZkvop",
       "appleId": 1000624548994,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7geN5xQ2tICanUDUfZkvop",
-        "apple": "https://podcasts.apple.com/podcast/part-3/id1702731406?i=1000624548994",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-3/id1702731406?i=1000624548994"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": true,
       "spotifyId": "4iOrsQvhV6REKauwyHbatO",
       "appleId": 1000624549053,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4iOrsQvhV6REKauwyHbatO",
-        "apple": "https://podcasts.apple.com/podcast/part-2/id1702731406?i=1000624549053",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-2/id1702731406?i=1000624549053"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": true,
       "spotifyId": "1mi6ujYG8NLEFXvmI4ARIT",
       "appleId": 1000624548979,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mi6ujYG8NLEFXvmI4ARIT",
-        "apple": "https://podcasts.apple.com/podcast/part-1/id1702731406?i=1000624548979",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/part-1/id1702731406?i=1000624548979"
       }
     }
   ]

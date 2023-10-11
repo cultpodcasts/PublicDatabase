@@ -209,7 +209,6 @@
       "explicit": true,
       "spotifyId": "0f0Fe5o8gDwd7TWj56eXBp",
       "appleId": 1000623854981,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)"
       ],
@@ -228,7 +227,6 @@
       "explicit": false,
       "spotifyId": "7iRY5FDeqH4jPUN1zXLosf",
       "appleId": 1000622960102,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)",
         "Children of God/Family International"
@@ -248,7 +246,6 @@
       "explicit": false,
       "spotifyId": "0dqa3nZLNMmnhxSkCf3swI",
       "appleId": 1000622957282,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)"
       ],
@@ -267,7 +264,6 @@
       "explicit": true,
       "spotifyId": "7AQyhUfbTx5TmMUW7UvTIG",
       "appleId": 1000622643847,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7AQyhUfbTx5TmMUW7UvTIG",
@@ -284,7 +280,6 @@
       "explicit": true,
       "spotifyId": "11kveBs4FJxU9NT0E8PDgu",
       "appleId": 1000621691191,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)"
       ],
@@ -303,7 +298,6 @@
       "explicit": true,
       "spotifyId": "6XIrTGMlbsEdGTXIkzdeuv",
       "appleId": 1000620978570,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)"
       ],
@@ -322,7 +316,6 @@
       "explicit": true,
       "spotifyId": "2xxeHFRag3Fk4gwlQpSiag",
       "appleId": 1000619478670,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)"
       ],
@@ -341,7 +334,6 @@
       "explicit": true,
       "spotifyId": "7bQWhqQCEN88TITMqdPbnJ",
       "appleId": 1000618897632,
-      "youTubeId": null,
       "subjects": [
         "Plymouth Brethren Christian Church (PBCC)"
       ],
@@ -360,12 +352,10 @@
       "explicit": false,
       "spotifyId": "4Q2FINjcGC1i59zcgxmeIn",
       "appleId": 1000617766584,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Q2FINjcGC1i59zcgxmeIn",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-55-with-guest-todd-coulter/id1651686638?i=1000617766584",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-55-with-guest-todd-coulter/id1651686638?i=1000617766584"
       }
     },
     {
@@ -377,7 +367,6 @@
       "explicit": false,
       "spotifyId": "5MImWjQB02RoOui5PB4grN",
       "appleId": 1000616100587,
-      "youTubeId": null,
       "subjects": [
         "Odyssey Study Group"
       ],
@@ -396,7 +385,6 @@
       "explicit": false,
       "spotifyId": "24ssL66UfLTL825DzesaIS",
       "appleId": 1000615299120,
-      "youTubeId": null,
       "subjects": [
         "Odyssey Study Group"
       ],
@@ -415,12 +403,10 @@
       "explicit": false,
       "spotifyId": "2xAG68MvxdK4m7mA1Bf6hI",
       "appleId": 1000615078011,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2xAG68MvxdK4m7mA1Bf6hI",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-47-with-guest-rowan-scott/id1651686638?i=1000615078011",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-47-with-guest-rowan-scott/id1651686638?i=1000615078011"
       }
     },
     {
@@ -432,12 +418,10 @@
       "explicit": false,
       "spotifyId": "0PXX2Y5KFg7O9mAhW4klma",
       "appleId": 1000615073387,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0PXX2Y5KFg7O9mAhW4klma",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-carman-addresses-walt-vern-and/id1651686638?i=1000615073387",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-carman-addresses-walt-vern-and/id1651686638?i=1000615073387"
       }
     },
     {
@@ -449,12 +433,10 @@
       "explicit": false,
       "spotifyId": "00o5Bep0HwT4i75MOuG2Ui",
       "appleId": 1000613131469,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/00o5Bep0HwT4i75MOuG2Ui",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-52-with-guest-dean-wheeler/id1651686638?i=1000613131469",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-52-with-guest-dean-wheeler/id1651686638?i=1000613131469"
       }
     },
     {
@@ -466,12 +448,10 @@
       "explicit": false,
       "spotifyId": "0jStXpvvy7kzT2Yy9tzul1",
       "appleId": 1000612020498,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0jStXpvvy7kzT2Yy9tzul1",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-51-with-guest-abi-thompson-part-3/id1651686638?i=1000612020498",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-51-with-guest-abi-thompson-part-3/id1651686638?i=1000612020498"
       }
     },
     {
@@ -483,12 +463,10 @@
       "explicit": false,
       "spotifyId": "0nYO0nfUZZdIoG5g2PesCa",
       "appleId": 1000611227041,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nYO0nfUZZdIoG5g2PesCa",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-50-with-guest-abi-thompson-part-2/id1651686638?i=1000611227041",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-50-with-guest-abi-thompson-part-2/id1651686638?i=1000611227041"
       }
     },
     {
@@ -500,12 +478,10 @@
       "explicit": false,
       "spotifyId": "1MtARSjzJQcpSETUzdDK0k",
       "appleId": 1000611224796,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1MtARSjzJQcpSETUzdDK0k",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-49-with-guest-abi-thompson-part-1/id1651686638?i=1000611224796",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-49-with-guest-abi-thompson-part-1/id1651686638?i=1000611224796"
       }
     },
     {
@@ -517,12 +493,10 @@
       "explicit": false,
       "spotifyId": "0BxdIZfgQCUANOrOHRG0VK",
       "appleId": 1000610797767,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0BxdIZfgQCUANOrOHRG0VK",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-48-with-guest-murray-chattell/id1651686638?i=1000610797767",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-48-with-guest-murray-chattell/id1651686638?i=1000610797767"
       }
     },
     {
@@ -534,12 +508,10 @@
       "explicit": false,
       "spotifyId": "4emZrdqQeIk3wPNEVzScBT",
       "appleId": 1000609408333,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4emZrdqQeIk3wPNEVzScBT",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-46-with-guest-stephen-gear/id1651686638?i=1000609408333",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-46-with-guest-stephen-gear/id1651686638?i=1000609408333"
       }
     },
     {
@@ -551,12 +523,10 @@
       "explicit": false,
       "spotifyId": "6s1Tw13hPvpY6n5giOl1mc",
       "appleId": 1000608891077,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6s1Tw13hPvpY6n5giOl1mc",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-45-with-guest-lindy-jacomb/id1651686638?i=1000608891077",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-45-with-guest-lindy-jacomb/id1651686638?i=1000608891077"
       }
     },
     {
@@ -568,12 +538,10 @@
       "explicit": false,
       "spotifyId": "5KxQPc8pSDxk1RQwjlD8f7",
       "appleId": 1000608807858,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5KxQPc8pSDxk1RQwjlD8f7",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-44-with-guest-cassie-davies/id1651686638?i=1000608807858",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-44-with-guest-cassie-davies/id1651686638?i=1000608807858"
       }
     },
     {
@@ -585,12 +553,10 @@
       "explicit": false,
       "spotifyId": "5NIRVW6ocBB3b06MZIoypI",
       "appleId": 1000607782314,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5NIRVW6ocBB3b06MZIoypI",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-43-with-guest-fritz-penney/id1651686638?i=1000607782314",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-43-with-guest-fritz-penney/id1651686638?i=1000607782314"
       }
     },
     {
@@ -602,12 +568,10 @@
       "explicit": false,
       "spotifyId": "4Chz1ffFAsljQQlvEtk5kU",
       "appleId": 1000607272604,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Chz1ffFAsljQQlvEtk5kU",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-42/id1651686638?i=1000607272604",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-42/id1651686638?i=1000607272604"
       }
     },
     {
@@ -619,12 +583,10 @@
       "explicit": false,
       "spotifyId": "5c6YhmDimrJgpIt03Fm3w3",
       "appleId": 1000606820100,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5c6YhmDimrJgpIt03Fm3w3",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-41-with-guest-ross-turner/id1651686638?i=1000606820100",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-41-with-guest-ross-turner/id1651686638?i=1000606820100"
       }
     },
     {
@@ -635,13 +597,10 @@
       "duration": "01:40:03.7330000",
       "explicit": false,
       "spotifyId": "0taPZ1ueyT3pB7RiKSU18o",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0taPZ1ueyT3pB7RiKSU18o",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-40/id1651686638?i=1000606273682",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-40/id1651686638?i=1000606273682"
       }
     },
     {
@@ -653,12 +612,10 @@
       "explicit": false,
       "spotifyId": "1kRHPNVfeCYjvxXcUKq8h5",
       "appleId": 1000605822119,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1kRHPNVfeCYjvxXcUKq8h5",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-39/id1651686638?i=1000605822119",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-39/id1651686638?i=1000605822119"
       }
     },
     {
@@ -670,12 +627,10 @@
       "explicit": false,
       "spotifyId": "03Z4IhRj8Kmql6rLfZt7iU",
       "appleId": 1000605101340,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/03Z4IhRj8Kmql6rLfZt7iU",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-38/id1651686638?i=1000605101340",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ex-cult-conversations-episode-38/id1651686638?i=1000605101340"
       }
     },
     {
@@ -687,12 +642,10 @@
       "explicit": false,
       "spotifyId": "1pK7BlHtKojnM7w2VuBSuE",
       "appleId": 1000604033117,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1pK7BlHtKojnM7w2VuBSuE",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-36-with-guest-ben-woodbury/id1651686638?i=1000604033117",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-36-with-guest-ben-woodbury/id1651686638?i=1000604033117"
       }
     },
     {
@@ -704,12 +657,10 @@
       "explicit": false,
       "spotifyId": "0C9AzBSoGKnkIbAeEhcmgE",
       "appleId": 1000603464388,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0C9AzBSoGKnkIbAeEhcmgE",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-35-with-guest-gilli-john-gilliland/id1651686638?i=1000603464388",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-35-with-guest-gilli-john-gilliland/id1651686638?i=1000603464388"
       }
     },
     {
@@ -721,12 +672,10 @@
       "explicit": false,
       "spotifyId": "17GV8v8iG76zz9lNrNkg3K",
       "appleId": 1000603106652,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/17GV8v8iG76zz9lNrNkg3K",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-34-with-john-spinks-and-the-new-uk-team/id1651686638?i=1000603106652",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-34-with-john-spinks-and-the-new-uk-team/id1651686638?i=1000603106652"
       }
     },
     {
@@ -738,12 +687,10 @@
       "explicit": false,
       "spotifyId": "6eMFI5MKe0tEde2s3Du3X1",
       "appleId": 1000602657383,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6eMFI5MKe0tEde2s3Du3X1",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-33-with-daniel-mounter/id1651686638?i=1000602657383",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-33-with-daniel-mounter/id1651686638?i=1000602657383"
       }
     },
     {
@@ -755,12 +702,10 @@
       "explicit": false,
       "spotifyId": "43XouzZcqBiItKoyJ6cwCB",
       "appleId": 1000602218909,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/43XouzZcqBiItKoyJ6cwCB",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-32-with-dennis-wragge/id1651686638?i=1000602218909",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-32-with-dennis-wragge/id1651686638?i=1000602218909"
       }
     },
     {
@@ -772,12 +717,10 @@
       "explicit": false,
       "spotifyId": "7bM3I4YUHwCmqJfCiBJVTk",
       "appleId": 1000601216024,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7bM3I4YUHwCmqJfCiBJVTk",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-29-sydney-seminar-2023-review/id1651686638?i=1000601216024",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-29-sydney-seminar-2023-review/id1651686638?i=1000601216024"
       }
     },
     {
@@ -789,12 +732,10 @@
       "explicit": false,
       "spotifyId": "12c8hYzNhrqQDGSPbWyZ35",
       "appleId": 1000601209578,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/12c8hYzNhrqQDGSPbWyZ35",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-31-aberdeen/id1651686638?i=1000601209578",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-31-aberdeen/id1651686638?i=1000601209578"
       }
     },
     {
@@ -806,12 +747,10 @@
       "explicit": false,
       "spotifyId": "3DrILr7t2SGq8DHTf248O9",
       "appleId": 1000600411740,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3DrILr7t2SGq8DHTf248O9",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-30-with-guest-dan-middleton/id1651686638?i=1000600411740",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-30-with-guest-dan-middleton/id1651686638?i=1000600411740"
       }
     },
     {
@@ -823,12 +762,10 @@
       "explicit": false,
       "spotifyId": "38Q7zRgPMlQ95qQdirrBDx",
       "appleId": 1000598973662,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/38Q7zRgPMlQ95qQdirrBDx",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-28-with-rob-mclean/id1651686638?i=1000598973662",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-28-with-rob-mclean/id1651686638?i=1000598973662"
       }
     },
     {
@@ -840,12 +777,10 @@
       "explicit": false,
       "spotifyId": "1QxzVwqVab5BhNPjtw2Bw2",
       "appleId": 1000598195212,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1QxzVwqVab5BhNPjtw2Bw2",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-27-with-carman-drever-re-ken/id1651686638?i=1000598195212",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-27-with-carman-drever-re-ken/id1651686638?i=1000598195212"
       }
     },
     {
@@ -857,12 +792,10 @@
       "explicit": false,
       "spotifyId": "3Uu1f0KLZ9cAdSEtDLCuvQ",
       "appleId": 1000597666548,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Uu1f0KLZ9cAdSEtDLCuvQ",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-26-with-david-and-nic%C3%A9-shorto/id1651686638?i=1000597666548",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-26-with-david-and-nic%C3%A9-shorto/id1651686638?i=1000597666548"
       }
     },
     {
@@ -874,12 +807,10 @@
       "explicit": false,
       "spotifyId": "0VNKf3mp6tRd5mRvQZ4pAw",
       "appleId": 1000597202087,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0VNKf3mp6tRd5mRvQZ4pAw",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-25-with-guest-mike-kropveld/id1651686638?i=1000597202087",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-25-with-guest-mike-kropveld/id1651686638?i=1000597202087"
       }
     },
     {
@@ -891,12 +822,10 @@
       "explicit": false,
       "spotifyId": "5i2aBBOW24Gdpzbzckwdy0",
       "appleId": 1000596678766,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5i2aBBOW24Gdpzbzckwdy0",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-24-with-guest-bradley-mccallum/id1651686638?i=1000596678766",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-24-with-guest-bradley-mccallum/id1651686638?i=1000596678766"
       }
     },
     {
@@ -908,12 +837,10 @@
       "explicit": false,
       "spotifyId": "4H4pXGcoHHyaRB6oVMEQHa",
       "appleId": 1000596012822,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4H4pXGcoHHyaRB6oVMEQHa",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-23-with-special-guest-tina-nystrom/id1651686638?i=1000596012822",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-23-with-special-guest-tina-nystrom/id1651686638?i=1000596012822"
       }
     },
     {
@@ -925,12 +852,10 @@
       "explicit": false,
       "spotifyId": "4L0SAlxnHIq2rHmzBwGhzc",
       "appleId": 1000594451459,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4L0SAlxnHIq2rHmzBwGhzc",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-21-with-guest-jen-hope-tracy/id1651686638?i=1000594451459",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-21-with-guest-jen-hope-tracy/id1651686638?i=1000594451459"
       }
     },
     {
@@ -942,12 +867,10 @@
       "explicit": false,
       "spotifyId": "3ZP5WoAl33CvpwvuxGx9qt",
       "appleId": 1000593062501,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ZP5WoAl33CvpwvuxGx9qt",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-19-strive-23-one-school-global/id1651686638?i=1000593062501",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-19-strive-23-one-school-global/id1651686638?i=1000593062501"
       }
     },
     {
@@ -959,12 +882,10 @@
       "explicit": false,
       "spotifyId": "6JaqcZf10pW8Di1dW9lYGp",
       "appleId": 1000592570680,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6JaqcZf10pW8Di1dW9lYGp",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-18-with-guest-ros-atmore/id1651686638?i=1000592570680",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-18-with-guest-ros-atmore/id1651686638?i=1000592570680"
       }
     },
     {
@@ -976,12 +897,10 @@
       "explicit": false,
       "spotifyId": "1DDdkbWfer8CxsjxNHzsgF",
       "appleId": 1000591998808,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1DDdkbWfer8CxsjxNHzsgF",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-17-with-guest-jacky-hart/id1651686638?i=1000591998808",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-17-with-guest-jacky-hart/id1651686638?i=1000591998808"
       }
     },
     {
@@ -993,12 +912,10 @@
       "explicit": false,
       "spotifyId": "533er0Yy7JgllPVjZo4FHP",
       "appleId": 1000591802467,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/533er0Yy7JgllPVjZo4FHP",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-16-2022-year-in-review/id1651686638?i=1000591802467",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-16-2022-year-in-review/id1651686638?i=1000591802467"
       }
     },
     {
@@ -1010,12 +927,10 @@
       "explicit": false,
       "spotifyId": "4z6KMeCXMSaWmbBbRzh209",
       "appleId": 1000591560307,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4z6KMeCXMSaWmbBbRzh209",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-15-with-guest-anne-hamilton/id1651686638?i=1000591560307",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-15-with-guest-anne-hamilton/id1651686638?i=1000591560307"
       }
     },
     {
@@ -1027,12 +942,10 @@
       "explicit": false,
       "spotifyId": "2GddYbphcWbAKPj4f6Smmd",
       "appleId": 1000591367064,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GddYbphcWbAKPj4f6Smmd",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-14-with-guest-peter-hart-pt-2/id1651686638?i=1000591367064",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-14-with-guest-peter-hart-pt-2/id1651686638?i=1000591367064"
       }
     },
     {
@@ -1044,12 +957,10 @@
       "explicit": false,
       "spotifyId": "3if8pB5WkFonM16PR2EAuQ",
       "appleId": 1000591014163,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3if8pB5WkFonM16PR2EAuQ",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-13-with-guest-peter-hart/id1651686638?i=1000591014163",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-13-with-guest-peter-hart/id1651686638?i=1000591014163"
       }
     },
     {
@@ -1061,12 +972,10 @@
       "explicit": true,
       "spotifyId": "07Eec5RP4dejTFNR1VaPIp",
       "appleId": 1000590770205,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/07Eec5RP4dejTFNR1VaPIp",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-12-with-guest-jill-aebi-mytton/id1651686638?i=1000590770205",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-12-with-guest-jill-aebi-mytton/id1651686638?i=1000590770205"
       }
     },
     {
@@ -1078,12 +987,10 @@
       "explicit": true,
       "spotifyId": "6PIihuoNeAVCr1xkbg330i",
       "appleId": 1000590453090,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6PIihuoNeAVCr1xkbg330i",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-11-with-guest-braden-simmons/id1651686638?i=1000590453090",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-podcast-ep-11-with-guest-braden-simmons/id1651686638?i=1000590453090"
       }
     },
     {
@@ -1095,12 +1002,10 @@
       "explicit": true,
       "spotifyId": "7phh9nYkTYBQ8sxiR6uspQ",
       "appleId": 1000589447203,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7phh9nYkTYBQ8sxiR6uspQ",
-        "apple": "https://podcasts.apple.com/podcast/episode-10-jim-clarkson/id1651686638?i=1000589447203",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-10-jim-clarkson/id1651686638?i=1000589447203"
       }
     },
     {
@@ -1112,12 +1017,10 @@
       "explicit": true,
       "spotifyId": "0iVDCwqOWXswHadAri5j03",
       "appleId": 1000589133907,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0iVDCwqOWXswHadAri5j03",
-        "apple": "https://podcasts.apple.com/podcast/episode-9-craig-hoyle-reflects-on-being-gay-in-the-pbcc/id1651686638?i=1000589133907",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-9-craig-hoyle-reflects-on-being-gay-in-the-pbcc/id1651686638?i=1000589133907"
       }
     },
     {
@@ -1129,12 +1032,10 @@
       "explicit": true,
       "spotifyId": "6uKauSeTfbpTLi2AhoZgLu",
       "appleId": 1000588258384,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6uKauSeTfbpTLi2AhoZgLu",
-        "apple": "https://podcasts.apple.com/podcast/episode-8-beth-seed/id1651686638?i=1000588258384",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-8-beth-seed/id1651686638?i=1000588258384"
       }
     },
     {
@@ -1146,12 +1047,10 @@
       "explicit": true,
       "spotifyId": "75flwWEWN5E1r0ffdYb0Al",
       "appleId": 1000587360277,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75flwWEWN5E1r0ffdYb0Al",
-        "apple": "https://podcasts.apple.com/podcast/episode-7-leaving-the-pbcc-our-stories/id1651686638?i=1000587360277",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-7-leaving-the-pbcc-our-stories/id1651686638?i=1000587360277"
       }
     },
     {
@@ -1163,12 +1062,10 @@
       "explicit": true,
       "spotifyId": "4GkZlWxY8Erzi5RbGS34pd",
       "appleId": 1000586529902,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4GkZlWxY8Erzi5RbGS34pd",
-        "apple": "https://podcasts.apple.com/podcast/episode-6-what-its-like-working-for-the-ppbc-with-christine/id1651686638?i=1000586529902",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-6-what-its-like-working-for-the-ppbc-with-christine/id1651686638?i=1000586529902"
       }
     },
     {
@@ -1180,12 +1077,10 @@
       "explicit": true,
       "spotifyId": "1YX1MbBjFoTPeboceUMSeZ",
       "appleId": 1000585740790,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1YX1MbBjFoTPeboceUMSeZ",
-        "apple": "https://podcasts.apple.com/podcast/episode-5-lara-paynes-story/id1651686638?i=1000585740790",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-5-lara-paynes-story/id1651686638?i=1000585740790"
       }
     },
     {
@@ -1197,12 +1092,10 @@
       "explicit": true,
       "spotifyId": "51uTFeylHVjPQJUG8QZTXq",
       "appleId": 1000584889799,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/51uTFeylHVjPQJUG8QZTXq",
-        "apple": "https://podcasts.apple.com/podcast/episode-4-carman-drevers-story/id1651686638?i=1000584889799",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-4-carman-drevers-story/id1651686638?i=1000584889799"
       }
     },
     {
@@ -1214,12 +1107,10 @@
       "explicit": true,
       "spotifyId": "5rsN5KuMnv4LBSA2qdlcae",
       "appleId": 1000584059161,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5rsN5KuMnv4LBSA2qdlcae",
-        "apple": "https://podcasts.apple.com/podcast/episode-3-the-pbcc-and-religious-trauma-with-pam-danylchuk/id1651686638?i=1000584059161",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-3-the-pbcc-and-religious-trauma-with-pam-danylchuk/id1651686638?i=1000584059161"
       }
     },
     {
@@ -1231,12 +1122,10 @@
       "explicit": true,
       "spotifyId": "4iGZ40fetNACQppfn4dpGw",
       "appleId": 1000583997390,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4iGZ40fetNACQppfn4dpGw",
-        "apple": "https://podcasts.apple.com/podcast/episode-2-what-are-the-klondike-papers-how-does-the/id1651686638?i=1000583997390",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-2-what-are-the-klondike-papers-how-does-the/id1651686638?i=1000583997390"
       }
     },
     {
@@ -1248,12 +1137,10 @@
       "explicit": true,
       "spotifyId": "0N3chFSpFYQWgVxL9VRHkn",
       "appleId": 1000583997421,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0N3chFSpFYQWgVxL9VRHkn",
-        "apple": "https://podcasts.apple.com/podcast/episode-1-who-are-the-pbcc/id1651686638?i=1000583997421",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/episode-1-who-are-the-pbcc/id1651686638?i=1000583997421"
       }
     }
   ]

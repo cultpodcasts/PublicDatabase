@@ -1,8 +1,6 @@
 {
   "id": "3dfc31af-a9bb-4523-883a-10822c66037d",
   "name": "Yoga Union",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCch2HgcFVh0FX4Ml-c2gb9Q",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2020-12-01T07:20:37Z",
       "duration": "00:36:46",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "VIO4IFtxzHQ",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=VIO4IFtxzHQ"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "3115ab00-1e09-442b-a720-598467c234ed",
   "name": "Extreme Beliefs",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCgAIqC271ZCiFKdKg9QU5Aw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2023-09-08T14:43:01Z",
       "duration": "00:54:51",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "TJm0UEPBEbA",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=TJm0UEPBEbA"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "9daa71e7-e45b-4748-862a-921fb6158a98",
   "name": "Weird Reads with Emily Louise",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCs4nw0vqSbymJ-ZguMS2-RQ",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2022-06-30T20:00:02Z",
       "duration": "00:46:20",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "80Gl74Sra04",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=80Gl74Sra04"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2022-04-13T20:00:02Z",
       "duration": "01:26:36",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "jsKt4edO98w",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=jsKt4edO98w"
       }
     },
@@ -46,13 +36,9 @@
       "release": "2022-02-03T21:59:44Z",
       "duration": "00:42:23",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "TUyNVg3qQ1A",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=TUyNVg3qQ1A"
       }
     },
@@ -63,13 +49,9 @@
       "release": "2022-01-24T19:27:57Z",
       "duration": "01:16:55",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "aoPvYGtNHlU",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=aoPvYGtNHlU"
       }
     },
@@ -80,13 +62,9 @@
       "release": "2021-12-10T17:00:23Z",
       "duration": "01:05:17",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "gzews0N1Bw8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=gzews0N1Bw8"
       }
     },
@@ -97,13 +75,9 @@
       "release": "2021-10-21T16:00:27Z",
       "duration": "00:42:12",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "yafGp3T8aYo",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=yafGp3T8aYo"
       }
     }

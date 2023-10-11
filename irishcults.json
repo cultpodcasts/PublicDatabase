@@ -1,8 +1,6 @@
 {
   "id": "4beddee5-bd90-4729-8c81-be0b752207a3",
   "name": "IrishCults",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCGc-a0iqO5hcPtXwC7eyzwQ",
   "episodes": [
     {
@@ -12,8 +10,6 @@
       "release": "2009-02-01T19:26:22Z",
       "duration": "00:09:08",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-aN53h0Ccr0",
       "subjects": [
         "Dr. Tony Quinn",
@@ -25,8 +21,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-aN53h0Ccr0"
       }
     },
@@ -37,8 +31,6 @@
       "release": "2009-02-01T23:17:59Z",
       "duration": "00:09:56",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "xDLAYUh7vpo",
       "subjects": [
         "Dr. Tony Quinn",
@@ -50,8 +42,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=xDLAYUh7vpo"
       }
     },
@@ -62,8 +52,6 @@
       "release": "2009-02-05T15:01:50Z",
       "duration": "00:10:14",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "LOsB5diGAmk",
       "subjects": [
         "Dr. Tony Quinn",
@@ -75,8 +63,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=LOsB5diGAmk"
       }
     },
@@ -87,8 +73,6 @@
       "release": "2009-02-05T15:03:45Z",
       "duration": "00:07:28",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "g0kZzw63gzY",
       "subjects": [
         "Dr. Tony Quinn",
@@ -100,8 +84,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=g0kZzw63gzY"
       }
     },
@@ -112,8 +94,6 @@
       "release": "2009-02-05T17:33:55Z",
       "duration": "00:10:01",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "-PCB7BEbCPs",
       "subjects": [
         "Dr. Tony Quinn",
@@ -125,8 +105,6 @@
         "Seminar"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=-PCB7BEbCPs"
       }
     }

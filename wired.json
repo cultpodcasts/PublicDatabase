@@ -1,8 +1,6 @@
 {
   "id": "c74f822f-65b3-438c-af74-1a2aa7d5becb",
   "name": "WIRED",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCftwRNsjfRo08xYE31tkiyw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2021-10-07T16:00:05Z",
       "duration": "00:19:35",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "FghSUttp6Lc",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=FghSUttp6Lc"
       }
     },
@@ -29,13 +23,9 @@
       "release": "2021-10-14T16:00:04Z",
       "duration": "00:09:40",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "_RqNe5IrpP8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=_RqNe5IrpP8"
       }
     }

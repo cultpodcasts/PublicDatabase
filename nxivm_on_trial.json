@@ -3,7 +3,6 @@
   "name": "NXIVM on Trial",
   "spotifyId": "0Aqs2jgI9AD0fOqm1IBVKh",
   "appleId": 1462352368,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "bea92dee-6eb8-42d0-bf95-dd07a5204f16",
@@ -14,12 +13,10 @@
       "explicit": true,
       "spotifyId": "1zczxysHxX4nWX6ka7x50u",
       "appleId": 1000587170164,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1zczxysHxX4nWX6ka7x50u",
-        "apple": "https://podcasts.apple.com/podcast/the-prefect-ending/id1462352368?i=1000587170164",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-prefect-ending/id1462352368?i=1000587170164"
       }
     },
     {
@@ -31,12 +28,10 @@
       "explicit": true,
       "spotifyId": "0Dvkpj6sfBP9FePgt4U0xb",
       "appleId": 1000586313005,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Dvkpj6sfBP9FePgt4U0xb",
-        "apple": "https://podcasts.apple.com/podcast/the-shunning/id1462352368?i=1000586313005",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-shunning/id1462352368?i=1000586313005"
       }
     },
     {
@@ -48,12 +43,10 @@
       "explicit": true,
       "spotifyId": "1moVJjFnDAVmbr9yaVqdYQ",
       "appleId": 1000585544165,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1moVJjFnDAVmbr9yaVqdYQ",
-        "apple": "https://podcasts.apple.com/podcast/level-up/id1462352368?i=1000585544165",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/level-up/id1462352368?i=1000585544165"
       }
     },
     {
@@ -65,12 +58,10 @@
       "explicit": false,
       "spotifyId": "2eZQmlf4CdL2yfv4efnQlO",
       "appleId": 1000584680172,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2eZQmlf4CdL2yfv4efnQlO",
-        "apple": "https://podcasts.apple.com/podcast/nxivms-tourettes/id1462352368?i=1000584680172",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/nxivms-tourettes/id1462352368?i=1000584680172"
       }
     },
     {
@@ -82,12 +73,10 @@
       "explicit": false,
       "spotifyId": "5n1YdU2IguaMWtUZ6bs08O",
       "appleId": 1000583851402,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5n1YdU2IguaMWtUZ6bs08O",
-        "apple": "https://podcasts.apple.com/podcast/nancys-nxivm/id1462352368?i=1000583851402",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/nancys-nxivm/id1462352368?i=1000583851402"
       }
     },
     {
@@ -99,12 +88,10 @@
       "explicit": false,
       "spotifyId": "00yGYAdjwWlxUvvKeQe3bL",
       "appleId": 1000583050179,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/00yGYAdjwWlxUvvKeQe3bL",
-        "apple": "https://podcasts.apple.com/podcast/the-vow-returns/id1462352368?i=1000583050179",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-vow-returns/id1462352368?i=1000583050179"
       }
     },
     {
@@ -116,12 +103,10 @@
       "explicit": false,
       "spotifyId": "5x0BhmnEtAB9ZvlZo8ukCz",
       "appleId": 1000534957047,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5x0BhmnEtAB9ZvlZo8ukCz",
-        "apple": "https://podcasts.apple.com/podcast/nancy-salzman-from-prefect-to-prison/id1462352368?i=1000534957047",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/nancy-salzman-from-prefect-to-prison/id1462352368?i=1000534957047"
       }
     },
     {
@@ -133,12 +118,10 @@
       "explicit": false,
       "spotifyId": "5QHDuKi6gGAuV8ZJ6kxYGd",
       "appleId": 1000531263264,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5QHDuKi6gGAuV8ZJ6kxYGd",
-        "apple": "https://podcasts.apple.com/podcast/from-dos-to-dogs/id1462352368?i=1000531263264",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/from-dos-to-dogs/id1462352368?i=1000531263264"
       }
     },
     {
@@ -150,12 +133,10 @@
       "explicit": true,
       "spotifyId": "2t9tHkOrydbK45UyfoFJOG",
       "appleId": 1000527572234,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2t9tHkOrydbK45UyfoFJOG",
-        "apple": "https://podcasts.apple.com/podcast/the-enabler/id1462352368?i=1000527572234",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-enabler/id1462352368?i=1000527572234"
       }
     },
     {
@@ -167,12 +148,10 @@
       "explicit": false,
       "spotifyId": "5olJCXnJFukdNlN9jHs6nw",
       "appleId": 1000527129652,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5olJCXnJFukdNlN9jHs6nw",
-        "apple": "https://podcasts.apple.com/podcast/allison-mack-awaits-her-fate/id1462352368?i=1000527129652",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/allison-mack-awaits-her-fate/id1462352368?i=1000527129652"
       }
     },
     {
@@ -184,12 +163,10 @@
       "explicit": false,
       "spotifyId": "7r7O1c70FGG04QMhFteYUe",
       "appleId": 1000521368849,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7r7O1c70FGG04QMhFteYUe",
-        "apple": "https://podcasts.apple.com/podcast/dont-call-it-a-cult/id1462352368?i=1000521368849",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/dont-call-it-a-cult/id1462352368?i=1000521368849"
       }
     },
     {
@@ -201,12 +178,10 @@
       "explicit": true,
       "spotifyId": "7wfQR2SrRcezKocFXo1vNx",
       "appleId": 1000510795492,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7wfQR2SrRcezKocFXo1vNx",
-        "apple": "https://podcasts.apple.com/podcast/desperation-is-a-stinky-cologne/id1462352368?i=1000510795492",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/desperation-is-a-stinky-cologne/id1462352368?i=1000510795492"
       }
     },
     {
@@ -218,12 +193,10 @@
       "explicit": false,
       "spotifyId": "56GpyGyAnhgMB4qVugP4Kp",
       "appleId": 1000507932121,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/56GpyGyAnhgMB4qVugP4Kp",
-        "apple": "https://podcasts.apple.com/podcast/gone-to-tucson/id1462352368?i=1000507932121",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/gone-to-tucson/id1462352368?i=1000507932121"
       }
     },
     {
@@ -235,12 +208,10 @@
       "explicit": false,
       "spotifyId": "3gOpakZw5xtCvJHGOC3KOn",
       "appleId": 1000503816753,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gOpakZw5xtCvJHGOC3KOn",
-        "apple": "https://podcasts.apple.com/podcast/among-the-dead-enders/id1462352368?i=1000503816753",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/among-the-dead-enders/id1462352368?i=1000503816753"
       }
     },
     {
@@ -252,12 +223,10 @@
       "explicit": false,
       "spotifyId": "287DWetIctFzxWNP7wr4wB",
       "appleId": 1000496384018,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/287DWetIctFzxWNP7wr4wB",
-        "apple": "https://podcasts.apple.com/podcast/parasite/id1462352368?i=1000496384018",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/parasite/id1462352368?i=1000496384018"
       }
     },
     {
@@ -269,12 +238,10 @@
       "explicit": false,
       "spotifyId": "46VJX6nEKxD3t9s0IFQslF",
       "appleId": 1000495762593,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/46VJX6nEKxD3t9s0IFQslF",
-        "apple": "https://podcasts.apple.com/podcast/judgment-day/id1462352368?i=1000495762593",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/judgment-day/id1462352368?i=1000495762593"
       }
     },
     {
@@ -286,12 +253,10 @@
       "explicit": true,
       "spotifyId": "3zYQt5cEG8ZWI036NESEbT",
       "appleId": 1000494955682,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3zYQt5cEG8ZWI036NESEbT",
-        "apple": "https://podcasts.apple.com/podcast/the-lost-daughter/id1462352368?i=1000494955682",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/the-lost-daughter/id1462352368?i=1000494955682"
       }
     },
     {
@@ -303,12 +268,10 @@
       "explicit": false,
       "spotifyId": "3d3pzapguoATmMTTdAogSG",
       "appleId": 1000493301855,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3d3pzapguoATmMTTdAogSG",
-        "apple": "https://podcasts.apple.com/podcast/brooklyn-justice/id1462352368?i=1000493301855",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/brooklyn-justice/id1462352368?i=1000493301855"
       }
     },
     {
@@ -320,12 +283,10 @@
       "explicit": false,
       "spotifyId": "2QUHa8ik4QW1E000X9Xv2W",
       "appleId": 1000490088413,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2QUHa8ik4QW1E000X9Xv2W",
-        "apple": "https://podcasts.apple.com/podcast/scrutiny-on-this-judge/id1462352368?i=1000490088413",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/scrutiny-on-this-judge/id1462352368?i=1000490088413"
       }
     },
     {
@@ -337,12 +298,10 @@
       "explicit": false,
       "spotifyId": "5yE3NwTEz8QeoDOZ6Zf8he",
       "appleId": 1000489450267,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5yE3NwTEz8QeoDOZ6Zf8he",
-        "apple": "https://podcasts.apple.com/podcast/nxivm-exposed-a-post-trial-talk-part-ii/id1462352368?i=1000489450267",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/nxivm-exposed-a-post-trial-talk-part-ii/id1462352368?i=1000489450267"
       }
     },
     {
@@ -354,12 +313,10 @@
       "explicit": false,
       "spotifyId": "666OZU98smmU5nmBoJBrti",
       "appleId": 1000488843414,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/666OZU98smmU5nmBoJBrti",
-        "apple": "https://podcasts.apple.com/podcast/a-different-kind-of-vanguard-week/id1462352368?i=1000488843414",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-different-kind-of-vanguard-week/id1462352368?i=1000488843414"
       }
     },
     {
@@ -371,12 +328,10 @@
       "explicit": false,
       "spotifyId": "6HjDYCbYokLTr3vIJBMnb6",
       "appleId": 1000485278162,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6HjDYCbYokLTr3vIJBMnb6",
-        "apple": "https://podcasts.apple.com/podcast/dancing-for-kay-rose/id1462352368?i=1000485278162",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/dancing-for-kay-rose/id1462352368?i=1000485278162"
       }
     },
     {
@@ -388,12 +343,10 @@
       "explicit": false,
       "spotifyId": "3KbElXAiGwb1sRIiMG9ZLw",
       "appleId": 1000453649716,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KbElXAiGwb1sRIiMG9ZLw",
-        "apple": "https://podcasts.apple.com/podcast/nxivm-exposed-a-post-trial-talk-part-1/id1462352368?i=1000453649716",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/nxivm-exposed-a-post-trial-talk-part-1/id1462352368?i=1000453649716"
       }
     },
     {
@@ -405,12 +358,10 @@
       "explicit": false,
       "spotifyId": "5fHFbBcFugddjKFtsAIPFg",
       "appleId": 1000448067674,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5fHFbBcFugddjKFtsAIPFg",
-        "apple": "https://podcasts.apple.com/podcast/vanguard-week-anniversary-special/id1462352368?i=1000448067674",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/vanguard-week-anniversary-special/id1462352368?i=1000448067674"
       }
     },
     {
@@ -422,12 +373,10 @@
       "explicit": false,
       "spotifyId": "48dZ1HznaRhJBc7Ppy1TYX",
       "appleId": 1000442233302,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/48dZ1HznaRhJBc7Ppy1TYX",
-        "apple": "https://podcasts.apple.com/podcast/swift-justice/id1462352368?i=1000442233302",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/swift-justice/id1462352368?i=1000442233302"
       }
     },
     {
@@ -439,12 +388,10 @@
       "explicit": false,
       "spotifyId": "12q0rAZZTtxRNnGOVkPGds",
       "appleId": 1000441549113,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/12q0rAZZTtxRNnGOVkPGds",
-        "apple": "https://podcasts.apple.com/podcast/like-in-rome-or-whatever/id1462352368?i=1000441549113",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/like-in-rome-or-whatever/id1462352368?i=1000441549113"
       }
     },
     {
@@ -456,12 +403,10 @@
       "explicit": false,
       "spotifyId": "3kXWFbKgr8JBAciMqc5Dd0",
       "appleId": 1000440893329,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3kXWFbKgr8JBAciMqc5Dd0",
-        "apple": "https://podcasts.apple.com/podcast/a-shadow-over-knox-woods/id1462352368?i=1000440893329",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/a-shadow-over-knox-woods/id1462352368?i=1000440893329"
       }
     },
     {
@@ -473,12 +418,10 @@
       "explicit": false,
       "spotifyId": "7tItuRbjiPX8oLkqokChVN",
       "appleId": 1000440278693,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7tItuRbjiPX8oLkqokChVN",
-        "apple": "https://podcasts.apple.com/podcast/an-ethical-breach/id1462352368?i=1000440278693",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/an-ethical-breach/id1462352368?i=1000440278693"
       }
     },
     {
@@ -490,12 +433,10 @@
       "explicit": false,
       "spotifyId": "2bqEwHay3M30wDwpa2zFni",
       "appleId": 1000439261500,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2bqEwHay3M30wDwpa2zFni",
-        "apple": "https://podcasts.apple.com/podcast/almost-like-a-sacrifice/id1462352368?i=1000439261500",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/almost-like-a-sacrifice/id1462352368?i=1000439261500"
       }
     },
     {
@@ -507,12 +448,10 @@
       "explicit": false,
       "spotifyId": "33woyxvE5AUcv5FI9J2UmB",
       "appleId": 1000438716460,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/33woyxvE5AUcv5FI9J2UmB",
-        "apple": "https://podcasts.apple.com/podcast/master-slave/id1462352368?i=1000438716460",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/master-slave/id1462352368?i=1000438716460"
       }
     },
     {
@@ -524,12 +463,10 @@
       "explicit": false,
       "spotifyId": "4tjS0psAnUrC3ixCF8yntZ",
       "appleId": 1000437725323,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4tjS0psAnUrC3ixCF8yntZ",
-        "apple": "https://podcasts.apple.com/podcast/dunkirk-in-brooklyn/id1462352368?i=1000437725323",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/dunkirk-in-brooklyn/id1462352368?i=1000437725323"
       }
     },
     {
@@ -541,12 +478,10 @@
       "explicit": false,
       "spotifyId": "1ngp5LlECysSo65sMiqKc2",
       "appleId": 1000437086516,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ngp5LlECysSo65sMiqKc2",
-        "apple": "https://podcasts.apple.com/podcast/vanguard-stands-alone/id1462352368?i=1000437086516",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/vanguard-stands-alone/id1462352368?i=1000437086516"
       }
     }
   ]

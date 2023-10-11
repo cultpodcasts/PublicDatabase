@@ -3,7 +3,6 @@
   "name": "The Divorcing Religion Podcast",
   "spotifyId": "5z9B2C0CXDqeOomm5mV03U",
   "appleId": 1645878058,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "220ecc37-3f89-4c01-9747-aeb200681daa",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "2BVsJmAJXUyRtGhC87b27D",
       "appleId": 1000613423504,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BVsJmAJXUyRtGhC87b27D",
-        "apple": "https://podcasts.apple.com/podcast/mahrs-schoppman-the-colonization-of-our-bodies/id1645878058?i=1000613423504",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/mahrs-schoppman-the-colonization-of-our-bodies/id1645878058?i=1000613423504"
       }
     }
   ]

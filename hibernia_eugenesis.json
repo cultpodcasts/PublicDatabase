@@ -1,8 +1,6 @@
 {
   "id": "0045edd6-4c88-4bb1-bc84-e47668e895e5",
   "name": "Hibernia Eugenesis",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCUX-NUI9UT7JTTRWOO-pwlg",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2019-03-12T03:01:29Z",
       "duration": "00:13:37",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "Z5OdbC_kbug",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=Z5OdbC_kbug"
       }
     },
@@ -29,30 +23,21 @@
       "release": "2019-02-06T23:04:24Z",
       "duration": "00:13:17",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "yTkONTGiP_Q",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=yTkONTGiP_Q"
       }
     },
     {
       "id": "20bbb0ba-d726-4fdd-acd8-8e5734198684",
       "title": "Scientology in Ireland, Primetime 2018",
-      "description": "",
       "release": "2019-01-01T03:08:03Z",
       "duration": "00:34:04",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "cQLDhNtPDlE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=cQLDhNtPDlE"
       }
     },
@@ -63,13 +48,9 @@
       "release": "2019-01-01T03:02:58Z",
       "duration": "00:12:29",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "7t-MqT4EsmY",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=7t-MqT4EsmY"
       }
     },
@@ -80,13 +61,9 @@
       "release": "1968-07-26T00:00:00Z",
       "duration": "00:01:16",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "74XuOJIOO_0",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=74XuOJIOO_0"
       }
     }

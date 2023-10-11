@@ -1,8 +1,6 @@
 {
   "id": "6b935413-48cc-4de6-a867-2d6e1e5f322c",
   "name": "Julie Anderson",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCnre3Q6K56BSoL1iEabWAcw",
   "episodes": [
     {
@@ -12,8 +10,6 @@
       "release": "2023-07-26T14:44:47Z",
       "duration": "00:21:31",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "59szDrlqvs0",
       "subjects": [
         "Ian Haworth",
@@ -24,25 +20,18 @@
         "FECRIS"
       ],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=59szDrlqvs0"
       }
     },
     {
       "id": "0774d88c-9027-4a56-b716-89ebd79e3638",
       "title": "The Cults of MLMs and Scientology - with Chris Shelton MSc",
-      "description": "",
       "release": "2023-09-19T22:08:04Z",
       "duration": "00:56:06",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "BZwsixvgeN8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=BZwsixvgeN8"
       }
     },
@@ -53,13 +42,9 @@
       "release": "2023-05-19T02:55:04Z",
       "duration": "02:25:52",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "hGpy5PBkQk8",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=hGpy5PBkQk8"
       }
     }

@@ -1,8 +1,6 @@
 {
   "id": "54456543-a5c0-4627-9a23-3afec432aaa1",
   "name": "TED-Ed",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCsooa4yRKGN_zEE8iknghZA",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2017-06-12T15:01:38Z",
       "duration": "00:06:27",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "kB-dJaCXAxA",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=kB-dJaCXAxA"
       }
     }

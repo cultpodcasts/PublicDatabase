@@ -2,7 +2,6 @@
   "id": "4dd09e62-9e90-4a66-86f6-d25ad2e313be",
   "name": "The Underground Bunker Podcast",
   "spotifyId": "6HeXZgYuiL6cH5auHgpIFw",
-  "appleId": null,
   "youTubeChannelId": "UCOTK4ae6wrPbRbYynM95mjA",
   "episodes": [
     {
@@ -13,12 +12,10 @@
       "duration": "01:21:57.5170000",
       "explicit": false,
       "spotifyId": "7gyq4KHOKq8QVxn26ddcpm",
-      "appleId": null,
       "youTubeId": "tVnN72YXbwQ",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gyq4KHOKq8QVxn26ddcpm",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=tVnN72YXbwQ"
       }
     },
@@ -30,12 +27,10 @@
       "duration": "00:35:10.4100000",
       "explicit": false,
       "spotifyId": "2kRoLc3JrWVgzWtHWPPAU4",
-      "appleId": null,
       "youTubeId": "vYk0_oDBngs",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2kRoLc3JrWVgzWtHWPPAU4",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=vYk0_oDBngs"
       }
     },
@@ -47,12 +42,10 @@
       "duration": "00:50:02.6690000",
       "explicit": false,
       "spotifyId": "4WrBr53r6Uo6L8JFRU0ohF",
-      "appleId": null,
       "youTubeId": "M1qqvz6oJJE",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4WrBr53r6Uo6L8JFRU0ohF",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=M1qqvz6oJJE"
       }
     },
@@ -64,12 +57,10 @@
       "duration": "01:02:48.2680000",
       "explicit": false,
       "spotifyId": "5T88TTXDFxDmbN85HRuttE",
-      "appleId": null,
       "youTubeId": "19GvteDoqb4",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5T88TTXDFxDmbN85HRuttE",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=19GvteDoqb4"
       }
     },
@@ -81,14 +72,12 @@
       "duration": "01:01:38.6980000",
       "explicit": false,
       "spotifyId": "5zT5WAI2JqkhQhxvo6I2aZ",
-      "appleId": null,
       "youTubeId": "09byX4j2HS4",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5zT5WAI2JqkhQhxvo6I2aZ",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=09byX4j2HS4"
       }
     },
@@ -100,12 +89,10 @@
       "duration": "00:53:38.0180000",
       "explicit": false,
       "spotifyId": "1O6h3l7O6hreTMmHr7Yx5Q",
-      "appleId": null,
       "youTubeId": "quuNBLwg0jk",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1O6h3l7O6hreTMmHr7Yx5Q",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=quuNBLwg0jk"
       }
     },
@@ -117,14 +104,12 @@
       "duration": "00:56:54.6810000",
       "explicit": false,
       "spotifyId": "1jHjq69AW1J4K36sgB5652",
-      "appleId": null,
       "youTubeId": "zBRKef68FUI",
       "subjects": [
         "Odyssey Study Group"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jHjq69AW1J4K36sgB5652",
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=zBRKef68FUI"
       }
     },
@@ -136,13 +121,9 @@
       "duration": "01:02:44.2640000",
       "explicit": false,
       "spotifyId": "5mNDCK6Ax7PvbMdDiY5T36",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5mNDCK6Ax7PvbMdDiY5T36",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/5mNDCK6Ax7PvbMdDiY5T36"
       }
     },
     {
@@ -153,13 +134,9 @@
       "duration": "00:59:02.1420000",
       "explicit": false,
       "spotifyId": "3ts57p34J5qmmV76AGIY5k",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3ts57p34J5qmmV76AGIY5k",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3ts57p34J5qmmV76AGIY5k"
       }
     },
     {
@@ -170,13 +147,9 @@
       "duration": "01:06:52.5450000",
       "explicit": false,
       "spotifyId": "4VfpHdpnGre6BsG7RsC3tA",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4VfpHdpnGre6BsG7RsC3tA",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/4VfpHdpnGre6BsG7RsC3tA"
       }
     },
     {
@@ -187,13 +160,9 @@
       "duration": "00:58:28.6750000",
       "explicit": false,
       "spotifyId": "6Jp7mPYvcqiZ7efp2PSukW",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6Jp7mPYvcqiZ7efp2PSukW",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/6Jp7mPYvcqiZ7efp2PSukW"
       }
     },
     {
@@ -204,13 +173,9 @@
       "duration": "01:04:29.4360000",
       "explicit": false,
       "spotifyId": "0XJJlBwAJO4ynMChQsZaH8",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0XJJlBwAJO4ynMChQsZaH8",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0XJJlBwAJO4ynMChQsZaH8"
       }
     },
     {
@@ -221,13 +186,9 @@
       "duration": "00:48:47.6940000",
       "explicit": false,
       "spotifyId": "7weeGrqV9fLqa40hoU60tI",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7weeGrqV9fLqa40hoU60tI",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7weeGrqV9fLqa40hoU60tI"
       }
     },
     {
@@ -238,13 +199,9 @@
       "duration": "01:07:57.9780000",
       "explicit": false,
       "spotifyId": "7xbAlk5QQuPHYfCSzr0T9C",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7xbAlk5QQuPHYfCSzr0T9C",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7xbAlk5QQuPHYfCSzr0T9C"
       }
     },
     {
@@ -255,13 +212,9 @@
       "duration": "01:04:54.9620000",
       "explicit": false,
       "spotifyId": "5avc0XSKYONUFLic5uvJse",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5avc0XSKYONUFLic5uvJse",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/5avc0XSKYONUFLic5uvJse"
       }
     },
     {
@@ -272,15 +225,11 @@
       "duration": "01:01:20.7800000",
       "explicit": false,
       "spotifyId": "46zxIdYrBMJVYSfEQIVvyj",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/46zxIdYrBMJVYSfEQIVvyj",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/46zxIdYrBMJVYSfEQIVvyj"
       }
     },
     {
@@ -291,13 +240,9 @@
       "duration": "01:00:23.7230000",
       "explicit": false,
       "spotifyId": "3TXer0L87oTcMPolF7cF04",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3TXer0L87oTcMPolF7cF04",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3TXer0L87oTcMPolF7cF04"
       }
     },
     {
@@ -308,13 +253,9 @@
       "duration": "00:43:45.9600000",
       "explicit": false,
       "spotifyId": "0Y42jr0jRydQqKtQx5ZXrg",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0Y42jr0jRydQqKtQx5ZXrg",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0Y42jr0jRydQqKtQx5ZXrg"
       }
     },
     {
@@ -325,15 +266,11 @@
       "duration": "01:15:44.6440000",
       "explicit": false,
       "spotifyId": "6mqbTEhVbOF6brKpE9QCPO",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6mqbTEhVbOF6brKpE9QCPO",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/6mqbTEhVbOF6brKpE9QCPO"
       }
     },
     {
@@ -344,15 +281,11 @@
       "duration": "01:08:20.4000000",
       "explicit": false,
       "spotifyId": "7zleknLWH0K2RxJYdPw74D",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7zleknLWH0K2RxJYdPw74D",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7zleknLWH0K2RxJYdPw74D"
       }
     },
     {
@@ -363,13 +296,9 @@
       "duration": "01:18:24.4040000",
       "explicit": false,
       "spotifyId": "1oD0XpXbiwxCqMTX9CVaav",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/1oD0XpXbiwxCqMTX9CVaav",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/1oD0XpXbiwxCqMTX9CVaav"
       }
     },
     {
@@ -380,15 +309,11 @@
       "duration": "01:10:41.3740000",
       "explicit": false,
       "spotifyId": "70nAOqLrLwySH83rF4ytxt",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology \u0026 QAnon"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/70nAOqLrLwySH83rF4ytxt",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/70nAOqLrLwySH83rF4ytxt"
       }
     },
     {
@@ -399,13 +324,9 @@
       "duration": "01:00:58.0240000",
       "explicit": false,
       "spotifyId": "7cL2NIgEDmR8nFxuIMY3pf",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7cL2NIgEDmR8nFxuIMY3pf",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7cL2NIgEDmR8nFxuIMY3pf"
       }
     },
     {
@@ -416,13 +337,9 @@
       "duration": "01:06:39.2990000",
       "explicit": false,
       "spotifyId": "6MJXn7TQqJ2HEohyYXkVKE",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6MJXn7TQqJ2HEohyYXkVKE",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/6MJXn7TQqJ2HEohyYXkVKE"
       }
     },
     {
@@ -433,15 +350,11 @@
       "duration": "01:03:28.2410000",
       "explicit": false,
       "spotifyId": "68v0A2BoJ0UnXNbIOetrn6",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/68v0A2BoJ0UnXNbIOetrn6",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/68v0A2BoJ0UnXNbIOetrn6"
       }
     },
     {
@@ -452,13 +365,9 @@
       "duration": "00:12:12.1980000",
       "explicit": false,
       "spotifyId": "1yDet3YVDKHpNql1aX6z8o",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/1yDet3YVDKHpNql1aX6z8o",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/1yDet3YVDKHpNql1aX6z8o"
       }
     },
     {
@@ -469,13 +378,9 @@
       "duration": "01:02:55.4080000",
       "explicit": false,
       "spotifyId": "30VFyAiFvDpXvgjFyAJbEx",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/30VFyAiFvDpXvgjFyAJbEx",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/30VFyAiFvDpXvgjFyAJbEx"
       }
     },
     {
@@ -486,13 +391,9 @@
       "duration": "01:01:57.4500000",
       "explicit": false,
       "spotifyId": "0h1ydcbxWsoLxfY6j8mBAR",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0h1ydcbxWsoLxfY6j8mBAR",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0h1ydcbxWsoLxfY6j8mBAR"
       }
     },
     {
@@ -503,13 +404,9 @@
       "duration": "00:07:10.3970000",
       "explicit": false,
       "spotifyId": "0asr5E76vuRRNMyMLavQG6",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0asr5E76vuRRNMyMLavQG6",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0asr5E76vuRRNMyMLavQG6"
       }
     },
     {
@@ -520,13 +417,9 @@
       "duration": "00:57:46.9000000",
       "explicit": false,
       "spotifyId": "3hidFZreHVdRw2AZ7SslD9",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3hidFZreHVdRw2AZ7SslD9",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3hidFZreHVdRw2AZ7SslD9"
       }
     },
     {
@@ -537,13 +430,9 @@
       "duration": "00:04:06.0790000",
       "explicit": false,
       "spotifyId": "68qRih24rJQrwJssrqatMb",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/68qRih24rJQrwJssrqatMb",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/68qRih24rJQrwJssrqatMb"
       }
     },
     {
@@ -554,15 +443,11 @@
       "duration": "00:37:25.8450000",
       "explicit": false,
       "spotifyId": "0694JWFaacS0aoETQF8wnG",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0694JWFaacS0aoETQF8wnG",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0694JWFaacS0aoETQF8wnG"
       }
     },
     {
@@ -573,13 +458,9 @@
       "duration": "01:07:06.8260000",
       "explicit": false,
       "spotifyId": "7HgilpUjMGpTu2ygzNdILe",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7HgilpUjMGpTu2ygzNdILe",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7HgilpUjMGpTu2ygzNdILe"
       }
     },
     {
@@ -590,13 +471,9 @@
       "duration": "01:08:21.5340000",
       "explicit": false,
       "spotifyId": "0C7D3W39dpEqWPv1DJGodm",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0C7D3W39dpEqWPv1DJGodm",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0C7D3W39dpEqWPv1DJGodm"
       }
     },
     {
@@ -607,15 +484,11 @@
       "duration": "01:02:21.7750000",
       "explicit": false,
       "spotifyId": "5AyiwJnht6hYrfLSxdZlMg",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5AyiwJnht6hYrfLSxdZlMg",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/5AyiwJnht6hYrfLSxdZlMg"
       }
     },
     {
@@ -626,13 +499,9 @@
       "duration": "01:01:55.5820000",
       "explicit": false,
       "spotifyId": "4i5Qxq4FNAaA4aC2mmYKUX",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4i5Qxq4FNAaA4aC2mmYKUX",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/4i5Qxq4FNAaA4aC2mmYKUX"
       }
     },
     {
@@ -643,13 +512,9 @@
       "duration": "01:01:48.5080000",
       "explicit": false,
       "spotifyId": "7cyoqA3OUZc7BNYMiQu9zo",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7cyoqA3OUZc7BNYMiQu9zo",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7cyoqA3OUZc7BNYMiQu9zo"
       }
     },
     {
@@ -660,15 +525,11 @@
       "duration": "01:07:25.3450000",
       "explicit": false,
       "spotifyId": "0rJkEg35c7izdrWDGwvdih",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0rJkEg35c7izdrWDGwvdih",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0rJkEg35c7izdrWDGwvdih"
       }
     },
     {
@@ -679,13 +540,9 @@
       "duration": "01:00:42.1080000",
       "explicit": false,
       "spotifyId": "6OnCqhXox9wwN5aJVtFsok",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6OnCqhXox9wwN5aJVtFsok",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/6OnCqhXox9wwN5aJVtFsok"
       }
     },
     {
@@ -696,13 +553,9 @@
       "duration": "01:07:07.8940000",
       "explicit": false,
       "spotifyId": "0HpV7hNiIzS9P9i6ljOy1V",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0HpV7hNiIzS9P9i6ljOy1V",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0HpV7hNiIzS9P9i6ljOy1V"
       }
     },
     {
@@ -713,13 +566,9 @@
       "duration": "01:02:45.8990000",
       "explicit": false,
       "spotifyId": "3Ft559tJnTf9ycbtaqI5RE",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3Ft559tJnTf9ycbtaqI5RE",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3Ft559tJnTf9ycbtaqI5RE"
       }
     },
     {
@@ -730,13 +579,9 @@
       "duration": "01:04:02.9430000",
       "explicit": false,
       "spotifyId": "57CisfskNpcSRlwe2KDIEl",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/57CisfskNpcSRlwe2KDIEl",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/57CisfskNpcSRlwe2KDIEl"
       }
     },
     {
@@ -747,15 +592,11 @@
       "duration": "01:08:01.6150000",
       "explicit": false,
       "spotifyId": "7MInUYnGhHHil27kuNk3yi",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7MInUYnGhHHil27kuNk3yi",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7MInUYnGhHHil27kuNk3yi"
       }
     },
     {
@@ -766,13 +607,9 @@
       "duration": "00:34:38.6120000",
       "explicit": false,
       "spotifyId": "4QPGD2D96l9uhPdL2tduqa",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4QPGD2D96l9uhPdL2tduqa",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/4QPGD2D96l9uhPdL2tduqa"
       }
     },
     {
@@ -783,13 +620,9 @@
       "duration": "01:00:26.6260000",
       "explicit": false,
       "spotifyId": "0bLjKAVXIELaShr3wnDRR4",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0bLjKAVXIELaShr3wnDRR4",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0bLjKAVXIELaShr3wnDRR4"
       }
     },
     {
@@ -800,13 +633,9 @@
       "duration": "01:02:16.2020000",
       "explicit": false,
       "spotifyId": "1WpTG26RBuCfAK5n2OWNDT",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/1WpTG26RBuCfAK5n2OWNDT",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/1WpTG26RBuCfAK5n2OWNDT"
       }
     },
     {
@@ -817,13 +646,9 @@
       "duration": "01:20:54.2200000",
       "explicit": false,
       "spotifyId": "7JxkRfi6aemETeJrpcln6b",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7JxkRfi6aemETeJrpcln6b",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/7JxkRfi6aemETeJrpcln6b"
       }
     },
     {
@@ -834,13 +659,9 @@
       "duration": "00:27:50.3030000",
       "explicit": false,
       "spotifyId": "4I3i51f8ct7YRUhnmYfNNr",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4I3i51f8ct7YRUhnmYfNNr",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/4I3i51f8ct7YRUhnmYfNNr"
       }
     },
     {
@@ -851,13 +672,9 @@
       "duration": "01:06:18.5780000",
       "explicit": false,
       "spotifyId": "134R1YB8NGC3Q7LR4znd75",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/134R1YB8NGC3Q7LR4znd75",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/134R1YB8NGC3Q7LR4znd75"
       }
     },
     {
@@ -868,13 +685,9 @@
       "duration": "00:29:07.4470000",
       "explicit": false,
       "spotifyId": "2n25M8GglJJkPfM40c8lK9",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/2n25M8GglJJkPfM40c8lK9",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/2n25M8GglJJkPfM40c8lK9"
       }
     },
     {
@@ -885,13 +698,9 @@
       "duration": "01:00:04.2710000",
       "explicit": false,
       "spotifyId": "5FHpIJjrpO166ZZQKgYIOG",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5FHpIJjrpO166ZZQKgYIOG",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/5FHpIJjrpO166ZZQKgYIOG"
       }
     },
     {
@@ -902,15 +711,11 @@
       "duration": "01:02:52.9730000",
       "explicit": false,
       "spotifyId": "27GwwqsQE7y4A2CepH9p5R",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/27GwwqsQE7y4A2CepH9p5R",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/27GwwqsQE7y4A2CepH9p5R"
       }
     },
     {
@@ -921,13 +726,9 @@
       "duration": "01:00:57.7240000",
       "explicit": false,
       "spotifyId": "0wJe2wrJ6Erp4KWVbYBvOo",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0wJe2wrJ6Erp4KWVbYBvOo",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0wJe2wrJ6Erp4KWVbYBvOo"
       }
     },
     {
@@ -938,13 +739,9 @@
       "duration": "01:15:28.2950000",
       "explicit": false,
       "spotifyId": "4n8fgsE3bRBGV28QZeGB9g",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4n8fgsE3bRBGV28QZeGB9g",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/4n8fgsE3bRBGV28QZeGB9g"
       }
     },
     {
@@ -955,13 +752,9 @@
       "duration": "01:01:34.8940000",
       "explicit": false,
       "spotifyId": "1WSdgUX4OfMDGZKdKfUbjo",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/1WSdgUX4OfMDGZKdKfUbjo",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/1WSdgUX4OfMDGZKdKfUbjo"
       }
     },
     {
@@ -972,13 +765,9 @@
       "duration": "00:59:29.2350000",
       "explicit": false,
       "spotifyId": "3ZaV8VxgrQSxLoYPOITcjv",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3ZaV8VxgrQSxLoYPOITcjv",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3ZaV8VxgrQSxLoYPOITcjv"
       }
     },
     {
@@ -989,13 +778,9 @@
       "duration": "01:07:33.9200000",
       "explicit": false,
       "spotifyId": "6WwsizjIiBjjLFJSh1s3vt",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6WwsizjIiBjjLFJSh1s3vt",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/6WwsizjIiBjjLFJSh1s3vt"
       }
     },
     {
@@ -1006,13 +791,9 @@
       "duration": "00:48:02.1820000",
       "explicit": false,
       "spotifyId": "0B0Wcsevb98X5QB3ZkgHvQ",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0B0Wcsevb98X5QB3ZkgHvQ",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/0B0Wcsevb98X5QB3ZkgHvQ"
       }
     },
     {
@@ -1023,13 +804,9 @@
       "duration": "00:58:36.5830000",
       "explicit": false,
       "spotifyId": "4u86gcPR7TbECOtLPUfinv",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4u86gcPR7TbECOtLPUfinv",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/4u86gcPR7TbECOtLPUfinv"
       }
     },
     {
@@ -1040,13 +817,9 @@
       "duration": "01:04:31.4040000",
       "explicit": false,
       "spotifyId": "3INv0KliyvyfT5SWa0PaWL",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3INv0KliyvyfT5SWa0PaWL",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3INv0KliyvyfT5SWa0PaWL"
       }
     },
     {
@@ -1057,13 +830,9 @@
       "duration": "01:11:42.1020000",
       "explicit": false,
       "spotifyId": "175iMQx9gEFt8A46qXZDzp",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/175iMQx9gEFt8A46qXZDzp",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/175iMQx9gEFt8A46qXZDzp"
       }
     },
     {
@@ -1074,13 +843,9 @@
       "duration": "01:03:07.1530000",
       "explicit": false,
       "spotifyId": "6Xam5Tbo46UOasq2njFuFP",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6Xam5Tbo46UOasq2njFuFP",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/6Xam5Tbo46UOasq2njFuFP"
       }
     },
     {
@@ -1091,13 +856,9 @@
       "duration": "00:56:24.3170000",
       "explicit": false,
       "spotifyId": "5KNUNZxMOdyCXLynMOR0L7",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5KNUNZxMOdyCXLynMOR0L7",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/5KNUNZxMOdyCXLynMOR0L7"
       }
     },
     {
@@ -1108,13 +869,9 @@
       "duration": "00:57:01.9890000",
       "explicit": false,
       "spotifyId": "3BxIZFwUdF48klLgx6zQMd",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3BxIZFwUdF48klLgx6zQMd",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/3BxIZFwUdF48klLgx6zQMd"
       }
     },
     {
@@ -1125,13 +882,9 @@
       "duration": "01:06:09.7360000",
       "explicit": false,
       "spotifyId": "5GXE13iLB29o471m0x7omA",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5GXE13iLB29o471m0x7omA",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/5GXE13iLB29o471m0x7omA"
       }
     },
     {
@@ -1142,13 +895,9 @@
       "duration": "01:04:05.5450000",
       "explicit": false,
       "spotifyId": "54YoUwYFBlIPLvAByUSTf4",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/54YoUwYFBlIPLvAByUSTf4",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/54YoUwYFBlIPLvAByUSTf4"
       }
     },
     {
@@ -1159,13 +908,9 @@
       "duration": "00:59:13.9540000",
       "explicit": false,
       "spotifyId": "714nXvheUSL04IFbl9F2pN",
-      "appleId": null,
-      "youTubeId": null,
       "subjects": [],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/714nXvheUSL04IFbl9F2pN",
-        "apple": null,
-        "youtube": null
+        "spotify": "https://open.spotify.com/episode/714nXvheUSL04IFbl9F2pN"
       }
     },
     {
@@ -1175,13 +920,9 @@
       "release": "2023-07-01T10:44:35Z",
       "duration": "01:03:26",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "EJgxaJ_upEE",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=EJgxaJ_upEE"
       }
     }

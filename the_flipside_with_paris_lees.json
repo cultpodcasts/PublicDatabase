@@ -3,7 +3,6 @@
   "name": "The Flipside with Paris Lees",
   "spotifyId": "0JplVCmwmU8gfh0h17QfUf",
   "appleId": 1589086685,
-  "youTubeChannelId": "",
   "episodes": [
     {
       "id": "8aa09485-1b58-4847-94c7-f95b2de6f022",
@@ -14,12 +13,10 @@
       "explicit": false,
       "spotifyId": "4oeoDc1Nhkmi4SEuEjYwRc",
       "appleId": 1000542919451,
-      "youTubeId": "",
       "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4oeoDc1Nhkmi4SEuEjYwRc",
-        "apple": "https://podcasts.apple.com/podcast/8-going-to-the-extreme/id1589086685?i=1000542919451",
-        "youtube": null
+        "apple": "https://podcasts.apple.com/podcast/8-going-to-the-extreme/id1589086685?i=1000542919451"
       }
     }
   ]

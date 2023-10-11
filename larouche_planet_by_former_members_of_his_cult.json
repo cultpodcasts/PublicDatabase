@@ -1,8 +1,6 @@
 {
   "id": "b63ca806-b220-4b58-b504-e4460ab36498",
   "name": "LaRouche Planet by former members of his cult",
-  "spotifyId": "",
-  "appleId": null,
   "youTubeChannelId": "UCAZ7rnw8TP_osIE8OhA8Cvw",
   "episodes": [
     {
@@ -12,13 +10,9 @@
       "release": "2015-06-29T15:45:06Z",
       "duration": "00:25:10",
       "explicit": false,
-      "spotifyId": "",
-      "appleId": null,
       "youTubeId": "ma1eY90V71M",
       "subjects": [],
       "urls": {
-        "spotify": null,
-        "apple": null,
         "youtube": "https://www.youtube.com/watch?v=ma1eY90V71M"
       }
     }
