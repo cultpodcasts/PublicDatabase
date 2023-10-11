@@ -12,7 +12,6 @@
       "explicit": true,
       "spotifyId": "2tiM4RUzdqsAOSn3EbIgUW",
       "appleId": 1000440578347,
-      "subjects": [],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tiM4RUzdqsAOSn3EbIgUW",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440578347"
@@ -26,7 +25,6 @@
       "duration": "00:08:38",
       "explicit": false,
       "youTubeId": "5Q7N-C6lm-E",
-      "subjects": [],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=5Q7N-C6lm-E"
       }
