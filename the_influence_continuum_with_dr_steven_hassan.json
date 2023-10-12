@@ -38,9 +38,11 @@
       "explicit": false,
       "spotifyId": "7b7wLu7stdWaNCpvunMReB",
       "appleId": 1000630668572,
+      "youTubeId": "7wnQIt5Rivc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7b7wLu7stdWaNCpvunMReB",
-        "apple": "https://podcasts.apple.com/podcast/large-group-awareness-trainings-lgats-weaponize-dopamine/id1603773245?i=1000630668572"
+        "apple": "https://podcasts.apple.com/podcast/large-group-awareness-trainings-lgats-weaponize-dopamine/id1603773245?i=1000630668572",
+        "youtube": "https://www.youtube.com/watch?v=7wnQIt5Rivc"
       }
     },
     {
@@ -89,6 +91,9 @@
       "spotifyId": "35hYnBOxaJL4D1vNk7UlxB",
       "appleId": 1000629882187,
       "youTubeId": "cMTqiAJEOb4",
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/35hYnBOxaJL4D1vNk7UlxB",
         "apple": "https://podcasts.apple.com/podcast/utilizing-creative-therapies-for-healing-and/id1603773245?i=1000629882187",
@@ -185,9 +190,6 @@
       "spotifyId": "1I8eUAgi4CqbWuZwlC4CMM",
       "appleId": 1000625110867,
       "youTubeId": "CIlmy_HaKGw",
-      "subjects": [
-        "Children of God/Family International"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1I8eUAgi4CqbWuZwlC4CMM",
         "apple": "https://podcasts.apple.com/podcast/chinese-netizens-protests-and-freedom-of-mind-as/id1603773245?i=1000625110867",
@@ -205,8 +207,7 @@
       "appleId": 1000624371269,
       "youTubeId": "UrugSZUWrbA",
       "subjects": [
-        "Cult Recovery",
-        "Odyssey Study Group"
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/08C0rPzhfkyxfMqrLNkOoJ",
@@ -223,9 +224,6 @@
       "explicit": false,
       "spotifyId": "730OzQEfIrM8dEkyEdQ34s",
       "appleId": 1000623659127,
-      "subjects": [
-        "Odyssey Study Group"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/730OzQEfIrM8dEkyEdQ34s",
         "apple": "https://podcasts.apple.com/podcast/exiting-the-cult-of-trump-with-jan6er-pam-hemphill/id1603773245?i=1000623659127",
@@ -241,9 +239,6 @@
       "explicit": false,
       "spotifyId": "2AJJz1xXAk6gaCkuaOzBEa",
       "appleId": 1000622905857,
-      "subjects": [
-        "Odyssey Study Group"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AJJz1xXAk6gaCkuaOzBEa",
         "apple": "https://podcasts.apple.com/podcast/sins-of-my-father-growing-up-with-americas-most/id1603773245?i=1000622905857",
@@ -319,7 +314,6 @@
       "spotifyId": "1ST7h66irtV1GFxJQXBMwe",
       "appleId": 1000618332092,
       "subjects": [
-        "Odyssey Study Group",
         "Cult Psychology"
       ],
       "urls": {
@@ -463,6 +457,9 @@
       "explicit": false,
       "spotifyId": "1jJ8f6qnLrhgMUP3y7iSC3",
       "appleId": 1000610380688,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jJ8f6qnLrhgMUP3y7iSC3",
         "apple": "https://podcasts.apple.com/podcast/attorney-faith-jones-ex-children-of-god-on-i-own-me/id1603773245?i=1000610380688"

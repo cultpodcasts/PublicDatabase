@@ -11,8 +11,10 @@
       "release": "2023-11-01T04:00:00Z",
       "duration": "00:00:00",
       "explicit": false,
+      "spotifyId": "4vql09UETiRYzZaLoA07gZ",
       "appleId": 1000627661028,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4vql09UETiRYzZaLoA07gZ",
         "apple": "https://podcasts.apple.com/us/podcast/pushkin-early-listen-s3-e9-coaching-the-uncoachable/id1435743296?i=1000627661028"
       }
     },
@@ -23,8 +25,10 @@
       "release": "2023-10-25T04:00:00Z",
       "duration": "00:00:00",
       "explicit": false,
+      "spotifyId": "4vql09UETiRYzZaLoA07gZ",
       "appleId": 1000627659686,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4vql09UETiRYzZaLoA07gZ",
         "apple": "https://podcasts.apple.com/us/podcast/pushkin-early-listen-s3-e8-striving-is-bad-for-your-health/id1435743296?i=1000627659686"
       }
     },
@@ -35,8 +39,10 @@
       "release": "2023-10-18T04:00:00Z",
       "duration": "00:00:00",
       "explicit": false,
+      "spotifyId": "4vql09UETiRYzZaLoA07gZ",
       "appleId": 1000627658597,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4vql09UETiRYzZaLoA07gZ",
         "apple": "https://podcasts.apple.com/us/podcast/pushkin-early-listen-s3-e7-the-inmates-running-the-asylum/id1435743296?i=1000627658597"
       }
     },

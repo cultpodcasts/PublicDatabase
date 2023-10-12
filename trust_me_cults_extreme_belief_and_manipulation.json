@@ -11,8 +11,10 @@
       "release": "2023-10-11T16:01:51Z",
       "duration": "00:56:03",
       "explicit": false,
+      "spotifyId": "5yDY7DtTXiz3iQWXcKuaIB",
       "appleId": 1000630982423,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5yDY7DtTXiz3iQWXcKuaIB",
         "apple": "https://podcasts.apple.com/us/podcast/listener-stories-independent-baptist-movement-capoeira/id1534370789?i=1000630982423"
       }
     },

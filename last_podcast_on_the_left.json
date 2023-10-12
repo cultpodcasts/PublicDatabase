@@ -87,6 +87,76 @@
         "spotify": "https://open.spotify.com/episode/3hNkGMa3EIY79yDIvQoWYg",
         "apple": "https://podcasts.apple.com/podcast/episode-302-jonestown-part-iii-check-please/id437299706?i=1000400777484"
       }
+    },
+    {
+      "id": "120c4ec5-e011-43ca-b664-565321c31575",
+      "title": "Episode 218: The Aum Shinrikyo Death Cult Part I - Mountain Wizards",
+      "description": "It\u0027s a return to cults with one of the most bizarre we\u0027ve ever covered, the Aum Shinrikyo death cult of Japan! In this first part we cover how the group started as a fairly innocent scam focused on increasing the psychic powers of nerds and how leader Shoko Asahara was able to turn that into a full blown cult bent on Harumageddon. ",
+      "release": "2016-04-01T00:00:00",
+      "duration": "01:12:47.3600000",
+      "explicit": true,
+      "spotifyId": "0Gi2o4PUWbBewFnJ8iSL1u",
+      "appleId": 1000366027935,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Gi2o4PUWbBewFnJ8iSL1u",
+        "apple": "https://podcasts.apple.com/podcast/episode-218-the-aum-shinrikyo-death-cult-part-i/id437299706?i=1000366027935"
+      }
+    },
+    {
+      "id": "4b0908fe-0689-4599-afcf-663a23e1fd22",
+      "title": "Episode 343: The Order of the Solar Temple Part III - December 4th, 1994",
+      "description": "On the conclusion to our series on one of the most mysterious cults of the last century, we cover the three year-long murder/suicide spree of the cult that resulted in the deaths of 74 members. ",
+      "release": "2018-12-10T00:00:00",
+      "duration": "01:19:49.7860000",
+      "explicit": true,
+      "spotifyId": "4IojBIGAYz5fpunk2W7pf1",
+      "appleId": 1000425468545,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4IojBIGAYz5fpunk2W7pf1",
+        "apple": "https://podcasts.apple.com/podcast/episode-343-the-order-of-the-solar-temple-part/id437299706?i=1000425468545"
+      }
+    },
+    {
+      "id": "ebb58260-2012-4a72-84f7-de1c74f4b95e",
+      "title": "Episode 341: The Order of the Solar Temple Part I - The Beginning",
+      "description": "It\u0027s a return to cults on this week\u0027s episode as we begin our series on one of the most mysterious of the late twentieth century: The Order of the Solar Temple. Join us as we trace the paths of leaders Joseph Di Mambro and Luc Jouret as they wind their way down a path that eventually led to the murder and/or suicide of 74 people.\u00A0\u00A0 ",
+      "release": "2018-11-17T00:00:00",
+      "duration": "01:24:20.9890000",
+      "explicit": true,
+      "spotifyId": "5hfRHXfPU7M5EgpKQH9NQS",
+      "appleId": 1000424019221,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5hfRHXfPU7M5EgpKQH9NQS",
+        "apple": "https://podcasts.apple.com/podcast/episode-341-the-order-of-the-solar-temple/id437299706?i=1000424019221"
+      }
+    },
+    {
+      "id": "65bae407-8db1-4913-941e-ce10d1ca6cbd",
+      "title": "Best of: Cults",
+      "description": "In this Best Of, we\u0027ve compiled some of the most grisly and hilarious moments from our favorite(?) cults throughout Last Podcast on the Left history. So, light a massive hog\u0027s leg and kiss the feet of your makeshift messiah.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2021-07-30T00:00:00",
+      "duration": "01:16:51.2390000",
+      "explicit": true,
+      "spotifyId": "0bQQrFIWSgkdyMndk0iYKO",
+      "appleId": 1000549629845,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0bQQrFIWSgkdyMndk0iYKO",
+        "apple": "https://podcasts.apple.com/podcast/best-of-cults/id437299706?i=1000549629845"
+      }
+    },
+    {
+      "id": "c9328b9d-cc5c-43a8-88c9-d27d26c39193",
+      "title": "Episode 398: Heaven\u0027s Gate Part II - Tomb Time",
+      "description": "On the second\u00A0part of our series on Heaven\u0027s Gate, we break down the full belief system of the cult, how the years they spent in campgrounds helped develop it, and just what it was that turned the entire cult to suicide.\u00A0  LISTEN TO LAST PODCAST ON THE LEFT FREE ON SPOTIFY ",
+      "release": "2020-01-25T00:00:00",
+      "duration": "02:05:31.7810000",
+      "explicit": true,
+      "spotifyId": "5d1KL7P21IfM0lFausvzK0",
+      "appleId": 1000463614538,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5d1KL7P21IfM0lFausvzK0",
+        "apple": "https://podcasts.apple.com/podcast/episode-398-heavens-gate-part-ii-tomb-time/id437299706?i=1000463614538"
+      }
     }
   ]
 }

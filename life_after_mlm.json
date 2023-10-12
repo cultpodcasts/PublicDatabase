@@ -769,6 +769,9 @@
       "explicit": true,
       "spotifyId": "3H5J3vBwJNiIROQd43G6S3",
       "appleId": 1000586858012,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3H5J3vBwJNiIROQd43G6S3",
         "apple": "https://podcasts.apple.com/podcast/episode-137-spencer-schneider/id1553784236?i=1000586858012"

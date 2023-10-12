@@ -430,6 +430,9 @@
       "explicit": true,
       "spotifyId": "3Ym99cKypKJAI4zbkcCFCp",
       "appleId": 1000622643751,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Ym99cKypKJAI4zbkcCFCp",
         "apple": "https://podcasts.apple.com/podcast/ep-263-odyssey-study-group-revisited-part-3/id1514656568?i=1000622643751"
@@ -444,6 +447,9 @@
       "explicit": true,
       "spotifyId": "2qqHdoQDgVd3bmSTyRtGa4",
       "appleId": 1000622638784,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2qqHdoQDgVd3bmSTyRtGa4",
         "apple": "https://podcasts.apple.com/podcast/ep-263-odyssey-study-group-revisited-part-2/id1514656568?i=1000622638784"
@@ -2664,6 +2670,9 @@
       "explicit": true,
       "spotifyId": "1yCQRhqksI54Sq5EuDX8zW",
       "appleId": 1000568488379,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1yCQRhqksI54Sq5EuDX8zW",
         "apple": "https://podcasts.apple.com/podcast/182-interview-with-spencer-schneider-esther-friedman/id1514656568?i=1000568488379"
@@ -2888,6 +2897,9 @@
       "explicit": true,
       "spotifyId": "4w4AlTLfy1egcvrnYC5mGV",
       "appleId": 1000553761610,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4w4AlTLfy1egcvrnYC5mGV",
         "apple": "https://podcasts.apple.com/podcast/162-author-esther-friedman-part-2-sharon-gans-esoteric/id1514656568?i=1000553761610"
@@ -2902,6 +2914,9 @@
       "explicit": true,
       "spotifyId": "5xtyBAojglnhjTz8pESw5V",
       "appleId": 1000553761611,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5xtyBAojglnhjTz8pESw5V",
         "apple": "https://podcasts.apple.com/podcast/161-author-esther-friedman-part-1-sharon-gans-esoteric/id1514656568?i=1000553761611"
