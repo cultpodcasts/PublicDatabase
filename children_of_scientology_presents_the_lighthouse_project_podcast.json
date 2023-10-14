@@ -3,6 +3,8 @@
   "name": "Children of Scientology presents: The Lighthouse Project Podcast",
   "spotifyId": "5lMeCy9rHUVNESorfx79v1",
   "appleId": 1685902489,
+  "youTubeChannelId": "UC5HhqTP8pDJrscbtmH-Dc8g",
+  "youTubePlaylistId": "PLsykdTmE4NuSjV5-IajtwvLgIm3TjcB3n",
   "episodes": [
     {
       "id": "fa6554f4-15b2-4405-a99f-dbf7972f360d",
@@ -268,6 +270,18 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Y8KR9FNnsWSMu64YWEBKO",
         "apple": "https://podcasts.apple.com/podcast/1-introducing-the-lighthouse-project-podcast-first/id1685902489?i=1000611618632"
+      }
+    },
+    {
+      "id": "3049fbfd-68db-47bf-a5fe-1a84ba4ca6ae",
+      "title": "LIVE w/ Aaron | THE LIGHTHOUSE PROJECT",
+      "description": "Aaron Smith-Levin discusses Growing Up In Scientology.",
+      "release": "2023-10-13T23:08:15Z",
+      "duration": "01:41:35",
+      "explicit": false,
+      "youTubeId": "Y3QtCMeBVZM",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Y3QtCMeBVZM"
       }
     }
   ]

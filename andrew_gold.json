@@ -1829,8 +1829,10 @@
       "release": "2022-08-26T23:19:10Z",
       "duration": "01:05:35",
       "explicit": false,
+      "appleId": 1000577195301,
       "youTubeId": "Q16Efl8nsk8",
       "urls": {
+        "apple": "https://podcasts.apple.com/podcast/after-meat-whats-next/id1515932214?i=1000577195301",
         "youtube": "https://www.youtube.com/watch?v=Q16Efl8nsk8"
       }
     },
@@ -1853,8 +1855,10 @@
       "release": "2022-08-26T23:17:45Z",
       "duration": "00:55:14",
       "explicit": false,
+      "appleId": 1000577195301,
       "youTubeId": "ZTbDr9IIfUk",
       "urls": {
+        "apple": "https://podcasts.apple.com/podcast/after-meat-whats-next/id1515932214?i=1000577195301",
         "youtube": "https://www.youtube.com/watch?v=ZTbDr9IIfUk"
       }
     },
@@ -2262,6 +2266,18 @@
       "youTubeId": "31WjP6XaaAs",
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=31WjP6XaaAs"
+      }
+    },
+    {
+      "id": "9757677d-b1ac-4358-9d2d-bd5663ef2987",
+      "title": "The INCESTUOUS Polygamy Cult Where Siblings Marry",
+      "description": "Amanda Rae takes us into her unusual upbringing, and how the inter-marrying of family members has led to all sorts of unimaginable problems and birth defects in The Order cult (also Kingston Group) in Utah. It is an offshoot of Mormonism and the LDS church. #incest #extreme #polygamy \n\nSub to @AmandaLovesRachel\u0027s brilliant channel. Also check out Cults to Consciousness, where I first saw Amanda on Shelise Ann Sola\u0027s wonderful channel. \n\n*FULL INTERVIEW OUT MONDAY*.",
+      "release": "2023-10-13T16:00:29Z",
+      "duration": "00:09:39",
+      "explicit": false,
+      "youTubeId": "hFJR0qlxwDo",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hFJR0qlxwDo"
       }
     }
   ]
