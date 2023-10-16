@@ -11,8 +11,10 @@
       "release": "2023-10-14T04:15:17Z",
       "duration": "01:05:43",
       "explicit": false,
+      "spotifyId": "7AosOObnQt8ZAGjIiVnPqx",
       "appleId": 1000631283424,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7AosOObnQt8ZAGjIiVnPqx",
         "apple": "https://podcasts.apple.com/us/podcast/season-6-episode-11-mountain-meadow-massacre/id1565633523?i=1000631283424"
       }
     },

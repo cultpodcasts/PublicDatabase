@@ -111,6 +111,9 @@
       "explicit": true,
       "spotifyId": "3BbbmiiGYX2civCTYMSoJ0",
       "appleId": 1000625415604,
+      "subjects": [
+        "Two By Twos"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3BbbmiiGYX2civCTYMSoJ0",
         "apple": "https://podcasts.apple.com/podcast/kyle-kari-part-2-the-2x2s-uncovering-widespread/id1534370789?i=1000625415604"
@@ -125,6 +128,9 @@
       "explicit": true,
       "spotifyId": "1RnbpI1FxYmHiLQvttQJ6a",
       "appleId": 1000624650405,
+      "subjects": [
+        "Two By Twos"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1RnbpI1FxYmHiLQvttQJ6a",
         "apple": "https://podcasts.apple.com/podcast/kyle-kari-part-1-deconstructing-the-2x2s/id1534370789?i=1000624650405"
