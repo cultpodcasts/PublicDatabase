@@ -4,13 +4,13 @@
   "youTubeChannelId": "UCGc-a0iqO5hcPtXwC7eyzwQ",
   "episodes": [
     {
-      "id": "ff65836c-583f-418a-acf9-11e40e85c66f",
-      "title": "TONY QUINN - LIVELINE 2009 (PART 1)",
-      "description": "Joe Duffy talks to Lisa McCathy who made a documentary on TONY QUINN, with a colleague going undercover into TONY QUINN\u0027S organization. \n\nShe tells Joe what she found out.",
-      "release": "2009-02-01T19:26:22Z",
-      "duration": "00:09:08",
+      "id": "160fac28-b2d4-4377-a716-57f27febfdd1",
+      "title": "TONY QUINN LIVELINE Show 2",
+      "description": "Mike Garde of Dialogue Ireland discusses TONY QUINN on Liveline.",
+      "release": "2009-02-05T17:33:55Z",
+      "duration": "00:10:01",
       "explicit": false,
-      "youTubeId": "-aN53h0Ccr0",
+      "youTubeId": "-PCB7BEbCPs",
       "subjects": [
         "Dr. Tony Quinn",
         "Dr Tony Quinn",
@@ -21,49 +21,7 @@
         "Seminar"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=-aN53h0Ccr0"
-      }
-    },
-    {
-      "id": "c9ac9f36-29ea-414f-a073-a5b782d9edba",
-      "title": "Tony Quinn Live Line 2009 (Part 2)",
-      "description": "The discussion continues on the Joe Duffy show LiveLine about the fraudster TONY QUINN.",
-      "release": "2009-02-01T23:17:59Z",
-      "duration": "00:09:56",
-      "explicit": false,
-      "youTubeId": "xDLAYUh7vpo",
-      "subjects": [
-        "Dr. Tony Quinn",
-        "Dr Tony Quinn",
-        "Tony Quinn",
-        "EDUCO",
-        "Ireland",
-        "LGAT",
-        "Seminar"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=xDLAYUh7vpo"
-      }
-    },
-    {
-      "id": "e42231f5-1a41-4e3b-8043-265d59deeb56",
-      "title": "TONY QUINN Liveline 2009 (part 3)",
-      "description": "The discussion continues on the Joe Duffy show LiveLine about the fraudster TONY QUINN. With John Boyle, owner of the Boyle Sports shop chain, a follower / believer of TONY QUINN calling in to voice his views.",
-      "release": "2009-02-05T15:01:50Z",
-      "duration": "00:10:14",
-      "explicit": false,
-      "youTubeId": "LOsB5diGAmk",
-      "subjects": [
-        "Dr. Tony Quinn",
-        "Dr Tony Quinn",
-        "Tony Quinn",
-        "EDUCO",
-        "Ireland",
-        "LGAT",
-        "Seminar"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=LOsB5diGAmk"
+        "youtube": "https://www.youtube.com/watch?v=-PCB7BEbCPs"
       }
     },
     {
@@ -88,13 +46,13 @@
       }
     },
     {
-      "id": "160fac28-b2d4-4377-a716-57f27febfdd1",
-      "title": "TONY QUINN LIVELINE Show 2",
-      "description": "Mike Garde of Dialogue Ireland discusses TONY QUINN on Liveline.",
-      "release": "2009-02-05T17:33:55Z",
-      "duration": "00:10:01",
+      "id": "e42231f5-1a41-4e3b-8043-265d59deeb56",
+      "title": "TONY QUINN Liveline 2009 (part 3)",
+      "description": "The discussion continues on the Joe Duffy show LiveLine about the fraudster TONY QUINN. With John Boyle, owner of the Boyle Sports shop chain, a follower / believer of TONY QUINN calling in to voice his views.",
+      "release": "2009-02-05T15:01:50Z",
+      "duration": "00:10:14",
       "explicit": false,
-      "youTubeId": "-PCB7BEbCPs",
+      "youTubeId": "LOsB5diGAmk",
       "subjects": [
         "Dr. Tony Quinn",
         "Dr Tony Quinn",
@@ -105,7 +63,49 @@
         "Seminar"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=-PCB7BEbCPs"
+        "youtube": "https://www.youtube.com/watch?v=LOsB5diGAmk"
+      }
+    },
+    {
+      "id": "c9ac9f36-29ea-414f-a073-a5b782d9edba",
+      "title": "Tony Quinn Live Line 2009 (Part 2)",
+      "description": "The discussion continues on the Joe Duffy show LiveLine about the fraudster TONY QUINN.",
+      "release": "2009-02-01T23:17:59Z",
+      "duration": "00:09:56",
+      "explicit": false,
+      "youTubeId": "xDLAYUh7vpo",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xDLAYUh7vpo"
+      }
+    },
+    {
+      "id": "ff65836c-583f-418a-acf9-11e40e85c66f",
+      "title": "TONY QUINN - LIVELINE 2009 (PART 1)",
+      "description": "Joe Duffy talks to Lisa McCathy who made a documentary on TONY QUINN, with a colleague going undercover into TONY QUINN\u0027S organization. \n\nShe tells Joe what she found out.",
+      "release": "2009-02-01T19:26:22Z",
+      "duration": "00:09:08",
+      "explicit": false,
+      "youTubeId": "-aN53h0Ccr0",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-aN53h0Ccr0"
       }
     }
   ]

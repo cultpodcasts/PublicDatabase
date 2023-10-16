@@ -5,6 +5,34 @@
   "appleId": 1527772333,
   "episodes": [
     {
+      "id": "937303c0-b5f9-4e8a-8c82-7826c3c6e954",
+      "title": "A Conversation With Sarah Edmondson \u0026 Anthony Ames About Escaping NXIVM \u0026 Mental Health: Sickboy Podcast",
+      "description": "Sarah Edmondson and Anthony \u0022Nippy\u0022 Ames are cult escapees and whistleblowers featured in Escaping NXIVM. In this clip from the Sickboy podcast, Sarah and Nippy sit down with the Sickboy hosts to dive deep into their experience with escaping a cult and how it affected their mental health. The full interview and more episodes are available at smarturl.it/sickboycbc",
+      "release": "2022-06-06T00:00:00",
+      "duration": "00:14:30.5300000",
+      "explicit": true,
+      "spotifyId": "6PAb7B2uxdxkQ7uXdMR9kG",
+      "appleId": 1000565382006,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6PAb7B2uxdxkQ7uXdMR9kG",
+        "apple": "https://podcasts.apple.com/podcast/a-conversation-with-sarah-edmondson-anthony-ames/id1527772333?i=1000565382006"
+      }
+    },
+    {
+      "id": "7213c028-0700-4c6f-b09c-461e111d1a9c",
+      "title": "The rise and fall of NXIVM\u0027s Keith Raniere",
+      "description": "In a U.S. federal courtroom Tuesday, Keith Raniere was sentenced to 120 years\u2014having been convicted of a slew of crimes related to his alleged sex cult NXIVM. During the trial and sentencing, victims told of how the self-professed empowerment \u0022vanguard\u0022 had turned some of his followers into sex slaves and branded them with his initials. Front Burner\u0027s Jayme Poisson discusses with Uncover: NXIVM host Josh Bloch.",
+      "release": "2020-10-28T00:00:00",
+      "duration": "00:22:41.8150000",
+      "explicit": true,
+      "spotifyId": "4TWy4RoscjryNpOkZ4nqJl",
+      "appleId": 1000496380247,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4TWy4RoscjryNpOkZ4nqJl",
+        "apple": "https://podcasts.apple.com/podcast/the-rise-and-fall-of-nxivms-keith-raniere/id1527772333?i=1000496380247"
+      }
+    },
+    {
       "id": "48c5ae0a-aff8-4631-b678-787752ad0fe4",
       "title": "Episode 7: The Reckoning",
       "description": "Sarah faces criticism about her role in NXIVM and tries to come to terms with the 12 years she spent as a high-level member of the group.",
@@ -100,34 +128,6 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/7EI30aRxUUu7132gz5nEPQ",
         "apple": "https://podcasts.apple.com/podcast/episode-1-the-branding/id1527772333?i=1000488492474"
-      }
-    },
-    {
-      "id": "7213c028-0700-4c6f-b09c-461e111d1a9c",
-      "title": "The rise and fall of NXIVM\u0027s Keith Raniere",
-      "description": "In a U.S. federal courtroom Tuesday, Keith Raniere was sentenced to 120 years\u2014having been convicted of a slew of crimes related to his alleged sex cult NXIVM. During the trial and sentencing, victims told of how the self-professed empowerment \u0022vanguard\u0022 had turned some of his followers into sex slaves and branded them with his initials. Front Burner\u0027s Jayme Poisson discusses with Uncover: NXIVM host Josh Bloch.",
-      "release": "2020-10-28T00:00:00",
-      "duration": "00:22:41.8150000",
-      "explicit": true,
-      "spotifyId": "4TWy4RoscjryNpOkZ4nqJl",
-      "appleId": 1000496380247,
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/4TWy4RoscjryNpOkZ4nqJl",
-        "apple": "https://podcasts.apple.com/podcast/the-rise-and-fall-of-nxivms-keith-raniere/id1527772333?i=1000496380247"
-      }
-    },
-    {
-      "id": "937303c0-b5f9-4e8a-8c82-7826c3c6e954",
-      "title": "A Conversation With Sarah Edmondson \u0026 Anthony Ames About Escaping NXIVM \u0026 Mental Health: Sickboy Podcast",
-      "description": "Sarah Edmondson and Anthony \u0022Nippy\u0022 Ames are cult escapees and whistleblowers featured in Escaping NXIVM. In this clip from the Sickboy podcast, Sarah and Nippy sit down with the Sickboy hosts to dive deep into their experience with escaping a cult and how it affected their mental health. The full interview and more episodes are available at smarturl.it/sickboycbc",
-      "release": "2022-06-06T00:00:00",
-      "duration": "00:14:30.5300000",
-      "explicit": true,
-      "spotifyId": "6PAb7B2uxdxkQ7uXdMR9kG",
-      "appleId": 1000565382006,
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/6PAb7B2uxdxkQ7uXdMR9kG",
-        "apple": "https://podcasts.apple.com/podcast/a-conversation-with-sarah-edmondson-anthony-ames/id1527772333?i=1000565382006"
       }
     }
   ]

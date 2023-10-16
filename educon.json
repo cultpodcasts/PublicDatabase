@@ -4,51 +4,6 @@
   "youTubeChannelId": "UCeLNAd7-nYU_7D7Z7S3a6Hw",
   "episodes": [
     {
-      "id": "7c1153b0-ee27-4d82-bc83-98da41c7d345",
-      "title": "\u0026quot;Boxing Clever\u0026quot; Fair Game w/ Greg Dyke",
-      "description": "(S02E05) - Channel 4 (10 June 1996)",
-      "release": "1996-06-10T20:00:00Z",
-      "duration": "00:24:39",
-      "explicit": false,
-      "youTubeId": "GF52vfbXd5A",
-      "subjects": [
-        "Dr. Tony Quinn",
-        "Dr Tony Quinn",
-        "Tony Quinn",
-        "EDUCO",
-        "Ireland",
-        "LGAT",
-        "Seminar",
-        "Steve Collins",
-        "Paul McKenna",
-        "Greg Dyke"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=GF52vfbXd5A"
-      }
-    },
-    {
-      "id": "00470cbe-210a-4d6d-9ec8-065ed5d60ec4",
-      "title": "TV3 - 20/20 - \u0026quot;Tony Quinn\u0026quot; (2001)",
-      "description": "Broadcast by Ireland\u0027s TV3 on 2 March 2001.",
-      "release": "2001-03-02T20:00:00Z",
-      "duration": "00:35:32",
-      "explicit": false,
-      "youTubeId": "i-B473VwvOk",
-      "subjects": [
-        "Dr. Tony Quinn",
-        "Dr Tony Quinn",
-        "Tony Quinn",
-        "EDUCO",
-        "Ireland",
-        "LGAT",
-        "Seminar"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=i-B473VwvOk"
-      }
-    },
-    {
       "id": "4ecc5720-d6aa-479b-96bb-3ddf41692ff8",
       "title": "BBC Spotlight (BBC NI) - Belize Oil",
       "description": "Tue 16 Oct 2012, BBC One Investigation into Irish hypnotist Tony Quinn and his company Educo, and his influence and ...",
@@ -68,23 +23,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=TZ5-26C5V5s"
-      }
-    },
-    {
-      "id": "c0c4d93c-361b-423e-8c81-0d2aa35fc60c",
-      "title": "Network First - Mind Control - 1998",
-      "description": "Stacy Brooks and Vaughn Young demonstrate TR drills. Featuring Paul McKenna.",
-      "release": "1998-01-01T00:00:00Z",
-      "duration": "00:03:48",
-      "explicit": false,
-      "youTubeId": "g-lOcLFDprU",
-      "subjects": [
-        "Scientology",
-        "Paul McKenna",
-        "ITV"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=g-lOcLFDprU"
       }
     },
     {
@@ -192,6 +130,44 @@
       }
     },
     {
+      "id": "00470cbe-210a-4d6d-9ec8-065ed5d60ec4",
+      "title": "TV3 - 20/20 - \u0026quot;Tony Quinn\u0026quot; (2001)",
+      "description": "Broadcast by Ireland\u0027s TV3 on 2 March 2001.",
+      "release": "2001-03-02T20:00:00Z",
+      "duration": "00:35:32",
+      "explicit": false,
+      "youTubeId": "i-B473VwvOk",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=i-B473VwvOk"
+      }
+    },
+    {
+      "id": "c0c4d93c-361b-423e-8c81-0d2aa35fc60c",
+      "title": "Network First - Mind Control - 1998",
+      "description": "Stacy Brooks and Vaughn Young demonstrate TR drills. Featuring Paul McKenna.",
+      "release": "1998-01-01T00:00:00Z",
+      "duration": "00:03:48",
+      "explicit": false,
+      "youTubeId": "g-lOcLFDprU",
+      "subjects": [
+        "Scientology",
+        "Paul McKenna",
+        "ITV"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=g-lOcLFDprU"
+      }
+    },
+    {
       "id": "94bb8074-8b2d-4bd1-9d48-d47a7780675d",
       "title": "Pat Kenny Talk Show 12th Nov 1997",
       "description": "Pat Kenny Talk Show 12th Nov 1997 \u2013 Cancer Cure by Post and other claims by Tony Quinn/EDUCO\n\n\nSource: https://dialogueireland.wordpress.com/2012/06/04/pat-kenny-talk-show-12th-nov-1997-cancer-cure-by-post-and-other-claims-by-tony-quinn/\n\n\n#drtonyquinn #educoseminar #educoworld",
@@ -210,6 +186,30 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=u77DTkkVcv0"
+      }
+    },
+    {
+      "id": "7c1153b0-ee27-4d82-bc83-98da41c7d345",
+      "title": "\u0026quot;Boxing Clever\u0026quot; Fair Game w/ Greg Dyke",
+      "description": "(S02E05) - Channel 4 (10 June 1996)",
+      "release": "1996-06-10T20:00:00Z",
+      "duration": "00:24:39",
+      "explicit": false,
+      "youTubeId": "GF52vfbXd5A",
+      "subjects": [
+        "Dr. Tony Quinn",
+        "Dr Tony Quinn",
+        "Tony Quinn",
+        "EDUCO",
+        "Ireland",
+        "LGAT",
+        "Seminar",
+        "Steve Collins",
+        "Paul McKenna",
+        "Greg Dyke"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GF52vfbXd5A"
       }
     }
   ]

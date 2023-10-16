@@ -6,17 +6,17 @@
   "youTubeChannelId": "UCkXl_d--yg89cUP8ZLNBlIw",
   "episodes": [
     {
-      "id": "f691f5ff-7af5-4f99-ad2f-03f89777b226",
-      "title": "Blackballed: Dr. Janja Lalich - the world\u0027s foremost expert on cults",
-      "description": "Dr. Janja Lalich drops in to talk about the Plymouth Brethren Christian Church and why the cult is so dangerous.",
-      "release": "2022-07-30T12:08:22Z",
-      "duration": "01:08:48",
+      "id": "20878363-4d8d-4ff6-ae48-6521f6250ec2",
+      "title": "Plymouth Brethren Christian Church survivor Heidi McCamley",
+      "description": "Heidi McCamley had the fortitude to fight back against her abusive husband. She just left the cult known as the Plymouth Brethren Christian Church and is currently waiting for her ex husband to go on trial for the horrendous abuse he delivered to Heidi.   This is her story.  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2023-04-25T00:00:00",
+      "duration": "01:11:08.2250000",
       "explicit": false,
-      "spotifyId": "0LSxq4OZEzlWr3BdWSSy0N",
-      "youTubeId": "hD1TSQo9vXM",
+      "spotifyId": "4jXn3Iso0TY8Fmy0Sl7nZs",
+      "appleId": 1000610498025,
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0LSxq4OZEzlWr3BdWSSy0N",
-        "youtube": "https://www.youtube.com/watch?v=hD1TSQo9vXM"
+        "spotify": "https://open.spotify.com/episode/4jXn3Iso0TY8Fmy0Sl7nZs",
+        "apple": "https://podcasts.apple.com/podcast/heidi-mccamley-just-left-the-plymouth-brethren/id1569093583?i=1000610498025"
       }
     },
     {
@@ -48,17 +48,17 @@
       }
     },
     {
-      "id": "20878363-4d8d-4ff6-ae48-6521f6250ec2",
-      "title": "Plymouth Brethren Christian Church survivor Heidi McCamley",
-      "description": "Heidi McCamley had the fortitude to fight back against her abusive husband. She just left the cult known as the Plymouth Brethren Christian Church and is currently waiting for her ex husband to go on trial for the horrendous abuse he delivered to Heidi.   This is her story.  Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "release": "2023-04-25T00:00:00",
-      "duration": "01:11:08.2250000",
+      "id": "f691f5ff-7af5-4f99-ad2f-03f89777b226",
+      "title": "Blackballed: Dr. Janja Lalich - the world\u0027s foremost expert on cults",
+      "description": "Dr. Janja Lalich drops in to talk about the Plymouth Brethren Christian Church and why the cult is so dangerous.",
+      "release": "2022-07-30T12:08:22Z",
+      "duration": "01:08:48",
       "explicit": false,
-      "spotifyId": "4jXn3Iso0TY8Fmy0Sl7nZs",
-      "appleId": 1000610498025,
+      "spotifyId": "0LSxq4OZEzlWr3BdWSSy0N",
+      "youTubeId": "hD1TSQo9vXM",
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4jXn3Iso0TY8Fmy0Sl7nZs",
-        "apple": "https://podcasts.apple.com/podcast/heidi-mccamley-just-left-the-plymouth-brethren/id1569093583?i=1000610498025"
+        "spotify": "https://open.spotify.com/episode/0LSxq4OZEzlWr3BdWSSy0N",
+        "youtube": "https://www.youtube.com/watch?v=hD1TSQo9vXM"
       }
     }
   ]

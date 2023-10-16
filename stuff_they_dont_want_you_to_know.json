@@ -19,20 +19,6 @@
       }
     },
     {
-      "id": "df990246-0abf-4a20-8561-74dec807a3e7",
-      "title": "Cults (You\u0027ve Never Heard Of)",
-      "description": "What\u0027s the difference between a cult and a religion? What are some of history\u0027s strangest cults? Are there any secret cults in the modern day? Tune in to learn more.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comThey don\u0027t want you to read our book.: https://static.macmillan.com/static/fib/stuff-you-should-read/See omnystudio.com/listener for privacy information.",
-      "release": "2014-03-21T00:00:00",
-      "duration": "00:48:44.8780000",
-      "explicit": false,
-      "spotifyId": "6a2mw22LXS3FLNPUiZLDST",
-      "appleId": 1000281819830,
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/6a2mw22LXS3FLNPUiZLDST",
-        "apple": "https://podcasts.apple.com/podcast/cults-youve-never-heard-of/id732915228?i=1000281819830"
-      }
-    },
-    {
       "id": "3170740a-a985-4db0-bbc8-2c039130a66e",
       "title": "Modern Cults, Part I: Black Hammers and More",
       "description": "What makes one belief system a religion, and another a cult? How can non-religious organization themselves be cults? In part one of this two-part series, Ben, Matt and Noel explore modern cultic organizations. They don\u2019t want you to read our book. They don\u2019t want you to see us on tour.They don\u0027t want you to read our book.: https://static.macmillan.com/static/fib/stuff-you-should-read/See omnystudio.com/listener for privacy information.",
@@ -44,20 +30,6 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/2itfDMOMlWi5qWJRfpY0AN",
         "apple": "https://podcasts.apple.com/podcast/modern-cults-part-i-black-hammers-and-more/id732915228?i=1000578961876"
-      }
-    },
-    {
-      "id": "5af55731-7320-4c06-a156-6e799876ab39",
-      "title": "Serial Killer Cults",
-      "description": "Serial killers are insane, prone to exaggeration and delusion, and often inveterate liars. Amid some of their wilder claims, several notable serial killers, such as David Berkowitz and Henry Lee Lucas, have stated that they were killing on the orders of a cult. Is there any way it could be true? Tune in to learn more about the Hand of Death, Four Pi and other alleged serial killer cults.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comThey don\u0027t want you to read our book.: https://static.macmillan.com/static/fib/stuff-you-should-read/See omnystudio.com/listener for privacy information.",
-      "release": "2014-01-17T00:00:00",
-      "duration": "00:30:22.0140000",
-      "explicit": false,
-      "spotifyId": "5tduVE95ip4CdlCrR1LrZt",
-      "appleId": 1000232273865,
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/5tduVE95ip4CdlCrR1LrZt",
-        "apple": "https://podcasts.apple.com/podcast/serial-killer-cults/id732915228?i=1000232273865"
       }
     },
     {
@@ -86,6 +58,34 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Zgv0CgVP7Wa48WP7OD6m5",
         "apple": "https://podcasts.apple.com/podcast/did-a-cult-try-to-run-south-korea/id732915228?i=1000393787721"
+      }
+    },
+    {
+      "id": "df990246-0abf-4a20-8561-74dec807a3e7",
+      "title": "Cults (You\u0027ve Never Heard Of)",
+      "description": "What\u0027s the difference between a cult and a religion? What are some of history\u0027s strangest cults? Are there any secret cults in the modern day? Tune in to learn more.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comThey don\u0027t want you to read our book.: https://static.macmillan.com/static/fib/stuff-you-should-read/See omnystudio.com/listener for privacy information.",
+      "release": "2014-03-21T00:00:00",
+      "duration": "00:48:44.8780000",
+      "explicit": false,
+      "spotifyId": "6a2mw22LXS3FLNPUiZLDST",
+      "appleId": 1000281819830,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6a2mw22LXS3FLNPUiZLDST",
+        "apple": "https://podcasts.apple.com/podcast/cults-youve-never-heard-of/id732915228?i=1000281819830"
+      }
+    },
+    {
+      "id": "5af55731-7320-4c06-a156-6e799876ab39",
+      "title": "Serial Killer Cults",
+      "description": "Serial killers are insane, prone to exaggeration and delusion, and often inveterate liars. Amid some of their wilder claims, several notable serial killers, such as David Berkowitz and Henry Lee Lucas, have stated that they were killing on the orders of a cult. Is there any way it could be true? Tune in to learn more about the Hand of Death, Four Pi and other alleged serial killer cults.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comThey don\u0027t want you to read our book.: https://static.macmillan.com/static/fib/stuff-you-should-read/See omnystudio.com/listener for privacy information.",
+      "release": "2014-01-17T00:00:00",
+      "duration": "00:30:22.0140000",
+      "explicit": false,
+      "spotifyId": "5tduVE95ip4CdlCrR1LrZt",
+      "appleId": 1000232273865,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5tduVE95ip4CdlCrR1LrZt",
+        "apple": "https://podcasts.apple.com/podcast/serial-killer-cults/id732915228?i=1000232273865"
       }
     }
   ]
