@@ -1,0 +1,24 @@
+{
+  "id": "520cf803-e4b6-4db4-b907-87ef943ec6eb",
+  "name": "Exit Strategy Podcast",
+  "spotifyId": "3SkbZfTRhLlhsfVelx2xeK",
+  "appleId": 1572563515,
+  "youTubeChannelId": "UCKJIq8TchuejswvLpHf-BxA",
+  "youTubePlaylistId": "PLwa0LoKKX2jBmfv8gMPeSUKoEkBEA4hRO",
+  "episodes": [
+    {
+      "id": "0e018777-114a-4be3-8d46-95994885452f",
+      "title": "Rael Ombuor - The Shakahola Forest Massacre",
+      "description": "Last June, the number of people who died after a Kenyan pastor ordered his followers to starve to death in order to meet Jesus has surpassed 300. The death toll has since risen dramatically.\u00A0Police are still holding pastor Paul Mackenzie and 29 other individuals for their role in the mass starvation and suicides of followers they buried in hundreds of shallow graves in a forest near the coast of the Indian Ocean in Kenya.\u00A0I spoke to Rael Ombuor (@awuorombuor), a Kenya-based journalist who helped break the story for the Washington Post.\u00A0",
+      "release": "2023-10-16T00:00:00",
+      "duration": "00:44:01.8670000",
+      "explicit": false,
+      "spotifyId": "3FR0nCuxzxezyN1tIZRcsy",
+      "youTubeId": "BbRilP9GiIw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3FR0nCuxzxezyN1tIZRcsy",
+        "youtube": "https://www.youtube.com/watch?v=BbRilP9GiIw"
+      }
+    }
+  ]
+}
