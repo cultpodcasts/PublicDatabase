@@ -1,0 +1,24 @@
+{
+  "id": "05b58c15-50ed-4200-bac6-9845977b673b",
+  "name": "Crime Story",
+  "spotifyId": "4ssyvZGUyG2Tu9yAreVF6R",
+  "appleId": 1708259679,
+  "episodes": [
+    {
+      "id": "dd682873-9727-4fa7-b85c-37eefbe27ad3",
+      "title": "NXIVM: Inside The Celebrity Cult",
+      "description": "When Josh Bloch ran into an old friend on Hornby Island, he had no idea what would come next. Sarah had just left a cult called NXIVM and was afraid for her safety. She had spent years under NXIVM\u2019s control, and had been branded with the cult leader\u2019s initials.   Josh brought Sarah\u2019s story to Kathleen, and together they began to dig. What they found was a story of sexual abuse and master manipulation. In this episode, Josh walks us through their original investigation and the elements of the NXIVM story that have yet to be told.  Watch this episode on CBC Podcasts\u0027 YouTube channel: www.youtube.com/@cbcpodcasts  For early access to Crime Story episodes and to listen ad-free, subscribe to CBC\u0027s True Crime channel on our show page in Apple Podcasts.  This episode\u0027s transcript can be found here: https://www.cbc.ca/radio/podcastnews/transcript-crime-story-episode-2-1.6980262",
+      "release": "2023-10-16T00:00:00",
+      "duration": "00:49:38.3240000",
+      "explicit": false,
+      "spotifyId": "5ZDWhC7FkXDg1QU3n1qOJP",
+      "appleId": 1000631223946,
+      "youTubeId": "cck-F2DS7Xk",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ZDWhC7FkXDg1QU3n1qOJP",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-inside-the-celebrity-cult/id1708259679?i=1000631223946",
+        "youtube": "https://www.youtube.com/watch?v=cck-F2DS7Xk"
+      }
+    }
+  ]
+}

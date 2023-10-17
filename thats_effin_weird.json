@@ -1,6 +1,6 @@
 {
   "id": "f459c4c7-db4f-4da6-96bc-f9b8e51b4644",
-  "name": "THAT\u2019S EFFIN WEIRD!",
+  "name": "That\u2019s Effin Weird!",
   "spotifyId": "0RRksZXxsziDhFJjyDQUeh",
   "appleId": 1614480510,
   "episodes": [
@@ -13,6 +13,11 @@
       "explicit": true,
       "spotifyId": "3OGsxiLdEUBRwZhnkg9Sgi",
       "appleId": 1000590571722,
+      "subjects": [
+        "Modern Mystery School",
+        "MMS",
+        "Gudni Gudnason"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OGsxiLdEUBRwZhnkg9Sgi",
         "apple": "https://podcasts.apple.com/podcast/modern-mystery-school-interview-ep-040/id1614480510?i=1000590571722"
