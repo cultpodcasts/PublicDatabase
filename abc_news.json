@@ -1,0 +1,19 @@
+{
+  "id": "b4384efc-ae24-4ee3-85bf-348857f9da8f",
+  "name": "ABC News",
+  "youTubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+  "episodes": [
+    {
+      "id": "9ee1928a-e1a8-497b-aab3-18be717ff75a",
+      "title": "Ex-Scientology Officials Say Church Head Struck Staff: Part 2",
+      "description": "Mike Rinder and Marty Rathbun say they have seen David Miscavige be violent, though the Church has consistently denied these claims.",
+      "release": "2017-01-07T07:38:17Z",
+      "duration": "00:06:55",
+      "explicit": false,
+      "youTubeId": "PKKg6tjT4nE",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PKKg6tjT4nE"
+      }
+    }
+  ]
+}

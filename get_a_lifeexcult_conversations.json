@@ -14,9 +14,11 @@
       "explicit": false,
       "spotifyId": "5kaXxd1lrvL9ri44Fq4jq1",
       "appleId": 1000631657519,
+      "youTubeId": "chyDDvnUIZ4",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5kaXxd1lrvL9ri44Fq4jq1",
-        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-75-with-richard-marsh/id1651686638?i=1000631657519"
+        "apple": "https://podcasts.apple.com/podcast/get-a-life-ep-75-with-richard-marsh/id1651686638?i=1000631657519",
+        "youtube": "https://www.youtube.com/watch?v=chyDDvnUIZ4"
       }
     },
     {
