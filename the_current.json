@@ -1,0 +1,25 @@
+{
+  "id": "22f66820-1114-4ac8-9ad2-64a754ed9051",
+  "name": "The Current",
+  "spotifyId": "0V5VpTT8bLVuHOrAGj2RhD",
+  "appleId": 151487761,
+  "episodes": [
+    {
+      "id": "c1f8695b-f627-4d47-ab38-b94d0ffb9e79",
+      "title": "\u2018Queen of Canada\u2019 cult threatens executions in Sask. village",
+      "description": "Far-right QAnon conspiracy theorist Romana Didulo and her followers have set up camp in the small village of Richmound, Sask. They\u2019re threatening to publicly execute elected officials and community members who want them to leave. The CBC\u2019s Sam Samson went there to meet residents worried about the woman who calls herself \u201CThe Queen of Canada.\u201D",
+      "release": "2023-10-19T00:00:00",
+      "duration": "00:20:44.2120000",
+      "explicit": false,
+      "spotifyId": "2nf4MfNkB3uwK4Lp4SCPlq",
+      "appleId": 1000631882219,
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2nf4MfNkB3uwK4Lp4SCPlq",
+        "apple": "https://podcasts.apple.com/podcast/queen-of-canada-cult-threatens-executions-in-sask-village/id151487761?i=1000631882219"
+      }
+    }
+  ]
+}

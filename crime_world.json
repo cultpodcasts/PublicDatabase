@@ -24,7 +24,8 @@
         "Sunday World",
         "Nicola Tallant",
         "Nicola",
-        "Tallant"
+        "Tallant",
+        "Ireland"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4NB0zOVeuXLIccgpK8ldeX",
@@ -41,9 +42,33 @@
       "explicit": false,
       "spotifyId": "18Wn8OhYAwQre2lxEB8zJh",
       "appleId": 1000613332507,
+      "subjects": [
+        "Lori Vallow",
+        "Chad Daybell",
+        "Ireland"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/18Wn8OhYAwQre2lxEB8zJh",
         "apple": "https://podcasts.apple.com/podcast/episode-284-the-story-of-doomsday-mother-lori/id1540069464?i=1000613332507"
+      }
+    },
+    {
+      "id": "3806da38-4182-4082-a7df-916c2e381908",
+      "title": "Episode 236: Canada\u0027s cult-like leader who is brain-washing her followers to believe she is taking over the world",
+      "description": "She is the self-declared Queen of Canada whose followers drive in giant motor homes through towns and sleepy villages spreading her word.  Filipina Romana Didulo is a QAnon influencer with a little known past that has convinced tens of thousands of Canadians that they don\u2019t have to abide by laws, get vaccinated or even pay their mortgages.  To the lilts of the Boney M song Rasputin she travels the country in her disco RV and whips up crowds who believe that the world is being led by Satan worshiping paedophiles who control government, big business and the mainstream media.  But is Didulo to be laughed at or does Canada need to sit up and take notice of a cult leader whose followers are gullible to anything she says?  Today I\u2019m talking with Toronto Sun crime columnist Brad Hunter about the tiny woman on the self-made throne with the huge ideas about taking over the world.See omnystudio.com/listener for privacy information.",
+      "release": "2023-02-08T00:00:00",
+      "duration": "00:22:51.3240000",
+      "explicit": false,
+      "spotifyId": "4ak8CKXyJfqSmefBP8KOJn",
+      "appleId": 1000598593577,
+      "subjects": [
+        "Romana Didulo",
+        "QAnon",
+        "Ireland"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ak8CKXyJfqSmefBP8KOJn",
+        "apple": "https://podcasts.apple.com/podcast/episode-236-canadas-cult-like-leader-who-is-brain-washing/id1540069464?i=1000598593577"
       }
     }
   ]

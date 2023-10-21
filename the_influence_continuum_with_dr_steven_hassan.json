@@ -14,9 +14,11 @@
       "explicit": false,
       "spotifyId": "23VtMP3tquNzFbfsY543bI",
       "appleId": 1000631453716,
+      "youTubeId": "14An4mGmJHY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/23VtMP3tquNzFbfsY543bI",
-        "apple": "https://podcasts.apple.com/us/podcast/from-maga-activist-to-national-healer-with-rich-logis/id1603773245?i=1000631453716"
+        "apple": "https://podcasts.apple.com/us/podcast/from-maga-activist-to-national-healer-with-rich-logis/id1603773245?i=1000631453716",
+        "youtube": "https://www.youtube.com/watch?v=14An4mGmJHY"
       }
     },
     {

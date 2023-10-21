@@ -23,6 +23,9 @@
       "duration": "00:04:12",
       "explicit": false,
       "youTubeId": "JuOJTRKV7nY",
+      "subjects": [
+        "Paul Mackenzie"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=JuOJTRKV7nY"
       }
@@ -35,6 +38,9 @@
       "duration": "00:02:00",
       "explicit": false,
       "youTubeId": "_B8TSQoHJPk",
+      "subjects": [
+        "Paul Mackenzie"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=_B8TSQoHJPk"
       }
@@ -47,6 +53,13 @@
       "duration": "00:04:28",
       "explicit": false,
       "youTubeId": "o4PCe5xyegc",
+      "subjects": [
+        "Lighthouse International Group",
+        "LIG",
+        "Paul Waugh",
+        "Shaun Cooper",
+        "Warren Vaughan"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=o4PCe5xyegc"
       }

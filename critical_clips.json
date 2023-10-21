@@ -4,6 +4,30 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "ff1b0c63-6c01-49e5-87e4-50d2b4dcce1e",
+      "title": "Chris Shelton | Scientology\u0026#39;s Corporate Labyrinth",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 1\u0022 ...",
+      "release": "2023-10-20T18:00:07Z",
+      "duration": "00:10:13",
+      "explicit": false,
+      "youTubeId": "GARs9j8PooQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GARs9j8PooQ"
+      }
+    },
+    {
+      "id": "98b09add-5577-4fad-b437-512cbdcba71c",
+      "title": "Chris Shelton | How Miscavige Began His Rise to Power",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 1\u0022 ...",
+      "release": "2023-10-19T18:03:29Z",
+      "duration": "00:14:50",
+      "explicit": false,
+      "youTubeId": "y_RPIuOKLpQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=y_RPIuOKLpQ"
+      }
+    },
+    {
       "id": "44362239-faa2-4083-b33e-695e801068da",
       "title": "Chris Shelton | Scientology\u0026#39;s Existential Crisis",
       "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 1\u0022 ...",

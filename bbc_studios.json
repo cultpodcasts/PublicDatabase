@@ -11,6 +11,9 @@
       "duration": "00:04:05",
       "explicit": false,
       "youTubeId": "2HCwgAm6Kfc",
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=2HCwgAm6Kfc"
       }
@@ -23,6 +26,9 @@
       "duration": "00:02:44",
       "explicit": false,
       "youTubeId": "rSOakwpJWpc",
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=rSOakwpJWpc"
       }
