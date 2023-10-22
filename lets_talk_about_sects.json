@@ -678,6 +678,11 @@
       "explicit": false,
       "spotifyId": "07mHjZ3QJ60HOnMFClMP0E",
       "appleId": 1000468718114,
+      "subjects": [
+        "The Living Word",
+        "The Living Word Fellowship",
+        "The Walk"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/07mHjZ3QJ60HOnMFClMP0E",
         "apple": "https://podcasts.apple.com/podcast/the-living-word-fellowship/id1286328757?i=1000468718114"
