@@ -1,0 +1,19 @@
+{
+  "id": "81fd308a-3b5c-4eed-95f9-d7403341d047",
+  "name": "H3 Podcast",
+  "youTubeChannelId": "UCLtREJY21xRfCuEKvdki1Kw",
+  "episodes": [
+    {
+      "id": "24947d74-59b8-4a28-96c3-8857afd7e6ea",
+      "title": "Scientology Exposed By TikToker - Off The Rails #91",
+      "description": "1:05:14 - Scientology Exposed By TikToker",
+      "release": "2023-10-26T00:22:29Z",
+      "duration": "03:51:33",
+      "explicit": false,
+      "youTubeId": "WVwlc6pIBVs",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WVwlc6pIBVs\u0026t=3914"
+      }
+    }
+  ]
+}

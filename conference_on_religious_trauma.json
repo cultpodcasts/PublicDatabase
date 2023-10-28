@@ -1,8 +1,35 @@
 {
   "id": "1fabfd1c-47b2-434b-8c44-3781ee11a0e3",
   "name": "Conference On Religious Trauma",
+  "spotifyId": "5z9B2C0CXDqeOomm5mV03U",
   "youTubeChannelId": "UCGhyTXTIM9kdTJ1jW-Ckb5g",
   "episodes": [
+    {
+      "id": "8ad3bc0a-2460-4731-a85d-b748ac712758",
+      "title": "Carol Merchasin - Sexual Misconduct by Spiritual Community Leaders",
+      "description": "Carol Merchasin Sexual Misconduct by Spiritual Community Leaders CW: Discussion of sexual misconduct \u0026 abuse by cultic-type ...",
+      "release": "2023-10-25T16:00:03Z",
+      "duration": "00:56:04",
+      "explicit": false,
+      "spotifyId": "0AqQ9YzTr2GJS9m9dkYjpn",
+      "youTubeId": "2TYciydP2po",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0AqQ9YzTr2GJS9m9dkYjpn",
+        "youtube": "https://www.youtube.com/watch?v=2TYciydP2po"
+      }
+    },
+    {
+      "id": "2c509ef0-7876-49b9-abe0-d04307ba823a",
+      "title": "CORT 2022: Jeremiah Camara - Psychological Implications of Religious Iconography in Public Places",
+      "description": "CORT 2022: Jeremiah Camara Author \u0026 Film Maker, ERICA (Ending Religious Iconography in America) Psychological ...",
+      "release": "2023-10-24T16:00:20Z",
+      "duration": "00:46:08",
+      "explicit": false,
+      "youTubeId": "IVI3hfnybto",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=IVI3hfnybto"
+      }
+    },
     {
       "id": "54d7e47c-23f3-4b2e-a84b-9b6a292fb8b8",
       "title": "Susanna Guarino - Religious Trauma in Relationships",

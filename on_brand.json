@@ -1,0 +1,25 @@
+{
+  "id": "3bcd2e90-b55c-4276-925b-a2380704d758",
+  "name": "On Brand",
+  "spotifyId": "2jVys7JkEI7iPRg775TcwQ",
+  "appleId": 1690604716,
+  "youTubeChannelId": "UCVtRmPvaMzxDcTpJ5dZbdwg",
+  "episodes": [
+    {
+      "id": "fe597360-b1b1-4bd6-97f0-8a89a013918f",
+      "title": "OB #26 - Russell Brand Is Starting a Cult",
+      "description": "Al and Lauren take a look behind the scenes of Russell Brand\u0027s Locals community, and find more than a few troubling things going on. Support us on Patreon! - patreon.com/OnBrand  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/on-brand-pod/message",
+      "release": "2023-10-26T00:00:00",
+      "duration": "03:08:44.7780000",
+      "explicit": true,
+      "spotifyId": "0fJ4zkfD6IM24TFQyVIwVB",
+      "appleId": 1000632747510,
+      "youTubeId": "43GFf7H9IHo",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0fJ4zkfD6IM24TFQyVIwVB",
+        "apple": "https://podcasts.apple.com/podcast/ob-26-russell-brand-is-starting-a-cult/id1690604716?i=1000632747510",
+        "youtube": "https://www.youtube.com/watch?v=43GFf7H9IHo"
+      }
+    }
+  ]
+}

@@ -3,7 +3,39 @@
   "name": "Cult Hackers",
   "spotifyId": "6FwCWwZb2ufjAoRiVPhcIs",
   "appleId": 1540824671,
+  "youTubeChannelId": "UCoIONFGNYtvMQ-Z0XeMQxKg",
+  "youTubePlaylistId": "PLHaoUhqL90rdqwrta97n5EIlujQT9KSex",
   "episodes": [
+    {
+      "id": "53b49c13-04b0-4f5b-bfaa-bf8b68ff4b92",
+      "title": "What The Stanford Prison Experiment Tells Us About Cults",
+      "description": "It\u0027s perhaps the most famous psychological study ever but what does it really tell us? And what might it tell us about cults? In the 1970s Professor Philip Zimbardo created a simulated prison in the basement of a college building, separating volunteer students into the roles of prisoners and guards to observe their behaviour. What happened next is disturbing, and led to a view that when it comes to behaviour, more important than the individual\u0027s ethics and morality, it\u0027s the situation that really matters. In addition to the obvious ethical issues raised by the study there have fairly recently been challenges to its claims and the scientific methodology. Stephen and Celine go deep into what it really tells us and it\u0027s not what was claimed. Zimbardo article about cults https://www.lucifereffect.com/guide_cults.htm Recording of instructions to \u0022prison guards\u0022 https://purl.stanford.edu/wn708sg0050 Video recordings\u00A0 https://exhibits.stanford.edu/spe/browse/video-recordings British Psychological Society article https://www.bps.org.uk/psychologist/time-change-story Share this podcast with a friend https://pod.link/1540824671 To reach out to us: https://www.culthackers.com/ To become a patron: https://www.patreon.com/culthackers/posts Witness Underground Kickstarter: https://www.kickstarter.com/projects/witnessunderground/431102735?ref=akkj92\u0026token=3e50ed5a",
+      "release": "2023-10-27T23:01:00Z",
+      "duration": "00:56:24.6000000",
+      "explicit": false,
+      "spotifyId": "0lVHsyPyKiTHqsWOvHtgAh",
+      "appleId": 1000632886686,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0lVHsyPyKiTHqsWOvHtgAh",
+        "apple": "https://podcasts.apple.com/podcast/what-the-stanford-prison-experiment-tells-us-about-cults/id1540824671?i=1000632886686"
+      }
+    },
+    {
+      "id": "25b4da01-a2ae-4784-8527-ec0c0d81e088",
+      "title": "\u201DFeeling like a misfit\u201D: Creative Struggles and Triumphs with Witness Underground",
+      "description": "Stephen speaks to Scott Homan, Ryan Sutter, Anthony Mathenia, Denise Wise and Micah Allen Losch from the Witness Underground team. In this special episode each former Jehovah\u0027s Witness speaks about their struggle to find creative expression while a member, and their journey of self discovery as they left, as well as updating us on the amazing documentary film Witness Underground, and their mission to get it on the streaming platforms for more people to see it who need to. Share this podcast with a friend https://pod.link/1540824671 To reach out to us: https://www.culthackers.com/ To become a patron: https://www.patreon.com/culthackers/posts Witness Underground Kickstarter https://www.kickstarter.com/projects/witnessunderground/431102735?ref=akkj92\u0026token=3e50ed5a",
+      "release": "2023-10-24T23:01:00Z",
+      "duration": "01:43:32.8310000",
+      "explicit": false,
+      "spotifyId": "1Ze0Krr1DNgi2Z17aEtnUJ",
+      "appleId": 1000632502208,
+      "youTubeId": "jaxVCt2HG7A",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Ze0Krr1DNgi2Z17aEtnUJ",
+        "apple": "https://podcasts.apple.com/podcast/feeling-like-a-misfit-creative-struggles-and/id1540824671?i=1000632502208",
+        "youtube": "https://www.youtube.com/watch?v=jaxVCt2HG7A"
+      }
+    },
     {
       "id": "db0648bb-d0a9-415a-b4b7-848813b38526",
       "title": "Taking on Gloriavale and Winning, with Stephen Patterson",

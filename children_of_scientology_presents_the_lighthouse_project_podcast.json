@@ -15,9 +15,11 @@
       "explicit": false,
       "spotifyId": "71z8kdVFEjj8sbTtQR7azy",
       "appleId": 1000632208354,
+      "youTubeId": "fH7ktZ2zpMo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/71z8kdVFEjj8sbTtQR7azy",
-        "apple": "https://podcasts.apple.com/podcast/20-people-of-the-state-of-california-vs/id1685902489?i=1000632208354"
+        "apple": "https://podcasts.apple.com/podcast/20-people-of-the-state-of-california-vs/id1685902489?i=1000632208354",
+        "youtube": "https://www.youtube.com/watch?v=fH7ktZ2zpMo"
       }
     },
     {
