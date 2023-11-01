@@ -4,6 +4,30 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "ae2de74a-0f5a-41a0-9a91-ade7e3136dd2",
+      "title": "Chris Shelton | Scientology and Lisa McPherson",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 3\u0022 ...",
+      "release": "2023-10-31T18:00:01Z",
+      "duration": "00:06:54",
+      "explicit": false,
+      "youTubeId": "3DO4xbj24Xk",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3DO4xbj24Xk"
+      }
+    },
+    {
+      "id": "6b9642c6-0c78-4614-a1cb-a46c40193c41",
+      "title": "Chris Shelton | Who was Lisa McPherson?",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 2\u0022 ...",
+      "release": "2023-10-30T19:16:49Z",
+      "duration": "00:14:18",
+      "explicit": false,
+      "youTubeId": "aC5Bv1tibBM",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aC5Bv1tibBM"
+      }
+    },
+    {
       "id": "69872456-3216-47bd-a697-3fe05bb2f2af",
       "title": "Chris Shelton | Getting Celebrities into Scientology",
       "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 2\u0022 ...",

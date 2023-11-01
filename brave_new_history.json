@@ -1,0 +1,40 @@
+{
+  "id": "b7ca47d0-2e13-4aa3-96d1-28d456230c2f",
+  "name": "Brave New History",
+  "youTubeChannelId": "UCXmfrLjTD0yvy4CSU6-z_SQ",
+  "episodes": [
+    {
+      "id": "00900bc0-76b5-4cb9-adbf-3cc980bccbc3",
+      "title": "Shabd Yoga, Eckankar and Self-Realization with Dr. David C. Lane",
+      "release": "2022-09-02T12:26:23Z",
+      "duration": "01:37:57",
+      "explicit": false,
+      "youTubeId": "KmxdnobgosQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KmxdnobgosQ"
+      }
+    },
+    {
+      "id": "5f5e6f1d-2153-402f-90d7-73869351985f",
+      "title": "Dr. David C Lane - How to Start a Cult and the Future of Cults",
+      "release": "2022-08-03T05:30:08Z",
+      "duration": "02:32:17",
+      "explicit": false,
+      "youTubeId": "iWRgrVqeu68",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iWRgrVqeu68"
+      }
+    },
+    {
+      "id": "4902b26f-d2ab-4851-afbd-0bcf1945268c",
+      "title": "Dr. David C Lane - How religions are made",
+      "release": "2022-07-22T03:07:48Z",
+      "duration": "02:01:02",
+      "explicit": false,
+      "youTubeId": "zKlhZx_FjT8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zKlhZx_FjT8"
+      }
+    }
+  ]
+}

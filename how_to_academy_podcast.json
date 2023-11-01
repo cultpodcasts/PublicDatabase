@@ -1,0 +1,22 @@
+{
+  "id": "3acde0a5-f349-4983-b603-8fccb371ab46",
+  "name": "How To Academy Podcast",
+  "spotifyId": "3mDnxkRxzC9xmvWnTnP2NB",
+  "appleId": 1298460455,
+  "episodes": [
+    {
+      "id": "6664f553-03ca-4eec-88e3-a9a303ccda03",
+      "title": "Bexy Cameron - How to Escape a Cult",
+      "description": "Bexy was raised in a secret commune deep in the British countryside. At 10, she was placed on Silence Restriction, forced to be silent for a whole year. Even from an early age, she knew what was happening was not right. At the age of 15, she escaped, leaving behind her parents and 11 siblings. In this episode of the How To Academy Podcast, she tells us her family came to be part of the Children of God, and how she found the courage to get out. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2022-01-06T00:00:00",
+      "duration": "00:45:09.2630000",
+      "explicit": true,
+      "spotifyId": "3BMPnFpiZlHMBCA9C9sUzD",
+      "appleId": 1000547097725,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3BMPnFpiZlHMBCA9C9sUzD",
+        "apple": "https://podcasts.apple.com/podcast/bexy-cameron-how-to-escape-a-cult/id1298460455?i=1000547097725"
+      }
+    }
+  ]
+}

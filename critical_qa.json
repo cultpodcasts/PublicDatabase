@@ -7,6 +7,22 @@
   "youTubePlaylistId": "PLGrPM1Pg2h702vIEc4SdybkY17_lVvkQg",
   "episodes": [
     {
+      "id": "7a57d04d-a7ca-4a12-85fa-12310e391c83",
+      "title": "Chris Shelton\u0027s Critical Q\u0026A #431",
+      "description": "The weekly show where I answer viewer questions.",
+      "release": "2023-10-29T06:00:04Z",
+      "duration": "00:48:35",
+      "explicit": false,
+      "spotifyId": "4HczXsI2gNLpSBmVmgcMn4",
+      "appleId": 1000633017590,
+      "youTubeId": "CLul563hWhU",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4HczXsI2gNLpSBmVmgcMn4",
+        "apple": "https://podcasts.apple.com/podcast/critical-q-a-431/id1274880654?i=1000633017590",
+        "youtube": "https://www.youtube.com/watch?v=CLul563hWhU"
+      }
+    },
+    {
       "id": "8fd86ace-fada-4eea-9e15-5ba54e3f421d",
       "title": "Critical Q\u0026A #430 \u2013 LIVE",
       "description": "This week we covered a lot of territory in our live show, including conjecture about Masterson being declared suppressive, commentary on Scientology lawsuits, my unfiltered opinion about Scientology word clearing and a lot more. Enjoy!",
