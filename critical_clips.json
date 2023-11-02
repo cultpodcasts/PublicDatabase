@@ -4,6 +4,30 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "df552fe6-0409-46fe-9dd6-9eb476bd9373",
+      "title": "Chris Shelton | How Miscavige Runs Scientology",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 3\u0022 ...",
+      "release": "2023-11-02T18:00:05Z",
+      "duration": "00:07:13",
+      "explicit": false,
+      "youTubeId": "DNXLb6pFPz4",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DNXLb6pFPz4"
+      }
+    },
+    {
+      "id": "45e3908c-ff1e-4981-baeb-12f123079cdc",
+      "title": "Chris Shelton | David Miscavige\u0026#39;s Ideal Org Program",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 3\u0022 ...",
+      "release": "2023-11-01T18:00:22Z",
+      "duration": "00:06:54",
+      "explicit": false,
+      "youTubeId": "RByFy4p1Cro",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RByFy4p1Cro"
+      }
+    },
+    {
       "id": "ae2de74a-0f5a-41a0-9a91-ade7e3136dd2",
       "title": "Chris Shelton | Scientology and Lisa McPherson",
       "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 3\u0022 ...",

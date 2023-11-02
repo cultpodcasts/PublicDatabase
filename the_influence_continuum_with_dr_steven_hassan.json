@@ -14,9 +14,11 @@
       "explicit": false,
       "spotifyId": "6DOEaKkyfSqJO3ATPQ4sGx",
       "appleId": 1000633064256,
+      "youTubeId": "WtyxFcPIrcQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6DOEaKkyfSqJO3ATPQ4sGx",
-        "apple": "https://podcasts.apple.com/podcast/troubled-teen-industry-abuse-with-former-victim/id1603773245?i=1000633064256"
+        "apple": "https://podcasts.apple.com/podcast/troubled-teen-industry-abuse-with-former-victim/id1603773245?i=1000633064256",
+        "youtube": "https://www.youtube.com/watch?v=WtyxFcPIrcQ"
       }
     },
     {

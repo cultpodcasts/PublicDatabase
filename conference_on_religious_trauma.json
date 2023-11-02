@@ -2,8 +2,25 @@
   "id": "1fabfd1c-47b2-434b-8c44-3781ee11a0e3",
   "name": "Conference On Religious Trauma",
   "spotifyId": "5z9B2C0CXDqeOomm5mV03U",
+  "appleId": 1645878058,
   "youTubeChannelId": "UCGhyTXTIM9kdTJ1jW-Ckb5g",
   "episodes": [
+    {
+      "id": "85406125-cadc-48d6-b385-45df3af7ebcf",
+      "title": "Tamara MC - Child Bride in the USA",
+      "description": "Tamara MC - Child Bride in the USA Divorced: Religious Cult My guest today is a freedom activist for girls and women worldwide.",
+      "release": "2023-11-01T16:00:13Z",
+      "duration": "00:57:24",
+      "explicit": false,
+      "spotifyId": "5h5bVd2q8SWuB2AxY1unJT",
+      "appleId": 1000633353870,
+      "youTubeId": "HC_ufd0FAvc",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5h5bVd2q8SWuB2AxY1unJT",
+        "apple": "https://podcasts.apple.com/podcast/tamara-mc-child-bride-in-the-usa/id1645878058?i=1000633353870",
+        "youtube": "https://www.youtube.com/watch?v=HC_ufd0FAvc"
+      }
+    },
     {
       "id": "8ad3bc0a-2460-4731-a85d-b748ac712758",
       "title": "Carol Merchasin - Sexual Misconduct by Spiritual Community Leaders",
