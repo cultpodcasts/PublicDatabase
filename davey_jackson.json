@@ -1,8 +1,23 @@
 {
   "id": "d18455f5-2b92-43a6-afb6-a14c83ee12ea",
   "name": "Davey Jackson",
+  "spotifyId": "2o74fx6FZC9nqcYtd7rVhi",
+  "appleId": 1636313367,
   "youTubeChannelId": "UC7r3oNYP_086jTL-F6Hv4QQ",
+  "youTubePlaylistId": "PLF2yLQWsIFVzRXpc-G1q_RMp5zLpI5ByR",
   "episodes": [
+    {
+      "id": "66addf46-8dc5-4872-bfdf-c22a902a2844",
+      "title": "Shiny Happy Cult Stream | Friends With Davey - Lindsey Williams \u0026 Chad Harris",
+      "description": "Join Davey Jackson live streaming with Brice, Lindsey Williams \u0026 Chad Harris! Send your questions and comments to the live chat as 4 ex-cult members talk about life growing up in the Shiny Happy People cult.\r\n\r\nFollow on social media:\r\nLindsey - @TheCultChronicles\r\nChad - @ArchRadish\r\nDavey - @DaveyJax\r\n\r\nCheck out the new Friends With Davey merch store: www.friendswithdavey.com\r\n\r\nListen to Davey Jackson live streaming with a new friend every Wednesday at 8:00PM CST.\r\n\r\nPodcast audio available on Spotify, iTunes, and all streaming platforms.",
+      "release": "2023-11-02T14:41:57Z",
+      "duration": "01:25:52",
+      "explicit": false,
+      "youTubeId": "BlWokzsZloQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BlWokzsZloQ"
+      }
+    },
     {
       "id": "326d8bf8-bcca-4c88-aaab-5ebc15949041",
       "title": "Growing Up In The Shiny Happy People Cult | Friends With Davey - Chad Harris",
@@ -34,8 +49,12 @@
       "release": "2023-09-28T01:00:09Z",
       "duration": "00:50:30",
       "explicit": false,
+      "spotifyId": "2ckTsPhCkOaDx8KYNUFrRo",
+      "appleId": 1000629922786,
       "youTubeId": "5hu8xyrv50M",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2ckTsPhCkOaDx8KYNUFrRo",
+        "apple": "https://podcasts.apple.com/podcast/groomed-by-the-shiny-happy-cult-leader-gothard-girl-part-2/id1636313367?i=1000629922786",
         "youtube": "https://www.youtube.com/watch?v=5hu8xyrv50M"
       }
     },
@@ -46,8 +65,12 @@
       "release": "2023-09-21T01:00:09Z",
       "duration": "01:02:55",
       "explicit": false,
+      "spotifyId": "4XmjUwyiu8X357PvUHtWBu",
+      "appleId": 1000629921328,
       "youTubeId": "3rqFjm63Jbg",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4XmjUwyiu8X357PvUHtWBu",
+        "apple": "https://podcasts.apple.com/podcast/groomed-by-a-cult-leader-gothard-girl-part-1/id1636313367?i=1000629921328",
         "youtube": "https://www.youtube.com/watch?v=3rqFjm63Jbg"
       }
     },
@@ -58,8 +81,12 @@
       "release": "2023-09-14T01:00:06Z",
       "duration": "01:01:17",
       "explicit": false,
+      "spotifyId": "0EdsCvtJGAnS1nESbsLfPr",
+      "appleId": 1000629921389,
       "youTubeId": "ouW0SZL3CwY",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0EdsCvtJGAnS1nESbsLfPr",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-fundamental-christian-homeschool-movement/id1636313367?i=1000629921389",
         "youtube": "https://www.youtube.com/watch?v=ouW0SZL3CwY"
       }
     },
@@ -70,8 +97,12 @@
       "release": "2023-09-07T01:00:10Z",
       "duration": "01:01:46",
       "explicit": false,
+      "spotifyId": "4T2wzjAXImjLBXJcGzgMIS",
+      "appleId": 1000629921388,
       "youTubeId": "gVztw66HQoU",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4T2wzjAXImjLBXJcGzgMIS",
+        "apple": "https://podcasts.apple.com/gb/podcast/the-cult-of-troubled-teens/id1636313367?i=1000629921388",
         "youtube": "https://www.youtube.com/watch?v=gVztw66HQoU"
       }
     },
@@ -82,8 +113,12 @@
       "release": "2023-08-24T01:00:10Z",
       "duration": "01:14:05",
       "explicit": false,
+      "spotifyId": "1zFC279Xu0zKIfNVpsZsf3",
+      "appleId": 1000629024078,
       "youTubeId": "WbSjujCuZvs",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1zFC279Xu0zKIfNVpsZsf3",
+        "apple": "https://podcasts.apple.com/gb/podcast/cults-consciousness-mormonism/id1636313367?i=1000629024078",
         "youtube": "https://www.youtube.com/watch?v=WbSjujCuZvs"
       }
     },
@@ -94,8 +129,12 @@
       "release": "2023-08-10T01:00:10Z",
       "duration": "01:18:47",
       "explicit": false,
+      "spotifyId": "2DmN0ZSBvsvF3GdiySVxA5",
+      "appleId": 1000629024211,
       "youTubeId": "xepzIpIBvdw",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2DmN0ZSBvsvF3GdiySVxA5",
+        "apple": "https://podcasts.apple.com/gb/podcast/being-a-mother-in-the-shiny-happy-people-cult/id1636313367?i=1000629024211",
         "youtube": "https://www.youtube.com/watch?v=xepzIpIBvdw"
       }
     },
@@ -106,8 +145,12 @@
       "release": "2023-07-25T01:00:09Z",
       "duration": "01:01:43",
       "explicit": false,
+      "spotifyId": "4tTUSs3nL1GB4FbY8Ncho2",
+      "appleId": 1000628935714,
       "youTubeId": "fG9NwGc22Fw",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4tTUSs3nL1GB4FbY8Ncho2",
+        "apple": "https://podcasts.apple.com/gb/podcast/i-grew-up-with-44-siblings-in-a-polygamy-cult-part-2/id1636313367?i=1000628935714",
         "youtube": "https://www.youtube.com/watch?v=fG9NwGc22Fw"
       }
     },
@@ -118,8 +161,12 @@
       "release": "2023-07-20T01:00:07Z",
       "duration": "01:08:08",
       "explicit": false,
+      "spotifyId": "4KEgZa69nprj4yYDieJgrS",
+      "appleId": 1000628935674,
       "youTubeId": "_e1XD6o0syc",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4KEgZa69nprj4yYDieJgrS",
+        "apple": "https://podcasts.apple.com/gb/podcast/i-grew-up-with-44-siblings-in-a-polygamy-cult/id1636313367?i=1000628935674",
         "youtube": "https://www.youtube.com/watch?v=_e1XD6o0syc"
       }
     },
@@ -130,8 +177,12 @@
       "release": "2023-07-14T19:00:09Z",
       "duration": "00:36:11",
       "explicit": false,
+      "spotifyId": "7oIWdAsipeTjC2bXfMSjAh",
+      "appleId": 1000628935700,
       "youTubeId": "QywY_MMt4pM",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7oIWdAsipeTjC2bXfMSjAh",
+        "apple": "https://podcasts.apple.com/gb/podcast/confronting-the-shiny-happy-people-cult-leader/id1636313367?i=1000628935700",
         "youtube": "https://www.youtube.com/watch?v=QywY_MMt4pM"
       }
     },
@@ -142,8 +193,12 @@
       "release": "2023-07-13T01:00:07Z",
       "duration": "01:21:34",
       "explicit": false,
+      "spotifyId": "2q3kJP3sG5HlbB8VBaBNDb",
+      "appleId": 1000622417697,
       "youTubeId": "V__qRHOJ9gw",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2q3kJP3sG5HlbB8VBaBNDb",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-shiny-happy-people-cult-part-6-recovery/id1636313367?i=1000622417697",
         "youtube": "https://www.youtube.com/watch?v=V__qRHOJ9gw"
       }
     },
@@ -166,8 +221,12 @@
       "release": "2023-07-06T01:00:11Z",
       "duration": "01:04:28",
       "explicit": false,
+      "spotifyId": "2KvZDvUsYEuBPVTv1hR3tM",
+      "appleId": 1000621426684,
       "youTubeId": "WGAW2_Levp4",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2KvZDvUsYEuBPVTv1hR3tM",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-shiny-happy-people-cult-part-5-disgraced/id1636313367?i=1000621426684",
         "youtube": "https://www.youtube.com/watch?v=WGAW2_Levp4"
       }
     },
@@ -178,6 +237,7 @@
       "release": "2023-06-30T01:00:05Z",
       "duration": "00:24:12",
       "explicit": false,
+      "appleId": 1000618907042,
       "youTubeId": "6w6rSeeeMLQ",
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=6w6rSeeeMLQ"
@@ -190,8 +250,12 @@
       "release": "2023-06-29T01:00:10Z",
       "duration": "01:02:13",
       "explicit": false,
+      "spotifyId": "3UJS5ykKzhtPxxNNscTMYD",
+      "appleId": 1000621425456,
       "youTubeId": "IK60i6OBnyE",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3UJS5ykKzhtPxxNNscTMYD",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-shiny-happy-people-cult-part-4-bootcamp/id1636313367?i=1000621425456",
         "youtube": "https://www.youtube.com/watch?v=IK60i6OBnyE"
       }
     },
@@ -202,8 +266,12 @@
       "release": "2023-06-22T01:00:10Z",
       "duration": "01:03:12",
       "explicit": false,
+      "spotifyId": "6l9yVVCHt8kDsEOmDYfqrL",
+      "appleId": 1000618907042,
       "youTubeId": "g0J1pTVvUHI",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6l9yVVCHt8kDsEOmDYfqrL",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-shiny-happy-people-cult-part-3/id1636313367?i=1000618907042",
         "youtube": "https://www.youtube.com/watch?v=g0J1pTVvUHI"
       }
     },
@@ -214,8 +282,12 @@
       "release": "2023-06-15T01:00:11Z",
       "duration": "01:00:11",
       "explicit": false,
+      "spotifyId": "3Wb0FPp6Q4sHlHDk1RNgig",
+      "appleId": 1000618904276,
       "youTubeId": "qCRyNIQwnzo",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3Wb0FPp6Q4sHlHDk1RNgig",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-shiny-happy-people-cult-part-2/id1636313367?i=1000618904276",
         "youtube": "https://www.youtube.com/watch?v=qCRyNIQwnzo"
       }
     },
@@ -226,8 +298,12 @@
       "release": "2023-06-08T01:00:07Z",
       "duration": "01:07:16",
       "explicit": false,
+      "spotifyId": "2WZTgc1sDGGhso31oGTIas",
+      "appleId": 1000617001003,
       "youTubeId": "1kiBZZGDYUA",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2WZTgc1sDGGhso31oGTIas",
+        "apple": "https://podcasts.apple.com/gb/podcast/surviving-the-shiny-happy-people-cult/id1636313367?i=1000617001003",
         "youtube": "https://www.youtube.com/watch?v=1kiBZZGDYUA"
       }
     }

@@ -1,0 +1,22 @@
+{
+  "id": "2bc6ffe5-e610-42ee-8382-f18950b873ec",
+  "name": "Wide Awake Podcast",
+  "spotifyId": "7vlFhw1e66e2utKSG08sgU",
+  "appleId": 1650846078,
+  "episodes": [
+    {
+      "id": "2e1750ab-239d-437c-8f72-9df9a48e9e7f",
+      "title": "Investigating The Devilsdorp CULT KILLERS With A True Crime Expert",
+      "description": "In this weeks episode I spoke to the host of the True Crime South Africa podcast, Nicole Engelbrecht about the Krugersdorp cult killers. During this episode we delve deep into the disturbing and twisted world of these Killers and the shocking events that transpired. The Krugersdorp Cult Killers, also known as the \u0022Electus Per Deus\u0022 cult, shocked the world with their gruesome crimes and their warped belief system. We will explore the dark and sinister secrets of this cult, the charismatic leader who manipulated her followers, and the heinous crimes committed in the name of a twisted ideology. Through extensive research and in-depth analysis, we will provide you with a comprehensive overview of the case, from the cult\u0027s formation to the disturbing murders that rocked a quiet community. Nicole also sheds light on the investigation that ultimately led to the cult\u0027s unraveling and the arrest of its key members.",
+      "release": "2023-11-02T00:00:00",
+      "duration": "01:43:41.2170000",
+      "explicit": false,
+      "spotifyId": "1CdRbq9qDoUa7DF6zmY1mG",
+      "appleId": 1000633464566,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1CdRbq9qDoUa7DF6zmY1mG",
+        "apple": "https://podcasts.apple.com/podcast/investigating-the-devilsdorp-cult-killers-with-a/id1650846078?i=1000633464566"
+      }
+    }
+  ]
+}

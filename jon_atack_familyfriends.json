@@ -6,6 +6,38 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "5a724ff5-4849-49ee-8f7b-bfb37c12fcb5",
+      "title": "Psychedelics, Jolly West and Scientology - with Chris Shelton",
+      "description": "Mirrored from Chris Shelton\u0027s channel. Jon and Chris, on Chris\u0027 Sensibly Speaking podcast.",
+      "release": "2023-11-04T18:13:35Z",
+      "duration": "02:08:57",
+      "explicit": false,
+      "spotifyId": "0kBbvts6o9mOOjFtqHXmfS",
+      "appleId": 1000633657872,
+      "youTubeId": "i_mtWA7VLQI",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0kBbvts6o9mOOjFtqHXmfS",
+        "apple": "https://podcasts.apple.com/podcast/scientology-mindfulness-and-the-perils-of-present/id1534364303?i=1000633657872",
+        "youtube": "https://www.youtube.com/watch?v=i_mtWA7VLQI"
+      }
+    },
+    {
+      "id": "566ef53a-35aa-4307-940d-a17ad702adaa",
+      "title": "What is bipolar disorder and did L. Ron Hubbard suffer from it? with John Hunter, PhD",
+      "description": "A talk that will be very useful for anyone who suffers from bipolar disorder or for friends and family. John describes the symptoms ...",
+      "release": "2023-11-04T06:00:14Z",
+      "duration": "01:59:01",
+      "explicit": false,
+      "spotifyId": "4VRsw9OwnfSaqUbSFy945m",
+      "appleId": 1000633662157,
+      "youTubeId": "cnYFWEEK2FQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4VRsw9OwnfSaqUbSFy945m",
+        "apple": "https://podcasts.apple.com/podcast/what-is-bipolar-disorder-and-did-l-ron-hubbard/id1534364303?i=1000633662157",
+        "youtube": "https://www.youtube.com/watch?v=cnYFWEEK2FQ"
+      }
+    },
+    {
       "id": "bd4d1e27-94f1-4d6d-8ce4-a11a2deefbbb",
       "title": "Scientology, Mindfulness and the perils of present time with Joe Szimhart",
       "description": "Joe Szimhart shares his remarkable knowledge of religious belief and helps Jon to assess the value of \u0027being here now.",
