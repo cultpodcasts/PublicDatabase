@@ -1,0 +1,22 @@
+{
+  "id": "3390a76a-3d44-4852-9dcf-ab90ad8915b0",
+  "name": "Kentucky Wesleyan College Podcasts",
+  "spotifyId": "78RAyKYQWR6pP4MkyRiU82",
+  "appleId": 1583597690,
+  "episodes": [
+    {
+      "id": "997b51f4-2da3-4e43-8f88-3b9217d465ba",
+      "title": "Crime and Punishment Ep. 4 We Join a Cult?!",
+      "description": "Kaitlyn Barksdale, a history buff, and Sarah Taylor, a crime junkie, talk about the phenomenon that swept across the country in the 80s - the Satanic Panic. Both girls picked a different cult case to talk about this week - The Son of Sam and The Fall River Cult. Join the girls in this deep dive and find out what really goes down in a cult!",
+      "release": "2023-11-07T00:00:00",
+      "duration": "01:25:09.5100000",
+      "explicit": false,
+      "spotifyId": "0rfLW4dS8R27lgtuG4Orhj",
+      "appleId": 1000634015842,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0rfLW4dS8R27lgtuG4Orhj",
+        "apple": "https://podcasts.apple.com/podcast/crime-and-punishment-ep-4-we-join-a-cult/id1583597690?i=1000634015842"
+      }
+    }
+  ]
+}

@@ -4,6 +4,30 @@
   "youTubeChannelId": "UCpENFJv6TpF-2FB8bgqT2-Q",
   "episodes": [
     {
+      "id": "7d775d24-996e-456c-99b2-363e2f42d3ab",
+      "title": "Chris Shelton | Scientology is Barely a Religion",
+      "description": "From the video \u0022My Life in Scientology - Part 2\u0022 ...",
+      "release": "2023-11-07T19:00:22Z",
+      "duration": "00:03:16",
+      "explicit": false,
+      "youTubeId": "nX7obfq8yQk",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nX7obfq8yQk"
+      }
+    },
+    {
+      "id": "d18595a3-077e-4ebb-b193-8efa8780eb91",
+      "title": "Chris Shelton | The Deeper Explanation of Xenu",
+      "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 3\u0022 ...",
+      "release": "2023-11-06T20:00:26Z",
+      "duration": "00:09:03",
+      "explicit": false,
+      "youTubeId": "izg0ENtv45E",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=izg0ENtv45E"
+      }
+    },
+    {
       "id": "4b462d43-73fa-4229-880a-05003f32aa2c",
       "title": "Chris Shelton | David Miscavige\u0026#39;s Con Job",
       "description": "From the video \u0022David Miscavige and the Rise of Modern Scientology, Part 3\u0022 ...",
