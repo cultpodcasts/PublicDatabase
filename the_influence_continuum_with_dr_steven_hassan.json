@@ -14,9 +14,11 @@
       "explicit": false,
       "spotifyId": "4AmboAzS4sp5DU2U9WzfVw",
       "appleId": 1000633830080,
+      "youTubeId": "O7waD0hTChc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4AmboAzS4sp5DU2U9WzfVw",
-        "apple": "https://podcasts.apple.com/podcast/how-to-be-spiritual-in-these-crazy-times-a-guide/id1603773245?i=1000633830080"
+        "apple": "https://podcasts.apple.com/podcast/how-to-be-spiritual-in-these-crazy-times-a-guide/id1603773245?i=1000633830080",
+        "youtube": "https://www.youtube.com/watch?v=O7waD0hTChc"
       }
     },
     {
