@@ -1,0 +1,400 @@
+{
+  "id": "d2dbe3a5-48d5-49d3-91bc-e577a7bd43de",
+  "name": "Last Podcast On The Left",
+  "spotifyId": "3yZg2MCkf31pPXiG4nznrg",
+  "appleId": 437299706,
+  "episodes": [
+    {
+      "id": "d011cf52-bf59-4f04-a67a-4e379adfae02",
+      "title": "Episode 524: David Miscavige Part III - Top Gun",
+      "description": "This week the boys conclude the story of Scientology\u0027s tyrannical leader David Miscavige, leading up to modern day, focusing on David\u0027s relationship with a certain leading man in Hollywood as well as what may lie in the future for Scientology.",
+      "release": "2023-03-04T00:00:00",
+      "duration": "02:27:45.5670000",
+      "explicit": true,
+      "spotifyId": "1kiNVC4GvxLoo56YNjYnNq",
+      "appleId": 1000602769722,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1kiNVC4GvxLoo56YNjYnNq",
+        "apple": "https://podcasts.apple.com/podcast/episode-524-david-miscavige-part-iii-top-gun/id437299706?i=1000602769722"
+      }
+    },
+    {
+      "id": "840b8e72-2a2c-4199-a41e-825aa3144de9",
+      "title": "Episode 523: David Miscavige Part II - A Convenient Belief",
+      "description": "The boys continue the story of David Miscavige, this week seeing David firmly take command of the ship through manipulation techniques and outbursts, awaiting the \u0022return\u0022 of the transcended founder L. Ron Hubbard while leading Scientology into a new, more violent era.",
+      "release": "2023-02-24T00:00:00",
+      "duration": "02:09:31.7680000",
+      "explicit": true,
+      "spotifyId": "6OakjUlPIgIKKNWnjDe1s4",
+      "appleId": 1000601519972,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6OakjUlPIgIKKNWnjDe1s4",
+        "apple": "https://podcasts.apple.com/podcast/episode-523-david-miscavige-part-ii-a-convenient-belief/id437299706?i=1000601519972"
+      }
+    },
+    {
+      "id": "3f865e08-f994-4cc2-8d38-df04b3e5ad95",
+      "title": "Episode 522: David Miscavige Part I - Scientology Reborn",
+      "description": "It\u0027s finally time for the boys to return to the topic of Scientology, this time looking at the subject through the lens of L. Ron Hubbard\u0027s elusive successor, the\u0022Captain of the Sea Org\u0022, David Miscavige. In this first episode we take a look at the early life of Miscavige and learn how his \u0022military style\u0022 upbringing and egotistical wit helped him climb to the top of the organization and become the new leader of Scientology.\u00A0",
+      "release": "2023-02-18T00:00:00",
+      "duration": "02:05:16.4470000",
+      "explicit": true,
+      "spotifyId": "2hLx8PUXgNaMJqFaDsoZle",
+      "appleId": 1000600290541,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2hLx8PUXgNaMJqFaDsoZle",
+        "apple": "https://podcasts.apple.com/podcast/episode-522-david-miscavige-part-i-scientology-reborn/id437299706?i=1000600290541"
+      }
+    },
+    {
+      "id": "a94161df-d26b-4852-92f5-45f713857c65",
+      "title": "Episode 490: The Children of Thunder Part II - Yada Yada Yada",
+      "description": "On the conclusion to our Children of Thunder series, the inept\u00A0cult of 3 carries out a series of some of the most foolishly executed crimes ever covered on this show, before committing the brutal, senseless murders that would eventually lead to their own demise.",
+      "release": "2022-04-08T00:00:00",
+      "duration": "01:25:54.6640000",
+      "explicit": true,
+      "spotifyId": "47OrsUNRjBXYETvZ6QED53",
+      "appleId": 1000556698389,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/47OrsUNRjBXYETvZ6QED53",
+        "apple": "https://podcasts.apple.com/podcast/episode-490-the-children-of-thunder-part-ii-yada-yada-yada/id437299706?i=1000556698389"
+      }
+    },
+    {
+      "id": "a0095675-7af9-4dfa-96f4-6bd02595520e",
+      "title": "Episode 489: The Children of Thunder Part I - That\u0027s Not Gritz!",
+      "description": "It\u2019s time to return to the subject of cults with one of the most exclusive we\u2019ve ever covered, The Children of Thunder! A three person congregation that would go on to murder five people in the summer of 2000.",
+      "release": "2022-04-01T00:00:00",
+      "duration": "01:47:07.3760000",
+      "explicit": true,
+      "spotifyId": "1AmdsnkWWfph8VqbHJ5bEj",
+      "appleId": 1000555989291,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1AmdsnkWWfph8VqbHJ5bEj",
+        "apple": "https://podcasts.apple.com/podcast/episode-489-the-children-of-thunder-part-i-thats-not-gritz/id437299706?i=1000555989291"
+      }
+    },
+    {
+      "id": "9d0e82c0-40c3-4c09-84ba-c27772fd6ff4",
+      "title": "Episode 436: Roch Th\u00E9riault \u0026 The Ant Hill Kids Part III - Absolutely Fascinating!",
+      "description": "On the third and final installment of our Ant Hill Kids series: We introduce the academic who gleefully observed the brutal cult from the sidelines, and then trudge through the heinous final acts that Roch inflicted on his followers before being captured.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2021-01-02T00:00:00",
+      "duration": "02:25:38.3510000",
+      "explicit": true,
+      "spotifyId": "1IJmpC9VrnPtsKtNLp8MHG",
+      "appleId": 1000549630076,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IJmpC9VrnPtsKtNLp8MHG",
+        "apple": "https://podcasts.apple.com/podcast/episode-436-roch-th%C3%A9riault-the-ant-hill-kids-part-iii/id437299706?i=1000549630076"
+      }
+    },
+    {
+      "id": "1d8b2e64-3370-4298-bfa2-f49187d73d07",
+      "title": "Episode 435: Roch Th\u00E9riault \u0026 The Ant Hill Kids Part II - They Are Happy And Free To Leave",
+      "description": "On the second part of our Ant Hill Kids series, we cover the misery Roch begins to inflict on his followers \u2014 including sexual sadism, extreme child abuse, and bizarre mock trials that resulted in the castrations of the \u0022guilty\u0022 parties.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2020-12-19T00:00:00",
+      "duration": "02:09:52.2220000",
+      "explicit": true,
+      "spotifyId": "3rLoIOMjSAV1r8SklybpST",
+      "appleId": 1000549629964,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rLoIOMjSAV1r8SklybpST",
+        "apple": "https://podcasts.apple.com/podcast/episode-435-roch-th%C3%A9riault-the-ant-hill-kids-part-ii/id437299706?i=1000549629964"
+      }
+    },
+    {
+      "id": "124662dd-82a3-4d08-903c-2a24a52290f9",
+      "title": "Episode 434: Roch Th\u00E9riault \u0026 The Ant Hill Kids Part I - D\u00FCmping Syndrome",
+      "description": "This week, we introduce you to Roch Th\u00E9riault \u2014 leader of the most bizarre and violent cult in Canadian history, The Ant Hill Kids.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2020-12-12T00:00:00",
+      "duration": "01:47:45.0970000",
+      "explicit": true,
+      "spotifyId": "3ibzX7GL5SXArTxQW8Nkrc",
+      "appleId": 1000549630074,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ibzX7GL5SXArTxQW8Nkrc",
+        "apple": "https://podcasts.apple.com/podcast/episode-434-roch-th%C3%A9riault-the-ant-hill-kids-part-i/id437299706?i=1000549630074"
+      }
+    },
+    {
+      "id": "56cb0e0f-a5e2-4b25-9a99-6c63e5053762",
+      "title": "Episode 432: Adolfo Constanzo Part III - Tossed Salad \u0026 Scrambled Eggs",
+      "description": "This week we cover the brutal end to Adolfo Constanzo\u0027s black magic murder cult.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2020-11-14T00:00:00",
+      "duration": "01:47:01.1590000",
+      "explicit": true,
+      "spotifyId": "1jNhUc0ywWUEV2KtRiFhnA",
+      "appleId": 1000549629966,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1jNhUc0ywWUEV2KtRiFhnA",
+        "apple": "https://podcasts.apple.com/podcast/episode-432-adolfo-constanzo-part-iii-tossed-salad/id437299706?i=1000549629966"
+      }
+    },
+    {
+      "id": "0e4d1d68-f681-4d68-a5b3-3e0b07b74a39",
+      "title": "Episode 431: Adolfo Constanzo Part II - El Doobie\u0027s Revenge",
+      "description": "It\u0027s part two of our series on the drug dealer / cult leader / serial killer that is Adolfo Constanzo. On this episode, Adolfo further assembles his motley crew of black magic cultists and the violence escalates.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2020-11-07T00:00:00",
+      "duration": "01:32:35.6170000",
+      "explicit": true,
+      "spotifyId": "7hTgC8qqKJFjffvueTeQF9",
+      "appleId": 1000549629902,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7hTgC8qqKJFjffvueTeQF9",
+        "apple": "https://podcasts.apple.com/podcast/episode-431-adolfo-constanzo-part-ii-el-doobies-revenge/id437299706?i=1000549629902"
+      }
+    },
+    {
+      "id": "9a58cfdc-a3c0-46bf-99a1-d3d1eed87300",
+      "title": "Episode 430: Adolfo Constanzo Part I - Room of the Dead",
+      "description": "This week we start a grisly new series on Adolfo Constanzo \u2014 drug dealer, serial killer, and leader of the deadly Narcosatanists cult.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2020-10-31T00:00:00",
+      "duration": "01:45:16.3030000",
+      "explicit": true,
+      "spotifyId": "1mH0FItvN3bJcglSyDpWAI",
+      "appleId": 1000549629903,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1mH0FItvN3bJcglSyDpWAI",
+        "apple": "https://podcasts.apple.com/podcast/episode-430-adolfo-constanzo-part-i-room-of-the-dead/id437299706?i=1000549629903"
+      }
+    },
+    {
+      "id": "11d20ba7-d172-4b56-bd1a-871b975c2c30",
+      "title": "Episode 422: The 1971 Manson Family Western Surplus Shootout",
+      "description": "This week, we recount the bizarre scheme by the Manson family to save Charles Manson from prison and the famous shootout that ensued between the would-be rescue party and the Hawthorne police department.Kevin\u00A0MacLeod\u00A0(incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License\u00A0creativecommons.org/licenses/by/3.0 ",
+      "release": "2020-09-05T00:00:00",
+      "duration": "00:55:19.1180000",
+      "explicit": true,
+      "spotifyId": "6t61uqyrLlp1TRVQ43E9Uv",
+      "appleId": 1000549630081,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6t61uqyrLlp1TRVQ43E9Uv",
+        "apple": "https://podcasts.apple.com/podcast/episode-422-the-1971-manson-family-western-surplus/id437299706?i=1000549630081"
+      }
+    },
+    {
+      "id": "70bcf79f-c124-42a4-9798-f9480e4e6a1a",
+      "title": "Episode 399: Heaven\u0027s Gate Part III - Burrito Heaven",
+      "description": "On the conclusion to our series on Heaven\u0027s Gate, we cover the lead-up to the suicides, the suicides themselves, and the immediate aftermath, as well as the myriad of exit statements that the members of the cult left behind.\u00A0 ",
+      "release": "2020-02-01T00:00:00",
+      "duration": "01:49:23.8130000",
+      "explicit": true,
+      "spotifyId": "6ThM3GXn9CLwtc4W8n0Mkn",
+      "appleId": 1000464290418,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ThM3GXn9CLwtc4W8n0Mkn",
+        "apple": "https://podcasts.apple.com/podcast/episode-399-heavens-gate-part-iii-burrito-heaven/id437299706?i=1000464290418"
+      }
+    },
+    {
+      "id": "841cb9cf-6bd6-4b76-8862-274a3f2a49fb",
+      "title": "Episode 397: Heaven\u0027s Gate Part I - A Cabo or a Wabo",
+      "description": "On this, our very first redux of a subject, we begin the story of one of the most famous and misunderstood suicide cults of the nineties: Heaven\u0027s Gate. Join us on this first episode as we cover the early lives of founders Marshall Applewhite and Bonnie Nettles, as well as how the theology of the Hale-Bopp hitchhikers developed over the years. ",
+      "release": "2020-01-18T00:00:00",
+      "duration": "02:06:22.1450000",
+      "explicit": true,
+      "spotifyId": "6WbUIOVtx9xqBFzHZsZFSR",
+      "appleId": 1000462968222,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6WbUIOVtx9xqBFzHZsZFSR",
+        "apple": "https://podcasts.apple.com/podcast/episode-397-heavens-gate-part-i-a-cabo-or-a-wabo/id437299706?i=1000462968222"
+      }
+    },
+    {
+      "id": "49480da5-3033-4870-b0fd-48f92aa8660e",
+      "title": "Episode 385: Mormonism Part VI - X-Men Cult Edition",
+      "description": "On the conclusion to our series on Mormonism, we cover two modern true crime stories that occurred as a direct result of Joseph Smith and Brigham Young\u0027s teachings. The first, set in the early 1980s, is a tale of revelation and blood atonement involving a brutal double murder, while the second is a story of polygamy perverted to satisfy the pedophilic desires of the sociopaths in charge of the Fundamentalist Church of Jesus Christ of Latter-Day Saints. ",
+      "release": "2019-10-05T00:00:00",
+      "duration": "02:39:11.2030000",
+      "explicit": true,
+      "spotifyId": "2yBZn2TV6cjxLRvESOYGgk",
+      "appleId": 1000452452974,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2yBZn2TV6cjxLRvESOYGgk",
+        "apple": "https://podcasts.apple.com/podcast/episode-385-mormonism-part-vi-x-men-cult-edition/id437299706?i=1000452452974"
+      }
+    },
+    {
+      "id": "f3afb3f8-e547-4db1-9223-6e5ab0b74b0c",
+      "title": "Episode 384: Mormonism Part V - King of Beaver Island",
+      "description": "On this, the fifth part of our series on Mormonism, we cover the polygamy-filled years under the leadership of Brigham Young, which resulted in the deaths of hundreds of people due to mass murder and negligence, as well as the founding of Salt Lake City. ",
+      "release": "2019-09-28T00:00:00",
+      "duration": "02:08:08.9860000",
+      "explicit": true,
+      "spotifyId": "39ApesDQ9ImQRjPa6PRlrZ",
+      "appleId": 1000451516981,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/39ApesDQ9ImQRjPa6PRlrZ",
+        "apple": "https://podcasts.apple.com/podcast/episode-384-mormonism-part-v-king-of-beaver-island/id437299706?i=1000451516981"
+      }
+    },
+    {
+      "id": "25abc24b-7789-4f29-8389-ffac9f2aced0",
+      "title": "Episode 382: Mormonism Part IV - I Invented This Scam",
+      "description": "It\u0027s the climax of the Joseph Smith portion of the story of Mormonism as we cover the founding of the city of Nauvoo, just what made Joseph Smith believe in polygamy so hard, and the secret rituals of the Mormons, plus the inevitable death of the American Prophet. ",
+      "release": "2019-09-14T00:00:00",
+      "duration": "02:12:18.3510000",
+      "explicit": true,
+      "spotifyId": "27sap5i6yZPGM71Few8bsl",
+      "appleId": 1000449748074,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/27sap5i6yZPGM71Few8bsl",
+        "apple": "https://podcasts.apple.com/podcast/episode-382-mormonism-part-iv-i-invented-this-scam/id437299706?i=1000449748074"
+      }
+    },
+    {
+      "id": "c698e6b6-f5b3-4935-b940-615cf3e89c69",
+      "title": "Episode 380: Mormonism Part III - The Level of Leakage",
+      "description": "In the third part of our Mormonism series, we cover the establishment of the Church of Jesus Christ of Latter-Day Saints, the reasons behind some of the more well-known Mormon laws, and Joseph Smith\u0027s adventures with mummies which led to some of the most deeply-held beliefs of the Latter-Day Saints.\u00A0\u00A0 ",
+      "release": "2019-09-01T00:00:00",
+      "duration": "01:55:05.7300000",
+      "explicit": true,
+      "spotifyId": "0zdxjwmYvjStbWzLvC0Z54",
+      "appleId": 1000448265736,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0zdxjwmYvjStbWzLvC0Z54",
+        "apple": "https://podcasts.apple.com/podcast/episode-380-mormonism-part-iii-the-level-of-leakage/id437299706?i=1000448265736"
+      }
+    },
+    {
+      "id": "e56b178a-713a-429d-9f5f-f57f9f2fc0ed",
+      "title": "Episode 379: Mormonism Part II - I\u0027m in the Bible Now",
+      "description": "On the second part of Mormonism, we cover the writing of the Book of Mormon itself, including all of the myriad sources Joseph Smith used to cobble together the American religion as well as all the ways Joseph had to sidestep and bullshit to get the thing published. ",
+      "release": "2019-08-24T00:00:00",
+      "duration": "01:34:33.7950000",
+      "explicit": true,
+      "spotifyId": "1wkzK0h8HjRfQttqcgLKG3",
+      "appleId": 1000447675019,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1wkzK0h8HjRfQttqcgLKG3",
+        "apple": "https://podcasts.apple.com/podcast/episode-379-mormonism-part-ii-im-in-the-bible-now/id437299706?i=1000447675019"
+      }
+    },
+    {
+      "id": "adfd6ca7-657d-46d3-a38d-8b4433d58414",
+      "title": "Episode 378: Mormonism Part I - When You\u2019re Here You\u2019re Family",
+      "description": "On this, the first part of our gigantic series on Mormonism, we cover the early life of its founder, Joseph Smith, including his early career as a grave robber and his first revelations involving God, Jesus, and an angel named Moroni.\u00A0 ",
+      "release": "2019-08-17T00:00:00",
+      "duration": "01:40:59.9110000",
+      "explicit": true,
+      "spotifyId": "5jYkKeJAfKtNBnM9UD1GnI",
+      "appleId": 1000447086632,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5jYkKeJAfKtNBnM9UD1GnI",
+        "apple": "https://podcasts.apple.com/podcast/episode-378-mormonism-part-i-when-youre-here-youre-family/id437299706?i=1000447086632"
+      }
+    },
+    {
+      "id": "dd0a9b3a-312f-4f51-858e-29337892a6e2",
+      "title": "Episode 342: The Order of the Solar Temple Part II - The Rise and Fall of the Order",
+      "description": "On part two of our series on the Order of the Solar Temple, we discuss the rise and fall of the world\u0027s premiere yuppie cult while also covering their secret beliefs and rituals, all to try to help explain how it ended with the deaths of 74 people.\u00A0 ",
+      "release": "2018-12-01T00:00:00",
+      "duration": "01:45:37.4620000",
+      "explicit": true,
+      "spotifyId": "3vrjn8rauOmbdKGmfjn11M",
+      "appleId": 1000424909082,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3vrjn8rauOmbdKGmfjn11M",
+        "apple": "https://podcasts.apple.com/podcast/episode-342-the-order-of-the-solar-temple-part-ii/id437299706?i=1000424909082"
+      }
+    },
+    {
+      "id": "5a14c182-3f7f-47c6-85f0-3cb98c4a05c3",
+      "title": "Episode 264: L. Ron Hubbard Part IV - Sea Org",
+      "description": "On the conclusion of our L. Ron Hubbard series, we cover the shadowy arm of Scientology known as Sea Org as well as the various punishments Hubbard put people through, plus his \u0022film career\u0022 and just how David Miscavige took control of the whole organization. Digital Lemonade Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0/ Oppressive Gloom Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 ",
+      "release": "2017-03-31T00:00:00",
+      "duration": "01:39:15.7610000",
+      "explicit": true,
+      "spotifyId": "6CBeSaagPeyMLz4N1y1I1h",
+      "appleId": 1000383416742,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6CBeSaagPeyMLz4N1y1I1h",
+        "apple": "https://podcasts.apple.com/podcast/episode-264-l-ron-hubbard-part-iv-sea-org/id437299706?i=1000383416742"
+      }
+    },
+    {
+      "id": "e405c93c-53f2-41b3-8c1c-435c19f49153",
+      "title": "Episode 263: L. Ron Hubbard Part III - Scientology Begins",
+      "description": "It\u0027s the birth of the Church of Scientology this week as we get into the Tone Scale, E-Meters and how to use them, GEs, SPs, the HDF of W and all other manner of Scientological nonsense and just how it all sprang from the mind of L. Ron Hubbard. Special Spotlight Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0/ Electro Cabello Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creat ",
+      "release": "2017-03-23T00:00:00",
+      "duration": "01:32:01.7890000",
+      "explicit": true,
+      "spotifyId": "0DVweEZTI64Zgmtsy0dwdK",
+      "appleId": 1000383035016,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0DVweEZTI64Zgmtsy0dwdK",
+        "apple": "https://podcasts.apple.com/podcast/episode-263-l-ron-hubbard-part-iii-scientology-begins/id437299706?i=1000383035016"
+      }
+    },
+    {
+      "id": "7546f38d-344e-4b1e-b5eb-83ada02b35a6",
+      "title": "Episode 262: L. Ron Hubbard Part II - Dianetics",
+      "description": "We\u0027re getting into the foundations of Scientology this week as well as Laffy\u0027s disastrous love affairs and the insane caper involving Hubbard kidnapping his own daughter.\u00A0 Heartbreaking Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0/ Unseen Horrors Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0/ ",
+      "release": "2017-03-15T00:00:00",
+      "duration": "01:32:15.7120000",
+      "explicit": true,
+      "spotifyId": "4lYBiOuovRhBsHN6OIeKGT",
+      "appleId": 1000382669236,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4lYBiOuovRhBsHN6OIeKGT",
+        "apple": "https://podcasts.apple.com/podcast/episode-262-l-ron-hubbard-part-ii-dianetics/id437299706?i=1000382669236"
+      }
+    },
+    {
+      "id": "f46a7f22-22b5-4c16-8f93-b54711df7411",
+      "title": "Episode 261: L. Ron Hubbard Part I - Grub Hubbard",
+      "description": "It\u0027s finally time to talk about Scientology as we look at it through the lens of its founder, L. Ron Hubbard. This first episode explores his many, many lies throughout the years about his upbringing, the beginnings of his writing career, and his relationship with famed rocket scientist and black magician Jack Parsons. Awesome Call Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License creativecommons.org/licenses/by/3.0/ Nile\u0027s Blues Kevin MacLeod (incompetech.com)  ",
+      "release": "2017-03-09T00:00:00",
+      "duration": "01:36:47.9080000",
+      "explicit": true,
+      "spotifyId": "7CYAjbccjf9MGstS7G4Bl1",
+      "appleId": 1000382431251,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7CYAjbccjf9MGstS7G4Bl1",
+        "apple": "https://podcasts.apple.com/podcast/episode-261-l-ron-hubbard-part-i-grub-hubbard/id437299706?i=1000382431251"
+      }
+    },
+    {
+      "id": "f905b664-421f-4a12-8756-6f49fff4d1c1",
+      "title": "Episode 221: Aum Shinrikyo Part IV - A Billionaire\u0027s Testicles",
+      "description": "On this, the final part of our four part series, we cover the ramp up to the attack, the day of terror experienced by the people of Tokyo, and the aftermath, which was almost an even deadlier disaster. ",
+      "release": "2016-04-23T00:00:00",
+      "duration": "01:07:23.7020000",
+      "explicit": true,
+      "spotifyId": "4OjnqXSjCtBuE4u812BHBA",
+      "appleId": 1000367404163,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4OjnqXSjCtBuE4u812BHBA",
+        "apple": "https://podcasts.apple.com/podcast/episode-221-aum-shinrikyo-part-iv-a-billionaires-testicles/id437299706?i=1000367404163"
+      }
+    },
+    {
+      "id": "927e445f-662c-4421-84ac-38a108cdbfcf",
+      "title": "Episode 220: Aum Shinrikyo Part III - The Soldiers of White Love",
+      "description": "The Aum series continues with the cult expanding into Russia, running afoul of many stray dogs in the process, and coming goddamn close to obtaining an actual working nuclear bomb while they were there. ",
+      "release": "2016-04-13T00:00:00",
+      "duration": "01:22:07.0070000",
+      "explicit": true,
+      "spotifyId": "45K3MBm6bUeRZcL2YYGNlb",
+      "appleId": 1000366768269,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/45K3MBm6bUeRZcL2YYGNlb",
+        "apple": "https://podcasts.apple.com/podcast/episode-220-aum-shinrikyo-part-iii-the-soldiers-of/id437299706?i=1000366768269"
+      }
+    },
+    {
+      "id": "1a047358-85f0-4b00-a976-68880ec734fd",
+      "title": "Episode 219: Aum Shinrikyo Part II - The Bitter Cookie",
+      "description": "The Aum series continues with the blossoming of the cult as they move into full-on warfare mode with the development of their very first biolab and their first two thankfully unsuccessful terror attacks. ",
+      "release": "2016-04-07T00:00:00",
+      "duration": "01:01:58.8170000",
+      "explicit": true,
+      "spotifyId": "1Ikesefn2zkxqS3tcgUH0x",
+      "appleId": 1000366409746,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Ikesefn2zkxqS3tcgUH0x",
+        "apple": "https://podcasts.apple.com/podcast/episode-219-aum-shinrikyo-part-ii-the-bitter-cookie/id437299706?i=1000366409746"
+      }
+    }
+  ]
+}

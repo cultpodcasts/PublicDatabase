@@ -1,0 +1,22 @@
+{
+  "id": "3a265362-b189-4cb9-ac7f-31695b38c662",
+  "name": "Brofessional Discourse",
+  "spotifyId": "14UMFQ3PPIW4kysPfPz3w7",
+  "appleId": 1709587453,
+  "episodes": [
+    {
+      "id": "f2b68dfe-0fc0-4e00-9817-a1b27af187d4",
+      "title": "Ep.12 Cults",
+      "description": "Thinking about joining a new and fun group of friends who will stay by your side? If the idea of serving under a faithful leader and partaking in illicit activities is appealing then this is the episode for you! Join us as we delve into the activities of two cults and the legacies they have left behind. ",
+      "release": "2023-11-10T00:00:00",
+      "duration": "01:41:36.1200000",
+      "explicit": true,
+      "spotifyId": "1OPFqZ2aXvqcwTlaoFIVs3",
+      "appleId": 1000634431477,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1OPFqZ2aXvqcwTlaoFIVs3",
+        "apple": "https://podcasts.apple.com/podcast/ep-12-cults/id1709587453?i=1000634431477"
+      }
+    }
+  ]
+}
