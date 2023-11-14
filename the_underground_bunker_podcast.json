@@ -11,8 +11,10 @@
       "release": "2023-11-11T20:08:41Z",
       "duration": "00:55:48",
       "explicit": false,
+      "spotifyId": "3WtA6RVJkYvX6XGNydkOyQ",
       "youTubeId": "7liN7ImmpTU",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3WtA6RVJkYvX6XGNydkOyQ",
         "youtube": "https://www.youtube.com/watch?v=7liN7ImmpTU"
       }
     },
