@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "0L3lPTzjCJcbw7FkxNlne0",
       "appleId": 1000630738626,
+      "subjects": [
+        "Connexions"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0L3lPTzjCJcbw7FkxNlne0",
         "apple": "https://podcasts.apple.com/podcast/ruby-franke-jodi-hildebrandt-case-hildebrandt-unmasked/id1521619380?i=1000630738626"
@@ -27,6 +30,9 @@
       "explicit": false,
       "spotifyId": "1UFTDhCqBNp8V3kR35R0Sj",
       "appleId": 1000629014483,
+      "subjects": [
+        "Connexions"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1UFTDhCqBNp8V3kR35R0Sj",
         "apple": "https://podcasts.apple.com/podcast/ruby-franke-jodi-hildebrandt-case-adam-steed-part-two/id1521619380?i=1000629014483"
@@ -41,6 +47,9 @@
       "explicit": false,
       "spotifyId": "2pd1c5nHd2Xqk4ghvYssM8",
       "appleId": 1000628593369,
+      "subjects": [
+        "Connexions"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2pd1c5nHd2Xqk4ghvYssM8",
         "apple": "https://podcasts.apple.com/podcast/ruby-franke-jodi-hildebrandt-case-victim-of-jodi/id1521619380?i=1000628593369"
@@ -55,6 +64,9 @@
       "explicit": false,
       "spotifyId": "0pDX8hp4kzBQosDSkg0i4H",
       "appleId": 1000626526084,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0pDX8hp4kzBQosDSkg0i4H",
         "apple": "https://podcasts.apple.com/podcast/duggar-family-shiny-happy-people-dr-john-takes-us-inside/id1521619380?i=1000626526084"
@@ -69,6 +81,9 @@
       "explicit": false,
       "spotifyId": "3RI05vciTZYUJBifNx2VST",
       "appleId": 1000625737887,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3RI05vciTZYUJBifNx2VST",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-an-interview-with-lori-vallows/id1521619380?i=1000625737887"
@@ -83,6 +98,9 @@
       "explicit": false,
       "spotifyId": "4vAows7BzxlJ5UksoP3hEz",
       "appleId": 1000624706613,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4vAows7BzxlJ5UksoP3hEz",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-news-nation-correspondents-brian/id1521619380?i=1000624706613"
@@ -97,6 +115,9 @@
       "explicit": false,
       "spotifyId": "2Yc6y0UhVn9p4PQ6BmgOHU",
       "appleId": 1000624108473,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Yc6y0UhVn9p4PQ6BmgOHU",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-larry-and-kay/id1521619380?i=1000624108473"
@@ -111,6 +132,9 @@
       "explicit": false,
       "spotifyId": "03S5titDK8cDipkIYHda9b",
       "appleId": 1000623963636,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/03S5titDK8cDipkIYHda9b",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-juror-from-lori-vallow-daybell-trial/id1521619380?i=1000623963636"
@@ -125,6 +149,9 @@
       "explicit": false,
       "spotifyId": "5vt2RNDdE74AmaLhD37XuD",
       "appleId": 1000623828409,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5vt2RNDdE74AmaLhD37XuD",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-lori-vallow-daybells-cousin-megan/id1521619380?i=1000623828409"
@@ -139,6 +166,9 @@
       "explicit": false,
       "spotifyId": "4n4CBhNR377WgNrPk5hp6b",
       "appleId": 1000623612789,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4n4CBhNR377WgNrPk5hp6b",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-full-sentencing-of-lori-vallow-daybell/id1521619380?i=1000623612789"
@@ -153,6 +183,10 @@
       "explicit": false,
       "spotifyId": "01SGwXtOl20y9SbqxZybNW",
       "appleId": 1000622627608,
+      "subjects": [
+        "Chad Daybell",
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/01SGwXtOl20y9SbqxZybNW",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-colby-ryans-jailhouse-call-and/id1521619380?i=1000622627608"
@@ -167,6 +201,9 @@
       "explicit": false,
       "spotifyId": "59mhRe8eiE7wGegIdk1GJ8",
       "appleId": 1000621915993,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/59mhRe8eiE7wGegIdk1GJ8",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-tammy-daybells-aunt/id1521619380?i=1000621915993"
@@ -181,6 +218,9 @@
       "explicit": false,
       "spotifyId": "42jBu9qVfUGQSaNVBnqcQL",
       "appleId": 1000620170235,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/42jBu9qVfUGQSaNVBnqcQL",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-secrets-of-lori-vallow-daybell-part-2/id1521619380?i=1000620170235"
@@ -195,6 +235,9 @@
       "explicit": false,
       "spotifyId": "6k1BFJ0PwXhRKFABsXzqx8",
       "appleId": 1000619421407,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6k1BFJ0PwXhRKFABsXzqx8",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-secrets-of-lori-vallow-daybell-part-1/id1521619380?i=1000619421407"
@@ -209,6 +252,9 @@
       "explicit": false,
       "spotifyId": "2z21Lb4BJ1scZ7o9gTyuvM",
       "appleId": 1000618915344,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2z21Lb4BJ1scZ7o9gTyuvM",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-lori-vallow/id1521619380?i=1000618915344"
@@ -223,6 +269,9 @@
       "explicit": false,
       "spotifyId": "7c8jJ5w1rx8FW0YPNJeJNy",
       "appleId": 1000615943086,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7c8jJ5w1rx8FW0YPNJeJNy",
         "apple": "https://podcasts.apple.com/podcast/josh-duggar-verdict-iblp-bill-gothard-and-insights/id1521619380?i=1000615943086"
@@ -237,6 +286,9 @@
       "explicit": false,
       "spotifyId": "6zl2TLienY4IMPN7REQ9lG",
       "appleId": 1000614101317,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6zl2TLienY4IMPN7REQ9lG",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-an-interview-with-sharie-dowdle/id1521619380?i=1000614101317"
@@ -251,6 +303,9 @@
       "explicit": false,
       "spotifyId": "3MD56gkIMUxjhxcwn9agBF",
       "appleId": 1000612588349,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3MD56gkIMUxjhxcwn9agBF",
         "apple": "https://podcasts.apple.com/podcast/interview-lor-vallow-daybells-cousin-megan-conner-shares/id1521619380?i=1000612588349"
@@ -265,6 +320,9 @@
       "explicit": false,
       "spotifyId": "1LS5HjfXPhMXg6J9nAiN4U",
       "appleId": 1000611512151,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1LS5HjfXPhMXg6J9nAiN4U",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-prequel-chad-daybell-and/id1521619380?i=1000611512151"
@@ -279,6 +337,10 @@
       "explicit": false,
       "spotifyId": "6mIjvdDKO1OkjMDyLIauHW",
       "appleId": 1000606819702,
+      "subjects": [
+        "Chad Daybell",
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6mIjvdDKO1OkjMDyLIauHW",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-remembering-7-year-old-jj-an/id1521619380?i=1000606819702"
@@ -293,6 +355,9 @@
       "explicit": false,
       "spotifyId": "1z8h8Dare0MW3YuAZmt0Ry",
       "appleId": 1000589100142,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1z8h8Dare0MW3YuAZmt0Ry",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-netflix-sins-of/id1521619380?i=1000589100142"
@@ -307,6 +372,9 @@
       "explicit": false,
       "spotifyId": "4LnTOCAiRrMsGbthOQ8iuF",
       "appleId": 1000588583095,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LnTOCAiRrMsGbthOQ8iuF",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-exclusive-heather-daybell-chad/id1521619380?i=1000588583095"
@@ -321,6 +389,9 @@
       "explicit": false,
       "spotifyId": "2onfL85L95eIzXo5jDCscI",
       "appleId": 1000588210030,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2onfL85L95eIzXo5jDCscI",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-exclusive-heather-daybell-chad/id1521619380?i=1000588210030"
@@ -335,6 +406,9 @@
       "explicit": false,
       "spotifyId": "6uJzFSFunzEPZxfF7gv4hT",
       "appleId": 1000587830357,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6uJzFSFunzEPZxfF7gv4hT",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-exclusive-heather-daybell-chad/id1521619380?i=1000587830357"
@@ -349,6 +423,9 @@
       "explicit": false,
       "spotifyId": "0sohbT9noaRnoKnujDiKHt",
       "appleId": 1000514531490,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0sohbT9noaRnoKnujDiKHt",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-lori-met-chad-and-the/id1521619380?i=1000514531490"
@@ -363,6 +440,9 @@
       "explicit": false,
       "spotifyId": "2uFt1O51jSFsCLF6UKgvox",
       "appleId": 1000509989517,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2uFt1O51jSFsCLF6UKgvox",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-lori-met-chad-and-the/id1521619380?i=1000509989517"
@@ -377,6 +457,9 @@
       "explicit": false,
       "spotifyId": "16efHnBD1knEawilFshfZQ",
       "appleId": 1000499512055,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/16efHnBD1knEawilFshfZQ",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-chad-met-lori-and/id1521619380?i=1000499512055"
@@ -391,6 +474,9 @@
       "explicit": false,
       "spotifyId": "7ww7P5MYRAc8D9Ov8eMD0M",
       "appleId": 1000496221752,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ww7P5MYRAc8D9Ov8eMD0M",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-revisiting-chad-and-a-tribute/id1521619380?i=1000496221752"
@@ -405,6 +491,9 @@
       "explicit": false,
       "spotifyId": "31iwaeu2Cj2YuAZPFGi1WZ",
       "appleId": 1000493991671,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31iwaeu2Cj2YuAZPFGi1WZ",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-fearlessness-and-filicide/id1521619380?i=1000493991671"
@@ -419,6 +508,9 @@
       "explicit": false,
       "spotifyId": "2zue0qZ7YaEs8ib3g5ayEH",
       "appleId": 1000492305586,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2zue0qZ7YaEs8ib3g5ayEH",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-many-extremes-of-lori/id1521619380?i=1000492305586"
@@ -433,6 +525,9 @@
       "explicit": false,
       "spotifyId": "5StG4GxuImv2GJKKmMMYM3",
       "appleId": 1000490780598,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5StG4GxuImv2GJKKmMMYM3",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-many-extremes-of-lori/id1521619380?i=1000490780598"
@@ -447,6 +542,9 @@
       "explicit": false,
       "spotifyId": "1pkgnNJ7zfcQAslPKgxnyN",
       "appleId": 1000489554978,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1pkgnNJ7zfcQAslPKgxnyN",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-making-of-lori-vallow-daybell/id1521619380?i=1000489554978"
@@ -461,6 +559,9 @@
       "explicit": false,
       "spotifyId": "5ITJdlljOy3DJb3G1lXmVa",
       "appleId": 1000488665796,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ITJdlljOy3DJb3G1lXmVa",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-midnight-musings-on-chad-daybells/id1521619380?i=1000488665796"
@@ -475,6 +576,9 @@
       "explicit": false,
       "spotifyId": "28yJ81PbkpsCC9WDPsNg4U",
       "appleId": 1000486696693,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/28yJ81PbkpsCC9WDPsNg4U",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-oprah-and-portals-and-daybell-oh-my/id1521619380?i=1000486696693"
@@ -489,6 +593,9 @@
       "explicit": false,
       "spotifyId": "6EkU1DK3MsTs0xNAVRaRJ3",
       "appleId": 1000485768535,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6EkU1DK3MsTs0xNAVRaRJ3",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-inside-chad-daybells-murderous-mind/id1521619380?i=1000485768535"
@@ -503,6 +610,9 @@
       "explicit": false,
       "spotifyId": "2pNl6IScJcd5m9FuTwXpf6",
       "appleId": 1000485125704,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2pNl6IScJcd5m9FuTwXpf6",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-closing-of-the-daybellian-mind/id1521619380?i=1000485125704"
@@ -517,6 +627,9 @@
       "explicit": false,
       "spotifyId": "1F8tbVWK3YmQIbfnHm22xN",
       "appleId": 1000483738683,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1F8tbVWK3YmQIbfnHm22xN",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-chad-daybells-big-disconnect/id1521619380?i=1000483738683"
@@ -531,6 +644,9 @@
       "explicit": false,
       "spotifyId": "0ybPsreShzE3L1zQpfDlGX",
       "appleId": 1000480892453,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ybPsreShzE3L1zQpfDlGX",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-chad-daybells-prophetic-yearnings/id1521619380?i=1000480892453"

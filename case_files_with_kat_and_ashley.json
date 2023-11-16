@@ -13,6 +13,9 @@
       "explicit": true,
       "spotifyId": "3QOwCjYPZdEzwcbgV9kB06",
       "appleId": 1000634431999,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3QOwCjYPZdEzwcbgV9kB06",
         "apple": "https://podcasts.apple.com/podcast/roch-th%C3%A9riault-the-ant-hill-kids-cult-pt-3/id1485644891?i=1000634431999"
@@ -27,6 +30,9 @@
       "explicit": true,
       "spotifyId": "6jTkga01TnSYPkhO2BAUSv",
       "appleId": 1000632780533,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6jTkga01TnSYPkhO2BAUSv",
         "apple": "https://podcasts.apple.com/podcast/roch-th%C3%A9riault-the-ant-hill-kids-cult-pt-2/id1485644891?i=1000632780533"
@@ -41,6 +47,9 @@
       "explicit": true,
       "spotifyId": "36COr0hjWZljRvcPMOgtYA",
       "appleId": 1000631944825,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36COr0hjWZljRvcPMOgtYA",
         "apple": "https://podcasts.apple.com/podcast/roch-th%C3%A9riault-the-ant-hill-kids-cult-pt-1/id1485644891?i=1000631944825"
@@ -55,6 +64,9 @@
       "explicit": false,
       "spotifyId": "6qExJvsgQmolX0eBKonrNX",
       "appleId": 1000524079611,
+      "subjects": [
+        "Love Has Won"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6qExJvsgQmolX0eBKonrNX",
         "apple": "https://podcasts.apple.com/podcast/s-4-episode-3-cult-leader-amy-carlson-love-has-won/id1485644891?i=1000524079611"

@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "3hZ55Y5fhksJSkbYk6s9Mm",
       "appleId": 1000415197518,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3hZ55Y5fhksJSkbYk6s9Mm",
         "apple": "https://podcasts.apple.com/podcast/part-6-shadows/id1387560474?i=1000415197518"
@@ -27,6 +30,9 @@
       "explicit": false,
       "spotifyId": "0TNQ3I5cy0uXIaOdznbTUw",
       "appleId": 1000414718337,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0TNQ3I5cy0uXIaOdznbTUw",
         "apple": "https://podcasts.apple.com/podcast/part-5-memories/id1387560474?i=1000414718337"
@@ -41,6 +47,9 @@
       "explicit": false,
       "spotifyId": "2Ut4fhycOwvAsngeMykLy6",
       "appleId": 1000414192423,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Ut4fhycOwvAsngeMykLy6",
         "apple": "https://podcasts.apple.com/podcast/part-4-tribe/id1387560474?i=1000414192423"
@@ -55,6 +64,9 @@
       "explicit": false,
       "spotifyId": "5rpcR6uhSi7xUN9FXnss7n",
       "appleId": 1000413629706,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5rpcR6uhSi7xUN9FXnss7n",
         "apple": "https://podcasts.apple.com/podcast/part-3-philia/id1387560474?i=1000413629706"
@@ -69,6 +81,9 @@
       "explicit": false,
       "spotifyId": "2T6JGlQuhtfgSKkDHHuIBK",
       "appleId": 1000413124692,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2T6JGlQuhtfgSKkDHHuIBK",
         "apple": "https://podcasts.apple.com/podcast/part-2-origins/id1387560474?i=1000413124692"
@@ -83,6 +98,10 @@
       "explicit": false,
       "spotifyId": "5rQHxrGFpIWFTJYV8ck8K0",
       "appleId": 1000412549804,
+      "subjects": [
+        "Self-Help",
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5rQHxrGFpIWFTJYV8ck8K0",
         "apple": "https://podcasts.apple.com/podcast/part-1-catalyst/id1387560474?i=1000412549804"
@@ -97,6 +116,9 @@
       "explicit": false,
       "spotifyId": "6YtjqINVhkNmGIuQ5tkakl",
       "appleId": 1000412004204,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6YtjqINVhkNmGIuQ5tkakl",
         "apple": "https://podcasts.apple.com/podcast/introducing-the-gateway/id1387560474?i=1000412004204"

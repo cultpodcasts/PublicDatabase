@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "7Hh3i18NifaLHPMz1Yf7Uq",
       "appleId": 1000618226160,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Hh3i18NifaLHPMz1Yf7Uq",
         "apple": "https://podcasts.apple.com/podcast/850-self-help-cults-skeptical-sunday/id1344999619?i=1000618226160"
@@ -27,6 +30,9 @@
       "explicit": false,
       "spotifyId": "7CmAGCrMAAfnwrmIhOwffg",
       "appleId": 1000608334904,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CmAGCrMAAfnwrmIhOwffg",
         "apple": "https://podcasts.apple.com/podcast/823-daniella-mestyanek-young-how-to-disengage-from/id1344999619?i=1000608334904"
@@ -41,6 +47,10 @@
       "explicit": false,
       "spotifyId": "2kpGoPRAgNs7HxjbnHwZDp",
       "appleId": 1000509645347,
+      "subjects": [
+        "Cult-Expert",
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2kpGoPRAgNs7HxjbnHwZDp",
         "apple": "https://podcasts.apple.com/podcast/471-steven-hassan-the-igotout-guide-to-quitting-qanon/id1344999619?i=1000509645347"
@@ -55,6 +65,10 @@
       "explicit": false,
       "spotifyId": "6ZPhLcBWKjuwpHCioIzHxL",
       "appleId": 1000446954136,
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ZPhLcBWKjuwpHCioIzHxL",
         "apple": "https://podcasts.apple.com/podcast/238-steven-hassan-combating-cult-mind-control-part-two/id1344999619?i=1000446954136"
@@ -69,6 +83,10 @@
       "explicit": false,
       "spotifyId": "3l9LVTN6W9Sz9YqUAXlo56",
       "appleId": 1000446779375,
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3l9LVTN6W9Sz9YqUAXlo56",
         "apple": "https://podcasts.apple.com/podcast/237-steven-hassan-combating-cult-mind-control-part-one/id1344999619?i=1000446779375"
@@ -83,6 +101,9 @@
       "explicit": false,
       "spotifyId": "6uzZH0CNdzJlhhFdKlLkK8",
       "appleId": 1000429447765,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6uzZH0CNdzJlhhFdKlLkK8",
         "apple": "https://podcasts.apple.com/podcast/158-how-to-save-someone-from-a-self-help-cult-feedback-friday/id1344999619?i=1000429447765"

@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "3r0HnqyOJzUQSkar3yailF",
       "appleId": 1000620632138,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3r0HnqyOJzUQSkar3yailF",
         "apple": "https://podcasts.apple.com/podcast/order-of-the-solar-temple/id1696731214?i=1000620632138"
@@ -27,6 +30,9 @@
       "explicit": false,
       "spotifyId": "1jqCjlmqHQ3oRfmGHKUlKF",
       "appleId": 1000620632322,
+      "subjects": [
+        "Sullivanians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jqCjlmqHQ3oRfmGHKUlKF",
         "apple": "https://podcasts.apple.com/podcast/the-psycho-sexual-sullivanians/id1696731214?i=1000620632322"
@@ -41,6 +47,9 @@
       "explicit": true,
       "spotifyId": "3Cvzg5dSHT7C9ixC8x5M66",
       "appleId": 1000620632321,
+      "subjects": [
+        "Church of the First Born of the Lamb of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Cvzg5dSHT7C9ixC8x5M66",
         "apple": "https://podcasts.apple.com/podcast/polygamy-death-in-the-desert-the-church-of-the-lamb-of-god/id1696731214?i=1000620632321"
@@ -55,6 +64,9 @@
       "explicit": true,
       "spotifyId": "5tNlXyOa2oNUQthpYY5cbT",
       "appleId": 1000620632268,
+      "subjects": [
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5tNlXyOa2oNUQthpYY5cbT",
         "apple": "https://podcasts.apple.com/podcast/the-branch-davidians-the-waco-siege/id1696731214?i=1000620632268"
@@ -69,6 +81,9 @@
       "explicit": true,
       "spotifyId": "2Wp9Yxlj5fjIKO5ArKALY3",
       "appleId": 1000620632371,
+      "subjects": [
+        "Peoples Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Wp9Yxlj5fjIKO5ArKALY3",
         "apple": "https://podcasts.apple.com/podcast/jonestown/id1696731214?i=1000620632371"
@@ -83,6 +98,9 @@
       "explicit": true,
       "spotifyId": "2DpovrN6MA4SLbmB7Twf4a",
       "appleId": 1000620632372,
+      "subjects": [
+        "Lambeth Slavery Case"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DpovrN6MA4SLbmB7Twf4a",
         "apple": "https://podcasts.apple.com/podcast/comrade-balas-workers-institute/id1696731214?i=1000620632372"
@@ -97,6 +115,9 @@
       "explicit": true,
       "spotifyId": "7CeTPC7gl8tHvtqwXqkPsV",
       "appleId": 1000620632373,
+      "subjects": [
+        "Community Chapel and Bible Training Center"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CeTPC7gl8tHvtqwXqkPsV",
         "apple": "https://podcasts.apple.com/podcast/donald-barnetts-community-chapel/id1696731214?i=1000620632373"
@@ -111,6 +132,10 @@
       "explicit": true,
       "spotifyId": "1SfrLA5JKAprMxMoxrVnGi",
       "appleId": 1000620632269,
+      "subjects": [
+        "Jim Bakker",
+        "Evangelicalism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1SfrLA5JKAprMxMoxrVnGi",
         "apple": "https://podcasts.apple.com/podcast/tammy-faye-and-jim-bakkers-evangelical-empire/id1696731214?i=1000620632269"
@@ -125,6 +150,9 @@
       "explicit": true,
       "spotifyId": "3ro11wXa657EFnyczf3vqR",
       "appleId": 1000620632118,
+      "subjects": [
+        "Conscious Development of Body, Mind and Soul"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ro11wXa657EFnyczf3vqR",
         "apple": "https://podcasts.apple.com/podcast/terri-bensons-conscious-development/id1696731214?i=1000620632118"
@@ -139,6 +167,9 @@
       "explicit": true,
       "spotifyId": "0J5RXKsKzt7W4tIFXbkbY3",
       "appleId": 1000620632324,
+      "subjects": [
+        "Church of Wells"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0J5RXKsKzt7W4tIFXbkbY3",
         "apple": "https://podcasts.apple.com/podcast/the-church-of-wells/id1696731214?i=1000620632324"
@@ -153,6 +184,9 @@
       "explicit": true,
       "spotifyId": "5bAJTq1eaziPzcqJvE03c3",
       "appleId": 1000620632270,
+      "subjects": [
+        "New Gnostic Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5bAJTq1eaziPzcqJvE03c3",
         "apple": "https://podcasts.apple.com/podcast/james-kings-new-gnostic-church/id1696731214?i=1000620632270"
@@ -167,6 +201,10 @@
       "explicit": false,
       "spotifyId": "5ynFnNycobyekdAJUZDtu6",
       "appleId": 1000620632139,
+      "subjects": [
+        "Evangelicalism",
+        "Yoo Byung-eun"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ynFnNycobyekdAJUZDtu6",
         "apple": "https://podcasts.apple.com/podcast/koreas-little-child-tycoon/id1696731214?i=1000620632139"
@@ -181,6 +219,10 @@
       "explicit": true,
       "spotifyId": "2f0NYtrBJuyZCJH3v4R6Pf",
       "appleId": 1000620632289,
+      "subjects": [
+        "\u00C5sa Waldau",
+        "Evangelicalism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2f0NYtrBJuyZCJH3v4R6Pf",
         "apple": "https://podcasts.apple.com/podcast/18-texts-from-god/id1696731214?i=1000620632289"
@@ -195,6 +237,9 @@
       "explicit": true,
       "spotifyId": "7eV4FsFpH4p7ZOrdG8k6t1",
       "appleId": 1000620632290,
+      "subjects": [
+        "House of David (commune)"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7eV4FsFpH4p7ZOrdG8k6t1",
         "apple": "https://podcasts.apple.com/podcast/king-bens-house-of-david/id1696731214?i=1000620632290"
@@ -209,6 +254,9 @@
       "explicit": true,
       "spotifyId": "0wi1p5j3k1iq0uBeogbgHC",
       "appleId": 1000620632378,
+      "subjects": [
+        "Twelve Tribes"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0wi1p5j3k1iq0uBeogbgHC",
         "apple": "https://podcasts.apple.com/podcast/twelve-tribes-144-000-male-virgins/id1696731214?i=1000620632378"
@@ -223,6 +271,9 @@
       "explicit": true,
       "spotifyId": "6QX81vLZmDx2WSkQSfJfdH",
       "appleId": 1000620632291,
+      "subjects": [
+        "The Source Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6QX81vLZmDx2WSkQSfJfdH",
         "apple": "https://podcasts.apple.com/podcast/father-yod-the-source-family/id1696731214?i=1000620632291"
@@ -237,6 +288,9 @@
       "explicit": true,
       "spotifyId": "5W4G6OILk4QBn7Oufyo8RP",
       "appleId": 1000620632117,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5W4G6OILk4QBn7Oufyo8RP",
         "apple": "https://podcasts.apple.com/podcast/the-sex-gurus-utopia/id1696731214?i=1000620632117"
@@ -251,6 +305,9 @@
       "explicit": true,
       "spotifyId": "0zOYEay0iV8HclVllzZNOR",
       "appleId": 1000620632374,
+      "subjects": [
+        "John Alexander Dowie"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zOYEay0iV8HclVllzZNOR",
         "apple": "https://podcasts.apple.com/podcast/doctor-dowies-city-of-zion/id1696731214?i=1000620632374"
@@ -265,6 +322,9 @@
       "explicit": true,
       "spotifyId": "79V0mvMU3LcrzcMQDkKtTd",
       "appleId": 1000620632064,
+      "subjects": [
+        "The Brotherhood of Eternal Love"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/79V0mvMU3LcrzcMQDkKtTd",
         "apple": "https://podcasts.apple.com/podcast/the-brotherhood-of-eternal-love/id1696731214?i=1000620632064"
@@ -279,6 +339,9 @@
       "explicit": true,
       "spotifyId": "3jHP5amhiraLX8ZMyNAtHE",
       "appleId": 1000620632342,
+      "subjects": [
+        "Sherry Shriner"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3jHP5amhiraLX8ZMyNAtHE",
         "apple": "https://podcasts.apple.com/podcast/sherry-shriners-reptilian-cult/id1696731214?i=1000620632342"
@@ -293,6 +356,9 @@
       "explicit": true,
       "spotifyId": "0aV0ZUtrte84bsNSKQiKHq",
       "appleId": 1000620632326,
+      "subjects": [
+        "Zen Master Rama"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0aV0ZUtrte84bsNSKQiKHq",
         "apple": "https://podcasts.apple.com/podcast/rama-and-american-buddhism/id1696731214?i=1000620632326"
@@ -307,6 +373,9 @@
       "explicit": true,
       "spotifyId": "1OckGYKFTLekbDpUyzE6Xi",
       "appleId": 1000620632292,
+      "subjects": [
+        "Hermes Far Eastern Shining"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1OckGYKFTLekbDpUyzE6Xi",
         "apple": "https://podcasts.apple.com/podcast/hermes-far-eastern-shining/id1696731214?i=1000620632292"
@@ -321,6 +390,9 @@
       "explicit": true,
       "spotifyId": "7teWf1SFHEPX7Kb3QsBr3V",
       "appleId": 1000620632121,
+      "subjects": [
+        "LuLaRoe"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7teWf1SFHEPX7Kb3QsBr3V",
         "apple": "https://podcasts.apple.com/podcast/lularoe/id1696731214?i=1000620632121"
@@ -335,6 +407,9 @@
       "explicit": true,
       "spotifyId": "4aHFTT6oClqt9bFdoU1xQy",
       "appleId": 1000620632376,
+      "subjects": [
+        "Synanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4aHFTT6oClqt9bFdoU1xQy",
         "apple": "https://podcasts.apple.com/podcast/synanon/id1696731214?i=1000620632376"
@@ -349,6 +424,9 @@
       "explicit": true,
       "spotifyId": "58u9VJpaVvY7Y5ai65QSuh",
       "appleId": 1000620632119,
+      "subjects": [
+        "Ho No Hana"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58u9VJpaVvY7Y5ai65QSuh",
         "apple": "https://podcasts.apple.com/podcast/hogen-fukunaga-the-foot-reading-cult/id1696731214?i=1000620632119"
@@ -363,6 +441,10 @@
       "explicit": true,
       "spotifyId": "7yP0Voow2i4vW2VcUfoCZM",
       "appleId": 1000620632327,
+      "subjects": [
+        "Santiniketan Park Association",
+        "Yoga Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7yP0Voow2i4vW2VcUfoCZM",
         "apple": "https://podcasts.apple.com/podcast/yoga-cult-anne-hamilton-byrne-the-family/id1696731214?i=1000620632327"
@@ -377,6 +459,9 @@
       "explicit": true,
       "spotifyId": "1PHSTufCeTZszpcP8UfyoL",
       "appleId": 1000620632120,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1PHSTufCeTZszpcP8UfyoL",
         "apple": "https://podcasts.apple.com/podcast/ufo-cult-heavens-gate/id1696731214?i=1000620632120"
@@ -391,6 +476,9 @@
       "explicit": false,
       "spotifyId": "6VY0aczNviPZiN3BhZMSu8",
       "appleId": 1000620632377,
+      "subjects": [
+        "Manson Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VY0aczNviPZiN3BhZMSu8",
         "apple": "https://podcasts.apple.com/podcast/cults-celebs-charles-manson-the-beach-boys/id1696731214?i=1000620632377"
@@ -405,6 +493,9 @@
       "explicit": true,
       "spotifyId": "316oWkWjWgoSgvyDVQsH95",
       "appleId": 1000620632293,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/316oWkWjWgoSgvyDVQsH95",
         "apple": "https://podcasts.apple.com/podcast/cults-celebs-nxivm/id1696731214?i=1000620632293"

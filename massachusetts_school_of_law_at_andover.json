@@ -11,6 +11,14 @@
       "duration": "01:00:00",
       "explicit": false,
       "youTubeId": "VJ1w6lgrttE",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "Unification Church",
+        "Branch Davidians",
+        "Peoples Temple",
+        "Psychology"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=VJ1w6lgrttE"
       }
@@ -23,6 +31,9 @@
       "duration": "00:06:14",
       "explicit": false,
       "youTubeId": "LHMYwtjaFjI",
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=LHMYwtjaFjI"
       }

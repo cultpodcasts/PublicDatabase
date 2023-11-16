@@ -5,20 +5,6 @@
   "appleId": 1292069401,
   "episodes": [
     {
-      "id": "0d3bcfe9-c098-4d16-ab81-dfb259870197",
-      "title": "Introducing Toxic: The Britney Spears Story",
-      "description": "Comedians Tess Barker and Babs Gray, who you might know from Lady to Lady or the now legendary Britney\u2019s Gram podcast, are here to bring you a brand new investigative series about Britney Spears\u0027 conservatorship and the court system that\u0027s allowed it to persist.After launching the #FreeBritney movement, they started to dig\u2026 And what they found out, you won\u2019t want to miss! Join Tess and Babs as they talk to exclusive sources, examine new sides of the story, and uncover disturbing truths about our legal system that go way beyond Britney. Listen to Episodes 1 \u0026 2 right now: link.chtbl.com/ToxicThePodcast",
-      "release": "2021-07-07T04:00:00Z",
-      "duration": "00:05:54.1420000",
-      "explicit": false,
-      "spotifyId": "01V6vhyzifaBz2guDalstp",
-      "appleId": 1000528075901,
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/01V6vhyzifaBz2guDalstp",
-        "apple": "https://podcasts.apple.com/podcast/introducing-toxic-the-britney-spears-story/id1292069401?i=1000528075901"
-      }
-    },
-    {
       "id": "012c52a5-8f90-4fbe-87af-3cd1f077b5e0",
       "title": "10: The Class",
       "description": "39 people exit their vehicles, and stun\u00A0the\u00A0world. Families, classmates and\u00A0the\u00A0rest of us grapple with what comes after.",
@@ -27,6 +13,9 @@
       "explicit": true,
       "spotifyId": "5dL2CmubuzrOPzWUgclwQl",
       "appleId": 1000398476072,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5dL2CmubuzrOPzWUgclwQl",
         "apple": "https://podcasts.apple.com/podcast/10-the-class/id1292069401?i=1000398476072"
@@ -41,6 +30,9 @@
       "explicit": true,
       "spotifyId": "7ie6AE94Z271mQ6XxjqpTm",
       "appleId": 1000397865958,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ie6AE94Z271mQ6XxjqpTm",
         "apple": "https://podcasts.apple.com/podcast/9-the-comet/id1292069401?i=1000397865958"
@@ -55,6 +47,9 @@
       "explicit": true,
       "spotifyId": "1DXTmLZulHXKXJPnnVCSyD",
       "appleId": 1000397206337,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1DXTmLZulHXKXJPnnVCSyD",
         "apple": "https://podcasts.apple.com/podcast/8-the-unknowns/id1292069401?i=1000397206337"
@@ -69,6 +64,9 @@
       "explicit": true,
       "spotifyId": "0cavgXzhfnLfuKQKAMgxO1",
       "appleId": 1000396501185,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cavgXzhfnLfuKQKAMgxO1",
         "apple": "https://podcasts.apple.com/podcast/7-the-programming/id1292069401?i=1000396501185"
@@ -83,6 +81,9 @@
       "explicit": true,
       "spotifyId": "3gaW9KKYHBZjPxF36dza1N",
       "appleId": 1000395403751,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gaW9KKYHBZjPxF36dza1N",
         "apple": "https://podcasts.apple.com/podcast/6-the-choice/id1292069401?i=1000395403751"
@@ -97,6 +98,9 @@
       "explicit": true,
       "spotifyId": "4N8D8UwJ90hEvIFVa4Cdt5",
       "appleId": 1000394828817,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4N8D8UwJ90hEvIFVa4Cdt5",
         "apple": "https://podcasts.apple.com/podcast/5-the-tape/id1292069401?i=1000394828817"
@@ -111,6 +115,9 @@
       "explicit": true,
       "spotifyId": "0vklpppNgNyJNpc05HFnFU",
       "appleId": 1000394556119,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0vklpppNgNyJNpc05HFnFU",
         "apple": "https://podcasts.apple.com/podcast/4-the-host/id1292069401?i=1000394556119"
@@ -125,6 +132,9 @@
       "explicit": true,
       "spotifyId": "6p0JC2grX6ImHPfIaWG2AK",
       "appleId": 1000394271835,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6p0JC2grX6ImHPfIaWG2AK",
         "apple": "https://podcasts.apple.com/podcast/3-the-mothers/id1292069401?i=1000394271835"
@@ -139,6 +149,9 @@
       "explicit": true,
       "spotifyId": "2JzQoFib5ZRVsuW5xKOKZQ",
       "appleId": 1000393988254,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JzQoFib5ZRVsuW5xKOKZQ",
         "apple": "https://podcasts.apple.com/podcast/2-the-two/id1292069401?i=1000393988254"
@@ -153,6 +166,9 @@
       "explicit": true,
       "spotifyId": "3CM9Usux78Xf6nw9epKGko",
       "appleId": 1000393674642,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3CM9Usux78Xf6nw9epKGko",
         "apple": "https://podcasts.apple.com/podcast/1-the-seekers/id1292069401?i=1000393674642"
@@ -167,6 +183,9 @@
       "explicit": true,
       "spotifyId": "3JThZyoUrEdNgm3EuLnmG5",
       "appleId": 1000392990525,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3JThZyoUrEdNgm3EuLnmG5",
         "apple": "https://podcasts.apple.com/podcast/coming-soon-heavens-gate/id1292069401?i=1000392990525"

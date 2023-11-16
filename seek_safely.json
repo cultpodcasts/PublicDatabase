@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "4sEbchDzeaAes92i7VyHgd",
       "appleId": 1000611282727,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4sEbchDzeaAes92i7VyHgd",
         "apple": "https://podcasts.apple.com/podcast/you-cannot-miss-this-opportunity-to-talk-about-mlms/id1647275899?i=1000611282727"
@@ -27,6 +30,11 @@
       "explicit": false,
       "spotifyId": "2zJKjkKJj5S7kRfB8EPFcw",
       "appleId": 1000609261307,
+      "subjects": [
+        "Self-Help",
+        "Psychology",
+        "James Arthur Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2zJKjkKJj5S7kRfB8EPFcw",
         "apple": "https://podcasts.apple.com/podcast/glenn-and-jean-spoil-the-secret/id1647275899?i=1000609261307"
@@ -41,6 +49,10 @@
       "explicit": false,
       "spotifyId": "35V4xmdIZBRyhwI80gbTa4",
       "appleId": 1000586930953,
+      "subjects": [
+        "Self-Help",
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/35V4xmdIZBRyhwI80gbTa4",
         "apple": "https://podcasts.apple.com/podcast/surviving-cultic-abuse-with-jennifer-french-part-2/id1647275899?i=1000586930953"
@@ -55,6 +67,12 @@
       "explicit": false,
       "spotifyId": "6aMXFNfOn2Krt49huAkE4p",
       "appleId": 1000586082335,
+      "subjects": [
+        "Self-Help",
+        "3HO",
+        "Cult Recovery",
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6aMXFNfOn2Krt49huAkE4p",
         "apple": "https://podcasts.apple.com/podcast/surviving-cultic-abuse-with-jennifer-french-part-1/id1647275899?i=1000586082335"
@@ -69,6 +87,11 @@
       "explicit": false,
       "spotifyId": "1yKFsBQtXczNSNp8X2mIRy",
       "appleId": 1000585302549,
+      "subjects": [
+        "NXIVM",
+        "Self-Help",
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1yKFsBQtXczNSNp8X2mIRy",
         "apple": "https://podcasts.apple.com/podcast/jean-and-dr-glenn-dissect-episodes-1-2-of-the-vow-season-2/id1647275899?i=1000585302549"
@@ -83,6 +106,9 @@
       "explicit": false,
       "spotifyId": "4NeAyvFgAd79usYyh69g5r",
       "appleId": 1000584469874,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4NeAyvFgAd79usYyh69g5r",
         "apple": "https://podcasts.apple.com/podcast/part-2-pushing-back-against-unethical-coaching-wellness/id1647275899?i=1000584469874"
@@ -97,6 +123,9 @@
       "explicit": false,
       "spotifyId": "0IXsaTnsjGnNgDJBfuCMgE",
       "appleId": 1000583661213,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0IXsaTnsjGnNgDJBfuCMgE",
         "apple": "https://podcasts.apple.com/podcast/part-1-pushing-back-against-unethical-coaching-wellness/id1647275899?i=1000583661213"

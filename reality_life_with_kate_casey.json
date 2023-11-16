@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "3YgzbowREeYeh7Pyb7sbyh",
       "appleId": 1000632653542,
+      "subjects": [
+        "Hare Krishnas"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3YgzbowREeYeh7Pyb7sbyh",
         "apple": "https://podcasts.apple.com/podcast/ep-812-krishnas-gurus-karma-murder/id1154758766?i=1000632653542"
@@ -27,6 +30,9 @@
       "explicit": false,
       "spotifyId": "6KNDtU5byvEH7KVqusBuwN",
       "appleId": 1000632390233,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6KNDtU5byvEH7KVqusBuwN",
         "apple": "https://podcasts.apple.com/podcast/ep-809-jill-duggar-and-derick-dillard/id1154758766?i=1000632390233"
@@ -41,6 +47,9 @@
       "explicit": false,
       "spotifyId": "5doKIKhAhAMKTUHBqq5QKn",
       "appleId": 1000631042443,
+      "subjects": [
+        "La Famille"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5doKIKhAhAMKTUHBqq5QKn",
         "apple": "https://podcasts.apple.com/podcast/ep-799-idaho-case-update-bridegan-case-update-cult/id1154758766?i=1000631042443"
@@ -55,6 +64,9 @@
       "explicit": false,
       "spotifyId": "3gDC3vgWUsVOtWagZkjnKx",
       "appleId": 1000614416729,
+      "subjects": [
+        "Hillsong"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gDC3vgWUsVOtWagZkjnKx",
         "apple": "https://podcasts.apple.com/podcast/ep-680-the-secrets-of-hillsong-executive-producer/id1154758766?i=1000614416729"
@@ -69,6 +81,9 @@
       "explicit": false,
       "spotifyId": "4QhtSHgsk9GkhEMztIbREU",
       "appleId": 1000613321498,
+      "subjects": [
+        "Hillsong"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4QhtSHgsk9GkhEMztIbREU",
         "apple": "https://podcasts.apple.com/podcast/ep-674-the-secrets-of-hillsong-the-curious/id1154758766?i=1000613321498"
@@ -83,6 +98,9 @@
       "explicit": false,
       "spotifyId": "2EIg4Xb8Becwj21hFPaVR3",
       "appleId": 1000607460681,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2EIg4Xb8Becwj21hFPaVR3",
         "apple": "https://podcasts.apple.com/podcast/ep-644-lori-vallow-trial-begins-murdaugh-and-idaho/id1154758766?i=1000607460681"
@@ -97,6 +115,9 @@
       "explicit": false,
       "spotifyId": "7LlCVNL9JfMIFgSE3EM9Wr",
       "appleId": 1000605104547,
+      "subjects": [
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7LlCVNL9JfMIFgSE3EM9Wr",
         "apple": "https://podcasts.apple.com/podcast/ep-633-waco-american-apocalypse-on-netflix/id1154758766?i=1000605104547"
@@ -111,6 +132,9 @@
       "explicit": false,
       "spotifyId": "5EFUCdxNiElOTvoSwrUPDh",
       "appleId": 1000604592322,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5EFUCdxNiElOTvoSwrUPDh",
         "apple": "https://podcasts.apple.com/podcast/ep-630-elizabeth-smart-kidnapping-and-rescue/id1154758766?i=1000604592322"
@@ -125,6 +149,9 @@
       "explicit": false,
       "spotifyId": "2uypPqhJPwa0Z8GkVdsysq",
       "appleId": 1000588057320,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2uypPqhJPwa0Z8GkVdsysq",
         "apple": "https://podcasts.apple.com/podcast/ep-570-mike-rinder-author-of-a-billion-years-my/id1154758766?i=1000588057320"
@@ -139,6 +166,15 @@
       "explicit": false,
       "spotifyId": "5ESLVFELETLRLuzA9t9jEa",
       "appleId": 1000586368285,
+      "subjects": [
+        "NXIVM",
+        "Bhagwan Shree Rajneesh",
+        "Heaven\u0027s Gate",
+        "FLDS Church",
+        "Santiniketan Park Association",
+        "Buddhafield",
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ESLVFELETLRLuzA9t9jEa",
         "apple": "https://podcasts.apple.com/podcast/ep-564-best-cult-documentaries/id1154758766?i=1000586368285"

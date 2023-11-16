@@ -13,6 +13,11 @@
       "explicit": true,
       "spotifyId": "380HioyOkAOgCbccNNX9To",
       "appleId": 1000618895063,
+      "subjects": [
+        "Psychology",
+        "Psychiatry",
+        "Psychotherapy"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/380HioyOkAOgCbccNNX9To",
         "apple": "https://podcasts.apple.com/podcast/185-narcissism-with-jonathan-shedler-phd/id1335892956?i=1000618895063"

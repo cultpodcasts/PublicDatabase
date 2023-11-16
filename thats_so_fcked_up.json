@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "6P0nayuGZkWMv6vaHAOXW8",
       "appleId": 1000634655644,
+      "subjects": [
+        "Colonia Dignidad"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6P0nayuGZkWMv6vaHAOXW8",
         "apple": "https://podcasts.apple.com/podcast/ep-164-cult-colonia-dignidad-a-torturous-nazi/id1508752329?i=1000634655644"
@@ -27,6 +30,9 @@
       "explicit": false,
       "spotifyId": "31RWTAz45XJU3apOa2ckJW",
       "appleId": 1000634308962,
+      "subjects": [
+        "Twin Flames Universe"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31RWTAz45XJU3apOa2ckJW",
         "apple": "https://podcasts.apple.com/podcast/trending-cult-twin-flames-universe-love-and/id1508752329?i=1000634308962"
@@ -41,6 +47,9 @@
       "explicit": false,
       "spotifyId": "5JJbtyauweTDWCDK9tDKfY",
       "appleId": 1000633143117,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5JJbtyauweTDWCDK9tDKfY",
         "apple": "https://podcasts.apple.com/podcast/cultertainment-corner-ep-4-culty-movies-with-apostate-alex/id1508752329?i=1000633143117"
@@ -55,6 +64,9 @@
       "explicit": false,
       "spotifyId": "4yhzsG96dCF8XvsGCGOaCG",
       "appleId": 1000632881893,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4yhzsG96dCF8XvsGCGOaCG",
         "apple": "https://podcasts.apple.com/podcast/cultertainment-corner-ep-3-culty-scammy-docs-and-tv/id1508752329?i=1000632881893"
@@ -69,6 +81,9 @@
       "explicit": false,
       "spotifyId": "6vta8zydlrlgPh7UyinUhB",
       "appleId": 1000631987648,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6vta8zydlrlgPh7UyinUhB",
         "apple": "https://podcasts.apple.com/podcast/cultertainment-corner-ep-2-culty-scammy-docs-and/id1508752329?i=1000631987648"
@@ -83,6 +98,9 @@
       "explicit": false,
       "spotifyId": "3Pdsk4baJVYFSLtzFpiGF0",
       "appleId": 1000631898003,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Pdsk4baJVYFSLtzFpiGF0",
         "apple": "https://podcasts.apple.com/podcast/the-new-f-word-ep-4-growing-up-gothard-and-the/id1508752329?i=1000631898003"
@@ -97,6 +115,11 @@
       "explicit": true,
       "spotifyId": "1Tpyan7vM4DTy16sIpI5gA",
       "appleId": 1000630453966,
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "Evangelicalism",
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Tpyan7vM4DTy16sIpI5gA",
         "apple": "https://podcasts.apple.com/podcast/the-new-f-word-ep-2-the-c-n-f-and-e-words-with-katherine-spearing/id1508752329?i=1000630453966"
@@ -111,6 +134,9 @@
       "explicit": true,
       "spotifyId": "3OoC0aiDGLSoA5yrqF447l",
       "appleId": 1000630233039,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OoC0aiDGLSoA5yrqF447l",
         "apple": "https://podcasts.apple.com/podcast/cultober-new-york-noir-the-sarah-lawrence-college-cult-2022/id1508752329?i=1000630233039"
@@ -125,6 +151,9 @@
       "explicit": true,
       "spotifyId": "4Z6QfUy2Aiuyzt8Qxtxb8g",
       "appleId": 1000630067075,
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Z6QfUy2Aiuyzt8Qxtxb8g",
         "apple": "https://podcasts.apple.com/podcast/the-new-f-word-ep-1-christian-fundamentalist/id1508752329?i=1000630067075"
@@ -139,6 +168,9 @@
       "explicit": true,
       "spotifyId": "4mJZqAhRIyV7PtpxxsZeOn",
       "appleId": 1000625528917,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mJZqAhRIyV7PtpxxsZeOn",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-9-ash-and-alex-stop/id1508752329?i=1000625528917"
@@ -153,6 +185,9 @@
       "explicit": true,
       "spotifyId": "3WrHkYUwz8uWZpWQZCuXxj",
       "appleId": 1000624855517,
+      "subjects": [
+        "Manson Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3WrHkYUwz8uWZpWQZCuXxj",
         "apple": "https://podcasts.apple.com/podcast/ep-156-paroled-leslie-van-houten-former-manson-girl-part-ii/id1508752329?i=1000624855517"
@@ -167,6 +202,9 @@
       "explicit": true,
       "spotifyId": "0Wn1wXC2VCxfyHAQbl0aZv",
       "appleId": 1000624851946,
+      "subjects": [
+        "Manson Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Wn1wXC2VCxfyHAQbl0aZv",
         "apple": "https://podcasts.apple.com/podcast/ep-155-paroled-leslie-van-houten-former-manson-girl-part-i/id1508752329?i=1000624851946"
@@ -181,6 +219,9 @@
       "explicit": true,
       "spotifyId": "6VFzm8rZ8hgXkUCRNDsgwE",
       "appleId": 1000624258865,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VFzm8rZ8hgXkUCRNDsgwE",
         "apple": "https://podcasts.apple.com/podcast/ep-154-cult-bhagwan-shree-rajneesh-aka-osho-and/id1508752329?i=1000624258865"
@@ -195,6 +236,9 @@
       "explicit": true,
       "spotifyId": "0U7Sb2tNWqJTVlvRzvKHxS",
       "appleId": 1000624134854,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0U7Sb2tNWqJTVlvRzvKHxS",
         "apple": "https://podcasts.apple.com/podcast/ep-153-cult-bhagwan-shree-rajneesh-and-the/id1508752329?i=1000624134854"
@@ -209,6 +253,10 @@
       "explicit": true,
       "spotifyId": "0iap8PBtDCm3c0qmByPeie",
       "appleId": 1000623149028,
+      "subjects": [
+        "Scientology",
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0iap8PBtDCm3c0qmByPeie",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-8-scientology-is-an-mlm/id1508752329?i=1000623149028"
@@ -223,6 +271,9 @@
       "explicit": true,
       "spotifyId": "3B19Sc0KxBIHb7Ex20nwTD",
       "appleId": 1000618929329,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3B19Sc0KxBIHb7Ex20nwTD",
         "apple": "https://podcasts.apple.com/podcast/ep-148-culty-gwyneth-paltrow-and-goop/id1508752329?i=1000618929329"
@@ -237,6 +288,9 @@
       "explicit": true,
       "spotifyId": "0DE0fZxKaAuH6YZIgG1vkS",
       "appleId": 1000618780307,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0DE0fZxKaAuH6YZIgG1vkS",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-7-ot-viii-the-final-frontier/id1508752329?i=1000618780307"
@@ -251,6 +305,9 @@
       "explicit": true,
       "spotifyId": "5BTvpHvrlNpwqheLJ6lfHj",
       "appleId": 1000618543150,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BTvpHvrlNpwqheLJ6lfHj",
         "apple": "https://podcasts.apple.com/podcast/mlm-mayhem-ep-3-herbalife/id1508752329?i=1000618543150"
@@ -265,6 +322,9 @@
       "explicit": true,
       "spotifyId": "0A0vPPEozkQNOslS0X4MrL",
       "appleId": 1000618177043,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0A0vPPEozkQNOslS0X4MrL",
         "apple": "https://podcasts.apple.com/podcast/ep-147-body-shaming-on-demand-beachbody/id1508752329?i=1000618177043"
@@ -279,6 +339,9 @@
       "explicit": true,
       "spotifyId": "6LghNOad8M8hYVMNOFUGRg",
       "appleId": 1000618034214,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6LghNOad8M8hYVMNOFUGRg",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-6-its-not-me-its-xenu/id1508752329?i=1000618034214"
@@ -293,6 +356,9 @@
       "explicit": true,
       "spotifyId": "2JoBQK7Zk8ABXJYCLnf7GR",
       "appleId": 1000617720167,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JoBQK7Zk8ABXJYCLnf7GR",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-5-enlightenment-by/id1508752329?i=1000617720167"
@@ -307,6 +373,10 @@
       "explicit": true,
       "spotifyId": "7B4sY1Q2oIk7oITUvLmVz0",
       "appleId": 1000616899286,
+      "subjects": [
+        "Multi-Level Marketing",
+        "Amway"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7B4sY1Q2oIk7oITUvLmVz0",
         "apple": "https://podcasts.apple.com/podcast/mlm-mayhem-ep-2-amway/id1508752329?i=1000616899286"
@@ -321,6 +391,9 @@
       "explicit": true,
       "spotifyId": "1plaOuqkb3oRXfizHwcNHZ",
       "appleId": 1000616303979,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1plaOuqkb3oRXfizHwcNHZ",
         "apple": "https://podcasts.apple.com/podcast/ep-145-mlm-throwback-lularoe-the-stinky-leggings/id1508752329?i=1000616303979"
@@ -335,6 +408,9 @@
       "explicit": true,
       "spotifyId": "4krhMnmsK9EvVNRrqoV5vT",
       "appleId": 1000616200665,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4krhMnmsK9EvVNRrqoV5vT",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-breaking-news-the/id1508752329?i=1000616200665"
@@ -349,6 +425,9 @@
       "explicit": true,
       "spotifyId": "1gvPxj1X9vDyXFrHHMqLxc",
       "appleId": 1000615930705,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1gvPxj1X9vDyXFrHHMqLxc",
         "apple": "https://podcasts.apple.com/podcast/mlm-mayhem-ep-1-wtf-is-an-mlm/id1508752329?i=1000615930705"
@@ -363,6 +442,9 @@
       "explicit": true,
       "spotifyId": "6KDwBJk5jpIbf2b4fOObUe",
       "appleId": 1000615198758,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6KDwBJk5jpIbf2b4fOObUe",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-4-your-reactive-mind/id1508752329?i=1000615198758"
@@ -377,6 +459,9 @@
       "explicit": true,
       "spotifyId": "3yi4NqKevuFglhYGxNFHuy",
       "appleId": 1000615053777,
+      "subjects": [
+        "Peoples Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3yi4NqKevuFglhYGxNFHuy",
         "apple": "https://podcasts.apple.com/podcast/jonesin-for-jonestown-ep-4-drinking-the-flavor-aid/id1508752329?i=1000615053777"
@@ -391,6 +476,9 @@
       "explicit": true,
       "spotifyId": "7j9BahsRiMyFbU2f6KA7pz",
       "appleId": 1000614349593,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7j9BahsRiMyFbU2f6KA7pz",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-3-yelling-at-ashtrays/id1508752329?i=1000614349593"
@@ -405,6 +493,9 @@
       "explicit": true,
       "spotifyId": "0sz4khO3JLnwEsNfw88YRM",
       "appleId": 1000614187364,
+      "subjects": [
+        "Peoples Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0sz4khO3JLnwEsNfw88YRM",
         "apple": "https://podcasts.apple.com/podcast/jonesin-for-jonestown-ep-3-the-unravelling/id1508752329?i=1000614187364"
@@ -419,6 +510,9 @@
       "explicit": true,
       "spotifyId": "2aZxTRfXDN50QUC2cL58jA",
       "appleId": 1000613677195,
+      "subjects": [
+        "Remnant Fellowship"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2aZxTRfXDN50QUC2cL58jA",
         "apple": "https://podcasts.apple.com/podcast/ep-142-cult-leader-gwen-shamblin-and-the/id1508752329?i=1000613677195"
@@ -433,6 +527,9 @@
       "explicit": true,
       "spotifyId": "2HoaxFJTMMpP4ZrFAg2luF",
       "appleId": 1000613537136,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2HoaxFJTMMpP4ZrFAg2luF",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-2-the-purification-rundown/id1508752329?i=1000613537136"
@@ -447,6 +544,9 @@
       "explicit": true,
       "spotifyId": "61nxwibtKpWfNtLJ6y4reP",
       "appleId": 1000613388768,
+      "subjects": [
+        "Peoples Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61nxwibtKpWfNtLJ6y4reP",
         "apple": "https://podcasts.apple.com/podcast/jonesin-for-jonestown-ep-2-the-following/id1508752329?i=1000613388768"
@@ -461,6 +561,9 @@
       "explicit": true,
       "spotifyId": "2fvpLwmI8WBFBHUlxmqFRa",
       "appleId": 1000612509088,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2fvpLwmI8WBFBHUlxmqFRa",
         "apple": "https://podcasts.apple.com/podcast/ash-and-alex-do-scientology-ep-1-intro-to-the-madness/id1508752329?i=1000612509088"
@@ -475,6 +578,9 @@
       "explicit": true,
       "spotifyId": "3nc1nZQN2k83NUDhlOBDiY",
       "appleId": 1000612390459,
+      "subjects": [
+        "Peoples Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3nc1nZQN2k83NUDhlOBDiY",
         "apple": "https://podcasts.apple.com/podcast/jonesin-for-jonestown-ep-1-the-happy-beginnings/id1508752329?i=1000612390459"
@@ -489,6 +595,9 @@
       "explicit": true,
       "spotifyId": "0thMzMkjJnkshdTRNtsQ9m",
       "appleId": 1000611861314,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0thMzMkjJnkshdTRNtsQ9m",
         "apple": "https://podcasts.apple.com/podcast/ep-140-cult-leader-teal-swan-aka-the-suicide-catalyst/id1508752329?i=1000611861314"
@@ -503,6 +612,9 @@
       "explicit": true,
       "spotifyId": "2vPSRWInJ4wHPivpUWhTio",
       "appleId": 1000607886168,
+      "subjects": [
+        "Jesus Camp"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2vPSRWInJ4wHPivpUWhTio",
         "apple": "https://podcasts.apple.com/podcast/binge-or-bust-ep-14-jesus-camp/id1508752329?i=1000607886168"
@@ -517,6 +629,9 @@
       "explicit": true,
       "spotifyId": "5CtoQpEFeoeSRrrvkqnybe",
       "appleId": 1000605574545,
+      "subjects": [
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5CtoQpEFeoeSRrrvkqnybe",
         "apple": "https://podcasts.apple.com/podcast/episode-136-cult-branch-davidians-aka-mass-murder-at-waco/id1508752329?i=1000605574545"
@@ -531,6 +646,9 @@
       "explicit": true,
       "spotifyId": "507PqBLQqxzFNzoH8BlAVJ",
       "appleId": 1000602136460,
+      "subjects": [
+        "Onetaste"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/507PqBLQqxzFNzoH8BlAVJ",
         "apple": "https://podcasts.apple.com/podcast/binge-or-bust-ep-13-orgasm-inc-the-story-of-onetaste/id1508752329?i=1000602136460"
@@ -545,6 +663,9 @@
       "explicit": true,
       "spotifyId": "4BCBK6164EnMacCZc63Flp",
       "appleId": 1000591579303,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4BCBK6164EnMacCZc63Flp",
         "apple": "https://podcasts.apple.com/podcast/best-of-2022-1-ep-101-murder-mormonism-and/id1508752329?i=1000591579303"
@@ -573,6 +694,9 @@
       "explicit": true,
       "spotifyId": "6vwMdKIp9DxgBUw1Y7VrEM",
       "appleId": 1000590851660,
+      "subjects": [
+        "Synanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6vwMdKIp9DxgBUw1Y7VrEM",
         "apple": "https://podcasts.apple.com/podcast/holiday-bonus-synanon-drug-rehab-turned-dangerous-cult/id1508752329?i=1000590851660"
@@ -587,6 +711,9 @@
       "explicit": true,
       "spotifyId": "5Co19FPnAfdKH9pD59qup4",
       "appleId": 1000590267377,
+      "subjects": [
+        "Jared Leto"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Co19FPnAfdKH9pD59qup4",
         "apple": "https://podcasts.apple.com/podcast/best-of-2022-3-ep-92-cult-leader-jared-leto-yes-jared-leto/id1508752329?i=1000590267377"
@@ -615,6 +742,9 @@
       "explicit": true,
       "spotifyId": "61pBHMGPBmq0Y9vS2Vyoa6",
       "appleId": 1000581938815,
+      "subjects": [
+        "Hillsong"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61pBHMGPBmq0Y9vS2Vyoa6",
         "apple": "https://podcasts.apple.com/podcast/ep-112-cult-hillsong-church-a-musical-megachurch/id1508752329?i=1000581938815"
@@ -629,6 +759,9 @@
       "explicit": true,
       "spotifyId": "40cAszeKaW8a1yJqXLkWEB",
       "appleId": 1000581567442,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/40cAszeKaW8a1yJqXLkWEB",
         "apple": "https://podcasts.apple.com/podcast/new-york-noir-ep-1-the-sarah-lawrence-college-cult/id1508752329?i=1000581567442"
@@ -643,6 +776,9 @@
       "explicit": true,
       "spotifyId": "5R3UWjzyLLHvA9MT0hEIm3",
       "appleId": 1000575880739,
+      "subjects": [
+        "Twin Flames Universe"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5R3UWjzyLLHvA9MT0hEIm3",
         "apple": "https://podcasts.apple.com/podcast/ep-106-cult-twin-flames-love-and-restraining-orders/id1508752329?i=1000575880739"
@@ -671,6 +807,9 @@
       "explicit": true,
       "spotifyId": "0xqzwyW53HlSI73AsJ9AOh",
       "appleId": 1000570016036,
+      "subjects": [
+        "FLDS Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0xqzwyW53HlSI73AsJ9AOh",
         "apple": "https://podcasts.apple.com/podcast/ep-102-cult-warren-jeffs-and-the-flds/id1508752329?i=1000570016036"
@@ -685,6 +824,9 @@
       "explicit": true,
       "spotifyId": "5kGf1dUgqwIbX1uKefRhHn",
       "appleId": 1000569263881,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5kGf1dUgqwIbX1uKefRhHn",
         "apple": "https://podcasts.apple.com/podcast/ep-101-murder-mormonism-and-the-murders-of/id1508752329?i=1000569263881"
@@ -699,6 +841,9 @@
       "explicit": true,
       "spotifyId": "2irG1Wi7N9s70sNXUdUsS7",
       "appleId": 1000561095573,
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2irG1Wi7N9s70sNXUdUsS7",
         "apple": "https://podcasts.apple.com/podcast/episode-95-cult-the-alamo-christian-foundation/id1508752329?i=1000561095573"
@@ -713,6 +858,9 @@
       "explicit": true,
       "spotifyId": "3T4GYNAUqYJgkjOoNFSDA3",
       "appleId": 1000558378523,
+      "subjects": [
+        "Jared Leto"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3T4GYNAUqYJgkjOoNFSDA3",
         "apple": "https://podcasts.apple.com/podcast/episode-92-culty-jared-leto-and-the-echelon/id1508752329?i=1000558378523"
@@ -727,6 +875,9 @@
       "explicit": true,
       "spotifyId": "2RQHo0StUVwKJolggGlGdw",
       "appleId": 1000555236133,
+      "subjects": [
+        "One-on-one"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2RQHo0StUVwKJolggGlGdw",
         "apple": "https://podcasts.apple.com/podcast/episode-88-cult-of-one-sarma-melngailis-the-conned-bad-vegan/id1508752329?i=1000555236133"
@@ -741,6 +892,9 @@
       "explicit": true,
       "spotifyId": "5uXsmCVRcNotVqADrbonwk",
       "appleId": 1000552931844,
+      "subjects": [
+        "Doc Antle"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5uXsmCVRcNotVqADrbonwk",
         "apple": "https://podcasts.apple.com/podcast/episode-85-cult-leader-doc-antle-the-real-villain/id1508752329?i=1000552931844"
@@ -755,6 +909,10 @@
       "explicit": true,
       "spotifyId": "5FXzn2LS0r1sjIMx92spst",
       "appleId": 1000546607784,
+      "subjects": [
+        "Romana Didulo",
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5FXzn2LS0r1sjIMx92spst",
         "apple": "https://podcasts.apple.com/podcast/episode-79-cult-leader-romana-didulo-the-qanon-queen/id1508752329?i=1000546607784"
@@ -769,6 +927,9 @@
       "explicit": true,
       "spotifyId": "3pWks8QwzErbmbcV8il7fF",
       "appleId": 1000544593578,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3pWks8QwzErbmbcV8il7fF",
         "apple": "https://podcasts.apple.com/podcast/episode-76-cult-mlm-lularoe-the-stinky-leggings/id1508752329?i=1000544593578"
@@ -783,6 +944,9 @@
       "explicit": true,
       "spotifyId": "0IVjwdU4Rp3qufJnHCErn2",
       "appleId": 1000538696951,
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0IVjwdU4Rp3qufJnHCErn2",
         "apple": "https://podcasts.apple.com/podcast/episode-71-cult-the-family/id1508752329?i=1000538696951"
@@ -797,6 +961,9 @@
       "explicit": true,
       "spotifyId": "5qSt53QNubNeetmgPFNRPv",
       "appleId": 1000532592473,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5qSt53QNubNeetmgPFNRPv",
         "apple": "https://podcasts.apple.com/podcast/episode-62-cults-fundamentalist-mormon-polygamist-groups/id1508752329?i=1000532592473"
@@ -811,6 +978,9 @@
       "explicit": true,
       "spotifyId": "3f99a1t9C54LW4ivvRFc73",
       "appleId": 1000531918164,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3f99a1t9C54LW4ivvRFc73",
         "apple": "https://podcasts.apple.com/podcast/episode-61-cults-fundamentalist-mormon-polygamist-groups/id1508752329?i=1000531918164"
@@ -825,6 +995,11 @@
       "explicit": true,
       "spotifyId": "0Bexs1mtn8j6XNvelmta0J",
       "appleId": 1000523382298,
+      "subjects": [
+        "Peoples Temple",
+        "Branch Davidians",
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Bexs1mtn8j6XNvelmta0J",
         "apple": "https://podcasts.apple.com/podcast/episode-54-cult-movement-for-the-restoration-of/id1508752329?i=1000523382298"
@@ -839,6 +1014,9 @@
       "explicit": true,
       "spotifyId": "2q9oJ0XHORZ3KlIn35BJQi",
       "appleId": 1000522629738,
+      "subjects": [
+        "Love Has Won"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2q9oJ0XHORZ3KlIn35BJQi",
         "apple": "https://podcasts.apple.com/podcast/episode-53-cult-amy-carlson-and-love-has-won/id1508752329?i=1000522629738"
@@ -881,6 +1059,10 @@
       "explicit": true,
       "spotifyId": "04CturXs1Qwb1UooGIuVmL",
       "appleId": 1000510768409,
+      "subjects": [
+        "Cult-Expert",
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/04CturXs1Qwb1UooGIuVmL",
         "apple": "https://podcasts.apple.com/podcast/episode-42-cult-heavens-gate-a-biblical-ufo-cult/id1508752329?i=1000510768409"
@@ -895,6 +1077,9 @@
       "explicit": true,
       "spotifyId": "15hOUNC3FV95QAsAgsRjTe",
       "appleId": 1000510472072,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15hOUNC3FV95QAsAgsRjTe",
         "apple": "https://podcasts.apple.com/podcast/sneak-peek-patreon-exclusive-interview-dr-janja-lalich/id1508752329?i=1000510472072"
@@ -909,6 +1094,9 @@
       "explicit": true,
       "spotifyId": "2rgN42t4oBWLtblWY3KVKp",
       "appleId": 1000509815103,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rgN42t4oBWLtblWY3KVKp",
         "apple": "https://podcasts.apple.com/podcast/episode-41-cult-heavens-gate-a-biblical-ufo-cult-is-born/id1508752329?i=1000509815103"

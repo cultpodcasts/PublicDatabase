@@ -12,9 +12,7 @@
       "explicit": false,
       "youTubeId": "GSpSl9UQgWc",
       "subjects": [
-        "Providence",
-        "Jung Myung-seok",
-        "JMS"
+        "Providence"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=GSpSl9UQgWc"
@@ -30,8 +28,7 @@
       "youTubeId": "WKYhDKCm1Io",
       "subjects": [
         "Providence",
-        "Jung Myung-seok",
-        "JMS"
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=WKYhDKCm1Io"
@@ -45,6 +42,9 @@
       "duration": "00:32:04",
       "explicit": false,
       "youTubeId": "d0-ustkfE9w",
+      "subjects": [
+        "Divine Truth"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=d0-ustkfE9w"
       }

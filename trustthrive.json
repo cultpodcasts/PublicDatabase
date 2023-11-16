@@ -13,6 +13,9 @@
       "explicit": false,
       "spotifyId": "7wv6iqNhFXOeMhDGTMKyDG",
       "appleId": 1000634234567,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7wv6iqNhFXOeMhDGTMKyDG",
         "apple": "https://podcasts.apple.com/podcast/224-religious-trauma-cult-abuse-recovery-with-dr/id1440223708?i=1000634234567"

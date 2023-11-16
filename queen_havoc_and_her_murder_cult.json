@@ -14,7 +14,7 @@
       "spotifyId": "1BLjAOWcsBlcNqxYosXjhW",
       "appleId": 1000623794583,
       "subjects": [
-        "Cecilia Steyn"
+        "Electus per Deus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1BLjAOWcsBlcNqxYosXjhW",
@@ -31,7 +31,7 @@
       "spotifyId": "5ge9bUIrjx2FWjvxnauorB",
       "appleId": 1000622240006,
       "subjects": [
-        "Cecilia Steyn"
+        "Electus per Deus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ge9bUIrjx2FWjvxnauorB",
@@ -48,7 +48,7 @@
       "spotifyId": "16v9Hd0Eo65KHA3OcqqLWZ",
       "appleId": 1000621512838,
       "subjects": [
-        "Cecilia Steyn"
+        "Electus per Deus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/16v9Hd0Eo65KHA3OcqqLWZ",
@@ -64,6 +64,9 @@
       "explicit": true,
       "spotifyId": "7ve0IRnSRnMMTpo5NaYn0l",
       "appleId": 1000620740001,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ve0IRnSRnMMTpo5NaYn0l",
         "apple": "https://podcasts.apple.com/podcast/episode-8-vile-hearts/id1689144145?i=1000620740001"
@@ -78,6 +81,9 @@
       "explicit": true,
       "spotifyId": "6ggiybQDQTrhovghbFrSt3",
       "appleId": 1000619223861,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ggiybQDQTrhovghbFrSt3",
         "apple": "https://podcasts.apple.com/podcast/episode-7-abhorrent-behavior/id1689144145?i=1000619223861"
@@ -92,6 +98,9 @@
       "explicit": true,
       "spotifyId": "6W1EvZBwJfCwCP8pUuqckr",
       "appleId": 1000618468126,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6W1EvZBwJfCwCP8pUuqckr",
         "apple": "https://podcasts.apple.com/podcast/episode-6-house-of-cards/id1689144145?i=1000618468126"
@@ -106,6 +115,9 @@
       "explicit": true,
       "spotifyId": "738oX9F4x0zxAGF8vZaMrC",
       "appleId": 1000617668637,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/738oX9F4x0zxAGF8vZaMrC",
         "apple": "https://podcasts.apple.com/podcast/episode-5-never-can-you-run/id1689144145?i=1000617668637"
@@ -120,6 +132,9 @@
       "explicit": true,
       "spotifyId": "7vm63Q6p2kqTsRVwvueS8K",
       "appleId": 1000616785060,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vm63Q6p2kqTsRVwvueS8K",
         "apple": "https://podcasts.apple.com/podcast/episode-4-evil-ever-after/id1689144145?i=1000616785060"
@@ -134,6 +149,9 @@
       "explicit": true,
       "spotifyId": "7jIqPrr6belFSv3Ew4lkGm",
       "appleId": 1000615828719,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jIqPrr6belFSv3Ew4lkGm",
         "apple": "https://podcasts.apple.com/podcast/episode-3-eyes-of-a-killer/id1689144145?i=1000615828719"
@@ -148,6 +166,9 @@
       "explicit": true,
       "spotifyId": "0gtlm7smJYTaAMHAYCRrRX",
       "appleId": 1000614962928,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gtlm7smJYTaAMHAYCRrRX",
         "apple": "https://podcasts.apple.com/podcast/episode-1-queen-in-the-making/id1689144145?i=1000614962928"
@@ -162,6 +183,9 @@
       "explicit": true,
       "spotifyId": "1e6qHzwq8lwMGGfb9pvXzE",
       "appleId": 1000614963150,
+      "subjects": [
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1e6qHzwq8lwMGGfb9pvXzE",
         "apple": "https://podcasts.apple.com/podcast/episode-2-under-satans-hammer/id1689144145?i=1000614963150"
@@ -176,6 +200,10 @@
       "explicit": false,
       "spotifyId": "7tvzntnaOzAGaQM1Am53K2",
       "appleId": 1000614079718,
+      "subjects": [
+        "Manson Family",
+        "Electus per Deus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7tvzntnaOzAGaQM1Am53K2",
         "apple": "https://podcasts.apple.com/podcast/introducing-queen-havoc-and-her-murder-cult/id1689144145?i=1000614079718"

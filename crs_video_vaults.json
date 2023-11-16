@@ -11,6 +11,12 @@
       "duration": "00:01:32",
       "explicit": false,
       "youTubeId": "FWnYaILJ9vE",
+      "subjects": [
+        "Ireland",
+        "Unification Church",
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=FWnYaILJ9vE"
       }
@@ -23,6 +29,9 @@
       "duration": "00:01:39",
       "explicit": false,
       "youTubeId": "IY51kCN6oTk",
+      "subjects": [
+        "Ireland"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=IY51kCN6oTk"
       }

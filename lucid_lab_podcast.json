@@ -13,6 +13,9 @@
       "explicit": true,
       "spotifyId": "5vfIwzMO145gkTnCimBHry",
       "appleId": 1000633991077,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5vfIwzMO145gkTnCimBHry",
         "apple": "https://podcasts.apple.com/podcast/e32-heavens-gate-marshall-applewhite-and-bonnie/id1684133202?i=1000633991077"
@@ -27,6 +30,10 @@
       "explicit": true,
       "spotifyId": "1PhYbAK8L8zpSkYzSeLTMr",
       "appleId": 1000626800786,
+      "subjects": [
+        "Family Cult",
+        "Santiniketan Park Association"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1PhYbAK8L8zpSkYzSeLTMr",
         "apple": "https://podcasts.apple.com/podcast/e23-the-family-cult-australias-infamous-anne-hamilton/id1684133202?i=1000626800786"

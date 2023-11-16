@@ -13,6 +13,10 @@
       "explicit": false,
       "spotifyId": "3vvpCkbYn7lScJmksb8nCi",
       "appleId": 1000634353832,
+      "subjects": [
+        "Twin Flames Universe",
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vvpCkbYn7lScJmksb8nCi",
         "apple": "https://podcasts.apple.com/podcast/alice-hines-desperately-seeking-answers/id1703268205?i=1000634353832"
@@ -27,6 +31,9 @@
       "explicit": false,
       "spotifyId": "6p57F1mMPeCuwYcHVsIgLM",
       "appleId": 1000632851629,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6p57F1mMPeCuwYcHVsIgLM",
         "apple": "https://podcasts.apple.com/podcast/mia-donovan-documentary-filmmaker/id1703268205?i=1000632851629"
@@ -41,6 +48,9 @@
       "explicit": true,
       "spotifyId": "4qfSxp8tXdGnmJjlkeHDTl",
       "appleId": 1000631057879,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qfSxp8tXdGnmJjlkeHDTl",
         "apple": "https://podcasts.apple.com/podcast/hoyt-richards-its-not-your-fault/id1703268205?i=1000631057879"
@@ -55,6 +65,9 @@
       "explicit": true,
       "spotifyId": "3MJy8RTov688xqyNmw3RGd",
       "appleId": 1000629606852,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3MJy8RTov688xqyNmw3RGd",
         "apple": "https://podcasts.apple.com/podcast/jason-suran-credit-the-con/id1703268205?i=1000629606852"
@@ -69,6 +82,9 @@
       "explicit": true,
       "spotifyId": "31j3rYNqlhG3LccsB0kySI",
       "appleId": 1000628541173,
+      "subjects": [
+        "La Luz Del Mundo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31j3rYNqlhG3LccsB0kySI",
         "apple": "https://podcasts.apple.com/podcast/sochil-martin-survivor-and-whistleblower/id1703268205?i=1000628541173"
@@ -84,7 +100,7 @@
       "spotifyId": "4mzLPydUZQQtk5mUaReGWF",
       "appleId": 1000624895764,
       "subjects": [
-        "NXIVM"
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mzLPydUZQQtk5mUaReGWF",

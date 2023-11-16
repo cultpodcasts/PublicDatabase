@@ -15,6 +15,10 @@
       "spotifyId": "0NDkPF5izZzD8MGAHrR9PF",
       "appleId": 1000633657728,
       "youTubeId": "5POAbko5r6w",
+      "subjects": [
+        "Cult-Expert",
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0NDkPF5izZzD8MGAHrR9PF",
         "apple": "https://podcasts.apple.com/podcast/the-psychology-of-manipulation-unpacking-trumps/id1507685680?i=1000633657728",

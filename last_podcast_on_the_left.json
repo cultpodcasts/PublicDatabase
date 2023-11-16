@@ -13,6 +13,9 @@
       "explicit": true,
       "spotifyId": "1kiNVC4GvxLoo56YNjYnNq",
       "appleId": 1000602769722,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1kiNVC4GvxLoo56YNjYnNq",
         "apple": "https://podcasts.apple.com/podcast/episode-524-david-miscavige-part-iii-top-gun/id437299706?i=1000602769722"
@@ -27,6 +30,9 @@
       "explicit": true,
       "spotifyId": "6OakjUlPIgIKKNWnjDe1s4",
       "appleId": 1000601519972,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6OakjUlPIgIKKNWnjDe1s4",
         "apple": "https://podcasts.apple.com/podcast/episode-523-david-miscavige-part-ii-a-convenient-belief/id437299706?i=1000601519972"
@@ -41,6 +47,9 @@
       "explicit": true,
       "spotifyId": "2hLx8PUXgNaMJqFaDsoZle",
       "appleId": 1000600290541,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2hLx8PUXgNaMJqFaDsoZle",
         "apple": "https://podcasts.apple.com/podcast/episode-522-david-miscavige-part-i-scientology-reborn/id437299706?i=1000600290541"
@@ -55,6 +64,9 @@
       "explicit": true,
       "spotifyId": "47OrsUNRjBXYETvZ6QED53",
       "appleId": 1000556698389,
+      "subjects": [
+        "Glenn Helzer"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/47OrsUNRjBXYETvZ6QED53",
         "apple": "https://podcasts.apple.com/podcast/episode-490-the-children-of-thunder-part-ii-yada-yada-yada/id437299706?i=1000556698389"
@@ -69,6 +81,9 @@
       "explicit": true,
       "spotifyId": "1AmdsnkWWfph8VqbHJ5bEj",
       "appleId": 1000555989291,
+      "subjects": [
+        "Glenn Helzer"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1AmdsnkWWfph8VqbHJ5bEj",
         "apple": "https://podcasts.apple.com/podcast/episode-489-the-children-of-thunder-part-i-thats-not-gritz/id437299706?i=1000555989291"
@@ -83,6 +98,9 @@
       "explicit": true,
       "spotifyId": "1IJmpC9VrnPtsKtNLp8MHG",
       "appleId": 1000549630076,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1IJmpC9VrnPtsKtNLp8MHG",
         "apple": "https://podcasts.apple.com/podcast/episode-436-roch-th%C3%A9riault-the-ant-hill-kids-part-iii/id437299706?i=1000549630076"
@@ -97,6 +115,9 @@
       "explicit": true,
       "spotifyId": "3rLoIOMjSAV1r8SklybpST",
       "appleId": 1000549629964,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3rLoIOMjSAV1r8SklybpST",
         "apple": "https://podcasts.apple.com/podcast/episode-435-roch-th%C3%A9riault-the-ant-hill-kids-part-ii/id437299706?i=1000549629964"
@@ -111,6 +132,9 @@
       "explicit": true,
       "spotifyId": "3ibzX7GL5SXArTxQW8Nkrc",
       "appleId": 1000549630074,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ibzX7GL5SXArTxQW8Nkrc",
         "apple": "https://podcasts.apple.com/podcast/episode-434-roch-th%C3%A9riault-the-ant-hill-kids-part-i/id437299706?i=1000549630074"
@@ -125,6 +149,9 @@
       "explicit": true,
       "spotifyId": "1jNhUc0ywWUEV2KtRiFhnA",
       "appleId": 1000549629966,
+      "subjects": [
+        "Adolfo Constanzo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jNhUc0ywWUEV2KtRiFhnA",
         "apple": "https://podcasts.apple.com/podcast/episode-432-adolfo-constanzo-part-iii-tossed-salad/id437299706?i=1000549629966"
@@ -139,6 +166,9 @@
       "explicit": true,
       "spotifyId": "7hTgC8qqKJFjffvueTeQF9",
       "appleId": 1000549629902,
+      "subjects": [
+        "Adolfo Constanzo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hTgC8qqKJFjffvueTeQF9",
         "apple": "https://podcasts.apple.com/podcast/episode-431-adolfo-constanzo-part-ii-el-doobies-revenge/id437299706?i=1000549629902"
@@ -153,6 +183,9 @@
       "explicit": true,
       "spotifyId": "1mH0FItvN3bJcglSyDpWAI",
       "appleId": 1000549629903,
+      "subjects": [
+        "Adolfo Constanzo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mH0FItvN3bJcglSyDpWAI",
         "apple": "https://podcasts.apple.com/podcast/episode-430-adolfo-constanzo-part-i-room-of-the-dead/id437299706?i=1000549629903"
@@ -167,6 +200,9 @@
       "explicit": true,
       "spotifyId": "6t61uqyrLlp1TRVQ43E9Uv",
       "appleId": 1000549630081,
+      "subjects": [
+        "Manson Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6t61uqyrLlp1TRVQ43E9Uv",
         "apple": "https://podcasts.apple.com/podcast/episode-422-the-1971-manson-family-western-surplus/id437299706?i=1000549630081"
@@ -181,6 +217,9 @@
       "explicit": true,
       "spotifyId": "6ThM3GXn9CLwtc4W8n0Mkn",
       "appleId": 1000464290418,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ThM3GXn9CLwtc4W8n0Mkn",
         "apple": "https://podcasts.apple.com/podcast/episode-399-heavens-gate-part-iii-burrito-heaven/id437299706?i=1000464290418"
@@ -195,6 +234,9 @@
       "explicit": true,
       "spotifyId": "6WbUIOVtx9xqBFzHZsZFSR",
       "appleId": 1000462968222,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6WbUIOVtx9xqBFzHZsZFSR",
         "apple": "https://podcasts.apple.com/podcast/episode-397-heavens-gate-part-i-a-cabo-or-a-wabo/id437299706?i=1000462968222"
@@ -209,6 +251,9 @@
       "explicit": true,
       "spotifyId": "2yBZn2TV6cjxLRvESOYGgk",
       "appleId": 1000452452974,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2yBZn2TV6cjxLRvESOYGgk",
         "apple": "https://podcasts.apple.com/podcast/episode-385-mormonism-part-vi-x-men-cult-edition/id437299706?i=1000452452974"
@@ -223,6 +268,9 @@
       "explicit": true,
       "spotifyId": "39ApesDQ9ImQRjPa6PRlrZ",
       "appleId": 1000451516981,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/39ApesDQ9ImQRjPa6PRlrZ",
         "apple": "https://podcasts.apple.com/podcast/episode-384-mormonism-part-v-king-of-beaver-island/id437299706?i=1000451516981"
@@ -237,6 +285,9 @@
       "explicit": true,
       "spotifyId": "27sap5i6yZPGM71Few8bsl",
       "appleId": 1000449748074,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/27sap5i6yZPGM71Few8bsl",
         "apple": "https://podcasts.apple.com/podcast/episode-382-mormonism-part-iv-i-invented-this-scam/id437299706?i=1000449748074"
@@ -251,6 +302,9 @@
       "explicit": true,
       "spotifyId": "0zdxjwmYvjStbWzLvC0Z54",
       "appleId": 1000448265736,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zdxjwmYvjStbWzLvC0Z54",
         "apple": "https://podcasts.apple.com/podcast/episode-380-mormonism-part-iii-the-level-of-leakage/id437299706?i=1000448265736"
@@ -265,6 +319,9 @@
       "explicit": true,
       "spotifyId": "1wkzK0h8HjRfQttqcgLKG3",
       "appleId": 1000447675019,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1wkzK0h8HjRfQttqcgLKG3",
         "apple": "https://podcasts.apple.com/podcast/episode-379-mormonism-part-ii-im-in-the-bible-now/id437299706?i=1000447675019"
@@ -279,6 +336,9 @@
       "explicit": true,
       "spotifyId": "5jYkKeJAfKtNBnM9UD1GnI",
       "appleId": 1000447086632,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5jYkKeJAfKtNBnM9UD1GnI",
         "apple": "https://podcasts.apple.com/podcast/episode-378-mormonism-part-i-when-youre-here-youre-family/id437299706?i=1000447086632"
@@ -293,6 +353,9 @@
       "explicit": true,
       "spotifyId": "3vrjn8rauOmbdKGmfjn11M",
       "appleId": 1000424909082,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vrjn8rauOmbdKGmfjn11M",
         "apple": "https://podcasts.apple.com/podcast/episode-342-the-order-of-the-solar-temple-part-ii/id437299706?i=1000424909082"
@@ -307,6 +370,9 @@
       "explicit": true,
       "spotifyId": "6CBeSaagPeyMLz4N1y1I1h",
       "appleId": 1000383416742,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CBeSaagPeyMLz4N1y1I1h",
         "apple": "https://podcasts.apple.com/podcast/episode-264-l-ron-hubbard-part-iv-sea-org/id437299706?i=1000383416742"
@@ -321,6 +387,9 @@
       "explicit": true,
       "spotifyId": "0DVweEZTI64Zgmtsy0dwdK",
       "appleId": 1000383035016,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0DVweEZTI64Zgmtsy0dwdK",
         "apple": "https://podcasts.apple.com/podcast/episode-263-l-ron-hubbard-part-iii-scientology-begins/id437299706?i=1000383035016"
@@ -335,6 +404,9 @@
       "explicit": true,
       "spotifyId": "4lYBiOuovRhBsHN6OIeKGT",
       "appleId": 1000382669236,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4lYBiOuovRhBsHN6OIeKGT",
         "apple": "https://podcasts.apple.com/podcast/episode-262-l-ron-hubbard-part-ii-dianetics/id437299706?i=1000382669236"
@@ -349,6 +421,9 @@
       "explicit": true,
       "spotifyId": "7CYAjbccjf9MGstS7G4Bl1",
       "appleId": 1000382431251,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CYAjbccjf9MGstS7G4Bl1",
         "apple": "https://podcasts.apple.com/podcast/episode-261-l-ron-hubbard-part-i-grub-hubbard/id437299706?i=1000382431251"
@@ -363,6 +438,9 @@
       "explicit": true,
       "spotifyId": "4OjnqXSjCtBuE4u812BHBA",
       "appleId": 1000367404163,
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4OjnqXSjCtBuE4u812BHBA",
         "apple": "https://podcasts.apple.com/podcast/episode-221-aum-shinrikyo-part-iv-a-billionaires-testicles/id437299706?i=1000367404163"
@@ -377,6 +455,9 @@
       "explicit": true,
       "spotifyId": "45K3MBm6bUeRZcL2YYGNlb",
       "appleId": 1000366768269,
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/45K3MBm6bUeRZcL2YYGNlb",
         "apple": "https://podcasts.apple.com/podcast/episode-220-aum-shinrikyo-part-iii-the-soldiers-of/id437299706?i=1000366768269"
@@ -391,6 +472,9 @@
       "explicit": true,
       "spotifyId": "1Ikesefn2zkxqS3tcgUH0x",
       "appleId": 1000366409746,
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Ikesefn2zkxqS3tcgUH0x",
         "apple": "https://podcasts.apple.com/podcast/episode-219-aum-shinrikyo-part-ii-the-bitter-cookie/id437299706?i=1000366409746"

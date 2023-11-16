@@ -12,6 +12,9 @@
       "duration": "00:46:27.0820000",
       "explicit": false,
       "spotifyId": "7KJpXHfmYH7jp96kQSF7wr",
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7KJpXHfmYH7jp96kQSF7wr"
       }
@@ -39,6 +42,9 @@
       "explicit": false,
       "spotifyId": "4JOpGnaxdQA0WrzP4vEJY8",
       "appleId": 1000609699828,
+      "subjects": [
+        "Evangelicalism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4JOpGnaxdQA0WrzP4vEJY8",
         "apple": "https://podcasts.apple.com/podcast/jesus-v-evangelicals/id1470242499?i=1000609699828"
@@ -53,6 +59,9 @@
       "explicit": false,
       "spotifyId": "4rtiEHlHmbNTH8IIkWkShV",
       "appleId": 1000602195616,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4rtiEHlHmbNTH8IIkWkShV",
         "apple": "https://podcasts.apple.com/podcast/understanding-overcoming-spiritual-abuse-part-ii/id1470242499?i=1000602195616"
@@ -67,6 +76,9 @@
       "explicit": false,
       "spotifyId": "5kz6aVJiXsvTzJ7CZAugZd",
       "appleId": 1000601316178,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5kz6aVJiXsvTzJ7CZAugZd",
         "apple": "https://podcasts.apple.com/podcast/understanding-overcoming-spiritual-abuse/id1470242499?i=1000601316178"
@@ -95,6 +107,9 @@
       "explicit": false,
       "spotifyId": "6WbXDEVzPj1bPBh8Daqlw7",
       "appleId": 1000594994393,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6WbXDEVzPj1bPBh8Daqlw7",
         "apple": "https://podcasts.apple.com/podcast/escaping-healing-from-abusive-churches/id1470242499?i=1000594994393"

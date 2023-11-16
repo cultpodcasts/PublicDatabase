@@ -13,23 +13,12 @@
       "explicit": true,
       "spotifyId": "3uIYZFvWEvqIbGCS4Oz6mY",
       "appleId": 1000629876826,
+      "subjects": [
+        "James Arthur Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uIYZFvWEvqIbGCS4Oz6mY",
         "apple": "https://podcasts.apple.com/podcast/where-to-find-episodes-2-6-of-guru/id1518839824?i=1000629876826"
-      }
-    },
-    {
-      "id": "045a98d2-e07b-4ab0-b3ee-60d9372a031c",
-      "title": "Spiritual Warriors",
-      "description": "Ginny and her daughter Kirby attend an event featuring self-help superstar James Arthur Ray. Ginny has some concerns about him, but Kirby is drawn in. She spends her life savings to travel for a week-long event in the desert. But when things turn deadly, Ginny is left to figure out what went wrong.Listen exclusively with Wondery\u002B. Start your free trial at wonderyplus.comSupport the show by supporting our sponsors!See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
-      "release": "2020-07-01T07:05:00Z",
-      "duration": "00:39:00.7020000",
-      "explicit": true,
-      "spotifyId": "0zWtQSCwrssITWB0gwXxjY",
-      "appleId": 1000480903618,
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/0zWtQSCwrssITWB0gwXxjY",
-        "apple": "https://podcasts.apple.com/podcast/spiritual-warriors/id1518839824?i=1000480903618"
       }
     },
     {
@@ -41,6 +30,9 @@
       "explicit": true,
       "spotifyId": "2rXa45jhAiqmQu0bMclvj9",
       "appleId": 1000478197191,
+      "subjects": [
+        "James Arthur Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rXa45jhAiqmQu0bMclvj9",
         "apple": "https://podcasts.apple.com/podcast/introducing-guru/id1518839824?i=1000478197191"

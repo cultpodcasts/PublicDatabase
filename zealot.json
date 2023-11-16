@@ -27,6 +27,9 @@
       "explicit": false,
       "spotifyId": "0U4zWvXFsfoFpWslm7gGXq",
       "appleId": 1000499757623,
+      "subjects": [
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0U4zWvXFsfoFpWslm7gGXq",
         "apple": "https://podcasts.apple.com/podcast/zealot-47-donald-trump-with-matt-bevan/id1245635983?i=1000499757623"
@@ -41,6 +44,9 @@
       "explicit": false,
       "spotifyId": "6ewljM4CF0uXyGQsITafCe",
       "appleId": 1000497774791,
+      "subjects": [
+        "Hare Krishnas"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ewljM4CF0uXyGQsITafCe",
         "apple": "https://podcasts.apple.com/podcast/zealot-46-keith-ham-with-josh-dean/id1245635983?i=1000497774791"
@@ -55,6 +61,9 @@
       "explicit": false,
       "spotifyId": "4piHCONA3689LxVaRCERgX",
       "appleId": 1000493657555,
+      "subjects": [
+        "Doc Antle"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4piHCONA3689LxVaRCERgX",
         "apple": "https://podcasts.apple.com/podcast/zealot-45-doc-antle-with-paul-verhoeven/id1245635983?i=1000493657555"
@@ -69,6 +78,9 @@
       "explicit": false,
       "spotifyId": "5NDbXTB0RRTu81QeBW2b7d",
       "appleId": 1000489537649,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5NDbXTB0RRTu81QeBW2b7d",
         "apple": "https://podcasts.apple.com/podcast/zealot-44-lawrence-ray-with-rhys-nicholson/id1245635983?i=1000489537649"
@@ -83,6 +95,9 @@
       "explicit": false,
       "spotifyId": "7aWja8tGiFGBh3YAxtzvH3",
       "appleId": 1000486853582,
+      "subjects": [
+        "Buddhafield"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7aWja8tGiFGBh3YAxtzvH3",
         "apple": "https://podcasts.apple.com/podcast/zealot-43-the-buddhafield-with-marieke-hardy/id1245635983?i=1000486853582"
@@ -111,6 +126,9 @@
       "explicit": false,
       "spotifyId": "2QAnvTQkrlwc3HObtJGtHt",
       "appleId": 1000474786104,
+      "subjects": [
+        "Remnant Fellowship"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2QAnvTQkrlwc3HObtJGtHt",
         "apple": "https://podcasts.apple.com/podcast/zealot-40-gwen-shamblin-with-yvie-jones/id1245635983?i=1000474786104"
@@ -125,6 +143,9 @@
       "explicit": false,
       "spotifyId": "0Ifz0RQrpzaXXrwUWKP7H0",
       "appleId": 1000472974412,
+      "subjects": [
+        "Manson Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Ifz0RQrpzaXXrwUWKP7H0",
         "apple": "https://podcasts.apple.com/podcast/zealot-39-the-manson-family-with-lauren-bonner/id1245635983?i=1000472974412"
@@ -139,6 +160,9 @@
       "explicit": false,
       "spotifyId": "6l1RIyQlRwd7UWTIRNMwV3",
       "appleId": 1000471657189,
+      "subjects": [
+        "Jared Leto"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6l1RIyQlRwd7UWTIRNMwV3",
         "apple": "https://podcasts.apple.com/podcast/zealot-38-jared-leto-with-rose-callaghan/id1245635983?i=1000471657189"
@@ -153,6 +177,9 @@
       "explicit": false,
       "spotifyId": "1mjhrnuyIOPjsac4yGf251",
       "appleId": 1000470771689,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mjhrnuyIOPjsac4yGf251",
         "apple": "https://podcasts.apple.com/podcast/zealot-37-teal-swan-with-brianna-williams/id1245635983?i=1000470771689"
@@ -167,6 +194,9 @@
       "explicit": false,
       "spotifyId": "2FEe0vm6PssOI1UDkYPrQq",
       "appleId": 1000457331788,
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2FEe0vm6PssOI1UDkYPrQq",
         "apple": "https://podcasts.apple.com/podcast/zealot-36-westboro-baptist-church-with-alex-jae/id1245635983?i=1000457331788"
@@ -195,6 +225,9 @@
       "explicit": false,
       "spotifyId": "2Dk5k6xV24BLJvjCQ45ilm",
       "appleId": 1000453294291,
+      "subjects": [
+        "Grace Road Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Dk5k6xV24BLJvjCQ45ilm",
         "apple": "https://podcasts.apple.com/podcast/zealot-34-grace-road-church-with-rob-stott/id1245635983?i=1000453294291"
@@ -209,6 +242,9 @@
       "explicit": false,
       "spotifyId": "2IBlV0otEtSeTYd4LdLQ5P",
       "appleId": 1000449838375,
+      "subjects": [
+        "Oneida Community"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2IBlV0otEtSeTYd4LdLQ5P",
         "apple": "https://podcasts.apple.com/podcast/zealot-33-oneida-with-lucas-brown/id1245635983?i=1000449838375"
@@ -223,6 +259,9 @@
       "explicit": false,
       "spotifyId": "2kctd96bWl4iawRTjmO1hw",
       "appleId": 1000447106035,
+      "subjects": [
+        "Universal Medicine"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2kctd96bWl4iawRTjmO1hw",
         "apple": "https://podcasts.apple.com/podcast/zealot-32-universal-medicine-with-alison-piotrowski/id1245635983?i=1000447106035"
@@ -237,6 +276,9 @@
       "explicit": false,
       "spotifyId": "1uLmIdbbgpMPOHz9toLcQv",
       "appleId": 1000444945912,
+      "subjects": [
+        "DeVernon LeGrand"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1uLmIdbbgpMPOHz9toLcQv",
         "apple": "https://podcasts.apple.com/podcast/zealot-31-devernon-legrand-with-jeremy-davidson/id1245635983?i=1000444945912"
@@ -265,6 +307,9 @@
       "explicit": false,
       "spotifyId": "2lllfQOPdr05NvR1WMJukW",
       "appleId": 1000440040483,
+      "subjects": [
+        "The Source Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2lllfQOPdr05NvR1WMJukW",
         "apple": "https://podcasts.apple.com/podcast/zealot-29-the-source-family-with-simone-holtznagel/id1245635983?i=1000440040483"
@@ -293,6 +338,9 @@
       "explicit": false,
       "spotifyId": "38u5TCxYzOjWdS2UIbZWZQ",
       "appleId": 1000433317350,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/38u5TCxYzOjWdS2UIbZWZQ",
         "apple": "https://podcasts.apple.com/podcast/zealot-27-nxivm-with-brock-wilbur/id1245635983?i=1000433317350"
@@ -307,6 +355,9 @@
       "explicit": false,
       "spotifyId": "5LZkCwZp71WF9SmXWWvebS",
       "appleId": 1000431912868,
+      "subjects": [
+        "Order of St Charbel"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5LZkCwZp71WF9SmXWWvebS",
         "apple": "https://podcasts.apple.com/podcast/zealot-26-the-little-pebble-with-dan-ilic/id1245635983?i=1000431912868"
@@ -335,6 +386,9 @@
       "explicit": false,
       "spotifyId": "3HUE6YsfGCFth2MbxfNuXq",
       "appleId": 1000423382906,
+      "subjects": [
+        "Synanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3HUE6YsfGCFth2MbxfNuXq",
         "apple": "https://podcasts.apple.com/podcast/zealot-24-synanon-with-myf-warhurst/id1245635983?i=1000423382906"
@@ -349,6 +403,9 @@
       "explicit": false,
       "spotifyId": "6bs290llJ2kJsC1TVl5lGh",
       "appleId": 1000422265379,
+      "subjects": [
+        "Twelve Tribes"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bs290llJ2kJsC1TVl5lGh",
         "apple": "https://podcasts.apple.com/podcast/zealot-23-twelve-tribes-with-bec-charlwood/id1245635983?i=1000422265379"
@@ -363,6 +420,9 @@
       "explicit": false,
       "spotifyId": "6Gi6ubgl7ag3FAcDritIGV",
       "appleId": 1000420573282,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Gi6ubgl7ag3FAcDritIGV",
         "apple": "https://podcasts.apple.com/podcast/zealot-22-order-of-the-solar-temple-with-bec-shaw/id1245635983?i=1000420573282"
@@ -377,6 +437,9 @@
       "explicit": false,
       "spotifyId": "7bY42ChF5ahdEoGIFYJJ51",
       "appleId": 1000419595411,
+      "subjects": [
+        "Universe People"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7bY42ChF5ahdEoGIFYJJ51",
         "apple": "https://podcasts.apple.com/podcast/zealot-21-universe-people-with-patrick-lenton/id1245635983?i=1000419595411"
@@ -391,6 +454,9 @@
       "explicit": false,
       "spotifyId": "0aCYa4MpmqnhoDVZUyjrr0",
       "appleId": 1000417791006,
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0aCYa4MpmqnhoDVZUyjrr0",
         "apple": "https://podcasts.apple.com/podcast/zealot-20-tony-alamo-with-adam-richard/id1245635983?i=1000417791006"
@@ -405,6 +471,9 @@
       "explicit": false,
       "spotifyId": "7b0PTuLF7Vo8NVaiGjWsRQ",
       "appleId": 1000416770661,
+      "subjects": [
+        "House of David (commune)"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7b0PTuLF7Vo8NVaiGjWsRQ",
         "apple": "https://podcasts.apple.com/podcast/zealot-19-house-of-david-with-colin-delaney/id1245635983?i=1000416770661"
@@ -419,6 +488,9 @@
       "explicit": false,
       "spotifyId": "5IbYTA6u6vtqeSPAPvIj2P",
       "appleId": 1000414991673,
+      "subjects": [
+        "FLDS Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5IbYTA6u6vtqeSPAPvIj2P",
         "apple": "https://podcasts.apple.com/podcast/zealot-18-flds-with-jan-fran/id1245635983?i=1000414991673"
@@ -433,6 +505,9 @@
       "explicit": false,
       "spotifyId": "0B4qdVX2odLh6hj2O9HvmV",
       "appleId": 1000414030772,
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0B4qdVX2odLh6hj2O9HvmV",
         "apple": "https://podcasts.apple.com/podcast/zealot-17-the-family-with-shelley-stocken/id1245635983?i=1000414030772"
@@ -447,6 +522,9 @@
       "explicit": false,
       "spotifyId": "2tmm4zlBZOykTWkxLU9Mqi",
       "appleId": 1000412239621,
+      "subjects": [
+        "Unarius Academy of Science"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2tmm4zlBZOykTWkxLU9Mqi",
         "apple": "https://podcasts.apple.com/podcast/zealot-16-unarius-with-mat-whitehead/id1245635983?i=1000412239621"
@@ -461,6 +539,9 @@
       "explicit": false,
       "spotifyId": "3vsyc76h5Q6SIDA4KqIaY1",
       "appleId": 1000405745203,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vsyc76h5Q6SIDA4KqIaY1",
         "apple": "https://podcasts.apple.com/podcast/zealot-15-roch-theriault-with-dan-barrett/id1245635983?i=1000405745203"
@@ -475,6 +556,9 @@
       "explicit": false,
       "spotifyId": "1cND0DHOO7BUGaqzS2m5Hx",
       "appleId": 1000402492317,
+      "subjects": [
+        "Aggressive Christianity Missionary Training Corps"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1cND0DHOO7BUGaqzS2m5Hx",
         "apple": "https://podcasts.apple.com/podcast/zealot-14-aggressive-christianity-missions-training/id1245635983?i=1000402492317"
@@ -503,6 +587,9 @@
       "explicit": false,
       "spotifyId": "604LMTmLz55fYUEUTqTLAj",
       "appleId": 1000398556716,
+      "subjects": [
+        "Sherry Shriner"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/604LMTmLz55fYUEUTqTLAj",
         "apple": "https://podcasts.apple.com/podcast/zealot-12-sherry-shriner-with-dan-debuf/id1245635983?i=1000398556716"
@@ -517,6 +604,9 @@
       "explicit": false,
       "spotifyId": "3RN6WWidF0NKkmX9jEh1vS",
       "appleId": 1000395248168,
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3RN6WWidF0NKkmX9jEh1vS",
         "apple": "https://podcasts.apple.com/podcast/zealot-11-aum-shinrikyo-with-andrew-p-street/id1245635983?i=1000395248168"
@@ -531,6 +621,9 @@
       "explicit": false,
       "spotifyId": "37NUy5KK160UWDpTsWvzju",
       "appleId": 1000394679095,
+      "subjects": [
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37NUy5KK160UWDpTsWvzju",
         "apple": "https://podcasts.apple.com/podcast/zealot-10-branch-davidians-with-greg-morrow/id1245635983?i=1000394679095"
@@ -545,6 +638,9 @@
       "explicit": false,
       "spotifyId": "4Qhlb5Shb7CayJBIXUddRz",
       "appleId": 1000394083506,
+      "subjects": [
+        "Peoples Temple"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Qhlb5Shb7CayJBIXUddRz",
         "apple": "https://podcasts.apple.com/podcast/zealot-9-jonestown-with-lorin-pickup/id1245635983?i=1000394083506"
@@ -559,6 +655,9 @@
       "explicit": false,
       "spotifyId": "4JAJd0kA3ArJmQQEmH9nNc",
       "appleId": 1000393577208,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4JAJd0kA3ArJmQQEmH9nNc",
         "apple": "https://podcasts.apple.com/podcast/zealot-8-heavens-gate-with-russ-tainton/id1245635983?i=1000393577208"
@@ -573,6 +672,9 @@
       "explicit": false,
       "spotifyId": "3WimqLyKHdifiRTvXtDh38",
       "appleId": 1000392313691,
+      "subjects": [
+        "Colonia Dignidad"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3WimqLyKHdifiRTvXtDh38",
         "apple": "https://podcasts.apple.com/podcast/zealot-7-colonia-dignidad-with-nadine-von-cohen/id1245635983?i=1000392313691"
@@ -587,6 +689,9 @@
       "explicit": false,
       "spotifyId": "101shLkfhPQCw9m6febMBv",
       "appleId": 1000391360397,
+      "subjects": [
+        "Unification Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/101shLkfhPQCw9m6febMBv",
         "apple": "https://podcasts.apple.com/podcast/zealot-6-the-moonies-with-kerri-sackville/id1245635983?i=1000391360397"
@@ -601,6 +706,9 @@
       "explicit": false,
       "spotifyId": "4YYX0N9fxoKOGihAoFU0Y0",
       "appleId": 1000390832603,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4YYX0N9fxoKOGihAoFU0Y0",
         "apple": "https://podcasts.apple.com/podcast/zealot-5-rajneeshees-with-rachael-mogan-mcintosh/id1245635983?i=1000390832603"
@@ -629,6 +737,9 @@
       "explicit": false,
       "spotifyId": "6HGRaTAMJk3ir2GV2AJvDj",
       "appleId": 1000389658779,
+      "subjects": [
+        "Ra\u00EBlism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6HGRaTAMJk3ir2GV2AJvDj",
         "apple": "https://podcasts.apple.com/podcast/zealot-3-raelians-with-katie-jamieson/id1245635983?i=1000389658779"
@@ -643,6 +754,9 @@
       "explicit": false,
       "spotifyId": "2o7p5cf1Kqgy0PZiVFbuUE",
       "appleId": 1000389267496,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2o7p5cf1Kqgy0PZiVFbuUE",
         "apple": "https://podcasts.apple.com/podcast/zealot-2-children-of-god-with-tristan-lutze/id1245635983?i=1000389267496"
@@ -657,6 +771,9 @@
       "explicit": false,
       "spotifyId": "4oMsjRwyuZYs7pOBeHnnqm",
       "appleId": 1000386258842,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4oMsjRwyuZYs7pOBeHnnqm",
         "apple": "https://podcasts.apple.com/podcast/zealot-1-scientology-with-jacqui-kassulke/id1245635983?i=1000386258842"

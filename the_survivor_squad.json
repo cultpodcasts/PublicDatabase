@@ -13,6 +13,10 @@
       "explicit": false,
       "spotifyId": "1hWYvG78ru8YTtOQvyMlw3",
       "appleId": 1000631227318,
+      "subjects": [
+        "Multi-Level Marketing",
+        "LuLaRoe"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1hWYvG78ru8YTtOQvyMlw3",
         "apple": "https://podcasts.apple.com/podcast/part-ii-the-cult-of-lularoe-w-roberta-blevins/id1684990477?i=1000631227318"
@@ -27,6 +31,10 @@
       "explicit": false,
       "spotifyId": "15KlqT6kCHyQ9TWd7h31F2",
       "appleId": 1000631099572,
+      "subjects": [
+        "Multi-Level Marketing",
+        "LuLaRoe"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15KlqT6kCHyQ9TWd7h31F2",
         "apple": "https://podcasts.apple.com/podcast/part-1-the-cult-of-lularoe-w-roberta-blevins/id1684990477?i=1000631099572"
@@ -41,6 +49,9 @@
       "explicit": false,
       "spotifyId": "4ZPrBILo3XXWiTVcLnCEP7",
       "appleId": 1000622646666,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ZPrBILo3XXWiTVcLnCEP7",
         "apple": "https://podcasts.apple.com/podcast/part-ii-piercing-the-vow-with-mark-vicente/id1684990477?i=1000622646666"
@@ -55,6 +66,9 @@
       "explicit": false,
       "spotifyId": "2cuJvEw79oXR1goKsCOKcC",
       "appleId": 1000622557873,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2cuJvEw79oXR1goKsCOKcC",
         "apple": "https://podcasts.apple.com/podcast/part-i-piercing-the-vow-w-mark-vicente/id1684990477?i=1000622557873"
@@ -69,6 +83,9 @@
       "explicit": false,
       "spotifyId": "3uFmKRcHx9vjbSNGczEuPS",
       "appleId": 1000619882915,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uFmKRcHx9vjbSNGczEuPS",
         "apple": "https://podcasts.apple.com/podcast/part-ii-navigating-narcissism-w-dr-ramani/id1684990477?i=1000619882915"
@@ -83,6 +100,9 @@
       "explicit": false,
       "spotifyId": "6lsgt1KEPLuHchkmvedpwV",
       "appleId": 1000619564738,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6lsgt1KEPLuHchkmvedpwV",
         "apple": "https://podcasts.apple.com/podcast/part-i-navigating-narcissism-w-dr-ramani/id1684990477?i=1000619564738"

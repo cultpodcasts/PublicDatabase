@@ -14,7 +14,6 @@
       "spotifyId": "5xWt2psiPR7R5u9P8SDPk5",
       "appleId": 1000630504590,
       "subjects": [
-        "Moonies",
         "Unification Church"
       ],
       "urls": {
@@ -31,6 +30,9 @@
       "explicit": false,
       "spotifyId": "6ogyhq0CTrUE8vlApyVV2E",
       "appleId": 1000627837363,
+      "subjects": [
+        "Wim Hof Method"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ogyhq0CTrUE8vlApyVV2E",
         "apple": "https://podcasts.apple.com/podcast/part-two-wim-hofs-surprisingly-deadly-story/id1373812661?i=1000627837363"
@@ -45,6 +47,9 @@
       "explicit": false,
       "spotifyId": "5sbcWzKNjAbpt1ylfcQP6F",
       "appleId": 1000626789179,
+      "subjects": [
+        "Twelve Tribes"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5sbcWzKNjAbpt1ylfcQP6F",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-12-tribes-the-worst-cult-youve-never-heard-of/id1373812661?i=1000626789179"
@@ -59,6 +64,9 @@
       "explicit": false,
       "spotifyId": "42LWuBHpi8KTHZg4DVcFlD",
       "appleId": 1000626789179,
+      "subjects": [
+        "Twelve Tribes"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/42LWuBHpi8KTHZg4DVcFlD",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-12-tribes-the-worst-cult-youve-never-heard-of/id1373812661?i=1000626789179"
@@ -73,6 +81,9 @@
       "explicit": false,
       "spotifyId": "11vVrm0juJHlNcJvjp1CG4",
       "appleId": 1000610846639,
+      "subjects": [
+        "Yoga Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/11vVrm0juJHlNcJvjp1CG4",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-first-american-yoga-cult-leader/id1373812661?i=1000610846639"
@@ -87,6 +98,9 @@
       "explicit": false,
       "spotifyId": "2PwynWT2qV9ylLCG29xeZ8",
       "appleId": 1000610537697,
+      "subjects": [
+        "Yoga Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2PwynWT2qV9ylLCG29xeZ8",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-first-american-yoga-cult-leader/id1373812661?i=1000610537697"
@@ -101,6 +115,9 @@
       "explicit": false,
       "spotifyId": "4OnnUmE9tVt4P89UY01nUM",
       "appleId": 1000596718962,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4OnnUmE9tVt4P89UY01nUM",
         "apple": "https://podcasts.apple.com/podcast/part-four-the-andrew-tate-story/id1373812661?i=1000596718962"
@@ -115,6 +132,9 @@
       "explicit": false,
       "spotifyId": "4XaDp3gz1mgl0rjF6ZQqGS",
       "appleId": 1000596267581,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4XaDp3gz1mgl0rjF6ZQqGS",
         "apple": "https://podcasts.apple.com/podcast/part-three-the-andrew-tate-story/id1373812661?i=1000596267581"
@@ -129,6 +149,9 @@
       "explicit": false,
       "spotifyId": "0PYgiTUJLTaZcdih75YMuO",
       "appleId": 1000595413794,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0PYgiTUJLTaZcdih75YMuO",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-andrew-tate-story/id1373812661?i=1000595413794"
@@ -143,6 +166,9 @@
       "explicit": false,
       "spotifyId": "4ZRc3YthGjwo9I8zCIM78w",
       "appleId": 1000594913145,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ZRc3YthGjwo9I8zCIM78w",
         "apple": "https://podcasts.apple.com/podcast/part-one-andrew-tate-and-the-mythopoetic-mens-movement/id1373812661?i=1000594913145"
@@ -157,6 +183,9 @@
       "explicit": true,
       "spotifyId": "0cF9tw9QPlvAO3TQA6UveV",
       "appleId": 1000580291659,
+      "subjects": [
+        "Urantia Foundation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cF9tw9QPlvAO3TQA6UveV",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-racist-cult-behind-herbal-tea/id1373812661?i=1000580291659"
@@ -171,6 +200,9 @@
       "explicit": true,
       "spotifyId": "6aeW8G1qwphcFQLoRAVOaR",
       "appleId": 1000580048341,
+      "subjects": [
+        "Urantia Foundation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6aeW8G1qwphcFQLoRAVOaR",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-racist-cult-behind-herbal-tea/id1373812661?i=1000580048341"
@@ -185,6 +217,9 @@
       "explicit": true,
       "spotifyId": "7fECDu9fzWAF1M2U48oARn",
       "appleId": 1000578020509,
+      "subjects": [
+        "Theosophical Society"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7fECDu9fzWAF1M2U48oARn",
         "apple": "https://podcasts.apple.com/podcast/part-four-helena-blavatsky-the-woman-who-inspired/id1373812661?i=1000578020509"
@@ -199,6 +234,9 @@
       "explicit": true,
       "spotifyId": "1mwh2W2ofPzGsFJRck4wx9",
       "appleId": 1000577783013,
+      "subjects": [
+        "Theosophical Society"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mwh2W2ofPzGsFJRck4wx9",
         "apple": "https://podcasts.apple.com/podcast/part-three-helena-blavatsky-the-woman-who-inspired/id1373812661?i=1000577783013"
@@ -213,6 +251,9 @@
       "explicit": true,
       "spotifyId": "7IvRP1revn9BpIk0085nlk",
       "appleId": 1000577315868,
+      "subjects": [
+        "Theosophical Society"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7IvRP1revn9BpIk0085nlk",
         "apple": "https://podcasts.apple.com/podcast/part-two-helena-blavatsky-the-woman-who-inspired/id1373812661?i=1000577315868"
@@ -227,6 +268,9 @@
       "explicit": false,
       "spotifyId": "4lIh5pHCeLgjVUbCEAUTV5",
       "appleId": 1000577078281,
+      "subjects": [
+        "Theosophical Society"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4lIh5pHCeLgjVUbCEAUTV5",
         "apple": "https://podcasts.apple.com/podcast/part-one-helena-blavatsky-the-woman-who-inspired/id1373812661?i=1000577078281"
@@ -241,6 +285,9 @@
       "explicit": true,
       "spotifyId": "4pyxNFLAaZaAU9i5rt3wKR",
       "appleId": 1000553541805,
+      "subjects": [
+        "Unification Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4pyxNFLAaZaAU9i5rt3wKR",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-moonies-are-so-much-worse-than-you-could/id1373812661?i=1000553541805"
@@ -255,6 +302,9 @@
       "explicit": true,
       "spotifyId": "3fP4bufgSax8mZtnkPFaaG",
       "appleId": 1000553289679,
+      "subjects": [
+        "Unification Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3fP4bufgSax8mZtnkPFaaG",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-moonies-are-so-much-worse-than-you-could/id1373812661?i=1000553289679"
@@ -269,6 +319,9 @@
       "explicit": true,
       "spotifyId": "58Tuo1gQc8OEG0IyokbCCN",
       "appleId": 1000539989215,
+      "subjects": [
+        "Colonia Dignidad"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58Tuo1gQc8OEG0IyokbCCN",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-nazi-pedophile-cult-leader-who-murdered/id1373812661?i=1000539989215"
@@ -283,6 +336,10 @@
       "explicit": true,
       "spotifyId": "38ytWeM2DON03BngaBI757",
       "appleId": 1000539750067,
+      "subjects": [
+        "Peoples Temple",
+        "Colonia Dignidad"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/38ytWeM2DON03BngaBI757",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-nazi-pedophile-cult-leader-who-murdered/id1373812661?i=1000539750067"
@@ -297,6 +354,9 @@
       "explicit": true,
       "spotifyId": "1G6HA61dn85qoh2i4ZZetL",
       "appleId": 1000537830230,
+      "subjects": [
+        "Amway"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1G6HA61dn85qoh2i4ZZetL",
         "apple": "https://podcasts.apple.com/podcast/part-two-amway-the-gravedigger-of-democracy/id1373812661?i=1000537830230"
@@ -311,6 +371,9 @@
       "explicit": true,
       "spotifyId": "7k1iJxOU9O7ObRMVlpATOt",
       "appleId": 1000537598854,
+      "subjects": [
+        "Amway"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7k1iJxOU9O7ObRMVlpATOt",
         "apple": "https://podcasts.apple.com/podcast/part-one-amway-the-gravedigger-of-democracy/id1373812661?i=1000537598854"
@@ -339,6 +402,9 @@
       "explicit": true,
       "spotifyId": "77zaKaqoifKYmACjA148f9",
       "appleId": 1000536854890,
+      "subjects": [
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/77zaKaqoifKYmACjA148f9",
         "apple": "https://podcasts.apple.com/podcast/the-nesara-cult-and-qanons-origins/id1373812661?i=1000536854890"
@@ -353,6 +419,9 @@
       "explicit": true,
       "spotifyId": "69UGmD9foZpJqvqs7fC5li",
       "appleId": 1000531070337,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/69UGmD9foZpJqvqs7fC5li",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-cult-behind-josh-duggar/id1373812661?i=1000531070337"
@@ -367,6 +436,9 @@
       "explicit": true,
       "spotifyId": "77us4WKxwiIr9FMuTZWoWE",
       "appleId": 1000530882730,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/77us4WKxwiIr9FMuTZWoWE",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-cult-behind-josh-duggar/id1373812661?i=1000530882730"
@@ -381,6 +453,9 @@
       "explicit": true,
       "spotifyId": "5Vp5RZ0hnAhKkfb5gbDKtr",
       "appleId": 1000530385264,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Vp5RZ0hnAhKkfb5gbDKtr",
         "apple": "https://podcasts.apple.com/podcast/part-two-elan-school-the-worst-troubled-teen-facility/id1373812661?i=1000530385264"
@@ -395,6 +470,9 @@
       "explicit": true,
       "spotifyId": "3jj3Sak0BF2BIxnTw1DK6J",
       "appleId": 1000530150561,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3jj3Sak0BF2BIxnTw1DK6J",
         "apple": "https://podcasts.apple.com/podcast/part-one-elan-school-the-worst-troubled-teen-facility/id1373812661?i=1000530150561"
@@ -409,6 +487,9 @@
       "explicit": true,
       "spotifyId": "2jjRLC1KAKBs1jc28A7vTI",
       "appleId": 1000526717571,
+      "subjects": [
+        "Synanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2jjRLC1KAKBs1jc28A7vTI",
         "apple": "https://podcasts.apple.com/podcast/part-two-synanon-the-drug-rehab-program-that-built/id1373812661?i=1000526717571"
@@ -423,6 +504,9 @@
       "explicit": true,
       "spotifyId": "78gDygdfbqYxKWkbHSebUD",
       "appleId": 1000526380928,
+      "subjects": [
+        "Synanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/78gDygdfbqYxKWkbHSebUD",
         "apple": "https://podcasts.apple.com/podcast/part-one-synanon-the-drug-rehab-program-that-built/id1373812661?i=1000526380928"
@@ -437,6 +521,9 @@
       "explicit": true,
       "spotifyId": "33b17p7W9idc6GFLX6E1oj",
       "appleId": 1000496458677,
+      "subjects": [
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/33b17p7W9idc6GFLX6E1oj",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-satanic-panic-americas-first-qanon/id1373812661?i=1000496458677"
@@ -451,6 +538,9 @@
       "explicit": true,
       "spotifyId": "7vcjI1T5rBspIdOkwBaLjT",
       "appleId": 1000496220254,
+      "subjects": [
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vcjI1T5rBspIdOkwBaLjT",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-satanic-panic-americas-first-qanon/id1373812661?i=1000496220254"
@@ -465,6 +555,9 @@
       "explicit": true,
       "spotifyId": "1jllUc6yuHnhF47GPnlZjf",
       "appleId": 1000440748734,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jllUc6yuHnhF47GPnlZjf",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440748734"
@@ -479,6 +572,9 @@
       "explicit": true,
       "spotifyId": "7ldnGWnv29HvK5pJWhSn47",
       "appleId": 1000440748734,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ldnGWnv29HvK5pJWhSn47",
         "apple": "https://podcasts.apple.com/podcast/part-two-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440748734"
@@ -493,6 +589,9 @@
       "explicit": true,
       "spotifyId": "3jC9xMsKT2LJXkSOXvy3b6",
       "appleId": 1000440578347,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3jC9xMsKT2LJXkSOXvy3b6",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440578347"
@@ -507,6 +606,9 @@
       "explicit": true,
       "spotifyId": "3l8KBAaKllS9Vrp6qjZNtr",
       "appleId": 1000422560516,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3l8KBAaKllS9Vrp6qjZNtr",
         "apple": "https://podcasts.apple.com/podcast/part-three-l-ron-hubbards-high-sea-adventures-with/id1373812661?i=1000422560516"
@@ -521,6 +623,9 @@
       "explicit": true,
       "spotifyId": "4279EvUf2fIPoi85ghpDsk",
       "appleId": 1000422489763,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4279EvUf2fIPoi85ghpDsk",
         "apple": "https://podcasts.apple.com/podcast/part-two-l-ron-hubbard-the-greatest-con-man-in-history/id1373812661?i=1000422489763"
@@ -535,6 +640,9 @@
       "explicit": true,
       "spotifyId": "0unywUpqOEVkME5dPthfYz",
       "appleId": 1000422489763,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0unywUpqOEVkME5dPthfYz",
         "apple": "https://podcasts.apple.com/podcast/part-two-l-ron-hubbard-the-greatest-con-man-in-history/id1373812661?i=1000422489763"
@@ -549,6 +657,9 @@
       "explicit": true,
       "spotifyId": "21j0fVaN5zehGAz4Wnws0U",
       "appleId": 1000422414381,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/21j0fVaN5zehGAz4Wnws0U",
         "apple": "https://podcasts.apple.com/podcast/part-one-how-l-ron-hubbard-lied-his-way-to-godhood/id1373812661?i=1000422414381"
@@ -563,6 +674,9 @@
       "explicit": true,
       "spotifyId": "02DoFnLda1V2rhlh0fKIUU",
       "appleId": 1000422414381,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/02DoFnLda1V2rhlh0fKIUU",
         "apple": "https://podcasts.apple.com/podcast/part-one-how-l-ron-hubbard-lied-his-way-to-godhood/id1373812661?i=1000422414381"
@@ -577,6 +691,9 @@
       "explicit": true,
       "spotifyId": "0yOhizM0lA3U319RRLla4J",
       "appleId": 1000414112547,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0yOhizM0lA3U319RRLla4J",
         "apple": "https://podcasts.apple.com/podcast/part-one-the-child-molester-whose-sex-cult-taught/id1373812661?i=1000414112547"

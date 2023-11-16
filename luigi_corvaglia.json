@@ -10,6 +10,10 @@
       "duration": "00:02:33",
       "explicit": false,
       "youTubeId": "MqaxNyBnFBk",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Apologists"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=MqaxNyBnFBk"
       }
@@ -22,6 +26,10 @@
       "duration": "00:08:30",
       "explicit": false,
       "youTubeId": "4tmz348kmwE",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Apologists"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=4tmz348kmwE"
       }
@@ -34,6 +42,9 @@
       "duration": "00:09:36",
       "explicit": false,
       "youTubeId": "PelOoujZrTI",
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=PelOoujZrTI"
       }

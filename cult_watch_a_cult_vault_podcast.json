@@ -15,6 +15,10 @@
       "explicit": true,
       "spotifyId": "6rFyDJSpaEHp9XmzsuHmSe",
       "appleId": 1000621995349,
+      "subjects": [
+        "Scientology",
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6rFyDJSpaEHp9XmzsuHmSe",
         "apple": "https://podcasts.apple.com/podcast/cult-news-update-22nd-july/id1680395081?i=1000621995349"
@@ -29,6 +33,17 @@
       "explicit": true,
       "spotifyId": "5mcrnVUu9ZUbdFqHpgErge",
       "appleId": 1000621972267,
+      "subjects": [
+        "Scientology",
+        "NXIVM",
+        "Qanon",
+        "Manson Family",
+        "Kwasizabantu",
+        "Gloriavale",
+        "EDUCO",
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Shincheonji Church of Jesus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mcrnVUu9ZUbdFqHpgErge",
         "apple": "https://podcasts.apple.com/podcast/cult-news-from-around-the-world-mega-update/id1680395081?i=1000621972267"
@@ -43,6 +58,13 @@
       "explicit": true,
       "spotifyId": "3SGX4gwWhhjf0kFGSG8HYA",
       "appleId": 1000615901364,
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "Manson Family",
+        "Jehovah\u0027s Witnesses",
+        "Larry Ray",
+        "Hillsong"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3SGX4gwWhhjf0kFGSG8HYA",
         "apple": "https://podcasts.apple.com/podcast/a-mighty-load-of-cult-media/id1680395081?i=1000615901364"
@@ -85,6 +107,9 @@
       "explicit": true,
       "spotifyId": "1K1hr7CUKrAFpkbggTbOor",
       "appleId": 1000615831896,
+      "subjects": [
+        "Shincheonji Church of Jesus"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1K1hr7CUKrAFpkbggTbOor",
         "apple": "https://podcasts.apple.com/podcast/shincheonji-everywhere/id1680395081?i=1000615831896"
@@ -99,6 +124,9 @@
       "explicit": true,
       "spotifyId": "0cHMjoPgAwZEbqUBLfex6E",
       "appleId": 1000614381832,
+      "subjects": [
+        "Unification Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cHMjoPgAwZEbqUBLfex6E",
         "apple": "https://podcasts.apple.com/podcast/trump-a-moonie-former-presidents-ties-to/id1680395081?i=1000614381832"
@@ -127,6 +155,9 @@
       "explicit": true,
       "spotifyId": "0ZuZtq52pwNdUoHStDmmDd",
       "appleId": 1000614214188,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZuZtq52pwNdUoHStDmmDd",
         "apple": "https://podcasts.apple.com/podcast/jury-deliberation-danny-masterson-retrial-week-5/id1680395081?i=1000614214188"
@@ -169,6 +200,9 @@
       "explicit": true,
       "spotifyId": "1WswNreV19oRIY8KmjzXiA",
       "appleId": 1000613289257,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1WswNreV19oRIY8KmjzXiA",
         "apple": "https://podcasts.apple.com/podcast/retrial-madness-in-masterson-case-scientology-collusion/id1680395081?i=1000613289257"
@@ -183,6 +217,9 @@
       "explicit": true,
       "spotifyId": "2DzdGdprSBmtJysuwPXTMb",
       "appleId": 1000613287888,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DzdGdprSBmtJysuwPXTMb",
         "apple": "https://podcasts.apple.com/podcast/lori-daybell-guilty-on-all-charges/id1680395081?i=1000613287888"
@@ -267,6 +304,9 @@
       "explicit": true,
       "spotifyId": "3OCPG4uarfzvCvPV3lGQ9m",
       "appleId": 1000612388786,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OCPG4uarfzvCvPV3lGQ9m",
         "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-crumbling/id1680395081?i=1000612388786"
@@ -281,6 +321,9 @@
       "explicit": true,
       "spotifyId": "2nTIS3Q21CDQXSNu10LFhT",
       "appleId": 1000612219356,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2nTIS3Q21CDQXSNu10LFhT",
         "apple": "https://podcasts.apple.com/podcast/danny-masterson-retrial-week-3-overview/id1680395081?i=1000612219356"
@@ -295,6 +338,9 @@
       "explicit": true,
       "spotifyId": "0jNnyFBsVXMr5D3YZzLsIP",
       "appleId": 1000612219357,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0jNnyFBsVXMr5D3YZzLsIP",
         "apple": "https://podcasts.apple.com/podcast/trial-ending-soon-lori-vallow-trial-week-5-overview/id1680395081?i=1000612219357"
@@ -323,6 +369,9 @@
       "explicit": true,
       "spotifyId": "4qyEDAn9hr7eOGECkalrgN",
       "appleId": 1000612003687,
+      "subjects": [
+        "Good News International Ministries"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qyEDAn9hr7eOGECkalrgN",
         "apple": "https://podcasts.apple.com/podcast/malindi-cult-mass-graves-in-kenya/id1680395081?i=1000612003687"
@@ -351,6 +400,9 @@
       "explicit": true,
       "spotifyId": "3mLrmH1NbKGWw2O02oTwwE",
       "appleId": 1000611647591,
+      "subjects": [
+        "Inedia"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3mLrmH1NbKGWw2O02oTwwE",
         "apple": "https://podcasts.apple.com/podcast/what-is-breatharianism/id1680395081?i=1000611647591"
@@ -365,6 +417,9 @@
       "explicit": true,
       "spotifyId": "2VB16ChDoqnwBqZBVhIcqq",
       "appleId": 1000611469643,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2VB16ChDoqnwBqZBVhIcqq",
         "apple": "https://podcasts.apple.com/podcast/danny-masterson-retrial-week-2-overview/id1680395081?i=1000611469643"
@@ -379,6 +434,9 @@
       "explicit": true,
       "spotifyId": "21WN7pnL6RpqtOBcx9rJbF",
       "appleId": 1000611469556,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/21WN7pnL6RpqtOBcx9rJbF",
         "apple": "https://podcasts.apple.com/podcast/dna-evidence-explained-lori-vallow-murder-trial-week-4/id1680395081?i=1000611469556"
@@ -393,6 +451,9 @@
       "explicit": true,
       "spotifyId": "5xSC5msr2bNCZQvk5kneP6",
       "appleId": 1000610829385,
+      "subjects": [
+        "Liana Shanti"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5xSC5msr2bNCZQvk5kneP6",
         "apple": "https://podcasts.apple.com/podcast/online-guru-liana-shanti-faces-federal-judge/id1680395081?i=1000610829385"
@@ -421,6 +482,9 @@
       "explicit": true,
       "spotifyId": "4fCKVlcLn5eQ25dORJjTUk",
       "appleId": 1000610591592,
+      "subjects": [
+        "Unification Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4fCKVlcLn5eQ25dORJjTUk",
         "apple": "https://podcasts.apple.com/podcast/japan-prime-minister-assassinated-a-look-into/id1680395081?i=1000610591592"
@@ -435,6 +499,9 @@
       "explicit": true,
       "spotifyId": "1GK79BHx5W0wJadczqHqQ3",
       "appleId": 1000610470076,
+      "subjects": [
+        "Adnan Oktar"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1GK79BHx5W0wJadczqHqQ3",
         "apple": "https://podcasts.apple.com/podcast/1075-years-in-prison-turkeys-most-notorious-cult-leader23/id1680395081?i=1000610470076"
@@ -449,6 +516,9 @@
       "explicit": true,
       "spotifyId": "6VGE1HWZfoS3izeiotnV77",
       "appleId": 1000610295334,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VGE1HWZfoS3izeiotnV77",
         "apple": "https://podcasts.apple.com/podcast/shocking-developments-lori-vallow-triple-murder-trial/id1680395081?i=1000610295334"
@@ -463,6 +533,9 @@
       "explicit": true,
       "spotifyId": "7x2eG2A2Fgb0qd0sUvARjn",
       "appleId": 1000610217388,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7x2eG2A2Fgb0qd0sUvARjn",
         "apple": "https://podcasts.apple.com/podcast/danny-masterson-guilty-retrial-week-one/id1680395081?i=1000610217388"
@@ -477,6 +550,9 @@
       "explicit": true,
       "spotifyId": "3Cud0pVYk5SjepR5d3ZWNt",
       "appleId": 1000610144207,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Cud0pVYk5SjepR5d3ZWNt",
         "apple": "https://podcasts.apple.com/podcast/ezra-miller-dalai-lama-keith-raniere-here-is-why-i/id1680395081?i=1000610144207"
@@ -505,6 +581,9 @@
       "explicit": true,
       "spotifyId": "1KSU9LnduD36GQaQQvHC6o",
       "appleId": 1000609701387,
+      "subjects": [
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1KSU9LnduD36GQaQQvHC6o",
         "apple": "https://podcasts.apple.com/podcast/remembering-the-branch-davidians-30-years-on/id1680395081?i=1000609701387"
@@ -533,6 +612,9 @@
       "explicit": true,
       "spotifyId": "0LUxQK1qO0Loj8pp5yQFYf",
       "appleId": 1000609379369,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0LUxQK1qO0Loj8pp5yQFYf",
         "apple": "https://podcasts.apple.com/podcast/from-hollywood-to-handcuffs-nathan-chasing-horse-dances/id1680395081?i=1000609379369"
@@ -547,6 +629,9 @@
       "explicit": true,
       "spotifyId": "77rGJGvYguVHrJo4Pj6qQS",
       "appleId": 1000609064936,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/77rGJGvYguVHrJo4Pj6qQS",
         "apple": "https://podcasts.apple.com/podcast/dark-revelations-the-lori-vallow-trial-week-2/id1680395081?i=1000609064936"
@@ -561,6 +646,9 @@
       "explicit": true,
       "spotifyId": "0FJzbgXJfgn2Vb8hoqu4Rk",
       "appleId": 1000609015556,
+      "subjects": [
+        "Soka Gakkai"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0FJzbgXJfgn2Vb8hoqu4Rk",
         "apple": "https://podcasts.apple.com/podcast/celebrities-spirituality-tech-titans-cult-news-update/id1680395081?i=1000609015556"
@@ -575,6 +663,9 @@
       "explicit": true,
       "spotifyId": "6qJe9vYtE8r0YfKDU9fLsI",
       "appleId": 1000608818173,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6qJe9vYtE8r0YfKDU9fLsI",
         "apple": "https://podcasts.apple.com/podcast/andrew-tate-and-the-online-outrage-machine/id1680395081?i=1000608818173"
@@ -589,6 +680,10 @@
       "explicit": true,
       "spotifyId": "0BUdmXcJ9lRUsTEf1i8Aq4",
       "appleId": 1000608676865,
+      "subjects": [
+        "FLDS Church",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0BUdmXcJ9lRUsTEf1i8Aq4",
         "apple": "https://podcasts.apple.com/podcast/bateman-behind-bars-the-downfall-of-a/id1680395081?i=1000608676865"
@@ -603,6 +698,9 @@
       "explicit": true,
       "spotifyId": "4fuR24WEtf8ubK4vkBSjqB",
       "appleId": 1000608496951,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4fuR24WEtf8ubK4vkBSjqB",
         "apple": "https://podcasts.apple.com/podcast/lori-vallow-trial-and-other-news-updates/id1680395081?i=1000608496951"
@@ -617,6 +715,9 @@
       "explicit": true,
       "spotifyId": "2pKaCNz9z3cEzxHguDKAFg",
       "appleId": 1000608256182,
+      "subjects": [
+        "Manson Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2pKaCNz9z3cEzxHguDKAFg",
         "apple": "https://podcasts.apple.com/podcast/royal-rejection-and-mansons-heir-unravelling/id1680395081?i=1000608256182"
@@ -645,6 +746,10 @@
       "explicit": true,
       "spotifyId": "6WKt9Voe9CKN6m6168ZSbC",
       "appleId": 1000608004089,
+      "subjects": [
+        "Qanon",
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6WKt9Voe9CKN6m6168ZSbC",
         "apple": "https://podcasts.apple.com/podcast/the-rise-reign-and-reckoning-of-a-controversial-president/id1680395081?i=1000608004089"
@@ -659,6 +764,9 @@
       "explicit": true,
       "spotifyId": "5EviM6lY3Xf5ictbzEFikL",
       "appleId": 1000607962987,
+      "subjects": [
+        "Twelve Tribes"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5EviM6lY3Xf5ictbzEFikL",
         "apple": "https://podcasts.apple.com/podcast/twelve-tribes-tragedy-turmoil-unearthed-and-more-cult/id1680395081?i=1000607962987"
@@ -673,6 +781,9 @@
       "explicit": true,
       "spotifyId": "4nut4t2538ir1XJfseSmnt",
       "appleId": 1000607769232,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4nut4t2538ir1XJfseSmnt",
         "apple": "https://podcasts.apple.com/podcast/raniere-declyned-nicki-clyne-renounces-support-of/id1680395081?i=1000607769232"
@@ -687,6 +798,9 @@
       "explicit": true,
       "spotifyId": "5hAUprYEztlCYlmFlufeGM",
       "appleId": 1000607604089,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5hAUprYEztlCYlmFlufeGM",
         "apple": "https://podcasts.apple.com/podcast/unmasking-the-masterson-trial-scientologys-shadow-in/id1680395081?i=1000607604089"
@@ -701,6 +815,9 @@
       "explicit": true,
       "spotifyId": "5eAWb15mwcWZk3JyYFFqwg",
       "appleId": 1000607517324,
+      "subjects": [
+        "Lighthouse International Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5eAWb15mwcWZk3JyYFFqwg",
         "apple": "https://podcasts.apple.com/podcast/shining-a-light-on-lighthouse-international-group/id1680395081?i=1000607517324"
@@ -715,6 +832,9 @@
       "explicit": true,
       "spotifyId": "2Wl6FpRXtaMnY2ebb19NaK",
       "appleId": 1000607120269,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Wl6FpRXtaMnY2ebb19NaK",
         "apple": "https://podcasts.apple.com/podcast/vallow-case-brief-key-points-before-the-trial/id1680395081?i=1000607120269"
@@ -729,6 +849,9 @@
       "explicit": true,
       "spotifyId": "4MaZrWdCQkhlmqKLIBdkIs",
       "appleId": 1000607008639,
+      "subjects": [
+        "Branch Davidians"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4MaZrWdCQkhlmqKLIBdkIs",
         "apple": "https://podcasts.apple.com/podcast/dissecting-sensationalism-in-netflixs-waco-documentary/id1680395081?i=1000607008639"
@@ -743,6 +866,9 @@
       "explicit": true,
       "spotifyId": "2iCRXT77z48OCPiCxGR0Xg",
       "appleId": 1000606964323,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2iCRXT77z48OCPiCxGR0Xg",
         "apple": "https://podcasts.apple.com/podcast/swarm-tv-series-sensation-or-sinister-sect-in-disguise/id1680395081?i=1000606964323"

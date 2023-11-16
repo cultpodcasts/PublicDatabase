@@ -14,6 +14,9 @@
       "explicit": false,
       "spotifyId": "4jXn3Iso0TY8Fmy0Sl7nZs",
       "appleId": 1000610498025,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4jXn3Iso0TY8Fmy0Sl7nZs",
         "apple": "https://podcasts.apple.com/podcast/heidi-mccamley-just-left-the-plymouth-brethren/id1569093583?i=1000610498025"
@@ -28,6 +31,9 @@
       "explicit": false,
       "spotifyId": "45XBInIKN60ccoD2HO2LLR",
       "youTubeId": "vWZaVoU3ihE",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/45XBInIKN60ccoD2HO2LLR",
         "youtube": "https://www.youtube.com/watch?v=vWZaVoU3ihE"
@@ -42,6 +48,9 @@
       "explicit": false,
       "spotifyId": "5zmnkhBxpXL6kvuCXNEB1A",
       "appleId": 1000594550048,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5zmnkhBxpXL6kvuCXNEB1A",
         "apple": "https://podcasts.apple.com/podcast/terri-smith-isnt-a-member-of-the/id1569093583?i=1000594550048"
@@ -56,6 +65,9 @@
       "explicit": false,
       "spotifyId": "0LSxq4OZEzlWr3BdWSSy0N",
       "youTubeId": "hD1TSQo9vXM",
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0LSxq4OZEzlWr3BdWSSy0N",
         "youtube": "https://www.youtube.com/watch?v=hD1TSQo9vXM"

@@ -13,6 +13,9 @@
       "explicit": true,
       "spotifyId": "0AQ1vIvHaDi3C50It3NjPV",
       "appleId": 1000601524371,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0AQ1vIvHaDi3C50It3NjPV",
         "apple": "https://podcasts.apple.com/podcast/justice/id1667678268?i=1000601524371"
@@ -27,6 +30,9 @@
       "explicit": true,
       "spotifyId": "0dNDN7RtQDXmzpn8agANTC",
       "appleId": 1000600243139,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0dNDN7RtQDXmzpn8agANTC",
         "apple": "https://podcasts.apple.com/podcast/the-ray-family/id1667678268?i=1000600243139"
@@ -41,6 +47,10 @@
       "explicit": true,
       "spotifyId": "3cboO3IDwPllz5dD2IVIDJ",
       "appleId": 1000599061576,
+      "subjects": [
+        "Larry Ray",
+        "Human Trafficking"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3cboO3IDwPllz5dD2IVIDJ",
         "apple": "https://podcasts.apple.com/podcast/confessions/id1667678268?i=1000599061576"
@@ -55,6 +65,9 @@
       "explicit": true,
       "spotifyId": "1SdNkjiHX2RrsGuuDSQbKI",
       "appleId": 1000597915268,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1SdNkjiHX2RrsGuuDSQbKI",
         "apple": "https://podcasts.apple.com/podcast/forced-labor/id1667678268?i=1000597915268"
@@ -69,6 +82,9 @@
       "explicit": true,
       "spotifyId": "6EJLZ2YZFhl0leVdQnlaL7",
       "appleId": 1000597005257,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6EJLZ2YZFhl0leVdQnlaL7",
         "apple": "https://podcasts.apple.com/podcast/master-manipulator/id1667678268?i=1000597005257"
@@ -83,6 +99,9 @@
       "explicit": false,
       "spotifyId": "0H00I8nx2jkDNEgvzUTKV0",
       "appleId": 1000596805191,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0H00I8nx2jkDNEgvzUTKV0",
         "apple": "https://podcasts.apple.com/podcast/honeyboys-homecoming/id1667678268?i=1000596805191"
@@ -97,6 +116,9 @@
       "explicit": true,
       "spotifyId": "3RvH7K14z6LevfZ69PwU2E",
       "appleId": 1000597799083,
+      "subjects": [
+        "Larry Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3RvH7K14z6LevfZ69PwU2E",
         "apple": "https://podcasts.apple.com/podcast/introducing-devil-in-the-dorm/id1667678268?i=1000597799083"

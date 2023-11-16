@@ -11,6 +11,10 @@
       "duration": "01:34:02",
       "explicit": false,
       "youTubeId": "Z3ItfX0Lkng",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Recovery"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=Z3ItfX0Lkng"
       }
@@ -23,6 +27,9 @@
       "duration": "00:03:22",
       "explicit": false,
       "youTubeId": "skDe6pn6wzw",
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=skDe6pn6wzw"
       }

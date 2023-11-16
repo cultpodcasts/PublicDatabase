@@ -5,6 +5,20 @@
   "appleId": 1553334816,
   "episodes": [
     {
+      "id": "59281985-1f07-482a-bf55-cfcb4db7731e",
+      "title": "PATREON PREVIEW: Sarah \u0026 Nippy Answer Your Questions",
+      "description": "This is a short preview of an episode Sarah \u0026 Nippy recorded for the\u00A0A Little Bit Culty Patreon. If you want to hear the whole thing, plus get bonus to ad-free episodes and other exclusive content, sign up at:\u00A0www.patreon.com/alittlebitculty",
+      "release": "2023-11-16T09:00:00Z",
+      "duration": "00:08:42.1200000",
+      "explicit": false,
+      "spotifyId": "7A8KPaC6eRfWFpne32cnsG",
+      "appleId": 1000635017901,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7A8KPaC6eRfWFpne32cnsG",
+        "apple": "https://podcasts.apple.com/podcast/patreon-preview-sarah-nippy-answer-your-questions/id1553334816?i=1000635017901"
+      }
+    },
+    {
       "id": "8ffa6bd8-54e0-4012-bb41-27654d6b6d08",
       "title": "Cult-Proofing 101: Julie Bogart on Educating Kids \u0026 Parents",
       "description": "Today\u2019s episode is sponsored by BetterHelp.\u00A0 Julie Bogart homeschooled her five children for seventeen years while also shepherding a Cincinnati homeschool co-op of 300. But it wasn\u2019t merely homeschoolers that were a little bit culty in her life. With experiences of missionary evangelical Christianity, the New Thought movement, Scientology, and four years as an \u00A0e s t\u00A0 devotee, Julie Bogart\u2019s got some culty notches in her belt. Now she\u2019s helping cult-proof parents and their kids by teaching families to think well. In this episode, Julie shares insight into susceptibilities for cult-jumping, our perceptions of \u201Ctrusted\u201D authority/expertise, and the power of wonder and curiosity. We\u2019re also reminded of the parental golden rule: seek therapy yourselves before subjecting your kiddos to any kind of psychotherapy. For a deep dive into those waters, rewind to our episode with Meg Appelgate who navigated the Troubled Teen Industry firsthand. \u00A0 NOTES: Julie Bogart has devoted her life to the triumvirate of writing, kids, and parents and is known for her common sense parenting and education advice on how to raise critical thinkers. She created Brave Writer, an online writing and language arts program that coaches folks to discover their own original thoughts. She has scores of professional writing credentials including a weekly column for United Press International, Brave Writer\u0027s Home Study Courses, and two books,  The Brave Learner and  Raising Critical Thinkers. Mother of five and grandmother to three, Julie lives in Cincinnati, Ohio. \u00A0 You can find her on Twitter \u00A0and Instagram. \u00A0 Also\u2026 \u00A0 Let it be known far and wide, loud and clear that\u2026 \u00A0 The views and opinions expressed on A Little Bit Culty do not necessarily reflect the official policy or position of the podcast. Any content provided by our guests, bloggers, sponsors or authors are of their opinion and are not intended to malign any religion, group, club, organization, business individual, anyone or anything. Nobody\u2019s mad at you, just don\u2019t be a culty fuckwad. \u00A0 OTHER LINKS: Check out our lovely sponsors Join \u2018A Little Bit Culty\u2019 on Patreon Get poppin\u2019 fresh ALBC Swag Support the pod and smash this link Cult awareness and recovery resources \u00A0 CREDITS:\u00A0 Executive Producers: Sarah Edmondson \u0026 Anthony Ames Production Partner: Citizens of Sound Producer: Will Retherford Co-Creator: Jess Tardy Writer: Holly Zadra Theme Song: \u201CCultivated\u201D by Jon Bryant co-written with Nygel Asselin",
@@ -13,6 +27,9 @@
       "explicit": false,
       "spotifyId": "3eZQolUSENE8M6AM9HZ6jO",
       "appleId": 1000634605193,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3eZQolUSENE8M6AM9HZ6jO",
         "apple": "https://podcasts.apple.com/podcast/cult-proofing-101-julie-bogart-on-educating-kids-parents/id1553334816?i=1000634605193"
@@ -41,6 +58,9 @@
       "explicit": false,
       "spotifyId": "4PrOIkENI1SHP5miJ14QLP",
       "appleId": 1000633818369,
+      "subjects": [
+        "Fundamentalist Islam"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4PrOIkENI1SHP5miJ14QLP",
         "apple": "https://podcasts.apple.com/podcast/unveiled-yasmine-mohammed-on-extreme-fundamentalism/id1553334816?i=1000633818369"
@@ -55,6 +75,9 @@
       "explicit": false,
       "spotifyId": "07DunC97PjemRimZPZqgG9",
       "appleId": 1000633446451,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/07DunC97PjemRimZPZqgG9",
         "apple": "https://podcasts.apple.com/podcast/patreon-preview-sarah-nippy-chat-about-narcissistic/id1553334816?i=1000633446451"
@@ -69,6 +92,9 @@
       "explicit": false,
       "spotifyId": "2DJtpSIHdvElK0chOLmnvK",
       "appleId": 1000633057413,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DJtpSIHdvElK0chOLmnvK",
         "apple": "https://podcasts.apple.com/podcast/seek-safely-jean-brown-dr-glenn-patrick-doyle-on-the/id1553334816?i=1000633057413"
@@ -114,6 +140,9 @@
       "explicit": false,
       "spotifyId": "2JZ7TIEUs1vPWmOP22NOWt",
       "appleId": 1000631841737,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JZ7TIEUs1vPWmOP22NOWt",
         "apple": "https://podcasts.apple.com/podcast/patreon-preview-sarah-nippy-chat-with-mark-vicente/id1553334816?i=1000631841737"
@@ -128,6 +157,9 @@
       "explicit": true,
       "spotifyId": "3G774ntuS83tFr8zaZ8TtV",
       "appleId": 1000631446902,
+      "subjects": [
+        "One-on-one"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3G774ntuS83tFr8zaZ8TtV",
         "apple": "https://podcasts.apple.com/podcast/healing-in-public-sarma-melngailis-on-life-after-netflix/id1553334816?i=1000631446902"
@@ -142,6 +174,9 @@
       "explicit": true,
       "spotifyId": "6VWCjJlfKd00lR1CODeRBR",
       "appleId": 1000631063013,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VWCjJlfKd00lR1CODeRBR",
         "apple": "https://podcasts.apple.com/podcast/patreon-replay-a-chat-with-jim-edmondson/id1553334816?i=1000631063013"
@@ -156,6 +191,9 @@
       "explicit": true,
       "spotifyId": "2NSsTJbe5zjA3uqZxbqcnw",
       "appleId": 1000630664903,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2NSsTJbe5zjA3uqZxbqcnw",
         "apple": "https://podcasts.apple.com/podcast/unsilenced-meg-appelgate-on-the-troubled-teen-industry/id1553334816?i=1000630664903"
@@ -184,6 +222,9 @@
       "explicit": true,
       "spotifyId": "1TGkkQKkuhoIKXsZSPMrLo",
       "appleId": 1000629878689,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1TGkkQKkuhoIKXsZSPMrLo",
         "apple": "https://podcasts.apple.com/podcast/shiny-happy-warrior-lindsey-williams-on-the-iblp/id1553334816?i=1000629878689"
@@ -212,6 +253,9 @@
       "explicit": true,
       "spotifyId": "6N22q2LbNMmQTLC8pTjIAB",
       "appleId": 1000628228832,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6N22q2LbNMmQTLC8pTjIAB",
         "apple": "https://podcasts.apple.com/podcast/the-nxivm-extravaganza-moira-kim-penza-robert-gavin/id1553334816?i=1000628228832"
@@ -226,6 +270,9 @@
       "explicit": true,
       "spotifyId": "3W6Rf0RVesO1II0sgnJ7vC",
       "appleId": 1000627439663,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3W6Rf0RVesO1II0sgnJ7vC",
         "apple": "https://podcasts.apple.com/podcast/the-nxivm-extravaganza-ft-mark-vicente-india-oxenberg/id1553334816?i=1000627439663"
@@ -240,6 +287,9 @@
       "explicit": true,
       "spotifyId": "2s13OjdUrRnTtyDQvwDTE2",
       "appleId": 1000626923856,
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2s13OjdUrRnTtyDQvwDTE2",
         "apple": "https://podcasts.apple.com/podcast/f-ck-you-purity-culture-ft-nadia-bolz-weber-eric-skwarczynski/id1553334816?i=1000626923856"
@@ -254,6 +304,9 @@
       "explicit": true,
       "spotifyId": "6zbyTrc2uwRlGHffeGHXr4",
       "appleId": 1000626671506,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6zbyTrc2uwRlGHffeGHXr4",
         "apple": "https://podcasts.apple.com/podcast/scientology-sucks-ft-leah-remini-mike-rinder-and-jon-atack/id1553334816?i=1000626671506"
@@ -268,6 +321,9 @@
       "explicit": true,
       "spotifyId": "2CZ80Wzdoi6y7FfTykftU4",
       "appleId": 1000625106125,
+      "subjects": [
+        "The Lyman Family"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2CZ80Wzdoi6y7FfTykftU4",
         "apple": "https://podcasts.apple.com/podcast/when-the-world-didnt-end-guinevere-turners-cult/id1553334816?i=1000625106125"
@@ -283,7 +339,7 @@
       "spotifyId": "5CHzrD8WBSMCObrkUaEHvf",
       "appleId": 1000624366094,
       "subjects": [
-        "The Lyman Family / Mel Lyman"
+        "The Lyman Family"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5CHzrD8WBSMCObrkUaEHvf",
@@ -299,6 +355,9 @@
       "explicit": true,
       "spotifyId": "3PV4nQoPqnzTVDbpcBxwJs",
       "appleId": 1000623655688,
+      "subjects": [
+        "Human Trafficking"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3PV4nQoPqnzTVDbpcBxwJs",
         "apple": "https://podcasts.apple.com/podcast/in-pursuit-of-love-rebecca-benders-journey-from/id1553334816?i=1000623655688"
@@ -314,7 +373,7 @@
       "spotifyId": "5H23WbNJ6gSRUQZVBEVSmg",
       "appleId": 1000622904321,
       "subjects": [
-        "Mich\u00E8le Lonsdale Smith / Lonsdale Smith \u0026 Co. Acting Studio"
+        "Lonsdale Smith And Co. Acting Studio"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5H23WbNJ6gSRUQZVBEVSmg",
@@ -331,7 +390,7 @@
       "spotifyId": "1EDnectgYfgtg78i6ISLpc",
       "appleId": 1000622115190,
       "subjects": [
-        "Mich\u00E8le Lonsdale Smith / Lonsdale Smith \u0026 Co. Acting Studio"
+        "Lonsdale Smith And Co. Acting Studio"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1EDnectgYfgtg78i6ISLpc",
@@ -375,6 +434,9 @@
       "explicit": true,
       "spotifyId": "4FMRhWvH4scFRDvTL7y7fF",
       "appleId": 1000620483209,
+      "subjects": [
+        "Family Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4FMRhWvH4scFRDvTL7y7fF",
         "apple": "https://podcasts.apple.com/podcast/behind-the-reality-jessica-willis-fisher-on-her/id1553334816?i=1000620483209"
@@ -389,6 +451,9 @@
       "explicit": true,
       "spotifyId": "4vzWW0tQJDnAYBi3hZroPQ",
       "appleId": 1000619141877,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4vzWW0tQJDnAYBi3hZroPQ",
         "apple": "https://podcasts.apple.com/podcast/subversive-science-isabella-constantino-on-nxivms-tourettes/id1553334816?i=1000619141877"
@@ -420,6 +485,9 @@
       "explicit": true,
       "spotifyId": "2GlxyGNwut7dxo4rVi7tiy",
       "appleId": 1000617512954,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GlxyGNwut7dxo4rVi7tiy",
         "apple": "https://podcasts.apple.com/podcast/shiny-happy-wife-tia-levings-on-christian-fundamentalism/id1553334816?i=1000617512954"
@@ -435,7 +503,7 @@
       "spotifyId": "7hv44OzLqm1B4t3I016DQM",
       "appleId": 1000616594581,
       "subjects": [
-        "Institute in Basic Life Principles (IBLP) / Bill Gothard"
+        "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hv44OzLqm1B4t3I016DQM",
@@ -451,6 +519,9 @@
       "explicit": true,
       "spotifyId": "1hDkjbRFj7OBaA1unTCVAK",
       "appleId": 1000615683755,
+      "subjects": [
+        "Sufi"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1hDkjbRFj7OBaA1unTCVAK",
         "apple": "https://podcasts.apple.com/podcast/i-was-a-child-bride-dr-tamara-mc-on-the/id1553334816?i=1000615683755"
@@ -500,7 +571,7 @@
       "spotifyId": "66QdrWpg4MEMXC4G33Ifxv",
       "appleId": 1000613036904,
       "subjects": [
-        "Lori Vallow / Chad Daybell"
+        "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66QdrWpg4MEMXC4G33Ifxv",
@@ -516,6 +587,9 @@
       "explicit": true,
       "spotifyId": "2xQ3SFGs1YPsFuQkoqFeq6",
       "appleId": 1000612138550,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2xQ3SFGs1YPsFuQkoqFeq6",
         "apple": "https://podcasts.apple.com/podcast/uncultured-daniella-mestyanek-young-on-cog-and-the/id1553334816?i=1000612138550"
@@ -531,7 +605,7 @@
       "spotifyId": "1ZIKaNGvOcTnPHifCIEfRE",
       "appleId": 1000611281180,
       "subjects": [
-        "Children of God/Family International"
+        "Children Of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ZIKaNGvOcTnPHifCIEfRE",
@@ -564,6 +638,9 @@
       "explicit": true,
       "spotifyId": "5I2jweTZqoF9hZ2YsTbsIs",
       "appleId": 1000609262544,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5I2jweTZqoF9hZ2YsTbsIs",
         "apple": "https://podcasts.apple.com/podcast/hey-hun-emily-lynn-paulson-on-mlms-and-other-lies/id1553334816?i=1000609262544"
@@ -664,7 +741,7 @@
       "spotifyId": "5bnuAPCFXbptJyaAW4Ahp9",
       "appleId": 1000601790517,
       "subjects": [
-        "Sarah Lawrence College / Larry Ray"
+        "Larry Ray"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5bnuAPCFXbptJyaAW4Ahp9",
@@ -681,7 +758,7 @@
       "spotifyId": "4MsWDp0XqgufZZFgfurOXI",
       "appleId": 1000600529343,
       "subjects": [
-        "Sarah Lawrence College / Larry Ray"
+        "Larry Ray"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4MsWDp0XqgufZZFgfurOXI",
@@ -749,7 +826,7 @@
       "spotifyId": "1Xhp0PKgmiCcIDHAGloi8Y",
       "appleId": 1000596026527,
       "subjects": [
-        "Nuwaubian Nation / Dwight York"
+        "Brooklyn Islamic Commune"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Xhp0PKgmiCcIDHAGloi8Y",
@@ -782,6 +859,10 @@
       "explicit": false,
       "spotifyId": "1xYiZS5Ly4coZB1VM1rvMG",
       "appleId": 1000593137645,
+      "subjects": [
+        "NXIVM",
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1xYiZS5Ly4coZB1VM1rvMG",
         "apple": "https://podcasts.apple.com/podcast/the-kids-are-alright-sarah-nippy-on-zen-parenting/id1553334816?i=1000593137645"
@@ -810,6 +891,9 @@
       "explicit": true,
       "spotifyId": "1ItlQsp2ldUhLckaaVtmDI",
       "appleId": 1000591298246,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ItlQsp2ldUhLckaaVtmDI",
         "apple": "https://podcasts.apple.com/podcast/hot-mess-express-karen-unterreiner-on-dating-keith-raniere/id1553334816?i=1000591298246"
@@ -839,7 +923,7 @@
       "spotifyId": "1dvdxHBIxdH2rCkVtz7iUA",
       "appleId": 1000589834115,
       "subjects": [
-        "Cult Psychology"
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1dvdxHBIxdH2rCkVtz7iUA",
@@ -872,6 +956,9 @@
       "explicit": true,
       "spotifyId": "4gPH5qiZ6ux7x1xxcIZvoB",
       "appleId": 1000588284457,
+      "subjects": [
+        "FLDS Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4gPH5qiZ6ux7x1xxcIZvoB",
         "apple": "https://podcasts.apple.com/podcast/stolen-innocence-elissa-wall-on-growing-up-flds-part-2/id1553334816?i=1000588284457"
@@ -887,7 +974,7 @@
       "spotifyId": "4RoRwxsBgI43hxqZlwx1od",
       "appleId": 1000587690584,
       "subjects": [
-        "Fundamentalist Church of Jesus Christ of Latter-Day Saints(FLDS)"
+        "FLDS Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4RoRwxsBgI43hxqZlwx1od",
@@ -904,7 +991,7 @@
       "spotifyId": "3WR88Q5rSbhw42thNdHZst",
       "appleId": 1000586980308,
       "subjects": [
-        "Education"
+        "Self-Help"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3WR88Q5rSbhw42thNdHZst",
@@ -938,7 +1025,7 @@
       "spotifyId": "6IFyl9bDaMDt1A4jNastvv",
       "appleId": 1000585302630,
       "subjects": [
-        "Cult Psychology"
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6IFyl9bDaMDt1A4jNastvv",
@@ -954,6 +1041,9 @@
       "explicit": true,
       "spotifyId": "1QrX37fUCezhkyOL9ZVRrh",
       "appleId": 1000584899069,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1QrX37fUCezhkyOL9ZVRrh",
         "apple": "https://podcasts.apple.com/podcast/sex-cult-nun-faith-jones-on-breaking-way-from-the/id1553334816?i=1000584899069"
@@ -969,7 +1059,7 @@
       "spotifyId": "1XJ0jDRu7Ug1XBYJHMtWkr",
       "appleId": 1000584466988,
       "subjects": [
-        "Children of God/Family International"
+        "Children Of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1XJ0jDRu7Ug1XBYJHMtWkr",
@@ -1000,7 +1090,7 @@
       "spotifyId": "0nqMLoRWj7GTUHFkyVV5qc",
       "appleId": 1000583660519,
       "subjects": [
-        "Cult Psychology"
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nqMLoRWj7GTUHFkyVV5qc",
@@ -1073,7 +1163,7 @@
       "spotifyId": "6jfsSOCmb2Zcn2U6hoN8dl",
       "appleId": 1000581772446,
       "subjects": [
-        "One-on-One Cult"
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6jfsSOCmb2Zcn2U6hoN8dl",
@@ -1090,7 +1180,7 @@
       "spotifyId": "4xDxaH2v7r3B4ImoWZfKas",
       "appleId": 1000581369365,
       "subjects": [
-        "One-on-One Cult"
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4xDxaH2v7r3B4ImoWZfKas",
@@ -1120,6 +1210,9 @@
       "explicit": true,
       "spotifyId": "0x4J60UZUpjzbK9LSCzcpG",
       "appleId": 1000576092211,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0x4J60UZUpjzbK9LSCzcpG",
         "apple": "https://podcasts.apple.com/podcast/summer-bonus-sarah-and-nippy-answer-your-emails-and/id1553334816?i=1000576092211"
@@ -1134,6 +1227,9 @@
       "explicit": true,
       "spotifyId": "31HmrQJUeCHfnAGuJH1glI",
       "appleId": 1000574608873,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31HmrQJUeCHfnAGuJH1glI",
         "apple": "https://podcasts.apple.com/podcast/summer-bonus-sarah-and-nippy-chat-with/id1553334816?i=1000574608873"
@@ -1162,6 +1258,9 @@
       "explicit": true,
       "spotifyId": "1xDCds8n8X0MPrzqfpLUQk",
       "appleId": 1000569496344,
+      "subjects": [
+        "Nithyananda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1xDCds8n8X0MPrzqfpLUQk",
         "apple": "https://podcasts.apple.com/podcast/rude-awakening-sarah-landry-on-nithyananda-other-nightmares/id1553334816?i=1000569496344"
@@ -1176,6 +1275,9 @@
       "explicit": true,
       "spotifyId": "40qTFz9udsxub31O1l6b0M",
       "appleId": 1000568706380,
+      "subjects": [
+        "Nithyananda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/40qTFz9udsxub31O1l6b0M",
         "apple": "https://podcasts.apple.com/podcast/rude-awakening-sarah-landry-on-nithyananda-other-nightmares/id1553334816?i=1000568706380"
@@ -1190,6 +1292,9 @@
       "explicit": true,
       "spotifyId": "2wnnzOZNUW2bFkazwGx1xA",
       "appleId": 1000567802574,
+      "subjects": [
+        "Odyssey Study Group"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wnnzOZNUW2bFkazwGx1xA",
         "apple": "https://podcasts.apple.com/podcast/page-turner-spencer-schneider-on-writing-his-way-out/id1553334816?i=1000567802574"
@@ -1204,6 +1309,9 @@
       "explicit": true,
       "spotifyId": "7G2GkPQX4FNwMnhEfU97Hf",
       "appleId": 1000567096761,
+      "subjects": [
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7G2GkPQX4FNwMnhEfU97Hf",
         "apple": "https://podcasts.apple.com/podcast/tangled-up-in-teal-jon-kasbe-bits-sola-on-making-the-deep-end/id1553334816?i=1000567096761"
@@ -1218,6 +1326,9 @@
       "explicit": true,
       "spotifyId": "452cnDhHUfaj8E5ClniGrU",
       "appleId": 1000566197766,
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/452cnDhHUfaj8E5ClniGrU",
         "apple": "https://podcasts.apple.com/podcast/trust-fall-dr-natalie-feinblatt-on-trauma-addiction/id1553334816?i=1000566197766"
@@ -1232,6 +1343,9 @@
       "explicit": true,
       "spotifyId": "0ObfR2IITW15zqTdZKmrfA",
       "appleId": 1000565743887,
+      "subjects": [
+        "Buddhafield"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ObfR2IITW15zqTdZKmrfA",
         "apple": "https://podcasts.apple.com/podcast/holy-hell-will-allen-on-unmasking-buddhafield-part-2/id1553334816?i=1000565743887"
@@ -1246,6 +1360,9 @@
       "explicit": true,
       "spotifyId": "42yWiRmPm2vRh9snzCmJ81",
       "appleId": 1000565331289,
+      "subjects": [
+        "Buddhafield"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/42yWiRmPm2vRh9snzCmJ81",
         "apple": "https://podcasts.apple.com/podcast/holy-hell-will-allen-on-unmasking-buddhafield-part-1/id1553334816?i=1000565331289"
@@ -1260,6 +1377,10 @@
       "explicit": true,
       "spotifyId": "4fZL1FPR4cuyP8Qmp4g8GQ",
       "appleId": 1000564488976,
+      "subjects": [
+        "Fellowship Of Friends",
+        "Teal Swan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4fZL1FPR4cuyP8Qmp4g8GQ",
         "apple": "https://podcasts.apple.com/podcast/bigger-than-the-pope-jennings-brown-on-teal-swan/id1553334816?i=1000564488976"
@@ -1275,7 +1396,8 @@
       "spotifyId": "75BszQ2eXG0tEGw9eyzLjV",
       "appleId": 1000563235613,
       "subjects": [
-        "Fellowship of Friends"
+        "Fellowship Of Friends",
+        "Teal Swan"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75BszQ2eXG0tEGw9eyzLjV",
@@ -1291,6 +1413,9 @@
       "explicit": true,
       "spotifyId": "2epKZKgPRmrCV7jYhRbA5f",
       "appleId": 1000561531893,
+      "subjects": [
+        "Hasidic Judaism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2epKZKgPRmrCV7jYhRbA5f",
         "apple": "https://podcasts.apple.com/podcast/not-orthodox-tova-mirvis/id1553334816?i=1000561531893"
@@ -1305,6 +1430,9 @@
       "explicit": true,
       "spotifyId": "6wDMRjgE1UcfKAepvmi8vn",
       "appleId": 1000560019174,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wDMRjgE1UcfKAepvmi8vn",
         "apple": "https://podcasts.apple.com/podcast/host-mode-sarah-nippy-answer-your-burning-questions/id1553334816?i=1000560019174"
@@ -1319,6 +1447,9 @@
       "explicit": true,
       "spotifyId": "0XOLtQvBSg2pnEi007iW4a",
       "appleId": 1000559301661,
+      "subjects": [
+        "Remnant Fellowship"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0XOLtQvBSg2pnEi007iW4a",
         "apple": "https://podcasts.apple.com/podcast/the-way-back-gina-wilson-on-faith-after-the-way-down/id1553334816?i=1000559301661"
@@ -1333,6 +1464,9 @@
       "explicit": true,
       "spotifyId": "7HuzxHzTN3bAOJDD0twgDi",
       "appleId": 1000558575845,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7HuzxHzTN3bAOJDD0twgDi",
         "apple": "https://podcasts.apple.com/podcast/voicing-doubt-ian-james-corlett-on-leaving-the/id1553334816?i=1000558575845"
@@ -1375,6 +1509,9 @@
       "explicit": true,
       "spotifyId": "2hJoK9coCkXB0n3jrNrJwD",
       "appleId": 1000556151327,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2hJoK9coCkXB0n3jrNrJwD",
         "apple": "https://podcasts.apple.com/podcast/surviving-wild-wild-country-erin-robbins-speaks-out/id1553334816?i=1000556151327"
@@ -1389,6 +1526,10 @@
       "explicit": true,
       "spotifyId": "096LaibgENaIukm4BNPMo0",
       "appleId": 1000555426220,
+      "subjects": [
+        "NXIVM",
+        "One-on-one"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/096LaibgENaIukm4BNPMo0",
         "apple": "https://podcasts.apple.com/podcast/albc-at-sxsw-with-sarah-berman-amanda-montell/id1553334816?i=1000555426220"
@@ -1403,6 +1544,9 @@
       "explicit": true,
       "spotifyId": "6sUuDQ5n2ohP7CePNOPzIh",
       "appleId": 1000554687787,
+      "subjects": [
+        "One-on-one"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6sUuDQ5n2ohP7CePNOPzIh",
         "apple": "https://podcasts.apple.com/podcast/sarma-speaks-a-bad-vegan-exclusive/id1553334816?i=1000554687787"
@@ -1417,6 +1561,9 @@
       "explicit": true,
       "spotifyId": "0HOQIIFa03hWb882wJm30U",
       "appleId": 1000553913774,
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HOQIIFa03hWb882wJm30U",
         "apple": "https://podcasts.apple.com/podcast/unholy-spirits-eric-skwarczynski-on-darkness-in-the-ifb/id1553334816?i=1000553913774"
@@ -1445,6 +1592,9 @@
       "explicit": true,
       "spotifyId": "5i18nLupGGKxGwdMUKMhAt",
       "appleId": 1000552416835,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5i18nLupGGKxGwdMUKMhAt",
         "apple": "https://podcasts.apple.com/podcast/make-me-a-god-jon-atack/id1553334816?i=1000552416835"
@@ -1459,6 +1609,9 @@
       "explicit": true,
       "spotifyId": "4qFHBqNEwQfvbH0S8aV8qY",
       "appleId": 1000551735268,
+      "subjects": [
+        "Bentinho Massaro"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qFHBqNEwQfvbH0S8aV8qY",
         "apple": "https://podcasts.apple.com/podcast/bentinho-massaro-sucks-part-2/id1553334816?i=1000551735268"
@@ -1473,6 +1626,9 @@
       "explicit": true,
       "spotifyId": "1jaa29qbSAN1iRqchSzcaI",
       "appleId": 1000551732843,
+      "subjects": [
+        "Bentinho Massaro"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1jaa29qbSAN1iRqchSzcaI",
         "apple": "https://podcasts.apple.com/podcast/bentinho-massaro-sucks-part-1/id1553334816?i=1000551732843"
@@ -1487,6 +1643,9 @@
       "explicit": true,
       "spotifyId": "2NijRS6UzE6Rjuj6RSojXG",
       "appleId": 1000551004554,
+      "subjects": [
+        "Twin Flames Universe"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2NijRS6UzE6Rjuj6RSojXG",
         "apple": "https://podcasts.apple.com/podcast/keely-griffin-on-twin-flames-other-dumpster-fires/id1553334816?i=1000551004554"
@@ -1501,6 +1660,9 @@
       "explicit": true,
       "spotifyId": "67jBg5abqCW1wRgVAk21k6",
       "appleId": 1000550279434,
+      "subjects": [
+        "Evangelicalism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/67jBg5abqCW1wRgVAk21k6",
         "apple": "https://podcasts.apple.com/podcast/dare-to-doubt-alice-grecyzn-part-2/id1553334816?i=1000550279434"
@@ -1515,6 +1677,9 @@
       "explicit": true,
       "spotifyId": "49AO5RI2eLsfflT1G6lLkY",
       "appleId": 1000549495983,
+      "subjects": [
+        "Evangelicalism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/49AO5RI2eLsfflT1G6lLkY",
         "apple": "https://podcasts.apple.com/podcast/dare-to-doubt-alice-grecyzn-part-1/id1553334816?i=1000549495983"
@@ -1529,6 +1694,9 @@
       "explicit": true,
       "spotifyId": "7AXlw8A7EhHFW3jQVysRVO",
       "appleId": 1000548788454,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7AXlw8A7EhHFW3jQVysRVO",
         "apple": "https://podcasts.apple.com/podcast/silver-fox-mark-vicente-part-2/id1553334816?i=1000548788454"
@@ -1543,6 +1711,9 @@
       "explicit": true,
       "spotifyId": "6LClUeKDlvnF6HQuNCgfII",
       "appleId": 1000548085556,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6LClUeKDlvnF6HQuNCgfII",
         "apple": "https://podcasts.apple.com/podcast/silver-fox-mark-vicente-part-1/id1553334816?i=1000548085556"
@@ -1571,6 +1742,9 @@
       "explicit": true,
       "spotifyId": "2uYGJniwNVf5Tg2QUT8QAu",
       "appleId": 1000546189052,
+      "subjects": [
+        "Transcendental Meditation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2uYGJniwNVf5Tg2QUT8QAu",
         "apple": "https://podcasts.apple.com/podcast/master-of-the-cultiverse-patrick-ryan-on/id1553334816?i=1000546189052"
@@ -1585,6 +1759,9 @@
       "explicit": true,
       "spotifyId": "4EMlKisp43MzqyVSeKIeEF",
       "appleId": 1000545483599,
+      "subjects": [
+        "Center For Transformational Learning"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4EMlKisp43MzqyVSeKIeEF",
         "apple": "https://podcasts.apple.com/podcast/wake-up-call-gerette-buglion-on-everyday-cults/id1553334816?i=1000545483599"
@@ -1599,6 +1776,9 @@
       "explicit": true,
       "spotifyId": "5UGRYIesPKiitk4Fj78TB3",
       "appleId": 1000544777876,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5UGRYIesPKiitk4Fj78TB3",
         "apple": "https://podcasts.apple.com/podcast/attachment-theory-dr-alexandra-stein-on-terror-love/id1553334816?i=1000544777876"
@@ -1613,6 +1793,9 @@
       "explicit": true,
       "spotifyId": "1oA9q7Kkq40TPHI61Q7AA6",
       "appleId": 1000544062984,
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1oA9q7Kkq40TPHI61Q7AA6",
         "apple": "https://podcasts.apple.com/podcast/brazen-nadia-bolz-weber-on-sex-shame-toxic-religion/id1553334816?i=1000544062984"
@@ -1641,6 +1824,9 @@
       "explicit": true,
       "spotifyId": "4ChnLadecP8c2VkXvljXVQ",
       "appleId": 1000542678976,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ChnLadecP8c2VkXvljXVQ",
         "apple": "https://podcasts.apple.com/podcast/groundbreaker-moira-penza-on-prosecuting-nxivm/id1553334816?i=1000542678976"
@@ -1655,6 +1841,9 @@
       "explicit": true,
       "spotifyId": "3J7YwwfkcHmtW9yVvwlZ2n",
       "appleId": 1000541923159,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3J7YwwfkcHmtW9yVvwlZ2n",
         "apple": "https://podcasts.apple.com/podcast/the-heretic-dr-john-dehlin-on-mormonism/id1553334816?i=1000541923159"
@@ -1669,6 +1858,9 @@
       "explicit": true,
       "spotifyId": "04C73AAeb4maWxCluCNy0h",
       "appleId": 1000541081453,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/04C73AAeb4maWxCluCNy0h",
         "apple": "https://podcasts.apple.com/podcast/stolen-elizabeth-gilpin-on-the-troubled-teen-industry/id1553334816?i=1000541081453"
@@ -1683,6 +1875,9 @@
       "explicit": true,
       "spotifyId": "1M9uqQHFmWlAqfBcpBlqOh",
       "appleId": 1000540348384,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1M9uqQHFmWlAqfBcpBlqOh",
         "apple": "https://podcasts.apple.com/podcast/lularich-girl-roberta-blevins-on-life-after-mlm/id1553334816?i=1000540348384"
@@ -1711,6 +1906,9 @@
       "explicit": true,
       "spotifyId": "1q7wNrX2xjtGI8anLK0D9S",
       "appleId": 1000538895880,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1q7wNrX2xjtGI8anLK0D9S",
         "apple": "https://podcasts.apple.com/podcast/hello-again-cultiverse/id1553334816?i=1000538895880"
@@ -1739,6 +1937,9 @@
       "explicit": false,
       "spotifyId": "4LJPQ7pdHeoqRKBkjV3yZ2",
       "appleId": 1000527952434,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LJPQ7pdHeoqRKBkjV3yZ2",
         "apple": "https://podcasts.apple.com/podcast/bonus-summer-episode-catching-up-with-india-oxenberg/id1553334816?i=1000527952434"
@@ -1753,6 +1954,9 @@
       "explicit": false,
       "spotifyId": "6tAZrvR4fNBXFsFjOIQs71",
       "appleId": 1000521042322,
+      "subjects": [
+        "Legislation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6tAZrvR4fNBXFsFjOIQs71",
         "apple": "https://podcasts.apple.com/podcast/fgkia-joyce-short-nina-lucas-on-defining-consent/id1553334816?i=1000521042322"
@@ -1767,6 +1971,9 @@
       "explicit": false,
       "spotifyId": "4HRqZDPT4Zyxc5zKUKIbVw",
       "appleId": 1000519819593,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4HRqZDPT4Zyxc5zKUKIbVw",
         "apple": "https://podcasts.apple.com/podcast/shameless-dan-shaw-on-gaslighting-narcissists-recovering/id1553334816?i=1000519819593"
@@ -1781,6 +1988,9 @@
       "explicit": false,
       "spotifyId": "7KSszUW05eSffTgAuY2qGo",
       "appleId": 1000518723210,
+      "subjects": [
+        "Qanon"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7KSszUW05eSffTgAuY2qGo",
         "apple": "https://podcasts.apple.com/podcast/the-breakup-samantha-freedom-on-leaving-the-alt-right/id1553334816?i=1000518723210"
@@ -1795,6 +2005,9 @@
       "explicit": false,
       "spotifyId": "6Yy4I1Q0jIDx7EHzStkp0p",
       "appleId": 1000517738303,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Yy4I1Q0jIDx7EHzStkp0p",
         "apple": "https://podcasts.apple.com/podcast/wtf-matthew-remski-on-conspirituality/id1553334816?i=1000517738303"
@@ -1809,6 +2022,9 @@
       "explicit": false,
       "spotifyId": "4r6eHlGRHk9FqUKgYqP1b6",
       "appleId": 1000516746356,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4r6eHlGRHk9FqUKgYqP1b6",
         "apple": "https://podcasts.apple.com/podcast/catching-up-sarah-nippy-circle-back/id1553334816?i=1000516746356"
@@ -1823,6 +2039,9 @@
       "explicit": false,
       "spotifyId": "7sKm6Ef8vDYrsYcXfzPqtx",
       "appleId": 1000515924430,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7sKm6Ef8vDYrsYcXfzPqtx",
         "apple": "https://podcasts.apple.com/podcast/illusion-of-hope-douglas-brooks-on-mlms/id1553334816?i=1000515924430"
@@ -1837,6 +2056,9 @@
       "explicit": false,
       "spotifyId": "3gSaao7A0wXJFZCzrcQMud",
       "appleId": 1000514951459,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gSaao7A0wXJFZCzrcQMud",
         "apple": "https://podcasts.apple.com/podcast/happy-now-susan-dones-the-early-exit/id1553334816?i=1000514951459"
@@ -1851,6 +2073,10 @@
       "explicit": false,
       "spotifyId": "5bI6QoM3WyXc9kLcIe6izt",
       "appleId": 1000513986337,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5bI6QoM3WyXc9kLcIe6izt",
         "apple": "https://podcasts.apple.com/podcast/take-back-your-life-dr-janja-lalich-cult-recovery/id1553334816?i=1000513986337"
@@ -1865,6 +2091,9 @@
       "explicit": false,
       "spotifyId": "5BZBIdxvbwR8GI1ZiBrZM4",
       "appleId": 1000513142575,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BZBIdxvbwR8GI1ZiBrZM4",
         "apple": "https://podcasts.apple.com/podcast/f-ck-this-im-out-mike-rinder-the-about-face/id1553334816?i=1000513142575"
@@ -1879,6 +2108,9 @@
       "explicit": false,
       "spotifyId": "3oTateIsXxOBRQS1ZwFRng",
       "appleId": 1000512131987,
+      "subjects": [
+        "Scientology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3oTateIsXxOBRQS1ZwFRng",
         "apple": "https://podcasts.apple.com/podcast/heal-that-sh-t-leah-remini-the-aftermath/id1553334816?i=1000512131987"
@@ -1893,6 +2125,9 @@
       "explicit": false,
       "spotifyId": "2N3fL6O709Tk71bGIje8t9",
       "appleId": 1000511114328,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2N3fL6O709Tk71bGIje8t9",
         "apple": "https://podcasts.apple.com/podcast/cults-101-dr-steven-hassan-the-bite-model/id1553334816?i=1000511114328"
@@ -1907,6 +2142,9 @@
       "explicit": false,
       "spotifyId": "1rqdgnQ0xmJrA5STVQPB1l",
       "appleId": 1000511114327,
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1rqdgnQ0xmJrA5STVQPB1l",
         "apple": "https://podcasts.apple.com/podcast/this-is-us-meet-the-hosts/id1553334816?i=1000511114327"
