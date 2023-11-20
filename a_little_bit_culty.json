@@ -5,6 +5,23 @@
   "appleId": 1553334816,
   "episodes": [
     {
+      "id": "9ef0eb3b-963f-4a38-9a6e-f61c50635796",
+      "title": "This American Dream: Jane Marie on Wellness",
+      "description": "Today\u2019s episode is sponsored by BetterHelp.\u00A0 Jane Marie is the Peabody and Emmy Award-winning journalist, author, and producer of This American Life. Now, she\u2019s hosting the hit investigative podcast The Dream where she\u2019s examined pyramid schemes and culty, late-stage, self-care capitalism. In season 3, she gives the side-eye to all the gurus and life coaches that promise new and improved secrets to living our best lives as they empty the pockets of working class people. Check out this podcaster-insider convo on the culty dynamics of selling the American dream via prosperity gospel. \u00A0 If you missed ALBC\u2019s shows on MLMs, check \u2018em out:\u00A0   Emily Lynn Paulson describes suburban mom-squad MLMs;\u00A0   Douglas Brooks represents victims of MLM schemers;\u00A0   and trainer Roberta Blevins testified against LuLaRoe.\u00A0   \u00A0 NOTES Jane Marie and her partner \u2013 former Modest Mouse guitarist Dann Gallucci \u2013 started Little Everywhere, a podcast production house and recording studio renowned for Michelle Obama\u2019s The Light Podcast and The Dream. Jane Marie\u2019s forthcoming book Selling the Dream exposes the scourge of multilevel marketing schemes and how they have profited off the evisceration of the American working class. It\u2019s available for preorder at www.Jane-Marie.com. \u00A0 Find Jane on social media: Twitter, Instagram \u0026  TikTok. \u00A0 Also\u2026 \u00A0 Let it be known far and wide, loud and clear that\u2026 \u00A0 The views and opinions expressed on A Little Bit Culty do not necessarily reflect the official policy or position of the podcast. Any content provided by our guests, bloggers, sponsors or authors are of their opinion and are not intended to malign any religion, group, club, organization, business individual, anyone or anything. Nobody\u2019s mad at you, just don\u2019t be a culty fuckwad. \u00A0 OTHER LINKS: \u00A0 Check out our lovely sponsors Join \u2018A Little Bit Culty\u2019 on Patreon Get poppin\u2019 fresh ALBC Swag Support the pod and smash this link Cult awareness and recovery resources \u00A0 CREDITS:\u00A0 \u00A0 Executive Producers: Sarah Edmondson \u0026 Anthony Ames Production Partner: Citizens of Sound Producer: Will Retherford Co-Creator: Jess Tardy Writer: Holly Zadra Theme Song: \u201CCultivated\u201D by Jon Bryant co-written with Nygel Asselin",
+      "release": "2023-11-20T09:00:00Z",
+      "duration": "00:57:23.0880000",
+      "explicit": false,
+      "spotifyId": "4ksXswI1r6W58GyZCl2xAy",
+      "appleId": 1000635402256,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ksXswI1r6W58GyZCl2xAy",
+        "apple": "https://podcasts.apple.com/podcast/this-american-dream-jane-marie-on-wellness/id1553334816?i=1000635402256"
+      }
+    },
+    {
       "id": "59281985-1f07-482a-bf55-cfcb4db7731e",
       "title": "PATREON PREVIEW: Sarah \u0026 Nippy Answer Your Questions",
       "description": "This is a short preview of an episode Sarah \u0026 Nippy recorded for the\u00A0A Little Bit Culty Patreon. If you want to hear the whole thing, plus get bonus to ad-free episodes and other exclusive content, sign up at:\u00A0www.patreon.com/alittlebitculty",
@@ -28,7 +45,9 @@
       "spotifyId": "3eZQolUSENE8M6AM9HZ6jO",
       "appleId": 1000634605193,
       "subjects": [
-        "Troubled Teen Industry"
+        "Troubled Teen Industry",
+        "Scientology",
+        "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3eZQolUSENE8M6AM9HZ6jO",
@@ -305,7 +324,8 @@
       "spotifyId": "6zbyTrc2uwRlGHffeGHXr4",
       "appleId": 1000626671506,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6zbyTrc2uwRlGHffeGHXr4",
@@ -622,7 +642,9 @@
       "spotifyId": "7x2DStLI5X4ZFjy0Eah46M",
       "appleId": 1000610369654,
       "subjects": [
-        "Landmark"
+        "Landmark",
+        "NXIVM",
+        "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7x2DStLI5X4ZFjy0Eah46M",
@@ -1120,6 +1142,9 @@
       "explicit": true,
       "spotifyId": "3Jptb2JZUMtf3boNO17mXD",
       "appleId": 1000582866451,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Jptb2JZUMtf3boNO17mXD",
         "apple": "https://podcasts.apple.com/podcast/the-ego-trap-eckhart-tolle-on-cults-other-mental/id1553334816?i=1000582866451"
@@ -1148,6 +1173,9 @@
       "explicit": true,
       "spotifyId": "2axYjTbwpvICzfWehkAZJn",
       "appleId": 1000582124759,
+      "subjects": [
+        "Self-Help"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2axYjTbwpvICzfWehkAZJn",
         "apple": "https://podcasts.apple.com/podcast/the-ego-trap-eckhart-tolle-on-cults-other-mental/id1553334816?i=1000582124759"
@@ -1228,7 +1256,8 @@
       "spotifyId": "31HmrQJUeCHfnAGuJH1glI",
       "appleId": 1000574608873,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31HmrQJUeCHfnAGuJH1glI",
@@ -1448,7 +1477,8 @@
       "spotifyId": "0XOLtQvBSg2pnEi007iW4a",
       "appleId": 1000559301661,
       "subjects": [
-        "Remnant Fellowship"
+        "Remnant Fellowship",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0XOLtQvBSg2pnEi007iW4a",
@@ -1481,6 +1511,9 @@
       "explicit": true,
       "spotifyId": "1ly09aua9y8g6nUupBb0L0",
       "appleId": 1000557889558,
+      "subjects": [
+        "Corporate Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ly09aua9y8g6nUupBb0L0",
         "apple": "https://podcasts.apple.com/podcast/cults-at-work-cameron-herold-on-corporate-culture/id1553334816?i=1000557889558"
@@ -1593,7 +1626,8 @@
       "spotifyId": "5i18nLupGGKxGwdMUKMhAt",
       "appleId": 1000552416835,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5i18nLupGGKxGwdMUKMhAt",
@@ -1777,7 +1811,8 @@
       "spotifyId": "5UGRYIesPKiitk4Fj78TB3",
       "appleId": 1000544777876,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5UGRYIesPKiitk4Fj78TB3",
@@ -1810,6 +1845,9 @@
       "explicit": true,
       "spotifyId": "2afJxuUPoWKcvAAx6JP7AK",
       "appleId": 1000543337523,
+      "subjects": [
+        "James Arthur Ray"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2afJxuUPoWKcvAAx6JP7AK",
         "apple": "https://podcasts.apple.com/podcast/guru-free-laura-tucker-on-safety-for-seekers/id1553334816?i=1000543337523"
@@ -1907,7 +1945,8 @@
       "spotifyId": "1q7wNrX2xjtGI8anLK0D9S",
       "appleId": 1000538895880,
       "subjects": [
-        "NXIVM"
+        "NXIVM",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1q7wNrX2xjtGI8anLK0D9S",
@@ -1972,7 +2011,10 @@
       "spotifyId": "4HRqZDPT4Zyxc5zKUKIbVw",
       "appleId": 1000519819593,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4HRqZDPT4Zyxc5zKUKIbVw",
@@ -2006,7 +2048,10 @@
       "spotifyId": "6Yy4I1Q0jIDx7EHzStkp0p",
       "appleId": 1000517738303,
       "subjects": [
-        "NXIVM"
+        "NXIVM",
+        "Cult Recovery",
+        "Psychology",
+        "Yoga Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Yy4I1Q0jIDx7EHzStkp0p",

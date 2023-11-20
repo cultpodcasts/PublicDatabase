@@ -452,7 +452,8 @@
       "explicit": false,
       "youTubeId": "0AAR7S9p_BM",
       "subjects": [
-        "Transcendental Meditation"
+        "Transcendental Meditation",
+        "Urantia Foundation"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=0AAR7S9p_BM"
@@ -1650,6 +1651,9 @@
       "duration": "00:42:18",
       "explicit": false,
       "youTubeId": "JbVBdBB1vPA",
+      "subjects": [
+        "Legislation"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=JbVBdBB1vPA"
       }
@@ -1878,6 +1882,9 @@
       "duration": "00:35:12",
       "explicit": false,
       "youTubeId": "CTnOHUZ1Q8A",
+      "subjects": [
+        "Church of Bible Understanding"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=CTnOHUZ1Q8A"
       }

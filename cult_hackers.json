@@ -7,6 +7,32 @@
   "youTubePlaylistId": "PLHaoUhqL90rdqwrta97n5EIlujQT9KSex",
   "episodes": [
     {
+      "id": "b4bc3aba-1bbb-424b-b16e-c4c1016ebda9",
+      "title": "Cult Hackers Birthday Party",
+      "description": "Join the party to listen to some of our nearly 100 hundred different guests over the last three years. We chat over a glass of virtual bubbly to ex members of groups such as Jehovah\u0027s Witnesses, Children of God, NXIVM, Rajneeshpuram, Evangelicalism, Amish, Christian Fundamentalism and Conspiracism. Guests featured: Lizzie Ens, former Amish Brent Lee, former Conspiracist Daniella Mestyanek Young, Army Veteran and former member of the Children of God Chris French, Emeritus Professor of Anomalistic Psychology Goldsmiths UOL Susan Dones, ex NXIVM Daniel Allen Cox, Author and Former Jehovah\u0027s Witness Rachael Reign, Activist and Former UCKG Clare Alison Hams, Therapist and Former Jehovah\u0027s Witness JT and Lady Cee, YouTubers and ex Jehovah\u0027s Witnesses Dr Heather Ransom, Academic and ex Jehovah\u0027s Witness Alexander Millar, Artist and ex Jehovah\u0027s Witness Ali Millar, Author and ex Jehovah\u0027s Witness Kacey, Cult Vault Podcast Dr Alexandra Stein, Academic Daniel Stricker, Former Member KwaSizabantu Erika Bornean, Former Member KwaSizabantu Kendra Bryan, Former Evangelical Nicola Manson, Former Member Rajneeshpuram Riley, YouTuber and Former Jehovah Witness \u00A0 To reach out to us: https://www.culthackers.com/ To become a patron: https://www.patreon.com/culthackers/posts",
+      "release": "2023-11-18T00:01:00Z",
+      "duration": "01:10:38.4000000",
+      "explicit": false,
+      "spotifyId": "6i7kcgGMAgColYvZLYnpuF",
+      "appleId": 1000635231730,
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "NXIVM",
+        "Children Of God",
+        "Evangelicalism",
+        "Amish",
+        "Bhagwan Shree Rajneesh",
+        "Kwasizabantu",
+        "Cult-Expert",
+        "Universal Church Of The Kingdom Of God",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6i7kcgGMAgColYvZLYnpuF",
+        "apple": "https://podcasts.apple.com/podcast/cult-hackers-birthday-party/id1540824671?i=1000635231730"
+      }
+    },
+    {
       "id": "027c4306-c1c0-4d9c-918a-7054f70be19a",
       "title": "Discovering who you are after the cult, with Rachel Bernstein",
       "description": "Celine and Stephen speak to cult expert, therapist and podcaster, Rachel Bernstein about her introduction into the topic, her work as a therapist helping leavers and her thoughts on the anti-cult ecosystem. Such a thrill to speak to Rachel about her work, her experiences and her insights into cults. To reach out to us: https://www.culthackers.com/ To become a patron: https://www.patreon.com/culthackers/posts Links about today\u0027s guest Indoctrination podcast: https://www.podpage.com/indoctrination/",
@@ -16,7 +42,8 @@
       "spotifyId": "7CcbGL3HVWKKIvKYZa3kR4",
       "appleId": 1000634432514,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CcbGL3HVWKKIvKYZa3kR4",
@@ -33,7 +60,8 @@
       "spotifyId": "7pgBle41eP6MtrXavXyFAN",
       "appleId": 1000633647886,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7pgBle41eP6MtrXavXyFAN",
@@ -136,6 +164,9 @@
       "explicit": true,
       "spotifyId": "31NqyK4RqcUMMOG1IcS4Wt",
       "appleId": 1000630491451,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31NqyK4RqcUMMOG1IcS4Wt",
         "apple": "https://podcasts.apple.com/podcast/dennis-tourish-on-the-dark-side-of-charismatic-leaders/id1540824671?i=1000630491451"
@@ -187,7 +218,8 @@
       "spotifyId": "6RpJzWoLbW90ZLo8gYhyyw",
       "appleId": 1000628055001,
       "subjects": [
-        "Institute In Basic Life Principles"
+        "Institute In Basic Life Principles",
+        "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6RpJzWoLbW90ZLo8gYhyyw",
@@ -217,6 +249,9 @@
       "explicit": true,
       "spotifyId": "5HR9w7II2QPsqzrfESQYdX",
       "appleId": 1000627251508,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5HR9w7II2QPsqzrfESQYdX",
         "apple": "https://podcasts.apple.com/podcast/cultic-motivation/id1540824671?i=1000627251508"
@@ -231,6 +266,9 @@
       "explicit": true,
       "spotifyId": "3JnnRTvwMKHh3KyO4jnbpN",
       "appleId": 1000626507085,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3JnnRTvwMKHh3KyO4jnbpN",
         "apple": "https://podcasts.apple.com/us/podcast/cult-hopping-with-sue-winter/id1540824671?i=1000626507085\u0026uo=4"
@@ -298,7 +336,8 @@
       "spotifyId": "5nVT2MKCzLV5qF8YqUi0lN",
       "appleId": 1000623858001,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5nVT2MKCzLV5qF8YqUi0lN",
@@ -329,7 +368,8 @@
       "spotifyId": "2iHRJx1wNNJXYA08oQHBHI",
       "appleId": 1000623110094,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2iHRJx1wNNJXYA08oQHBHI",
@@ -363,7 +403,8 @@
       "spotifyId": "0Ooou6sYUopKrK1Guw0eVb",
       "appleId": 1000622338444,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Ooou6sYUopKrK1Guw0eVb",
@@ -398,7 +439,8 @@
       "spotifyId": "53QH3ogrx01h2uBNE1CD7Y",
       "appleId": 1000621574752,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/53QH3ogrx01h2uBNE1CD7Y",
@@ -415,7 +457,10 @@
       "spotifyId": "2PRPbPpuyS0pTN383tzj5G",
       "appleId": 1000621201960,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Psychology",
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2PRPbPpuyS0pTN383tzj5G",
@@ -432,7 +477,8 @@
       "spotifyId": "3zlAOL3WwlQ1fmbPB0zBmX",
       "appleId": 1000620832996,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3zlAOL3WwlQ1fmbPB0zBmX",
@@ -467,7 +513,8 @@
       "spotifyId": "55Vzgde04Hm3B7Dbueh8sw",
       "appleId": 1000619303757,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/55Vzgde04Hm3B7Dbueh8sw",
@@ -501,7 +548,8 @@
       "spotifyId": "0lzl1NJN7XSCajJfLUNWMD",
       "appleId": 1000618609901,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0lzl1NJN7XSCajJfLUNWMD",
@@ -553,7 +601,10 @@
       "spotifyId": "5LVEqAPvbaneCCVTwXGNNG",
       "appleId": 1000616336029,
       "subjects": [
-        "Jehovah\u0027s Witnesses"
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery",
+        "Psychology",
+        "Legislation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5LVEqAPvbaneCCVTwXGNNG",
@@ -588,7 +639,8 @@
       "appleId": 1000614658843,
       "subjects": [
         "Cult Recovery",
-        "Legislation"
+        "Legislation",
+        "Qanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1vBCtuQlvW6zFZVMJ2TJeM",
@@ -972,7 +1024,8 @@
       "appleId": 1000592933923,
       "subjects": [
         "Cult Recovery",
-        "Legislation"
+        "Legislation",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3b0UCZ9yxC55fK0WuvkrWS",
@@ -1417,7 +1470,8 @@
       "spotifyId": "4cboQihimYvAQUH3c4qdU1",
       "appleId": 1000579059788,
       "subjects": [
-        "Jehovah\u0027s Witnesses"
+        "Jehovah\u0027s Witnesses",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cboQihimYvAQUH3c4qdU1",
@@ -1484,7 +1538,8 @@
       "appleId": 1000575995212,
       "subjects": [
         "Aetherius Society",
-        "Lambeth Slavery Case"
+        "Lambeth Slavery Case",
+        "Inedia"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7GtxebBe98Kgi0AHPxAHGZ",
@@ -1582,6 +1637,9 @@
       "explicit": true,
       "spotifyId": "51d6fJ5Oue7T0oLgKdPDKA",
       "appleId": 1000569385485,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/51d6fJ5Oue7T0oLgKdPDKA",
         "apple": "https://podcasts.apple.com/podcast/icsa-conference-highlights/id1540824671?i=1000569385485"
@@ -1693,7 +1751,8 @@
       "spotifyId": "7ixnKJkL7NPWr44o1MBvUe",
       "appleId": 1000563067771,
       "subjects": [
-        "Jehovah\u0027s Witnesses"
+        "Jehovah\u0027s Witnesses",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ixnKJkL7NPWr44o1MBvUe",
@@ -1857,7 +1916,8 @@
       "spotifyId": "2nQycEaLfvWw9xMvzdtbjx",
       "appleId": 1000555645607,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2nQycEaLfvWw9xMvzdtbjx",
@@ -2129,6 +2189,9 @@
       "explicit": true,
       "spotifyId": "3baQBAdCVMZKMGdFZiRT74",
       "appleId": 1000549717599,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3baQBAdCVMZKMGdFZiRT74",
         "apple": "https://podcasts.apple.com/podcast/gaslight-the-movie-that-gave-us-the-playbook/id1540824671?i=1000549717599"
@@ -2143,6 +2206,9 @@
       "explicit": true,
       "spotifyId": "1aMiNiKXYOHI6QVvPpDaJ7",
       "appleId": 1000549395450,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1aMiNiKXYOHI6QVvPpDaJ7",
         "apple": "https://podcasts.apple.com/podcast/deconversion-and-religious-trauma-with-darren-slade-phd/id1540824671?i=1000549395450"
@@ -2603,6 +2669,9 @@
       "explicit": true,
       "spotifyId": "0dQXaB3rvfVReLfavhkyib",
       "appleId": 1000540243113,
+      "subjects": [
+        "Catholicism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0dQXaB3rvfVReLfavhkyib",
         "apple": "https://podcasts.apple.com/podcast/interview-with-the-prophets-of-free-thought/id1540824671?i=1000540243113"
@@ -2965,7 +3034,8 @@
       "spotifyId": "7JLy1NZpHUMAXdExOhSM7j",
       "appleId": 1000532689380,
       "subjects": [
-        "Jehovah\u0027s Witnesses"
+        "Jehovah\u0027s Witnesses",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7JLy1NZpHUMAXdExOhSM7j",
@@ -3320,7 +3390,8 @@
       "spotifyId": "5GRLxeYaxRmcqhriqMx2s1",
       "appleId": 1000525693767,
       "subjects": [
-        "Jehovah\u0027s Witnesses"
+        "Jehovah\u0027s Witnesses",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5GRLxeYaxRmcqhriqMx2s1",
@@ -3519,7 +3590,8 @@
       "spotifyId": "2ElemULGTt83i3O2HQ2QxP",
       "appleId": 1000519670319,
       "subjects": [
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ElemULGTt83i3O2HQ2QxP",
@@ -3616,7 +3688,8 @@
       "spotifyId": "70jMIl9872O4cV4coDrx0g",
       "appleId": 1000516621551,
       "subjects": [
-        "Jehovah\u0027s Witnesses"
+        "Jehovah\u0027s Witnesses",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/70jMIl9872O4cV4coDrx0g",
@@ -3767,6 +3840,9 @@
       "explicit": false,
       "spotifyId": "1vYFP9XVwFFcZjSMu1fpik",
       "appleId": 1000508154281,
+      "subjects": [
+        "Catholicism"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1vYFP9XVwFFcZjSMu1fpik",
         "apple": "https://podcasts.apple.com/podcast/ep-16-contraceptive-angst/id1540824671?i=1000508154281"
@@ -3817,7 +3893,8 @@
       "appleId": 1000505684345,
       "subjects": [
         "Cult-Expert",
-        "Psychology"
+        "Psychology",
+        "Qanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/29s1OHPdu30pHO7eKZSb1d",

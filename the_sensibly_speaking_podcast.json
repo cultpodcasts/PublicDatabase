@@ -7,6 +7,25 @@
   "youTubePlaylistId": "PLGrPM1Pg2h70sLFsz_SINbc3wA3kE_dtY",
   "episodes": [
     {
+      "id": "28d54fb4-860f-49fb-b728-0ca2f6c19161",
+      "title": "Scientology, Coverups and Real Crimes ft. Mirriam Francis",
+      "description": "This week I am joined by former Scientologist Mirriam Francis, whose story was featured on Scientology and the Aftermath, to discuss her experiences being raised in the Sea Org, escaping and what recovery has been like for her, including her involvement with the justice system for the abuse she endured at the hands of a family member. This is a tough but educational story about the lengths a cult will go to in hiding up its crimes.",
+      "release": "2023-11-18T07:00:00Z",
+      "duration": "01:27:27.0710000",
+      "explicit": false,
+      "spotifyId": "7zrXrkS8dlaapCZiztFVTh",
+      "appleId": 1000635248320,
+      "youTubeId": "kh52QwrBXK0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7zrXrkS8dlaapCZiztFVTh",
+        "apple": "https://podcasts.apple.com/podcast/scientology-coverups-and-real-crimes-ft-mirriam-francis/id1030984057?i=1000635248320",
+        "youtube": "https://www.youtube.com/watch?v=kh52QwrBXK0"
+      }
+    },
+    {
       "id": "de826b3d-6f31-43d7-99c6-c0adf82ecf54",
       "title": "Overcoming Childhood Religious Trauma ft. Dr. Darrel Ray",
       "description": "This week I am joined by Dr. Darrel Ray - psychologist, researcher, author and President of the Recovering from Religion Foundation - to discuss childhood religious trauma, why it exists and why it can be so life destroying. This is not an anti-religious screed - it is a psychological fact and one that we have to deal with if we want happy, successful children. Enjoy!",
@@ -115,7 +134,8 @@
       "subjects": [
         "Scientology",
         "Cult-Expert",
-        "Manson Family"
+        "Manson Family",
+        "Process Church of the Final Judgement"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6y0eb765GmO1iry1mSXKmp",
@@ -1229,8 +1249,8 @@
       "appleId": 1000569336807,
       "youTubeId": "VL8SIFVV4N0",
       "subjects": [
-        "Cult-Expert",
-        "Cult Recovery"
+        "Cult Recovery",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3X95CtE4F3ug6gs2qlvCAh",
@@ -1455,7 +1475,8 @@
       "appleId": 1000554543688,
       "youTubeId": "2GN7zQjIK20",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0xEdErLCgJj3TfMJPiExcQ",
@@ -1508,7 +1529,8 @@
       "appleId": 1000552278818,
       "youTubeId": "Wzf8keaw-s8",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/267dmt4YzVn9EaCUKHISsV",
@@ -1565,7 +1587,8 @@
       "appleId": 1000550136315,
       "youTubeId": "E17T3Xu3_iw",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6YlZkpYcpjvOT66AXStVVA",
@@ -2415,7 +2438,8 @@
       "youTubeId": "w6uc8n9Xga0",
       "subjects": [
         "Cult-Expert",
-        "Qanon"
+        "Qanon",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3PvPY1uR8gV95gvxSZUsD0",
@@ -4178,6 +4202,7 @@
       "youTubeId": "X58czBL47Bc",
       "subjects": [
         "Cult-Expert",
+        "Cult Recovery",
         "Psychology"
       ],
       "urls": {
@@ -4235,8 +4260,8 @@
       "appleId": 1000429040479,
       "youTubeId": "YwMPv2eoE_Y",
       "subjects": [
-        "Scientology",
-        "Human Trafficking"
+        "Human Trafficking",
+        "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/13OfB9nIEJyU6ntWvGIG56",
@@ -4603,6 +4628,7 @@
       "youTubeId": "QANpfqEKrn0",
       "subjects": [
         "Cult-Expert",
+        "Cult Recovery",
         "Psychology"
       ],
       "urls": {
@@ -5172,6 +5198,7 @@
       "youTubeId": "Jf2ETnnklMo",
       "subjects": [
         "Cult-Expert",
+        "Cult Recovery",
         "Scientology"
       ],
       "urls": {
@@ -5383,7 +5410,8 @@
       "appleId": 1000395529571,
       "youTubeId": "p5DRUtt3jU8",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3LtGj2UtVQCG8NrTS0AUSc",
@@ -5571,7 +5599,8 @@
       "appleId": 1000392610874,
       "youTubeId": "bpGCIKuG9lw",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7LhG7DAIKMUTyM3kUJuJup",
@@ -5609,9 +5638,9 @@
       "appleId": 1000392030449,
       "youTubeId": "Syye1B9sLlI",
       "subjects": [
+        "Cult Recovery",
         "Scientology",
-        "Cult-Expert",
-        "Cult Recovery"
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yqCyoxYxSm537yAYR8O8d",
@@ -5997,8 +6026,8 @@
       "explicit": false,
       "youTubeId": "B70c3Lalm_4",
       "subjects": [
-        "Cult-Expert",
-        "Cult Recovery"
+        "Cult Recovery",
+        "Cult-Expert"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=B70c3Lalm_4"
@@ -6357,7 +6386,8 @@
       "explicit": false,
       "youTubeId": "GHH-JpzcrDU",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=GHH-JpzcrDU"
@@ -6479,9 +6509,6 @@
       "duration": "00:54:00",
       "explicit": false,
       "youTubeId": "2RY1D8xDH3s",
-      "subjects": [
-        "EDUCO"
-      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=2RY1D8xDH3s"
       }
@@ -6859,9 +6886,9 @@
       "explicit": false,
       "youTubeId": "UkvAaTqSRzY",
       "subjects": [
+        "Cult Recovery",
         "Scientology",
-        "Cult-Expert",
-        "Cult Recovery"
+        "Cult-Expert"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=UkvAaTqSRzY"

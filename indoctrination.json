@@ -258,6 +258,9 @@
       "explicit": false,
       "spotifyId": "73HNWR97vIGjYP2Z9YNVeC",
       "appleId": 1000626951451,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/73HNWR97vIGjYP2Z9YNVeC",
         "apple": "https://podcasts.apple.com/podcast/you-cant-get-to-heaven-in-a-miniskirt-w-sarah-jessica/id1373939526?i=1000626951451"
@@ -335,7 +338,8 @@
       "spotifyId": "4TSDcNQVli7abLf4vP42fl",
       "appleId": 1000624640096,
       "subjects": [
-        "Institute In Basic Life Principles"
+        "Institute In Basic Life Principles",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4TSDcNQVli7abLf4vP42fl",
@@ -592,6 +596,7 @@
       "spotifyId": "6C3AGwXW9B9JLljNa6Qgfx",
       "appleId": 1000616005553,
       "subjects": [
+        "Cult Psychology",
         "Cult-Expert"
       ],
       "urls": {
@@ -609,7 +614,8 @@
       "spotifyId": "66B1UA4gT7YO2twnwCNE8O",
       "appleId": 1000615144600,
       "subjects": [
-        "International Churches Of Christ"
+        "International Churches Of Christ",
+        "Larry Ray"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66B1UA4gT7YO2twnwCNE8O",
@@ -643,6 +649,7 @@
       "spotifyId": "1DtBtcmOdrsvhksLC7KauV",
       "appleId": 1000614297981,
       "subjects": [
+        "Psychology",
         "Cult Recovery"
       ],
       "urls": {
@@ -863,8 +870,8 @@
       "spotifyId": "6CXJcbmkAZDeovB4d0Sbhw",
       "appleId": 1000605342925,
       "subjects": [
-        "Psychology",
-        "Human Trafficking"
+        "Human Trafficking",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CXJcbmkAZDeovB4d0Sbhw",
@@ -898,7 +905,8 @@
       "spotifyId": "66LXbyFjMUY7naVEezmFxD",
       "appleId": 1000604314690,
       "subjects": [
-        "International Churches Of Christ"
+        "International Churches Of Christ",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66LXbyFjMUY7naVEezmFxD",
@@ -949,7 +957,8 @@
       "spotifyId": "35e2j4RilGgGjd6mVG06fM",
       "appleId": 1000602299066,
       "subjects": [
-        "Larry Ray"
+        "Larry Ray",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/35e2j4RilGgGjd6mVG06fM",
@@ -966,7 +975,9 @@
       "spotifyId": "3aq7IsJQzz5SRn63OtWAsz",
       "appleId": 1000601105486,
       "subjects": [
-        "Larry Ray"
+        "Larry Ray",
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3aq7IsJQzz5SRn63OtWAsz",
@@ -1017,6 +1028,7 @@
       "spotifyId": "7Jki4H2xh17VVn33OdhyTT",
       "appleId": 1000598646614,
       "subjects": [
+        "Cult Psychology",
         "Psychology"
       ],
       "urls": {
@@ -1034,7 +1046,8 @@
       "spotifyId": "0zS42tWbY61HEVcUaUPF7g",
       "appleId": 1000597871487,
       "subjects": [
-        "Transcendental Meditation"
+        "Transcendental Meditation",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zS42tWbY61HEVcUaUPF7g",
@@ -1067,6 +1080,9 @@
       "explicit": false,
       "spotifyId": "38d4vttqiOg4apk35R7JTz",
       "appleId": 1000596524252,
+      "subjects": [
+        "Legislation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/38d4vttqiOg4apk35R7JTz",
         "apple": "https://podcasts.apple.com/podcast/codifying-consent-w-joyce-short-nina-lucas/id1373939526?i=1000596524252"
@@ -1113,7 +1129,8 @@
       "spotifyId": "2AnJ3L6TCkWfXzp3ze8gAf",
       "appleId": 1000593725078,
       "subjects": [
-        "Multi-Level Marketing"
+        "Multi-Level Marketing",
+        "Mary Kay"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AnJ3L6TCkWfXzp3ze8gAf",
@@ -1147,7 +1164,8 @@
       "spotifyId": "6V5xbD7e5iFBNNC4dIW14R",
       "appleId": 1000591489689,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6V5xbD7e5iFBNNC4dIW14R",
@@ -1178,7 +1196,8 @@
       "spotifyId": "58FJrsEyfXthhml9YCte0k",
       "appleId": 1000590827113,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58FJrsEyfXthhml9YCte0k",
@@ -1384,7 +1403,8 @@
       "spotifyId": "4gyhquRYurHAqxF4mgBHTO",
       "appleId": 1000583159509,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4gyhquRYurHAqxF4mgBHTO",
@@ -1903,7 +1923,8 @@
       "appleId": 1000564180015,
       "subjects": [
         "Cult Psychology",
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0W1itD4XP1M0NA0gxWged6",
@@ -2052,6 +2073,10 @@
       "explicit": false,
       "spotifyId": "19Z0RnfXUIMJcIVqSvfzTA",
       "appleId": 1000557701919,
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19Z0RnfXUIMJcIVqSvfzTA",
         "apple": "https://podcasts.apple.com/podcast/patreon-bonus-episode-preview-an-imagined-tragic/id1373939526?i=1000557701919"
@@ -2084,7 +2109,8 @@
       "spotifyId": "4lB3FRrcElPS7MQRYiFC62",
       "appleId": 1000556415673,
       "subjects": [
-        "Larry Ray"
+        "Larry Ray",
+        "Human Trafficking"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4lB3FRrcElPS7MQRYiFC62",
@@ -2253,7 +2279,8 @@
       "subjects": [
         "Evangelicalism",
         "Christian Science",
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Transcendental Meditation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/15blaqpjqaOXRMRJY9Aaqq",
@@ -2272,7 +2299,9 @@
       "subjects": [
         "Evangelicalism",
         "Christian Science",
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Psychology",
+        "Transcendental Meditation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Kaj9WjZjnWp65IuZSEO21",
@@ -2362,6 +2391,9 @@
       "explicit": false,
       "spotifyId": "57NPh1OvLICUjR17pVVTkQ",
       "appleId": 1000545052276,
+      "subjects": [
+        "Quiverfull"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/57NPh1OvLICUjR17pVVTkQ",
         "apple": "https://podcasts.apple.com/podcast/a-gospel-of-neglect-w-anna/id1373939526?i=1000545052276"
@@ -2377,6 +2409,7 @@
       "spotifyId": "5EynwI0VKmjoMcKZjUZ5O9",
       "appleId": 1000544317664,
       "subjects": [
+        "Quiverfull",
         "Evangelicalism"
       ],
       "urls": {
@@ -2428,7 +2461,12 @@
       "spotifyId": "1NBxWptRworIMah7H2RxCK",
       "appleId": 1000542214087,
       "subjects": [
-        "Manson Family"
+        "Manson Family",
+        "NXIVM",
+        "Children Of God",
+        "Two By Twos",
+        "Heaven\u0027s Gate",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1NBxWptRworIMah7H2RxCK",
@@ -2445,7 +2483,8 @@
       "spotifyId": "04fnbNq4PANIT9AKgmWqlG",
       "appleId": 1000541341205,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/04fnbNq4PANIT9AKgmWqlG",
@@ -2462,7 +2501,8 @@
       "spotifyId": "79sKEzCisghwZ0VfqfDBEU",
       "appleId": 1000540618056,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/79sKEzCisghwZ0VfqfDBEU",
@@ -2544,7 +2584,10 @@
       "spotifyId": "6fMINgoAx9Yx40TtT6pfRl",
       "appleId": 1000536268501,
       "subjects": [
-        "Troubled Teen Industry"
+        "Troubled Teen Industry",
+        "Psychology",
+        "Self-Help",
+        "Synanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6fMINgoAx9Yx40TtT6pfRl",
@@ -2612,7 +2655,9 @@
       "spotifyId": "66IaEi86tWIaySJYUAaB1O",
       "appleId": 1000533085719,
       "subjects": [
-        "NXIVM"
+        "NXIVM",
+        "Self-Help",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66IaEi86tWIaySJYUAaB1O",
@@ -2628,6 +2673,9 @@
       "explicit": false,
       "spotifyId": "5ZkhxbYYLd3IBXsQis1BBn",
       "appleId": 1000532376630,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ZkhxbYYLd3IBXsQis1BBn",
         "apple": "https://podcasts.apple.com/podcast/leaving-the-family-compound-w-cody-kandi/id1373939526?i=1000532376630"
@@ -2746,6 +2794,9 @@
       "explicit": false,
       "spotifyId": "7cPp6BrLC8keu4DwIVhT0u",
       "appleId": 1000526605922,
+      "subjects": [
+        "Adi Da"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7cPp6BrLC8keu4DwIVhT0u",
         "apple": "https://podcasts.apple.com/podcast/crazy-wise-guys-w-jonathan-hirsch/id1373939526?i=1000526605922"
@@ -2761,7 +2812,8 @@
       "spotifyId": "0DXXFSPvmRtIuk9RS7nw0e",
       "appleId": 1000525727588,
       "subjects": [
-        "Synanon"
+        "Synanon",
+        "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0DXXFSPvmRtIuk9RS7nw0e",
@@ -2792,7 +2844,8 @@
       "spotifyId": "2faP1c2eGTZXQjkfR6nohC",
       "appleId": 1000523911183,
       "subjects": [
-        "Christian Science"
+        "Christian Science",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2faP1c2eGTZXQjkfR6nohC",
@@ -2895,6 +2948,9 @@
       "explicit": false,
       "spotifyId": "6CtyP0K3ql1q2ddsFwd1eW",
       "appleId": 1000517098068,
+      "subjects": [
+        "Movement of Spiritual Inner Awareness"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CtyP0K3ql1q2ddsFwd1eW",
         "apple": "https://podcasts.apple.com/podcast/spiritual-meshugas-of-nothing-w-robbie-balonick/id1373939526?i=1000517098068"
@@ -3028,7 +3084,8 @@
       "spotifyId": "7xGNhEiaC4dsfn0MYvwO1H",
       "appleId": 1000508465936,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7xGNhEiaC4dsfn0MYvwO1H",
@@ -3046,6 +3103,7 @@
       "appleId": 1000507568685,
       "subjects": [
         "Cult-Expert",
+        "Cult Recovery",
         "Psychology"
       ],
       "urls": {
@@ -3081,7 +3139,7 @@
       "spotifyId": "4XfTeC7PYVj3yrxnm692Yx",
       "appleId": 1000505200487,
       "subjects": [
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4XfTeC7PYVj3yrxnm692Yx",
@@ -3098,7 +3156,9 @@
       "spotifyId": "3viv2Blrl4ETc86O0YDHvn",
       "appleId": 1000504515499,
       "subjects": [
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Multi-Level Marketing",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3viv2Blrl4ETc86O0YDHvn",
@@ -3162,6 +3222,9 @@
       "explicit": false,
       "spotifyId": "09WfBtaasdsvoLMbn28GAE",
       "appleId": 1000501838103,
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/09WfBtaasdsvoLMbn28GAE",
         "apple": "https://podcasts.apple.com/podcast/beyond-the-12-steps-w-brooke-knaack/id1373939526?i=1000501838103"
@@ -3307,8 +3370,8 @@
       "spotifyId": "4D06wx1jS5NQliBc8uVd3L",
       "appleId": 1000493081523,
       "subjects": [
-        "Christian Fundamentalist",
-        "Psychology"
+        "Psychology",
+        "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4D06wx1jS5NQliBc8uVd3L",
@@ -3376,7 +3439,8 @@
       "spotifyId": "06tZsPbGSQ9aZGpWnYkA5h",
       "appleId": 1000489863235,
       "subjects": [
-        "Sufi"
+        "Sufi",
+        "Qanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/06tZsPbGSQ9aZGpWnYkA5h",
@@ -3423,6 +3487,9 @@
       "explicit": false,
       "spotifyId": "4hblfsbTbWO9rFT3XgyBJJ",
       "appleId": 1000488565521,
+      "subjects": [
+        "Process Church of the Final Judgement"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4hblfsbTbWO9rFT3XgyBJJ",
         "apple": "https://podcasts.apple.com/podcast/undoing-the-process-w-jonathan-depeyer/id1373939526?i=1000488565521"
@@ -3438,7 +3505,8 @@
       "spotifyId": "6a7PlS8ggVaSH8GdFYCwIG",
       "appleId": 1000487901930,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Urantia Foundation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6a7PlS8ggVaSH8GdFYCwIG",
@@ -3626,9 +3694,6 @@
       "explicit": false,
       "spotifyId": "3ECWAwbityxIKuRmC91Gvh",
       "appleId": 1000473018374,
-      "subjects": [
-        "EDUCO"
-      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ECWAwbityxIKuRmC91Gvh",
         "apple": "https://podcasts.apple.com/podcast/we-have-to-see-it-to-believe-it-w-roisin-kearney-director/id1373939526?i=1000473018374"
@@ -3657,6 +3722,9 @@
       "explicit": false,
       "spotifyId": "2fetpjV02in7uBYpiH7rfF",
       "appleId": 1000471547764,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2fetpjV02in7uBYpiH7rfF",
         "apple": "https://podcasts.apple.com/podcast/ashamed-of-being-a-woman-w-sarabeth-kapusta/id1373939526?i=1000471547764"
@@ -3689,7 +3757,8 @@
       "spotifyId": "7BOloRBLChIGPRxaOt0umL",
       "appleId": 1000468091343,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7BOloRBLChIGPRxaOt0umL",
@@ -3706,7 +3775,8 @@
       "spotifyId": "3o8vlL6TNuHI1adO0KS94c",
       "appleId": 1000467434464,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3o8vlL6TNuHI1adO0KS94c",
@@ -3918,6 +3988,9 @@
       "explicit": false,
       "spotifyId": "0yplxjcLSPzWbbNxmFHDnT",
       "appleId": 1000458642912,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0yplxjcLSPzWbbNxmFHDnT",
         "apple": "https://podcasts.apple.com/podcast/parasitic-relationships-w-rachel-bernstein-lmft-s4e14pt1/id1373939526?i=1000458642912"
@@ -4001,7 +4074,8 @@
       "spotifyId": "0B0cirnHnw6gyDEFXbLy8Q",
       "appleId": 1000455488482,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Self-Help"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0B0cirnHnw6gyDEFXbLy8Q",
@@ -4066,8 +4140,7 @@
       "spotifyId": "0CgIe3DabWVHRfcBx4mron",
       "appleId": 1000452033029,
       "subjects": [
-        "Qanon",
-        "One-on-one"
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0CgIe3DabWVHRfcBx4mron",
@@ -4083,6 +4156,9 @@
       "explicit": false,
       "spotifyId": "32ZQp6PgCT1bGUezoTX8tF",
       "appleId": 1000451167570,
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/32ZQp6PgCT1bGUezoTX8tF",
         "apple": "https://podcasts.apple.com/podcast/cult-techniques-spilling-into-politics-w-stephen-kent/id1373939526?i=1000451167570"
@@ -4228,7 +4304,9 @@
       "spotifyId": "17y77jCXT2KknHDmo3ktwO",
       "appleId": 1000445210544,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/17y77jCXT2KknHDmo3ktwO",

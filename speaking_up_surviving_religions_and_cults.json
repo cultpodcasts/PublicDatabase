@@ -44,6 +44,9 @@
       "explicit": true,
       "spotifyId": "7HWwgchMmehLqkz7EBJjSU",
       "appleId": 1000626489468,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7HWwgchMmehLqkz7EBJjSU",
         "apple": "https://podcasts.apple.com/us/podcast/when-religion-hurts-you-dr-laura-anderson/id1620395336?i=1000626489468\u0026uo=4"
@@ -215,7 +218,8 @@
       "spotifyId": "5udupnMw5iUEajPvsN8Yox",
       "appleId": 1000617507417,
       "subjects": [
-        "Alliance of the Holy Family International"
+        "Alliance of the Holy Family International",
+        "Catholicism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5udupnMw5iUEajPvsN8Yox",
@@ -515,6 +519,9 @@
       "explicit": false,
       "spotifyId": "3WvC5KvClbwo25w40oYpAn",
       "appleId": 1000599269455,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3WvC5KvClbwo25w40oYpAn",
         "apple": "https://podcasts.apple.com/podcast/toxicity-in-religion-mary-burkhart-archive/id1620395336?i=1000599269455"
@@ -605,6 +612,9 @@
       "explicit": true,
       "spotifyId": "4XOLwHBcHafiH2hsmGW9S5",
       "appleId": 1000593076575,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4XOLwHBcHafiH2hsmGW9S5",
         "apple": "https://podcasts.apple.com/podcast/church-sanctioned-abuse-tia-levings-archive/id1620395336?i=1000593076575"
@@ -647,6 +657,9 @@
       "explicit": false,
       "spotifyId": "55SopyfV5Z4d4jBnhfSXTQ",
       "appleId": 1000588807534,
+      "subjects": [
+        "Psychology"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/55SopyfV5Z4d4jBnhfSXTQ",
         "apple": "https://podcasts.apple.com/podcast/release-the-women-elizabeth-endara-archive/id1620395336?i=1000588807534"
@@ -695,7 +708,8 @@
       "subjects": [
         "Mennonite",
         "Evangelicalism",
-        "The Church Of God In Christ"
+        "The Church Of God In Christ",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DgRZBrDetvy6T4SZE6SCg",
@@ -730,7 +744,8 @@
       "appleId": 1000583643941,
       "subjects": [
         "Independent Fundamentalist Baptist",
-        "Psychology"
+        "Psychology",
+        "Human Trafficking"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/30CvMidTWKLAsIxpMyJMXU",
@@ -820,7 +835,8 @@
       "spotifyId": "0dVNicFlHewlYnqV4vHwmw",
       "appleId": 1000578784998,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0dVNicFlHewlYnqV4vHwmw",

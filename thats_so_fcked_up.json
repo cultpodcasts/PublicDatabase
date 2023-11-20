@@ -306,7 +306,8 @@
       "spotifyId": "5BTvpHvrlNpwqheLJ6lfHj",
       "appleId": 1000618543150,
       "subjects": [
-        "Multi-Level Marketing"
+        "Multi-Level Marketing",
+        "Herbalife"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BTvpHvrlNpwqheLJ6lfHj",
@@ -392,7 +393,8 @@
       "spotifyId": "1plaOuqkb3oRXfizHwcNHZ",
       "appleId": 1000616303979,
       "subjects": [
-        "Multi-Level Marketing"
+        "Multi-Level Marketing",
+        "LuLaRoe"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1plaOuqkb3oRXfizHwcNHZ",
@@ -928,7 +930,8 @@
       "spotifyId": "3pWks8QwzErbmbcV8il7fF",
       "appleId": 1000544593578,
       "subjects": [
-        "Multi-Level Marketing"
+        "Multi-Level Marketing",
+        "LuLaRoe"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3pWks8QwzErbmbcV8il7fF",
@@ -998,7 +1001,8 @@
       "subjects": [
         "Peoples Temple",
         "Branch Davidians",
-        "Heaven\u0027s Gate"
+        "Heaven\u0027s Gate",
+        "Movement for the Restoration of the Ten Commandments of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Bexs1mtn8j6XNvelmta0J",
@@ -1045,6 +1049,9 @@
       "explicit": true,
       "spotifyId": "79nWLER9uteWeSXWt7LCDP",
       "appleId": 1000511707543,
+      "subjects": [
+        "Marcus Wesson"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/79nWLER9uteWeSXWt7LCDP",
         "apple": "https://podcasts.apple.com/podcast/episode-43-mass-murderer-marcus-wesson-the-vampire/id1508752329?i=1000511707543"

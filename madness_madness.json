@@ -31,7 +31,8 @@
       "spotifyId": "3wsXqcii6kKyvYr1lnzfVr",
       "appleId": 1000549999664,
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Access Consciousness"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3wsXqcii6kKyvYr1lnzfVr",
@@ -162,7 +163,8 @@
       "spotifyId": "0J0QfhtpQAu2bMU7lcwMwH",
       "appleId": 1000518343356,
       "subjects": [
-        "Multi-Level Marketing"
+        "Multi-Level Marketing",
+        "Mary Kay"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0J0QfhtpQAu2bMU7lcwMwH",
@@ -227,6 +229,9 @@
       "explicit": true,
       "spotifyId": "2rhlUdPx9NpeoeMBN0WPJ1",
       "appleId": 1000514122948,
+      "subjects": [
+        "Eckankar"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rhlUdPx9NpeoeMBN0WPJ1",
         "apple": "https://podcasts.apple.com/podcast/episode-12-eckankar-vs-moral-re-armament/id1546796793?i=1000514122948"

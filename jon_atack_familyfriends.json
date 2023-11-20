@@ -6,6 +6,22 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "3eab4380-5908-4c29-b5ac-f6eb21b9796a",
+      "title": "jon atack, family \u0026amp; friends",
+      "description": "Jon\u2019s guest is the best-selling author of The Iconist. He has also co-authored the award-winning book The Invisible Machine and talks here about redefining Post Traumatic Stress Disorder as Post Traumatic Stress Injury and offers a biological model and the use of a new treatment that seeks to reset the flight or fight response. This is the first time that he has spoken publicly about his awful childhood as a child of Scientology\u0027s Sea Organization in Los Angeles.",
+      "release": "2023-11-18T07:00:18Z",
+      "duration": "02:08:31",
+      "explicit": false,
+      "youTubeId": "t2BYrlxnX5k",
+      "subjects": [
+        "Psychology",
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=t2BYrlxnX5k"
+      }
+    },
+    {
       "id": "8f269c9b-eee2-4ac9-9685-695037499105",
       "title": "the cultic effects of Traditionalist Catholicism - with Anthony Spurgin",
       "description": "Anthony Spurgin\u0027s parents joined a Traditionalist Catholic group when he was 12. At the age of 14, rather than going to high school, Anthony became part of a Traditionalist Catholic home-schooling co-operative. He talks about the traumatic effects of involvement with the group and especially the focus on sex as sinful. This talk shows how important it is to assess groups to see if they are authoritarian. A wide-ranging conversation about Christianity and religion in general.\n\nLinks:\nAustralian Royal Commission on Institutional Responses to Child Sexual Abuse: https://www.childabuseroyalcommission.gov.au\n\nThe Vatican\u0027s report on clerical sexual abuse of children in Portugal: https://www.vaticannews.va/en/church/news/2023-02/portugal-sexual-abuse-minors-report-bishops-conference-commissio.html",
@@ -336,7 +352,8 @@
       "appleId": 1534364303,
       "youTubeId": "UyTazrCmnZE",
       "subjects": [
-        "Manson Family"
+        "Manson Family",
+        "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4P3B6SH91lnDDfd8DwWyCb",
@@ -388,7 +405,8 @@
       "explicit": false,
       "youTubeId": "lXAcxbKSSiM",
       "subjects": [
-        "Manson Family"
+        "Manson Family",
+        "Scientology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=lXAcxbKSSiM"
@@ -589,7 +607,9 @@
       "appleId": 1000621104906,
       "youTubeId": "0Xtv8m1pxg8",
       "subjects": [
-        "Manson Family"
+        "Manson Family",
+        "Scientology",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FiKwwXoEyMqhdgYlcMtfP",
@@ -675,7 +695,8 @@
       "explicit": false,
       "youTubeId": "QEp9gwm4Lpw",
       "subjects": [
-        "Manson Family"
+        "Manson Family",
+        "Scientology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=QEp9gwm4Lpw"
@@ -990,7 +1011,8 @@
       "appleId": 1000606870173,
       "youTubeId": "6yZTt8srPfI",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VGQfEkiA5Wia0HvE4cXIj",
@@ -1066,7 +1088,9 @@
       "appleId": 1000602781231,
       "youTubeId": "1jbD6cnm0Ro",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Scientology",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/40fcUn311O0MITBwKtm261",
@@ -1334,7 +1358,8 @@
       "appleId": 1000590797995,
       "youTubeId": "iuuYv_rv1HM",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Self-Help"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1NltAPXnIgCr1SAJVzcRi4",
@@ -1372,7 +1397,8 @@
       "appleId": 1000589652220,
       "youTubeId": "xWF7VKA-nnw",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Legislation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FQ5NIKsb2X1TajzdOTTpd",
@@ -1389,7 +1415,8 @@
       "explicit": false,
       "youTubeId": "xWF7VKA-nnw",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Legislation"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=xWF7VKA-nnw"
@@ -1444,7 +1471,8 @@
       "appleId": 1000587201517,
       "youTubeId": "tZQpkc4VxmE",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1QhXhyHSYBScsToXlvsqfs",
@@ -1463,7 +1491,8 @@
       "appleId": 1000587201517,
       "youTubeId": "LQQhNobgRjo",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1QhXhyHSYBScsToXlvsqfs",
@@ -2327,7 +2356,9 @@
       "explicit": false,
       "youTubeId": "fyi84TXl0TM",
       "subjects": [
-        "Larry Ray"
+        "Larry Ray",
+        "One-on-one",
+        "Human Trafficking"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=fyi84TXl0TM"
@@ -2390,7 +2421,8 @@
       "explicit": false,
       "youTubeId": "z5H39hj7T10",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=z5H39hj7T10"
@@ -2977,7 +3009,8 @@
       "explicit": false,
       "youTubeId": "RbO-R8ijQ3o",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Cult Recovery"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=RbO-R8ijQ3o"
@@ -3050,7 +3083,8 @@
       "explicit": false,
       "youTubeId": "tYvF4-TePLc",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Christian Science"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=tYvF4-TePLc"
@@ -3605,7 +3639,11 @@
       "explicit": false,
       "youTubeId": "OZ_XNfUYIzQ",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Cult-Expert",
+        "Cult Recovery",
+        "Psychology",
+        "Human Trafficking"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=OZ_XNfUYIzQ"
@@ -3632,7 +3670,8 @@
       "explicit": false,
       "youTubeId": "66NzDyx4pVc",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=66NzDyx4pVc"
@@ -3838,7 +3877,8 @@
       "subjects": [
         "Cult Psychology",
         "Cult-Expert",
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=asYa3axCc1I"
@@ -4501,7 +4541,9 @@
       "appleId": 1000503589777,
       "youTubeId": "1M-MKBgnres",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5KQCleicLdIRolQv0jo5Xi",
@@ -4702,7 +4744,9 @@
       "appleId": 1000502501445,
       "youTubeId": "bSDgbIGoNu4",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult-Expert",
+        "Transcendental Meditation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1O6097u579MXYSPEhpnKwa",
@@ -4737,7 +4781,8 @@
       "explicit": false,
       "youTubeId": "pdZEqnetBLQ",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=pdZEqnetBLQ"
@@ -4932,7 +4977,9 @@
       "explicit": false,
       "youTubeId": "n6b_2_QOfbA",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology",
+        "Zen Master Rama"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=n6b_2_QOfbA"
@@ -5244,7 +5291,12 @@
       "explicit": false,
       "youTubeId": "p4dTJguRPds",
       "subjects": [
-        "Qanon"
+        "Qanon",
+        "Cult Psychology",
+        "Cult-Expert",
+        "Bhagwan Shree Rajneesh",
+        "Centrepoint",
+        "Agama Yoga"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=p4dTJguRPds"
@@ -5796,7 +5848,8 @@
       "explicit": false,
       "youTubeId": "G52DnTghKa4",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Human Trafficking"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=G52DnTghKa4"
@@ -5883,7 +5936,8 @@
       "explicit": false,
       "youTubeId": "qHyDB1nEI6o",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "The Circle of Friends"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=qHyDB1nEI6o"
@@ -5898,7 +5952,8 @@
       "explicit": false,
       "youTubeId": "HpnM7oCjTz8",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=HpnM7oCjTz8"
@@ -5959,7 +6014,8 @@
       "explicit": false,
       "youTubeId": "mooPulJT-hM",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Scientology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=mooPulJT-hM"
@@ -6004,7 +6060,8 @@
       "explicit": false,
       "youTubeId": "XQX4PeRWkrg",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=XQX4PeRWkrg"
@@ -6034,7 +6091,8 @@
       "explicit": false,
       "youTubeId": "hg_7tCP3sks",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=hg_7tCP3sks"
@@ -6076,7 +6134,8 @@
       "explicit": false,
       "youTubeId": "Z7KV9U18Okg",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=Z7KV9U18Okg"
@@ -6121,7 +6180,8 @@
       "explicit": false,
       "youTubeId": "2o1Dq6AdHIE",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=2o1Dq6AdHIE"
@@ -6511,7 +6571,8 @@
       "explicit": false,
       "youTubeId": "tUMwJgCGBOA",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=tUMwJgCGBOA"
@@ -6748,7 +6809,10 @@
       "explicit": false,
       "youTubeId": "0LtxK6vezgc",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Cult Psychology",
+        "Cult-Expert",
+        "Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=0LtxK6vezgc"
@@ -6994,7 +7058,8 @@
       "explicit": false,
       "youTubeId": "ooA4Tud8Eug",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Qanon"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=ooA4Tud8Eug"
