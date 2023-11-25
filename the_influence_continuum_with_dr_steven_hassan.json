@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "4uPjWL9X0CTgUFO2wLjgSg",
       "appleId": 1000635408010,
+      "youTubeId": "4uymg0L3uao",
       "subjects": [
         "Corporate Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4uPjWL9X0CTgUFO2wLjgSg",
-        "apple": "https://podcasts.apple.com/podcast/kochland-the-secret-history-of-koch-industries/id1603773245?i=1000635408010"
+        "apple": "https://podcasts.apple.com/podcast/kochland-the-secret-history-of-koch-industries/id1603773245?i=1000635408010",
+        "youtube": "https://www.youtube.com/watch?v=4uymg0L3uao"
       }
     },
     {

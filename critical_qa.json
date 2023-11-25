@@ -13,11 +13,15 @@
       "release": "2023-11-18T19:21:19Z",
       "duration": "01:17:00",
       "explicit": false,
+      "spotifyId": "4GEaW8zq9I5zqzgegfZr2S",
+      "appleId": 1000635473645,
       "youTubeId": "Y5IcKqwHhUo",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4GEaW8zq9I5zqzgegfZr2S",
+        "apple": "https://podcasts.apple.com/podcast/critical-q-a-433-live/id1030984057?i=1000635473645",
         "youtube": "https://www.youtube.com/watch?v=Y5IcKqwHhUo"
       }
     },
