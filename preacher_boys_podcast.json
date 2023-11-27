@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "1ngLLABWc87mNSPF3P5TTW",
       "appleId": 1000636559642,
+      "youTubeId": "odfZbMwazqw",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ngLLABWc87mNSPF3P5TTW",
-        "apple": "https://podcasts.apple.com/podcast/268-april-avila-good-girls-dont-have-bad-things-happen/id1493726980?i=1000636559642"
+        "apple": "https://podcasts.apple.com/podcast/268-april-avila-good-girls-dont-have-bad-things-happen/id1493726980?i=1000636559642",
+        "youtube": "https://www.youtube.com/watch?v=odfZbMwazqw"
       }
     },
     {
@@ -705,12 +707,14 @@
       "explicit": false,
       "spotifyId": "6sewz543sd0kKy5U6WmW7e",
       "appleId": 1000578312218,
+      "youTubeId": "GHGnaZfd4Ws",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6sewz543sd0kKy5U6WmW7e",
-        "apple": "https://podcasts.apple.com/podcast/232-joe-browns-unhinged-sermon-at-fbc-hammond-youth/id1493726980?i=1000578312218"
+        "apple": "https://podcasts.apple.com/podcast/232-joe-browns-unhinged-sermon-at-fbc-hammond-youth/id1493726980?i=1000578312218",
+        "youtube": "https://www.youtube.com/watch?v=GHGnaZfd4Ws"
       }
     },
     {
@@ -784,21 +788,6 @@
         "spotify": "https://open.spotify.com/episode/1ZSDeWABGuofHmEopWoxLN",
         "apple": "https://podcasts.apple.com/podcast/228-responding-to-jordan-petersons-message-to-christian/id1493726980?i=1000575081120",
         "youtube": "https://www.youtube.com/watch?v=ZfvTj6jn67s"
-      }
-    },
-    {
-      "id": "24cbfabc-898d-4d7d-b9d3-a0f81caea4af",
-      "title": "Joe Brown\u0027s UNHINGED Sermon at FBC Hammond Youth Conference",
-      "description": "Support the Preacher Boys Podcast:\n\nhttps://www.patreon.com/preacherboys\n\nPurchase a Preacher Boys shirt, mask, sticker, or other merch to rep the show! https://www.teepublic.com/user/preacher-boys-podcast\n________________\nIn this episode, Eric Skwarczynski responds to this bizarre youth conference sermon preached by Joe Brown at First Baptist Church of Hammond.\n________________\nFind more stories regarding the IFB movement by visiting:\n\n\u2013 preacherboysdoc.com\n\n\u2013 https://www.facebook.com/preacherboysdoc/\n\n\u2013 https://twitter.com/preacherboysdoc\n\n\u2013 https://www.instagram.com/preacherboysdoc/\n\nTo connect with a community that shares the Preacher Boys Podcast\u0027s mission to expose abuse in the IFB, join the OFFICIAL Preacher Boys Facebook Group: https://www.facebook.com/groups/1403898676438188",
-      "release": "2022-07-18T02:02:33Z",
-      "duration": "00:47:54",
-      "explicit": false,
-      "youTubeId": "GHGnaZfd4Ws",
-      "subjects": [
-        "Independent Fundamentalist Baptist"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=GHGnaZfd4Ws"
       }
     },
     {
