@@ -5,6 +5,40 @@
   "appleId": 1373812661,
   "episodes": [
     {
+      "id": "583330a9-b35f-421a-9ec1-db193ac79b59",
+      "title": "Part Two: The Holy Rollers Sex Cult",
+      "description": "Sophie has never been wrong about a single thing in her life. Matt Lieb guests and Robert is also there.See omnystudio.com/listener for privacy information.",
+      "release": "2023-11-30T00:00:00",
+      "duration": "01:14:34.9060000",
+      "explicit": false,
+      "spotifyId": "7GhVxrIv2yWKKEX7N5FyPG",
+      "appleId": 1000637026566,
+      "subjects": [
+        "Edmund Creffield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7GhVxrIv2yWKKEX7N5FyPG",
+        "apple": "https://podcasts.apple.com/podcast/part-two-the-holy-rollers-sex-cult/id1373812661?i=1000637026566"
+      }
+    },
+    {
+      "id": "2374f00c-171f-43e5-8dc2-f53f710d865a",
+      "title": "Part One: The Holy Rollers Sex Cult",
+      "description": "Robert sits down with Matt Lieb to talk about Oregon\u0027s first sex cult: the Holy Rollers. (2 Part Series)See omnystudio.com/listener for privacy information.",
+      "release": "2023-11-28T00:00:00",
+      "duration": "01:17:51.4770000",
+      "explicit": false,
+      "spotifyId": "1NyTG1fUsxU8vH6ymz7pTt",
+      "appleId": 1000636760195,
+      "subjects": [
+        "Edmund Creffield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1NyTG1fUsxU8vH6ymz7pTt",
+        "apple": "https://podcasts.apple.com/podcast/part-one-the-holy-rollers-sex-cult/id1373812661?i=1000636760195"
+      }
+    },
+    {
       "id": "e6b48cb5-4569-441e-811b-067ca26fd742",
       "title": "It Could Happen Here Weekly 102",
       "description": "Alisa Mahjoub discusses the Unification Church in Japan from around 1 hour 12 minutes.",

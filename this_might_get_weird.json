@@ -1,0 +1,25 @@
+{
+  "id": "348bc42b-d83b-4519-b6b5-ccdb4ea9fb87",
+  "name": "This Might Get Weird",
+  "spotifyId": "6Pkr4TQLs5WeOr2IdsPUyR",
+  "appleId": 1438878323,
+  "episodes": [
+    {
+      "id": "5d848742-76b3-4960-841b-8681816c7ac8",
+      "title": "TMGW #260: Grace Explores a Cult",
+      "description": "This Week Grace and Mamrie discuss coffee versus tea, the psychology of cults, making homemade sweatshirts and how far they would get on Survivor.  Go to http://skims.com to shop SKIMS Holiday Gift Shop and get free shipping on orders over $75. Be sure to let them know we sent you by selecting \u0022podcast\u0022 in the survey and selecting our show in the dropdown menu!  Go to http://hellofresh.com/tmgwfree and use code tmgwfree to get one breakfast item per box while subscription is active.\u00A0  Go to http://uncommongoods.com/weird to get 15% off.  Go to http://audible.com/tmgw or text TMGW to 500-500 to try Audible free for 30 days.",
+      "release": "2023-11-29T00:00:00",
+      "duration": "00:58:18.9710000",
+      "explicit": false,
+      "spotifyId": "1yc4mapN6qDrmFxXflDJW2",
+      "appleId": 1000636885812,
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1yc4mapN6qDrmFxXflDJW2",
+        "apple": "https://podcasts.apple.com/podcast/grace-explores-a-cult/id1438878323?i=1000636885812"
+      }
+    }
+  ]
+}
