@@ -1,0 +1,25 @@
+{
+  "id": "6c541a0e-9a67-4b44-ad4e-64063fe1181a",
+  "name": "Unstructured",
+  "spotifyId": "5px6qgFrXTGdVjXlJYS0Pk",
+  "appleId": 1359992964,
+  "episodes": [
+    {
+      "id": "533dcd60-515b-4ae5-bada-d0651ee71d4b",
+      "title": "Doug Kramer Grew Up with Scientology and Escaped at 33",
+      "description": "Doug Scott Kramer is a Los Angeles-based actor who was raised in Scientology and escaped at the age of 33. He recently started making a series of videos documenting what this whole insane experience was like.  Check out his channel at https://www.youtube.com/user/Rainez024 \u00A0 *************************************************************** And don\u2019t forget to support the podcast by subscribing for free, reviewing, and sharing. Check out YouTube with many more livestreams!\u00A0 http://ehun.ly/pb_YouTube \u00A0 Find me on Locals for bonus content and a community where you can support my work at http://ehun.ly/pb_Locals\u00A0 \u00A0 Web: https://erichunley.com/\u00A0 Twitter: http://ehun.ly/pb_twitter Facebook: http://ehun.ly/pb_facebook Instagram: http://ehun.ly/pb_instagram",
+      "release": "2021-09-07T11:00:00Z",
+      "duration": "01:14:30.1890000",
+      "explicit": false,
+      "spotifyId": "4f123N5sksPA68858ToW1k",
+      "appleId": 1000534555828,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4f123N5sksPA68858ToW1k",
+        "apple": "https://podcasts.apple.com/podcast/doug-kramer-grew-up-with-scientology-and-escaped-at-33/id1359992964?i=1000534555828"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7c128324-4560-4ae9-a08e-85073396509e",
+  "name": "Hill Of Beans with Ezra and Casey",
+  "spotifyId": "7twfzDTGpW1rvwOTa11a3f",
+  "appleId": 1700891224,
+  "episodes": [
+    {
+      "id": "496fd8c2-8563-410e-a7df-ab43d7ae56eb",
+      "title": "Teal Swan and the Deep End",
+      "description": "These two got chatty about Teal Swan and discussions on if she is leading a Cult, does she truly have these powers, or is this great leadership?They want your feedback.\u00A0",
+      "release": "2023-12-08T19:05:15Z",
+      "duration": "00:34:28.0340000",
+      "explicit": false,
+      "spotifyId": "6Oq2fEJnRP8GO3MY02L2Yl",
+      "appleId": 1000637966281,
+      "subjects": [
+        "Teal Swan"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Oq2fEJnRP8GO3MY02L2Yl",
+        "apple": "https://podcasts.apple.com/podcast/teal-swan-and-the-deep-end/id1700891224?i=1000637966281"
+      }
+    }
+  ]
+}

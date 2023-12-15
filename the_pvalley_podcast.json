@@ -1,0 +1,25 @@
+{
+  "id": "ef207310-dcd7-4be8-b3ab-e8ae879ab7e3",
+  "name": "The P-Valley Podcast",
+  "spotifyId": "4ZR9Fb1dvksr0iJPizUAg6",
+  "appleId": 1537454924,
+  "episodes": [
+    {
+      "id": "033496ab-1830-4265-84cc-c998a78abae9",
+      "title": "Escaping Twin Flames/Escaping Common Sense Recap",
+      "description": "Netflix\u0027s Escaping Twin Flames is one of the most shocking documentaries I\u0027ve ever seen. Love is not worth what the Twin Flame Universe cult members are going through! I thought I had seen it all, and then I watched this docuseries. Big yikes.",
+      "release": "2023-12-14T08:10:00Z",
+      "duration": "00:28:15.7760000",
+      "explicit": false,
+      "spotifyId": "31d2OoUEKoY7QBYg8wGCFN",
+      "appleId": 1000638532987,
+      "subjects": [
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/31d2OoUEKoY7QBYg8wGCFN",
+        "apple": "https://podcasts.apple.com/podcast/escaping-twin-flames-escaping-common-sense-recap/id1537454924?i=1000638532987"
+      }
+    }
+  ]
+}

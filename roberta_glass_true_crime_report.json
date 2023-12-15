@@ -3,7 +3,23 @@
   "name": "Roberta Glass True Crime Report",
   "spotifyId": "1MIEsZQhdaBQUPneyutHlP",
   "appleId": 1446785430,
+  "youTubeChannelId": "UCasCmfciTFDhUKGfylFG43A",
   "episodes": [
+    {
+      "id": "122888ce-ce95-4f6b-94ee-acb20b4e8fa2",
+      "title": "NXIVM from the Courtroom: What \u201CThe Vow\u201D Won\u2019t Tell You.",
+      "description": "Roberta shares her memories of the NXIVM cult trial from the early hearings to Keith Raniere\u2019s trial.",
+      "release": "2023-12-08T21:23:37Z",
+      "duration": "01:00:03",
+      "explicit": false,
+      "youTubeId": "MdVzvzC_E8o",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MdVzvzC_E8o"
+      }
+    },
     {
       "id": "880319ff-ca42-4151-86cf-c2f33844ae89",
       "title": "The Cult Episode! NXIVM Gets Punked! Isabella Pollok Gets Sentenced!",
