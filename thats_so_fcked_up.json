@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "0qPsr0BBQD67w3UhqgaSyg",
       "appleId": 1000638668160,
+      "youTubeId": "UdwElficDss",
       "subjects": [
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0qPsr0BBQD67w3UhqgaSyg",
-        "apple": "https://podcasts.apple.com/podcast/ep-169-coercion-romance-reality-tv-culty-af/id1508752329?i=1000638668160"
+        "apple": "https://podcasts.apple.com/podcast/ep-169-coercion-romance-reality-tv-culty-af/id1508752329?i=1000638668160",
+        "youtube": "https://www.youtube.com/watch?v=UdwElficDss"
       }
     },
     {
