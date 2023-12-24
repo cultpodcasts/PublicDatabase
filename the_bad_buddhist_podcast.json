@@ -1,0 +1,25 @@
+{
+  "id": "804d6ad4-a20f-4e89-bb3b-666d009d0fc8",
+  "name": "The Bad Buddhist Podcast",
+  "spotifyId": "2fk5AYdcCThRTFaZIIFlHz",
+  "appleId": 1600386762,
+  "episodes": [
+    {
+      "id": "cf8885bc-8667-47b2-8943-9ae2e0de2efb",
+      "title": "S1E4 Sexual Abuse in Buddhism: An Interview With Carol Merchasin",
+      "description": "From Sakyong Mipham, leader of Shambhala, one of the largest Buddhist organizations in the West,\u00A0 to the Karmapa Lama, head of the Karma Kagyu lineage, powerful Buddhist teachers seem not to pay attention to the teachings of the Buddha himself for monastics:\u00A0 No Sex! \u00A0 None of these so-called enlightened teachers, even well-known American yogis like Lama Surya Das, seem to be able to practice the wisdom and compassion of non-harmful, appropriate student/teacher boundaries.\u00A0 As more and more Buddhist and ex-Buddhist women come forward with their stories of sexual abuse, it is obvious that Buddhism, especially the Vajrayana, has a problem. \u00A0In this episode I talk with Carol Merchasin, a lawyer and sexual abuse investigator, who speaks candidly about her experiences in investigating and helping to prosecute prominent teachers of the Buddhist community. \u00A0 Carol discusses her participation with the Buddhist Sunshine Project, suggests changes that can be made to make practice spaces safer and offers her advice for survivors wanting to heal from guru abuse.",
+      "release": "2022-03-25T20:00:00Z",
+      "duration": "01:04:22.5430000",
+      "explicit": true,
+      "spotifyId": "44vJA3vcHpPTJV0mYd0Gv9",
+      "appleId": 1000555257401,
+      "subjects": [
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/44vJA3vcHpPTJV0mYd0Gv9",
+        "apple": "https://podcasts.apple.com/podcast/s1e4-sexual-abuse-in-buddhism-an-interview-with/id1600386762?i=1000555257401"
+      }
+    }
+  ]
+}

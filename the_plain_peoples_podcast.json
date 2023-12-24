@@ -242,6 +242,9 @@
       "explicit": true,
       "spotifyId": "5dokPC0YhcpR8EJet9AIqZ",
       "appleId": 1000471155275,
+      "subjects": [
+        "Hutterites"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5dokPC0YhcpR8EJet9AIqZ",
         "apple": "https://podcasts.apple.com/podcast/meet-michelle-pt-1/id1440513300?i=1000471155275"
