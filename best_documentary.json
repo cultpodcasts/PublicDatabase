@@ -1,0 +1,37 @@
+{
+  "id": "ffa3335a-96ec-41e3-96f2-4064d968e3b0",
+  "name": "Best Documentary",
+  "youTubeChannelId": "UCmOCpBKeoBPp-HwarhIBA2g",
+  "episodes": [
+    {
+      "id": "97332ed5-cb94-409d-9655-ecc9166ac71c",
+      "title": "Cult Witness: the Hidden World of Cults (Documentary, Biography, Drama, History, Thriller)",
+      "description": "At the age of 19 Samuel Stefan, consumed by crisis, was drawn into a cult. It would be 10 years before he was able to escape. Using a technique called \u2018love-bombing\u2019 cults prey on the vulnerable, recruiting new members with love and warmth. After a period of brain-washing, members are forbidden to leave, enslaved through psychological control or even violence. With full access to six escaped cult members, as well as experts, Cult Witness unravels the hidden world of cults; the hold they have on their victims, the reasons people form and fall prey to them and what takes place within.\n\nDirector : Samuel Stefan \u0026 Nick Oakley\n\nGenres: Documentary, Biography, Drama, History, Thriller",
+      "release": "2023-11-25T22:00:00Z",
+      "duration": "00:56:09",
+      "explicit": false,
+      "youTubeId": "1Dk_7ac6hz4",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1Dk_7ac6hz4"
+      }
+    },
+    {
+      "id": "03f4634b-7106-47f6-acf1-7cf8676228b0",
+      "title": "US Christian Cults That Encourage To Not Use Medicine",
+      "description": "Thousands of children die every year due to their parents\u0027 religious beliefs to refuse medical treatment.  Rather they treat their children with prayer, and leave their health and wellness in the hands of God. -\n\nFollow us on social media :\nFacebook : https://www.facebook.com/BestDocumentaryTV",
+      "release": "2020-01-06T22:15:01Z",
+      "duration": "00:04:01",
+      "explicit": false,
+      "youTubeId": "wLYDXOzRdzo",
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=wLYDXOzRdzo"
+      }
+    }
+  ]
+}

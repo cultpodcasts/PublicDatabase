@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "65hNZJhTg0WSxF52Bn5aEQ",
       "appleId": 1000639648637,
+      "youTubeId": "TYpQEUjPVq0",
       "subjects": [
         "Children Of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/65hNZJhTg0WSxF52Bn5aEQ",
-        "apple": "https://podcasts.apple.com/podcast/the-convergence-of-cult-experience/id1603773245?i=1000639648637"
+        "apple": "https://podcasts.apple.com/podcast/the-convergence-of-cult-experience/id1603773245?i=1000639648637",
+        "youtube": "https://www.youtube.com/watch?v=TYpQEUjPVq0"
       }
     },
     {
