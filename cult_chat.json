@@ -3,7 +3,27 @@
   "name": "Cult Chat",
   "spotifyId": "5gYtZpO3mpnQmBsSZO9b9j",
   "appleId": 1693307722,
+  "youTubeChannelId": "UCPcT1IxUwAizYgWHMwF3Xew",
   "episodes": [
+    {
+      "id": "0f4dca09-8b9e-446b-8842-7f0b3f793e77",
+      "title": "Episode 21: Summer Series - Podcasts we Recommend",
+      "description": "Looking for something from the cultiverse to listen to while driving on your summer roadie? Or perhaps you need help to tune out the kids as you flip the sausages on the barbie? Well, let the Cult Chat trio help! In this episode Lindy, Liz and Caz bring you their favourite 2023 podcasts recommendations to help you deepen your knowledge of the cultiverse - but only after you\u2019ve listened to the fortnightly Cult Chat episode of course!! Show Notes   Inside the Tribe - https://podcasts.apple.com/nz/podcast/inside-the-tribe/id1533629268The Commune Podcast - https://interactives.stuff.co.nz/2022/the-commune-podcast-centrepoint/Let\u2019s Talk About Sects - https://podcasts.apple.com/nz/podcast/lets-talk-about-sects/id1286328757Get a Life! Podcast - https://www.youtube.com/channel/UCVVRXavrboI1XJZ8xdMJZFAA Little Bit Culty https://alittlebitculty.comThe Cult Vault https://podcasts.apple.com/nz/podcast/the-cult-vault/id1514656568IndoctriNation Podcast https://podcasts.apple.com/nz/podcast/indoctrination/id1373939526Cultish https://podcasts.apple.com/nz/podcast/cultish/id1440854210Cult Hackers https://podcasts.apple.com/nz/podcast/cult-hackers/id1540824671",
+      "release": "2024-01-02T00:00:00Z",
+      "duration": "00:55:31.6040000",
+      "explicit": false,
+      "spotifyId": "57Wgt2QYjzvesi3xkDOQZs",
+      "appleId": 1000640361506,
+      "youTubeId": "5M4RFPS_tX8",
+      "subjects": [
+        "Centrepoint"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/57Wgt2QYjzvesi3xkDOQZs",
+        "apple": "https://podcasts.apple.com/podcast/episode-21-summer-series-podcasts-we-recommend/id1693307722?i=1000640361506",
+        "youtube": "https://www.youtube.com/watch?v=5M4RFPS_tX8"
+      }
+    },
     {
       "id": "97d28bf1-f247-48e3-b504-1239bc2357e1",
       "title": "Episode 20: Summer Series - Books",

@@ -32,11 +32,15 @@
       "release": "2023-12-22T18:31:55Z",
       "duration": "00:58:34",
       "explicit": false,
+      "spotifyId": "3okEYOqRBl8uF4DY0itWkZ",
+      "appleId": 1000640459472,
       "youTubeId": "GBMMh6Wx3zk",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3okEYOqRBl8uF4DY0itWkZ",
+        "apple": "https://podcasts.apple.com/podcast/ex-scientologist-my-mom-married-my-grandpa/id1515932214?i=1000640459472",
         "youtube": "https://www.youtube.com/watch?v=GBMMh6Wx3zk"
       }
     },

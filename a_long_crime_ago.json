@@ -1,0 +1,25 @@
+{
+  "id": "688f9964-9d47-49b6-884d-5151e994ab7d",
+  "name": "A Long Crime Ago",
+  "spotifyId": "4nc7U9zCjKpIl26nKAVdhJ",
+  "appleId": 1568959969,
+  "episodes": [
+    {
+      "id": "30020004-9273-4058-9da7-aace2f0a1269",
+      "title": "Nobody Wins",
+      "description": "Today we\u0027re diving into a small piece of the world that is cults as we talk about the Brides of Christ Church and their leader, Franz Edmund Creffield.",
+      "release": "2023-12-31T23:00:00Z",
+      "duration": "00:49:03.0330000",
+      "explicit": true,
+      "spotifyId": "2E7fWTvITXKkdbY7622eSo",
+      "appleId": 1000640185990,
+      "subjects": [
+        "Edmund Creffield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2E7fWTvITXKkdbY7622eSo",
+        "apple": "https://podcasts.apple.com/podcast/nobody-wins/id1568959969?i=1000640185990"
+      }
+    }
+  ]
+}

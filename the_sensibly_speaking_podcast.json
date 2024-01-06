@@ -1,11 +1,27 @@
 {
   "id": "dd049c56-70ba-47ed-bec0-4c1a509b833e",
-  "name": "The Sensibly Speaking Podcast",
+  "name": "Speaking Of Cults",
   "spotifyId": "5xKCBOQMYaMUvd0l25L4eL",
   "appleId": 1030984057,
   "youTubeChannelId": "UCF326xyA0QHI7Z5xAwKQDJg",
   "youTubePlaylistId": "PLGrPM1Pg2h70sLFsz_SINbc3wA3kE_dtY",
   "episodes": [
+    {
+      "id": "ed831b68-422b-4f4d-9904-f65509cc2994",
+      "title": "Speaking of Cults...Let\u2019s Go Over Cult Basics",
+      "description": "Welcome to the first episode of the rebranded Sensibly Speaking podcast, now re-titled and re-purposed as the Speaking of Cults podcast. This podcast remains on the same website and RSS stream as the previous one, so you shouldn\u0027t have to change anything as an audio subscriber.\u00A0 This week we review all the basics of what a destructive cult is (and isn\u0027t) and how coercive control plays a part, plus we clear up common misconceptions about cults. Enjoy!",
+      "release": "2024-01-06T07:00:00Z",
+      "duration": "01:21:42.2160000",
+      "explicit": false,
+      "spotifyId": "4zTZIxW7ZaeRuNrH7Si5Ca",
+      "appleId": 1000640723798,
+      "youTubeId": "OpGuS7GcsgA",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4zTZIxW7ZaeRuNrH7Si5Ca",
+        "apple": "https://podcasts.apple.com/podcast/speaking-of-cults-lets-go-over-cult-basics/id1030984057?i=1000640723798",
+        "youtube": "https://www.youtube.com/watch?v=OpGuS7GcsgA"
+      }
+    },
     {
       "id": "0e9ebafe-aa6e-4abf-a320-b506702bca82",
       "title": "This Podcast is Ending (kind of)",

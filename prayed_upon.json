@@ -1,0 +1,25 @@
+{
+  "id": "0877342d-9af5-4c46-9b8d-75180d54714b",
+  "name": "Prayed Upon",
+  "spotifyId": "6IM3y9oFDqmjqlPUVPynFs",
+  "appleId": 1720068645,
+  "episodes": [
+    {
+      "id": "2bc22863-f220-4679-abb8-ae36fa4dadad",
+      "title": "Stay, Pray, Obey | 1",
+      "description": "Why do people start cults? Why do people join them? And most importantly - how do they escape? Investigative journalists Kate Kyricou and Greg Stolz lift the lid on a secretive Australian cult that dictates the lives of its members with bizarre and strict rules and they reveal harrowing stories of those who have escaped.\u00A0 Prayed Upon is available early and ad-free on Crime X\u002B and the News Corp Masthead Apps today.\u00A0 This is Part 1 of Prayed Upon. Part 2 drops in January, with five more episodes.See omnystudio.com/listener for privacy information.",
+      "release": "2023-12-28T14:00:00Z",
+      "duration": "00:40:55.2220000",
+      "explicit": false,
+      "spotifyId": "5i8ZAnjy9LhvHcDvujyfdN",
+      "appleId": 1000638620331,
+      "subjects": [
+        "Anglican Catholic Mission Community"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5i8ZAnjy9LhvHcDvujyfdN",
+        "apple": "https://podcasts.apple.com/podcast/stay-pray-obey-1/id1720068645?i=1000638620331"
+      }
+    }
+  ]
+}
