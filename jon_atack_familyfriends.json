@@ -13,12 +13,14 @@
       "duration": "00:58:13",
       "explicit": false,
       "spotifyId": "3oSU097wy4ylG8WiXwvQIR",
+      "appleId": 1000640762828,
       "youTubeId": "suej9vqgN7A",
       "subjects": [
         "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3oSU097wy4ylG8WiXwvQIR",
+        "apple": "https://podcasts.apple.com/podcast/cult-leader-syndrome-with-joe-szimhart/id1534364303?i=1000640762828",
         "youtube": "https://www.youtube.com/watch?v=suej9vqgN7A"
       }
     },

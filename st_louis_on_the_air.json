@@ -1,0 +1,22 @@
+{
+  "id": "424ec217-f17b-4c9a-acf9-084c5e34799c",
+  "name": "St. Louis on the Air",
+  "spotifyId": "1pyIdb2jyamTL5DudxRtKe",
+  "appleId": 279357633,
+  "episodes": [
+    {
+      "id": "968b8a10-fc70-43c9-8871-9bdf37477550",
+      "title": "Ancient Roman imperial cult temple unearthed by SLU-led international team",
+      "description": "A newly unearthed ancient temple in Italy complicates the history of paganism and Christianity in the Roman Empire. Douglas Boin, a history professor at Saint Louis University, talks about his team\u2019s discovery of an imperial cult temple that dates back to the fourth century.",
+      "release": "2024-01-08T21:21:00Z",
+      "duration": "00:21:14",
+      "explicit": false,
+      "spotifyId": "5Qi1kSdyBoDxdnmKkUJcEp",
+      "appleId": 1000640958206,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Qi1kSdyBoDxdnmKkUJcEp",
+        "apple": "https://podcasts.apple.com/podcast/ancient-roman-imperial-cult-temple-unearthed-by-slu/id279357633?i=1000640958206"
+      }
+    }
+  ]
+}

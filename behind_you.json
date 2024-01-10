@@ -1,0 +1,25 @@
+{
+  "id": "6921b995-0fd7-414b-8bee-78f5bd5b54e1",
+  "name": "Behind You",
+  "spotifyId": "0HLgYNSI7j45CiE04B2hsr",
+  "appleId": 1621153576,
+  "episodes": [
+    {
+      "id": "8927c157-950e-4ffb-8c00-f5dce9233eac",
+      "title": "S2 E15: The Teenage Cult-Group That Nearly Got away with Murder: The Disciples of Destruction",
+      "description": "Mount Vernon New Hampshire is a small quiet town with population 2,000 and described as the \u201Cperfect place to live\u201D. It has low-crime rates, great schools, beautiful scenery and friendly neighbors. It was a peaceful place where most people go to raise children and retire. But all of this came to a halt when on October 4th 2009, a 911 call from was from the cates household from 11 year-old Jamie Cates who was inaudible and softly whimpering and crying. Police arrive to the home to find Jamie lying and bleeding out on the kitchen floor with multiple wounds and a severed foot. While her mother, Kimberly Cates was lying in the master bedroom stabbed to death with a machete. This crime was the most horrific and gory scene the police had ever seen. It wasn\u2019t until 2 days after the murder, police receive a tip that leads them down the dark and twisted group of teenage boys that call themselves \u201CThe Disciples of Destruction\u201D. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-01-09T21:43:03Z",
+      "duration": "00:36:29.6350000",
+      "explicit": true,
+      "spotifyId": "21K2R8C6XqwjDTSEJz7eOX",
+      "appleId": 1000641081735,
+      "subjects": [
+        "Disciples of Destruction"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/21K2R8C6XqwjDTSEJz7eOX",
+        "apple": "https://podcasts.apple.com/podcast/s2-e15-the-teenage-cult-group-that-nearly-got-away/id1621153576?i=1000641081735"
+      }
+    }
+  ]
+}

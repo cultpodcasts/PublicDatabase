@@ -4,6 +4,21 @@
   "youTubeChannelId": "UCkohIipYvmCarOriMY1GT9g",
   "episodes": [
     {
+      "id": "4193e6a5-2a5e-4855-b1c9-a32c103e90da",
+      "title": "Scientology: The Return of Jason Beghe",
+      "description": "In 2008, Jason Beghe rocked the Scientology world with his frank and open discussion of his experiences in Scientology.  Now he\u0027s back with even more details of life in Scientology and how things have changed since he publicly departed.\n\nFirst Jason Beghe Interview:\nhttp://www.youtube.com/watch?v=KHb0BZyF5Ok",
+      "release": "2012-09-25T22:45:12Z",
+      "duration": "00:01:53",
+      "explicit": false,
+      "youTubeId": "LwMGFteBQcc",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LwMGFteBQcc"
+      }
+    },
+    {
       "id": "20de9d6f-5bb3-471e-a1b5-e38934d75b20",
       "title": "1982 CW Scientology Hearings - Scientology\u0027s Response - Day 5",
       "description": "Attorney Paul Johnson appears for the church.  One week earlier, he had demanded to be allowed to speak. Once he had his chance, he refused to respond to any of the charges leveled in the hearings.\n\nPlaylist of Full Hearings: \nhttp://www.youtube.com/playlist?list=PLB8A8C6C0BFB607D1",
@@ -406,6 +421,21 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=AzjRgj5CnAE"
+      }
+    },
+    {
+      "id": "d74c3ccb-87ce-4993-a114-5993353939c5",
+      "title": "Scientology: Jason Beghe in Germany",
+      "description": "http://www.youtube.com/AboutScientology\r\nVillage Voice: http://tinyurl.com/56k9jm\r\n\r\nJason Beghe speaks in Hamburg at a government sponsored symposium on Scientology fraud and abuse.\r\n\r\nThanks Anonymous for making this video happen.",
+      "release": "2008-09-15T22:45:32Z",
+      "duration": "00:35:05",
+      "explicit": false,
+      "youTubeId": "dFDl6GA1DI0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dFDl6GA1DI0"
       }
     }
   ]
