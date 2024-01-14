@@ -1,0 +1,42 @@
+{
+  "id": "ee356569-e1c3-46cf-aeec-cb82541d47a2",
+  "name": "Another True Crime Podcast",
+  "spotifyId": "3xJozYEXJq2McmY1cRvaq9",
+  "appleId": 1718997666,
+  "episodes": [
+    {
+      "id": "00819025-b490-471e-b37f-e0b22e7305b4",
+      "title": "Another True Crime Podcast: The Family (Episode 4)",
+      "description": "Welcome to Another True Crime Podcast, a How Did We Get Here Productions production. In this episode Nani tells Nova the worst story they have ever heard. They talk all about one of the worst cults in Australia, The Family. Their leader, Anne Hamilton-Byrne, believed she was Jesus, stole babies, and the cult is still active! What\u0027s scarier than all that? Anne\u0027s receding hair line.Podcast art made by our very own Nova!We have a Patreon! Higher tier paying Patrons get early access to the podcast. Public access to the podcast will be available on January 10th, 2024, most places podcasts are found. \u2665If you\u0027d like to support us and our work and want to join our Patreon, you can do so here: https://www.patreon.com/HowDidWeGetHereProductionsYou can find us on Instagram at: @hdwghproductionsYou can also email us at: hdwghproductions@gmail.comIntro and Outro music:Ghost by Tim Beek (timbeek.com)Licensed under Creative Commons: By Attribution 4.0http://creativecommons.org/licenses/by/4.0/ Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-01-10T16:00:23Z",
+      "duration": "01:05:55.4350000",
+      "explicit": true,
+      "spotifyId": "1IeevCXu4cC0ikLbxfpf4R",
+      "appleId": 1000641193693,
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IeevCXu4cC0ikLbxfpf4R",
+        "apple": "https://podcasts.apple.com/podcast/another-true-crime-podcast-the-family-episode-4/id1718997666?i=1000641193693"
+      }
+    },
+    {
+      "id": "c020692c-cb1a-4d63-82cb-1ee8ccae8f5c",
+      "title": "Another True Crime Podcast: The Duggars (Episode 2)",
+      "description": "Welcome to Another True Crime Podcast, a How Did We Get Here Productions production. In this episode Nani tells Nova all about the IBLP and the infamous Duggar family. We also get taught that Cabbage Patch Kids are out, khakis are in, and the IBLP is older than Sesame Street.Podcast art made by our very own Nova!We have a Patreon! Higher tier Patrons get early access to the podcast. Public access to the podcast will be available on December 13th, 2023, most places podcasts are found. \u2665If you\u0027d like to support us and our work and want to join our Patreon, you can do so here: https://www.patreon.com/HowDidWeGetHereProductionsYou can find us on Instagram at: @hdwghproductionsYou can also email us at: hdwghproductions@gmail.com Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2023-12-13T16:00:11Z",
+      "duration": "01:25:28.0710000",
+      "explicit": true,
+      "spotifyId": "2JCqWbUfFW2azGZSEaifpn",
+      "appleId": 1000638455110,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2JCqWbUfFW2azGZSEaifpn",
+        "apple": "https://podcasts.apple.com/podcast/another-true-crime-podcast-the-duggars-episode-2/id1718997666?i=1000638455110"
+      }
+    }
+  ]
+}

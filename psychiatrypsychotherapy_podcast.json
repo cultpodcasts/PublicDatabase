@@ -13,6 +13,7 @@
       "explicit": true,
       "spotifyId": "380HioyOkAOgCbccNNX9To",
       "appleId": 1000618895063,
+      "youTubeId": "KZSD3lauzDo",
       "subjects": [
         "Psychology",
         "Psychiatry",
@@ -20,7 +21,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/380HioyOkAOgCbccNNX9To",
-        "apple": "https://podcasts.apple.com/podcast/185-narcissism-with-jonathan-shedler-phd/id1335892956?i=1000618895063"
+        "apple": "https://podcasts.apple.com/podcast/185-narcissism-with-jonathan-shedler-phd/id1335892956?i=1000618895063",
+        "youtube": "https://www.youtube.com/watch?v=KZSD3lauzDo"
       }
     }
   ]
