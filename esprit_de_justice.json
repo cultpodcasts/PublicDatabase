@@ -1,0 +1,25 @@
+{
+  "id": "533a1388-704c-4f91-84fc-67274e5dc999",
+  "name": "Esprit de justice",
+  "spotifyId": "4Ehx8fEgzKsItgRgkmLcIB",
+  "appleId": 1530607035,
+  "episodes": [
+    {
+      "id": "656e33dc-bead-4ee3-9ba9-5f136fcfe268",
+      "title": "Sectes et vuln\u00E9rabilit\u00E9 de l\u0027homme d\u00E9mocratique\u00A0?",
+      "description": "dur\u00E9e : 00:59:13 - Esprit de justice - par : Antoine Garapon - Les d\u00E9rives sectaires se sont amplifi\u00E9es ces derni\u00E8res ann\u00E9es, et, surtout, ont pris de nouvelles formes. - invit\u00E9s : Donatien le Vaillant Chef de la Mission Interminist\u00E9rielle de VIgilance et de LUtte contre les D\u00C9rives Sectaires (MIVILUDES) et inspecteur de l\u0027administration.; Anne L\u00E9cu M\u00E9decin en milieu carc\u00E9ral et religieuse dominicaine.",
+      "release": "2024-01-17T20:58:45Z",
+      "duration": "00:59:13.2270000",
+      "explicit": false,
+      "spotifyId": "3G0EUaEs3Z0dtc1PaRtarc",
+      "appleId": 1000642018377,
+      "subjects": [
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3G0EUaEs3Z0dtc1PaRtarc",
+        "apple": "https://podcasts.apple.com/podcast/sectes-et-vuln%C3%A9rabilit%C3%A9-de-lhomme-d%C3%A9mocratique/id1530607035?i=1000642018377"
+      }
+    }
+  ]
+}

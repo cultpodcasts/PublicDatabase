@@ -13,12 +13,16 @@
       "release": "2024-01-14T07:00:07Z",
       "duration": "00:46:06",
       "explicit": false,
+      "spotifyId": "3ZMBagJTpvWfOROcMcASM7",
+      "appleId": 1000641649031,
       "youTubeId": "BkE9KUuJyJw",
       "subjects": [
         "Scientology",
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3ZMBagJTpvWfOROcMcASM7",
+        "apple": "https://podcasts.apple.com/podcast/critical-q-a-436/id1274880654?i=1000641649031",
         "youtube": "https://www.youtube.com/watch?v=BkE9KUuJyJw"
       }
     },

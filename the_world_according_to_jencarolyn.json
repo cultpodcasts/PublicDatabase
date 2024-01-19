@@ -1,0 +1,25 @@
+{
+  "id": "caf49139-7646-4420-9cff-9b496c097156",
+  "name": "The World According to Jen \u0026 Carolyn",
+  "spotifyId": "6uJZyrLrmJrkoxL37eRc8j",
+  "appleId": 1671604030,
+  "episodes": [
+    {
+      "id": "da9e1a7c-60be-4de0-b0f2-d9cb11cb3351",
+      "title": "I Can Smell Your Cult",
+      "description": "So, you think you\u2019re too \u201Csmart\u201D to ever join a cult? Maybe you are and maybe, just maybe, if the messaging were right and the leader was charismatic enough you\u2019d drop everything and move to a commune in the desert! Join Jen and Carolyn as we break down the reasons why people join cults (which has nothing to do with intelligence) and what makes so many cult leaders so damn charismatic. We\u0027ll also discuss how ideas that start off as beautiful and inclusive can end in something as horrific as the mass suicide/murder of close to 900 people.\u00A06 of the Most Infamous Cults in HistoryHow Do Normal, Successful, and Smart People End Up Joining a Cult?What Is a Cult? 10 Warning SignsHow to identify a cult: Six tips from an expert - CBS NewsAre Cults Legal? - HG.org14 Characteristics of A Cult Leader-Psyc MechanicsThe True Story of Brainwashing and How it Shaped AmericaWhat is Cognitive DissonanceFestinger, L. (1957). A Theory of cognitive dissonance. Stanford, CA: Stanford University Press.BITE Model by Steve HassanCult Recovery Resources",
+      "release": "2024-01-18T05:00:00Z",
+      "duration": "00:53:41.4660000",
+      "explicit": false,
+      "spotifyId": "3HSxEWHD6VoFlHCQzvBo2j",
+      "appleId": 1000642124847,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3HSxEWHD6VoFlHCQzvBo2j",
+        "apple": "https://podcasts.apple.com/podcast/i-can-smell-your-cult/id1671604030?i=1000642124847"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7c2a2cc8-a6ba-4220-b839-a1deff684b9c",
+  "name": "Untold: The Retreat",
+  "spotifyId": "1GUc0a6lsMCaTDbgIU4tgJ",
+  "appleId": 1724826952,
+  "episodes": [
+    {
+      "id": "de8a7dcd-7cc0-4bf6-8ff9-0df85386d61d",
+      "title": "Introducing Untold: The Retreat",
+      "description": "Introducing Untold, a new podcast from the special investigations team at the Financial Times. In its first series, The Retreat, host Madison Marriage examines the world of the Goenka network, which promotes a type of intensive meditation known as Vipassana. Thousands of people go on Goenka retreats every year. People rave about them. But some people go to these meditation retreats, and they suffer. They might feel a deep sense of terror, or a break with reality. And on the other side, they\u2019re not themselves anymore. Untold: The Retreat launches Jan. 24. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2023-12-21T16:42:50Z",
+      "duration": "00:01:59.6660000",
+      "explicit": false,
+      "spotifyId": "7p7dLgO6zumBO7ekl1TjSr",
+      "appleId": 1000640943884,
+      "subjects": [
+        "S. N. Goenka"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7p7dLgO6zumBO7ekl1TjSr",
+        "apple": "https://podcasts.apple.com/podcast/introducing-untold-the-retreat/id1724826952?i=1000640943884"
+      }
+    }
+  ]
+}

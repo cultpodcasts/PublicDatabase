@@ -1,0 +1,37 @@
+{
+  "id": "eefad838-e8b1-49a6-93d7-464f048cc3a1",
+  "name": "ABC4 Utah",
+  "youTubeChannelId": "UCCjsvWYJ00k9T6C20iBH2-g",
+  "episodes": [
+    {
+      "id": "d1d39f55-8c3d-40bd-a4ac-e7ae3a6ad9b3",
+      "title": "Leader of fundamentalist religious group sentenced to prison",
+      "description": "Leader of fundamentalist religious group sentenced to prison",
+      "release": "2018-08-09T00:02:29Z",
+      "duration": "00:02:47",
+      "explicit": false,
+      "youTubeId": "ic7aYOj1Q9U",
+      "subjects": [
+        "Knights of The Crystal Blade"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ic7aYOj1Q9U"
+      }
+    },
+    {
+      "id": "ce2a1e6e-821a-406d-a6f0-efaa1c7afc73",
+      "title": "Leader of Knights of Crystal Blade pleads guilty",
+      "description": "Leader of Knights of Crystal Blade pleads guilty",
+      "release": "2018-06-13T23:31:45Z",
+      "duration": "00:01:51",
+      "explicit": false,
+      "youTubeId": "s7rMN0DZuZY",
+      "subjects": [
+        "Knights of The Crystal Blade"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=s7rMN0DZuZY"
+      }
+    }
+  ]
+}

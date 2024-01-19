@@ -1,0 +1,22 @@
+{
+  "id": "41540ee4-49c7-4b71-8920-a8260e8e7d6a",
+  "name": "CityNews",
+  "youTubeChannelId": "UCVKAcQQCO8vv87Gk62SutAg",
+  "episodes": [
+    {
+      "id": "07cbed91-bf79-4475-8566-f76c5c21a820",
+      "title": "Exploring the secret world of Plymouth Brethren Christian Church",
+      "description": "All week and in an upcoming documentary, CityNews is looking at a exclusive Christian Sect. The Plymouth Brethren Christian Church. So what is this religion and where did it start? Pat Taney reports.",
+      "release": "2022-03-25T22:19:56Z",
+      "duration": "00:03:23",
+      "explicit": false,
+      "youTubeId": "MrQETmNPe5A",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MrQETmNPe5A"
+      }
+    }
+  ]
+}

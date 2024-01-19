@@ -1,0 +1,26 @@
+{
+  "id": "3c13c4cd-4aa0-4b7e-bbac-d33175be0742",
+  "name": "Let\u0027s Docu \u0027Bout It",
+  "spotifyId": "5b2eLb4NSzbEu2S6Y14oGc",
+  "appleId": 1715348490,
+  "episodes": [
+    {
+      "id": "2e84c5f2-2e09-45cf-9f18-a7616658f591",
+      "title": "Episode 11 - Keep Sweet Pray and Obey (Part One)",
+      "description": "This week I recap and talk about Parts One \u0026 Two of the Netflix docuseries Keep Sweet Pray and Obey, a four part documentary about the polygamous Fundamentalist Church of Jesus Christ of Latter Day Saints or the FLDS.  The FLDS is an offshoot of mainstream Mormonism and is led by Warren Jeffs. Interviews including those of survivors of this cult were interviewed after arriving in Short Creek, Utah, the headquarters of the FLDS church. You can find photographs and interact with me about this episode on Instagram or on my blog for this podcast!   ",
+      "release": "2024-01-16T14:30:00Z",
+      "duration": "00:53:03.8960000",
+      "explicit": true,
+      "spotifyId": "2IZXAYciZNSVbosRoqTQJY",
+      "appleId": 1000641853969,
+      "subjects": [
+        "FLDS Church",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2IZXAYciZNSVbosRoqTQJY",
+        "apple": "https://podcasts.apple.com/podcast/episode-11-keep-sweet-pray-and-obey-part-one/id1715348490?i=1000641853969"
+      }
+    }
+  ]
+}

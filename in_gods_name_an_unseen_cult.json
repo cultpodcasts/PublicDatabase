@@ -1,0 +1,25 @@
+{
+  "id": "8ab63d91-7fc3-4129-b381-ee635a64457e",
+  "name": "In God\u0027s Name: An Unseen Cult",
+  "spotifyId": "0skGWHhHSfLPryZ9mPo5Az",
+  "appleId": 1723691174,
+  "episodes": [
+    {
+      "id": "1c5f564c-16ef-4892-95a8-9ca7b50b7d33",
+      "title": "1 - The Founding",
+      "description": "In the beginning there was a man and a vision. Both were probably more complicated than that...   PRODUCER: Grace Elizabeth EDITOR: Chris A. MUSIC: Stephen Velasco       ShadyDave IG: @ingodsnamepod EMAIL: ingodsnamepod@gmail.com",
+      "release": "2024-01-14T17:00:00Z",
+      "duration": "00:21:20.3940000",
+      "explicit": false,
+      "spotifyId": "5iGzxtY4LDfhxjazHWGZE4",
+      "appleId": 1000641609701,
+      "subjects": [
+        "Geftakys Assembly"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5iGzxtY4LDfhxjazHWGZE4",
+        "apple": "https://podcasts.apple.com/podcast/1-the-founding/id1723691174?i=1000641609701"
+      }
+    }
+  ]
+}

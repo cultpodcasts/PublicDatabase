@@ -1,0 +1,36 @@
+{
+  "id": "3fa1b166-e603-4cac-928b-c91e56e99d35",
+  "name": "Fascinating Nouns",
+  "spotifyId": "6YknQf7iguvF8pp6cEP3uL",
+  "appleId": 588228658,
+  "episodes": [
+    {
+      "id": "c820cac2-1e7f-4d5d-9066-00a6124516ff",
+      "title": "*Bonus* \u2013 Communes in California",
+      "description": "As the center of the hippie movement, California has a long history of cults and communes.\u00A0 In this bones episode, we tell the story of how religious groups helped popularize the modern Vegetarian movement, as well as the sordid background of the beloved Kettle Chips.",
+      "release": "2024-01-15T23:23:12Z",
+      "duration": "00:15:06.6570000",
+      "explicit": false,
+      "spotifyId": "2pb96sDFKCz4hmxCmDdn1x",
+      "appleId": 1000641772567,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2pb96sDFKCz4hmxCmDdn1x",
+        "apple": "https://podcasts.apple.com/podcast/bonus-communes-in-california/id588228658?i=1000641772567"
+      }
+    },
+    {
+      "id": "905c130c-24c8-4c96-8571-489d8a450309",
+      "title": "Ep. 244: How Cults \u0026 Communes Cultivated Common Cuisine",
+      "description": "When it comes to spiritual belief, the United States is very unique.\u00A0 Since religion is protected by the first amendment, the country has been fertile ground to many spiritual groups, cults, communes, and other religious groups.\u00A0 Some have taken an isolation approach, and if your group is remote, you will have to grow and make [\u2026]",
+      "release": "2024-01-15T23:08:17Z",
+      "duration": "01:05:09.7460000",
+      "explicit": false,
+      "spotifyId": "03QXaLPY6KUJMi4jVkHNwU",
+      "appleId": 1000641770618,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/03QXaLPY6KUJMi4jVkHNwU",
+        "apple": "https://podcasts.apple.com/podcast/ep-244-how-cults-communes-cultivated-common-cuisine-video/id588228658?i=1000641770618"
+      }
+    }
+  ]
+}

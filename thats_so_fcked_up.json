@@ -547,6 +547,7 @@
       "spotifyId": "0A0vPPEozkQNOslS0X4MrL",
       "appleId": 1000618177043,
       "subjects": [
+        "The Beachbody Company",
         "Multi-Level Marketing"
       ],
       "urls": {
@@ -1222,9 +1223,6 @@
       "spotifyId": "0Bexs1mtn8j6XNvelmta0J",
       "appleId": 1000523382298,
       "subjects": [
-        "Peoples Temple",
-        "Branch Davidians",
-        "Heaven\u0027s Gate",
         "Movement for the Restoration of the Ten Commandments of God"
       ],
       "urls": {
@@ -1258,6 +1256,9 @@
       "explicit": true,
       "spotifyId": "2y7T93711r64q6Y6btg2sF",
       "appleId": 1000520605858,
+      "subjects": [
+        "The Fall River Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2y7T93711r64q6Y6btg2sF",
         "apple": "https://podcasts.apple.com/podcast/episode-51-multiple-murders-the-fall-river-satanic/id1508752329?i=1000520605858"

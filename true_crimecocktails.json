@@ -1,0 +1,25 @@
+{
+  "id": "dd89f5de-6a48-4e58-974e-eb1af7ceabc1",
+  "name": "True Crime \u0026 Cocktails",
+  "spotifyId": "15Hm7iU9RKSrl9o4pR7rre",
+  "appleId": 1533700329,
+  "episodes": [
+    {
+      "id": "4c26267f-3f6f-4435-afd7-7fcf0ca37f20",
+      "title": "156 - Love Has Won: The Cult of Mother God",
+      "description": "Lauren and Christy deep dive the Mother God cult, as seen in the HBO doc Love Has Won. Christy\u0027s research reveals celebrities from the cult\u0027s Galactic team, Father God\u0027s criminal history, and the shocking abuse claims left out of the doc! So grab a drink, put on some pjs, and join this duo for a true crime slumber party!See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2024-01-16T08:00:00Z",
+      "duration": "02:22:06.8630000",
+      "explicit": true,
+      "spotifyId": "65QIiz7bIXjqQ1ogjpJaUm",
+      "appleId": 1000641809067,
+      "subjects": [
+        "Love Has Won"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/65QIiz7bIXjqQ1ogjpJaUm",
+        "apple": "https://podcasts.apple.com/podcast/love-has-won-the-cult-of-mother-god/id1533700329?i=1000641809067"
+      }
+    }
+  ]
+}

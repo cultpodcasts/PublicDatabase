@@ -87,11 +87,15 @@
       "release": "2023-11-16T00:43:17Z",
       "duration": "00:58:13",
       "explicit": false,
+      "spotifyId": "4TLWRluiFw1INMg7amWei8",
+      "appleId": 1000642084463,
       "youTubeId": "V0g1L7qfmE8",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4TLWRluiFw1INMg7amWei8",
+        "apple": "https://podcasts.apple.com/podcast/leah-mike-on-emotional-terrorism-in-scientology/id1714019520?i=1000642084463",
         "youtube": "https://www.youtube.com/watch?v=V0g1L7qfmE8"
       }
     },

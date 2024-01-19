@@ -1,0 +1,29 @@
+{
+  "id": "1cec3b0d-60df-460f-ab1e-7b1c1666bd92",
+  "name": "The Emily Show",
+  "spotifyId": "7rEbYHcwlxtBO2jEF8HHu3",
+  "appleId": 1486229281,
+  "youTubeChannelId": "UCE-laOeM9gLfTcWF4HRBPpA",
+  "episodes": [
+    {
+      "id": "7039af36-1bb8-47ff-8f3f-84882f4e3ed0",
+      "title": "Leah Remini v Scientology. Litigation Heats Up Ahead of Hearing.",
+      "description": "Leah Remini\u2019s court battle with Scientology has been met with tons of additional litigation. Both sides have made it clear they will not go into mediation regarding this lawsuit, making a court showdown highly likely.David Miscavige, the ecclesiastical leader, claims he was never properly served by Leah\u2019s team and should be removed from the lawsuit. Leah has requested the court place an injunction on the church of Scientology due to their continued harassment campaign against her. The manner of which has become so severe that by the time the trial is over, her reputation could be irreparably damaged. The Church of Scientology has additionally filed an anti-SLAPP motion claiming their reciprocal right to speech is based on public interest. The court has been so overwhelmed with their back and forth that they requested both sides to stop filing motions while the court takes the time to review and consider the current motions prior to the hearing.This podcast uses the following third-party services for analysis: Podsights - https://podsights.com/privacyPodscribe - https://podscribe.com/privacyChartable - https://chartable.com/privacy",
+      "release": "2024-01-17T10:44:00Z",
+      "duration": "01:19:04.0460000",
+      "explicit": true,
+      "spotifyId": "0OoOa5EH6Xmq9tKkbPxhUI",
+      "appleId": 1000641958658,
+      "youTubeId": "YKUly-imUQ4",
+      "subjects": [
+        "Scientology",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0OoOa5EH6Xmq9tKkbPxhUI",
+        "apple": "https://podcasts.apple.com/podcast/leah-remini-v-scientology-litigation-heats-up-ahead/id1486229281?i=1000641958658",
+        "youtube": "https://www.youtube.com/watch?v=YKUly-imUQ4"
+      }
+    }
+  ]
+}
