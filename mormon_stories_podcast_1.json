@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "47POXMiJcddBTecqeCnzJn",
       "appleId": 1000642254307,
+      "youTubeId": "KpGvK7m1-ck",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/47POXMiJcddBTecqeCnzJn",
-        "apple": "https://podcasts.apple.com/podcast/1854-polygamy-abortion-in-joseph-smiths-nauvoo-john/id312094772?i=1000642254307"
+        "apple": "https://podcasts.apple.com/podcast/1854-polygamy-abortion-in-joseph-smiths-nauvoo-john/id312094772?i=1000642254307",
+        "youtube": "https://www.youtube.com/watch?v=KpGvK7m1-ck"
       }
     },
     {
