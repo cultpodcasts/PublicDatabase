@@ -1,0 +1,42 @@
+{
+  "id": "99614ba7-44d7-4ac5-bcec-625ec40bf948",
+  "name": "Journey to the Fringe",
+  "spotifyId": "1E0ppRmvmFRifGF80MObhk",
+  "appleId": 1561096662,
+  "episodes": [
+    {
+      "id": "563dbde6-59c7-45ac-a58d-9f7dc81296ac",
+      "title": "The epoch of its time: The Falun Gong part 2 of 3",
+      "description": "In this episode of Journey to the Fringe, we explore the controversial teachings of Falun Gong, a Chinese spiritual movement that claims to offer a path to enlightenment and salvation. We examine the origins and evolution of Falun Gong\u2019s founder and leader, Li Hongzhi, who is revered by his followers as a god-like figure with supernatural powers. We also look at some of the most contentious and bizarre aspects of Falun Gong\u2019s doctrine, such as its rejection of modern science, race mixing, medicine, and art, its denunciation of homosexuality, feminism, and worldly pursuits, and its belief in the imminent end of the world and the salvation of the chosen ones. Join us as we delve into the fringe of Falun Gong\u2019s teachings, a journey that will challenge your assumptions and beliefs",
+      "release": "2024-01-26T10:00:36Z",
+      "duration": "00:53:18.1470000",
+      "explicit": false,
+      "spotifyId": "6VpocZ8OCMiVvkJ6vJK19M",
+      "appleId": 1000643054542,
+      "subjects": [
+        "Falun Gong"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6VpocZ8OCMiVvkJ6vJK19M",
+        "apple": "https://podcasts.apple.com/podcast/the-epoch-of-its-time-the-falun-gong-part-2-of-3/id1561096662?i=1000643054542"
+      }
+    },
+    {
+      "id": "ebef0a01-8edd-4fcc-8d08-1d76d2902b27",
+      "title": "The epoch of its time: The Falun Gong part 1 of 3",
+      "description": "In this episode of Journey to the Fringe, we explore the history of Falun Gong, a spiritual movement that emerged in China in the early 1990s and quickly gained millions of followers. We trace the origins of Falun Gong\u2019s founder and leader, Li Hongzhi, and his teachings that combine meditation, moral philosophy, and supernatural claims. We also examine how Falun Gong attracted the attention and ire of the Chinese Communist Party, which launched a brutal crackdown on the movement in 1999, banning it as an \u201Cevil cult\u201D and subjecting its practitioners to imprisonment, torture, and organ harvesting.Music credit:80s Crime Thriller Soundtrack Playlist - Vice Beach // Royalty Free Copyright Safe MusicWhite Bat Audio",
+      "release": "2024-01-19T10:00:31Z",
+      "duration": "00:48:23.4480000",
+      "explicit": false,
+      "spotifyId": "2z3y4sF9Fl17y2jFoUsTcV",
+      "appleId": 1000642207938,
+      "subjects": [
+        "Falun Gong"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2z3y4sF9Fl17y2jFoUsTcV",
+        "apple": "https://podcasts.apple.com/podcast/the-epoch-of-its-time-the-falun-gong-part-1-of-3/id1561096662?i=1000642207938"
+      }
+    }
+  ]
+}

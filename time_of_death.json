@@ -1,0 +1,25 @@
+{
+  "id": "08a97dd6-2c49-4c72-99a2-a4f544607e56",
+  "name": "Time of Death",
+  "spotifyId": "6KiGs4QeoGP8KmVWB3ADY0",
+  "appleId": 1705168474,
+  "episodes": [
+    {
+      "id": "e44243e0-6dbc-4835-859d-19af4b46b420",
+      "title": "Episode 25: Twin Flames Universe - Sparks or Scams?",
+      "description": "Join us as we talk about a cult with a dark secret. Warning for sensitive content. Dee and Ris discuss the medical and psychiatric perspectives behind this case, based upon their experiences as nurses.  Sources https://www.psychologytoday.com/us/blog/freedom-mind/202106/understanding-cults-the-basics?fbclid=IwAR2YuwgaL6OIYnG09D674ltqlWIa0rIqusgpa49TjlVonJzssuqXAH-gZsU  Ender\u0027s Game - Wikipedia  A Romance of Two Worlds - Wikipedia  Hit Netflix doc \u2018Escaping Twin Flames\u2019 is rooted in Michigan. What\u2019s it all about? - mlive.com  What \u0022Escaping Twin Flames\u0022 teaches us about the anti-trans nature of a supposedly loving cult | Salon.com  Escaping Twin Flames. 2023. Documentary. Netflix. Desperately Seeking Soulmate: Escaping Twin Flames Universe. 2023. Documentary. Amazon Prime.  ",
+      "release": "2024-01-25T04:11:51Z",
+      "duration": "00:45:54.5830000",
+      "explicit": true,
+      "spotifyId": "4QqEL3r19z7guMp3eoUI4o",
+      "appleId": 1000642862879,
+      "subjects": [
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4QqEL3r19z7guMp3eoUI4o",
+        "apple": "https://podcasts.apple.com/podcast/episode-25-twin-flames-universe-sparks-or-scams/id1705168474?i=1000642862879"
+      }
+    }
+  ]
+}

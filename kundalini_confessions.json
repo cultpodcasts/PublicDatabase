@@ -1,0 +1,22 @@
+{
+  "id": "cc1b3668-8d07-494c-a70a-6135143b62ae",
+  "name": "Kundalini Confessions",
+  "spotifyId": "5lPOBTtKoN36qBRki8dbZ7",
+  "appleId": 1719628910,
+  "episodes": [
+    {
+      "id": "7d16d9bc-6acc-4bac-aa7c-2c2206534c60",
+      "title": "Daily Confession No.54 Cults",
+      "description": "They\u2019re dangerous, and must be educated on since there is a cult within the Kundalini Yoga and Meditation system.  Dallas Kundalini Yoga \u0026 Meditation",
+      "release": "2024-01-23T05:50:33Z",
+      "duration": "00:04:12.8400000",
+      "explicit": false,
+      "spotifyId": "5heSA8WD9Yh2ga8VKcwKDZ",
+      "appleId": 1000642591831,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5heSA8WD9Yh2ga8VKcwKDZ",
+        "apple": "https://podcasts.apple.com/podcast/daily-confession-no-54-cults/id1719628910?i=1000642591831"
+      }
+    }
+  ]
+}
