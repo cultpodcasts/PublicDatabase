@@ -103,11 +103,15 @@
       "release": "2024-01-14T14:47:00Z",
       "duration": "01:34:12",
       "explicit": false,
+      "spotifyId": "5AIrjcy9LNVAMzIlybumG4",
+      "appleId": 1000643204177,
       "youTubeId": "QaSqnPz3r-A",
       "subjects": [
         "Church of the First Born of the Lamb of God"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5AIrjcy9LNVAMzIlybumG4",
+        "apple": "https://podcasts.apple.com/podcast/daughters-of-the-cult-leader-ervil-lebaron-tell-all/id1635013492?i=1000643204177",
         "youtube": "https://www.youtube.com/watch?v=QaSqnPz3r-A"
       }
     },

@@ -1,0 +1,27 @@
+{
+  "id": "8e7d4051-e7b5-4a03-bbf6-055ddeb01371",
+  "name": "Hunk with Mike Bridenstine",
+  "spotifyId": "7alZ1m2Rz0n23pBq4VfxvR",
+  "appleId": 1454900854,
+  "episodes": [
+    {
+      "id": "575e1598-ecde-420a-9624-54a9aff10ae6",
+      "title": "Meet Uriah Wesman, A Comedian Who Survived 3 Different Cults",
+      "description": "Growing up in three different cults, his parent\u0027s arranged marriage, his unique Biblical name, and various other issues that arose from such a unique childhood.\u00A0 Follow Uriah here.\u00A0 Follow Mike here.\u00A0 Video and extras are at www.patreon.com/brido.\u00A0",
+      "release": "2024-01-31T23:22:00Z",
+      "duration": "01:48:58.7370000",
+      "explicit": true,
+      "spotifyId": "2dhd9nxC7n120YqbfKfV1h",
+      "appleId": 1000643728481,
+      "subjects": [
+        "Church Universal and Triumphant",
+        "The Hearts Center",
+        "IDEAL Society"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2dhd9nxC7n120YqbfKfV1h",
+        "apple": "https://podcasts.apple.com/podcast/meet-uriah-wesman-a-comedian-who-survived-3-different-cults/id1454900854?i=1000643728481"
+      }
+    }
+  ]
+}

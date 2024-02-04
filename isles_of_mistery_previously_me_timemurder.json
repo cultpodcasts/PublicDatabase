@@ -1,8 +1,9 @@
 {
   "id": "f588287a-04c1-4c88-aaa7-6491f2f26c8e",
-  "name": "Isles of Mistery (previously me time \u0026 murder)",
+  "name": "Isles of Mistery",
   "spotifyId": "3E6YoxcYB69HmyvarzPs3P",
   "appleId": 1535313734,
+  "youTubeChannelId": "UCFk6jxVFJc4OHe3t8NgNh2w",
   "episodes": [
     {
       "id": "711d1e4d-8e45-4a73-8d55-8d4f77f389b2",
@@ -13,12 +14,14 @@
       "explicit": true,
       "spotifyId": "1NFompVNuz4bwly1HuwrJe",
       "appleId": 1000496060439,
+      "youTubeId": "PPmNRPomr6Q",
       "subjects": [
         "The Screamers"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1NFompVNuz4bwly1HuwrJe",
-        "apple": "https://podcasts.apple.com/podcast/the-irish-cult-you-didnt-know-about-meet-the-screamers/id1535313734?i=1000496060439"
+        "apple": "https://podcasts.apple.com/podcast/the-irish-cult-you-didnt-know-about-meet-the-screamers/id1535313734?i=1000496060439",
+        "youtube": "https://www.youtube.com/watch?v=PPmNRPomr6Q"
       }
     }
   ]

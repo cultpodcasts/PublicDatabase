@@ -72,11 +72,15 @@
       "release": "2023-12-01T15:18:11Z",
       "duration": "00:52:25",
       "explicit": false,
+      "spotifyId": "27DGQWWwPQ0r4AnPSBcgTq",
+      "appleId": 1000643500144,
       "youTubeId": "70rrAMJvLIw",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/27DGQWWwPQ0r4AnPSBcgTq",
+        "apple": "https://podcasts.apple.com/podcast/phil-jones-scientology-in-canada/id1714019520?i=1000643500144",
         "youtube": "https://www.youtube.com/watch?v=70rrAMJvLIw"
       }
     },

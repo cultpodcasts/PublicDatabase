@@ -452,6 +452,22 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=dFDl6GA1DI0"
       }
+    },
+    {
+      "id": "9f6f5f1a-e594-4072-baab-7ca0791b8098",
+      "title": "Dr. Robert J. Lifton on Destructive Cults",
+      "description": "http://en.wikipedia.org/wiki/Robert_Jay_Lifton\r\n\r\n3/17/00 - One of the leading experts in mind control, Dr. Lifton addressed the issue of doomsday cults such as Aum Shinrikyo.",
+      "release": "2008-06-10T03:35:14Z",
+      "duration": "00:59:53",
+      "explicit": false,
+      "youTubeId": "8yDoPD5GeCE",
+      "subjects": [
+        "Cult Psychology",
+        "Aum Shinrikyo"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8yDoPD5GeCE"
+      }
     }
   ]
 }

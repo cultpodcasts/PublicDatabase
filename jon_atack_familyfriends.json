@@ -6,17 +6,68 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "f00c6dc6-5d63-45ee-ba72-a99282aa7f24",
+      "title": "Ron Hubbard and Astounding Science Fiction with Alec Nevala-Lee",
+      "description": "Alec\u0027s Astounding is a brilliant account of the \u0027golden age\u0027 of science-fiction when John Campbell, jnr, brought together the writers who would thrust s-f into the public arena - Heinlein, Asimov, Van Vogt and, of course, Ron Hubbard. There is much to be learned from Hubbard\u0027s stint at Astounding. Without Campbell, Dianetics might never have seen the light of day. Find how those around Hubbard lost faith in his ideas. \n\nCheck out Alec\u0027s website here: https://nevalalee.wordpress.com",
+      "release": "2024-02-03T07:15:15Z",
+      "duration": "01:09:50",
+      "explicit": false,
+      "spotifyId": "6cytINDHphbyf5vREJUZKn",
+      "youTubeId": "iFfGxjy61t4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6cytINDHphbyf5vREJUZKn",
+        "youtube": "https://www.youtube.com/watch?v=iFfGxjy61t4"
+      }
+    },
+    {
+      "id": "7ece9275-b404-451a-8176-f9033b1ebb2e",
+      "title": "Jon on Scientology Stories with Marc Headley",
+      "description": "Jon talks with Marc Headley on his channel Scientology Stories. Mirrored from there with the kind permission of the Headleys.\n\nCheck out the Blown for Good channel here: https://www.youtube.com/@blownforgood",
+      "release": "2024-02-01T17:00:17Z",
+      "duration": "02:04:30",
+      "explicit": false,
+      "youTubeId": "RN4WN-R02Fw",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RN4WN-R02Fw"
+      }
+    },
+    {
+      "id": "8ede4e32-4f74-4505-abce-3d26791725ae",
+      "title": "Breaking Free from Scientology\u0026#39;s Grip - Jon talks with Eric Hunley",
+      "description": "Jon talks with Eric Hunley about Scientology, the psychological mechanisms used in Scientology, and much more. Mirrored from Eric\u0027s channel with his kind permission.\n\nCheck out Eric\u0027s channel here: https://www.youtube.com/@erichunley",
+      "release": "2024-01-31T18:32:18Z",
+      "duration": "01:06:15",
+      "explicit": false,
+      "youTubeId": "lXf-NfZPtR0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lXf-NfZPtR0"
+      }
+    },
+    {
       "id": "18ef26ee-e05c-4e6a-b592-b4e19597c777",
       "title": "when to leave a cult with Hoyt Richards",
       "description": "documentarian, actor and cult expert Hoyt Richards talks with Jon about ending a toxic relationship, whether with an authoritarian cult or an abusive or unsuitable partner.",
       "release": "2024-01-27T11:56:46Z",
       "duration": "01:07:21",
       "explicit": false,
+      "spotifyId": "5JcSFSjAXMvdbD6WhLt65m",
+      "appleId": 1000643209796,
       "youTubeId": "CVE7ckMRgyU",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5JcSFSjAXMvdbD6WhLt65m",
+        "apple": "https://podcasts.apple.com/podcast/when-to-leave-a-cult-with-hoyt-richards/id1534364303?i=1000643209796",
         "youtube": "https://www.youtube.com/watch?v=CVE7ckMRgyU"
       }
     },
@@ -27,12 +78,16 @@
       "release": "2024-01-20T06:19:46Z",
       "duration": "01:37:00",
       "explicit": false,
+      "spotifyId": "0HywwKbgUkffcaQQAsB8gg",
+      "appleId": 1000643209422,
       "youTubeId": "NNa5dJjaEx0",
       "subjects": [
         "Psychology",
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0HywwKbgUkffcaQQAsB8gg",
+        "apple": "https://podcasts.apple.com/podcast/recognizing-human-predators-with-shawn-mccraney/id1534364303?i=1000643209422",
         "youtube": "https://www.youtube.com/watch?v=NNa5dJjaEx0"
       }
     },
@@ -74,11 +129,15 @@
       "release": "2024-01-13T07:00:02Z",
       "duration": "01:35:22",
       "explicit": false,
+      "spotifyId": "4ebUzP6Je3NSunzZSzgg9M",
+      "appleId": 1000643453444,
       "youTubeId": "4KOjAG6ZKw0",
       "subjects": [
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4ebUzP6Je3NSunzZSzgg9M",
+        "apple": "https://podcasts.apple.com/podcast/psychedelics-and-psychotherapy-with-professor/id1534364303?i=1000643453444",
         "youtube": "https://www.youtube.com/watch?v=4KOjAG6ZKw0"
       }
     },
@@ -127,8 +186,12 @@
       "release": "2023-12-23T05:26:39Z",
       "duration": "00:35:27",
       "explicit": false,
+      "spotifyId": "0pf93zDplzfHvBUtal2wbi",
+      "appleId": 1000640114604,
       "youTubeId": "9XQPCXUPeCE",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0pf93zDplzfHvBUtal2wbi",
+        "apple": "https://podcasts.apple.com/podcast/the-redeemable-predator-part-1-with-shawn-mccraney/id1534364303?i=1000640114604",
         "youtube": "https://www.youtube.com/watch?v=9XQPCXUPeCE"
       }
     },
@@ -139,8 +202,12 @@
       "release": "2023-12-23T05:26:35Z",
       "duration": "01:23:27",
       "explicit": false,
+      "spotifyId": "5vHtH3yTtOky74HLUYAek6",
+      "appleId": 1000640118371,
       "youTubeId": "v2wyByPUKko",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5vHtH3yTtOky74HLUYAek6",
+        "apple": "https://podcasts.apple.com/podcast/the-redeemable-predator-part-2-with-shawn-mccraney/id1534364303?i=1000640118371",
         "youtube": "https://www.youtube.com/watch?v=v2wyByPUKko"
       }
     },
@@ -151,11 +218,15 @@
       "release": "2023-12-09T07:00:06Z",
       "duration": "00:44:46",
       "explicit": false,
+      "spotifyId": "1wtoZQTKyATq3n8H7PsEpc",
+      "appleId": 1000638734645,
       "youTubeId": "JlaEWw9BrEo",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1wtoZQTKyATq3n8H7PsEpc",
+        "apple": "https://podcasts.apple.com/podcast/revisiting-old-haunts-with-janis-gillham-grady/id1534364303?i=1000638734645",
         "youtube": "https://www.youtube.com/watch?v=JlaEWw9BrEo"
       }
     },
@@ -190,8 +261,12 @@
       "release": "2023-12-02T08:43:23Z",
       "duration": "01:35:19",
       "explicit": false,
+      "spotifyId": "5XTxUNH92jVtbj7r1z2KUE",
+      "appleId": 1000637376048,
       "youTubeId": "R3t-Rnmuj7w",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5XTxUNH92jVtbj7r1z2KUE",
+        "apple": "https://podcasts.apple.com/podcast/gaza-genocide-or-resolution-with-dr-steven-moffic/id1534364303?i=1000637376048",
         "youtube": "https://www.youtube.com/watch?v=R3t-Rnmuj7w"
       }
     },
@@ -202,11 +277,15 @@
       "release": "2023-11-25T13:11:04Z",
       "duration": "01:07:20",
       "explicit": false,
+      "spotifyId": "1WJppiQwSO7TGtIfHXtl1r",
+      "appleId": 1000637369003,
       "youTubeId": "6-iLwbeG_hU",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1WJppiQwSO7TGtIfHXtl1r",
+        "apple": "https://podcasts.apple.com/podcast/telling-your-story-is-important-for-recovery-with-hoyt/id1534364303?i=1000637369003",
         "youtube": "https://www.youtube.com/watch?v=6-iLwbeG_hU"
       }
     },
@@ -217,11 +296,15 @@
       "release": "2023-11-11T07:00:11Z",
       "duration": "02:11:38",
       "explicit": false,
+      "spotifyId": "5XZA1mFSs4dUkTFxikAdhm",
+      "appleId": 1000635084055,
       "youTubeId": "UOzVMTc8ebs",
       "subjects": [
         "Catholicism"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5XZA1mFSs4dUkTFxikAdhm",
+        "apple": "https://podcasts.apple.com/podcast/the-cultic-effects-of-traditionalist-catholicism/id1534364303?i=1000635084055",
         "youtube": "https://www.youtube.com/watch?v=UOzVMTc8ebs"
       }
     },
@@ -232,11 +315,15 @@
       "release": "2023-11-09T15:25:53Z",
       "duration": "01:35:26",
       "explicit": false,
+      "spotifyId": "0w1hz8eQ5MC6MAI8MEwtd7",
+      "appleId": 1000631333095,
       "youTubeId": "DpiwsLLkEFs",
       "subjects": [
         "Large Group Awareness Trainings"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0w1hz8eQ5MC6MAI8MEwtd7",
+        "apple": "https://podcasts.apple.com/podcast/why-we-dont-always-look-before-we-leap-with-john-hunter-phd/id1534364303?i=1000631333095",
         "youtube": "https://www.youtube.com/watch?v=DpiwsLLkEFs"
       }
     },
@@ -281,6 +368,8 @@
       "release": "2023-10-28T17:02:51Z",
       "duration": "00:48:33",
       "explicit": false,
+      "spotifyId": "0kBbvts6o9mOOjFtqHXmfS",
+      "appleId": 1000633657872,
       "youTubeId": "TgLikJzERCU",
       "subjects": [
         "Scientology",
@@ -288,6 +377,8 @@
         "Cult-Expert"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0kBbvts6o9mOOjFtqHXmfS",
+        "apple": "https://podcasts.apple.com/podcast/scientology-mindfulness-and-the-perils-of-present/id1534364303?i=1000633657872",
         "youtube": "https://www.youtube.com/watch?v=TgLikJzERCU"
       }
     },
@@ -375,11 +466,15 @@
       "release": "2023-09-30T04:00:15Z",
       "duration": "00:56:52",
       "explicit": false,
+      "spotifyId": "4bkjV72Zn54bChLWVpZuE3",
+      "appleId": 1000631429131,
       "youTubeId": "Ue282Z-1L1M",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4bkjV72Zn54bChLWVpZuE3",
+        "apple": "https://podcasts.apple.com/podcast/ron-hubbard-the-kali-ceremony-and-ritual-magick/id1534364303?i=1000631429131",
         "youtube": "https://www.youtube.com/watch?v=Ue282Z-1L1M"
       }
     },
@@ -2909,6 +3004,7 @@
       "explicit": false,
       "youTubeId": "zouqIFBr6FQ",
       "subjects": [
+        "Church Universal and Triumphant",
         "Cult-Expert"
       ],
       "urls": {
@@ -5239,6 +5335,7 @@
       "explicit": false,
       "youTubeId": "OrHfBuCAHvc",
       "subjects": [
+        "Church Universal and Triumphant",
         "Cult-Expert"
       ],
       "urls": {
@@ -5431,6 +5528,7 @@
       "explicit": false,
       "youTubeId": "MnTxsV9q2rM",
       "subjects": [
+        "Church Universal and Triumphant",
         "Cult-Expert"
       ],
       "urls": {

@@ -3,7 +3,27 @@
   "name": "The Roys Report",
   "spotifyId": "77dv4wmuxjFhuIeeN1aPSF",
   "appleId": 1470242499,
+  "youTubeChannelId": "UCPTnscYen-_5cAhX2r9-CPg",
   "episodes": [
+    {
+      "id": "36c2a659-be06-4704-b8d5-754ef92a67ed",
+      "title": "Surviving Persecution From the Church for Exposing Abuse",
+      "description": "Naghmeh Panahi survived persecution from extremists in Iran, only to face persecution from Christians after divulging her husband\u2019s abuse.  Now the woman behind the #SaveSaeed campaign speaks out about brokenness, betrayal and wholeness\u2014a talk that\u0027s truly a prophetic witness to the church today.",
+      "release": "2024-01-30T22:15:40Z",
+      "duration": "00:52:21.5370000",
+      "explicit": false,
+      "spotifyId": "1CpzZGabBiP5h0GFbIaXsY",
+      "appleId": 1000643576014,
+      "youTubeId": "RF-3TbX8fXA",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1CpzZGabBiP5h0GFbIaXsY",
+        "apple": "https://podcasts.apple.com/podcast/surviving-persecution-from-the-church-for-exposing-abuse/id1470242499?i=1000643576014",
+        "youtube": "https://www.youtube.com/watch?v=RF-3TbX8fXA"
+      }
+    },
     {
       "id": "d59be37f-8d1d-4fce-8653-69e54dafdf42",
       "title": "Recognizing and Healing from Spiritual Abuse",

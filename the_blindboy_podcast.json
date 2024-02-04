@@ -1,0 +1,26 @@
+{
+  "id": "b53bab10-b7b9-4eef-92c4-8ac17d4144c1",
+  "name": "The Blindboy Podcast",
+  "spotifyId": "7HinkS0WZqDuMXYh02EUY1",
+  "appleId": 1300577518,
+  "episodes": [
+    {
+      "id": "d0d967c4-8448-48b4-b419-a4beacce43bf",
+      "title": "The History of Supernatural Sex wardrobes and Spanking cults in Donegal",
+      "description": "The History of Supernatural Sex wardobes and Spanking cults in Donegal\u00A0 Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-01-31T04:17:52Z",
+      "duration": "00:53:03.7250000",
+      "explicit": true,
+      "spotifyId": "3gAu6nKcl2ugBoVxbHXgLe",
+      "appleId": 1000643610147,
+      "subjects": [
+        "The Screamers",
+        "Silver Sisterhood"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gAu6nKcl2ugBoVxbHXgLe",
+        "apple": "https://podcasts.apple.com/podcast/the-history-of-supernatural-sex-wardrobes-and/id1300577518?i=1000643610147"
+      }
+    }
+  ]
+}
