@@ -1,8 +1,24 @@
 {
+  "_ts": 0,
   "id": "1b657a16-de0d-4812-bdb9-18624f0b2be4",
   "name": "ToryMagoo44",
   "youTubeChannelId": "UC__gcXYVQlmVocNLZykibUw",
   "episodes": [
+    {
+      "id": "883a5aed-3596-432b-b097-cc6985d3be9c",
+      "title": "ToryMagoo44 is live!",
+      "description": ".",
+      "release": "2024-02-07T06:26:30Z",
+      "duration": "00:02:40",
+      "explicit": false,
+      "youTubeId": "2HVdd2PSZjA",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2HVdd2PSZjA"
+      }
+    },
     {
       "id": "e9aa3d39-b565-424d-97e8-804477f55c35",
       "title": "Abusive Relationships My Advice to You",

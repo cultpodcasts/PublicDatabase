@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "4cacb815-ea27-4cd0-b31a-ca6a8822225f",
   "name": "I was a Teenage Fundamentalist. An Exvangelical podcast.",
   "spotifyId": "5tbYeCgmIuYwZBiZ9yGKbw",
   "appleId": 1558606464,
   "episodes": [
+    {
+      "id": "4cad0a31-abb6-4176-8103-8522552e6ea2",
+      "title": "Trailer: I was a Teenage Fundamentalist. Season 5",
+      "description": "Brian and Troy used to be loyal Christian megachurch leaders. They\u2019re not anymore. This new season explores life after Fundamentalism. Shortlisted for the 2022 Australian Podcast Awards. Find out more at iwasateenagefundamentalist.com/ and\u00A0https://linktr.ee/iwatf\u00A0 --- Doubting your beliefs? Have questions about changing or leaving your faith? You are not alone and Recovering from Religion is here to help. Please visit: https://www.recoveringfromreligion.org/\u00A0",
+      "release": "2024-02-09T00:01:00Z",
+      "duration": "00:01:00.0410000",
+      "explicit": false,
+      "spotifyId": "7oSAUlgwcM4b1sl6AVEcuZ",
+      "appleId": 1000642860045,
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7oSAUlgwcM4b1sl6AVEcuZ",
+        "apple": "https://podcasts.apple.com/podcast/trailer-i-was-a-teenage-fundamentalist-season-5/id1558606464?i=1000642860045"
+      }
+    },
     {
       "id": "b836838f-c5cb-487b-b464-1d6c27e5cc6f",
       "title": "092 - Hitchhiking with Drunken Nuns with Emily John Garces",

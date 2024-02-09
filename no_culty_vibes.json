@@ -1,4 +1,5 @@
 {
+  "_ts": 0,
   "id": "f1c010f9-7baa-406b-9476-e419c3690321",
   "name": "No Culty Vibes",
   "spotifyId": "7HHbJMlu2vIwkVvQJYr0Eq",
@@ -31,13 +32,11 @@
       "release": "2024-02-03T17:26:40Z",
       "duration": "00:12:42",
       "explicit": false,
-      "spotifyId": "4HLMTyKOcBuZly9s8zmSzZ",
       "youTubeId": "kYQLrqBiTRU",
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4HLMTyKOcBuZly9s8zmSzZ",
         "youtube": "https://www.youtube.com/watch?v=kYQLrqBiTRU"
       }
     },

@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "85127ebc-7d47-4883-9f9b-2be3a47e436b",
   "name": "Cults I\u0027d Join",
   "spotifyId": "6kGY4WYJIzR4E6dbBsC9af",
   "appleId": 1661064678,
   "episodes": [
+    {
+      "id": "b97067e2-f125-40bc-bfd1-fba333e3b12f",
+      "title": "Mother God-- a gift from Patreon",
+      "description": "Happy solitude season, everyone! It\u0027s been a long lonely winter and we have MISSED you! Cults I\u0027d Join will be kicking off Season four NEXT WEEK, but this week, we thought we\u0027d gift you an appetizer with a little gift from our Patreon.Ya\u0027ll. We\u0027d like to remind everyone that we were covering Love Has Won before it was cool. Still, nobody does documentaries better than Max, and The Cult of Mother God is A LOT.\u00A0Over on our Patreon you can find all three episodes of our coverage of this drug-fueled wild ride, but here and now, please enjoy this free bonus episode, Part One of Mother God!Original song and performance by Devon Sproule Love Cults I\u0027d Join? Want to join all the communal fun with us? *Subscribe to the pod on all pod platforms!*Rate and review us on Google (please and thank you)!*Follow us on the social medes... we\u0027re @ cultsidjoin.com, and Cults I\u0027d Join on FB and Insta!*Share us with your cool friends (only the cool ones, please). Those tax-free compound payments aren\u0027t going to make themselves!You can find Ameran on the Insta @ amawrenYou can find Jesse on all the things @ lewdlinensSuper special thanks to our theme song creator, the incomparable Mz. Devon Sproule, we are lucky ducks to have a piece of her sweet sound on our show!",
+      "release": "2024-02-08T18:00:00Z",
+      "duration": "01:47:25.8180000",
+      "explicit": false,
+      "spotifyId": "4TAUFfTC4UjHD81eA77tYg",
+      "appleId": 1000644667951,
+      "subjects": [
+        "Love Has Won"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4TAUFfTC4UjHD81eA77tYg",
+        "apple": "https://podcasts.apple.com/podcast/mother-god-a-gift-from-patreon/id1661064678?i=1000644667951"
+      }
+    },
     {
       "id": "8908b867-2332-41bb-b2a5-e4190e12de8d",
       "title": "Season 3 Chatting-Bee",
@@ -326,6 +344,10 @@
       "explicit": false,
       "spotifyId": "3zF5C5GlHXcm47catiSFsW",
       "appleId": 1000613161339,
+      "subjects": [
+        "Young Living",
+        "Multi-Level Marketing"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3zF5C5GlHXcm47catiSFsW",
         "apple": "https://podcasts.apple.com/podcast/young-living/id1661064678?i=1000613161339"

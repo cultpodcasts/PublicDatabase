@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "5515e42c-2249-474d-b49a-61a0c91322ca",
+  "name": "Independent Infidel",
+  "spotifyId": "5LlTbOtZJ7Tzip4e4lSE9s",
+  "appleId": 1713020121,
+  "episodes": [
+    {
+      "id": "e1359149-9c29-46e5-86a6-1e7434e8c06c",
+      "title": "The Cult With No Name",
+      "description": "Jeff dives into part 1 covering the Cult with no name. Also known as \u0022The Truth\u0022 and \u00222X2\u0022This is a must listen.",
+      "release": "2024-02-04T17:13:51Z",
+      "duration": "00:41:15.9680000",
+      "explicit": false,
+      "spotifyId": "0ozuT1f5LUg3tioBSfC7Dt",
+      "appleId": 1000644115293,
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ozuT1f5LUg3tioBSfC7Dt",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-with-no-name/id1713020121?i=1000644115293"
+      }
+    }
+  ]
+}

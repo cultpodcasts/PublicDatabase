@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e25ef753-26fb-4302-ba33-a779e74a6551",
+  "name": "Malandr\u00ED Criminal",
+  "spotifyId": "0LG1mUVqZKhlLKVBgUoCCb",
+  "appleId": 1558875554,
+  "episodes": [
+    {
+      "id": "cbc1246d-c187-4e2f-bbe1-49f4284428b2",
+      "title": "123 - La secta dels matxets",
+      "description": "En l\u0027episodi d\u0027aquesta setmana parlare de la secta dels Yahweh, un grup de jueus afroamericans que cremen en la seva desc\u00E8ndencia directe d\u0027Israel i en la supremacia de la ra\u00E7a negra.   Documental: THE FBI FILES. The Murderous Cult Of Nation Of Yahweh. Canal de YouTube: Real Crime.\u00A0",
+      "release": "2024-02-08T11:01:54Z",
+      "duration": "00:58:14.9470000",
+      "explicit": true,
+      "spotifyId": "3WJPnfG8X6d8xh98sU3HWJ",
+      "appleId": 1000644621477,
+      "subjects": [
+        "Nation of Yahweh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3WJPnfG8X6d8xh98sU3HWJ",
+        "apple": "https://podcasts.apple.com/podcast/123-la-secta-dels-matxets/id1558875554?i=1000644621477"
+      }
+    }
+  ]
+}

@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "aa803057-5a8a-43e3-976e-9561dba580b3",
   "name": "Lisa Joins a Cult",
   "spotifyId": "4nvTrcyYR4HXKRBlMNNBrh",
   "appleId": 1690727232,
   "episodes": [
+    {
+      "id": "5aeb2981-92e7-4438-8a5c-51968e66cecc",
+      "title": "Church of Jesus Christ of Latter-day Saints Pt. 2",
+      "description": "In this episode of \u0022Lisa Joins a Cult,\u0022 join Lisa as she embarks on a journey deep into the heart of Mormonism. It all begins with her fascination with touring a temple, leading her to anticipate visiting the iconic Washington, D.C. temple for its open house. However, plans take an unexpected turn, and Lisa finds herself heading to Idaho to explore a newly constructed temple, immersing herself in encounters that provide fascinating insights into the Mormon faith.As the episode progresses, listeners are taken on a deep dive into the complexities of Mormon family dynamics. Through candid conversations and observations, Lisa juxtaposes her own familial experiences with those she encounters within Mormon gatherings, shedding light on the significance of large families and the theological underpinnings driving procreation within Mormonism. With thought-provoking discussions on the similarities and differences between Mormonism and mainstream Christianity, \u0022Lisa Joins a Cult\u0022 offers a captivating exploration of faith, culture, and identity, blending personal anecdotes with insightful cultural analysis to engage listeners throughout the episode.Welcome to Lisa joins a cult",
+      "release": "2024-02-08T02:00:00Z",
+      "duration": "00:43:50.3730000",
+      "explicit": false,
+      "spotifyId": "5ekZC8iodgI1UOfzr9wC1l",
+      "appleId": 1000644573976,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ekZC8iodgI1UOfzr9wC1l",
+        "apple": "https://podcasts.apple.com/podcast/church-of-jesus-christ-of-latter-day-saints-pt-2/id1690727232?i=1000644573976"
+      }
+    },
     {
       "id": "c6dd0cb6-384b-46bb-b990-2aaa3243f870",
       "title": "Church of Jesus Christ of Latter-day Saints Pt. 1",

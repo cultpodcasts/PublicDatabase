@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "7c2a2cc8-a6ba-4220-b839-a1deff684b9c",
   "name": "Untold: The Retreat",
   "spotifyId": "1GUc0a6lsMCaTDbgIU4tgJ",
   "appleId": 1724826952,
   "episodes": [
+    {
+      "id": "a2c1a313-7527-4afd-8f58-d457244fe637",
+      "title": "Jaqui\u2019s Story",
+      "description": "Jaqui was 22 when she signed up to a 10-day Goenka retreat. It was the last known thing she did before she died. This is Jaqui\u2019s story.For support or more information about adverse meditation experiences, take a look at the Cheetah House website.If you are in need of urgent mental health support, please contact your local emergency services or reach out to a mental health helpline, such as the 988 Suicide and Crisis Lifeline in the US or Samaritans in the UK.Read a transcript of this episode on FT.com Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-02-07T05:00:15Z",
+      "duration": "00:40:08.2020000",
+      "explicit": false,
+      "spotifyId": "0XvgBfd00Ec03WgjSUl8U7",
+      "appleId": 1000644436400,
+      "subjects": [
+        "S. N. Goenka"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0XvgBfd00Ec03WgjSUl8U7",
+        "apple": "https://podcasts.apple.com/podcast/jaquis-story/id1724826952?i=1000644436400"
+      }
+    },
     {
       "id": "0f83e8b6-0ffa-4396-89e2-b46b81485ab6",
       "title": "Ten Long Days",

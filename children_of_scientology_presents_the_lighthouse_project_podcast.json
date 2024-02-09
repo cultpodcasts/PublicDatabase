@@ -1,4 +1,5 @@
 {
+  "_ts": 0,
   "id": "88eb651c-bbba-4c20-92d2-4d5c1720553d",
   "name": "Children of Scientology presents: The Lighthouse Project Podcast",
   "spotifyId": "5lMeCy9rHUVNESorfx79v1",
@@ -6,6 +7,21 @@
   "youTubeChannelId": "UC5HhqTP8pDJrscbtmH-Dc8g",
   "youTubePlaylistId": "PLsykdTmE4NuSjV5-IajtwvLgIm3TjcB3n",
   "episodes": [
+    {
+      "id": "5dc8e023-b51a-4c35-a3e6-3fddc5328263",
+      "title": "Thank You!",
+      "description": "To our incredible grassroots community, including child survivors, SPTV Nation, @DOWNtheRABBITHOLENews, Squirrel Squad, and our ever-evolving Ex-Scientology family:\n\nThank you deeply for supporting Mirriam Francis and our mission to protect children.\n\nMirriam, once fighting alone against the injustices and abuse she suffered in Scientology, has now inspired our entire community. \n\nHer cry for honesty and justice has moved us profoundly, brought us to our knees, to tears, and united us in her mission - our mission - to seek justice for her, and to protect vulnerable children from the harms caused, inflicted, and then covered up by Scientology.\n\nHer journey, though retraumatizing, has empowered and united us. \n\nWe\u0027ve been saddened by the lack of support she received from those who should have helped, particularly failures by those who call themselves advocates, but we\u0027re incredibly heartened by the love and solidarity this community has shown. We will be the change, and lead by example, and hope others evolve. \n\nTogether, we\u0027re a powerful force and committed to the welfare of children affected by Scientology, past, present, and future. We may be their only hope. \n\nFor so many who have reached out wishing to support Mirriam\u0027s journey, donations can be made here:\n\nhttps://www.paypal.me/MirriamFrancis\n\nWith immense gratitude and determination,\n\nThank you!\n\n\u2014 Children of Scientology\n\n@MikeBrown101 @LiterallySerge @DOWNtheRABBITHOLENews @GrowingUpInScientology  @liz_liz_gale_gale @OhnoNora @LiterallyMichael @LaraAndersonOfficial @PokemonandCults  @DegradedDaughters @Chriswithoutahellcat @ConfidentChris @diannetex @jesspalmadessa  @JennaMiscavige",
+      "release": "2024-02-08T18:00:03Z",
+      "duration": "00:02:07",
+      "explicit": false,
+      "youTubeId": "9mEozegUDOE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9mEozegUDOE"
+      }
+    },
     {
       "id": "b57e122b-3832-4650-82cf-a608ad95c29d",
       "title": "Bravery Personified - Mirriam Francis",

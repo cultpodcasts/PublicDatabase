@@ -1,10 +1,30 @@
 {
+  "_ts": 0,
   "id": "1cec3b0d-60df-460f-ab1e-7b1c1666bd92",
   "name": "The Emily Show",
   "spotifyId": "7rEbYHcwlxtBO2jEF8HHu3",
   "appleId": 1486229281,
   "youTubeChannelId": "UCE-laOeM9gLfTcWF4HRBPpA",
   "episodes": [
+    {
+      "id": "8ff2691d-454b-45ea-826f-99d5d55a431e",
+      "title": "Leah Remini v Scientology \u0026 Lizzo Case\u2019s Anti-SLAPP Arguments",
+      "description": "The Leah Remini v Scientology case was in court last week. The judge has scheduled the Anti-SLAPP hearing at a later date for further argument. Scientology Leader, David Miscavige, continues his efforts to be removed from the case stating he was never properly served. Remini details that her process server made 32 separate visits to 9 different addresses on 16 separate dates from August 2023 to December 2023, costing her thousands of dollars. They will be in court on Valentine\u0027s Day to rule on the motion to quash.\u00A0Lizzo\u0027s Anti-SLAPP motion is partly granted. I break down the court\u0027s minute order and which portions of case law are moving forward.This podcast uses the following third-party services for analysis: Podsights - https://podsights.com/privacyPodscribe - https://podscribe.com/privacyChartable - https://chartable.com/privacy",
+      "release": "2024-02-07T10:44:00Z",
+      "duration": "01:21:43",
+      "explicit": true,
+      "spotifyId": "6CeRdyxybJFQkdZjy0P7vz",
+      "appleId": 1000644472174,
+      "youTubeId": "mOZEnCpNAFQ",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6CeRdyxybJFQkdZjy0P7vz",
+        "apple": "https://podcasts.apple.com/podcast/leah-remini-v-scientology-lizzo-cases-anti-slapp-arguments/id1486229281?i=1000644472174",
+        "youtube": "https://www.youtube.com/watch?v=mOZEnCpNAFQ"
+      }
+    },
     {
       "id": "b8c01ba7-3d40-4df1-99ff-2e927ce45697",
       "title": "Quick Bits: Murdaugh New Trial Hearing. Leah Remini v.  Scientology. Alec Baldwin is Indicted Again.",

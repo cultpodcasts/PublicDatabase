@@ -1,4 +1,5 @@
 {
+  "_ts": 0,
   "id": "ad3c0291-c9c2-4114-a382-b300096f9f26",
   "name": "Jon Atack, Family \u0026 Friends",
   "spotifyId": "1HxLYQiT9udPo5ldlyhpbH",
@@ -13,12 +14,14 @@
       "duration": "01:09:50",
       "explicit": false,
       "spotifyId": "6cytINDHphbyf5vREJUZKn",
+      "appleId": 1000644062514,
       "youTubeId": "iFfGxjy61t4",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6cytINDHphbyf5vREJUZKn",
+        "apple": "https://podcasts.apple.com/podcast/ron-hubbard-and-astounding-science-fiction-with/id1534364303?i=1000644062514",
         "youtube": "https://www.youtube.com/watch?v=iFfGxjy61t4"
       }
     },

@@ -1,9 +1,61 @@
 {
+  "_ts": 0,
   "id": "24e5c0b5-fcad-4681-822e-17659c9fe538",
   "name": "The Excommunication Station",
   "spotifyId": "5WYfTqA2EK48nfcdC1PL8S",
   "appleId": 1573190999,
   "episodes": [
+    {
+      "id": "bf48acfc-7a61-43fd-b0ac-e8323f6694f5",
+      "title": "140: Oral Roberts Part III",
+      "description": "We journey further into the life of the grifter and his rise to power in Tulsa, his way of making a quick exit and fulfilling his father\u0027s prophecies.",
+      "release": "2024-02-07T07:42:11Z",
+      "duration": "01:56:47.3170000",
+      "explicit": false,
+      "spotifyId": "3mb3safQ1Tkd5Mqh3N4uPv",
+      "appleId": 1000644452319,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3mb3safQ1Tkd5Mqh3N4uPv",
+        "apple": "https://podcasts.apple.com/podcast/140-oral-roberts-part-iii/id1573190999?i=1000644452319"
+      }
+    },
+    {
+      "id": "fdb13fa3-dae3-426b-9834-ca2aabf699e7",
+      "title": "139: Oral Roberts Part II",
+      "description": "This week we continue our tale of Oral Roberts, godfather of Prosperity Gospel and one of America\u0027s greatest grifters.",
+      "release": "2024-01-31T06:00:00Z",
+      "duration": "01:27:15.4690000",
+      "explicit": false,
+      "spotifyId": "6YT3JZtF7EIyxNJVyaJhJF",
+      "appleId": 1000643620278,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6YT3JZtF7EIyxNJVyaJhJF",
+        "apple": "https://podcasts.apple.com/podcast/139-oral-roberts-part-ii/id1573190999?i=1000643620278"
+      }
+    },
+    {
+      "id": "adb15c9d-a607-4286-a3bf-b5d40644f5f9",
+      "title": "138: Oral Roberts Part I ",
+      "description": "This week we start our deep dive into the godfather of Prosperity Gospel. From his early life with a curse of a brother, to his battle with tuberculosis and finding the Lord. Do some stretches, we got more Oral than you can handle.",
+      "release": "2024-01-24T05:16:08Z",
+      "duration": "01:43:40.4070000",
+      "explicit": false,
+      "spotifyId": "2SDU9DURThzscOIjAy1Ezs",
+      "appleId": 1000642740026,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2SDU9DURThzscOIjAy1Ezs",
+        "apple": "https://podcasts.apple.com/podcast/138-oral-roberts-part-i/id1573190999?i=1000642740026"
+      }
+    },
     {
       "id": "0eb55745-b851-4837-b2aa-86946ac76f33",
       "title": "137: William Branham Part IV: The Final Chapter",

@@ -1,9 +1,42 @@
 {
+  "_ts": 0,
   "id": "627f22f0-e33e-420d-8c2e-d6e29bf3d460",
   "name": "IndoctriNation",
   "spotifyId": "1prXo4iIxUfjYpfX671cUD",
   "appleId": 1373939526,
   "episodes": [
+    {
+      "id": "f3e3e2fd-eb0d-469c-bfe2-f79a8eb0e2da",
+      "title": "BONUS EPISODE PREVIEW: The Problematic Language of Self-Help",
+      "description": "In this solo bonus episode, Rachel examines the often problematic language popularized in self-help circles and explains its origins in Large Group Awareness Training organizations such as Landmark.     Throughout her monologue, she points out the many red flags inherent in victim-blaming culture.    Thanks to all of our Patrons for making this episode possible!!",
+      "release": "2024-02-09T13:00:01Z",
+      "duration": "00:05:31.4400000",
+      "explicit": false,
+      "spotifyId": "2BBuUmnIglP4pyeWp06EnW",
+      "appleId": 1000644758379,
+      "subjects": [
+        "Large Group Awareness Trainings",
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2BBuUmnIglP4pyeWp06EnW",
+        "apple": "https://podcasts.apple.com/podcast/bonus-episode-preview-the-problematic-language-of/id1373939526?i=1000644758379"
+      }
+    },
+    {
+      "id": "5c86208a-b1df-436f-bfc6-458eaaaba340",
+      "title": "The Hate Next Door w/Matt \u0026 Tawni Browning",
+      "description": "Matt and Tawni Browning are the authors of the new book \u0022The Hate Next Door: Undercover within the New Face of White Supremacy\u0022 Matt is an internationally recognized authority on the inner workings of white supremacy groups. As an undercover detective for more than two decades in Arizona, Browning has been infiltrating, documenting, and disrupting White supremacy movements from the inside, gaining an intimate vantage point to the KKK, border militias, Proud Boys, and other White power groups, as they organized and grew their ranks which included police force and military veterans.   Together with his intrepid wife, Tawni, he adopted fake IDs and ideologies, seeking the arrest of hate group participants. What others dismissed as fringe groups, Browning quickly recognized as large and interconnected organizations permeating every facet of American society, effectively spreading their dangerous and repugnant rhetoric at unprecedented speeds.   Tawni Browning considers herself first and foremost a mother of five. Beyond that, she was the Supervising and Casting Producer for A\u0026E\u2019s \u201CEscaping Polygamy,\u201D a series documenting the trials and struggles of individuals attempting to leave the cult life of polygamy.   For years, Tawni has been assisting her husband in the investigations of numerous skinhead organizations. With her covert investigative tactics, Tawni was instrumental in the \u201Cshutting down\u201D of one of the world\u0027s largest and most violent skinhead organizations. Tawni continues to gather intelligence on various individuals and religious extremists throughout the world.  The series \u201CEscaping Polygamy\u201D is airing now on A\u0026E and Matt and Tawni\u2019s new book \u201C The Hate Next Door\u201C is available on Amazon and at local bookstores.  In this inspiring and important discussion, Matt and Tawni share fascinating details of their personal and professional lives dedicated to fighting hate and authoritarianism respectively. Throughout the conversation the couple detail the similarities between white supremacist and fundamentalist Christian ideology, offering meaningful insight into de-radicalization and healing modalities.    You can find out more about Matt and Tawni\u2019s work at: https://www.mattandtawni.com/  All of Rachel\u0027s free informational PDF documents are available here: www.rachelbernsteintherapy.com/pdf.html  All of Rachel\u0027s video lectures are available for purchase here:  rachelbernsteintherapy.com/videos.html  To help support the show monthly and get bonus episodes, shirts, and tote bags, please visit:  www.patreon.com/indoctrination  Prefer to support the IndoctriNation show with a one-time donation? Use this link:  www.paypal.me/indoctrination  Connect with us on Social Media:  Twitter: twitter.com/_indoctrination  Facebook: www.facebook.com/indoctrinationpodcast  Tik Tok: www.tiktok.com/@indoctrinationpodcast  Instagram: www.instagram.com/indoctrinationpodcast/  YouTube: www.youtube.com/rachelbernsteinlmft  You can always help the show for free by leaving a rating on Spotify or a review on Apple/ iTunes. It really helps the visibility of the show!",
+      "release": "2024-02-07T13:00:01Z",
+      "duration": "01:13:43.6080000",
+      "explicit": false,
+      "spotifyId": "0GZO6ihxO7xZsPa94QM6v4",
+      "appleId": 1000644485638,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0GZO6ihxO7xZsPa94QM6v4",
+        "apple": "https://podcasts.apple.com/podcast/the-hate-next-door-w-matt-tawni-browning/id1373939526?i=1000644485638"
+      }
+    },
     {
       "id": "4b8517cf-2d9a-4efd-bd66-0b78a6718445",
       "title": "Taking Off The Tinfoil Hat w/Cynane Shay",
@@ -1159,6 +1192,7 @@
       "spotifyId": "0njRYIaUi4vjUw9PvdPzwh",
       "appleId": 1000602632762,
       "subjects": [
+        "Deer Tribe Metis Medicine Society",
         "Psychology"
       ],
       "urls": {
@@ -1722,6 +1756,7 @@
       "spotifyId": "2iUO3beJuWW91xzoXWRSmO",
       "appleId": 1000580179874,
       "subjects": [
+        "Deer Tribe Metis Medicine Society",
         "Psychology"
       ],
       "urls": {

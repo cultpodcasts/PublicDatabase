@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "ba2889fa-fa8a-4deb-91c1-cc1f03b9b876",
   "name": "Conspirituality",
   "spotifyId": "2imIsM2NZRPpQvI56TLdM5",
   "appleId": 1515827446,
   "episodes": [
+    {
+      "id": "a9a0b45c-d30f-494a-beeb-deb6f34fafd5",
+      "title": "192: Coffee is Your Friend, Not Your Enema (feat Mallory DeMille)",
+      "description": "This episode has been brewing for some time. This week we ask: which hole is coffee really supposed to go in? Because, in the contrarian and conspiratorial wellness world, a growing number of influencers advocate for your morning java to go where the sun doesn\u0027t shine. If that\u0027s not alarming enough, they claim coffee enemas will treat autism, cancer, parasites, and much more. Mallory DeMille is here to finally flush out this nonsense. Head to factormeals.com/conspirituality50 and use code conspirituality50 to get 50% off your first box and 2 free wellness shots per box while subscription is active! Sign up today at butcherbox.com/conspirituality and use code conspirituality to choose your free offer and get $20 off. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-02-08T08:00:00Z",
+      "duration": "00:59:40.1330000",
+      "explicit": false,
+      "spotifyId": "6uOGC4hVxcZTMm1OHrgyDs",
+      "appleId": 1000644600631,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6uOGC4hVxcZTMm1OHrgyDs",
+        "apple": "https://podcasts.apple.com/podcast/192-coffee-is-your-friend-not-your-enema-feat-mallory/id1515827446?i=1000644600631"
+      }
+    },
     {
       "id": "fe1809a4-4c54-4731-b249-a36f1be79f19",
       "title": "Brief: Deep Church Conspiracy (w/David Lafferty)",

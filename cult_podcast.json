@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "734856cd-e9a3-4971-8203-6f704ddf4956",
   "name": "Cult Podcast",
   "spotifyId": "20DAQRttkqo1GiEmGPxymo",
   "appleId": 1276011417,
   "episodes": [
+    {
+      "id": "addbf26c-95af-4347-90f6-56f52e648864",
+      "title": "Ep. 285 Urantia Pt. 3: Bong Part of a Balanced Breakfast",
+      "description": "Hello! We\u2019re back. I know, it\u2019s been a while. We explain it all and promise to not leave you again. At least not for too long. Anyway, join us as Paige takes Mando through Urantia\u2019s ties and influence on Celestial Seasonings Tea Company! Also we have a Patreon! [Insert Air Horn Noises Here] If you\u0027d like to donate and join our cult, please visit\u00A0www.patreon.com/cultpodcast\u00A0or visit our website and click on the Patreon tab.",
+      "release": "2024-02-05T19:10:31Z",
+      "duration": "01:08:34.0440000",
+      "explicit": false,
+      "spotifyId": "5YI5CzgLVgK3LiE5h0jNaY",
+      "appleId": 1000644256832,
+      "subjects": [
+        "Urantia Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5YI5CzgLVgK3LiE5h0jNaY",
+        "apple": "https://podcasts.apple.com/podcast/ep-285-urantia-pt-3-bong-part-of-a-balanced-breakfast/id1276011417?i=1000644256832"
+      }
+    },
     {
       "id": "07e77fd5-56b6-4bf5-9d0b-5f76cb2497de",
       "title": "Ep. 284 Urantia Pt. 2: F**k Mustard",

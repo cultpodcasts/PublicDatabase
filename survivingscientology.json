@@ -1,4 +1,5 @@
 {
+  "_ts": 0,
   "id": "a6aff48e-8ef3-4555-942d-239a2c361d28",
   "name": "SurvivingScientology",
   "youTubeChannelId": "UCe-enk0KyKlf1A67RquYO3g",
@@ -146,7 +147,8 @@
       "explicit": false,
       "youTubeId": "6NZhIscODhc",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Opus Dei"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=6NZhIscODhc"

@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "49a5ed30-ee09-422d-8f00-a6d3f373e23d",
   "name": "Seven Deadly Sinners",
   "spotifyId": "7AOIlXVly2UiB9DMt46FuM",
   "appleId": 1515042150,
   "episodes": [
+    {
+      "id": "39b3cc0a-879f-4ad6-a5a2-a86bc885f37b",
+      "title": "185: Interview with Ex-Moonie Teddy Hose",
+      "description": "Rachael conducts and exclusive interview with ex-moonie Teddy Hose revealing his first hand experience living inside the cult and with the moon kids in New York. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2024-02-04T08:00:00Z",
+      "duration": "01:07:43.2420000",
+      "explicit": true,
+      "spotifyId": "1s5BDrcNnyDAwZVIoDzC0T",
+      "appleId": 1000643335314,
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1s5BDrcNnyDAwZVIoDzC0T",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-ex-moonie-teddy-hose/id1515042150?i=1000643335314"
+      }
+    },
     {
       "id": "4ca2d3f8-3a5f-49b6-959f-445685645849",
       "title": "183: Pride - Sun Myung Moon \u0026 \u0022The Moonies\u0022 Part 2",
@@ -1088,7 +1106,8 @@
       "spotifyId": "6rIOM0xUe8eqYB2FycWoEe",
       "appleId": 1000490557775,
       "subjects": [
-        "Kenneth Copeland"
+        "Kenneth Copeland",
+        "Oral Roberts"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6rIOM0xUe8eqYB2FycWoEe",

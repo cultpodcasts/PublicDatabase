@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "1196354d-cbed-454f-826a-a1d71795c915",
   "name": "Surviving Paradise",
   "spotifyId": "7yYMyycO8sctBAz1Ke0WcK",
   "appleId": 1667168726,
   "episodes": [
+    {
+      "id": "d1e0635a-ef3c-42b8-9ae5-b8bbae2bd0bd",
+      "title": "What\u0027s Wrong With Being a Jehovah\u0027s Witness? Can I Fake It?",
+      "description": "Once you know something is wrong, a Jehovah\u2019s Witness faces complex questions about their future. What should they do? Can they fake it? Can they live an authentic life \u2018under the radar?\u2019 A few things to consider\u2026TWITTER: @exjwpodcastINSTAGRAM: survivingparadisepodcast",
+      "release": "2024-02-05T08:00:00Z",
+      "duration": "01:07:00.0880000",
+      "explicit": false,
+      "spotifyId": "3CMgnUuePflCtEEAZbHBkl",
+      "appleId": 1000644182361,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3CMgnUuePflCtEEAZbHBkl",
+        "apple": "https://podcasts.apple.com/podcast/whats-wrong-with-being-a-jehovahs-witness-can-i-fake-it/id1667168726?i=1000644182361"
+      }
+    },
     {
       "id": "2570feb6-6ce7-44af-a09c-ad43862c6102",
       "title": "When it Comes to \u0027Doomsday\u0027 Jehovah\u0027s Version is Best!",

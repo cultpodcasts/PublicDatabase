@@ -1,9 +1,28 @@
 {
+  "_ts": 0,
   "id": "85ed75e2-5b3e-47c1-b4b2-1a177bc1fd5b",
   "name": "COMMONS",
   "spotifyId": "6AdcP6OxWWUsNlVv8YqlZm",
   "appleId": 983702127,
   "episodes": [
+    {
+      "id": "a3f9ff6b-cbd5-49ee-9e4c-3932a52323a7",
+      "title": "Bonus - Everybody Loves Romana",
+      "description": "In this bonus episode, COMMONS producer Noor Azrieh sits down with Peter Smith to discuss his reporting on right-wing conspiracy groups like Qanon and Romana Didulo.Featured in this episode: Peter SmithTo learn more:\u201CLead in the head\u201D: Self-Declared Canadian Prime Minister and QAnon Adherent Calls for Executions of Officials Who Refuse Her Cease and Desists\u201D by Peter Smith in The Canadian Anti-Hate Network\u201CSelf Declared Queen Of Canada Calling For US Supporters To Invade Canada And Prepare To Execute \u201CTraitors\u201D by Peter Smith in The Canadian Anti-Hate NetworkCredits: Arshy Mann (Host and Producer), Jordan Cornish (Producer), Noor Azrieh (Producer), Annette Ejiofor (Managing Editor), Karyn Pugliese (Editor in Cheif)Sponsors: Douglas, Athletic GreensIf you value this podcast, Support us! You\u2019ll get premium access to all our shows ad free, including early releases and bonus content. You\u2019ll also get our exclusive newsletter, discounts on merch, tickets to our live and virtual events, and more than anything, you\u2019ll be a part of the solution to Canada\u2019s journalism crisis, you\u2019ll be keeping our work free and accessible to everybody.You can listen ad-free on Amazon Music\u2014included with Prime. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-02-07T09:35:57Z",
+      "duration": "00:28:36.6620000",
+      "explicit": true,
+      "spotifyId": "2eHPQvQmhKHKcUEDLT06Sv",
+      "appleId": 1000644464552,
+      "subjects": [
+        "Qanon",
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2eHPQvQmhKHKcUEDLT06Sv",
+        "apple": "https://podcasts.apple.com/podcast/bonus-everybody-loves-romana/id983702127?i=1000644464552"
+      }
+    },
     {
       "id": "6d9f5564-9d87-4790-b93d-9679a59c660f",
       "title": "RATF**KER Chapter Two: The Brethren",

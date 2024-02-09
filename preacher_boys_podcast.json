@@ -1,10 +1,30 @@
 {
+  "_ts": 0,
   "id": "4672c845-15b4-4f88-bbff-567d521fe4a2",
   "name": "Preacher Boys Podcast",
   "spotifyId": "5xZpDGKzOzjBuhRFUhFAM9",
   "appleId": 1493726980,
   "youTubeChannelId": "UCUnhn-4KoLWr0ffbPjMf-gQ",
   "episodes": [
+    {
+      "id": "30e06c9c-f4be-420f-aed2-d5ee3f7a4ea3",
+      "title": "279: Alice Greczyn | When God Becomes Chaos",
+      "description": "Purchase a copy of Wayward here*: https://amzn.to/499MuB3When Alice Greczyn\u0027s parents felt called by God to exchange worldly employment for heavenly provision, they followed their faith into homelessness with five children and a cat in tow. Homeschooled and avowed never to kiss a man until her wedding day, Alice had plans to escape the instability by becoming a missionary nurse--plans that were put on hold with the opening of an unexpected door: the opportunity to be an actress in Hollywood. What followed was a test of faith unlike any she had prepared for, an arranged betrothal she never saw coming, and a psychological shattering that forced her to learn how to survive without the only framework for life she had ever known.\u2716\uFE0F\u2716\uFE0F\u2716\uFE0FCONNECT WITH THE SHOW:- preacherboyspodcast.com- https://www.facebook.com/preacherboysdoc/- https://twitter.com/preacherboysdoc- https://www.instagram.com/preacherboysdoc/To connect with a community that shares the Preacher Boys Podcast\u0027s mission to expose abuse in the IFB, join the OFFICIAL Preacher Boys Facebook Group: https://www.facebook.com/groups/1403898676438188/*Note, as an amazon associate I receive a small commission from any purchases.Support this podcast at \u2014 https://redcircle.com/preacher-boys-podcast/donationsAdvertising Inquiries: https://redcircle.com/brandsPrivacy \u0026 Opt-Out: https://redcircle.com/privacy",
+      "release": "2024-02-04T08:00:00Z",
+      "duration": "01:16:15.6000000",
+      "explicit": false,
+      "spotifyId": "3gray3HkWeYGh0gBJKYwmZ",
+      "appleId": 1000644084236,
+      "youTubeId": "XJWwoSR6pBY",
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gray3HkWeYGh0gBJKYwmZ",
+        "apple": "https://podcasts.apple.com/podcast/279-alice-greczyn-when-god-becomes-chaos/id1493726980?i=1000644084236",
+        "youtube": "https://www.youtube.com/watch?v=XJWwoSR6pBY"
+      }
+    },
     {
       "id": "504b7639-a99d-461e-8d89-d380e9eedeaf",
       "title": "278: Sadie Carpenter | We Shall All Be Groomed",

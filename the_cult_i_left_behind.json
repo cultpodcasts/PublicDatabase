@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "02a6dcc1-96ff-42f0-a32f-5e576b6970ca",
   "name": "The Cult I Left Behind",
   "spotifyId": "1oNHYt9VaYLXZKMKeLl01p",
   "appleId": 1705661944,
   "episodes": [
+    {
+      "id": "3576ee90-f268-4318-af6b-77ad5b5bd617",
+      "title": "22 - Seven Basic Needs of a Wife",
+      "description": "Kyle continues teaching Amanda about the Seven Basic Needs -- but this time we\u0027re looking at the wife. Shockingly (haha), her needs are a lot simpler and less taxing than the needs of a husband. The needs of a wife are not backed up by biblical text, but they sure are Duggar-approved!",
+      "release": "2024-02-05T05:00:00Z",
+      "duration": "00:50:38.9810000",
+      "explicit": false,
+      "spotifyId": "7wwpS3Zo5UXPODk65iOyYS",
+      "appleId": 1000644166960,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7wwpS3Zo5UXPODk65iOyYS",
+        "apple": "https://podcasts.apple.com/podcast/22-seven-basic-needs-of-a-wife/id1705661944?i=1000644166960"
+      }
+    },
     {
       "id": "715f842e-6ab5-4d4e-99bc-61a0e532860e",
       "title": "21 - Seven Basic Needs of a Husband",

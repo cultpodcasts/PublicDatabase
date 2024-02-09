@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "6cd6deb2-a733-4b06-af61-0234a54344e9",
   "name": "Was I In A Cult?",
   "spotifyId": "43lKIk7Tt69S4tdCpHWCnH",
   "appleId": 1582863762,
   "episodes": [
+    {
+      "id": "fbb6b815-967c-40ed-9cbe-b5a00e3e8c4d",
+      "title": "Deer Tribe \u2014 PART 1: \u201CThis Is Sexual Healing?\u0022",
+      "description": "While attending college in Texas, a friend suggested that Kit attend a sweat lodge. Innocently, she did. Little did she know this sweat lodge was part of a bigger community known as \u2018The Ashram\u0027. Soon she was recruited into more than just the sweat and before she knew it, she was in the inner circle.   Eventually, she would discover that this ashram was part of an even larger organization: The Deer Tribe Medicine Society. And one day she was recruited into a program that promised to heal her sexual trauma.  We\u2019ll let you be the judge of how well that promise was fulfilled\u2026\u00A0\u00A0  LINKS Deer Tribe: dtmms.org/  Amara Charles: www.amaracharles.com/  Quodoushka: www.quodoushka.org/  Ruda Center (aka the Ashram): rudracenter.org   Follow us: Instagram: @wasiinacult Support Us: https://www.patreon.com/wasiinacult Have a story to share on our show? Email us: info@wasiinacult.com",
+      "release": "2024-02-05T07:21:15Z",
+      "duration": "00:56:33.9060000",
+      "explicit": false,
+      "spotifyId": "2nkWp5F3yn1oOTdgv6RLER",
+      "appleId": 1000644218793,
+      "subjects": [
+        "Deer Tribe Metis Medicine Society"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2nkWp5F3yn1oOTdgv6RLER",
+        "apple": "https://podcasts.apple.com/podcast/deer-tribe-part-1-this-is-sexual-healing/id1582863762?i=1000644218793"
+      }
+    },
     {
       "id": "d8ff2137-a233-4830-be1b-10f4898d9dd1",
       "title": "Children of God: \u201CYou\u2019re Enough As You Are\u201D (UPDATE)",

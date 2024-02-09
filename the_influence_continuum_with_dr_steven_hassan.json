@@ -1,10 +1,30 @@
 {
+  "_ts": 0,
   "id": "186529ba-43e3-497f-9770-9a9d46232333",
   "name": "The Influence Continuum with Dr. Steven Hassan",
   "spotifyId": "3fy5dEPagR2T8MPeS7ieAM",
   "appleId": 1603773245,
   "youTubeChannelId": "UCxYM6bAC_3l66uCRxFO0QAg",
   "episodes": [
+    {
+      "id": "ae96b95f-4971-4bcf-8ae6-b6ebc5262d15",
+      "title": "TESCREAL hallucinations: Psychedelic and AI hype as inequality engines with Ne\u015Fe Devenot, PhD",
+      "description": "Ne\u015Fe Devenot is a Postdoctoral Associate at the Institute for Research in Sensing (IRiS) at the University of Cincinnati and the Medicine, Society \u0026 Culture Research Fellow at Psymposia. I decided to use the title of her profoundly important journal article for this podcast. Psychedelics are all the rage. When I gave a talk at the American Psychiatric Association, there were many, many talks about the studies being done to see how drugs like psilocybin, ketamine, and MDMA might assist psychotherapeutically. However, many people are experimenting on their own. Some get caught up with a malignant narcissist \u201Cshaman\u201D or teacher and experience horrendous trauma and abuse. While the public is doing widespread experimentation, Silicon Valley billionaires reportedly use large quantities of these substances. Devenot points out these tech billionaires appear to believe, in her words, a \u201CTESCREAL bundle of ideologies, which describes an interrelated cluster of belief systems: transhumanism, Extropianism, singularitarianism, cosmism, Rationalism, Effective Altruism, and longtermism.\u201D This is an utterly fascinating discussion about how the super-wealthy promotes these beliefs, and either people follow the leaders or they will be left behind. Listen to this brilliant researcher on bioethics! \uFEFFLearn more about Steven Hassan and Freedom of Mind Resource Center. Visit\u00A0freedomofmind.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-02-05T10:00:00Z",
+      "duration": "01:05:00.6300000",
+      "explicit": false,
+      "spotifyId": "2dOfus09HGYQLtXRXu1eTX",
+      "appleId": 1000644194092,
+      "youTubeId": "2WxvN8832CA",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2dOfus09HGYQLtXRXu1eTX",
+        "apple": "https://podcasts.apple.com/podcast/tescreal-hallucinations-psychedelic-and-ai-hype-as/id1603773245?i=1000644194092",
+        "youtube": "https://www.youtube.com/watch?v=2WxvN8832CA"
+      }
+    },
     {
       "id": "193f3c46-3f55-49a6-b5bb-d4ac5dbd1da4",
       "title": "Facebook Live: Top 11 Insights Cult Survivors Wish Therapists Knew",
@@ -2692,6 +2712,8 @@
       "explicit": false,
       "youTubeId": "DyTcrRjBJoE",
       "subjects": [
+        "Opus Dei",
+        "Catholicism",
         "Cult Psychology"
       ],
       "urls": {
@@ -3771,6 +3793,11 @@
       "duration": "00:50:28",
       "explicit": false,
       "youTubeId": "6mdoEad0eP4",
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Cult Psychology"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=6mdoEad0eP4"
       }

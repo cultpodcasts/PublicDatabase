@@ -1,9 +1,27 @@
 {
+  "_ts": 0,
   "id": "c964873a-7083-4f8f-b047-17fea1d1e971",
   "name": "Seek Safely",
   "spotifyId": "6DfJSUo2AqS7s5AMu1Ke8b",
   "appleId": 1647275899,
   "episodes": [
+    {
+      "id": "4259da35-6563-47eb-93ca-7998e4daba3e",
+      "title": "Self-help Books that Arent\u0027s Self-help Books with Guest Dr. Christine Whelan",
+      "description": "Our resident self-help geeks, Dr. Doyle and Dr. Christine Whelan, along with Jean, talk about self-help books that aren\u2019t self-help books\u2014that is, books that were not written to be self-help books but have been adopted into self-help culture, or society at large, as self-helpy how-to life manuals. Some are about other aspects of mental health and wellness, some are memoir or autobiography, some are straight-up fiction, but somehow they either took on a self-help life of their own, or have been readily adopted by the self-help industry, or launched the author into the self-helpisphere.\u00A0The rest of the notes are just links.\u00A0So. Many. Links. To Read:\u00A0The Bible by God(?)Atlas Shrugged by Ayn RandThe 7 Habits of Highly Effective People by Stephen R. CoveyAutobiography of Benjamin FranklinHow to Win Friends and Influence People by Dale CarnegieThe Power of Positive Thinking by Norman Vincent PealeThe Power of Purpose by Richard J. LeiderSelf-esteem by Nathaniel BrandenThe Greatest Salesman in the World by Og BrandinoThe Alchemist by Paul CoelhoTo Kill a Mockingbird by Harper LeeSapiens: A Brief History of Humankind by Yuval Noah HarariGuns, Germs, and Steel by Jared DiamondEat, Pray, Love by Elizabeth GilbertThe Art of the Deal by Tony Schwartz and Donald TrumpI\u2019m Ok; You\u2019re Ok by Thomas HarrisThe Meditations by Marcus AureliusThe Art of War by Sun TzuThe Prince by Niccolo Machiavelli Get the links to the rest of the books we mention on our website...",
+      "release": "2024-02-05T09:00:00Z",
+      "duration": "01:07:34.0210000",
+      "explicit": false,
+      "spotifyId": "1OoBEkj9oRsyb2o1JLrucg",
+      "appleId": 1000644187903,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1OoBEkj9oRsyb2o1JLrucg",
+        "apple": "https://podcasts.apple.com/podcast/self-help-books-that-arents-self-help-books-with-guest/id1647275899?i=1000644187903"
+      }
+    },
     {
       "id": "31bb5be2-42b2-4ca5-b1d0-ac6271ed427c",
       "title": "BINGO! We\u2019ve got another Self-help Cult with Twin Flames Universe",
