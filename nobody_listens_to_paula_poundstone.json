@@ -3,7 +3,25 @@
   "id": "ab95a54b-1edd-4900-96c5-0610b64acfdc",
   "name": "Nobody Listens to Paula Poundstone",
   "spotifyId": "5AEkbDjlnrUdbnfPnIJipk",
+  "appleId": 1410611499,
   "episodes": [
+    {
+      "id": "13bc3c58-11fe-4978-9cb0-da384523f588",
+      "title": "Ep 292 - The Road to Wellness with Rina Raphael",
+      "description": "Ep 292 - The Road to Wellness with Rina Raphael We\u2019re feeling well, thanks. What we\u2019re not feeling, though, is wellness, and journalist Rina Raphael joins us to help separate the fads from the scams from the cults. And then, feeling healthy yet? Well, prepare to help your plants do the same - it\u2019s another \u201CGarden Time with Captain Crinkle!\u201D GUEST Rina Raphael rinaraphael.com The Gospel of Wellness: Gyms, Gurus, Goop, and the False Promise of Self-Care Substack - Well To Do HOUSE BAND Kevin Kelso kelsotunes.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-02-13T11:00:00Z",
+      "duration": "01:39:21.4300000",
+      "explicit": true,
+      "spotifyId": "5es8LUVge6rq7Cz4uOOd3o",
+      "appleId": 1000645159141,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5es8LUVge6rq7Cz4uOOd3o",
+        "apple": "https://podcasts.apple.com/podcast/ep-292-the-road-to-wellness-with-rina-raphael/id1410611499?i=1000645159141"
+      }
+    },
     {
       "id": "0d7013f0-e671-4c63-814a-395ba66a1df3",
       "title": "Ep 276 - Blinded by Scientology with Andrew Gold",

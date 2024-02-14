@@ -3236,6 +3236,7 @@
       "spotifyId": "1pHx2CKKmeFs1h8czDHerS",
       "appleId": 1000515174085,
       "subjects": [
+        "Avatar",
         "Scientology"
       ],
       "urls": {
@@ -3252,6 +3253,9 @@
       "explicit": false,
       "spotifyId": "5zqesqX30rQStHOJggppJm",
       "appleId": 1000514213848,
+      "subjects": [
+        "Avatar"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5zqesqX30rQStHOJggppJm",
         "apple": "https://podcasts.apple.com/podcast/micro-compromises-of-integrity-w-ariela-sarai/id1373939526?i=1000514213848"
@@ -3266,6 +3270,9 @@
       "explicit": false,
       "spotifyId": "4tYn4Q1b7WweXHG1Fl2JsO",
       "appleId": 1000513412317,
+      "subjects": [
+        "Avatar"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4tYn4Q1b7WweXHG1Fl2JsO",
         "apple": "https://podcasts.apple.com/podcast/behind-the-avatar-w-ariela-sarai/id1373939526?i=1000513412317"

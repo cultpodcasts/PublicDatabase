@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "ff24aa81-76be-470f-acc8-7a2932c5f621",
+  "name": "InspireNation",
+  "spotifyId": "56ZiZrpFBSCrjEU8jTp4M9",
+  "appleId": 1493944786,
+  "episodes": [
+    {
+      "id": "1ab7dd8e-604d-47e2-a7f9-94bd30cdeeef",
+      "title": "Dominique Jonestown Survivor",
+      "description": "Cult Survivor\r\n \r\n---\r\n \r\nSend in a voice message: https://podcasters.spotify.com/pod/show/inspirenation/message",
+      "release": "2024-02-10T21:23:56Z",
+      "duration": "00:21:39.9450000",
+      "explicit": false,
+      "spotifyId": "2he4iL7ETyDiLsGYjDDlcb",
+      "appleId": 1000644888827,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2he4iL7ETyDiLsGYjDDlcb",
+        "apple": "https://podcasts.apple.com/podcast/dominique-jonestown-survivor/id1493944786?i=1000644888827"
+      }
+    }
+  ]
+}

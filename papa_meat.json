@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "5323c34e-1c23-49cf-9a4c-017e21ff1860",
+  "name": "Papa Meat",
+  "youTubeChannelId": "UCYF1kiTFCcYPqGTqXKt3JJg",
+  "episodes": [
+    {
+      "id": "b9f96c0b-1ce6-496e-b15d-b28f0d75c9a2",
+      "title": "The Creepiest Town In America",
+      "release": "2024-02-10T17:57:30Z",
+      "duration": "00:19:15",
+      "explicit": false,
+      "youTubeId": "Q-DfiVBK0JA",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Q-DfiVBK0JA"
+      }
+    }
+  ]
+}
