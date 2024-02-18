@@ -2605,6 +2605,9 @@
       "explicit": false,
       "spotifyId": "36pvUodIMIIEZRTsq2h8fP",
       "appleId": 1000473119025,
+      "subjects": [
+        "True Russian Orthodox Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36pvUodIMIIEZRTsq2h8fP",
         "apple": "https://podcasts.apple.com/podcast/cults-daily-true-russian-orthodox-church-pyotr-kuznetsov/id1286818575?i=1000473119025"
@@ -4875,6 +4878,9 @@
       "explicit": false,
       "spotifyId": "36plHIS1lsjNDtDnYzzW0p",
       "appleId": 1000401575817,
+      "subjects": [
+        "True Russian Orthodox Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36plHIS1lsjNDtDnYzzW0p",
         "apple": "https://podcasts.apple.com/podcast/true-russian-orthodox-church-pyotr-kuznetsov/id1286818575?i=1000401575817"

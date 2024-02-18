@@ -4294,6 +4294,9 @@
       "explicit": true,
       "spotifyId": "6WdPfAjKbS6VJGplB1yBDS",
       "appleId": 1000413481570,
+      "subjects": [
+        "True Russian Orthodox Church"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6WdPfAjKbS6VJGplB1yBDS",
         "apple": "https://podcasts.apple.com/podcast/ep-44-bad-accents-and-prog-rock/id1276011417?i=1000413481570"

@@ -5,6 +5,21 @@
   "youTubeChannelId": "UC8Wwvdt6MheGPy9pJY-9g3w",
   "episodes": [
     {
+      "id": "fdd74ca4-a359-436c-a8d9-23cc4a5f8055",
+      "title": "Fanatismo religioso. Luigi Corvaglia al Gr1 (11 Febbraio 2024)",
+      "description": "Modifica con InShot: https://inshotshare.app",
+      "release": "2024-02-18T14:52:57Z",
+      "duration": "00:01:10",
+      "explicit": false,
+      "youTubeId": "cwgw92hwBa8",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=cwgw92hwBa8"
+      }
+    },
+    {
       "id": "b966a08e-6164-484d-a57d-bc178b6cbb89",
       "title": "Il mondo sommerso delle sette (Tg1 del 14 Febbraio 2024)",
       "description": "servizio di Elena Fusai con intervista a Luigi Corvaglia",
@@ -12,6 +27,9 @@
       "duration": "00:01:25",
       "explicit": false,
       "youTubeId": "s5LhSAUCquE",
+      "subjects": [
+        "Cult-Expert"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=s5LhSAUCquE"
       }
