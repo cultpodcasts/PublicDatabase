@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "5e90f238-4207-4efa-ba70-f1fb27d5d961",
+  "name": "New World Old Soul Podcast",
+  "spotifyId": "0LHTFHaCRjUmYLuxHAghaM",
+  "appleId": 1697694091,
+  "youTubeChannelId": "UC9au-kF0oM2kZvgu_M7jdyg",
+  "episodes": [
+    {
+      "id": "4a396fb1-22f1-4503-875c-705aa941dff5",
+      "title": "My Dad Is Polygamist Cult Leader Warren Jeffs | Untold Horrors w/ FLDS Survivor Rachel Blackmore",
+      "description": "Follow Rachel Blackmore\u0027s story of survival, hope \u0026 freedom here: https://www.instagram.com/racheljblackmore To Purchase Rachel\u0027s incredible book \u0022Breaking Free: How I Escaped Polygamy, the FLDS Cult, and My Father, Warren Jeffs\u0022 shop here: https://www.amazon.com/gp/aw/d/0062670530/ref=tmm_pap_swatch_0?ie=UTF8\u0026qid=\u0026sr= or https://www.harpercollins.com/products/breaking-free-rachel-jeffs On this episode of New World Old Soul, Melissa and Jeremy share in a conversation with Rachel (Jeffs) Blackmore. Rachel is the daughter of the infamous FLDS Polygamous cult leader Warren Jeffs who is serving a life sentence in prison for past transgressions wherein he sexually abused multiple minors. The emotional discussion covers Rachel\u0027s life growing up in the FLDS, her being abused by her father, insights into Warren Jeffs himself, etc.",
+      "release": "2024-02-22T16:44:34Z",
+      "duration": "01:26:16.2130000",
+      "explicit": false,
+      "spotifyId": "4FWehSNs46V9wVesqjMBa0",
+      "appleId": 1000646419161,
+      "youTubeId": "pTbfyIxw4yU",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4FWehSNs46V9wVesqjMBa0",
+        "apple": "https://podcasts.apple.com/podcast/my-dad-is-polygamist-cult-leader-warren-jeffs-untold/id1697694091?i=1000646419161",
+        "youtube": "https://www.youtube.com/watch?v=pTbfyIxw4yU"
+      }
+    }
+  ]
+}

@@ -4,7 +4,28 @@
   "name": "Crime Story",
   "spotifyId": "4ssyvZGUyG2Tu9yAreVF6R",
   "appleId": 1708259679,
+  "youTubeChannelId": "UC8rLel5fzQV-pN7pUOF31gQ",
   "episodes": [
+    {
+      "id": "d4ac4543-5728-41d9-9106-8b2db0ba0dbe",
+      "title": "Mythologizing Manson: The Original Cult Leader",
+      "description": "In 1969, Charles Manson unleashed his cult of murderous hippies onto the LA Hills. Decades later, it\u2019s a saga that continues to inspire books, movies and memes. But how well do we really know the story that led to seven infamous murders? In Helter Skelter: An American Myth, documentarians Leslie Chilcott and Eli Frankel, deliver the most comprehensive account of the Manson family cult to date. They reveal what really motivated Charles Manson and bring this larger-than-life story back to reality. For early access to Crime Story episodes and to listen ad-free, subscribe to CBC\u0027s True Crime channel on our show page in Apple Podcasts.",
+      "release": "2024-02-19T05:10:00Z",
+      "duration": "00:48:40.5420000",
+      "explicit": false,
+      "spotifyId": "30QgkXBZTp00L3gF85cH86",
+      "appleId": 1000644799663,
+      "youTubeId": "qQhwwDlyb7I",
+      "subjects": [
+        "Manson Family",
+        "Family Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/30QgkXBZTp00L3gF85cH86",
+        "apple": "https://podcasts.apple.com/podcast/mythologizing-manson-the-original-cult-leader/id1708259679?i=1000644799663",
+        "youtube": "https://www.youtube.com/watch?v=qQhwwDlyb7I"
+      }
+    },
     {
       "id": "dd682873-9727-4fa7-b85c-37eefbe27ad3",
       "title": "NXIVM: Inside The Celebrity Cult",

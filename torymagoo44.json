@@ -5,9 +5,22 @@
   "youTubeChannelId": "UC__gcXYVQlmVocNLZykibUw",
   "episodes": [
     {
+      "id": "d6bf645c-5a45-4cb1-ab7a-504cc9488647",
+      "title": "ToryMagoo44 is live!",
+      "release": "2024-02-24T00:44:02Z",
+      "duration": "00:23:29",
+      "explicit": false,
+      "youTubeId": "CUdzKSkyqDA",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CUdzKSkyqDA"
+      }
+    },
+    {
       "id": "b34fd2a6-8258-4b5c-ac67-66f11bcbd0f8",
       "title": "ToryMagoo44 is live! Scientology \u0026amp; Suicides...Why?",
-      "description": ".",
       "release": "2024-02-14T03:04:33Z",
       "duration": "00:19:55",
       "explicit": false,
@@ -22,7 +35,6 @@
     {
       "id": "2a8df5d0-ef87-4689-ad67-5026370c8097",
       "title": "ToryMagoo44 is live! (Day 3 Fair Game \u002B Disconnection: Why I speak out)",
-      "description": ".",
       "release": "2024-02-09T23:33:16Z",
       "duration": "00:22:11",
       "explicit": false,
@@ -37,7 +49,6 @@
     {
       "id": "883a5aed-3596-432b-b097-cc6985d3be9c",
       "title": "ToryMagoo44 is live!",
-      "description": ".",
       "release": "2024-02-07T06:26:30Z",
       "duration": "00:02:40",
       "explicit": false,
