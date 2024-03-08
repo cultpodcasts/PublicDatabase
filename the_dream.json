@@ -6,6 +6,23 @@
   "appleId": 1435743296,
   "episodes": [
     {
+      "id": "1c56fedb-26b5-42a9-a81a-32059b910efd",
+      "title": "Selling the Dream",
+      "description": "A chapter from Jane Marie\u2019s forthcoming book. Preorder at jane-marie.com . See omnystudio.com/listener for privacy information.",
+      "release": "2024-03-07T20:05:24Z",
+      "duration": "00:27:45.2530000",
+      "explicit": false,
+      "spotifyId": "0NnnXLCLQytsluLuErUIyr",
+      "appleId": 1000648398861,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0NnnXLCLQytsluLuErUIyr",
+        "apple": "https://podcasts.apple.com/podcast/selling-the-dream/id1435743296?i=1000648398861"
+      }
+    },
+    {
       "id": "646f4d6d-e30a-47ff-8afd-a0f01350dd06",
       "title": "Bonus 2: Caller Episode",
       "description": "The Dream listeners called in to share their own experiences with life coaches: the good, the bad and the absurd.See omnystudio.com/listener for privacy information.",

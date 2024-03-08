@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "87a08c17-ba07-41fe-9799-ba582b67ceca",
+  "name": "Smosh",
+  "youTubeChannelId": "UCY30JRSgfhYXA6i6xX1erWg",
+  "episodes": [
+    {
+      "id": "1cb11f4a-7b47-4dc9-bc76-885556ffe049",
+      "title": "I Joined Jared Leto\u2019s Cult",
+      "release": "2024-03-08T17:00:04Z",
+      "duration": "00:06:05",
+      "explicit": false,
+      "youTubeId": "6WGilzDhhMc",
+      "subjects": [
+        "Jared Leto"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6WGilzDhhMc"
+      }
+    }
+  ]
+}

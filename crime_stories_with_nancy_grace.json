@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "ba5b0427-6d33-484a-94f2-ee67ae4a7189",
+  "name": "Crime Stories with Nancy Grace",
+  "spotifyId": "3mirnBCAE7VOzeTM5w12SJ",
+  "appleId": 1193068130,
+  "episodes": [
+    {
+      "id": "23f41849-1aee-41e5-b1e6-208e2e9912f8",
+      "title": "Ruby Franke Sobs In Court, Verdict In",
+      "description": "YouTube influencer Ruby Franke learns her fate. Joining Nancy Grace Today: Donna Kelly \u2013 Former Utah Senior Deputy District Attorney and Attorney for Crime Victims Legal Clinic; Helped form the Utah County Sex Crimes Task Force Dr. Dana Anderson \u2013 Forensic Psychologist and Consultant, Court-appointed Expert Witness; X: @psychologydrcom/TikTok: @psychologydr Jason Jensen \u2013 Private Investigator (Jensen Private Investigations), Cold Case Expert (Salt Lake City, UT), and Co-founder: \u201CCold Case Coalition;\u201D Investigations; X: @JasonJPI, Facebook/Instagram: \u201CJensen Investigations\u201D Dr. Free N. Hess \u2013 Pediatrician/Pediatric Emergency Medicine, Child Safety Expert \u0026 Consultant, Founder of www.PediMom.com Emily Ashcraft- Reporter for KSL.com in Utah; X: @emilyjaneen3 See omnystudio.com/listener for privacy information.",
+      "release": "2024-03-02T22:59:16Z",
+      "duration": "00:42:23.4380000",
+      "explicit": false,
+      "spotifyId": "7dCFw05mPkNQy1k7izhZAL",
+      "appleId": 1000647788453,
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7dCFw05mPkNQy1k7izhZAL",
+        "apple": "https://podcasts.apple.com/podcast/ruby-franke-sobs-in-court-verdict-in/id1193068130?i=1000647788453"
+      }
+    }
+  ]
+}

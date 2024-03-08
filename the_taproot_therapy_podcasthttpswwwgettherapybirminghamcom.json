@@ -1,10 +1,50 @@
 {
   "_ts": 0,
   "id": "8756a9c5-15ae-458b-8352-2fddfbec0aa8",
-  "name": "The Taproot Therapy Podcast - https://www.GetTherapyBirmingham.com",
+  "name": "The Taproot Therapy Podcast",
   "spotifyId": "5FNqrW3allFORwsiq3rKl0",
   "appleId": 1615446348,
+  "youTubeChannelId": "UCs8bliiqlBHDQXtVT_1JZCw",
   "episodes": [
+    {
+      "id": "125af468-7fe8-488d-8302-d062bd909115",
+      "title": "\uD83E\uDE9E\uD83D\uDD00When the Inner World Mirrors the Outer; with Julian Walker of the Conspirituality Podcast\u267B\uFE0F",
+      "description": "Julian Walker, one of the trio that makes up the Conspirituality Podcast, delves into the intersections of yoga, meditation, psychadelics, psychology, science, and culture, offering a critical lens on the blend of conspiracy theories with spirituality. His background, originating from Zimbabwe and South Africa and transitioning to Los Angeles since 1990, enriches his exploration of New Age spirituality, cult dynamics, and the psychological underpinnings of yoga and meditation practices. Alongside co-hosts Derek Beres and Matthew Remski, Walker dissects the dangerous confluence of New Age cults, wellness frauds, and conspiracy theories through the Conspirituality Podcast, aiming to dismantle the exploitative narratives that merge spiritual beliefs with paranoia. Julian Walker\u0027s Projects and Contributions: Conspirituality Podcast: Co-hosted with Derek Beres and Matthew Remski, this platform critiques the merger of conspiracy theories with spirituality, focusing on its impact on public health and the exploitation of spiritual beliefs. The podcast is a blend of journalism, cult research, and philosophical skepticism aimed at understanding and addressing the cultic dynamics within the yoga, wellness, and new spirituality realms. Conspirituality Podcast Writing: Walker is an avid writer, contributing to platforms like Elephant Journal and Medium. His articles delve into cults and gurus, spiritual bypassing, the neuroscience behind yoga practices, and the impact of quantum pseudoscience in New Age circles. His thoughtful explorations contribute significantly to the discourse on spirituality and wellness. Julian Walker on Medium Yoga and Teacher Training: Beyond his critical work, Walker is deeply involved in the practical aspects of yoga and meditation. He conducts yoga classes and teacher training programs in Los Angeles, embodying the practices he often scrutinizes in his writings and discussions. This hands-on experience enriches his critiques with practical insights into yoga and meditation. Bodywork and Dance Facilitation: Walker extends his expertise to bodywork and ecstatic dance, offering a holistic approach to wellness that integrates physical movement with psychological and spiritual health. His Dance Tribe events in Los Angeles are a testament to his commitment to exploring the healing aspects of movement and dance. Explore Julian Walker\u0027s Work: Conspirituality Podcast - A comprehensive exploration of the nexus between conspiracy theories and spirituality. Julian Walker on Medium - Articles and essays on cult dynamics, New Age spirituality, and the science of yoga and meditation. Freedom Becomes You - Walker\u0027s personal project focusing on the intersections of yoga, science, and personal growth. The art work behind Mr. Walker was made by Benjamin Cziller @ https://www.saatchiart.com/cziller More from the podcast at https://gettherapybirmingham.com/",
+      "release": "2024-03-05T02:59:33Z",
+      "duration": "01:03:40.5410000",
+      "explicit": false,
+      "spotifyId": "0MhtL9RhKOLaOIPFCUllsQ",
+      "appleId": 1000648020591,
+      "youTubeId": "GkGr-ddV2HI",
+      "subjects": [
+        "Self-Help",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0MhtL9RhKOLaOIPFCUllsQ",
+        "apple": "https://podcasts.apple.com/podcast/when-the-inner-world-mirrors-the-outer-with/id1615446348?i=1000648020591",
+        "youtube": "https://www.youtube.com/watch?v=GkGr-ddV2HI"
+      }
+    },
+    {
+      "id": "c03bfbe4-e520-4563-8226-9b57c8a0c170",
+      "title": "Understanding Cult Dynamics with Dr. Janja Lalich",
+      "description": "We dive deep into the world of cults, charismatic leadership, and the psychology of influence and control with renowned expert Dr. Janja Lalich. Dr. Lalich, a professor emerita of sociology and a celebrated author, shares her invaluable insights drawn from decades of research. We explore the mechanisms that cults use to attract and retain members, the impact on individuals, and the process of recovery for those who leave. Whether you\u0027re a student of psychology, a survivor of coercive control, or simply fascinated by the complexities of social groups, this episode offers profound insights into the human condition. About Our Guest: Dr. Janja Lalich is a globally recognized authority on cultic studies and high-control groups. With a rich academic background and personal experience in a high-control group, she brings a unique perspective to her research and writing. She has authored and co-authored several seminal books on cults, including Cults in Our Midst and Escaping Utopia, focusing on the structure, tactics, and psychology of coercive groups. Her work extends beyond academic circles, providing support and resources for survivors and their families. In This Episode, You\u0027ll Learn: The definition and characteristics of a cult. How charismatic leaders use psychological manipulation. The process of indoctrination and its effects on members. Strategies for recovery and support for ex-members. Dr. Lalich\u0027s journey from a cult member to a leading expert. Resources Mentioned: Dr. Janja Lalich\u0027s Official Website Dr. Lalich\u0027s Books on Amazon Recovery Resources for Ex-Cult Members Connect with Dr. Janja Lalich: Twitter: @DrJanjaLalich LinkedIn: Dr. Janja Lalich Hashtags: #Cults #Psychology #Sociology #CoerciveControl #CharismaticLeadership #CultRecovery #SocialInfluence #AcademicInsight #MentalHealthAwareness #SurvivorStories #ExpertInterview #EducationalPodcast #CultDynamics #HighControlGroups #JanjaLalich",
+      "release": "2024-02-26T22:57:03Z",
+      "duration": "01:02:55.5840000",
+      "explicit": false,
+      "spotifyId": "5bWouH8uHJOXJKiKkeRzht",
+      "appleId": 1000647155948,
+      "youTubeId": "I_xens1iVNE",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5bWouH8uHJOXJKiKkeRzht",
+        "apple": "https://podcasts.apple.com/podcast/understanding-cult-dynamics-with-dr-janja-lalich/id1615446348?i=1000647155948",
+        "youtube": "https://www.youtube.com/watch?v=I_xens1iVNE"
+      }
+    },
     {
       "id": "90af5faa-17e0-469f-ba61-38695a38d687",
       "title": "\uD83E\uDEB7\uD83E\uDDD8Interview With Matthew Remski of the Conspirituality Podcast",
@@ -20,6 +60,23 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/2QjPpek7L9I1LGX18SvSbn",
         "apple": "https://podcasts.apple.com/podcast/interview-with-matthew-remski-of/id1615446348?i=1000642578815"
+      }
+    },
+    {
+      "id": "04ac8370-4d3c-4965-8802-82eecc4c808d",
+      "title": "\u2695\uFE0F\uD83D\uDCB8\uD83D\uDC8AIf It Sounds Like a Quack; Matthew Hongoltz-Hetling on Evidence Based Practice, Religion, and Scams in American Medicine",
+      "description": "Check out the Book: https://www.amazon.com/If-Sounds-Like-Quack-American/dp/1541788877\nCheck out Matt\u0027s Website: http://www.matt-hongoltzhetling.com/\nGet ready to dive into the world of evidence-based practice and medical scams with the brilliant author Matt Hongoltz-Hetling! \uD83D\uDCD6\uD83D\uDD2C His latest book \u0022If It Sounds Like a Quack\u0022 uncovers the fascinating intersection of healthcare, science, and deception. Join us for an illuminating podcast interview where we explore the murky waters of medical misinformation, separating fact from fiction. \uD83D\uDCA1\uD83D\uDEAB\n\uD83D\uDD0D Discover the truth behind #Scams and learn how to navigate the sea of dubious health claims that flood our lives. With Matt\u0027s insightful analysis, you\u0027ll gain valuable insights into the tactics used by quacks and fraudsters to exploit unsuspecting patients. \uD83D\uDD75\uFE0F\u200D\u2642\uFE0F\uD83D\uDC89\nFrom miracle cures to pseudoscientific jargon, we\u0027ll unravel the mysteries of the healthcare industry while discussing how to spot red flags and make informed decisions about your well-being. \uD83D\uDEA9\uD83E\uDD14\nJoin us as we explore:\nThe power of #EvidenceBasedPractice in separating effective treatments from mere hoaxes.Real-life examples of medical scams that have captivated the masses.How to critically evaluate medical information in an era of information overload.Strategies for protecting yourself and your loved ones from falling prey to medical fraud.Don\u0027t miss out on this riveting conversation that will empower you with the knowledge to make informed healthcare choices. \uD83C\uDFA7\uD83E\uDD1D\nWebsite: https://gettherapybirmingham.com/Podcast Website: https://gettherapybirmingham.podbean.com/Podcast Feed: https://feed.podbean.com/GetTherapyBirmingham/feed.xmlTaproot Therapy Collective2025 Shady Crest Drive | Hoover, Alabama 35216Phone: (205) 598-6471Fax: (205) 634-3647 Email: Admin@GetTherapyBirmingham.comThe resources, videos and podcasts on our site and social media are no substitute for mental health treatment. Please find a qualified mental health provider and contact emergency services in your area in the event of an emergency to a provider in your area. Our number and email are only for scheduling at Taproot Therapy Collective are not monitored consistently and not a reliable resource for emergency services.",
+      "release": "2023-08-05T19:06:31Z",
+      "duration": "01:31:55",
+      "explicit": false,
+      "appleId": 1000623539114,
+      "youTubeId": "v3r5qx8fcD8",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/if-it-sounds-like-a-quack-matthew-hongoltz-hetling/id1615446348?i=1000623539114",
+        "youtube": "https://www.youtube.com/watch?v=v3r5qx8fcD8"
       }
     }
   ]

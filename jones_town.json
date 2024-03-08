@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "21dfb652-aaa1-45c7-b924-2836133bfd1d",
+  "name": "Jones Town",
+  "youTubeChannelId": "UCR4ZSTCZT77FH9x1_I0vitA",
+  "episodes": [
+    {
+      "id": "60e0d737-f2ef-4541-b171-772e800b4e65",
+      "title": "The Jonestown Documentary",
+      "description": "The Jonestown Documentary",
+      "release": "2018-11-07T22:00:10Z",
+      "duration": "00:48:04",
+      "explicit": false,
+      "youTubeId": "ZfWPqSDXzes",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZfWPqSDXzes"
+      }
+    }
+  ]
+}

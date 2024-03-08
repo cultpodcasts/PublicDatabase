@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "50c36053-6e72-4537-b3f3-d6db95da671b",
+  "name": "KVC-Arts",
+  "spotifyId": "2vTb3Op7VXZohsBdI3Nk1L",
+  "appleId": 1243140125,
+  "episodes": [
+    {
+      "id": "a1f10fc0-d689-4e23-a359-94000bff3e47",
+      "title": "KVC-Arts 3/3/24 - Michelle Dowd, author of Forager: Field Notes For Surviving a Family Cult - A Memoir",
+      "description": "David Fleming speaks with Michelle Dowd, author of Forager: Field Notes For Surviving a Family Cult - A Memoir. Each chapter begins with a plant you can find in the mountain wilderness, and the ways to use it for food. Each chapter then goes on to tell the story of Michelle Dowd, and the Angeles National Forest cult in which she was raised. The cult was started by her grandfather, known to all as the last prophet. He would not die, but rather live to be 500 and lead the organization through the impending apocalypse. The story is told from the perspective OF Michelle - as a 7-year-old, growing into her teenage years - when she would eventually leave.More on the book at Michelle Dowd dot org. Michelle\u2019s on Instagram at MichelleDowdZ, there\u2019s also MDowd.Substack.com. The books available in hardback, paperback, Kindle and Audio anywhere books are sold. All are on Amazon.",
+      "release": "2024-03-05T23:58:06Z",
+      "duration": "00:28:12.8130000",
+      "explicit": false,
+      "spotifyId": "0sK3kin4x41MbN6epoF6Oh",
+      "appleId": 1000648140586,
+      "subjects": [
+        "Family Cult",
+        "Kare Youth League"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0sK3kin4x41MbN6epoF6Oh",
+        "apple": "https://podcasts.apple.com/podcast/kvc-arts-3-3-24-michelle-dowd-author-of-forager/id1243140125?i=1000648140586"
+      }
+    }
+  ]
+}
