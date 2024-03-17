@@ -6,6 +6,40 @@
   "appleId": 1626200481,
   "episodes": [
     {
+      "id": "519e7b06-66d9-47d2-a585-d6ba7a5c3639",
+      "title": "Heavens Gate",
+      "description": "Oh boy, get ready. In this episode, we talk about Heavens Gate. We talk about the experiences, beliefs, and more. Enjoy!",
+      "release": "2024-03-13T06:00:00Z",
+      "duration": "00:19:26.6340000",
+      "explicit": false,
+      "spotifyId": "5vexyhjDu9SLn2LvKZtii3",
+      "appleId": 1000649011832,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5vexyhjDu9SLn2LvKZtii3",
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate/id1626200481?i=1000649011832"
+      }
+    },
+    {
+      "id": "c9933377-ddc3-449e-8090-7893766c2449",
+      "title": "The Source Family",
+      "description": "Hey guys, thank you for being here. In this episode we talk about the Source Family. We dive into the experiences that happened in the cult, as well as the beliefs. Hope you enjoy!",
+      "release": "2024-03-08T20:12:00Z",
+      "duration": "00:12:03.1280000",
+      "explicit": false,
+      "spotifyId": "6rtf6ef0ZxjquOwDMguw7d",
+      "appleId": 1000648547999,
+      "subjects": [
+        "The Source Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6rtf6ef0ZxjquOwDMguw7d",
+        "apple": "https://podcasts.apple.com/podcast/the-source-family/id1626200481?i=1000648547999"
+      }
+    },
+    {
       "id": "293c1150-de4b-46ee-ac25-ab90cca3f13c",
       "title": "Ant Hill Gang/Blackburn",
       "description": "Get ready folks. In this episode, we talk about the Ant Hill Gang and the Blackburn cult. We discuss the history, beliefs, and experiences that happened in these cults. Enjoy! \u00A0 \u00A0",
