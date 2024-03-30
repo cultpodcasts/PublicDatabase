@@ -13,11 +13,15 @@
       "release": "2024-03-03T17:00:09Z",
       "duration": "01:52:31",
       "explicit": false,
+      "spotifyId": "74FwCBWJtJbuvYmdLMEsGW",
+      "appleId": 1000650268790,
       "youTubeId": "7vkFHSpwfmY",
       "subjects": [
         "Grant Cardone"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/74FwCBWJtJbuvYmdLMEsGW",
+        "apple": "https://podcasts.apple.com/podcast/exposing-the-cult-of-grant-cardone-why-i-left/id1574561959?i=1000650268790",
         "youtube": "https://www.youtube.com/watch?v=7vkFHSpwfmY"
       }
     },

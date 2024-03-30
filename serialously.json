@@ -4,7 +4,28 @@
   "name": "SERIALously",
   "spotifyId": "6HdheEH8WeMTHoe5da34qU",
   "appleId": 1519456164,
+  "youTubeChannelId": "UCOK0fZAUx82plnLhTKZW6qg",
+  "youTubePlaylistId": "PLCY3SEDjbHKQ11eVdJUsHyU8DHOGc9Ro",
   "episodes": [
+    {
+      "id": "bb162d29-a018-4e93-8b40-6a01b18187c6",
+      "title": "133: Ruby Franke \u0026 Jodi Hildebrandt: The Disturbing Truth Behind This Revolting Case",
+      "description": "New horrific details, videos, photos and journals have been released in the case against Ruby Franke and Jodi Hildebrandt. Ruby Franke, known for her Family Vlogger YouTube channel \u00228Passengers\u0022 and Jodi were arrested in 2023 when one of Ruby\u2019s children escaped Jodi\u2019s house and ran to a neighbor, asking for food and water. Authorities then found another young child who also was \u201Cmalnourished\u201D inside Jodi\u2019s home. Both children had been tortured and tied up. Zoc Doc Go to https://www.Zocdoc.com/ANNIEELISE and download the Zocdoc app for FREE. Then find and book a top-rated doctor today. Hero Bread Hero Bread is offering 10% off your order. Go to hero.co and use code AE at checkout. Prose Get 50% off your first order at https://www.prose.com/serial Liquid IV Get 20% off your first order when you go to https://www.liquidiv.com and use code AE at checkout. Mormon Stories Podcast: https://www.youtube.com/@mormonstories Jodi Eternal Core Conference: https://youtu.be/rOz5O4ilpiU?si=JgF_2wExo0ovgUWv Follow the podcast on TikTok: https://www.tiktok.com/@serialouslypodcast Patreon: https://www.patreon.com/annieelise All Social Media Links: https://www.flowcode.com/page/annieelise_ SERIALously FB Page: https://www.facebook.com/SERIALouslyAnnieElise/ Shop the Merch: www.shop10tolife.com About Me: https://annieelise.com/ For Business Inquiries: 10toLife@WMEAgency.com",
+      "release": "2024-03-25T07:00:00Z",
+      "duration": "03:01:27.8160000",
+      "explicit": false,
+      "spotifyId": "7yns1lIbgSYFldskPpol6k",
+      "appleId": 1000650329925,
+      "youTubeId": "KiwreZn6Z5k",
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7yns1lIbgSYFldskPpol6k",
+        "apple": "https://podcasts.apple.com/podcast/ruby-franke-jodi-hildebrandt-the-disturbing-truth/id1519456164?i=1000650329925",
+        "youtube": "https://www.youtube.com/watch?v=KiwreZn6Z5k"
+      }
+    },
     {
       "id": "908c8291-c84d-45f6-8129-220a633a0dc6",
       "title": "123: 11 Year Old Girl Tied with Rock in River, Ruby Franke \u0026 Jodi Hildebrandt, Delphi, Madeleine McCann, Selena \u0026 Yolanda",
@@ -65,12 +86,14 @@
       "explicit": false,
       "spotifyId": "2Ad05FGnqmX4ISrjnlwMKZ",
       "appleId": 1000631441011,
+      "youTubeId": "YK69HenVLQ8",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Ad05FGnqmX4ISrjnlwMKZ",
-        "apple": "https://podcasts.apple.com/podcast/barbaric-cults-their-leaders-lds-connections-feat-special/id1519456164?i=1000631441011"
+        "apple": "https://podcasts.apple.com/podcast/barbaric-cults-their-leaders-lds-connections-feat-special/id1519456164?i=1000631441011",
+        "youtube": "https://www.youtube.com/watch?v=YK69HenVLQ8"
       }
     },
     {
@@ -82,12 +105,14 @@
       "explicit": false,
       "spotifyId": "3efK9ItThrooDRkszF4Jyv",
       "appleId": 1000629869684,
+      "youTubeId": "bsnyqwHb8qU",
       "subjects": [
         "Connexions"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3efK9ItThrooDRkszF4Jyv",
-        "apple": "https://podcasts.apple.com/podcast/exposing-the-dark-past-of-jodi-hildebrandt-ruby-franke/id1519456164?i=1000629869684"
+        "apple": "https://podcasts.apple.com/podcast/exposing-the-dark-past-of-jodi-hildebrandt-ruby-franke/id1519456164?i=1000629869684",
+        "youtube": "https://www.youtube.com/watch?v=bsnyqwHb8qU"
       }
     },
     {

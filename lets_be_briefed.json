@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "1dc93f29-a3ff-49de-8228-3bf966c7e9ea",
+  "name": "Let\u2019s be Brief(ed)",
+  "spotifyId": "16KX0zdt5ZrUYtqVgUt8RN",
+  "appleId": 1670249793,
+  "episodes": [
+    {
+      "id": "828913d6-3429-41cf-8bb9-4cccaed07df9",
+      "title": "That Time Sara Joined a Cult (JMS)",
+      "description": "Join Sara and Sydney this week as Sara reveals it all for the first time about her experience with a cult while she studied abroad in Japan from 2016-2017. JMS, also known as Providence and many other names, is a cult founded by Jung Myung-seok in 1980 and headquartered in Wol Myeong-dong, South Korea. Sources for this episode: https://en.wikipedia.org/wiki/Providence_(religious_movement) In the Name of God: A Holy Betrayal (2023) docuseries on Netflix https://www.allkpop.com/buzz/2023/03/the-locations-of-the-infamous-jms-branch-churches-are-being-exposed-online Have a topic idea for us to do in future episodes? Email us at letsbebriefed@gmail.com Like our content? Support us on Patreon: https://www.patreon.com/user?u=89475726 Find us here for podcast updates: Facebook page: Let\u0027s Be Briefed Tiktok: Let\u0027s Be Briefed",
+      "release": "2024-03-19T10:00:02Z",
+      "duration": "01:55:02.4530000",
+      "explicit": true,
+      "spotifyId": "6nRdt2dv5SyADGlMXvexA1",
+      "appleId": 1000649689386,
+      "subjects": [
+        "Providence"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6nRdt2dv5SyADGlMXvexA1",
+        "apple": "https://podcasts.apple.com/podcast/that-time-sara-joined-a-cult-jms/id1670249793?i=1000649689386"
+      }
+    }
+  ]
+}

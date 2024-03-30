@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "30c50670-a1ce-4fa6-a93a-ab2ddc07a25f",
+  "name": "XenuTravolta",
+  "youTubeChannelId": "UCVMpyEeyPH6zzorfX1MDjxg",
+  "episodes": [
+    {
+      "id": "a2d2a198-bbc3-4441-9e44-d186603b2e65",
+      "title": "Mike Wallace on Scientology Crimes",
+      "description": "Mike Wallace exposes scientology as a criminal cult.",
+      "release": "2008-06-26T15:09:53Z",
+      "duration": "00:10:01",
+      "explicit": false,
+      "youTubeId": "Mzq2I9VveCc",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Mzq2I9VveCc"
+      }
+    }
+  ]
+}

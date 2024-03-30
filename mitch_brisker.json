@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCVnZkthwrbE3Zzn3MkTOGoQ",
   "episodes": [
     {
+      "id": "c80feaa8-f55a-4cc2-ab5c-dace93298baf",
+      "title": "Life After Scientology",
+      "description": "Join me for a conversation with second generation Scientologist Julie McKernan as we discuss life after Scientology",
+      "release": "2024-03-17T00:06:17Z",
+      "duration": "01:24:10",
+      "explicit": false,
+      "youTubeId": "PY_bDxksfmg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PY_bDxksfmg"
+      }
+    },
+    {
       "id": "9d1c142c-5073-4e66-91c7-6d376ee229a7",
       "title": "Julie McKernan the Final Chapter",
       "description": "Join me or part 3 of my interview with Julie McKernan as she relates the final days in Scientology and the details of her final departure. Watch till the end because you\u0027re not going to believe.",

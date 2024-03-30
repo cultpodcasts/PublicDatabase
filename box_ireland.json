@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "d17f1532-a7d6-4658-ae89-4628ac3e8d54",
+  "name": "Box Ireland",
+  "youTubeChannelId": "UCkmG-P97cGiqv2Mr68FYUoA",
+  "episodes": [
+    {
+      "id": "98c27c92-bd4e-4ef4-b00e-2a4e8b29e366",
+      "title": "Steve Collins vs Chris Eubank I  1995 full fight",
+      "description": "WBO super-middleweight title, Green Glens Arena, Millstreet, Cork, Ireland    18 March 1995",
+      "release": "1995-03-18T22:00:00Z",
+      "duration": "01:12:28",
+      "explicit": false,
+      "youTubeId": "QHRseUixH9U",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QHRseUixH9U"
+      }
+    }
+  ]
+}

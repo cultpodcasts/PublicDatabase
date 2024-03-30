@@ -7,17 +7,55 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "507a6e00-9ba9-40d6-9159-682bc7a07414",
+      "title": "How to help PTSD sufferers with Dr Steve Moffic",
+      "description": "Steve Moffic, a retired professor of psychiatry, shares insights into Post Traumatic Stress Disorder and questions the use of stellate ganglion block as more than a short-term solution.",
+      "release": "2024-03-30T14:47:26Z",
+      "duration": "01:14:38",
+      "explicit": false,
+      "youTubeId": "MKX8ZDRBr_o",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MKX8ZDRBr_o"
+      }
+    },
+    {
+      "id": "228649ec-9dfa-4965-b5b5-9f3237a248c5",
+      "title": "Mike Rinder answers Mirriam Francis\u0027s allegations",
+      "description": "Mirriam Francis asked Jon to put some questions to Mike Rinder. Here are his responses.\n\nLinks:\n\nChildUSA: https://childusa.org\n\nThe Australian Royal Commission on Institutional Responses to Child Sexual Abuse - Scientology testimony: https://www.childabuseroyalcommission.gov.au/narrative/nikkis-story\n\nLisa McPherson\u0027s death: http://www.lisamcpherson.org\n\nMike Rinder\u0027s blog: https://www.mikerindersblog.org\n\nThe Aftermath Foundation: https://www.theaftermathfoundation.org",
+      "release": "2024-03-23T11:18:04Z",
+      "duration": "01:12:54",
+      "explicit": false,
+      "spotifyId": "3oIMwbgEG8Ru7PI8HQ8xbt",
+      "appleId": 1000650216304,
+      "youTubeId": "yuUKx73HV_c",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3oIMwbgEG8Ru7PI8HQ8xbt",
+        "apple": "https://podcasts.apple.com/podcast/mike-rinder-answers-mirriam-franciss-allegations/id1534364303?i=1000650216304",
+        "youtube": "https://www.youtube.com/watch?v=yuUKx73HV_c"
+      }
+    },
+    {
       "id": "eac603ee-e4d3-4d32-8354-4fe786c829c7",
       "title": "trust and healthy skepticism with Hoyt Richards",
       "description": "documentarian and cult expert Hoyt Richards joins Jon to talk about how to develop healthy skepticism when our natural inclination is to trust. The conversation ranges through groupthink, confirmation or myside bias and our cognitive dissonance when presented with ideas that conflict with our own feelings of knowing.\n\n________________\nhelp support our channel!\npaypal (for one-time donations) : https://www.paypal.com/paypalme/jonatackandfriends\n\npatreon (for a monthly subscription - also for goodies like early access and a monthly Q\u0026A with Jon!): https://www.patreon.com/jonatack\n\nfollow us on Twitter: https://twitter.com/atack_jon\nand Instagram: https://www.instagram.com/openmindstoday/ \n\nJon\u0027s spiffy new site: https://jonatack.co.uk\nJon\u0027s old site (with all his art and poems and things): http://jonatack.com\n\nfor respectful, insightful, and engaging discussion on coercive control, manipulation, abusive groups and individuals, and more, join our facebook group: https://www.facebook.com/groups/803202686721445/ (for faster acceptance to the group, please answer the \u201Cprove you\u2019re not a \u2018bot\u201D questions)",
       "release": "2024-03-16T14:47:03Z",
       "duration": "01:10:57",
       "explicit": false,
+      "spotifyId": "60W0r9lEG4ip33y1pg2e9T",
+      "appleId": 1000649513595,
       "youTubeId": "M_Yok2ykXqc",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/60W0r9lEG4ip33y1pg2e9T",
+        "apple": "https://podcasts.apple.com/podcast/trust-and-healthy-skepticism-with-hoyt-richards/id1534364303?i=1000649513595",
         "youtube": "https://www.youtube.com/watch?v=M_Yok2ykXqc"
       }
     },
