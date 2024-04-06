@@ -15,9 +15,14 @@
       "explicit": false,
       "spotifyId": "19kVOAYL5O6P2Yzi7dv24k",
       "appleId": 1000650863383,
+      "youTubeId": "rE59hwpZp9Y",
+      "subjects": [
+        "NXIVM"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19kVOAYL5O6P2Yzi7dv24k",
-        "apple": "https://podcasts.apple.com/podcast/racism-a-south-african-story/id1646783869?i=1000650863383"
+        "apple": "https://podcasts.apple.com/podcast/racism-a-south-african-story/id1646783869?i=1000650863383",
+        "youtube": "https://www.youtube.com/watch?v=rE59hwpZp9Y"
       }
     },
     {

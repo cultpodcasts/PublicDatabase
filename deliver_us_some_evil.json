@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "7b64a28a-ac99-48ff-8a9b-96ba2738505d",
+  "name": "Deliver Us Some Evil",
+  "spotifyId": "4oruAuw4lVRrk9Kbfm7etx",
+  "appleId": 1653254966,
+  "episodes": [
+    {
+      "id": "18371177-0f98-4052-8747-6420f545edc4",
+      "title": "The Adventures of Guy Ballard Part IV: All Aboard for Atlantis",
+      "description": "The DUSE brings you the fourth installment of the Adventures of Guy Ballard! No matter your religious background, we can all agree that it\u0027s never a good idea to mix mythological ancient cities, aliens digging up gold, old men figuring out how eyesight works, an interdimensional God King who might be planning mass assassinations, kung fu cats, and good old patriotism. But if you want to take your chances with the magical bundt cake, the I Am Activity Movement may be the perfect cult for you! Just make sure you bring all of your money to a previously undisclosed location and then it\u0027s... All Aboard for Atlantis!",
+      "release": "2024-04-01T09:30:00Z",
+      "duration": "01:30:47.4020000",
+      "explicit": true,
+      "spotifyId": "4HPEo1cFScbWU4KHvA9nle",
+      "appleId": 1000651052994,
+      "subjects": [
+        "Saint Germain Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4HPEo1cFScbWU4KHvA9nle",
+        "apple": "https://podcasts.apple.com/podcast/the-adventures-of-guy-ballard-part-iv-all-aboard/id1653254966?i=1000651052994"
+      }
+    },
+    {
+      "id": "8371addc-00cf-42de-a4a5-6fc2ae60d7fc",
+      "title": "The Adventures of Guy Ballard Part III: My Cat\u0027s Nipples",
+      "description": "In this amazing installment of The Adventures of Guy Ballard, Mel confesses her fascination with feline anatomy, but can you really blame her? Especially when the episode covers a cult leader who totally wasn\u0027t having gay adventures in the woods of Mount Shasta with strange men while his wife thinks he\u0027s communing with \u0022God\u0022 or when the same man molests a mountain lion just after traversing literal space and time with a man hell bent on feeding him strange cakes and whisking him away in an invisibility cloak? If you think these are normal things that normal people do, well you also won\u0027t think it\u0027s weird that Mel rubs....My Cat\u0027s Nipples!",
+      "release": "2024-01-08T10:30:00Z",
+      "duration": "00:52:02.8030000",
+      "explicit": true,
+      "spotifyId": "4ozgbOwpCZg524ToPmY3H4",
+      "appleId": 1000640890118,
+      "subjects": [
+        "Saint Germain Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ozgbOwpCZg524ToPmY3H4",
+        "apple": "https://podcasts.apple.com/podcast/the-adventures-of-guy-ballard-part-iii-my-cats-nipples/id1653254966?i=1000640890118"
+      }
+    },
+    {
+      "id": "ebcafb14-419b-4ec7-8c16-e439c17685ca",
+      "title": "The Adventures of Guy Ballard Part II: Yoda Space Jesus",
+      "description": "Eli and Mel pick up where they left off in chapter one with a man who might have been an ancient Egyptian priest or a French girl with a hefty chest. When you\u0027re a devotee of the I Am Activity Movement the possibilities are endless and nothing is certain. In a universe of the unknown the only thing you can count on is that if you\u0027re meant to soar among the stars you\u0027ll have a guide to take you on that trip. He could be a frog or some guy who died in the 1700\u0027s or a three headed Sphinx. But for the love of all that\u0027s holy, you better hope it\u0027s not...Yoda Space Jesus!",
+      "release": "2023-10-23T09:30:00Z",
+      "duration": "01:27:18.8210000",
+      "explicit": true,
+      "spotifyId": "5zWHJeePLz0ihPzk1o2UGx",
+      "appleId": 1000632260038,
+      "subjects": [
+        "Saint Germain Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5zWHJeePLz0ihPzk1o2UGx",
+        "apple": "https://podcasts.apple.com/podcast/the-adventures-of-guy-ballard-part-ii-yoda-space-jesus/id1653254966?i=1000632260038"
+      }
+    },
+    {
+      "id": "f66ebbdb-e947-4b61-9081-860b4f1e2533",
+      "title": "The Adventures of Guy Ballard Part I: The Metaphysical Cheeseburger",
+      "description": "A long time ago in a county of California far far away, one man on the search for humanity\u0027s last hope finds a strange youth who conjured creamy liquids and did magic tricks. Little did he know, this strange boy was not a boy but an ascended Space Jesus who came to teach him how to conjure whatever he desired and influence the script of six really good movies only for the great evil to buy those scripts and add three that nobody wants to talk about. There is a great evil out there in the universe. Is it the evil galactic empire or the lizard people? Or even humanity itself? No one knows. Can humanity be taught to be kinder? Can you really summon anything you want with wishful thinking? The world may never know. But what we do know is that when you bring balance to the universe you too can summon...The Metaphysical Cheeseburger!",
+      "release": "2023-07-24T09:30:00Z",
+      "duration": "01:38:00.6780000",
+      "explicit": true,
+      "spotifyId": "5VHSQtYJ0D7ORMf6Do9996",
+      "appleId": 1000622122626,
+      "subjects": [
+        "Saint Germain Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5VHSQtYJ0D7ORMf6Do9996",
+        "apple": "https://podcasts.apple.com/podcast/the-adventures-of-guy-ballard-part-i/id1653254966?i=1000622122626"
+      }
+    }
+  ]
+}

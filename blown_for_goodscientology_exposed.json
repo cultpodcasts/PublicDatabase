@@ -73,11 +73,15 @@
       "release": "2024-03-14T13:00:10Z",
       "duration": "00:28:33",
       "explicit": false,
+      "spotifyId": "0QIGH1JcXifo6ZnyIJlUtm",
+      "appleId": 1000651408883,
       "youTubeId": "CJFUiMgZPOU",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0QIGH1JcXifo6ZnyIJlUtm",
+        "apple": "https://podcasts.apple.com/podcast/uncovering-the-shadows-scientologys-secret/id1671284503?i=1000651408883",
         "youtube": "https://www.youtube.com/watch?v=CJFUiMgZPOU"
       }
     },
@@ -88,11 +92,15 @@
       "release": "2024-03-12T15:00:10Z",
       "duration": "00:28:14",
       "explicit": false,
+      "spotifyId": "3wLQJ0UhjKWTaCLUdOd6Ti",
+      "appleId": 1000651171359,
       "youTubeId": "GJuBfnL0Z_U",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3wLQJ0UhjKWTaCLUdOd6Ti",
+        "apple": "https://podcasts.apple.com/podcast/the-south-park-skirmish-scientologys-clash-with-satire/id1671284503?i=1000651171359",
         "youtube": "https://www.youtube.com/watch?v=GJuBfnL0Z_U"
       }
     },

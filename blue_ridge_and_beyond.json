@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8dbd58da-ab5d-42a3-ba26-317f714c987e",
+  "name": "Blue Ridge and Beyond",
+  "spotifyId": "7jRS8FLSm9Lh7PcIYXUzP5",
+  "appleId": 1732052289,
+  "episodes": [
+    {
+      "id": "b821f3a3-f70a-40d4-909d-20f11df8de51",
+      "title": "Happy Science",
+      "description": "Tune in for our first cult episode on Happy Science! #truecrime #cult #japan #happyscience #podcast",
+      "release": "2024-04-05T04:13:52Z",
+      "duration": "00:46:33.5920000",
+      "explicit": false,
+      "spotifyId": "5LZ2y48qeg2hrFN0ppAUK7",
+      "appleId": 1000651504531,
+      "subjects": [
+        "Happy Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5LZ2y48qeg2hrFN0ppAUK7",
+        "apple": "https://podcasts.apple.com/podcast/happy-science/id1732052289?i=1000651504531"
+      }
+    }
+  ]
+}

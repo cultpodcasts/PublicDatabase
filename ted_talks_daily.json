@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "66b0ac4f-ab11-41a5-85f4-73eb7b0902f1",
+  "name": "TED Talks Daily",
+  "spotifyId": "1VXcH8QHkjRcTCEd88U3ti",
+  "appleId": 160904630,
+  "youTubeChannelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+  "episodes": [
+    {
+      "id": "c0c132e8-19be-4ab4-8da4-4ecac528a5a5",
+      "title": "How to spot a cult | Sarah Edmondson",
+      "description": "Nobody joins a cult on purpose, says Sarah Edmondson, a former member of the infamous NXIVM cult and one of the three whistleblowers that led to its downfall. She explains how she got ensnared in this highly manipulative group \u2014 and then escaped it \u2014 and shares red flags to help you distinguish between a cult and a safe community.",
+      "release": "2024-04-03T15:34:52Z",
+      "duration": "00:18:04.2360000",
+      "explicit": false,
+      "spotifyId": "2t12lhQhdOo6BOa2O7echx",
+      "appleId": 1000651329195,
+      "youTubeId": "fa7uN2vo6rc",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2t12lhQhdOo6BOa2O7echx",
+        "apple": "https://podcasts.apple.com/podcast/how-to-spot-a-cult-sarah-edmondson/id160904630?i=1000651329195",
+        "youtube": "https://www.youtube.com/watch?v=fa7uN2vo6rc"
+      }
+    }
+  ]
+}

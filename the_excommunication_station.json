@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "509aac49-1141-4ce8-a433-ff1279e92177",
+      "title": "148: Kenneth Hagin Part I",
+      "description": "This week, we start our journey into the giddy powerhouse known as Kenneth Hagin.",
+      "release": "2024-04-03T05:00:00Z",
+      "duration": "02:01:41.0450000",
+      "explicit": false,
+      "spotifyId": "70sIqWY38eSqGcUt2G8M9m",
+      "appleId": 1000651270789,
+      "subjects": [
+        "Kenneth E. Hagin"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/70sIqWY38eSqGcUt2G8M9m",
+        "apple": "https://podcasts.apple.com/podcast/148-kenneth-hagin-part-i/id1573190999?i=1000651270789"
+      }
+    },
+    {
       "id": "c095f0dc-e606-4937-a898-bbdb29009a90",
       "title": "147: The Beliefs Of The NAR w/Scott Okamoto",
       "description": "This week, we are joined by Scott Okamoto (author of Asian Apostate), to talk about the origins of the New Apostolic Reformation.",

@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "d7cb3e27-9eba-495b-8daa-4dc3bbf4dbe5",
+  "name": "KIFI Local News 8",
+  "youTubeChannelId": "UCxjuFM6VcOj-Vt-yEJBNKOQ",
+  "episodes": [
+    {
+      "id": "46f23770-ee62-4592-8b41-1fa92c569977",
+      "title": "Attorneys discuss complexities of Chad Daybell trial in exclusive interview",
+      "description": "Read more: https://localnews8.com",
+      "release": "2024-04-04T15:57:13Z",
+      "duration": "00:03:41",
+      "explicit": false,
+      "youTubeId": "TnMjVM6eg68",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TnMjVM6eg68"
+      }
+    }
+  ]
+}

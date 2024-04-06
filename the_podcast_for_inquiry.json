@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "43a32be2-ada0-4fd3-8d44-db3b355b7f7e",
+  "name": "The Podcast For Inquiry",
+  "spotifyId": "3ry9eD0i2t2Li62qJFucyi",
+  "appleId": 1600815518,
+  "youTubeChannelId": "UC5rHKoD_3paFCA7vlOvlXsw",
+  "episodes": [
+    {
+      "id": "31168386-19ab-4db0-aa22-b5a202623458",
+      "title": "Misguided: My Jesus Freak Life In A Doomsday Cult with Perry Bulwer",
+      "description": "Perry Bulwer ( Facebook ) speaks about his part-memoir, part-expos\u00E9 book, Misguided : My Jesus Freak Life in a Doomsday Cult. Perry describes what first attracted him to the cult, and why he stayed in it for nearly 20 years. Perry recounts the lasting damage from his time in the Children of God, to himself and especially to those born into it. Podcast for Inquiry is hosted by Leslie Rosenblood and brought to you by the Centre for Inquiry Canada . Support Podcast for Inquiry on Patreon: https://patreon.com/PodcastforInquiry . Send your thoughts and feedback to podcast@centreforinquiry.ca .",
+      "release": "2024-04-03T09:10:00Z",
+      "duration": "01:11:13.5280000",
+      "explicit": false,
+      "spotifyId": "7Dl1u9pMsp4O5P7aKJgr15",
+      "appleId": 1000651287792,
+      "youTubeId": "opJZAJrBQ5s",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7Dl1u9pMsp4O5P7aKJgr15",
+        "apple": "https://podcasts.apple.com/podcast/misguided-my-jesus-freak-life-in-a-doomsday-cult/id1600815518?i=1000651287792",
+        "youtube": "https://www.youtube.com/watch?v=opJZAJrBQ5s"
+      }
+    }
+  ]
+}

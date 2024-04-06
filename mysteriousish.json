@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "abd1970a-0044-4c39-bd45-83e3d8f18912",
+  "name": "Mysterious(ish)",
+  "spotifyId": "2MW6MWtkRByTtrPAnbcwdQ",
+  "appleId": 1567803342,
+  "episodes": [
+    {
+      "id": "36e671c6-31a9-4afd-92a8-4dfebc32f17b",
+      "title": "S6E3 - Synanon",
+      "description": "This week Kaitlyn discusses a drug rehabilitation program turned \u0022alternate society\u0022 (a.k.a. cult), Synanon. From a humble beginning to a violent and litigious end, this episode is pretty heavy. So buckle up and get ready to say Kaitlyn\u0027s favorite phrase aimed at the leader, Chuck Dederich. . . . Follow us on Facebook: www.facebook.com/mysteriousishpod Follow us on Instagram: @mysteriousishpod Check out our website and blog: www.mysteriousishpod.com Subscribe on Patreon: www.patreon.com/mysteriousishpod This podcast uses the following third-party services for analysis: Chartable - https://chartable.com/privacy",
+      "release": "2024-04-02T04:00:00Z",
+      "duration": "00:44:45.0740000",
+      "explicit": true,
+      "spotifyId": "04N6my2taqa743KIDx4Viq",
+      "appleId": 1000651142401,
+      "subjects": [
+        "Synanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/04N6my2taqa743KIDx4Viq",
+        "apple": "https://podcasts.apple.com/podcast/s6e3-synanon/id1567803342?i=1000651142401"
+      }
+    }
+  ]
+}

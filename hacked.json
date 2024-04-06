@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e3b11033-6568-4158-8ad6-8907cd7c16f9",
+  "name": "Hacked",
+  "spotifyId": "21zZfOy7VCSIIWlJ64DElv",
+  "appleId": 1049420219,
+  "episodes": [
+    {
+      "id": "0e53630e-158f-4c3a-aefc-2edb7530a265",
+      "title": "The Real World",
+      "description": "The story of an online business school that might also be a cult. Check out some of our guest Tim Hume\u2019s excellent reporting at the links below: https://www.vice.com/en/article/pkaw7k/andrew-tate-the-real-world-cult https://www.vice.com/en/article/n7emvg/andrew-tate-channels-culled-by-youtube-after-revelations-about-get-rich-quick-cult https://www.vice.com/en/article/4a385g/youtube-profited-from-andrew-tate-recruitment-videos-despite-banning-them Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-04-01T20:38:00Z",
+      "duration": "00:50:47.9410000",
+      "explicit": false,
+      "spotifyId": "4CQ20P5BhDpF2kbNSXhyMY",
+      "appleId": 1000651111897,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4CQ20P5BhDpF2kbNSXhyMY",
+        "apple": "https://podcasts.apple.com/podcast/the-real-world/id1049420219?i=1000651111897"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "b17e64ff-bc34-47bd-8da2-5bb5872971d4",
+  "name": "Don\u0027t Look Now",
+  "spotifyId": "6VZfmgjDY7QP9QkQGjc4iM",
+  "appleId": 1454198587,
+  "episodes": [
+    {
+      "id": "1e6f81c7-93ba-453d-b8a1-75d5f928ad96",
+      "title": "268 - It Rhymes with Goonies and is Far More Culty...",
+      "description": "This week we discuss the Unification Church, more commonly known as The Moonies. The church was founded by Sun Myung Moon and began to grow in the years after World War II. Moon claimed to be the second coming of Jesus Christ, sent to complete his mission on earth and bring about The Kingdom of God. The church is widely considered to by a cult and is mostly known for it\u0027s huge mass marriage ceremonies, marrying thousands of couples at once. Interestingly the church has branched in to politics and business, with forays into seafood and world politics. Come take a listen and learn more.",
+      "release": "2024-04-02T04:00:00Z",
+      "duration": "00:37:22.6640000",
+      "explicit": true,
+      "spotifyId": "0kHysi51QhSpIsr8pRPkUl",
+      "appleId": 1000651143923,
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0kHysi51QhSpIsr8pRPkUl",
+        "apple": "https://podcasts.apple.com/podcast/268-it-rhymes-with-goonies-and-is-far-more-culty/id1454198587?i=1000651143923"
+      }
+    }
+  ]
+}

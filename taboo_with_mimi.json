@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "a5f2be9e-9b23-4761-a42a-5dc6b7c1236a",
+  "name": "Taboo with Mimi",
+  "spotifyId": "2peiAS7IYZyTyKuxoLQNgs",
+  "appleId": 1725768638,
+  "episodes": [
+    {
+      "id": "3629e26a-14ff-478c-8f95-cc4698d9eef5",
+      "title": "EP 35: Taboo with Mimi -  I was in a Cult",
+      "description": "Mimi talks about her experience of being in a cult when she was 18 years old.",
+      "release": "2024-03-30T14:44:58Z",
+      "duration": "00:31:03.9670000",
+      "explicit": true,
+      "spotifyId": "4izHPEzPO671BifmJaFca9",
+      "appleId": 1000650928824,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4izHPEzPO671BifmJaFca9",
+        "apple": "https://podcasts.apple.com/podcast/ep-35-taboo-with-mimi-i-was-in-a-cult/id1725768638?i=1000650928824"
+      }
+    }
+  ]
+}

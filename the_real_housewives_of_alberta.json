@@ -1,0 +1,35 @@
+{
+  "_ts": 0,
+  "id": "8318e36a-c247-47e8-b28d-24b13d34d7b6",
+  "name": "The Real Housewives of Alberta",
+  "youTubeChannelId": "UCp_NmaEeu2ENYU1y4UvQdXw",
+  "episodes": [
+    {
+      "id": "1ba5a9af-add0-46c7-b73f-ce0e7b26c554",
+      "title": "Are you in cult?",
+      "description": "Tonight for part 2 of our look into cults, we discuss the psychology of both members and leaders. Personality traits \u0026 behavior\u0027s to look out for. We discuss the 3 types of cults and their differences.",
+      "release": "2024-04-03T14:34:38Z",
+      "duration": "01:48:41",
+      "explicit": false,
+      "youTubeId": "Es4sYVOBVLE",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Es4sYVOBVLE"
+      }
+    },
+    {
+      "id": "0a998996-f10f-48b3-817d-c390db6bcfe8",
+      "title": "CULTS - Are you in one?",
+      "description": "Cults have been a part of humanity since we started writing things down, probably even before then.\r\nJoin us as we go through what is a CULT, how cults form, their egomaniacal and greed driven leaders, and we will do a quick look at a few of our favourite stories about cults.",
+      "release": "2024-03-27T15:19:02Z",
+      "duration": "01:45:12",
+      "explicit": false,
+      "youTubeId": "RKydeAlZaa4",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RKydeAlZaa4"
+      }
+    }
+  ]
+}

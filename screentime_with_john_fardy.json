@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "1c835382-70a2-472b-bf7f-59d1becfb2b1",
+  "name": "Screentime with John Fardy",
+  "spotifyId": "5hvWy87v2i1iWRLP6dsoxG",
+  "appleId": 1456352057,
+  "episodes": [
+    {
+      "id": "61794aef-bfd6-4da6-b3e5-12b3e7455f33",
+      "title": "Did a Boxing Match Start the Celtic Tiger?",
+      "description": "This Week on Screentime John Fardy chats to director Andrew Gallimore about his new documentary \u0027One Night in Millstreet\u0027 that chronicles the remarkable fight between Chris Eubank and Steve Collins back in 1995 in an unlikely venue in Millstreet in Cork. Chris Wasser reviews the new Cinema Releases including \u0027The First Omen\u0027. Plus Performance Psychologist Gerry Hussey chats about his favourite film.",
+      "release": "2024-04-05T11:00:00Z",
+      "duration": "00:50:37.0740000",
+      "explicit": false,
+      "spotifyId": "2OWnPCDqLYbCTetNjc37jI",
+      "appleId": 1000651531030,
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2OWnPCDqLYbCTetNjc37jI",
+        "apple": "https://podcasts.apple.com/podcast/did-a-boxing-match-start-the-celtic-tiger/id1456352057?i=1000651531030"
+      }
+    }
+  ]
+}

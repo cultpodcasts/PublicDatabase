@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "63726512-3e87-4bea-88bd-76c85c7cbf0f",
+  "name": "Upfront: The Podcast",
+  "spotifyId": "040lVMlLwN9d8DasTgMtqM",
+  "appleId": 1666817138,
+  "episodes": [
+    {
+      "id": "af0032a1-0a3f-4aeb-9459-7ec8bc8f9472",
+      "title": "Unveiling Opus Dei: Ann Marie Allen speaks out",
+      "description": "Ms Allen\u2019s story was central to a major investigation published by the Financial Times two weeks ago. In her first interview with Irish broadcast media, she told Katie Hannon on \u2018Upfront: The Podcast\u2019 further remarkable details about what she experienced within the organisation.",
+      "release": "2024-03-29T09:48:00Z",
+      "duration": "00:37:04.0390000",
+      "explicit": false,
+      "spotifyId": "4OTW9CK9j9K5nnEvMe57HG",
+      "appleId": 1000650824677,
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4OTW9CK9j9K5nnEvMe57HG",
+        "apple": "https://podcasts.apple.com/podcast/unveiling-opus-dei-ann-marie-allen-speaks-out/id1666817138?i=1000650824677"
+      }
+    }
+  ]
+}

@@ -7,6 +7,18 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "9a36a689-c490-44bf-8b88-34bd3f449b42",
+      "title": "inside the mind of a sociopath with Shawn McCraney",
+      "description": "Shawn McCraney realized that he was a sociopath in 1997 and decided he had to change. He still has to work at it every day, but he provides invaluable insights into the inner workings of a predatory mind. Shawn talks with Jon about the movie Butcher Boy. He identifies closely with the boy who is the villain of the movie. A wide-ranging conversation about art, faith, personality, and change.",
+      "release": "2024-04-06T06:00:05Z",
+      "duration": "01:22:08",
+      "explicit": false,
+      "youTubeId": "DOv_0EI48eM",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DOv_0EI48eM"
+      }
+    },
+    {
       "id": "507a6e00-9ba9-40d6-9159-682bc7a07414",
       "title": "How to help PTSD sufferers with Dr Steve Moffic",
       "description": "Steve Moffic, a retired professor of psychiatry, shares insights into Post Traumatic Stress Disorder and questions the use of stellate ganglion block as more than a short-term solution.",
@@ -15,7 +27,9 @@
       "explicit": false,
       "youTubeId": "MKX8ZDRBr_o",
       "subjects": [
-        "Psychology"
+        "Cult Recovery",
+        "Psychology",
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=MKX8ZDRBr_o"
