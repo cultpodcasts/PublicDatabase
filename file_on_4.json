@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "7428fdb7-4568-40ab-9458-1c6a8acc9a1a",
+  "name": "File on 4",
+  "spotifyId": "6yeTUKtDg2QzLKrMeJGuQh",
+  "appleId": 76934515,
+  "episodes": [
+    {
+      "id": "32395bdc-45a4-40aa-bd9c-e67bdee4608a",
+      "title": "Am I in a Cult?",
+      "description": "How do you know if you\u2019ve been recruited by a cult? Rachel Stonehouse investigates claims there are up to 2,000 cults currently operating in the UK. We talk to young people who say they were recruited on campus and a father who went to court to free his daughter from the influence of a harmful cult.  Reporter: Rachel Stonehouse Producer: Michael Cowan Editor: Maggie Latham Researcher: Natasha Fernandes",
+      "release": "2021-11-23T00:00:00",
+      "duration": "00:37:09.9180000",
+      "explicit": false,
+      "spotifyId": "6AvfzlidjaSpKlbQZJfem8",
+      "appleId": 1000542876460,
+      "subjects": [
+        "Universal Medicine",
+        "Shincheonji Church of Jesus"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6AvfzlidjaSpKlbQZJfem8",
+        "apple": "https://podcasts.apple.com/podcast/am-i-in-a-cult/id76934515?i=1000542876460"
+      }
+    }
+  ]
+}

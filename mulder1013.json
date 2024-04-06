@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "f44b2763-46a8-4a15-9065-d05561788dde",
+  "name": "mulder1013",
+  "youTubeChannelId": "UCm_ahLGUZfus1lRA4Qbr1ng",
+  "episodes": [
+    {
+      "id": "1c4a3ee4-aaf7-4b32-8887-1594bf146129",
+      "title": "Flagdowndayone",
+      "description": "Some snippets from day one of Flag Down.",
+      "release": "2014-05-07T12:37:02Z",
+      "duration": "00:48:34",
+      "explicit": false,
+      "youTubeId": "arcVn0EoOJE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=arcVn0EoOJE"
+      }
+    }
+  ]
+}

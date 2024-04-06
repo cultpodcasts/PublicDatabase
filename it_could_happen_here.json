@@ -1,0 +1,60 @@
+{
+  "_ts": 0,
+  "id": "79bc9670-4960-44d1-93ca-8a667758804e",
+  "name": "It Could Happen Here",
+  "spotifyId": "3KNdniw6YDpgDuwrhcpSXw",
+  "appleId": 1449762156,
+  "episodes": [
+    {
+      "id": "e68e76cc-389c-4516-a1bf-14bb84ef3dc6",
+      "title": "That Matchmaking Cult Doing Conversation Therapy",
+      "description": "Robert and Mia talk with journalist Sarah Berman about a matchmaking cult called Twin Flames Universe and their disturbing conversation therapy practices.See omnystudio.com/listener for privacy information.",
+      "release": "2023-12-04T05:00:00Z",
+      "duration": "00:46:28.2840000",
+      "explicit": false,
+      "spotifyId": "6qLYZF1LMLRq3FdbE7yZmD",
+      "appleId": 1000637383644,
+      "subjects": [
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6qLYZF1LMLRq3FdbE7yZmD",
+        "apple": "https://podcasts.apple.com/podcast/that-matchmaking-cult-doing-conversation-therapy/id1449762156?i=1000637383644"
+      }
+    },
+    {
+      "id": "1c55e070-6d44-446a-97b3-69e696a018d7",
+      "title": "Political Cults, Part 2 Ft. Andrew: Spooky Week #5",
+      "description": "Andrew tells Garrison about the far-right Trotsky inspired cult leader Lyndon Larouche.See omnystudio.com/listener for privacy information.",
+      "release": "2023-11-02T00:00:00",
+      "duration": "00:49:25.5770000",
+      "explicit": false,
+      "spotifyId": "6qcQG3TIu1Twbm0HnxEK3k",
+      "appleId": 1000633427882,
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6qcQG3TIu1Twbm0HnxEK3k",
+        "apple": "https://podcasts.apple.com/podcast/political-cults-part-2-ft-andrew-spooky-week-5/id1449762156?i=1000633427882"
+      }
+    },
+    {
+      "id": "7ee3cec7-e5ef-4124-a90e-c1956932aa5c",
+      "title": "Political Cults, Part 1 Ft. Andrew: Spooky Week #4",
+      "description": "Andrew talks with Garrison about cult formations within political groups.\nSee omnystudio.com/listener for privacy information.",
+      "release": "2023-11-01T04:00:00Z",
+      "duration": "00:42:23",
+      "explicit": false,
+      "spotifyId": "56PEJ5ICypFVBRJKKyYtJz",
+      "appleId": 1000633302711,
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/56PEJ5ICypFVBRJKKyYtJz",
+        "apple": "https://podcasts.apple.com/podcast/political-cults-part-1-ft-andrew-spooky-week-4/id1449762156?i=1000633302711"
+      }
+    }
+  ]
+}

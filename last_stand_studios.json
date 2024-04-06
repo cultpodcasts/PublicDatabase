@@ -1,0 +1,53 @@
+{
+  "_ts": 0,
+  "id": "f4adf077-a551-46b5-8df8-5dc62c7ca788",
+  "name": "Last Stand Studios",
+  "youTubeChannelId": "UCR87chtYRw7HX7Bg4XLDQ2A",
+  "episodes": [
+    {
+      "id": "c6a2e94a-b3c2-469e-b023-8b52f6202aa0",
+      "title": "Former Holdeman Minister Lance Dirks Explains the Holdeman Church",
+      "description": "Holdeman is an in depth look at the theology of the Holdeman Mennonite Church through the writings of John Holdeman and testimony of former members.\n\nTo check out the documentary: https://youtu.be/JRdJVdY9wBk\n\nTo support Last Stand Studios and check out other documentaries: https://laststandstudios.org",
+      "release": "2022-08-03T11:00:19Z",
+      "duration": "00:32:32",
+      "explicit": false,
+      "youTubeId": "LRsqb6ak_4Y",
+      "subjects": [
+        "The Church Of God In Christ"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LRsqb6ak_4Y"
+      }
+    },
+    {
+      "id": "ed08a4f2-f468-450a-8128-ec9afb64e4a6",
+      "title": "Orlan Koehn Explains the Holdeman Church",
+      "description": "Holdeman is an in depth look at the theology of the Holdeman Mennonite Church through the writings of John Holdeman and testimony of former members.\n\nTo check out the documentary: https://youtu.be/JRdJVdY9wBk\n\nTo support Last Stand Studios and check out other documentaries: https://laststandstudios.org",
+      "release": "2022-08-01T11:00:13Z",
+      "duration": "00:16:33",
+      "explicit": false,
+      "youTubeId": "Q1MjS93bcRo",
+      "subjects": [
+        "The Church Of God In Christ"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Q1MjS93bcRo"
+      }
+    },
+    {
+      "id": "4d70e890-d2d1-4dde-8197-6cbcfd898c42",
+      "title": "Holdeman",
+      "description": "Holdeman is an in depth look at the theology of the Holdeman Mennonite Church through the writings of John Holdeman and testimony of former members. \n\nTo support Last Stand Studios and check out other documentaries: https://laststandstudios.org",
+      "release": "2022-07-29T11:00:09Z",
+      "duration": "01:00:18",
+      "explicit": false,
+      "youTubeId": "JRdJVdY9wBk",
+      "subjects": [
+        "The Church Of God In Christ"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JRdJVdY9wBk"
+      }
+    }
+  ]
+}

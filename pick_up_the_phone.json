@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "169800c3-dc78-46a3-8131-b8a2494acfb4",
+  "name": "Pick Up the Phone",
+  "spotifyId": "0rRxvtzP80apWhClTht1TU",
+  "appleId": 1724118485,
+  "episodes": [
+    {
+      "id": "48a26d40-48d8-4be6-ad09-c407cb98f0fd",
+      "title": "My Therapist Recruited Me to a Cult???",
+      "description": "RING RING it\u2019s time to pick up! Taylor \u0026 Caroline are back with a new episode. We\u2019re talking cults, Fergie, healthy gossip, and so much more! Take a rumpy shot and get ready to pick up the phone!",
+      "release": "2024-02-29T00:40:06Z",
+      "duration": "01:15:49.7870000",
+      "explicit": false,
+      "spotifyId": "3J4cHW3FvkyAdhiTaXJfwX",
+      "appleId": 1000647466811,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3J4cHW3FvkyAdhiTaXJfwX",
+        "apple": "https://podcasts.apple.com/podcast/my-therapist-recruited-me-to-a-cult/id1724118485?i=1000647466811"
+      }
+    }
+  ]
+}

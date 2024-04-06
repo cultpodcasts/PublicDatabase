@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "89abcfe4-e223-44fa-8fb3-a5f8483649f3",
+  "name": "Real Lives Untold",
+  "spotifyId": "7hqdGaoPWdfxw6IWjevIkf",
+  "appleId": 1682041448,
+  "episodes": [
+    {
+      "id": "0438e82b-8ede-402e-a025-86e666f61ebc",
+      "title": "Crime world\u0027s Nicola Tallant and Niall Donald",
+      "description": "In this episode Trina and Sarah are joined by well known Crime journalists, editors and podcasters Nicola Tallant and Niall Donald. They chat about how they got into journalism, what attracted them to crime reporting, the dangers involved and what cases stood out for them. They talk about the success of the Crime World podcast , their live shows and Nicola\u0027s latest book Cocaine Cowboys. We discuss the Kinahan Hutch feud, the trial of Gerry Hutch who was acquitted in relation to the 2016 infamous Regency Hotel attack, Nicola\u0027s brief chat with him afterwards and the recent sentencing of Thomas and Molly Martens for the manslaughter of Molly\u0027s husband Jason Corbett in August 2015. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2023-12-06T00:04:29Z",
+      "duration": "00:46:01.1420000",
+      "explicit": false,
+      "spotifyId": "5qM3w2BaDXW4PDpnicF7UD",
+      "appleId": 1000637623377,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5qM3w2BaDXW4PDpnicF7UD",
+        "apple": "https://podcasts.apple.com/podcast/crime-worlds-nicola-tallant-and-niall-donald/id1682041448?i=1000637623377"
+      }
+    }
+  ]
+}

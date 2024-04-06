@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "84e122b8-68ba-4869-b4c6-2d081d4bc9e3",
+  "name": "Nighttime Talk With Niall Boylan",
+  "spotifyId": "2LQprfTVyijPCltCfIIXrm",
+  "appleId": 1419588853,
+  "episodes": [
+    {
+      "id": "665c93e0-f385-40e3-aeef-116f1ef63f85",
+      "title": "\u0022I didn\u0027t think I was in an extreme situation, I thought I was incredibly lucky\u0022 Author Lisa Kohn chats about growing up in a cult",
+      "description": "\u0022I didn\u0027t think I was in an extreme situation, I thought I was incredibly lucky\u0022 Author Lisa Kohn chats about growing up in a cult",
+      "release": "2024-01-16T17:32:07Z",
+      "duration": "00:23:54.5860000",
+      "explicit": false,
+      "spotifyId": "7fkLHuZ2oKn9HUsReSe7N4",
+      "appleId": 1000641869602,
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fkLHuZ2oKn9HUsReSe7N4",
+        "apple": "https://podcasts.apple.com/podcast/i-didnt-think-i-was-in-an-extreme-situation-i/id1419588853?i=1000641869602"
+      }
+    }
+  ]
+}

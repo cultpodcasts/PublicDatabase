@@ -1,0 +1,196 @@
+{
+  "_ts": 0,
+  "id": "30f7b387-400c-4a1b-8430-7a4065b772b6",
+  "name": "Heaven\u0027s Gate Podcast",
+  "spotifyId": "0VJfwChAwip0THrhj3GzJY",
+  "appleId": 1292069401,
+  "episodes": [
+    {
+      "id": "012c52a5-8f90-4fbe-87af-3cd1f077b5e0",
+      "title": "10: The Class",
+      "description": "39 people exit their vehicles, and stun\u00A0the\u00A0world. Families, classmates and\u00A0the\u00A0rest of us grapple with what comes after.",
+      "release": "2017-12-27T08:00:00Z",
+      "duration": "00:53:05.0570000",
+      "explicit": true,
+      "spotifyId": "5dL2CmubuzrOPzWUgclwQl",
+      "appleId": 1000398476072,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5dL2CmubuzrOPzWUgclwQl",
+        "apple": "https://podcasts.apple.com/podcast/10-the-class/id1292069401?i=1000398476072"
+      }
+    },
+    {
+      "id": "ec952f68-1571-4025-ae46-9d4c4a04cd69",
+      "title": "9: The Comet",
+      "description": "Heaven\u2019s Gate members get\u00A0the\u00A0sign they\u2019ve been waiting for.",
+      "release": "2017-12-20T08:00:00Z",
+      "duration": "00:48:21.0540000",
+      "explicit": true,
+      "spotifyId": "7ie6AE94Z271mQ6XxjqpTm",
+      "appleId": 1000397865958,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7ie6AE94Z271mQ6XxjqpTm",
+        "apple": "https://podcasts.apple.com/podcast/9-the-comet/id1292069401?i=1000397865958"
+      }
+    },
+    {
+      "id": "1f11268f-1f2e-4354-a3ff-e40f820067b0",
+      "title": "8:  The Unknowns",
+      "description": "This week - the \u201Cwhat if\u201D questions surrounding Heaven\u2019s Gate. Plus, your stories.",
+      "release": "2017-12-13T08:00:00Z",
+      "duration": "00:51:08.1860000",
+      "explicit": true,
+      "spotifyId": "1DXTmLZulHXKXJPnnVCSyD",
+      "appleId": 1000397206337,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1DXTmLZulHXKXJPnnVCSyD",
+        "apple": "https://podcasts.apple.com/podcast/8-the-unknowns/id1292069401?i=1000397206337"
+      }
+    },
+    {
+      "id": "33373c89-9189-4414-9a3f-bb50acf783ca",
+      "title": "7: The Programming",
+      "description": "Gail Maeder was smart, fun and happy, before she joined Heaven\u2019s Gate. What got into her head?",
+      "release": "2017-12-06T08:00:00Z",
+      "duration": "00:45:29.0640000",
+      "explicit": true,
+      "spotifyId": "0cavgXzhfnLfuKQKAMgxO1",
+      "appleId": 1000396501185,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0cavgXzhfnLfuKQKAMgxO1",
+        "apple": "https://podcasts.apple.com/podcast/7-the-programming/id1292069401?i=1000396501185"
+      }
+    },
+    {
+      "id": "e57ff9d6-fead-45bc-85ef-6eb720fd8bac",
+      "title": "6:  The Choice",
+      "description": "Frank and Erika, a couple in love, join a celibate group. Years later, Do poses a fateful question.",
+      "release": "2017-11-29T08:00:00Z",
+      "duration": "00:41:11.0530000",
+      "explicit": true,
+      "spotifyId": "3gaW9KKYHBZjPxF36dza1N",
+      "appleId": 1000395403751,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gaW9KKYHBZjPxF36dza1N",
+        "apple": "https://podcasts.apple.com/podcast/6-the-choice/id1292069401?i=1000395403751"
+      }
+    },
+    {
+      "id": "99c1a279-362d-45ff-b244-da8f46f6680d",
+      "title": "5: The Tape",
+      "description": "After a sudden death in the group, Do sends a private, awkward, illuminating, confusing tape to Terrie Nettles.",
+      "release": "2017-11-15T08:00:00Z",
+      "duration": "00:40:08.0450000",
+      "explicit": true,
+      "spotifyId": "4N8D8UwJ90hEvIFVa4Cdt5",
+      "appleId": 1000394828817,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4N8D8UwJ90hEvIFVa4Cdt5",
+        "apple": "https://podcasts.apple.com/podcast/5-the-tape/id1292069401?i=1000394828817"
+      }
+    },
+    {
+      "id": "c0905977-a401-45e0-940e-a5b79e8e8464",
+      "title": "4: The Host",
+      "description": "Host\u00A0Glynn Washington shares more from his personal story of growing up in a cult.",
+      "release": "2017-11-08T08:00:00Z",
+      "duration": "00:38:20.2120000",
+      "explicit": true,
+      "spotifyId": "0vklpppNgNyJNpc05HFnFU",
+      "appleId": 1000394556119,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0vklpppNgNyJNpc05HFnFU",
+        "apple": "https://podcasts.apple.com/podcast/4-the-host/id1292069401?i=1000394556119"
+      }
+    },
+    {
+      "id": "c3ea71bf-bdcd-4d5d-bb4a-73ea04551d9b",
+      "title": "3: The Mothers",
+      "description": "While The Two are recruiting new members into their nomadic lifestyle, one woman is trying desperately to make contact.",
+      "release": "2017-11-01T07:00:00Z",
+      "duration": "00:44:46.1450000",
+      "explicit": true,
+      "spotifyId": "6p0JC2grX6ImHPfIaWG2AK",
+      "appleId": 1000394271835,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6p0JC2grX6ImHPfIaWG2AK",
+        "apple": "https://podcasts.apple.com/podcast/3-the-mothers/id1292069401?i=1000394271835"
+      }
+    },
+    {
+      "id": "a3e0d534-1348-4121-9a73-714b6da14149",
+      "title": "2: The Two",
+      "description": "It\u0027s one thing to join a group your mom would call a cult. It\u0027s another thing when your mom starts one.",
+      "release": "2017-10-25T07:00:00Z",
+      "duration": "00:40:03.0560000",
+      "explicit": true,
+      "spotifyId": "2JzQoFib5ZRVsuW5xKOKZQ",
+      "appleId": 1000393988254,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2JzQoFib5ZRVsuW5xKOKZQ",
+        "apple": "https://podcasts.apple.com/podcast/2-the-two/id1292069401?i=1000393988254"
+      }
+    },
+    {
+      "id": "3cf2437d-44fa-4e89-a9c2-c4793f516073",
+      "title": "1: The Seekers",
+      "description": "The Heaven\u0027s Gate faithful weren\u0027t freaks or space cadets. They were regular people, hungry for something more. They were Seekers.\u00A0",
+      "release": "2017-10-18T07:00:00Z",
+      "duration": "00:35:43.3990000",
+      "explicit": true,
+      "spotifyId": "3CM9Usux78Xf6nw9epKGko",
+      "appleId": 1000393674642,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3CM9Usux78Xf6nw9epKGko",
+        "apple": "https://podcasts.apple.com/podcast/1-the-seekers/id1292069401?i=1000393674642"
+      }
+    },
+    {
+      "id": "c022da81-849e-4d24-9579-60b058ca3564",
+      "title": "Coming soon\u2026 Heaven\u2019s Gate",
+      "description": "Here\u2019s a first glimpse through Heaven\u2019s Gate - into the group\u2019s decades-long history, as told by family, followers, experts, and the leaders themselves. Whatever you think you know - prepare to be surprised. Subscribe now and hear the first episode on October 18th. More info at www.heavensgate.show.",
+      "release": "2017-10-02T21:30:00Z",
+      "duration": "00:05:30.4220000",
+      "explicit": true,
+      "spotifyId": "3JThZyoUrEdNgm3EuLnmG5",
+      "appleId": 1000392990525,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3JThZyoUrEdNgm3EuLnmG5",
+        "apple": "https://podcasts.apple.com/podcast/coming-soon-heavens-gate/id1292069401?i=1000392990525"
+      }
+    }
+  ]
+}

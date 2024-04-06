@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "72582eee-118e-4689-8c61-015859a5d502",
+  "name": "Cube Critics",
+  "spotifyId": "0CSBZiPf0Pdlwh5xLxLmPb",
+  "appleId": 525807831,
+  "episodes": [
+    {
+      "id": "cc81d165-56ff-46c3-88c1-6d87777b38bf",
+      "title": "Cube Critics discuss docuseries about cults",
+      "description": "Cube Critics Alex V. Cipolle and Nina Moini look at documentaries about cults: \u201CEscaping Twin Flames,\u201D \u201CDesperately Seeking Soulmate\u201D and \u201CLove Has Won.\u201D",
+      "release": "2024-01-05T10:00:00Z",
+      "duration": "00:04:00.0390000",
+      "explicit": false,
+      "spotifyId": "0hnb8P0qm9SKc5vqc7A5oP",
+      "appleId": 1000640637077,
+      "subjects": [
+        "Twin Flames Universe",
+        "Love Has Won"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0hnb8P0qm9SKc5vqc7A5oP",
+        "apple": "https://podcasts.apple.com/podcast/cube-critics-discuss-docuseries-about-cults/id525807831?i=1000640637077"
+      }
+    }
+  ]
+}

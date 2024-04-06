@@ -1,0 +1,383 @@
+{
+  "_ts": 0,
+  "id": "24e5c0b5-fcad-4681-822e-17659c9fe538",
+  "name": "The Excommunication Station",
+  "spotifyId": "5WYfTqA2EK48nfcdC1PL8S",
+  "appleId": 1573190999,
+  "episodes": [
+    {
+      "id": "c095f0dc-e606-4937-a898-bbdb29009a90",
+      "title": "147: The Beliefs Of The NAR w/Scott Okamoto",
+      "description": "This week, we are joined by Scott Okamoto (author of Asian Apostate), to talk about the origins of the New Apostolic Reformation.",
+      "release": "2024-03-27T05:00:00Z",
+      "duration": "01:50:28.0660000",
+      "explicit": false,
+      "spotifyId": "7lrCFilunF9d34KuFLeRax",
+      "appleId": 1000650574865,
+      "subjects": [
+        "New Apostolic Reformation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7lrCFilunF9d34KuFLeRax",
+        "apple": "https://podcasts.apple.com/podcast/147-the-beliefs-of-the-nar-w-scott-okamoto/id1573190999?i=1000650574865"
+      }
+    },
+    {
+      "id": "d948569c-a86e-4c70-a0a6-d83ac4fbfcd7",
+      "title": "146: Kathryn Kuhlman Part III",
+      "description": "Chaz is solo today but we finish up the series on Kathryn Kuhlman and her insane life as a grifter and \u0022miracle\u0022 worker.",
+      "release": "2024-03-20T06:00:00Z",
+      "duration": "00:41:42.0600000",
+      "explicit": true,
+      "spotifyId": "2ArgKgIrMshf0panBkLh5n",
+      "appleId": 1000649825696,
+      "subjects": [
+        "Kathryn Kuhlman"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2ArgKgIrMshf0panBkLh5n",
+        "apple": "https://podcasts.apple.com/podcast/146-kathryn-kuhlman-part-iii/id1573190999?i=1000649825696"
+      }
+    },
+    {
+      "id": "6b84a488-edcb-4410-8149-243bed1b1632",
+      "title": "145: Kathryn Kuhlman Part II",
+      "description": "This week we continue our series on The Miracle Lady. From her starting a church in a roller rink, to leading 4 hour services at Carnegie Hall and healing cancer.",
+      "release": "2024-03-13T09:07:23Z",
+      "duration": "01:23:20.7190000",
+      "explicit": false,
+      "spotifyId": "0eIifFTo4NdoXdtLglWapC",
+      "appleId": 1000649032854,
+      "subjects": [
+        "Kathryn Kuhlman"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0eIifFTo4NdoXdtLglWapC",
+        "apple": "https://podcasts.apple.com/podcast/145-kathryn-kuhlman-part-ii/id1573190999?i=1000649032854"
+      }
+    },
+    {
+      "id": "54535287-7aef-4033-ba98-bfdda4b15211",
+      "title": "144: Kathryn Kuhlman Part I",
+      "description": "This week we start our series on the Miracle Lady herself. Find out how Kuhlman walked, so all other televangelists could run. Look out for Mister! www.excompod.com",
+      "release": "2024-03-06T07:58:10Z",
+      "duration": "01:30:17.3990000",
+      "explicit": false,
+      "spotifyId": "12v1wTCyGF2nj0GsZPdG1X",
+      "appleId": 1000648178328,
+      "subjects": [
+        "Kathryn Kuhlman"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/12v1wTCyGF2nj0GsZPdG1X",
+        "apple": "https://podcasts.apple.com/podcast/144-kathryn-kuhlman-part-i/id1573190999?i=1000648178328"
+      }
+    },
+    {
+      "id": "89beba2c-0e9c-4ea3-8142-545706ca0970",
+      "title": "143: A.A. Allen Part II",
+      "description": "We conclude our series on the the tiny but mighty, A.A. Allen. We discuss his final years, his death and a dangerous cult that was influenced by the man. www.excompod.com",
+      "release": "2024-02-28T08:06:54Z",
+      "duration": "01:43:30.3850000",
+      "explicit": false,
+      "spotifyId": "1Oe4FDAjL9EGsqclJJyHHc",
+      "appleId": 1000647361842,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Oe4FDAjL9EGsqclJJyHHc",
+        "apple": "https://podcasts.apple.com/podcast/143-a-a-allen-part-ii/id1573190999?i=1000647361842"
+      }
+    },
+    {
+      "id": "1475b9a5-b9c7-4da5-b00b-b53d7896a073",
+      "title": "142: A.A. Allen Part I",
+      "description": "This week we continue our look into the madness that is Faith Healers! We bring you the origin of A.A. Allen! From his early days as a drunk toddler, to the flat out denial that his healing claims would actually work, this one JUST MIGHT end in a cult. Again. www.excompod.com",
+      "release": "2024-02-21T06:00:00Z",
+      "duration": "01:47:59.0870000",
+      "explicit": false,
+      "spotifyId": "4m4tRS4llvdgfClfB9e9pA",
+      "appleId": 1000646211110,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4m4tRS4llvdgfClfB9e9pA",
+        "apple": "https://podcasts.apple.com/podcast/142-a-a-allen-part-i/id1573190999?i=1000646211110"
+      }
+    },
+    {
+      "id": "4c4183c1-71ca-40b8-ac3b-a39bb8643573",
+      "title": "141: Oarl Roberts Part IV",
+      "description": "This week, we conclude our series in Oral Roberts. We discuss the paths his children took, the types of grifts he ran to get his hospitals and the death and impact of the titan of Faith Healing.",
+      "release": "2024-02-14T06:50:53Z",
+      "duration": "02:03:20.5240000",
+      "explicit": false,
+      "spotifyId": "37xpNQGEfDPArlcruodin0",
+      "appleId": 1000645272483,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37xpNQGEfDPArlcruodin0",
+        "apple": "https://podcasts.apple.com/podcast/141-oarl-roberts-part-iv/id1573190999?i=1000645272483"
+      }
+    },
+    {
+      "id": "bf48acfc-7a61-43fd-b0ac-e8323f6694f5",
+      "title": "140: Oral Roberts Part III",
+      "description": "We journey further into the life of the grifter and his rise to power in Tulsa, his way of making a quick exit and fulfilling his father\u0027s prophecies.",
+      "release": "2024-02-07T07:42:11Z",
+      "duration": "01:56:47.3170000",
+      "explicit": false,
+      "spotifyId": "3mb3safQ1Tkd5Mqh3N4uPv",
+      "appleId": 1000644452319,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3mb3safQ1Tkd5Mqh3N4uPv",
+        "apple": "https://podcasts.apple.com/podcast/140-oral-roberts-part-iii/id1573190999?i=1000644452319"
+      }
+    },
+    {
+      "id": "fdb13fa3-dae3-426b-9834-ca2aabf699e7",
+      "title": "139: Oral Roberts Part II",
+      "description": "This week we continue our tale of Oral Roberts, godfather of Prosperity Gospel and one of America\u0027s greatest grifters.",
+      "release": "2024-01-31T06:00:00Z",
+      "duration": "01:27:15.4690000",
+      "explicit": false,
+      "spotifyId": "6YT3JZtF7EIyxNJVyaJhJF",
+      "appleId": 1000643620278,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6YT3JZtF7EIyxNJVyaJhJF",
+        "apple": "https://podcasts.apple.com/podcast/139-oral-roberts-part-ii/id1573190999?i=1000643620278"
+      }
+    },
+    {
+      "id": "adb15c9d-a607-4286-a3bf-b5d40644f5f9",
+      "title": "138: Oral Roberts Part I ",
+      "description": "This week we start our deep dive into the godfather of Prosperity Gospel. From his early life with a curse of a brother, to his battle with tuberculosis and finding the Lord. Do some stretches, we got more Oral than you can handle.",
+      "release": "2024-01-24T05:16:08Z",
+      "duration": "01:43:40.4070000",
+      "explicit": false,
+      "spotifyId": "2SDU9DURThzscOIjAy1Ezs",
+      "appleId": 1000642740026,
+      "subjects": [
+        "Oral Roberts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2SDU9DURThzscOIjAy1Ezs",
+        "apple": "https://podcasts.apple.com/podcast/138-oral-roberts-part-i/id1573190999?i=1000642740026"
+      }
+    },
+    {
+      "id": "0eb55745-b851-4837-b2aa-86946ac76f33",
+      "title": "137: William Branham Part IV: The Final Chapter",
+      "description": "This week we conclude our series on Branham. We talk his final years, his death and the different cults and other ways he left The Message behind.  www.excompod.com",
+      "release": "2024-01-17T06:41:31Z",
+      "duration": "01:33:53.4990000",
+      "explicit": false,
+      "spotifyId": "7ay3cw6oxWbTbG9a6sRrvH",
+      "appleId": 1000641934681,
+      "subjects": [
+        "William M. Branham"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7ay3cw6oxWbTbG9a6sRrvH",
+        "apple": "https://podcasts.apple.com/podcast/137-william-branham-part-iv-the-final-chapter/id1573190999?i=1000641934681"
+      }
+    },
+    {
+      "id": "22109677-4223-4b45-9772-e5d800e83cb8",
+      "title": "136: William Branham Part III",
+      "description": "Sorry fo the late release! We bring you the third part in our deep dive on the faith healer turned cult leader. From his time with Jim Jones to his crazy stories to convince his congregation he\u0027s the second coming of Christ.  www.excompod.com",
+      "release": "2024-01-12T09:23:16Z",
+      "duration": "01:28:45.0990000",
+      "explicit": false,
+      "spotifyId": "5mN6puCrZHAS0qPqEkI2IC",
+      "appleId": 1000641408362,
+      "subjects": [
+        "William M. Branham"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5mN6puCrZHAS0qPqEkI2IC",
+        "apple": "https://podcasts.apple.com/podcast/136-william-branham-part-iii/id1573190999?i=1000641408362"
+      }
+    },
+    {
+      "id": "3001a856-51c7-42cf-9935-ad4dc3e482f7",
+      "title": "135: William Branham Part II",
+      "description": "This week we continue the story of the Faith Healer/Cult Leader. We cover more of the monsters he influenced, the lengths he went to convince his congregation and introduce a heavy hitter he toured with.  www.excompod.com",
+      "release": "2024-01-03T06:00:00Z",
+      "duration": "01:30:42.1290000",
+      "explicit": false,
+      "spotifyId": "3rprU1VLfVLUdr86FP4S2w",
+      "appleId": 1000640398264,
+      "subjects": [
+        "William M. Branham"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rprU1VLfVLUdr86FP4S2w",
+        "apple": "https://podcasts.apple.com/podcast/135-william-branham-part-ii/id1573190999?i=1000640398264"
+      }
+    },
+    {
+      "id": "8d022fec-292a-4c07-9423-db41899c92af",
+      "title": "134: William Branham Part I",
+      "description": "This week, we dive into the life of one Christianity\u0027s biggest faith healers. We discuss his early life (and his tall tales), beginnings of his faith and the start of his Ministry/Cult.",
+      "release": "2023-12-27T06:00:00Z",
+      "duration": "01:57:19.0460000",
+      "explicit": false,
+      "spotifyId": "3e9KmBBFvIr4lYTj8pyIWm",
+      "appleId": 1000639788474,
+      "subjects": [
+        "William M. Branham"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3e9KmBBFvIr4lYTj8pyIWm",
+        "apple": "https://podcasts.apple.com/podcast/134-william-branham-part-i/id1573190999?i=1000639788474"
+      }
+    },
+    {
+      "id": "56cf6615-6150-4a4c-a367-5c0bdf2ff521",
+      "title": "129: Mother Teresa: Part II",
+      "description": "We conclude our series on Mother Teresa, as we discuss her criminal connections, the money and the effect of her \u0022work\u0022 on society.   www.excompod.com  For all our links and merch! Theme by Iron Chic",
+      "release": "2023-11-22T06:00:00Z",
+      "duration": "01:30:04.5370000",
+      "explicit": false,
+      "spotifyId": "3gwKyOvDlccmJmtaFuKVha",
+      "appleId": 1000635646149,
+      "subjects": [
+        "The Missionaries of Charity"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gwKyOvDlccmJmtaFuKVha",
+        "apple": "https://podcasts.apple.com/podcast/129-mother-teresa-part-ii/id1573190999?i=1000635646149"
+      }
+    },
+    {
+      "id": "b399a5d3-8d15-4f41-ba5e-5adf622c6c9e",
+      "title": "128: Mother Teresa: Part 1: Mama Mia",
+      "description": "This week, Chrissy leads us on a journey through the early life of The saint Of The Gutters herself; Mother Teresa. Plus a little update on our pal Josh Harris.  www.excompod.com for all our links and merch! Please leave a review!",
+      "release": "2023-11-15T06:00:00Z",
+      "duration": "02:12:13.5340000",
+      "explicit": false,
+      "spotifyId": "1xKpldI0gfGgMCCORcSPBX",
+      "appleId": 1000634869456,
+      "subjects": [
+        "The Missionaries of Charity"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1xKpldI0gfGgMCCORcSPBX",
+        "apple": "https://podcasts.apple.com/podcast/128-mother-teresa-part-1-mama-mia/id1573190999?i=1000634869456"
+      }
+    },
+    {
+      "id": "f472e358-b984-41d4-b52d-fa394aa079b0",
+      "title": "69. Pat Robertson V",
+      "description": "We finish up our series on Pat Robertson.\u00A0",
+      "release": "2022-10-05T06:00:26Z",
+      "duration": "01:45:56.0090000",
+      "explicit": true,
+      "spotifyId": "1f5wcEtSDoRR0iQx956N9a",
+      "appleId": 1000581638970,
+      "subjects": [
+        "Pat Robertson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1f5wcEtSDoRR0iQx956N9a",
+        "apple": "https://podcasts.apple.com/podcast/69-pat-robertson-v/id1573190999?i=1000581638970"
+      }
+    },
+    {
+      "id": "d263d237-1f5b-46ec-8f39-4ace0090f2aa",
+      "title": "68. Pat Robertson Part IV",
+      "description": "We keep going deeper and deeper into Pat Robertson.\u00A0",
+      "release": "2022-09-28T06:00:12Z",
+      "duration": "02:25:35.2160000",
+      "explicit": true,
+      "spotifyId": "2g4Uk1pbUWJQGlCVMPazVK",
+      "appleId": 1000580878646,
+      "subjects": [
+        "Pat Robertson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2g4Uk1pbUWJQGlCVMPazVK",
+        "apple": "https://podcasts.apple.com/podcast/68-pat-robertson-part-iv/id1573190999?i=1000580878646"
+      }
+    },
+    {
+      "id": "2e0e4b86-4574-467e-b357-73bfccc2eda8",
+      "title": "67. Pat Robertson Part III",
+      "description": "We dive further into Pat Robertson and his terrible and horrible existence.\u00A0",
+      "release": "2022-09-21T06:00:18Z",
+      "duration": "01:52:35.7610000",
+      "explicit": false,
+      "spotifyId": "4KtRmO8563vATnq2eT3QKg",
+      "appleId": 1000580150852,
+      "subjects": [
+        "Pat Robertson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4KtRmO8563vATnq2eT3QKg",
+        "apple": "https://podcasts.apple.com/podcast/67-pat-robertson-part-iii/id1573190999?i=1000580150852"
+      }
+    },
+    {
+      "id": "f85c0a1e-6883-4cf0-9a15-73ada04ebfc9",
+      "title": "66. Pat Robertson Part II",
+      "description": "We dive back into the life of Pat Robertson.",
+      "release": "2022-09-14T06:00:19Z",
+      "duration": "01:40:11.2450000",
+      "explicit": true,
+      "spotifyId": "0ujt30mUFmwrxpUQqzdpAN",
+      "appleId": 1000579420462,
+      "subjects": [
+        "Pat Robertson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ujt30mUFmwrxpUQqzdpAN",
+        "apple": "https://podcasts.apple.com/podcast/66-pat-robertson-part-ii/id1573190999?i=1000579420462"
+      }
+    },
+    {
+      "id": "fc677372-61ab-44e4-9f90-93cc1f828891",
+      "title": "65. Pat Robertson: Part I",
+      "description": "This week, we start our deep dive into the almighty, Pat Robertson.",
+      "release": "2022-09-07T06:00:56Z",
+      "duration": "01:25:38.9120000",
+      "explicit": true,
+      "spotifyId": "0Vp94XAEodDjxPQ6q20U5T",
+      "appleId": 1000578664510,
+      "subjects": [
+        "Pat Robertson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Vp94XAEodDjxPQ6q20U5T",
+        "apple": "https://podcasts.apple.com/podcast/65-pat-robertson-part-i/id1573190999?i=1000578664510"
+      }
+    },
+    {
+      "id": "591d742d-139e-419c-ab08-8c4958b8b1be",
+      "title": "25. Interview With Brent Detwiler: Covenant/SGM\u0027s Fall And Sexual Abuse Coverup. ",
+      "description": "This week I interview Brent Detwiler, who was a founding member of Covenant Life/SGM. We talk about this history of the church, his relationship with CJ Mahaney, the child sexual abuse cover and the roll that Joshua Harris played in it all.",
+      "release": "2021-12-01T07:00:00Z",
+      "duration": "01:20:40.2020000",
+      "explicit": true,
+      "spotifyId": "6wIN8CQAfS1UQMBlmNfFgC",
+      "appleId": 1000543587589,
+      "subjects": [
+        "Sovereign Grace Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6wIN8CQAfS1UQMBlmNfFgC",
+        "apple": "https://podcasts.apple.com/podcast/25-interview-with-brent-detwiler-covenant-sgms-fall/id1573190999?i=1000543587589"
+      }
+    }
+  ]
+}

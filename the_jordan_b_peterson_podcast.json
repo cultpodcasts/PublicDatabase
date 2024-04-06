@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "230be0a1-96cd-4b57-94ef-07e10d7b807d",
+  "name": "The Jordan B. Peterson Podcast",
+  "spotifyId": "1Zw2DKjelPnuEYpydFlhgN",
+  "appleId": 1184022695,
+  "youTubeChannelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+  "episodes": [
+    {
+      "id": "0e0fe54c-578c-454e-90f4-be6508b06da6",
+      "title": "413. Raised by Thetans in a Galactic Gulag | Aaron Levin-Smtih",
+      "description": "Dr. Jordan B. Peterson speaks with former-Scientologist and podcaster Aaron Levin-Smith. They explore his upbringing within the \u201Cchurch,\u201D how Scientology entices new members, the basis for Dianetics in Freudian psychology, the religiously inspired twist only found behind multiple paywalls, the higher being known as Xenu, what broke Aaron\u2019s belief, and his now ongoing fight against the manipulation of this still relevant, international cult.\u00A0Aaron Smith-Levin is a former Scientologist and host of the \u201CGrowing Up In Scientology\u201D YouTube channel. He was also a main interviewee on the docu-series \u201CLeah Remini: Scientology and the Aftermath.\u201D Since leaving the cult, he has devoted himself and his career to unmasking the harmful practices and beliefs held by the international religion.\u00A0This episode was recorded on December 23, 2023\u00A0\u00A0- Links -\u00A02024 tour details can be found here - https://jordanbpeterson.com/events \u00A0\u00A0Peterson Academy https://petersonacademy.com/\u00A0For Aaron Levin-Smith:\u00A0\u201CGrowing Up in Scientology\u201D YT Channel https://www.youtube.com/@GrowingUpInScientology/videos\u00A0",
+      "release": "2024-01-11T22:00:00Z",
+      "duration": "01:22:59.0430000",
+      "explicit": false,
+      "spotifyId": "0gke8lzRrJyaFVUXpCSrrc",
+      "appleId": 1000641358663,
+      "youTubeId": "P3SnxVoO2Jw",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0gke8lzRrJyaFVUXpCSrrc",
+        "apple": "https://podcasts.apple.com/podcast/413-raised-by-thetans-in-a-galactic-gulag-aaron-levin-smtih/id1184022695?i=1000641358663",
+        "youtube": "https://www.youtube.com/watch?v=P3SnxVoO2Jw"
+      }
+    }
+  ]
+}

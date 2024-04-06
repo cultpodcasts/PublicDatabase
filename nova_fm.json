@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "277bfa57-fce1-4b71-941d-99958504779f",
+  "name": "NOVA FM",
+  "youTubeChannelId": "UCi3H6Lf-Q_WskAME26pHWSg",
+  "episodes": [
+    {
+      "id": "60320b38-0818-436c-9105-ef0208777f30",
+      "title": "Forbidden folder: Were you in a cult?  ",
+      "description": "We hear from former cult members. From [0:27:22]",
+      "release": "2024-02-29T00:55:19Z",
+      "duration": "00:37:16",
+      "explicit": false,
+      "youTubeId": "gNj2L2GmuIo",
+      "subjects": [
+        "Children Of God",
+        "Satyananda Yoga Ashram"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gNj2L2GmuIo?t=1642s"
+      }
+    }
+  ]
+}

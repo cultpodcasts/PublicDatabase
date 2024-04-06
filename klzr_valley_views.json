@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "9d166ece-da05-43f9-b8e6-e41f351316da",
+  "name": "KLZR Valley Views",
+  "spotifyId": "6jsBSqo1sGzz9TVYNGeCxo",
+  "episodes": [
+    {
+      "id": "a3ff2981-4d0c-4771-ba83-c9fe7b1c37a9",
+      "title": "Annie Dawid",
+      "release": "2024-02-07T00:00:00",
+      "duration": "00:16:00.2140000",
+      "explicit": false,
+      "spotifyId": "4G6r6u2imJNEJ9H0lHDixo",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4G6r6u2imJNEJ9H0lHDixo"
+      }
+    }
+  ]
+}

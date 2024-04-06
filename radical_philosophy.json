@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "24368562-56f0-4850-95b2-2b84f4eb4390",
+  "name": "Radical Philosophy",
+  "spotifyId": "2OiDroBxVtkjzyAqip7bRt",
+  "appleId": 992765466,
+  "episodes": [
+    {
+      "id": "a61b7f92-1129-4402-8765-6d45efec3e1e",
+      "title": "Brainwashing - Dr Alexandra Stein",
+      "description": "Brainwashing - Dr Alexandra Stein discusses if there are warning signs when someone is being brainwashed and if brainwashing just affects a certain personality type.",
+      "release": "2024-02-01T00:00:00",
+      "duration": "00:29:54.4810000",
+      "explicit": false,
+      "spotifyId": "53YPbjp2GV2MywTwHMNnpq",
+      "appleId": 1000642577273,
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/53YPbjp2GV2MywTwHMNnpq",
+        "apple": "https://podcasts.apple.com/podcast/brainwashing-dr-alexandra-stein/id992765466?i=1000642577273"
+      }
+    }
+  ]
+}

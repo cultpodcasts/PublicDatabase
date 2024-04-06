@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "99af0bd2-8b44-4545-a780-c13632c8d781",
+  "name": "BBCPanorama",
+  "youTubeChannelId": "UCrcW5RwDkuS5RUMM_RNLvmw",
+  "episodes": [
+    {
+      "id": "67b0df04-bc71-4510-b4c6-6d3c797de081",
+      "title": "\u0027The definition of religion (...) is not defined by John Sweeney.\u0027",
+      "description": "Tommy Davis (Spokesperson of the Church of Scientology) and John Sweeney (BBC Panorama).",
+      "release": "2007-05-11T18:39:46Z",
+      "duration": "00:01:22",
+      "explicit": false,
+      "youTubeId": "0HGM8DSnYh0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0HGM8DSnYh0"
+      }
+    }
+  ]
+}

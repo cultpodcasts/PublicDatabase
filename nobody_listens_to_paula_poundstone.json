@@ -1,0 +1,41 @@
+{
+  "_ts": 0,
+  "id": "ab95a54b-1edd-4900-96c5-0610b64acfdc",
+  "name": "Nobody Listens to Paula Poundstone",
+  "spotifyId": "5AEkbDjlnrUdbnfPnIJipk",
+  "appleId": 1410611499,
+  "episodes": [
+    {
+      "id": "13bc3c58-11fe-4978-9cb0-da384523f588",
+      "title": "Ep 292 - The Road to Wellness with Rina Raphael",
+      "description": "Ep 292 - The Road to Wellness with Rina Raphael We\u2019re feeling well, thanks. What we\u2019re not feeling, though, is wellness, and journalist Rina Raphael joins us to help separate the fads from the scams from the cults. And then, feeling healthy yet? Well, prepare to help your plants do the same - it\u2019s another \u201CGarden Time with Captain Crinkle!\u201D GUEST Rina Raphael rinaraphael.com The Gospel of Wellness: Gyms, Gurus, Goop, and the False Promise of Self-Care Substack - Well To Do HOUSE BAND Kevin Kelso kelsotunes.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-02-13T11:00:00Z",
+      "duration": "01:39:21.4300000",
+      "explicit": true,
+      "spotifyId": "5es8LUVge6rq7Cz4uOOd3o",
+      "appleId": 1000645159141,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5es8LUVge6rq7Cz4uOOd3o",
+        "apple": "https://podcasts.apple.com/podcast/ep-292-the-road-to-wellness-with-rina-raphael/id1410611499?i=1000645159141"
+      }
+    },
+    {
+      "id": "0d7013f0-e671-4c63-814a-395ba66a1df3",
+      "title": "Ep 276 - Blinded by Scientology with Andrew Gold",
+      "description": "Scientology. Is it a science? A religion? A cult? A non-dairy dessert topping? Probably not that last one, but we\u2019ve got Andrew Gold here to break it down before it breaks us down. And then, a big welcome to our new listeners from\u2026 (checks map) \u2026Mongolia! It\u2019s Bonnie and Toni\u2019s Oral Report.  GUEST Andrew Gold www.andrewgoldpodcast.com Andrew\u0027s Reel\u00A0 PREORDER his book: Take It to the Grave: Adventures with secrets, cults and influencers... Out in April 2024\u00A0  HOUSE BAND Jay Clanin roadrunnerproductions.net   Sponsors  Visit carawayhome.com/PAULA or use code PAULA at checkout for 10% off your next purchase.\u00A0  Go to PrizePicks.com/nobody and use code nobody for a first deposit match up to $100! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2023-10-24T00:00:00",
+      "duration": "01:51:42.1320000",
+      "explicit": false,
+      "spotifyId": "4gIKgMNltlgn9xl0MF2u6f",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4gIKgMNltlgn9xl0MF2u6f"
+      }
+    }
+  ]
+}

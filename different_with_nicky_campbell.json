@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "c054e0ed-09e3-4cb4-bdb2-d18e2222d10e",
+  "name": "Different with Nicky Campbell",
+  "spotifyId": "5pF1A8HyPCn8wFHDanjsnf",
+  "appleId": 1628519589,
+  "episodes": [
+    {
+      "id": "4495df83-43bd-4af0-94ca-4878b7495432",
+      "title": "Born into a Cult",
+      "description": "Katy Morgan-Davies was born in a nondescript house in Lambeth in London, but thirty years later the world would discover she, and the other occupants in the house, were anything but ordinary. Katy was born into a strict communist-Maoist cult, didn\u2019t know who her parents were, wasn\u2019t allowed to get any education, leave the house or even look out the window. She escaped in 2013 when one of the other women held there memorised the number of a charity, who arranged their release. Katy tells Nicky how she learnt her worldview from a copy of Tolkien\u2019s Lord of the Rings, how she never wanted her father to go to prison and forgiveness.Produced by Audio Always Producer: Ailsa Rochester Editor: Jo Meek Sound Design: Ailsa Rochester",
+      "release": "2023-12-06T00:01:00Z",
+      "duration": "00:56:08.1520000",
+      "explicit": false,
+      "spotifyId": "6BfCnWtyh7Zx5k1jDqtrfB",
+      "appleId": 1000637624627,
+      "subjects": [
+        "Lambeth Slavery Case"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6BfCnWtyh7Zx5k1jDqtrfB",
+        "apple": "https://podcasts.apple.com/podcast/born-into-a-cult/id1628519589?i=1000637624627"
+      }
+    },
+    {
+      "id": "568c7f26-8346-4317-ba61-79236d42e161",
+      "title": "Total Control",
+      "description": "Nicky meets Richard, a man who found himself trapped in a cult. Richard tells him what it\u2019s like to be under the spell of a charismatic cult leader.",
+      "release": "2022-06-14T00:00:00",
+      "duration": "00:31:25.5860000",
+      "explicit": false,
+      "spotifyId": "0Yjok8OB8C4XwwSzaOlKJm",
+      "appleId": 1000566446372,
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Yjok8OB8C4XwwSzaOlKJm",
+        "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372"
+      }
+    }
+  ]
+}

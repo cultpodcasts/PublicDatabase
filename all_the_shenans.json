@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e50815da-138b-41af-b9e9-bd32c09de575",
+  "name": "All The Shenans",
+  "spotifyId": "1rFolWJ09y8M1nloLF8Y2d",
+  "appleId": 1618805931,
+  "episodes": [
+    {
+      "id": "75a5f3f2-9713-422a-b0db-c0ca470e0346",
+      "title": "Remember that one time I was in a CULT",
+      "description": "I never thought me watching documentaries on cults would ever be something I\u2019d experience in real life. This is how I was reeled in and came out!",
+      "release": "2024-02-11T01:29:08Z",
+      "duration": "00:46:26.4170000",
+      "explicit": false,
+      "spotifyId": "1620ssP4T4vWihfYPpq0cP",
+      "appleId": 1000644901771,
+      "subjects": [
+        "Shincheonji Church of Jesus"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1620ssP4T4vWihfYPpq0cP",
+        "apple": "https://podcasts.apple.com/podcast/remember-that-one-time-i-was-in-a-cult/id1618805931?i=1000644901771"
+      }
+    }
+  ]
+}

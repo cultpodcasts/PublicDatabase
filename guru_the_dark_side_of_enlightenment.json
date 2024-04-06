@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "aeaba26e-9799-4d4a-8bc1-6136839186a8",
+  "name": "Guru: The Dark Side of Enlightenment",
+  "spotifyId": "0QBYq2PoV5VtUbCkV8t6uV",
+  "appleId": 1518839824,
+  "episodes": [
+    {
+      "id": "205d7d16-b936-4dca-bd4f-1d3c5d7e05ef",
+      "title": "Where to find Episodes 2-6 of Guru",
+      "description": "Guru has moved. You can binge all seven episodes ad-free right now by subscribing to Wondery\u002B in Apple Podcasts or the Wondery app: https://wondery.com/links/guru/See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2023-10-02T08:00:00Z",
+      "duration": "00:00:59.9510000",
+      "explicit": true,
+      "spotifyId": "3uIYZFvWEvqIbGCS4Oz6mY",
+      "appleId": 1000629876826,
+      "subjects": [
+        "James Arthur Ray"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3uIYZFvWEvqIbGCS4Oz6mY",
+        "apple": "https://podcasts.apple.com/podcast/where-to-find-episodes-2-6-of-guru/id1518839824?i=1000629876826"
+      }
+    },
+    {
+      "id": "ad7a9312-b334-46e4-9064-85fee61ae214",
+      "title": "Introducing: Guru",
+      "description": "A search for spiritual guidance leads a group of strangers to seek help from a self-help guru. He\u2019s part of a growing number of entrepreneurs giving workshops and seminars all over the US in the 2000s. His unorthodox methods and blend of self-improvement philosophies and economic advice have won praise from Oprah and others. His career seems to be taking off, but his ever more extreme methods push his pupils to their limits. What are they seeking? What does he offer? And what happens when it all goes too far, and people die. Listen on Apple Podcasts starting July 1st.Available exclusively on Wondery\u002B or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2020-06-15T06:59:00Z",
+      "duration": "00:02:35.3500000",
+      "explicit": true,
+      "spotifyId": "2rXa45jhAiqmQu0bMclvj9",
+      "appleId": 1000478197191,
+      "subjects": [
+        "James Arthur Ray"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rXa45jhAiqmQu0bMclvj9",
+        "apple": "https://podcasts.apple.com/podcast/introducing-guru/id1518839824?i=1000478197191"
+      }
+    }
+  ]
+}

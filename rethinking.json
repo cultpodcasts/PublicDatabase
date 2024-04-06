@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "cfc55f22-76b9-477e-808e-b69e33e6b21a",
+  "name": "ReThinking",
+  "spotifyId": "0uFXKiNiC05GOrjE9AXnkn",
+  "appleId": 1554567118,
+  "episodes": [
+    {
+      "id": "33371b15-5647-4f46-8124-2cee1125bdb1",
+      "title": "Is your organization a little culty? with NXIVM whistleblower Sarah Edmondson",
+      "description": "Sarah Edmondson escaped and blew the whistle against NXIVM, the cult masquerading as a \u201Cpersonal and professional development company.\u201D With clarity and a surprising and wry sense of humor, Sarah shares her lessons about the dark sides of charisma. She and Adam discuss what makes groups a little (or a lot) culty, the telltale signs of manipulation, and why our highest loyalty belongs to principles \u2014 not people. Transcripts for ReThinking are available at go.ted.com/RWAGscripts",
+      "release": "2024-02-27T05:00:00Z",
+      "duration": "00:28:08.0990000",
+      "explicit": false,
+      "spotifyId": "7aD4pZ0kKCEmxNrVUYI3K0",
+      "appleId": 1000646898021,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7aD4pZ0kKCEmxNrVUYI3K0",
+        "apple": "https://podcasts.apple.com/podcast/is-your-organization-a-little-culty-with/id1554567118?i=1000646898021"
+      }
+    }
+  ]
+}

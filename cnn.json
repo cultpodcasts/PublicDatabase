@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "37c04bc6-c9aa-4733-9753-f87e10399264",
+  "name": "CNN",
+  "youTubeChannelId": "UCupvZG-5ko_eiXAupbDfxWw",
+  "episodes": [
+    {
+      "id": "db489d40-ff24-43be-9822-1c3d18472e7c",
+      "title": "Scientology leader\u0027s niece speaks out",
+      "description": "Jenna Miscavige Hill talks to CNN\u0027s Piers Morgan about her uncle, David Miscavige.",
+      "release": "2013-02-06T03:38:24Z",
+      "duration": "00:02:01",
+      "explicit": false,
+      "youTubeId": "BC3zCMbdtaE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BC3zCMbdtaE"
+      }
+    }
+  ]
+}

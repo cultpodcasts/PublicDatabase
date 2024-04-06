@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "e49999b9-36f1-4ba4-af28-aa05d1adffd0",
+  "name": "Africa Daily",
+  "spotifyId": "0IGZa4D31uTv4tr7TGg4sV",
+  "appleId": 1547235591,
+  "episodes": [
+    {
+      "id": "de001e33-c6f9-44db-a946-3e6e82bba5fe",
+      "title": "Why do people join TB Joshua-style cults?",
+      "description": "\u0022I was so thankful that at my age, at 18, I had discovered this. Grown men were moved to tears\u2026 it was a collective state of euphoria.\u0022Before his death in 2021, TB Joshua, the TV evangelist and founder of the Synagogue Church of All Nations in Lagos, was often seen alongside presidents and powerful politicians. But for the last few weeks, he has been the subject of furious debate, after the publication of a 3-part documentary series which exposed his rape, abuse and mistreatment of his \u2018disciples\u2019. The former disciples accuse him of using both fake miracles and threats to win and then retain followers. His church didn\u2019t respond to the allegations in the documentary series but said previous claims against TB Joshua have been unfounded. In the first part of a two-part series on cults, prophets and religious leaders, Alan Kasujja hears about the experiences of one of TB Joshua\u2019s disciples \u2013 and speaks to Professor Maria Frahm-Arp from the department of religious studies at the University of Johannesburg. He discusses why prophet-led, \u2018single-man\u2019 churches are so attractive to many people \u2013 and asks how people can spot if their church is actually a cult. For more, listen to the World of Secrets \u0027Disciples\u0027 podcast from the BBC World Service. Or watch \u0022Disciples: The Cult of TB Joshua\u0022 on Youtube.",
+      "release": "2024-01-31T02:00:00Z",
+      "duration": "00:25:44.7090000",
+      "explicit": false,
+      "spotifyId": "0JmPCLWYFSdbaDsJ5RKrrW",
+      "appleId": 1000643597396,
+      "subjects": [
+        "T. B. Joshua",
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0JmPCLWYFSdbaDsJ5RKrrW",
+        "apple": "https://podcasts.apple.com/podcast/why-do-people-join-tb-joshua-style-cults/id1547235591?i=1000643597396"
+      }
+    }
+  ]
+}

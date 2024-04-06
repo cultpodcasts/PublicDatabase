@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "e82f1ee8-75e9-4ad8-8d17-13410cfc78b1",
+  "name": "Vanity Fair",
+  "spotifyId": "4Lf74zu5xoNFxOL02KTF1g",
+  "youTubeChannelId": "UCIsbLox_y9dCIMLd8tdC6qg",
+  "episodes": [
+    {
+      "id": "ac8b8c45-fc60-4b85-a98f-548ec422981e",
+      "title": "Cult Deprogrammer Breaks Down Cults In Movies \u0026 TV | Vanity Fair",
+      "description": "Cult deprogramming expert Rick Alan Ross has helped people escape cults since 1982. Watch as he reviews cult scenes from films and television including \u0027The Vow,\u0027 \u0027Midsommar,\u0027 \u0027Once Upon a Time... in Hollywood,\u0027 \u0027Charlie Says,\u0027 \u0027Waco,\u0027 \u0027The Master,\u0027 \u0027The Handmaid\u0027s Tale,\u0027 \u0027Martha Marcy May Marlene\u0027 and \u0027Holy Smoke.",
+      "release": "2021-10-15T00:00:00",
+      "duration": "00:05:00.0420000",
+      "explicit": false,
+      "youTubeId": "WLoVHyuYVBY",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WLoVHyuYVBY"
+      }
+    }
+  ]
+}

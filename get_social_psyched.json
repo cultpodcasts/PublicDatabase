@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "152efcca-f708-4fe5-a971-11c4a76eefde",
+  "name": "Get (Social) PSYCHED!",
+  "spotifyId": "0vwerCbPxBL4uQXpLHcwWC",
+  "appleId": 1657718138,
+  "episodes": [
+    {
+      "id": "f92877a2-3993-4bad-a3d3-564d78370916",
+      "title": " Kickstart Your Cult Journey: Cults for Dummies",
+      "description": "We are the Cultaholics Anonymous, your go-to podcast hosts for all things cult-related. This week\u0027s episode is about the basics, specifically how to start your very own cult! Think of this episode as a starter kit; we\u0027re cramming everything we know to make you the next Charles Manson.  This episode has three main parts:  1. What is a cult?  2. How do you become a great leader?  3. How do you get your cult followers?  You\u0027ll learn the basic skills to start cultivating your very own flock. There will be many psychological theories to back up the stuff we are discussing, like positioning theory, groupthink, etc, so don\u0027t you dare question our judgment.   WANT MORE? Read our blog about this episode: The Cult Conundrum: Examining the Intricacies of Leaders, Members, and Cults Themselves",
+      "release": "2023-12-07T19:27:51Z",
+      "duration": "00:12:29.4550000",
+      "explicit": false,
+      "spotifyId": "5sbw5XCFKKYpMEIpU9iBX3",
+      "appleId": 1000637856688,
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5sbw5XCFKKYpMEIpU9iBX3",
+        "apple": "https://podcasts.apple.com/podcast/kickstart-your-cult-journey-cults-for-dummies/id1657718138?i=1000637856688"
+      }
+    }
+  ]
+}

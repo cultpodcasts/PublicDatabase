@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "7885b702-883a-4ca9-bbf2-bebdefc38b23",
+  "name": "Crimehub: A True Crime Podcast",
+  "spotifyId": "3lDOVjujdwyLS5l3CTSas2",
+  "appleId": 1596610770,
+  "episodes": [
+    {
+      "id": "b7956eb5-798a-480b-8ae4-3940cbee0615",
+      "title": "I Didn\u0027t Know I Was Missing: The Story of Baby Holly and The Christ Family Cult",
+      "description": "Exploring the gripping and unsettling true story of Baby Holly and the Christ Family Cult, this episode delves into the mysterious events surrounding the cult\u0027s activities and the impact on its members.     #crimehub #truecrime #truestories #truecrimepodcast Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-01-12T15:35:34Z",
+      "duration": "00:29:33.2170000",
+      "explicit": true,
+      "spotifyId": "0ZgdRtk1egDOGuHAUD1bIg",
+      "appleId": 1000641446398,
+      "subjects": [
+        "Christ\u0027s Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ZgdRtk1egDOGuHAUD1bIg",
+        "apple": "https://podcasts.apple.com/podcast/i-didnt-know-i-was-missing-the-story-of-baby/id1596610770?i=1000641446398"
+      }
+    }
+  ]
+}

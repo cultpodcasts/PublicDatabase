@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "748a2f9b-d32b-4431-845d-65b737ab8f4f",
+  "name": "Most Amazing Top10",
+  "spotifyId": "4ZmrOKvrVd27hhFIRn5oVh",
+  "episodes": [
+    {
+      "id": "93b17e87-891c-468d-8f3d-337260ae60cd",
+      "title": "Top 10 Dark Celebrities In Scary Cults",
+      "description": "Emily dives into the surprising and often unsettling affiliations of celebrities with various cults. The episode uncovers the childhood of David and Patricia Arquette within the Skymont Subud, a group viewed as a cult or commune. Emily also explores Rose McGowan\u0027s upbringing in The Family International, a cult with a controversial history. These and more stories reveal the complex intersections of fame, spirituality, and control, offering a unique glimpse into a lesser-known aspect of these celebrities\u0027 lives. ",
+      "release": "2024-01-15T00:00:00",
+      "duration": "00:11:25.4180000",
+      "explicit": false,
+      "spotifyId": "6bjH4f2b9Ki8ZRcL524FTd",
+      "subjects": [
+        "Children Of God",
+        "Unification Church",
+        "Scientology",
+        "NXIVM",
+        "Andrew Keegan"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6bjH4f2b9Ki8ZRcL524FTd"
+      }
+    }
+  ]
+}

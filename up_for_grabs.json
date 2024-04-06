@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "3265f539-7332-4dd1-8636-d0365b9bfdf2",
+  "name": "Up For Grabs",
+  "spotifyId": "2QVHkwTWfObNPPxAgU3kEj",
+  "appleId": 1553192997,
+  "episodes": [
+    {
+      "id": "afb30a5e-818a-4515-95d5-76e397d6964f",
+      "title": "Season 4 Episode 1 : Cults and Cult Documentaries",
+      "description": "Kim, Rachel, and Tracy discuss currently trending documentaries focusing on cults and why we think people are attracted to cults.\u00A0",
+      "release": "2024-01-16T02:00:00Z",
+      "duration": "00:51:15.0040000",
+      "explicit": false,
+      "spotifyId": "7IKHR7U9FHxUDirz9DJxbc",
+      "appleId": 1000641786258,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7IKHR7U9FHxUDirz9DJxbc",
+        "apple": "https://podcasts.apple.com/podcast/season-4-episode-1-cults-and-cult-documentaries/id1553192997?i=1000641786258"
+      }
+    }
+  ]
+}

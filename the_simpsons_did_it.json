@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "ed9f53df-90a2-4478-bbde-3f8b84325321",
+  "name": "The Simpsons Did It",
+  "spotifyId": "0kXNmnBNol8HhNDM9EhPB9",
+  "appleId": 1520016553,
+  "episodes": [
+    {
+      "id": "f4fc3217-2962-4ff0-a181-6fb70d215c23",
+      "title": "191 - The Joy of Sect",
+      "description": "It\u0027s time to go on a free retreat this week. And how much is this free weekend you ask. We come check out this weeks episode where Homer and his family join a cult.  We are talking about Season 9 Episode 13 The Joy of Sect.  Find out who in the town of Springfield joins the cult with the Simpsons and can the Simpsons get out.  We will also give you our favorite parts and quotes, things you may have missed and a character profile at the end.  Na Na Na Na Na Na Na Leader.",
+      "release": "2024-02-04T14:00:00Z",
+      "duration": "01:36:28.3860000",
+      "explicit": true,
+      "spotifyId": "7tqwjZacKS0fjsDC8IiRNh",
+      "appleId": 1000644103469,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7tqwjZacKS0fjsDC8IiRNh",
+        "apple": "https://podcasts.apple.com/podcast/191-the-joy-of-sect/id1520016553?i=1000644103469"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e2b10a5b-539a-4c1c-beb8-b863ed4fb671",
+  "name": "Affaires sensibles",
+  "spotifyId": "2mgIj1Y64XTLJT2Ax9rYEx",
+  "appleId": 912451024,
+  "episodes": [
+    {
+      "id": "d222a945-25dc-4a5e-83d9-dad520bb18ca",
+      "title": "Ecoovie ou les micmacs d\u0027un gourou",
+      "description": "dur\u00E9e : 00:49:27 - Affaires sensibles - par : Fabrice Drouelle - Aujourd\u2019hui dans Affaires sensibles, l\u2019histoire de la secte Ecoovie.",
+      "release": "2024-01-15T14:59:59Z",
+      "duration": "00:49:27.5620000",
+      "explicit": false,
+      "spotifyId": "1ubxE6HmbwwcdLW44yzKkD",
+      "appleId": 1000641725946,
+      "subjects": [
+        "Iriadamant"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ubxE6HmbwwcdLW44yzKkD",
+        "apple": "https://podcasts.apple.com/podcast/ecoovie-ou-les-micmacs-dun-gourou/id912451024?i=1000641725946"
+      }
+    }
+  ]
+}

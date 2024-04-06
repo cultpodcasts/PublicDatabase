@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "09132ba9-c649-4b0d-aef5-77381ebd1534",
+  "name": "BBC Stories",
+  "youTubeChannelId": "UCcgKRB26m6M3okTSP7C_UwA",
+  "episodes": [
+    {
+      "id": "c84be602-408b-4320-b3b5-b6e2459f5c21",
+      "title": "Nature Boy - Ben Zand in search of the cult leader - BBC Stories",
+      "description": "In the jungles of Costa Rica alternative communities have removed themselves from Western life attempting to create their paradise on earth. Ben Zand heads to meet some of these groups, and to search for a controversial cult leader called Nature Boy. Nature Boy runs a group called Melanation and has convinced thousands of people online to follow his message. He\u2019s even convinced people to give him money, and to give up everything they own to live with him in the tropics. But, is paradise really as good as it sounds?",
+      "release": "2018-01-21T13:00:02Z",
+      "duration": "00:19:59",
+      "explicit": false,
+      "youTubeId": "Y40MUtJg6vI",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Y40MUtJg6vI"
+      }
+    }
+  ]
+}

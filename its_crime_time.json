@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "88092f46-5120-4362-afcf-4a04daa72dd7",
+  "name": "It\u0027s Crime Time",
+  "spotifyId": "1WnOrymjRoIFHZP3LrYvLa",
+  "appleId": 1488967054,
+  "episodes": [
+    {
+      "id": "b8ed1f7e-db9b-4f88-a2bc-8403d889a9e9",
+      "title": "S02E25: The Crimes of the Knights of the Crystal Blade-Doomsday Cult",
+      "description": "In 2016, John Coltharp and his best friend founded a doomsday cult loosely based on the teachings of the FLDS. It is important to note that the FLDS had no idea about this cult nor did it condone their behavior.  In September of 2017, John\u2019s estranged wife, Micha Coltharp went to the Utah police department to report that John had taken their children and she could not locate him nor contact him. Thinking this would be a routine domestic dispute that could easily be resolved, police started to investigate but what they discovered was far worse than they initially imagined as the children along with John Coltharp, his parents Catherine and Keith Coltharp, and his second-in-command in the cult, Samuel Shaffer had packed up and left to create a commune in the deserts of Lund, Utah.",
+      "release": "2024-01-13T10:00:00Z",
+      "duration": "00:34:06.6760000",
+      "explicit": true,
+      "spotifyId": "5A8BBox3KAVfuBGBka9M6J",
+      "appleId": 1000641520284,
+      "subjects": [
+        "Knights of The Crystal Blade"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5A8BBox3KAVfuBGBka9M6J",
+        "apple": "https://podcasts.apple.com/podcast/s02e25-the-crimes-of-the-knights-of/id1488967054?i=1000641520284"
+      }
+    }
+  ]
+}

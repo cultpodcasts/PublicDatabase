@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e6fc6ded-2305-434e-879c-279dcbea06a8",
+  "name": "Savage Minds",
+  "spotifyId": "0aRM2P14qxDq7ASDDuZFp7",
+  "appleId": 1535634480,
+  "episodes": [
+    {
+      "id": "301a4da7-bc4b-4c22-999f-f4dcc23dc1c4",
+      "title": "Janja Lalich",
+      "description": "Janja Lalich, PhD, Professor Emerita of Sociology, an international authority on cults and coercion and author of\u00A0Take Back Your Life: Recovering from Cults and Abusive Relationships\u00A0discusses her theoretical and practical work in the field of cults. Distinguishing cults from religious organisations and mass social formations, Lalich thrashes out the historical facts surrounding cults and their contemporary manifestations. Covering the \u201Cself-sealing system\u201D of cults, Lalich forays into this world of cults within the west to include the penetration of Indian guru culture within the USA beginning in the 1960s. Delving into the current maelstrom of gender ideology within the west, Lalich observes the current upheaval over this ideology, comparing this with other ideological movements like QAnon, where it is difficult to have rational conversations with the adherents of these ideologies. Characterising the discourse around gender ideology as a \u201Ccult mindset,\u201D Lalich notes that the real harm of gender ideology is how it is gaining vast social acceptance while isolating those voices who speak against this orthodoxy, comparing this ideology to McCarthyism during the 1950s where a tremendous political backlash similarly caused people to lose their families, careers, communities, and lives.\u00A0 Get full access to Savage Minds at savageminds.substack.com/subscribe",
+      "release": "2023-03-02T00:00:00",
+      "duration": "00:58:46.5300000",
+      "explicit": false,
+      "spotifyId": "3KMxigxfvisfJH51ft0v0V",
+      "appleId": 1000602452787,
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3KMxigxfvisfJH51ft0v0V",
+        "apple": "https://podcasts.apple.com/podcast/janja-lalich/id1535634480?i=1000602452787"
+      }
+    }
+  ]
+}

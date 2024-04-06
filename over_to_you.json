@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "9676e993-e37f-4619-b40b-e76e99008051",
+  "name": "Over to You",
+  "spotifyId": "2ugW08okXGNObYETWfJDeX",
+  "appleId": 338539206,
+  "episodes": [
+    {
+      "id": "3a47bf87-fdcc-43e0-8f65-585414bc4e76",
+      "title": "Unearthing the stories they don\u2019t want told",
+      "description": "World of Secrets is billed as \u201Cthe stories they don\u2019t want told\u201D. Series two has turned its attention to exposing the cult of Nigerian prophet TB Joshua. We hear your views and we are joined by the series\u2019 presenter and producer.Presenter: Rajan Datar Producer: Howard Shannon A Whistledown production for BBC World Service",
+      "release": "2024-01-27T10:00:00Z",
+      "duration": "00:09:46.8900000",
+      "explicit": false,
+      "spotifyId": "2y23HeT86d9FucsFPQ39SL",
+      "appleId": 1000643176400,
+      "subjects": [
+        "T. B. Joshua"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2y23HeT86d9FucsFPQ39SL",
+        "apple": "https://podcasts.apple.com/podcast/unearthing-the-stories-they-dont-want-told/id338539206?i=1000643176400"
+      }
+    }
+  ]
+}

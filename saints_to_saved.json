@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "64157daa-a7e2-480c-9e22-4bf69720c8f0",
+  "name": "Saints to Saved",
+  "spotifyId": "0Udi3AwN1MYjQhAHdsCFI5",
+  "appleId": 1729309685,
+  "episodes": [
+    {
+      "id": "19eaad54-6e2d-487a-a893-34d54ce4cdf0",
+      "title": "B.I.T.E Model - Part 1",
+      "description": "Cult tactics- An eye opening yet heavy topic we discuss in this two-part series episode. If you\u0027d like to follow along or look further into the B.I.T.E Model, you are free to check out Steven Hassan\u0027s website: https://freedomofmind.com/cult-mind-control/bite-model/",
+      "release": "2024-02-25T02:20:25Z",
+      "duration": "00:35:48.8670000",
+      "explicit": false,
+      "spotifyId": "54Jxq0FTcuTtgeaMJTA8fn",
+      "appleId": 1000646733694,
+      "subjects": [
+        "Cult Psychology",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/54Jxq0FTcuTtgeaMJTA8fn",
+        "apple": "https://podcasts.apple.com/podcast/b-i-t-e-model-part-1/id1729309685?i=1000646733694"
+      }
+    }
+  ]
+}

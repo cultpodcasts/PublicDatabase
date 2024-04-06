@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "2f0f3375-baac-4ac3-82f5-71769abf7c22",
+  "name": "John Aylward",
+  "youTubeChannelId": "UCIHNDpqpU6c0rWq41Ykcfkw",
+  "episodes": [
+    {
+      "id": "2f715496-f173-4332-a898-202c57dd044a",
+      "title": "Heaven and Hell The Centrepoint Story",
+      "release": "2023-05-08T03:33:41Z",
+      "duration": "01:35:23",
+      "explicit": false,
+      "youTubeId": "8KztJrEai7w",
+      "subjects": [
+        "Centrepoint"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8KztJrEai7w"
+      }
+    }
+  ]
+}

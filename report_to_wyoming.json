@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "c38d32ae-bfd8-454e-bc5d-b57213122158",
+  "name": "Report to Wyoming",
+  "spotifyId": "3fFHWsFjEaBwje4SHg9932",
+  "appleId": 1636356975,
+  "episodes": [
+    {
+      "id": "076ce669-cbdd-493d-b333-04edf191c753",
+      "title": "How a Wyoming Woman Escaped a Cult and Became a Champion for Survivors",
+      "description": "Caty Reay, she\u0027s a human trafficking survivor as well as an activist and advocate. TRIGGER WARNING: this episode does contain highly sensitive information that might be distressing to some, including references to sexual violence and abuse.",
+      "release": "2024-01-26T20:31:42Z",
+      "duration": "00:31:58.3540000",
+      "explicit": false,
+      "spotifyId": "4fZ5ik1v5qYTFWzsnqq1Of",
+      "appleId": 1000643130500,
+      "subjects": [
+        "Curly Thornton Ministries",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4fZ5ik1v5qYTFWzsnqq1Of",
+        "apple": "https://podcasts.apple.com/podcast/how-a-wyoming-woman-escaped-a-cult-and/id1636356975?i=1000643130500"
+      }
+    }
+  ]
+}

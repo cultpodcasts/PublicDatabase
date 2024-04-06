@@ -1,0 +1,114 @@
+{
+  "_ts": 0,
+  "id": "49ab2614-53a4-40a6-a034-a093ac58ce31",
+  "name": "It\u0027s Cult O\u0027Clock",
+  "spotifyId": "6BUerUiIgnNn4JoEfCl1bg",
+  "appleId": 1626200481,
+  "episodes": [
+    {
+      "id": "0e315db1-9786-4e83-b116-d54573da5aad",
+      "title": "Branch Davidians",
+      "description": "Hey guys! In this episode, we talk about the Branch Davidian cult. We discuss the history of the cult, as well as the events that took place in Waco. Enjoy!",
+      "release": "2024-03-20T00:15:00Z",
+      "duration": "00:17:33.8510000",
+      "explicit": false,
+      "spotifyId": "4HUVD2EFN5dKh2pn3liag4",
+      "appleId": 1000649798206,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4HUVD2EFN5dKh2pn3liag4",
+        "apple": "https://podcasts.apple.com/podcast/branch-davidians/id1626200481?i=1000649798206"
+      }
+    },
+    {
+      "id": "519e7b06-66d9-47d2-a585-d6ba7a5c3639",
+      "title": "Heavens Gate",
+      "description": "Oh boy, get ready. In this episode, we talk about Heavens Gate. We talk about the experiences, beliefs, and more. Enjoy!",
+      "release": "2024-03-13T06:00:00Z",
+      "duration": "00:19:26.6340000",
+      "explicit": false,
+      "spotifyId": "5vexyhjDu9SLn2LvKZtii3",
+      "appleId": 1000649011832,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5vexyhjDu9SLn2LvKZtii3",
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate/id1626200481?i=1000649011832"
+      }
+    },
+    {
+      "id": "c9933377-ddc3-449e-8090-7893766c2449",
+      "title": "The Source Family",
+      "description": "Hey guys, thank you for being here. In this episode we talk about the Source Family. We dive into the experiences that happened in the cult, as well as the beliefs. Hope you enjoy!",
+      "release": "2024-03-08T20:12:00Z",
+      "duration": "00:12:03.1280000",
+      "explicit": false,
+      "spotifyId": "6rtf6ef0ZxjquOwDMguw7d",
+      "appleId": 1000648547999,
+      "subjects": [
+        "The Source Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6rtf6ef0ZxjquOwDMguw7d",
+        "apple": "https://podcasts.apple.com/podcast/the-source-family/id1626200481?i=1000648547999"
+      }
+    },
+    {
+      "id": "293c1150-de4b-46ee-ac25-ab90cca3f13c",
+      "title": "Ant Hill Gang/Blackburn",
+      "description": "Get ready folks. In this episode, we talk about the Ant Hill Gang and the Blackburn cult. We discuss the history, beliefs, and experiences that happened in these cults. Enjoy! \u00A0 \u00A0",
+      "release": "2024-01-19T21:59:53Z",
+      "duration": "00:16:52.8470000",
+      "explicit": true,
+      "spotifyId": "5EOTqzownzQDEUSD7Shw0x",
+      "appleId": 1000642272528,
+      "subjects": [
+        "Ant Hill Kids",
+        "Blackburn Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5EOTqzownzQDEUSD7Shw0x",
+        "apple": "https://podcasts.apple.com/podcast/ant-hill-gang-blackburn/id1626200481?i=1000642272528"
+      }
+    },
+    {
+      "id": "a2970355-2e02-40a9-bbf0-6dfaf29511f9",
+      "title": "Children of God/Gloriavale",
+      "description": "Welcome to \u0022It\u0027s Cult O\u0027Clock,\u0022 the podcast that delves into the intriguing and often disturbing world of cults. In this series, we explore the histories, beliefs, and experiences of various cults, shining a light on the lesser-known aspects of their existence. In this episode, we uncover the untold stories of two notorious cults \u2013 the Children of God and the Gloriavale Community.",
+      "release": "2024-01-19T19:07:23Z",
+      "duration": "00:26:32.1110000",
+      "explicit": true,
+      "spotifyId": "71ea6GVRcvxdzNcg1zusDy",
+      "appleId": 1000642272659,
+      "subjects": [
+        "Children Of God",
+        "Gloriavale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/71ea6GVRcvxdzNcg1zusDy",
+        "apple": "https://podcasts.apple.com/podcast/children-of-god-gloriavale/id1626200481?i=1000642272659"
+      }
+    },
+    {
+      "id": "d85b4128-f215-4645-b0ca-9c40e9286b0a",
+      "title": "Good News International/Twelve Tribes",
+      "description": "Get ready, the events we talk about happened in recent years! In this episode, we talk about the Good News International and the Twelve Tribes cult. We discuss the history, beliefs, and experiences that happened in these cults. Enjoy! \u00A0",
+      "release": "2024-01-19T17:13:00Z",
+      "duration": "00:19:09.6980000",
+      "explicit": true,
+      "spotifyId": "47SMzxefvW45SMp4jcJuKp",
+      "appleId": 1000642272689,
+      "subjects": [
+        "Good News International Ministries",
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/47SMzxefvW45SMp4jcJuKp",
+        "apple": "https://podcasts.apple.com/podcast/good-news-international-twelve-tribes/id1626200481?i=1000642272689"
+      }
+    }
+  ]
+}

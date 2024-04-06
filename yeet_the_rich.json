@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "96c3b827-2519-4b42-a41c-d8ca9a111dfb",
+  "name": "Yeet the Rich",
+  "spotifyId": "0GxCu8xXVgapWmzZ3J1VfG",
+  "appleId": 1684853359,
+  "episodes": [
+    {
+      "id": "f899b1d1-aedf-4606-b6ba-9f5d4e90a165",
+      "title": "Couple To Throuple- Part Two of the Oneida Community",
+      "description": "This week we really get into life on the commune with John Humphrey and his followers at the Oneida Community. The comune is growing. They are Industrializing and the sex stuff gets even weirder. Also Emily gives you her simple step by step plan on how to create a cult...but dont create a cult please! Sources: \u201COneida: From Free Love Utopia to the Well Set Table\u0022 by Ellen Wayland Smith(2016) The Days of My Youth: A Childhood Memoir of life in the Oneida CommunityBy CorinaAckley Noyes(2015) Follow the podcast @yeettherichpod Follow Emily @thefunnywalsh Follow Danny @dmoss315",
+      "release": "2024-03-05T09:00:00Z",
+      "duration": "00:52:07.4840000",
+      "explicit": false,
+      "spotifyId": "27Yiu3qKQulkgMpMTD28Yl",
+      "appleId": 1000648050716,
+      "subjects": [
+        "Oneida Community"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/27Yiu3qKQulkgMpMTD28Yl",
+        "apple": "https://podcasts.apple.com/podcast/couple-to-throuple-part-two-of-the-oneida-community/id1684853359?i=1000648050716"
+      }
+    },
+    {
+      "id": "8859ac82-6750-4b17-9e96-96190c41cd70",
+      "title": "Silverware Sex Cult- Part One of the Oneida Community",
+      "description": "This week we begin discussing the fascinating Oneida Community.Oneida Community Limited becomes one of the largest silverware manufacturers in the United States. But this episode we discuss its humble beginnings as an 1800s communist sex cult in upstate New York! Sources: \u201COneida: From Free Love Utopia to the Well Set Table\u0022 by Ellen Wayland Smith(2016) The Days of My Youth: A Childhood Memoir of life in the Oneida CommunityBy CorinaAckley Noyes(2015) Follow the podcast @yeettherichpod Follow Emily @thefunnywalsh Follow Danny @dmoss315",
+      "release": "2024-02-27T09:00:00Z",
+      "duration": "00:56:50.4420000",
+      "explicit": false,
+      "spotifyId": "1IDNNNXI6SriTA023BEgPg",
+      "appleId": 1000647204484,
+      "subjects": [
+        "Oneida Community"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IDNNNXI6SriTA023BEgPg",
+        "apple": "https://podcasts.apple.com/podcast/silverware-sex-cult-part-one-of-the-oneida-community/id1684853359?i=1000647204484"
+      }
+    }
+  ]
+}

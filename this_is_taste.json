@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "8fed8d91-bc4c-4be5-80a1-27ffd8e397a8",
+  "name": "This Is TASTE",
+  "spotifyId": "3LsLXfnYt6Ugml415hyUfh",
+  "appleId": 1393739959,
+  "episodes": [
+    {
+      "id": "5bca39be-7017-4655-b467-2f33e8eb3f50",
+      "title": "306: Food, Religion \u0026 Cults: Christina Ward",
+      "description": "Christina Ward is the author of Holy Food: How Cults, Communes, and Religious Movements Influenced What We Eat. It\u2019s a fascinating book that digs deep into how the fringe and mainstream spiritual practices of Americas past shaped modern food culture, from trends to products still in the grocery aisle today. It\u2019s a conversation you won\u2019t soon forget and we hope you enjoy.\u00A0\u00A0\u00A0MORE FROM CHRISTINA WARD:A New Book Shows How Chicago\u2019s Food History Intertwines With Cults, Communes, and Religious Movements [Eater Chicago]In the Name of the Fork: How Religion Shaped What America Eats [KCRW]Buy: American Advertising Cookbooks: How Corporations Taught Us to Love Bananas, Spam, and Jell-O",
+      "release": "2023-11-08T00:00:00",
+      "duration": "00:37:11.6400000",
+      "explicit": true,
+      "spotifyId": "4i9RLRsr0UEfFpAuqzTqno",
+      "appleId": 1000634108065,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4i9RLRsr0UEfFpAuqzTqno",
+        "apple": "https://podcasts.apple.com/podcast/food-religion-cults-christina-ward/id1393739959?i=1000634108065"
+      }
+    }
+  ]
+}

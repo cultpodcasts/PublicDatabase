@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "5e0d10a9-3069-455c-ae61-cfeb5d371cbd",
+  "name": "A Podcast Greater Than Yourself",
+  "spotifyId": "5LVUIg0qnPdNavEQWob48z",
+  "appleId": 1521580345,
+  "episodes": [
+    {
+      "id": "e0ba8bc5-5dfb-4adb-a527-49ddca3fd30d",
+      "title": "Burning Desire: The Fellowship is a Cult w/ Rowland",
+      "description": "In today\u0027s Burning Desire, Rowland joins us to discuss how the fellowship Alcoholics Anonymous is a cult. APGTY is a weekly podcast with recovered members of Alcoholics Anonymous discussing the 12 Steps, sobriety, the fellowship and more. Drop us a line at: podcastgreaterthanyourself@gmail.com or on Instagram APGTY or Doctor Silkworth\u00A0",
+      "release": "2023-12-15T12:00:00Z",
+      "duration": "01:02:56.0520000",
+      "explicit": true,
+      "spotifyId": "3V6A8RNs6yqaUyHbAvj3tf",
+      "appleId": 1000638679914,
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3V6A8RNs6yqaUyHbAvj3tf",
+        "apple": "https://podcasts.apple.com/podcast/burning-desire-the-fellowship-is-a-cult-w-rowland/id1521580345?i=1000638679914"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "5b6d5804-5de3-472e-8ee5-801dec5c201f",
+  "name": "Life Journey TV",
+  "spotifyId": "5dYuvFwfplS1rJpkjT6ImS",
+  "appleId": 1514693213,
+  "episodes": [
+    {
+      "id": "e4dcbd70-37dd-4ab1-a2c7-9735981e662b",
+      "title": "Jonnie Larmore - Cult Survivor",
+      "description": "Jonnie Larmore\u2019s story is as fascinating as it is traumatic. \u00A0\u00A0Jonnie was born into a cult called \u2018The Children of God\u2019 or \u2018The Family International\u2019, as it later became known.\u00A0While its origins in 1968 were relatively conservative, under evangelist David Berg\u2019s leadership it quickly grew into an authoritarian cult engaging in the physical and sexual abuse of its children.\u00A0At one point, \u2018The Family\u2019 had more than 30,000 followers across the world including the Phoenix family and Jeremy Spencer of Fleetwood Mac fame.\u00A0Rates of drug addiction and suicide are well-known in children who grow up in cults. \u00A0\u00A0Jonnie however, has been able to move past his early childhood trauma to make a success of his life. \u00A0\u00A0Up until recently, he was an active member of the Special Emergency Response Team.\u00A0 SERT is the highly secretive police team which protect the public against everything from terrorism threats to sieges and hostage situations.\u00A0Having met Jonnie, I know we are in safe hands!\u00A0Many thanks to my sponsor for this interview, Bennett and Co Financial.\u00A0",
+      "release": "2024-02-08T20:00:00Z",
+      "duration": "01:49:57.7460000",
+      "explicit": false,
+      "spotifyId": "01zBcj4SsDrz25hUrKPNUO",
+      "appleId": 1000644682027,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/01zBcj4SsDrz25hUrKPNUO",
+        "apple": "https://podcasts.apple.com/podcast/jonnie-larmore-cult-survivor/id1514693213?i=1000644682027"
+      }
+    }
+  ]
+}

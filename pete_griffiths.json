@@ -1,0 +1,37 @@
+{
+  "_ts": 0,
+  "id": "99de9904-3f5d-44ec-8b90-1bd7548e88b4",
+  "name": "Pete Griffiths",
+  "youTubeChannelId": "UC7MA7YojnQaIoUqUqvTZ4rg",
+  "episodes": [
+    {
+      "id": "83f90635-aaee-4a3a-ad2c-bad35f12b87b",
+      "title": "Part One: The Last Days of L. Ron Hubbard",
+      "description": "In Episode 64, Robert is joined by Michael Swaim and Abe Epperson to discuss the end of L. Ron Hubbard\u0027s life.\u00A0  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.",
+      "release": "2019-06-04T00:00:00",
+      "duration": "01:08:40.4500000",
+      "explicit": true,
+      "spotifyId": "2tiM4RUzdqsAOSn3EbIgUW",
+      "appleId": 1000440578347,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2tiM4RUzdqsAOSn3EbIgUW",
+        "apple": "https://podcasts.apple.com/podcast/part-one-the-last-days-of-l-ron-hubbard/id1373812661?i=1000440578347"
+      }
+    },
+    {
+      "id": "a4e8b9f5-588d-43f3-9f65-336796e728ea",
+      "title": "John Duignan on Today",
+      "description": "John Duignan discusses the cult of Scientology with D\u00E1ith\u00ED \u00D3 S\u00E9 and Maura Derrane.",
+      "release": "2015-12-13T22:49:51Z",
+      "duration": "00:08:38",
+      "explicit": false,
+      "youTubeId": "5Q7N-C6lm-E",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5Q7N-C6lm-E"
+      }
+    }
+  ]
+}

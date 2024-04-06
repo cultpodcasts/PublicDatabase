@@ -1,0 +1,57 @@
+{
+  "_ts": 0,
+  "id": "e5fc8b56-4483-47bf-a0a8-2a11bc5cc24b",
+  "name": "World in 10",
+  "spotifyId": "5CHMS8JT6vz45eRq1cGY0t",
+  "appleId": 1603820936,
+  "episodes": [
+    {
+      "id": "491c9ab5-0730-426b-9ba1-82d2b55b027b",
+      "title": "Trump embraces conspiracist QAnon cult",
+      "description": "Flagged as a terror threat, the group makes outlandish threats about the former president\u2019s foes. Plus - disagreements between Ukraine\u2019s military and political leaders grow, and a colourful billionaire becomes king of Malaysia.Your daily round-up of the biggest stories from across the world, as seen through the eyes of the Times of London. You can hear more of these stories on Times Radio, and read more at thetimes.co.uk. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-01-31T17:34:00Z",
+      "duration": "00:11:15.6570000",
+      "explicit": false,
+      "spotifyId": "4Epw9Q7yYDtlLUO1zbtKmi",
+      "appleId": 1000643696383,
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Epw9Q7yYDtlLUO1zbtKmi",
+        "apple": "https://podcasts.apple.com/podcast/trump-embraces-conspiracist-qanon-cult/id1603820936?i=1000643696383"
+      }
+    },
+    {
+      "id": "23d58c4c-3338-43e4-ad3e-e97fafd1eb4c",
+      "title": "Sunday Times correspondent visits \u0027Orgasmic Meditation Commune\u0027",
+      "description": "The Sunday Times has been hearing from the woman behind an alleged \u2018orgasmic meditation cult\u2019 in California. The World in 10 is a Times of London production bringing you the global news agenda every day in just 10 minutes, as seen through the eyes of our writers and correspondents. For more listen to Times Radio or take out a digital subscription at thetimes.co.uk. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-01-28T16:50:31Z",
+      "duration": "00:11:52.2280000",
+      "explicit": false,
+      "spotifyId": "4fs0crw4zzRtg2sNvC46qs",
+      "appleId": 1000643271341,
+      "subjects": [
+        "Onetaste"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4fs0crw4zzRtg2sNvC46qs",
+        "apple": "https://podcasts.apple.com/podcast/the-un-staff-accused-of-helping-hamas/id1603820936?i=1000643271341"
+      }
+    },
+    {
+      "id": "2f1cd9fe-2a7e-4e98-883c-2f418183b873",
+      "title": "French concern over \u201Cspiritual communities.\u201D Are they just cults?",
+      "description": "As 17 year old Alex Batty prepares to return to his family - we examine the rise of the \u201Cspiritual community\u201D in France.Also an investigation by The Times\u00A0can reveal tobacco manufacturers have been funding scientific research dismissing the risks of vaping to children.We bring you the verdict of Prince Harry\u2019s phone hacking case against the publisher of the Daily Mirror.And a moment in history as a first ever Premier League match will be refereed by a womanThe World in 10 is your daily look at the global news agenda with the Times of London. For more listen to Times Radio and take out a digital subscription at\u00A0thetimes.co.uk Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2023-12-15T16:58:20Z",
+      "duration": "00:11:04.9460000",
+      "explicit": false,
+      "spotifyId": "1X0JjP0u4vY35GhnJBpYir",
+      "appleId": 1000638706897,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1X0JjP0u4vY35GhnJBpYir",
+        "apple": "https://podcasts.apple.com/podcast/french-concern-over-spiritual-communities-are-they/id1603820936?i=1000638706897"
+      }
+    }
+  ]
+}

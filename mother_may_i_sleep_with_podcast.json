@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "f0068672-efb2-4f2f-9300-fecfa03cb5d0",
+  "name": "Mother, May I Sleep With Podcast?",
+  "spotifyId": "25LQLqHvOJnZLBL8PiFBh2",
+  "appleId": 1143932988,
+  "episodes": [
+    {
+      "id": "ed2c333c-a8bb-4109-96fd-1761d29904e8",
+      "title": "S10E9 - Gwen Shamblin: Starving for Salvation (Featuring Maggie Mason)",
+      "description": "THEE Maggie Mason of MightyGirl fame joins Molly to discuss Lifetime\u0027s 2023 film \u0022Gwen Shamblin: Starving for Salvation.\u0022 Description from IMDb : Gwen Shamblin, a charismatic with a curated image, became known with her Christian diet program \u0022Weigh Down Workshop\u0022, and was accused of exploitation and emotional, psychological, and physical abuse by the church\u0027s alleged cult practices. Get early access to new episodes and enjoy the entire catalog ad-free Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-02-11T10:00:00Z",
+      "duration": "03:44:51.4080000",
+      "explicit": false,
+      "spotifyId": "4M1MfRM0XmjtiQpNwVxRIR",
+      "appleId": 1000644383578,
+      "subjects": [
+        "Remnant Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4M1MfRM0XmjtiQpNwVxRIR",
+        "apple": "https://podcasts.apple.com/podcast/s10e9-gwen-shamblin-starving-for-salvation-featuring/id1143932988?i=1000644383578"
+      }
+    }
+  ]
+}

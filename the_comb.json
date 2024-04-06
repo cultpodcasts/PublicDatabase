@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "14dd159c-c1ed-46a7-bda5-a8350521672b",
+  "name": "The Comb",
+  "spotifyId": "6BYFzS65TGffIFIx7Ojv7Y",
+  "appleId": 1519410161,
+  "episodes": [
+    {
+      "id": "7699d8e5-0410-4338-9f7c-a14546a6fe03",
+      "title": "Am I in a cult?",
+      "description": "\u201CI was losing myself\u201D: When Mbali was introduced to a new church through a bible study group she was excited at the prospect of finding a new religious community. But as she became more involved with the church, she began questioning some of their unusual teachings and approaches. It left her asking the question \u2018Am I in a cult?\u2019  Thanks for listening. Let us know what you think. #TheComb Get in touch: thecomb@bbc.com",
+      "release": "2023-03-17T00:00:00",
+      "duration": "00:33:30.0950000",
+      "explicit": false,
+      "spotifyId": "3IP4zjOOu3xGYQBZQEFHWQ",
+      "appleId": 1000604573433,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3IP4zjOOu3xGYQBZQEFHWQ",
+        "apple": "https://podcasts.apple.com/podcast/am-i-in-a-cult/id1519410161?i=1000604573433"
+      }
+    }
+  ]
+}

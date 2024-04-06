@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "4cd605d1-4806-43f4-a6f8-dab2d6678411",
+  "name": "Inside the Writer\u0027s Studio",
+  "spotifyId": "4vTDO6Yvu57J5QjSg8o2L2",
+  "appleId": 1275946075,
+  "episodes": [
+    {
+      "id": "8dbb1966-59dc-4b63-a9df-db5cca426a1c",
+      "title": "Janice Hallett (2/1/2024) Inside the Writer\u0027s Studio Edpisode #128",
+      "description": "Charlie talks with British mystery writer Janice Hallett about her novel The Mysterious Case of the Alperton Angels. They discuss writing in the documentary form, cold cases, religion, cults, classic mysteries, journalistic ethics, and much more.",
+      "release": "2024-02-01T01:00:00Z",
+      "duration": "00:47:58.5890000",
+      "explicit": false,
+      "spotifyId": "65CaW71Qtc1wNA2FPm3FT4",
+      "appleId": 1000643734166,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/65CaW71Qtc1wNA2FPm3FT4",
+        "apple": "https://podcasts.apple.com/podcast/janice-hallett-2-1-2024-inside-the-writers-studio/id1275946075?i=1000643734166"
+      }
+    }
+  ]
+}

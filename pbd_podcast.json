@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "8c9c21f9-91d3-47ab-9482-e9f856bef8e7",
+  "name": "PBD Podcast",
+  "spotifyId": "3FVOp5guWNV4b0S9pfuVcw",
+  "appleId": 1526697745,
+  "youTubeChannelId": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+  "episodes": [
+    {
+      "id": "d867e197-e9f7-4966-aafc-00fefcbd3af7",
+      "title": "The Truth About Scientology w/ Mike Rinder | PBD Podcast | Ep. 191",
+      "description": "FaceTime or Ask Patrick any questions on https://minnect.com/\n\nPBD Podcast Episode 191. In this episode, Patrick Bet-David is joined by Mike Rinder \u0026 Adam Sosnick.\n\nBuy Mike Rinder\u0027s book A Billion Years: https://amzn.to/3SRlrSO\n\nJoin the channel to get exclusive access to perks: https://bit.ly/3Q9rSQL\n\nDownload the podcasts on all your favorite platforms https://bit.ly/3sFAW4N\n\nText: PODCAST to 310.340.1132 to get added to the distribution list\n\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller Your Next Five Moves (Simon \u0026 Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida.",
+      "release": "2022-10-06T15:21:11Z",
+      "duration": "02:01:35",
+      "explicit": false,
+      "spotifyId": "53u4dyaDkTjq7JQvflYnXB",
+      "appleId": 1000581924925,
+      "youTubeId": "Y1euLbIiQuo",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/53u4dyaDkTjq7JQvflYnXB",
+        "apple": "https://podcasts.apple.com/us/podcast/the-truth-about-scientology-w-mike-rinder-pbd-podcast-ep-191/id1526697745?i=1000581924925",
+        "youtube": "https://www.youtube.com/watch?v=Y1euLbIiQuo"
+      }
+    }
+  ]
+}

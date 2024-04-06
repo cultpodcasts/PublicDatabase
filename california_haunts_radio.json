@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "4842ff17-9dbc-4b2a-ba8b-149abbe9d8f1",
+  "name": "California Haunts Radio",
+  "spotifyId": "0MQOAsiOU91PavfGC0mQ5D",
+  "appleId": 1560458486,
+  "episodes": [
+    {
+      "id": "ab8a708b-fe75-432c-b20b-8d1596e322b4",
+      "title": "How Religious Movements Influenced What We Eat with Christina Ward",
+      "description": "Christina Ward is an author, editor, and seeker. She is also the Vice President and Editor of Feral House, a publisher noted for their books on outr\u00E9 topics. She had the distinct pleasure of riding around town in the Wienermobile with Padma Lakshmi on the hottest day in July of 2019 for \u201CTaste the Nation.\u201D Her current book, Holy Food: How Cults, Communes, and Religious Movements Influenced What We Eat\u2014An American History (September 26, 2023).Website christinaward.netBooks American Advertising Cookbooks Holy Food: How Cults, Communes, and Religious Movements Influenced What We Eat Preservation: The Art and Science of Canning, Fermentation and Dehydration",
+      "release": "2024-02-07T04:25:01Z",
+      "duration": "01:01:04.0620000",
+      "explicit": false,
+      "spotifyId": "6CV80c3FrtjDy8gGqLvi2w",
+      "appleId": 1000644434928,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6CV80c3FrtjDy8gGqLvi2w",
+        "apple": "https://podcasts.apple.com/podcast/how-religious-movements-influenced-what-we-eat-with/id1560458486?i=1000644434928"
+      }
+    }
+  ]
+}

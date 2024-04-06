@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "09743d96-c730-45dd-84bd-77e007a060e6",
+  "name": "KQED\u0027s Forum",
+  "spotifyId": "1QN1TOcYhAqgk5jDO3pPu6",
+  "appleId": 73329719,
+  "episodes": [
+    {
+      "id": "041e214c-37d7-470e-b48b-92e6fdb8959f",
+      "title": "Why Cults Fascinate Us With UC Berkeley Professor Poulomi Saha",
+      "description": "In the last several years, a cult industrial complex has emerged to capitalize on Americans\u2019 fascination with groups such as Jonestown, the Manson Family, the Branch Davidians, and the Rajneeshpuram community in Wasco County, Ore., argues UC Berkeley professor Poulomi Saha. But in her highly sought-after class called Cults in Popular Culture, they emphasize that it\u2019s important to look beyond the sensational examples and recognize how cult-like behavior shows up in many facets of our lives and society. We\u2019ll talk with Saha about why some groups are labeled as cults, why people are drawn to them, and what cults reveal about spirituality and culture in America. Guests: Poulomi Saha,\u00A0associate professor of English and co-director of the Program in Critical Theory, UC Berkeley. Saha teaches a course called Cults in Popular Culture.",
+      "release": "2023-11-30T20:39:57Z",
+      "duration": "00:54:17.2340000",
+      "explicit": false,
+      "spotifyId": "1Wcu7uzLRc0azjnkyvB1AY",
+      "appleId": 1000637099423,
+      "subjects": [
+        "Bhagwan Shree Rajneesh",
+        "Hare Krishnas",
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Wcu7uzLRc0azjnkyvB1AY",
+        "apple": "https://podcasts.apple.com/podcast/why-cults-fascinate-us-with-uc-berkeley-professor/id73329719?i=1000637099423"
+      }
+    }
+  ]
+}

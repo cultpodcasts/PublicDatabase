@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "5515e42c-2249-474d-b49a-61a0c91322ca",
+  "name": "Independent Infidel",
+  "spotifyId": "5LlTbOtZJ7Tzip4e4lSE9s",
+  "appleId": 1713020121,
+  "episodes": [
+    {
+      "id": "c1954140-4699-4bce-b78c-b00bff019177",
+      "title": "The Cult With No Name- The Modern Make Up",
+      "description": "Jeff talks about the modern 2x2 in part 3 of the series.",
+      "release": "2024-02-26T07:43:04Z",
+      "duration": "01:10:32.4760000",
+      "explicit": false,
+      "spotifyId": "0DiHDgTKzpCBM7VHGA7XQB",
+      "appleId": 1000646844389,
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0DiHDgTKzpCBM7VHGA7XQB",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-with-no-name-the-modern-make-up/id1713020121?i=1000646844389"
+      }
+    },
+    {
+      "id": "16719855-46e9-4978-b782-060b552e0087",
+      "title": "Cult With No Name The History",
+      "description": "Fascinated about unsolved mysteries? Tune into our next audio series episode of \u0022Cult with no name- the history edited clarity\u0022 and discover the uncovered stories of unconventional religious movements. Do the unheard tales match the truths you know? uch as #HistoryPodcast #CultHistory #RealStories, etc.",
+      "release": "2024-02-18T22:05:34Z",
+      "duration": "00:56:09.9600000",
+      "explicit": false,
+      "spotifyId": "5DSg7awA2b78DZxKlDpw1x",
+      "appleId": 1000645792327,
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5DSg7awA2b78DZxKlDpw1x",
+        "apple": "https://podcasts.apple.com/podcast/cult-with-no-name-the-history/id1713020121?i=1000645792327"
+      }
+    },
+    {
+      "id": "b39a328f-7608-4a95-8ad9-f42653d1bc3c",
+      "title": "2X2 Bonus Episode (call with producer)",
+      "description": "Behind the Scenes: Unpacking \u0027Independent Infidel\u0027 \u0026 The 2x2sThe hosts discuss the responses and pushback to the first episode of \u0027Independent Infidel\u0027, which explores the obscure religious group known as the 2x2s. They talk about their motivations to cover a secret cult, the mixed experiences with the group\u0027s members, and the necessity of presenting multiple sides of the story rather than demonizing a particular group. The discussion also touches on the importance of faith in society and the challenges in leaving a group one has been with their whole life. They also express their intention to give the 2x2s a rightful representation, involving community feedback in crafting future episodes to ensure accuracy.00:00 Introduction and Casual Conversation00:12 Discussion on Healthy Eating and Lifestyle01:23 Reflections on Personal Growth and Change01:37 Exploring Controversies and Misunderstandings03:57 Deeper Dive into the 2x2 Church04:55 Understanding the Role of Workers in the Church06:04 Exploring the Concept of Salvation in the Church06:56 Critique of Power Dynamics in Religious Groups08:16 Personal Reflections on Faith and Religion10:46 Discussion on the Impact of Church Practices13:11 Exploring the Role of Workers in the Church: A Second Look16:20 Reflections on the Impact of Religion on Society22:40 Final Thoughts and Future Plans",
+      "release": "2024-02-09T16:32:23Z",
+      "duration": "00:31:53.0400000",
+      "explicit": true,
+      "spotifyId": "4ETI9L58WZHg9Zh6cjqrHO",
+      "appleId": 1000644781617,
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ETI9L58WZHg9Zh6cjqrHO",
+        "apple": "https://podcasts.apple.com/podcast/2x2-bonus-episode-call-with-producer/id1713020121?i=1000644781617"
+      }
+    },
+    {
+      "id": "e1359149-9c29-46e5-86a6-1e7434e8c06c",
+      "title": "The Cult With No Name",
+      "description": "Jeff dives into part 1 covering the Cult with no name. Also known as \u0022The Truth\u0022 and \u00222X2\u0022This is a must listen.",
+      "release": "2024-02-04T17:13:51Z",
+      "duration": "00:41:15.9680000",
+      "explicit": false,
+      "spotifyId": "0ozuT1f5LUg3tioBSfC7Dt",
+      "appleId": 1000644115293,
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ozuT1f5LUg3tioBSfC7Dt",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-with-no-name/id1713020121?i=1000644115293"
+      }
+    }
+  ]
+}

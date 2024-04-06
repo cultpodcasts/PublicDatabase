@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "f08548cb-fd55-4caf-ae9d-dc58b62633ca",
+  "name": "It\u0027s Been a Minute",
+  "spotifyId": "6gcw7EF2i70vXXXJnhBNgA",
+  "appleId": 1250180134,
+  "episodes": [
+    {
+      "id": "8d45f3d4-2dba-4f34-9da3-a0f877b7f7f3",
+      "title": "Why people love cults",
+      "description": "Brittany chats with Professor Poulomi Saha about America\u0027s obsession with cults. With so many shows choose from, cult documentaries could now be seen as their own genre. But what might our fascination with cults reveal about society\u0027s shortfalls?",
+      "release": "2024-01-26T22:23:43Z",
+      "duration": "00:30:59",
+      "explicit": false,
+      "spotifyId": "3bV2iYBUiOsn6gL316eqSe",
+      "appleId": 1000643138881,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3bV2iYBUiOsn6gL316eqSe",
+        "apple": "https://podcasts.apple.com/podcast/south-africas-case-for-preventing-genocide-in-palestine/id1250180134?i=1000643138881"
+      }
+    }
+  ]
+}
