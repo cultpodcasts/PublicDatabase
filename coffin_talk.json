@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "c090881f-d888-4626-a785-08ab588b6e6e",
+  "name": "Coffin Talk",
+  "spotifyId": "3b5wMPRVcWeysEeuVgiqQS",
+  "appleId": 1551574282,
+  "episodes": [
+    {
+      "id": "91be4458-d58b-4920-8376-7294f327d85f",
+      "title": "#144 - A Cult Kid - Amrit Evans - \u0022Blended Soup\u0022",
+      "description": "Amrit Evans was born and raised in San Francisco and is the manager of SF Puppy Prep, a training school for puppies. Amrit grew up as a Sikh in the 3HO community but slowly faded from the practices by her twenties. In her free time, she is a gamer, athlete, dog-mom, singer, and spends time with family and friends. Please rate us on Apple and Spotify and subscribe for free at mikeyopp.com This is a public episode. If you\u2019d like to discuss this with other subscribers or get access to bonus episodes, visit mikeyopp.substack.com/subscribe",
+      "release": "2023-10-22T07:00:00Z",
+      "duration": "00:34:47.7830000",
+      "explicit": false,
+      "spotifyId": "67hi4CoQ1ooyLmrmpjBRa8",
+      "appleId": 1000632162540,
+      "subjects": [
+        "3HO",
+        "Sikhism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/67hi4CoQ1ooyLmrmpjBRa8",
+        "apple": "https://podcasts.apple.com/podcast/144-a-cult-kid-amrit-evans-blended-soup/id1551574282?i=1000632162540"
+      }
+    }
+  ]
+}

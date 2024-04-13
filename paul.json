@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "6542c446-242e-4b73-997e-700a2249fdc9",
+  "name": "Paul",
+  "youTubeChannelId": "UCqKvPFykfU18WiPd7MU1rxw",
+  "episodes": [
+    {
+      "id": "a0978921-c9ce-4910-9ec2-378d7071321f",
+      "title": "Shivananda\u0027s Cult",
+      "description": "Shivananda Swamiji Italy",
+      "release": "2024-04-11T18:00:00Z",
+      "duration": "00:09:22",
+      "explicit": false,
+      "youTubeId": "0f-RFbEtMz4",
+      "subjects": [
+        "Shivananda Swamiji"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0f-RFbEtMz4"
+      }
+    }
+  ]
+}

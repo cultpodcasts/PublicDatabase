@@ -7,14 +7,34 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "acfdcd53-e5f4-4186-a193-b278331735ce",
+      "title": "on faith, fanaticism, and folly with Anthony Spurgin",
+      "description": "Anthony spent his teens in a Traditional Catholic group. He talks with Jon about the dangers of ridicule and how we can best talk with fanatical believers. Jon refers to his own dogmatic belief in The Life of Brian.\n\nLinks:\n\nAnthony\u0027s \u0022Dragons of Victory\u0022 Channel:\nhttps://www.youtube.com/@TheDragonsofVictory\n\nAnthony\u0027s artistic channel:\nhttps://www.youtube.com/@SuperRaccoonguy \n\nThe Tradrecovery website:\nhttps://www.tradrecovery.com \n\nJohn Collins\u0027 work on William Branham:\nhttps://william-branham.org\n\nMark Marron\u0027s hilarious visit to the Creationist Museum:\nhttps://youtu.be/-EQHdu-rS6E?si=KIZn9TAncC86zXSP",
+      "release": "2024-04-13T07:39:31Z",
+      "duration": "01:37:36",
+      "explicit": false,
+      "youTubeId": "6qwSYUWLQUc",
+      "subjects": [
+        "Catholicism",
+        "William M. Branham"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6qwSYUWLQUc"
+      }
+    },
+    {
       "id": "9a36a689-c490-44bf-8b88-34bd3f449b42",
       "title": "inside the mind of a sociopath with Shawn McCraney",
       "description": "Shawn McCraney realized that he was a sociopath in 1997 and decided he had to change. He still has to work at it every day, but he provides invaluable insights into the inner workings of a predatory mind. Shawn talks with Jon about the movie Butcher Boy. He identifies closely with the boy who is the villain of the movie. A wide-ranging conversation about art, faith, personality, and change.",
       "release": "2024-04-06T06:00:05Z",
       "duration": "01:22:08",
       "explicit": false,
+      "spotifyId": "6S8RckfQaaKvgShTQD542r",
+      "appleId": 1000651691503,
       "youTubeId": "DOv_0EI48eM",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6S8RckfQaaKvgShTQD542r",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-mind-of-a-sociopath-with-shawn-mccraney/id1534364303?i=1000651691503",
         "youtube": "https://www.youtube.com/watch?v=DOv_0EI48eM"
       }
     },

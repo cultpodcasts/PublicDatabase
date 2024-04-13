@@ -1004,6 +1004,9 @@
       "explicit": true,
       "spotifyId": "5GauqCeoECBjlyQTe0LYez",
       "appleId": 1000416304519,
+      "subjects": [
+        "Symbionese Liberation Army"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5GauqCeoECBjlyQTe0LYez",
         "apple": "https://podcasts.apple.com/podcast/3-symbionese-liberation-army/id1156282886?i=1000416304519"

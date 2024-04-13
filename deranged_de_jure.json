@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8c338675-b7f8-4d0f-89e1-3ba6f6146a12",
+  "name": "Deranged De Jure",
+  "spotifyId": "3TkSLD0tCiX47yuXjzOStv",
+  "appleId": 1724447733,
+  "episodes": [
+    {
+      "id": "7de0ee43-a60b-462a-9db1-160bbe7b812f",
+      "title": "Right Wing Extremes Part 2: Waco",
+      "description": "Following the progression from Ruby Ridge to January 6th, we continue with one of the loudest rallying cries for right wing extremists, the 1993 siege at Waco. Discussion including the origins of the Branch Davidians, David Koresh and his stake-out of Mount Carmel, along with the lack of accountability by the feds for the 76 tragic deaths that occurred during the 51-day siege.",
+      "release": "2024-04-12T17:21:57Z",
+      "duration": "01:15:46.9540000",
+      "explicit": true,
+      "spotifyId": "2rYCRWfSS49rIDYde1JIPa",
+      "appleId": 1000652280317,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rYCRWfSS49rIDYde1JIPa",
+        "apple": "https://podcasts.apple.com/podcast/right-wing-extremes-part-2-waco/id1724447733?i=1000652280317"
+      }
+    }
+  ]
+}

@@ -58,11 +58,15 @@
       "release": "2024-03-19T18:00:06Z",
       "duration": "00:52:25",
       "explicit": false,
+      "spotifyId": "2RfEgs7CDnllCXud2rXK8c",
+      "appleId": 1000651878906,
       "youTubeId": "4RhLhnS6RNw",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2RfEgs7CDnllCXud2rXK8c",
+        "apple": "https://podcasts.apple.com/podcast/the-shadow-operative-unveiling-eugene-ingrams-dark/id1671284503?i=1000651878906",
         "youtube": "https://www.youtube.com/watch?v=4RhLhnS6RNw"
       }
     },

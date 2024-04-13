@@ -3599,6 +3599,7 @@
       "spotifyId": "0L1eOcGRhCZsdPj13XA2Oj",
       "appleId": 1000447313847,
       "subjects": [
+        "Symbionese Liberation Army",
         "Political Cult"
       ],
       "urls": {
@@ -3615,6 +3616,10 @@
       "explicit": false,
       "spotifyId": "3bZEcdwG6y139U1Hd1qQ9G",
       "appleId": 1000446781758,
+      "subjects": [
+        "Symbionese Liberation Army",
+        "Political Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bZEcdwG6y139U1Hd1qQ9G",
         "apple": "https://podcasts.apple.com/podcast/symbionese-liberation-army-donald-defreeze/id1286818575?i=1000446781758"

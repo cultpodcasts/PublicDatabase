@@ -6,6 +6,23 @@
   "appleId": 1626200481,
   "episodes": [
     {
+      "id": "2bd0e7d6-ccc5-415f-9fac-1159d32b64c2",
+      "title": "Elan School",
+      "description": "Hey guys! In this weeks episode, we talk about the infamous Elan School, which took place in my home state! We dive into events that took place and more. Stay safe friends, enjoy x",
+      "release": "2024-04-10T00:00:00Z",
+      "duration": "00:26:16",
+      "explicit": false,
+      "spotifyId": "37AHwSov7VJLX8IeS6AzWr",
+      "appleId": 1000651960291,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37AHwSov7VJLX8IeS6AzWr",
+        "apple": "https://podcasts.apple.com/us/podcast/elan-school/id1626200481?i=1000651960291"
+      }
+    },
+    {
       "id": "0e315db1-9786-4e83-b116-d54573da5aad",
       "title": "Branch Davidians",
       "description": "Hey guys! In this episode, we talk about the Branch Davidian cult. We discuss the history of the cult, as well as the events that took place in Waco. Enjoy!",

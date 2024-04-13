@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "fb1b744c-d736-44ff-9937-40aeae61ff63",
+  "name": "Extra Vision",
+  "spotifyId": "24mN3Yvl1OfLqpMgmupZXF",
+  "appleId": 1511312822,
+  "episodes": [
+    {
+      "id": "f7b8b62b-355e-4668-badd-ce15c9dcde51",
+      "title": "One Night in Millstreet with Steve Collins",
+      "description": "I spoke with the subject of the fantastic documentary One Night in Millstreet. The former Middleweight and Super-Middleweight champion of the world. The Celtic Warrior Steve Collins Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-04-07T19:23:45Z",
+      "duration": "00:26:18.3700000",
+      "explicit": false,
+      "spotifyId": "4fC9Frl5MX0J89yk4X2CIp",
+      "appleId": 1000651696284,
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4fC9Frl5MX0J89yk4X2CIp",
+        "apple": "https://podcasts.apple.com/podcast/one-night-in-millstreet-with-steve-collins/id1511312822?i=1000651696284"
+      }
+    }
+  ]
+}

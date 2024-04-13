@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCqW2HHfCnkffi-HE60UHR8g",
   "episodes": [
     {
+      "id": "ad5183fe-17ef-4a59-8214-9e82de5b0d89",
+      "title": "Thinking out loud",
+      "description": "Just thinking about some things",
+      "release": "2024-04-09T00:13:44Z",
+      "duration": "01:06:27",
+      "explicit": false,
+      "youTubeId": "BsuYeZ5pSvI",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BsuYeZ5pSvI"
+      }
+    },
+    {
       "id": "96dc76cf-6cee-4eb2-b69e-d183054cb3ce",
       "title": "Guess who got real internet?? Let\u2019s talk Lord of the Flies IRL",
       "description": "Real life Lord of the Flies? Let\u2019s discuss and after we can do Q\u0026A or ask us anything",

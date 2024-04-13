@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "d266744c-1c03-4347-b1be-f73f244975c8",
+      "title": "149: Kenneth Hagin Part II",
+      "description": "We conclude our 2 part series on the vision-seeing madman.",
+      "release": "2024-04-10T04:43:01Z",
+      "duration": "01:53:29.5160000",
+      "explicit": false,
+      "spotifyId": "7GLA5QLc1QuDyw93AMOvkp",
+      "appleId": 1000651980494,
+      "subjects": [
+        "Kenneth E. Hagin"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7GLA5QLc1QuDyw93AMOvkp",
+        "apple": "https://podcasts.apple.com/podcast/149-kenneth-hagin-part-ii/id1573190999?i=1000651980494"
+      }
+    },
+    {
       "id": "509aac49-1141-4ce8-a433-ff1279e92177",
       "title": "148: Kenneth Hagin Part I",
       "description": "This week, we start our journey into the giddy powerhouse known as Kenneth Hagin.",

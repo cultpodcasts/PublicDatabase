@@ -1710,6 +1710,10 @@
       "explicit": true,
       "spotifyId": "2xlXETUEInwwrEERRgdD52",
       "appleId": 1000529343852,
+      "subjects": [
+        "Symbionese Liberation Army",
+        "Political Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2xlXETUEInwwrEERRgdD52",
         "apple": "https://podcasts.apple.com/podcast/ep-191-symbionese-liberation-army-pt-4-bone-law/id1276011417?i=1000529343852"
@@ -1724,6 +1728,10 @@
       "explicit": true,
       "spotifyId": "1iiBFCPsZFyqj1QEXpkWGk",
       "appleId": 1000528596694,
+      "subjects": [
+        "Symbionese Liberation Army",
+        "Political Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1iiBFCPsZFyqj1QEXpkWGk",
         "apple": "https://podcasts.apple.com/podcast/ep-190-symbionese-liberation-army-pt-3-theater-kids/id1276011417?i=1000528596694"
@@ -1738,6 +1746,9 @@
       "explicit": true,
       "spotifyId": "5Y4LpHBAQp1O67Qup0v3ch",
       "appleId": 1000527911645,
+      "subjects": [
+        "Symbionese Liberation Army"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Y4LpHBAQp1O67Qup0v3ch",
         "apple": "https://podcasts.apple.com/podcast/ep-189-symbionese-liberation-army-sigourney-was-my/id1276011417?i=1000527911645"
@@ -1752,6 +1763,9 @@
       "explicit": true,
       "spotifyId": "2G71IPMJPKTYiy6MBJYjQ3",
       "appleId": 1000527090918,
+      "subjects": [
+        "Symbionese Liberation Army"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2G71IPMJPKTYiy6MBJYjQ3",
         "apple": "https://podcasts.apple.com/podcast/ep-188-symbionese-liberation-army-pocket-bomb/id1276011417?i=1000527090918"
