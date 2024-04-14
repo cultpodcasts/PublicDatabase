@@ -16,12 +16,14 @@
       "explicit": false,
       "spotifyId": "3DM6TPvZcSZTntGEx3kcta",
       "appleId": 1000652226958,
+      "youTubeId": "FurtSYzlHUg",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3DM6TPvZcSZTntGEx3kcta",
-        "apple": "https://podcasts.apple.com/podcast/triple-murder-driven-by-thirst-for-sex-love-power-live/id1519456164?i=1000652226958"
+        "apple": "https://podcasts.apple.com/podcast/triple-murder-driven-by-thirst-for-sex-love-power-live/id1519456164?i=1000652226958",
+        "youtube": "https://www.youtube.com/watch?v=FurtSYzlHUg"
       }
     },
     {

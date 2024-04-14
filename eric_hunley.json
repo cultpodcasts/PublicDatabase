@@ -11,12 +11,16 @@
       "release": "2024-04-11T21:01:53Z",
       "duration": "01:25:26",
       "explicit": false,
+      "spotifyId": "6M6rEsBb6FDsxe32gWe22Z",
+      "appleId": 1000652194483,
       "youTubeId": "zoY5U7LyQCA",
       "subjects": [
         "Psychology",
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6M6rEsBb6FDsxe32gWe22Z",
+        "apple": "https://podcasts.apple.com/podcast/secrets-cults-murderers-eric-hunley/id1515932214?i=1000652194483",
         "youtube": "https://www.youtube.com/watch?v=zoY5U7LyQCA"
       }
     },

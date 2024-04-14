@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "04df03a4-85f6-405d-aadf-31d969894fe6",
+  "name": "Sex With Ghosts",
+  "spotifyId": "1a8KvMJM7JCxVC9x0lsd1t",
+  "appleId": 1522132818,
+  "episodes": [
+    {
+      "id": "5a2194da-2b58-4302-97bf-49a1d4f8a70d",
+      "title": "The Sullivanians: Sex, Drugs, \u0026 Therapy ",
+      "description": "Mollie is gone this week. Friend of the pod, Kristin, fills in with a cult that checks all the boxes.",
+      "release": "2024-04-14T00:39:12Z",
+      "duration": "01:05:44.6200000",
+      "explicit": false,
+      "spotifyId": "4n3l1oLPqWJhHzM8yKziZp",
+      "appleId": 1000652363557,
+      "subjects": [
+        "Sullivanians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4n3l1oLPqWJhHzM8yKziZp",
+        "apple": "https://podcasts.apple.com/podcast/the-sullivanians-sex-drugs-therapy/id1522132818?i=1000652363557"
+      }
+    }
+  ]
+}

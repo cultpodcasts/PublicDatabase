@@ -13,12 +13,16 @@
       "release": "2024-04-13T07:39:31Z",
       "duration": "01:37:36",
       "explicit": false,
+      "spotifyId": "1htdgr2ZUsSmI0Txt1b4vy",
+      "appleId": 1000652367058,
       "youTubeId": "6qwSYUWLQUc",
       "subjects": [
         "Catholicism",
         "William M. Branham"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1htdgr2ZUsSmI0Txt1b4vy",
+        "apple": "https://podcasts.apple.com/podcast/on-faith-fanaticism-and-folly-with-anthony-spurgin/id1534364303?i=1000652367058",
         "youtube": "https://www.youtube.com/watch?v=6qwSYUWLQUc"
       }
     },
