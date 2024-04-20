@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "338d3d3b-bf9c-48a7-b712-dc86d63838cd",
+  "name": "The Everygirl Podcast",
+  "spotifyId": "2mD06YMHW00RQRMNDb6rUX",
+  "appleId": 1632453113,
+  "episodes": [
+    {
+      "id": "bba485c0-c589-48f7-9fd8-014523a531a2",
+      "title": "Why Toxic Relationships Are Like a Cult and Swifties Are Under the Halo Effect, With Amanda Montell",
+      "description": "Amanda Montell is the author of Wordslut: A Feminist Guide to Taking Back the English Language, and her latest book, The Age of Magical Overthinking: Notes on Modern Irrationality. In this episode, Amanda breaks down cognitive biases that impact us all in the modern information age, from the halo effect driving our obsession with celebrities (hi, Taylor Swift), to the sunk cost fallacy that may make us stay in a relationship that we know is not good for us (\u0022a toxic relationship is a cult of one\u0022). Amanda shares what she learned about these psychology principles to offer groundbreaking advice that will improve your mental health, relationships, joy, and self-esteem. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-04-16T08:30:58Z",
+      "duration": "01:13:37.9060000",
+      "explicit": false,
+      "spotifyId": "1qInKmEML9bj43mYT0Oxmx",
+      "appleId": 1000652591003,
+      "subjects": [
+        "One-on-one",
+        "Family Cult",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1qInKmEML9bj43mYT0Oxmx",
+        "apple": "https://podcasts.apple.com/podcast/why-toxic-relationships-are-like-a-cult-and/id1632453113?i=1000652591003"
+      }
+    }
+  ]
+}

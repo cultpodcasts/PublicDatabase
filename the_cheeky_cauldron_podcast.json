@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "64796268-153f-4cee-96b6-12d64cccd969",
+  "name": "The Cheeky Cauldron Podcast",
+  "spotifyId": "39TQj2iilRHlraKcxMZdeE",
+  "appleId": 1727453222,
+  "youTubeChannelId": "UCbgSr1nbXwoC2BvuFR_uh2g",
+  "episodes": [
+    {
+      "id": "664605da-61e9-4e78-bd7c-962e718c0141",
+      "title": "S1 E13 - Religion and Spirituality - Cults",
+      "description": "Tune in to this thought-provoking episode about a cult hidden in plain sight within a sleepy suburban neighborhood in Austin, TX. Cult survivor and published author, Julia Heart, shares her harrowing experience as a devoted cult member. Learn how she found freedom from the mental chains that held her captive and went on to live a fulfilling life. Subscribe, Follow, Like - you know - all the things! Thank you!  #cults #cultsurvivors #cultredflags #yellowrose #sextrafficking #sexualtrauma",
+      "release": "2024-04-18T14:00:06Z",
+      "duration": "00:56:17",
+      "explicit": false,
+      "spotifyId": "7tAMPmXEJyW7DgyjIteXAT",
+      "appleId": 1000652867691,
+      "youTubeId": "W7YLrRzSnpw",
+      "subjects": [
+        "Therapy Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7tAMPmXEJyW7DgyjIteXAT",
+        "apple": "https://podcasts.apple.com/podcast/s1-e13-religion-and-spirituality-cults/id1727453222?i=1000652867691",
+        "youtube": "https://www.youtube.com/watch?v=W7YLrRzSnpw"
+      }
+    }
+  ]
+}

@@ -1,10 +1,48 @@
 {
   "_ts": 0,
   "id": "1b9c8096-f66f-4921-a84e-52ee1e863dff",
-  "name": "JRE Clips",
+  "name": "The Joe Rogan Experience",
   "spotifyId": "1LMmQF9PH8LjYrktU0Oq5Y",
+  "appleId": 360084272,
   "youTubeChannelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
   "episodes": [
+    {
+      "id": "114dd2f5-618b-4171-b7bc-559582a022d0",
+      "title": "Michelle Dowd on Surviving Growing Up in Her Family\u0027s Cult",
+      "description": "JRE #2137  w/Michelle Dowd\nYouTube: https://youtu.be/ELGY6HfkENg\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+      "release": "2024-04-18T17:15:02Z",
+      "duration": "00:14:55",
+      "explicit": false,
+      "spotifyId": "3WR3sALXn3djlnmV5YUq5x",
+      "youTubeId": "SIjs2xYANbc",
+      "subjects": [
+        "Kare Youth League"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3WR3sALXn3djlnmV5YUq5x",
+        "youtube": "https://www.youtube.com/watch?v=SIjs2xYANbc"
+      }
+    },
+    {
+      "id": "f9961bdb-0dec-41f4-9efc-fb43d039d5a4",
+      "title": "Joe Rogan Experience #2137 - Michelle Dowd",
+      "description": "Michelle Dowd is the author of \u0022Forager: Field Notes on Surviving a Family Cult,\u0022 revealing her life growing up on an isolated mountain within an apocalyptic cult, and how she found her way out by gleaning strength from the wilderness.\n \nhttps://www.michelledowd.org/\nhttps://twitter.com/Michelledowd2",
+      "release": "2024-04-18T17:00:07Z",
+      "duration": "02:53:05",
+      "explicit": false,
+      "spotifyId": "2ipcHULT1mmVIR9nQKNCD3",
+      "appleId": 1000652884570,
+      "youTubeId": "ELGY6HfkENg",
+      "subjects": [
+        "Kare Youth League",
+        "Buddhafield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2ipcHULT1mmVIR9nQKNCD3",
+        "apple": "https://podcasts.apple.com/podcast/2137-michelle-dowd/id360084272?i=1000652884570",
+        "youtube": "https://www.youtube.com/watch?v=ELGY6HfkENg"
+      }
+    },
     {
       "id": "2ecb6085-4784-44da-8cc5-89d082365dc2",
       "title": "The Psychology of Cult Members and Fanatics",

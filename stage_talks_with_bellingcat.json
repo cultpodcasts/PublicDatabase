@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "3ba52e75-60eb-4183-9107-65fb054b262a",
+  "name": "Stage Talks with Bellingcat",
+  "spotifyId": "6FTTUanItsumtHPtZjwOP8",
+  "episodes": [
+    {
+      "id": "2b134e43-20b9-4bb2-a663-85eb58b9fdbf",
+      "title": "\u0022Researching the Troubled Teen Industry\u0022 with Bellingcat Discord community member Allison Jenkins",
+      "description": "This week\u0027s live Stage Talk was slightly different, we were joined by a Discord community member/open source researcher, Allison Jenkins. Allison was speaking on an ongoing project that she was looking for support on. Allison has lived experience of the Troubled Teen Industry and realised there was a lack of comprehensive and easy to access information on the industry for concerned parents or for potential future accountability. So over the last few years she has been building a publicly accessible information database on the institutions and companies involved in the industry, using open source techniques. At the time of the talk Allison was having difficulty finishing the project and getting it ready for public view, due to funding and resource restrictions. If you want to help Allison with her work, join our Discord server and ask for further information: www.discord.gg/bellingcat Links that were mentioned in the chat: The background article on the TTI: https://www.motherjones.com/politics/2007/08/cult-spawned-tough-love-teen-industry/ https://xjdp.aspi.org.au/ WASP: https://en.wikipedia.org/wiki/World_Wide_Association_of_Specialty_Programs_and_Schools Allison (and her ArchivEye tool) is featured in the article of the 2023 Bellingcat Hackathon here: https://www.bellingcat.com/resources/2023/06/16/third-hackathon-open-source-tools/ Project from the Bellingcat hackathon: https://github.com/eastrd/ArchivEye The talk was hosted by Charlotte Maher on Thursday the 11th of April in the Bellingcat discord server. Music courtesy of Artlist.",
+      "release": "2024-04-15T00:00:00",
+      "duration": "00:59:38.3040000",
+      "explicit": false,
+      "spotifyId": "7qaKuO06MgKOwdoIfNeHJI",
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7qaKuO06MgKOwdoIfNeHJI"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "3646450f-db90-4bba-a6a6-01d6c507bb15",
+  "name": "On Tap Podcast",
+  "spotifyId": "6yBoMwM51ev6YpD5RjhQr7",
+  "appleId": 1494611780,
+  "youTubeChannelId": "UC6R1n1wldKNcsPeaHQ1gSEA",
+  "episodes": [
+    {
+      "id": "0042cfb9-92ac-4c54-94da-4b0ba3773fe3",
+      "title": "How Childhood Trauma Shaped Us Ft. Keith (Avery20Ga) \uD83C\uDF7B On Tap #193",
+      "description": "We\u2019re peaking behind the curtains of communities like the Jehovah\u2019s Witnesses, tackling the intricacies of code-switching, and examining the diverse cultural influences that shape our identities. From stories of our own childhood trauma to lessons learned along the way. So tune in, share a laugh, and maybe even see a reflection of your own story as we navigate these shared human experiences. 0:00 Childhood Trauma and Family Secrets 3:05 Family\u0027s Journey Through Legal Troubles 9:30 Father\u0027s Return Home After Prison 12:48 Father-Son Bonding and Family Dynamics 19:24 Talking About Jehovah\u0027s Witnesses 25:26 Childhood Trauma 37:31 Money as a Tool for Goals 43:12 Childhood Memories on the School Bus 54:30 Cultural Exploration Through Friendship 57:03 Cultural Identity and Assumptions 1:03:46 Educational System and Childhood Trauma 1:13:46 Code Switching and Cultural Identities 1:19:41 Exploring Minnesota\u0027s Diverse Cultural Landscape Check out our sticker packs at OnTapWithTheBoiz.com",
+      "release": "2024-04-16T05:00:00Z",
+      "duration": "01:21:23.3330000",
+      "explicit": true,
+      "spotifyId": "27pafQIKyYuNavmFJGAuQf",
+      "appleId": 1000652574590,
+      "youTubeId": "yC0h6CJ8YFI",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/27pafQIKyYuNavmFJGAuQf",
+        "apple": "https://podcasts.apple.com/podcast/how-childhood-trauma-shaped-us-ft-keith-avery20ga-on-tap-193/id1494611780?i=1000652574590",
+        "youtube": "https://www.youtube.com/watch?v=yC0h6CJ8YFI"
+      }
+    }
+  ]
+}
