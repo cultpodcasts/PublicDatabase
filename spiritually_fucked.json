@@ -6,6 +6,23 @@
   "appleId": 1712148990,
   "episodes": [
     {
+      "id": "450a6e7f-8d31-4a15-be02-58acefb735e5",
+      "title": "Serge Benhayon: The DaVinci of Toilet Prophets",
+      "description": "Serge Benhayon is a nut job who believes (amongst many things) that he received divine messages while taking a prolonged #2. Needless to say things don\u0027t get much better from there.",
+      "release": "2024-04-24T10:30:00Z",
+      "duration": "00:44:27.9140000",
+      "explicit": false,
+      "spotifyId": "36J4EmImdPju1KfLEUSPad",
+      "appleId": 1000653444347,
+      "subjects": [
+        "Universal Medicine"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/36J4EmImdPju1KfLEUSPad",
+        "apple": "https://podcasts.apple.com/podcast/serge-benhayon-the-davinci-of-toilet-prophets/id1712148990?i=1000653444347"
+      }
+    },
+    {
       "id": "ae8e0fe4-9abe-4f57-a968-6bc9e8d3f51b",
       "title": "One Taste: An Orgasmic Mediation Circle Jerk",
       "description": "OneTaste was a San Francisco-based startup in the early aughts based on the concept of Orgasmic Meditation. But what started as a women\u0027s empowerment group turned real fucking shady as its founder tried to turn their circle jerk into a religion.",

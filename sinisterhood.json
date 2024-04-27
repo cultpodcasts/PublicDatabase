@@ -4,7 +4,25 @@
   "name": "Sinisterhood",
   "spotifyId": "3k2zyY36LXPj0vBjuO0d6S",
   "appleId": 1391483100,
+  "youTubeChannelId": "UCKGnI1fe7mLTvda2cdEdhYQ",
   "episodes": [
+    {
+      "id": "5404f5c1-1ac4-48a2-b863-35a8ef207c5a",
+      "title": "Episode 287: The Cult of Synanon - Part 3",
+      "description": "By the late 1970s, the once heralded haven for those struggling with addiction had turned into a multi-million dollar corporation. With its sights set less on saving lives and more on cashing in and accumulating guns, the formerly sterling reputation of Synanon began to tarnish. As soon as they began acting on their violent threats, the thin thread holding the whole group together frayed into oblivion. But the group\u2019s legacy is one thing its virulent dictator couldn\u2019t control. This week\u2019s episode is The Cult of Synanon - Part 3. Click here for this week\u0027s show notes. Click here to sign up for our Patreon and receive hundreds of hours of bonus content. Please click here to leave a review and tell us what you think of the show. Please consider supporting the companies that support us! -Cut your wireless bill to 15 bucks a month at MINTMOBILE.com/sinisterhood -Go to Zocdoc.com/CREEPY and download the Zocdoc app for FREE. Then find and book a top-rated doctor today",
+      "release": "2024-04-24T05:00:00Z",
+      "duration": "01:50:05.5830000",
+      "explicit": true,
+      "spotifyId": "2rZbN3idMKfknlV4BfZYzE",
+      "appleId": 1000653416247,
+      "subjects": [
+        "Synanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rZbN3idMKfknlV4BfZYzE",
+        "apple": "https://podcasts.apple.com/podcast/episode-287-the-cult-of-synanon-part-3/id1391483100?i=1000653416247"
+      }
+    },
     {
       "id": "1aa3a5b1-7137-4d3b-8214-c8d732d0ac4d",
       "title": "Episode 286: The Cult of Synanon - Part 2",
@@ -14,16 +32,18 @@
       "explicit": true,
       "spotifyId": "5glb39XHUJ9MpcWLC3TLiu",
       "appleId": 1000652696273,
+      "youTubeId": "5DNEcn_dFWk",
       "subjects": [
         "Synanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5glb39XHUJ9MpcWLC3TLiu",
-        "apple": "https://podcasts.apple.com/podcast/episode-286-the-cult-of-synanon-part-2/id1391483100?i=1000652696273"
+        "apple": "https://podcasts.apple.com/podcast/episode-286-the-cult-of-synanon-part-2/id1391483100?i=1000652696273",
+        "youtube": "https://www.youtube.com/watch?v=5DNEcn_dFWk"
       }
     },
     {
-      "id": "e3c3177f-0ff4-48b1-ad46-4404029f674f",
+      "id": "0c548a3a-d86f-460d-b17b-3a39ad912d80",
       "title": "Episode 285: The Cult of Synanon - Part 1",
       "description": "What began as a drug rehabilitation program soon transformed into a controversial community. Its unconventional methods gained nationwide coverage, attracting celebrity interest and political support. But over time, its boisterous leader shifted the group\u2019s focus towards profit-making endeavors to fund his vision for a utopian society. This week\u2019s episode is The Cult of Synanon - Part 1 Click here for this week\u0027s show notes. Click here to sign up for our Patreon and receive hundreds of hours of bonus content. Please click here to leave a review and tell us what you think of the show. Please consider supporting the companies that support us! -Go to PoshPeanut.com/CREEPY , and use promo code CREEPY for 20% off your first order -Visit OliveandJune.com/CREEPY for 20% off your first Mani System! -Head to TryFum.com and use code CREEPY to save 10% off when you get the Journey pack today",
       "release": "2024-04-10T05:00:00Z",
@@ -31,12 +51,14 @@
       "explicit": true,
       "spotifyId": "2rTiXpV475yTZmhoY8MMb7",
       "appleId": 1000651982561,
+      "youTubeId": "GIJFr4d-r0k",
       "subjects": [
         "Synanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rTiXpV475yTZmhoY8MMb7",
-        "apple": "https://podcasts.apple.com/podcast/episode-285-the-cult-of-synanon-part-1/id1391483100?i=1000651982561"
+        "apple": "https://podcasts.apple.com/podcast/episode-285-the-cult-of-synanon-part-1/id1391483100?i=1000651982561",
+        "youtube": "https://www.youtube.com/watch?v=GIJFr4d-r0k"
       }
     }
   ]

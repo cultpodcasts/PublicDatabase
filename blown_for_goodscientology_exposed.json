@@ -43,11 +43,15 @@
       "release": "2024-03-26T14:00:05Z",
       "duration": "01:04:42",
       "explicit": false,
+      "spotifyId": "5tAVWq3oSJ9bQvAnzI6CmT",
+      "appleId": 1000653317021,
       "youTubeId": "A0F32rYxhgI",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5tAVWq3oSJ9bQvAnzI6CmT",
+        "apple": "https://podcasts.apple.com/podcast/jenny-linsons-scientology-saga-violence-allegations/id1671284503?i=1000653317021",
         "youtube": "https://www.youtube.com/watch?v=A0F32rYxhgI"
       }
     },

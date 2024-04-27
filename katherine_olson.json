@@ -1,0 +1,37 @@
+{
+  "_ts": 0,
+  "id": "d605927d-cfe6-456e-8140-42312e744a08",
+  "name": "Katherine Olson",
+  "youTubeChannelId": "UCpuAoRSmnmDOM4TAfD3hA7g",
+  "episodes": [
+    {
+      "id": "3a58e9a2-80e2-4052-a7dc-52ccdd395341",
+      "title": "Adventures of Faucet Cat (Prologue)",
+      "release": "2024-04-23T19:39:31Z",
+      "duration": "00:00:57",
+      "explicit": false,
+      "youTubeId": "9foXsGOMQgw",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9foXsGOMQgw"
+      }
+    },
+    {
+      "id": "ac25b5f7-821a-497f-8992-2878e06ee3b2",
+      "title": "Hello, I am Katherine Olson",
+      "description": "This is a simple introduction to my channel.",
+      "release": "2024-04-23T01:01:53Z",
+      "duration": "00:02:56",
+      "explicit": false,
+      "youTubeId": "51fQ6qpesGY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=51fQ6qpesGY"
+      }
+    }
+  ]
+}

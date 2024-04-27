@@ -16,12 +16,14 @@
       "explicit": false,
       "spotifyId": "5jO7hzhHL7qvrEUdWmVUbJ",
       "appleId": 1000653062817,
+      "youTubeId": "bmewji96lEY",
       "subjects": [
         "Church of Immortal Consciousness"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5jO7hzhHL7qvrEUdWmVUbJ",
-        "apple": "https://podcasts.apple.com/podcast/from-junior-high-to-cult-service-my-journey-through/id1723601274?i=1000653062817"
+        "apple": "https://podcasts.apple.com/podcast/from-junior-high-to-cult-service-my-journey-through/id1723601274?i=1000653062817",
+        "youtube": "https://www.youtube.com/watch?v=bmewji96lEY"
       }
     },
     {

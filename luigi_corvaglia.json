@@ -5,6 +5,51 @@
   "youTubeChannelId": "UC8Wwvdt6MheGPy9pJY-9g3w",
   "episodes": [
     {
+      "id": "723b5353-9fcf-4c6c-a61a-6a394415555f",
+      "title": "Dibattito sulle \u0022sette\u0022 fra Luigi Corvaglia e Raffaella Di Marzio",
+      "description": "Estratto dalla puntata del 20 Aprile 2024 di \u0022Mi manda Rai tre\u0022",
+      "release": "2024-04-24T12:45:01Z",
+      "duration": "00:12:20",
+      "explicit": false,
+      "youTubeId": "06hVcT5oN3I",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=06hVcT5oN3I"
+      }
+    },
+    {
+      "id": "2ed4e4c7-1661-4ad5-a4ce-4dc2bee8c79e",
+      "title": "Luigi Corvaglia sui culti distruttivi",
+      "description": "Estratto dal servizio \u0022Vade Retro Guru\u0022 di Rita Rocca del quale una versione \u00E8 andata in onda nel corso del programma \u0022Mi manda Rai 3\u0022 del 20 Aprile 2024",
+      "release": "2024-04-24T11:46:58Z",
+      "duration": "00:05:46",
+      "explicit": false,
+      "youTubeId": "ErYXxp4oR5M",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ErYXxp4oR5M"
+      }
+    },
+    {
+      "id": "15941342-d503-4809-9a00-265cb2b5069b",
+      "title": "Vade Retro Guru",
+      "description": "Versione estesa del servizio di Rita Rocca andato in onda il 20 Aprile 2024 nel corso della trasmissione \u0022Mi manda Rai Tre\u0022. Interviste a Luigi Corvaglia, Rita Repetto, Lorita Tinelli, Bruno Zambon",
+      "release": "2024-04-23T07:42:40Z",
+      "duration": "00:17:44",
+      "explicit": false,
+      "youTubeId": "Wsz6rr431kA",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Wsz6rr431kA"
+      }
+    },
+    {
       "id": "fdd74ca4-a359-436c-a8d9-23cc4a5f8055",
       "title": "Fanatismo religioso. Luigi Corvaglia al Gr1 (11 Febbraio 2024)",
       "description": "Modifica con InShot: https://inshotshare.app",

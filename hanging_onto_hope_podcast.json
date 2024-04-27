@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "2e2c89bd-da0d-4535-866a-9c50a675730e",
+  "name": "Hanging Onto Hope Podcast",
+  "spotifyId": "1bQ1F5R35Kn8cBY2d7qOq4",
+  "appleId": 1551277022,
+  "youTubeChannelId": "UCrOVZPhjrYnPdg0hVeKIluw",
+  "episodes": [
+    {
+      "id": "cae9b149-0159-4b8e-b136-05f88c69def2",
+      "title": "#166 My Story of Cult Abuse and How I Became Jane Doe IV in The Bill Gothard Lawsuit With Lauren Rose",
+      "description": "Brenda J and Karen W interview Lauren Rose, a domestic and cult abuse survivor, advocate, and Communications Coordinator for Called To Peace Ministries. Lauren Rose tells her story of cult abuse and how it led up to her becoming Jane Doe IV in the lawsuit against Bill Gothard. She also talks about how Joy Forrest and Called To Peace Ministries played an important role in her healing journey. https://www.calledtopeace.org https://hangingontohope.org",
+      "release": "2024-04-26T07:00:00Z",
+      "duration": "00:22:21.6830000",
+      "explicit": false,
+      "spotifyId": "72OGkSGyXwwGkFixSmbcJZ",
+      "appleId": 1000653659007,
+      "youTubeId": "dmnIdy4RNas",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72OGkSGyXwwGkFixSmbcJZ",
+        "apple": "https://podcasts.apple.com/podcast/166-my-story-of-cult-abuse-and-how-i-became-jane-doe/id1551277022?i=1000653659007",
+        "youtube": "https://www.youtube.com/watch?v=dmnIdy4RNas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "9cf30d9d-9b55-4377-8449-9631f54fa70e",
+  "name": "Psychology Is",
+  "spotifyId": "56LUz8rrjxXiwuRBiMZAxD",
+  "appleId": 1541021728,
+  "youTubeChannelId": "UC8FNuog8JveZ9yIR8w8FUeQ",
+  "episodes": [
+    {
+      "id": "4bcb56f4-e467-43dc-b68d-3c3bdd2a3b20",
+      "title": "60: Steven Hassan | Cults and Mind Control",
+      "description": "Dr. Hassan is the world\u2019s foremost expert on mind control and the psychology of cults and we have a fascinating conversation based on his seminal book, Combatting Cult Mind Control. We are all vulnerable to mind control because we are all vulnerable to the situational factors that make an individual vulnerable to mind control. Learn more about Dr. Hassan\u0027s work here: freedomofmind.com \u2728Want to support Psychology Is? Visit https://patreon.com/psychologyis --- Support this podcast: https://podcasters.spotify.com/pod/show/psychologyis/support",
+      "release": "2024-04-23T14:00:00Z",
+      "duration": "00:57:55.6690000",
+      "explicit": false,
+      "spotifyId": "4Oa1FKZKTizrh4vZ4xwhcu",
+      "appleId": 1000653338451,
+      "youTubeId": "HofMIbMHfKU",
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Oa1FKZKTizrh4vZ4xwhcu",
+        "apple": "https://podcasts.apple.com/podcast/60-steven-hassan-cults-and-mind-control/id1541021728?i=1000653338451",
+        "youtube": "https://www.youtube.com/watch?v=HofMIbMHfKU"
+      }
+    }
+  ]
+}

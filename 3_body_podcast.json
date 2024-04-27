@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6a23319d-33f7-477d-9b89-c8d51105d9be",
+  "name": "3 Body Podcast",
+  "spotifyId": "53YOrCZIS7WFc80tt1Kq4r",
+  "appleId": 1733588331,
+  "episodes": [
+    {
+      "id": "aa05ff8d-7280-4f31-b869-f2dde9ea960f",
+      "title": "Cults and The ETO \u0026 capturing the Panama Canal sequence",
+      "description": "Hosts Dr. Maggie Aderin-Pocock and Jason Concepcion [..] call on the expertise of Dr. Alexandra Stein, social psychologist and author specializing in cults and extremist groups, to scrutinize the ETO, and explain the real world markers of a cult. SPOILER ALERT: We will be covering episodes 4 and 5 of the series, so if you haven\u2019t watched that far yet, be sure to catch up on Netflix now. The 3 Body Podcast is produced by Netflix and Sony Music Entertainment.",
+      "release": "2024-04-11T07:10:00Z",
+      "duration": "00:53:07.3820000",
+      "explicit": false,
+      "spotifyId": "42XaJPSxvSd7Lvq5sUN8QA",
+      "appleId": 1000652115650,
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/42XaJPSxvSd7Lvq5sUN8QA",
+        "apple": "https://podcasts.apple.com/podcast/cults-and-the-eto-capturing-the-panama-canal-sequence/id1733588331?i=1000652115650"
+      }
+    }
+  ]
+}

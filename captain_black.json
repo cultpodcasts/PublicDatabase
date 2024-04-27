@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCkQRjqK4MDth4tUi19Ae0Yg",
   "episodes": [
     {
+      "id": "3bac47e4-517e-4668-8d79-7d8040f4056f",
+      "title": "Dateline JW",
+      "release": "2016-10-10T08:31:54Z",
+      "duration": "00:24:55",
+      "explicit": false,
+      "youTubeId": "oKWWO3Xa-bE",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oKWWO3Xa-bE"
+      }
+    },
+    {
       "id": "bc1182b6-97f9-4851-aed3-62e42c322fba",
       "title": "SEARCHING 4 ALLEN",
       "release": "2014-05-28T19:16:13Z",

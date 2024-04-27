@@ -494,11 +494,15 @@
       "release": "2023-07-03T19:00:08Z",
       "duration": "00:56:08",
       "explicit": false,
+      "spotifyId": "5etKTwfn5ofvKhbxbjn8Ya",
+      "appleId": 1000619041035,
       "youTubeId": "TIwAEvzJZv0",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5etKTwfn5ofvKhbxbjn8Ya",
+        "apple": "https://podcasts.apple.com/podcast/why-scientologys-brain-washing-is-so-effective-ex-scientologist/id1515932214?i=1000619041035",
         "youtube": "https://www.youtube.com/watch?v=TIwAEvzJZv0"
       }
     },

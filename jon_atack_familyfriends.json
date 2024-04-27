@@ -7,17 +7,40 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "57a23158-a407-406a-b19d-b57feed053bb",
+      "title": "a doctor\u0026#39;s report on dianetics with Steven Moffic, MD",
+      "description": "Eminent psychiatrist Steven Moffic discusses the original \u0027Book One\u0027 method of Dianetics with Jon. Hubbard canceled the method in 1951, explaining that it is hypnotic. It was re-introduced in the late \u002770s and is still used as a recruiting tool. They also discuss music, art, and compassion.\n\nlinks:\n\nMoffic\u2019s eclipse piece: https://www.psychiatrictimes.com/view/the-rolling-stones-lesson-for-the-solar-eclipse \n\nSpike\u0027s eclipse piece: https://phoenyxrose.wordpress.com/2024/04/18/totality/\n\nFreud lectures in Worcester, Mass 1911:\nhttps://www.amazon.com/dp/1473319846/ \n\nMoffic\u2019s piece in Psychiatry Today on Vijay:\nhttps://www.psychiatrictimes.com/view/compassion-in-music-society-and-psychiatry\n\nVincenzo Di Nicola\u0027s writings:\nhttps://www.psychiatrictimes.com/authors/vincenzo-di-nicola-mphil-md-phd-fcahs",
+      "release": "2024-04-27T06:00:09Z",
+      "duration": "01:22:18",
+      "explicit": false,
+      "spotifyId": "4SCRxlw1m303MD7XFGauKx",
+      "appleId": 1000653776133,
+      "youTubeId": "PVlqjUbHG3s",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4SCRxlw1m303MD7XFGauKx",
+        "apple": "https://podcasts.apple.com/podcast/a-doctors-report-on-dianetics-with-steven-moffic-md/id1534364303?i=1000653776133",
+        "youtube": "https://www.youtube.com/watch?v=PVlqjUbHG3s"
+      }
+    },
+    {
       "id": "7743ce02-9e1e-412f-9f4f-7972a02d8b78",
       "title": "Jamie de Wolf on writing and performing",
       "description": "L. Ron Hubbard\u0027s great-grandson explains the development of his remarkable writing and performing talents, from reading a Stephen King novel banned by his Fundamentalist Christian mother in the crawl space to becoming a champion slam poet.\n\nLinks:\n\n\u0022the girl across the hallway\u0022 \nhttps://youtu.be/U_hfUKXEAvk?si=Qv-gXxZ_S7lFzOu8 \n\nare there vegetarian spiders?  Well, not entirely, but the answer is surprising enough to share.\nhttps://www.sciencenews.org/blog/wild-things/spider-diet-goes-way-beyond-insects \n\nJon\u0027s fiction books!\nVooDoo Child (slight return):\nhttps://www.amazon.com/voodoo-child-slight-return-atack-ebook/dp/B00GR4D5T6\n\nHalcyon Daze:\nhttps://www.amazon.com/Halcyon-Daze-Jon-Atack-ebook/dp/B072QCJ46N",
       "release": "2024-04-20T04:00:17Z",
       "duration": "00:31:07",
       "explicit": false,
+      "spotifyId": "0zC8nfUvyp6CBEtQtgalxQ",
+      "appleId": 1000653129039,
       "youTubeId": "O2dHgPkuEZI",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0zC8nfUvyp6CBEtQtgalxQ",
+        "apple": "https://podcasts.apple.com/podcast/jamie-de-wolf-on-writing-and-performing/id1534364303?i=1000653129039",
         "youtube": "https://www.youtube.com/watch?v=O2dHgPkuEZI"
       }
     },

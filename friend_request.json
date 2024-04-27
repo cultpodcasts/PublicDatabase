@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "2ea677dd-3ae7-464f-a7a0-67e7b7f77761",
+  "name": "Friend Request",
+  "spotifyId": "0zfRWsq8zSmDaTz0N3D6UU",
+  "appleId": 1477401055,
+  "episodes": [
+    {
+      "id": "a35d991f-ad08-46ca-8e19-7ab05c54f239",
+      "title": "170 - Kelley Doyle",
+      "description": "Kelley Doyle is a mother, wine connoisseur, and Troubled Teen Industry (TTI) survivor. She discusses growing up as the oldest child and how some of her innsecurities were shaped by her siblings. Kelley also talks about her parents\u0027 divorce and how her father\u0027s substance use and physical abuse set her up for acting out as she got older. Kelley then discusses getting into substances herself at a young age, and how that and an attempt at running away landed her in boot camp, followed by a cult, disguised as a boarding school. She then talks about becoming a mother, dating, the worst day of her life, and how she has learned forgiveness through all of her experiences. Follow us on socials: @FriendRequestPod Email us your cult photos: JustinsFriendRequest@gmail.com",
+      "release": "2024-04-22T04:00:00Z",
+      "duration": "02:08:12.5380000",
+      "explicit": true,
+      "spotifyId": "0JqdlewRj5DOmAjrGVKRs4",
+      "appleId": 1000653160597,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0JqdlewRj5DOmAjrGVKRs4",
+        "apple": "https://podcasts.apple.com/podcast/170-kelley-doyle/id1477401055?i=1000653160597"
+      }
+    }
+  ]
+}
