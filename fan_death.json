@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "db883974-3ed7-45d1-9a68-e19acb5fa6af",
+  "name": "Fan Death",
+  "spotifyId": "7zzMdfaM04N3IJN9oQBVqm",
+  "appleId": 1731748045,
+  "episodes": [
+    {
+      "id": "a3ccec88-6553-4924-8cac-731d609f7f19",
+      "title": "09: Korean Cults \u0026 Sects - JMS \u0026 Jung Myung-seok Pt.2",
+      "description": "The boys continue their deep dive into the world of JMS and the further exploits of Jung Myung-Seok. In this second and final part of the JMS cult, the boys discuss Jung Myung-seok\u0027s flee from Korea to China, his arrests, and the retaliation methods of JMS members.",
+      "release": "2024-04-30T15:51:25Z",
+      "duration": "00:55:53.9130000",
+      "explicit": true,
+      "spotifyId": "2RJts0VllMzRtM3HhySFaS",
+      "appleId": 1000654064447,
+      "subjects": [
+        "Providence"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2RJts0VllMzRtM3HhySFaS",
+        "apple": "https://podcasts.apple.com/podcast/09-korean-cults-sects-jms-jung-myung-seok-pt-2/id1731748045?i=1000654064447"
+      }
+    },
+    {
+      "id": "59d45933-7f42-43c2-a1aa-eb8f62920675",
+      "title": "08: Korean Cults \u0026 Sects - JMS \u0026 Jung Myung-seok Pt.1",
+      "description": "The boyz combat their debilitating brain rot by digging into the world of Korean cults! In the first part of this series, they\u0027ll cover the beginnings of the notorious Jesus Morning Star \u0022Religious Movement\u0022 (JMS) and the exploits of Jung Myung-Seok.",
+      "release": "2024-04-16T10:00:00Z",
+      "duration": "00:28:19.9960000",
+      "explicit": true,
+      "spotifyId": "4SXXd0RQ8s5LKfYAmcmjgP",
+      "appleId": 1000652600910,
+      "subjects": [
+        "Providence"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4SXXd0RQ8s5LKfYAmcmjgP",
+        "apple": "https://podcasts.apple.com/podcast/08-korean-cults-sects-jms-jung-myung-seok-pt-1/id1731748045?i=1000652600910"
+      }
+    }
+  ]
+}

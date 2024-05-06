@@ -28,11 +28,15 @@
       "release": "2024-03-28T14:00:12Z",
       "duration": "00:23:25",
       "explicit": false,
+      "spotifyId": "2TM7i0JzNF58njpO9NgdFG",
+      "appleId": 1000654033454,
       "youTubeId": "CxLHb5VWRMY",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2TM7i0JzNF58njpO9NgdFG",
+        "apple": "https://podcasts.apple.com/podcast/daring-infiltration-and-digital-defiance-jessica/id1671284503?i=1000654033454",
         "youtube": "https://www.youtube.com/watch?v=CxLHb5VWRMY"
       }
     },

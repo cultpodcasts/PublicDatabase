@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "9ffb8e49-915c-4f68-9107-3b51fb33202e",
+  "name": "Horrible Humans in History",
+  "spotifyId": "2WQ9j7kyqldLoIBkp0ZTmr",
+  "appleId": 1732735283,
+  "episodes": [
+    {
+      "id": "c00dcfb1-5969-43ae-a2ab-3d5ae92df9dd",
+      "title": "Episode 11 - Credonia Mwerinde",
+      "description": "The leader of a doomsday cult in Uganda, Credonia Mwerinde would make her prophecies of the apocalypse happen one way or the other. Even if it meant murdering her entire congregation. Listen to the crazy tale of the rise and fall of her \u0022church.\u0022",
+      "release": "2024-05-01T12:00:00Z",
+      "duration": "00:54:48.2650000",
+      "explicit": false,
+      "spotifyId": "5aZx0dQNdcf3tP5Bde8Ko7",
+      "appleId": 1000654165316,
+      "subjects": [
+        "Movement for the Restoration of the Ten Commandments of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5aZx0dQNdcf3tP5Bde8Ko7",
+        "apple": "https://podcasts.apple.com/podcast/episode-11-credonia-mwerinde/id1732735283?i=1000654165316"
+      }
+    }
+  ]
+}

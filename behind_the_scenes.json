@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "0ca1a55d-249d-47d0-aa33-da7a6ef1f1d7",
+  "name": "Behind The Scenes",
+  "spotifyId": "6ABEtf11I1wWq2Vjvd4ikh",
+  "appleId": 1470336961,
+  "episodes": [
+    {
+      "id": "7042e36a-f73f-46a4-b5c0-65a908288aca",
+      "title": "3 Body Podcast: Cults, The ETO \u0026 capturing the Panama Canal sequence",
+      "description": "Maggie and Jason call on the expertise of Dr. Alexandra Stein, social psychologist and author specializing in cults and extremist groups, to scrutinize the ETO, and explain the real world markers of a cult. SPOILER ALERT: We will be covering episodes 4 and 5 of the series, so if you haven\u2019t watched that far yet, be sure to catch up on Netflix now. The 3 Body Podcast is produced by Netflix and Sony Music Entertainment.",
+      "release": "2024-05-01T07:00:00Z",
+      "duration": "00:53:07.3820000",
+      "explicit": true,
+      "spotifyId": "5wa4sYDteceIw02G1xfiBD",
+      "appleId": 1000654143777,
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5wa4sYDteceIw02G1xfiBD",
+        "apple": "https://podcasts.apple.com/podcast/3-body-podcast-cults-the-eto-capturing-the-panama/id1470336961?i=1000654143777"
+      }
+    }
+  ]
+}

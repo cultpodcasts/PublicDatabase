@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6e0b7ee0-3823-4f22-8c10-823544e827a8",
+  "name": "Beyond the Vow",
+  "spotifyId": "2LNXHg1OkiEKjjVbNZFovE",
+  "appleId": 1655515868,
+  "episodes": [
+    {
+      "id": "05993a82-5c40-419e-9a5d-d12f74adf47f",
+      "title": "Interview with Ex-Member of The Church of God Restoration",
+      "description": "In this 66th episode of Beyond the Vow, Nick and Janelle interview Stephen Nathaniel, a former member of the Church of God Restoration cult. Some of what he shares is heartbreaking and sheds light on some of the terrible things that are happening behind the closed doors of this cult.",
+      "release": "2024-05-03T06:30:00Z",
+      "duration": "01:25:27.8130000",
+      "explicit": false,
+      "spotifyId": "4BMtq9IFhnQ0BlXhED8k4F",
+      "appleId": 1000654397633,
+      "subjects": [
+        "Church of God (Restoration)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4BMtq9IFhnQ0BlXhED8k4F",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-ex-member-of-the-church-of-god-restoration/id1655515868?i=1000654397633"
+      }
+    }
+  ]
+}

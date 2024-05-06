@@ -4,7 +4,27 @@
   "name": "Generation Cult",
   "spotifyId": "1rP7SzbAYNJURd7QTq5UAa",
   "appleId": 1387341884,
+  "youTubeChannelId": "UCzlGpYKYNjA79d4fdGfB2FA",
   "episodes": [
+    {
+      "id": "4ad3f65b-631e-4aa4-979c-b65d675eb15a",
+      "title": "Rejecting Race Rhetoric with Amanda",
+      "description": "The church Amanda grew up in was started by a man known for his ejection from the KKK for being too militant. The tight and secretive community that revolved around the church valued white supremacy, male dominance, and obedience. Amanda had a lot of questions. A girl with questions wasn\u0027t valued in this community. Neither were women who wore pants or got educations. She did a lot of things that made her congregation mad, including learning how to not be racist. Join us for a very interesting discussion. ***This episode contains descriptions of racism and child abuse Music by Leanne Dunn, opening/closing song by The Chaw Editing by Dhyana Levey",
+      "release": "2024-04-30T09:14:00Z",
+      "duration": "00:55:04.3060000",
+      "explicit": false,
+      "spotifyId": "1ZEtQkVBfAKIfNR1Dk5kDo",
+      "appleId": 1000654028078,
+      "youTubeId": "ABqnECd89_0",
+      "subjects": [
+        "Roy Elonzo Davis"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ZEtQkVBfAKIfNR1Dk5kDo",
+        "apple": "https://podcasts.apple.com/podcast/rejecting-race-rhetoric-with-amanda/id1387341884?i=1000654028078",
+        "youtube": "https://www.youtube.com/watch?v=ABqnECd89_0"
+      }
+    },
     {
       "id": "48aea6e0-5736-4653-9609-e8fc68e8451b",
       "title": "In God\u0027s Name Pod with Grace",

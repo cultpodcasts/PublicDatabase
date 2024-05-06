@@ -1,0 +1,33 @@
+{
+  "_ts": 0,
+  "id": "cbfb82c0-6adc-4d00-bd5f-1bf20d6b4478",
+  "name": "The Wholesome Show",
+  "spotifyId": "38eECknNdrpTrdtaiN8y9H",
+  "appleId": 1147011021,
+  "youTubeChannelId": "UCKSs9Gr36g9LOnzf3ntCbmA",
+  "episodes": [
+    {
+      "id": "2594aea4-4af0-4f1b-a376-a3aeb9f2c688",
+      "title": "Community or Control: Has There Ever Been a \u0022Good\u0022 Cult?",
+      "description": "When you think of the word \u2018cult\u2019, what immediately comes to mind for most of us are things like hooded velvet robes, secretive gatherings and doomsday prophesies. Then there\u2019s the charismatic yet nefarious leader brainwashing followers, maybe a forced orgie or two, a spot of mass suicide. Generally not good stuff. Psychiatrist Robert Jay Lifton outlines three primary characteristics of destructive cults: a charismatic leader, coercive persuasion tactics, and exploitation of members. Well, that pretty much sums up NXIVM and the Order of the Solar Temple. It\u2019s pretty well established that there are a lot of bad cults. But are there any good ones? CHAPTERS: 00:00 Management cult at Rod\u2019s first job 07:01 Scientology: A Cult or Not? 10:23 10 warning signs of being in a cult 14:14 Order of the Solar Temple 18:51 NXIVM: Were you a Nazi in a former life? 24:16 Cognitive dissonance and why do people join cults? 31:23 Female Empowerment in New Religious Movements 34:55 Ma Anand Sheela and Osho 40:04 Defining Cults: Destructive or Benign 44:17 The Wholesome Verdict on Cults 48:26 What\u2019s next on The Wholesome Show SOURCES: Benign Cults vs Negative Cults Rajneesh movement - Wikipedia How Scientologists Founded the Pancake Parlour See omnystudio.com/listener for privacy information.",
+      "release": "2024-05-02T18:00:00Z",
+      "duration": "01:08:57.6650000",
+      "explicit": false,
+      "spotifyId": "58uoUmlpKg8SSKL99lP2Gx",
+      "appleId": 1000654348424,
+      "youTubeId": "j1YCx8k4HuU",
+      "subjects": [
+        "Bhagwan Shree Rajneesh",
+        "Order of the Solar Temple",
+        "Scientology",
+        "NXIVM",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/58uoUmlpKg8SSKL99lP2Gx",
+        "apple": "https://podcasts.apple.com/podcast/community-or-control-has-there-ever-been-a-good-cult/id1147011021?i=1000654348424",
+        "youtube": "https://www.youtube.com/watch?v=j1YCx8k4HuU"
+      }
+    }
+  ]
+}

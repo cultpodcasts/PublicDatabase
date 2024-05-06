@@ -5,6 +5,36 @@
   "youTubeChannelId": "UCVnZkthwrbE3Zzn3MkTOGoQ",
   "episodes": [
     {
+      "id": "b8624c32-92fb-4c40-8c72-22e15ff2f5a6",
+      "title": "More Book Talk: Chapter 1",
+      "description": "Join me as we unpack the contents of Scientology The Big Lie. The reasons, the wherefores, and the whatevers behind the book.",
+      "release": "2024-04-30T18:09:12Z",
+      "duration": "00:59:09",
+      "explicit": false,
+      "youTubeId": "98RvegzKfqY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=98RvegzKfqY"
+      }
+    },
+    {
+      "id": "a48ecd97-6cfb-4139-a56b-e6a91e8bcf36",
+      "title": "The Story Behind the Book Scientology The Big Lie",
+      "description": "Join me for a frank discussion covering how this book came to be, why I wrote it, it\u0027s content, and the process of writing this type of memoir. \r\n\r\nI\u0027ll also be doing a reading of the front matter.",
+      "release": "2024-04-29T02:54:05Z",
+      "duration": "01:05:07",
+      "explicit": false,
+      "youTubeId": "bGW_bYfxpzY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bGW_bYfxpzY"
+      }
+    },
+    {
       "id": "c80feaa8-f55a-4cc2-ab5c-dace93298baf",
       "title": "Life After Scientology",
       "description": "Join me for a conversation with second generation Scientologist Julie McKernan as we discuss life after Scientology",

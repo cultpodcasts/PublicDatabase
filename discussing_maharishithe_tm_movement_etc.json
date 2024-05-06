@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCKBs6D549xGsJVRKl1rslZw",
   "episodes": [
     {
+      "id": "2f7166c6-f4a9-42d6-b5b9-cb8283c08c46",
+      "title": "hive shorty1YT2",
+      "release": "2024-05-05T02:16:37Z",
+      "duration": "00:01:01",
+      "explicit": false,
+      "youTubeId": "wtaqNG89Mv8",
+      "subjects": [
+        "Transcendental Meditation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=wtaqNG89Mv8"
+      }
+    },
+    {
       "id": "e84e8e17-8a31-4107-9e3f-3f8d23bc09a6",
       "title": "Dr. Robert Gordon-McCutchan on Maharishi\u0026#39;s nocturnal activities : The HIVE Part 2",
       "description": "TO VIEW ALL of the HIVE interviews, click here: https://www.youtube.com/channel/UCKBs6D549xGsJVRKl1rslZw \n\nCONVERSATIONS IN THE HIVE PART TWO: Dr. Robert Gordon-McCutchan begins his story of Maharishi\u0027s nocturnal activities, and discusses the ethics of that behaviour. \n\nHe was a former personal secretary and the first western person designated as a brahmachari and \u0022deerskin carrier\u0022 for Maharishi.\n\nRobert has a PhD from Princeton University. He has held posts at the Universities of California, New Mexico, and Oregon, with a specialty in American transcendentalism.",
@@ -28,7 +42,8 @@
       "explicit": false,
       "youTubeId": "mCogAtlifMY",
       "subjects": [
-        "Transcendental Meditation"
+        "Transcendental Meditation",
+        "Self-Realization Fellowship"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=mCogAtlifMY"
@@ -178,7 +193,8 @@
       "explicit": false,
       "youTubeId": "qimmC4Rvg3U",
       "subjects": [
-        "Transcendental Meditation"
+        "Transcendental Meditation",
+        "Self-Realization Fellowship"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=qimmC4Rvg3U"

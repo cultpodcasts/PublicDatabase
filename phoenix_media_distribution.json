@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "e66e9e27-9f90-4d57-886b-1738c6f737e8",
+  "name": "Phoenix Media Distribution",
+  "youTubeChannelId": "UCMgPrBMDeS8X5XEIYVMVgSQ",
+  "episodes": [
+    {
+      "id": "7f1a839f-d846-4136-8972-10d19a8ebb9d",
+      "title": "The Doomsday Cult of Antares de la Luz - 2024 - Netflix Documentary Trailer - English Subtitles",
+      "description": "Almost 10 years after being charged with a heinous crime, former members of a Chilean cult share their haunting experiences.",
+      "release": "2024-04-25T16:36:37Z",
+      "duration": "00:01:45",
+      "explicit": false,
+      "youTubeId": "RTuBmIuTojs",
+      "subjects": [
+        "Antares De La Luz"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RTuBmIuTojs"
+      }
+    }
+  ]
+}
