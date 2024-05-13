@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "c9b9e404-3d59-4078-9745-99d9a94d05d8",
+  "name": "Life. Love. And Other Mysteries",
+  "spotifyId": "1xr43hX9IumeYXpoT1KJw9",
+  "appleId": 1733930399,
+  "episodes": [
+    {
+      "id": "5769cabc-1bd4-4d47-9504-403b131445be",
+      "title": "Cult of Personalities with Special Guest Joel",
+      "description": "In this episode of \u0022Life, Love, and Other Mysteries,\u0022 hosts Sharla and Tiffany, along with special guest expert Joel, delve into the topic of cults and their influence on society. They share personal experiences and discuss notorious examples like the OJ Simpson case, Jonestown, and the Manson family. Sharla and Tiffany also explore the contemporary cult \u0022Love Has Won,\u0022 expressing astonishment at the manipulation and control exerted over its members. Special guest Joel contributes by defining cults and recounting his family\u0027s involvement with the Institute in Basic Life Principles (IBLP). The episode emphasizes the importance of discernment and critical thinking when it comes to cults and their charismatic leaders.",
+      "release": "2024-05-06T11:00:00Z",
+      "duration": "00:29:15.1410000",
+      "explicit": false,
+      "spotifyId": "49qtx9wmH86kDRvtxRv2t0",
+      "appleId": 1000654666917,
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "Love Has Won",
+        "Manson Family",
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/49qtx9wmH86kDRvtxRv2t0",
+        "apple": "https://podcasts.apple.com/podcast/cult-of-personalities-with-special-guest-joel/id1733930399?i=1000654666917"
+      }
+    }
+  ]
+}

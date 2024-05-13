@@ -5,6 +5,36 @@
   "youTubeChannelId": "UCVnZkthwrbE3Zzn3MkTOGoQ",
   "episodes": [
     {
+      "id": "6b372aed-ef2e-4387-b857-3cb086086600",
+      "title": "Chapter 3: Honey Drive",
+      "description": "The final pivotal chapter before I wind up at the doorstep of Scientology.",
+      "release": "2024-05-11T11:47:40Z",
+      "duration": "00:43:11",
+      "explicit": false,
+      "youTubeId": "DH5lpiJ6wm8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DH5lpiJ6wm8"
+      }
+    },
+    {
+      "id": "ffc9e776-ee2d-4938-bc03-ff787b864003",
+      "title": "Summer of Love",
+      "description": "More book talk. Gonna read from chapter 2 of Scientology the Big Lie. Journey with me back to the Bay Area, 1967: the music, the drugs, the politics, and a little art school confidential.",
+      "release": "2024-05-06T22:24:17Z",
+      "duration": "01:28:16",
+      "explicit": false,
+      "youTubeId": "awrnF7TBamY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=awrnF7TBamY"
+      }
+    },
+    {
       "id": "b8624c32-92fb-4c40-8c72-22e15ff2f5a6",
       "title": "More Book Talk: Chapter 1",
       "description": "Join me as we unpack the contents of Scientology The Big Lie. The reasons, the wherefores, and the whatevers behind the book.",

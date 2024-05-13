@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8eb6a042-fb86-427a-9902-069824872067",
+  "name": "Pop Crime",
+  "spotifyId": "1yaIV8lGw0yw577WcdxIHb",
+  "appleId": 1712161998,
+  "episodes": [
+    {
+      "id": "3fb1d742-0330-48b6-af9f-69dfee22cb7b",
+      "title": "Scientology In The Bravosphere",
+      "description": "An investigative article by The Daily Mail into RHONY\u2019s new housewife, Rebecca Minkoff, and her ties to the Church of Scientology ended up having consequences for Journalist Jacques Peterson when became a target of \u201Cfair game.\u201D In this episode, Kiki is joined by Peterson, who tells a harrowing story of harassment from the Church of Scientology while delving deep into the aggressive tactics employed by Church to silence critics. Peterson sheds light on the delicate balance between Bravo\u0027s nuanced handling of controversy and the tragic death of Lisa McPherson, which is intricately linked to the Minkoff family. This conversation navigates the complex intersections of power, influence, and media as Peterson recounts the challenges of reporting on Minkoff\u2019s link to Scientology and the backlash he faced post-publication. Tune in as we uncover the untold story behind the headlines and reflect on what comes next once the Church of Scientology enters the Bravo-verse? Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-05-09T04:00:00Z",
+      "duration": "00:53:37.1360000",
+      "explicit": false,
+      "spotifyId": "6aXyZtypSZ07UVFcetHnDM",
+      "appleId": 1000655006400,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6aXyZtypSZ07UVFcetHnDM",
+        "apple": "https://podcasts.apple.com/podcast/scientology-in-the-bravosphere/id1712161998?i=1000655006400"
+      }
+    }
+  ]
+}

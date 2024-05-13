@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "c482aa11-78f7-4800-b4bf-bd960b1ed6ba",
+  "name": "We\u0027re In Hell",
+  "youTubeChannelId": "UCbbsW7_Esx8QZ8PgJ13pGxw",
+  "episodes": [
+    {
+      "id": "ed9acc66-4b84-4a4f-86bd-4edd437a9385",
+      "title": "Lost Resort: Oops, They Made a Cult!",
+      "description": "They tried to do a self-improvement show and wound up with a new age cult.",
+      "release": "2022-04-30T20:36:38Z",
+      "duration": "01:19:51",
+      "explicit": false,
+      "youTubeId": "VHi_UusXdWM",
+      "subjects": [
+        "The Mana Movement"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VHi_UusXdWM"
+      }
+    }
+  ]
+}

@@ -3,7 +3,23 @@
   "id": "1b2207cc-7c7e-42b3-b496-44808ca9a0b9",
   "name": "Onethingneeded",
   "youTubeChannelId": "UCbKTrIkvx4JqphfbXVXQqmg",
+  "youTubePlaylistId": "PLXq6DWnQeGHZJnYtymOHCW0TtP1jRkVk0",
   "episodes": [
+    {
+      "id": "5f3c4e76-6325-4445-a3e3-d7eda0889e19",
+      "title": "Deconstructing Mike Bickle; King David or King Cyrus?",
+      "description": "#ihopkc #mikebickle #forerunnerchurch #tdjakes #ravizacharias #bethel #cult",
+      "release": "2024-05-08T17:34:26Z",
+      "duration": "00:34:41",
+      "explicit": false,
+      "youTubeId": "9IU_uf5SFUg",
+      "subjects": [
+        "International House of Prayer Kansas City"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9IU_uf5SFUg"
+      }
+    },
     {
       "id": "2f6eb24e-8c61-4da9-9606-496b70aa4c62",
       "title": "Former IHOPER \u201CAwen\u201D And Healing From IHOP",
@@ -32,21 +48,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=Hu8oCM8wzc4"
-      }
-    },
-    {
-      "id": "f4cab1ec-ab7b-41c0-a837-a2952e214ef5",
-      "title": "Is This How We Could See Mike Bickle Under Oath?",
-      "description": "#ihopkc #mikebickle",
-      "release": "2024-04-24T06:21:39Z",
-      "duration": "00:03:45",
-      "explicit": false,
-      "youTubeId": "ybkhg2YiEXk",
-      "subjects": [
-        "International House of Prayer Kansas City"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=ybkhg2YiEXk"
       }
     },
     {
@@ -107,21 +108,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=cJQ2IDtqqYM"
-      }
-    },
-    {
-      "id": "1e19c707-0e57-45cd-9d94-78e7821ee124",
-      "title": "IHOPKC is Closing",
-      "description": "IHOPKC is Closing\n#ihopkc #mikebickle",
-      "release": "2024-04-17T01:16:15Z",
-      "duration": "00:13:41",
-      "explicit": false,
-      "youTubeId": "T5JYSnV5Db8",
-      "subjects": [
-        "International House of Prayer Kansas City"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=T5JYSnV5Db8"
       }
     },
     {
@@ -227,21 +213,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=HV-aJZYcZrI"
-      }
-    },
-    {
-      "id": "51bf9d67-4246-4da4-94d9-7ad9b1b90f47",
-      "title": "Recognizing Spiritual Abuse: Michael Miller of Remnant Radio talks IHOP KC",
-      "description": "#ihopkc #mikebickle #mistyedwards #tdjakes",
-      "release": "2024-03-19T04:45:56Z",
-      "duration": "00:16:52",
-      "explicit": false,
-      "youTubeId": "MHm4H5lXYf0",
-      "subjects": [
-        "International House of Prayer Kansas City"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=MHm4H5lXYf0"
       }
     },
     {

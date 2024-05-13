@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "62fca491-2dec-40f1-acd6-55004a0d020a",
+  "name": "Taylor Way Talks",
+  "spotifyId": "1T6wkPOmH5ujM2Pj0QAF7b",
+  "appleId": 1630792907,
+  "episodes": [
+    {
+      "id": "f2dd901b-48cc-41fa-b5b9-61424f893e33",
+      "title": "49 - Caleb Nelson - Are You In A Cult?",
+      "release": "2024-05-06T10:00:00Z",
+      "duration": "01:12:59.4690000",
+      "explicit": true,
+      "spotifyId": "3BgeOhmEpKiELQ9q00NR0W",
+      "appleId": 1000654660655,
+      "subjects": [
+        "Unification Church",
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3BgeOhmEpKiELQ9q00NR0W",
+        "apple": "https://podcasts.apple.com/podcast/49-caleb-nelson-are-you-in-a-cult/id1630792907?i=1000654660655"
+      }
+    }
+  ]
+}

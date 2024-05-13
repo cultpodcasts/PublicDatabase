@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "f399588a-1445-45ea-a27c-f6a9f2f489a0",
+  "name": "The Weightless Space Podcast",
+  "spotifyId": "22l7rh3d0aP332Ydg7YMGD",
+  "appleId": 1742771601,
+  "episodes": [
+    {
+      "id": "6272e431-84d5-4046-8df6-28f029b75a31",
+      "title": "5 - I Want To Believe",
+      "description": "In this episode, Lindsay and I discuss my epiphany after watching the docu-series Love Has Won: The Cult of Mother God on Netflix. Afterward, I realized I could\u2019ve easily fallen for that and likely already had fallen for a cult myself. Digging Deeper Amy Carlson, Mother God The Rise and Fall of Mars Hill Stanford prison experiment and later, the Heroic Imagination Project What makes a cult? Community Connection: As always, feel free to discuss this episode on our community forums. [Leave a Comment]",
+      "release": "2024-05-10T05:00:00Z",
+      "duration": "00:54:58.2570000",
+      "explicit": false,
+      "spotifyId": "7hDbuE0pJvEk9E9FtTvvZt",
+      "appleId": 1000655277865,
+      "subjects": [
+        "Love Has Won",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7hDbuE0pJvEk9E9FtTvvZt",
+        "apple": "https://podcasts.apple.com/podcast/5-i-want-to-believe/id1742771601?i=1000655277865"
+      }
+    }
+  ]
+}

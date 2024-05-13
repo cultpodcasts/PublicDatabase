@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "694a887b-9197-4f43-b2a5-f48f71205742",
+  "name": "Curiosity Junkie",
+  "spotifyId": "1CQGb5bbp9s3iXzZvcqVST",
+  "appleId": 1524533820,
+  "episodes": [
+    {
+      "id": "651a2f5d-f253-4a9c-bfd4-3de67d158d9f",
+      "title": "Author Michelle Dowd - Forager: Field Notes for Surviving a Family Cult",
+      "description": "Michelle was raised on a mountain in the Angeles National Forest where she learned to identify flora and fauna, navigate by the stars, forage for edible plants, and care for the earth. As an Experienced Registered Yoga Teacher, she has been teaching students and training teachers in southern California studios since 2008. Michelle\u2019s memoir, Forager: Field Notes for Surviving a Family Cult, showcases her life growing up on an isolated mountain in California as part of an apocalyptic cult, and how she found her way out of poverty and illness by drawing on the gifts of the wilderness. https://www.michelledowd.org/ Support the Show. Website: https://cassieburton.com YouTube: https://www.youtube.com/channel/UCvNgStf4gnZo-MKQ0jU6pDw Instagram: https://www.instagram.com/curiosityjunkiecass/ Facebook: https://www.facebook.com/groups/621323495403041",
+      "release": "2023-06-03T22:00:00Z",
+      "duration": "00:53:27.9670000",
+      "explicit": false,
+      "spotifyId": "11OfRG8Jm9xTWf7bXL0Mgp",
+      "appleId": 1000615555174,
+      "subjects": [
+        "Family Cult",
+        "Kare Youth League"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/11OfRG8Jm9xTWf7bXL0Mgp",
+        "apple": "https://podcasts.apple.com/podcast/author-michelle-dowd-forager-field-notes-for-surviving/id1524533820?i=1000615555174"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_ts": 0,
+  "id": "88692b84-265a-4ffa-8aa7-d063ff5d40b8",
+  "name": "Feeling Better Naturally",
+  "youTubeChannelId": "UCuqQ9wyDhecHBf0WAZ42E4A",
+  "youTubePlaylistId": "PLKu7K6Cht4hJLMsQAjcmGrBoa6jWaPSCg",
+  "episodes": [
+    {
+      "id": "a1b7fb6f-734e-4e63-a671-7302cd17ecf2",
+      "title": "The Cult in the Cul de Sac: A True Crime - Sex. Lies, Money, \u0026 Murder",
+      "description": "In this presentation, I compare the messianic cult that I escaped from with the cult of Chad Daybell and Lori Vallow.",
+      "release": "2024-05-07T10:00:41Z",
+      "duration": "00:17:15",
+      "explicit": false,
+      "youTubeId": "nfreZhYj8kE",
+      "subjects": [
+        "Louix Dor Dempriey",
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nfreZhYj8kE"
+      }
+    },
+    {
+      "id": "e07c5581-e092-483d-9715-df4697eb8914",
+      "title": "The Cult in the Cul de Sac: A TRUE CRIME - White Messiah vs. Black Messiah",
+      "description": "In this video, I compare and contrast the messianic cult I escaped from with the cult of \u0022Nature Boy\u0022.",
+      "release": "2024-04-15T00:16:16Z",
+      "duration": "00:16:01",
+      "explicit": false,
+      "youTubeId": "Oo47CCDz5dk",
+      "subjects": [
+        "Louix Dor Dempriey",
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Oo47CCDz5dk"
+      }
+    }
+  ]
+}

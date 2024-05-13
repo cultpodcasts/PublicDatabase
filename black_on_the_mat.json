@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "32fba69b-b259-4f78-bccd-f2821f138143",
+  "name": "Black on the Mat",
+  "spotifyId": "79OXspuXJzpNhDFyO8ayEB",
+  "appleId": 1729083209,
+  "episodes": [
+    {
+      "id": "08b884cc-8f38-484b-85ac-5cc342934cf4",
+      "title": "To Guru or Not to Guru: Essential Guidance or Misplaced Trust?",
+      "description": "Whether you\u0027ve ever felt torn between different yoga styles or pondered the hierarchical dynamics of spiritual mentorship, this episode offers fresh perspectives on the role of a guru in contemporary yoga practice. The hosts tackle challenging questions about cult-like behaviors in yoga communities, the ethical pitfalls of blind allegiance, and the potential financial motivations of modern-day gurus. More importantly, they discuss the empowering concept of the inner guru, advocating for a yoga practice that emphasizes self-awareness and internal guidance over external authority. So, do you need a guru? And is there a difference between a teacher and a guru? Tune in to find out. We\u0027re eager to hear your thoughts too\u2014have you ever encountered a guru, and what was that experience like? Stick around, share your stories, and let\u0027s explore these questions together here on \u0027Black on the Mat\u0027.",
+      "release": "2024-05-09T15:00:00Z",
+      "duration": "00:33:23.3820000",
+      "explicit": false,
+      "spotifyId": "0aurayyDh2LLVnw0LdSODa",
+      "appleId": 1000655065068,
+      "subjects": [
+        "Yoga Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0aurayyDh2LLVnw0LdSODa",
+        "apple": "https://podcasts.apple.com/podcast/to-guru-or-not-to-guru-essential-guidance-or-misplaced-trust/id1729083209?i=1000655065068"
+      }
+    }
+  ]
+}

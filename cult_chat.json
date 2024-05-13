@@ -13,6 +13,7 @@
       "release": "2024-04-30T01:00:16Z",
       "duration": "00:59:58",
       "explicit": false,
+      "spotifyId": "7rObNYCAYpM7fRYyhC1d5Y",
       "appleId": 1000654115684,
       "youTubeId": "gb1rRPQBUWU",
       "subjects": [
@@ -20,6 +21,7 @@
         "Centrepoint"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7rObNYCAYpM7fRYyhC1d5Y",
         "apple": "https://podcasts.apple.com/podcast/episode-32-sam-jahara-part-2-recovery-for-rajneesh/id1693307722?i=1000654115684",
         "youtube": "https://www.youtube.com/watch?v=gb1rRPQBUWU"
       }
