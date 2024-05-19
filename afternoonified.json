@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "34d51681-2a2b-4742-9536-10eaf52e243f",
+  "name": "Afternoonified",
+  "spotifyId": "14NOJv2GUrCvbO5b1mIco3",
+  "appleId": 1121894800,
+  "episodes": [
+    {
+      "id": "a09dd803-15ab-4298-8240-7a03fc1bf823",
+      "title": "Edmund Creffield \u0026 The Holy Rollers Pt. 1",
+      "description": "It\u0027s a cult episode! Not just that, it\u0027s an OBSCURE cult episode! In part one we get into the beginnings of Edmund Creffield and his mission to save the women of Corvallis, Oregon through the power of... thrashing and setting fires? Support Afternoonified by contributing to their tip jar: https://tips.pinecast.com/jar/afternoonified Find out more at http://getafternoonified.com This podcast is powered by Pinecast .",
+      "release": "2024-05-15T11:00:00Z",
+      "duration": "00:56:50.2590000",
+      "explicit": true,
+      "spotifyId": "0whKTtvYFd7YhE0EqB2JLj",
+      "appleId": 1000655661466,
+      "subjects": [
+        "Edmund Creffield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0whKTtvYFd7YhE0EqB2JLj",
+        "apple": "https://podcasts.apple.com/podcast/edmund-creffield-the-holy-rollers-pt-1/id1121894800?i=1000655661466"
+      }
+    }
+  ]
+}

@@ -15,7 +15,8 @@
       "spotifyId": "6T143tOaQ4k4R9zQSAlxDd",
       "appleId": 1000617917579,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6T143tOaQ4k4R9zQSAlxDd",
@@ -32,7 +33,8 @@
       "spotifyId": "0Pw5Ku2LQoZ295jbMc3whT",
       "appleId": 1000617082921,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Pw5Ku2LQoZ295jbMc3whT",
@@ -49,7 +51,8 @@
       "spotifyId": "5FNKxCrcteUg8KWCb414Zs",
       "appleId": 1000616076611,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5FNKxCrcteUg8KWCb414Zs",
@@ -66,7 +69,8 @@
       "spotifyId": "6bnaIt4kIb52bS0wyUnNfF",
       "appleId": 1000614309237,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bnaIt4kIb52bS0wyUnNfF",
@@ -83,7 +87,8 @@
       "spotifyId": "19LaN6X5kwOUjhCU2ZYnsD",
       "appleId": 1000613381865,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19LaN6X5kwOUjhCU2ZYnsD",
@@ -100,7 +105,8 @@
       "spotifyId": "1Utl6UHBJfphflm9iTe4Ch",
       "appleId": 1000612492451,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Utl6UHBJfphflm9iTe4Ch",
@@ -117,7 +123,8 @@
       "spotifyId": "51UHkEw6k6edP1t2M0D4Cj",
       "appleId": 1000611560810,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/51UHkEw6k6edP1t2M0D4Cj",
@@ -134,7 +141,8 @@
       "spotifyId": "6Yjb8trgUFduQbQwIpcvUJ",
       "appleId": 1000610682844,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Yjb8trgUFduQbQwIpcvUJ",
@@ -151,7 +159,8 @@
       "spotifyId": "7kzsQWtoUSdTG5RsZin26n",
       "appleId": 1000609598197,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7kzsQWtoUSdTG5RsZin26n",
@@ -168,7 +177,8 @@
       "spotifyId": "3PSBMQuel0dAZ7mrHsgXlq",
       "appleId": 1000608565215,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3PSBMQuel0dAZ7mrHsgXlq",
@@ -185,7 +195,8 @@
       "spotifyId": "6VDqgyd6pJZxgRZfF5wlB0",
       "appleId": 1000607498948,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VDqgyd6pJZxgRZfF5wlB0",
@@ -202,7 +213,8 @@
       "spotifyId": "2CzW5F11Tqy9ciJYjF6QG7",
       "appleId": 1000606432085,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2CzW5F11Tqy9ciJYjF6QG7",
@@ -218,6 +230,10 @@
       "explicit": false,
       "spotifyId": "7ChZJsOpOih9dzzpT5bK6L",
       "appleId": 1000605460137,
+      "subjects": [
+        "Psychology",
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ChZJsOpOih9dzzpT5bK6L",
         "apple": "https://podcasts.apple.com/podcast/introduction-to-surviving-the-black-church/id1678625882?i=1000605460137"

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6266a66c-7756-42e2-b469-5bcfbfe0c73b",
+  "name": "ML Soul of Detroit",
+  "spotifyId": "3uWS5Sah6AWTdfaPYni33t",
+  "appleId": 1454816308,
+  "episodes": [
+    {
+      "id": "653dd70c-1fb3-4451-8742-48fb91b08c98",
+      "title": "Detroit Cult City \u2013 May 14, 2024",
+      "description": "The Synanon cult had a branch in Detroit where addicts played \u201CThe Game,\u201D which Amelia Benavides-Colon describes to Marc and [\u2026]",
+      "release": "2024-05-14T18:34:56Z",
+      "duration": "01:30:52.2420000",
+      "explicit": false,
+      "spotifyId": "0EoIH2KE1k3lUXEXn8wDN1",
+      "appleId": 1000655585627,
+      "subjects": [
+        "Synanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0EoIH2KE1k3lUXEXn8wDN1",
+        "apple": "https://podcasts.apple.com/podcast/detroit-cult-city-may-14-2024/id1454816308?i=1000655585627"
+      }
+    }
+  ]
+}

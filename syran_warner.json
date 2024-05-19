@@ -1,9 +1,27 @@
 {
   "_ts": 0,
   "id": "cc7b7d80-066c-47db-86d2-3d7b1aa75104",
-  "name": "Syran Warner",
+  "name": "Cult Stories",
+  "spotifyId": "3m6WiHDXPL8xAifnkGCmeh",
   "youTubeChannelId": "UCrOYLMtOe1CExqwd_eHOg9Q",
   "episodes": [
+    {
+      "id": "8830d31c-0cad-4a46-b3ef-3f964ade4c16",
+      "title": "Cult Stories - Episode One - Deployable Agent",
+      "description": "Welcome to Cult Stories. This is a podcast about a cult from the Kenai Peninsula of Alaska called The Body and the murder that led to the discovery of the group. This was made by Syran Warner. Marc Wade Bisset is the leader of the cult. Okanogan County, Tonasket, Nikiski, Cult Hunter, Gary Parker, Katie Quinn, Catie Quinn, KSRM, Peninsula Clarion, Sarah Koenig, True Story, True Crime, The Best Podcast of 2024, Cool Stuff, Genghis Muskox, Paul Vermillion, City Pages, a million dollars.",
+      "release": "2024-05-11T03:00:11Z",
+      "duration": "01:35:37",
+      "explicit": false,
+      "spotifyId": "7C4COZCsrox2Ghh6uc6nHs",
+      "youTubeId": "rM_1UYtSFuE",
+      "subjects": [
+        "Marc Bisset"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7C4COZCsrox2Ghh6uc6nHs",
+        "youtube": "https://www.youtube.com/watch?v=rM_1UYtSFuE"
+      }
+    },
     {
       "id": "719301a8-f2cc-4380-af20-b896c0e84553",
       "title": "CULT STORIES // TEASER",

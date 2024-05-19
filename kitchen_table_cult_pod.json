@@ -457,6 +457,10 @@
       "explicit": false,
       "spotifyId": "3I30WnkOdIRHGU0S2h6eyx",
       "appleId": 1000570782950,
+      "subjects": [
+        "Qanon",
+        "Lifespring"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3I30WnkOdIRHGU0S2h6eyx",
         "apple": "https://podcasts.apple.com/podcast/s4e17-release-the-kraken/id1413525072?i=1000570782950"
@@ -520,6 +524,7 @@
       "spotifyId": "2ARgSz7blh6WuSI9uGoaz1",
       "appleId": 1000559818301,
       "subjects": [
+        "Qanon",
         "Lifespring"
       ],
       "urls": {

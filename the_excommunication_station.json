@@ -6,6 +6,24 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "1ce2e147-0084-4aeb-a27c-05897850320a",
+      "title": "154:James River Church, The Stronger Men\u0027s Conference and Toxic Masculinity",
+      "description": "This week we turn our eyes not upon Jesus, but on the James River Church and the scandals and money they hemorrhage. We also discuss the damages of toxic masculinity.",
+      "release": "2024-05-15T04:29:07Z",
+      "duration": "01:50:57.5550000",
+      "explicit": false,
+      "spotifyId": "1lyIjGOWqdM2v6HwaylYMn",
+      "appleId": 1000655628920,
+      "subjects": [
+        "Evangelicalism",
+        "World Assemblies of God Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1lyIjGOWqdM2v6HwaylYMn",
+        "apple": "https://podcasts.apple.com/podcast/154-james-river-church-the-stronger-mens-conference/id1573190999?i=1000655628920"
+      }
+    },
+    {
       "id": "e5bcfb16-2923-4e22-9608-872752d68436",
       "title": "153: The Toronto Blessing Part II",
       "release": "2024-05-08T05:00:00Z",

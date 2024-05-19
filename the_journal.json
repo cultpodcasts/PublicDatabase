@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6c4d0384-dab0-4337-b944-8280b74d1cde",
+  "name": "The Journal.",
+  "spotifyId": "0KxdEdeY2Wb3zr28dMlQva",
+  "appleId": 1469394914,
+  "episodes": [
+    {
+      "id": "4fb01242-0dcd-4c9b-8007-9105e3ae7497",
+      "title": "North Korea\u2019s Propaganda Mastermind",
+      "description": "For six decades, one man has been largely responsible for creating North Korea\u2019s propaganda machine: Kim Ki Nam. He served all three North Korean dictators and is the architect of many of the myths that have helped to keep the Kim family in power. Last week, Kim Ki Nam died at the age of 94. WSJ\u2019s Timothy Martin reports on his controversial legacy. Further Reading: - The Original Mastermind Behind North Korea\u2019s Cult-of-Personality Propaganda Dies - Kim Jong Un\u2019s New Look Is More Man Than Superhuman Further Listening: - How North Korea\u2019s Hacker Army Stole $3 Billion in Crypto Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-05-14T20:03:00Z",
+      "duration": "00:16:11.1020000",
+      "explicit": false,
+      "spotifyId": "1C9vZkHHWw3gMU4YG59tgw",
+      "appleId": 1000655594001,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1C9vZkHHWw3gMU4YG59tgw",
+        "apple": "https://podcasts.apple.com/podcast/north-koreas-propaganda-mastermind/id1469394914?i=1000655594001"
+      }
+    }
+  ]
+}

@@ -1,11 +1,28 @@
 {
   "_ts": 0,
   "id": "b2e6e409-96be-47de-98ed-d07a92222fdb",
-  "name": "Mike Rinder",
+  "name": "Exposing Scientology",
   "spotifyId": "1z69UUbJuSbN1RJSNnWQ8v",
   "appleId": 1714019520,
   "youTubeChannelId": "UCbMBYQbOSKN7MjvGGpYiiKg",
   "episodes": [
+    {
+      "id": "a4bfed8c-2029-494a-9c1f-4932bd5df860",
+      "title": "Michele Adair: Former Navy Mental Health Counselor",
+      "description": "Mike speaks with Michele Adair, who was a Mental Health Counselor in the Navy for 11 years and is now married to Rachael Hastings, one of David Miscavige\u0027s former camerawomen. Michelle shares helpful information and advice from her years of providing therapy to people who have been traumatized.\u00A0\nGet Mike\u0027s book: \u0022A Billion Years My Escape from a Life in the Highest Ranks of Scientology\u0022 on Amazon. \n\nFind me on X (Twitter):  / mikerinder \nInstagram:  / rindermike \nFacebook:  / rindermike \n\nVisit the Mike Rinder store for merch -- t-shirts, hoodies, mugs, mousepads and more: ...",
+      "release": "2024-05-15T23:00:00Z",
+      "duration": "00:53:56.7540000",
+      "explicit": true,
+      "spotifyId": "2LFJwMF6ro8LjazeiPEig1",
+      "appleId": 1000655730846,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2LFJwMF6ro8LjazeiPEig1",
+        "apple": "https://podcasts.apple.com/podcast/michele-adair-former-navy-mental-health-counselor/id1714019520?i=1000655730846"
+      }
+    },
     {
       "id": "5e0aeb5c-6d52-44c8-80fc-08675b828595",
       "title": "Leah \u0026 Mike with Claire Headley: When Scientology Tried to Get Jim Carrey",
