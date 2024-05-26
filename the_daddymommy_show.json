@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "7c8136cd-5402-4ac0-b06a-1a1bab6eb11e",
+  "name": "The DaddyMommy Show",
+  "spotifyId": "2dkTqOXkGrsi4ZM4jPrcW0",
+  "youTubeChannelId": "UC7-vhNxA8MG-IQOYDmrtgbA",
+  "episodes": [
+    {
+      "id": "b66d6fda-f7c4-477e-a661-ea648c613dbd",
+      "title": "Ep. 37: I Escaped a Cult! | The DaddyMommy Show",
+      "description": "Welcome back! On Today\u0027s episode we talk about escaping a cult and its juicy!\n---\nThe DaddyMommy Show [The Daddy Mommy Show]\nTwo blue haired besties have started yet another podcast! Comprised of TikTok Superstar, Kyan Palmer and Grammy Nominated Songwriter, Rachel West, DaddyMommy discusses everything from music, to pop culture, to life lessons with special guests and lots of laughs. The DaddyMommy Shows airs every Monday :)",
+      "release": "2024-05-24T19:00:20Z",
+      "duration": "00:44:55",
+      "explicit": false,
+      "spotifyId": "2LSNpOUGJrKpbTMUXgaEoe",
+      "youTubeId": "Qhs3MI-ALIs",
+      "subjects": [
+        "Large Group Awareness Trainings",
+        "Landmark"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2LSNpOUGJrKpbTMUXgaEoe",
+        "youtube": "https://www.youtube.com/watch?v=Qhs3MI-ALIs"
+      }
+    }
+  ]
+}

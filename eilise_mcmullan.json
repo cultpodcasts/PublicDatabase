@@ -27,10 +27,7 @@
       "explicit": false,
       "youTubeId": "m5z5ovi2pGI",
       "subjects": [
-        "Mormonism",
-        "Mormons",
-        "The Church of Jesus Christ of Latter-day Saints",
-        "Latter-day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=m5z5ovi2pGI"
@@ -45,11 +42,9 @@
       "explicit": false,
       "youTubeId": "vDXWX1NsSyw",
       "subjects": [
-        "PBCC",
-        "Plymouth Brethren",
-        "Exclusive Brethren",
-        "Family Survival Trust",
-        "FST"
+        "Cult Psychology",
+        "Cult-Expert",
+        "Plymouth Brethren Christian Church"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=vDXWX1NsSyw"
@@ -64,9 +59,7 @@
       "explicit": false,
       "youTubeId": "dnAUfkHo4Qg",
       "subjects": [
-        "PBCC",
-        "Plymouth Brethren",
-        "Exclusive Brethren"
+        "Plymouth Brethren Christian Church"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=dnAUfkHo4Qg"
@@ -81,10 +74,7 @@
       "explicit": false,
       "youTubeId": "hfOeSgU8rKg",
       "subjects": [
-        "Mormonism",
-        "Mormons",
-        "The Church of Jesus Christ of Latter-day Saints",
-        "Latter-day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=hfOeSgU8rKg"
@@ -98,6 +88,12 @@
       "duration": "00:46:25",
       "explicit": false,
       "youTubeId": "0fYJYBo_NsE",
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert",
+        "Cult Recovery",
+        "Psychology"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=0fYJYBo_NsE"
       }
@@ -109,6 +105,9 @@
       "duration": "00:50:31",
       "explicit": false,
       "youTubeId": "RVtcUG6PGPk",
+      "subjects": [
+        "Center For Transformational Learning"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=RVtcUG6PGPk"
       }

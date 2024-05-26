@@ -3209,6 +3209,9 @@
       "explicit": false,
       "spotifyId": "7pR9TLyh9yalVzq9w0czNi",
       "appleId": 1000465919071,
+      "subjects": [
+        "Michael W. Ryan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7pR9TLyh9yalVzq9w0czNi",
         "apple": "https://podcasts.apple.com/podcast/christian-identity-pt-2-michael-wayne-ryan/id1286818575?i=1000465919071"
@@ -3223,6 +3226,9 @@
       "explicit": false,
       "spotifyId": "1gJOXVXdlTpPx2Zggjhpxd",
       "appleId": 1000465249052,
+      "subjects": [
+        "Michael W. Ryan"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1gJOXVXdlTpPx2Zggjhpxd",
         "apple": "https://podcasts.apple.com/podcast/christian-identity-pt-1-michael-wayne-ryan/id1286818575?i=1000465249052"

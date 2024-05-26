@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "60f45b00-a4f7-4b2a-9bb3-3b699e921969",
+      "title": "155: Newsboys Part I: Read All About It",
+      "description": "This week, we start our deep dive into the Australian Christian \u0022rock\u0022 band and tell our personal connections with their music. Then, we break down their first album. www.excompod.com",
+      "release": "2024-05-22T05:00:00Z",
+      "duration": "01:43:13.9270000",
+      "explicit": false,
+      "spotifyId": "4xWPOc04APPkaMBxp8BHtl",
+      "appleId": 1000656356789,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4xWPOc04APPkaMBxp8BHtl",
+        "apple": "https://podcasts.apple.com/podcast/155-newsboys-part-i-read-all-about-it/id1573190999?i=1000656356789"
+      }
+    },
+    {
       "id": "1ce2e147-0084-4aeb-a27c-05897850320a",
       "title": "154:James River Church, The Stronger Men\u0027s Conference and Toxic Masculinity",
       "description": "This week we turn our eyes not upon Jesus, but on the James River Church and the scandals and money they hemorrhage. We also discuss the damages of toxic masculinity.",

@@ -13,11 +13,15 @@
       "release": "2024-05-14T20:39:43Z",
       "duration": "00:57:04",
       "explicit": false,
+      "spotifyId": "6D4Nr3Xq1jMCu8vbE5cAoM",
+      "appleId": 1000656421671,
       "youTubeId": "pvzacS0WT6E",
       "subjects": [
         "Last Days Ministries"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6D4Nr3Xq1jMCu8vbE5cAoM",
+        "apple": "https://podcasts.apple.com/podcast/was-last-days-ministries-a-cult-former-members/id1443245907?i=1000656421671",
         "youtube": "https://www.youtube.com/watch?v=pvzacS0WT6E"
       }
     }

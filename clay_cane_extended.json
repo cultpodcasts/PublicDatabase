@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "a1c5580b-4447-4bef-8470-905fab853e69",
+  "name": "Clay Cane Extended!",
+  "spotifyId": "53FPCBbnSICwvuB3jUInhx",
+  "appleId": 1744980080,
+  "episodes": [
+    {
+      "id": "69f136e3-7b65-4382-9780-60600f2507ea",
+      "title": "Black Jonestown Survivors, \u0027This Wouldn\u0027t Have Happened To White People\u0027",
+      "description": "The Peoples Temple Agricultural Project, known as \u0022Jonestown\u0022 was a remote settlement in Guyana established by the Peoples Temple, an American cult under the leadership of Jim Jones. In this episode, Clay Cane talks with two of Jonestown\u0027s survivors and their experience.",
+      "release": "2024-05-23T19:00:00Z",
+      "duration": "00:05:38.5730000",
+      "explicit": false,
+      "spotifyId": "7urTkGV9gPeRjdaGSEBthv",
+      "appleId": 1000656549359,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7urTkGV9gPeRjdaGSEBthv",
+        "apple": "https://podcasts.apple.com/podcast/black-jonestown-survivors-this-wouldnt-have-happened/id1744980080?i=1000656549359"
+      }
+    }
+  ]
+}

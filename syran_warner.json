@@ -3,6 +3,7 @@
   "id": "cc7b7d80-066c-47db-86d2-3d7b1aa75104",
   "name": "Cult Stories",
   "spotifyId": "3m6WiHDXPL8xAifnkGCmeh",
+  "appleId": 1745962338,
   "youTubeChannelId": "UCrOYLMtOe1CExqwd_eHOg9Q",
   "episodes": [
     {
@@ -13,12 +14,14 @@
       "duration": "01:35:37",
       "explicit": false,
       "spotifyId": "7C4COZCsrox2Ghh6uc6nHs",
+      "appleId": 1000655454668,
       "youTubeId": "rM_1UYtSFuE",
       "subjects": [
         "Marc Bisset"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7C4COZCsrox2Ghh6uc6nHs",
+        "apple": "https://podcasts.apple.com/podcast/deployable-agent/id1745962338?i=1000655454668",
         "youtube": "https://www.youtube.com/watch?v=rM_1UYtSFuE"
       }
     },

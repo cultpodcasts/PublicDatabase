@@ -1,0 +1,50 @@
+{
+  "_ts": 0,
+  "id": "2192a4f8-275b-4d45-a699-b5aba31e9fb0",
+  "name": "The Clay Cane Show",
+  "youTubeChannelId": "UCp7jLE1C93pmAH1mY761v3Q",
+  "episodes": [
+    {
+      "id": "1bdf6dd0-4525-49b1-a3c0-435d40f0bb4e",
+      "title": "Hypocritical? Jim Jones Cries Racism At Gucci Store But Stood By Gucci During \u0027Black Face\u0027 Scandal",
+      "release": "2022-02-10T00:00:06Z",
+      "duration": "00:13:07",
+      "explicit": false,
+      "youTubeId": "ShEHtwtIDmo",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ShEHtwtIDmo"
+      }
+    },
+    {
+      "id": "0aa609c0-c635-4c3c-b28f-80fd08612c22",
+      "title": "Part Two: Black Jonestown Survivors, \u0027This Wouldn\u0027t Have Happened To White People\u0027",
+      "release": "2021-04-16T00:16:56Z",
+      "duration": "01:19:43",
+      "explicit": false,
+      "youTubeId": "5m9OmIJPjBU",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5m9OmIJPjBU"
+      }
+    },
+    {
+      "id": "35a76c6e-e485-4200-b581-ec999badaecb",
+      "title": "Black Jonestown Survivors On How They Survived, The Cult Of Jim Jones, His Sexuality \u0026 Lives Lost",
+      "release": "2021-04-01T23:13:55Z",
+      "duration": "01:31:10",
+      "explicit": false,
+      "youTubeId": "6hN9e7cRAYk",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6hN9e7cRAYk"
+      }
+    }
+  ]
+}

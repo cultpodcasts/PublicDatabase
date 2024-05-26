@@ -4,6 +4,7 @@
   "name": "Playing in Traffic",
   "spotifyId": "28S9Lh2CvCtRJ8ByAXxUP1",
   "appleId": 1594783038,
+  "youTubeChannelId": "UCPKwdb3HdFI7yu-yw8qEq9w",
   "episodes": [
     {
       "id": "d0972609-edb6-4a70-9be4-4e5702b3bf47",
@@ -48,12 +49,14 @@
       "explicit": false,
       "spotifyId": "4HwPKz1yZToYcDy7Yu0CjW",
       "appleId": 1000651486594,
+      "youTubeId": "rMa8uNEW4oA",
       "subjects": [
         "World Mission Society Church of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4HwPKz1yZToYcDy7Yu0CjW",
-        "apple": "https://podcasts.apple.com/podcast/81-former-member-odalys-speaks-out/id1594783038?i=1000651486594"
+        "apple": "https://podcasts.apple.com/podcast/81-former-member-odalys-speaks-out/id1594783038?i=1000651486594",
+        "youtube": "https://www.youtube.com/watch?v=rMa8uNEW4oA"
       }
     },
     {
@@ -65,12 +68,14 @@
       "explicit": false,
       "spotifyId": "6jT3xkk0kfl9QKrjKeSZ2x",
       "appleId": 1000650629343,
+      "youTubeId": "c-uQ6V3IEbI",
       "subjects": [
         "World Mission Society Church of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6jT3xkk0kfl9QKrjKeSZ2x",
-        "apple": "https://podcasts.apple.com/podcast/episode-80-youtube-debut-and-update-with-esperanza/id1594783038?i=1000650629343"
+        "apple": "https://podcasts.apple.com/podcast/episode-80-youtube-debut-and-update-with-esperanza/id1594783038?i=1000650629343",
+        "youtube": "https://www.youtube.com/watch?v=c-uQ6V3IEbI"
       }
     },
     {

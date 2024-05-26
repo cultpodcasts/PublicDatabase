@@ -1,0 +1,83 @@
+{
+  "_ts": 0,
+  "id": "c7af781e-e72a-4fdd-80dd-a87168654984",
+  "name": "SABC",
+  "youTubeChannelId": "UCHENUm6Z3ty8xPayJ5kNc5g",
+  "episodes": [
+    {
+      "id": "92edbdc0-42ef-40bf-8567-9a3d7443271b",
+      "title": "3 days in Dimona: African Hebrew Israelites (Part 1)",
+      "description": "South African film director, Tarryn Crossman of Black Rage Productions, travels to Israel to meet a group of African Americans who trace their routes back to the original Hebrews and who have settled in \u0027the Holy Land\u0027.",
+      "release": "2011-05-19T09:47:46Z",
+      "duration": "00:07:39",
+      "explicit": false,
+      "youTubeId": "oiL7w486-UI",
+      "subjects": [
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oiL7w486-UI"
+      }
+    },
+    {
+      "id": "f3dd2628-4f65-44c2-b9a1-3b358ce2931a",
+      "title": "3 days in Dimona: African Hebrew Israelites (Part 3)",
+      "description": "South African film director, Tarryn Crossman of Black Rage Productions, travels to Israel to meet a group of African Americans who trace their routes back to the original Hebrews and who have settled in \u0027the Holy Land\u0027.",
+      "release": "2011-05-17T14:09:46Z",
+      "duration": "00:11:32",
+      "explicit": false,
+      "youTubeId": "imLS7SQU5ko",
+      "subjects": [
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=imLS7SQU5ko"
+      }
+    },
+    {
+      "id": "7a1558ea-eaa2-4325-9b5b-68069fdbf334",
+      "title": "3 days in Dimona: African Hebrew Israelites (Part 4)",
+      "description": "South African film director, Tarryn Crossman of Black Rage Productions, travels to Israel to meet a group of African Americans who trace their routes back to the original Hebrews and who have settled in \u0027the Holy Land\u0027.",
+      "release": "2011-05-17T14:09:29Z",
+      "duration": "00:12:18",
+      "explicit": false,
+      "youTubeId": "Dud4eG-gVI0",
+      "subjects": [
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Dud4eG-gVI0"
+      }
+    },
+    {
+      "id": "4f42e976-87fe-4ba9-be03-df8b0c4b064d",
+      "title": "3 days in Dimona: African Hebrew Israelites (Part 5)",
+      "description": "South African film director, Tarryn Crossman of Black Rage Productions, travels to Israel to meet a group of African Americans who trace their routes back to the original Hebrews and who have settled in \u0022the Holy Land\u0027.",
+      "release": "2011-05-17T14:08:33Z",
+      "duration": "00:08:10",
+      "explicit": false,
+      "youTubeId": "puRXEPHrs2M",
+      "subjects": [
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=puRXEPHrs2M"
+      }
+    },
+    {
+      "id": "18977e5b-bac7-4b53-ab26-572b3f96750e",
+      "title": "3 days in Dimona: African Hebrew Israelites (Part 2)",
+      "description": "South African film director, Tarryn Crossman of Black Rage Productions, travels to Israel to meet a group of African Americans who trace their routes back to the original Hebrews and who have settled in \u0027the Holy Land\u0027.",
+      "release": "2011-05-17T14:08:26Z",
+      "duration": "00:08:46",
+      "explicit": false,
+      "youTubeId": "7TQBWCkmN7s",
+      "subjects": [
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=7TQBWCkmN7s"
+      }
+    }
+  ]
+}

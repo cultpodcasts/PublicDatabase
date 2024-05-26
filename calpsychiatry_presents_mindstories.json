@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "41de786f-cb76-47e4-9c19-9ce1a844c3de",
+  "name": "CalPsychiatry Presents: Mindstories",
+  "spotifyId": "4Rqn0I4TlqC1MysekTeeSd",
+  "appleId": 1501515784,
+  "episodes": [
+    {
+      "id": "b74cda9b-e270-4091-83cd-483462415ce2",
+      "title": "Unspoken Boundaries | Merle Yost, LMFT",
+      "description": "Merle Yost is a psychotherapist, author of six books, and teacher. His last book is \u0022Facing the Truth of Your Life\u0022, and he is here promoting his new workshop series, \u0022Seven Steps to Powerful Boundaries\u0022. He has been a private practice therapist for over 30 years and specializes in trauma, men sexually abused as children, gynecomastia, and bi and gay heterosexually married men. After growing up in a cult and being sexually abused as a child, his healing journey led him to help others claim their power and lives. He is an Approved Consultant in EMDR, a San Francisco Gestalt Institute graduate, has a Masters in Counseling Psychology: Transpersonal Specialization, and a BA in Management. Merle Yost, LMFT ------ Instagram LinkedIn Facebook",
+      "release": "2024-05-22T09:00:00Z",
+      "duration": "00:20:44.0290000",
+      "explicit": false,
+      "spotifyId": "0ndlZdII3Z0IalHiZmRWw3",
+      "appleId": 1000656372516,
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ndlZdII3Z0IalHiZmRWw3",
+        "apple": "https://podcasts.apple.com/podcast/unspoken-boundaries-merle-yost-lmft/id1501515784?i=1000656372516"
+      }
+    }
+  ]
+}

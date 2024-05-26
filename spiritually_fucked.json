@@ -6,6 +6,23 @@
   "appleId": 1712148990,
   "episodes": [
     {
+      "id": "e5846b43-787c-4f15-bcb9-560bfe95a9e6",
+      "title": "Modern Mystery School: Banging for Magik and Maybe World Peace",
+      "description": "The Modern Mystery School is an organization that considers itself the Harvard of Metaphysics.\u00A0They teach a mixture of martial arts, meditation, reiki, and witchcraft to enact the will of ancient aliens, all while raking in millions by stoking fear of apocalypse demons. So. Super cool.",
+      "release": "2024-05-22T10:30:00Z",
+      "duration": "00:56:04",
+      "explicit": false,
+      "spotifyId": "1XwEQDIJegN6ZnBq56Im66",
+      "appleId": 1000656381434,
+      "subjects": [
+        "Modern Mystery School"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1XwEQDIJegN6ZnBq56Im66",
+        "apple": "https://podcasts.apple.com/us/podcast/modern-mystery-school-banging-for-magik-and-maybe/id1712148990?i=1000656381434"
+      }
+    },
+    {
       "id": "26e27de5-2e12-4838-9dc6-1e756d066b13",
       "title": "Gregorian Bivolaru: King of Yoga Porn and Professional Fugitive",
       "description": "Gregorian Bivolaru made headlines last year for being caught after 8 years on the run from international law enforcement for being an unhinged perv while marketing himself as a yoga guru.",

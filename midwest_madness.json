@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "58657c5a-bb41-43a7-be10-30a9128e4fc9",
+  "name": "Midwest Madness",
+  "spotifyId": "2Co27AeBx0uTPkdMNSlRgJ",
+  "appleId": 1553713757,
+  "episodes": [
+    {
+      "id": "f9f187c1-621d-4bf6-90b4-7542e51f7fa4",
+      "title": "A Cult we wish we still didn\u0027t know about",
+      "description": "Emily tells Danielle the story of the Church of Yahweh, trigger warning this one is bad. Animal abuse, child murder, SA. Socials: Instagram: https://www.instagram.com/mwmadnesspodcast/ Facebook: https://www.facebook.com/groups/245696000615540 Email: mwmadnesspodcast@gmail.com Sources: https://www.splcenter.org/fighting-hate/extremist-files/ideology/christian-identity https://www.omahamagazine.com/uncategorized/flush-him-down-the-toilet/ http://www.murderpedia.org/male.R/r/ryan-michael-wayne.htm https://www.oxygen.com/deadly-cults/crime-time/yahweh-nebraska-farmers-cults-slavery-torture-sodomy-murder",
+      "release": "2024-05-21T05:02:43Z",
+      "duration": "00:25:02.4840000",
+      "explicit": true,
+      "spotifyId": "3PIvulviOduNRtQlkx7OPf",
+      "appleId": 1000656230243,
+      "subjects": [
+        "Michael W. Ryan"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3PIvulviOduNRtQlkx7OPf",
+        "apple": "https://podcasts.apple.com/podcast/a-cult-we-wish-we-still-didnt-know-about/id1553713757?i=1000656230243"
+      }
+    }
+  ]
+}

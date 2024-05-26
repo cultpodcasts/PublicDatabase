@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "ebb66d45-0203-4ccc-a3de-9745f5bc5edc",
+  "name": "Fascination Street",
+  "spotifyId": "1r1LOj7z3oSPQom2WITy2s",
+  "appleId": 1271608977,
+  "episodes": [
+    {
+      "id": "409858a0-2e21-479e-a204-67fd074f0b55",
+      "title": "Chelsey Weber Smith - Poet / Podcast Host (American Hysteria)",
+      "description": "Chelsey Weber Smith Take a walk with me down Fascination Street as I get to know Chelsey Weber Smith. Chelsey is the host of the amazingly popular podcast American Hysteria. In this episode, we chat about why they got a master\u0027s degree in poetry, and how that specific degree helps in their current career. We also get into the pitfalls of running a small business and how to avoid some of them. Next up, we jump into the podcasting world. We discuss their first foray into podcasting with the Behind True Crime podcast, and some of the struggles associated with that particular venture. I pry a bit into Chelsey\u0027s personal life; asking questions about being in a cult as a younger person, and what something like that does to a person\u0027s mental health. We discuss all kinds of things including: EST, Erhard Seminars Training, The Mayan Apocalypse, Ramtha, The Ramtha School of Enlightenment, JZ Knight, and Patty Hearst; before finally getting to Chelsey\u0027s podcast. American Hysteria is a podcast that covers everything from: the Beanie Babies craze, haunted dolls, moral panics, urban legends, conspiracy theories, and the 12 ft Home Depot Skeleton, to the popularity of streaking in 1974. Naturally we talk about the first time I streaked! Check out American Hysteria wherever you get podcasts, and don\u0027t forget to join their Patreon for some super dope exclusive content!",
+      "release": "2024-05-20T05:00:04Z",
+      "duration": "00:51:08.8830000",
+      "explicit": true,
+      "spotifyId": "32qzdP7t1Gckem6H09dSyS",
+      "appleId": 1000656104003,
+      "subjects": [
+        "Ramtha\u0027s School of Enlightenment",
+        "Erhard Seminars Training",
+        "Symbionese Liberation Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/32qzdP7t1Gckem6H09dSyS",
+        "apple": "https://podcasts.apple.com/podcast/chelsey-weber-smith-poet-podcast-host-american-hysteria/id1271608977?i=1000656104003"
+      }
+    }
+  ]
+}
