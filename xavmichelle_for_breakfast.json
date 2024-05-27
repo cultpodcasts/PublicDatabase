@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "a1121408-4187-4ff8-8be2-5d9d80802e0b",
+  "name": "Xav \u0026 Michelle for Breakfast",
+  "spotifyId": "0BQZbrHGGxLAxj5mGMHB3Y",
+  "appleId": 1548845510,
+  "episodes": [
+    {
+      "id": "92858b4a-9dda-4b46-beb4-8ca642227071",
+      "title": "[From 0:20:16] FULL SHOW | Cult Survivor Escape Story, Best Coffee in Perth, WA Footy Star in Town Ryan Daniels Has the Details.",
+      "description": "Big show today, the latest edition of Ask Me Anything, we spoke to a cult survivor who was born into a cult but escaped, we heard his story. Ryan Daniels has some details about a WA footy star who is in Perth. By the end of this week we will know where the best coffee in Perth is hiding. See omnystudio.com/listener for privacy information.",
+      "release": "2024-05-27T02:34:32Z",
+      "duration": "00:26:24.4040000",
+      "explicit": false,
+      "spotifyId": "5jvPuf1mhncgvZdlcDo1mg",
+      "appleId": 1000656847737,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5jvPuf1mhncgvZdlcDo1mg",
+        "apple": "https://podcasts.apple.com/podcast/full-show-cult-survivor-escape-story-best-coffee-in/id1548845510?i=1000656847737"
+      }
+    }
+  ]
+}

@@ -153,6 +153,8 @@
       "release": "2024-05-08T13:47:00Z",
       "duration": "01:19:52",
       "explicit": false,
+      "spotifyId": "5jiz372dYJuSyOaTY5l3iD",
+      "appleId": 1000656796838,
       "youTubeId": "878zW1sqai8",
       "subjects": [
         "Institute In Basic Life Principles",
@@ -163,6 +165,8 @@
         "Quiverfull"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5jiz372dYJuSyOaTY5l3iD",
+        "apple": "https://podcasts.apple.com/podcast/how-a-well-trained-wife-narrowly-escaped-extreme/id1635013492?i=1000656796838",
         "youtube": "https://www.youtube.com/watch?v=878zW1sqai8"
       }
     },
