@@ -14,12 +14,15 @@
       "duration": "00:37:07",
       "explicit": false,
       "spotifyId": "5ypptvjeDOLzleqycJnxok",
+      "appleId": 1000656902333,
       "youTubeId": "Vd4AnO8Q88k",
       "subjects": [
-        "7M Films"
+        "7M Films",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ypptvjeDOLzleqycJnxok",
+        "apple": "https://podcasts.apple.com/podcast/the-7m-tiktok-cult/id1734295364?i=1000656902333",
         "youtube": "https://www.youtube.com/watch?v=Vd4AnO8Q88k"
       }
     },

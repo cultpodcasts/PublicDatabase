@@ -53,13 +53,15 @@
       "explicit": false,
       "spotifyId": "2TUjpMo2Zzzmex9TSbIpSv",
       "appleId": 1000650601119,
+      "youTubeId": "Sy6BkP4gGPI",
       "subjects": [
         "Geftakys Assembly",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2TUjpMo2Zzzmex9TSbIpSv",
-        "apple": "https://podcasts.apple.com/podcast/in-gods-name-pod-with-grace/id1387341884?i=1000650601119"
+        "apple": "https://podcasts.apple.com/podcast/in-gods-name-pod-with-grace/id1387341884?i=1000650601119",
+        "youtube": "https://www.youtube.com/watch?v=Sy6BkP4gGPI"
       }
     },
     {
@@ -71,13 +73,15 @@
       "explicit": false,
       "spotifyId": "3LQKJI812OVdaVbOR8PchH",
       "appleId": 1000631988786,
+      "youTubeId": "f0PCO0fu8xc",
       "subjects": [
         "Kare Youth League",
         "Family Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3LQKJI812OVdaVbOR8PchH",
-        "apple": "https://podcasts.apple.com/podcast/we-love-new-books-forager-with-michelle/id1387341884?i=1000631988786"
+        "apple": "https://podcasts.apple.com/podcast/we-love-new-books-forager-with-michelle/id1387341884?i=1000631988786",
+        "youtube": "https://www.youtube.com/watch?v=f0PCO0fu8xc"
       }
     },
     {
@@ -89,12 +93,14 @@
       "explicit": true,
       "spotifyId": "30qoaiozlCCLIzaSDrUutH",
       "appleId": 1000626055311,
+      "youTubeId": "SOY55h9Xios",
       "subjects": [
         "Troubled Teen Industry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/30qoaiozlCCLIzaSDrUutH",
-        "apple": "https://podcasts.apple.com/podcast/book-launch-edition-i-see-you-survivor-with-liz/id1387341884?i=1000626055311"
+        "apple": "https://podcasts.apple.com/podcast/book-launch-edition-i-see-you-survivor-with-liz/id1387341884?i=1000626055311",
+        "youtube": "https://www.youtube.com/watch?v=SOY55h9Xios"
       }
     },
     {
@@ -312,13 +318,15 @@
       "explicit": false,
       "spotifyId": "25EXoQV30RLhT736pa6dgk",
       "appleId": 1000585857313,
+      "youTubeId": "ststMaFZ-9I",
       "subjects": [
         "Remnant Fellowship",
         "Large Group Awareness Trainings"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/25EXoQV30RLhT736pa6dgk",
-        "apple": "https://podcasts.apple.com/podcast/ep-3-weight-loss-coercive-control-with-megan/id1387341884?i=1000585857313"
+        "apple": "https://podcasts.apple.com/podcast/ep-3-weight-loss-coercive-control-with-megan/id1387341884?i=1000585857313",
+        "youtube": "https://www.youtube.com/watch?v=ststMaFZ-9I"
       }
     },
     {
@@ -344,12 +352,14 @@
       "explicit": false,
       "spotifyId": "4cFMzlk4zHfoFOxPqs5g88",
       "appleId": 1000584225418,
+      "youTubeId": "3FZA5DhVH2s",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cFMzlk4zHfoFOxPqs5g88",
-        "apple": "https://podcasts.apple.com/podcast/ep-1-what-is-a-cult-with-ashlen/id1387341884?i=1000584225418"
+        "apple": "https://podcasts.apple.com/podcast/ep-1-what-is-a-cult-with-ashlen/id1387341884?i=1000584225418",
+        "youtube": "https://www.youtube.com/watch?v=3FZA5DhVH2s"
       }
     },
     {
