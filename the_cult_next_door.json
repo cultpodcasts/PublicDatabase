@@ -4,7 +4,27 @@
   "name": "The Cult Next Door",
   "spotifyId": "4dojrCgB54VhDBRGZSEdbg",
   "appleId": 1699470395,
+  "youTubeChannelId": "UCVesB_W71qEGs0HNXjgNwmQ",
   "episodes": [
+    {
+      "id": "4a4995d9-d394-4116-83bb-2fe3caf44948",
+      "title": "Ep.31: \u0022Cloaks of Humility\u0022",
+      "description": "In Episode 31 of The Cult Next Door Podcast, titled \u0022Cloaks of Humility,\u0022 hosts Mattie and Ashleigh are joined once again by former Crusade Church member Michael \u0022Sandy\u0022 Sandow. Sandy recounts the early days of \u0022The Love Move\u0022 and the increasingly uncomfortable positions that members found themselves in as the movement gained momentum. The episode delves into the cult leader\u0027s insistent push for \u0022The Love Move,\u0022 urging members to disregard appearances and embrace a new level of physical intimacy that the church had previously condemned. Claiming to receive divine visions, the leader implored members to take up their spiritual \u0022Cloaks of Humility\u0022 and suppress their intuition and any growing doubts about the true nature of The Love Move. Through riveting excerpts from the leader\u0027s written messages to the church and his family, the episode vividly illustrates the depths of conditioning and control exerted over the congregation.\u0022Cloaks of Humility\u0022 sheds light on the manipulative tactics used to disguise control as selfless devotion, providing a compelling and eye-opening account of life within Crusade Church.",
+      "release": "2024-06-05T09:30:03Z",
+      "duration": "01:22:19.7030000",
+      "explicit": false,
+      "spotifyId": "0GLDxcwEAu3Il1CynUwmsw",
+      "appleId": 1000657910715,
+      "youTubeId": "ZNoTgB1PEbA",
+      "subjects": [
+        "The Crusade Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0GLDxcwEAu3Il1CynUwmsw",
+        "apple": "https://podcasts.apple.com/podcast/ep-31-cloaks-of-humility/id1699470395?i=1000657910715",
+        "youtube": "https://www.youtube.com/watch?v=ZNoTgB1PEbA"
+      }
+    },
     {
       "id": "842fbecf-4707-4ce5-a54d-bcf2cdbaabf9",
       "title": "Ep.30: \u0022Let Us Love On You\u0022",
@@ -14,12 +34,14 @@
       "explicit": false,
       "spotifyId": "3bE5lcZ2Wg1XyyH07xY0Ap",
       "appleId": 1000656376014,
+      "youTubeId": "z6vcnIBoGTQ",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bE5lcZ2Wg1XyyH07xY0Ap",
-        "apple": "https://podcasts.apple.com/podcast/ep-30-let-us-love-on-you/id1699470395?i=1000656376014"
+        "apple": "https://podcasts.apple.com/podcast/ep-30-let-us-love-on-you/id1699470395?i=1000656376014",
+        "youtube": "https://www.youtube.com/watch?v=z6vcnIBoGTQ"
       }
     },
     {
@@ -31,12 +53,14 @@
       "explicit": false,
       "spotifyId": "6wuCJrYinDbEsEPqNkRWUf",
       "appleId": 1000655652042,
+      "youTubeId": "SMkxGOyVhhw",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wuCJrYinDbEsEPqNkRWUf",
-        "apple": "https://podcasts.apple.com/podcast/ep-29-never-good-enough/id1699470395?i=1000655652042"
+        "apple": "https://podcasts.apple.com/podcast/ep-29-never-good-enough/id1699470395?i=1000655652042",
+        "youtube": "https://www.youtube.com/watch?v=SMkxGOyVhhw"
       }
     },
     {
@@ -48,12 +72,14 @@
       "explicit": false,
       "spotifyId": "7JNEu4xN519HphZLSMHUGl",
       "appleId": 1000654910552,
+      "youTubeId": "cdP516tOm7c",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7JNEu4xN519HphZLSMHUGl",
-        "apple": "https://podcasts.apple.com/podcast/ep-28-the-devils-playground/id1699470395?i=1000654910552"
+        "apple": "https://podcasts.apple.com/podcast/ep-28-the-devils-playground/id1699470395?i=1000654910552",
+        "youtube": "https://www.youtube.com/watch?v=cdP516tOm7c"
       }
     },
     {
@@ -65,12 +91,14 @@
       "explicit": false,
       "spotifyId": "33LMMG6TV2GtuHrF7TSTYS",
       "appleId": 1000654152870,
+      "youTubeId": "K8GFr5fy9oo",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/33LMMG6TV2GtuHrF7TSTYS",
-        "apple": "https://podcasts.apple.com/podcast/ep-27-embracing-the-self-enneagram-insights/id1699470395?i=1000654152870"
+        "apple": "https://podcasts.apple.com/podcast/ep-27-embracing-the-self-enneagram-insights/id1699470395?i=1000654152870",
+        "youtube": "https://www.youtube.com/watch?v=K8GFr5fy9oo"
       }
     },
     {
@@ -82,12 +110,14 @@
       "explicit": false,
       "spotifyId": "2S7p5uIDsgVUxWpn6PQZVd",
       "appleId": 1000653438767,
+      "youTubeId": "Mty9GrejIuM",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2S7p5uIDsgVUxWpn6PQZVd",
-        "apple": "https://podcasts.apple.com/podcast/ep-26-inside-the-enneagram-understanding-cult-influence/id1699470395?i=1000653438767"
+        "apple": "https://podcasts.apple.com/podcast/ep-26-inside-the-enneagram-understanding-cult-influence/id1699470395?i=1000653438767",
+        "youtube": "https://www.youtube.com/watch?v=Mty9GrejIuM"
       }
     },
     {
@@ -99,12 +129,14 @@
       "explicit": false,
       "spotifyId": "2Sx1mZpmkprQ5BH8633Zb1",
       "appleId": 1000652717878,
+      "youTubeId": "XQPM_RrYW3A",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Sx1mZpmkprQ5BH8633Zb1",
-        "apple": "https://podcasts.apple.com/podcast/ep-25-red-flags/id1699470395?i=1000652717878"
+        "apple": "https://podcasts.apple.com/podcast/ep-25-red-flags/id1699470395?i=1000652717878",
+        "youtube": "https://www.youtube.com/watch?v=XQPM_RrYW3A"
       }
     },
     {
@@ -116,6 +148,7 @@
       "explicit": false,
       "spotifyId": "1tDSg9OTYcjcbvO7jj4LUg",
       "appleId": 1000652003162,
+      "youTubeId": "880XxaQpDkQ",
       "subjects": [
         "The Crusade Church",
         "Cult Psychology",
@@ -123,7 +156,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1tDSg9OTYcjcbvO7jj4LUg",
-        "apple": "https://podcasts.apple.com/podcast/ep-24-snake-oil-salesman/id1699470395?i=1000652003162"
+        "apple": "https://podcasts.apple.com/podcast/ep-24-snake-oil-salesman/id1699470395?i=1000652003162",
+        "youtube": "https://www.youtube.com/watch?v=880XxaQpDkQ"
       }
     },
     {
@@ -135,12 +169,15 @@
       "explicit": false,
       "spotifyId": "2H56TjmKN5kTe2xEzks4Nk",
       "appleId": 1000651289542,
+      "youTubeId": "no9gDuAJlpE",
       "subjects": [
-        "The Crusade Church"
+        "The Crusade Church",
+        "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2H56TjmKN5kTe2xEzks4Nk",
-        "apple": "https://podcasts.apple.com/podcast/ep-23-q-a-w-ashleigh-mattie/id1699470395?i=1000651289542"
+        "apple": "https://podcasts.apple.com/podcast/ep-23-q-a-w-ashleigh-mattie/id1699470395?i=1000651289542",
+        "youtube": "https://www.youtube.com/watch?v=no9gDuAJlpE"
       }
     },
     {
@@ -169,12 +206,14 @@
       "explicit": false,
       "spotifyId": "2q0cMvF8kS8OSpD2a262f8",
       "appleId": 1000642765187,
+      "youTubeId": "sH2wuU74POo",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2q0cMvF8kS8OSpD2a262f8",
-        "apple": "https://podcasts.apple.com/podcast/ep-22-call-me-big-daddy/id1699470395?i=1000642765187"
+        "apple": "https://podcasts.apple.com/podcast/ep-22-call-me-big-daddy/id1699470395?i=1000642765187",
+        "youtube": "https://www.youtube.com/watch?v=sH2wuU74POo"
       }
     },
     {
@@ -186,13 +225,15 @@
       "explicit": false,
       "spotifyId": "7jkRdOsjgQKYkrfPuAJszN",
       "appleId": 1000641955194,
+      "youTubeId": "t3c6VFF0sI8",
       "subjects": [
         "The Crusade Church",
         "Worldwide Church Of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jkRdOsjgQKYkrfPuAJszN",
-        "apple": "https://podcasts.apple.com/podcast/ep-20-the-lone-prophet/id1699470395?i=1000641955194"
+        "apple": "https://podcasts.apple.com/podcast/ep-20-the-lone-prophet/id1699470395?i=1000641955194",
+        "youtube": "https://www.youtube.com/watch?v=t3c6VFF0sI8"
       }
     },
     {
@@ -204,6 +245,7 @@
       "explicit": false,
       "spotifyId": "0ob6SXcgOwhc7SH7Zqn8W0",
       "appleId": 1000641155929,
+      "youTubeId": "t3c6VFF0sI8",
       "subjects": [
         "The Crusade Church",
         "Psychology",
@@ -211,7 +253,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ob6SXcgOwhc7SH7Zqn8W0",
-        "apple": "https://podcasts.apple.com/podcast/ep-20-exploited-manipulated-poisoned/id1699470395?i=1000641155929"
+        "apple": "https://podcasts.apple.com/podcast/ep-20-exploited-manipulated-poisoned/id1699470395?i=1000641155929",
+        "youtube": "https://www.youtube.com/watch?v=t3c6VFF0sI8"
       }
     },
     {
@@ -223,12 +266,14 @@
       "explicit": false,
       "spotifyId": "7zFfSwF0WhygzC14hLftNJ",
       "appleId": 1000640416345,
+      "youTubeId": "YXqYyZW4MFw",
       "subjects": [
-        "Family Cult"
+        "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7zFfSwF0WhygzC14hLftNJ",
-        "apple": "https://podcasts.apple.com/podcast/ep-19-somethings-wrong-with-liz/id1699470395?i=1000640416345"
+        "apple": "https://podcasts.apple.com/podcast/ep-19-somethings-wrong-with-liz/id1699470395?i=1000640416345",
+        "youtube": "https://www.youtube.com/watch?v=YXqYyZW4MFw"
       }
     },
     {
@@ -240,12 +285,14 @@
       "explicit": false,
       "spotifyId": "4v4ywZPfIfTu5XZAL9If9V",
       "appleId": 1000639803264,
+      "youTubeId": "nUxn-ivHkPI",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4v4ywZPfIfTu5XZAL9If9V",
-        "apple": "https://podcasts.apple.com/podcast/ep-18-cower-obey/id1699470395?i=1000639803264"
+        "apple": "https://podcasts.apple.com/podcast/ep-18-cower-obey/id1699470395?i=1000639803264",
+        "youtube": "https://www.youtube.com/watch?v=nUxn-ivHkPI"
       }
     },
     {
@@ -257,12 +304,14 @@
       "explicit": false,
       "spotifyId": "6DvWb0WBEP5FlxNs9cyTfP",
       "appleId": 1000639197584,
+      "youTubeId": "mZw_D91Fdic",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6DvWb0WBEP5FlxNs9cyTfP",
-        "apple": "https://podcasts.apple.com/podcast/ep-17-the-mask-slips/id1699470395?i=1000639197584"
+        "apple": "https://podcasts.apple.com/podcast/ep-17-the-mask-slips/id1699470395?i=1000639197584",
+        "youtube": "https://www.youtube.com/watch?v=mZw_D91Fdic"
       }
     },
     {
@@ -274,12 +323,14 @@
       "explicit": false,
       "spotifyId": "7A0H209dytA95sxEoF3oKA",
       "appleId": 1000638422023,
+      "youTubeId": "00Ziv-fM1pA",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7A0H209dytA95sxEoF3oKA",
-        "apple": "https://podcasts.apple.com/podcast/ep-16-prince-sandstorm/id1699470395?i=1000638422023"
+        "apple": "https://podcasts.apple.com/podcast/ep-16-prince-sandstorm/id1699470395?i=1000638422023",
+        "youtube": "https://www.youtube.com/watch?v=00Ziv-fM1pA"
       }
     },
     {
@@ -291,13 +342,15 @@
       "explicit": false,
       "spotifyId": "33tEOSU61lP1t4ZDfjt7IR",
       "appleId": 1000637668013,
+      "youTubeId": "wVrXDXSnX14",
       "subjects": [
         "The Crusade Church",
         "Family Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/33tEOSU61lP1t4ZDfjt7IR",
-        "apple": "https://podcasts.apple.com/podcast/ep-15-the-facade-fades/id1699470395?i=1000637668013"
+        "apple": "https://podcasts.apple.com/podcast/ep-15-the-facade-fades/id1699470395?i=1000637668013",
+        "youtube": "https://www.youtube.com/watch?v=wVrXDXSnX14"
       }
     },
     {
@@ -309,12 +362,14 @@
       "explicit": false,
       "spotifyId": "0ZcH41at0qAtsEOVuBVQTy",
       "appleId": 1000636898457,
+      "youTubeId": "vAte8qYlTW0",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZcH41at0qAtsEOVuBVQTy",
-        "apple": "https://podcasts.apple.com/podcast/ep-14-watched-like-a-hawk/id1699470395?i=1000636898457"
+        "apple": "https://podcasts.apple.com/podcast/ep-14-watched-like-a-hawk/id1699470395?i=1000636898457",
+        "youtube": "https://www.youtube.com/watch?v=vAte8qYlTW0"
       }
     },
     {
@@ -326,13 +381,15 @@
       "explicit": false,
       "spotifyId": "3vJ9ejq0RWg1B1RB0L3uNj",
       "appleId": 1000635666740,
+      "youTubeId": "QNytbcaFrww",
       "subjects": [
         "The Crusade Church",
         "Worldwide Church Of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vJ9ejq0RWg1B1RB0L3uNj",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-his-voice-was-gods-voice/id1699470395?i=1000635666740"
+        "apple": "https://podcasts.apple.com/podcast/ep-13-his-voice-was-gods-voice/id1699470395?i=1000635666740",
+        "youtube": "https://www.youtube.com/watch?v=QNytbcaFrww"
       }
     },
     {
@@ -344,13 +401,14 @@
       "explicit": false,
       "spotifyId": "1utRzmk8yLGNSwBPRxY5Pw",
       "appleId": 1000635257432,
+      "youTubeId": "ZfcPfz1k_4k",
       "subjects": [
-        "Living Church of God",
-        "Worldwide Church Of God"
+        "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1utRzmk8yLGNSwBPRxY5Pw",
-        "apple": "https://podcasts.apple.com/podcast/ep-12-pulling-on-a-thread-part-2/id1699470395?i=1000635257432"
+        "apple": "https://podcasts.apple.com/podcast/ep-12-pulling-on-a-thread-part-2/id1699470395?i=1000635257432",
+        "youtube": "https://www.youtube.com/watch?v=ZfcPfz1k_4k"
       }
     },
     {
@@ -362,6 +420,7 @@
       "explicit": false,
       "spotifyId": "40aux2dRVEuFOFNz1fwbP8",
       "appleId": 1000634891338,
+      "youTubeId": "j1eBaKEpnx4",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -369,7 +428,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/40aux2dRVEuFOFNz1fwbP8",
-        "apple": "https://podcasts.apple.com/podcast/ep-11-pulling-on-a-thread-part-1/id1699470395?i=1000634891338"
+        "apple": "https://podcasts.apple.com/podcast/ep-11-pulling-on-a-thread-part-1/id1699470395?i=1000634891338",
+        "youtube": "https://www.youtube.com/watch?v=j1eBaKEpnx4"
       }
     },
     {
@@ -381,6 +441,7 @@
       "explicit": false,
       "spotifyId": "4oRbxdNbbnJSJXWIaPzSnj",
       "appleId": 1000634118614,
+      "youTubeId": "0t65iZrDL8M",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -388,7 +449,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4oRbxdNbbnJSJXWIaPzSnj",
-        "apple": "https://podcasts.apple.com/podcast/ep-10-reverberations-of-abuse/id1699470395?i=1000634118614"
+        "apple": "https://podcasts.apple.com/podcast/ep-10-reverberations-of-abuse/id1699470395?i=1000634118614",
+        "youtube": "https://www.youtube.com/watch?v=0t65iZrDL8M"
       }
     },
     {
@@ -400,6 +462,7 @@
       "explicit": false,
       "spotifyId": "0asuUZ1ObNtMz3Btd6o7Dr",
       "appleId": 1000633335377,
+      "youTubeId": "WcJJ30-7-Js",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -407,7 +470,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0asuUZ1ObNtMz3Btd6o7Dr",
-        "apple": "https://podcasts.apple.com/podcast/ep-9-demon-problems-coming-catastrophe/id1699470395?i=1000633335377"
+        "apple": "https://podcasts.apple.com/podcast/ep-9-demon-problems-coming-catastrophe/id1699470395?i=1000633335377",
+        "youtube": "https://www.youtube.com/watch?v=WcJJ30-7-Js"
       }
     },
     {
@@ -419,6 +483,7 @@
       "explicit": false,
       "spotifyId": "7ywES49snhsQe6AE5YI4CU",
       "appleId": 1000632554254,
+      "youTubeId": "TSoTAt9dKUw",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -426,7 +491,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ywES49snhsQe6AE5YI4CU",
-        "apple": "https://podcasts.apple.com/podcast/ep-8-forty-days-forty-nights/id1699470395?i=1000632554254"
+        "apple": "https://podcasts.apple.com/podcast/ep-8-forty-days-forty-nights/id1699470395?i=1000632554254",
+        "youtube": "https://www.youtube.com/watch?v=TSoTAt9dKUw"
       }
     },
     {
@@ -438,6 +504,7 @@
       "explicit": false,
       "spotifyId": "1nUolLd3D2tM1LrSCwExUu",
       "appleId": 1000631713715,
+      "youTubeId": "DhBsJXxmKVw",
       "subjects": [
         "Family Cult",
         "Living Church of God",
@@ -446,7 +513,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1nUolLd3D2tM1LrSCwExUu",
-        "apple": "https://podcasts.apple.com/podcast/ep-7-the-extra-child/id1699470395?i=1000631713715"
+        "apple": "https://podcasts.apple.com/podcast/ep-7-the-extra-child/id1699470395?i=1000631713715",
+        "youtube": "https://www.youtube.com/watch?v=DhBsJXxmKVw"
       }
     },
     {
@@ -458,6 +526,7 @@
       "explicit": false,
       "spotifyId": "7Hk6tRaE9RWuN9ZVsVSDtx",
       "appleId": 1000630942137,
+      "youTubeId": "Z7kyZUYERTk",
       "subjects": [
         "Psychology",
         "Family Cult",
@@ -467,7 +536,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Hk6tRaE9RWuN9ZVsVSDtx",
-        "apple": "https://podcasts.apple.com/podcast/ep-6-no-one-is-safe-no-one/id1699470395?i=1000630942137"
+        "apple": "https://podcasts.apple.com/podcast/ep-6-no-one-is-safe-no-one/id1699470395?i=1000630942137",
+        "youtube": "https://www.youtube.com/watch?v=Z7kyZUYERTk"
       }
     },
     {
@@ -479,6 +549,7 @@
       "explicit": false,
       "spotifyId": "1Z11FM5LGGKEuZ39ZPMkFD",
       "appleId": 1000630607166,
+      "youTubeId": "GX22ha8uaoY",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -486,7 +557,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Z11FM5LGGKEuZ39ZPMkFD",
-        "apple": "https://podcasts.apple.com/podcast/trailer-the-cult-next-door-podcast/id1699470395?i=1000630607166"
+        "apple": "https://podcasts.apple.com/podcast/trailer-the-cult-next-door-podcast/id1699470395?i=1000630607166",
+        "youtube": "https://www.youtube.com/watch?v=GX22ha8uaoY"
       }
     },
     {
@@ -498,6 +570,7 @@
       "explicit": false,
       "spotifyId": "2wWvHzBGzmyD1ObXSazFJb",
       "appleId": 1000630160239,
+      "youTubeId": "LFu3uNEbEpo",
       "subjects": [
         "Psychology",
         "Family Cult",
@@ -507,7 +580,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2wWvHzBGzmyD1ObXSazFJb",
-        "apple": "https://podcasts.apple.com/podcast/ep-5-an-absolutely-catastrophic-event/id1699470395?i=1000630160239"
+        "apple": "https://podcasts.apple.com/podcast/ep-5-an-absolutely-catastrophic-event/id1699470395?i=1000630160239",
+        "youtube": "https://www.youtube.com/watch?v=LFu3uNEbEpo"
       }
     },
     {
@@ -519,6 +593,7 @@
       "explicit": false,
       "spotifyId": "1LF0WuTD7szzENozVBCRGo",
       "appleId": 1000629366685,
+      "youTubeId": "OicTKeyxISs",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -526,7 +601,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1LF0WuTD7szzENozVBCRGo",
-        "apple": "https://podcasts.apple.com/podcast/ep-4-bite-model-key-to-recognizing-cults/id1699470395?i=1000629366685"
+        "apple": "https://podcasts.apple.com/podcast/ep-4-bite-model-key-to-recognizing-cults/id1699470395?i=1000629366685",
+        "youtube": "https://www.youtube.com/watch?v=OicTKeyxISs"
       }
     },
     {
@@ -538,6 +614,7 @@
       "explicit": false,
       "spotifyId": "3sLr9FnVzPwrL7tjr5hyS1",
       "appleId": 1000628553740,
+      "youTubeId": "Uh4w8_fTd7w",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -545,7 +622,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3sLr9FnVzPwrL7tjr5hyS1",
-        "apple": "https://podcasts.apple.com/podcast/ep-3-the-magnitude-of-the-evil-you-have-done/id1699470395?i=1000628553740"
+        "apple": "https://podcasts.apple.com/podcast/ep-3-the-magnitude-of-the-evil-you-have-done/id1699470395?i=1000628553740",
+        "youtube": "https://www.youtube.com/watch?v=Uh4w8_fTd7w"
       }
     },
     {
@@ -557,6 +635,7 @@
       "explicit": false,
       "spotifyId": "61MQZf4Eaoo7YcslBcadlk",
       "appleId": 1000627715745,
+      "youTubeId": "hpcWIJtfupE",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -564,7 +643,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61MQZf4Eaoo7YcslBcadlk",
-        "apple": "https://podcasts.apple.com/podcast/ep-2-if-he-cant-control-her-he-will-destroy-her/id1699470395?i=1000627715745"
+        "apple": "https://podcasts.apple.com/podcast/ep-2-if-he-cant-control-her-he-will-destroy-her/id1699470395?i=1000627715745",
+        "youtube": "https://www.youtube.com/watch?v=hpcWIJtfupE"
       }
     },
     {
@@ -576,6 +656,7 @@
       "explicit": false,
       "spotifyId": "34Y3WF62XEYHrWEp1AQkrA",
       "appleId": 1000626935669,
+      "youTubeId": "0viEHLG-P1o",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -583,7 +664,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/34Y3WF62XEYHrWEp1AQkrA",
-        "apple": "https://podcasts.apple.com/podcast/ep-1-god-has-given-me-a-message-for-you/id1699470395?i=1000626935669"
+        "apple": "https://podcasts.apple.com/podcast/ep-1-god-has-given-me-a-message-for-you/id1699470395?i=1000626935669",
+        "youtube": "https://www.youtube.com/watch?v=0viEHLG-P1o"
       }
     },
     {
@@ -594,6 +676,8 @@
       "duration": "00:01:08.6710000",
       "explicit": false,
       "spotifyId": "6YNN2siA5w24F5qDhx71sQ",
+      "appleId": 1000626503600,
+      "youTubeId": "7WFv3d8h-Js",
       "subjects": [
         "Family Cult",
         "Living Church of God",
@@ -601,7 +685,9 @@
         "The Crusade Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6YNN2siA5w24F5qDhx71sQ"
+        "spotify": "https://open.spotify.com/episode/6YNN2siA5w24F5qDhx71sQ",
+        "apple": "https://podcasts.apple.com/podcast/ep-3-teaser-i-cant-imagine-more-of-a-family-cult-dynamic/id1699470395?i=1000626503600",
+        "youtube": "https://www.youtube.com/watch?v=7WFv3d8h-Js"
       }
     },
     {
@@ -612,13 +698,17 @@
       "duration": "00:01:16.8850000",
       "explicit": false,
       "spotifyId": "3VOll5DtRrJmsTQ89sCkIi",
+      "appleId": 1000625985367,
+      "youTubeId": "Ti6vuxzZYLA",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
         "The Crusade Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3VOll5DtRrJmsTQ89sCkIi"
+        "spotify": "https://open.spotify.com/episode/3VOll5DtRrJmsTQ89sCkIi",
+        "apple": "https://podcasts.apple.com/podcast/ep-3-teaser-i-think-he-thought-he-had-me-in-the-bag/id1699470395?i=1000625985367",
+        "youtube": "https://www.youtube.com/watch?v=Ti6vuxzZYLA"
       }
     },
     {
@@ -629,13 +719,15 @@
       "duration": "00:00:58.8160000",
       "explicit": false,
       "spotifyId": "0zngPHRm17uxnHbYLnSe83",
+      "appleId": 1000625682833,
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
         "The Crusade Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/0zngPHRm17uxnHbYLnSe83"
+        "spotify": "https://open.spotify.com/episode/0zngPHRm17uxnHbYLnSe83",
+        "apple": "https://podcasts.apple.com/podcast/ep-2-teaser-we-knew-what-would-happen-if-you-didnt-stay-in-line/id1699470395?i=1000625682833"
       }
     },
     {
@@ -646,13 +738,17 @@
       "duration": "00:03:12.3620000",
       "explicit": false,
       "spotifyId": "6r9lQkrHelcSoj0WZdAmFd",
+      "appleId": 1000625683004,
+      "youTubeId": "TBbV657xG48",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
         "The Crusade Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6r9lQkrHelcSoj0WZdAmFd"
+        "spotify": "https://open.spotify.com/episode/6r9lQkrHelcSoj0WZdAmFd",
+        "apple": "https://podcasts.apple.com/podcast/trailer-this-isnt-just-another-cult-story/id1699470395?i=1000625683004",
+        "youtube": "https://www.youtube.com/watch?v=TBbV657xG48"
       }
     },
     {
@@ -663,13 +759,15 @@
       "duration": "00:01:23.7970000",
       "explicit": false,
       "spotifyId": "24B1WYR0k7AFBus4vJ8Skm",
+      "appleId": 1000624834925,
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
         "The Crusade Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/24B1WYR0k7AFBus4vJ8Skm"
+        "spotify": "https://open.spotify.com/episode/24B1WYR0k7AFBus4vJ8Skm",
+        "apple": "https://podcasts.apple.com/podcast/ep-2-teaser-it-felt-like-i-jumped-out-of-a-burning-building/id1699470395?i=1000624834925"
       }
     },
     {
@@ -680,13 +778,17 @@
       "duration": "00:01:14.4100000",
       "explicit": false,
       "spotifyId": "5OAedkZEK2gFsJIrPxQzr2",
+      "appleId": 1000623499455,
+      "youTubeId": "8SsEi2oPdG4",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
         "The Crusade Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5OAedkZEK2gFsJIrPxQzr2"
+        "spotify": "https://open.spotify.com/episode/5OAedkZEK2gFsJIrPxQzr2",
+        "apple": "https://podcasts.apple.com/podcast/ep-1-teaser-seared-into-my-memory-like-a-branding-iron/id1699470395?i=1000623499455",
+        "youtube": "https://www.youtube.com/watch?v=8SsEi2oPdG4"
       }
     }
   ]

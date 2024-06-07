@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "655b413e-4d63-4c78-8356-a2e0c8252f08",
+  "name": "Dontcha Know",
+  "spotifyId": "5dhM2PdGmfHY5qRZmw2nDk",
+  "appleId": 1708647764,
+  "episodes": [
+    {
+      "id": "55f38833-76b8-4c3a-9d18-8b7850df9c77",
+      "title": "Papa Pilgrim and the Alaskan Hale Family Cult.",
+      "description": "Welcome my pretties, come in have a seat as we discuss the tragic tale of incest, abuse, spiritual manipulation, and damage to the Wrangell- St. Elias national park. Warning: This episode contains depictions of death, incest, rape, mental/spiritual/physical/emotional abuse Listener discretion is advised. Resources to the last drop: Papa Pilgrim\u2019s Progress: The Dark Tale of an Alaskan Frontiersman ( outsideonline.com ) Pilgrim\u0027s Wilderness: A True Story of Faith and Madness on the Alaska Frontier by Tom Kizzia | Goodreads https://www.adn.com/projects/article/hale-clan-details-abuse-hand-their-father-papa-pilgrim/2013/07/12/ 3 Simple Changes For Arthritis Sufferers! ( youtube.com ) Victim impact statements heard in Papa Pilgrim sentencing ( youtube.com )",
+      "release": "2024-06-01T23:15:49Z",
+      "duration": "00:42:50.4630000",
+      "explicit": true,
+      "spotifyId": "2oNuJzCsffOEjDQQSuBq98",
+      "appleId": 1000657530829,
+      "subjects": [
+        "Family Cult",
+        "Robert Allen Hale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2oNuJzCsffOEjDQQSuBq98",
+        "apple": "https://podcasts.apple.com/podcast/papa-pilgrim-and-the-alaskan-hale-family-cult/id1708647764?i=1000657530829"
+      }
+    }
+  ]
+}

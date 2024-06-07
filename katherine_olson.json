@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCpuAoRSmnmDOM4TAfD3hA7g",
   "episodes": [
     {
+      "id": "4d951b2b-177b-4f87-b2e5-a2424af38385",
+      "title": "A Friendly Livestream",
+      "release": "2024-06-04T03:22:55Z",
+      "duration": "01:11:52",
+      "explicit": false,
+      "youTubeId": "ZqY9uBM93HY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZqY9uBM93HY"
+      }
+    },
+    {
       "id": "e0756a45-8a59-482d-b9a0-c8be4a082a2d",
       "title": "Discussion with an Addiction Counsellor Regarding Parallels To Addiction \u0026 Cult Abuse",
       "release": "2024-05-06T18:58:39Z",

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "98b7c497-cfed-4e2f-8b10-89fe58cfda90",
+  "name": "WillPower Podcast",
+  "spotifyId": "6DXy4fqArDoonWZG2FGVff",
+  "appleId": 1642395071,
+  "episodes": [
+    {
+      "id": "05ec6f57-6611-418b-90c8-b92f99cccd49",
+      "title": "#82 When Self-Improvement Takes a Cultish Turn Sarah Edmondson NXIVM Story",
+      "description": "Sarah Edmondson, a former NXIVM cult member and author of \u0022Scarred.\u0022 They discuss Sarah\u0027s experience with the cult, the psychological tactics used to manipulate members, and the parallels between NXIVM and Scientology. Sarah explains NXIVM\u0027s \u0022M process,\u0022 which is akin to therapy, aimed at resolving conflicting beliefs and emotional responses. She shares a personal anecdote about overcoming irrational anger triggered by dishes left in the sink, which was linked to her parents\u0027 divorce. The conversation also touches on the importance of personal responsibility and the dangers of its misuse. Sarah concludes by advising listeners on how to identify a cult and encourages critical thinking.",
+      "release": "2024-05-13T11:00:00Z",
+      "duration": "00:45:30.9430000",
+      "explicit": false,
+      "spotifyId": "18gVGjmSnREbZT2tYYE359",
+      "appleId": 1000655407832,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/18gVGjmSnREbZT2tYYE359",
+        "apple": "https://podcasts.apple.com/podcast/82-when-self-improvement-takes-a-cultish-turn-sarah/id1642395071?i=1000655407832"
+      }
+    }
+  ]
+}

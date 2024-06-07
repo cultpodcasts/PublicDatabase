@@ -4,6 +4,7 @@
   "name": "Rotten Mango",
   "spotifyId": "2DZwvzn6Z3xCFZrwZGDrbj",
   "appleId": 1517954480,
+  "youTubeChannelId": "UC0JJtK3m8pwy6rVgnBz47Rw",
   "episodes": [
     {
       "id": "ca5af4fa-ad44-4a4b-ae5a-a559e2c9822b",
@@ -14,6 +15,7 @@
       "explicit": false,
       "spotifyId": "0oEggSVnjdJFFCFs0cku4k",
       "appleId": 1000656804174,
+      "youTubeId": "dGrb--1yz8Q",
       "subjects": [
         "Larry Ray",
         "Cult Psychology",
@@ -21,7 +23,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0oEggSVnjdJFFCFs0cku4k",
-        "apple": "https://podcasts.apple.com/podcast/nyc-top-escort-service-catering-to-rich-married-men/id1517954480?i=1000656804174"
+        "apple": "https://podcasts.apple.com/podcast/nyc-top-escort-service-catering-to-rich-married-men/id1517954480?i=1000656804174",
+        "youtube": "https://www.youtube.com/watch?v=dGrb--1yz8Q"
       }
     },
     {
@@ -33,13 +36,15 @@
       "explicit": false,
       "spotifyId": "31XRjP4kxZdTtBiIcycZwX",
       "appleId": 1000656458793,
+      "youTubeId": "xLTyIdlc1n8",
       "subjects": [
         "Larry Ray",
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31XRjP4kxZdTtBiIcycZwX",
-        "apple": "https://podcasts.apple.com/podcast/dad-moves-into-daughters-college-dorm-starts-a-cult/id1517954480?i=1000656458793"
+        "apple": "https://podcasts.apple.com/podcast/dad-moves-into-daughters-college-dorm-starts-a-cult/id1517954480?i=1000656458793",
+        "youtube": "https://www.youtube.com/watch?v=xLTyIdlc1n8"
       }
     }
   ]

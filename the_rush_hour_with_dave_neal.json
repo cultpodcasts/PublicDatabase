@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e36ac836-f896-470e-a498-d959ae5d40c1",
+  "name": "The Rush Hour With Dave Neal",
+  "spotifyId": "5s9s6DQMFOuobbdvbIYCx5",
+  "appleId": 1651903715,
+  "episodes": [
+    {
+      "id": "279513e2-8848-4c67-b5ed-82a6de9fe121",
+      "title": "6-6-24 Morning Rush - Melanie Wilking From Netflix Cult Doc Speaks \u0026  App Says Bachelor Clayton Accuser\u0027s Evidence \u0027Photoshopped\u0027",
+      "description": "6-6-24 Morning Rush - Melanie Wilking From Netflix Cult Doc Speaks \u0026  App Says Bachelor Clayton Accuser\u0027s Evidence \u0027Photoshopped\u0027\n\nwww.patreon.com/daveneal for bonus content!",
+      "release": "2024-06-06T04:58:14Z",
+      "duration": "00:25:35",
+      "explicit": false,
+      "spotifyId": "3yOad9IIlA6AfDBA7RcQdW",
+      "appleId": 1000658009054,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3yOad9IIlA6AfDBA7RcQdW",
+        "apple": "https://podcasts.apple.com/podcast/6-6-24-morning-rush-melanie-wilking-from-netflix-cult/id1651903715?i=1000658009054"
+      }
+    }
+  ]
+}

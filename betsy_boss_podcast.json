@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "c05267df-3a5e-4acd-aaff-4961430f5aaa",
+  "name": "Betsy Boss Podcast",
+  "spotifyId": "32IIxKTfjqDKEsV3IsPMi9",
+  "appleId": 1509833517,
+  "episodes": [
+    {
+      "id": "40f04ff7-22f2-4699-8dfb-e065557daaed",
+      "title": "89. 8 Passengers - Kevin Can Wait (Ruby Franke, Jodi Hildebrandt \u0026 ConneXions, Part 11)",
+      "description": "We\u2019re rolling the tapes back now. We\u2019ve been building up anticipation about Kevin Franke\u2019s interview with the police, and we promise it won\u2019t disappoint. Kevin\u2019s testimony is important for a number of different ways, most notably for the things he says and the way he says them. You\u2019ll hear Kevin touch on all different topics like how Ruby and Jodi first met, how he was swindled into ConneXions via Jodi\u2019s famous Men\u2019s Group offerings, and what made Jodi such a compelling personality when it came to getting folks on board in a cult. You\u2019ll hear Kevin\u2019s zombie-like delivery and you might even hear him snap out of it for a bit\u2026 only to retreat back into the darkness again.",
+      "release": "2024-06-04T07:00:21Z",
+      "duration": "00:44:58.7370000",
+      "explicit": true,
+      "spotifyId": "33r0kp7m94T8LB79B7QlaJ",
+      "appleId": 1000657765815,
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/33r0kp7m94T8LB79B7QlaJ",
+        "apple": "https://podcasts.apple.com/podcast/89-8-passengers-kevin-can-wait-ruby-franke-jodi-hildebrandt/id1509833517?i=1000657765815"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "eae5eadb-bd41-4de3-861f-d0580752cf98",
+  "name": "The Dangerous Art of the Documentary",
+  "spotifyId": "7CPekKfYfdnpXMVDjERtzj",
+  "appleId": 1638937907,
+  "episodes": [
+    {
+      "id": "883b62a0-c183-48e1-a043-367e16ce1940",
+      "title": "Rory Kennedy \u0026 Mark Bailey (The Synanon Fix | Max)",
+      "description": "Acclaimed filmmakers Rory Kennedy and Mark Bailey join Tiller to discuss their latest hit documentary \u201CThe Synanon Fix\u201D, a four-part series that tracks the rise and fall of an organization that began as a rehab for heroin addicts and devolved into an egalitarian community that mandated vasectomies, shaved heads, partner swapping, bizarre social experiments, and ultimately, child abuse and attempted murder. Rory and Mark share how they\u2019ve balanced marriage, co-parenting and running a film company together (1:40), what exactly is Synanon (7:30), why the \u201Ccult members\u201D of Synanon feel so genuine and familiar to us today (14:00), the group leader Chuck\u2019s various methods of social experimentation (19:00), the division of labor between directing (Rory) and writing (Mark) (28:00), constructing their opening title sequence (33:00), and how this film \u201Cholds the tension of the opposites \u201D (42:50). Produced by: Jacob Miller Executive Producer: Tiller Russell Music by: James Carroll, Graham Tracey \u0026 Zydepunk Distributed by: Jake Brennan \u0026 Brady Sadler, Double Elvis Productions",
+      "release": "2024-05-31T16:00:00Z",
+      "duration": "00:47:18.8830000",
+      "explicit": false,
+      "spotifyId": "0xtj2B2P2O0HHzKkc8BMgs",
+      "appleId": 1000657430202,
+      "subjects": [
+        "Synanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0xtj2B2P2O0HHzKkc8BMgs",
+        "apple": "https://podcasts.apple.com/podcast/rory-kennedy-mark-bailey-the-synanon-fix-max/id1638937907?i=1000657430202"
+      }
+    }
+  ]
+}

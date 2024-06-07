@@ -301,12 +301,14 @@
       "explicit": false,
       "spotifyId": "2Z8u0F0qMZrC4WoEeFVc4E",
       "appleId": 1000587467181,
+      "youTubeId": "D5o7RasvQxw",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Z8u0F0qMZrC4WoEeFVc4E",
-        "apple": "https://podcasts.apple.com/podcast/ep-4-scientology-confessionals-with-chris/id1387341884?i=1000587467181"
+        "apple": "https://podcasts.apple.com/podcast/ep-4-scientology-confessionals-with-chris/id1387341884?i=1000587467181",
+        "youtube": "https://www.youtube.com/watch?v=D5o7RasvQxw"
       }
     },
     {
@@ -518,6 +520,7 @@
       "spotifyId": "1rmxLXfCs40JecLfz4rEuU",
       "appleId": 1000423515165,
       "subjects": [
+        "Science of Identity Foundation",
         "Hare Krishnas"
       ],
       "urls": {

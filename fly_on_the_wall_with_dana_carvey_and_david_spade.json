@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "5f4ec422-79a9-4c2c-aea4-ab22b8f7604c",
+  "name": "Fly on the Wall with Dana Carvey and David Spade",
+  "spotifyId": "5mJq4a7j3fkJ6bJEVZL6zk",
+  "appleId": 1603639502,
+  "youTubeChannelId": "UC8z2DCz-qmUrXti3dyz0FaQ",
+  "episodes": [
+    {
+      "id": "371c809e-b1ed-4a7e-a40a-91c16dab9d89",
+      "title": "SUPERFLY #19 - Cults, drugs, and p$rn",
+      "description": "The guys open with tales from the road, bits, and the important headlines before being joined by Sarah Edmonson, who was a former member of NXIVM and helped expose the group as a cult.\n \nTo learn more about listener data and our privacy practices visit: https://www.audacyinc.com/privacy-policy\n  \n Learn more about your ad choices. Visit https://podcastchoices.com/adchoices",
+      "release": "2024-06-07T09:00:00Z",
+      "duration": "01:18:58",
+      "explicit": false,
+      "spotifyId": "4ZDLlMcHmSBzpUWWin6SEy",
+      "appleId": 1000658149159,
+      "youTubeId": "gNhuOBz9flQ",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ZDLlMcHmSBzpUWWin6SEy",
+        "apple": "https://podcasts.apple.com/podcast/superfly-19-cults-drugs-and-p%24rn/id1603639502?i=1000658149159",
+        "youtube": "https://www.youtube.com/watch?v=gNhuOBz9flQ"
+      }
+    }
+  ]
+}

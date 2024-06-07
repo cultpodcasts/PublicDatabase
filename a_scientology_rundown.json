@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCXiTVU8Ri-Ru3GUjiwjnAGQ",
   "episodes": [
     {
+      "id": "208021b0-f5d2-4a8c-b496-9bbb089e296b",
+      "title": "Let\u0026#39;s talk Cadet Org",
+      "release": "2024-06-06T04:44:41Z",
+      "duration": "01:33:19",
+      "explicit": false,
+      "youTubeId": "_LRJltYQlg8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_LRJltYQlg8"
+      }
+    },
+    {
       "id": "d1c87ed3-a7c6-4601-a00a-076497b350fd",
       "title": "Vad \u00E4r Scientologi?",
       "description": "Jag f\u00F6rs\u00F6ker f\u00F6rklara de mest grundl\u00E4ggande koncept inom scientologins tro. #vad\u00E4rscientologi #scientologist #nomorekidsinscientology #whatisscientology #sptv",
@@ -122,36 +136,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=vT2OFVvzqYU"
-      }
-    },
-    {
-      "id": "e42d842f-447f-41ec-9047-e74ca8f7fb7b",
-      "title": "Is scientology a cult? What would Lifton say?",
-      "description": "In this video I go through Robert J. Lifton\u0027s 8 criteria of thought reform and if I think they apply to scientology. \n#scientologist #whatisscientology #scientology #sptv #nomorekidsinscientology \nLinks: \nGrowing up in Scientology on lower conditions/punishment formulas: https://www.youtube.com/watch?v=GGqfEPQTiB0\nMy story with Kelli Copter: https://www.youtube.com/watch?v=WPlbLPv4_nY\u0026t=741s",
-      "release": "2024-04-04T06:24:12Z",
-      "duration": "00:56:33",
-      "explicit": false,
-      "youTubeId": "xCNpc7_LWwY",
-      "subjects": [
-        "Scientology"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=xCNpc7_LWwY"
-      }
-    },
-    {
-      "id": "b8dccd6f-efc9-42b1-9dcb-418a142569cc",
-      "title": "Where to start? Life history form.",
-      "description": "A short history of how I became a 2nd gem. \n#whatisscientology #scientology #scientologist #cult\n\nlink to Kelli Copter interview: https://www.youtube.com/watch?v=WPlbLPv4_nY",
-      "release": "2024-03-26T15:52:44Z",
-      "duration": "00:23:24",
-      "explicit": false,
-      "youTubeId": "H_LOr9W90aY",
-      "subjects": [
-        "Scientology"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=H_LOr9W90aY"
       }
     }
   ]
