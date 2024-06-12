@@ -1,0 +1,50 @@
+{
+  "_ts": 0,
+  "id": "cfaa871f-d382-40e6-af3a-bc14d29b0c74",
+  "name": "Edutainment Edutainment",
+  "youTubeChannelId": "UCNuTx9o8gAp2K9fwcWIfOCA",
+  "episodes": [
+    {
+      "id": "8366c981-a269-4c3f-b8d5-5f1ea1c2da64",
+      "title": "BBC Look East - Jesus Army Cover Up (5 Aug 2020)",
+      "release": "2020-08-30T02:42:01Z",
+      "duration": "00:05:05",
+      "explicit": false,
+      "youTubeId": "72vRWLJSLGE",
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=72vRWLJSLGE"
+      }
+    },
+    {
+      "id": "188fd8d9-cac2-4eb0-8fa4-efee509cb58b",
+      "title": "BBC Look East  - The Jesus Army Scandal [Northampton] (Jul 2019)",
+      "release": "2019-07-28T14:52:36Z",
+      "duration": "00:03:54",
+      "explicit": false,
+      "youTubeId": "F1HkF-buDAQ",
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=F1HkF-buDAQ"
+      }
+    },
+    {
+      "id": "1d23591d-2fb3-4cc1-8158-b004dc46a497",
+      "title": "BBC Look East - \u0022Jesus Army\u0022 Disbands after Accusations [Northampton] (Jun 2019)",
+      "release": "2019-07-01T03:51:55Z",
+      "duration": "00:02:29",
+      "explicit": false,
+      "youTubeId": "ZpN1sJSJ7LU",
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZpN1sJSJ7LU"
+      }
+    }
+  ]
+}

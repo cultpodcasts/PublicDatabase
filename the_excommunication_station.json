@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "c6275c50-8899-40d2-a594-df1d279a7c19",
+      "title": "158 : Newsboys Part IV: Take Me To Your Leader",
+      "description": "We dive even further into the madness that is the Newsboys. We discuss John James and his meltdown that led to him getting fired. And we dissect the albums Take Me To Your Leader",
+      "release": "2024-06-12T07:38:40Z",
+      "duration": "01:44:00.7370000",
+      "explicit": false,
+      "spotifyId": "14jzN50hAPF0SnA9OlVeMk",
+      "appleId": 1000658746289,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/14jzN50hAPF0SnA9OlVeMk",
+        "apple": "https://podcasts.apple.com/podcast/158-newsboys-part-iv-take-me-to-your-leader/id1573190999?i=1000658746289"
+      }
+    },
+    {
       "id": "898d50f0-14a6-4e53-af36-0cab5aa27523",
       "title": "157: Newsboys Part III: Not Ashamed Of Going Public",
       "release": "2024-06-05T11:31:19Z",

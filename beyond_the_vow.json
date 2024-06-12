@@ -21,6 +21,40 @@
         "spotify": "https://open.spotify.com/episode/4BMtq9IFhnQ0BlXhED8k4F",
         "apple": "https://podcasts.apple.com/podcast/interview-with-ex-member-of-the-church-of-god-restoration/id1655515868?i=1000654397633"
       }
+    },
+    {
+      "id": "f1ba8367-b6c9-40bd-9052-191b1a9c875d",
+      "title": "Upcoming Guest announcement, Fertility Update and more",
+      "description": "In this 65th episode of Beyond the Vow, Nick and Janelle announce an upcoming interview with a former member of the Church of God (Restoration) cult. We also discuss an update on our fertility journey, and we talk about trusting God\u0027s process even when things don\u0027t go quite the way we want them to.",
+      "release": "2024-04-26T06:00:00Z",
+      "duration": "00:51:39.1560000",
+      "explicit": false,
+      "spotifyId": "4dryMn8VO6ocddt0ZRLjQZ",
+      "appleId": 1000653654715,
+      "subjects": [
+        "Church of God (Restoration)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4dryMn8VO6ocddt0ZRLjQZ",
+        "apple": "https://podcasts.apple.com/podcast/upcoming-guest-announcement-fertility-update-and-more/id1655515868?i=1000653654715"
+      }
+    },
+    {
+      "id": "9566da51-b445-45ea-afc9-c6d6c1a1c110",
+      "title": "Cult Profiles - Church of God (Restoration)",
+      "description": "In this episode of Beyond the Vow, Nick and Janelle kick off a new series called \u0022Cult Profiles\u0022. In this series, we begin by looking at the \u0022Church of God (Restoration)\u0022 and its leader, Ray Tinsman. We analyze their beliefs and compare them to the word of God. Is it a cult? You will be shocked by some of their teachings.",
+      "release": "2024-04-20T06:30:00Z",
+      "duration": "01:27:36.7200000",
+      "explicit": false,
+      "spotifyId": "5zYLNYGAtErwdgPSoBQkSG",
+      "appleId": 1000653042875,
+      "subjects": [
+        "Church of God (Restoration)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5zYLNYGAtErwdgPSoBQkSG",
+        "apple": "https://podcasts.apple.com/podcast/cult-profiles-church-of-god-restoration/id1655515868?i=1000653042875"
+      }
     }
   ]
 }

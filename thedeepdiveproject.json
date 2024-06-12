@@ -29,11 +29,15 @@
       "release": "2024-05-20T23:55:48Z",
       "duration": "00:03:20",
       "explicit": false,
+      "spotifyId": "7MWApSkqHLeCarI7YKHTbM",
+      "appleId": 1000658524113,
       "youTubeId": "ZldCNUlGT5s",
       "subjects": [
         "Opus Dei"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7MWApSkqHLeCarI7YKHTbM",
+        "apple": "https://podcasts.apple.com/podcast/trailer-opus-dei-thinks-they-are-above-the-law-opus/id1706189667?i=1000658524113",
         "youtube": "https://www.youtube.com/watch?v=ZldCNUlGT5s"
       }
     },

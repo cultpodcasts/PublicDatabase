@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "664d232b-4382-4545-bd42-0b6faff04784",
+      "title": "The Importance of Truth - Richard Dawkins explains",
+      "release": "2024-06-10T11:48:37Z",
+      "duration": "00:06:07",
+      "explicit": false,
+      "youTubeId": "Cugyfb2-vs8",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Cugyfb2-vs8"
+      }
+    },
+    {
       "id": "85e83956-e4e6-49f5-af0d-9017381775d0",
       "title": "Treating Psychopathy: Using the \u0026quot;Decompression Model\u0026quot;",
       "release": "2024-06-06T10:55:16Z",

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "5d926d8e-a247-4f4d-ab53-87a380b8b1fc",
+  "name": "Commotion with Elamin Abdelmahmoud",
+  "spotifyId": "74eCEvD5LU56cNRrhzNSAb",
+  "appleId": 1531347005,
+  "episodes": [
+    {
+      "id": "3f92b290-523a-4983-a0b1-9b4405f7572d",
+      "title": "Why are women still underplayed on Canadian radio? And Netflix\u0027s Dancing For the Devil",
+      "description": "Sarah Berman and Ashley Ray join Commotion guest host Amil Niazi to talk about the new Netflix series \u0022Dancing for the Devil: The 7M TikTok Cult\u201D - and why is music by women, especially racialized and trans artists, still severely underplayed on commercial Canadian radio? Jada Watson, who authored a recent report on the issue, and Desiree Dorion, a Cree country artist, weigh in on where we go from here.",
+      "release": "2024-06-10T15:40:00Z",
+      "duration": "00:26:20.4860000",
+      "explicit": false,
+      "spotifyId": "0W76EajNOx9ckT7OEUzIZ1",
+      "appleId": 1000658478150,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0W76EajNOx9ckT7OEUzIZ1",
+        "apple": "https://podcasts.apple.com/podcast/why-are-women-still-underplayed-on-canadian-radio-and/id1531347005?i=1000658478150"
+      }
+    }
+  ]
+}

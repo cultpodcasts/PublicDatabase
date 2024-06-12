@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "289223e7-deb5-4fa6-b9ac-d9c468e9f129",
+  "name": "The (Complex) PTSD Guy",
+  "spotifyId": "660FaM5JFF8qODP7mbIfaN",
+  "appleId": 1493650082,
+  "episodes": [
+    {
+      "id": "0ff0fc36-d350-4154-9d6c-7bc4b31235e2",
+      "title": "Cults: Or Compounds for Complex PTSD ",
+      "description": "How I think cults can easily be like compounds for creating Complex PTSD --- Send in a voice message: https://podcasters.spotify.com/pod/show/benjamin-allen-belzer/message Support this podcast: https://podcasters.spotify.com/pod/show/benjamin-allen-belzer/support",
+      "release": "2024-06-12T03:04:39Z",
+      "duration": "00:21:21.0440000",
+      "explicit": false,
+      "spotifyId": "3WagEFW2pv5EzLMrpiKkdO",
+      "appleId": 1000658721815,
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3WagEFW2pv5EzLMrpiKkdO",
+        "apple": "https://podcasts.apple.com/podcast/cults-or-compounds-for-complex-ptsd/id1493650082?i=1000658721815"
+      }
+    }
+  ]
+}

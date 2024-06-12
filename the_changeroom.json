@@ -1,0 +1,61 @@
+{
+  "_ts": 0,
+  "id": "fbcdc7d0-3182-401a-b9af-dd56df241724",
+  "name": "The ChangeRoom",
+  "spotifyId": "0FDSZipuMP6DjRff8sJ2Y3",
+  "appleId": 1747505171,
+  "episodes": [
+    {
+      "id": "468a1c72-1840-4ee6-8aad-9ed53ebb75d5",
+      "title": "Studio Culture and the Cult of Personality Part 2 with Taryn Diamond",
+      "description": "The Cult of Personality shows up all OVAH the place from politics to celebrity to\u2026wellness spaces. Taryn Diamond digs into the pitfalls of centering practice spaces around the celebrity of one charismatic leader and the cult-like drama that ensues. Taryn is just as smart as she is hilarious which is why we made this one a two-part episode. Taryn Diamond is an energetic and inclusive instructor, drawing from experience in facilitation, gender analysis, and a commitment to social justice. Her entry to yoga was through movement, but her passion ruminates in studying its roots in Eastern philosophy. She is unabashed in her commitment to cheesy jokes and not taking this thing called \u0027life\u0027 too seriously. Taryn is most passionate about teaching movement that breeds self-inquiry and compassion. https://www.taryndiamond.com/",
+      "release": "2024-06-10T04:01:00Z",
+      "duration": "00:27:21.0470000",
+      "explicit": false,
+      "spotifyId": "1EeO5NP9bgjQtY25d73tnY",
+      "appleId": 1000656261074,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1EeO5NP9bgjQtY25d73tnY",
+        "apple": "https://podcasts.apple.com/podcast/studio-culture-and-the-cult-of-personality-part/id1747505171?i=1000656261074"
+      }
+    },
+    {
+      "id": "fbfac4be-e44b-4f6b-8d7f-09bcdf23ff1b",
+      "title": "Studio Culture and the Cult of Personality Part 1 with Taryn Diamond",
+      "description": "The Cult of Personality shows up all OVAH the place from politics to celebrity to\u2026wellness spaces. Taryn Diamond digs into the pitfalls of centering practice spaces around the celebrity of one charismatic leader and the cult-like drama that ensues. Taryn is just as smart as she is hilarious which is why we made this one a two-part episode. Taryn Diamond is an energetic and inclusive instructor, drawing from experience in facilitation, gender analysis, and a commitment to social justice. Her entry to yoga was through movement, but her passion ruminates in studying its roots in Eastern philosophy. She is unabashed in her commitment to cheesy jokes and not taking this thing called \u0027life\u0027 too seriously. Taryn is most passionate about teaching movement that breeds self-inquiry and compassion. https://www.taryndiamond.com/",
+      "release": "2024-06-03T04:01:00Z",
+      "duration": "00:42:41.2530000",
+      "explicit": false,
+      "spotifyId": "7FydaZqapAIFJcVtjlFfaQ",
+      "appleId": 1000656260935,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7FydaZqapAIFJcVtjlFfaQ",
+        "apple": "https://podcasts.apple.com/podcast/studio-culture-and-the-cult-of-personality-part/id1747505171?i=1000656260935"
+      }
+    },
+    {
+      "id": "8ef1eeea-9d6e-4860-8d26-9b2f6cbdeaa8",
+      "title": "Mental Health and Spiritual Bypassing with Jeff Warren",
+      "description": "In this episode, author and meditation teacher Jeff Warren discusses how spiritual practices can either help individuals recognize, accept and connect with their particular mental health and neuro-identities (best case!) or (worst case!) lead to a disconnection and denial. Jeff Warren is a meditation instructor and journalist, known for his dynamic and accessible style of teaching. He\u2019s co-author of The New York Times bestselling Meditation for Fidgety Skeptics, author of The Head Trip \u2013 a travel guide to sleeping, dreaming and waking \u2013 and founder of The Consciousness Explorers Club, a nonprofit meditation adventure group based in Toronto. His mission is to empower people to care for their own mental health, through the realistic, intelligent and sometimes irreverent exploration of meditation and personal growth practices. jeffwarren.org",
+      "release": "2024-05-27T04:01:00Z",
+      "duration": "00:35:14.2000000",
+      "explicit": false,
+      "spotifyId": "1q80nKcRZCuEL1Im5P0cGm",
+      "appleId": 1000656260875,
+      "subjects": [
+        "Cult Psychology",
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1q80nKcRZCuEL1Im5P0cGm",
+        "apple": "https://podcasts.apple.com/podcast/mental-health-and-spiritual-bypassing-with-jeff-warren/id1747505171?i=1000656260875"
+      }
+    }
+  ]
+}

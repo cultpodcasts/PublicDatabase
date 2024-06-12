@@ -13,11 +13,15 @@
       "release": "2024-06-07T19:18:54Z",
       "duration": "01:05:44",
       "explicit": false,
+      "spotifyId": "39i1BpHd4nQHG597NaM5C1",
+      "appleId": 1000658485789,
       "youTubeId": "a_yiB6yev6w",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/39i1BpHd4nQHG597NaM5C1",
+        "apple": "https://podcasts.apple.com/podcast/how-i-escaped-from-the-scientology-cult-psychologist/id1483472295?i=1000658485789",
         "youtube": "https://www.youtube.com/watch?v=a_yiB6yev6w"
       }
     },
