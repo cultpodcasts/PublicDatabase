@@ -4,7 +4,26 @@
   "name": "Cat \u0026 Nat Unfiltered",
   "spotifyId": "67e0vnMlGdUnLkiklV5hm9",
   "appleId": 1439920596,
+  "youTubeChannelId": "UCf7l8nKFqlnXsEKnozrEpjw",
   "episodes": [
+    {
+      "id": "f4410f95-3d77-420e-bcc6-7ff3fad80eeb",
+      "title": "An Honest Conversation with Sarah \u0026 Nippy of \u0022A Little Bit Culty\u0022",
+      "description": "Since we\u0027ve been chatting about cults lately we wanted to bring back our episode with ex-NXIVM members Sarah and Nippy from A Little Bit Culty. This is an honest conversation about manipulation, the abuse of power and red flags. We could have done a whole other episode on multi-level marketing but for now we will leave you with two A Little Bit Culty episodes that discuss their view on MLM\u0027s. Enjoy! https://www.alittlebitculty.com/season-2/episode-one-yr3hz-ychpc https://www.alittlebitculty.com/season1/ep7 Want our podcasts sent straight to your phone? Text us the word \u0022Podcast\u0022 to \u0026#43;1 (917) 540-8715 and we\u0027ll text you the new episodes when they\u0027re released! Tune in for new Cat \u0026 Nat Unfiltered episodes every Tuesday, Thursday and Friday! Follow @catandnatunfiltered on Instagram : https://instagram.com/catandnatunfiltered Have you tried our new Twin Truths Wine yet? It comes in either a White or a Ros\u00E9! Head to www.twintruthswine.com to try yours today! Our new book \u0022Mom Secrets\u0022 is now available! Head to www.catandnat.ca/book to grab your autographed copy! Come see us LIVE on tour!! To see a full list of cities and dates, go to https://catandnattour.com . Become a member of The Common Parent for the parenting resources and support you need for just $5.99/month or $59.99/year: https://thecommonparent.com Follow The Common Parent over on Instagram: https://instagram.com/thecommonparent Make sure you subscribe to our YouTube channel for our new cooking show and our #momtruth videos: https://bitly.com/catnatyou tube Check out our Amazon Lives here: https://bitly.com/catnatamazonlive Order TAYLIVI here: https://taylivi.com Get personalized videos from us on Cameo: https://cameo.com/catandnat Come hang with us over on https://instagram.com/catandnat all day long. And follow us on https://tiktok.com/@catandnatofficial ! Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-06-13T12:00:49Z",
+      "duration": "00:52:48.5740000",
+      "explicit": true,
+      "spotifyId": "693tDlMJgDmy0fDBkC4dL0",
+      "appleId": 1000658281593,
+      "subjects": [
+        "NXIVM",
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/693tDlMJgDmy0fDBkC4dL0",
+        "apple": "https://podcasts.apple.com/podcast/an-honest-conversation-with-sarah-nippy-of/id1439920596?i=1000658281593"
+      }
+    },
     {
       "id": "11a98cbe-4d03-45b5-b82d-92e3769b4c1d",
       "title": "Cults \u0026 Consequences",
@@ -14,12 +33,14 @@
       "explicit": true,
       "spotifyId": "4G5171CZwxwo9fqrl5aEHJ",
       "appleId": 1000658079485,
+      "youTubeId": "dlQarVj-p6g",
       "subjects": [
         "7M Films"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4G5171CZwxwo9fqrl5aEHJ",
-        "apple": "https://podcasts.apple.com/podcast/cults-consequences/id1439920596?i=1000658079485"
+        "apple": "https://podcasts.apple.com/podcast/cults-consequences/id1439920596?i=1000658079485",
+        "youtube": "https://www.youtube.com/watch?v=dlQarVj-p6g"
       }
     }
   ]

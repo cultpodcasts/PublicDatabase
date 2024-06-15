@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "5c22612b-028b-4848-9600-3eea1e388ecc",
+  "name": "The Megyn Kelly Show",
+  "spotifyId": "0awxEJH88Xur0GHXuteBLw",
+  "appleId": 1532976305,
+  "youTubeChannelId": "UCzJXNzqz6VMHSNInQt_7q6w",
+  "episodes": [
+    {
+      "id": "683b288c-f3dd-4743-8c64-23541eff906f",
+      "title": "Fraud Week: Two Former NXIVM Members Speak Out on True Horrors of the Cult...And How They Got Out | Ep. 817",
+      "description": "Fraud Week continues with a focus on the NXIVM cult, featuring former cult members Sarah Edmondson and Anthony \u0022Nippy\u0022 Ames, hosts of \u0022A Little Bit Culty.\u0022 They discuss how they first came to NXIVM, the oddities of the group, the positives they experienced at first, the importance of screening before allowing people and groups into your brain and heart, the charismatic NXIVM leader Keith Raniere, Raniere\u0027s lawyer who had a showdown with Megyn on her NBC show, the way Raniere and others in the group manipulated them, how fraudsters look to target certain kinds of people, the traumatic moment she was secretly branded with NXIVM cult leader Raniere\u0027s initials, when they decided they had to leave the cult, the brainwashing and sex trafficking happening in the NXIVM cult, the Hollywood family who took to the media to speak out on the cult, the vindication when Raniere finally went to jail, and more. Edmondson- https://www.instagram.com/sarahedmondson/ Ames- https://alittlebitculty.com/",
+      "release": "2024-06-13T18:00:00Z",
+      "duration": "01:28:49.6060000",
+      "explicit": true,
+      "spotifyId": "4L8TIpPj5Qj9ZhShMsNmek",
+      "appleId": 1000658941273,
+      "youTubeId": "Rx4cfhXF_xo",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4L8TIpPj5Qj9ZhShMsNmek",
+        "apple": "https://podcasts.apple.com/podcast/fraud-week-two-former-nxivm-members-speak-out-on-true/id1532976305?i=1000658941273",
+        "youtube": "https://www.youtube.com/watch?v=Rx4cfhXF_xo"
+      }
+    }
+  ]
+}

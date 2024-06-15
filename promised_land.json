@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "556e3f4c-c6d0-4ea5-a814-e811e49b7c87",
+  "name": "Promised Land",
+  "spotifyId": "6MfnCNmljGP0B8WBF6qY5I",
+  "appleId": 1499735740,
+  "episodes": [
+    {
+      "id": "d91f90f2-ac50-4633-9bee-1f8e8d79d380",
+      "title": "Lester Kinsolving and the Gang of Eight",
+      "description": "Jim Jones faces bad publicity for the first time, when Lester Kinsolving writes an eight page series on The Peoples Temple. Jones would escape these articles, but find himself on the radar of the LAPD. Jim Jones also faces a defection from The Peoples Temple that makes him become more strict on members. As a result punishments take a drastic turn. Research and audio clips are credited to The Jonestown Institute: https://jonestown.sdsu.edu/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-06-14T21:02:00Z",
+      "duration": "00:43:53.4820000",
+      "explicit": false,
+      "spotifyId": "4BCm9bfWEchML8zwKMagxS",
+      "appleId": 1000659068115,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4BCm9bfWEchML8zwKMagxS",
+        "apple": "https://podcasts.apple.com/podcast/lester-kinsolving-and-the-gang-of-eight/id1499735740?i=1000659068115"
+      }
+    },
+    {
+      "id": "a9e1b44c-72a1-4923-aaf5-de721eaf1bc9",
+      "title": "Show Me a Capitalist, and I\u0027ll Show You a Bloodsucker",
+      "description": "Jim Jones starts to ask more from his followers financially. He experienced failures in returning to Indiana to show off his accomplishments, and failures in taking over Mother Devine\u0027s Peace Mission. Jim Jones refused to stop working, so he turned to drugs. Drugs made him paranoid, and his extramarital affairs spiral out of control. He also introduced the Planning Commission, which was the first step in The Peoples Temple becoming an authoritarian system. Research and audio clips are credited to The Jonestown Institute. Visit their website for more information: \u0026#xfeff;https://jonestown.sdsu.edu/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-06-07T17:21:00Z",
+      "duration": "01:02:23.5030000",
+      "explicit": false,
+      "spotifyId": "5fLavjbwjuBXugEerJvwO9",
+      "appleId": 1000658197238,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5fLavjbwjuBXugEerJvwO9",
+        "apple": "https://podcasts.apple.com/podcast/show-me-a-capitalist-and-ill-show-you-a-bloodsucker/id1499735740?i=1000658197238"
+      }
+    },
+    {
+      "id": "daffeed4-70c8-4ecc-9a52-7f297d8d1dc7",
+      "title": "A Revolutionary Cause",
+      "description": "Episode two looks at Father Devine, his Peace Mission, and the impact he had on Jim Jones. Jim would use Father Devine\u0027s model to mold The Peoples Temple, and make real change for race relations in Indianapolis - only to abruptly leave the US for Brazil. We also take a look at Jim\u0027s manipulation of the Vietnam War, the assassination of Martin Luther King Jr., and his infidelity towards Marceline. Research and audio clips are credited to The Jonestown Institute. Visit their website for more information: \u0026#xfeff;https://jonestown.sdsu.edu/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-05-31T15:59:00Z",
+      "duration": "00:43:34.0990000",
+      "explicit": false,
+      "spotifyId": "4t0nc0ZiZYvmu0wT1SJnBr",
+      "appleId": 1000657429999,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4t0nc0ZiZYvmu0wT1SJnBr",
+        "apple": "https://podcasts.apple.com/podcast/a-revolutionary-cause/id1499735740?i=1000657429999"
+      }
+    },
+    {
+      "id": "2397eb8c-a836-4c4e-9403-dfc46a5f3bc1",
+      "title": "Born On The Wrong Side Of The Tracks",
+      "description": "In this episode, we delve into the early life of Jim Jones, exploring his upbringing in rural Indiana, his fascination with religion, and his journey towards becoming the charismatic yet controversial leader of the Peoples Temple. Discover the formative experiences that shaped his ideologies and set the stage for his later infamous actions. Audio clips credited to The Jonestown Institute. Visit their website for more information: https://jonestown.sdsu.edu/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-05-24T15:46:00Z",
+      "duration": "00:37:22.5860000",
+      "explicit": false,
+      "spotifyId": "0aT7pfQqe97JGBDR5DD8gj",
+      "appleId": 1000656661191,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0aT7pfQqe97JGBDR5DD8gj",
+        "apple": "https://podcasts.apple.com/podcast/born-on-the-wrong-side-of-the-tracks/id1499735740?i=1000656661191"
+      }
+    }
+  ]
+}

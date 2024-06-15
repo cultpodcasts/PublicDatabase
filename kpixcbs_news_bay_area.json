@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "acc6fee0-6299-453c-b2d3-2f8fe12f99c9",
+  "name": "KPIX | CBS NEWS BAY AREA",
+  "youTubeChannelId": "UCF4LEacx9sDvAbEJnlaJfKQ",
+  "episodes": [
+    {
+      "id": "36a1e990-5e27-4a8c-b840-b6c40bbb8413",
+      "title": "Congresswoman Speier Tells Of How She Survived Jonestown",
+      "description": "KPIX 5 spoke with Congresswoman Jackie Speier, who was traveling with the delegation as an aide. She was shot five times and left for dead. She dragged herself into the baggage compartment of the plane, where she waited 22 hours for help to arrive. Andrea Nakano reports. (11-18-2018)",
+      "release": "2018-11-19T02:29:04Z",
+      "duration": "00:03:52",
+      "explicit": false,
+      "youTubeId": "JuDAoqCt9qc",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JuDAoqCt9qc"
+      }
+    }
+  ]
+}

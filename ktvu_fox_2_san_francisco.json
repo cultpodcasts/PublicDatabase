@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "e8e9b436-2b23-424e-8b31-f3796dda6298",
+  "name": "KTVU FOX 2 San Francisco",
+  "youTubeChannelId": "UCVhtkN7-c8mA8GXEoxS4YQw",
+  "episodes": [
+    {
+      "id": "fae65160-7d4b-47db-8d7b-5a2e6f0295b1",
+      "title": "Rep. Jackie Speier says Capitol riots gave her a flashback to Jonestown",
+      "description": "California Congresswoman Jackie Speier shares her experience with KTVU\u0027s Heather Holmes of what it was like being in the Capitol as rioters stormed the building.\n\nSTORY: http://bit.ly/2XuoBRz",
+      "release": "2021-01-08T19:17:07Z",
+      "duration": "00:08:53",
+      "explicit": false,
+      "youTubeId": "rmRGTPl1HWo",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=rmRGTPl1HWo"
+      }
+    },
+    {
+      "id": "1d74749a-efde-4cb1-98ba-2125da2ce956",
+      "title": "Congresswoman Jackie Speier discusses Jonestown massacre 40 years later",
+      "description": "Congresswoman Jackie Speier discusses the Jonestown massacre, where she was shot five times and left for dead, 40 years later.",
+      "release": "2018-11-18T21:21:11Z",
+      "duration": "00:03:43",
+      "explicit": false,
+      "youTubeId": "9v17K-XN75o",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9v17K-XN75o"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "_ts": 0,
+  "id": "6c199c44-ac2f-49f4-92f9-4ea535d632b6",
+  "name": "Oversight: Jonestown",
+  "spotifyId": "2jAF9oYUcocmotkVwT3Iii",
+  "appleId": 1483843988,
+  "episodes": [
+    {
+      "id": "1746deba-946b-4309-b26e-1f7c3a3ae2a9",
+      "title": "Epilogue: Shattered Lives",
+      "description": "Betrayal \u2014 it\u0027s the tie that binds everyone who was touched by Jim Jones\u0027 evil ways. In this final episode of Oversight: Jonestown, we take you into the lives of survivors and victims\u0027 families who were shunned, humiliated and then blamed in the days, months and years following Jonestown. What happened to their lives? And what happened to their children\u0027s lives?",
+      "release": "2019-12-23T05:01:00Z",
+      "duration": "00:26:14.4780000",
+      "explicit": false,
+      "spotifyId": "74W48X26mq8ZfSaMbKKhSe",
+      "appleId": 1000460515887,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74W48X26mq8ZfSaMbKKhSe",
+        "apple": "https://podcasts.apple.com/podcast/epilogue-shattered-lives/id1483843988?i=1000460515887"
+      }
+    },
+    {
+      "id": "fea356bd-9da9-4d0a-babe-121e175e0e1f",
+      "title": "Who\u0027s to Blame?",
+      "description": "Listen as we detail how nearly every government agency that came into contact with Jim Jones dodged responsibility for the tragedy. We bring you the facts of how investigation and oversight at all levels failed the American public and the more than 900 dead Peoples Temple members, which included 304 murdered children.",
+      "release": "2019-12-16T05:01:00Z",
+      "duration": "00:34:28.7410000",
+      "explicit": false,
+      "spotifyId": "3kT9UN5Na7TPsr7BJrFFMY",
+      "appleId": 1000459715313,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3kT9UN5Na7TPsr7BJrFFMY",
+        "apple": "https://podcasts.apple.com/podcast/whos-to-blame/id1483843988?i=1000459715313"
+      }
+    },
+    {
+      "id": "fae73aaa-5f06-458d-879c-c3a15c5cf35d",
+      "title": "Final Warnings",
+      "description": "In the waning months of Jonestown, the only primary American officials in touch with the Rev*.* Jim Jones and the Peoples Temple were U.S. diplomats at the tiny embassy in Georgetown, Guyana. We tell you about a 6-year-old boy who became central to Jones and to the existence of the commune, a flirtation with the KGB and the Soviet Union and preparations for mass murder and suicide. How much did embassy officials know? We ask: Were American diplomats negligent? You decide.",
+      "release": "2019-12-09T05:01:00Z",
+      "duration": "00:36:02.4160000",
+      "explicit": false,
+      "spotifyId": "0Ozaig4a5LRolr90BRcd5l",
+      "appleId": 1000459054266,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Ozaig4a5LRolr90BRcd5l",
+        "apple": "https://podcasts.apple.com/podcast/final-warnings/id1483843988?i=1000459054266"
+      }
+    },
+    {
+      "id": "86b5c2a6-e2c4-4d49-b5ad-5a07ed4b17a4",
+      "title": "The Cover Up",
+      "description": "In this episode, we reveal how the FBI refused to investigate Jim Jones, how the San Francisco district attorney was involved with the Peoples Temple and how a mole was working for both Jones and the DA.",
+      "release": "2019-12-02T05:01:00Z",
+      "duration": "00:19:15.8130000",
+      "explicit": false,
+      "spotifyId": "4tXpbuXao5Itv4tN8lAblo",
+      "appleId": 1000458393292,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4tXpbuXao5Itv4tN8lAblo",
+        "apple": "https://podcasts.apple.com/podcast/the-cover-up/id1483843988?i=1000458393292"
+      }
+    },
+    {
+      "id": "81b7cc6c-10a0-4f15-abb5-f260ef7cb0cc",
+      "title": "Descent Into Madness",
+      "description": "Oversight: Jonestown takes a step back to the mid-1970s, a time of tumult, to explain how the Rev. Jim Jones went from Midwest preacher to messiah to maniac. It\u0027s the story of how he became a master of exploitation. He used the Black Power movement against the African-American community, politicians\u0027 own votes against them \u2014 and abuse and coercion against his own flock.",
+      "release": "2019-11-25T05:01:00Z",
+      "duration": "00:30:34.9710000",
+      "explicit": false,
+      "spotifyId": "0mvbXYK472EUDQ9a4X4os5",
+      "appleId": 1000457780314,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0mvbXYK472EUDQ9a4X4os5",
+        "apple": "https://podcasts.apple.com/podcast/descent-into-madness/id1483843988?i=1000457780314"
+      }
+    },
+    {
+      "id": "cbc30fba-d928-4ef5-873b-7b8ea6408df7",
+      "title": "24 Hours",
+      "description": "In this first episode of Oversight: Jonestown, we take you deep into the Guyanese jungle, behind the harrowing scenes of the last 24 hours of the Peoples Temple Agricultural Collective. We have new information and a new understanding of how one man \u2014 the Rev. Jim Jones \u2014 orchestrated the deaths of 917 people, including Congressman Leo Ryan. For more: http://www.rollcall.com/Jonestown and http://www.rollcall.com/podcasts",
+      "release": "2019-11-18T05:01:00Z",
+      "duration": "00:31:41.5310000",
+      "explicit": false,
+      "spotifyId": "5umiKYOQgxkpgNwlC6TerU",
+      "appleId": 1000457099197,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5umiKYOQgxkpgNwlC6TerU",
+        "apple": "https://podcasts.apple.com/podcast/24-hours/id1483843988?i=1000457099197"
+      }
+    }
+  ]
+}

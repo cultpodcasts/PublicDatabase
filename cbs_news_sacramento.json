@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "f377e62e-a8e4-43c7-806d-560bbdaa96fd",
+  "name": "CBS News Sacramento",
+  "youTubeChannelId": "UCxZMOY2RdtK6LQUbIYgec4A",
+  "episodes": [
+    {
+      "id": "4fc1e254-8794-4481-bd50-10478c666dbb",
+      "title": "39 Years Later, Congresswoman Still Remembers Jonestown Shooting",
+      "description": "A seemingly peaceful meeting quickly changed when she and several others were gunned down on an airstrip.",
+      "release": "2017-06-15T07:37:21Z",
+      "duration": "00:03:46",
+      "explicit": false,
+      "youTubeId": "tVuwwN-Hy9I",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tVuwwN-Hy9I"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "b55e5c48-782e-4d6a-a5c3-17a81d03f211",
+  "name": "Based Camp | Simone \u0026 Malcolm Collins",
+  "spotifyId": "6zvG6MZv52vtujOUneLnl1",
+  "appleId": 1686813618,
+  "youTubeChannelId": "UCKl1rNF6tE8waTadKDiYKmg",
+  "episodes": [
+    {
+      "id": "901ed44e-0ba1-4855-adea-57c19d049b14",
+      "title": "Leverage: My Ties to a Silicon Valley Cult",
+      "release": "2024-06-12T09:21:52Z",
+      "duration": "00:59:37.3650000",
+      "explicit": false,
+      "spotifyId": "6cuRssC76vBPYg7RFW1u2f",
+      "appleId": 1000658755528,
+      "youTubeId": "fd03SZ-31IU",
+      "subjects": [
+        "Leverage Research"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6cuRssC76vBPYg7RFW1u2f",
+        "apple": "https://podcasts.apple.com/podcast/leverage-my-ties-to-a-silicon-valley-cult/id1686813618?i=1000658755528",
+        "youtube": "https://www.youtube.com/watch?v=fd03SZ-31IU"
+      }
+    }
+  ]
+}

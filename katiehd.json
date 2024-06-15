@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "217b0037-33e0-4eba-a828-2def7b9929e0",
+  "name": "KatieHD",
+  "spotifyId": "1u5VzTJtFbXQO8ntQnqOfT",
+  "appleId": 1738835565,
+  "episodes": [
+    {
+      "id": "b1e327db-6b94-4268-8581-44c6bbbc4747",
+      "title": "TW: a very. critical analysis of christian church with logan",
+      "description": "trigger warning to anyone who is currently in the christian faith, this episode is nothing but talks about the anger and upset from things that i\u0027ve witnessed and experienced as a former church goer and pastors daughter, along with Logan and I decoding and explaining what we currently believe. If you are passionate about God, Christian faith, and church-- sit this one out. Truthfully, this episode is not meant for you, but rather an episode that can hopefully help some folks heal from any religious trauma.",
+      "release": "2024-06-14T04:00:59Z",
+      "duration": "01:29:40.2440000",
+      "explicit": true,
+      "spotifyId": "1ctUnuqmd5rH5kyp5aSm5A",
+      "appleId": 1000658985118,
+      "subjects": [
+        "Cult Recovery",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ctUnuqmd5rH5kyp5aSm5A",
+        "apple": "https://podcasts.apple.com/podcast/tw-a-very-critical-analysis-of-christian-church-with-logan/id1738835565?i=1000658985118"
+      }
+    }
+  ]
+}

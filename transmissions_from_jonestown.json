@@ -4,7 +4,23 @@
   "name": "Transmissions From Jonestown",
   "spotifyId": "0Efev51SDjCk66zdGM2bh9",
   "appleId": 1308803723,
+  "youTubeChannelId": "UCPiqN-33HLn_OPyIU9XzBDg",
   "episodes": [
+    {
+      "id": "95e1203c-d7b6-4198-a28a-19bbc305ff07",
+      "title": "Jonestown extended NBC footage",
+      "description": "On November 14, Congressman Leo Ryan journeyed to Guyana, South America on a fact finding mission to investigate reports that Jim Jones, the leader of the Peoples Temple, was holding Americans against their will in Jonestown. The footage you are about to see was shot by the NBC crew that accompanied Leo Ryan to Jonestown. \n\nOn November 18, Congressman Leo Ryan was assassinated. Not long after 913 people in Jonestown died in a mass murder/suicide. \n\nAt the command of  their charismatic leader Reverend Jim Jones, 909 members of the Peoples Temple Agricultural Project lost their lives. Some believed they were committing a revolutionary act of suicide, others were forced or coerced by the group.\n\nAlso killed on the airstrip with Ryan was Patricia Parks, Don Harris, Greg Robinson, and Bob Brown. \n\nSharon Amos, Liane Harris, Christa Amos, and Martin Amos died in a murder suicide in Georgetown Guyana.",
+      "release": "2021-11-15T02:01:35Z",
+      "duration": "01:55:00",
+      "explicit": false,
+      "youTubeId": "o1HmhLkiG2o",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=o1HmhLkiG2o"
+      }
+    },
     {
       "id": "3f65ccfa-e501-49c6-ae4e-f2ec2a59c787",
       "title": "Episode 21 Sunday Service Liar\u0027s Communion",
@@ -14,12 +30,14 @@
       "explicit": true,
       "spotifyId": "5mfV1L1rDhuef81nJuSkZX",
       "appleId": 1000532038369,
+      "youTubeId": "vQTPKlERw64",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mfV1L1rDhuef81nJuSkZX",
-        "apple": "https://podcasts.apple.com/podcast/sunday-service-liars-communion/id1308803723?i=1000532038369"
+        "apple": "https://podcasts.apple.com/podcast/sunday-service-liars-communion/id1308803723?i=1000532038369",
+        "youtube": "https://www.youtube.com/watch?v=vQTPKlERw64"
       }
     },
     {
@@ -31,12 +49,14 @@
       "explicit": true,
       "spotifyId": "7FajLjVDPr0U0rgGBSqFmp",
       "appleId": 1000532038202,
+      "youTubeId": "JFjqqhzRiHw",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7FajLjVDPr0U0rgGBSqFmp",
-        "apple": "https://podcasts.apple.com/podcast/sunday-service-leave-room-for-the-holy-ghost/id1308803723?i=1000532038202"
+        "apple": "https://podcasts.apple.com/podcast/sunday-service-leave-room-for-the-holy-ghost/id1308803723?i=1000532038202",
+        "youtube": "https://www.youtube.com/watch?v=JFjqqhzRiHw"
       }
     },
     {
@@ -48,12 +68,14 @@
       "explicit": true,
       "spotifyId": "1MhnAAgzDegG1yjO5o9AiR",
       "appleId": 1000532037819,
+      "youTubeId": "DrmL2D5qjr0",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1MhnAAgzDegG1yjO5o9AiR",
-        "apple": "https://podcasts.apple.com/podcast/sunday-service-hands-clasped/id1308803723?i=1000532037819"
+        "apple": "https://podcasts.apple.com/podcast/sunday-service-hands-clasped/id1308803723?i=1000532037819",
+        "youtube": "https://www.youtube.com/watch?v=DrmL2D5qjr0"
       }
     },
     {
@@ -65,12 +87,14 @@
       "explicit": true,
       "spotifyId": "5vcsxNTmFW6D2FHg7ACJLR",
       "appleId": 1000522702558,
+      "youTubeId": "W2ceQKFLvdw",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5vcsxNTmFW6D2FHg7ACJLR",
-        "apple": "https://podcasts.apple.com/podcast/where-theres-smoke/id1308803723?i=1000522702558"
+        "apple": "https://podcasts.apple.com/podcast/where-theres-smoke/id1308803723?i=1000522702558",
+        "youtube": "https://www.youtube.com/watch?v=W2ceQKFLvdw"
       }
     },
     {
@@ -82,12 +106,14 @@
       "explicit": true,
       "spotifyId": "76hPrWywEM2FINVM2RQ3GT",
       "appleId": 1000511739857,
+      "youTubeId": "2HS1_PxWedk",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/76hPrWywEM2FINVM2RQ3GT",
-        "apple": "https://podcasts.apple.com/podcast/hes-able/id1308803723?i=1000511739857"
+        "apple": "https://podcasts.apple.com/podcast/hes-able/id1308803723?i=1000511739857",
+        "youtube": "https://www.youtube.com/watch?v=2HS1_PxWedk"
       }
     },
     {
@@ -99,12 +125,14 @@
       "explicit": true,
       "spotifyId": "6i8rKU6moCT0wsqTz1FIE7",
       "appleId": 1000504107860,
+      "youTubeId": "jgN_HRvk7ts",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6i8rKU6moCT0wsqTz1FIE7",
-        "apple": "https://podcasts.apple.com/podcast/mk-united/id1308803723?i=1000504107860"
+        "apple": "https://podcasts.apple.com/podcast/mk-united/id1308803723?i=1000504107860",
+        "youtube": "https://www.youtube.com/watch?v=jgN_HRvk7ts"
       }
     },
     {
@@ -116,12 +144,14 @@
       "explicit": true,
       "spotifyId": "0KLu9Hfk2JPBPAIVP8kY3i",
       "appleId": 1000502541581,
+      "youTubeId": "8894KzhepTA",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0KLu9Hfk2JPBPAIVP8kY3i",
-        "apple": "https://podcasts.apple.com/podcast/the-nuclear-family/id1308803723?i=1000502541581"
+        "apple": "https://podcasts.apple.com/podcast/the-nuclear-family/id1308803723?i=1000502541581",
+        "youtube": "https://www.youtube.com/watch?v=8894KzhepTA"
       }
     },
     {
@@ -133,12 +163,14 @@
       "explicit": true,
       "spotifyId": "5Rg88dm7WR2LLhEucaLP10",
       "appleId": 1000501063320,
+      "youTubeId": "W5jpdmpWw_o",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Rg88dm7WR2LLhEucaLP10",
-        "apple": "https://podcasts.apple.com/podcast/evangelical-profit/id1308803723?i=1000501063320"
+        "apple": "https://podcasts.apple.com/podcast/evangelical-profit/id1308803723?i=1000501063320",
+        "youtube": "https://www.youtube.com/watch?v=W5jpdmpWw_o"
       }
     },
     {
@@ -150,12 +182,14 @@
       "explicit": true,
       "spotifyId": "3hmWkSMcqRTwHqVkIewdMN",
       "appleId": 1000499231461,
+      "youTubeId": "vI_3-WF57ko",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3hmWkSMcqRTwHqVkIewdMN",
-        "apple": "https://podcasts.apple.com/podcast/gods-highway/id1308803723?i=1000499231461"
+        "apple": "https://podcasts.apple.com/podcast/gods-highway/id1308803723?i=1000499231461",
+        "youtube": "https://www.youtube.com/watch?v=vI_3-WF57ko"
       }
     },
     {
@@ -167,12 +201,14 @@
       "explicit": true,
       "spotifyId": "6GQqgcam1sHz22zdGQlQtj",
       "appleId": 1000457193240,
+      "youTubeId": "Rkv00Phmg6s",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6GQqgcam1sHz22zdGQlQtj",
-        "apple": "https://podcasts.apple.com/podcast/hill-of-dreamers/id1308803723?i=1000457193240"
+        "apple": "https://podcasts.apple.com/podcast/hill-of-dreamers/id1308803723?i=1000457193240",
+        "youtube": "https://www.youtube.com/watch?v=Rkv00Phmg6s"
       }
     },
     {
@@ -184,12 +220,14 @@
       "explicit": true,
       "spotifyId": "0dwdW7oconW99IHgGfxSKX",
       "appleId": 1000424085702,
+      "youTubeId": "L_cFSz2VBAo",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0dwdW7oconW99IHgGfxSKX",
-        "apple": "https://podcasts.apple.com/podcast/ockhams-razor-solving-the-mystery-of-q875/id1308803723?i=1000424085702"
+        "apple": "https://podcasts.apple.com/podcast/ockhams-razor-solving-the-mystery-of-q875/id1308803723?i=1000424085702",
+        "youtube": "https://www.youtube.com/watch?v=L_cFSz2VBAo"
       }
     },
     {
@@ -201,12 +239,14 @@
       "explicit": true,
       "spotifyId": "1Gb9c8dLjLARh1SsPwp6Cf",
       "appleId": 1000424085703,
+      "youTubeId": "f_zUNC0uJ7s",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Gb9c8dLjLARh1SsPwp6Cf",
-        "apple": "https://podcasts.apple.com/podcast/thank-you-for-letting-me-be-myself/id1308803723?i=1000424085703"
+        "apple": "https://podcasts.apple.com/podcast/thank-you-for-letting-me-be-myself/id1308803723?i=1000424085703",
+        "youtube": "https://www.youtube.com/watch?v=f_zUNC0uJ7s"
       }
     },
     {
@@ -218,12 +258,14 @@
       "explicit": true,
       "spotifyId": "6NYW2dHSklHQytIjSmaLAv",
       "appleId": 1000396860358,
+      "youTubeId": "OKdF55PX-3U",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6NYW2dHSklHQytIjSmaLAv",
-        "apple": "https://podcasts.apple.com/podcast/q875-is-it-too-late-for-russia/id1308803723?i=1000396860358"
+        "apple": "https://podcasts.apple.com/podcast/q875-is-it-too-late-for-russia/id1308803723?i=1000396860358",
+        "youtube": "https://www.youtube.com/watch?v=OKdF55PX-3U"
       }
     },
     {
@@ -235,13 +277,15 @@
       "explicit": true,
       "spotifyId": "7dAfUeDSaX8DSSIr1wvEp2",
       "appleId": 1000396860357,
+      "youTubeId": "96S2To3Tkgo",
       "subjects": [
         "Peoples Temple",
         "Symbionese Liberation Army"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7dAfUeDSaX8DSSIr1wvEp2",
-        "apple": "https://podcasts.apple.com/podcast/the-psychodelic-elephant/id1308803723?i=1000396860357"
+        "apple": "https://podcasts.apple.com/podcast/the-psychodelic-elephant/id1308803723?i=1000396860357",
+        "youtube": "https://www.youtube.com/watch?v=96S2To3Tkgo"
       }
     },
     {
@@ -253,12 +297,14 @@
       "explicit": true,
       "spotifyId": "5tQgVQyIPG3rgCejj81R3F",
       "appleId": 1000395528430,
+      "youTubeId": "JELaWlZRZyE",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5tQgVQyIPG3rgCejj81R3F",
-        "apple": "https://podcasts.apple.com/podcast/the-electric-koolaid-acid-tests/id1308803723?i=1000395528430"
+        "apple": "https://podcasts.apple.com/podcast/the-electric-koolaid-acid-tests/id1308803723?i=1000395528430",
+        "youtube": "https://www.youtube.com/watch?v=JELaWlZRZyE"
       }
     },
     {
@@ -270,12 +316,14 @@
       "explicit": true,
       "spotifyId": "3p7CrlCljUM3d4WVKTcm7a",
       "appleId": 1000395528429,
+      "youTubeId": "g7p3vKcBwsI",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3p7CrlCljUM3d4WVKTcm7a",
-        "apple": "https://podcasts.apple.com/podcast/apostolic-socialism/id1308803723?i=1000395528429"
+        "apple": "https://podcasts.apple.com/podcast/apostolic-socialism/id1308803723?i=1000395528429",
+        "youtube": "https://www.youtube.com/watch?v=g7p3vKcBwsI"
       }
     },
     {
@@ -287,12 +335,14 @@
       "explicit": true,
       "spotifyId": "2BkJFS6h0Lc4L2h6JDdeyD",
       "appleId": 1000395241030,
+      "youTubeId": "et_lnhRjZn0",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BkJFS6h0Lc4L2h6JDdeyD",
-        "apple": "https://podcasts.apple.com/podcast/the-consequences-of-apathy/id1308803723?i=1000395241030"
+        "apple": "https://podcasts.apple.com/podcast/the-consequences-of-apathy/id1308803723?i=1000395241030",
+        "youtube": "https://www.youtube.com/watch?v=et_lnhRjZn0"
       }
     },
     {
@@ -304,12 +354,14 @@
       "explicit": true,
       "spotifyId": "23gPymz8MEz2xN0FS29ZK4",
       "appleId": 1000395241031,
+      "youTubeId": "8lWaJCzT1ys",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23gPymz8MEz2xN0FS29ZK4",
-        "apple": "https://podcasts.apple.com/podcast/the-death-tape/id1308803723?i=1000395241031"
+        "apple": "https://podcasts.apple.com/podcast/the-death-tape/id1308803723?i=1000395241031",
+        "youtube": "https://www.youtube.com/watch?v=8lWaJCzT1ys"
       }
     },
     {
@@ -321,12 +373,14 @@
       "explicit": true,
       "spotifyId": "1dWTb0UoUg2I9yeyI8UOfl",
       "appleId": 1000394965672,
+      "youTubeId": "Upnb8zWYS_g",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1dWTb0UoUg2I9yeyI8UOfl",
-        "apple": "https://podcasts.apple.com/podcast/revolutionary-suicide/id1308803723?i=1000394965672"
+        "apple": "https://podcasts.apple.com/podcast/revolutionary-suicide/id1308803723?i=1000394965672",
+        "youtube": "https://www.youtube.com/watch?v=Upnb8zWYS_g"
       }
     },
     {
@@ -338,12 +392,14 @@
       "explicit": true,
       "spotifyId": "6y3Pa6LVjeBO6M3CE6s54I",
       "appleId": 1000394965673,
+      "youTubeId": "S-LeaCF0c0k",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6y3Pa6LVjeBO6M3CE6s54I",
-        "apple": "https://podcasts.apple.com/podcast/life-in-the-promised-land/id1308803723?i=1000394965673"
+        "apple": "https://podcasts.apple.com/podcast/life-in-the-promised-land/id1308803723?i=1000394965673",
+        "youtube": "https://www.youtube.com/watch?v=S-LeaCF0c0k"
       }
     },
     {
@@ -355,12 +411,14 @@
       "explicit": true,
       "spotifyId": "4iC54BPMQQBUv6ztFCNTIC",
       "appleId": 1000394502301,
+      "youTubeId": "0SdwS-2MCGQ",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4iC54BPMQQBUv6ztFCNTIC",
-        "apple": "https://podcasts.apple.com/podcast/the-peoples-temple/id1308803723?i=1000394502301"
+        "apple": "https://podcasts.apple.com/podcast/the-peoples-temple/id1308803723?i=1000394502301",
+        "youtube": "https://www.youtube.com/watch?v=0SdwS-2MCGQ"
       }
     }
   ]

@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "cffd431b-0d52-4fbc-9054-01664ede9a78",
+  "name": "WMAR-2 News",
+  "youTubeChannelId": "UCADaBeM0qiKEZIw9_OuYmuA",
+  "episodes": [
+    {
+      "id": "1b677185-d2b9-4a18-8f90-252acc21a5a2",
+      "title": "Explaining S.I.S.T",
+      "description": "Learn about the group S.I.S.T.",
+      "release": "2010-06-09T22:12:27Z",
+      "duration": "00:03:06",
+      "explicit": false,
+      "youTubeId": "NpsYa3AHMw4",
+      "subjects": [
+        "Samanta Roy Institute of Science and Technology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=NpsYa3AHMw4"
+      }
+    }
+  ]
+}

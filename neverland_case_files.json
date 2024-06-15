@@ -5,6 +5,21 @@
   "spotifyId": "58RdPiVapIHybXFDgR0SAp",
   "episodes": [
     {
+      "id": "d2b17301-d686-455a-b85c-f257db3aac9d",
+      "title": "Neverland Case Files: The Children of Thunder",
+      "description": "Welcome back! This is the last cult case of the season and we are coming in with a storm. A prophet, leads a group of others to murder for his greater good. Let\u2019s brace for the storm and dive in.",
+      "release": "2024-06-14T00:00:00",
+      "duration": "00:14:55.6060000",
+      "explicit": false,
+      "spotifyId": "3sPg3Mv5IP7j8E87FMfRkz",
+      "subjects": [
+        "Glenn Helzer"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3sPg3Mv5IP7j8E87FMfRkz"
+      }
+    },
+    {
       "id": "06b1710f-522b-44a2-9844-deb4600e2af3",
       "title": "Neverland Case File: The True Russian Orthodox Church",
       "description": "We are looking into another cult today! This one tried to bury themselves into the side of a mountain to escape doomsday, but their leader didn\u2019t join them? Join me as we open this crazy case!",

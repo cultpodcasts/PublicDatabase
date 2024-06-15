@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "76bbe056-d0c4-4b9e-ad5d-4e5d32e20988",
+  "name": "KING 5 Seattle",
+  "youTubeChannelId": "UCp1KrVaZDZ7BOI_QBuTWWmg",
+  "episodes": [
+    {
+      "id": "f7efac0a-cf06-47e8-930f-723ecf77e67e",
+      "title": "Jonestown survivor, Congresswoman Jackie Speier talks about her perseverance",
+      "description": "From surviving the Jonestown massacre to pushing for gun control as a congresswoman, Jackie Speier continues her fight for others.",
+      "release": "2018-11-19T20:52:02Z",
+      "duration": "00:10:16",
+      "explicit": false,
+      "youTubeId": "Yiy26GPkHr8",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Yiy26GPkHr8"
+      }
+    }
+  ]
+}
