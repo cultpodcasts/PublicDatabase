@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "a04eccba-d16d-4efb-8e4d-1426d456c264",
+  "name": "FOX59 News",
+  "youTubeChannelId": "UCktceZtn0Kxd53qjjM2KzqA",
+  "episodes": [
+    {
+      "id": "f1c9787b-5087-4f9d-a8a0-1aaea5aee850",
+      "title": "New docuseries \u0027Cult Massacre: One Day in Jonestown\u0027",
+      "description": "A new three-part docuseries called Cult Massacre: One Day in Jonestown is now streaming. Using a wealth of footage filmed in the days before, during, and after the massacre -- it brings the tragedy that left more than 900 people dead to a whole new audience. Laura Spence, a producer on the project, joined Angela to share more about the new series.",
+      "release": "2024-06-20T11:43:38Z",
+      "duration": "00:04:42",
+      "explicit": false,
+      "youTubeId": "ATcDdZ-H4-U",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ATcDdZ-H4-U"
+      }
+    }
+  ]
+}

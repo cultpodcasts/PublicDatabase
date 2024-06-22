@@ -13,12 +13,16 @@
       "release": "2024-05-23T12:00:07Z",
       "duration": "01:36:38",
       "explicit": false,
+      "spotifyId": "5P1oqrb5xziwTIZXTPzPYs",
+      "appleId": 1000659837922,
       "youTubeId": "QvMQq8M_3Ko",
       "subjects": [
         "Opus Dei",
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5P1oqrb5xziwTIZXTPzPYs",
+        "apple": "https://podcasts.apple.com/us/podcast/opus-dei-is-not-above-the-law-trafficking/id1706189667?i=1000659837922",
         "youtube": "https://www.youtube.com/watch?v=QvMQq8M_3Ko"
       }
     },

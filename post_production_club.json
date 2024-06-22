@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "fc60009c-ae9e-4fe2-a8fc-e44d34bb2d7e",
+  "name": "Post Production Club",
+  "spotifyId": "0uTCCJX3pifU6sDJfwdOtr",
+  "appleId": 1728177206,
+  "youTubeChannelId": "UCOaIpqNzmlYrfwKV6Bg3j2w",
+  "episodes": [
+    {
+      "id": "a1b85cd8-7604-4c67-964b-18925689f936",
+      "title": "Cecelia Peck \u0026 Inbal B Lessner - Producers \u0026 Editor - Escaping Twin Flames",
+      "description": "In todays episode we talk to Cecelia Peck and Inbal B Lessner, the dynamic duo behind the hit Netflix documentary Escaping Twin Flames which follows the story\u0027s of several survivors of the cult that still operates today. They talk to us about what it\u0027s like to work on these heavy story\u0027s, best practices for unscripted storytelling, and their journeys into the film industry.",
+      "release": "2024-06-17T20:41:05Z",
+      "duration": "00:51:38.4160000",
+      "explicit": false,
+      "spotifyId": "0tohHXHdkan2xZxgIKxgSJ",
+      "appleId": 1000659319343,
+      "youTubeId": "Ltt-SuPyNjs",
+      "subjects": [
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0tohHXHdkan2xZxgIKxgSJ",
+        "apple": "https://podcasts.apple.com/podcast/cecelia-peck-inbal-b-lessner-producers-editor-escaping/id1728177206?i=1000659319343",
+        "youtube": "https://www.youtube.com/watch?v=Ltt-SuPyNjs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "e2aa2cf1-2d0e-451d-b281-60f12d41bbd7",
+  "name": "Conspiracy! The Show",
+  "spotifyId": "7cNfr6SyFtNharoLTZRtLg",
+  "appleId": 1235651909,
+  "episodes": [
+    {
+      "id": "31e762ff-372d-4f69-a714-bf9caebe280b",
+      "title": "Welcome to Jonestown",
+      "description": "Adam and Fizaa discuss the Jonestown massacre and what the government officially claims happened there",
+      "release": "2021-05-04T05:00:00Z",
+      "duration": "00:53:31.7600000",
+      "explicit": true,
+      "spotifyId": "2KpUTq0cN6w1GTE7224stV",
+      "appleId": 1000519989371,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2KpUTq0cN6w1GTE7224stV",
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-jonestown-pt-5-the-ones-that-got-away/id1235651909?i=1000519989371"
+      }
+    },
+    {
+      "id": "4d1e9929-28e4-486d-a52b-ac458f29e397",
+      "title": "Welcome to Jonestown Pt. 4 - The CIA, Guyana, and the Other Jonestown",
+      "description": "Adam and Olivia discuss CIA activity in Guyana during the 60s and 70s and the \u0022other Jonestown\u0022 that was happening in the country at the time",
+      "release": "2021-04-06T17:17:37Z",
+      "duration": "00:52:49.0820000",
+      "explicit": true,
+      "spotifyId": "2BZyo98mTuZclHYk3EJEk2",
+      "appleId": 1000516036831,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2BZyo98mTuZclHYk3EJEk2",
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-jonestown-pt-4-the-cia-guyana-and/id1235651909?i=1000516036831"
+      }
+    },
+    {
+      "id": "06561551-adb6-46a1-8ee0-d32b4c53e911",
+      "title": "Welcome to Jonestown Pt. 3 - The Layton Family",
+      "description": "Adam goes it alone to run through the absolutely crazy story of how just one potentially Nazi-connected family provided the inspiration, planning, and funds necessary to get the Jonestown project off the ground",
+      "release": "2021-03-09T19:23:43Z",
+      "duration": "00:54:06.8920000",
+      "explicit": true,
+      "spotifyId": "2MolRFBeKxwoFQ9nt0udwY",
+      "appleId": 1000512290628,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2MolRFBeKxwoFQ9nt0udwY",
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-jonestown-pt-3-the-layton-family/id1235651909?i=1000512290628"
+      }
+    },
+    {
+      "id": "69827820-3c0c-424e-bc64-81f3dff8a590",
+      "title": "Welcome to Jonestown Pt. 2 - Operation Paperclip",
+      "description": "Adam and Fizaa discuss a highly shady program that brought Nazi scientists to the United States after World War II",
+      "release": "2021-02-23T05:08:01Z",
+      "duration": "01:01:30.0220000",
+      "explicit": true,
+      "spotifyId": "4rL9e3GoouIyU3DxXD4k34",
+      "appleId": 1000510273644,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4rL9e3GoouIyU3DxXD4k34",
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-jonestown-pt-2-operation-paperclip/id1235651909?i=1000510273644"
+      }
+    }
+  ]
+}

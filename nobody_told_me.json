@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "dfc543a7-b02f-401a-a4d1-d7ccf0afb61d",
+  "name": "Nobody Told Me!",
+  "spotifyId": "3OxaCfmwqTJ6DFvZMlvoHO",
+  "appleId": 1348535955,
+  "episodes": [
+    {
+      "id": "9fc862a2-91f8-42ca-8010-1e58d8341b88",
+      "title": "Lilia Tarawa: ...I Could Be Happy If I Followed My Heart",
+      "description": "Our guest on this episode, Lilia Tarawa, is an extraordinary woman who has lived a remarkable life. Born into the secretive cult, the Gloriavale Christian Community in New Zealand, she fled with her family when she was 18 years old. Since then, she\u0027s made it her life\u0027s mission to help others break free and see what\u0027s possible. She\u0027s the author of \u0022Daughter of Gloriavale: My Life In A Religious Cult\u201D. Shopify is the all-in-one commerce platform that makes it simple for anyone to start, run and grow your own successful business. With Shopify, you\u2019ll create an online store, discover new customers, and grow the following that keeps them coming back. Shopify makes getting paid simple, by instantly accepting every type of payment. With Shopify\u2019s single dashboard, you can manage orders, shipping and payments from anywhere. Sign up for a one-dollar-per-month trial period at Shopify.com/nobody.",
+      "release": "2024-06-19T18:25:00Z",
+      "duration": "00:25:54.8860000",
+      "explicit": false,
+      "spotifyId": "1BrDWIARUgrtGsAvYiGnMg",
+      "appleId": 1000659551825,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1BrDWIARUgrtGsAvYiGnMg",
+        "apple": "https://podcasts.apple.com/podcast/lilia-tarawa-i-could-be-happy-if-i-followed-my-heart/id1348535955?i=1000659551825"
+      }
+    }
+  ]
+}

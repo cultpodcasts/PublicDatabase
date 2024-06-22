@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "20e74c12-5989-4473-9759-00119ac9c7a3",
+  "name": "TheThinkingAtheist",
+  "spotifyId": "4mVMP5yGBAZU6zVHLLiiKK",
+  "appleId": 412308695,
+  "episodes": [
+    {
+      "id": "2720b25d-adae-4015-88ce-8f5522aab34c",
+      "title": "Hard Knocks: Who Are the Jehovah\u0027s Witnesses? (with Owen Morgan)",
+      "description": "Ex-JW Owen Morgan pulls back the curtain on this mysterious cult. https://owenmorgan.com VIDEO of this conversation Become a supporter of this podcast: https://www.spreaker.com/podcast/thethinkingatheist--3270347/support .",
+      "release": "2024-06-18T10:00:04Z",
+      "duration": "00:58:12.2310000",
+      "explicit": false,
+      "spotifyId": "3c1PNCtGHhR59nbW9QlAn9",
+      "appleId": 1000659378922,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3c1PNCtGHhR59nbW9QlAn9",
+        "apple": "https://podcasts.apple.com/podcast/hard-knocks-who-are-the-jehovahs-witnesses-with-owen-morgan/id412308695?i=1000659378922"
+      }
+    }
+  ]
+}

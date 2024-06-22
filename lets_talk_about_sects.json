@@ -13,11 +13,15 @@
       "release": "2024-06-13T07:53:24Z",
       "duration": "00:46:34",
       "explicit": false,
+      "spotifyId": "4h9AhZCqo4movYkxrCduqm",
+      "appleId": 1000659404961,
       "youTubeId": "KI0-kFyqi4g",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4h9AhZCqo4movYkxrCduqm",
+        "apple": "https://podcasts.apple.com/podcast/cult-information-and-family-support-with-tore-klevjer/id1286328757?i=1000659404961",
         "youtube": "https://www.youtube.com/watch?v=KI0-kFyqi4g"
       }
     },

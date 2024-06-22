@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "b039d8bf-1abd-44de-87a0-ce73c2b8f897",
+  "name": "Lions Led By Donkeys Podcast",
+  "spotifyId": "1Vw8AeyqBCI6R94FK3GBw9",
+  "appleId": 1393845532,
+  "episodes": [
+    {
+      "id": "1cbdb027-beb1-4460-96b9-62b0cac12549",
+      "title": "Episode 316 - The M\u00FCnster Rebellion: Part 1",
+      "description": "Support the show on Patreon and get the rest of the series right now: https://www.patreon.com/lionsledbydonkeys Check out our YouTube: https://www.youtube.com/@lionsledbydonkeyspodcast7424 What starts as a rational critique of the Reformation turns into a wild, sex crazed, blood thirsty, and heavily armed cult ruled by a man who thinks he can cure blindness by spitting in someone\u0027s eye while mass executions take place via comically oversized anime sword. The Anabaptists of Munster eventually turn everyone against them from Martin Luther to the Catholics to their own believers who simply like their wives. Content Warning: Everything, throughout the series. Part 1/3 Sources: Anthony Arthur. The Tailor King: The Rise and Fall of the Anabaptist Kingdom of Munster Peter Vansittart. The Siege. Paul Ham. New Jerusalem: The short life and terrible death of Christendom\u0027s most defiant sect",
+      "release": "2024-06-16T20:36:57Z",
+      "duration": "01:08:57.8700000",
+      "explicit": false,
+      "spotifyId": "5WlaY50pB97MzHWzsAlgGS",
+      "appleId": 1000659194344,
+      "subjects": [
+        "Anabaptism",
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5WlaY50pB97MzHWzsAlgGS",
+        "apple": "https://podcasts.apple.com/podcast/episode-316-the-m%C3%BCnster-rebellion-part-1/id1393845532?i=1000659194344"
+      }
+    }
+  ]
+}

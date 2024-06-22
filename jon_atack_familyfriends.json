@@ -7,6 +7,21 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "c0486c8e-f47e-4495-8371-1527e582a84a",
+      "title": "memorial days with Dr Steven Moffic",
+      "description": "a discussion about the recent D-Day and Memorial Day commemorations, the recognition of PTSD and the recent decision of the American Psychiatric Association to create a Caucus on Peace. We talk about the successes and failures of the Truth and Reconciliation process and the need for dialogue in all fraught situations.\n\nSpike\u0027s note- it seems someone has replicated Leonardo\u0027s horse, not just once, but three times; you can read more here: https://en.wikipedia.org/wiki/Leonardo%27s_horse",
+      "release": "2024-06-22T06:00:31Z",
+      "duration": "00:46:02",
+      "explicit": false,
+      "youTubeId": "kEfctGnbHj8",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kEfctGnbHj8"
+      }
+    },
+    {
       "id": "99ec4001-5607-4008-9a0e-27f12e10366f",
       "title": "\u0026quot;Bible Bangers\u0026quot; \u0026amp; Scientology with Jamie DeWolf",
       "description": "Jon talks with L. Ron Hubbard\u0027s great-grandson, beat poet and award-winning filmmaker, Jamie DeWolf, about Scientology, extreme evangelical Christianity, life, philosophy, and belief.\n\nComedy routine by Stewart Lee: https://www.youtube.com/watch?v=lvf07P7fhu0\u0026t=6913s",
@@ -2709,7 +2724,8 @@
       "appleId": 1000566539422,
       "youTubeId": "YWnHjdSTdd0",
       "subjects": [
-        "Zen Master Rama"
+        "Zen Master Rama",
+        "Sri Chinmoy"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4X2tEvvHYbMXhr0lfp4NX1",
@@ -5978,7 +5994,8 @@
       "explicit": false,
       "youTubeId": "Cr9a5wrbuIw",
       "subjects": [
-        "Zen Master Rama"
+        "Zen Master Rama",
+        "Sri Chinmoy"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=Cr9a5wrbuIw"

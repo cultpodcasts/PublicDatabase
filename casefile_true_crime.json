@@ -1,0 +1,60 @@
+{
+  "_ts": 0,
+  "id": "2711b6e3-4d63-4995-ae20-1e0659276a55",
+  "name": "Casefile True Crime",
+  "spotifyId": "4V3K3zyD0k789eaSWFXzhc",
+  "appleId": 998568017,
+  "episodes": [
+    {
+      "id": "df5e55a7-995b-4ace-bcfc-2164ce018ade",
+      "title": "Case 60: Jonestown (Part 3)",
+      "description": "[Part 3 of 3] On November 17 1978, Congressman Leo Ryan travelled to Guyana to inspect Jonestown for himself. When a number of Peoples Temple members expressed a desire to leave with him, Jim Jones was furious. What followed next would go down in history. --- Episode narrated by the Anonymous Host Researched and written by Milly Raso For all credits and sources please visit casefilepodcast.com/case-60-jonestown-part-3",
+      "release": "2017-09-23T17:32:11Z",
+      "duration": "00:58:39.8700000",
+      "explicit": true,
+      "spotifyId": "1XWD3VFe0gdimJ1UJsjvqb",
+      "appleId": 1000392620700,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1XWD3VFe0gdimJ1UJsjvqb",
+        "apple": "https://podcasts.apple.com/podcast/case-60-jonestown-part-3/id998568017?i=1000392620700"
+      }
+    },
+    {
+      "id": "88132b04-f782-494e-a58a-e6103e64c3f2",
+      "title": "Case 60: Jonestown (Part 2)",
+      "description": "[Part 2 of 3] In the late 1970s, Jim Jones and hundreds of his followers relocated to The Peoples Temple Agricultural Project in the South American country of Guyana \u2013 more commonly known as \u2018Jonestown\u2019. --- Episode narrated by the Anonymous Host Researched and written by Milly Raso For all credits and sources please visit casefilepodcast.com/case-60-jonestown-part-2",
+      "release": "2017-09-16T15:55:07Z",
+      "duration": "00:59:25.0100000",
+      "explicit": true,
+      "spotifyId": "16ycDsxUN2zamh2jRRSo6m",
+      "appleId": 1000392326009,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/16ycDsxUN2zamh2jRRSo6m",
+        "apple": "https://podcasts.apple.com/podcast/case-60-jonestown-part-2/id998568017?i=1000392326009"
+      }
+    },
+    {
+      "id": "995b81e8-9c22-4459-a620-f1a5ca918f8e",
+      "title": "Case 60: Jonestown (Part 1)",
+      "description": "[Part 1 of 3] During childbirth, Lynetta Jones\u2019 deceased mother appeared to her in a vision and prophesied that the baby would one day become a great man. Lynetta\u2019s son was Jim Warren Jones, who grew up to become the leader of a new religious movement he named \u2018The Peoples Temple\u2019. --- Episode narrated by the Anonymous Host Researched and written by Milly Raso For all credits and sources please visit casefilepodcast.com/case-60-jonestown-part-1",
+      "release": "2017-09-16T15:52:18Z",
+      "duration": "01:22:57.6850000",
+      "explicit": true,
+      "spotifyId": "1m8CbI5mymEyUxpZftE1CU",
+      "appleId": 1000392326010,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1m8CbI5mymEyUxpZftE1CU",
+        "apple": "https://podcasts.apple.com/podcast/case-60-jonestown-part-1/id998568017?i=1000392326010"
+      }
+    }
+  ]
+}

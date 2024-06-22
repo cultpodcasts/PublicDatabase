@@ -4,7 +4,27 @@
   "name": "HJ Talks About Abuse",
   "spotifyId": "5ehsPetv8i5uo8zQNCoeaN",
   "appleId": 1465259035,
+  "youTubeChannelId": "UCb9K2p-ZLMlRTnOxGooIlYg",
   "episodes": [
+    {
+      "id": "d3ecd518-65bc-44b3-b044-ca29e495f8be",
+      "title": "Election Promises and Child Abuse: A Critical Review",
+      "description": "In this episode, Alan dives into the manifestos of the Labour Party, the Conservative Party, and the Liberal Democrats to examine what they have to say about child abuse and related issues. Alan provides a non-partisan analysis, focusing on key topics such as mandatory reporting laws, justice for victims, and proposed redress schemes. Alan discusses the Independent Inquiry into Child Sexual Abuse (ICSA) recommendations and how each party addresses\u2014or fails to address\u2014them. He highlights the importance of mandatory reporting and the need for accountability in the justice system. The episode also touches on the complex nature of handling rape cases and the necessity for timely justice. Join Alan as he navigates through these political manifestos, offering insights and critiques that are crucial for survivors of sexual abuse and those advocating for their rights. Whether you are a regular listener or tuning in for the first time, this episode aims to inform and empower.",
+      "release": "2024-06-20T14:22:00Z",
+      "duration": "00:25:08.5400000",
+      "explicit": false,
+      "spotifyId": "4PVV7R26xnzcH2jcY70Nnv",
+      "appleId": 1000659646743,
+      "youTubeId": "WYM5OWaHOOA",
+      "subjects": [
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4PVV7R26xnzcH2jcY70Nnv",
+        "apple": "https://podcasts.apple.com/podcast/election-promises-and-child-abuse-a-critical-review/id1465259035?i=1000659646743",
+        "youtube": "https://www.youtube.com/watch?v=WYM5OWaHOOA"
+      }
+    },
     {
       "id": "207f257d-50ec-4f92-805f-6b7e1399dd14",
       "title": "Unveiling the Dark Side: The Case of the Disgraced Vicar",
