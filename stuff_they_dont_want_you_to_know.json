@@ -4,7 +4,27 @@
   "name": "Stuff They Don\u0027t Want You To Know",
   "spotifyId": "5N6g8n6084T5D6Q67yGCUX",
   "appleId": 732915228,
+  "youTubeChannelId": "UCrrOic-og4HzhleZqOq4L-A",
   "episodes": [
+    {
+      "id": "977c2e56-21ea-4ee9-88d6-ff4462b892d1",
+      "title": "CLASSIC: What is the Finders cult?",
+      "description": "On Thursday, February 5, 1987, two men were arrested on suspicion of kidnapping six children and transporting them to Tallahassee, Florida. While the children were reportedly filthy and hungry, initial reports of abuse didn\u2019t hold up. The mothers confirmed they knew the men, and the charges were eventually dropped. But this isn\u2019t how the story ends -- instead, this is where the story of the Finders cult begins. They don\u0027t want you to read our book.: https://static.macmillan.com/static/fib/stuff-you-should-read/ See omnystudio.com/listener for privacy information.",
+      "release": "2024-06-25T15:00:00Z",
+      "duration": "01:13:32.5770000",
+      "explicit": false,
+      "spotifyId": "7fwLbhdf0kfThVJCQwUzUM",
+      "appleId": 1000660194719,
+      "youTubeId": "d8cGEk_tKFA",
+      "subjects": [
+        "The Finders"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fwLbhdf0kfThVJCQwUzUM",
+        "apple": "https://podcasts.apple.com/podcast/classic-what-is-the-finders-cult/id732915228?i=1000660194719",
+        "youtube": "https://www.youtube.com/watch?v=d8cGEk_tKFA"
+      }
+    },
     {
       "id": "48fb3684-2668-480a-8e59-f5741bb0f637",
       "title": "CLASSIC: Sex Cults and Rocket Science: The Jack Parsons Story",

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "17e43c86-5017-42c1-951e-9d10ec0dc8f9",
+  "name": "After Curfew",
+  "spotifyId": "0Su8yi0p4erwc1USpaqVOK",
+  "appleId": 1727051735,
+  "youTubeChannelId": "UCnJM5FcqibaVDKpGP9XltKg",
+  "episodes": [
+    {
+      "id": "87e6958c-7d46-4144-bb80-96c4c20d4e62",
+      "title": "I Survived A Cult (Kylie Douglas, The 7M Story)",
+      "description": "In this compelling episode, we sit down with Kylie Douglas, a former member of the notorious cult 7M, who also participated in the Netflix documentary \u0022Dancing for the Devil.\u0022 Kylie shares her intimate story, detailing her journey from being entangled in the cult to reclaiming her freedom and identity. This episode sheds light on the inner workings of 7M, the psychological and emotional impact on its members, and Kylie\u2019s dedication to sharing her story and truth.\n\nSign the 7M petition: https://tinyurl.com/mrxebxvs\n\nFor sponsorships/partnerships contact: aftercurfew@10pmcurfew.com\n\nAfter Curfew: https://linktr.ee/aftercurfew",
+      "release": "2024-06-26T16:00:52Z",
+      "duration": "00:43:15",
+      "explicit": false,
+      "spotifyId": "1IEdqnZXgS3WGI5KwhzEMR",
+      "appleId": 1000660335549,
+      "youTubeId": "pB3jSkYTQsM",
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IEdqnZXgS3WGI5KwhzEMR",
+        "apple": "https://podcasts.apple.com/podcast/i-survived-a-cult-kylie-douglas-the-7m-story/id1727051735?i=1000660335549",
+        "youtube": "https://www.youtube.com/watch?v=pB3jSkYTQsM"
+      }
+    }
+  ]
+}

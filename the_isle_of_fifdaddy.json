@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "12b7f944-c5a6-4ef9-9b2a-d8166d59b55e",
+  "name": "The Isle of Fifdaddy",
+  "spotifyId": "77J2RNnVotCXceebuF4GSj",
+  "appleId": 1747448565,
+  "episodes": [
+    {
+      "id": "e970623a-336a-4479-97f9-b01cce533b76",
+      "title": "#22: Sarah Edmondson - Taking Down a Cult",
+      "description": "This week on the pod we have the incredible Sarah Edmondson! Sarah is a Canadian actress and podcaster. She is a former member of the now de-bunked cult NXIVM. Courageously, In 2017, she left the group and confirmed longstanding criticism that NXIVM operated as a cult. She then chose to fight NXIVM\u0027s abusive practices which resulted in the downfall of the organization and its leaders. Sarah\u0027s story is one of bravery, courage and choosing to fight. https://www.youtube.com/watch?v=fa7uN2vo6rc\u0026t=747s Support the Show.",
+      "release": "2024-06-26T09:00:00Z",
+      "duration": "00:47:16.5840000",
+      "explicit": false,
+      "spotifyId": "5FC8UoEQ07EOkMsL22fj72",
+      "appleId": 1000660290342,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5FC8UoEQ07EOkMsL22fj72",
+        "apple": "https://podcasts.apple.com/podcast/22-sarah-edmondson-taking-down-a-cult/id1747448565?i=1000660290342"
+      }
+    }
+  ]
+}

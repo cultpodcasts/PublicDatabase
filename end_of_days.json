@@ -1,0 +1,145 @@
+{
+  "_ts": 0,
+  "id": "ebcc8432-f789-48b6-b2d8-636ca12b6a4b",
+  "name": "End Of Days",
+  "spotifyId": "3FTvVT3T6qDahM6GBcqj7A",
+  "appleId": 1445146482,
+  "episodes": [
+    {
+      "id": "95e88294-dcf0-4bdf-88c6-93cdbdd0abaa",
+      "title": "Episode Eight: Judgement",
+      "description": "Returning to charred ground at Waco - and a fatal, final recording.",
+      "release": "2018-11-01T01:30:00Z",
+      "duration": "00:40:03.3440000",
+      "explicit": false,
+      "spotifyId": "29EUMdGlQiSc21TdLPgc7N",
+      "appleId": 1000424867467,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/29EUMdGlQiSc21TdLPgc7N",
+        "apple": "https://podcasts.apple.com/podcast/episode-eight-judgement/id1445146482?i=1000424867467"
+      }
+    },
+    {
+      "id": "bbd07b04-4033-46dc-b9a0-d7d65c417733",
+      "title": "Episode Seven: Better Call Kirk",
+      "description": "After the tragedy at Waco two larger than life characters enter the story to fight the Britons\u0027 memory.",
+      "release": "2018-11-01T01:10:00Z",
+      "duration": "00:30:50.7760000",
+      "explicit": false,
+      "spotifyId": "33n2NrhgmrOO2PXgKNujSY",
+      "appleId": 1000424867473,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/33n2NrhgmrOO2PXgKNujSY",
+        "apple": "https://podcasts.apple.com/podcast/episode-seven-better-call-kirk/id1445146482?i=1000424867473"
+      }
+    },
+    {
+      "id": "9223333f-a86d-4bd4-9791-6a616cc4f59a",
+      "title": "Episode Six: Blind Faith",
+      "description": "Koresh leads his followers to their deaths.",
+      "release": "2018-11-01T01:01:00Z",
+      "duration": "00:32:27.7680000",
+      "explicit": false,
+      "spotifyId": "2rHRtCA5gIkQT818r4XmL5",
+      "appleId": 1000424867468,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rHRtCA5gIkQT818r4XmL5",
+        "apple": "https://podcasts.apple.com/podcast/episode-six-blind-faith/id1445146482?i=1000424867468"
+      }
+    },
+    {
+      "id": "2dc1debb-e7cb-4c77-ba70-f6f2ce96874c",
+      "title": "Episode Five: Under Siege",
+      "description": "The cult is surrounded by the FBI - and tensions fray",
+      "release": "2018-11-01T00:51:00Z",
+      "duration": "00:34:19.1540000",
+      "explicit": false,
+      "spotifyId": "7uZqRt8yw93JgJ8BzwUUJi",
+      "appleId": 1000424867474,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7uZqRt8yw93JgJ8BzwUUJi",
+        "apple": "https://podcasts.apple.com/podcast/episode-five-under-siege/id1445146482?i=1000424867474"
+      }
+    },
+    {
+      "id": "8bd6c297-71a4-4c35-8453-b61be5e24561",
+      "title": "Episode Four: The Sinful Messiah",
+      "description": "The Prophet\u0027s darkness is revealed.",
+      "release": "2018-11-01T00:41:00Z",
+      "duration": "00:40:12.0420000",
+      "explicit": false,
+      "spotifyId": "4Oigm0gjTET1iT9w2cAcCk",
+      "appleId": 1000424867466,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Oigm0gjTET1iT9w2cAcCk",
+        "apple": "https://podcasts.apple.com/podcast/episode-four-the-sinful-messiah/id1445146482?i=1000424867466"
+      }
+    },
+    {
+      "id": "34ac0474-9b08-484f-b438-9ecb598a1452",
+      "title": "Episode Three: Rock \u0027n\u0027 Roll Jesus",
+      "description": "In the city of Waco, Texas, hard rockers encounter the Prophet - and a British dad confronts him",
+      "release": "2018-11-01T00:21:00Z",
+      "duration": "00:41:16.2250000",
+      "explicit": false,
+      "spotifyId": "5Zi2qTcrO0TFbhoIhxlMaT",
+      "appleId": 1000424867472,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Zi2qTcrO0TFbhoIhxlMaT",
+        "apple": "https://podcasts.apple.com/podcast/episode-three-rock-n-roll-jesus/id1445146482?i=1000424867472"
+      }
+    },
+    {
+      "id": "3fb490bf-8a6b-4c05-9676-0244b3c75321",
+      "title": "Episode Two: Crowded House",
+      "description": "The cult spreads to Manchester - a bizarre house meeting and phone calls from \u0027God\u0027.",
+      "release": "2018-11-01T00:11:00Z",
+      "duration": "00:33:10.3480000",
+      "explicit": false,
+      "spotifyId": "2thKxKCSSsXO0lleieuJ5X",
+      "appleId": 1000424867469,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2thKxKCSSsXO0lleieuJ5X",
+        "apple": "https://podcasts.apple.com/podcast/episode-two-crowded-house/id1445146482?i=1000424867469"
+      }
+    },
+    {
+      "id": "d757007e-333b-418e-b6b6-080d2dd9c505",
+      "title": "Episode One: A Prophet On Campus",
+      "description": "David Koresh comes to an English college - and the seeds of the cult are sewn.",
+      "release": "2018-11-01T00:01:00Z",
+      "duration": "00:32:06.5830000",
+      "explicit": false,
+      "spotifyId": "70bDpcHFQogGl4t9DwrGXT",
+      "appleId": 1000424867470,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/70bDpcHFQogGl4t9DwrGXT",
+        "apple": "https://podcasts.apple.com/podcast/episode-one-a-prophet-on-campus/id1445146482?i=1000424867470"
+      }
+    }
+  ]
+}

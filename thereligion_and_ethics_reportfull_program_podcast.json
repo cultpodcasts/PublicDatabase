@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "9c5c39ca-f0ab-4c1b-af9f-7bfb4bf0fdcb",
+  "name": "The\u00A0Religion and Ethics Report - Full program podcast",
+  "appleId": 499968301,
+  "episodes": [
+    {
+      "id": "b1add3c8-adbf-4b28-ba5e-cadba4cc7a6b",
+      "title": "The FBI and cult stand-off that gripped America",
+      "description": "The 51 day stand-off between the FBI and the Branch Davidians cult that came to a fiery end.",
+      "release": "2024-06-19T06:00:00Z",
+      "duration": "00:28:49",
+      "explicit": false,
+      "appleId": 1000659492126,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/the-fbi-and-cult-stand-off-that-gripped-america/id499968301?i=1000659492126"
+      }
+    }
+  ]
+}

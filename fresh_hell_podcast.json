@@ -1,0 +1,48 @@
+{
+  "_ts": 0,
+  "id": "5cba1ea2-ea40-4cd2-ad61-203073f4d269",
+  "name": "Fresh Hell Podcast",
+  "spotifyId": "5vXOKSEl2fZnC79GUJKNRD",
+  "appleId": 1456161753,
+  "youTubeChannelId": "UCL2p6FXYitYrHda_3pWpUbA",
+  "episodes": [
+    {
+      "id": "42246061-2cd7-4d68-8b26-22f66ab4e099",
+      "title": "E244: Jim Jones \u0026 the Peoples Temple (art II)",
+      "description": "Jim Jones\u0027 Path to Guyana:\nIn this episode, we continue the story of Jim Jones, focusing on the pivotal years from his meeting with his future wife, Marceline, to the scandalous sexual assault allegations in the 1970s that precipitated the move to Guyana. Discover how Jones\u0027 marriage influenced his burgeoning ministry, his founding of the Peoples Temple, and the expansion of his influence. We\u0027ll delve into the dark and controversial aspects of his leadership, including the manipulative tactics he used to maintain control over his followers and the allegations that threatened to unravel his carefully constructed world. Join us as we trace the rise and fall of Jim Jones, leading up to the dramatic exodus to the remote jungle of Guyana.\nJim Jones, Peoples Temple, Jonestown Massacre, Jim Jones wife Marceline, Jim Jones marriage, sexual assault allegations, move to Guyana, cult leader, charismatic preacher, religious cult, 1970s scandals, Peoples Temple history, true crime, cult manipulation, leadership tactics, Guyana exodus, Jim Jones controversy, rise and fall, cult dynamics, biography, podcast episode, religious movements, Jim Jones scandals, cult control",
+      "release": "2024-06-28T12:51:38Z",
+      "duration": "00:57:33",
+      "explicit": false,
+      "spotifyId": "54MIL4C34ytX3feLD2w7xg",
+      "appleId": 1000660546881,
+      "youTubeId": "lUjxWVsqerY",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/54MIL4C34ytX3feLD2w7xg",
+        "apple": "https://podcasts.apple.com/podcast/e244-jim-jones-the-peoples-temple-part-ii/id1456161753?i=1000660546881",
+        "youtube": "https://www.youtube.com/watch?v=lUjxWVsqerY"
+      }
+    },
+    {
+      "id": "fbf4dce7-8d23-4555-9c14-29eb7914d1bb",
+      "title": "E243: Jim Jones \u0026 and the Peoples temple",
+      "description": "The Making of a Cult Leader: Jim Jones\u0027 Early Years\u0022\nIn this episode, we delve into the early life of Jim Jones, the leader of the Peoples Temple. Join us as we explore his childhood in rural Indiana, the influence of his parents, and the formative experiences that shaped his path. From his upbringing and early fascination with religion and social issues to his high school years and burgeoning leadership skills, we\u0027ll uncover the roots of a his personality.\nTune in for an in-depth look at the childhood and upbringing of Jim Jones, shedding light on the factors that influenced his journey from a small-town boy to a charismatic and dangerous cult leader.\n\n\nJim Jones, Peoples Temple, Jonestown Massacre, Jim Jones childhood, Jim Jones upbringing, cult leader, rural Indiana, Jim Jones parents, high school, early life, charismatic leader, religious influence, social issues, 20th century history, biography, true crime, cult history, podcast episode, formative years, Jim Jones education.",
+      "release": "2024-06-23T08:41:39Z",
+      "duration": "00:49:09",
+      "explicit": false,
+      "spotifyId": "7L4czX2GL1lC0Bfq71TCzV",
+      "appleId": 1000659724162,
+      "youTubeId": "w144TuxwNls",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7L4czX2GL1lC0Bfq71TCzV",
+        "apple": "https://podcasts.apple.com/podcast/e243-jim-jones-and-the-peoples-temple-part-i/id1456161753?i=1000659724162",
+        "youtube": "https://www.youtube.com/watch?v=w144TuxwNls"
+      }
+    }
+  ]
+}
