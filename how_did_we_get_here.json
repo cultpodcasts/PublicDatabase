@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "f03c0408-77b1-4677-a3c2-a305047b38a8",
+  "name": "How Did We Get Here?",
+  "spotifyId": "6A7eHnljo9H9RnU21nA4np",
+  "appleId": 1744718182,
+  "youTubeChannelId": "UC47xQgGHeA5PtdKoE_QL-Mw",
+  "episodes": [
+    {
+      "id": "018ce9d6-a1ff-400a-a248-573038b8dfed",
+      "title": "FLDS",
+      "description": "Summary\n\n\n\nThis episode explores the Fundamentalist Church of Jesus Christ of Latter-day Saints (FLDS) and the challenges faced by its members in leaving the cult. It discusses the history of the FLDS, the control exerted by its leaders, and the beliefs and practices that made it difficult for members to leave. The episode also highlights the stories of women who escaped the cult and the psychological tactics used by cult leaders to maintain control. The host provides tips on how to support someone who may be in a cult and emphasizes the importance of empathy and building trust.\n\n\n\nKeywords\n\n\n\nFLDS, cults, leaving a cult, Warren Jeffs, control, beliefs, practices, psychological tactics, support, empathy",
+      "release": "2024-07-05T13:00:00Z",
+      "duration": "00:15:17",
+      "explicit": false,
+      "spotifyId": "2QTUCpen60S4bsZvHH64Rx",
+      "appleId": 1000661243305,
+      "youTubeId": "sT4Uj9WdfSo",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2QTUCpen60S4bsZvHH64Rx",
+        "apple": "https://podcasts.apple.com/podcast/flds/id1744718182?i=1000661243305",
+        "youtube": "https://www.youtube.com/watch?v=sT4Uj9WdfSo"
+      }
+    }
+  ]
+}

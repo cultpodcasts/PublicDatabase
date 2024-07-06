@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6ae92e98-01ba-4f24-9ea1-04e3964be1d2",
+  "name": "Not So Peter Priesthood",
+  "spotifyId": "3DQUzz8XJEYwDD2rpH0cR8",
+  "appleId": 1578111551,
+  "episodes": [
+    {
+      "id": "35893ee3-9d88-4ebd-b5ba-53dbc8c44528",
+      "title": "133. The Church with No Name",
+      "description": "Jake has finally found something that Dusti didn\u0027t know about! It\u0027s not a huge deal because very few people know about this very secretive cult known as the Two by Twos. It has been covered by 60 Minutes but people still don\u0027t know very much about them. Please listen with caution as child sex abuse is mentioned in this episode.",
+      "release": "2024-07-03T12:00:35Z",
+      "duration": "01:02:12.9870000",
+      "explicit": true,
+      "spotifyId": "1AyMVXd4VSgY1yk89mIbRj",
+      "appleId": 1000661028804,
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1AyMVXd4VSgY1yk89mIbRj",
+        "apple": "https://podcasts.apple.com/podcast/133-the-church-with-no-name/id1578111551?i=1000661028804"
+      }
+    }
+  ]
+}

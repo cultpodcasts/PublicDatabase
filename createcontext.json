@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "2654fec6-5fa9-4637-b2b7-c6cee5ccd14f",
+  "name": "Create/Context",
+  "spotifyId": "0iCjRahLzwrtxLdJAZPHmA",
+  "appleId": 1744918607,
+  "episodes": [
+    {
+      "id": "2430643e-4a19-4f40-9926-420f312f52ce",
+      "title": "Midsommar",
+      "description": "Midsommar is writer-director Ari Aster\u0027s break-up film that takes during the midsummer festival of a strange Swedish cult. In this episode, we dissect the film, beat by beat, to examine its elements and complexities. Music Provided by Max LL from the album Bandle Tale Full transcripts of each episode can be found on our medium page https://medium.com/@create.context Sign up for our substack to learn about new episodes of Ending Explained and join the discussion. https://acontextpodcast.substack.com/",
+      "release": "2024-07-01T12:00:00Z",
+      "duration": "00:50:47.9900000",
+      "explicit": true,
+      "spotifyId": "6KTgxxIiid8X1oGJZ83RDX",
+      "appleId": 1000660791420,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KTgxxIiid8X1oGJZ83RDX",
+        "apple": "https://podcasts.apple.com/podcast/midsommar/id1744918607?i=1000660791420"
+      }
+    }
+  ]
+}

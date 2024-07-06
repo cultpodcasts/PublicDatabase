@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "faf34aa3-dd20-4579-8408-d01f802ba5bf",
+  "name": "Forensic Friday",
+  "spotifyId": "4wVPlqXzo6c6XIvUT5OIVB",
+  "appleId": 1741191928,
+  "youTubeChannelId": "UC0gIxfAJereGfWX6AUAhOlw",
+  "episodes": [
+    {
+      "id": "eb997902-9288-4293-950b-1a050328e689",
+      "title": "Infamous Cults: Drinking the Flavorade",
+      "description": "In today\u0027s episode you\u0027ll learn more about the thoughts, beliefs, and behaviors that create and maintain cults. We examine Jonestown, NXIVM, and the 7M Dance Cult. Several heroic cult members stand out as they have left high-control groups or tried to help others escape. Included is a list of red flags that are common in cults/high-control groups and how to support family members if they become entangled in one. Support the Show. Disclaimer: Jeannine and Natalie are commentators on publicly sourced information. Any case information and opinions are based on records in the public domain and are purely speculative in nature. Their comments are not meant to diagnose or treat any condition for listeners, and they are not functioning as licensed therapists providing services on the show. Any information shared based on general client experiences is coincidental and not meant to identify current or past clients. If you or someone you love is having a mental health crisis, please contact 911 or the National Suicide and Crisis Lifeline by calling or texting 988.",
+      "release": "2024-07-05T15:00:00Z",
+      "duration": "01:03:12.8480000",
+      "explicit": false,
+      "spotifyId": "6ce1jyw9mspAWKaJtiNNAL",
+      "appleId": 1000661252939,
+      "youTubeId": "IRBZ3xqjHb4",
+      "subjects": [
+        "NXIVM",
+        "Peoples Temple",
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ce1jyw9mspAWKaJtiNNAL",
+        "apple": "https://podcasts.apple.com/podcast/infamous-cults-drinking-the-flavorade/id1741191928?i=1000661252939",
+        "youtube": "https://www.youtube.com/watch?v=IRBZ3xqjHb4"
+      }
+    }
+  ]
+}

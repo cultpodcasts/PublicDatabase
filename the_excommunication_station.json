@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "bf2863a6-919c-47ee-9a31-7ddfa2cab4e4",
+      "title": "161: Newsboys Part VII: Go Peter",
+      "description": "This week Chaz and Chrissy dive further into the lore of the Newsboys. From their next album, GO, to Peter Furlers exit from the band and Michael Taits take over.",
+      "release": "2024-07-03T00:00:00",
+      "duration": "01:53:45.4860000",
+      "explicit": false,
+      "spotifyId": "0DEfy4rjnTdDpOmHh7UJet",
+      "appleId": 1000661047048,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0DEfy4rjnTdDpOmHh7UJet",
+        "apple": "https://podcasts.apple.com/us/podcast/161-newsboys-part-vii-go-peter/id1573190999?i=1000661047048"
+      }
+    },
+    {
       "id": "43d5a1da-6edf-4832-ab57-3bf2db608d1c",
       "title": "160: Newsboys Part VI: Thriving Adoration",
       "description": "This week we dive deeper into the bowels of The Boys. We talk about their album Thrive, their introduction to Michael Tait of DC Talk, and their first worship album Adoration.",

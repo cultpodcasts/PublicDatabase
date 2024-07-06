@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "a9052051-d8c1-4c69-b3a2-56b4c27188e7",
+  "name": "The Front",
+  "spotifyId": "56oUlYWXspZD9xJxb5lLXW",
+  "appleId": 1614339406,
+  "episodes": [
+    {
+      "id": "267a00fe-d68e-47c9-b6c3-37c27ac864f5",
+      "title": "The Vatican trial that\u2019s stranger than fiction",
+      "description": "As he heads to court in Rome, a former senior Vatican official has cast suspicion on the circumstances of Australian Cardinal George Pell. Find out more about The Front podcast here . You can read about this story and more on The Australian\u0027s website or on The Australian\u2019s app. This episode of The Front is presented and produced by Kristen Amiet and edited by Josh Burton. Our regular host is Claire Harvey. The multimedia editor is Lia Tsamoglou and original music is composed by Jasper Leak. See omnystudio.com/listener for privacy information.",
+      "release": "2024-07-02T15:00:00Z",
+      "duration": "00:14:59.1340000",
+      "explicit": false,
+      "spotifyId": "3Lx142TQEbAJ9EgyUpYJCZ",
+      "appleId": 1000660938303,
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Lx142TQEbAJ9EgyUpYJCZ",
+        "apple": "https://podcasts.apple.com/podcast/the-vatican-trial-thats-stranger-than-fiction/id1614339406?i=1000660938303"
+      }
+    }
+  ]
+}

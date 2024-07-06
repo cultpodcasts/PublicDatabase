@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "ac462020-0589-4808-9684-214a30474c6c",
+  "name": "Unshut Cases",
+  "spotifyId": "5yztkfzc2UUE94Z8gwkKD8",
+  "youTubeChannelId": "UCJFhwvH4DeQ6NlvgZlGnK5Q",
+  "episodes": [
+    {
+      "id": "101ae5e3-cba4-443a-a6cf-99d115ed367e",
+      "title": "Cult of Weinstein",
+      "description": "Join us on our premiere episode of Unshut Cases where we unpack the Harvey Weinstein accusations and trials and see how they relate to human trafficking, the #MeeToo moment\u2019s impact on workplace culture, and cult mentality. \nOur guest is employment lawyer and \u201Ccult assassin\u201D Carol Merchasin  of McAllister Olivarius who gives her expert insight on this case and shares her stories of taking down cults and investigating spiritual communities.",
+      "release": "2024-07-03T18:25:45Z",
+      "duration": "00:37:31",
+      "explicit": false,
+      "spotifyId": "6L6nZTWzJuhiU1VHsiNcsL",
+      "youTubeId": "fo261U-zpfY",
+      "subjects": [
+        "Human Trafficking",
+        "Cult-Expert",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6L6nZTWzJuhiU1VHsiNcsL",
+        "youtube": "https://www.youtube.com/watch?v=fo261U-zpfY"
+      }
+    }
+  ]
+}

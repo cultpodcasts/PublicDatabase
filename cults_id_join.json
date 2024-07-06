@@ -742,6 +742,9 @@
       "explicit": false,
       "spotifyId": "6woWWnTqtI8QHQHOcee6Au",
       "appleId": 1000596250730,
+      "subjects": [
+        "Ruby Ridge"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6woWWnTqtI8QHQHOcee6Au",
         "apple": "https://podcasts.apple.com/podcast/ruby-ridge/id1661064678?i=1000596250730"

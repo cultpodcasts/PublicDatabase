@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "09df073d-8075-4337-9fa8-94e1ef5d0e35",
+  "name": "Bleav in The Comedy Bureau Field Report",
+  "spotifyId": "4grAg9pbF0jkoPQe0poKFu",
+  "appleId": 1506125446,
+  "episodes": [
+    {
+      "id": "15a78364-859d-4a1f-851e-78e1ff3ebd89",
+      "title": "Ep. 223: Uriah Wesman \u0026 Redefining Yourself as a Comedian",
+      "description": "Leave it to taking a chance on a storytelling open mic to take Uriah Wesman from a one-liner comedian to developing an earnest, funny, vulnerable, enthralling solo show about growing up in three separate cults. We talk to Uriah on this week\u0027s TCB Field Report to see what the comedic turning point was for him as well as the creative and emotional journey he has had to go on to get to the point of selling out the debut of his very first solo show. Follow Uriah @uriahjokes on IG and get tix for Three Cults Walk Into a Bar on July 18th @ Lyric Hyperion here . Produced by Jake Kroeger Music by Brian Granillo Artwork by Andrew Delman and Jake Kroeger Photo by @ damu_malik_photo",
+      "release": "2024-07-04T05:00:01Z",
+      "duration": "00:56:33.4360000",
+      "explicit": false,
+      "spotifyId": "3nE7jgvwKowhxFHyaPLQaK",
+      "appleId": 1000661109015,
+      "subjects": [
+        "Church Universal and Triumphant",
+        "The Hearts Center",
+        "IDEAL Society"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3nE7jgvwKowhxFHyaPLQaK",
+        "apple": "https://podcasts.apple.com/podcast/ep-223-uriah-wesman-redefining-yourself-as-a-comedian/id1506125446?i=1000661109015"
+      }
+    }
+  ]
+}

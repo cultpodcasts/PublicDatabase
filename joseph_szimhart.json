@@ -1120,6 +1120,9 @@
       "duration": "00:11:22",
       "explicit": false,
       "youTubeId": "MOL9rmPTlBs",
+      "subjects": [
+        "Agni Yoga"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=MOL9rmPTlBs"
       }
@@ -1192,6 +1195,7 @@
       "explicit": false,
       "youTubeId": "gSUh34YORvg",
       "subjects": [
+        "Agni Yoga",
         "Theosophical Society"
       ],
       "urls": {

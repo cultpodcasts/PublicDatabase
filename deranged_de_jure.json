@@ -21,6 +21,23 @@
         "spotify": "https://open.spotify.com/episode/2rYCRWfSS49rIDYde1JIPa",
         "apple": "https://podcasts.apple.com/podcast/right-wing-extremes-part-2-waco/id1724447733?i=1000652280317"
       }
+    },
+    {
+      "id": "1a56397e-303f-49c5-8d6c-7810a145ebc6",
+      "title": "Right Wing Extremes Part 1: Ruby Ridge",
+      "description": "Part 1 of our April series on the progression of right wing extremism from Ruby Ridge to January 6th in honor of the anniversary of the Oklahoma City bombing. Covering the history of sovereign citizens, Christian Identity aka white supremacy, and a discussion on governmental overreach versus domestic terrorism.",
+      "release": "2024-04-08T18:44:57Z",
+      "duration": "01:06:42.3530000",
+      "explicit": true,
+      "spotifyId": "1sdyBLABLYUk4OQ03zd8jV",
+      "appleId": 1000651812122,
+      "subjects": [
+        "Ruby Ridge"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1sdyBLABLYUk4OQ03zd8jV",
+        "apple": "https://podcasts.apple.com/podcast/right-wing-extremes-part-1-ruby-ridge/id1724447733?i=1000651812122"
+      }
     }
   ]
 }

@@ -456,11 +456,15 @@
       "release": "2024-03-02T02:00:09Z",
       "duration": "00:46:19",
       "explicit": false,
+      "spotifyId": "1GfN57Sallqsse56LahvX6",
+      "appleId": 1000660936935,
       "youTubeId": "Edb1zh9-hTw",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1GfN57Sallqsse56LahvX6",
+        "apple": "https://podcasts.apple.com/podcast/the-rise-of-warren-jeffs-in-the-flds/id1553176314?i=1000660936935",
         "youtube": "https://www.youtube.com/watch?v=Edb1zh9-hTw"
       }
     },
