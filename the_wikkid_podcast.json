@@ -6,21 +6,6 @@
   "appleId": 1553393341,
   "episodes": [
     {
-      "id": "94eabe2f-b790-49c3-b1ad-b9700f2a9d3a",
-      "title": "Wasp Tent",
-      "description": "This week, the Wikkid Podcast gets NSFW (Not Safe For A Worship Service). Kristian Kitsch.  Kristian Krap so crappy you can\u0027t decide whether you\u0027re too Christian or too cool to own it. Heathen spatulas. Should there be Christian Archie comics? What would a Christian version of The Archies band play like, Sugar, Sugar? Growing up with that sacred/secular line. A discussion of two paintings, on an audio-only podcast. Are The Carpenters too wholesome to comfortably sit on the shelf next to Neil Young and Tom Waits? A juvenile British sense of humour about sex and the body. Obscenity? It\u0027s all in your polka dot undies.\n\n\nAdditional Musicians\n\nEvan Sauve: drums",
-      "release": "2024-07-03T04:00:00Z",
-      "duration": "01:40:02",
-      "explicit": false,
-      "appleId": 1000660986312,
-      "subjects": [
-        "Plymouth Brethren Christian Church"
-      ],
-      "urls": {
-        "apple": "https://podcasts.apple.com/us/podcast/wasp-tent/id1553393341?i=1000660986312"
-      }
-    },
-    {
       "id": "09137999-4864-4d51-8365-88698e286340",
       "title": "Episode 68: Wasp Tent",
       "description": "This week, the Wikkid Podcast gets NSFW (Not Safe For A Worship Service). Kristian Kitsch. Kristian Krap so crappy you can\u0027t decide whether you\u0027re too Christian or too cool to own it. Heathen spatulas. Should there be Christian Archie comics? What would a Christian version of The Archies band play like, Sugar, Sugar? Growing up with that sacred/secular line. A discussion of two paintings, on an audio-only podcast. Are The Carpenters too wholesome to comfortably sit on the shelf next to Neil Young and Tom Waits? A juvenile British sense of humour about sex and the body. Obscenity? It\u0027s all in your polka dot undies. Additional Musicians Evan Sauve: drums",
@@ -28,26 +13,13 @@
       "duration": "01:40:02.3900000",
       "explicit": false,
       "spotifyId": "6qnOMsjCz6bOTZ1rYrIOpV",
+      "appleId": 1000660986312,
       "subjects": [
         "Plymouth Brethren Christian Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6qnOMsjCz6bOTZ1rYrIOpV"
-      }
-    },
-    {
-      "id": "7db9679c-0702-47de-9d06-21fd7c725a07",
-      "title": "Fade From Sight",
-      "description": "Sometimes, in a lot of church flocks, certain sheep just... vanish, never to be seen again.  And sometimes people are kind of glad, especially if they are boring, annoying or discontented sheep. And sometimes that sheep is you.\n\n\nAdditional Musicians\n\nGeorge Turcotte: drums\nTroy Tuttle: additional rhythm guitar",
-      "release": "2024-06-19T04:00:00Z",
-      "duration": "01:07:15",
-      "explicit": false,
-      "appleId": 1000659477194,
-      "subjects": [
-        "Plymouth Brethren Christian Church"
-      ],
-      "urls": {
-        "apple": "https://podcasts.apple.com/us/podcast/fade-from-sight/id1553393341?i=1000659477194"
+        "spotify": "https://open.spotify.com/episode/6qnOMsjCz6bOTZ1rYrIOpV",
+        "apple": "https://podcasts.apple.com/us/podcast/wasp-tent/id1553393341?i=1000660986312"
       }
     },
     {
@@ -58,11 +30,13 @@
       "duration": "01:07:15.8920000",
       "explicit": false,
       "spotifyId": "3yJf7oE3ujcJ6j42KLRWdX",
+      "appleId": 1000659477194,
       "subjects": [
         "Plymouth Brethren Christian Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3yJf7oE3ujcJ6j42KLRWdX"
+        "spotify": "https://open.spotify.com/episode/3yJf7oE3ujcJ6j42KLRWdX",
+        "apple": "https://podcasts.apple.com/us/podcast/fade-from-sight/id1553393341?i=1000659477194"
       }
     },
     {

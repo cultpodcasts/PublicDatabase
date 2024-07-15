@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "be5fe7f4-bd5c-4ff0-9de8-8776344f7804",
+  "name": "The Troubadour Podcast",
+  "spotifyId": "5z1qjgOENpR7MFWvec9ga1",
+  "appleId": 917384029,
+  "youTubeChannelId": "UCdmjldJNAsOzI50kfzOHyLA",
+  "episodes": [
+    {
+      "id": "27ec1c9d-e45c-4b98-87da-3d286202519c",
+      "title": "Exploring the Thin Line Between Cults and Traditional Religions: A Deep Dive into Catholicism, Schisms, and Personal Faith Journeys",
+      "description": "Send us a Text Message. Is Catholicism more similar to a cult than you might think? In this episode, we embark on a thrilling exploration of religious movements, beginning with a deep dive into the controversial distinctions between cults and established religions. We critically examine characteristics like deference to authoritarian leaders and contrast them with the structures of traditional religions. Our discussion scrutinizes whether any religion truly fosters independent thought or if they all, in some way, impose an authoritative influence on their followers. Our journey takes us to the unique town of St. Mary\u0027s, Kansas\u2014once a Jesuit boys\u0027 school, now a bastion for traditional Catholics resisting modernizing reforms. We unravel its historical transformation, the role of the Society of Saint Pius X (SSPX), and the broader struggles within the Catholic Church\u0027s confrontation with modernity. Key events like Archbishop Marcel Lefebvre\u0027s controversial actions and the subsequent schism offer a fascinating lens through which we examine the intersection of faith, tradition, and change. We also delve into personal narratives and community dynamics that illustrate the diverse experiences within Catholicism. From the challenges of homeschooling in a devout community to the existential crises that push some to transition from faith to atheism or Objectivism, this episode provides a raw and honest look at belief and identity. Whether you\u0027re intrigued by religious history, personal faith journeys, or philosophical debates, this episode promises a riveting exploration of the complexities of religious life and thought.",
+      "release": "2024-07-12T17:00:00Z",
+      "duration": "01:43:36.3850000",
+      "explicit": false,
+      "spotifyId": "4YlotncHVmxOHbrcKIcuce",
+      "appleId": 1000662054362,
+      "youTubeId": "mYlb5vlAU_8",
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4YlotncHVmxOHbrcKIcuce",
+        "apple": "https://podcasts.apple.com/podcast/exploring-the-thin-line-between-cults-and/id917384029?i=1000662054362",
+        "youtube": "https://www.youtube.com/watch?v=mYlb5vlAU_8"
+      }
+    }
+  ]
+}

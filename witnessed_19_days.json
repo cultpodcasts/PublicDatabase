@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8870e6e3-821e-4edb-b6fe-ad72b1cac68d",
+  "name": "Witnessed: 19 Days",
+  "spotifyId": "2aoVd3OsqBwOGg5klKuhIC",
+  "appleId": 1578324041,
+  "episodes": [
+    {
+      "id": "81cdd4ce-be98-4e70-850d-012ff43c91e8",
+      "title": "Infamous on New Cold Plunge Deaths",
+      "description": "The podcast Infamous is covering how, in the last decade, the \u201CIceman\u201D Wim Hof (a.k.a. Justin Bieber\u2019s \u201CBreathwork Santa\u201D) has become a household name. Orlando Bloom to Oprah Winfrey have practiced his method, which includes daily cold plunges and hyperventilation breath work. But despite intense success, is Wim Hoff responsible for encouraging practices known to be dangerous\u2014and even deadly? In this episode, Vanessa interviews investigative journalist Scott Carney, Wim\u2019s former ghostwriter, who has been looking into deaths related to Wim\u2019s method. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-02-15T06:00:00Z",
+      "duration": "00:05:33.3220000",
+      "explicit": true,
+      "spotifyId": "2UJeQn6cPDli1ssWCrqjsk",
+      "appleId": 1000645413708,
+      "subjects": [
+        "Wim Hof Method"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2UJeQn6cPDli1ssWCrqjsk",
+        "apple": "https://podcasts.apple.com/podcast/infamous-on-new-cold-plunge-deaths/id1578324041?i=1000645413708"
+      }
+    }
+  ]
+}

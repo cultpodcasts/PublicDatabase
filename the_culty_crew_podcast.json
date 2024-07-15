@@ -6,6 +6,34 @@
   "youTubeChannelId": "UCothAd8pDNKivIXtAIxQBVQ",
   "episodes": [
     {
+      "id": "d3a110b3-9643-42fc-9cf7-cafc20c86653",
+      "title": "You are the reason your life isn\u2019t changing",
+      "release": "2024-07-15T06:40:15Z",
+      "duration": "00:12:56",
+      "explicit": false,
+      "youTubeId": "X7IQAYeLkN0",
+      "subjects": [
+        "Latter Day Church of Christ"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=X7IQAYeLkN0"
+      }
+    },
+    {
+      "id": "e44ca2a8-9722-4672-b014-abb8c6eb92df",
+      "title": "Have you lost yourself?",
+      "release": "2024-07-08T04:03:12Z",
+      "duration": "00:55:47",
+      "explicit": false,
+      "youTubeId": "G1sDUGTxx7Q",
+      "subjects": [
+        "Latter Day Church of Christ"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=G1sDUGTxx7Q"
+      }
+    },
+    {
       "id": "4e166f18-b322-4362-9cb8-5a3147af9ea6",
       "title": "They are not good enough for you!",
       "release": "2024-07-01T01:37:16Z",

@@ -255,7 +255,8 @@
       "explicit": false,
       "youTubeId": "KIxeLtK-yCw",
       "subjects": [
-        "Zen Master Rama"
+        "Zen Master Rama",
+        "Carlos Castaneda"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=KIxeLtK-yCw"
@@ -1182,6 +1183,9 @@
       "duration": "00:11:29",
       "explicit": false,
       "youTubeId": "FpuY0DZSuRU",
+      "subjects": [
+        "Carlos Castaneda"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=FpuY0DZSuRU"
       }

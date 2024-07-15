@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "bd8c3cec-d2ee-491a-a896-7511aa215439",
+  "name": "DW AfricaLink",
+  "spotifyId": "366s3XTbfqO0s4ycp8E4X5",
+  "appleId": 514247579,
+  "episodes": [
+    {
+      "id": "90a16fea-1e19-4819-9224-8d7c33fa11d3",
+      "title": "AfricaLink News: 09 July 2024",
+      "description": "Algeria: 14 people found dead in Sahara Desert \u0026#43;\u0026#43;\u0026#43; Trial of doomsday cult leader starts in Kenya \u0026#43;\u0026#43;\u0026#43; Tourist from Spain trampled to death by elephants",
+      "release": "2024-07-09T15:28:00Z",
+      "duration": "00:02:41.1370000",
+      "explicit": false,
+      "spotifyId": "1IOqVGvVNTL6zAsFpJGHc3",
+      "appleId": 1000661679899,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IOqVGvVNTL6zAsFpJGHc3",
+        "apple": "https://podcasts.apple.com/podcast/africalink-news-09-july-2024/id514247579?i=1000661679899"
+      }
+    }
+  ]
+}

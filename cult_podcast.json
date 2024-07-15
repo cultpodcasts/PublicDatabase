@@ -6,6 +6,20 @@
   "appleId": 1276011417,
   "episodes": [
     {
+      "id": "5cae84cd-6811-4021-a2a3-4c1a9f863e72",
+      "title": "Historical Event Madness: Here We Go Again",
+      "description": "We\u2019re back (kinda) to cover YET ANOTHER LIFE ALTERING EVENT. Boy howdy, really wish these would stop happening.",
+      "release": "2024-07-15T05:34:38Z",
+      "duration": "00:58:53.4530000",
+      "explicit": false,
+      "spotifyId": "18NAaSgyGa47I2mo5pKRri",
+      "appleId": 1000662256900,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/18NAaSgyGa47I2mo5pKRri",
+        "apple": "https://podcasts.apple.com/podcast/historical-event-madness-here-we-go-again/id1276011417?i=1000662256900"
+      }
+    },
+    {
       "id": "d9e3da95-316f-4c51-8b14-f6c934d0044b",
       "title": "Ep. 298 John De Ruiter Pt. 2: Eric Roberts is in Everything",
       "description": "We\u0027re back for the finale to our series on John De Ruiter! Join Paige as she takes Mando through the infidelities and downfall of a man who just like...stares at people? Oof.\nAlso, if you\u2019d like to listen to Armando\u2019s new show,\u00A0Boyfriend Material, click\u00A0this link right here\u00A0or go to\u00A0linktr.ee/midnightsnack.tv\nAlso also we have a Patreon! [Insert Air Horn Noises Here] If you\u0027d like to donate and join our cult, please visit\u00A0www.patreon.com/cultpodcast\u00A0or visit our website and click on the Patreon tab.",
@@ -2060,6 +2074,9 @@
       "explicit": true,
       "spotifyId": "3yjrDIoojmOauswSjV1Ti1",
       "appleId": 1000518670760,
+      "subjects": [
+        "Carlos Castaneda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3yjrDIoojmOauswSjV1Ti1",
         "apple": "https://podcasts.apple.com/podcast/ep-180-carlos-castaneda-pt-2-dad-went-out-for-infinity/id1276011417?i=1000518670760"
@@ -2074,6 +2091,9 @@
       "explicit": true,
       "spotifyId": "2ZZIdkWGjFDpYAt5SPiQRg",
       "appleId": 1000517738386,
+      "subjects": [
+        "Carlos Castaneda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ZZIdkWGjFDpYAt5SPiQRg",
         "apple": "https://podcasts.apple.com/podcast/ep-179-carlos-castaneda-mama-mia-sharks-are-stupid/id1276011417?i=1000517738386"

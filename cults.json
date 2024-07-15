@@ -3523,6 +3523,9 @@
       "explicit": false,
       "spotifyId": "5f5TYPUVhlkau8fQiUMYAZ",
       "appleId": 1000451868374,
+      "subjects": [
+        "Carlos Castaneda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5f5TYPUVhlkau8fQiUMYAZ",
         "apple": "https://podcasts.apple.com/podcast/tensegrity-pt-2-carlos-castaneda/id1286818575?i=1000451868374"
@@ -3537,6 +3540,9 @@
       "explicit": false,
       "spotifyId": "05FTQxF3pSuCYXvs2BFw1u",
       "appleId": 1000450995851,
+      "subjects": [
+        "Carlos Castaneda"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/05FTQxF3pSuCYXvs2BFw1u",
         "apple": "https://podcasts.apple.com/podcast/tensegrity-carlos-castaneda/id1286818575?i=1000450995851"

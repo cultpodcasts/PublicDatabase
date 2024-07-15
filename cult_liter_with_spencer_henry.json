@@ -3678,6 +3678,9 @@
       "explicit": true,
       "spotifyId": "1p8TTRL1dKLnY58dOo14FZ",
       "appleId": 1000518775534,
+      "subjects": [
+        "Yerba Buena"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1p8TTRL1dKLnY58dOo14FZ",
         "apple": "https://podcasts.apple.com/podcast/the-high-priestess-of-blood/id1436376574?i=1000518775534"

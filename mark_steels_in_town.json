@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "2219924e-c15e-4add-a65e-92d11de92848",
+  "name": "Mark Steel\u0027s in Town",
+  "spotifyId": "5P2dhEDVtjgn6mWhZJYdVJ",
+  "appleId": 1577972183,
+  "episodes": [
+    {
+      "id": "eff940e9-11ed-4231-85ef-89852a8702d1",
+      "title": "East Grinstead",
+      "description": "This week Mark visits the West Sussex town of East Grinstead This is the 13th series of Mark\u0027s award winning show where he travels around the country visiting towns that have nothing in common but their uniqueness. After thoroughly researching each town, Mark writes and performs a bespoke evening of comedy for a local audience. As well as East Grinstead, in this series, Mark be will also be popping to Margate, Malvern, Stoke-on-Trent, Coleraine in Northern Ireland and Nether Edge in Sheffield. There will also be extended versions of each episode available on BBC sounds. Written and performed by Mark Steel Additional material by Pete Sinclair Production co-ordinator Katie Baum Sound Manager Jerry Peal Producer Carl Cooper A BBC Studios Audio production for Radio 4",
+      "release": "2024-07-08T17:30:00Z",
+      "duration": "00:35:22.2380000",
+      "explicit": false,
+      "spotifyId": "5dmBFnUhhPqmTuNVwXHbZX",
+      "appleId": 1000661566156,
+      "subjects": [
+        "Scientology",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5dmBFnUhhPqmTuNVwXHbZX",
+        "apple": "https://podcasts.apple.com/podcast/east-grinstead/id1577972183?i=1000661566156"
+      }
+    }
+  ]
+}

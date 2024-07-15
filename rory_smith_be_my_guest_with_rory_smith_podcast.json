@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "8e794fcd-a083-4f31-be4d-6cea903a97d2",
+  "name": "Rory Smith, \u0027Be My Guest with Rory Smith\u0027 Podcast",
+  "spotifyId": "71OhnmWuKObSldjlOvfhjG",
+  "appleId": 1742358400,
+  "youTubeChannelId": "UCF3Gnio2iXbxzdvy_nhtB_Q",
+  "episodes": [
+    {
+      "id": "20c3c8e9-d918-4289-864c-b834b023fdcb",
+      "title": "#5 Trapped In a London Cult For 30 Years, Katherine Morgan-Davies",
+      "description": "Katy Morgan-Davies was born into a London cult where she was trapped for 30 years. During that time she was never told who her parents were. Today she shares intimate details about the horrific conditions inside the cult including how she was rarely allowed outside and wasn\u0027t even allowed to go to school. She tells me how she finally escaped and reveals how she eventually found out who her real parents were. \n\nThanks for listening to this episode! Please follow and rate so I can continue giving this platform to people like Katy.",
+      "release": "2024-02-19T07:00:03Z",
+      "duration": "00:44:07",
+      "explicit": false,
+      "spotifyId": "2O704VU20f2PDDClADQfbH",
+      "appleId": 1000653064432,
+      "youTubeId": "41C2VjLUdlA",
+      "subjects": [
+        "Lambeth Slavery Case"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2O704VU20f2PDDClADQfbH",
+        "apple": "https://podcasts.apple.com/podcast/5-trapped-in-a-london-cult-for-30-years/id1742358400?i=1000653064432",
+        "youtube": "https://www.youtube.com/watch?v=41C2VjLUdlA"
+      }
+    }
+  ]
+}

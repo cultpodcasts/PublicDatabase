@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "87b61f7d-87fc-4fad-9322-0a2e46abe449",
+  "name": "The Infographics Show",
+  "spotifyId": "0xSzea18pEeAAupng7IG8K",
+  "appleId": 1756731172,
+  "youTubeChannelId": "UCfdNM3NAhaBOXCafH7krzrA",
+  "episodes": [
+    {
+      "id": "2cef3bf4-0e0b-4072-a1a8-a19c64b9a965",
+      "title": "Mysterious Death Cult That Poisoned Tokyo Subway",
+      "description": "Japan is no stranger to cults, but none have matched the Aum Shinrikyo. In this episode, we delve into the chilling story of Aum Shinrikyo, the cult led by Shoko Asahara. From its humble beginnings to its terrifying acts of bioterrorism, we explore how Aum Shinrikyo grew from a small spiritual group to a dangerous organization that shook Japan and the world. Advertising Inquiries: https://redcircle.com/brands Privacy \u0026 Opt-Out: https://redcircle.com/privacy",
+      "release": "2024-07-14T22:50:46Z",
+      "duration": "00:22:33.0650000",
+      "explicit": false,
+      "spotifyId": "6Jov0ktkh17v1VbS7CLRnc",
+      "appleId": 1000662228960,
+      "youTubeId": "Oh1Jp6iQHdc",
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Jov0ktkh17v1VbS7CLRnc",
+        "apple": "https://podcasts.apple.com/podcast/mysterious-death-cult-that-poisoned-tokyo-subway/id1756731172?i=1000662228960",
+        "youtube": "https://www.youtube.com/watch?v=Oh1Jp6iQHdc"
+      }
+    }
+  ]
+}

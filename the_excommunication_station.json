@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "fa38ce64-0d9e-4138-b1d5-13993d0bec45",
+      "title": "162: Newsboys VII: Taited Loved",
+      "description": "This week Chaz and Chrissy conclude our our series on the CCM titans, the Newsboys.",
+      "release": "2024-07-10T06:25:53Z",
+      "duration": "02:06:26",
+      "explicit": false,
+      "spotifyId": "2IGoX8LiSoIzaNd3yxrEal",
+      "appleId": 1000661746630,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2IGoX8LiSoIzaNd3yxrEal",
+        "apple": "https://podcasts.apple.com/us/podcast/162-newsboys-vii-taited-loved/id1573190999?i=1000661746630"
+      }
+    },
+    {
       "id": "bf2863a6-919c-47ee-9a31-7ddfa2cab4e4",
       "title": "161: Newsboys Part VII: Go Peter",
       "description": "This week Chaz and Chrissy dive further into the lore of the Newsboys. From their next album, GO, to Peter Furlers exit from the band and Michael Taits take over.",
