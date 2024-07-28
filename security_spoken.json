@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "aca72012-7d55-49fa-88dc-25b44af4610f",
+  "name": "Security, Spoken",
+  "spotifyId": "6y9h49k5zEw65mGzDIQHBU",
+  "appleId": 1211754233,
+  "episodes": [
+    {
+      "id": "be8a065d-502f-47ba-85db-673e9ac687b0",
+      "title": "Alleged \u2018Maniac Murder Cult\u2019 Leader Indicted Over Plot to Kill Jewish Children",
+      "description": "US prosecutors have charged Michail Chkhikvishvili, also known as \u201CCommander Butcher,\u201D with a litany of crimes, including alleged attempts to poison Jewish children in NYC. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-07-19T10:00:00Z",
+      "duration": "00:07:45.4490000",
+      "explicit": false,
+      "spotifyId": "4ExneYT4xLNhRin2LVNeJE",
+      "appleId": 1000662730859,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ExneYT4xLNhRin2LVNeJE",
+        "apple": "https://podcasts.apple.com/podcast/alleged-maniac-murder-cult-leader-indicted-over-plot/id1211754233?i=1000662730859"
+      }
+    }
+  ]
+}

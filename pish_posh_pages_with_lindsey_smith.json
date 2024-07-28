@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "c1383750-65ac-47f9-b48f-957ad60a34a9",
+  "name": "pish posh pages with Lindsey Smith",
+  "spotifyId": "6Fq93OuVqYC1YokTaA4L5d",
+  "appleId": 1584323868,
+  "episodes": [
+    {
+      "id": "63e2cf2b-a13f-43d7-b308-dc2995e2c92c",
+      "title": "Scarred by Sarah Edmondson (cult memoir)",
+      "description": "My review of the memoir Scarred: The True Story of How I Escaped NXIVM, the Cult That Bound My Life by Sarah Edmondson. Sarah was also featured in the HBO Max docuseries, The Vow. This cult memoir is available on Kindle Unlimited. My cult book rec list: https://www.pishposhpodcast.com/blog/lindseys-cult-book-rec-list Follow the bookstagram: @pishposhpages Visit the website: pishposhpodcast.com",
+      "release": "2024-07-17T08:05:00Z",
+      "duration": "00:20:32.0270000",
+      "explicit": true,
+      "spotifyId": "69yFZDGgMFJJof188R5uTN",
+      "appleId": 1000662499589,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/69yFZDGgMFJJof188R5uTN",
+        "apple": "https://podcasts.apple.com/podcast/scarred-by-sarah-edmondson-cult-memoir/id1584323868?i=1000662499589"
+      }
+    }
+  ]
+}

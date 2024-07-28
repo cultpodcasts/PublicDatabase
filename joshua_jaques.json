@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "ebaacdeb-084c-4345-b321-2cfed6af5d73",
+  "name": "Joshua Jaques",
+  "youTubeChannelId": "UCLyQl-_BbwWBZvhMM789e9A",
+  "episodes": [
+    {
+      "id": "a8aac140-4110-4625-bb23-3dbdf9b7f890",
+      "title": "Foo Fighters (Dave Grohl) troll the Westboro Baptist Church",
+      "description": "August 6, 2021\nWestboro Baptist Church pickets Foo Fighters concert. Dave Grohl sings the Bee Gees \u0022You Should be Dancin\u0027.\u0022 \nThanks for watching",
+      "release": "2021-08-06T20:59:36Z",
+      "duration": "00:02:20",
+      "explicit": false,
+      "youTubeId": "CVtQnOPcxxA",
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CVtQnOPcxxA"
+      }
+    }
+  ]
+}

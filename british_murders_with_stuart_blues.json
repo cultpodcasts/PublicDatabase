@@ -15,7 +15,9 @@
       "explicit": true,
       "spotifyId": "2BKjYhZ6voCW9w2XBqOJtM",
       "appleId": 1000662230435,
+      "youTubeId": "uPvsB7wP1tM",
       "subjects": [
+        "Legislation",
         "Cult Psychology",
         "Cult-Expert",
         "Cult Apologists",
@@ -24,7 +26,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BKjYhZ6voCW9w2XBqOJtM",
-        "apple": "https://podcasts.apple.com/podcast/interview-60-inside-the-cult-vault-deep-dives/id1539343828?i=1000662230435"
+        "apple": "https://podcasts.apple.com/podcast/interview-60-inside-the-cult-vault-deep-dives/id1539343828?i=1000662230435",
+        "youtube": "https://www.youtube.com/watch?v=uPvsB7wP1tM"
       }
     }
   ]

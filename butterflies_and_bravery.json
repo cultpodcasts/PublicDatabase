@@ -6,6 +6,24 @@
   "appleId": 1567192725,
   "episodes": [
     {
+      "id": "c3f854c7-ac11-4457-955b-7bc197307ae6",
+      "title": "ICSA Presentation Recap",
+      "description": "Send us a Text Message. A little recap of our trip to Barcelona to speak at the International Cultic Studies Association yearly conference. Complete with sideline stories and daisy picking. Support the Show. Support The Show: https://paypal.me/bnbdonations?country.x=US\u0026locale.x=en_US Visit our Website Follow us: Instagram Facebook Twitter",
+      "release": "2024-07-21T19:00:00Z",
+      "duration": "01:03:36.9860000",
+      "explicit": false,
+      "spotifyId": "4iNVUiA4m2zzbIQGRVJJMn",
+      "appleId": 1000662902785,
+      "subjects": [
+        "Cult Recovery",
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4iNVUiA4m2zzbIQGRVJJMn",
+        "apple": "https://podcasts.apple.com/podcast/icsa-presentation-recap/id1567192725?i=1000662902785"
+      }
+    },
+    {
       "id": "dfb45952-8c26-4a4d-b073-a65426a4c8b3",
       "title": "And We\u0027re Off On Another Adventure",
       "description": "Send us a Text Message.Whisper and Jemima are on their way to present at ICSA 2024. Our panel consisting of a psychologist from Australia and your Butterflies and Bravery crew is speaking at the International Cultic Studies Association yearly conference. Listen as we share a little sneak peek of our presentation.Support the Show.Support The Show: https://paypal.me/bnbdonations?country.x=US\u0026locale.x=en_USVisit our WebsiteFollow us:InstagramFacebookTwitter",
@@ -14,6 +32,9 @@
       "explicit": false,
       "spotifyId": "5qx8bjvK3y7jz16vM2R43t",
       "appleId": 1000660673954,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5qx8bjvK3y7jz16vM2R43t",
         "apple": "https://podcasts.apple.com/us/podcast/and-were-off-on-another-adventure/id1567192725?i=1000660673954"
@@ -28,6 +49,9 @@
       "explicit": false,
       "spotifyId": "2lywmJige08vWOgO8Xvfcv",
       "appleId": 1000653107645,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2lywmJige08vWOgO8Xvfcv",
         "apple": "https://podcasts.apple.com/podcast/were-still-talking-about-sex-but-with-guests/id1567192725?i=1000653107645"
@@ -76,6 +100,9 @@
       "explicit": false,
       "spotifyId": "6efXDjtMR2sorpE8LIIl1o",
       "appleId": 1000641557047,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6efXDjtMR2sorpE8LIIl1o",
         "apple": "https://podcasts.apple.com/podcast/river-of-2023-2024/id1567192725?i=1000641557047"
@@ -90,6 +117,9 @@
       "explicit": true,
       "spotifyId": "58qLZ4uuloyfDpZFJIpQMh",
       "appleId": 1000633588930,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58qLZ4uuloyfDpZFJIpQMh",
         "apple": "https://podcasts.apple.com/podcast/burapa-swallows-and-ladder-pullers/id1567192725?i=1000633588930"
@@ -122,7 +152,8 @@
       "spotifyId": "0dho4ZK6uk4ri3a8ygmVhl",
       "appleId": 1000624966709,
       "subjects": [
-        "NXIVM"
+        "NXIVM",
+        "World Assemblies of God Fellowship"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0dho4ZK6uk4ri3a8ygmVhl",
@@ -155,6 +186,9 @@
       "explicit": false,
       "spotifyId": "7CbQtBOhtqxe2gHOuNZlH3",
       "appleId": 1000621313914,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7CbQtBOhtqxe2gHOuNZlH3",
         "apple": "https://podcasts.apple.com/podcast/we-went-to-isca-and-lou-something-ville/id1567192725?i=1000621313914"
@@ -169,6 +203,9 @@
       "explicit": true,
       "spotifyId": "44jeXelJtW7fpzPns9z2H6",
       "appleId": 1000614697134,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/44jeXelJtW7fpzPns9z2H6",
         "apple": "https://podcasts.apple.com/podcast/glimmers-and-heart-smiles/id1567192725?i=1000614697134"
@@ -183,6 +220,9 @@
       "explicit": true,
       "spotifyId": "1Orc2Aavm7kXxBvYkgZWmD",
       "appleId": 1000610193341,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Orc2Aavm7kXxBvYkgZWmD",
         "apple": "https://podcasts.apple.com/podcast/silenced-in-eden/id1567192725?i=1000610193341"
@@ -197,6 +237,9 @@
       "explicit": false,
       "spotifyId": "4882X61mZBaMMKn30DXncn",
       "appleId": 1000611181517,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4882X61mZBaMMKn30DXncn",
         "apple": "https://podcasts.apple.com/podcast/the-body-hides-the-score/id1567192725?i=1000611181517"
@@ -211,6 +254,9 @@
       "explicit": false,
       "spotifyId": "5d7eGLuBiekYW3pjIs1T6D",
       "appleId": 1000607245837,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5d7eGLuBiekYW3pjIs1T6D",
         "apple": "https://podcasts.apple.com/podcast/straight-outta-knee-surgery/id1567192725?i=1000607245837"
@@ -242,6 +288,9 @@
       "explicit": false,
       "spotifyId": "1qwTTs8tY1NWwojMSu4WIX",
       "appleId": 1000604867358,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1qwTTs8tY1NWwojMSu4WIX",
         "apple": "https://podcasts.apple.com/podcast/the-beginning-of-the-beginning/id1567192725?i=1000604867358"
@@ -274,6 +323,9 @@
       "explicit": true,
       "spotifyId": "00s5OqRMfowFmYyddym5gp",
       "appleId": 1000602752571,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/00s5OqRMfowFmYyddym5gp",
         "apple": "https://podcasts.apple.com/podcast/on-the-lighter-side-of-things/id1567192725?i=1000602752571"
@@ -356,6 +408,9 @@
       "explicit": true,
       "spotifyId": "2gy2CLNdjhWrVBz67ah1tv",
       "appleId": 1000595862853,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2gy2CLNdjhWrVBz67ah1tv",
         "apple": "https://podcasts.apple.com/podcast/your-square-gets-bigger/id1567192725?i=1000595862853"
@@ -370,6 +425,9 @@
       "explicit": true,
       "spotifyId": "6cHIp0VCm5ka5bBdbZo60v",
       "appleId": 1000587168943,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6cHIp0VCm5ka5bBdbZo60v",
         "apple": "https://podcasts.apple.com/podcast/chutes-and-ladders-cult-version/id1567192725?i=1000587168943"
@@ -435,6 +493,9 @@
       "explicit": true,
       "spotifyId": "4asOcCxj5B6fecgvMHrwyG",
       "appleId": 1000581957401,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4asOcCxj5B6fecgvMHrwyG",
         "apple": "https://podcasts.apple.com/podcast/our-roots-are-in-each-other/id1567192725?i=1000581957401"
@@ -449,6 +510,9 @@
       "explicit": true,
       "spotifyId": "2knGYQiUTI9OZdcsOIIgQ0",
       "appleId": 1000581077861,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2knGYQiUTI9OZdcsOIIgQ0",
         "apple": "https://podcasts.apple.com/podcast/how-to-save-a-life/id1567192725?i=1000581077861"
@@ -463,6 +527,9 @@
       "explicit": true,
       "spotifyId": "7LEz0VZwT8RPPQzCJqd7uz",
       "appleId": 1000579529715,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7LEz0VZwT8RPPQzCJqd7uz",
         "apple": "https://podcasts.apple.com/podcast/on-the-lighter-side/id1567192725?i=1000579529715"
@@ -477,6 +544,9 @@
       "explicit": true,
       "spotifyId": "0Zulnj8v4pvIbpOd7WKdgj",
       "appleId": 1000578771218,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Zulnj8v4pvIbpOd7WKdgj",
         "apple": "https://podcasts.apple.com/podcast/the-bravest-thing/id1567192725?i=1000578771218"
@@ -494,7 +564,9 @@
       "subjects": [
         "Evangelicalism",
         "Cult Recovery",
-        "Psychology"
+        "Psychology",
+        "The Church Of God In Christ",
+        "Mennonite"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mRxa17TwbWp5AEpVyRZXq",
@@ -528,6 +600,9 @@
       "explicit": false,
       "spotifyId": "6f6NfcPzjl8lpd8xrMVYHh",
       "appleId": 1000575725806,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6f6NfcPzjl8lpd8xrMVYHh",
         "apple": "https://podcasts.apple.com/podcast/reparenting-is-never-linear/id1567192725?i=1000575725806"
@@ -542,6 +617,9 @@
       "explicit": true,
       "spotifyId": "4EUswm5eCPKKizJPv7sRBL",
       "appleId": 1000575045848,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4EUswm5eCPKKizJPv7sRBL",
         "apple": "https://podcasts.apple.com/podcast/we-even-coordinated-outfits-for-this-episode/id1567192725?i=1000575045848"
@@ -573,6 +651,9 @@
       "explicit": true,
       "spotifyId": "3luaDVTENINavNkDl0Xv77",
       "appleId": 1000570737422,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3luaDVTENINavNkDl0Xv77",
         "apple": "https://podcasts.apple.com/podcast/shes-an-eagle-when-she-flies/id1567192725?i=1000570737422"
@@ -604,6 +685,9 @@
       "explicit": false,
       "spotifyId": "4s3GmHlBAyum5movVu6btC",
       "appleId": 1000569104836,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4s3GmHlBAyum5movVu6btC",
         "apple": "https://podcasts.apple.com/podcast/from-back-to-back/id1567192725?i=1000569104836"
@@ -635,6 +719,9 @@
       "explicit": true,
       "spotifyId": "7rElNxfsxUm1CqpKqK6gf9",
       "appleId": 1000567530244,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7rElNxfsxUm1CqpKqK6gf9",
         "apple": "https://podcasts.apple.com/podcast/buoys-in-the-ocean/id1567192725?i=1000567530244"
@@ -649,6 +736,9 @@
       "explicit": false,
       "spotifyId": "68hX8RvL3aRgPIsdwEyXpw",
       "appleId": 1000566605692,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/68hX8RvL3aRgPIsdwEyXpw",
         "apple": "https://podcasts.apple.com/podcast/dancing-with-joy-and-sorrow/id1567192725?i=1000566605692"
@@ -681,7 +771,8 @@
       "spotifyId": "6SEDAxee8m4X0HopVx8pAd",
       "appleId": 1000564924011,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6SEDAxee8m4X0HopVx8pAd",
@@ -715,6 +806,9 @@
       "explicit": false,
       "spotifyId": "7cWKHmSqU1lDTqAVVR1mNf",
       "appleId": 1000562468050,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7cWKHmSqU1lDTqAVVR1mNf",
         "apple": "https://podcasts.apple.com/podcast/phoenix-rising/id1567192725?i=1000562468050"
@@ -729,6 +823,9 @@
       "explicit": false,
       "spotifyId": "1uGYrwhYYW0ity9Kc5NCjg",
       "appleId": 1000560692505,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1uGYrwhYYW0ity9Kc5NCjg",
         "apple": "https://podcasts.apple.com/podcast/two-cult-babies-turn-one/id1567192725?i=1000560692505"
@@ -743,6 +840,9 @@
       "explicit": true,
       "spotifyId": "6bWp9VePQneZj67N6qmXcD",
       "appleId": 1000558938553,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bWp9VePQneZj67N6qmXcD",
         "apple": "https://podcasts.apple.com/podcast/lets-talk-cults-with-deb-donner-part-2/id1567192725?i=1000558938553"
@@ -757,6 +857,9 @@
       "explicit": true,
       "spotifyId": "205lc26ZWupZzS9k2uMjSz",
       "appleId": 1000558212042,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/205lc26ZWupZzS9k2uMjSz",
         "apple": "https://podcasts.apple.com/podcast/lets-talk-cults-with-deb-donner-part-1/id1567192725?i=1000558212042"
@@ -823,6 +926,9 @@
       "explicit": false,
       "spotifyId": "19XQzhqDKlRQvQAyT87HfW",
       "appleId": 1000555094369,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19XQzhqDKlRQvQAyT87HfW",
         "apple": "https://podcasts.apple.com/podcast/side-effects-and-trading-recipes/id1567192725?i=1000555094369"
@@ -854,6 +960,9 @@
       "explicit": true,
       "spotifyId": "11LbiSQws8AXKOxfYupcL5",
       "appleId": 1000553537905,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/11LbiSQws8AXKOxfYupcL5",
         "apple": "https://podcasts.apple.com/podcast/chasing-dope-amine/id1567192725?i=1000553537905"
@@ -868,6 +977,9 @@
       "explicit": false,
       "spotifyId": "4f3XOl8ZwRd6Dtbn52tWHi",
       "appleId": 1000552855196,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4f3XOl8ZwRd6Dtbn52tWHi",
         "apple": "https://podcasts.apple.com/podcast/holding-or-hijacking/id1567192725?i=1000552855196"
@@ -882,6 +994,9 @@
       "explicit": true,
       "spotifyId": "61vhyHY2kdVP9Zxbp2th4w",
       "appleId": 1000552107952,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61vhyHY2kdVP9Zxbp2th4w",
         "apple": "https://podcasts.apple.com/podcast/that-cycle-ends-with-me/id1567192725?i=1000552107952"
@@ -896,6 +1011,9 @@
       "explicit": true,
       "spotifyId": "0nxrhjirC1BQCeOjqX6Glz",
       "appleId": 1000551385766,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nxrhjirC1BQCeOjqX6Glz",
         "apple": "https://podcasts.apple.com/podcast/voice-of-an-angel-heart-of-a-warrior/id1567192725?i=1000551385766"
@@ -910,6 +1028,9 @@
       "explicit": true,
       "spotifyId": "0ECnUJa5gXCGXj9QB4eh7K",
       "appleId": 1000550664544,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ECnUJa5gXCGXj9QB4eh7K",
         "apple": "https://podcasts.apple.com/podcast/babies-births-and-firemen/id1567192725?i=1000550664544"
@@ -924,6 +1045,9 @@
       "explicit": true,
       "spotifyId": "2oJpmHke2wsQpUVBmELzev",
       "appleId": 1000549884111,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2oJpmHke2wsQpUVBmELzev",
         "apple": "https://podcasts.apple.com/podcast/nevertheless-she-persisted-and-she-flourished/id1567192725?i=1000549884111"
@@ -956,6 +1080,9 @@
       "explicit": false,
       "spotifyId": "2riMenmbgcZQaNNiU3QfKM",
       "appleId": 1000548460337,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2riMenmbgcZQaNNiU3QfKM",
         "apple": "https://podcasts.apple.com/podcast/doctors-or-dogmas/id1567192725?i=1000548460337"
@@ -987,6 +1114,9 @@
       "explicit": false,
       "spotifyId": "4C4oOcjK6gDRbb5Bkak436",
       "appleId": 1000547181644,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4C4oOcjK6gDRbb5Bkak436",
         "apple": "https://podcasts.apple.com/podcast/around-the-world-in-38-minutes/id1567192725?i=1000547181644"
@@ -1001,6 +1131,9 @@
       "explicit": false,
       "spotifyId": "2JHRcBwmlY7B9uJT7sSfaf",
       "appleId": 1000545141749,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2JHRcBwmlY7B9uJT7sSfaf",
         "apple": "https://podcasts.apple.com/podcast/holiday-ramblings-with-whisper-and-jemima/id1567192725?i=1000545141749"
@@ -1015,6 +1148,9 @@
       "explicit": true,
       "spotifyId": "56fT921QPonpBPbeABYYSS",
       "appleId": 1000544402702,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/56fT921QPonpBPbeABYYSS",
         "apple": "https://podcasts.apple.com/podcast/first-step-4-life/id1567192725?i=1000544402702"
@@ -1029,6 +1165,9 @@
       "explicit": false,
       "spotifyId": "7ectWDa3XaNRd2HcfnSRT8",
       "appleId": 1000543708704,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ectWDa3XaNRd2HcfnSRT8",
         "apple": "https://podcasts.apple.com/podcast/not-episode-28/id1567192725?i=1000543708704"
@@ -1043,6 +1182,9 @@
       "explicit": false,
       "spotifyId": "5i7Z7sLRLYEPMABxt1T49D",
       "appleId": 1000543025327,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5i7Z7sLRLYEPMABxt1T49D",
         "apple": "https://podcasts.apple.com/podcast/mary-jane/id1567192725?i=1000543025327"
@@ -1057,6 +1199,9 @@
       "explicit": false,
       "spotifyId": "4SPbHfW6kr8mZQ1vXJ1Wnu",
       "appleId": 1000542319836,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4SPbHfW6kr8mZQ1vXJ1Wnu",
         "apple": "https://podcasts.apple.com/podcast/my-ms-diagnosis/id1567192725?i=1000542319836"
@@ -1071,6 +1216,9 @@
       "explicit": false,
       "spotifyId": "5702uUSumKE0IvxchivVFE",
       "appleId": 1000540592022,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5702uUSumKE0IvxchivVFE",
         "apple": "https://podcasts.apple.com/podcast/all-tore-up/id1567192725?i=1000540592022"
@@ -1085,6 +1233,9 @@
       "explicit": true,
       "spotifyId": "0bfrURyxP4AtVVfpb2nV1S",
       "appleId": 1000539974764,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0bfrURyxP4AtVVfpb2nV1S",
         "apple": "https://podcasts.apple.com/podcast/lets-talk-mental-health/id1567192725?i=1000539974764"
@@ -1099,6 +1250,9 @@
       "explicit": false,
       "spotifyId": "40xlR7sqe5xzZ1HC9onyD5",
       "appleId": 1000539269920,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/40xlR7sqe5xzZ1HC9onyD5",
         "apple": "https://podcasts.apple.com/podcast/last-testament-review-bonus-episode/id1567192725?i=1000539269920"
@@ -1164,6 +1318,9 @@
       "explicit": false,
       "spotifyId": "5iSn5OFL6yHw2PGPXIytKl",
       "appleId": 1000537076652,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5iSn5OFL6yHw2PGPXIytKl",
         "apple": "https://podcasts.apple.com/podcast/how-to-save-a-life/id1567192725?i=1000537076652"
@@ -1212,6 +1369,9 @@
       "explicit": true,
       "spotifyId": "5qG9mxUBE9CYIEjFaKCAia",
       "appleId": 1000534844797,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5qG9mxUBE9CYIEjFaKCAia",
         "apple": "https://podcasts.apple.com/podcast/verity-on-children-of-the-cult-part-2/id1567192725?i=1000534844797"
@@ -1226,6 +1386,9 @@
       "explicit": true,
       "spotifyId": "18f5wS2SfyhRVawDMiJEMT",
       "appleId": 1000534830233,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/18f5wS2SfyhRVawDMiJEMT",
         "apple": "https://podcasts.apple.com/podcast/verity-on-children-of-the-cult-part-1/id1567192725?i=1000534830233"
@@ -1240,6 +1403,9 @@
       "explicit": true,
       "spotifyId": "0Vej2Fn04OitJGk4sHMZ1e",
       "appleId": 1000534055090,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Vej2Fn04OitJGk4sHMZ1e",
         "apple": "https://podcasts.apple.com/podcast/driving-yourself-uncrazy/id1567192725?i=1000534055090"
@@ -1393,6 +1559,9 @@
       "explicit": true,
       "spotifyId": "795l0c19MyJAPyaCGXuiOY",
       "appleId": 1000527468638,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/795l0c19MyJAPyaCGXuiOY",
         "apple": "https://podcasts.apple.com/podcast/meet-the-alters-did-continued/id1567192725?i=1000527468638"
@@ -1441,6 +1610,9 @@
       "explicit": true,
       "spotifyId": "1ihPHFwZ2NJ8U2dxxWGG06",
       "appleId": 1000524923510,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ihPHFwZ2NJ8U2dxxWGG06",
         "apple": "https://podcasts.apple.com/podcast/jail-bait-and-switch/id1567192725?i=1000524923510"
@@ -1472,6 +1644,9 @@
       "explicit": true,
       "spotifyId": "3wCtNr9v7OQffZVzNHnglc",
       "appleId": 1000523361370,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3wCtNr9v7OQffZVzNHnglc",
         "apple": "https://podcasts.apple.com/podcast/shove-that-happy-rainbow-up-your-ass/id1567192725?i=1000523361370"
@@ -1486,6 +1661,9 @@
       "explicit": true,
       "spotifyId": "1Wbe39gTOsQAkz9dR4ycts",
       "appleId": 1000522668196,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Wbe39gTOsQAkz9dR4ycts",
         "apple": "https://podcasts.apple.com/podcast/meth-and-me/id1567192725?i=1000522668196"
@@ -1500,6 +1678,9 @@
       "explicit": true,
       "spotifyId": "6P5bnrbEbA8REm4Xg3V1Pp",
       "appleId": 1000521435643,
+      "subjects": [
+        "Children Of God"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6P5bnrbEbA8REm4Xg3V1Pp",
         "apple": "https://podcasts.apple.com/podcast/its-about-to-get-weird/id1567192725?i=1000521435643"

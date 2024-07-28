@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "e8d65259-cee8-4a38-a071-7e62c4bec3f5",
+  "name": "Nexus of Narratives",
+  "spotifyId": "2nMiP3zoOObroa49LoEWmn",
+  "appleId": 1756771697,
+  "youTubeChannelId": "UCfXAU6IVL0mKGAH4Hzikp8A",
+  "episodes": [
+    {
+      "id": "a36f9578-cf1d-4299-97a6-5de73d718295",
+      "title": "02 Michael: 25 Years in a Religious Cult",
+      "description": "In this episode, Michael shares stories of what led him to join a religious cult and stay in the trenches for 25 years. We talk about the power of using fear as a manipulation tool, holding leaders accountable, and the power of love in overcoming shared trauma. Become a patron and gain access to exclusive content, early release episodes, and more at https://www.patreon.com/NexusofNarratives To learn more, support the podcast, and connect with others, visit https://www.nexusofnarratives.org For coaching and consulting services with me, reach out by visiting https://www.thenexusimpact.com Thank you to Sparta Media Group for producing this podcast! Learn more about them at https://spartamg.com/",
+      "release": "2024-07-22T06:01:00Z",
+      "duration": "01:11:37.6850000",
+      "explicit": true,
+      "spotifyId": "5zVBJJc8NlXWniC4eA6aSi",
+      "appleId": 1000662947116,
+      "youTubeId": "5CwaBUkUFgQ",
+      "subjects": [
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5zVBJJc8NlXWniC4eA6aSi",
+        "apple": "https://podcasts.apple.com/podcast/02-michael-25-years-in-a-religious-cult/id1756771697?i=1000662947116",
+        "youtube": "https://www.youtube.com/watch?v=5CwaBUkUFgQ"
+      }
+    }
+  ]
+}

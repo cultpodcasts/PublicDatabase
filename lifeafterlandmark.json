@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCqEOpXW49-TIZWkZsVuiDQg",
   "episodes": [
     {
+      "id": "d3fc5922-1dcf-4674-9b6e-4d18fe026d5e",
+      "title": "Forking Landmark with Ann Betz",
+      "release": "2024-07-24T10:10:57Z",
+      "duration": "01:10:54",
+      "explicit": false,
+      "youTubeId": "GjU-k-9t4Kk",
+      "subjects": [
+        "Landmark"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GjU-k-9t4Kk"
+      }
+    },
+    {
+      "id": "9465ffc8-5592-40df-b4fa-2bcfccc85800",
+      "title": "Exploring that very fine line between transformation and exploitation.",
+      "description": "Anne and I dive into agreements, what each of us \u0022make them mean\u0022 (as we would say in Landmark). We navigate our way through coercion vs giving people the freedom to participate voluntarily.. and all the murky stuff in between. We touch on giving people room to negotiate the terms and conditions.. and prepare ourselves for future conversations that enable people to TRULY choose.",
+      "release": "2024-07-18T02:38:30Z",
+      "duration": "01:13:35",
+      "explicit": false,
+      "youTubeId": "dwbzxySv6oY",
+      "subjects": [
+        "Landmark"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dwbzxySv6oY"
+      }
+    },
+    {
       "id": "caa48b16-ca58-4f12-a215-1e4d30cfe951",
       "title": "To agree or not to agree... that is the hook.",
       "description": "agreements begin in the very early days and build over time as more response-ability is given to the people assisting - and growing the enterprise known as Landmark Education.\n\nRiley explains the steps to what Landmark call \u0022leadership\u0022",

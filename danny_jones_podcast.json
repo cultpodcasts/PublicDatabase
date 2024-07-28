@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "1bc4675c-ca8d-48d0-b79f-5857d2cce345",
+  "name": "Danny Jones Podcast",
+  "spotifyId": "4VTLG0HiIZaCjH9gE6NFPq",
+  "appleId": 1441238966,
+  "youTubeChannelId": "UCbtV5L8TVB0zQ9khThGApLw",
+  "episodes": [
+    {
+      "id": "4894b515-458f-43d7-a0c6-6af3da1b6138",
+      "title": "#49 - The #1 Threat to Scientology | Mike Rinder",
+      "description": "Mike Rinder is a former senior executive of the Church of Scientology International (CSI) and the Sea Organization based in the United States. From 1982 to 2007 Mike served on the board of directors of CSI and also held the post of executive director of its Office of Special Affairs, overseeing the corporate, legal and public relations matters of Scientology at the international level. Rinder left Scientology in 2007. From 2016 to 2019, he co-hosted the A\u0026E documentary series Leah Remini: Scientology and the Aftermath. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2020-08-10T17:43:31Z",
+      "duration": "02:03:05.6850000",
+      "explicit": false,
+      "spotifyId": "6MIxscbg0hen9sZoEK8472",
+      "appleId": 1000487725471,
+      "youTubeId": "j2GCOfdNE1c",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6MIxscbg0hen9sZoEK8472",
+        "apple": "https://podcasts.apple.com/podcast/49-the-1-threat-to-scientology-mike-rinder/id1441238966?i=1000487725471",
+        "youtube": "https://www.youtube.com/watch?v=j2GCOfdNE1c"
+      }
+    }
+  ]
+}

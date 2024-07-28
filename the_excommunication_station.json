@@ -6,6 +6,37 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "e9502cd1-770f-4605-b865-cc7f7bfebf20",
+      "title": "164: 3rd Grade Christian Science Part I",
+      "description": "This week we dive into the manipulative and down right ridiculous Bob Jones 3rd Grade Science text book. Get ready for some learning.",
+      "release": "2024-07-24T04:28:39Z",
+      "duration": "02:13:14.4910000",
+      "explicit": false,
+      "spotifyId": "7vQNj4Q0Vew0CsQhMmnFPi",
+      "appleId": 1000663163472,
+      "subjects": [
+        "Christian Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7vQNj4Q0Vew0CsQhMmnFPi",
+        "apple": "https://podcasts.apple.com/podcast/164-3rd-grade-christian-science-part-i/id1573190999?i=1000663163472"
+      }
+    },
+    {
+      "id": "bb480636-5f64-412e-9f3c-c64f4d7e75b9",
+      "title": "163: Scott Okamoto: Asian American Apostate",
+      "description": "This week we\u0027re joined by our i old friend and author of the book Asian American Apostate: Scott Okamoto. We discuss his book and his time as a professor at Azuzu Pacific University.",
+      "release": "2024-07-17T05:00:00Z",
+      "duration": "01:51:47.5660000",
+      "explicit": false,
+      "spotifyId": "7pW31I4zca1LcWxrhoC6kd",
+      "appleId": 1000662484720,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7pW31I4zca1LcWxrhoC6kd",
+        "apple": "https://podcasts.apple.com/podcast/163-scott-okamoto-asian-american-apostate/id1573190999?i=1000662484720"
+      }
+    },
+    {
       "id": "fa38ce64-0d9e-4138-b1d5-13993d0bec45",
       "title": "162: Newsboys VII: Taited Loved",
       "description": "This week Chaz and Chrissy conclude our our series on the CCM titans, the Newsboys.",

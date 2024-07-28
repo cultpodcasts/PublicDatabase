@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "63e15c5e-d5aa-4874-b07c-4e679d1c70fc",
+  "name": "The Daily Show: Ears Edition",
+  "spotifyId": "53dHyhzazFrmPhwuambyuM",
+  "appleId": 1334878780,
+  "episodes": [
+    {
+      "id": "0c0b46fc-a895-42da-a8d9-569ca08834e3",
+      "title": "Jon Stewart and the News Team Unpack the RNC | ICYMI",
+      "description": "Jon Stewart, Jordan Klepper, and the Daily Show News Team analyze this week\u2019s Republican National Convention, from Republican calls for unity and subsequent attacks on the Democrats\u2019 agenda, to J.D. Vance\u2019s VP reveal, to Donald Trump\u2019s theatrical entrance and convention-capping speech. See omnystudio.com/listener for privacy information.",
+      "release": "2024-07-20T07:30:00Z",
+      "duration": "00:36:56.0190000",
+      "explicit": true,
+      "spotifyId": "3SzAnEixIf96wlmBlFjlGi",
+      "appleId": 1000662808962,
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3SzAnEixIf96wlmBlFjlGi",
+        "apple": "https://podcasts.apple.com/podcast/jon-stewart-and-the-news-team-unpack-the-rnc-icymi/id1334878780?i=1000662808962"
+      }
+    }
+  ]
+}

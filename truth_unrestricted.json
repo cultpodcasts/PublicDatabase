@@ -4,6 +4,7 @@
   "name": "Truth Unrestricted",
   "spotifyId": "03szrJobmCyJxPuxQh6msv",
   "appleId": 1613105409,
+  "youTubeChannelId": "UCgrSpzgfQxwaValBhp8OmAA",
   "episodes": [
     {
       "id": "128850b9-6416-40aa-a4a6-91c59dba149f",
@@ -14,9 +15,16 @@
       "explicit": false,
       "spotifyId": "1zOB5u9pRvghJJ1FKZ6Oh5",
       "appleId": 1000588652184,
+      "youTubeId": "nwe2ggIj-Lc",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1zOB5u9pRvghJJ1FKZ6Oh5",
-        "apple": "https://podcasts.apple.com/podcast/cults-with-stephen-mather-part-2/id1613105409?i=1000588652184"
+        "apple": "https://podcasts.apple.com/podcast/cults-with-stephen-mather-part-2/id1613105409?i=1000588652184",
+        "youtube": "https://www.youtube.com/watch?v=nwe2ggIj-Lc"
       }
     },
     {
@@ -28,9 +36,16 @@
       "explicit": false,
       "spotifyId": "3g0jjltBsZhbK0kMPQVJZW",
       "appleId": 1000586860104,
+      "youTubeId": "sM9XOUHqDWA",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Jehovah\u0027s Witnesses"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3g0jjltBsZhbK0kMPQVJZW",
-        "apple": "https://podcasts.apple.com/podcast/cults-with-stephen-mather-part-1/id1613105409?i=1000586860104"
+        "apple": "https://podcasts.apple.com/podcast/cults-with-stephen-mather-part-1/id1613105409?i=1000586860104",
+        "youtube": "https://www.youtube.com/watch?v=sM9XOUHqDWA"
       }
     }
   ]

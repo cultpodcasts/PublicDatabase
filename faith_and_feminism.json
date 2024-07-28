@@ -6,6 +6,34 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "f008f192-80b9-4f2f-b0ae-29fea558a92f",
+      "title": "How to Talk About Polarizing Issues",
+      "description": "In today\u0027s episode, journalist Bekah McNeel analyzes the narratives surrounding six hot-button issues\u2014immigration, COVID, abortion, critical race theory, gun violence, and climate change. For each topic, she exposes how \u201Cus versus them\u201D thinking leads us to turn a blind eye to injustice. She also offers an alternative perspective on each issue, based on a sensitive reading of the gospel.",
+      "release": "2024-07-23T09:20:00Z",
+      "duration": "01:15:31.0010000",
+      "explicit": false,
+      "spotifyId": "7qmSSqS58rAE8bigboH1rF",
+      "appleId": 1000663072998,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7qmSSqS58rAE8bigboH1rF",
+        "apple": "https://podcasts.apple.com/podcast/how-to-talk-about-polarizing-issues/id1438368947?i=1000663072998"
+      }
+    },
+    {
+      "id": "593ecbbc-2c62-473c-b491-6ce6584d4206",
+      "title": "Consent: Part 2",
+      "description": "In Consent, Donna Freitas delivers a forensic examination of the years she spent stalked by her professor, and uses her nightmarish experience to examine the ways in which we stigmatize, debate, and attempt to understand consent today.",
+      "release": "2024-07-16T07:16:00Z",
+      "duration": "01:01:41.0030000",
+      "explicit": false,
+      "spotifyId": "2euXl68t1Zmm3MR6tnvmdZ",
+      "appleId": 1000662379583,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2euXl68t1Zmm3MR6tnvmdZ",
+        "apple": "https://podcasts.apple.com/podcast/consent-part-2/id1438368947?i=1000662379583"
+      }
+    },
+    {
       "id": "7f5ecb81-58c7-486f-9eb7-b238d9eb6954",
       "title": "Consent: Part 1",
       "description": "In\u00A0Consent: A Memoir of Unwanted Attention, Donna Freitas delivers a forensic examination of the years she spent stalked by her professor, and uses her nightmarish experience to examine the ways in which we stigmatize, debate, and attempt to understand consent today.",

@@ -5,6 +5,34 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "469ccd39-3f49-4ee4-9a4f-0d425c84eed0",
+      "title": "July 26, 2024",
+      "release": "2024-07-26T21:28:16Z",
+      "duration": "00:01:00",
+      "explicit": false,
+      "youTubeId": "tYcTPcNla8A",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tYcTPcNla8A"
+      }
+    },
+    {
+      "id": "2563fd8a-b46c-43c3-ae2f-74d1d25e9d41",
+      "title": "Katie Kinley Wrote 1930 Was the Year of the Vision",
+      "release": "2024-07-19T22:00:09Z",
+      "duration": "00:01:01",
+      "explicit": false,
+      "youTubeId": "JIoB_S1Zb-Y",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JIoB_S1Zb-Y"
+      }
+    },
+    {
       "id": "65068985-0d29-423e-ae19-f676abfc77de",
       "title": "IDMR Headquarters Announces Memorial Service for Dr. Aaron Bryant",
       "release": "2024-07-07T00:05:05Z",

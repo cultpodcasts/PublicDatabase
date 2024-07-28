@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "e47f28ed-f545-4a17-a8e2-bf069e67a5ce",
+  "name": "Foo Fighters",
+  "youTubeChannelId": "UCi2KNss4Yx73NG0JARSFe0A",
+  "episodes": [
+    {
+      "id": "42459d7b-2f8d-4045-a330-5e83e2477e8b",
+      "title": "Foo Fighters - Keepin it Clean in KC",
+      "description": "On Aug. 30th, 2011 Westboro Baptist Church called for a picket of the Foo Fighters show in Kansas City. We had a little something up our sleeve. God Bless America.",
+      "release": "2011-09-18T00:00:23Z",
+      "duration": "00:04:49",
+      "explicit": false,
+      "youTubeId": "6e5hRLbCaCs",
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6e5hRLbCaCs"
+      }
+    }
+  ]
+}
