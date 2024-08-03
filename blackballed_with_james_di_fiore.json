@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCkXl_d--yg89cUP8ZLNBlIw",
   "episodes": [
     {
+      "id": "ff80943d-93b7-4f32-88f1-9a3dfa4fa72c",
+      "title": "Blackballed Rewind: Damian Hastie on the Plymouth Brethren",
+      "description": "Damian Hastie is one of the world\u0027s best researchers when it comes to the business and political activities of the Plymouth Brethren Christian Church. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-07-28T16:45:48Z",
+      "duration": "00:58:41.7760000",
+      "explicit": false,
+      "spotifyId": "7spdFZ36CtKoVMj6LUIBlO",
+      "appleId": 1000663597493,
+      "youTubeId": "Q_i_rCvaFx4",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7spdFZ36CtKoVMj6LUIBlO",
+        "apple": "https://podcasts.apple.com/podcast/damian-hastie-researches-the-business-activities/id1569093583?i=1000663597493",
+        "youtube": "https://www.youtube.com/watch?v=Q_i_rCvaFx4"
+      }
+    },
+    {
       "id": "20878363-4d8d-4ff6-ae48-6521f6250ec2",
       "title": "Plymouth Brethren Christian Church survivor Heidi McCamley",
       "description": "Heidi McCamley had the fortitude to fight back against her abusive husband. She just left the cult known as the Plymouth Brethren Christian Church and is currently waiting for her ex husband to go on trial for the horrendous abuse he delivered to Heidi.   This is her story.  Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -49,12 +68,14 @@
       "explicit": false,
       "spotifyId": "5zmnkhBxpXL6kvuCXNEB1A",
       "appleId": 1000594550048,
+      "youTubeId": "W5W4Xd9g6yc",
       "subjects": [
         "Plymouth Brethren Christian Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5zmnkhBxpXL6kvuCXNEB1A",
-        "apple": "https://podcasts.apple.com/podcast/terri-smith-isnt-a-member-of-the/id1569093583?i=1000594550048"
+        "apple": "https://podcasts.apple.com/podcast/terri-smith-isnt-a-member-of-the/id1569093583?i=1000594550048",
+        "youtube": "https://www.youtube.com/watch?v=W5W4Xd9g6yc"
       }
     },
     {

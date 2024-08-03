@@ -4,7 +4,64 @@
   "name": "Welcome to the World",
   "spotifyId": "5nQQWDPh7LD6Ckw3ClqrDo",
   "appleId": 1753610926,
+  "youTubeChannelId": "UCJGX-MtVnMcp7vQeL4O6-iA",
   "episodes": [
+    {
+      "id": "e342dd53-b07f-467d-9009-1b1d2415276e",
+      "title": "#15 Pt1: Imagining what a loving god might actually look like",
+      "description": "How many times have we heard that \u0022God is love\u0022? In this episode we challenge that idea. In part 1, we spend some time breaking down challenging that claim based on what we know about god from the bible. In part 2, we will spend some time thinking about what a loving god might actually look like and play with the idea of what life might be like if we allowed ourselves to procede \u0022as if\u0022 such a loving being exists",
+      "release": "2024-08-02T08:26:00Z",
+      "duration": "00:13:32",
+      "explicit": false,
+      "spotifyId": "5mW1jujRKFBvtx00JPpvf3",
+      "appleId": 1000664113599,
+      "youTubeId": "01iFvzP_soA",
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5mW1jujRKFBvtx00JPpvf3",
+        "apple": "https://podcasts.apple.com/podcast/15-pt1-imagining-what-a-loving-god-might-actually-look-like/id1753610926?i=1000664113599",
+        "youtube": "https://www.youtube.com/watch?v=01iFvzP_soA"
+      }
+    },
+    {
+      "id": "a50f0d41-c92f-4fb6-bb3e-490ee3efe47a",
+      "title": "#14 Pt 2: Changing how we talk to ourselves (How to do it)",
+      "description": "(This is part 2 of this episode) Most of us carry some version of the harsh inner critic. And why wouldn\u0027t we? All we have been told by the org is that we have been born bad, we can never do enough and that kindness from god is \u0022undeserved\u0022. This abusive voice tends to dominate, interfering with our ability thrive and enjoy our lives. In this episode, we explore the nature of this voice, and what we can do to empower ourselves, restore the balance and create more harmony in our own minds",
+      "release": "2024-07-28T09:00:00Z",
+      "duration": "00:15:22.4890000",
+      "explicit": false,
+      "spotifyId": "5sSJ9ZpsxXH5kP4t0cpqpF",
+      "appleId": 1000663568490,
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5sSJ9ZpsxXH5kP4t0cpqpF",
+        "apple": "https://podcasts.apple.com/podcast/14-pt-2-changing-how-we-talk-to-ourselves-how-to-do-it/id1753610926?i=1000663568490"
+      }
+    },
+    {
+      "id": "0edd530a-f83f-48d4-8f29-8882383c9e5a",
+      "title": "#13 Pt 1: Changing how we talk to ourselves",
+      "description": "Most of us carry some version of the harsh inner critic. And why wouldn\u0027t we? All we have been told by the org is that we have been born bad, we can never do enough and that kindness from god is \u0022undeserved\u0022. This abusive voice tends to dominate, interfering with our ability thrive and enjoy our lives. In this episode, we explore the nature of this voice, and what we can do to empower ourselves, restore the balance and create more harmony in our own minds",
+      "release": "2024-07-22T08:45:00Z",
+      "duration": "00:19:12.4080000",
+      "explicit": false,
+      "spotifyId": "3le6LwaUJJ1IRagUML5Z3q",
+      "appleId": 1000662959990,
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3le6LwaUJJ1IRagUML5Z3q",
+        "apple": "https://podcasts.apple.com/podcast/13-pt-1-changing-how-we-talk-to-ourselves/id1753610926?i=1000662959990"
+      }
+    },
     {
       "id": "a513b17c-6671-4054-9f4a-c11fe82b7bfa",
       "title": "#12 Fear of Falling Prey to Another Cult or Group",
@@ -14,12 +71,55 @@
       "explicit": false,
       "spotifyId": "7sYGc4fWUYW3p46CqlIb9P",
       "appleId": 1000662716518,
+      "youTubeId": "Xk8S26OXX_w",
       "subjects": [
+        "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7sYGc4fWUYW3p46CqlIb9P",
-        "apple": "https://podcasts.apple.com/podcast/12-fear-of-falling-prey-to-another-cult-or-group/id1753610926?i=1000662716518"
+        "apple": "https://podcasts.apple.com/podcast/12-fear-of-falling-prey-to-another-cult-or-group/id1753610926?i=1000662716518",
+        "youtube": "https://www.youtube.com/watch?v=Xk8S26OXX_w"
+      }
+    },
+    {
+      "id": "47157a25-8a6b-4662-90df-6c5e15d6bd37",
+      "title": "#11 Pt2: Keeping or Cutting Family and Friends",
+      "description": "Loss of family and friends is one of the most painful aspects of leaving the org. Most of us will do anything in order to maintain those ties. But sometimes the lengths we go to keep those connections does us more harm than good. In this episode, we explore whether these ties are worth cutting or keeping, and how we might go about severing these connections if we decide that is in our best interest",
+      "release": "2024-07-15T08:00:00Z",
+      "duration": "00:24:12.2020000",
+      "explicit": false,
+      "spotifyId": "6uvEg8ctkieFeD1i1Fpt6y",
+      "appleId": 1000662268193,
+      "youTubeId": "4xs8OiBdLk0",
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6uvEg8ctkieFeD1i1Fpt6y",
+        "apple": "https://podcasts.apple.com/podcast/11-pt2-keeping-or-cutting-family-and-friends/id1753610926?i=1000662268193",
+        "youtube": "https://www.youtube.com/watch?v=4xs8OiBdLk0"
+      }
+    },
+    {
+      "id": "3f1f6d07-bf5a-4663-9c0a-40c74afd231c",
+      "title": "#10 Pt1: Keeping or Cutting Family and Friends",
+      "description": "Loss of family and friends is one of the most painful aspects of leaving the org. Most of us will do anything in order to maintain those ties. But sometimes the lengths we go to keep those connections does us more harm than good. In this episode, we explore whether these ties are worth cutting or keeping, and how we might go about severing these connections if we decide that is in our best interest",
+      "release": "2024-07-12T08:00:00Z",
+      "duration": "00:16:39.2450000",
+      "explicit": false,
+      "spotifyId": "1jLLneGbRuFquuhVhpXJEZ",
+      "appleId": 1000662004389,
+      "youTubeId": "Atiqx0Ek4Y0",
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1jLLneGbRuFquuhVhpXJEZ",
+        "apple": "https://podcasts.apple.com/podcast/10-pt1-keeping-or-cutting-family-and-friends/id1753610926?i=1000662004389",
+        "youtube": "https://www.youtube.com/watch?v=Atiqx0Ek4Y0"
       }
     },
     {
@@ -31,13 +131,15 @@
       "explicit": false,
       "spotifyId": "6c0ybAZKms9jUeL8TUbrup",
       "appleId": 1000661513478,
+      "youTubeId": "n2MDsDofLgQ",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6c0ybAZKms9jUeL8TUbrup",
-        "apple": "https://podcasts.apple.com/podcast/9-keeping-the-faith-not-the-religious-kind/id1753610926?i=1000661513478"
+        "apple": "https://podcasts.apple.com/podcast/9-keeping-the-faith-not-the-religious-kind/id1753610926?i=1000661513478",
+        "youtube": "https://www.youtube.com/watch?v=n2MDsDofLgQ"
       }
     },
     {
@@ -49,13 +151,15 @@
       "explicit": false,
       "spotifyId": "6UZ17XKzm4AHXPyXuniVI2",
       "appleId": 1000661190624,
+      "youTubeId": "TKwRLdKmsNU",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6UZ17XKzm4AHXPyXuniVI2",
-        "apple": "https://podcasts.apple.com/podcast/8-why-its-so-hard-to-wake-them-up-and-some-ideas-if/id1753610926?i=1000661190624"
+        "apple": "https://podcasts.apple.com/podcast/8-why-its-so-hard-to-wake-them-up-and-some-ideas-if/id1753610926?i=1000661190624",
+        "youtube": "https://www.youtube.com/watch?v=TKwRLdKmsNU"
       }
     },
     {
@@ -67,13 +171,15 @@
       "explicit": false,
       "spotifyId": "2Sni3efLVVz9TxxJI8pTjR",
       "appleId": 1000660730933,
+      "youTubeId": "djSUATJHifs",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Sni3efLVVz9TxxJI8pTjR",
-        "apple": "https://podcasts.apple.com/podcast/7-you-are-not-broken/id1753610926?i=1000660730933"
+        "apple": "https://podcasts.apple.com/podcast/7-you-are-not-broken/id1753610926?i=1000660730933",
+        "youtube": "https://www.youtube.com/watch?v=djSUATJHifs"
       }
     },
     {
@@ -85,13 +191,15 @@
       "explicit": false,
       "spotifyId": "0hQIoFQpVC7WXHaEfrlobS",
       "appleId": 1000659990803,
+      "youTubeId": "lLEKGAkvi1Y",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0hQIoFQpVC7WXHaEfrlobS",
-        "apple": "https://podcasts.apple.com/podcast/6-pt2-breaking-free-from-black-and-white-thinking/id1753610926?i=1000659990803"
+        "apple": "https://podcasts.apple.com/podcast/6-pt2-breaking-free-from-black-and-white-thinking/id1753610926?i=1000659990803",
+        "youtube": "https://www.youtube.com/watch?v=lLEKGAkvi1Y"
       }
     },
     {
@@ -103,13 +211,15 @@
       "explicit": false,
       "spotifyId": "6GCVdWNTx6MVx4vWlQgk1u",
       "appleId": 1000659987938,
+      "youTubeId": "0iZ-AxeEvQQ",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6GCVdWNTx6MVx4vWlQgk1u",
-        "apple": "https://podcasts.apple.com/podcast/5-pt1-breaking-free-from-black-and-white-thinking/id1753610926?i=1000659987938"
+        "apple": "https://podcasts.apple.com/podcast/5-pt1-breaking-free-from-black-and-white-thinking/id1753610926?i=1000659987938",
+        "youtube": "https://www.youtube.com/watch?v=0iZ-AxeEvQQ"
       }
     },
     {
@@ -121,13 +231,15 @@
       "explicit": false,
       "spotifyId": "2gFxKh4jak70iTOFHu5x0f",
       "appleId": 1000659988123,
+      "youTubeId": "JCBRbfvWAL8",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2gFxKh4jak70iTOFHu5x0f",
-        "apple": "https://podcasts.apple.com/podcast/4-pt2-learning-to-trust-your-treacherous-heart/id1753610926?i=1000659988123"
+        "apple": "https://podcasts.apple.com/podcast/4-pt2-learning-to-trust-your-treacherous-heart/id1753610926?i=1000659988123",
+        "youtube": "https://www.youtube.com/watch?v=JCBRbfvWAL8"
       }
     },
     {
@@ -139,13 +251,15 @@
       "explicit": false,
       "spotifyId": "2dpHHkNxU2iDB3SGhEigqb",
       "appleId": 1000659988107,
+      "youTubeId": "8GqgVH5dEZ0",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2dpHHkNxU2iDB3SGhEigqb",
-        "apple": "https://podcasts.apple.com/podcast/3-pt1-learning-to-trust-your-treacherous-heart/id1753610926?i=1000659988107"
+        "apple": "https://podcasts.apple.com/podcast/3-pt1-learning-to-trust-your-treacherous-heart/id1753610926?i=1000659988107",
+        "youtube": "https://www.youtube.com/watch?v=8GqgVH5dEZ0"
       }
     },
     {
@@ -157,13 +271,15 @@
       "explicit": false,
       "spotifyId": "1bWywF6OAdM9hyvTpz6czy",
       "appleId": 1000659987995,
+      "youTubeId": "vHj2RNbQfWI",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1bWywF6OAdM9hyvTpz6czy",
-        "apple": "https://podcasts.apple.com/podcast/2-pt2-im-out-now-what-5-essential-tasks-for-moving-on/id1753610926?i=1000659987995"
+        "apple": "https://podcasts.apple.com/podcast/2-pt2-im-out-now-what-5-essential-tasks-for-moving-on/id1753610926?i=1000659987995",
+        "youtube": "https://www.youtube.com/watch?v=vHj2RNbQfWI"
       }
     },
     {
@@ -175,13 +291,15 @@
       "explicit": false,
       "spotifyId": "0DsOnwik7QOpmWd2Ry7rJD",
       "appleId": 1000659985137,
+      "youTubeId": "LrNHsap_73c",
       "subjects": [
         "Jehovah\u0027s Witnesses",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0DsOnwik7QOpmWd2Ry7rJD",
-        "apple": "https://podcasts.apple.com/podcast/1-pt1-im-out-now-what-5-essential-tasks-for-moving-on/id1753610926?i=1000659985137"
+        "apple": "https://podcasts.apple.com/podcast/1-pt1-im-out-now-what-5-essential-tasks-for-moving-on/id1753610926?i=1000659985137",
+        "youtube": "https://www.youtube.com/watch?v=LrNHsap_73c"
       }
     }
   ]

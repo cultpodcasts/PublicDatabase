@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8ff8dbe4-e2f5-4bbd-9745-e662ba77f3f9",
+  "name": "The Pause Production with Felicia Bolton",
+  "spotifyId": "55NlfnAL88SCLVZafqsBeW",
+  "appleId": 1747658619,
+  "episodes": [
+    {
+      "id": "f17fc75b-5d71-47ef-87df-8e47c4bd62ba",
+      "title": "Breaking Free: Isami Daehn\u0027s Journey from Cult Survivor to Human Trafficking Activist",
+      "description": "**Trigger Warning:** This episode discusses themes of religious manipulation, familial abuse, and trauma that may be distressing to some listeners. In this episode of \u0022The Pause Production,\u0022 host Felicia Bolton delves into the compelling story of Isami Daehn. A survivor of a cult, Isami\u0027s early life was marked by severe trauma at the hands of her parents, who used religion as a tool for control and abuse. Despite these harrowing experiences, she has emerged as a powerful voice in the fight against human trafficking and a content creator with a substantial following.",
+      "release": "2024-08-02T10:55:58Z",
+      "duration": "01:03:42.3410000",
+      "explicit": true,
+      "spotifyId": "5K0RVkYF4xzn2Vhv8unSmM",
+      "appleId": 1000664127465,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5K0RVkYF4xzn2Vhv8unSmM",
+        "apple": "https://podcasts.apple.com/podcast/breaking-free-isami-daehns-journey-from-cult-survivor/id1747658619?i=1000664127465"
+      }
+    }
+  ]
+}

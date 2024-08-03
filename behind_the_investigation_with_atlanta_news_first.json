@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "d3c3c2da-9b19-4e7e-8b25-ec6ebca8ef30",
+  "name": "Behind the Investigation with Atlanta News First",
+  "spotifyId": "6QyfLYopA2xyetNo6YhMGw",
+  "appleId": 1686168598,
+  "episodes": [
+    {
+      "id": "977a3fff-1bb5-40b6-af48-90785222ff6d",
+      "title": "Squatters linked to polygamist sex group Carbon Nation evicted from metro home | Behind the Investigation",
+      "description": "A group of alleged squatters identified by viewers of a recent Atlanta News First investigation as members of a polygamist group have been evicted from the DeKalb County house in which they were residing. Viewers claimed at least two of the squatters are associated with a polygamist group known as Carbon Nation , which DeKalb County prosecutors refer to as a sex cult. Its leader, Eligio Bishop , went on trial in February 2024 for false imprisonment, rape and posting a revenge porn video online. After a jury found Bishop guilty, he was sentenced to life in prison. After the sentencing, a group of squatters began occupying a Tucker, Georgia, home. The house is a rental property owned and managed by Sylvan Homes. Sources told Atlanta News First Investigates the squatters changed the locks and used a fraudulent lease to turn on water service. Read the full stories here: https://www.atlantanewsfirst.com/2024/07/16/squatters-linked-polygamist-sex-group-carbon-nation-evicted-tucker-home/ and here: https://www.atlantanewsfirst.com/2024/07/10/metro-couple-says-new-neighbors-donning-ski-masks-may-be-squatters/",
+      "release": "2024-08-01T20:00:00Z",
+      "duration": "00:16:39.6010000",
+      "explicit": false,
+      "spotifyId": "0ZCR3hl4gmLjKPnfFCCHvJ",
+      "appleId": 1000664068104,
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ZCR3hl4gmLjKPnfFCCHvJ",
+        "apple": "https://podcasts.apple.com/podcast/squatters-linked-to-polygamist-sex-group-carbon-nation/id1686168598?i=1000664068104"
+      }
+    }
+  ]
+}

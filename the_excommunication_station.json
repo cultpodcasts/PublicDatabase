@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "8a09af99-c970-40ad-9e36-03360de8dd5d",
+      "title": "165: 3rd Grade Christian Science Part II",
+      "description": "This week we complete our dissection of the Bob Jones 3rd Grade Science Text book. Things continue to unravel.",
+      "release": "2024-07-31T05:00:00Z",
+      "duration": "02:11:23.0240000",
+      "explicit": false,
+      "spotifyId": "1rgNtb9Mxasopb6jKn3Low",
+      "appleId": 1000663882664,
+      "subjects": [
+        "Christian Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1rgNtb9Mxasopb6jKn3Low",
+        "apple": "https://podcasts.apple.com/podcast/165-3rd-grade-christian-science-part-ii/id1573190999?i=1000663882664"
+      }
+    },
+    {
       "id": "e9502cd1-770f-4605-b865-cc7f7bfebf20",
       "title": "164: 3rd Grade Christian Science Part I",
       "description": "This week we dive into the manipulative and down right ridiculous Bob Jones 3rd Grade Science text book. Get ready for some learning.",

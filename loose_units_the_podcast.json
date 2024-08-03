@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "10f5b7ee-8272-42d7-8724-38e67553f738",
+  "name": "Loose Units: The Podcast",
+  "spotifyId": "1RFXhtQfY0BpQAyyTRZ1Hk",
+  "appleId": 1445344726,
+  "episodes": [
+    {
+      "id": "08bb38f7-c1c6-4d22-8067-5648e14ed367",
+      "title": "The Vow - Part Two",
+      "description": "Paul and John continue their recap of The Vow, looking at episodes 4, 5 and 6, and delving further into the sinister mind of the leader of this cult. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-07-30T00:33:58Z",
+      "duration": "00:49:25.0020000",
+      "explicit": true,
+      "spotifyId": "6Eo2Q9tyBBWcoCag6ZOjjA",
+      "appleId": 1000663739579,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Eo2Q9tyBBWcoCag6ZOjjA",
+        "apple": "https://podcasts.apple.com/podcast/the-vow-part-two/id1445344726?i=1000663739579"
+      }
+    }
+  ]
+}

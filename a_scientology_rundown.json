@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCXiTVU8Ri-Ru3GUjiwjnAGQ",
   "episodes": [
     {
+      "id": "296fa40f-4e4d-445a-a38f-4a0916ac69e9",
+      "title": "just talking - protest last weekend",
+      "description": "A quick talk about how my first protest went. Last weekend in Copenhagen.",
+      "release": "2024-08-03T10:02:49Z",
+      "duration": "00:15:57",
+      "explicit": false,
+      "youTubeId": "cr2-ovM4Cn4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=cr2-ovM4Cn4"
+      }
+    },
+    {
       "id": "67ee6999-39cd-49de-85b4-91a6c8795604",
       "title": "Just checking in",
       "description": "Let\u0027s try out this live streaming thing..",

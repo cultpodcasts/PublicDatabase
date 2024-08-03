@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "46d6ffde-1d7a-4640-8afe-b57bb3d5baec",
+  "name": "Trial Tested",
+  "spotifyId": "3FCoN96obZZIckcYzWviYe",
+  "appleId": 1587380898,
+  "episodes": [
+    {
+      "id": "7f2bc2d8-e478-4ef8-a20a-d54613b35daf",
+      "title": "S9E4: Stay the Course: Wisdom and Counsel from Criminal Defense Attorney Dick DeGuerin",
+      "description": "Criminal defense attorney Dick DeGuerin has defended members of Congress, judges, cult leaders and everyone in between. In this episode, DeGuerin joins host Vince Citro and reveals how he came to represent David Koresh and what transpired in Waco, Texas that fateful April of 1993. He also discusses how he avoided becoming labeled a \u201Ccult lawyer\u201D through his high-profile representation of public figures such as U.S. House Majority Leader Tom DeLay and U.S. Senator Kay Bailey Hutchison. Listen in as DeGuerin shares valuable advice for young attorneys and underscores the importance of giving back.",
+      "release": "2024-08-01T11:00:00Z",
+      "duration": "00:51:35.5620000",
+      "explicit": false,
+      "spotifyId": "1WYOjUEF8r5em1xrd8S1Gh",
+      "appleId": 1000664025978,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1WYOjUEF8r5em1xrd8S1Gh",
+        "apple": "https://podcasts.apple.com/podcast/s9e4-stay-the-course-wisdom-and-counsel-from/id1587380898?i=1000664025978"
+      }
+    }
+  ]
+}

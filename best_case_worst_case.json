@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "80de84b8-e24a-47a5-b954-936cca06c109",
+  "name": "Best Case Worst Case",
+  "spotifyId": "2m1vwEKxmz7DhZnInipBqB",
+  "appleId": 1240002929,
+  "episodes": [
+    {
+      "id": "6fd14694-0900-453f-803c-02127e0b3445",
+      "title": "395 | NXIVM Sex Cult Part 1",
+      "description": "Keith Raniere was convicted of terrible offenses, but files shocking motions challenging his conviction and accusing the government of misconduct. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2024-08-02T07:00:00Z",
+      "duration": "00:34:53.1900000",
+      "explicit": false,
+      "spotifyId": "1NxlQtkvNFTF5xIKNcoylo",
+      "appleId": 1000664108864,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1NxlQtkvNFTF5xIKNcoylo",
+        "apple": "https://podcasts.apple.com/podcast/395-nxivm-sex-cult-part-1/id1240002929?i=1000664108864"
+      }
+    }
+  ]
+}

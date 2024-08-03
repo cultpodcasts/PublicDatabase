@@ -428,11 +428,15 @@
       "release": "2024-03-23T01:00:04Z",
       "duration": "00:33:10",
       "explicit": false,
+      "spotifyId": "5xI9hYjfeY4tNmU6ucxyZF",
+      "appleId": 1000663763324,
       "youTubeId": "AhCCUbj5Z7w",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5xI9hYjfeY4tNmU6ucxyZF",
+        "apple": "https://podcasts.apple.com/podcast/evil-idolatry-in-warren-jeffs-flds/id1553176314?i=1000663763324",
         "youtube": "https://www.youtube.com/watch?v=AhCCUbj5Z7w"
       }
     },

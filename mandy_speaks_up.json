@@ -2,6 +2,8 @@
   "_ts": 0,
   "id": "b0256410-30e0-44a2-ae20-ad93f768cc3a",
   "name": "Mandy Speaks Up",
+  "spotifyId": "7i3EkXGt8T0j6DIqOdtnET",
+  "appleId": 1559726592,
   "youTubeChannelId": "UCjONUnkMUZvONQQ_uFM1hig",
   "episodes": [
     {
@@ -26,11 +28,15 @@
       "release": "2023-12-14T14:29:23Z",
       "duration": "01:19:29",
       "explicit": false,
+      "spotifyId": "1L0y4sXBdt2dvHYx9LzVUN",
+      "appleId": 1000638506926,
       "youTubeId": "TO5q13__akM",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1L0y4sXBdt2dvHYx9LzVUN",
+        "apple": "https://podcasts.apple.com/podcast/exposed-walking-away-from-the-potters-house-with-alan-eby/id1559726592?i=1000638506926",
         "youtube": "https://www.youtube.com/watch?v=TO5q13__akM"
       }
     },
@@ -41,11 +47,15 @@
       "release": "2023-05-25T05:29:15Z",
       "duration": "01:15:55",
       "explicit": false,
+      "spotifyId": "6GdAbKdmbc8PTKOJarIlxE",
+      "appleId": 1000614411334,
       "youTubeId": "YE-t7fnVh50",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6GdAbKdmbc8PTKOJarIlxE",
+        "apple": "https://podcasts.apple.com/podcast/i-risked-it-all-and-escaped-christinas-story-living/id1559726592?i=1000614411334",
         "youtube": "https://www.youtube.com/watch?v=YE-t7fnVh50"
       }
     },
@@ -56,11 +66,15 @@
       "release": "2022-12-12T12:40:17Z",
       "duration": "01:10:43",
       "explicit": false,
+      "spotifyId": "5xGuKMpQ9CQ5NMIUGT8dG9",
+      "appleId": 1000589967657,
       "youTubeId": "JfiJfvCFp2E",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5xGuKMpQ9CQ5NMIUGT8dG9",
+        "apple": "https://podcasts.apple.com/podcast/35-yrs-later-juanita-shares-her-story-leaving-the/id1559726592?i=1000589967657",
         "youtube": "https://www.youtube.com/watch?v=JfiJfvCFp2E"
       }
     },
@@ -71,11 +85,15 @@
       "release": "2022-11-14T08:28:34Z",
       "duration": "01:17:18",
       "explicit": false,
+      "spotifyId": "3obtbvRClnrhU8RJTmTXZp",
+      "appleId": 1000586034308,
       "youTubeId": "0Kgg-XuHyrM",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3obtbvRClnrhU8RJTmTXZp",
+        "apple": "https://podcasts.apple.com/podcast/kicked-out-for-being-gay-escaping-the-potters-house/id1559726592?i=1000586034308",
         "youtube": "https://www.youtube.com/watch?v=0Kgg-XuHyrM"
       }
     },
@@ -86,12 +104,16 @@
       "release": "2022-10-25T05:37:44Z",
       "duration": "01:20:39",
       "explicit": false,
+      "spotifyId": "4ftNi8brLi8cjS2otsyFmk",
+      "appleId": 1000584416145,
       "youTubeId": "g19mwO_XAfc",
       "subjects": [
         "Potter\u0027s House Christian Fellowship",
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4ftNi8brLi8cjS2otsyFmk",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-leaders-daughter/id1559726592?i=1000584416145",
         "youtube": "https://www.youtube.com/watch?v=g19mwO_XAfc"
       }
     },
@@ -102,11 +124,15 @@
       "release": "2022-10-04T08:16:35Z",
       "duration": "01:34:23",
       "explicit": false,
+      "spotifyId": "5ZiQj0q5UKNZCc58r0lV8E",
+      "appleId": 1000583970102,
       "youTubeId": "fq__v_emhDk",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5ZiQj0q5UKNZCc58r0lV8E",
+        "apple": "https://podcasts.apple.com/podcast/part-2-healing-after-escaping-the-potters-house-cult/id1559726592?i=1000583970102",
         "youtube": "https://www.youtube.com/watch?v=fq__v_emhDk"
       }
     },
@@ -117,11 +143,15 @@
       "release": "2022-09-13T08:48:41Z",
       "duration": "01:13:38",
       "explicit": false,
+      "spotifyId": "5nnOsLAzQbcQWv2zRQCSHm",
+      "appleId": 1000583970221,
       "youTubeId": "LMgb_gz7kjc",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5nnOsLAzQbcQWv2zRQCSHm",
+        "apple": "https://podcasts.apple.com/podcast/escaping-the-potters-house-cult-w-heather-wiley-part-1/id1559726592?i=1000583970221",
         "youtube": "https://www.youtube.com/watch?v=LMgb_gz7kjc"
       }
     }
