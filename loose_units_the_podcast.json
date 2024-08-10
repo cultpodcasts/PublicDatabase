@@ -6,6 +6,23 @@
   "appleId": 1445344726,
   "episodes": [
     {
+      "id": "9cfc71c4-f414-481c-8f41-b239a6ed7bbe",
+      "title": "The Vow - Part Three",
+      "description": "John and Paul round out their three-part recap of The Vow season one, and discuss whether there\u0027s a Nexium cult equivalent operating in plain sight right now. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-08-05T20:00:11Z",
+      "duration": "00:38:13.7600000",
+      "explicit": true,
+      "spotifyId": "2qFQOc0eCplRHA6eoZZHdf",
+      "appleId": 1000664407760,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2qFQOc0eCplRHA6eoZZHdf",
+        "apple": "https://podcasts.apple.com/podcast/the-vow-part-three/id1445344726?i=1000664407760"
+      }
+    },
+    {
       "id": "08bb38f7-c1c6-4d22-8067-5648e14ed367",
       "title": "The Vow - Part Two",
       "description": "Paul and John continue their recap of The Vow, looking at episodes 4, 5 and 6, and delving further into the sinister mind of the leader of this cult. Hosted on Acast. See acast.com/privacy for more information.",
@@ -20,6 +37,23 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Eo2Q9tyBBWcoCag6ZOjjA",
         "apple": "https://podcasts.apple.com/podcast/the-vow-part-two/id1445344726?i=1000663739579"
+      }
+    },
+    {
+      "id": "9bfacf0e-cb07-411d-9b29-f3825be3f0a9",
+      "title": "The Vow - Part One",
+      "description": "Paul and John begin their multi-episode recap of The Vow, the superb documentary series about the cult that shocked the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-07-22T20:00:32Z",
+      "duration": "00:48:52.6360000",
+      "explicit": true,
+      "spotifyId": "7cn5OyemGZOwggZi3iRc5k",
+      "appleId": 1000663019118,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7cn5OyemGZOwggZi3iRc5k",
+        "apple": "https://podcasts.apple.com/podcast/the-vow-part-one/id1445344726?i=1000663019118"
       }
     }
   ]

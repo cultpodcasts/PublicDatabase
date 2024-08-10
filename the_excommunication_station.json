@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "f2352ff8-8182-4cd5-9267-20133b6a1a06",
+      "title": "166: The Matrix: Red Pilled",
+      "description": "This week we\u0027re joined by Zak from The Escapist Room podcast. We dive deep into how the evangelical work forced a Jesus allegory onto a film about guns and self actualization. https://linktr.ee/excompod",
+      "release": "2024-08-07T04:45:48Z",
+      "duration": "02:36:24.0890000",
+      "explicit": false,
+      "spotifyId": "6TlVnyOUqvKQV3IAzAc4Cx",
+      "appleId": 1000664558289,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6TlVnyOUqvKQV3IAzAc4Cx",
+        "apple": "https://podcasts.apple.com/podcast/166-the-matrix-red-pilled/id1573190999?i=1000664558289"
+      }
+    },
+    {
       "id": "8a09af99-c970-40ad-9e36-03360de8dd5d",
       "title": "165: 3rd Grade Christian Science Part II",
       "description": "This week we complete our dissection of the Bob Jones 3rd Grade Science Text book. Things continue to unravel.",

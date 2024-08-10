@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "10ba7f0e-b75d-417e-adca-6a68bf1179bb",
+  "name": "Sunscreen: Interesting People Telling Stories",
+  "spotifyId": "37k6qCzVTnbx54skURC3tD",
+  "appleId": 1750318373,
+  "episodes": [
+    {
+      "id": "e4e1f09b-9204-4963-a2d5-48c50acdf5ef",
+      "title": "Episode 03 - Joan M",
+      "description": "In this Very Special episode of Sunscreen, Dave talks with his grandmother, Joan. This interview was conducted in 2018 and covers a wide variety of topics: everything from her personal memories of World War 2, to being involved with a cult for a short time, to the undeniably awesome stories of Dave\u0027s birth. Joan passed on June 29th 2024,and I figured this would be a great way to remember her and her experiences.",
+      "release": "2024-08-09T10:00:00Z",
+      "duration": "01:33:21.0710000",
+      "explicit": false,
+      "spotifyId": "37dudetLfJfTWDpz0vt9WY",
+      "appleId": 1000664810997,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37dudetLfJfTWDpz0vt9WY",
+        "apple": "https://podcasts.apple.com/podcast/episode-03-joan-m/id1750318373?i=1000664810997"
+      }
+    }
+  ]
+}

@@ -15,13 +15,15 @@
       "explicit": false,
       "spotifyId": "3tzXrnDfeSge0vklmxN2mH",
       "appleId": 1000664237041,
+      "youTubeId": "i5PvWKqfo94",
       "subjects": [
         "Cult Recovery",
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3tzXrnDfeSge0vklmxN2mH",
-        "apple": "https://podcasts.apple.com/us/podcast/reimagining-faith-karl-laura-forehands-journey-from/id1744145655?i=1000664237041"
+        "apple": "https://podcasts.apple.com/podcast/reimagining-faith-karl-laura-forehands-journey-from/id1744145655?i=1000664237041",
+        "youtube": "https://www.youtube.com/watch?v=i5PvWKqfo94"
       }
     },
     {

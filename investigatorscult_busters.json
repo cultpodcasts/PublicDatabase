@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "384fcf9e-6d61-4507-ba96-bba39bd32049",
+      "title": "IDMR on Jerry Springer Show",
+      "release": "2024-08-10T13:00:24Z",
+      "duration": "00:00:57",
+      "explicit": false,
+      "youTubeId": "FJGEHgStSDA",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=FJGEHgStSDA"
+      }
+    },
+    {
       "id": "469ccd39-3f49-4ee4-9a4f-0d425c84eed0",
       "title": "July 26, 2024",
       "release": "2024-07-26T21:28:16Z",

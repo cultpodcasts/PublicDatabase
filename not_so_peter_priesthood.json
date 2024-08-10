@@ -6,6 +6,23 @@
   "appleId": 1578111551,
   "episodes": [
     {
+      "id": "11f07724-72fc-43b3-9d47-21023cdf9a8b",
+      "title": "138. Mormon Missionary Lore",
+      "description": "This week, Jake and Dusti talk about the weird, funny, and cringey folklore specific to Mormon missionaries. Did sister missionaries actually fill their gas tank with water? Is every mission being infiltrated by the Twelve Apostates? Listen and find out!",
+      "release": "2024-08-07T12:00:36Z",
+      "duration": "00:53:29",
+      "explicit": false,
+      "spotifyId": "56oHJ8Lzs1tPRp3JZ6CZBo",
+      "appleId": 1000664591016,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/56oHJ8Lzs1tPRp3JZ6CZBo",
+        "apple": "https://podcasts.apple.com/us/podcast/138-mormon-missionary-lore/id1578111551?i=1000664591016"
+      }
+    },
+    {
       "id": "1c3ee0d2-984e-4cca-9062-a9c07ea0662f",
       "title": "137. Rameumptom? More Like Ram Me Up Him",
       "description": "Jake gives Dusti a lesson straight from the Mormon lesson manual about Alma, Korihor, the Zoramites, and a funny little thing called the Rameumptom. This isn\u0027t your Mom\u0027s Sunday School lesson though. Jake has added a little twist to it. Listen to find out!",

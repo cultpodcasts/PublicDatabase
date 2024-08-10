@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "f76298b0-58ec-45a5-803f-ec980f5f7c12",
+  "name": "Theron Q Ramacharaka YouTube",
+  "youTubeChannelId": "UCqSAC7ImmO-kdVOM1OcDocw",
+  "episodes": [
+    {
+      "id": "a9cb9104-e55f-44e6-82be-1eb5c994bf62",
+      "title": "BORN INTO THE DAMNED PLYMOUTH BRETHREN CULT -- WHAT WERE THE PEOPLE LIKE?",
+      "description": "#selfimprovement #youtube #foryou #channel",
+      "release": "2024-08-06T11:00:20Z",
+      "duration": "00:34:33",
+      "explicit": false,
+      "youTubeId": "acFsvWKVXXo",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=acFsvWKVXXo"
+      }
+    },
+    {
+      "id": "d5d946d4-8639-4033-8dfc-0897a808a76a",
+      "title": "GROWING UP IN THE NASTY ASS PLYMOUTH BRETHREN CULT",
+      "description": "#selfimprovement #youtube #foryou #channel",
+      "release": "2024-08-05T13:50:46Z",
+      "duration": "00:25:23",
+      "explicit": false,
+      "youTubeId": "p1uCG_U7WOQ",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=p1uCG_U7WOQ"
+      }
+    }
+  ]
+}
