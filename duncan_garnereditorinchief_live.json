@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "5cfc8592-b377-45ae-b881-512ef296ec9b",
+  "name": "Duncan Garner - Editor-In-Chief: Live",
+  "spotifyId": "7DVb6waNtM4GyeBjd7wXOY",
+  "appleId": 1686305845,
+  "youTubeChannelId": "UCSypyI8wbnZgJDYY0VCdwJQ",
+  "episodes": [
+    {
+      "id": "d4dc8308-3964-4e25-924f-38591f8a7ddf",
+      "title": "The Cults of New Zealand - 16th August 2024",
+      "description": "From Centrepoint to Gloriavale, some of our most notorious cults will be in the spotlight at \u2018Decult\u2019 - Australasia\u0027s first cult awareness conference, taking place in Christchurch later this year. Experts and survivors will share their stories of life inside these cults and their journey after leaving them. We speak to the investigative journalist and author behind it all - Anke Richter",
+      "release": "2024-08-15T20:16:24Z",
+      "duration": "00:11:48",
+      "explicit": false,
+      "spotifyId": "29Fimu8njnY4ALp8IzlFc2",
+      "appleId": 1000665502609,
+      "youTubeId": "cfUwsNPPIYc",
+      "subjects": [
+        "Gloriavale",
+        "Centrepoint",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/29Fimu8njnY4ALp8IzlFc2",
+        "apple": "https://podcasts.apple.com/podcast/the-cults-of-new-zealand-16th-august-2024/id1686305845?i=1000665502609",
+        "youtube": "https://www.youtube.com/watch?v=cfUwsNPPIYc"
+      }
+    }
+  ]
+}

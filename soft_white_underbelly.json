@@ -2,9 +2,23 @@
   "_ts": 0,
   "id": "5c691313-094b-4aad-9c22-27f9cbb2ee08",
   "name": "Soft White Underbelly",
-  "spotifyId": "4ddjrtRRD9PuPuR3Az15FX",
   "youTubeChannelId": "UCCvcd0FYi58LwyTQP9LITpA",
   "episodes": [
+    {
+      "id": "108fa3d5-710d-4265-8789-d984d53d7c26",
+      "title": "My Life In a Cult - Anette",
+      "description": "Soft White Underbelly interview and portrait of Anette, a survivor of a cult in Connecticut.\n\nFor ad-free, uncensored videos and plenty of exclusive content please subscribe to the Soft White Underbelly subscription channel at https://softwhiteunderbelly.com. It\u0027s $10 a month and watchable on Apple and Android mobile apps, Roku TV, Apple TV and Amazon Fire. \n\nHere\u0027s how to purchase the Soft White Underbelly book \u0026 merchandise: https://softwhiteunderbelly.org.\n\n#swu #softwhiteunderbelly #culture #marklaita #interview #documentary #survivorstory #reallifestory #mentalhealthmatters #traumarecovery",
+      "release": "2024-08-10T10:00:53Z",
+      "duration": "00:23:17",
+      "explicit": false,
+      "youTubeId": "xJepAyem6qk",
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xJepAyem6qk"
+      }
+    },
     {
       "id": "877107b5-fb67-461d-8cf7-6527bcc9159b",
       "title": "Shunned Amish Woman interview-Mary",

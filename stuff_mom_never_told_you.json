@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "f1ff8d92-7543-4aae-a905-9c92747d838e",
+  "name": "Stuff Mom Never Told You",
+  "spotifyId": "4NCKwo83Wl9CGRZsL9GnzR",
+  "appleId": 304531053,
+  "episodes": [
+    {
+      "id": "b228b63b-0c9f-45d1-a012-1a952a2398a2",
+      "title": "Book Club: Cult Girls",
+      "description": "The 2022 graphic novel Cult Girls written by Natalie Grand and illustrated by Cassandra Bolan tackled the author\u0027s experience with a patriarchal, suppressive religion and breaking free from it. See omnystudio.com/listener for privacy information.",
+      "release": "2024-08-14T21:09:45Z",
+      "duration": "00:52:06.0210000",
+      "explicit": false,
+      "spotifyId": "00KXnJ2JtyYJ08GQ9yy2vv",
+      "appleId": 1000665372615,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/00KXnJ2JtyYJ08GQ9yy2vv",
+        "apple": "https://podcasts.apple.com/podcast/book-club-cult-girls/id304531053?i=1000665372615"
+      }
+    }
+  ]
+}

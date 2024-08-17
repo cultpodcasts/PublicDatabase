@@ -115,6 +115,11 @@
       "explicit": true,
       "spotifyId": "7hekstnBGP9kEo2D2qQ645",
       "appleId": 1000553486292,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hekstnBGP9kEo2D2qQ645",
         "apple": "https://podcasts.apple.com/podcast/10-cult-expert-dr-janja-lalich-on-how-we-became-the/id1599860304?i=1000553486292"

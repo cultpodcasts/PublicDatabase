@@ -1,0 +1,45 @@
+{
+  "_ts": 0,
+  "id": "ccd34412-f40e-47a3-b3c8-9cb841409793",
+  "name": "Honey Jam Podcast",
+  "spotifyId": "0PGMzUFCLvgNbyCvFBwPJb",
+  "appleId": 1741593134,
+  "youTubeChannelId": "UCyqSzG41EMmzxR8K1MHNYOg",
+  "episodes": [
+    {
+      "id": "9b2ae6fd-375c-4cff-8ce4-a09619e40aa0",
+      "title": "Ep. #15: White Chicks Impressions, Xanga Coder, and How We Almost Joined a Cult ",
+      "description": "Janice and Jessica are joined with Honey Jam\u0027s very own art director and designer, Jane Kim! Jane is a woman of many talents and we know you will fall in love with her charm too. \u0026#x1f36f;\u0026#x1f497; Hosted By Janice Jeong and Jessica Shin Follow Janice: \u2060\u2060\u2060 Instagram: haitsjanice\u2060\u2060\u2060 TikTok: haitsjanice / jessocean Podcast Artwork by: Jane Kim",
+      "release": "2024-08-13T13:00:00Z",
+      "duration": "00:51:07.9360000",
+      "explicit": false,
+      "spotifyId": "3bG0uEv04loKefW56dsc6p",
+      "appleId": 1000665148233,
+      "youTubeId": "wnBUzBiXJnw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3bG0uEv04loKefW56dsc6p",
+        "apple": "https://podcasts.apple.com/podcast/ep-15-white-chicks-impressions-xanga-coder-and-how-we/id1741593134?i=1000665148233",
+        "youtube": "https://www.youtube.com/watch?v=wnBUzBiXJnw"
+      }
+    },
+    {
+      "id": "e57670a0-3550-430e-b952-5f01367729b6",
+      "title": "Ep. #8: Cults, Millennial Tings, and Icks",
+      "description": "Janice and Jessica catch up on the latest Netflix cult documentary \u0022Dancing for the Devil\u0022, talk about how OLD they are now, and look through \u0022ick\u0022 submissions from the listeners. Follow along and listen to their \u201Choney jam\u201D stories every Tuesday! \u0026#x1f36f;\u0026#x1f497; Hosted By Janice Jeong and Jessica Shin Follow Janice: \u2060\u2060\u2060 Instagram: haitsjanice\u2060\u2060\u2060 TikTok: haitsjanice / jessocean Podcast Artwork by: Jane Kim",
+      "release": "2024-06-11T15:51:15Z",
+      "duration": "00:45:22.7710000",
+      "explicit": true,
+      "spotifyId": "6Seos3HJjyQ9XcvDexcVc4",
+      "appleId": 1000658664997,
+      "youTubeId": "wwP89Mr48AU",
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Seos3HJjyQ9XcvDexcVc4",
+        "apple": "https://podcasts.apple.com/podcast/ep-8-cults-millennial-tings-and-icks/id1741593134?i=1000658664997",
+        "youtube": "https://www.youtube.com/watch?v=wwP89Mr48AU"
+      }
+    }
+  ]
+}

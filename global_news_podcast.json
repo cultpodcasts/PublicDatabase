@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "fa05814c-d75e-45c6-9a70-54c2786ed886",
+  "name": "BBC Global News Podcast",
+  "spotifyId": "3wBfqov60qDZbEVjPHo0a8",
+  "episodes": [
+    {
+      "id": "87955068-988c-4913-840a-b9f43d31c301",
+      "title": "The leader of a Kenyan cult goes on trial for manslaughter over the deaths of more than four hundred of his followers",
+      "release": "2024-08-12T00:00:00",
+      "duration": "00:31:51.9350000",
+      "explicit": false,
+      "spotifyId": "4BRr8RhrC3txVrXrr9Uvki",
+      "appleId": 1000665041423,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4BRr8RhrC3txVrXrr9Uvki",
+        "apple": "https://podcasts.apple.com/podcast/president-putin-says-russia-will-respond-to-the/id135067274?i=1000665041423"
+      }
+    }
+  ]
+}
