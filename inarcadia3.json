@@ -1,0 +1,40 @@
+{
+  "_ts": 0,
+  "id": "5dbbd8a6-8250-43b4-aea3-4661c95526ea",
+  "name": "inarcadia3",
+  "youTubeChannelId": "UCxvhl4ZP3EBjFp3L6kmR0NQ",
+  "episodes": [
+    {
+      "id": "878678cb-4ed5-4775-922c-46f187afacaa",
+      "title": "Investigation into the Legionaries of Christ- Part II",
+      "description": "(Cheshire-WTNH, May 13, 2002 11:30 PM ) _ Tonight, a Team 8 investigation into charges of abuse by priests in a world wide Catholic, the Legion of Christ, order with a U.S. base right here in Connecticut. The Legionaries of Christ have a seminary in Cheshire.",
+      "release": "2008-04-13T02:45:36Z",
+      "duration": "00:05:12",
+      "explicit": false,
+      "youTubeId": "llpSj3LFywg",
+      "subjects": [
+        "Legionaries of Christ",
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=llpSj3LFywg"
+      }
+    },
+    {
+      "id": "962fa1dc-0928-4bc4-a199-2c2feafff180",
+      "title": "Investigation into the Legionaries of Christ- Part I",
+      "description": "(Cheshire-WTNH, May 13, 2002 11:30 PM ) _ Tonight, a Team 8 investigation into charges of abuse by priests in a world wide Catholic, the Legion of Christ, order with a U.S. base right here in Connecticut. The Legionaries of Christ have a seminary in Cheshire.\r\nStarring Owen Kearns of the National Catholic Register",
+      "release": "2008-04-13T02:35:58Z",
+      "duration": "00:05:04",
+      "explicit": false,
+      "youTubeId": "-i0VUu3p8GI",
+      "subjects": [
+        "Legionaries of Christ",
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-i0VUu3p8GI"
+      }
+    }
+  ]
+}

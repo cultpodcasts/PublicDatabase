@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "3c17632e-5d9a-466c-a0c2-f048198793b7",
+  "name": "WPRI",
+  "youTubeChannelId": "UCnwI-VN5jXWIGQKOI9PMDMw",
+  "episodes": [
+    {
+      "id": "eda70ab7-5ad1-4768-aa78-f7bc24c1d4a7",
+      "title": "Legion of Christ douments unsealed",
+      "description": "Documents pertaining to a lawsuit against a Catholic order have been unsealed.",
+      "release": "2013-02-16T17:54:27Z",
+      "duration": "00:02:09",
+      "explicit": false,
+      "youTubeId": "AelYUBeovUg",
+      "subjects": [
+        "Legionaries of Christ",
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=AelYUBeovUg"
+      }
+    }
+  ]
+}

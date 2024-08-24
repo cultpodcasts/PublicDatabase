@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "5a30d7b5-e214-47d9-8057-b6fb4330760e",
+  "name": "Relatively Famous with Chip White",
+  "spotifyId": "2xlf3e4BouD3uV9XAEszc9",
+  "appleId": 1753608107,
+  "episodes": [
+    {
+      "id": "5d2c230e-da5c-4dec-b9fe-499ba4cce24e",
+      "title": "Episode 8 \u2013 Christian Hoyt (Hoyt Richards \u2013 Brother)",
+      "description": "Christian Hoyt, brother to the first male SuperModel, actor, podcast host and cult survivor Hoyt Richards. In this episode Christian talks about life with the Hoyt siblings, following his brothers footsteps into the world of male modeling and running a successful family business.",
+      "release": "2024-08-19T11:30:00Z",
+      "duration": "00:26:23.4230000",
+      "explicit": false,
+      "spotifyId": "72O1MMseqF1mjRfDzgDtTF",
+      "appleId": 1000665879246,
+      "subjects": [
+        "Eternal Values"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72O1MMseqF1mjRfDzgDtTF",
+        "apple": "https://podcasts.apple.com/podcast/episode-8-christian-hoyt-hoyt-richards-brother/id1753608107?i=1000665879246"
+      }
+    }
+  ]
+}

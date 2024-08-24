@@ -1,0 +1,39 @@
+{
+  "_ts": 0,
+  "id": "f643c71e-8b5b-4252-8b2b-5ce3bb1ae78f",
+  "name": "Xavier L\u00E9ger",
+  "youTubeChannelId": "UC63hI7a5KaEg8fZjBpU61ng",
+  "episodes": [
+    {
+      "id": "52a0d138-a977-4d12-8303-4b4a011a36ad",
+      "title": "Scandal at the Vatican",
+      "release": "2016-10-30T23:29:23Z",
+      "duration": "00:52:51",
+      "explicit": false,
+      "youTubeId": "QcBx0TMMIfE",
+      "subjects": [
+        "Legionaries of Christ",
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QcBx0TMMIfE"
+      }
+    },
+    {
+      "id": "d3690826-0f99-41fe-a252-4bbcfdf4adb9",
+      "title": "Paul Lennon at the 2015 ICSA Conference in Stockholm",
+      "description": "Do the Legion of Christ and Regnum Christi exert undue influence by recruiting members at 12 years of age? \nCareer and foreclosure",
+      "release": "2015-07-14T07:39:23Z",
+      "duration": "00:27:08",
+      "explicit": false,
+      "youTubeId": "fgt6YfB3SHE",
+      "subjects": [
+        "Legionaries of Christ",
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fgt6YfB3SHE"
+      }
+    }
+  ]
+}

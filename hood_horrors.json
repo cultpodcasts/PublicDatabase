@@ -1,0 +1,78 @@
+{
+  "_ts": 0,
+  "id": "fdcfa183-e9b0-41f2-9aa0-6dc152162f87",
+  "name": "Hood Horrors",
+  "youTubeChannelId": "UCtERdi7y0dc-Ud7jmjsktwg",
+  "episodes": [
+    {
+      "id": "0506a59b-9ce1-4aac-8300-a041ef792c26",
+      "title": "THE RISE AND FALL OF NATURE BOY \u0022ELIGIO BISHOP\u0022 PART 5",
+      "release": "2024-08-19T01:00:06Z",
+      "duration": "00:28:36",
+      "explicit": false,
+      "youTubeId": "8VIvZQn2Zz8",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8VIvZQn2Zz8"
+      }
+    },
+    {
+      "id": "3d0e3870-1131-448e-993d-ce49d26dac6f",
+      "title": "THE RISE AND FALL OF NATURE BOY \u0022ELIGIO BISHOP\u0022 PART 4",
+      "release": "2024-08-16T14:30:06Z",
+      "duration": "00:30:00",
+      "explicit": false,
+      "youTubeId": "mut18QIiqpI",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mut18QIiqpI"
+      }
+    },
+    {
+      "id": "8fea8d9c-1cf0-4126-88b5-69b056faec12",
+      "title": "THE RISE AND FALL OF NATURE BOY \u0022ELIGIO BISHOP\u0022 PART 3",
+      "release": "2024-08-12T01:30:05Z",
+      "duration": "00:27:42",
+      "explicit": false,
+      "youTubeId": "wzfq1bbASXw",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=wzfq1bbASXw"
+      }
+    },
+    {
+      "id": "d03be99d-63e9-4923-bdfe-45bdc72c3983",
+      "title": "THE RISE AND FALL OF NATURE BOY \u0022ELIGIO BISHOP\u0022 PART 2",
+      "release": "2024-08-09T18:03:00Z",
+      "duration": "00:29:06",
+      "explicit": false,
+      "youTubeId": "PggFyvbwaiI",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PggFyvbwaiI"
+      }
+    },
+    {
+      "id": "31c3b807-8606-4df1-9cdb-c27cdb95017a",
+      "title": "THE RISE AND FALL OF NATURE BOY \u0022ELIGIO BISHOP\u0022 PART 1",
+      "release": "2024-08-09T07:06:27Z",
+      "duration": "00:28:30",
+      "explicit": false,
+      "youTubeId": "tzL9tEWdAwA",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tzL9tEWdAwA"
+      }
+    }
+  ]
+}

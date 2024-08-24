@@ -1,0 +1,25 @@
+{
+  "_ts": 0,
+  "id": "f33528e7-74c6-4d43-a42d-c9079c729aef",
+  "name": "Chris Lynch Media",
+  "youTubeChannelId": "UCs4cTIpx0lHo3gvTyaorqbA",
+  "episodes": [
+    {
+      "id": "ae2b7b7d-a548-4008-9245-e341f934ddf7",
+      "title": "What is a cult and why it matters",
+      "description": "What is a cult and why it matters",
+      "release": "2024-08-19T08:00:24Z",
+      "duration": "00:12:22",
+      "explicit": false,
+      "youTubeId": "dQbahTx-j88",
+      "subjects": [
+        "Gloriavale",
+        "Centrepoint",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dQbahTx-j88"
+      }
+    }
+  ]
+}
