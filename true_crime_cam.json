@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "82063db3-1686-48ea-80fa-556d7a634e97",
+  "name": "True Crime Cam",
+  "spotifyId": "7EmtSevGgBNhaOqgU7bNXj",
+  "appleId": 1555973536,
+  "youTubeChannelId": "UC66OBb_fKdeOPVl4WSc1srQ",
+  "episodes": [
+    {
+      "id": "16ea5998-7429-4b4d-b2ff-e55eb4b38d7b",
+      "title": "The Shakahola Cult Massacre: Starving to Meet Jesus",
+      "description": "This video is for educational purposes.\n\nFrom taxi driver to cult leader, Paul Mackenzie brainwashed thousands of followers to believe the end times were quickly approaching. The result closely resembles the Jonestown Massacre. Over 450 people, mostly women and children, starved and murdered in order to meet Jesus.\n\nThis video features materials protected by the Fair Use guidelines of Section 107 of the Copyright Act.",
+      "release": "2024-08-28T18:00:02Z",
+      "duration": "00:36:23",
+      "explicit": false,
+      "spotifyId": "0sqCGye2ZVvB0aMsVLzJbV",
+      "appleId": 1000666760521,
+      "youTubeId": "0zQeBbmt7nk",
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0sqCGye2ZVvB0aMsVLzJbV",
+        "apple": "https://podcasts.apple.com/podcast/the-shakahola-cult-massacre-starving-to-meet-jesus/id1555973536?i=1000666760521",
+        "youtube": "https://www.youtube.com/watch?v=0zQeBbmt7nk"
+      }
+    }
+  ]
+}

@@ -4,7 +4,52 @@
   "name": "My Wife Joined A Cult",
   "spotifyId": "1SDRbvAqx8IFGgq4SW67DN",
   "appleId": 1761404638,
+  "youTubeChannelId": "UCPPmdlC-tLQVrnfjCUWycBQ",
   "episodes": [
+    {
+      "id": "b36a4ee6-067e-4aae-9e5f-9932afab6960",
+      "title": "Prologue: Into The Shadows - My Wife Joined A Cult Podcast",
+      "description": "In this prologue episode, we dive deep into the raw and unfiltered emotions of a family torn apart by betrayal and deception. Join us as our host opens up about the challenges and heartaches of dealing with a loved one\u0027s descent into a destructive cult. With dramatic personal anecdotes and reflections, he paints a vivid picture of his family\u0027s struggle to navigate through the lies, manipulation, and emotional turmoil inflicted by his ex-wife\u0027s radical transformation. This candid and heartfelt prologue sets the stage for the episodes to come, offering listeners a glimpse into a journey of resilience, truth-seeking, and the relentless pursuit of healing and protection for his children. Tune in and embark on this poignant journey with us.",
+      "release": "2024-08-30T15:00:45Z",
+      "duration": "00:56:10",
+      "explicit": false,
+      "spotifyId": "3K6wV4wLuku6QFdYwDV8Li",
+      "appleId": 1000664508204,
+      "youTubeId": "dV30LMkvDIk",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3K6wV4wLuku6QFdYwDV8Li?si=21cfe938c37b4020",
+        "apple": "https://podcasts.apple.com/podcast/prologue-into-the-shadows/id1761404638?i=1000664508204",
+        "youtube": "https://www.youtube.com/watch?v=dV30LMkvDIk"
+      }
+    },
+    {
+      "id": "5af46626-2ba9-41ad-99a6-405ee1514cc3",
+      "title": "Episode 9: Sleepless in Cult Chaos",
+      "description": "In this emotionally charged episode, Craig delves into the struggles of sleepless nights and the heavy burden of dealing with a loved one deeply entrenched in a cult. Join Craig as he shares personal stories that reflect the overwhelming sense of helplessness, frustration, and the devastating impact of secrecy and avoidance in relationships. This episode also explores the eerie parallels between cult-like behaviors in society and my own experiences, as I navigate the complex emotions of fear, anger, and the relentless pursuit of truth in a world clouded by deception.",
+      "release": "2024-08-29T15:05:01Z",
+      "duration": "01:35:57.1430000",
+      "explicit": false,
+      "spotifyId": "3gK8oglV1k9wpyL32cH0Rh",
+      "appleId": 1000667159230,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gK8oglV1k9wpyL32cH0Rh",
+        "apple": "https://podcasts.apple.com/podcast/episode-9-sleepless-in-cult-chaos/id1761404638?i=1000667159230"
+      }
+    },
+    {
+      "id": "09fcf56b-b074-47cb-9107-36321376e353",
+      "title": "Episode 8: Letting Go, Moving Forward",
+      "description": "In this episode, Craig Shoemaker shares a personal journey of love, loss, and spiritual growth. Reflecting on his marriage to his ex-wife, Craig opens up about the challenges they faced, including a miscarriage and external pressures that tested their bond. He explores the power of \u0022quantum shifts\u0022 in relationships, the impact of external influences, and the importance of vulnerability and self-awareness. Through candid storytelling, Craig offers insights on healing and the potential for spiritual awakening in the face of adversity.",
+      "release": "2024-08-27T19:16:06Z",
+      "duration": "01:36:26.6220000",
+      "explicit": false,
+      "spotifyId": "4zycDzfl1aYya5zYFJzj5X",
+      "appleId": 1000666817947,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4zycDzfl1aYya5zYFJzj5X",
+        "apple": "https://podcasts.apple.com/podcast/episode-8-letting-go-moving-forward/id1761404638?i=1000666817947"
+      }
+    },
     {
       "id": "33482f3c-89db-4ca7-8b8f-bf712c996735",
       "title": "Podcast Episode 07: Parental Alienation and Resilience.",

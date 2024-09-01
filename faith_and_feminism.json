@@ -6,6 +6,23 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "075d0158-6366-444b-b45d-f9807a108dda",
+      "title": "Deconstructing Harmful Evangelical Narratives: Lies Women Believe Part 4",
+      "description": "Sarah LaCour of Deconstructing Purity Culture, and I are back deconstructing harmful Evangelical Narratives. Today, we are covering \u0022Lies Women Believe\u0022 by Nancy Leigh DeMoss and how it relates to our current political moment.",
+      "release": "2024-08-27T09:22:00Z",
+      "duration": "01:32:23.0190000",
+      "explicit": false,
+      "spotifyId": "1mhmvszG2SaAAMs4SKWc4V",
+      "appleId": 1000666765036,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1mhmvszG2SaAAMs4SKWc4V",
+        "apple": "https://podcasts.apple.com/podcast/deconstructing-harmful-evangelical-narratives-lies/id1438368947?i=1000666765036"
+      }
+    },
+    {
       "id": "cbf0ff5c-ac1a-42d3-9eb5-a3857b4cc08c",
       "title": "Deconstructing Harmful Evangelical Narratives: Lies Women Believe Part 3",
       "description": "Sarah LaCour of Deconstructing Purity Culture and I are back deconstructing harmful Evangelical Narratives. Today, we are covering \u0022Lies Women Believe\u0022 by Nancy Leigh DeMoss and how it relates to our current political moment.",
@@ -3916,6 +3933,9 @@
       "explicit": false,
       "spotifyId": "6klFBZcyjRvMVFAuDQBNI3",
       "appleId": 1000463180227,
+      "subjects": [
+        "Southern Baptist Convention"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6klFBZcyjRvMVFAuDQBNI3",
         "apple": "https://podcasts.apple.com/podcast/confronting-abuse-in-the-southern-baptist-church/id1438368947?i=1000463180227"

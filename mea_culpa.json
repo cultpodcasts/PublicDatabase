@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "e175830e-adea-41f6-943b-4795c41d53b3",
+  "name": "Mea Culpa",
+  "spotifyId": "2DoVhLp34ysfvvJeKIe5Yn",
+  "appleId": 1714009198,
+  "episodes": [
+    {
+      "id": "20c81eb5-9af6-4b33-acf1-e3e9ceffdb65",
+      "title": "The Dumpster Cult Of Trump Must Go \u002B A Conversation with Steven Hassan",
+      "description": "Steven Hassan, PhD, is one of the leading experts on cults and undue influence in the world. A former member of the right-wing Moonie cult, Hassan was deprogrammed 45 years ago and has dedicated his life to helping people out of cults and destructive situations. Dr. Hassan is a licensed mental health professional and has written four books, including The Cult of Trump and the seminal book Combating Cult Mind Control. On Mea Culpa, Steve will explain HOW mind-control works, and how to protect yourself from its grips. He will also address ethical influence as the podcast will address the entire Influence Continuum. Go to SIMPLISAFE.com/meaculpa to protect your home this summer with 20% off any new SimpliSafe system when you sign up for Fast Protect Monitoring. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-08-23T04:00:00Z",
+      "duration": "01:19:45.0840000",
+      "explicit": true,
+      "spotifyId": "68oSVo7oIUYVnRpcWouJu8",
+      "appleId": 1000666310624,
+      "youTubeId": "bzRjJNoHZb4",
+      "subjects": [
+        "Cult-Expert",
+        "Qanon",
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/68oSVo7oIUYVnRpcWouJu8",
+        "apple": "https://podcasts.apple.com/podcast/the-dumpster-cult-of-trump-must-go-a/id1714009198?i=1000666310624",
+        "youtube": "https://www.youtube.com/watch?v=bzRjJNoHZb4"
+      }
+    }
+  ]
+}

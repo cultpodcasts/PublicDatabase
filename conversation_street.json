@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "2a540760-4efd-4e1c-93e8-69e572aa41ca",
+  "name": "Conversation Street",
+  "spotifyId": "7DzGHaIt18IJCzXeEtNK07",
+  "appleId": 554511625,
+  "youTubeChannelId": "UC7cZbOyDtWpIAWLPtAy4MuA",
+  "episodes": [
+    {
+      "id": "db968fdd-85f5-43f8-8479-f874a9d8136a",
+      "title": "Emrhys Cooper Interview (Rowan Cunliffe in Coronation Street)",
+      "description": "We\u0027ve been loving watching Emrhys Cooper in the role of the manipulative Institute recruiter Rowan Cunliffe over the past few months, and in this interview, we chat to him about what\u0027s been going on in the storyline so far. What made Emrhys swap California for the cobbles? Will Rowan find redemption or face soap justice before the story\u0027s out? What does he make of the Institute\u0027s techno-jargon, and most importantly, what level is Rowan? Tune in and find out!",
+      "release": "2024-08-27T19:00:07Z",
+      "duration": "00:30:11",
+      "explicit": false,
+      "spotifyId": "6RFpK2UN0kYJf9DG586y6b",
+      "appleId": 1000666817540,
+      "youTubeId": "fOweeSZTm9s",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6RFpK2UN0kYJf9DG586y6b",
+        "apple": "https://podcasts.apple.com/podcast/emrhys-cooper-interview/id554511625?i=1000666817540",
+        "youtube": "https://www.youtube.com/watch?v=fOweeSZTm9s"
+      }
+    }
+  ]
+}

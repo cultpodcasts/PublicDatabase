@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "527cf57a-ec3a-4e96-9594-c63f06f1d9c4",
+  "name": "True Crime Arizona",
+  "spotifyId": "1R36EkLIb4v155hEBQ3I7B",
+  "appleId": 1539546360,
+  "episodes": [
+    {
+      "id": "baa579d9-351a-45db-9986-a2aab4a6a19e",
+      "title": "Stolen Innocence: Child Brides of the New FLDS Cult Prophet",
+      "description": "The four-part television series \u0022Stolen Innocence\u0022 explores the manipulation and abuse of the FLDS cult that led to the new self-proclaimed prophet Samuel Bateman\u2019s reign and downfall as he awaits sentencing for sexually abusing and kidnapping child brides. True Crime Correspondent Briana Whitney and former AZ Family reporter Mike Watkiss discuss in detail Samuel Bateman\u2019s rise to power, the roots of the FLDS and its corruption, the bizarre encounter Mike Watkiss had with Bateman, and where the FLDS community stands now.",
+      "release": "2024-08-26T23:21:00Z",
+      "duration": "00:44:06.8040000",
+      "explicit": false,
+      "spotifyId": "3pGUU9i39LR1FPzKV1UEem",
+      "appleId": 1000666719133,
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3pGUU9i39LR1FPzKV1UEem",
+        "apple": "https://podcasts.apple.com/podcast/stolen-innocence-child-brides-of-the-new-flds-cult-prophet/id1539546360?i=1000666719133"
+      }
+    },
+    {
+      "id": "3bd8e84a-c1cc-4c03-9556-90855ea7d12c",
+      "title": "The Chad Daybell \u201CDoomsday Prophet\u201D Murder Trial",
+      "description": "For nearly two months, the Idaho man known as the \u201CDoomsday Prophet,\u201D Chad Daybell, faced witness after witness as he stood on trial for the murder of his wife Tammy Daybell, and the murders of Lori Vallow\u2019s two young kids Tylee Ryan, and JJ Vallow. The killings were all tied to radical religious beliefs that a Second Coming was approaching, and people were \u201Clight and dark\u201D spirits. Come with us as we dive into some of the most important, powerful, and emotional testimony during the trial, and the moments after the the verdict and sentencing decision on the death penalty were announced.",
+      "release": "2024-06-04T00:00:00Z",
+      "duration": "00:44:05.5910000",
+      "explicit": false,
+      "spotifyId": "5IQ329OJ1pebZzNAw8IBCd",
+      "appleId": 1000657734600,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5IQ329OJ1pebZzNAw8IBCd",
+        "apple": "https://podcasts.apple.com/podcast/the-chad-daybell-doomsday-prophet-murder-trial/id1539546360?i=1000657734600"
+      }
+    }
+  ]
+}

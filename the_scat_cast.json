@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "71b4578a-4e98-4405-8dae-7bdd59f31a5e",
+  "name": "The Scat Cast",
+  "spotifyId": "7EYcxupaRagPdvwRUp5rW0",
+  "appleId": 1738151636,
+  "youTubeChannelId": "UCvw4_uuV2tmRf5oJSMD2NUg",
+  "episodes": [
+    {
+      "id": "ee9b3717-c7c9-4bc2-befa-f469738f6b09",
+      "title": "This Cult Controls What You See",
+      "description": "On this episode of the Scat Cast, Darren comes forth with a shocking revelation he came upon, the Family Federation for World Peace and Unification, AKA the Unification Church. After going through the history of this Korean cult and its founder Sun Myung Mun, the boys go down a rabbit hole and find that the Unification Church has a LOT more connections among public figures and worldwide media organizations than you would initially believe. After being put onto the idea of the unification of humanity through the church, the boys discuss their thoughts and personal accounts of spirituality and organized religion as a whole, as well as what spirituality and religion mean to them. If you\u0027ve questioned your faith and purpose, or want to learn the truth about the people in charge of our governments and media organizations, this episode of the Scat Cast is for you!",
+      "release": "2024-08-28T09:00:05Z",
+      "duration": "01:48:02",
+      "explicit": false,
+      "spotifyId": "528LqIB1pLgLuGgfeXCa2o",
+      "appleId": 1000666881628,
+      "youTubeId": "4Skj6kGkOm8",
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/528LqIB1pLgLuGgfeXCa2o",
+        "apple": "https://podcasts.apple.com/podcast/this-cult-controls-what-you-see/id1738151636?i=1000666881628",
+        "youtube": "https://www.youtube.com/watch?v=4Skj6kGkOm8"
+      }
+    }
+  ]
+}

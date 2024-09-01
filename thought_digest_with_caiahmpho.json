@@ -1,0 +1,25 @@
+{
+  "_ts": 0,
+  "id": "f37a0aba-9f21-4066-ba35-a053fe4aaded",
+  "name": "Thought Digest with Caiah \u0026 Mpho",
+  "spotifyId": "5RDg08k9oD6CCEsdCDCvnt",
+  "appleId": 1736312125,
+  "youTubeChannelId": "UCueDsHkakxTAMgIsA6FPQBA",
+  "episodes": [
+    {
+      "id": "b4982c89-e5c0-4ead-ab94-b89f41adf0d1",
+      "title": "Cults and the Fragile Self: Psychological Insights on Identity || Thought Digest Ep17",
+      "release": "2024-08-26T12:15:20Z",
+      "duration": "01:06:45.2240000",
+      "explicit": false,
+      "spotifyId": "5pbUaWkxeYr2TtUxAtGVfd",
+      "appleId": 1000666647112,
+      "youTubeId": "3M7D9-PhrNE",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5pbUaWkxeYr2TtUxAtGVfd",
+        "apple": "https://podcasts.apple.com/podcast/cults-and-the-fragile-self-psychological-insights/id1736312125?i=1000666647112",
+        "youtube": "https://www.youtube.com/watch?v=3M7D9-PhrNE"
+      }
+    }
+  ]
+}

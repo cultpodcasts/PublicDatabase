@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "dbe2bac7-3530-4c25-9f0b-3317e5355f51",
+  "name": "Visionaries",
+  "spotifyId": "2BOM02qg7wdNOcy9ttVh5E",
+  "appleId": 1612736960,
+  "episodes": [
+    {
+      "id": "7042ebae-f501-4fab-9389-427ce5ae7264",
+      "title": "Ep.28. From Cult Upbringing to Prosperity: Calvin Wayman\u0027s Unconventional Path to Success",
+      "description": "In this episode of the Visionaries Podcast , host Jinny Oh sits down with Calvin Wayman , a remarkable individual with an extraordinary journey. From growing up in a polygamous family with 1 dad, 4 moms, and 44 siblings, Calvin embarked on a quest for self-discovery and success. He shares his experiences of leaving his day job in 2015 to pursue entrepreneurship, overcoming numerous challenges to build a successful business, and documenting his journey to inspire others. Calvin is now an author, podcaster, TEDx Speaker, and founder of multiple businesses. Join us as we delve into his unique story, exploring themes of authenticity, overcoming self-doubt, and the power of perseverance.",
+      "release": "2024-08-01T18:14:07Z",
+      "duration": "01:02:34.0560000",
+      "explicit": false,
+      "spotifyId": "5LV2XuBiX1tEnhT7RIqp23",
+      "appleId": 1000664060134,
+      "youTubeId": "fxoqaX08DGU",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5LV2XuBiX1tEnhT7RIqp23",
+        "apple": "https://podcasts.apple.com/podcast/ep-28-from-cult-upbringing-to-prosperity-calvin-waymans/id1612736960?i=1000664060134",
+        "youtube": "https://www.youtube.com/watch?v=fxoqaX08DGU"
+      }
+    }
+  ]
+}

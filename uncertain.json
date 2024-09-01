@@ -68,10 +68,11 @@
       "spotifyId": "4NC5vRba5dXk8ON1RDWkib",
       "appleId": 1000660305627,
       "subjects": [
-        "Evangelicalism",
-        "Psychology",
+        "Southern Baptist Convention",
         "Legislation",
-        "Cult Psychology"
+        "Cult Psychology",
+        "Psychology",
+        "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4NC5vRba5dXk8ON1RDWkib",
@@ -199,7 +200,8 @@
         "Catholicism",
         "Evangelicalism",
         "Psychology",
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Southern Baptist Convention"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4BFhneFMeKwTsPphxyN8zo",

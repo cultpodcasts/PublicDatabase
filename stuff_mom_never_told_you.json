@@ -4,7 +4,22 @@
   "name": "Stuff Mom Never Told You",
   "spotifyId": "4NCKwo83Wl9CGRZsL9GnzR",
   "appleId": 304531053,
+  "youTubeChannelId": "UCahFEEQJdFCtuE3IkDFK3mw",
   "episodes": [
+    {
+      "id": "c9bd0809-1160-4e51-a0e3-5a6d4dfca52e",
+      "title": "SMNTY Classics: Women Cult Leaders (Part 1)",
+      "description": "While probably not what you think of when conjuring up an image of a cult leader, women have been and are cult leaders and instrumental to propping up and running these organizations. Anney and Samantha discuss the definition of cult, what makes a cult leader, who they target for members and historical women cult leaders in this classic episode. See omnystudio.com/listener for privacy information.",
+      "release": "2024-08-31T13:00:00Z",
+      "duration": "00:53:19.1900000",
+      "explicit": false,
+      "spotifyId": "7m4wTH9bZ8OUpX4vowqKJq",
+      "appleId": 1000667755379,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7m4wTH9bZ8OUpX4vowqKJq",
+        "apple": "https://podcasts.apple.com/podcast/smnty-classics-women-cult-leaders-part-1/id304531053?i=1000667755379"
+      }
+    },
     {
       "id": "b228b63b-0c9f-45d1-a012-1a952a2398a2",
       "title": "Book Club: Cult Girls",
@@ -20,6 +35,18 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/00KXnJ2JtyYJ08GQ9yy2vv",
         "apple": "https://podcasts.apple.com/podcast/book-club-cult-girls/id304531053?i=1000665372615"
+      }
+    },
+    {
+      "id": "38c7397d-dd61-4809-8487-ae85fb996433",
+      "title": "Women Cult Leaders: Part 1 | STUFF MOM NEVER TOLD YOU",
+      "description": "\uD83D\uDECE  If You\u0027re New Subscribe \u25BA https://bit.ly/SMNTYSubscribe\n\nWomen Cult Leaders: Part 1 | STUFF MOM NEVER TOLD YOU\n\nWhile probably not what you think of when conjuring up an image of a cult leader, women have been and are cult leaders and instrumental to propping up and running these organizations. Anney and Samantha discuss the definition of cult, what makes a cult leader, who they target for members and historical women cult leaders.\n\nOriginal Air Date: May 14, 2021\n\n\u2764\uFE0F iHeartRadio \u00BB http://bit.ly/3EpRzXY\n\uD83C\uDF4F APPLE PODCASTS \u00BB http://bit.ly/3EUYBWp\n\uD83D\uDCE2 AMAZON MUSIC \u00BB http://bit.ly/3Xj6dc2\n\uD83D\uDFE2 SPOTIFY \u00BB http://bit.ly/3Xj65t4\n\uD83C\uDFA5 PREVIOUS VIDEO \u00BB https://youtu.be/Q4ko_tGciYw\n\n\u2728 KEEP IN TOUCH WITH :\nFACEBOOK \u00BB http://bit.ly/3EIVa4K\nTWITTER \u00BB http://bit.ly/3ElX9uC\nINSTAGRAM \u00BB http://bit.ly/3VfaHil\n\nStuff Mom Never Told You is a podcast that examines all aspects of today\u2019s society through an intersectional feminist perspective, whether it\u2019s pop culture, the lack of pockets on women\u2019s clothing, or the politics impacting our daily lives. No topic is off-limits. Hosts Anney Reese and Samantha McVey dive into science, history, and culture to better understand the challenges facing women and marginalized folks all over the globe and how to tackle them head-on. Stuff Mom Never Told You gives you the tools to make sense of the every day, unpacking the stories that brought us to where we are, and discussing practical ways we can work together to make things better for everyone. \n\nNew episodes daily on iHeartRadio.\n\n#StuffMomNeverToldYou #StuffMomNeverToldYouPodcast #AnneyReesePod #SamanthaMcVeyPod #StuffMomNeverToldYouPod",
+      "release": "2023-08-27T18:00:10Z",
+      "duration": "00:42:46",
+      "explicit": false,
+      "youTubeId": "iLXg_RlEHEc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iLXg_RlEHEc"
       }
     }
   ]

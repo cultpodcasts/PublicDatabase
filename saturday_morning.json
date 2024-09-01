@@ -6,6 +6,26 @@
   "appleId": 175135787,
   "episodes": [
     {
+      "id": "c523b37f-066f-451e-8a09-7fc7066c56ec",
+      "title": "Risk taker: Anke Richter",
+      "description": "Author, reporter and cult researcher, Anke Richter, is involved in the planning of Decult 2024, New Zealand\u0027s first conference dedicated to tackling the harm cults cause.",
+      "release": "2024-08-30T23:30:00Z",
+      "duration": "00:15:24.3110000",
+      "explicit": false,
+      "spotifyId": "002limCdKncFJUgot4K8HB",
+      "appleId": 1000667558573,
+      "subjects": [
+        "Cult-Expert",
+        "Bhagwan Shree Rajneesh",
+        "Centrepoint",
+        "Agama Yoga"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/002limCdKncFJUgot4K8HB",
+        "apple": "https://podcasts.apple.com/podcast/risk-taker-anke-richter/id175135787?i=1000667558573"
+      }
+    },
+    {
       "id": "eeb7923d-8059-4e9b-8caf-f5eeb393ce37",
       "title": "Cult expert Dr Janja Lalich: \u0027Don\u0027t jump into the first life-changing thing you come across\u0027",
       "description": "American cult expert Dr Janja Lalich knows from experience how paralysed a person can feel within a high-control group. In the late 70s and early 80s, she was a high-up member of a political cult called the Democratic Workers Party. Dr Lalich\u0027s advice to anyone\u00A0interested in joining\u00A0a new group is to\u00A0slow down and do your research before signing up.",
@@ -15,7 +35,8 @@
       "spotifyId": "2mWRJzMTkLVxmJaV5uUzai",
       "appleId": 1000659074253,
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Democratic Workers Party"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2mWRJzMTkLVxmJaV5uUzai",
