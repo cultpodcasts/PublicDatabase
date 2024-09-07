@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "cfd711ab-652c-4696-8bb9-4050faf59af9",
+  "name": "Offbeat Oregon History podcast",
+  "spotifyId": "6hwzJApXgdg47o3Le8tccC",
+  "appleId": 490506026,
+  "episodes": [
+    {
+      "id": "972e7acb-c598-4f00-9f15-1690ccda60f1",
+      "title": "Heaven\u2019s Gate UFO cult started at Waldport hotel",
+      "description": "Two decades later, the cult, now named \u201CHeaven\u0027s Gate,\u201D would make national headlines by committing mass suicide in hopes that a UFO hiding behind Comet Hale-Bopp would carry their spirits away to Planet Heaven. (Waldport, Lincoln County; 1970s) (For text and pictures, see https://offbeatoregon.com/1606a.heavens-gate-ufo-cult-394.html)",
+      "release": "2024-09-06T14:00:00Z",
+      "duration": "00:10:59.0830000",
+      "explicit": false,
+      "spotifyId": "7EV9XX3FReDdcIyp69d2Ex",
+      "appleId": 1000668538069,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7EV9XX3FReDdcIyp69d2Ex",
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate-ufo-cult-started-at-waldport-hotel/id490506026?i=1000668538069"
+      }
+    }
+  ]
+}

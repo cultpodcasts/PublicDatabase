@@ -4,7 +4,27 @@
   "name": "Anonymous Andrew",
   "spotifyId": "5QUflaAjO7yoO5anQb9tsP",
   "appleId": 1674431412,
+  "youTubeChannelId": "UCMYH5hXpS94ORITIy_AyclQ",
   "episodes": [
+    {
+      "id": "204e822d-8f1f-40b6-847f-cd010d2be580",
+      "title": "Ex-Cult Member shares his experience of being in a cult as a child",
+      "description": "Ep#39 Series #6 of the TFI Pod-series. Franklin (anonymous name) comes forward to share his experience in growing up in a cult that his parents belonged to. This is not an ex member of TFU but another cult. But he was triggered by the publicity of TFU and whats to share how much it impacts him today many years later.\nAnonymous Andrew Podcast-Life \u0026amp; The Choices We Make.\u0026nbsp;\nWebsite: https://www.anonymousandrewpodcast.com\nInstagram:\u0026nbsp;@anonymousandrewpodcast \nTikTok:\u0026nbsp;https://www.tiktok.com/@anonymousandrewpodcast\nThreads:\u0026nbsp;@anonymousandrewpodcast\nFacebook: facebook.com/anonymousandrewpodcast\nYouTube:\u0026nbsp;https://www.youtube.com/@anonymousandrewpodcast\nLinkedin:\u0026nbsp;https://www.linkedin.com/in/andrew-peters-a8a012285/\nX: @AAndrewpodcast\nSocial Media Producer; Lyndsey BrownMusic by: freebeats.io",
+      "release": "2024-09-04T02:32:56Z",
+      "duration": "01:20:36",
+      "explicit": false,
+      "spotifyId": "6NLvgZkW6kZsDTZk9t6Zwn",
+      "appleId": 1000645982546,
+      "youTubeId": "yOZnUnrtW-s",
+      "subjects": [
+        "Saint Germain Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6NLvgZkW6kZsDTZk9t6Zwn?si=5b479d06298c4f27",
+        "apple": "https://podcasts.apple.com/podcast/ex-cult-member-shares-his-experience-of-being-in/id1674431412?i=1000645982546",
+        "youtube": "https://www.youtube.com/watch?v=yOZnUnrtW-s"
+      }
+    },
     {
       "id": "34b5fe18-a6d2-4a16-a324-70f117d34d9b",
       "title": "Weekend rant about \u0022When Silence is Forced \u2013 The Story Behind a Removed Episode\u0022",
@@ -31,12 +51,14 @@
       "explicit": true,
       "spotifyId": "1eBqbXdlpJBHpfltLpIiJy",
       "appleId": 1000642620279,
+      "youTubeId": "Yfnor5hZlJA",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1eBqbXdlpJBHpfltLpIiJy",
-        "apple": "https://podcasts.apple.com/podcast/twin-flame-universe-investigation-continued-my-interview/id1674431412?i=1000642620279"
+        "apple": "https://podcasts.apple.com/podcast/twin-flame-universe-investigation-continued-my-interview/id1674431412?i=1000642620279",
+        "youtube": "https://www.youtube.com/watch?v=Yfnor5hZlJA"
       }
     },
     {
@@ -65,12 +87,14 @@
       "explicit": true,
       "spotifyId": "2OuM3wT4CCSnJDzVQJtg6f",
       "appleId": 1000640064065,
+      "youTubeId": "Thev5V1c7hg",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2OuM3wT4CCSnJDzVQJtg6f",
-        "apple": "https://podcasts.apple.com/podcast/end-of-year-rant-i-go-on-a-1st-date-the/id1674431412?i=1000640064065"
+        "apple": "https://podcasts.apple.com/podcast/end-of-year-rant-i-go-on-a-1st-date-the/id1674431412?i=1000640064065",
+        "youtube": "https://www.youtube.com/watch?v=Thev5V1c7hg"
       }
     }
   ]

@@ -8,17 +8,40 @@
   "youTubePlaylistId": "PLF2yLQWsIFVzRXpc-G1q_RMp5zLpI5ByR",
   "episodes": [
     {
+      "id": "cf98e19b-4aac-49c0-812d-eec16eb95052",
+      "title": "Letter From A Cult Leader - Shiny Happy People | Friends With Davey - Lindsey \u0026 Shelise",
+      "description": "Lindsey Williams lived the Shiny Happy People Cult Headquarters, working as an assistant to cult leader, Bill Gothard. After years of manipulation, control and abuse, Lindsey finally escaped, but Gothard wasn\u0027t ready to let go. Lindsey shares how a narcissistic cult leader tried to stop her from marrying the love of her life, including the sinister letter he wrote to her future husband! Lindsey Williams, from the Prime Video\u0027s \u0022Shiny Happy People\u0022 documentary, Shelise Ann Sola, from the popular \u0022Cults To Consciousness\u0022 YouTube series, and Davey Jackson sit down in Los Angeles, CA to catch up on the latest cult news. Watch Lindsey\u0027s interview with Shelise on Cults To Consciousness! https://youtu.be/AW19rPK9xiE?si=IFv1fREMc6XlPpw7 Watch Davey\u0027s interview with Jonathan on Cults To Consciousness! https://youtu.be/AW19rPK9xiE?si=IFv1fREMc6XlPpw7 Follow on social media: Lindsey Williams - @thecultchronicles Shelise Ann Sola - @cultstoconsciousness Davey Jackson - @daveyjax Friends With Davey - @friendswithdavey Listen to Davey Jackson livestreaming with a new friend every Wednesday at 8:00PM CST.\u0026#xfeff;",
+      "release": "2024-09-02T15:00:00Z",
+      "duration": "01:07:38.0440000",
+      "explicit": true,
+      "spotifyId": "367xJlxqNuEZQoofTxuMxu",
+      "appleId": 1000668062734,
+      "youTubeId": "mOPl1xi_OBU",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/367xJlxqNuEZQoofTxuMxu",
+        "apple": "https://podcasts.apple.com/podcast/letter-from-a-cult-leade/id1636313367?i=1000668062734",
+        "youtube": "https://www.youtube.com/watch?v=mOPl1xi_OBU"
+      }
+    },
+    {
       "id": "ea32edd2-b0d9-44cd-b0fe-d0d435dd6743",
       "title": "Fake Cult Mom LIVESTREAM | Friends With Davey - Joe McLean \u0026 Lindsey Williams",
       "description": "LIVE with Davey Jackson, Joe Mclean and Lindsey Williams. Join the conversation and send your comments in the live chat! Joe answers your questions and reveals more about growing up with \u0022Mommy Answer Lady.\u0022 \r\n\r\nJoe\u0027s mother, Holly McLean, has made it her mission to discredit Prime Video\u0027s \u0022Shiny Happy People\u0022 documentary and attack victims of the Shiny Happy People Cult. \n\nWatch Joe\u0027s Episode: https://youtu.be/MwPTdq2Kv0I?si=kuRSGUQp64jff4yK\n\r\nFollow on social media:\r\nJoe McLean - @JoeMcleanTV\r\nLindsey Williams - @TheCultChronicles\r\nDavey Jackson - @DaveyJax\r\n\r\nListen to Davey Jackson live streaming with a new friend every Wednesday at 8:00PM CST.\r\n\r\nPodcast audio available on Spotify, iTunes, and all streaming platforms.",
       "release": "2024-07-05T22:38:54Z",
       "duration": "01:46:19",
       "explicit": false,
+      "spotifyId": "38WlgMDw77wKFiknFdXClN",
+      "appleId": 1000668351691,
       "youTubeId": "Wat8tPSnIkc",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/38WlgMDw77wKFiknFdXClN",
+        "apple": "https://podcasts.apple.com/podcast/fake-cult-mom-livestream/id1636313367?i=1000668351691",
         "youtube": "https://www.youtube.com/watch?v=Wat8tPSnIkc"
       }
     },
@@ -29,11 +52,13 @@
       "release": "2024-07-04T01:00:06Z",
       "duration": "01:02:54",
       "explicit": false,
+      "spotifyId": "5wV3lCkfMFR10BsMwuED0e",
       "youTubeId": "MwPTdq2Kv0I",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5wV3lCkfMFR10BsMwuED0e",
         "youtube": "https://www.youtube.com/watch?v=MwPTdq2Kv0I"
       }
     },

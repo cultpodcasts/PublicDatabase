@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "d35528da-ed38-45fc-a890-9cc38cecc47e",
+  "name": "Tell Us Something We Don\u0027t Know",
+  "spotifyId": "6u1YeWJSnvjwegkfQjqgOW",
+  "appleId": 1661616986,
+  "youTubeChannelId": "UCNwHMk9lvYSua63RvlUqK0A",
+  "episodes": [
+    {
+      "id": "7bbe7180-0f7b-4614-868e-8871bcab1376",
+      "title": "#2:  Born in a Cult #cult #podcast #tellussomethingwedontknow #interview",
+      "description": "Episode 2 features Dawn Shanks who shares her incredible story - BORN IN A CULT. #tellussomethingwedontknow #cult #interview #podcas",
+      "release": "2024-09-05T17:37:59Z",
+      "duration": "01:05:00",
+      "explicit": false,
+      "spotifyId": "2nxXauZ8pTm0DajEKaj4rV",
+      "appleId": 1000591373681,
+      "youTubeId": "nzazXWjU65M",
+      "subjects": [
+        "Geftakys Assembly"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2nxXauZ8pTm0DajEKaj4rV?si=b6b4994ac9c24b4a",
+        "apple": "https://podcasts.apple.com/podcast/2-born-in-a-cult/id1661616986?i=1000591373681",
+        "youtube": "https://www.youtube.com/watch?v=nzazXWjU65M"
+      }
+    }
+  ]
+}

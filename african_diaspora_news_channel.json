@@ -2,6 +2,7 @@
   "_ts": 0,
   "id": "27edf9f8-9c83-4fce-961f-96ed3b4ea839",
   "name": "African Diaspora News Channel",
+  "appleId": 1658568160,
   "youTubeChannelId": "UCKZGcrxRAhdUi58Mdr565mw",
   "episodes": [
     {
@@ -17,6 +18,20 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=c1vixKeyxg0"
+      }
+    },
+    {
+      "id": "76d7c922-e29a-49d1-b85e-19613fd9d896",
+      "title": "Kenyan Villagers Attempted To Crucify A Man Who Calls Himself \u0027Jesus Of Tongaren\u0027",
+      "description": "Demetra Kaye reports on a Kenyan villagers attempting to crucify a man who calls himself \u0027Jesus of Tongaren.\u0027\nConnect with Demetra:\n@demetrakaye",
+      "release": "2023-04-16T19:00:09Z",
+      "duration": "00:03:01",
+      "explicit": false,
+      "appleId": 1000609283774,
+      "youTubeId": "ZlbVGPAB9o8",
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/kenyan-villagers-attempted-to-crucify-a-man-who/id1658568160?i=1000609283774",
+        "youtube": "https://www.youtube.com/watch?v=ZlbVGPAB9o8"
       }
     }
   ]

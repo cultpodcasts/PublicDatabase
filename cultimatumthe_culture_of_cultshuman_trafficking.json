@@ -15,12 +15,14 @@
       "explicit": true,
       "spotifyId": "0vSJkFPe73CNHecIY98mza",
       "appleId": 1000667956599,
+      "youTubeId": "8hND3o8akik",
       "subjects": [
         "Amish"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0vSJkFPe73CNHecIY98mza",
-        "apple": "https://podcasts.apple.com/podcast/ep-29-the-amazing-adventures-of-an-amish/id1744145655?i=1000667956599"
+        "apple": "https://podcasts.apple.com/podcast/ep-29-the-amazing-adventures-of-an-amish/id1744145655?i=1000667956599",
+        "youtube": "https://www.youtube.com/watch?v=8hND3o8akik"
       }
     },
     {

@@ -1,0 +1,1812 @@
+{
+  "_ts": 0,
+  "id": "9932dc1c-fc4e-474d-9ba1-63998944f46e",
+  "name": "Silver Linings Podcast",
+  "spotifyId": "3YUiCFPLHvsb3kThXQ02rX",
+  "appleId": 1694606661,
+  "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
+  "episodes": [
+    {
+      "id": "5da2a969-aedc-4c87-8d0c-9f7f93bff2fa",
+      "title": "Silver Linings Podcast - EP054 EP054 Adam \u0026 Rex\u0027s Tips for Healing",
+      "description": "Silver Linings Podcast - EP054 EP054 Adam \u0026 Rex\u0027s Tips for Healing",
+      "release": "2024-08-27T12:00:00Z",
+      "duration": "00:31:45.8930000",
+      "explicit": false,
+      "spotifyId": "2rDiall3egrbE3EhTBui1k",
+      "appleId": 1000666778294,
+      "youTubeId": "rCLK9eJVf-c",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rDiall3egrbE3EhTBui1k",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep054-ep054-adam-rexs-tips-for/id1694606661?i=1000666778294",
+        "youtube": "https://www.youtube.com/watch?v=rCLK9eJVf-c"
+      }
+    },
+    {
+      "id": "d4bffdf6-3288-4a00-be89-7fab8f761dc7",
+      "title": "Silver Linings Podcast - EP053 Tom Evans",
+      "description": "Silver Linings Podcast - EP053 Tom Evans",
+      "release": "2024-08-13T16:24:26Z",
+      "duration": "00:33:55.4350000",
+      "explicit": false,
+      "spotifyId": "5SUNK6tHisaL7L1rYwZXpv",
+      "appleId": 1000665163926,
+      "youTubeId": "vbmbikc6Az0",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5SUNK6tHisaL7L1rYwZXpv",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep053-tom-evans/id1694606661?i=1000665163926",
+        "youtube": "https://www.youtube.com/watch?v=vbmbikc6Az0"
+      }
+    },
+    {
+      "id": "ee7b0f52-4e99-41cd-9431-cd411f550bb4",
+      "title": "Silver Linings Podcast - EP052-Rebecca Adams",
+      "description": "Silver Linings Podcast - EP052-Rebecca Adams",
+      "release": "2024-08-07T12:00:00Z",
+      "duration": "00:39:42.4710000",
+      "explicit": false,
+      "spotifyId": "7tkl1FMnsEgXRpjB0519Dc",
+      "appleId": 1000664590882,
+      "youTubeId": "6yz-wb2kkys",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7tkl1FMnsEgXRpjB0519Dc",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep052-rebecca-adams/id1694606661?i=1000664590882",
+        "youtube": "https://www.youtube.com/watch?v=6yz-wb2kkys"
+      }
+    },
+    {
+      "id": "7d99dec9-8060-47ed-9b38-605250c91bac",
+      "title": "Silver Linings Podcast - EP051-Gabby Petito Family",
+      "description": "Silver Linings Podcast - EP051-Gabby Petito Family",
+      "release": "2024-07-30T12:00:00Z",
+      "duration": "00:35:58.0010000",
+      "explicit": false,
+      "spotifyId": "6r2U8pPzNOf3lTHCzSGwFz",
+      "appleId": 1000663793597,
+      "youTubeId": "xA5SIF4u0jQ",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6r2U8pPzNOf3lTHCzSGwFz",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep051-gabby-petito-family/id1694606661?i=1000663793597",
+        "youtube": "https://www.youtube.com/watch?v=xA5SIF4u0jQ"
+      }
+    },
+    {
+      "id": "8b87f504-36cc-4c2f-838d-2d02f25456df",
+      "title": "Silver Linings Podcast - EP050-Abuse, Hope, \u0026 Healing with Darlene Butler",
+      "description": "Silver Linings Podcast - EP050-Abuse, Hope, \u0026 Healing with Darlene Butler",
+      "release": "2024-07-24T12:00:00Z",
+      "duration": "00:30:50.2260000",
+      "explicit": false,
+      "spotifyId": "5pTs7UauE8iEvOrV6SEGxL",
+      "appleId": 1000663197234,
+      "youTubeId": "rn12tErTiRU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5pTs7UauE8iEvOrV6SEGxL",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep050-abuse-hope-healing-with/id1694606661?i=1000663197234",
+        "youtube": "https://www.youtube.com/watch?v=rn12tErTiRU"
+      }
+    },
+    {
+      "id": "0f594a73-617e-488a-9f15-d58267cf48ac",
+      "title": "Silver Linings Podcast - EP048-Debbie Heisler\u0027s Silver Linings After a Son\u0027s Murder",
+      "description": "Silver Linings Podcast - EP048-Debbie Heisler\u0027s Silver Linings After a Son\u0027s Murder",
+      "release": "2024-07-24T02:33:08Z",
+      "duration": "00:40:02.7160000",
+      "explicit": false,
+      "spotifyId": "0EIBuowPuRM0g5Nnm8wT0E",
+      "appleId": 1000663151768,
+      "youTubeId": "LyZjHsWf3k4",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0EIBuowPuRM0g5Nnm8wT0E",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep048-debbie-heislers-silver/id1694606661?i=1000663151768",
+        "youtube": "https://www.youtube.com/watch?v=LyZjHsWf3k4"
+      }
+    },
+    {
+      "id": "92752cfd-4578-4b21-b2a7-98a30f94e281",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-051 - (7-20-24) - Live Community Announcements and Q\u0026A",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-051 - (7-20-24) - Live Community Announcements and Q\u0026A",
+      "release": "2024-07-24T02:31:27Z",
+      "duration": "01:03:56.2900000",
+      "explicit": false,
+      "spotifyId": "64A4njSpGtuK6MMRDqUifl",
+      "appleId": 1000663151787,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/64A4njSpGtuK6MMRDqUifl",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-051-7-20-24-live/id1694606661?i=1000663151787",
+        "youtube": "https://www.youtube.com/watch?v=clLtS0QVmno"
+      }
+    },
+    {
+      "id": "64cf8f23-f51a-45f3-97f2-a3e1d2464b64",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-050 - (7-13-24) - Live for Three Big Announcements, then Q\u0026A",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-050 - (7-13-24) - Live for Three Big Announcements, then Q\u0026A",
+      "release": "2024-07-24T02:30:40Z",
+      "duration": "01:00:23.2090000",
+      "explicit": false,
+      "spotifyId": "3DKhwFUAqRj8krIRzLnWON",
+      "appleId": 1000663151921,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3DKhwFUAqRj8krIRzLnWON",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-050-7-13-24-live/id1694606661?i=1000663151921",
+        "youtube": "https://www.youtube.com/watch?v=yIP94JrtKp0"
+      }
+    },
+    {
+      "id": "d04e8fe4-7468-4115-8664-47e5a69da4b9",
+      "title": "Silver Linings Podcast - EP049-Will\u0027s Story of Service, Trauma, Hope, \u0026 Healing",
+      "description": "Silver Linings Podcast - EP049-Will\u0027s Story of Service, Trauma, Hope, \u0026 Healing",
+      "release": "2024-07-10T14:20:55Z",
+      "duration": "00:41:26.5170000",
+      "explicit": false,
+      "spotifyId": "5FpiQV2Sjn8nLlB9CgG13H",
+      "appleId": 1000661789950,
+      "youTubeId": "ZQvVMITJ28U",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5FpiQV2Sjn8nLlB9CgG13H",
+        "apple": "https://podcasts.apple.com/podcast/wills-story-of-service-trauma-hope-healing/id1694606661?i=1000661789950",
+        "youtube": "https://www.youtube.com/watch?v=ZQvVMITJ28U"
+      }
+    },
+    {
+      "id": "109d414e-538f-4516-b537-262ddeb8cb57",
+      "title": "Silver Linings Podcast - EP046 - A Safe Place to Connect and Heal",
+      "description": "Silver Linings Podcast - EP046 - A Safe Place to Connect and Heal",
+      "release": "2024-06-19T12:00:00Z",
+      "duration": "00:28:54.1120000",
+      "explicit": false,
+      "spotifyId": "3s9lQqeu3cJLuY4Yc3kxFu",
+      "appleId": 1000659516638,
+      "youTubeId": "TusBZXk7HFk",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3s9lQqeu3cJLuY4Yc3kxFu",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep046-a-safe-place-to/id1694606661?i=1000659516638",
+        "youtube": "https://www.youtube.com/watch?v=TusBZXk7HFk"
+      }
+    },
+    {
+      "id": "4ea05338-5f61-4ad4-baf0-1df403b433ae",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-038 - (6-8-24) - Saturday Live - Adam is back!",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-038 - (6-8-24) - Saturday Live - Adam is back!",
+      "release": "2024-06-13T02:16:27Z",
+      "duration": "01:03:07.8070000",
+      "explicit": false,
+      "spotifyId": "3w9F2fau9oSOWPY5jlMLEC",
+      "appleId": 1000658851177,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3w9F2fau9oSOWPY5jlMLEC",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-038-6-8-24-saturday/id1694606661?i=1000658851177"
+      }
+    },
+    {
+      "id": "5d8b0419-2de5-4b5e-b2c7-777ec6bdf98f",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-037 - (6-4-24) - After-trial Live",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-037 - (6-4-24) - After-trial Live",
+      "release": "2024-06-13T02:16:01Z",
+      "duration": "01:23:24.4080000",
+      "explicit": false,
+      "spotifyId": "3zf16oaMA1TQp7QS5XFyat",
+      "appleId": 1000658851395,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3zf16oaMA1TQp7QS5XFyat",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-037-6-4-24-after/id1694606661?i=1000658851395"
+      }
+    },
+    {
+      "id": "86619e52-e525-4347-8839-03429b4d9ba1",
+      "title": "Silver Linings Podcast - EP045 - More Book Input from the Trials",
+      "description": "Silver Linings Podcast - EP045 - More Book Input from the Trials",
+      "release": "2024-06-12T13:43:39Z",
+      "duration": "00:30:32.9860000",
+      "explicit": false,
+      "spotifyId": "6THKXMhmR2Q1gTR7u4Kpc7",
+      "appleId": 1000658782409,
+      "youTubeId": "46yKYCmQS-0",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6THKXMhmR2Q1gTR7u4Kpc7",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep045-more-book-input-from-the/id1694606661?i=1000658782409",
+        "youtube": "https://www.youtube.com/watch?v=46yKYCmQS-0"
+      }
+    },
+    {
+      "id": "725796f6-8a59-4a28-8317-272764528af3",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-036 - (6-1-24) - Verdict discussions, Patreon announcement, more Q\u0026As",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-036 - (6-1-24) - Verdict discussions, Patreon announcement, more Q\u0026A",
+      "release": "2024-06-03T22:31:45Z",
+      "duration": "00:58:20.9300000",
+      "explicit": false,
+      "spotifyId": "1uThvwnLLW6Hf6TgMJ8OcS",
+      "appleId": 1000657728008,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1uThvwnLLW6Hf6TgMJ8OcS",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-036-6-1-24-verdict/id1694606661?i=1000657728008"
+      }
+    },
+    {
+      "id": "1582a483-d21a-48d3-9654-3b6aca9dce8f",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-034 - (5-25-24) - Let\u0027s talk Live about the big news from the trial!",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-034 - (5-25-24) - Let\u0027s talk Live about the big news from the trial!",
+      "release": "2024-06-03T22:30:51Z",
+      "duration": "01:08:51.4740000",
+      "explicit": false,
+      "spotifyId": "7Ivq6YVTjZ7A8DIkmLaeH4",
+      "appleId": 1000657727570,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7Ivq6YVTjZ7A8DIkmLaeH4",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-034-5-25-24-lets/id1694606661?i=1000657727570"
+      }
+    },
+    {
+      "id": "d1630217-52a7-4ebc-8536-ae479609badd",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-033 - (5-18-24) -  Weekly Live for Trial Q\u0026A",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-033 - (5-18-24) - Weekly Live for Trial Q\u0026A",
+      "release": "2024-06-03T22:30:17Z",
+      "duration": "01:09:40.5050000",
+      "explicit": false,
+      "spotifyId": "3HFMsUubkORApZtv9iLDIv",
+      "appleId": 1000657728054,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3HFMsUubkORApZtv9iLDIv",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-033-5-18-24-weekly/id1694606661?i=1000657728054"
+      }
+    },
+    {
+      "id": "e14eac61-5fc1-4bc3-87a7-89ff934fe70e",
+      "title": "Silver Linings Podcast - EP044 Continued trial questions from Saturday\u0027s Live",
+      "description": "Silver Linings Podcast - EP044 Continued trial questions from Saturday\u0027s Live",
+      "release": "2024-05-28T12:00:00Z",
+      "duration": "01:25:47.0100000",
+      "explicit": false,
+      "spotifyId": "5wilZJckPcY25dio75nYtN",
+      "appleId": 1000657026044,
+      "youTubeId": "stV_P6VEQ7E",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5wilZJckPcY25dio75nYtN",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep044-continued-trial-questions/id1694606661?i=1000657026044",
+        "youtube": "https://www.youtube.com/watch?v=stV_P6VEQ7E"
+      }
+    },
+    {
+      "id": "f3e5dd5a-d11a-4fb5-b43d-f6176401b840",
+      "title": "Silver Linings Podcast - EP043-Being Held Accountable",
+      "description": "Silver Linings Podcast - EP043-Being Held Accountable",
+      "release": "2024-05-21T14:50:41Z",
+      "duration": "00:25:59.5100000",
+      "explicit": false,
+      "spotifyId": "7py2VTIKrPxZJ2ha55a5Wj",
+      "appleId": 1000656283482,
+      "youTubeId": "PuCL1SRxk28",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7py2VTIKrPxZJ2ha55a5Wj",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep043-being-held-accountable/id1694606661?i=1000656283482",
+        "youtube": "https://www.youtube.com/watch?v=PuCL1SRxk28"
+      }
+    },
+    {
+      "id": "1dd99bb3-51fa-41fa-9589-a9d6042b8282",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE 32 - 5-14 - 24 - Live Trial Questions and Discussions (YTL)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE 32 - 5-14 - 24 - Live Trial Questions and Discussions (YTL)",
+      "release": "2024-05-16T05:49:38Z",
+      "duration": "01:08:29.7660000",
+      "explicit": false,
+      "spotifyId": "6gqwkpDMLCVyh75xNsAGPi",
+      "appleId": 1000655759219,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6gqwkpDMLCVyh75xNsAGPi",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-32-5-14-24-live/id1694606661?i=1000655759219"
+      }
+    },
+    {
+      "id": "9f3ab186-c862-46b7-8593-015de2faeb4c",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE 31 - 5-11-24 - Live Attempt to Answer All (YTL)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE 31 - 5-11-24 - Live Attempt to Answer All (YTL)",
+      "release": "2024-05-16T05:48:29Z",
+      "duration": "01:31:04.8680000",
+      "explicit": false,
+      "spotifyId": "4Gb2dBOn46qX2Mt4FBrIKs",
+      "appleId": 1000655759220,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Gb2dBOn46qX2Mt4FBrIKs",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-31-5-11-24-live/id1694606661?i=1000655759220"
+      }
+    },
+    {
+      "id": "3c9a00c9-7986-497e-85aa-8710edc0480c",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE 30 - 5-7-24 - Live with Tom Evans from the trial in Boise! (YTL)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE 30 - 5-7-24 - Live with Tom Evans from the trial in Boise! (YTL)",
+      "release": "2024-05-16T05:47:18Z",
+      "duration": "00:56:30.6930000",
+      "explicit": false,
+      "spotifyId": "6PQkvB7acjDgr0d5BANvIv",
+      "appleId": 1000655759165,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6PQkvB7acjDgr0d5BANvIv",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-30-5-7-24-live/id1694606661?i=1000655759165"
+      }
+    },
+    {
+      "id": "70a20539-3984-405a-8050-7e49a82540d5",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-029 - (5-4-24) - Live  - Recent Questions and Appearances",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-029 - (5-4-24) - Live - Recent Questions and Appearances",
+      "release": "2024-05-06T20:39:36Z",
+      "duration": "01:04:29.1260000",
+      "explicit": false,
+      "spotifyId": "6012XCvpFewLJXc37i5BBc",
+      "appleId": 1000654727345,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6012XCvpFewLJXc37i5BBc",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-029-5-4-24-live/id1694606661?i=1000654727345",
+        "youtube": "https://www.youtube.com/watch?v=0b8lmOpVma4"
+      }
+    },
+    {
+      "id": "d69467e1-f357-4272-937e-2450007f6ad9",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-028 - (4-27-24) - Live NOW!",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-028 - (4-27-24) - Live NOW!",
+      "release": "2024-05-06T20:38:41Z",
+      "duration": "00:59:14.1420000",
+      "explicit": false,
+      "spotifyId": "3CySZeCJ9BIgboHiIZ6NCs",
+      "appleId": 1000654727459,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3CySZeCJ9BIgboHiIZ6NCs",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-028-4-27-24-live-now/id1694606661?i=1000654727459"
+      }
+    },
+    {
+      "id": "0e9e55be-7bac-4c32-9d22-4743245953a7",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-027 - (4-21-24) - Live Q\u0026A with Alice Conner and Ben",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-027 - (4-21-24) - Live Q\u0026A with Alice Conner and Ben",
+      "release": "2024-05-06T20:37:20Z",
+      "duration": "01:12:01.0710000",
+      "explicit": false,
+      "spotifyId": "05qVvosiXrLYFPdgHjd7H5",
+      "appleId": 1000654727458,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/05qVvosiXrLYFPdgHjd7H5",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-027-4-21-24-live/id1694606661?i=1000654727458"
+      }
+    },
+    {
+      "id": "91bb535b-9512-4fac-bc9d-3ff1ffaecd65",
+      "title": "Silver Linings Podcast - EP042-Profiling the Evil Daybell Case with Mike King",
+      "description": "Silver Linings Podcast - EP042-Profiling the Evil Daybell Case with Mike King",
+      "release": "2024-04-30T13:26:18Z",
+      "duration": "01:11:18.4390000",
+      "explicit": false,
+      "spotifyId": "5rnPqVuaTARiw7h5I1JA5Q",
+      "appleId": 1000654053271,
+      "youTubeId": "O5sEdSUHC_g",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5rnPqVuaTARiw7h5I1JA5Q",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep042-profiling-the-evil/id1694606661?i=1000654053271",
+        "youtube": "https://www.youtube.com/watch?v=O5sEdSUHC_g"
+      }
+    },
+    {
+      "id": "a0c21b4f-2c6c-4dee-b5d2-e95e944facad",
+      "title": "Silver Linings Podcast - EP041-Joel \u0026 Karm - Surviving the Survivor",
+      "description": "Silver Linings Podcast - EP041-Joel \u0026 Karm - Surviving the Survivor",
+      "release": "2024-04-23T15:29:51Z",
+      "duration": "00:33:39.6310000",
+      "explicit": false,
+      "spotifyId": "0Yy3KdLCwifyHRYr2uohMp",
+      "appleId": 1000653347122,
+      "youTubeId": "MwwPrlKqoUU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Yy3KdLCwifyHRYr2uohMp",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep041-joel-karm-surviving-the/id1694606661?i=1000653347122",
+        "youtube": "https://www.youtube.com/watch?v=MwwPrlKqoUU"
+      }
+    },
+    {
+      "id": "f52001d4-ba58-4de0-9a43-e7dbd1335b75",
+      "title": "Silver Linings Podcast - EP040 - Alice \u0026 Ben",
+      "description": "Silver Linings Podcast - EP040 - Alice \u0026 Ben",
+      "release": "2024-04-16T04:13:21Z",
+      "duration": "00:57:10.2690000",
+      "explicit": false,
+      "spotifyId": "6qdd7KPZyBkroMXaslfEwq",
+      "appleId": 1000652570710,
+      "youTubeId": "7VCYQXKRhHM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6qdd7KPZyBkroMXaslfEwq",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep040-alice-ben/id1694606661?i=1000652570710",
+        "youtube": "https://www.youtube.com/watch?v=7VCYQXKRhHM"
+      }
+    },
+    {
+      "id": "82eb93cb-8dea-4b28-b369-6d8268a89b0c",
+      "title": "Silver Linings Podcast - EP039 - Denim Slade",
+      "description": "Silver Linings Podcast - EP039 - Denim Slade",
+      "release": "2024-04-06T16:15:00Z",
+      "duration": "00:39:57.9620000",
+      "explicit": false,
+      "spotifyId": "6czOqDsVRUJoECJXaFJSqM",
+      "appleId": 1000651630864,
+      "youTubeId": "9VP-Moq-BdM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6czOqDsVRUJoECJXaFJSqM",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep039-denim-slade/id1694606661?i=1000651630864",
+        "youtube": "https://www.youtube.com/watch?v=9VP-Moq-BdM"
+      }
+    },
+    {
+      "id": "a11fd14a-5ac2-42c5-b19b-f5c543015660",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-023 - (3-30-24) - Live with Ben Conner, Adam, and Rex (ytl)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-023 - (3-30-24) - Live with Ben Conner, Adam, and Rex (ytl)",
+      "release": "2024-04-02T23:18:06Z",
+      "duration": "01:05:23.7480000",
+      "explicit": false,
+      "spotifyId": "74afo97mxiQOM7glHehckB",
+      "appleId": 1000651244742,
+      "youTubeId": "lcEj5MtL6ck",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74afo97mxiQOM7glHehckB",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-023-3-30-24-live/id1694606661?i=1000651244742",
+        "youtube": "https://www.youtube.com/watch?v=lcEj5MtL6ck"
+      }
+    },
+    {
+      "id": "2140b6ce-3491-42c4-b9f2-dc1c061dfafd",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-022 - (3-23-24) - Silver Linings Live Podcast (ytl)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-022 - (3-23-24) - Silver Linings Live Podcast (ytl)",
+      "release": "2024-04-02T23:17:40Z",
+      "duration": "01:03:53.2860000",
+      "explicit": false,
+      "spotifyId": "7yqYpkCe8lpoWT6aPMfLcl",
+      "appleId": 1000651244820,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7yqYpkCe8lpoWT6aPMfLcl",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-022-3-23-24-silver/id1694606661?i=1000651244820"
+      }
+    },
+    {
+      "id": "539a0d87-cbca-4dad-94ae-d8ee81475c13",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-021 - (3-16-24) - Live with Adam \u0026 Gruncle (ytl)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-021 - (3-16-24) - Live with Adam \u0026 Gruncle (ytl)",
+      "release": "2024-04-02T23:17:12Z",
+      "duration": "01:03:12.6400000",
+      "explicit": false,
+      "spotifyId": "4W5cpkzUdwoMZpfbXjlhmh",
+      "appleId": 1000651244741,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4W5cpkzUdwoMZpfbXjlhmh",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-021-3-16-24-live/id1694606661?i=1000651244741"
+      }
+    },
+    {
+      "id": "b0a11a49-4691-49d1-ad4f-fc6a0d358e2b",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-020 - (3-9-24) - Live Community News and Q\u0026A with Adam \u0026 Rex (ytl)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-020 - (3-9-24) - Live Community News and Q\u0026A with Adam \u0026 Rex (ytl)",
+      "release": "2024-04-02T23:16:37Z",
+      "duration": "01:03:00.7800000",
+      "explicit": false,
+      "spotifyId": "779R7XiHEpeqRdABffRweC",
+      "appleId": 1000651244766,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/779R7XiHEpeqRdABffRweC",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-020-3-9-24-live/id1694606661?i=1000651244766"
+      }
+    },
+    {
+      "id": "c2605c58-8995-469b-ac86-5e34a5b27697",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-019 - (3-2-24) - Live with Adam and Rex (ytl)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-019 - (3-2-24) - Live with Adam and Rex (ytl)",
+      "release": "2024-04-02T23:16:08Z",
+      "duration": "01:00:51.3950000",
+      "explicit": false,
+      "spotifyId": "7d0Rx5ykLcjy46zpR6fKZy",
+      "appleId": 1000651244726,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7d0Rx5ykLcjy46zpR6fKZy",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-019-3-2-24-live/id1694606661?i=1000651244726"
+      }
+    },
+    {
+      "id": "e454a6b6-7b39-4945-82a2-a45dff17515d",
+      "title": "Silver Linings Podcast - EP038 - Publisher Jane with EMDR help (b)",
+      "description": "Silver Linings Podcast - EP038 - Publisher Jane with EMDR help (b)",
+      "release": "2024-04-02T18:54:03Z",
+      "duration": "00:47:43.5420000",
+      "explicit": false,
+      "spotifyId": "6NEgqp0gydF4olFtYeXRI6",
+      "appleId": 1000651223266,
+      "youTubeId": "8vv45urluqY",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6NEgqp0gydF4olFtYeXRI6",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep038-publisher-jane-with-emdr/id1694606661?i=1000651223266",
+        "youtube": "https://www.youtube.com/watch?v=8vv45urluqY"
+      }
+    },
+    {
+      "id": "e2a8d9c1-6c10-4737-ab73-aece1f0d7f3f",
+      "title": "Silver Linings Podcast - Announcement for  3-27-24",
+      "description": "Silver Linings Podcast - Announcement for 3-27-24",
+      "release": "2024-03-27T16:28:19Z",
+      "duration": "00:01:10.5560000",
+      "explicit": false,
+      "spotifyId": "0e1IRdmPgnZCmvcHLQNwIc",
+      "appleId": 1000650638063,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0e1IRdmPgnZCmvcHLQNwIc",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-announcement-for-3-27-24/id1694606661?i=1000650638063"
+      }
+    },
+    {
+      "id": "72b419a7-2652-42f1-be11-abea71e7c781",
+      "title": "Silver Linings Podcast - EP037 - PTSD Counseling with Ben Conner",
+      "description": "Silver Linings Podcast - EP037 - PTSD Counseling with Ben Conner",
+      "release": "2024-03-26T16:03:53Z",
+      "duration": "00:54:25.3840000",
+      "explicit": false,
+      "spotifyId": "71Uti8rYJz4qyTNfuWOQsQ",
+      "appleId": 1000650510160,
+      "youTubeId": "zN3G1Bqi4FM",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/71Uti8rYJz4qyTNfuWOQsQ",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep037-ptsd-counseling-with-ben/id1694606661?i=1000650510160",
+        "youtube": "https://www.youtube.com/watch?v=zN3G1Bqi4FM"
+      }
+    },
+    {
+      "id": "b9981f40-e169-44fb-8370-0a5837aa52b7",
+      "title": "EP036 - Damage Control, Community Trial Strategies, and Announcements",
+      "description": "EP036 - Damage Control, Community Trial Strategies, and Announcements",
+      "release": "2024-03-19T12:00:00Z",
+      "duration": "00:32:07.8360000",
+      "explicit": false,
+      "spotifyId": "4tK9NFAE7B5r00tA9ZdGC6",
+      "appleId": 1000649704534,
+      "youTubeId": "0wvb_ZJZvL4",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4tK9NFAE7B5r00tA9ZdGC6",
+        "apple": "https://podcasts.apple.com/podcast/ep036-damage-control-community-trial-strategies-and/id1694606661?i=1000649704534",
+        "youtube": "https://www.youtube.com/watch?v=0wvb_ZJZvL4"
+      }
+    },
+    {
+      "id": "2c6c5bb4-7bbd-4a41-a8c3-e66c164af4c2",
+      "title": "Silver Linings Podcast - EP035 - Help Adam (and all other men)(zm)",
+      "description": "Silver Linings Podcast - EP035 - Help Adam (and all other men)(zm)",
+      "release": "2024-03-05T17:37:21Z",
+      "duration": "00:34:05.9880000",
+      "explicit": false,
+      "spotifyId": "5Rc9I6pKP1REk7UyYAUyBj",
+      "appleId": 1000648106100,
+      "youTubeId": "KiWkFB9RpRM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Rc9I6pKP1REk7UyYAUyBj",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep035-help-adam-and-all-other-men-zm/id1694606661?i=1000648106100",
+        "youtube": "https://www.youtube.com/watch?v=KiWkFB9RpRM"
+      }
+    },
+    {
+      "id": "c2c6d4a6-da1f-4376-bc42-fa8a4e9e8ece",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-019 - (2-26-24) - Live Q and A With Rex and Adam (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-019 - (2-26-24) - Live Q and A With Rex and Adam (lv)",
+      "release": "2024-03-02T00:59:52Z",
+      "duration": "01:03:37.7430000",
+      "explicit": false,
+      "spotifyId": "3T5IVTOc2zbaHl1GgpKIxW",
+      "appleId": 1000647728148,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3T5IVTOc2zbaHl1GgpKIxW",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-019-2-26-24-live/id1694606661?i=1000647728148"
+      }
+    },
+    {
+      "id": "35e977d4-d6ea-4557-8bd3-e1f2a1634eb0",
+      "title": "Silver Linings Podcast - EP034 - Behind the Scenes of Writing Lori\u0027s Lies... (zm)",
+      "description": "Silver Linings Podcast - EP034 - Behind the Scenes of Writing Lori\u0027s Lies... (zm)",
+      "release": "2024-02-27T13:00:00Z",
+      "duration": "00:40:45.9490000",
+      "explicit": false,
+      "spotifyId": "6URQDKN1EpdvZ6GIlnTKtD",
+      "appleId": 1000647227919,
+      "youTubeId": "5MT9JOlJRQc",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6URQDKN1EpdvZ6GIlnTKtD",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep034-behind-the-scenes/id1694606661?i=1000647227919",
+        "youtube": "https://www.youtube.com/watch?v=5MT9JOlJRQc"
+      }
+    },
+    {
+      "id": "a6f8a386-b62e-40d4-ba68-d5f3a4b07397",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-018 - (2-18-24) - Live Q \u002B Speculate - what do you want to get from Chad\u0027s trial (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-018 - (2-18-24) - Live Q \u0026#43; Speculate - what do you want to get from Chad\u0027s trial (lv)",
+      "release": "2024-02-22T17:05:14Z",
+      "duration": "01:02:25.0440000",
+      "explicit": false,
+      "spotifyId": "7BnSMJoSdO84cefwJzMIaO",
+      "appleId": 1000646421358,
+      "youTubeId": "Yv-VDABkj_w",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7BnSMJoSdO84cefwJzMIaO",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-018-2-18-24-live/id1694606661?i=1000646421358",
+        "youtube": "https://www.youtube.com/watch?v=Yv-VDABkj_w"
+      }
+    },
+    {
+      "id": "e85b1469-696e-4f5b-b015-4a082e6bf269",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-017 - (2-10-24) - Meet \u002B Greet in Arizona and Live with Rex and Adam! (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-017 - (2-10-24) - Meet \u0026#43; Greet in Arizona and Live with Rex and Adam! (lv)",
+      "release": "2024-02-22T17:04:50Z",
+      "duration": "01:02:00.4890000",
+      "explicit": false,
+      "spotifyId": "01LX31JoxNubuUpw7RKpcQ",
+      "appleId": 1000646421233,
+      "youTubeId": "WX9Z-KhdftE",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/01LX31JoxNubuUpw7RKpcQ",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-017-2-10-24-meet/id1694606661?i=1000646421233",
+        "youtube": "https://www.youtube.com/watch?v=WX9Z-KhdftE"
+      }
+    },
+    {
+      "id": "f2b7752c-c32b-441c-bcba-bd49f3c5f05d",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-016 - (2-4-24) - Live Q and A With Rex and Adam, and Community Successes! (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-016 - (2-4-24) - Live Q and A With Rex and Adam, and Community Successes! (lv)",
+      "release": "2024-02-22T17:04:17Z",
+      "duration": "01:03:17.2890000",
+      "explicit": false,
+      "spotifyId": "1MfOXIHY9dNm1By1TzliCM",
+      "appleId": 1000646421357,
+      "youTubeId": "IUFMWMiZm0c",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1MfOXIHY9dNm1By1TzliCM",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-016-2-4-24-live/id1694606661?i=1000646421357",
+        "youtube": "https://www.youtube.com/watch?v=IUFMWMiZm0c"
+      }
+    },
+    {
+      "id": "2f2c3c57-c874-4025-9382-d678432583c0",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-015 - (1-28-24) - We\u0027re Revisiting the Case (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-015 - (1-28-24) - We\u0027re Revisiting the Case (lv)",
+      "release": "2024-02-22T17:03:56Z",
+      "duration": "01:00:37.9420000",
+      "explicit": false,
+      "spotifyId": "71ZZZ7FVMFtW95E93Wpoyy",
+      "appleId": 1000646421308,
+      "youTubeId": "EBYVe1UbWSc",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/71ZZZ7FVMFtW95E93Wpoyy",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-015-1-28-24-were/id1694606661?i=1000646421308",
+        "youtube": "https://www.youtube.com/watch?v=EBYVe1UbWSc"
+      }
+    },
+    {
+      "id": "9e970619-bbab-4b07-bcd4-07d823058c45",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-014 - (1-20-24) - Live Q and A with Rex and Adam! (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-014 - (1-20-24) - Live Q and A with Rex and Adam! (lv)",
+      "release": "2024-02-22T17:03:30Z",
+      "duration": "01:03:24.4990000",
+      "explicit": false,
+      "spotifyId": "0unLC17kL7Ns5WXMQJOKeX",
+      "appleId": 1000646421292,
+      "youTubeId": "SIOL1FFPBqw",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0unLC17kL7Ns5WXMQJOKeX",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-014-1-20-24-live/id1694606661?i=1000646421292",
+        "youtube": "https://www.youtube.com/watch?v=SIOL1FFPBqw"
+      }
+    },
+    {
+      "id": "0c0eb4bc-305a-41de-a539-8a064608c3f4",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-013- (1-18-24) - Reaction to Chad\u0027s lawyer\u0027s petition denial (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-013- (1-18-24) - Reaction to Chad\u0027s lawyer\u0027s petition denial (lv)",
+      "release": "2024-02-22T17:03:02Z",
+      "duration": "00:16:22.2300000",
+      "explicit": false,
+      "spotifyId": "2pqCnlUd5UASQSp7bz4g4o",
+      "appleId": 1000646421309,
+      "youTubeId": "Ybz231H11Zo",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2pqCnlUd5UASQSp7bz4g4o",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-013-1-18-24-reaction/id1694606661?i=1000646421309",
+        "youtube": "https://www.youtube.com/watch?v=Ybz231H11Zo"
+      }
+    },
+    {
+      "id": "cbee9fbc-d656-41c5-92c7-fd0af1a42e69",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-012 - (1-13-24) - Live Q and A with Rex and Adam in Salt Lake City! (lv)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-012 - (1-13-24) - Live Q and A with Rex and Adam in Salt Lake City! (lv)",
+      "release": "2024-02-22T17:02:41Z",
+      "duration": "01:07:49.5110000",
+      "explicit": false,
+      "spotifyId": "41DrT1dJrpSju4igkkqJN7",
+      "appleId": 1000646421539,
+      "youTubeId": "_yTyhD5mt4Y",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/41DrT1dJrpSju4igkkqJN7",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-012-1-13-24-live/id1694606661?i=1000646421539",
+        "youtube": "https://www.youtube.com/watch?v=_yTyhD5mt4Y"
+      }
+    },
+    {
+      "id": "5887fa9b-e0c2-4d91-ac50-a765bdb812d3",
+      "title": "Silver Linings Podcast - EP033 - Lives Changed at The Other Side",
+      "description": "Silver Linings Podcast - EP033 - Lives Changed at The Other Side",
+      "release": "2024-02-21T00:16:41Z",
+      "duration": "00:30:12.6880000",
+      "explicit": false,
+      "spotifyId": "2GojRIVYfJFLYlbRdf9ds6",
+      "appleId": 1000646069799,
+      "youTubeId": "0KPu-pbk2XU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2GojRIVYfJFLYlbRdf9ds6",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep033-lives-changed-at-the/id1694606661?i=1000646069799",
+        "youtube": "https://www.youtube.com/watch?v=0KPu-pbk2XU"
+      }
+    },
+    {
+      "id": "8ebdd860-6537-4b9b-b76e-52c3bc7f981d",
+      "title": "Silver Linings Podcast - EP032 - Joseph Grenny (zm)",
+      "description": "Silver Linings Podcast - EP032 - Joseph Grenny (zm)",
+      "release": "2024-02-13T13:00:00Z",
+      "duration": "00:35:08.4470000",
+      "explicit": false,
+      "spotifyId": "5zfeJoxllKJfAwZclR6W4D",
+      "appleId": 1000645170898,
+      "youTubeId": "nUutV_x3R7Y",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5zfeJoxllKJfAwZclR6W4D",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep032-joseph-grenny-zm/id1694606661?i=1000645170898",
+        "youtube": "https://www.youtube.com/watch?v=nUutV_x3R7Y"
+      }
+    },
+    {
+      "id": "1e0b86c0-568d-41af-9eba-633a263ccf5a",
+      "title": "Silver Linings Podcast - Announcement for  2-10-24",
+      "description": "Silver Linings Podcast - Announcement for 2-10-24",
+      "release": "2024-02-08T00:31:22Z",
+      "duration": "00:03:15.1600000",
+      "explicit": false,
+      "spotifyId": "5elzFeu8T6tu3qB8dmFxZA",
+      "appleId": 1000644567476,
+      "youTubeId": "59-X_RZp1uY",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5elzFeu8T6tu3qB8dmFxZA",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-announcement-for-2-10-24/id1694606661?i=1000644567476",
+        "youtube": "https://www.youtube.com/watch?v=59-X_RZp1uY"
+      }
+    },
+    {
+      "id": "b211800c-8836-4f14-b8c1-e5a9a6ccf9e7",
+      "title": "Silver Linings Podcast - EP031 - Trish Sips the KoolAid then Recovers Big! (zm)",
+      "description": "Silver Linings Podcast - EP031 - Trish Sips the KoolAid then Recovers Big! (zm)",
+      "release": "2024-02-06T20:23:49Z",
+      "duration": "00:35:06.4350000",
+      "explicit": false,
+      "spotifyId": "4ox6k4feWN93EglNXnYeZq",
+      "appleId": 1000644398598,
+      "youTubeId": "XO2hc2XtFjQ",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ox6k4feWN93EglNXnYeZq",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep031-trish-sips-the-koolaid/id1694606661?i=1000644398598",
+        "youtube": "https://www.youtube.com/watch?v=XO2hc2XtFjQ"
+      }
+    },
+    {
+      "id": "870ca55d-64bf-42c7-bea9-beff93d0d1e2",
+      "title": "Silver Linings Podcast - EP030 - Tom Evans (Juror #18)",
+      "description": "Silver Linings Podcast - EP030 - Tom Evans (Juror #18)",
+      "release": "2024-01-30T13:01:00Z",
+      "duration": "01:02:22.5890000",
+      "explicit": false,
+      "spotifyId": "1I5PP1EqgvLDFLJDEKrAWB",
+      "appleId": 1000643515780,
+      "youTubeId": "k33m-NHhw1w",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1I5PP1EqgvLDFLJDEKrAWB",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep030-tom-evans-juror-18/id1694606661?i=1000643515780",
+        "youtube": "https://www.youtube.com/watch?v=k33m-NHhw1w"
+      }
+    },
+    {
+      "id": "cbdd9854-3fe1-49e0-a5fe-ee8089143986",
+      "title": "Silver Linings Podcast - EP029 - Adam Revisits Questions Around Charles \u0026 Family (zm)",
+      "description": "Lori Vallow\u2019s murders, including her own children, are one of the most horrific crimes of this generation. \nLori\u2019s brother, Adam Cox and Uncle Rex, try to help everyone make sense of it and take away something of value.",
+      "release": "2024-01-23T00:35:15Z",
+      "duration": "00:29:24",
+      "explicit": false,
+      "spotifyId": "6QH1WXb9gokIy5EY3sIxcP",
+      "appleId": 1000642571247,
+      "youTubeId": "lYpGFc8LP8c",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6QH1WXb9gokIy5EY3sIxcP",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep029-adam-revisits-questions/id1694606661?i=1000642571247",
+        "youtube": "https://www.youtube.com/watch?v=lYpGFc8LP8c"
+      }
+    },
+    {
+      "id": "a2da7f41-9715-40a9-94ae-d3b527459171",
+      "title": "Silver Linings Podcast - EP028-Requests Please",
+      "description": "Silver Linings Podcast - EP028-Requests Please",
+      "release": "2024-01-17T18:19:26Z",
+      "duration": "00:34:54.3410000",
+      "explicit": false,
+      "spotifyId": "6bGihjCxbJxUNzgoh47QTw",
+      "appleId": 1000642003255,
+      "youTubeId": "_UE7ic0HvpM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6bGihjCxbJxUNzgoh47QTw",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep028-requests-please/id1694606661?i=1000642003255",
+        "youtube": "https://www.youtube.com/watch?v=_UE7ic0HvpM"
+      }
+    },
+    {
+      "id": "f03f7245-5a5a-461a-a54f-ed6c791e7f7b",
+      "title": "Silver Linings Podcast - EP027-April Gives Insights of Lori",
+      "description": "Silver Linings Podcast - EP027-April Gives Insights of Lori",
+      "release": "2024-01-09T23:07:17Z",
+      "duration": "00:36:37.1330000",
+      "explicit": false,
+      "spotifyId": "6X9jJXYnt7teALn3kcIltJ",
+      "appleId": 1000641091114,
+      "youTubeId": "pxUl-f7lURE",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6X9jJXYnt7teALn3kcIltJ",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep027-april-gives-insights-of-lori/id1694606661?i=1000641091114",
+        "youtube": "https://www.youtube.com/watch?v=pxUl-f7lURE"
+      }
+    },
+    {
+      "id": "615f3bf2-c836-43dc-a91e-11cae536fe26",
+      "title": "Silver Linings Podcast - EP026 How I\u2019ll React",
+      "description": "Silver Linings Podcast - EP026 How I\u0027ll React",
+      "release": "2024-01-03T01:32:35Z",
+      "duration": "00:28:20.4660000",
+      "explicit": false,
+      "spotifyId": "0COGdx8ZY7zMx216Ws8ong",
+      "appleId": 1000640381085,
+      "youTubeId": "IRYqwuIZMBU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0COGdx8ZY7zMx216Ws8ong",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep026-how-ill-react/id1694606661?i=1000640381085",
+        "youtube": "https://www.youtube.com/watch?v=IRYqwuIZMBU"
+      }
+    },
+    {
+      "id": "8331eac3-24b9-43d0-816b-b3a2244e48c2",
+      "title": "Silver Linings Podcast - EP025 Denise Pt2",
+      "description": "Silver Linings Podcast - EP025 Denise Pt2",
+      "release": "2023-12-26T16:34:37Z",
+      "duration": "00:38:16.2670000",
+      "explicit": false,
+      "spotifyId": "5w8nbgwIE5ibA3rIEeaNor",
+      "appleId": 1000639739172,
+      "youTubeId": "GltbpQQMyUU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5w8nbgwIE5ibA3rIEeaNor",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep025-denise-pt2/id1694606661?i=1000639739172",
+        "youtube": "https://www.youtube.com/watch?v=GltbpQQMyUU"
+      }
+    },
+    {
+      "id": "1cf9c8ec-bbd0-4008-993f-608a1ae21c55",
+      "title": "Silver Linings Podcast - EP024 Denise Pt1",
+      "description": "Silver Linings Podcast - EP024 Denise Pt1",
+      "release": "2023-12-20T00:04:50Z",
+      "duration": "00:34:49.7170000",
+      "explicit": false,
+      "spotifyId": "6nlSjHkTi4oNZ0JhxwKLHq",
+      "appleId": 1000639150413,
+      "youTubeId": "d-XK4TGhhCM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6nlSjHkTi4oNZ0JhxwKLHq",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep024-denise-pt1/id1694606661?i=1000639150413",
+        "youtube": "https://www.youtube.com/watch?v=d-XK4TGhhCM"
+      }
+    },
+    {
+      "id": "9517941b-81bd-49ef-bf5f-2aa63df6d30c",
+      "title": "Silver Linings Podcast - EP023 - Goat Yoga",
+      "description": "Silver Linings Podcast - EP023 - Goat Yoga",
+      "release": "2023-12-13T19:02:35Z",
+      "duration": "00:27:08.6040000",
+      "explicit": false,
+      "spotifyId": "0WJJD9QWNrF2YkbF6vBgeG",
+      "appleId": 1000638473871,
+      "youTubeId": "IWuRpWE5SO8",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0WJJD9QWNrF2YkbF6vBgeG",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep023-goat-yoga/id1694606661?i=1000638473871",
+        "youtube": "https://www.youtube.com/watch?v=IWuRpWE5SO8"
+      }
+    },
+    {
+      "id": "b707b010-f40f-471a-a966-e3f2aae4f49c",
+      "title": "Silver Linings Podcast - EP022 - Holiday Caring",
+      "description": "Silver Linings Podcast - EP022 - Holiday Caring",
+      "release": "2023-12-07T00:25:03Z",
+      "duration": "00:29:37.0570000",
+      "explicit": false,
+      "spotifyId": "77DlYFgxjxHPLZDZ7NDdu1",
+      "appleId": 1000637744746,
+      "youTubeId": "naS29aF0nkk",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/77DlYFgxjxHPLZDZ7NDdu1",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep022-holiday-caring/id1694606661?i=1000637744746",
+        "youtube": "https://www.youtube.com/watch?v=naS29aF0nkk"
+      }
+    },
+    {
+      "id": "394fe172-8a45-4c55-8ad2-a0edcd56c0a6",
+      "title": "Silver Linings Podcast - Announcement (Live on 12-2-23)",
+      "description": "Silver Linings Podcast - Announcement (Live on 12-2-23)",
+      "release": "2023-12-02T05:32:04Z",
+      "duration": "00:01:06.9510000",
+      "explicit": false,
+      "spotifyId": "6Jc074XTxbUT8pA498HgUZ",
+      "appleId": 1000637251199,
+      "youTubeId": "VkuLeJbKPT0",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Jc074XTxbUT8pA498HgUZ",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-announcement-live-on-12-2-23/id1694606661?i=1000637251199",
+        "youtube": "https://www.youtube.com/watch?v=VkuLeJbKPT0"
+      }
+    },
+    {
+      "id": "f5cda591-ba55-4646-a7e1-2335812da533",
+      "title": "Silver Linings Podcast - Responses Trust",
+      "description": "Silver Linings Podcast - Responses Trust",
+      "release": "2023-11-29T18:38:50Z",
+      "duration": "00:31:28.6260000",
+      "explicit": false,
+      "spotifyId": "7i1ssV3StrqY732H2FDXqF",
+      "appleId": 1000636957924,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7i1ssV3StrqY732H2FDXqF",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-responses-trust/id1694606661?i=1000636957924"
+      }
+    },
+    {
+      "id": "134376a3-da34-46af-b085-3106040caf26",
+      "title": "Silver Linings Podcast - Responses, \u201DChange the Ending\u201D",
+      "description": "Silver Linings Podcast - Responses, Optimist Charlene",
+      "release": "2023-11-21T22:55:58Z",
+      "duration": "00:30:35.8330000",
+      "explicit": false,
+      "spotifyId": "5RaendBQJhr7P8PmtrgYl1",
+      "appleId": 1000635608913,
+      "youTubeId": "xiutav7--ns",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5RaendBQJhr7P8PmtrgYl1",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-responses-change-the-ending/id1694606661?i=1000635608913",
+        "youtube": "https://www.youtube.com/watch?v=xiutav7--ns"
+      }
+    },
+    {
+      "id": "45f83fb5-1092-48d4-8ba7-31e810e3d926",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-005 - Bombshell Speculation -11-17-23",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-005 - Bombshell Speculation -11-17-23",
+      "release": "2023-11-18T01:57:20Z",
+      "duration": "01:03:46.5200000",
+      "explicit": false,
+      "spotifyId": "7vNx1IdrimV6lf6ChZOEc3",
+      "appleId": 1000635235900,
+      "youTubeId": "Ss30xNmuB_E",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7vNx1IdrimV6lf6ChZOEc3",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-005-bombshell-speculation/id1694606661?i=1000635235900",
+        "youtube": "https://www.youtube.com/watch?v=Ss30xNmuB_E"
+      }
+    },
+    {
+      "id": "c427ba3f-8e4b-4e67-96fc-6ef155b4dda8",
+      "title": "Silver Linings Podcast - EP019 - Lori..and Chad; Dr Denim Slade",
+      "description": "Silver Linings Podcast - EP019 - Lori..and Chad; Dr Denim Slade",
+      "release": "2023-11-14T13:00:00Z",
+      "duration": "00:30:40.2740000",
+      "explicit": false,
+      "spotifyId": "0k81AHMatgORO1cfJgq4E2",
+      "appleId": 1000634770388,
+      "youTubeId": "5pDjns0OHas",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0k81AHMatgORO1cfJgq4E2",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep019-lori-and-chad-dr-denim-slade/id1694606661?i=1000634770388",
+        "youtube": "https://www.youtube.com/watch?v=5pDjns0OHas"
+      }
+    },
+    {
+      "id": "969692bd-fd8a-4308-a509-82de28c6c5e0",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-004 - Other Side Follow Up- 11-9-23 (5pm MST)",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-004 - Other Side Follow Up- 11-9-23 (5pm MST)",
+      "release": "2023-11-10T01:28:39Z",
+      "duration": "01:03:03.6800000",
+      "explicit": false,
+      "spotifyId": "0owYEGmOpa7XYQDlZ9Fz0z",
+      "appleId": 1000634325606,
+      "youTubeId": "A2GaCOFnlT4",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0owYEGmOpa7XYQDlZ9Fz0z",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-004-other-side/id1694606661?i=1000634325606",
+        "youtube": "https://www.youtube.com/watch?v=A2GaCOFnlT4"
+      }
+    },
+    {
+      "id": "5960f37d-8a0a-463a-8fe9-4c64c40135df",
+      "title": "Silver Linings Podcast - EP018 - Recovery, Bryan Billmire, Robbie Myrick",
+      "description": "Silver Linings Podcast - EP018 - Recovery, Bryan Billmire, Robbie Myrick",
+      "release": "2023-11-07T13:00:00Z",
+      "duration": "00:32:15.8560000",
+      "explicit": false,
+      "spotifyId": "0eE0cVusfNXKu4mEDbLdLi",
+      "appleId": 1000633998908,
+      "youTubeId": "HoGN1aRIHVI",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0eE0cVusfNXKu4mEDbLdLi",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep018-recovery-bryan-billmire/id1694606661?i=1000633998908",
+        "youtube": "https://www.youtube.com/watch?v=HoGN1aRIHVI"
+      }
+    },
+    {
+      "id": "c5a3afe8-6cdf-4e92-9364-bfb3d031cf1f",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-004 - Meet and Greet and LIVE, Mesa AZ  - 10-21-23",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-004 - Meet and Greet and LIVE, Mesa AZ - 10-21-23",
+      "release": "2023-11-06T17:22:08Z",
+      "duration": "01:14:42.6380000",
+      "explicit": false,
+      "spotifyId": "4Si5gm5i6trR5kQlpptlNi",
+      "appleId": 1000633875901,
+      "youTubeId": "b3MRqdHxC5E",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Si5gm5i6trR5kQlpptlNi",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-004-meet-and/id1694606661?i=1000633875901",
+        "youtube": "https://www.youtube.com/watch?v=b3MRqdHxC5E"
+      }
+    },
+    {
+      "id": "3dcaa1f3-b0ae-4469-aca0-453f109c82d0",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-005 - 11-4-23",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-005 - 11-4-23",
+      "release": "2023-11-06T17:12:42Z",
+      "duration": "01:00:45.2570000",
+      "explicit": false,
+      "spotifyId": "7shYQyOO7hMSUUqgPpHVC1",
+      "appleId": 1000633875880,
+      "youTubeId": "h0IHrrQE5NQ",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7shYQyOO7hMSUUqgPpHVC1",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-005-11-4-23/id1694606661?i=1000633875880",
+        "youtube": "https://www.youtube.com/watch?v=h0IHrrQE5NQ"
+      }
+    },
+    {
+      "id": "6dc763c4-c85f-4189-98f2-11b329f5b87e",
+      "title": "Silver Linings Podcast - Responses  No One Is Spared",
+      "description": "Silver Linings Podcast - Responses No One Is Spared",
+      "release": "2023-11-02T15:32:53Z",
+      "duration": "00:30:16.6070000",
+      "explicit": false,
+      "spotifyId": "5aBKJnPj9iFf9Pejwk4v6o",
+      "appleId": 1000633486995,
+      "youTubeId": "PuP5Lw5mRhw",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5aBKJnPj9iFf9Pejwk4v6o",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-responses-no-one-is-spared/id1694606661?i=1000633486995",
+        "youtube": "https://www.youtube.com/watch?v=PuP5Lw5mRhw"
+      }
+    },
+    {
+      "id": "57982ccd-596a-4d34-93ec-a84b87918632",
+      "title": "Silver Linings Podcast - Responses  Random Qs",
+      "description": "Silver Linings Podcast - Responses Random Qs",
+      "release": "2023-10-28T20:56:51Z",
+      "duration": "00:29:34.9150000",
+      "explicit": false,
+      "spotifyId": "5uxwBjXqoxvifoJXuwkefT",
+      "appleId": 1000632944732,
+      "youTubeId": "LrFj7MEkWrE",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5uxwBjXqoxvifoJXuwkefT",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-responses-random-qs/id1694606661?i=1000632944732",
+        "youtube": "https://www.youtube.com/watch?v=LrFj7MEkWrE"
+      }
+    },
+    {
+      "id": "3681b7ae-46b9-4426-8a39-5754a0dfe454",
+      "title": "Silver Linings Podcast - EP018 - Behind the Book",
+      "description": "Silver Linings Podcast - EP018 - Behind the Book",
+      "release": "2023-10-25T02:34:54Z",
+      "duration": "00:37:31.1540000",
+      "explicit": false,
+      "spotifyId": "4jShWJV08MRtFv2ftp5syA",
+      "appleId": 1000632519542,
+      "youTubeId": "JjxjBPrmQwg",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4jShWJV08MRtFv2ftp5syA",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep018-behind-the-book/id1694606661?i=1000632519542",
+        "youtube": "https://www.youtube.com/watch?v=JjxjBPrmQwg"
+      }
+    },
+    {
+      "id": "8e35d215-b8bd-413a-9c6e-0c22dcd906c4",
+      "title": "Silver Linings Podcast - EP017 - Discussion of Mormons in the News",
+      "description": "Silver Linings Podcast - EP017 - Discussion of Mormons in the News",
+      "release": "2023-10-18T02:03:58Z",
+      "duration": "00:30:13.5510000",
+      "explicit": false,
+      "spotifyId": "2DeUEAnT6X9EMqd3swwbOD",
+      "appleId": 1000631680452,
+      "youTubeId": "gjlvX4iduag",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2DeUEAnT6X9EMqd3swwbOD",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-ep017-discussion-of-mormons/id1694606661?i=1000631680452",
+        "youtube": "https://www.youtube.com/watch?v=gjlvX4iduag"
+      }
+    },
+    {
+      "id": "2e87879f-3ec9-4726-a4b8-c68c15653ac8",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-003 - Meet and Greet and LIVE  - 10-13-23",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-003 - Meet and Greet and LIVE - 10-13-23",
+      "release": "2023-10-17T00:33:19Z",
+      "duration": "01:04:44.0680000",
+      "explicit": false,
+      "spotifyId": "6NN6Rv3agE9Hd6nul59XF1",
+      "appleId": 1000631544319,
+      "youTubeId": "uuzBC1VsJMk",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6NN6Rv3agE9Hd6nul59XF1",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-003-meet-and/id1694606661?i=1000631544319",
+        "youtube": "https://www.youtube.com/watch?v=uuzBC1VsJMk"
+      }
+    },
+    {
+      "id": "947d6727-4510-47e6-bdce-003ac706dd4e",
+      "title": "Tylee and JJs Silver Linings Podcast - EP016 - Craig Shoemaker on Cults",
+      "description": "Tylee and JJs Silver Linings Podcast - EP016 - Craig Shoemaker on Cults",
+      "release": "2023-10-11T00:00:00Z",
+      "duration": "00:36:07.1440000",
+      "explicit": false,
+      "spotifyId": "3znRFbxVviRI67brlWNGnH",
+      "appleId": 1000630895006,
+      "youTubeId": "28UKRCCFeh4",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3znRFbxVviRI67brlWNGnH",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep016-craig/id1694606661?i=1000630895006",
+        "youtube": "https://www.youtube.com/watch?v=28UKRCCFeh4"
+      }
+    },
+    {
+      "id": "022b781b-6cc4-44c7-b82b-54b938854282",
+      "title": "Tylee and JJs Silver Linings Podcast - Announcing This Week\u2019s Activities",
+      "description": "Tylee and JJs Silver Linings Podcast - Announcing This Week\u0027s Activities",
+      "release": "2023-10-10T02:18:05Z",
+      "duration": "00:10:45.4850000",
+      "explicit": false,
+      "spotifyId": "7KwoAtT0zJwhT3CTNcZkN8",
+      "appleId": 1000630769446,
+      "youTubeId": "lBR9PKG4h2c",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7KwoAtT0zJwhT3CTNcZkN8",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-announcing-this/id1694606661?i=1000630769446",
+        "youtube": "https://www.youtube.com/watch?v=lBR9PKG4h2c"
+      }
+    },
+    {
+      "id": "a2c364b1-3c56-4400-b92c-2cd04f311918",
+      "title": "Tylee and JJs Silver Linings Podcast - Responses, Hope and Healing",
+      "description": "Tylee and JJs Silver Linings Podcast - Responses, Hope and Healing",
+      "release": "2023-10-04T00:45:41Z",
+      "duration": "00:33:14.1090000",
+      "explicit": false,
+      "spotifyId": "5DoZhLSMkgy91w2ME8DSHA",
+      "appleId": 1000630106932,
+      "youTubeId": "PUwee7yvYkk",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5DoZhLSMkgy91w2ME8DSHA",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-hope/id1694606661?i=1000630106932",
+        "youtube": "https://www.youtube.com/watch?v=PUwee7yvYkk"
+      }
+    },
+    {
+      "id": "f44286b6-55e2-4807-a549-9a7cdda87c8a",
+      "title": "Tylee and JJs Silver Linings Podcast - Responses  QnA",
+      "description": "Tylee and JJs Silver Linings Podcast - Responses QnA",
+      "release": "2023-09-29T02:29:05Z",
+      "duration": "00:27:18.2690000",
+      "explicit": false,
+      "spotifyId": "4fa6bUqfzOVcshudso6F4E",
+      "appleId": 1000629596246,
+      "youTubeId": "UNBmg-lSvQI",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4fa6bUqfzOVcshudso6F4E",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-qna/id1694606661?i=1000629596246",
+        "youtube": "https://www.youtube.com/watch?v=UNBmg-lSvQI"
+      }
+    },
+    {
+      "id": "0f21f3c4-202c-4197-8276-4ea551ca4b9f",
+      "title": "Tylee and JJs Silver Linings Podcast - Join Us Live on 9-26-23",
+      "description": "Tylee and JJs Silver Linings Podcast - Join Us Live on 9-26-23",
+      "release": "2023-09-25T20:19:59Z",
+      "duration": "00:08:03.0820000",
+      "explicit": false,
+      "spotifyId": "01kWhuT8LbH2bFZf0krtlZ",
+      "appleId": 1000629120371,
+      "youTubeId": "zD4zqLkfRzI",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/01kWhuT8LbH2bFZf0krtlZ",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-join-us-live-on-9-26-23/id1694606661?i=1000629120371",
+        "youtube": "https://www.youtube.com/watch?v=zD4zqLkfRzI"
+      }
+    },
+    {
+      "id": "52859580-deb4-4f32-89c1-732bd73e2cf7",
+      "title": "Tylee and JJs Silver Linings Podcast - Wild Speculations on What You Would Ask Lori",
+      "description": "Tylee and JJs Silver Linings Podcast - Wild Speculations on What You Would Ask Lori",
+      "release": "2023-09-22T04:45:37Z",
+      "duration": "00:30:10.0240000",
+      "explicit": false,
+      "spotifyId": "14KywuJie11JnMGQUbpuhb",
+      "appleId": 1000628785436,
+      "youTubeId": "Zw-gOjzCYSg",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/14KywuJie11JnMGQUbpuhb",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-wild/id1694606661?i=1000628785436",
+        "youtube": "https://www.youtube.com/watch?v=Zw-gOjzCYSg"
+      }
+    },
+    {
+      "id": "b9bad3cf-67a6-4097-ae4d-4e2189c7cbc1",
+      "title": "Tylee and JJs Silver Linings Podcast - Responses,  Therapy for Adam n Rex",
+      "description": "Tylee and JJs Silver Linings Podcast - Responses, Therapy for Adam n Rex",
+      "release": "2023-09-18T22:09:58Z",
+      "duration": "00:22:18.7230000",
+      "explicit": false,
+      "spotifyId": "0iisY0psMrnorrxOBxph2s",
+      "appleId": 1000628339103,
+      "youTubeId": "CIWI83tVYcs",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0iisY0psMrnorrxOBxph2s",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses/id1694606661?i=1000628339103"
+      }
+    },
+    {
+      "id": "f79a36e1-71ed-49e6-a0f0-76bdbfe28179",
+      "title": "Tylee and JJs Silver Linings Podcast - EP014 - Dr Denim Slade",
+      "description": "Tylee and JJs Silver Linings Podcast - EP014 - Dr Denim Slade DrDenimSlade.com",
+      "release": "2023-09-12T15:19:53Z",
+      "duration": "00:30:41.4230000",
+      "explicit": false,
+      "spotifyId": "61ianv9ZR7cTkx3jp4kqHw",
+      "appleId": 1000627622692,
+      "youTubeId": "0SVk7xyzh4A",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/61ianv9ZR7cTkx3jp4kqHw",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep014-dr-denim-slade/id1694606661?i=1000627622692",
+        "youtube": "https://www.youtube.com/watch?v=0SVk7xyzh4A"
+      }
+    },
+    {
+      "id": "66d6961a-e17d-4ee1-acf3-b1884cb37e1b",
+      "title": "Tylee and JJs Silver Linings Podcast - EP013 - Criminal Timespans",
+      "description": "Tylee and JJs Silver Linings Podcast - EP013 - Criminal Timespans (2)",
+      "release": "2023-09-08T12:00:00Z",
+      "duration": "00:30:40.6400000",
+      "explicit": false,
+      "spotifyId": "24VGmMGSgfvkUSBUuV5Bhq",
+      "appleId": 1000627194014,
+      "youTubeId": "PG-ZHsSYMYM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/24VGmMGSgfvkUSBUuV5Bhq",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep013-criminal/id1694606661?i=1000627194014",
+        "youtube": "https://www.youtube.com/watch?v=PG-ZHsSYMYM"
+      }
+    },
+    {
+      "id": "be6ba33f-e39b-48f0-a548-1dac8720722d",
+      "title": "Tylee and JJs Silver Linings Podcast - YOUTUBE LIVE, QnA - Wednesday Sep 13, 1PM MST",
+      "description": "Tylee and JJs Silver Linings Podcast - YOUTUBE LIVE, QnA - Wednesday Sep 13, 1PM MST",
+      "release": "2023-09-07T00:13:51Z",
+      "duration": "00:00:40.3330000",
+      "explicit": false,
+      "spotifyId": "17ARtdDtowCZzF5KfsGPkx",
+      "appleId": 1000627018892,
+      "youTubeId": "nqfhVzIuq6k",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/17ARtdDtowCZzF5KfsGPkx",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-youtube-live-qna/id1694606661?i=1000627018892",
+        "youtube": "https://www.youtube.com/watch?v=nqfhVzIuq6k"
+      }
+    },
+    {
+      "id": "e5a01257-81e2-4f6d-b927-d5ad8ee91a0d",
+      "title": "Tylee and JJs Silver Linings Podcast - Responses Adam\u2019s Move",
+      "description": "Tylee and JJs Silver Linings Podcast - Responses Adam\u0027s Move",
+      "release": "2023-09-01T21:14:31Z",
+      "duration": "00:25:13.7950000",
+      "explicit": false,
+      "spotifyId": "7l91AWlD04UB89h2sQUPGQ",
+      "appleId": 1000626500108,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7l91AWlD04UB89h2sQUPGQ",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-adams-move/id1694606661?i=1000626500108"
+      }
+    },
+    {
+      "id": "7433f6d2-f95c-4433-97ae-b7c27bdcc975",
+      "title": "Tylee and JJs Silver Linings Podcast   Responses  First Live Attempt 8-29-23",
+      "description": "Tylee and JJs Silver Linings Podcast Responses First Live Attempt 8-29-23",
+      "release": "2023-08-29T23:57:05Z",
+      "duration": "00:31:40.8780000",
+      "explicit": false,
+      "spotifyId": "48pFWM8urbNgoumVio8Y07",
+      "appleId": 1000626142212,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/48pFWM8urbNgoumVio8Y07",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-first/id1694606661?i=1000626142212",
+        "youtube": "https://www.youtube.com/watch?v=vxQMIYQoU6Y"
+      }
+    },
+    {
+      "id": "d967e384-f6a4-4ca9-b12d-c43a54bb4f33",
+      "title": "Tylee and JJs Silver Linings Podcast   Responses  Live Test Today 8-29-23",
+      "description": "Tylee and JJs Silver Linings Podcast Responses Live Test Today 8-29-23",
+      "release": "2023-08-29T17:57:34Z",
+      "duration": "00:02:30.4130000",
+      "explicit": false,
+      "spotifyId": "59CIpPvY7JQGfqk0yg9VM2",
+      "appleId": 1000626113985,
+      "youTubeId": "H9JC5pzue9Q",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/59CIpPvY7JQGfqk0yg9VM2",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-live/id1694606661?i=1000626113985",
+        "youtube": "https://www.youtube.com/watch?v=H9JC5pzue9Q"
+      }
+    },
+    {
+      "id": "e6169ed6-87fd-4c82-852b-c1dad8392c82",
+      "title": "Tylee and JJs Silver Linings Podcast - EP012 - Wild Speculations About Alex",
+      "description": "Tylee and JJs Silver Linings Podcast - EP012 - Wild Speculations About Alex",
+      "release": "2023-08-25T21:03:47Z",
+      "duration": "00:36:55.1310000",
+      "explicit": false,
+      "spotifyId": "7yDiZNptujmb7YKJVrtill",
+      "appleId": 1000625712833,
+      "youTubeId": "_LjhGwxw0l4",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7yDiZNptujmb7YKJVrtill",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep012-wild/id1694606661?i=1000625712833",
+        "youtube": "https://www.youtube.com/watch?v=_LjhGwxw0l4"
+      }
+    },
+    {
+      "id": "34e2962b-326f-439b-b68c-5a251cbfe3dc",
+      "title": "Tylee and JJs Silver Linings Podcast - EP011 - Your Healing Experiences",
+      "description": "Lori Vallow\u2019s murders, including her own children, are one of the most horrific crimes of this generation. \nLori\u2019s brother, Adam Cox and Uncle Rex, try to help everyone make sense of it and take away something of value.",
+      "release": "2023-08-22T12:00:00Z",
+      "duration": "00:30:39.6730000",
+      "explicit": false,
+      "spotifyId": "2sYdO4p9Rs5RbVJ5O3z1Ee",
+      "appleId": 1000625255429,
+      "youTubeId": "VYLs4SpyuQM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2sYdO4p9Rs5RbVJ5O3z1Ee",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep011-your/id1694606661?i=1000625255429",
+        "youtube": "https://www.youtube.com/watch?v=VYLs4SpyuQM"
+      }
+    },
+    {
+      "id": "77652018-b3e6-4e06-bef0-cf4f81454ef1",
+      "title": "Tylee and JJs Silver Linings Podcast   Continue Podcasts?",
+      "description": "Tylee and JJs Silver Linings Podcast Continue Podcasts?",
+      "release": "2023-08-22T00:10:58Z",
+      "duration": "00:07:30.5070000",
+      "explicit": false,
+      "spotifyId": "6M7WPh2ys29FoSZP8aCFh3",
+      "appleId": 1000625197559,
+      "youTubeId": "V3Z7nq1i8Ik",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6M7WPh2ys29FoSZP8aCFh3",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-continue-podcasts/id1694606661?i=1000625197559",
+        "youtube": "https://www.youtube.com/watch?v=V3Z7nq1i8Ik"
+      }
+    },
+    {
+      "id": "b9b115fe-c061-428b-aea7-85e986f888f7",
+      "title": "Tylee and JJs Silver Linings Podcast - EP010 - Natural Laws of Healing",
+      "description": "Tylee and JJs Silver Linings Podcast - EP010 - Natural Laws of Healing",
+      "release": "2023-08-18T12:00:00Z",
+      "duration": "00:30:39.9600000",
+      "explicit": false,
+      "spotifyId": "1lM3uTqQ4IvefRUMedOWzA",
+      "appleId": 1000624878931,
+      "youTubeId": "KVdy3nPdYSE",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1lM3uTqQ4IvefRUMedOWzA",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep010-natural/id1694606661?i=1000624878931",
+        "youtube": "https://www.youtube.com/watch?v=KVdy3nPdYSE"
+      }
+    },
+    {
+      "id": "1f7809b6-3c5c-4644-a464-cb66a1198098",
+      "title": "Tylee and JJs Silver Linings Podcast   Responses  Melani",
+      "description": "Tylee and JJs Silver Linings Podcast Responses Melani",
+      "release": "2023-08-15T17:14:34Z",
+      "duration": "00:08:10.9190000",
+      "explicit": false,
+      "spotifyId": "6w8rTKCFh55WvwHlkQyacD",
+      "appleId": 1000624552489,
+      "youTubeId": "hQbq93xWRCU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6w8rTKCFh55WvwHlkQyacD",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-melani/id1694606661?i=1000624552489",
+        "youtube": "https://www.youtube.com/watch?v=hQbq93xWRCU"
+      }
+    },
+    {
+      "id": "28f03fd4-651d-428b-b955-7aa9e6bca1dd",
+      "title": "Tylee and JJs Silver Linings Podcast - EP009 - Healing with You",
+      "description": "Tylee and JJs Silver Linings Podcast - EP009 - Healing with You",
+      "release": "2023-08-15T12:00:00Z",
+      "duration": "00:30:41.7110000",
+      "explicit": false,
+      "spotifyId": "5Enf9ITWXUFU0OlIUUYeJT",
+      "appleId": 1000624512211,
+      "youTubeId": "-EOM_uv38dE",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Enf9ITWXUFU0OlIUUYeJT",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep009-healing-with-you/id1694606661?i=1000624512211",
+        "youtube": "https://www.youtube.com/watch?v=-EOM_uv38dE"
+      }
+    },
+    {
+      "id": "1a7494e6-234d-4ec7-bce5-1237ad896186",
+      "title": "Tylee and JJs Silver Linings Podcast - EP008 - Tale of Two Cousins",
+      "description": "Tylee and JJs Silver Linings Podcast - EP008 - Tale of Two Cousins",
+      "release": "2023-08-11T12:00:00Z",
+      "duration": "00:30:39.5160000",
+      "explicit": false,
+      "spotifyId": "0vk3OWWY5t9SwaCfGttsmc",
+      "appleId": 1000624151162,
+      "youTubeId": "E_d9z29ivtA",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0vk3OWWY5t9SwaCfGttsmc",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep008-tale-of/id1694606661?i=1000624151162",
+        "youtube": "https://www.youtube.com/watch?v=E_d9z29ivtA"
+      }
+    },
+    {
+      "id": "f4e648ad-d8b4-45d8-9167-8c6a42202c1e",
+      "title": "Tylee and JJs Silver Linings Podcast   Responses  Family Members",
+      "description": "Tylee and JJs Silver Linings Podcast Responses Family Members",
+      "release": "2023-08-09T21:26:35Z",
+      "duration": "00:07:02.5820000",
+      "explicit": false,
+      "spotifyId": "0ULGJB60EZ1kgCqLR19bSs",
+      "appleId": 1000623970566,
+      "youTubeId": "otRp_ZhIchU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ULGJB60EZ1kgCqLR19bSs",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses-family/id1694606661?i=1000623970566",
+        "youtube": "https://www.youtube.com/watch?v=otRp_ZhIchU"
+      }
+    },
+    {
+      "id": "ae6eab75-434d-45ec-89cb-e811acfdac23",
+      "title": "Tylee and JJs Silver Linings Podcast - EP007 - Family Trauma and Healing",
+      "description": "Tylee and JJs Silver Linings Podcast - EP007 - Family Trauma and Healing",
+      "release": "2023-08-08T12:00:00Z",
+      "duration": "00:30:38.7590000",
+      "explicit": false,
+      "spotifyId": "7eLjYaS92WCKX7hsTquzTg",
+      "appleId": 1000623795258,
+      "youTubeId": "yIN08_4xlMM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7eLjYaS92WCKX7hsTquzTg",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-ep007-family/id1694606661?i=1000623795258",
+        "youtube": "https://www.youtube.com/watch?v=yIN08_4xlMM"
+      }
+    },
+    {
+      "id": "68652c9c-c5e2-4f85-9bc7-e402222a3e9b",
+      "title": "Tylee and JJs Silver Linings Podcast   Responses  Announcements",
+      "description": "Tylee and JJs Silver Linings Podcast Responses Announcements",
+      "release": "2023-08-05T20:48:53Z",
+      "duration": "00:06:03.9900000",
+      "explicit": false,
+      "spotifyId": "5dGuSo4cXynKVn58AFMWc4",
+      "appleId": 1000623542048,
+      "youTubeId": "evN_tUd9PMg",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5dGuSo4cXynKVn58AFMWc4",
+        "apple": "https://podcasts.apple.com/podcast/tylee-and-jjs-silver-linings-podcast-responses/id1694606661?i=1000623542048",
+        "youtube": "https://www.youtube.com/watch?v=evN_tUd9PMg"
+      }
+    }
+  ]
+}
