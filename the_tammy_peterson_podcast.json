@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "4d745ae0-1317-4653-a2a7-c842ccfb592f",
+  "name": "The Tammy Peterson Podcast",
+  "spotifyId": "7hoZyCp2rwFcYyuqn7UyeP",
+  "appleId": 1624988035,
+  "youTubeChannelId": "UCUwUe0mLO6vOob4NmBL4cpw",
+  "episodes": [
+    {
+      "id": "9f72eb2a-eef1-4351-be47-636b6934eb8c",
+      "title": "109. Surviving a Mormon Cult | Carrie Sheffield",
+      "description": "This episode was recorded on August 13th, 2024. Carrie Sheffield, a renowned columnist and broadcaster based in Washington, D.C., is best known for her best-selling novel \u0022Motorhome Prophecies: A Journey of Healing and Forgiveness\u0022 published by the Hachette Book Group. Find more from Carrie: Her website: https://carriesheffield.com/ Motorhome Prophecies: A Journey of Healing and Forgiveness: Amazon: https://a.co/d/ba9SseR SubStack: https://carriesheffield.substack.com/ Book Page: https://carriesheffield.com/book/ Connect with me: Instagram: https://www.instagram.com/tammy.m.peterson Facebook: https://www.facebook.com/TammyPetersonPodcast TikTok: https://www.tiktok.com/@tammypetersonpodcast Twitter: https://twitter.com/Tammy1Peterson Rumble: https://rumble.com/c/TammyPetersonPodcast",
+      "release": "2024-09-13T17:00:00Z",
+      "duration": "01:30:23.5160000",
+      "explicit": false,
+      "spotifyId": "5uQZNzvARh2L3QT1zCX6PD",
+      "appleId": 1000669465021,
+      "youTubeId": "cdw5B4bOmok",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5uQZNzvARh2L3QT1zCX6PD",
+        "apple": "https://podcasts.apple.com/podcast/109-surviving-a-mormon-cult-carrie-sheffield/id1624988035?i=1000669465021",
+        "youtube": "https://www.youtube.com/watch?v=cdw5B4bOmok"
+      }
+    }
+  ]
+}

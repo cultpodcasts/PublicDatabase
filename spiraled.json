@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "ba0e673d-c606-4036-b9bf-84633849ddde",
+  "name": "Spiraled",
+  "spotifyId": "1UaAOk3qx3Sf1zVvzlURFw",
+  "appleId": 1763809519,
+  "episodes": [
+    {
+      "id": "ff095562-c91f-45f0-9d94-65123d6f5df5",
+      "title": "Episode 3: Little Prophet",
+      "description": "Before there was Pastor Charles Dowell, there was R.G. Stair. Kalyn traces the origins of Straitway Truth Ministry to a group founded and led by the raspy-voiced Last Day Prophet of God. Following these men isn\u2019t a part-time gig. For many followers, it required giving up their belongings, their money, their family. And some are still unpacking what happened to them today. See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-10T10:00:00Z",
+      "duration": "00:42:27.3560000",
+      "explicit": false,
+      "spotifyId": "5fXYJJm9J8ub5N4lX3VPsI",
+      "appleId": 1000669001368,
+      "subjects": [
+        "Straitway Truth Ministry",
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5fXYJJm9J8ub5N4lX3VPsI",
+        "apple": "https://podcasts.apple.com/podcast/episode-3-little-prophet/id1763809519?i=1000669001368"
+      }
+    }
+  ]
+}

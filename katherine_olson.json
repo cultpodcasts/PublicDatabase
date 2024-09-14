@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCpuAoRSmnmDOM4TAfD3hA7g",
   "episodes": [
     {
+      "id": "5dab2f0d-a1fd-482b-8c22-0871b859b611",
+      "title": "Live with the Headleys!",
+      "release": "2024-09-08T20:10:35Z",
+      "duration": "01:45:20",
+      "explicit": false,
+      "youTubeId": "fidUuUo5YWk",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fidUuUo5YWk"
+      }
+    },
+    {
       "id": "a6269704-1262-47a8-b727-49ad39fb0fa4",
       "title": "Deconstructing the Scientology Org Board Live with Apostate Alex",
       "release": "2024-09-05T20:30:00Z",

@@ -5,6 +5,22 @@
   "youTubeChannelId": "UCeLNAd7-nYU_7D7Z7S3a6Hw",
   "episodes": [
     {
+      "id": "af04e678-3742-4c96-97ce-da819804451d",
+      "title": "BBC Radio Leicester\u0027s Pam Sidhu parrots her guru \u0022Dr\u0022 Tony Quinn",
+      "description": "Watch BBC Local Radio presenter Pam Sidhu parrot EDUCO Cult leader \u0022Dr\u0022 Tony Quinn. Multiple BBC employees (journalists \u0026 editors) have been informed of Sidhu\u0027s promotion of the EDUCO Cult and seemingly have not reported this to line-management.",
+      "release": "2024-09-10T23:20:57Z",
+      "duration": "00:04:57",
+      "explicit": false,
+      "youTubeId": "WAJBPwAP_fw",
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WAJBPwAP_fw"
+      }
+    },
+    {
       "id": "4ecc5720-d6aa-479b-96bb-3ddf41692ff8",
       "title": "BBC Spotlight (BBC NI) - Belize Oil",
       "description": "Tue 16 Oct 2012, BBC One\nInvestigation into Irish hypnotist Tony Quinn and his company Educo, and his influence and involvement in a Belize oil company (run by Susan Morrice).",

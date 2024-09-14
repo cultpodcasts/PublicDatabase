@@ -13,11 +13,15 @@
       "release": "2024-07-23T08:28:05Z",
       "duration": "00:47:28",
       "explicit": false,
+      "spotifyId": "5cXmas7UPmfFxykR03f666",
+      "appleId": 1000669192171,
       "youTubeId": "jNeVh8ABqAY",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5cXmas7UPmfFxykR03f666",
+        "apple": "https://podcasts.apple.com/podcast/finding-out-it-was-a-cult-with-noel-ann/id1559726592?i=1000669192171",
         "youtube": "https://www.youtube.com/watch?v=jNeVh8ABqAY"
       }
     },

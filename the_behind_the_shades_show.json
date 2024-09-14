@@ -33,8 +33,16 @@
       "release": "2024-09-03T01:00:28Z",
       "duration": "01:04:22",
       "explicit": false,
+      "spotifyId": "5TzVaewqyAtFYK1BGacN14",
+      "appleId": 1000668814094,
       "youTubeId": "pUHyYXV9DQA",
+      "subjects": [
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5TzVaewqyAtFYK1BGacN14",
+        "apple": "https://podcasts.apple.com/podcast/how-i-escaped-from-a-cult/id1531762079?i=1000668814094",
         "youtube": "https://www.youtube.com/watch?v=pUHyYXV9DQA"
       }
     },

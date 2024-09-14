@@ -290,12 +290,14 @@
       "explicit": false,
       "spotifyId": "3fFSA3Tz65Kxgv8K4zk9C2",
       "appleId": 1000596886019,
+      "youTubeId": "km6AgkDNthM",
       "subjects": [
         "Family Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3fFSA3Tz65Kxgv8K4zk9C2",
-        "apple": "https://podcasts.apple.com/podcast/end-times-and-conspiracy-theories-with-emily/id1387341884?i=1000596886019"
+        "apple": "https://podcasts.apple.com/podcast/end-times-and-conspiracy-theories-with-emily/id1387341884?i=1000596886019",
+        "youtube": "https://www.youtube.com/watch?v=km6AgkDNthM"
       }
     },
     {

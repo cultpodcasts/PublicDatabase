@@ -7,6 +7,44 @@
   "youTubeChannelId": "UCPPmdlC-tLQVrnfjCUWycBQ",
   "episodes": [
     {
+      "id": "b3094d2c-d16c-4053-88be-a6d526bbc307",
+      "title": "Episode 14: Throwing the Hat Over the Wall: Finding Peace Amidst Chaos",
+      "description": "In this deeply introspective episode, our host dives into the unexpected journey of navigating life\u0027s most challenging and chaotic moments. Using the metaphor of \u0022throwing the hat over the wall,\u0022 they explore the relentless pursuit of solutions, peace, and healing in the face of mental illness, family struggles, and personal battles. Reflecting on their own experiences, they discuss the complexities of control, forgiveness, and the constant search for hope. This episode is a raw and honest look at the power of resilience, the importance of community, and the journey towards inner tranquility, even when faced with life\u0027s darkest moments. Whether you\u0027re going through your own struggles or supporting someone in theirs, this conversation offers a relatable and heartfelt reminder that you are not alone.",
+      "release": "2024-09-13T20:47:19Z",
+      "duration": "01:04:38",
+      "explicit": false,
+      "spotifyId": "6ARDKkTWTapVmikF508JT7",
+      "appleId": 1000669482548,
+      "youTubeId": "VfTBqD4IN3U",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ARDKkTWTapVmikF508JT7",
+        "apple": "https://podcasts.apple.com/us/podcast/episode-14-throwing-the-hat-over-the-wall-finding/id1761404638?i=1000669482548",
+        "youtube": "https://www.youtube.com/watch?v=VfTBqD4IN3U"
+      }
+    },
+    {
+      "id": "4e07a245-239b-4a66-b00d-0719e4c0631f",
+      "title": "Episode 13 - From Chaos to Clarity: A Journey Through Hollywood and Home",
+      "description": "In this deeply personal episode, our host reflects on a life marked by struggle, resilience, and the pursuit of authenticity. Growing up in Philadelphia and navigating the illusions of Hollywood, he shares stories of his humble beginnings, complex family dynamics, and the challenges of reconciling past traumas with present success. This episode delves into the contrasts between Tinseltown\u2019s glittering facade and the reality behind it, offering listeners a raw glimpse into a lifelong journey of healing, self-discovery, and finding laughter amid adversity.",
+      "release": "2024-09-11T17:29:06Z",
+      "duration": "01:24:00.6480000",
+      "explicit": false,
+      "spotifyId": "0nutEQh4ozNj8p7EzSHtro",
+      "appleId": 1000669182591,
+      "youTubeId": "qck9jdDPah8",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0nutEQh4ozNj8p7EzSHtro",
+        "apple": "https://podcasts.apple.com/podcast/episode-13-from-chaos-to-clarity-a-journey-through/id1761404638?i=1000669182591",
+        "youtube": "https://www.youtube.com/watch?v=qck9jdDPah8"
+      }
+    },
+    {
       "id": "470f5926-38fc-47f9-942e-8bbc9b8f8b4b",
       "title": "Episode 12: The Journey Within: Finding Forgiveness Amidst Chaos",
       "description": "In this deeply introspective episode, Craig navigates through a maze of personal pain, anger, and forgiveness as he discusses his tumultuous relationship with his ex-wife, who has become involved in a controversial spiritual community. Craig reflects on the complexities of trust, ego, and personal growth while shedding light on the dangers of blindly following charismatic leaders. He openly shares his journey toward self-discovery and love, touching on the struggles of being vulnerable and the power of true forgiveness. Tune in for a raw exploration of healing, love, and the search for inner peace.",
@@ -15,6 +53,9 @@
       "explicit": false,
       "spotifyId": "466AcouGjSoCNvDW9BQsWU",
       "appleId": 1000668628701,
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/466AcouGjSoCNvDW9BQsWU",
         "apple": "https://podcasts.apple.com/podcast/episode-12-the-journey-within-finding-forgiveness/id1761404638?i=1000668628701"
@@ -49,22 +90,6 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/4rPjRyObp6Alu0vSq4Y9nV",
         "apple": "https://podcasts.apple.com/podcast/episode-10-free-falling-from-grace/id1761404638?i=1000668063406"
-      }
-    },
-    {
-      "id": "b36a4ee6-067e-4aae-9e5f-9932afab6960",
-      "title": "Prologue: Into The Shadows - My Wife Joined A Cult Podcast",
-      "description": "In this prologue episode, we dive deep into the raw and unfiltered emotions of a family torn apart by betrayal and deception. Join us as our host opens up about the challenges and heartaches of dealing with a loved one\u0027s descent into a destructive cult. With dramatic personal anecdotes and reflections, he paints a vivid picture of his family\u0027s struggle to navigate through the lies, manipulation, and emotional turmoil inflicted by his ex-wife\u0027s radical transformation. This candid and heartfelt prologue sets the stage for the episodes to come, offering listeners a glimpse into a journey of resilience, truth-seeking, and the relentless pursuit of healing and protection for his children. Tune in and embark on this poignant journey with us.",
-      "release": "2024-08-30T15:00:45Z",
-      "duration": "00:56:10",
-      "explicit": false,
-      "spotifyId": "3K6wV4wLuku6QFdYwDV8Li",
-      "appleId": 1000664508204,
-      "youTubeId": "dV30LMkvDIk",
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/3K6wV4wLuku6QFdYwDV8Li?si=21cfe938c37b4020",
-        "apple": "https://podcasts.apple.com/podcast/prologue-into-the-shadows/id1761404638?i=1000664508204",
-        "youtube": "https://www.youtube.com/watch?v=dV30LMkvDIk"
       }
     },
     {
@@ -104,9 +129,11 @@
       "explicit": false,
       "spotifyId": "2SG7PR0bhmnv1Ug5l65Mu1",
       "appleId": 1000665641861,
+      "youTubeId": "yohvi6XpCaQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2SG7PR0bhmnv1Ug5l65Mu1",
-        "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-07-parental-alienation-and-resilience/id1761404638?i=1000665641861"
+        "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-07-parental-alienation-and-resilience/id1761404638?i=1000665641861",
+        "youtube": "https://www.youtube.com/watch?v=yohvi6XpCaQ"
       }
     },
     {
@@ -118,9 +145,11 @@
       "explicit": false,
       "spotifyId": "1mq9DolNU89uzoYmGnQva0",
       "appleId": 1000665156959,
+      "youTubeId": "Av3i0Ta2mbI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mq9DolNU89uzoYmGnQva0",
-        "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-06-navigating-love-and-loss-a/id1761404638?i=1000665156959"
+        "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-06-navigating-love-and-loss-a/id1761404638?i=1000665156959",
+        "youtube": "https://www.youtube.com/watch?v=Av3i0Ta2mbI"
       }
     },
     {
@@ -132,9 +161,11 @@
       "explicit": false,
       "spotifyId": "4hXep0rPQLoJXU3qptnWfj",
       "appleId": 1000664951083,
+      "youTubeId": "03n4EtqoPA4",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4hXep0rPQLoJXU3qptnWfj",
-        "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-05-unmasking-manipulation-a-deep/id1761404638?i=1000664951083"
+        "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-05-unmasking-manipulation-a-deep/id1761404638?i=1000664951083",
+        "youtube": "https://www.youtube.com/watch?v=03n4EtqoPA4"
       }
     },
     {
@@ -146,9 +177,11 @@
       "explicit": false,
       "spotifyId": "3vK3wmJXtXYtxQy3uneAY5",
       "appleId": 1000664832328,
+      "youTubeId": "7gCB-CNqhts",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vK3wmJXtXYtxQy3uneAY5",
-        "apple": "https://podcasts.apple.com/podcast/podcast-episode-04-navigating-the-impact-of/id1761404638?i=1000664832328"
+        "apple": "https://podcasts.apple.com/podcast/podcast-episode-04-navigating-the-impact-of/id1761404638?i=1000664832328",
+        "youtube": "https://www.youtube.com/watch?v=7gCB-CNqhts"
       }
     },
     {
@@ -160,9 +193,11 @@
       "explicit": false,
       "spotifyId": "0hcBwjLm2sWOpFS6UhUR63",
       "appleId": 1000664832327,
+      "youTubeId": "Kd9QRDr8bi8",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0hcBwjLm2sWOpFS6UhUR63",
-        "apple": "https://podcasts.apple.com/podcast/podcast-episode-3-laughter-honesty-and-the-fight/id1761404638?i=1000664832327"
+        "apple": "https://podcasts.apple.com/podcast/podcast-episode-3-laughter-honesty-and-the-fight/id1761404638?i=1000664832327",
+        "youtube": "https://www.youtube.com/watch?v=Kd9QRDr8bi8"
       }
     },
     {
@@ -174,9 +209,11 @@
       "explicit": false,
       "spotifyId": "7E54aoVSHmmjQYw2KbCjpa",
       "appleId": 1000664606226,
+      "youTubeId": "lQM4iPUoawM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7E54aoVSHmmjQYw2KbCjpa",
-        "apple": "https://podcasts.apple.com/podcast/podcast-episode-2-navigating-truth-betrayal-and/id1761404638?i=1000664606226"
+        "apple": "https://podcasts.apple.com/podcast/podcast-episode-2-navigating-truth-betrayal-and/id1761404638?i=1000664606226",
+        "youtube": "https://www.youtube.com/watch?v=lQM4iPUoawM"
       }
     },
     {
@@ -188,9 +225,27 @@
       "explicit": false,
       "spotifyId": "23SxSK7iMSjOp8ttO8UB92",
       "appleId": 1000664508167,
+      "youTubeId": "gT9-9q9nvp0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/23SxSK7iMSjOp8ttO8UB92",
-        "apple": "https://podcasts.apple.com/podcast/podcast-episode-1-the-unraveling/id1761404638?i=1000664508167"
+        "apple": "https://podcasts.apple.com/podcast/podcast-episode-1-the-unraveling/id1761404638?i=1000664508167",
+        "youtube": "https://www.youtube.com/watch?v=gT9-9q9nvp0"
+      }
+    },
+    {
+      "id": "b36a4ee6-067e-4aae-9e5f-9932afab6960",
+      "title": "Prologue: Into The Shadows - My Wife Joined A Cult Podcast",
+      "description": "In this prologue episode, we dive deep into the raw and unfiltered emotions of a family torn apart by betrayal and deception. Join us as our host opens up about the challenges and heartaches of dealing with a loved one\u0027s descent into a destructive cult. With dramatic personal anecdotes and reflections, he paints a vivid picture of his family\u0027s struggle to navigate through the lies, manipulation, and emotional turmoil inflicted by his ex-wife\u0027s radical transformation. This candid and heartfelt prologue sets the stage for the episodes to come, offering listeners a glimpse into a journey of resilience, truth-seeking, and the relentless pursuit of healing and protection for his children. Tune in and embark on this poignant journey with us.",
+      "release": "2024-08-05T15:00:45Z",
+      "duration": "00:56:10",
+      "explicit": false,
+      "spotifyId": "3K6wV4wLuku6QFdYwDV8Li",
+      "appleId": 1000664508204,
+      "youTubeId": "dV30LMkvDIk",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3K6wV4wLuku6QFdYwDV8Li?si=21cfe938c37b4020",
+        "apple": "https://podcasts.apple.com/podcast/prologue-into-the-shadows/id1761404638?i=1000664508204",
+        "youtube": "https://www.youtube.com/watch?v=dV30LMkvDIk"
       }
     }
   ]

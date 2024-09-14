@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "80fe69c9-2cd6-4530-b136-900fc14e7dcc",
+  "name": "Whine Down with Jana Kramer",
+  "spotifyId": "5Z5zCxXBmPNbYJOLk5oSMd",
+  "appleId": 1378621306,
+  "episodes": [
+    {
+      "id": "01c839e7-3e94-4d99-ad34-5a6e6e17039a",
+      "title": "It\u2019s a Smallville World After All with Kristin Kreuk",
+      "description": "Jana is hanging out with Kristin Kreuk (from Smallville) who\u2019s taking on a totally different story with her new show \u201CMurder in a Small Town\u201D! Kristin reveals how she\u2019s stayed out of media drama over the years and somehow avoided having a publicist. Plus, Jana reveals how things might play out in the upcoming One Tree Hill reboot! See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-09T04:00:00Z",
+      "duration": "00:47:55.6370000",
+      "explicit": false,
+      "spotifyId": "0Avg0vWNBNOzWALHs5Uup9",
+      "appleId": 1000668828952,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Avg0vWNBNOzWALHs5Uup9",
+        "apple": "https://podcasts.apple.com/podcast/its-a-smallville-world-after-all-with-kristin-kreuk/id1378621306?i=1000668828952"
+      }
+    }
+  ]
+}
