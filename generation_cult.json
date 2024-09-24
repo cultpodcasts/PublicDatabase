@@ -273,12 +273,14 @@
       "explicit": true,
       "spotifyId": "3bp4jEpVPPkFv7cadt6C1X",
       "appleId": 1000599000088,
+      "youTubeId": "Qn68yFv3Nn8",
       "subjects": [
         "Twelve Tribes"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bp4jEpVPPkFv7cadt6C1X",
-        "apple": "https://podcasts.apple.com/podcast/finding-freedom-from-the-twelve-tribes-with-suvav/id1387341884?i=1000599000088"
+        "apple": "https://podcasts.apple.com/podcast/finding-freedom-from-the-twelve-tribes-with-suvav/id1387341884?i=1000599000088",
+        "youtube": "https://youtu.be/Qn68yFv3Nn8"
       }
     },
     {

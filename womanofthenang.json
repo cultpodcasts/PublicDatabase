@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "03c1fb39-4649-4faa-a769-4b1a41681a12",
+  "name": "womanofthenang",
+  "youTubeChannelId": "UCDisQAXxl1jf3SmgnQV6sYg",
+  "episodes": [
+    {
+      "id": "e8697a6c-58a9-4a50-8b13-02462c864512",
+      "title": "How i woke up",
+      "description": "Ex JW",
+      "release": "2018-04-11T22:14:35Z",
+      "duration": "00:04:01",
+      "explicit": false,
+      "youTubeId": "1aYBjXK8Ijc",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1aYBjXK8Ijc"
+      }
+    },
+    {
+      "id": "2b6f647d-8f8f-441d-b196-19a1a197cf58",
+      "title": "Ex jw my disassociation letter part one",
+      "description": "Ex Jehovahs witness",
+      "release": "2018-04-02T07:30:01Z",
+      "duration": "00:06:38",
+      "explicit": false,
+      "youTubeId": "6WiUhoUPvvA",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6WiUhoUPvvA"
+      }
+    }
+  ]
+}

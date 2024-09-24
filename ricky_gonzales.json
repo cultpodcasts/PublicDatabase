@@ -1,0 +1,37 @@
+{
+  "_ts": 0,
+  "id": "e402ea92-e390-4a20-bd70-98b332de1ebc",
+  "name": "Ricky Gonzales",
+  "youTubeChannelId": "UCXscWL41DcNbIAfXL1eGKiQ",
+  "episodes": [
+    {
+      "id": "f6f0148d-c03f-4a11-85bf-9eee11a13f74",
+      "title": "(JW.ORG) How I am doing since leaving the JW religion - Part 1",
+      "release": "2017-07-02T17:00:13Z",
+      "duration": "00:17:32",
+      "explicit": false,
+      "youTubeId": "Uc59yVLxG4Y",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Uc59yVLxG4Y"
+      }
+    },
+    {
+      "id": "a0eb4465-d495-4e28-83ec-1dc7e493b271",
+      "title": "(JW.ORG) The ban of Jehovah\u0027s Witnesses in Russia",
+      "description": "My thoughts about the ban.",
+      "release": "2017-04-16T01:51:07Z",
+      "duration": "00:16:09",
+      "explicit": false,
+      "youTubeId": "ol12MvXgt9I",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ol12MvXgt9I"
+      }
+    }
+  ]
+}

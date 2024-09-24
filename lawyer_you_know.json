@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "6856af4a-c557-4706-aa00-79084daa9d24",
+  "name": "Lawyer You Know",
+  "spotifyId": "2REAq07SR8CZ5QgIsedAgl",
+  "appleId": 1341132473,
+  "youTubeChannelId": "UCxAHSAOfe4wZozc2jYK9NAw",
+  "episodes": [
+    {
+      "id": "2ead537d-1492-477e-a5d2-7a301f3c4682",
+      "title": "Does The Law Protect Twisted Cults? Is Tiktok\u0027s 7M One Of Those Cults?",
+      "description": "Shocking details revealed in Tiktok cult documentary Dancing for the Devil on Netflix.\n",
+      "release": "2024-09-23T12:00:31Z",
+      "duration": "00:52:00",
+      "explicit": false,
+      "spotifyId": "2RJFVup0giZ6aXkfQEZ4Jh",
+      "appleId": 1000670396450,
+      "youTubeId": "nHsbwO2YTlA",
+      "subjects": [
+        "7M Films",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2RJFVup0giZ6aXkfQEZ4Jh",
+        "apple": "https://podcasts.apple.com/podcast/does-the-law-protect-twisted-cults-is-tiktoks-7m-one/id1341132473?i=1000670396450",
+        "youtube": "https://www.youtube.com/watch?v=nHsbwO2YTlA"
+      }
+    }
+  ]
+}

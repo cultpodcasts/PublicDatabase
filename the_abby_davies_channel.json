@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "32a3de0c-abd6-436a-869d-61ad73b4dd35",
+  "name": "The Abby Davies Channel",
+  "youTubeChannelId": "UC7E2xY2jvmcqdcekB7cxR6g",
+  "episodes": [
+    {
+      "id": "0b6b189b-5795-4d28-8890-aa02334ac346",
+      "title": "What is a Jehovah\u0027s Witness?",
+      "description": "I was one for 23 years, this is a suuuuuper basic sum up from my point of view. It\u0027s not very broad cuz life\u0027s too short.",
+      "release": "2019-04-23T14:04:28Z",
+      "duration": "00:04:14",
+      "explicit": false,
+      "youTubeId": "dqXhU1jdQb0",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dqXhU1jdQb0"
+      }
+    }
+  ]
+}

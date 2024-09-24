@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "85c6caa4-8962-4f1b-a342-831e9872d8d8",
+      "title": "172: Saturday Morning Mind Control Part I",
+      "description": "This week, we dive into another Phil Phillips book called Saturday Morning Mind Control",
+      "release": "2024-09-18T05:30:00Z",
+      "duration": "01:39:58.0010000",
+      "explicit": true,
+      "spotifyId": "3jBDjSv9Q1MxvsdIVOWyu5",
+      "appleId": 1000669900671,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3jBDjSv9Q1MxvsdIVOWyu5",
+        "apple": "https://podcasts.apple.com/us/podcast/172-saturday-morning-mind-control-part-i/id1573190999?i=1000669900671"
+      }
+    },
+    {
       "id": "2e9a11fa-f0e3-4f59-8c75-73acb0eb0bfe",
       "title": "171: Fray Tormenta: I am a Religious Man",
       "description": "This week, Chaz tries his best to bring a uplifting story to Chrissy and Donavon. And we think he succeeded! Hear the true story of the man that inspired the movie Nacho Libre. From his rough early years, tremendous losses and taking on the church to create his own orphanage(s).",

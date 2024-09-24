@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "23a1bd2a-e67e-44b4-a6a0-b1c4935791d1",
+  "name": "7News Just In",
+  "spotifyId": "1MTvf2ptjqVisFHLAEgOXc",
+  "appleId": 1713274928,
+  "episodes": [
+    {
+      "id": "c9b73ca3-6d6f-436c-b9dc-108262f1bae6",
+      "title": "Experts warn parents to be aware of religious movement",
+      "description": "Experts are urging parents to beware of a secretive religious movement operating in Perth and to tread carefully if their children are lured in. The Church of Shincheonji holds its prayer sessions behind closed doors and has reacted angrily to a Seven News investigation exposing its efforts to recruit.\n For more, Nick Overall reports.\nSee omnystudio.com/listener for privacy information.",
+      "release": "2024-09-17T21:28:45Z",
+      "duration": "00:01:39",
+      "explicit": false,
+      "spotifyId": "2lRGCoW7fvwYIX3BNvucyA",
+      "appleId": 1000669867907,
+      "subjects": [
+        "Shincheonji Church of Jesus"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2lRGCoW7fvwYIX3BNvucyA",
+        "apple": "https://podcasts.apple.com/podcast/experts-warn-parents-to-be-aware-of-religious-movement/id1713274928?i=1000669867907"
+      }
+    }
+  ]
+}

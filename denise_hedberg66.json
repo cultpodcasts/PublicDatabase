@@ -1,0 +1,35 @@
+{
+  "_ts": 0,
+  "id": "064a1609-5559-4015-8e86-faf55b208661",
+  "name": "Denise Hedberg66",
+  "youTubeChannelId": "UCLPZlV74pynln4vDTR2BdZg",
+  "episodes": [
+    {
+      "id": "2e719621-3d78-493f-bd7d-8a55983d26d0",
+      "title": "Sept 2018 Broadcast",
+      "description": "Tally time!!! I know you are dying to hear the numbers!!!",
+      "release": "2018-09-05T21:42:29Z",
+      "duration": "00:11:02",
+      "explicit": false,
+      "youTubeId": "lBDGje6IbRM",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lBDGje6IbRM"
+      }
+    },
+    {
+      "id": "fd168565-73b9-4a33-a27e-0ad9508eac32",
+      "title": "This is VERY important!!",
+      "description": "OSCE and Jehovah\u0027s Witnesses.  OSCE  is a branch of the UN!!",
+      "release": "2018-02-11T23:04:43Z",
+      "duration": "00:12:09",
+      "explicit": false,
+      "youTubeId": "GpTT4GFDmlM",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GpTT4GFDmlM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "b8810d34-6501-40b7-ba01-67bc73fe1f68",
+  "name": "Brad Zook",
+  "youTubeChannelId": "UCBkZBxVwuS21PAik5tazZYA",
+  "episodes": [
+    {
+      "id": "544d65b2-7c48-4f5f-b31f-dfc498ea04ad",
+      "title": "Non-JW music teacher talks about JW.org",
+      "description": "I\u0027m a music teacher who has never been a Jehovah\u0027s Witness. Here\u0027s my commentary on the Jehovah\u0027s Witnesses video encouraging young people to NOT pursue music classes. * * NOW WITH SPANISH SUB-TITLES! THANK YOU MIUSHARK! * *",
+      "release": "2016-06-07T03:13:34Z",
+      "duration": "00:16:43",
+      "explicit": false,
+      "youTubeId": "HNzgd8Oa2rE",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=HNzgd8Oa2rE"
+      }
+    },
+    {
+      "id": "9c4cc8c0-6ad2-4957-987f-4344efb0be09",
+      "title": "Jehovah\u0027s Witnesses New Light on F\u0026DS. JW.org",
+      "description": "Video from the 2012 Annual Meeting where the new light regarding the identity of the faithful and discreet slave was announced.",
+      "release": "2013-02-03T23:05:19Z",
+      "duration": "00:04:58",
+      "explicit": false,
+      "youTubeId": "FxEbyHOMAuc",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=FxEbyHOMAuc"
+      }
+    }
+  ]
+}

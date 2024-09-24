@@ -1,0 +1,35 @@
+{
+  "_ts": 0,
+  "id": "26911c29-0105-49fc-b2a5-42c74f5ac109",
+  "name": "Marcus Vaughn",
+  "youTubeChannelId": "UCwCQrHWh41iYHKdDc88EnWQ",
+  "episodes": [
+    {
+      "id": "284783f5-0ae1-4a7f-9456-73efbd6a633f",
+      "title": "Coping with being shunned by the cult of Jehovah\u0027s witnesses",
+      "description": "A discussion on shunning and how to cope",
+      "release": "2018-12-02T18:57:15Z",
+      "duration": "00:23:43",
+      "explicit": false,
+      "youTubeId": "Cqaxg2KQrRU",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Cqaxg2KQrRU"
+      }
+    },
+    {
+      "id": "35675bc0-e46a-464e-8607-aacf6d64d3dc",
+      "title": "The importance of personal experiences in ones waking up.",
+      "description": "Discussion on what seems to wake people up.",
+      "release": "2018-07-02T17:48:23Z",
+      "duration": "00:21:49",
+      "explicit": false,
+      "youTubeId": "BbLzkT35L4E",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BbLzkT35L4E"
+      }
+    }
+  ]
+}

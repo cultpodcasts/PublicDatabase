@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "b8bf6f65-a0b4-48cd-bca3-5e9138c7fa56",
+  "name": "William Miller",
+  "youTubeChannelId": "UCOj0DphDSpN6fQ51sXnH4gw",
+  "episodes": [
+    {
+      "id": "38c2e2d9-01bb-405e-9c0f-846750c66ca7",
+      "title": "A must watch for all Jehovah\u0027s Witnesses",
+      "description": "Description",
+      "release": "2016-01-06T07:14:08Z",
+      "duration": "03:10:40",
+      "explicit": false,
+      "youTubeId": "XaEn6FPVcIM",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XaEn6FPVcIM"
+      }
+    }
+  ]
+}

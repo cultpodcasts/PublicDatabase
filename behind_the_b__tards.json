@@ -4,7 +4,25 @@
   "name": "Behind the B**tards",
   "spotifyId": "0rOatMqaG3wB5BF4AdsrSX",
   "appleId": 1373812661,
+  "youTubeChannelId": "UCJPHc5wprYeNF0K5ITwPBgA",
   "episodes": [
+    {
+      "id": "323bbd95-0477-40d7-93ca-6cf7706f930d",
+      "title": "Part One: The Inventor of Those \u0027Troubled Teen\u0027 Wilderness Camps Where They Kill Kids",
+      "description": "Robert sits down with Mara Wilson to discuss the man behind those camps that kidnap teenagers and torture them in the desert. (2 Part Series) Sources: The rise and fall of Steve Cartisano - High Country News (hcn.org) Steve Cartisano - Bryan County Patriot Hell Camp: The sinister true story behind Netflix documentary - Dexerto MOTHER OF GIRL WHO COLLAPSED IN DESERT PRAISES CHALLENGER \u2013 Deseret News \u2018Hell Camp\u2019: Paris Hilton and the Troubled Teen Industry\u2019s Abuse Epidemic (rollingstone.com) How Utah became the birthplace of the once-lucrative wilderness therapy industry for \u2018troubled teens\u2019 (msn.com) BYU alumnus sparks off lucrative, controversial wilderness-therapy industry - The Salt Lake Tribune (sltrib.com) Salt Lake Tribune | 2002-04-28 | Page 2 | | Utah Digital Newspapers Loving Them to Death -- The... (utah.edu) Boot Camps Proponent Becomes Focus of Critics - The New York Times (nytimes.com) Wilderness therapy programs for troubled teams began in Utah (sltrib.com) Troubled US teens left traumatised by tough love camps (bbc.com) EXPLAINER: The history behind \u0027parents\u0027 rights\u0027 in schools | AP News How Utah became the leading place to send the nation\u0027s troubled teens | APM Reports https://www.sltrib.com/news/2024/05/07/how-utah-became-birthplace-once/ https://www.deseret.com/1991/7/24/18932325/father-sues-challenger-over-daughter-s-death/ https://apnews.com/article/religion-education-gender-identity-0e2ca2cf0ef7d7bc6ef5b125f1ee0969 https://www.youtube.com/watch?v=iG0vANHmMmM https://www.researchgate.net/publication/238102695_Examining_the_Effectiveness_of_Boot_Camps_A_Randomized_Experiment_with_a_Long-Term_Follow_Up https://www.nytimes.com/2001/08/09/us/boot-camps-proponent-becomes-focus-of-critics.html https://archive.sltrib.com/story.php?ref=/test/ci_10438570https://www.farmerfuneralchapel.com/obituaries/larry-olsen See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-24T09:00:00Z",
+      "duration": "01:34:52.8130000",
+      "explicit": false,
+      "spotifyId": "1HvlRlehkkEsLMyZ46DWzm",
+      "appleId": 1000670509086,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1HvlRlehkkEsLMyZ46DWzm",
+        "apple": "https://podcasts.apple.com/podcast/part-one-the-inventor-of-those-troubled-teen/id1373812661?i=1000670509086"
+      }
+    },
     {
       "id": "ebcc8183-aec5-4d85-9289-66c401225d59",
       "title": "CZM Rewind: Part Two: The Last Days of L. Ron Hubbard",
@@ -50,12 +68,14 @@
       "explicit": false,
       "spotifyId": "1aZijdaVWArU56LwgLqlvJ",
       "appleId": 1000655033752,
+      "youTubeId": "6fNGz1sxW70",
       "subjects": [
         "Johanna Haarer"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1aZijdaVWArU56LwgLqlvJ",
-        "apple": "https://podcasts.apple.com/podcast/part-two-the-parenting-gurus-of-nazi-germany/id1373812661?i=1000655033752"
+        "apple": "https://podcasts.apple.com/podcast/part-two-the-parenting-gurus-of-nazi-germany/id1373812661?i=1000655033752",
+        "youtube": "https://www.youtube.com/watch?v=6fNGz1sxW70"
       }
     },
     {
@@ -116,13 +136,15 @@
       "explicit": false,
       "spotifyId": "2fDkzK2nBePvAfTJU74HVJ",
       "appleId": 1000647510559,
+      "youTubeId": "BBPRQ_71Q6Q",
       "subjects": [
         "T. B. Joshua",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2fDkzK2nBePvAfTJU74HVJ",
-        "apple": "https://podcasts.apple.com/podcast/part-two-tb-joshua-the-evangelical-pastor-who-built/id1373812661?i=1000647510559"
+        "apple": "https://podcasts.apple.com/podcast/part-two-tb-joshua-the-evangelical-pastor-who-built/id1373812661?i=1000647510559",
+        "youtube": "https://www.youtube.com/watch?v=BBPRQ_71Q6Q"
       }
     },
     {
@@ -134,13 +156,15 @@
       "explicit": false,
       "spotifyId": "4vM7CCs4Q81hRT0i2B9eYR",
       "appleId": 1000647208599,
+      "youTubeId": "A61McrmlhEs",
       "subjects": [
         "T. B. Joshua",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4vM7CCs4Q81hRT0i2B9eYR",
-        "apple": "https://podcasts.apple.com/podcast/part-one-tb-joshua-the-evangelical-pastor-who-built/id1373812661?i=1000647208599"
+        "apple": "https://podcasts.apple.com/podcast/part-one-tb-joshua-the-evangelical-pastor-who-built/id1373812661?i=1000647208599",
+        "youtube": "https://www.youtube.com/watch?v=A61McrmlhEs"
       }
     },
     {

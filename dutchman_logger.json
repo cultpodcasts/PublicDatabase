@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "6aaabf11-65ef-4eea-b487-8fd66f1dd82a",
+  "name": "dutchman logger",
+  "youTubeChannelId": "UCT0nh60nFAea7QpTQUvfYGA",
+  "episodes": [
+    {
+      "id": "c39da0db-dab2-437b-86a0-71997acc5f8c",
+      "title": "Telling my story (Ex Elder)",
+      "description": "This is my story of being a Jehovah witness now an ex Jehovah witness.",
+      "release": "2017-10-20T15:59:42Z",
+      "duration": "00:13:05",
+      "explicit": false,
+      "youTubeId": "zKxJ4zZujXc",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zKxJ4zZujXc"
+      }
+    },
+    {
+      "id": "a42453f4-bf39-4d80-aafe-2c9cc8bbcb63",
+      "title": "Sounds bites of my committie meeting",
+      "description": "This is my experience as a Jehovah witness and being shunned and ostracized in front of my children and family for 7 years now i am ex jw.",
+      "release": "2017-10-20T15:58:38Z",
+      "duration": "00:12:50",
+      "explicit": false,
+      "youTubeId": "c8ZvS1KBtJs",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=c8ZvS1KBtJs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_ts": 0,
+  "id": "67a52137-f9a5-472a-98dc-c569f8f47e08",
+  "name": "WNFJ",
+  "youTubeChannelId": "UCUEVJnBCK7rYXAmKNlV83tA",
+  "episodes": [
+    {
+      "id": "bfce3893-966d-4aad-b318-f4f42667af6d",
+      "title": "How to Effectively Help Jehovah\u0027s Witnesses (Midwest 2022)",
+      "description": "Speaker:\nElaine Bales\n\nhttps://www.youtube.com/c/JWEscape",
+      "release": "2022-08-25T15:30:28Z",
+      "duration": "00:51:54",
+      "explicit": false,
+      "youTubeId": "Ev7-otRnotI",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ev7-otRnotI"
+      }
+    },
+    {
+      "id": "020674b3-0245-4053-ae41-b9b5eb2480b3",
+      "title": "WNFJ2019 WC - The Struggles After Leaving the Watchtower",
+      "description": "2019 - West Coast Witness Now For Jesus Conference\nRodney Allgood",
+      "release": "2019-05-17T23:26:30Z",
+      "duration": "01:15:27",
+      "explicit": false,
+      "youTubeId": "ZtF0DNOXec8",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZtF0DNOXec8"
+      }
+    },
+    {
+      "id": "21648075-c03b-4c9a-b016-fa4f2649a2a9",
+      "title": "WNFJ2018 -  Recovering from the Witnesses",
+      "description": "Speaker: Anya Demnieki",
+      "release": "2018-10-16T20:30:53Z",
+      "duration": "00:48:04",
+      "explicit": false,
+      "youTubeId": "oROkGTkOvIE",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oROkGTkOvIE"
+      }
+    }
+  ]
+}

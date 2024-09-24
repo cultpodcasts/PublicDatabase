@@ -7,6 +7,58 @@
   "youTubeChannelId": "UCPPmdlC-tLQVrnfjCUWycBQ",
   "episodes": [
     {
+      "id": "d20b4b66-8043-4704-8e2c-21e30387f554",
+      "title": "Episode 17: Talking with Dani From Cult Chronicles Podcast",
+      "description": "In this gripping crossover episode of \u0022My Wife Joined a Cult,\u0022 Craig Shoemaker joins forces with the host of Cult Chronicles to unravel his personal encounters with cult culture. From his father\u2019s unorthodox lifestyle in the mountains of Pennsylvania to his ex-wife\u2019s descent into multiple cults, Craig shares raw, unfiltered stories that dive deep into the psychological grip these organizations have on their followers. He reveals his theories on how cult leaders manipulate through praise, control, and shame, creating a dangerous allure that entraps the vulnerable. This episode offers a compelling exploration of the fine line between fascination and fear in the world of cults, providing listeners a unique glimpse into Craig\u2019s own battles with the dark forces that have shaped his personal and family life.",
+      "release": "2024-09-20T15:05:01Z",
+      "duration": "01:33:33",
+      "explicit": false,
+      "spotifyId": "0tgwjwLGTig9gwpRRGE1I8",
+      "appleId": 1000670181492,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0tgwjwLGTig9gwpRRGE1I8",
+        "apple": "https://podcasts.apple.com/us/podcast/episode-17-talking-with-dani-from-cult-chronicles-podcast/id1761404638?i=1000670181492"
+      }
+    },
+    {
+      "id": "c888bab6-1abd-401a-b303-2f77c6fdc0e1",
+      "title": "Episode 16: Jeff Cobher Unveiled: Exploring Cults, Meditation, and the Quest for Inner Peace",
+      "description": "In this thought-provoking episode, Craig Shoemaker and special guest Jeff Cobher dive into the complex worlds of cults, wellness grifters, and meditation. They explore the allure of spiritual systems, the dangers of misplaced trust, and the quest for inner peace in a chaotic world. Through personal stories and candid insights, they unravel the challenges of seeking meaning amidst manipulation, urging listeners to look beyond the illusions. Join us as we discuss how to find true enlightenment and the courage to see beyond the surface.",
+      "release": "2024-09-18T15:05:01Z",
+      "duration": "01:14:08.9280000",
+      "explicit": false,
+      "spotifyId": "4LmThu0CtbTupad9ZRcU9E",
+      "appleId": 1000669948122,
+      "subjects": [
+        "Self-Help",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4LmThu0CtbTupad9ZRcU9E",
+        "apple": "https://podcasts.apple.com/podcast/episode-16-jeff-cobher-unveiled-exploring-cults-meditation/id1761404638?i=1000669948122"
+      }
+    },
+    {
+      "id": "3cefc5c7-0a07-4080-928e-d90595716e85",
+      "title": "Episode 15: Cult Vs. Scam with Guest Phil Maco.",
+      "description": "In this episode, Craig Shoemaker sits down with Phil Maco, host of the \u0022Muddy Waters\u0022 podcast, to dive deep into the unsettling similarities between cults and scams. They explore how cult leaders and scammers use similar tactics of manipulation, vulnerability, and false personas to control and exploit their victims. From personal stories to shocking insights, this episode uncovers the dark connections between these two worlds and offers valuable tips on recognizing the warning signs before it\u0027s too late.",
+      "release": "2024-09-16T15:05:02Z",
+      "duration": "01:02:16.9680000",
+      "explicit": false,
+      "spotifyId": "3ifMBLeXCUPntWyc4VDMDP",
+      "appleId": 1000669710162,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ifMBLeXCUPntWyc4VDMDP",
+        "apple": "https://podcasts.apple.com/podcast/episode-15-cult-vs-scam-with-guest-phil-maco/id1761404638?i=1000669710162"
+      }
+    },
+    {
       "id": "b3094d2c-d16c-4053-88be-a6d526bbc307",
       "title": "Episode 14: Throwing the Hat Over the Wall: Finding Peace Amidst Chaos",
       "description": "In this deeply introspective episode, our host dives into the unexpected journey of navigating life\u0027s most challenging and chaotic moments. Using the metaphor of \u0022throwing the hat over the wall,\u0022 they explore the relentless pursuit of solutions, peace, and healing in the face of mental illness, family struggles, and personal battles. Reflecting on their own experiences, they discuss the complexities of control, forgiveness, and the constant search for hope. This episode is a raw and honest look at the power of resilience, the importance of community, and the journey towards inner tranquility, even when faced with life\u0027s darkest moments. Whether you\u0027re going through your own struggles or supporting someone in theirs, this conversation offers a relatable and heartfelt reminder that you are not alone.",
@@ -70,12 +122,14 @@
       "explicit": false,
       "spotifyId": "7iPqhkFm1fcJPHP8Fp4iP0",
       "appleId": 1000668350936,
+      "youTubeId": "5m7l7fbZzqE",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7iPqhkFm1fcJPHP8Fp4iP0",
-        "apple": "https://podcasts.apple.com/podcast/episode-11-truth-and-manipulation-navigating-dark-waters/id1761404638?i=1000668350936"
+        "apple": "https://podcasts.apple.com/podcast/episode-11-truth-and-manipulation-navigating-dark-waters/id1761404638?i=1000668350936",
+        "youtube": "https://www.youtube.com/watch?v=5m7l7fbZzqE"
       }
     },
     {

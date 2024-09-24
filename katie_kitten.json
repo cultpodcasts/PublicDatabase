@@ -1,0 +1,37 @@
+{
+  "_ts": 0,
+  "id": "5e6e239b-bb00-4a0a-9c04-430d5123f021",
+  "name": "Katie Kitten",
+  "youTubeChannelId": "UCZhIGN-F1eY04d2_aJG47OA",
+  "episodes": [
+    {
+      "id": "6ea9fa1f-cf9d-4144-b24c-b62e4e140de3",
+      "title": "JW Protest",
+      "description": "A quick recap of some of the successes of the protest on 11th and 12th August and an inviation to join us again on 18th and 19th August 2018 to do the most amazing piece of activism you will do this year.",
+      "release": "2018-08-13T10:20:00Z",
+      "duration": "00:11:07",
+      "explicit": false,
+      "youTubeId": "Xt0OpSDPpHI",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Xt0OpSDPpHI"
+      }
+    },
+    {
+      "id": "3fbb8e71-9f6e-430e-bcf2-f21e7c87be7c",
+      "title": "Stand up for Jehovah. DEMONS. (JW.org)",
+      "release": "2014-01-04T15:08:10Z",
+      "duration": "00:11:08",
+      "explicit": false,
+      "youTubeId": "nA6cBTAghio",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nA6cBTAghio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "816e866c-e501-45bd-96d3-0aa69ca5db23",
+  "name": "Les podcasts du week-end",
+  "spotifyId": "7dUSwm8g2SDdC4ACM2kyMz",
+  "appleId": 1651082039,
+  "episodes": [
+    {
+      "id": "1c16d128-1bfe-462a-983f-26cc1fa8ece0",
+      "title": "Soleil noir : un passionnant podcast d\u0027enqu\u00EAte sur les massacres de l\u0027Ordre du temple solaire",
+      "description": "dur\u00E9e : 00:03:53 - Les podcasts du week-end - par : Erwann Gaucher - Le 5 octobre 1994, le monde d\u00E9couvre avec horreur une secte qui vient de pousser \u00E0 la mort 53 de ses membres, et les tueries vont continuer. Soleil noir revient en 10 \u00E9pisodes sur cette enqu\u00EAte hors normes, cette secte et ses gourous avec des documents exclusifs et gla\u00E7ants.",
+      "release": "2024-09-07T04:18:10Z",
+      "duration": "00:04:13.4800000",
+      "explicit": false,
+      "spotifyId": "46UKvGH9a46sSqEvqWXz6m",
+      "appleId": 1000668689094,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/46UKvGH9a46sSqEvqWXz6m",
+        "apple": "https://podcasts.apple.com/podcast/soleil-noir-un-passionnant-podcast-denqu%C3%AAte-sur-les/id1651082039?i=1000668689094"
+      }
+    }
+  ]
+}

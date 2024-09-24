@@ -1,0 +1,40 @@
+{
+  "_ts": 0,
+  "id": "6b75a24c-f5f7-4a5a-9f2d-ea6a0e39b948",
+  "name": "Smart Muslima",
+  "spotifyId": "0mX3gOQDF3dRMVd1qLGpvg",
+  "appleId": 1450846768,
+  "episodes": [
+    {
+      "id": "ff5a6cc9-0407-4104-a284-400e9d4bc6eb",
+      "title": "Muslim Cults: Red Flags \u0026 Warning Signs",
+      "description": "In this episode of *Smart Muslima*, host Farhat Amin uncovers the hidden tactics of Muslim groups, exploring how they manipulate and control vulnerable individuals. From authoritarian leaders to isolation tactics, we delve into the red flags that signal cult involvement. Learn how to identify manipulation, the psychological traps, and the steps you can take to protect yourself or a loved one. Whether you\u0027re worried about someone being drawn into a cult or curious about how these groups operate, this episode offers crucial insights and practical advice for breaking free. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-09-17T18:27:45Z",
+      "duration": "00:37:27.3660000",
+      "explicit": false,
+      "spotifyId": "6xtHzXtcinmTiek3jQz1EU",
+      "appleId": 1000669855138,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6xtHzXtcinmTiek3jQz1EU",
+        "apple": "https://podcasts.apple.com/podcast/muslim-cults-red-flags-warning-signs/id1450846768?i=1000669855138"
+      }
+    },
+    {
+      "id": "3b28d2d9-0bdf-4852-a10f-698b85643fd9",
+      "title": "Muslim Cults Exposed: Hizb ut Tahrir, Salafi groups and Young Muslims UK",
+      "description": "In this episode, Farhat Amin exposes the toxic practices of Muslim groups and cults such as Hizb ut Tahrir, Salafi groups, and Young Muslims UK. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-06-17T21:34:14Z",
+      "duration": "00:23:47.9830000",
+      "explicit": false,
+      "spotifyId": "42MVf85HZ6mwUbamXfxZEc",
+      "appleId": 1000659327761,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/42MVf85HZ6mwUbamXfxZEc",
+        "apple": "https://podcasts.apple.com/podcast/muslim-cults-exposed-hizb-ut-tahrir-salafi-groups-and/id1450846768?i=1000659327761"
+      }
+    }
+  ]
+}
