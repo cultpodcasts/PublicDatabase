@@ -4,7 +4,25 @@
   "name": "Beyond The Surface",
   "spotifyId": "4m4UsUynYaRYX11xn5FKgX",
   "appleId": 1724257434,
+  "youTubeChannelId": "UClrhs-TdQcRGFSphT3bgcJA",
   "episodes": [
+    {
+      "id": "038c29d2-05dc-4102-b7f9-ee8f9d7cf37f",
+      "title": "The One Who Reclaimed Her Body Post Purity Culture",
+      "description": "In this episode of \u0022Beyond the Surface,\u0022 we explore Meg\u0027s powerful journey of faith deconstruction, beginning with her upbringing in a Christian family in New Zealand and involvement in a conservative Pentecostal church. Meg shares her experiences with purity culture, the internal conflicts of being a devout Christian while navigating typical teenage behaviours, and the impact on her relationship with God and sense of self. We also discuss the tension between church leadership, personal well-being, and family life, and the healing that came from stepping back from church roles to focus on health and personal growth. More About Meg Meg is a Sex and Relationship Coach specialising in helping people recovering from the shame-based religious teachings of purity culture and the deconstruction of their faith. She has trained in Clinical Sexology, Trauma Informed Care, is a Certified Advanced Sex and Relationship Coach and Integrated Intimacy Practitioner. She supports people to explore personal agency and intimate connection. Meg is also a Protect Accredited Trainer (New Zealands leading protection and self defense agency). For more than 14 years she\u0027s worked with clients to help them identify the behavioural and psychological signs of abuse and practical strategies for staying safe. In all these areas her work focuses on the mind-body connections that help people recover from trauma and find freedom in their bodies. As the creator of the couples guide to Hotter Sex in 10 days, and The Shame-free Sex Course she delivers empowering practical skills to people all around the world on these subjects. Connect With Us You can reach Meg on her website - https://megcowan.com You can also connect over on Instagram - @megccowan You can connect with Sam over on Instagram - @anchoredcounsellingservices Want to contact with Sam about the podcast or therapy? Use this contact form.",
+      "release": "2024-09-25T20:00:00Z",
+      "duration": "00:51:34.0470000",
+      "explicit": true,
+      "spotifyId": "3XhjlgKS94Kd0TEn2bAxdP",
+      "appleId": 1000670704690,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3XhjlgKS94Kd0TEn2bAxdP",
+        "apple": "https://podcasts.apple.com/podcast/the-one-who-reclaimed-her-body-post-purity-culture/id1724257434?i=1000670704690"
+      }
+    },
     {
       "id": "287bc003-793a-4978-a04d-55b331494de1",
       "title": "The One Who Found Life After Religion",
@@ -103,12 +121,14 @@
       "explicit": true,
       "spotifyId": "6sXD3dNaJpgDpumiGZeMkI",
       "appleId": 1000664645414,
+      "youTubeId": "mdSxK4VY990",
       "subjects": [
         "Two By Twos"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6sXD3dNaJpgDpumiGZeMkI",
-        "apple": "https://podcasts.apple.com/podcast/the-one-who-survived-an-unnamed-cult/id1724257434?i=1000664645414"
+        "apple": "https://podcasts.apple.com/podcast/the-one-who-survived-an-unnamed-cult/id1724257434?i=1000664645414",
+        "youtube": "https://www.youtube.com/watch?v=mdSxK4VY990"
       }
     },
     {
@@ -120,13 +140,15 @@
       "explicit": true,
       "spotifyId": "2fok3YQkeR0QSL3qAypy4F",
       "appleId": 1000656433730,
+      "youTubeId": "6uitrEpWV8E",
       "subjects": [
         "Cult Recovery",
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2fok3YQkeR0QSL3qAypy4F",
-        "apple": "https://podcasts.apple.com/podcast/the-multi-cult-survivor/id1724257434?i=1000656433730"
+        "apple": "https://podcasts.apple.com/podcast/the-multi-cult-survivor/id1724257434?i=1000656433730",
+        "youtube": "https://www.youtube.com/watch?v=6uitrEpWV8E"
       }
     }
   ]

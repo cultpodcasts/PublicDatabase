@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "0e792090-dcb6-479a-acba-70a3cf86fc6e",
+      "title": "173: Saturday Morning Mind Control Part II",
+      "description": "This week we dive back into Phil Phillip\u0027s book about the dangers of saturday morning cartoons.",
+      "release": "2024-09-25T05:23:00Z",
+      "duration": "01:10:56.1820000",
+      "explicit": true,
+      "spotifyId": "65wJKl94jeUDrXvFbs856A",
+      "appleId": 1000670618835,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/65wJKl94jeUDrXvFbs856A",
+        "apple": "https://podcasts.apple.com/us/podcast/173-saturday-morning-mind-control-part-ii/id1573190999?i=1000670618835"
+      }
+    },
+    {
       "id": "85c6caa4-8962-4f1b-a342-831e9872d8d8",
       "title": "172: Saturday Morning Mind Control Part I",
       "description": "This week, we dive into another Phil Phillips book called Saturday Morning Mind Control",

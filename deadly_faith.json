@@ -15,12 +15,14 @@
       "explicit": true,
       "spotifyId": "5xRInSpnVdiTvV8LITpEOZ",
       "appleId": 1000670487198,
+      "youTubeId": "_vzCg6eK6dg",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5xRInSpnVdiTvV8LITpEOZ",
-        "apple": "https://podcasts.apple.com/podcast/episode-63-mountain-meadow-massacre-a-bloody-mormon/id1695961925?i=1000670487198"
+        "apple": "https://podcasts.apple.com/podcast/episode-63-mountain-meadow-massacre-a-bloody-mormon/id1695961925?i=1000670487198",
+        "youtube": "https://www.youtube.com/watch?v=_vzCg6eK6dg"
       }
     },
     {

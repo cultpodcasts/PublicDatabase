@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "f0e02452-2ede-48d0-b021-2b9f34f2247d",
+  "name": "Audiobook Connections",
+  "spotifyId": "6Ia7IYrhjFVSF6ABMNhSJr",
+  "appleId": 1499602453,
+  "youTubeChannelId": "UC_OnB57iJzUOOZQOhtSl1vw",
+  "episodes": [
+    {
+      "id": "a510b5b2-1d1a-45a4-aa79-95a6cde628c6",
+      "title": "Interview with Author Janja Lalich",
+      "description": "Join us for a deep dive conversation with Dr. Janja Lalich, Founder and CEO of the Lalich Center on Cults and Coercion, and author of Take Back Your Life: Recovering from Cults and Abusive Relationships (3rd edition). Host Becky Parker (Geist) was the primary narrator for this multi-voiced audiobook, and Janja also recorded a couple segments. Learn more about the topic and the audiobook process in this engaging conversation.\n\n\n\nLearn more at https://janjalalich.com and https://lalichcenter.org\u00A0\n\n\n\nGet the audiobook at AMPlify Audiobooks!  (https://proaudiovoices.com/product/take-back-your-life-recovering-from-cults-and-abusive-relationships-3rd-edition/) \n\n\n\n \n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices (https://megaphone.fm/adchoices)",
+      "release": "2024-09-25T23:39:05Z",
+      "duration": "00:40:09",
+      "explicit": false,
+      "spotifyId": "3K8IJ0E9pnwDZvEB0Epj0l",
+      "appleId": 1000656511347,
+      "youTubeId": "uQ6Y-rKb1FM",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3K8IJ0E9pnwDZvEB0Epj0l",
+        "apple": "https://podcasts.apple.com/podcast/ac-i-221-interview-with-author-janja-lalich-multi/id1499602453?i=1000656511347",
+        "youtube": "https://www.youtube.com/watch?v=uQ6Y-rKb1FM"
+      }
+    }
+  ]
+}

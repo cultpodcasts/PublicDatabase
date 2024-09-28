@@ -15,12 +15,14 @@
       "explicit": true,
       "spotifyId": "7iU61STh381f5HAfRsrzya",
       "appleId": 1000670372768,
+      "youTubeId": "4dh5_ybIfUI",
       "subjects": [
         "7M Films"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7iU61STh381f5HAfRsrzya",
-        "apple": "https://podcasts.apple.com/podcast/dancing-for-the-devil-andrea-marks-on-the-7m-tiktok-cult/id1553334816?i=1000670372768"
+        "apple": "https://podcasts.apple.com/podcast/dancing-for-the-devil-andrea-marks-on-the-7m-tiktok-cult/id1553334816?i=1000670372768",
+        "youtube": "https://www.youtube.com/watch?v=4dh5_ybIfUI"
       }
     },
     {
@@ -32,13 +34,15 @@
       "explicit": false,
       "spotifyId": "7Gsrj1At7bLqhRWdlg3wE3",
       "appleId": 1000669673202,
+      "youTubeId": "EQEAYH7OOUQ",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Gsrj1At7bLqhRWdlg3wE3",
-        "apple": "https://podcasts.apple.com/us/podcast/patreon-unlocked-tia-levings-on-escaping-tradlife/id1553334816?i=1000669673202"
+        "apple": "https://podcasts.apple.com/us/podcast/patreon-unlocked-tia-levings-on-escaping-tradlife/id1553334816?i=1000669673202",
+        "youtube": "https://www.youtube.com/watch?v=EQEAYH7OOUQ"
       }
     },
     {

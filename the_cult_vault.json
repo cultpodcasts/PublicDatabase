@@ -15,12 +15,14 @@
       "explicit": true,
       "spotifyId": "4BclpzuglsBf6j92P2wEcR",
       "appleId": 1000670290872,
+      "youTubeId": "suXUPK_ODDE",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4BclpzuglsBf6j92P2wEcR",
-        "apple": "https://podcasts.apple.com/podcast/season-3-launch-what-is-coercive-control/id1514656568?i=1000670290872"
+        "apple": "https://podcasts.apple.com/podcast/season-3-launch-what-is-coercive-control/id1514656568?i=1000670290872",
+        "youtube": "https://www.youtube.com/watch?v=suXUPK_ODDE"
       }
     },
     {

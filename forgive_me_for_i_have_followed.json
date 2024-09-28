@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "4ae6f404-f5f6-4a8a-a72a-6a168bcbc895",
+  "name": "Forgive Me For I Have Followed",
+  "spotifyId": "7Fxk6AJDnqVRefkStbs3Jj",
+  "appleId": 1767598363,
+  "episodes": [
+    {
+      "id": "f58984ca-bf06-4b97-ba7c-d26416b71831",
+      "title": "\u0022Aubrey\u0022",
+      "description": "Aubrey shares his experiences with Shekinah Church and his role in creating content for 7M Films. He reflects on some of the most poignant and unusual moments he encountered at the church. Aubrey also discusses the church\u0027s reaction to the Wilking parents\u0027 TikTok plea and how his perspective began to shift. Finally, he talks about his experience watching the documentary and the changes in his life since leaving the church. Forgive Me For I Have Followed continues the exploration from Netflix\u2019s hit Dancing for the Devil documentary series by delving deeper into the personal stories of those affected by Robert Shinn, Shekinah Church, and 7M Films. We will focus on the experiences of victims and their families, address urgent questions raised in the documentary, and gather insights from former members and dancers. Our goal is to uncover strategies for combating abuse and ensuring that controlling, cult-like communities are held accountable for their actions. *The following is based on actual events. Certain composite and representative materials and characters have been used for dramatic purposes. See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-26T07:00:00Z",
+      "duration": "00:45:55.8400000",
+      "explicit": false,
+      "spotifyId": "0omQ1zsRaGs9OdND5rnNTP",
+      "appleId": 1000670753019,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0omQ1zsRaGs9OdND5rnNTP",
+        "apple": "https://podcasts.apple.com/podcast/aubrey/id1767598363?i=1000670753019"
+      }
+    },
+    {
+      "id": "ee3f33a4-c8f3-4274-a283-1eee4d04409b",
+      "title": "\u201CMarilyn\u201D",
+      "description": "In this episode, we examine the theme of \u201CDying to Yourself\u201D and the extreme measures for spiritual connection promoted by Shekinah Church. Former member Marilyn shares her personal experience, including her decision to join the church and the intense motivation that led her to uproot her family from their newly purchased home. *The following is based on actual events. Certain composite and representative materials and characters have been used for dramatic purposes. See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-19T07:00:00Z",
+      "duration": "00:47:49.6810000",
+      "explicit": false,
+      "spotifyId": "0kSOCZMm7qIVHIhbbLH1zm",
+      "appleId": 1000670021755,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0kSOCZMm7qIVHIhbbLH1zm",
+        "apple": "https://podcasts.apple.com/podcast/marilyn/id1767598363?i=1000670021755"
+      }
+    },
+    {
+      "id": "89f8b0b8-44ac-4f2b-b8d4-ceddd9c18510",
+      "title": "\u201CKailea\u201D",
+      "description": "The new podcast Forgive Me For I Have Followed builds on Netflix\u2019s Dancing for the Devil, delving into the personal stories of those affected by Robert Shinn, Shekinah Church, and 7M Films. Shinn founded Shekinah Church in LA over two decades ago, before establishing 7M Films, and is named in a civil lawsuit alleging abuse and \u0022cult-like\u0022 behavior. In the premiere episode, co-host and former member Kailea Gray shares her personal perspective. Joined by co-host and Dancing for the Devil Executive Producer Jessica Acevedo, Kailea reflects on her and her now-husband\u0027s involvement with the church, how their lives have changed, and their journey moving forward. *The following is based on actual events. Certain composite and representative materials and characters have been used for dramatic purposes. See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-12T07:00:00Z",
+      "duration": "00:53:19.9210000",
+      "explicit": false,
+      "spotifyId": "1r0Nd59eBhkTWVNcOA2knE",
+      "appleId": 1000669252648,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1r0Nd59eBhkTWVNcOA2knE",
+        "apple": "https://podcasts.apple.com/podcast/kailea/id1767598363?i=1000669252648"
+      }
+    },
+    {
+      "id": "fc66d917-69f3-4967-9038-ba415cd833c3",
+      "title": "Introducing: Forgive Me For I Have Followed",
+      "description": "See omnystudio.com/listener for privacy information.",
+      "release": "2024-09-10T06:14:00Z",
+      "duration": "00:01:39.9960000",
+      "explicit": false,
+      "spotifyId": "12I7V8s38vwttkGyd6IkZy",
+      "appleId": 1000669014542,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/12I7V8s38vwttkGyd6IkZy",
+        "apple": "https://podcasts.apple.com/podcast/introducing-forgive-me-for-i-have-followed/id1767598363?i=1000669014542"
+      }
+    }
+  ]
+}
