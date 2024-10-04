@@ -4,6 +4,7 @@
   "name": "WILDCIDE",
   "spotifyId": "2tkb8p52CuUtxkNLypeu7K",
   "appleId": 1721815484,
+  "youTubeChannelId": "UC0SmSZn6Xh2M79qa2bISYRg",
   "episodes": [
     {
       "id": "94fbe5b8-cbaa-4a56-bd23-11bda2770427",
@@ -14,12 +15,14 @@
       "explicit": true,
       "spotifyId": "2DUvapwU96CtPdQxrMroMT",
       "appleId": 1000648460959,
+      "youTubeId": "jDpZ0d01MqU",
       "subjects": [
         "The Fall River Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DUvapwU96CtPdQxrMroMT",
-        "apple": "https://podcasts.apple.com/podcast/the-fall-river-cult-murders-part-2-hysteria/id1721815484?i=1000648460959"
+        "apple": "https://podcasts.apple.com/podcast/the-fall-river-cult-murders-part-2-hysteria/id1721815484?i=1000648460959",
+        "youtube": "https://www.youtube.com/watch?v=jDpZ0d01MqU"
       }
     },
     {
@@ -48,12 +51,14 @@
       "explicit": true,
       "spotifyId": "3KwlUd5I8ChutJe89uVh5Q",
       "appleId": 1000643923764,
+      "youTubeId": "xAmtSAbr-WQ",
       "subjects": [
         "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KwlUd5I8ChutJe89uVh5Q",
-        "apple": "https://podcasts.apple.com/podcast/cults-interview-with-expert-rick-alan-ross/id1721815484?i=1000643923764"
+        "apple": "https://podcasts.apple.com/podcast/cults-interview-with-expert-rick-alan-ross/id1721815484?i=1000643923764",
+        "youtube": "https://www.youtube.com/watch?v=xAmtSAbr-WQ"
       }
     },
     {

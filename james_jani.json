@@ -5,6 +5,17 @@
   "youTubeChannelId": "UCT0dmfFCLWuVKPWZ6wcdKyg",
   "episodes": [
     {
+      "id": "6fdd2238-b429-4975-9d0c-df4257f8ce13",
+      "title": "The Cult of the Dead Stock.",
+      "release": "2024-09-28T17:00:07Z",
+      "duration": "01:05:00",
+      "explicit": false,
+      "youTubeId": "C5Bd6YxifCo",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=C5Bd6YxifCo"
+      }
+    },
+    {
       "id": "9c59fe9f-8015-4d5d-b934-9b37605ffb55",
       "title": "Inside an Investment Cult.",
       "release": "2024-09-25T17:00:26Z",

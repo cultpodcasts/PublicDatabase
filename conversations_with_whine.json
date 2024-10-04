@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "feb7779d-3711-4732-ba24-28beb065fc03",
+  "name": "Conversations With W\u0101hine",
+  "spotifyId": "6eQx2tmJLJR9GKGsa182Rk",
+  "appleId": 1741267154,
+  "episodes": [
+    {
+      "id": "70307b02-ecd4-4888-9078-ca8b8b43c2f1",
+      "title": "Anke Richter",
+      "description": "Aisling and Harita talk to author Anke Richter about Decult, New Zealand\u0027s first cult conference that will gather cult survivors, academic experts, advocates and activists \u2013 in person and live-streamed.",
+      "release": "2023-04-27T23:00:00Z",
+      "duration": "00:52:36.3230000",
+      "explicit": false,
+      "spotifyId": "0Bq3a1ZtFV5WGdx8MJObRk",
+      "appleId": 1000652431085,
+      "subjects": [
+        "Cult-Expert",
+        "Bhagwan Shree Rajneesh",
+        "Centrepoint",
+        "Agama Yoga"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Bq3a1ZtFV5WGdx8MJObRk",
+        "apple": "https://podcasts.apple.com/podcast/anke-richter/id1741267154?i=1000652431085"
+      }
+    }
+  ]
+}

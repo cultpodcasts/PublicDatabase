@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "847eac8d-0c68-43b2-9fb9-45117a9b10d8",
+  "name": "Woman\u0027s Hour",
+  "spotifyId": "0xFLqrSAFDNqlBstjAd8Mk",
+  "appleId": 130950322,
+  "episodes": [
+    {
+      "id": "49258752-6f7d-4024-a7dd-363e062566cc",
+      "title": "Children of the Cult",
+      "description": "From [0:29:12] - \nIn 2021, Netflix premiered the documentary Wild Wild Country which drew global attention to the Rajneesh movement, a group of around 30,000 people at the movement\u2019s height, who followed an Indian spiritual guru called Bhagwan Shree Rajneesh. But what really drew the attention of many of the people who had grown up as part of this international community was that the experience of children was barely reflected in the six-part series. Maroesja Perizonius and her mother were part of the Rajneesh movement, joining when Maroosha was six. Maroesja has created a new documentary, Children of the Cult. She joins Kylie to talk about this very deeply personal project along with Sargam, another woman whose family became followers when she was a child.",
+      "release": "2024-10-03T10:47:00Z",
+      "duration": "00:56:55.1570000",
+      "explicit": false,
+      "spotifyId": "3uOJhgNly0EampU2F4niUB",
+      "appleId": 1000671658416,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3uOJhgNly0EampU2F4niUB",
+        "apple": "https://podcasts.apple.com/podcast/send-transport-lucy-worsley-children-of-the-cult-t20/id130950322?i=1000671658416"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "b4125659-1a7f-4c2c-a79c-563748d2d2e8",
+  "name": "This Is Hell!",
+  "spotifyId": "0bXmbX47uBmUaCJfYbLttW",
+  "appleId": 73329951,
+  "episodes": [
+    {
+      "id": "30a3451a-33e2-4f37-abab-33231e5400bc",
+      "title": "Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church / Gareth Gore",
+      "description": "Gareth Gore on his book, \u0022Opus: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church,\u0022 published just today by Simon and Schuster. \u0022Rotten History\u0022 by Renaldo Migaldi follows the interview. Check out Gareth\u0027s book here: https://www.simonandschuster.com/books/Opus/Gareth-Gore/9781668016145 Help keep This Is Hell! completely listener supported and access bonus episodes by subscribing to our Patreon: www.patreon.com/thisishell",
+      "release": "2024-10-02T00:16:17Z",
+      "duration": "01:45:17.3210000",
+      "explicit": false,
+      "spotifyId": "6shNJPUOw84uoFrBZ10fgW",
+      "appleId": 1000671483603,
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6shNJPUOw84uoFrBZ10fgW",
+        "apple": "https://podcasts.apple.com/podcast/dark-money-human-trafficking-and-right-wing/id73329951?i=1000671483603"
+      }
+    }
+  ]
+}

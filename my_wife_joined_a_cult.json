@@ -15,12 +15,14 @@
       "explicit": false,
       "spotifyId": "0tgwjwLGTig9gwpRRGE1I8",
       "appleId": 1000670181492,
+      "youTubeId": "KNYaRTqkwEE",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0tgwjwLGTig9gwpRRGE1I8",
-        "apple": "https://podcasts.apple.com/us/podcast/episode-17-talking-with-dani-from-cult-chronicles-podcast/id1761404638?i=1000670181492"
+        "apple": "https://podcasts.apple.com/us/podcast/episode-17-talking-with-dani-from-cult-chronicles-podcast/id1761404638?i=1000670181492",
+        "youtube": "https://www.youtube.com/watch?v=KNYaRTqkwEE"
       }
     },
     {
@@ -32,13 +34,15 @@
       "explicit": false,
       "spotifyId": "4LmThu0CtbTupad9ZRcU9E",
       "appleId": 1000669948122,
+      "youTubeId": "yxHR75CR53s",
       "subjects": [
         "Self-Help",
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LmThu0CtbTupad9ZRcU9E",
-        "apple": "https://podcasts.apple.com/podcast/episode-16-jeff-cobher-unveiled-exploring-cults-meditation/id1761404638?i=1000669948122"
+        "apple": "https://podcasts.apple.com/podcast/episode-16-jeff-cobher-unveiled-exploring-cults-meditation/id1761404638?i=1000669948122",
+        "youtube": "https://www.youtube.com/watch?v=yxHR75CR53s"
       }
     },
     {
@@ -50,12 +54,14 @@
       "explicit": false,
       "spotifyId": "3ifMBLeXCUPntWyc4VDMDP",
       "appleId": 1000669710162,
+      "youTubeId": "hHK_RJh5SKU",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ifMBLeXCUPntWyc4VDMDP",
-        "apple": "https://podcasts.apple.com/podcast/episode-15-cult-vs-scam-with-guest-phil-maco/id1761404638?i=1000669710162"
+        "apple": "https://podcasts.apple.com/podcast/episode-15-cult-vs-scam-with-guest-phil-maco/id1761404638?i=1000669710162",
+        "youtube": "https://www.youtube.com/watch?v=hHK_RJh5SKU"
       }
     },
     {
@@ -105,12 +111,14 @@
       "explicit": false,
       "spotifyId": "466AcouGjSoCNvDW9BQsWU",
       "appleId": 1000668628701,
+      "youTubeId": "avXrs9Dj7bc",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/466AcouGjSoCNvDW9BQsWU",
-        "apple": "https://podcasts.apple.com/podcast/episode-12-the-journey-within-finding-forgiveness/id1761404638?i=1000668628701"
+        "apple": "https://podcasts.apple.com/podcast/episode-12-the-journey-within-finding-forgiveness/id1761404638?i=1000668628701",
+        "youtube": "https://www.youtube.com/watch?v=avXrs9Dj7bc"
       }
     },
     {
@@ -124,7 +132,8 @@
       "appleId": 1000668350936,
       "youTubeId": "5m7l7fbZzqE",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7iPqhkFm1fcJPHP8Fp4iP0",
@@ -141,9 +150,14 @@
       "explicit": false,
       "spotifyId": "4rPjRyObp6Alu0vSq4Y9nV",
       "appleId": 1000668063406,
+      "youTubeId": "WpE2TCSP4zs",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4rPjRyObp6Alu0vSq4Y9nV",
-        "apple": "https://podcasts.apple.com/podcast/episode-10-free-falling-from-grace/id1761404638?i=1000668063406"
+        "apple": "https://podcasts.apple.com/podcast/episode-10-free-falling-from-grace/id1761404638?i=1000668063406",
+        "youtube": "https://www.youtube.com/watch?v=WpE2TCSP4zs"
       }
     },
     {
@@ -155,9 +169,14 @@
       "explicit": false,
       "spotifyId": "3gK8oglV1k9wpyL32cH0Rh",
       "appleId": 1000667159230,
+      "youTubeId": "BzfZvYOPgHM",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gK8oglV1k9wpyL32cH0Rh",
-        "apple": "https://podcasts.apple.com/podcast/episode-9-sleepless-in-cult-chaos/id1761404638?i=1000667159230"
+        "apple": "https://podcasts.apple.com/podcast/episode-9-sleepless-in-cult-chaos/id1761404638?i=1000667159230",
+        "youtube": "https://www.youtube.com/watch?v=BzfZvYOPgHM"
       }
     },
     {
@@ -169,9 +188,14 @@
       "explicit": false,
       "spotifyId": "4zycDzfl1aYya5zYFJzj5X",
       "appleId": 1000666817947,
+      "youTubeId": "TAMN1PpkRTA",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4zycDzfl1aYya5zYFJzj5X",
-        "apple": "https://podcasts.apple.com/podcast/episode-8-letting-go-moving-forward/id1761404638?i=1000666817947"
+        "apple": "https://podcasts.apple.com/podcast/episode-8-letting-go-moving-forward/id1761404638?i=1000666817947",
+        "youtube": "https://www.youtube.com/watch?v=TAMN1PpkRTA"
       }
     },
     {
@@ -184,6 +208,9 @@
       "spotifyId": "2SG7PR0bhmnv1Ug5l65Mu1",
       "appleId": 1000665641861,
       "youTubeId": "yohvi6XpCaQ",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2SG7PR0bhmnv1Ug5l65Mu1",
         "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-07-parental-alienation-and-resilience/id1761404638?i=1000665641861",
@@ -200,6 +227,9 @@
       "spotifyId": "1mq9DolNU89uzoYmGnQva0",
       "appleId": 1000665156959,
       "youTubeId": "Av3i0Ta2mbI",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mq9DolNU89uzoYmGnQva0",
         "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-06-navigating-love-and-loss-a/id1761404638?i=1000665156959",
@@ -216,6 +246,10 @@
       "spotifyId": "4hXep0rPQLoJXU3qptnWfj",
       "appleId": 1000664951083,
       "youTubeId": "03n4EtqoPA4",
+      "subjects": [
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4hXep0rPQLoJXU3qptnWfj",
         "apple": "https://podcasts.apple.com/us/podcast/podcast-episode-05-unmasking-manipulation-a-deep/id1761404638?i=1000664951083",
@@ -232,6 +266,9 @@
       "spotifyId": "3vK3wmJXtXYtxQy3uneAY5",
       "appleId": 1000664832328,
       "youTubeId": "7gCB-CNqhts",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3vK3wmJXtXYtxQy3uneAY5",
         "apple": "https://podcasts.apple.com/podcast/podcast-episode-04-navigating-the-impact-of/id1761404638?i=1000664832328",
@@ -248,6 +285,9 @@
       "spotifyId": "0hcBwjLm2sWOpFS6UhUR63",
       "appleId": 1000664832327,
       "youTubeId": "Kd9QRDr8bi8",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0hcBwjLm2sWOpFS6UhUR63",
         "apple": "https://podcasts.apple.com/podcast/podcast-episode-3-laughter-honesty-and-the-fight/id1761404638?i=1000664832327",
@@ -264,6 +304,9 @@
       "spotifyId": "7E54aoVSHmmjQYw2KbCjpa",
       "appleId": 1000664606226,
       "youTubeId": "lQM4iPUoawM",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7E54aoVSHmmjQYw2KbCjpa",
         "apple": "https://podcasts.apple.com/podcast/podcast-episode-2-navigating-truth-betrayal-and/id1761404638?i=1000664606226",
@@ -280,6 +323,9 @@
       "spotifyId": "23SxSK7iMSjOp8ttO8UB92",
       "appleId": 1000664508167,
       "youTubeId": "gT9-9q9nvp0",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23SxSK7iMSjOp8ttO8UB92",
         "apple": "https://podcasts.apple.com/podcast/podcast-episode-1-the-unraveling/id1761404638?i=1000664508167",
@@ -296,6 +342,9 @@
       "spotifyId": "3K6wV4wLuku6QFdYwDV8Li",
       "appleId": 1000664508204,
       "youTubeId": "dV30LMkvDIk",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3K6wV4wLuku6QFdYwDV8Li?si=21cfe938c37b4020",
         "apple": "https://podcasts.apple.com/podcast/prologue-into-the-shadows/id1761404638?i=1000664508204",

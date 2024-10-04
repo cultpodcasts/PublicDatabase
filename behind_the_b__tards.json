@@ -7,6 +7,42 @@
   "youTubeChannelId": "UCJPHc5wprYeNF0K5ITwPBgA",
   "episodes": [
     {
+      "id": "e29541a2-af9e-4f65-aab7-f8b5a1163e23",
+      "title": "Part Two: Apollo Quiboloy: The Jeffrey Epstein of the Philippines",
+      "description": "Robert and Prop conclude the story of the Filipino Jeffrey Epstein with his exciting near-Waco arrest. See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-03T09:00:00Z",
+      "duration": "01:18:45.3150000",
+      "explicit": false,
+      "spotifyId": "25IVXlDl6PdEneSaMP9m18",
+      "appleId": 1000671648656,
+      "subjects": [
+        "Apollo Quiboloy"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/25IVXlDl6PdEneSaMP9m18",
+        "apple": "https://podcasts.apple.com/podcast/part-two-apollo-quiboloy-the-jeffrey-epstein/id1373812661?i=1000671648656"
+      }
+    },
+    {
+      "id": "7f3bfe25-12b7-4664-af5e-265eed92f901",
+      "title": "Part One: Apollo Quiboloy: The Jeffrey Epstein of the Philippines",
+      "description": "Robert sits down with Prop to discuss Apollo Quiboloy, the Pentacostal cult leader known as \u0027the Jeffery Epstein of the Philippines\u0027. (2 Part Series) See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-01T09:00:00Z",
+      "duration": "01:18:36.6430000",
+      "explicit": false,
+      "spotifyId": "6NUIglWc1bZitCB2jywrZr",
+      "appleId": 1000671399667,
+      "youTubeId": "HO4zPQ7tJx4",
+      "subjects": [
+        "Apollo Quiboloy"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6NUIglWc1bZitCB2jywrZr",
+        "apple": "https://podcasts.apple.com/podcast/part-one-apollo-quiboloy-the-jeffrey-epstein/id1373812661?i=1000671399667",
+        "youtube": "https://www.youtube.com/watch?v=HO4zPQ7tJx4"
+      }
+    },
+    {
       "id": "ed52290e-37e6-4790-9adf-79f6551a2e23",
       "title": "Part Two: The Inventor of Those \u0027Troubled Teen\u0027 Wilderness Camps Where They Kill Kids",
       "description": "Robert and Mara conclude the story of Steve Cartisano with a truly shocking number of illegal open air child torture camps. See omnystudio.com/listener for privacy information.",
