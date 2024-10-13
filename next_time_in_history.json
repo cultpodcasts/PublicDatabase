@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "652bb950-2751-4eb0-9d41-2608fa3c2c60",
+  "name": "Next Time In History",
+  "youTubeChannelId": "UCGK8WmOzusC-XHytccS3F2g",
+  "episodes": [
+    {
+      "id": "bb26425a-6d02-45be-a23c-0c2ff3cec3a9",
+      "title": "The cult that introduced MDMA to Amsterdam",
+      "description": "Welcome! This time in history we investigate the movement which was famously portrayed in the Netflix documentary Wild Wild Country. The movement, founded by Bhagwan Shree Rajneesh, also referred to as Osho, has many interesting chapters, including their amsterdam community and their involvement in the introduction of XTC, also known as MDMA or Molly.",
+      "release": "2024-10-09T14:38:32Z",
+      "duration": "00:20:11",
+      "explicit": false,
+      "youTubeId": "sc-l0ZXUKIk",
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sc-l0ZXUKIk"
+      }
+    }
+  ]
+}

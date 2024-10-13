@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "496fbcf0-d6c4-44fb-a6c8-8350b99b9cbe",
+  "name": "Yeah... Nah!",
+  "spotifyId": "4vUHHTqwRQav9AJPP9ilbK",
+  "appleId": 1609385108,
+  "episodes": [
+    {
+      "id": "034fe5db-545f-4bfe-99ad-7c077153a6ed",
+      "title": "DECULT",
+      "description": "In this VERY special episode, Mark and Bronwyn talk with Anke, a journalist with a long-standing interest in cult groups who is organising a weekend conference in Christchurch in October that focuses on all things culty. We talk about cult survivors, cult experts, the difficulties of organising a large event, and Anke\u2019s hopes for the future.",
+      "release": "2024-09-19T09:00:00Z",
+      "duration": "01:03:36.5830000",
+      "explicit": false,
+      "spotifyId": "7MwUKwM9r3nTpDv90v7eAY",
+      "appleId": 1000670428510,
+      "subjects": [
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MwUKwM9r3nTpDv90v7eAY",
+        "apple": "https://podcasts.apple.com/podcast/decult/id1609385108?i=1000670428510"
+      }
+    }
+  ]
+}

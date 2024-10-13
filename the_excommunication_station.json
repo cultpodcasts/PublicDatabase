@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "99f7a571-81c9-44fa-9188-9a2209422879",
+      "title": "175. The Phantom Patriot: Richard McCaslin",
+      "description": "This week, Clifton from Your Music Saved Us joins us for a story about a Real Life Super Hero, The Phantom Patriot.",
+      "release": "2024-10-09T06:00:00Z",
+      "duration": "02:10:02.7230000",
+      "explicit": true,
+      "spotifyId": "2qnq0CbC8lBC3B5pyQ0KUG",
+      "appleId": 1000672322377,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2qnq0CbC8lBC3B5pyQ0KUG",
+        "apple": "https://podcasts.apple.com/us/podcast/175-the-phantom-patriot-richard-mccaslin/id1573190999?i=1000672322377"
+      }
+    },
+    {
       "id": "4ce03770-07db-4f6e-b388-9170aff73132",
       "title": "174: Saturday Morning Mind Control Part III",
       "description": "We finish up Phil Phillip\u0027s book, Saturday Morning Mind Control.",

@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "f3c24cd9-0f17-40a3-885c-df4338da2e58",
+  "name": "SNHU Agents of Change Podcast",
+  "spotifyId": "5ljQeZazqC11c4W72Xo2xB",
+  "episodes": [
+    {
+      "id": "aad28990-4b39-48b3-9a7b-d6d056baad82",
+      "title": "Season 5 Episode 1: Inside Jonestown feat. Stephan G. Jones, Son of the Rev. Jim Jones of The Peoples Temple",
+      "description": "Inside Jonestown: Stephan G. Jones, Son of the Rev. Jim Jones, Speaks on Family, Faith, and Survival - In this episode, Stephan G. Jones opens up about his childhood growing up with the Rev. Jim Jones, his experiences in the Jonestown cult, the devastating events of its tragic end, and his path to understanding, healing, and survival after the unfathomable losses in Jonestown. Host: Dr. Hector R. Garcia; Special Guest Interviewer \u0026 Producer: Amanda Hunter. Stephan G. Jones, son of the Rev. Jim Jones of The Peoples Temple Dr. Hector R. Garcia, Host Guest Interviewer \u0026 Producer: Amanda Hunter",
+      "release": "2024-10-11T00:00:00",
+      "duration": "00:57:11.6570000",
+      "explicit": false,
+      "spotifyId": "73c1ssH1y6iJffroorSXcl",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/73c1ssH1y6iJffroorSXcl"
+      }
+    }
+  ]
+}

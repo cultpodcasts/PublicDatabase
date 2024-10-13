@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "b513fe07-32f8-4132-b3c9-9f8baec907e1",
+  "name": "A Little More Conversation with Ben O\u2019Hara-Byrne",
+  "spotifyId": "6S33IL3F2uZTUAtjT9ygXA",
+  "appleId": 1604604064,
+  "episodes": [
+    {
+      "id": "0bd66763-c31e-4779-805d-5bf1a505606f",
+      "title": "ALMTC: The Solar Temple cult murders and suicides",
+      "description": "Guest: Susan Palmer, lecturer at the School of Religious Studies, McGIll University and affiliate professor, Concordia University",
+      "release": "2024-10-09T04:29:26Z",
+      "duration": "00:31:26.8500000",
+      "explicit": false,
+      "spotifyId": "3WPnMe2JZg9Gv8tvkyPJmO",
+      "appleId": 1000672314388,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3WPnMe2JZg9Gv8tvkyPJmO",
+        "apple": "https://podcasts.apple.com/podcast/almtc-the-solar-temple-cult-murders-and-suicides/id1604604064?i=1000672314388"
+      }
+    }
+  ]
+}

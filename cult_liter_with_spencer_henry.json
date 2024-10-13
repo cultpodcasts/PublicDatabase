@@ -485,6 +485,9 @@
       "explicit": true,
       "spotifyId": "3OROer4vt3YU9yDooy9aVq",
       "appleId": 1000626095851,
+      "subjects": [
+        "Fox sisters"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OROer4vt3YU9yDooy9aVq",
         "apple": "https://podcasts.apple.com/podcast/the-fox-sisters/id1436376574?i=1000626095851"
@@ -3816,7 +3819,7 @@
       "spotifyId": "1p8TTRL1dKLnY58dOo14FZ",
       "appleId": 1000518775534,
       "subjects": [
-        "Yerba Buena"
+        "Magdalena Sol\u00EDs"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1p8TTRL1dKLnY58dOo14FZ",

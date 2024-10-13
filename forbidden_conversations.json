@@ -2,6 +2,8 @@
   "_ts": 0,
   "id": "85c42120-8b07-4bd0-804c-c09d2644d6c9",
   "name": "Forbidden Conversations",
+  "spotifyId": "5mPI7lffv4d0yQ5L3L24RV",
+  "appleId": 1672462576,
   "youTubeChannelId": "UCOfpQjCq6wz3g1RtGaznAFQ",
   "episodes": [
     {
@@ -11,12 +13,16 @@
       "release": "2024-10-02T00:06:57Z",
       "duration": "01:03:08",
       "explicit": false,
+      "spotifyId": "5DjFXUdamR7YfpOgd4oc9w",
+      "appleId": 1000671339246,
       "youTubeId": "9dPgJHO8MjU",
       "subjects": [
         "Cult-Expert",
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5DjFXUdamR7YfpOgd4oc9w",
+        "apple": "https://podcasts.apple.com/podcast/dr-steven-hassan-on-the-cults-we-join/id1672462576?i=1000671339246",
         "youtube": "https://www.youtube.com/watch?v=9dPgJHO8MjU"
       }
     }

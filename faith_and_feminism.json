@@ -6,6 +6,23 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "91b57838-297c-45df-b09b-9accb3be8e31",
+      "title": "Recovering From Purity Culture",
+      "description": "Drawing on historical and psychological research, her own personal experience, and therapy case studies, Dr. Camden Morgante tackles what comes next in reclaiming our sexuality from the harmful teachings so many evangelical Christians grew up believing.",
+      "release": "2024-10-08T09:05:00Z",
+      "duration": "00:55:53.0060000",
+      "explicit": false,
+      "spotifyId": "5A7s5B6E2cWeHOk5d9qZh8",
+      "appleId": 1000672198241,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5A7s5B6E2cWeHOk5d9qZh8",
+        "apple": "https://podcasts.apple.com/podcast/recovering-from-purity-culture/id1438368947?i=1000672198241"
+      }
+    },
+    {
       "id": "b38a62ef-77f3-4986-b591-4bfdfb83cfc9",
       "title": "How Universities Protect Perpetrators and Betray Survivors of Sexual Violence",
       "description": "Dr. Nicole Bedera reveals the profound failures of the Title IX system and identifies concrete, surprisingly simple steps we can take to protect students. This is an extra-long episode, promise it\u0027s worth it.",

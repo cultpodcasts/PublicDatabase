@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "9120a00c-301b-418d-8d6f-61d366a43e34",
+  "name": "Salt Shakers",
+  "spotifyId": "0t2K60fZb9KhZ3cwrBYS5z",
+  "appleId": 1745265224,
+  "episodes": [
+    {
+      "id": "0558453f-c96c-4085-b39f-cc46fa063caf",
+      "title": "Spooky Saturday: Cults! Feat. The Order of the Solar Temple and Angel\u0027s Landing",
+      "description": "We\u2019re talking horrifying cults! First, we visit The Order of the Solar Temple with Knights Templar fanatics Joseph Di Mambro and Luc Jouret, culminating in the ritualistic deaths of 74 of the Order\u2019s members around the world in the 1990s. Next, we look a little closer to home at Angel\u2019s Landing leader Daniel Perez (aka Lou Castro) and his 2015 convictions for first-degree murder, child exploitation, sex crimes, and fraud. Sources used in today\u0027s episode include: https://www.scotsman.com/arts-and-culture/did-grace-kelly-have-links-with-a-secret-cult-1727691 https://wrldrels.org/2016/10/08/order-of-the-solar-temple/ https://www.britannica.com/topic/Order-of-the-Solar-Temple https://www.swissinfo.ch/eng/foreign-affairs/video-the-1994-solar-temple-cult-deaths-in-switzerland/40878686 https://www.columbiadailyherald.com/story/news/local/2015/05/09/columbia-s-brush-with-agent/25703906007/ https://www.oxygen.com/deadly-cults/crime-news/lou-castro-daniel-perez-angel-landing-cult-sara-mcgrath https://heavy.com/entertainment/2020/08/angels-landing-commune/ Text us your tea! Support the show",
+      "release": "2024-10-12T23:00:00Z",
+      "duration": "01:17:03.2290000",
+      "explicit": true,
+      "spotifyId": "4CFV3pJ3il7Iyyaaspo2GF",
+      "appleId": 1000672843515,
+      "subjects": [
+        "Order of the Solar Temple",
+        "Angel\u0027s Landing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4CFV3pJ3il7Iyyaaspo2GF",
+        "apple": "https://podcasts.apple.com/podcast/spooky-saturday-cults-feat-the-order-of-the/id1745265224?i=1000672843515"
+      }
+    }
+  ]
+}

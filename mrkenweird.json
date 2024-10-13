@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCiYGWeIBT3dDyrUzMUgADAA",
   "episodes": [
     {
+      "id": "4a5acaca-75e4-4ee0-a697-8b74f820022c",
+      "title": "Shoko Asahara\u0027s Cult and the Tokyo Metro Tragedy",
+      "description": "Explore the chilling story of Shoko Asahara, the leader of the Aum Shinrikyo cult, and the devastating Tokyo Metro attack that shocked the world. Discover how this doomsday cult orchestrated one of the deadliest acts of terrorism in Japan\u0027s history, leaving a lasting impact on the country. Unveil the dark motivations behind the attack and the rise of Aum Shinrikyo, as we delve into the life of its infamous leader and the terrifying events that unfolded in 1995.",
+      "release": "2024-10-08T19:10:12Z",
+      "duration": "00:18:23",
+      "explicit": true,
+      "youTubeId": "6Kkl6QCLbRE",
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6Kkl6QCLbRE"
+      }
+    },
+    {
       "id": "f7d20d55-7531-4a59-895a-3db37d9088e0",
       "title": "An Incredible Cult that Happened in Mexico",
       "description": "The story of the Yerba Buena cult is one of the most shocking events in Mexican history. In a remote, isolated village in the mountains, a dangerous cult emerged in the early 1960s. What started as two con artists tricking the villagers with false promises of spiritual power escalated into a deadly series of human sacrifices.",
@@ -13,7 +28,7 @@
       "explicit": false,
       "youTubeId": "wz40j_Os__M",
       "subjects": [
-        "Yerba Buena"
+        "Magdalena Sol\u00EDs"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=wz40j_Os__M"

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "13b57630-9d04-4a62-8f05-1e25d8cb5727",
+  "name": "Malicious Life",
+  "spotifyId": "1KHIsaZ9mX0NbzPrfId00q",
+  "appleId": 1252417787,
+  "episodes": [
+    {
+      "id": "f681d6ea-dc7f-4ef8-83d1-cbca4521bd94",
+      "title": "Operation Snow White, Part 1",
+      "description": "In 1963, the FDA raided the headquaters of a budding new and esoteric religion - The Church of Scientology. In response to this and similar incidents to come, the church\u0027s founder - an eccentric science fiction author named L. Ron Hubbard - would go on to lead the single largest known government infiltration operation in United States history Advertising Inquiries: https://redcircle.com/brands",
+      "release": "2024-10-01T14:46:00Z",
+      "duration": "00:29:10.1860000",
+      "explicit": false,
+      "spotifyId": "0txXviONBYJrm86lpxj8wL",
+      "appleId": 1000671435171,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0txXviONBYJrm86lpxj8wL",
+        "apple": "https://podcasts.apple.com/podcast/operation-snow-white-part-1/id1252417787?i=1000671435171"
+      }
+    }
+  ]
+}

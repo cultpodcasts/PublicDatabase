@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "90d93124-af86-47cf-8bd1-5581a01cbef5",
+  "name": "In Session with Dr. Farid Holakouee",
+  "spotifyId": "2OsQkI0KnyOJIlZZcWm6b7",
+  "appleId": 1119824127,
+  "episodes": [
+    {
+      "id": "4650acb0-b52e-48aa-a609-9189fb9bf7bd",
+      "title": "October 04, 2024 Cult Psychology, Thoughts on Transformational Courses",
+      "description": "October 04, 2024 Cult Psychology, Thoughts on Transformational Courses by Dr. Farid Holakouee",
+      "release": "2024-10-06T05:12:28Z",
+      "duration": "01:30:15.1050000",
+      "explicit": false,
+      "spotifyId": "2tCRFjSquhtF4QYqnhwR1U",
+      "appleId": 1000671900546,
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2tCRFjSquhtF4QYqnhwR1U",
+        "apple": "https://podcasts.apple.com/podcast/october-04-2024-cult-psychology-thoughts-on-transformational/id1119824127?i=1000671900546"
+      }
+    }
+  ]
+}
