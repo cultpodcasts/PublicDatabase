@@ -13,11 +13,15 @@
       "release": "2024-10-11T18:05:13Z",
       "duration": "00:59:39",
       "explicit": false,
+      "spotifyId": "6FursSVcNBaMyvzpG2sRjb",
+      "appleId": 1000673039115,
       "youTubeId": "jdH6E-6FGvc",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6FursSVcNBaMyvzpG2sRjb",
+        "apple": "https://podcasts.apple.com/podcast/09-from-cult-life-to-courage-deborah-dockstaders-unbreakable/id1764092148?i=1000673039115",
         "youtube": "https://www.youtube.com/watch?v=jdH6E-6FGvc"
       }
     }

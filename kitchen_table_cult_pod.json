@@ -151,7 +151,8 @@
       "spotifyId": "2EJJuOkMakSHbfBsyovGt1",
       "appleId": 1000647672856,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2EJJuOkMakSHbfBsyovGt1",
@@ -780,6 +781,9 @@
       "explicit": false,
       "spotifyId": "2YmhJHcaENxseccK9FJrzd",
       "appleId": 1000534141305,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2YmhJHcaENxseccK9FJrzd",
         "apple": "https://podcasts.apple.com/podcast/s3-e14-interview-with-sheila-wray-gregoire/id1413525072?i=1000534141305"
@@ -879,7 +883,8 @@
       "spotifyId": "44FjuIZgHTcvqD5XDFvg4g",
       "appleId": 1000524068071,
       "subjects": [
-        "Institute In Basic Life Principles"
+        "Institute In Basic Life Principles",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/44FjuIZgHTcvqD5XDFvg4g",
@@ -895,6 +900,9 @@
       "explicit": false,
       "spotifyId": "635LzFtpzWeboWtLxEtDE5",
       "appleId": 1000517267586,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/635LzFtpzWeboWtLxEtDE5",
         "apple": "https://podcasts.apple.com/podcast/s3-e6-nsfw-letters-to-our-future-ex-spouses/id1413525072?i=1000517267586"
@@ -1860,6 +1868,9 @@
       "explicit": false,
       "spotifyId": "2Nu94wB3V9i1u6Pf1dSBlh",
       "appleId": 1000420992127,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Nu94wB3V9i1u6Pf1dSBlh",
         "apple": "https://podcasts.apple.com/podcast/episode-11-purity-culture/id1413525072?i=1000420992127"

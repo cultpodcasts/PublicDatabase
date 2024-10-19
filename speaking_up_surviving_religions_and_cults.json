@@ -680,7 +680,8 @@
       "spotifyId": "55SopyfV5Z4d4jBnhfSXTQ",
       "appleId": 1000588807534,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/55SopyfV5Z4d4jBnhfSXTQ",
@@ -697,7 +698,8 @@
       "spotifyId": "7bAsDtBgvmNt3uwOctXOQW",
       "appleId": 1000587655102,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7bAsDtBgvmNt3uwOctXOQW",
@@ -783,6 +785,9 @@
       "explicit": true,
       "spotifyId": "4uL6QtOYePMPHs2XD1Df5M",
       "appleId": 1000582850803,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4uL6QtOYePMPHs2XD1Df5M",
         "apple": "https://podcasts.apple.com/podcast/discussion-purity-culture-julia-capizzi-archive/id1620395336?i=1000582850803"

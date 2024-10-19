@@ -6,6 +6,23 @@
   "appleId": 1431103327,
   "episodes": [
     {
+      "id": "d9424aa3-16e8-46a3-afb3-41efce6c1db0",
+      "title": "281: Mormon Superiority Complex",
+      "description": "Are Mormons taught that they are better than other people? Email us: notsomollymormonpodcast@gmail.com Support us: patreon.com/notsomollymormon",
+      "release": "2024-10-17T21:07:26Z",
+      "duration": "00:38:29.9780000",
+      "explicit": true,
+      "spotifyId": "0sLUoO8FXTTqsuMUC2rrGy",
+      "appleId": 1000673495274,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0sLUoO8FXTTqsuMUC2rrGy",
+        "apple": "https://podcasts.apple.com/podcast/281-mormon-superiority-complex/id1431103327?i=1000673495274"
+      }
+    },
+    {
       "id": "507c1ad2-7775-4190-881a-ad4c7535aab0",
       "title": "280: Our Thoughts: The Secret Lives of Mormon Wives",
       "description": "You asked, we delivered! Join us as we discuss the series \u0022The Secret Lives of Mormon Wives\u0022 and all things #MomTok.\n\nEmail us: notsomollymormonpodcast@gmail.com\nSupport us: patreon.com/notsomollymormon",
@@ -2996,7 +3013,8 @@
       "spotifyId": "2KViZ4CQ8zgQx7sVckoUlx",
       "appleId": 1000529701780,
       "subjects": [
-        "The Church Of Jesus Christ Of Latter-Day Saints"
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2KViZ4CQ8zgQx7sVckoUlx",

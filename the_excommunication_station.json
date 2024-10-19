@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "efd05ff8-ac00-4ae2-9050-c768e6e1703b",
+      "title": "176. H-E-L-L Double Hockey Sticks Part I",
+      "description": "For this spooky season, we dive into something that has given evangelicals anxiety and that is hell. We go through the origins and evolution of it within Judaism and up to Jesus.",
+      "release": "2024-10-16T06:26:00Z",
+      "duration": "01:28:49",
+      "explicit": false,
+      "spotifyId": "5tP6mW1Ler0mqBqgufWJXM",
+      "appleId": 1000673265166,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5tP6mW1Ler0mqBqgufWJXM",
+        "apple": "https://podcasts.apple.com/podcast/176-h-e-l-l-double-hockey-sticks-part-i/id1573190999?i=1000673265166"
+      }
+    },
+    {
       "id": "99f7a571-81c9-44fa-9188-9a2209422879",
       "title": "175. The Phantom Patriot: Richard McCaslin",
       "description": "This week, Clifton from Your Music Saved Us joins us for a story about a Real Life Super Hero, The Phantom Patriot.",

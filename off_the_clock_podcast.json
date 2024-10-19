@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "f5f4f74a-141d-41fe-9858-71cdb3f6917a",
+  "name": "Off the Clock Podcast",
+  "spotifyId": "3hmUgJfRrb1y10VzNTbs8b",
+  "appleId": 1502565174,
+  "youTubeChannelId": "UC6ZVnzDpIZJCz2mb6_ho92g",
+  "episodes": [
+    {
+      "id": "a3075661-1243-4c19-ab71-3be02841e184",
+      "title": "Cults! \uD83D\uDC7D Ep. 28",
+      "description": "We\u0027re keeping on with the spooky theme\u2013 today\u0027s ep is all about cults! This week we chat about cults as a whole and do a deep dive into 4 famous (and very different) cults \uD83E\uDEE3 ENJOY \uD83D\uDC7D\uD83D\uDE4F\uD83C\uDFFC\uD83D\uDC51\n\nPodcast IG: https://www.instagram.com/offtheclockpodd\nYoutube: https://www.youtube.com/channel/UC6ZVnzDpIZJCz2mb6_ho92g\nSpotify: https://open.spotify.com/show/3hmUgJfRrb1y10VzNTbs8b?si=ace7d44636ba4629\nHalle\u0027s IG: https://www.instagram.com/hallebrownell/\nSkylar\u0027s IG: https://www.instagram.com/skylar.grace/\nSkylar Cunningham Videography:\nhttps://www.instagram.com/skylarcunninghamvideography/?hl=en\nSkylar\u2019s YouTube Channel: https://www.youtube.com/channel/UCTlD7LZiVwgbbMZwXon9t0Q",
+      "release": "2024-10-13T10:00:51Z",
+      "duration": "01:06:04",
+      "explicit": false,
+      "spotifyId": "05WlBoTLF2PGERh3idCLfB",
+      "youTubeId": "plHa7mfDV5E",
+      "subjects": [
+        "Rod of Iron Ministries",
+        "Heaven\u0027s Gate",
+        "Peoples Temple",
+        "Love Has Won",
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/05WlBoTLF2PGERh3idCLfB",
+        "youtube": "https://www.youtube.com/watch?v=plHa7mfDV5E"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "4c338fd0-c8e2-4110-bde6-834b4c8c8b22",
+  "name": "Dave Troy Presents",
+  "spotifyId": "3xdywuXSB263VZiMpbU2Hb",
+  "appleId": 1610914569,
+  "episodes": [
+    {
+      "id": "07cd597e-c7cb-49ea-afda-042d9d6703fc",
+      "title": "Opus Dei with Gareth Gore",
+      "description": "The secretive Catholic sect Opus Dei seems to be popping up everywhere. But what is it? Many people are familiar with it from depictions in fiction like \u0022The Davinci Code,\u0022 but the reality is both more mundane and in many ways, more sinister.\n\n\nDave is joined by financial journalist Gareth Gore, who got into the story by covering the failure of Spanish bank Banco Popular. He found that the bank led to a rabbit hole \u2014 and in the center of it was Opus Dei. Part classic authoritarian mind control cult, part spiritual organization, part fraud, and part geopolitical powerhouse, Gore\u0027s new book \u0022Opus: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church\u0022 is a page-turning account of one of the most influential groups in the last 100 years.",
+      "release": "2024-10-14T21:20:55Z",
+      "duration": "01:09:58",
+      "explicit": false,
+      "spotifyId": "2OtOe3gP5bq6jcmUS5kQbz",
+      "appleId": 1000673078018,
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2OtOe3gP5bq6jcmUS5kQbz",
+        "apple": "https://podcasts.apple.com/podcast/opus-dei-with-gareth-gore/id1610914569?i=1000673078018"
+      }
+    }
+  ]
+}

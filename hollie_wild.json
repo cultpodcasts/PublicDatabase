@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "c2d3cca1-9d98-4e3f-af36-37d5aaca211f",
+  "name": "Hollie Wild",
+  "spotifyId": "1R9vQMTeVILyBehZgI57pO",
+  "appleId": 1749412179,
+  "youTubeChannelId": "UCi4jBapEwSxUeAoBRSNQjBw",
+  "episodes": [
+    {
+      "id": "5fde4e2f-2786-4f01-af44-677e7e58f1bb",
+      "title": "Australian Cult Survivor Speaks: The Shocking Truth Behind a Secretive Community",
+      "description": "PLEASE NOTE: THIS EPISODE MENTIONS SEXUAL ABUSE\nIn this eye-opening episode, I sit down with Hannah, a survivor of an extreme high-control group that manipulated its members through fear, physical abuse, and mind control. Hannah shares her harrowing experience growing up in this secretive cult, enduring psychological torment and abuse, all while trying to navigate a life controlled by the whims of a charismatic leader. If you\u2019ve ever wondered how manipulation and fear can trap people in oppressive environments, this conversation will leave you speechless. Tune in for a powerful and unfiltered story of survival and self-liberation.",
+      "release": "2024-10-14T23:05:23Z",
+      "duration": "01:01:46",
+      "explicit": false,
+      "spotifyId": "3Vx3FUK0eY7OZswbsJ7V8K",
+      "appleId": 1000673077570,
+      "youTubeId": "8qc6NPI22wA",
+      "subjects": [
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Vx3FUK0eY7OZswbsJ7V8K",
+        "apple": "https://podcasts.apple.com/podcast/ep-34-australian-cult-survivor-speaks-the-shocking/id1749412179?i=1000673077570",
+        "youtube": "https://www.youtube.com/watch?v=8qc6NPI22wA"
+      }
+    }
+  ]
+}

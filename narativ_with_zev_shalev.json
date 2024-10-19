@@ -1,0 +1,44 @@
+{
+  "_ts": 0,
+  "id": "78363bd0-e1eb-4e14-88c9-37c45bd580dd",
+  "name": "Narativ with Zev Shalev",
+  "spotifyId": "1UWjTVAKEDQ62NNq2Xj2Fa",
+  "appleId": 1472959950,
+  "youTubeChannelId": "UC3NmKvE4agxFmOiy35dGBJg",
+  "episodes": [
+    {
+      "id": "645d721b-34b8-4e65-86ec-ebff45e611dd",
+      "title": "Opus Dei: The Secret Catholic Cult Backing Donald Trump",
+      "description": "The secretive Catholic organization Opus Dei has emerged as a powerful force in American conservative politics, wielding outsized influence on key issues like abortion, the Supreme Court, and threats to democracy. In a revealing interview, investigative journalist Gareth Gore, author of the new book \u0022Opus: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church,\u0022 exposes Opus Dei\u0027s hidden networks and agenda. Key revelations: Opus Dei operates as a shadowy intelligence network within the Catholic Church, gathering information on members and strategically placing allies in positions of power. The group has deep ties to conservative politics in the U.S., with close connections to figures like Leonard Leo, Bill Barr, JD Vance and others shaping the Supreme Court and Republican policy. Opus Dei recruits aggressively, often targeting minors as young as 12-13 years old using cult-like tactics. A Spanish bank hijacked by Opus Dei funneled billions of dollars into the organization\u0027s global expansion, including major initiatives in Washington D.C. The group is currently facing human trafficking charges in Argentina for exploiting young women as unpaid domestic servants. Gore argues Opus Dei represents a serious threat to democracy, pushing an authoritarian agenda cloaked in religious language. As America approaches a pivotal election, understanding Opus Dei\u0027s influence and tactics is crucial for voters concerned about the future of democratic institutions. This eye-opening conversation sheds light on one of the most secretive and influential organizations operating in American politics today. Gore\u0027s meticulously researched book \u0022Opus\u0022 is essential reading for anyone seeking to understand the hidden forces shaping our political landscape. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-10-18T17:12:46Z",
+      "duration": "00:45:59.2270000",
+      "explicit": false,
+      "spotifyId": "3rjVHojecWv93Bo9EBnHmF",
+      "appleId": 1000673603045,
+      "subjects": [
+        "Opus Dei",
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rjVHojecWv93Bo9EBnHmF",
+        "apple": "https://podcasts.apple.com/podcast/opus-dei-the-secret-catholic-cult-backing-donald-trump/id1472959950?i=1000673603045"
+      }
+    },
+    {
+      "id": "6c96e4bf-9b30-4448-993c-7649b5b24754",
+      "title": "Cults, Covid and MInd Control",
+      "description": "With Dr Steve Hassan",
+      "release": "2021-09-30T00:29:15Z",
+      "duration": "01:18:13",
+      "explicit": false,
+      "youTubeId": "LfF_MR4Ha40",
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LfF_MR4Ha40"
+      }
+    }
+  ]
+}

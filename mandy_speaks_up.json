@@ -13,11 +13,15 @@
       "release": "2024-10-13T06:53:29Z",
       "duration": "00:39:15",
       "explicit": false,
+      "spotifyId": "48CwOq0gGYZ8nP87Jzui17",
+      "appleId": 1000672933480,
       "youTubeId": "yBH0ufu3tW8",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/48CwOq0gGYZ8nP87Jzui17",
+        "apple": "https://podcasts.apple.com/podcast/escaping-a-cult-and-religion-and-living-to-share-it/id1559726592?i=1000672933480",
         "youtube": "https://www.youtube.com/watch?v=yBH0ufu3tW8"
       }
     },

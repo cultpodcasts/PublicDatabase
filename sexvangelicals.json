@@ -102,6 +102,9 @@
       "explicit": true,
       "spotifyId": "5539ybyR4CUHAviWhfsbPx",
       "appleId": 1000647175770,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5539ybyR4CUHAviWhfsbPx",
         "apple": "https://podcasts.apple.com/podcast/episode-59-banned-books-the-secret-lives-of/id1541092846?i=1000647175770"
@@ -152,7 +155,8 @@
       "spotifyId": "09cyNGbLAzZ4mSfncedQu0",
       "appleId": 1000629869167,
       "subjects": [
-        "Institute In Basic Life Principles"
+        "Institute In Basic Life Principles",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/09cyNGbLAzZ4mSfncedQu0",
@@ -168,6 +172,9 @@
       "explicit": true,
       "spotifyId": "7gK4VsTUudspSSFXOgUSzQ",
       "appleId": 1000627407093,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gK4VsTUudspSSFXOgUSzQ",
         "apple": "https://podcasts.apple.com/podcast/episode-38-partnership-building-how-purity-culture/id1541092846?i=1000627407093"
@@ -183,7 +190,8 @@
       "spotifyId": "59UmFtujT3rBuAAowJ5Lmj",
       "appleId": 1000625074581,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/59UmFtujT3rBuAAowJ5Lmj",
@@ -199,6 +207,9 @@
       "explicit": true,
       "spotifyId": "6xnPwZjpAEDCixUQ7EPERS",
       "appleId": 1000622057292,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6xnPwZjpAEDCixUQ7EPERS",
         "apple": "https://podcasts.apple.com/podcast/episode-36-partnership-building-how-purity-culture/id1541092846?i=1000622057292"

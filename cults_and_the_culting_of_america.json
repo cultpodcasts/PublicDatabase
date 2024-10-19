@@ -8,6 +8,25 @@
   "youTubePlaylistId": "PLEM2mhO5Zn0kaJUhb-ndgpx0LwmiygAI0",
   "episodes": [
     {
+      "id": "1cb3dae7-eaac-4cf3-be83-a33e00a7d66c",
+      "title": "Episode 13: The Ends Justifies the Means",
+      "description": "Summary In this episode, Scott Loyd and Daniela Mestenec Young explore the complex dynamics of cult mentality, particularly focusing on the phrase \u0027the ends justify the means.\u0027 They discuss how this mentality manifests in various contexts, including military practices, religious cults, and societal norms. The conversation delves into the psychological manipulation involved in these systems, the dangers of binary thinking, and the importance of embracing uncertainty in life. Through personal anecdotes and broader cultural analysis, they highlight the need for critical thinking and the dangers of extremism.",
+      "release": "2024-10-15T15:51:00Z",
+      "duration": "01:05:14.5010000",
+      "explicit": false,
+      "spotifyId": "1fxGoSxR4b0cWSW97JKZQf",
+      "appleId": 1000673190748,
+      "youTubeId": "VKVtxPWyXL0",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1fxGoSxR4b0cWSW97JKZQf",
+        "apple": "https://podcasts.apple.com/podcast/episode-13-the-ends-justifies-the-means/id1756133150?i=1000673190748",
+        "youtube": "https://www.youtube.com/watch?v=VKVtxPWyXL0"
+      }
+    },
+    {
       "id": "7acbae2a-8f21-4048-a1f1-d2f201d7a4ef",
       "title": "Episode 13: Exit Wounds_Unpacking the Hidden Costs of Leaving Cults",
       "description": "Summary\n The conversation explores the concept of exit costs in cults, focusing on the United Pentecostal Church International and the Children of God. It discusses the high entrance costs, such as strict dress codes and behavioral expectations, and the financial costs of giving to the church. The conversation also delves into the psychological and emotional damage caused by cults, including the disengagement from skepticism and the fear of eternal damnation. The exit costs of leaving a cult are examined, including the loss of faith and the difficulty of rebuilding a new framework. The conversation concludes with a discussion on the lasting impacts of cults, such as social anxiety and the fear of judgment. In this conversation, Daniella and Scot discuss the mischaracterization of criticism and the all-or-nothing mentality within cults. They explore the concept of cognitive dissonance and how it plays into entrance and exit costs. They also examine the historical patterns of cults and the dangers of not deconstructing harmful ideologies. The conversation emphasizes the importance of deconstruction and the potential for finding joy and happiness on the other side.",
@@ -220,7 +239,8 @@
       "subjects": [
         "Cult Psychology",
         "NXIVM",
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/26oO5zLdfinrwHhpMu63nv",
@@ -251,7 +271,8 @@
         "Heaven\u0027s Gate",
         "The Church Of Jesus Christ Of Latter-Day Saints",
         "Psychology",
-        "Theranos"
+        "Theranos",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Hk6YowrFQTOK45hvRlw0c",

@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "20cPL4Q5wxSLx5CxDcBA55",
       "appleId": 1000672603346,
+      "youTubeId": "swRV0db98zg",
       "subjects": [
         "Santer\u00EDa"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/20cPL4Q5wxSLx5CxDcBA55",
-        "apple": "https://podcasts.apple.com/podcast/was-kehlani-manipulated-by-a-cult/id1703678575?i=1000672603346"
+        "apple": "https://podcasts.apple.com/podcast/was-kehlani-manipulated-by-a-cult/id1703678575?i=1000672603346",
+        "youtube": "https://www.youtube.com/watch?v=swRV0db98zg"
       }
     }
   ]

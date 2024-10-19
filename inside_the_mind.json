@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e4152014-0214-464a-a6b0-73de15e86055",
+  "name": "Inside the Mind",
+  "spotifyId": "2CqBT5ThuiRiwlxWDgFFCb",
+  "appleId": 1773334033,
+  "episodes": [
+    {
+      "id": "922a1b92-ab76-44b1-b3ef-418c0583a515",
+      "title": "Ep. 10: Inside the Mind of Charles Manson: The Manipulation Mastermind",
+      "description": "In this riveting episode, we delve deep into the twisted world of Charles Manson\u2014a man who, despite lacking money and conventional power, became one of history\u0027s most infamous cult leaders. Join us as we explore how Manson orchestrated a web of manipulation using tactics like love bombing, gaslighting, isolation, and dehumanization to control his followers in the notorious Manson Family. We dissect his early years, his rise to infamy, and how he twisted cultural symbols\u2014like the Beatles\u0027 music\u2014to fuel his apocalyptic prophecies. But we don\u0027t stop there. We also discuss the lingering impact of his manipulative strategies in today\u0027s world, highlighting how similar tactics appear in toxic relationships, online scams, and beyond. Learn how to recognize the red flags of manipulation and protect yourself from the dangerous allure of charismatic figures. It\u0027s a cautionary tale of charisma without conscience and a deep dive into the psychology of control. Stay curious, but stay safe out there. You never know who might be listening.",
+      "release": "2024-10-19T05:01:15Z",
+      "duration": "00:08:07.0400000",
+      "explicit": false,
+      "spotifyId": "5YOa7Ej6MeL2S0Olsw1pDc",
+      "appleId": 1000673651342,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5YOa7Ej6MeL2S0Olsw1pDc",
+        "apple": "https://podcasts.apple.com/podcast/ep-10-inside-the-mind-of-charles-manson/id1773334033?i=1000673651342"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_ts": 0,
+  "id": "d55fca7d-2cb6-45a2-b7a8-61829d1050ec",
+  "name": "The Poetry of Reality with Richard Dawkins",
+  "spotifyId": "5UbJ87BZQZ0WkeMQGiIXyW",
+  "appleId": 1716337570,
+  "youTubeChannelId": "UCmwfdgHA_R9fzr1L0_hxdVw",
+  "episodes": [
+    {
+      "id": "cce67abb-3b52-4cc5-b400-6c6c8988b2bf",
+      "title": "Religious Abuse Ruins Children\u2019s Psychology | Richard Dawkins Talks to Psychologist",
+      "description": "Richard Dawkins talks to Jill Mytton about religious cults and the psychological issues raised by being brought up in them.",
+      "release": "2024-10-14T20:30:21Z",
+      "duration": "00:52:19",
+      "explicit": false,
+      "spotifyId": "20ySsP9Pgjm7r96GIQ7ZL1",
+      "appleId": 1000673074788,
+      "youTubeId": "KISaEVa1g8U",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Cult Recovery",
+        "Cult-Expert",
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/20ySsP9Pgjm7r96GIQ7ZL1",
+        "apple": "https://podcasts.apple.com/podcast/religious-abuse-ruins-childrens-psychology-richard/id1716337570?i=1000673074788",
+        "youtube": "https://www.youtube.com/watch?v=KISaEVa1g8U"
+      }
+    }
+  ]
+}

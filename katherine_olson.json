@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCpuAoRSmnmDOM4TAfD3hA7g",
   "episodes": [
     {
+      "id": "f9bcb030-382b-40c2-83ef-2a8f13a867c1",
+      "title": "Day in the Life of a Sea Org Member",
+      "release": "2024-10-18T18:58:15Z",
+      "duration": "01:35:05",
+      "explicit": false,
+      "youTubeId": "i6NEYkFft1k",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=i6NEYkFft1k"
+      }
+    },
+    {
       "id": "5dab2f0d-a1fd-482b-8c22-0871b859b611",
       "title": "Live with the Headleys!",
       "release": "2024-09-08T20:10:35Z",

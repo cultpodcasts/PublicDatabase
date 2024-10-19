@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "0517893a-c139-420f-a0be-e1c6ed2d5186",
+  "name": "Biscuits \u0026 Jam",
+  "spotifyId": "1WV1Q9Dl6Xs0VVPJpcdhse",
+  "appleId": 1510623480,
+  "episodes": [
+    {
+      "id": "edc3f861-025d-4232-8025-586f1b5f9d3f",
+      "title": "Encore: Bethany Joy Lenz Has Stories to Tell",
+      "description": "Bethany Joy Lenz was born in Florida and grew up in Texas, which is where she first got involved in the performing arts, carrying on a tradition she inherited from her grandparents. Her family eventually headed to New Jersey, where her Southerness drew the wrong kind of attention from some of the girls in her class, but she made it through the experience and eventually landed on the hit TV show One Tree Hill. Now Joy is living in Nashville, writing and performing music, editing a publication called Modern Vintage, and hosting a podcast with her One Tree Hill co-stars called Drama Queens. If that\u2019s not enough, she\u2019s starring in the new Hallmark Original Movie, A Biltmore Christmas, which is based on a trip back in time to the famous North Carolina estate, and she\u2019s working on a book about her years spent in a strange cult. For more info visit: southernliving.com/biscuitsandjam Biscuits \u0026 Jam is produced by: Sid Evans - Editor-in-Chief, Southern Living Krissy Tiglias - GM, Southern Living Lottie Leymarie - Executive Producer Michael Onufrak - Audio Engineer/Producer Jeremiah McVay - Producer Jennifer Del Sole - Director of Audio Growth Strategy \u0026 Operations Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-10-15T08:00:00Z",
+      "duration": "00:39:44.1430000",
+      "explicit": false,
+      "spotifyId": "1hRQ2A7cfW2UV0kwTvEWRB",
+      "appleId": 1000673133626,
+      "subjects": [
+        "The Big House Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1hRQ2A7cfW2UV0kwTvEWRB",
+        "apple": "https://podcasts.apple.com/podcast/encore-bethany-joy-lenz-has-stories-to-tell/id1510623480?i=1000673133626"
+      }
+    }
+  ]
+}

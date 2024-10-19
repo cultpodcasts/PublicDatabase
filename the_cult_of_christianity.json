@@ -581,6 +581,9 @@
       "explicit": false,
       "spotifyId": "6jnDz42WZoVnYftaVpd1zF",
       "appleId": 1000597112594,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6jnDz42WZoVnYftaVpd1zF",
         "apple": "https://podcasts.apple.com/us/podcast/s3ep6-sex-featuring-erica-smith-melissa-duge-spiers/id1555952683?i=1000597112594"
@@ -937,6 +940,9 @@
       "explicit": false,
       "spotifyId": "1TshpSV71Rjd470ycfkplc",
       "appleId": 1000546705605,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1TshpSV71Rjd470ycfkplc",
         "apple": "https://podcasts.apple.com/us/podcast/s2ep1-purity-culture-featuring-mylee/id1555952683?i=1000546705605"

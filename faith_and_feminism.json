@@ -6,6 +6,20 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "da31129e-c361-4c11-9f28-482aa400204b",
+      "title": "The Mary we Forgot",
+      "description": "In The Mary We Forgot, award-winning church historian and theologian Jennifer Powell McNutt unpacks Scripture and history to reveal the real Mary Magdalene: the first apostle of the good news and a model of discipleship for both men and women today.",
+      "release": "2024-10-15T09:00:00Z",
+      "duration": "01:01:36.0110000",
+      "explicit": false,
+      "spotifyId": "7hDd9owAuUU58EZaorgkvM",
+      "appleId": 1000673141673,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7hDd9owAuUU58EZaorgkvM",
+        "apple": "https://podcasts.apple.com/podcast/the-mary-we-forgot/id1438368947?i=1000673141673"
+      }
+    },
+    {
       "id": "91b57838-297c-45df-b09b-9accb3be8e31",
       "title": "Recovering From Purity Culture",
       "description": "Drawing on historical and psychological research, her own personal experience, and therapy case studies, Dr. Camden Morgante tackles what comes next in reclaiming our sexuality from the harmful teachings so many evangelical Christians grew up believing.",
@@ -15,7 +29,8 @@
       "spotifyId": "5A7s5B6E2cWeHOk5d9qZh8",
       "appleId": 1000672198241,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5A7s5B6E2cWeHOk5d9qZh8",
@@ -608,6 +623,9 @@
       "explicit": false,
       "spotifyId": "0j7Fb2KddNjkhPNECa9bY3",
       "appleId": 1000635572064,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0j7Fb2KddNjkhPNECa9bY3",
         "apple": "https://podcasts.apple.com/podcast/surviving-purity-culture-and-sexual-assault/id1438368947?i=1000635572064"
@@ -714,7 +732,8 @@
       "spotifyId": "2zVG50lUf7nf4G46orLxmx",
       "appleId": 1000628046603,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2zVG50lUf7nf4G46orLxmx",
@@ -731,7 +750,8 @@
       "spotifyId": "1JEnYH9onl2T1QE0nH6mRu",
       "appleId": 1000627185380,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1JEnYH9onl2T1QE0nH6mRu",
@@ -762,7 +782,8 @@
       "spotifyId": "7a8sY9TLMljWs0lTW2uZEt",
       "appleId": 1000626549865,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7a8sY9TLMljWs0lTW2uZEt",
@@ -793,7 +814,8 @@
       "spotifyId": "2X7obVBzwvPeAWAzCf7J3w",
       "appleId": 1000625676862,
       "subjects": [
-        "Evangelicalism"
+        "Evangelicalism",
+        "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2X7obVBzwvPeAWAzCf7J3w",
@@ -809,6 +831,9 @@
       "explicit": false,
       "spotifyId": "1IiSct0ZZYd3PO5pThxcik",
       "appleId": 1000623778884,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1IiSct0ZZYd3PO5pThxcik",
         "apple": "https://podcasts.apple.com/podcast/non-toxic-masculinity/id1438368947?i=1000623778884"
@@ -983,6 +1008,9 @@
       "explicit": false,
       "spotifyId": "3zTFrCXbPgf5ZF2zhDnbG8",
       "appleId": 1000613184334,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3zTFrCXbPgf5ZF2zhDnbG8",
         "apple": "https://podcasts.apple.com/podcast/rape-narratives-and-purity-culture-in-judges-19/id1438368947?i=1000613184334"
@@ -1418,6 +1446,9 @@
       "explicit": false,
       "spotifyId": "6IrRxLlB1EzwVBdWsNrJci",
       "appleId": 1000586240644,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6IrRxLlB1EzwVBdWsNrJci",
         "apple": "https://podcasts.apple.com/podcast/replay-reclaiming-our-sex-lives-after-purity-culture/id1438368947?i=1000586240644"
@@ -2476,6 +2507,9 @@
       "explicit": false,
       "spotifyId": "4qJvoouiEkKaA6ydjpb5RK",
       "appleId": 1000534465704,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qJvoouiEkKaA6ydjpb5RK",
         "apple": "https://podcasts.apple.com/podcast/reclaiming-our-sex-lives-after-purity-culture-with-dr/id1438368947?i=1000534465704"
@@ -2661,6 +2695,9 @@
       "explicit": false,
       "spotifyId": "396NNbjncDWiNIaK61z7Ty",
       "appleId": 1000526320383,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/396NNbjncDWiNIaK61z7Ty",
         "apple": "https://podcasts.apple.com/podcast/shameless-sex-parenting-with-tina-schermer-sellers/id1438368947?i=1000526320383"
@@ -2674,6 +2711,9 @@
       "duration": "01:07:37.4530000",
       "explicit": false,
       "spotifyId": "1GU8TsNppHr51zElx302Z9",
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1GU8TsNppHr51zElx302Z9"
       }
@@ -2902,6 +2942,9 @@
       "explicit": false,
       "spotifyId": "6gT3V3tBaSLnkCakPcHWGP",
       "appleId": 1000513474533,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6gT3V3tBaSLnkCakPcHWGP",
         "apple": "https://podcasts.apple.com/podcast/the-atlanta-shootings-how-misogyny-racism-and/id1438368947?i=1000513474533"
@@ -2915,6 +2958,9 @@
       "duration": "01:15:41.9610000",
       "explicit": false,
       "spotifyId": "0OfjYKh0xkLg4WEwVOIOeV",
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0OfjYKh0xkLg4WEwVOIOeV"
       }
@@ -3351,6 +3397,9 @@
       "explicit": false,
       "spotifyId": "3fpBk5yip8bSrQUFy7iYCX",
       "appleId": 1000492861890,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3fpBk5yip8bSrQUFy7iYCX",
         "apple": "https://podcasts.apple.com/podcast/five-myths-purity-culture-teaches-us/id1438368947?i=1000492861890"

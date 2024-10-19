@@ -4,7 +4,27 @@
   "name": "Killers, Cults and Queens",
   "spotifyId": "73tMDbHLUK4sucBVbuESnh",
   "appleId": 1641463028,
+  "youTubeChannelId": "UCi7ZBMUcmQ6CRlPIrtfz14Q",
   "episodes": [
+    {
+      "id": "78533739-31cc-468f-a49d-be26498f24cd",
+      "title": "The dark rise of Jim Jones and the road to Jonestown",
+      "description": "Nikki Druce and Cheryl are BACK, and they\u0027re back with a bang. This week on Killers, Cults and Queens, Nikki and Chez are headed to Guyana to experience one of the worst cults of all time... The People\u0027s Temple. How did a preacher from humble beginnings convince hundreds of people to up and leave their lives all over the world for the now infamous Jonestown? And what were the events leading up to the horrific mass suicide of almost 1,000 people? Nikki and Chez are going to find out. This episode is not suitable for listeners under the age of 18. It contains depictions of mass suicide, and discussions of coercive behaviour. It is not intended for all audiences. Listener discretion is strongly advised. Got a theory? Been lost in a rabbit hole? We want to hear from YOU! Email queens@global.com to get in touch, or DM us @killerscultsqueens on Instagram. And follow Cheryl @cheryldragqueen and Nikki Druce @nikkimacabrelondon. Listen on Global Player for free. Download Global Player from the app store or go to globalplayer.com. If you have been affected by any of the themes in this episode, please consider contacting the following resources: The Samaritans helpline: 116 123 Confidential Emotional Support Line: 01708 765200 Hope Not Hate: 020 7952 1181 Exit UK: 0800 999 1945 Safeline national male survivor helpline: 0808 800 5005 Sexual Assault Support Line: 01708 765200 Sane mental health line: 0300 304 7000",
+      "release": "2024-10-14T03:00:00Z",
+      "duration": "01:03:35.8880000",
+      "explicit": true,
+      "spotifyId": "2UyEyrsCioEqfqMw5wIEPG",
+      "appleId": 1000672972304,
+      "youTubeId": "YBOtPx--Jgo",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2UyEyrsCioEqfqMw5wIEPG",
+        "apple": "https://podcasts.apple.com/podcast/the-dark-rise-of-jim-jones-and-the-road-to-jonestown/id1641463028?i=1000672972304",
+        "youtube": "https://www.youtube.com/watch?v=YBOtPx--Jgo"
+      }
+    },
     {
       "id": "fd06b5fe-a30d-4bc2-95be-405df2e9f222",
       "title": "Christmas Special, the bizarre case of the Love Has Won cult",

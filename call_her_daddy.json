@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "b2adb00a-b04e-4c8f-8ac7-493291874921",
+  "name": "Call Her Daddy",
+  "spotifyId": "7bnjJ7Va1nM07Um4Od55dW",
+  "appleId": 1418960261,
+  "youTubeChannelId": "UCyGi3eCuxko37WB6uUr7LjA",
+  "youTubePlaylistId": "PLGqHFvYjXKcipJd5WZKt-oG4Xaau9aR4D",
+  "episodes": [
+    {
+      "id": "833f955a-eec0-4a1a-b889-13359684579a",
+      "title": "Bethany Joy Lenz: One Tree Hill \u0026 Escaping a Cult",
+      "description": "Join Alex in the studio for an exclusive interview with Bethany Joy Lenz where she reveals that the whole time the world was watching her on One Tree Hill, she was stuck in an abusive and controlling cult behind the scenes. She shares what led her to this group, what her OTH castmates thought about it, how she escaped, and what it was like starting over again. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-10-16T07:00:00Z",
+      "duration": "01:28:48.1280000",
+      "explicit": true,
+      "spotifyId": "7oBL6muiAa2k0patL2Nxru",
+      "appleId": 1000673228314,
+      "youTubeId": "oqopiYph23A",
+      "subjects": [
+        "The Big House Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7oBL6muiAa2k0patL2Nxru",
+        "apple": "https://podcasts.apple.com/podcast/bethany-joy-lenz-one-tree-hill-escaping-a-cult/id1418960261?i=1000673228314",
+        "youtube": "https://www.youtube.com/watch?v=oqopiYph23A"
+      }
+    }
+  ]
+}
