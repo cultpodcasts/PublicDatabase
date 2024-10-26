@@ -7,6 +7,27 @@
   "youTubeChannelId": "UCPcT1IxUwAizYgWHMwF3Xew",
   "episodes": [
     {
+      "id": "a296c5b9-ec20-47fb-ae1c-3f533678e63d",
+      "title": "Episode 45 - Mary Garden - Gurus Galore (Part 2)",
+      "description": "*Trigger warning for this episode\u2019s content*. This episode we continue the second part of Caz\u2019s interview with Mary Garden, talking about how her swami revealed himself to not be the benign, peaceful, celebate yogi that he appeared, but instead a violent, tantrum-throwing psychopath with sexually predatory intent. Mary talks about trauma, waking up, and the gift of writing her story, returning to herself and learning that she did not need a guru in the end afterall. Show notes Book - A Serpent Rises by Mary Garden Book - My Father\u2019s Suitcase by Mary Garden Interview: Life with Sexy Sadie - The Newsroom Website - Mary\u2019s personal website Website - Elisabeth Kubler-Ross Foundation Trailer - The Push - on Netflix",
+      "release": "2024-10-22T00:00:28Z",
+      "duration": "00:56:47.3990000",
+      "explicit": true,
+      "spotifyId": "1f7wH1HB2K2VGqsmdDPOTx",
+      "appleId": 1000673924491,
+      "youTubeId": "spCtievtF-M",
+      "subjects": [
+        "Swami Balyogi Premvarni",
+        "Bhagwan Shree Rajneesh",
+        "Sathya Sai Baba"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1f7wH1HB2K2VGqsmdDPOTx",
+        "apple": "https://podcasts.apple.com/podcast/episode-45-mary-garden-gurus-galore-part-2/id1693307722?i=1000673924491",
+        "youtube": "https://www.youtube.com/watch?v=spCtievtF-M"
+      }
+    },
+    {
       "id": "e61b8eb5-3108-4d9f-a298-cfe8bdd38496",
       "title": "Episode 44 - Mary Garden and Gurus Galore",
       "description": "Mary Garden was a seeker in her 20s, finding her way to India to three different gurus - Sai Baba, Swami Balyogi Premvarni, and Bhagwan Shree Rajneesh. Mary tells her story, unpacking the historical context that left her longing for more, and the personal context which primed her for recruitment. Our hosts then chat about recruitment, the suppression of intellect and critical thinking required by gurus, and malignant teachers who gain enormously from the submission and supplication of seekers. Show notes A Serpent Rises - how to buy Sundowner of the Skies book - how to buy Book: Sue Kedgely - 50 years a Feminist The Ray Martin Interview SBS documentary \u201CThe Secret Swami\u201D",
@@ -17,7 +38,9 @@
       "appleId": 1000672157298,
       "youTubeId": "gAnYEtAPFE4",
       "subjects": [
-        "Bhagwan Shree Rajneesh"
+        "Bhagwan Shree Rajneesh",
+        "Sathya Sai Baba",
+        "Swami Balyogi Premvarni"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7acy6Zxue5MA9e1eLWL4gg",
@@ -584,17 +607,19 @@
       "id": "e9d3be86-3f23-4fd6-b85d-498480e49168",
       "title": "Episode 15: Organisations Under Threat",
       "description": "How do harmful organizations respond when they are accused of abuse? What are the indicators that the response lacks substance or is part of a strategic ploy to maintain control and protect an image? Today our hosts talk about defenses used by abusive groups, including denial, excuses, justifications and comparisons, using examples they have encountered personally. Listen in to learn what real apologies look like, how to sniff out concessions and demonstrations, and why the difference matters. Show Notes: Something\u2019s Not Right - Wade MullenDARVO - Jennifer FreydA kind of apology from Bert Potter\u2019s son at Bert\u2019s funeral - May 2012Criticism of Caroline from an anonymous former Centrepoint member - Nov 2020Abuse in Care Royal Commision of Inquiry - RedressWhy Won\u2019t You Apologize? By Harriet LernerInstitutional Betrayal - Jennifer Freyd",
-      "release": "2023-11-07T00:00:00Z",
+      "release": "2023-11-07T09:57:59Z",
       "duration": "00:58:07.6340000",
       "explicit": false,
       "spotifyId": "5jsrtuDbeFmO3oeZ8Uvt81",
       "appleId": 1000633935456,
+      "youTubeId": "aFK0RPztgEg",
       "subjects": [
         "Centrepoint"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5jsrtuDbeFmO3oeZ8Uvt81",
-        "apple": "https://podcasts.apple.com/podcast/episode-15-organisations-under-threat/id1693307722?i=1000633935456"
+        "apple": "https://podcasts.apple.com/podcast/episode-15-organisations-under-threat/id1693307722?i=1000633935456",
+        "youtube": "https://www.youtube.com/watch?v=aFK0RPztgEg"
       }
     },
     {

@@ -60,6 +60,25 @@
         "spotify": "https://open.spotify.com/episode/5TBva6W3SZCIsSxZGntj54",
         "youtube": "https://www.youtube.com/watch?v=WGc4CsTVxis"
       }
+    },
+    {
+      "id": "2a0c4420-2475-4f3b-af1b-ef97fa92d640",
+      "title": "#908 - Leah Remini",
+      "description": "Leah Remini is an actress, producer, author, and comedian. Her new show \u0022Leah Remini: Scientology and the Aftermath\u0022 is a documentary series that can be seen on A\u0026E. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2017-01-30T00:00:00Z",
+      "duration": "02:17:09.9640000",
+      "explicit": true,
+      "spotifyId": "5ZpGdcaP2hNnGxX0uDGh5L",
+      "appleId": 1000644540150,
+      "youTubeId": "AJ0-VeWMr-A",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ZpGdcaP2hNnGxX0uDGh5L",
+        "apple": "https://podcasts.apple.com/podcast/908-leah-remini/id360084272?i=1000644540150",
+        "youtube": "https://www.youtube.com/watch?v=AJ0-VeWMr-A"
+      }
     }
   ]
 }

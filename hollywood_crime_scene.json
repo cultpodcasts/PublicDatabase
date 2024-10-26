@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "bbd7e028-325a-4f3c-892e-7e4326043ef1",
+  "name": "Hollywood Crime Scene",
+  "spotifyId": "1nDe6mWJtd27nmwJWDtMi7",
+  "appleId": 1262899883,
+  "episodes": [
+    {
+      "id": "c2d6a2e3-8107-431d-b839-0c1b896d8cf8",
+      "title": "Episode 334 - Movie vs Reality: Jim Jones Part 2",
+      "description": "Jim Jones and his congregation hit the road and The People\u0027s Temple starts to become a cult. live show tickets patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-10-24T19:47:08Z",
+      "duration": "00:49:44.5940000",
+      "explicit": true,
+      "spotifyId": "76jFz4nrwGyfDDAVNhqIct",
+      "appleId": 1000674350603,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/76jFz4nrwGyfDDAVNhqIct",
+        "apple": "https://podcasts.apple.com/podcast/episode-334-movie-vs-reality-jim-jones-part-2/id1262899883?i=1000674350603"
+      }
+    },
+    {
+      "id": "8f11abe7-e481-4395-9e8c-eb7920dc4c3c",
+      "title": "Episode 333 - Movie vs Reality: Jim Jones Part 1",
+      "description": "Ti West\u0027s 2013 horror film, The Sacrament was based on Jim Jones and the events at Jonestown. live show tickets patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-10-14T04:21:56Z",
+      "duration": "00:44:18.6380000",
+      "explicit": true,
+      "spotifyId": "2EyEEnWFxpiQnBh71eZt2R",
+      "appleId": 1000672977282,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2EyEEnWFxpiQnBh71eZt2R",
+        "apple": "https://podcasts.apple.com/podcast/episode-333-movie-vs-reality-jim-jones-part-1/id1262899883?i=1000672977282"
+      }
+    }
+  ]
+}

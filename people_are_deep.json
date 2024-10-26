@@ -2,8 +2,25 @@
   "_ts": 0,
   "id": "e1e47c00-4ba2-41c3-aa45-dc87c29034ab",
   "name": "People Are Deep",
+  "spotifyId": "3BXcc5VbJfBgElkuFZtmUj",
+  "appleId": 1771507802,
   "youTubeChannelId": "UCO3CXJLea-Iynza7PmK33Eg",
   "episodes": [
+    {
+      "id": "4d9c19e4-45a6-450e-82a1-26532defabe0",
+      "title": "How I Escaped A Dangerous Cult | DEEP",
+      "description": "In this episode we talked to Petra Velzeboer, who grew up in a religious cult The Children Of God (now known as The Family International). Petra told us how she left the cult, how her trauma led to addiction and wanting to take her life, and how she managed to find healing and recovery. \n\n00:32 - My childhood at the cult\n01:31 - The cult\n10:01 - Leaving the cult\n13:54 - My rock bottom\n19:10 - Recovery\n21:18 - Modern cults\n23:00 - Regrets\n\nThanks to Petra for taking part! \nhttps://www.petravelzeboer.com/  \nYou can buy Petra\u0027s book here: https://amzn.eu/d/fJIxd4a  \nWelcome to DEEP - a brand new channel that brings you incredible people with amazing stories from all over the world.\n\nIf you\u0027ve seen the team\u0027s previous work - Minutes With/The Gap/Agree To Disagree...then you know what to expect!\n\nLet us know if there\u0027s anyone in particular you think we should speak to - we love bringing you stories and want to hear what you like.\n\nThanks and we hope you enjoy!",
+      "release": "2024-10-19T17:00:14Z",
+      "duration": "00:26:10",
+      "explicit": false,
+      "youTubeId": "KxKmN0RF69I",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KxKmN0RF69I"
+      }
+    },
     {
       "id": "5d3ba79a-a93c-4ceb-b0ef-7dd8cd66373a",
       "title": "Cult Survivor Explains Brainwashing Techniques | DEEPX",
@@ -18,6 +35,38 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=PIQRSZpW1zY"
+      }
+    },
+    {
+      "id": "afbfdd6b-5ba2-4a06-9aa5-a74c24aa26cf",
+      "title": "Former Jehovahs Witness Speaks Out",
+      "release": "2024-10-01T13:00:02Z",
+      "duration": "00:33:27.4570000",
+      "explicit": false,
+      "spotifyId": "10ttpI9AcMJGJWTecC9g6k",
+      "appleId": 1000671424504,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/10ttpI9AcMJGJWTecC9g6k",
+        "apple": "https://podcasts.apple.com/podcast/former-jehovahs-witness-speaks-out/id1771507802?i=1000671424504",
+        "youtube": "https://www.youtube.com/watch?v=4AciMfSM0Dg"
+      }
+    },
+    {
+      "id": "29484a66-bf30-47f2-a43c-3aa4ada9440b",
+      "title": "Former Jehovah\u2019s Witness Explains Cult\u2019s Secret Language | DEEPX",
+      "description": "What is blood guilt? What does it mean to disfellowship someone? What do Jehovah\u0027s Witnesses believe in and why? Former Jehovah\u0027s witness and author Ali Millar unpacks the language used inside the religious organisation and explains why Jehovah\u0027s Witnesses feel the need to create their own words - new episodes of DEEP X every week.\n\n#cult #witness #religion \n\nWelcome to DEEP - a brand new channel that brings you incredible people with amazing stories from all over the world.\n\nIf you\u0027ve seen the team\u0027s previous work - Minutes With/The Gap/Agree To Disagree...then you know what to expect!\n\nLet us know if there\u0027s anyone in particular you think we should speak to - we love bringing you stories and want to hear what you like.\n\nThanks and we hope you enjoy!",
+      "release": "2024-09-04T20:00:26Z",
+      "duration": "00:12:39",
+      "explicit": false,
+      "youTubeId": "gFi_RpNKFXI",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gFi_RpNKFXI"
       }
     }
   ]

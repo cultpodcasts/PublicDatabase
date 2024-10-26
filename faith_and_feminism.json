@@ -6,6 +6,20 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "4aa2071c-17a8-46be-a8b8-6c78dea3df67",
+      "title": "The Growing Gender Gap: Part 1",
+      "description": "Dr. Brendan Kwiatkowski, founder of Re:Masculine, talks to us about the growing political gender gap between young men and women.",
+      "release": "2024-10-22T09:37:00Z",
+      "duration": "01:21:15.0040000",
+      "explicit": false,
+      "spotifyId": "1sULZo22o9lFmvBZKFO0iu",
+      "appleId": 1000673978066,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1sULZo22o9lFmvBZKFO0iu",
+        "apple": "https://podcasts.apple.com/podcast/the-growing-gender-gap-part-1/id1438368947?i=1000673978066"
+      }
+    },
+    {
       "id": "da31129e-c361-4c11-9f28-482aa400204b",
       "title": "The Mary we Forgot",
       "description": "In The Mary We Forgot, award-winning church historian and theologian Jennifer Powell McNutt unpacks Scripture and history to reveal the real Mary Magdalene: the first apostle of the good news and a model of discipleship for both men and women today.",

@@ -1,0 +1,94 @@
+{
+  "_ts": 0,
+  "id": "5abd16c8-03f5-4565-886f-3602a1d050a5",
+  "name": "Heaven\u0027s Helpline",
+  "spotifyId": "1Je06h0lSL8uVQsd2tbpCX",
+  "appleId": 1772834195,
+  "episodes": [
+    {
+      "id": "033c3eec-182e-4db1-9e1f-dd903a1b3808",
+      "title": "Episode 3: The Bishop\u0027s Tale",
+      "description": "Murray hears tale after tale of abuse within Mormon congregations and at the centre of every story, there\u2019s a \u201Cbishop\u201D. Who are these men? Why are they so involved in members\u2019 lives? And do their actions help the church keep crimes secret? Family violence: If you\u2019re in danger now phone the police on 111 or ask neighbours or friends to ring for you. Where to go for help or more information: Shine, free national helpline 9am- 11pm every day - 0508 744 633 www.2shine.org.nz Women\u2019s Refuge: Free national crisis line operates 24/7 - 0800 refuge or 0800 733 843 www.womensrefuge.org.nz\\ Shakti: Providing specialist cultural services for African, Asian and middle eastern women and their children. Crisis line 24/7 0800 742 584 It\u2019s Not Ok: Information line 0800 456 450 www.areyouok.org.nz Sexual assault support services: If you\u0027ve ever experienced sexual assault or abuse and need to talk to someone, contact Safe to Talk confidentially, any time 24/7: Call 0800 044 334 Text 4334 Email support@safetotalk.nz For more information visit safetotalk.nz If you have been sexually assaulted, remember it\u0027s not your fault. See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-23T16:00:00Z",
+      "duration": "00:48:29.8050000",
+      "explicit": false,
+      "spotifyId": "6DxaQNGW1d8pVny2xfYkEH",
+      "appleId": 1000674175031,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6DxaQNGW1d8pVny2xfYkEH",
+        "apple": "https://podcasts.apple.com/podcast/episode-3-the-bishops-tale/id1772834195?i=1000674175031"
+      }
+    },
+    {
+      "id": "1328b5a8-ca0d-4cbd-9796-9318a1fceb20",
+      "title": "Episode 2: This Changes Everything",
+      "description": "A fanatical \u201Cpriesthood holder\u201D pressures young Mormon Caroline into marriage and motherhood. When the relationship descends into extreme abuse, Caroline is rescued by a church leader, but others up the ranks are not so supportive. Whose side are they really on? See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-16T16:00:00Z",
+      "duration": "00:46:57.8540000",
+      "explicit": false,
+      "spotifyId": "3TpnkaYQ7P0a61OVqflLDp",
+      "appleId": 1000673325881,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3TpnkaYQ7P0a61OVqflLDp",
+        "apple": "https://podcasts.apple.com/podcast/episode-2-this-changes-everything/id1772834195?i=1000673325881"
+      }
+    },
+    {
+      "id": "c8f10c22-e5f7-4543-ac37-7347c5ac3828",
+      "title": "Explainer: A Brief History of Mormons in Aotearoa",
+      "description": "What do Mormons actually believe? And how did this mega-wealthy American church gain such a foothold in New Zealand? (Please note: this is an optional episode for history lovers, so you can safely skip it without losing the thread.) See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-16T16:00:00Z",
+      "duration": "00:21:48.1860000",
+      "explicit": false,
+      "spotifyId": "5MfndltyUyPEd0lzHHVqRS",
+      "appleId": 1000673325549,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5MfndltyUyPEd0lzHHVqRS",
+        "apple": "https://podcasts.apple.com/podcast/explainer-a-brief-history-of-mormons-in-aotearoa/id1772834195?i=1000673325549"
+      }
+    },
+    {
+      "id": "3cbe1b0b-87c2-4141-83dc-ff5ca1412bfe",
+      "title": "Episode 1: The Business of Saving Souls",
+      "description": "When journalist Murray Jones investigates the vast wealth of the Mormon church in New Zealand, an intriguing Facebook post alerts him to a scandal that\u2019s much bigger, and much, much darker. See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-16T16:00:00Z",
+      "duration": "00:45:14.2260000",
+      "explicit": false,
+      "spotifyId": "4w9eqcR2stF9aQbWMkhRWX",
+      "appleId": 1000673325827,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4w9eqcR2stF9aQbWMkhRWX",
+        "apple": "https://podcasts.apple.com/podcast/episode-1-the-business-of-saving-souls/id1772834195?i=1000673325827"
+      }
+    },
+    {
+      "id": "a66a996d-f5c9-46a8-8c31-29a7e8153b39",
+      "title": "Trailer - Coming soon",
+      "description": "Heaven\u0027s Helpline begins on October 17th wherever you get your podcasts. See omnystudio.com/listener for privacy information.",
+      "release": "2024-10-08T05:05:15Z",
+      "duration": "00:01:15.0750000",
+      "explicit": false,
+      "spotifyId": "6gSiCeMm680aoV29O3sh7Y",
+      "appleId": 1000672178200,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6gSiCeMm680aoV29O3sh7Y",
+        "apple": "https://podcasts.apple.com/podcast/trailer-coming-soon/id1772834195?i=1000672178200"
+      }
+    }
+  ]
+}

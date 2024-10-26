@@ -6,6 +6,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "1bcf718a-70cf-45a7-bb17-2b51079f8355",
+      "title": "1. Where is your WWJD bracelet?",
+      "description": "This is the first episode where Donavon, Chrissy and I discuss the WWJD movement.\u00A0\n\n\n\n\nintro and outro song used by permission from the band Iron Chic.",
+      "release": "2024-10-23T14:37:03Z",
+      "duration": "01:42:24",
+      "explicit": false,
+      "spotifyId": "42nRQXkrh9KIZz4mnl2rz8",
+      "appleId": 1000526216661,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/42nRQXkrh9KIZz4mnl2rz8",
+        "apple": "https://podcasts.apple.com/podcast/1-where-is-your-wwjd-bracelet/id1573190999?i=1000526216661"
+      }
+    },
+    {
+      "id": "b1dfcfb1-0a5b-4985-a3bd-744c967c8cf8",
+      "title": "177. Hell: Part II",
+      "description": "This week we dive into the development of hell among the early church.",
+      "release": "2024-10-23T06:11:00Z",
+      "duration": "01:37:03",
+      "explicit": false,
+      "spotifyId": "7kgWiaBrYiJjjivlDmzYvs",
+      "appleId": 1000674112899,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7kgWiaBrYiJjjivlDmzYvs",
+        "apple": "https://podcasts.apple.com/podcast/177-hell-part-ii/id1573190999?i=1000674112899"
+      }
+    },
+    {
       "id": "efd05ff8-ac00-4ae2-9050-c768e6e1703b",
       "title": "176. H-E-L-L Double Hockey Sticks Part I",
       "description": "For this spooky season, we dive into something that has given evangelicals anxiety and that is hell. We go through the origins and evolution of it within Judaism and up to Jesus.",

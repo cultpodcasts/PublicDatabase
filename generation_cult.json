@@ -273,12 +273,14 @@
       "explicit": false,
       "spotifyId": "1Hsdt5WDTFqBkU6HAlgL1h",
       "appleId": 1000601428015,
+      "youTubeId": "3bkLIvmqyGQ",
       "subjects": [
         "Legislation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Hsdt5WDTFqBkU6HAlgL1h",
-        "apple": "https://podcasts.apple.com/podcast/cults-and-courts-with-carol/id1387341884?i=1000601428015"
+        "apple": "https://podcasts.apple.com/podcast/cults-and-courts-with-carol/id1387341884?i=1000601428015",
+        "youtube": "https://www.youtube.com/watch?v=3bkLIvmqyGQ"
       }
     },
     {

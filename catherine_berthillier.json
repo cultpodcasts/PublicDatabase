@@ -1,0 +1,59 @@
+{
+  "_ts": 0,
+  "id": "0609fd3c-c91b-4199-8ac7-965065629731",
+  "name": "Catherine BERTHILLIER",
+  "youTubeChannelId": "UCBucrW0zD-21ng99XXIVLuA",
+  "episodes": [
+    {
+      "id": "e7321aa0-ed16-44f0-8898-256d8bbd1d81",
+      "title": "KILLER CULTS Blinded by light",
+      "release": "2024-10-20T09:50:31Z",
+      "duration": "00:27:10",
+      "explicit": false,
+      "youTubeId": "oTN0KJZZvHc",
+      "subjects": [
+        "Peoples Temple",
+        "Order of the Solar Temple",
+        "Aum Shinrikyo",
+        "Branch Davidians"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oTN0KJZZvHc"
+      }
+    },
+    {
+      "id": "ceca237b-3698-48b9-9c0e-5c9fa4b51f65",
+      "title": "KILLER CULTS 2 the man who would be God",
+      "release": "2024-10-20T09:49:33Z",
+      "duration": "00:44:13",
+      "explicit": false,
+      "youTubeId": "_3v0utbUSSY",
+      "subjects": [
+        "Order of the Solar Temple",
+        "Aum Shinrikyo",
+        "Peoples Temple",
+        "Branch Davidians"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_3v0utbUSSY"
+      }
+    },
+    {
+      "id": "3e90045d-9f4b-4289-8212-d552d924f66f",
+      "title": "KILLER CULTS 1 Blinded by light",
+      "release": "2024-10-20T09:49:32Z",
+      "duration": "00:23:02",
+      "explicit": false,
+      "youTubeId": "N5Xzzbls1K0",
+      "subjects": [
+        "Peoples Temple",
+        "Aum Shinrikyo",
+        "Order of the Solar Temple",
+        "Branch Davidians"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=N5Xzzbls1K0"
+      }
+    }
+  ]
+}

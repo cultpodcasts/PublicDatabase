@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCFxlPi-eWh4AmucpGmTdPXA",
   "episodes": [
     {
+      "id": "0c465490-ec13-484f-ba1a-30f66f740135",
+      "title": "Rebuilding Belief: My Journey from Cult Indoctrination to Spiritual Freedom",
+      "description": "Episode 10:  I take you through my personal transformation\u2014how I went from being deeply indoctrinated in a religious cult to breaking away from those beliefs and rebuilding my life. After leaving the FLDS at 18, I was lost, struggling to find a belief system that resonated with me. This episode explores how I shed old patterns, overcame personal struggles, and found spiritual clarity. Join me as I share the insights and practices that helped me redefine my path to true freedom and self-discovery.",
+      "release": "2024-10-19T16:05:54Z",
+      "duration": "00:26:42",
+      "explicit": false,
+      "spotifyId": "6DfR8E1MSgzQHX4FfFFyUE",
+      "appleId": 1000673866350,
+      "youTubeId": "4YtSN9CD2_Q",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6DfR8E1MSgzQHX4FfFFyUE",
+        "apple": "https://podcasts.apple.com/podcast/10-my-journey-from-cult-indoctrination-to-spiritual/id1764092148?i=1000673866350",
+        "youtube": "https://www.youtube.com/watch?v=4YtSN9CD2_Q"
+      }
+    },
+    {
       "id": "554a33d6-e8b5-4023-be31-0f70d04318ff",
       "title": "From Cult Life to Courage: Deborah Dockstader\u2019s Unbreakable Spirit",
       "description": "Episode 9: In this deeply personal and emotional episode of The Chi Codes, I sit down with my mother, Deborah Dockstader, to share her extraordinary life story. From a challenging childhood to marrying my father and joining the FLDS cult, Deborah\u2019s journey is one of relentless perseverance. Over the years, she raised nine children while navigating the heartache of my father taking a second wife\u2014her own sister\u2014and later, the grief of losing him at the early age of 53. Her strength has been tested time and again, including watching her children struggle with addiction, and one son\u2019s 20-year incarceration. Now facing the final chapter of her life with liver failure, Deborah remains a symbol of unwavering resilience, never giving up despite the many obstacles she faced. This episode delves into her experiences, the lessons she\u2019s learned, and how she continues to inspire those around her. Tune in for an intimate conversation about love, loss, and the enduring power of the human spirit.",
@@ -23,6 +42,59 @@
         "spotify": "https://open.spotify.com/episode/6FursSVcNBaMyvzpG2sRjb",
         "apple": "https://podcasts.apple.com/podcast/09-from-cult-life-to-courage-deborah-dockstaders-unbreakable/id1764092148?i=1000673039115",
         "youtube": "https://www.youtube.com/watch?v=jdH6E-6FGvc"
+      }
+    },
+    {
+      "id": "cff2daa3-354c-4619-aba0-2e7b7969a81e",
+      "title": "05. From FLDS to Freedom: Doyle Dockstader\u2019s 20 Years in Prison and His Path to Redemption (Part 2)",
+      "description": "In the second part of our two-part series on The Chi Codes, we continue the conversation with my older brother, Doyle Dockstader, as he delves deeper into his extraordinary journey. After 20 years in prison, Doyle reflects on the lessons learned, the battles fought, and the internal work required to rebuild his life. From facing the ghosts of his past to finding a new purpose, Doyle shares how he turned his life around and the pivotal steps that led him to freedom\u2014both physically and spiritually. This episode is a testament to the resilience of the human spirit and a powerful reminder that it\u2019s never too late to change. Don\u2019t miss the conclusion of Doyle\u2019s inspiring story",
+      "release": "2024-09-16T15:23:05Z",
+      "duration": "01:01:24.9360000",
+      "explicit": false,
+      "spotifyId": "0ReXJs3SMGc5Atxwucwwng",
+      "appleId": 1000669715014,
+      "youTubeId": "Vfxxo8FS-f4",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ReXJs3SMGc5Atxwucwwng",
+        "apple": "https://podcasts.apple.com/podcast/05-from-flds-to-freedom-doyle-dockstaders-20-years/id1764092148?i=1000669715014",
+        "youtube": "https://www.youtube.com/watch?v=Vfxxo8FS-f4"
+      }
+    },
+    {
+      "id": "c97ad961-9aee-4f4b-be38-6eb97965c588",
+      "title": "03. From FLDS to Freedom: Doyle Dockstader\u2019s 20 Years in Prison and His Path to Redemption (Part 1)",
+      "description": "In this gripping first part of a two-part series on The Chi Codes, I sit down with my older brother, Doyle Dockstader, to uncover his extraordinary journey. Raised within the strict confines of the FLDS church and later spending 20 years behind bars, Doyle\u2019s life seemed destined for darkness. But against all odds, he transformed his life, and now he\u2019s here to share his powerful story. Join us as Doyle opens up about his time in prison, the pivotal moments that sparked his change, and how he\u2019s dedicated to inspiring others who are struggling to find their way. This is a story of redemption, resilience, and the power of the human spirit. Don\u2019t miss Part 1 of this incredible tale.",
+      "release": "2024-09-02T13:00:02Z",
+      "duration": "01:02:36.9360000",
+      "explicit": false,
+      "spotifyId": "4y79dDXG9pFkefEptmOqzl",
+      "appleId": 1000668054740,
+      "youTubeId": "nKgf0RMI3-U",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4y79dDXG9pFkefEptmOqzl",
+        "apple": "https://podcasts.apple.com/podcast/03-from-flds-to-freedom-doyle-dockstaders-20-years/id1764092148?i=1000668054740",
+        "youtube": "https://www.youtube.com/watch?v=nKgf0RMI3-U"
+      }
+    },
+    {
+      "id": "a0829cff-4526-4909-80e5-0a2a9ee31dc0",
+      "title": "Leaving the FLDS Church",
+      "description": "Leaving the FLDS was a monumental turning point in my life. In this video, I share my personal journey of breaking free from the constraints of a religious community and discovering a new belief system that resonates with me. If you\u0027re struggling with your own beliefs or are curious about life after leaving a religious community, this video is for you. #FLDS #LeavingReligion #SpiritualJourney #PersonalTransformation #NewBeliefs #Freedom #SelfDiscovery",
+      "release": "2023-09-08T14:36:31Z",
+      "duration": "00:01:40",
+      "explicit": false,
+      "youTubeId": "aHb8uyqfdAk",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aHb8uyqfdAk"
       }
     }
   ]
