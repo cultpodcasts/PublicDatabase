@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "15e3f1ce-c670-4b9b-93e2-8d62e08d95c1",
+  "name": "Oh No, Ross and Carrie",
+  "spotifyId": "5KbEq85B7I0laXdd5UeT3x",
+  "appleId": 425328515,
+  "episodes": [
+    {
+      "id": "7028b60f-a642-4617-9b74-296ced739a34",
+      "title": "Ross and Carrie and the Self-Realization Fellowship (Part 2): Overpaying For Silence",
+      "description": "After months of anticipation, Ross and Carrie attend the Self Realization Fellowship Convocation, where they learn to meditate better, chant for hours at a time, try to get surly strangers to smile, and fight with oranges.",
+      "release": "2015-10-02T16:00:00Z",
+      "duration": "01:00:36.6880000",
+      "explicit": false,
+      "spotifyId": "3U46Ib68HuZ2JXMVLwJBig",
+      "appleId": 1000398970666,
+      "subjects": [
+        "Self-Realization Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3U46Ib68HuZ2JXMVLwJBig",
+        "apple": "https://podcasts.apple.com/podcast/ross-and-carrie-and-the-self-realization-fellowship/id425328515?i=1000398970666"
+      }
+    },
+    {
+      "id": "b818738b-ab5c-4d01-8bd1-7d44402be950",
+      "title": "Ross and Carrie and the Self-Realization Fellowship (Part 1): Meditate, Meditate, Meditate",
+      "description": "Ross and Carrie immerse themselves in the Self Realization Fellowship, an eastern-inspired religion that urges little eating, little sleeping, and lots of meditation. Can Carrie and Ross survive in a group where \u0022restlessness of mind\u0022 is a cardinal sin?",
+      "release": "2015-09-01T16:00:00Z",
+      "duration": "00:59:40.7080000",
+      "explicit": false,
+      "spotifyId": "3ioYXZrGSJSqyVOlEAIJgF",
+      "appleId": 1000398970621,
+      "subjects": [
+        "Self-Realization Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ioYXZrGSJSqyVOlEAIJgF",
+        "apple": "https://podcasts.apple.com/podcast/ross-and-carrie-and-the-self-realization-fellowship/id425328515?i=1000398970621"
+      }
+    }
+  ]
+}

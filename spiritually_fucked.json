@@ -6,6 +6,38 @@
   "appleId": 1712148990,
   "episodes": [
     {
+      "id": "93b53b38-c3ef-4a9f-93bb-10c3f6feae08",
+      "title": "The Salem Witch Trials Part 2: F*ck You, More Weight",
+      "description": "This week, we continue our two-part episode on the Salem Witch Trials of 1692.\u00A0 We cover the court of Oyer and Terminer and the low-key serial killer running the show.",
+      "release": "2024-10-30T10:30:00Z",
+      "duration": "00:46:34",
+      "explicit": false,
+      "spotifyId": "5lCAj6q5URf8jrQw0zQeXm",
+      "appleId": 1000674993343,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5lCAj6q5URf8jrQw0zQeXm",
+        "apple": "https://podcasts.apple.com/podcast/the-salem-witch-trials-part-2-f-ck-you-more-weight/id1712148990?i=1000674993343"
+      }
+    },
+    {
+      "id": "ef1db4bd-76df-46c5-b2b6-edd3b6acb740",
+      "title": "CULTured #3",
+      "description": "CULTured is our irregular, monthly roundup of news in the wellness, yoga, and true crime space.....plus whatever the hell else we want to talk about.\u00A0\n\u00A0\nThis month, we try to wrap our heads around the Diddy controversy and how deep the scandal goes.",
+      "release": "2024-10-28T10:30:00Z",
+      "duration": "00:19:40",
+      "explicit": false,
+      "spotifyId": "6llNqZNxqHJWCSpwdBxAt2",
+      "appleId": 1000674697938,
+      "subjects": [
+        "Self-Help",
+        "Sean Combs"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6llNqZNxqHJWCSpwdBxAt2",
+        "apple": "https://podcasts.apple.com/podcast/cultured-3/id1712148990?i=1000674697938"
+      }
+    },
+    {
       "id": "74f1cd67-5fb6-44df-a104-759efb247b39",
       "title": "The Salem Witch Trials: Yes, And....She\u0027s A Witch",
       "description": "It\u0027s SPOOKY SEASON!\u00A0\n\u00A0\nJoin us for a deep dive into one of the most notorious events in American history, The Salem Witch Trials.\u00A0We discuss the societal tensions and personal vendettas that fueled the hysteria, leading to the persecution of many innocent people.",

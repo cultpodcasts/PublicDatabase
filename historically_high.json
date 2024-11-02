@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e7f25cf1-713a-4a2c-aec6-08629d32b0c1",
+  "name": "Historically High",
+  "spotifyId": "1yamaLazO9SqJvhY0FxCQT",
+  "appleId": 1620172006,
+  "episodes": [
+    {
+      "id": "3945d294-10a6-475c-a481-7cdd84feb057",
+      "title": "Jim Jones and The Peoples Temple",
+      "description": "Jim Jones....Jim Jones....what can we say about Jim Jones? Early on young James found he had two things going for him, his newfound love of religion and his ability to memorize sermons and scripture. What started out as lil Jimmy preaching to the other kids in town, took a slight detour in dealing monkeys (not a euphemism) before he finally performed enough bullshit faith healing to start a church of his own. It didn\u0027t take long for Jim to find his own brand of religion which if we\u0027re being honest here, sounded pretty damn good in the beginning. But then the doomsday dreams started happening, combined with the power that came with being worshipped, and add in some drugs cause why not. Jim did what any sane person would do, he made himself the Messiah, kidnapped a kid, and took a bunch of his followers to the jungles of Guyana, normal shit. Well I wish I could say that was the end of it, but it gets tragic when Jones\u0027 god complex results in the death of over 900 people in a mass cult suicide. Support the show",
+      "release": "2024-10-30T06:00:00Z",
+      "duration": "03:09:27.0790000",
+      "explicit": true,
+      "spotifyId": "4q5V29YiFoxkAUNH6J1d7I",
+      "appleId": 1000674967054,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4q5V29YiFoxkAUNH6J1d7I",
+        "apple": "https://podcasts.apple.com/podcast/jim-jones-and-the-peoples-temple/id1620172006?i=1000674967054"
+      }
+    }
+  ]
+}

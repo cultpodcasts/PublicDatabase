@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "af1df559-83d9-43fa-a112-9f24bd4e42b8",
+  "name": "The Bev Johnson Show",
+  "spotifyId": "40VzPeqv57hi1gzunj7FDK",
+  "appleId": 1601889694,
+  "episodes": [
+    {
+      "id": "72308bdd-71ae-4d04-a181-e7ecec12db98",
+      "title": "Perverted Gaslighting With Psychchologist Dr. Warren Harper",
+      "description": "The Perverted Gaslighting and Sick Cult Magentism of Donald Trump with Psychologist/Mental Health Specialist Dr. Warren Harper on The Bev Johnson Show on WDIA Radio.",
+      "release": "2024-10-31T18:16:55Z",
+      "duration": "01:33:31.1280000",
+      "explicit": false,
+      "spotifyId": "5HKu2dp8zYXa2DCoQJuads",
+      "appleId": 1000675245718,
+      "subjects": [
+        "Cult Psychology",
+        "Political Cult",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5HKu2dp8zYXa2DCoQJuads",
+        "apple": "https://podcasts.apple.com/podcast/perverted-gaslighting-with-psychchologist-dr-warren/id1601889694?i=1000675245718"
+      }
+    }
+  ]
+}

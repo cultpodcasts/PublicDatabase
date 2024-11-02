@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "e18bd1d6-9405-41d2-aeea-65b6fb697c5e",
+  "name": "Shrink Space",
+  "spotifyId": "0LkGdKmHq07IAEAobBC5CT",
+  "appleId": 1766659821,
+  "youTubeChannelId": "UC500pqQoWbQeWuvILY5JtMQ",
+  "episodes": [
+    {
+      "id": "d4110559-0b66-4cd0-8265-00a687cac35f",
+      "title": "Shrink Space Ep. 9 | The Psychology behind Cults",
+      "description": "What makes a good cult leader? Why would anyone join a cult? In today\u0027s episode, Rob and Dave take a deep dive into the underlying psychological mechanisms that create cults. If you\u0027d like to see more Shrink Space content, be sure to like this video and subscribe to this channel",
+      "release": "2024-10-29T12:00:00Z",
+      "duration": "00:46:44.1340000",
+      "explicit": false,
+      "spotifyId": "0BfMPQMgFNKN4HE9m8Sds6",
+      "appleId": 1000674859895,
+      "youTubeId": "Xg4H3w6DTeA",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0BfMPQMgFNKN4HE9m8Sds6",
+        "apple": "https://podcasts.apple.com/podcast/shrink-space-ep-9-the-psychology-behind-cults/id1766659821?i=1000674859895",
+        "youtube": "https://www.youtube.com/watch?v=Xg4H3w6DTeA"
+      }
+    }
+  ]
+}

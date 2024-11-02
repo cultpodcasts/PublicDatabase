@@ -1,7 +1,9 @@
 {
   "_ts": 0,
   "id": "bed4e3dd-1877-4843-aaa3-3ec3b0504f84",
-  "name": "VFS Originals",
+  "name": "Vancouver Film School Storyteller\u0027s Studio Podcast",
+  "spotifyId": "1ZuprnegBce7kSda6Nmf1t",
+  "appleId": 1494982760,
   "youTubeChannelId": "UCgv6IxP5k6cc0B2irc8xedA",
   "episodes": [
     {
@@ -11,11 +13,15 @@
       "release": "2020-02-11T18:26:49Z",
       "duration": "00:45:21",
       "explicit": false,
+      "spotifyId": "5yWcHH9MU3TXYi2rUlGbN1",
+      "appleId": 1000465379296,
       "youTubeId": "w2ktUb8zEjU",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5yWcHH9MU3TXYi2rUlGbN1",
+        "apple": "https://podcasts.apple.com/podcast/sarah-edmondson-nxivm-and-how-i-escaped-a-cult/id1494982760?i=1000465379296",
         "youtube": "https://www.youtube.com/watch?v=w2ktUb8zEjU"
       }
     }

@@ -1,9 +1,24 @@
 {
   "_ts": 0,
-  "id": "56c63869-fcf1-4332-9738-871a0ec9738e",
+  "id": "4b7805f4-71b6-4948-b52a-30c7df47f2cf",
   "name": "TED",
   "youTubeChannelId": "UCAuUUnT6oDeKwE6v1NGQxug",
   "episodes": [
+    {
+      "id": "8329bc75-e61f-4f69-b853-e52822de228f",
+      "title": "I grew up in the Westboro Baptist Church. Here\u0027s why I left | Megan Phelps-Roper",
+      "description": "What\u0027s it like to grow up within a group of people who exult in demonizing ... everyone else? Megan Phelps-Roper shares details of life inside America\u0027s most controversial church and describes how conversations on Twitter were key to her decision to leave it. In this extraordinary talk, she shares her personal experience of extreme polarization, along with some sharp ways we can learn to successfully engage across ideological lines.\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world\u0027s leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\nFind closed captions and translated subtitles in many languages at http://www.ted.com/translate\n\nFollow TED news on Twitter: http://www.twitter.com/tednews\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: http://www.youtube.com/user/TEDtalksDirector",
+      "release": "2017-03-06T17:10:02Z",
+      "duration": "00:15:18",
+      "explicit": false,
+      "youTubeId": "bVV2Zk88beY",
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bVV2Zk88beY"
+      }
+    },
     {
       "id": "cfc402d9-d4a3-49e2-9618-ee55866c7d7e",
       "title": "Why people believe weird things | Michael Shermer",

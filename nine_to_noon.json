@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "86896d7d-4d78-4d80-94d5-cd26f780273a",
+  "name": "Nine To Noon",
+  "spotifyId": "37vbVRmUuiyepvDx0euyhM",
+  "appleId": 174829950,
+  "episodes": [
+    {
+      "id": "2856ee6a-eef2-406f-b40b-bff4160e8fdc",
+      "title": "Leading UK cult reformer Gillie Jenkinson",
+      "description": "When Gillie Jenkinson was in her early 20s she ended up in a religious group that developed into a cult.",
+      "release": "2024-10-24T21:05:00Z",
+      "duration": "00:27:25.7750000",
+      "explicit": false,
+      "spotifyId": "0dMmRlWrOl3RrKpzPDb2EC",
+      "appleId": 1000674365509,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0dMmRlWrOl3RrKpzPDb2EC",
+        "apple": "https://podcasts.apple.com/podcast/leading-uk-cult-reformer-gillie-jenkinson/id174829950?i=1000674365509"
+      }
+    }
+  ]
+}

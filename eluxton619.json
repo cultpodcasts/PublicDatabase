@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "c621ea03-e12f-4d87-85cd-8830679872be",
+  "name": "eluxton619",
+  "youTubeChannelId": "UCzmjUD6wQf6qg9W8PnfqPCQ",
+  "episodes": [
+    {
+      "id": "1c83b625-0375-4d1a-9ee0-281bcab42c0a",
+      "title": "Today Tonight - Taylor Henderson - Geelong Revival Centre",
+      "description": "geelongchurch",
+      "release": "2010-06-21T11:29:01Z",
+      "duration": "00:09:33",
+      "explicit": false,
+      "youTubeId": "h9aR0tSpFzE",
+      "subjects": [
+        "Geelong Revival Centre"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=h9aR0tSpFzE"
+      }
+    }
+  ]
+}

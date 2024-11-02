@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCMT-VOz9O6TLDHEgO6YOcaQ",
   "episodes": [
     {
+      "id": "5f56a0d7-ab26-4e1e-83e9-30e23ec9e695",
+      "title": "Why do we use the word \u0026quot;escape\u0026quot;? #shorts",
+      "release": "2024-10-28T23:50:25Z",
+      "duration": "00:00:50",
+      "explicit": false,
+      "youTubeId": "5fWcuLRd8KE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5fWcuLRd8KE"
+      }
+    },
+    {
       "id": "b0b91b1b-00fd-4632-897c-b9b22ac6eb0e",
       "title": "Leaving Scientology with Claire Headley",
       "description": "In the third and final video of our series, Leaving Scientology, board president Claire Headley discusses her escape from Scientology and the extreme control that Sea Org members face.\n\nLearn more about our work at theaftermathfoundation.org\n\nThank you for watching!",
@@ -27,7 +41,8 @@
       "explicit": false,
       "youTubeId": "TAcl5TwUnIk",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "_East Grinstead"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=TAcl5TwUnIk"

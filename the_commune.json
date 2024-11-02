@@ -4,6 +4,8 @@
   "name": "The Commune",
   "spotifyId": "3qgUKA3HHuZhIGxU6KYanU",
   "appleId": 1624791997,
+  "youTubeChannelId": "UCZgnsVbXJPZRg5kmtKyq6Ew",
+  "youTubePlaylistId": "PLkzf4lMjX77XWWPS8oZCnegjZYILMQBHv",
   "episodes": [
     {
       "id": "4b6addec-0ecd-4f36-aa83-c1c02be1f901",
@@ -14,12 +16,14 @@
       "explicit": true,
       "spotifyId": "1KhQNSgq7KIsHYO3eYhpdn",
       "appleId": 1000570633292,
+      "youTubeId": "H5hqFcNdHkQ",
       "subjects": [
         "Centrepoint"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1KhQNSgq7KIsHYO3eYhpdn",
-        "apple": "https://podcasts.apple.com/podcast/12-the-wounded-healer/id1624791997?i=1000570633292"
+        "apple": "https://podcasts.apple.com/podcast/12-the-wounded-healer/id1624791997?i=1000570633292",
+        "youtube": "https://www.youtube.com/watch?v=H5hqFcNdHkQ"
       }
     },
     {

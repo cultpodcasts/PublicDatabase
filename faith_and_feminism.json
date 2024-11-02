@@ -6,6 +6,20 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "70b25125-e359-4ab8-b288-62aff5076917",
+      "title": "The Growing Gender Gap: Part 2",
+      "description": "Dr. Brendan Kwiatkowski, founder of Re:Masculine, talks to us about the growing political gender gap between young men and women.",
+      "release": "2024-10-29T09:07:00Z",
+      "duration": "01:05:09.0080000",
+      "explicit": false,
+      "spotifyId": "27f6rq7gRsIZTkUC49PEgs",
+      "appleId": 1000674842131,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/27f6rq7gRsIZTkUC49PEgs",
+        "apple": "https://podcasts.apple.com/podcast/the-growing-gender-gap-part-2/id1438368947?i=1000674842131"
+      }
+    },
+    {
       "id": "4aa2071c-17a8-46be-a8b8-6c78dea3df67",
       "title": "The Growing Gender Gap: Part 1",
       "description": "Dr. Brendan Kwiatkowski, founder of Re:Masculine, talks to us about the growing political gender gap between young men and women.",

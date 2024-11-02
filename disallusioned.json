@@ -3,8 +3,25 @@
   "id": "2db6cc36-03d4-462c-97f2-8f540b39db6b",
   "name": "DisAllusioned",
   "spotifyId": "23003VjLo8FMUeMCzZ4cNE",
+  "appleId": 1775268858,
   "youTubeChannelId": "UCW52Qu18NF4yCg0Bm-4ksdQ",
   "episodes": [
+    {
+      "id": "4f13525e-d603-4709-9837-572317b13444",
+      "title": "Episode 2: Fleeing to the Mountains and Arranged Soulmates",
+      "description": "In this episode of the Disallusioned Podcast, host Ari Sherwood and guest Kelsey Kay delve into Kelsey\u0027s harrowing experience as a survivor of a shamanic doomsday cult. They discuss Kelsey\u0027s recruitment, the indoctrination process, the cult\u0027s doomsday beliefs, and the manipulation tactics employed by the cult leader. Kelsey shares her journey of moving to Tennessee, her uncomfortable marriage, and the psychological and emotional turmoil she faced. The conversation highlights the complexities of relationships within the cult, the use of sex as a tool for control, and the eventual fallout that led to Kelsey\u0027s escape and reconnection with Ari after years of separation. In this conversation, Ari Sherwood and Kelsey dive into their experiences within a cult, exploring the long-lasting effects of manipulation, abuse, and the struggle to reclaim their identities. They discuss the complexities of spiritual teachings, the impact of trauma, and the importance of trusting one\u0027s intuition. This episode emphasizes the need for awareness and understanding of cult dynamics, as well as the journey towards healing and personal growth.",
+      "release": "2024-10-27T22:00:13Z",
+      "duration": "01:13:39",
+      "explicit": true,
+      "spotifyId": "7mKK4Vg8A3MobXrgAhTfzW",
+      "appleId": 1000674638917,
+      "youTubeId": "UidzqFUstlU",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7mKK4Vg8A3MobXrgAhTfzW",
+        "apple": "https://podcasts.apple.com/podcast/fleeing-to-the-mountains-and-arranged-soulmates/id1775268858?i=1000674638917",
+        "youtube": "https://www.youtube.com/watch?v=UidzqFUstlU"
+      }
+    },
     {
       "id": "6a2d1997-dd79-4201-a5b2-043f019d32f5",
       "title": "I Married a Cult Leader",

@@ -4,6 +4,7 @@
   "name": "Freedom Pact",
   "spotifyId": "1R0aL3nQYXcYFc0FaNai08",
   "appleId": 1411593229,
+  "youTubeChannelId": "UC8BS31SZ_-lhi9iRZ1vRqIA",
   "episodes": [
     {
       "id": "9b33bd0d-ccf3-41c8-a3a8-8ccb8ffdb353",
@@ -14,12 +15,14 @@
       "explicit": false,
       "spotifyId": "6gcXQYKC538InnlPhhQP9M",
       "appleId": 1000664992639,
+      "youTubeId": "wPbgAijra5k",
       "subjects": [
         "Kare Youth League"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6gcXQYKC538InnlPhhQP9M",
-        "apple": "https://podcasts.apple.com/podcast/338-michelle-dowd-escaping-my-grandfathers-ultra-religious/id1411593229?i=1000664992639"
+        "apple": "https://podcasts.apple.com/podcast/338-michelle-dowd-escaping-my-grandfathers-ultra-religious/id1411593229?i=1000664992639",
+        "youtube": "https://www.youtube.com/watch?v=wPbgAijra5k"
       }
     }
   ]

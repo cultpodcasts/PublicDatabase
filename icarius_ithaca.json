@@ -1,0 +1,134 @@
+{
+  "_ts": 0,
+  "id": "6ffd40a1-b20c-4ee9-b457-8df28865758c",
+  "name": "Icarius Ithaca",
+  "youTubeChannelId": "UCpTnllhbujvLsXq1eSg6okA",
+  "episodes": [
+    {
+      "id": "44ab1dd9-bd45-4c6e-97e0-fb6df40fb615",
+      "title": "Paradise Lost part 1 of 9",
+      "release": "2015-03-31T20:59:45Z",
+      "duration": "00:10:05",
+      "explicit": true,
+      "youTubeId": "mGEs1zqSIpk",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mGEs1zqSIpk"
+      }
+    },
+    {
+      "id": "67af6bbc-ab68-4a94-a64b-13116246dfff",
+      "title": "Paradise Lost part 9 of 9",
+      "release": "2015-03-31T20:59:45Z",
+      "duration": "00:10:53",
+      "explicit": true,
+      "youTubeId": "GKoP3tIoosk",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GKoP3tIoosk"
+      }
+    },
+    {
+      "id": "0cb751e7-417f-45ed-aca5-3336f01e9d3d",
+      "title": "Paradise Lost part 2 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "Q0CaLjuQJcg",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Q0CaLjuQJcg"
+      }
+    },
+    {
+      "id": "b025aff4-39fd-4535-9de3-675d1c4d165b",
+      "title": "Paradise Lost part 3 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "uFKHwP-fxw4",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=uFKHwP-fxw4"
+      }
+    },
+    {
+      "id": "df34317f-cc91-4c35-8ded-319b36844f2b",
+      "title": "Paradise Lost part 4 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "_6W6lWYxGxM",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_6W6lWYxGxM"
+      }
+    },
+    {
+      "id": "65ec67e6-b7e8-4120-9c7d-02cc2e82b2ba",
+      "title": "Paradise Lost part 5 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "Wc5KDQFTJB8",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Wc5KDQFTJB8"
+      }
+    },
+    {
+      "id": "985ebd49-377c-48e4-99be-931450277f82",
+      "title": "Paradise Lost part 6 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "wd5bizd6fVQ",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=wd5bizd6fVQ"
+      }
+    },
+    {
+      "id": "dddabf2d-df39-41ab-905d-eb7096ef935d",
+      "title": "Paradise Lost part 7 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "fuEy53igUwU",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fuEy53igUwU"
+      }
+    },
+    {
+      "id": "59837a67-acb8-4a95-b134-5f5f8eb20a7b",
+      "title": "Paradise Lost part 8 of 9",
+      "release": "2015-03-31T20:59:44Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "youTubeId": "QBqQn182sfY",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QBqQn182sfY"
+      }
+    }
+  ]
+}
