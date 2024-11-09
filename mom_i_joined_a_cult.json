@@ -6,6 +6,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "cd7bc9fc-a366-4fe1-9029-542e912138e1",
+      "title": "Season 9 Episode 2 John Titer (Time Bandits)",
+      "description": "Nathan teaches us all about time travel with the IBM Time Machine.",
+      "release": "2024-11-03T00:51:56Z",
+      "duration": "00:53:13.8810000",
+      "explicit": false,
+      "spotifyId": "0VPTDxIhgN6GJH65tuKz8S",
+      "appleId": 1000675476350,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0VPTDxIhgN6GJH65tuKz8S",
+        "apple": "https://podcasts.apple.com/podcast/season-9-episode-2-john-titer-time-bandits/id1565633523?i=1000675476350"
+      }
+    },
+    {
       "id": "7fdb3c84-01a5-457a-8a41-e246fe73e4eb",
       "title": "Season 9 Episode 1 Mail Order Brides",
       "description": "In the first episode of The Nice Cult Presents we cover the fascinating history of mail order brides. We start a new competition to get Thor a new wife. Gunnar solves more problems as the acting bishop of the nice cult.",

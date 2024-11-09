@@ -1,0 +1,65 @@
+{
+  "_ts": 0,
+  "id": "1a086df5-f993-4e1f-b90c-326a29af5359",
+  "name": "The Flexible Philosophy Podcast",
+  "spotifyId": "1QMhkkgaGjuf78Ka92gkcU",
+  "youTubeChannelId": "UCtQbHj9CwwUnlWX7DO8R6rA",
+  "episodes": [
+    {
+      "id": "f4a91a41-6d55-49ea-a70d-e020caed40fc",
+      "title": "Cults",
+      "description": "Cults. What makes them tick? Unique traits, shared tactics, and psychological impact. We also dig into how high-control groups can shape our own lives and mindsets. Join us as we take turns unpacking cult group examples and share some personal insights along the way!",
+      "release": "2024-11-04T20:47:17Z",
+      "duration": "00:46:15",
+      "explicit": false,
+      "spotifyId": "6yWOZZ2eRXNqStj1PTDljA",
+      "youTubeId": "552XgN_l_xM",
+      "subjects": [
+        "Evangelicalism",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6yWOZZ2eRXNqStj1PTDljA",
+        "youtube": "https://www.youtube.com/watch?v=552XgN_l_xM"
+      }
+    },
+    {
+      "id": "fb641645-a2eb-4574-a4bd-65b716acbe56",
+      "title": "Love Bombing",
+      "description": "\u0022Love Bombing: When Affection is a Trap\u0022\n\nIn this episode, we explore lovebombing\u2014a tactic used in cults and manipulative relationships to overwhelm someone with affection and attention. We\u2019ll discuss how it differs from healthy love, why it\u2019s so effective, and the red flags to watch for in both cult groups and romantic relationships. Join us for a casual, insightful chat about how to recognize and protect yourself from emotional manipulation.",
+      "release": "2024-11-04T20:08:30Z",
+      "duration": "00:31:09",
+      "explicit": false,
+      "spotifyId": "0hkgdKF0cQa5AvysJ2dh8i",
+      "youTubeId": "ctn1m86nIBI",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0hkgdKF0cQa5AvysJ2dh8i",
+        "youtube": "https://www.youtube.com/watch?v=ctn1m86nIBI"
+      }
+    },
+    {
+      "id": "f8c75807-33f4-4850-a4f8-a376823682b7",
+      "title": "Cognitive Dissonance",
+      "description": "Today, we\u2019re digging into cognitive dissonance \u2013 that oh-so-familiar feeling when your beliefs and actions just don\u2019t get along. We\u2019ll be swapping our own embarrassing stories, talking election season (because who isn\u0027t dissonant there?), and playing armchair psychologist. Buckle up, because it turns out, reality has layers... and not all of them agree!\u0022",
+      "release": "2024-10-31T17:29:14Z",
+      "duration": "00:41:16",
+      "explicit": false,
+      "spotifyId": "2l2YcaP0Bo4SgbPx7Xj4UM",
+      "youTubeId": "DOy5PoPjNdo",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2l2YcaP0Bo4SgbPx7Xj4UM",
+        "youtube": "https://www.youtube.com/watch?v=DOy5PoPjNdo"
+      }
+    }
+  ]
+}

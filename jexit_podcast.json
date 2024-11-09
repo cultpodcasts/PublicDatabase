@@ -3,9 +3,25 @@
   "id": "654b888a-4d6c-4d88-a433-a249a7bc51aa",
   "name": "Jexit Podcast",
   "spotifyId": "6wbWYjHqtoPUVlL9wxOsqz",
-  "appleId": 1740930255,
   "youTubeChannelId": "UCi0cXpwI9NF58GbCGbOJIkw",
   "episodes": [
+    {
+      "id": "ab16986f-9f7c-40ba-8ddf-14567d4fe810",
+      "title": "Episode 034 - Deconstructing Dogmas",
+      "description": "I\u0027ve recently become aware of just how easy it is to fall prey to dogmatic ideas, so I think identifying dogmas will help to prevent me from being deceived or indoctrinated in the future. Related Content We Fell For The Oldest Lie on the Internet How To Support My Work Get your Jexit merch Buy me a coffee Follow, Connect, Contact All my links Email Interview request",
+      "release": "2024-11-03T09:00:03Z",
+      "duration": "00:19:51.9990000",
+      "explicit": false,
+      "spotifyId": "5UiPjvicruygqdcNwfeXBw",
+      "youTubeId": "4hweMfNPcbA",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5UiPjvicruygqdcNwfeXBw",
+        "youtube": "https://www.youtube.com/watch?v=4hweMfNPcbA"
+      }
+    },
     {
       "id": "52fbb315-5bf3-469c-9b29-aa27bbebfeec",
       "title": "Episode 033 - Why I\u0027m an Atheist",

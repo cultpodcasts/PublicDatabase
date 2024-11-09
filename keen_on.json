@@ -4,7 +4,28 @@
   "name": "Keen On",
   "spotifyId": "4MvPXVxAI8u5LtMJIr4S1b",
   "appleId": 1448694012,
+  "youTubeChannelId": "UC5wPl2n4-i4Y9-qQUM-k1Mw",
   "episodes": [
+    {
+      "id": "a0f505e2-8f5f-4698-a179-e19be85be18c",
+      "title": "Episode 2237: Vanessa Resier on Narcissistic Abuse - the disease that captures the spirit of our toxic times",
+      "description": "If there\u2019s a disease that captures the toxic spirit of our times, it\u2019s what the therapist, Vanessa Resier, in her new book, calls Narcissistic Abuse. Even the language of this disease - Gaslighting. Love bombing. Hoovering. Triangulating - has become part of the dictionary of life in the 2020\u2019s. Narcissism and narcissists seem to be everywhere these days. In fact, as Resier told me (see full transcript below), all domestic abuse - from outright violence to subtle manipulation - is a form of narcissistic abuse. But if that\u2019s true, I asked her, then what, exactly, isn\u2019t narcissism?\n\n\n\nVanessa M. Reiser is a licensed clinical social worker (LCSW), licensed in New York, New Jersey, Massachusetts, and Florida. She is a psychotherapist and the founder of Tell a Therapist, LLC as well as the founder of the nonprofit, Tell a Therapist, INC. Vanessa holds a bachelor\u2019s degree in political science from SUNY Empire State college and a Master of Social Work (MSM) from the University of Southern California. Vanessa specializes in narcissistic personality disorder, and her practice focuses on treating victims and survivors of cults, narcissists, domestic violence, and narcissistic abuse. Her insights are both personal and professional, giving her a unique lens into this insidious form of domestic abuse. Vanessa is a long-distance runner and two-time Ironman who is best known for running the state of New York (285 miles in 11 days) in a wedding dress to raise awareness for narcissistic abuse.\n\nNamed as one of the \u0022100 most connected men\u0022 by GQ magazine, Andrew Keen is amongst the world\u0027s best known broadcasters and commentators. In addition to presenting KEEN ON, he is the host of the long-running How To Fix Democracy show. He is also the author of four prescient books about digital technology: CULT OF THE AMATEUR, DIGITAL VERTIGO, THE INTERNET IS NOT THE ANSWER and HOW TO FIX THE FUTURE. Andrew lives in San Francisco, is married to Cassandra Knight, Google\u0027s VP of Litigation \u0026 Discovery, and has two grown children.\n\n\n\nTRANSCRIPT\nAndrew Keen: Hello, everybody. Long-time viewers and listeners to the show know that I have a particular interest in words. Certain words acquire fashion, and I\u0027m always curious why. One word that seems to be particularly popular these days, gets thrown around a lot, both clinically and out of the psychotherapist\u0027s office, is the word \u201Cnarcissist.\u201D There\u0027s a new book out this week. It\u0027s called Narcissistic Abuse. It\u0027s by my guest, Vanessa M. Reiser. She is a clinical social worker, a psychotherapist based in central New Jersey. And she\u0027s joining us. Vanessa, congratulations on the new book. This word narcissist. You\u0027re all too familiar with it, of course, everyone throws it around. Do you think it\u0027s particularly fashionable these days, or is that my imagination?\nVanessa Reiser: I think it is definitely a word that is misunderstood. So, to your point, I think people use it in a way or in a regard that is not totally accurate. So, somebody who has narcissistic personality disorder. Has a list of characteristics that are very specific, very hazardous. It\u0027s not just somebody who is into taking selfies, or that we might think the word is in reference to. So, there are pretty serious characteristics that they possess. If somebody has a pathological disorder.\nKeen: Or let me rephrase the question: do you think there are more narcissists around now in the 2020s than there were historically, or are always the same amount? Of course, the word was invented by the Greeks. Its etymology comes out of Greek mythology: the God of Narcissus. So are we particularly prone, our culture or our individuality. To two to the problems of narcissism?\nReiser: I think that it\u0027s always been around. I think there are more people, but I do think that we are now developing the vernacular for the characteristics. And I do think that because we have social media, people are more inclined to discuss it. So, in some ways it\u0027s a good",
+      "release": "2024-11-08T14:43:47Z",
+      "duration": "00:34:23",
+      "explicit": false,
+      "spotifyId": "0rQUsul2JSjFarM5mqzHAZ",
+      "appleId": 1000676218299,
+      "youTubeId": "XaULEPsdg1k",
+      "subjects": [
+        "Cult Recovery",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0rQUsul2JSjFarM5mqzHAZ",
+        "apple": "https://podcasts.apple.com/podcast/episode-2237-vanessa-resier-on-narcissistic-abuse-the/id1448694012?i=1000676218299",
+        "youtube": "https://www.youtube.com/watch?v=XaULEPsdg1k"
+      }
+    },
     {
       "id": "0eced52f-fd1e-4235-85d7-fc2748f5895b",
       "title": "Episode 2027: Marc Hauser on giving children second chances to overcome trauma and lead happy lives",
@@ -14,13 +35,15 @@
       "explicit": false,
       "spotifyId": "1h9e3eoqij6IVkLqyIufkV",
       "appleId": 1000651913341,
+      "youTubeId": "CNzER5k5yeo",
       "subjects": [
         "Psychology",
         "Legislation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1h9e3eoqij6IVkLqyIufkV",
-        "apple": "https://podcasts.apple.com/podcast/episode-2027-marc-hauser-on-giving-children-second/id1448694012?i=1000651913341"
+        "apple": "https://podcasts.apple.com/podcast/episode-2027-marc-hauser-on-giving-children-second/id1448694012?i=1000651913341",
+        "youtube": "https://www.youtube.com/watch?v=CNzER5k5yeo"
       }
     }
   ]

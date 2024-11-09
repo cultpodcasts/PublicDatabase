@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "6c5b46db-9365-4624-9d88-fbe1433c852b",
+  "name": "The Morning Show",
+  "spotifyId": "3rD0vzSNIalmH0exYzqaGn",
+  "appleId": 1713283554,
+  "episodes": [
+    {
+      "id": "c6ea33e7-6e2c-48ba-b915-d5290cb882d0",
+      "title": "Bethany Joy Lenz on leaving \u0027high-control group\u0027 after 10 years",
+      "description": "Bethany Joy Lenz on leaving \u0027high-control group\u0027 after 10 years.\nSee omnystudio.com/listener for privacy information.",
+      "release": "2024-11-04T23:49:43Z",
+      "duration": "00:07:29",
+      "explicit": false,
+      "spotifyId": "5gyLhuRUsDjVQwER1AU1jx",
+      "appleId": 1000675693169,
+      "subjects": [
+        "The Big House Family",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5gyLhuRUsDjVQwER1AU1jx",
+        "apple": "https://podcasts.apple.com/podcast/bethany-joy-lenz-on-leaving-high-control-group-after/id1713283554?i=1000675693169"
+      }
+    }
+  ]
+}

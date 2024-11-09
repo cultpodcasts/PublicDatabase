@@ -242,6 +242,7 @@
       "explicit": false,
       "spotifyId": "6IPXEg2FBVxJT3z49AAfAP",
       "appleId": 1000606730737,
+      "youTubeId": "hDqD9_0AcsY",
       "subjects": [
         "Holy Order of MANS",
         "Peoples Temple",
@@ -249,7 +250,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6IPXEg2FBVxJT3z49AAfAP",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-declared-evil-with-rhonda/id1387341884?i=1000606730737"
+        "apple": "https://podcasts.apple.com/podcast/ep-13-declared-evil-with-rhonda/id1387341884?i=1000606730737",
+        "youtube": "https://www.youtube.com/watch?v=hDqD9_0AcsY"
       }
     },
     {

@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "5e2b7c57-0113-4887-86e4-331fc2e52e3a",
+  "name": "The Opportunist",
+  "spotifyId": "1s4vovGkxJZI1JVtXiR0Ot",
+  "appleId": 1551162705,
+  "episodes": [
+    {
+      "id": "33183995-7021-480f-ae67-3e6d02caf8ca",
+      "title": "Tim Ballard E4: The Couples Ruse",
+      "description": "In this episode, we investigate the controversial \u0022couple ruse\u0022 tactic used by Tim Ballard during undercover operations. Allegations have surfaced suggesting that this strategy blurred professional boundaries and contributed to claims of inappropriate conduct, with some accusing Ballard of predatory behavior.",
+      "release": "2024-11-04T07:00:00Z",
+      "duration": "00:51:39.7680000",
+      "explicit": false,
+      "spotifyId": "0pxNmWqx7VbCW5XqNKUN2E",
+      "appleId": 1000675576510,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0pxNmWqx7VbCW5XqNKUN2E",
+        "apple": "https://podcasts.apple.com/podcast/tim-ballard-e4-the-couples-ruse/id1551162705?i=1000675576510"
+      }
+    },
+    {
+      "id": "fb003e29-ea9d-45a2-8952-69ea3e9a85d7",
+      "title": "Tim Ballard E3: A Broken Moral Compass",
+      "description": "In this episode, we explore the pull of Tim Ballard\u2019s powerful appeal and how his public persona drew volunteers like Bree Righter to the OUR movement. And we look at how that appeal blinded supporters to his potential misdeeds.",
+      "release": "2024-10-28T05:00:00Z",
+      "duration": "00:49:39.6310000",
+      "explicit": false,
+      "spotifyId": "2epALtDN7gzoBNGvqRY9i2",
+      "appleId": 1000674677464,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2epALtDN7gzoBNGvqRY9i2",
+        "apple": "https://podcasts.apple.com/podcast/tim-ballard-e3-a-broken-moral-compass/id1551162705?i=1000674677464"
+      }
+    },
+    {
+      "id": "2c162d01-3fcc-40b7-b525-5fae1aaa7a25",
+      "title": "Tim Ballard E1: For A Good Cause",
+      "description": "In this episode, we dive into the recent allegations made by Celeste Borys against Tim Ballard, the founder of Operation Underground Railroad. Borys accuses Ballard of unethical behavior during their work together, raising serious questions about his methods and leadership. Join us as we unpack these claims and explore their potential impact on Ballard\u0027s reputation and anti-trafficking efforts.",
+      "release": "2024-10-19T05:00:00Z",
+      "duration": "00:51:53.1420000",
+      "explicit": false,
+      "spotifyId": "1xO7XWZfaPf2SuJW1oUt4L",
+      "appleId": 1000673816890,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1xO7XWZfaPf2SuJW1oUt4L",
+        "apple": "https://podcasts.apple.com/podcast/tim-ballard-e1-for-a-good-cause/id1551162705?i=1000673816890"
+      }
+    },
+    {
+      "id": "0f4b61f0-50c0-44aa-84d5-00ec162188bb",
+      "title": "Tim Ballard E2: The Origin Myth",
+      "description": "In this episode, we explore the rise of Tim Ballard, from his claims of being in the CIA to his early days in law enforcement to at DHS. We examine how Ballard built a global anti-trafficking organization and gained widespread attention for his daring rescue missions. Tune in to hear the story behind the man and the movement that has sparked both praise and controversy.",
+      "release": "2024-10-19T05:00:00Z",
+      "duration": "00:38:50.6710000",
+      "explicit": false,
+      "spotifyId": "3Zj6ub6arY2TA22LF52A0X",
+      "appleId": 1000673816739,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Zj6ub6arY2TA22LF52A0X",
+        "apple": "https://podcasts.apple.com/podcast/tim-ballard-e2-the-origin-myth/id1551162705?i=1000673816739"
+      }
+    }
+  ]
+}

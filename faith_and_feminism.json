@@ -6,6 +6,34 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "623d3c6e-ff7d-4079-a98d-933ef577a875",
+      "title": "Rage Prayers",
+      "description": "I was hopeful we would be celebrating the election of our first woman president, instead, we are grieving the election of a fascist. I am devastated and this podcast with Rev. Elizabeth Riley on rage prayers seems a way forward.",
+      "release": "2024-11-07T15:45:00Z",
+      "duration": "01:03:41.0040000",
+      "explicit": false,
+      "spotifyId": "5U4Uvtk1b2oC74pyTNNzy3",
+      "appleId": 1000676085352,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5U4Uvtk1b2oC74pyTNNzy3",
+        "apple": "https://podcasts.apple.com/podcast/rage-prayers/id1438368947?i=1000676085352"
+      }
+    },
+    {
+      "id": "d7a485be-86fd-4a7d-8ab5-5f3cb9387694",
+      "title": "Faithful Politics",
+      "description": "Dr. Miranda Zapor Cruz guides us in forming a vision of citizenship that brings Christian convictions into political engagement while avoiding common pitfalls.",
+      "release": "2024-11-04T22:11:00Z",
+      "duration": "01:14:12",
+      "explicit": false,
+      "spotifyId": "5WxnWSxVxnLwalpy5EDZY4",
+      "appleId": 1000675681284,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5WxnWSxVxnLwalpy5EDZY4",
+        "apple": "https://podcasts.apple.com/podcast/faithful-politics/id1438368947?i=1000675681284"
+      }
+    },
+    {
       "id": "70b25125-e359-4ab8-b288-62aff5076917",
       "title": "The Growing Gender Gap: Part 2",
       "description": "Dr. Brendan Kwiatkowski, founder of Re:Masculine, talks to us about the growing political gender gap between young men and women.",
