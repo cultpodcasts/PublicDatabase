@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "60746912-ff20-427e-9964-ea04697b50f1",
+  "name": "The Commonweal Podcast",
+  "spotifyId": "0xFtZDPqdRnzj37m9beTU4",
+  "appleId": 1436418164,
+  "episodes": [
+    {
+      "id": "25ea3eb8-a1fd-4a5e-b6bf-82f1d0dd4902",
+      "title": "Ep. 141 - Follow the Money",
+      "description": "The invitation-only Catholic prelature known as Opus Dei, founded in Spain in 1927 by the recently canonized priest Josemar\u00EDa Escriv\u00E1, currently counts just around 3,000 members in the United States. Yet its influence, especially among rightwing Catholics who occupy significant posts in Washington, is vast. On this episode, editor Dominic Preziosi speaks with financial journalist Gareth Gore, author of the new book Opus: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church . Relying on bank records and the testimony of whistleblowers, Gore demystifies the secretive world of Opus Dei, showing how it has recruited powerful individuals and harmed vulnerable ones in its quest for political sway. For further reading: Daniele Palmer on Opus Dei\u2019s \u2018ordinary secularity\u2019 George Scialabba reviews Opus for The Baffler",
+      "release": "2024-11-14T22:08:18Z",
+      "duration": "00:27:29.0310000",
+      "explicit": false,
+      "spotifyId": "5NaawRbg2RxNOftpKdQept",
+      "appleId": 1000677011705,
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5NaawRbg2RxNOftpKdQept",
+        "apple": "https://podcasts.apple.com/podcast/ep-141-follow-the-money/id1436418164?i=1000677011705"
+      }
+    }
+  ]
+}

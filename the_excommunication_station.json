@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "1e16270e-f2af-4a24-b5b5-ddce1068a5b9",
+      "title": "180. McGee And Me: Part I",
+      "description": "Today we dive into the classic christian straight to vhs kids show, McGee And Me.",
+      "release": "2024-11-13T07:00:00Z",
+      "duration": "02:06:48.8680000",
+      "explicit": true,
+      "spotifyId": "1YWepw00kwFgqfDcYl6WOt",
+      "appleId": 1000676763834,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1YWepw00kwFgqfDcYl6WOt",
+        "apple": "https://podcasts.apple.com/podcast/180-mcgee-and-me-part-i/id1573190999?i=1000676763834"
+      }
+    },
+    {
       "id": "f596a064-04b5-4870-b72b-3293a5229eb4",
       "title": "179. The Bible Riots With Go Home Bible You\u0027re Drunk",
       "description": "This week, we are joined by Tori and Justin of Go Home Bible Your\u0027re Drunk and we talked about the Bible Riots or Nativist Riots Of 1844 in Philadelphia, Pa.",

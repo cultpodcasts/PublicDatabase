@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCE6tvTcszoJ8WxQnZnXBLGA",
   "episodes": [
     {
+      "id": "686a4ed5-fb8c-4123-8b84-cca3cf8d8e4b",
+      "title": "The Toxic Legacy of Christian Fundamentalism (Interview w/Preacher Boys Pod)",
+      "release": "2024-11-15T19:05:59Z",
+      "duration": "01:29:18",
+      "explicit": false,
+      "youTubeId": "2Tku8lHMgUQ",
+      "subjects": [
+        "Independent Fundamentalist Baptist",
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2Tku8lHMgUQ"
+      }
+    },
+    {
+      "id": "a954a664-c88c-4360-bafd-0c62a1d0ee5c",
+      "title": "Helping People Struggling After Hurricane Helene",
+      "release": "2024-11-11T22:22:04Z",
+      "duration": "00:29:00",
+      "explicit": false,
+      "youTubeId": "PbeWeokZ5kU",
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PbeWeokZ5kU"
+      }
+    },
+    {
       "id": "12958bb1-d20a-44b0-9036-407c81582a55",
       "title": "Confused Witch Raises a Ghost for King Saul (The Ghost Gives Him Bad News)",
       "release": "2024-11-01T23:46:51Z",

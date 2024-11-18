@@ -6,6 +6,34 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "16e3f764-83fe-4d98-bfbc-d05bddc5b829",
+      "title": "Chemtrails Season 9 Episode 4",
+      "description": "It\u0027s time to open up the conspiracy jar and slather that bread to make a nice juicy sandwich.",
+      "release": "2024-11-14T21:57:40Z",
+      "duration": "00:47:11",
+      "explicit": false,
+      "spotifyId": "00hKLVDftptluqZmaF8Iku",
+      "appleId": 1000677010377,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/00hKLVDftptluqZmaF8Iku",
+        "apple": "https://podcasts.apple.com/podcast/chemtrails-season-9-episode-4/id1565633523?i=1000677010377"
+      }
+    },
+    {
+      "id": "4aa94220-223e-4ac5-bcf0-6be382e98300",
+      "title": "Season 9 Episode 3 Lewis Carroll",
+      "description": "Thor takes us through the life of Lewis Carroll.",
+      "release": "2024-11-11T03:52:37Z",
+      "duration": "00:52:17.8750000",
+      "explicit": false,
+      "spotifyId": "1G4lrlFeAqX6qKZ2PCFtbN",
+      "appleId": 1000676426633,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1G4lrlFeAqX6qKZ2PCFtbN",
+        "apple": "https://podcasts.apple.com/podcast/season-9-episode-3-lewis-carroll/id1565633523?i=1000676426633"
+      }
+    },
+    {
       "id": "cd7bc9fc-a366-4fe1-9029-542e912138e1",
       "title": "Season 9 Episode 2 John Titer (Time Bandits)",
       "description": "Nathan teaches us all about time travel with the IBM Time Machine.",

@@ -1,11 +1,101 @@
 {
   "_ts": 0,
   "id": "b2e6e409-96be-47de-98ed-d07a92222fdb",
-  "name": "Exposing Scientology",
+  "name": "Mike Rinder",
   "spotifyId": "1z69UUbJuSbN1RJSNnWQ8v",
   "appleId": 1714019520,
   "youTubeChannelId": "UCbMBYQbOSKN7MjvGGpYiiKg",
   "episodes": [
+    {
+      "id": "60b9e861-fa1a-4842-b463-03e2c05c00b6",
+      "title": "Update from Mike Rinder, Part 3 - Graham Berry",
+      "description": "Update from Mike Rinder\nPart 3 - Graham Berry",
+      "release": "2024-11-13T00:00:19Z",
+      "duration": "00:10:39",
+      "explicit": false,
+      "youTubeId": "VZMqqdIywdg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VZMqqdIywdg"
+      }
+    },
+    {
+      "id": "90d12d41-16c3-4e10-85c1-febb5fb07174",
+      "title": "Update from Mike Rinder - Part 1",
+      "description": "Update from Mike Rinder - Part 1\nMike shares a health update and more.",
+      "release": "2024-11-13T00:00:09Z",
+      "duration": "00:21:52",
+      "explicit": false,
+      "youTubeId": "BZtoby6ojPM",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BZtoby6ojPM"
+      }
+    },
+    {
+      "id": "204fdefa-2880-49e6-bc21-8f9af48d5193",
+      "title": "Update from Mike Rinder, Part 4 - \u0026quot;No Cancer\u0026quot;",
+      "description": "Update from Mike Rinder\nPart 4 - \u0022No Cancer\u0022",
+      "release": "2024-11-13T00:00:09Z",
+      "duration": "00:12:41",
+      "explicit": false,
+      "youTubeId": "B2YZzFYaF9I",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=B2YZzFYaF9I"
+      }
+    },
+    {
+      "id": "78795e93-d7fb-4399-a3d3-e99710430f92",
+      "title": "Update from Mike Rinder, Part 6 - Leah Remini",
+      "description": "Update from Mike Rinder\nPart 6 - Leah Remini",
+      "release": "2024-11-13T00:00:09Z",
+      "duration": "00:17:54",
+      "explicit": false,
+      "youTubeId": "GbAfJ9BcP2k",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GbAfJ9BcP2k"
+      }
+    },
+    {
+      "id": "c31f519f-1078-4b61-831c-f7a50b4210c7",
+      "title": "Update from Mike Rinder, Part 7 - Conclusion",
+      "description": "Update from Mike Rinder\nPart 7 - Conclusion",
+      "release": "2024-11-13T00:00:03Z",
+      "duration": "00:08:45",
+      "explicit": false,
+      "youTubeId": "29jnjvyuT-4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=29jnjvyuT-4"
+      }
+    },
+    {
+      "id": "c6348227-4dc6-4229-897d-611e20fc45b8",
+      "title": "Update from Mike Rinder, Part5 - Bryan Kent",
+      "description": "Update from Mike Rinder \nPart 5 - Bryan Kent",
+      "release": "2024-11-13T00:00:01Z",
+      "duration": "00:16:57",
+      "explicit": false,
+      "youTubeId": "1fAjlGYAKxg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1fAjlGYAKxg"
+      }
+    },
     {
       "id": "2e3800f5-78ca-44d2-9dbe-bf668700d480",
       "title": "Brendan Tighe, A \u0026quot;Young Sea Org Member\u0026quot;",

@@ -6,6 +6,23 @@
   "appleId": 1513489117,
   "episodes": [
     {
+      "id": "896e7849-85fb-45dc-9900-89cdcac17e41",
+      "title": "The Little Intercessor",
+      "description": "When Ruth told Art Lucier that she was leaving the Harvest for good, she thought God would strike her down with lighting. On this episode, Ruth tells us about playing a notable role in Art Lucier\u2019s earliest days of ministry, and how this experienced influenced her life and faith journey. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-11-11T11:00:24Z",
+      "duration": "00:48:31.0330000",
+      "explicit": false,
+      "spotifyId": "7sqxXDpozMwDc4OVHpPC9V",
+      "appleId": 1000675529123,
+      "subjects": [
+        "Harvest Ministries International"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7sqxXDpozMwDc4OVHpPC9V",
+        "apple": "https://podcasts.apple.com/podcast/the-little-intercessor/id1513489117?i=1000675529123"
+      }
+    },
+    {
       "id": "cabfe77e-23fc-488b-98b1-c23efb996b4f",
       "title": "The Eagles\u0027 Nest",
       "description": "Kelowna, British Columbia, has been a hotbed of Charismatic activity, for decades. But what changed when Art Lucier and The Harvest came to town\u2013? How has Charismatic Christianity changed? On this episode: faith, prophecy, \u0026 US politics. \n Hosted on Acast. See acast.com/privacy for more information.",
@@ -14,6 +31,9 @@
       "explicit": false,
       "spotifyId": "23At0XMT4wWLUloHD76fBH",
       "appleId": 1000674636910,
+      "subjects": [
+        "Harvest Ministries International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23At0XMT4wWLUloHD76fBH",
         "apple": "https://podcasts.apple.com/podcast/the-eagles-nest/id1513489117?i=1000674636910"
@@ -28,6 +48,9 @@
       "explicit": false,
       "spotifyId": "0E1xVwAfKmW8UxP4BdacPO",
       "appleId": 1000673773552,
+      "subjects": [
+        "Harvest Ministries International"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0E1xVwAfKmW8UxP4BdacPO",
         "apple": "https://podcasts.apple.com/podcast/kitimat-harvest-church/id1513489117?i=1000673773552"

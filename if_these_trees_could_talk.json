@@ -1,0 +1,48 @@
+{
+  "_ts": 0,
+  "id": "01f386aa-8ee9-40f4-a05a-c32e4458d0aa",
+  "name": "If These Trees Could Talk",
+  "spotifyId": "42CPwITOvs3ESsZ9yE0gy4",
+  "appleId": 1756639460,
+  "youTubeChannelId": "UCvlU_Arla0IFj2f9Tpi9FEw",
+  "episodes": [
+    {
+      "id": "6f3e9c68-4f1a-4d47-8867-2fb3249f1855",
+      "title": "Anne Hamilton-Byrne and The Family - Part 2",
+      "description": "This episode is the second part of the story about The Family. We learn about the incredible survivors and cycle breakers of the Australian cult, ran by Anne-Hamilton Byrne.",
+      "release": "2024-11-09T20:31:05Z",
+      "duration": "01:07:35.4800000",
+      "explicit": true,
+      "spotifyId": "6k7r0bS4of3IWL3GZvl9Qj",
+      "appleId": 1000676328509,
+      "youTubeId": "AEOAX8BHPp8",
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6k7r0bS4of3IWL3GZvl9Qj",
+        "apple": "https://podcasts.apple.com/podcast/anne-hamilton-byrne-and-the-family-part-2/id1756639460?i=1000676328509",
+        "youtube": "https://www.youtube.com/watch?v=AEOAX8BHPp8"
+      }
+    },
+    {
+      "id": "42490879-94a3-4d0b-bf58-7bba326ac2fb",
+      "title": "Anne Hamilton-Byrne and The Family | Part 1",
+      "description": "This episode is Part 1 of a glimpse inside of the Australian cult called The Family. We will take a look into the early life of Anne Hamilton-Byrne and the foundation of the cult.",
+      "release": "2024-10-26T19:28:54Z",
+      "duration": "00:55:16",
+      "explicit": false,
+      "spotifyId": "2MTd9iDFCiuGrKu3KX7bpx",
+      "appleId": 1000674567065,
+      "youTubeId": "lMpX7-R3mUY",
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2MTd9iDFCiuGrKu3KX7bpx",
+        "apple": "https://podcasts.apple.com/podcast/anne-hamilton-byrne-and-the-family-part-1/id1756639460?i=1000674567065",
+        "youtube": "https://www.youtube.com/watch?v=lMpX7-R3mUY"
+      }
+    }
+  ]
+}

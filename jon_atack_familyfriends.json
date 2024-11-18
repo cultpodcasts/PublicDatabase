@@ -7,18 +7,43 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "1fe2a921-32fe-42db-9ceb-7afeccc5368a",
+      "title": "cyber security and thought reform with Dustin Rozario Steinhagen, PhD",
+      "description": "As a member of Dustin\u0027s PhD committee, Jon became familiar with his research into public awareness of psychological manipulation. Dustin describes the motivation for his work and the survey he used to estimate public understanding of manipulation. This breakthrough research will hopefully encourage other graduate students to work in this vastly under-researched area.\n\nLinks:\nDustin\u0027s dissertation: https://scholar.dsu.edu/theses/465/ \n\nThe article Dustin mentions about the catfishing victim: https://gizmodo.com/catfish-victim-allegedly-planned-to-kill-mother-to-get-1828330494",
+      "release": "2024-11-16T15:34:00Z",
+      "duration": "01:47:32",
+      "explicit": false,
+      "spotifyId": "5mE1GPpFm8r5zGpHmw57VY",
+      "appleId": 1000677189774,
+      "youTubeId": "BrVxupKEQa0",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5mE1GPpFm8r5zGpHmw57VY",
+        "apple": "https://podcasts.apple.com/podcast/cyber-security-and-thought-reform-with-dustin/id1534364303?i=1000677189774",
+        "youtube": "https://www.youtube.com/watch?v=BrVxupKEQa0"
+      }
+    },
+    {
       "id": "a0ecd374-edbf-4cc0-9ef2-c55c7224eab7",
       "title": "magical thinking with Hoyt Richards",
       "description": "Hoyt shares his experience as a long term member of a group with a base in astrology. He was recruited at age 16. He studied at Princeton University and became internationally successful but stayed in the group for 20 years. Why do we accept conspiracy theories and magical ideas? To what extent do limitations in perception and interpretation inhibit our reasoning. A discussion about authority, certainty and authenticity.\n\nLinks:\n\nA Painful Reminder: https://youtu.be/Hqq5YCFGInQ?si=hlM8td_hCE5pIkKm\n\nFor more on the \u0022Angel and Devil on the Shoulder\u0022 trope:\nhttps://tvtropes.org/pmwiki/pmwiki.php/Main/GoodAngelBadAngel",
       "release": "2024-11-09T07:00:15Z",
       "duration": "01:06:35",
       "explicit": false,
+      "spotifyId": "3gq77oKXx5ttXx57B55AQO",
+      "appleId": 1000676334846,
       "youTubeId": "LtJdASs77Zk",
       "subjects": [
+        "Eternal Values",
         "Cult Psychology",
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3gq77oKXx5ttXx57B55AQO",
+        "apple": "https://podcasts.apple.com/podcast/magical-thinking-with-hoyt-richards/id1534364303?i=1000676334846",
         "youtube": "https://www.youtube.com/watch?v=LtJdASs77Zk"
       }
     },
@@ -2090,7 +2115,8 @@
       "subjects": [
         "Bhagwan Shree Rajneesh",
         "Centrepoint",
-        "Agama Yoga"
+        "Agama Yoga",
+        "Gloriavale"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4w3inUYAsZpJDOETxokWr4",
@@ -6595,11 +6621,7 @@
       "youTubeId": "p4dTJguRPds",
       "subjects": [
         "Qanon",
-        "Cult Psychology",
-        "Cult-Expert",
-        "Bhagwan Shree Rajneesh",
-        "Centrepoint",
-        "Agama Yoga"
+        "Cult Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=p4dTJguRPds"
@@ -7240,7 +7262,7 @@
       "youTubeId": "qHyDB1nEI6o",
       "subjects": [
         "Cult Psychology",
-        "The Circle of Friends"
+        "Cult Recovery"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=qHyDB1nEI6o"

@@ -15,12 +15,14 @@
       "explicit": false,
       "spotifyId": "25IVXlDl6PdEneSaMP9m18",
       "appleId": 1000671648656,
+      "youTubeId": "t0yiDMcJdEI",
       "subjects": [
         "Apollo Quiboloy"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/25IVXlDl6PdEneSaMP9m18",
-        "apple": "https://podcasts.apple.com/podcast/part-two-apollo-quiboloy-the-jeffrey-epstein/id1373812661?i=1000671648656"
+        "apple": "https://podcasts.apple.com/podcast/part-two-apollo-quiboloy-the-jeffrey-epstein/id1373812661?i=1000671648656",
+        "youtube": "https://www.youtube.com/watch?v=t0yiDMcJdEI"
       }
     },
     {

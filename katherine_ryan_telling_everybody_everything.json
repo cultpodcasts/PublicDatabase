@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "813fe6bd-d23b-4901-84d3-64276f3d01f8",
+  "name": "Katherine Ryan: Telling Everybody Everything",
+  "spotifyId": "5nJSygNrpIQRUAMvFhB2YO",
+  "appleId": 1507148315,
+  "episodes": [
+    {
+      "id": "1458506a-fa85-4c16-821d-f9280e319cc8",
+      "title": "My Neighbour Is In a Cult",
+      "description": "Your letters on whether or not to warn a company that their employee may be luring vulnerable clients INTO A CULT.",
+      "release": "2024-11-14T12:01:48Z",
+      "duration": "00:44:37.8380000",
+      "explicit": true,
+      "spotifyId": "0UtyzSj8cImMEpT0utYSfH",
+      "appleId": 1000676945891,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0UtyzSj8cImMEpT0utYSfH",
+        "apple": "https://podcasts.apple.com/podcast/my-neighbour-is-in-a-cult/id1507148315?i=1000676945891"
+      }
+    }
+  ]
+}

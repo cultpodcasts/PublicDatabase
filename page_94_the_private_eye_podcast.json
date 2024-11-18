@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "9223c406-3f18-4c11-a9f1-9fd653031bdc",
+  "name": "Page 94: The Private Eye Podcast",
+  "spotifyId": "18WkQ0uqjsIvx4Ds2sHt9L",
+  "appleId": 973958702,
+  "youTubeChannelId": "UCAhOxYhm7uO0j-W8ubTTweQ",
+  "episodes": [
+    {
+      "id": "89823ae6-3565-49f3-948d-d427be5b9428",
+      "title": "126: MAGA, monarchy and Welby\u2019s woes",
+      "description": "Francis Wheen joins the team to talk about Justin Welby\u2019s involvement in a historic child abuse scandal.",
+      "release": "2024-11-12T17:13:00Z",
+      "duration": "00:40:44.1730000",
+      "explicit": false,
+      "spotifyId": "4QsB8TH6K3gp25yeW2IXdl",
+      "appleId": 1000676684038,
+      "youTubeId": "ytNcFG0XFPw",
+      "subjects": [
+        "Church Of England"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4QsB8TH6K3gp25yeW2IXdl",
+        "apple": "https://podcasts.apple.com/podcast/maga-monarchy-and-welbys-woes/id973958702?i=1000676684038",
+        "youtube": "https://www.youtube.com/watch?v=ytNcFG0XFPw"
+      }
+    }
+  ]
+}
