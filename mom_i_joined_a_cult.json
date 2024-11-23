@@ -1,10 +1,24 @@
 {
   "_ts": 0,
   "id": "25108948-1687-4186-9617-3b47ac00044a",
-  "name": "Mom I Joined a Cult",
+  "name": "The Nice Cult Presents",
   "spotifyId": "4ALQPCNu2QLsDCXEhsYTzh",
   "appleId": 1565633523,
   "episodes": [
+    {
+      "id": "777ddf81-11c3-46f9-b613-5616ad26d6d8",
+      "title": "Denver International Airport - Season 9 Episode 5",
+      "description": "Nathan takes us through strange things associated with the DIA. We spend a lot of time talking about aliens and airports",
+      "release": "2024-11-22T01:27:33Z",
+      "duration": "00:57:20.8950000",
+      "explicit": false,
+      "spotifyId": "70NXtRjCsTImMJRn6v2VHH",
+      "appleId": 1000677847663,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/70NXtRjCsTImMJRn6v2VHH",
+        "apple": "https://podcasts.apple.com/podcast/denver-international-airport-season-9-episode-5/id1565633523?i=1000677847663"
+      }
+    },
     {
       "id": "16e3f764-83fe-4d98-bfbc-d05bddc5b829",
       "title": "Chemtrails Season 9 Episode 4",

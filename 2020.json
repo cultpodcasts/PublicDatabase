@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "0400d6f3-ab0a-48ef-8fc8-89a27a62b11e",
+  "name": "20/20",
+  "spotifyId": "3ghsL8CzhRaJv0qzREZ9nU",
+  "appleId": 987967575,
+  "episodes": [
+    {
+      "id": "2ea0eac1-c03d-42a2-9aef-f32ea0406007",
+      "title": "True Crime Vault: The Cult Next Door: The Mystery and Madness of Heaven\u0027s Gate",
+      "description": "Decoding the mysteries behind Heaven\u0027s Gate cult; survivors speak for first time. Originally aired 3/11/22 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-11-20T08:00:00Z",
+      "duration": "01:25:24.1010000",
+      "explicit": false,
+      "spotifyId": "4ftssfQKol6bFfXRuFYFW7",
+      "appleId": 1000677593415,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ftssfQKol6bFfXRuFYFW7",
+        "apple": "https://podcasts.apple.com/podcast/true-crime-vault-the-cult-next-door-the-mystery/id987967575?i=1000677593415"
+      }
+    }
+  ]
+}

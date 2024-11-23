@@ -15,12 +15,14 @@
       "explicit": true,
       "spotifyId": "0aDpVjiA7AfDS3NbKay4Re",
       "appleId": 1000677221184,
+      "youTubeId": "fPljbpv2Pw4",
       "subjects": [
         "House of Yahweh"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0aDpVjiA7AfDS3NbKay4Re",
-        "apple": "https://podcasts.apple.com/podcast/ep-40-shattered-faith-harrys-escape-from-the-house-of-yahweh/id1744145655?i=1000677221184"
+        "apple": "https://podcasts.apple.com/podcast/ep-40-shattered-faith-harrys-escape-from-the-house-of-yahweh/id1744145655?i=1000677221184",
+        "youtube": "https://www.youtube.com/watch?v=fPljbpv2Pw4"
       }
     },
     {

@@ -6,6 +6,22 @@
   "appleId": 1712148990,
   "episodes": [
     {
+      "id": "d01e47cc-d388-421f-a6a4-f3f483efd7e3",
+      "title": "Body and Brain: A Shooting Star to Nick Cage Rushmore",
+      "release": "2024-11-20T11:30:00Z",
+      "duration": "00:52:22",
+      "explicit": false,
+      "spotifyId": "3jCudg66JFaGqKyccpl6Dy",
+      "appleId": 1000677617561,
+      "subjects": [
+        "Body \u0026 Brain"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3jCudg66JFaGqKyccpl6Dy",
+        "apple": "https://podcasts.apple.com/podcast/body-and-brain-a-shooting-star-to-nick-cage-rushmore/id1712148990?i=1000677617561"
+      }
+    },
+    {
       "id": "ee4f5ab5-d2bb-47dd-a256-e084c47c3fc5",
       "title": "Ma Jaya Bhagavati and The Stigmata Diet",
       "release": "2024-11-13T07:09:40Z",

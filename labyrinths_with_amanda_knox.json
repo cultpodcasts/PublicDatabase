@@ -15,13 +15,15 @@
       "explicit": false,
       "spotifyId": "0O7NW4yupu0aPfiqkll7ny",
       "appleId": 1000675766729,
+      "youTubeId": "GJMOMnRhRR8",
       "subjects": [
         "NXIVM",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0O7NW4yupu0aPfiqkll7ny",
-        "apple": "https://podcasts.apple.com/podcast/105-out-and-awake/id1494368441?i=1000675766729"
+        "apple": "https://podcasts.apple.com/podcast/105-out-and-awake/id1494368441?i=1000675766729",
+        "youtube": "https://www.youtube.com/watch?v=GJMOMnRhRR8"
       }
     },
     {

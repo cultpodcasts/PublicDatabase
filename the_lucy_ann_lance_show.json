@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "37ec239e-8fad-4905-a001-934df7cbd63b",
+  "name": "The Lucy Ann Lance Show",
+  "spotifyId": "5mvMhqoQ1GKdeMVzOm1L0E",
+  "appleId": 1747985760,
+  "episodes": [
+    {
+      "id": "f2da6231-6b93-46a3-ba8e-c847f83cd503",
+      "title": "Frank Rubino ~ On The Couch - The Lure of Cults",
+      "description": "November 20, 2024 ~ Lucy Ann Lance talks with Psychotherapist Frank Rubino for this week\u0027s On The Couch. Frank and Lucy Ann examine cults, using the Jonestown Massacre led by Jim Jones to show how charismatic leaders exploit those seeking connection by offering inclusive ideologies. Psychotherapist Frank Rubino draws parallels between historical cults and modern movements like \u201CBlue Anon,\u201D highlighting the ongoing appeal of leaders promising salvation amid societal paranoia. The discussion criticizes divisive rhetoric and stresses the need for national unity, advocating love and acceptance to counteract the fear and isolation tactics of manipulative leaders.",
+      "release": "2024-11-20T15:17:10Z",
+      "duration": "00:10:38",
+      "explicit": false,
+      "spotifyId": "12l4SyIzACvRQg1O9oi3mA",
+      "appleId": 1000677645630,
+      "subjects": [
+        "Peoples Temple",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/12l4SyIzACvRQg1O9oi3mA",
+        "apple": "https://podcasts.apple.com/podcast/frank-rubino-on-the-couch-the-lure-of-cults/id1747985760?i=1000677645630"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "e371f1b6-248d-464e-8e64-fe1655e441ce",
+  "name": "Good Morning Thailand",
+  "spotifyId": "4GDKr3CfBkLxuHMOocKftQ",
+  "appleId": 1592644853,
+  "episodes": [
+    {
+      "id": "8122e85e-ec69-468b-9847-8d561cef5714",
+      "title": "Good Morning Thailand EP.772 | Egyptian Tourist Arrested for Sexual Assault in Bangkok Condo Lift \u0026 More..",
+      "description": "A dozen corpses found in questionable circumstances at a cult compound",
+      "release": "2024-11-22T03:48:44Z",
+      "duration": "00:19:23",
+      "explicit": false,
+      "spotifyId": "7cctG4jvlGXAordRat494u",
+      "appleId": 1000677854886,
+      "subjects": [
+        "Siri Chan Forest Monastery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7cctG4jvlGXAordRat494u",
+        "apple": "https://podcasts.apple.com/podcast/good-morning-thailand-ep-772-egyptian-tourist-arrested/id1592644853?i=1000677854886"
+      }
+    }
+  ]
+}

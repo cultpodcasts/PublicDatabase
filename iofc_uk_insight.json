@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "354aed3f-a16b-485e-ba68-dd8d69d6a737",
+  "name": "IofC UK Insight",
+  "spotifyId": "0oIXO9yN5VaijXksexCc04",
+  "appleId": 1599064937,
+  "episodes": [
+    {
+      "id": "f1bbfd74-fb90-4614-aa91-cac1bbd65a22",
+      "title": "A Very Simple Secret",
+      "description": "Join us for a conversation with Judi Conner, former BBC Television journalist and author of the new book A Very Simple Secret: My Parents, Their Mission to Change the World, and Me. \n\nIn this episode, Judi shares a unique perspective on the history of Moral Re-Armament (MRA), now Initiatives of Change (IofC), weaving personal stories, historical insights, and reflections on its cultural legacy.\n\nWe explore her experiences growing up in a family dedicated to MRA\u2019s mission of personal and societal transformation, life at their Swiss Alps headquarters in Caux, and the movement\u2019s values of integrity and purpose. Judi also addresses the controversial question: was MRA a cult?\n\nJoin us as Judi Conner sheds light on a movement with a long legacy of moral and societal transformation, offering a personal glimpse into growing up in a family dedicated to changing the world. Stay tuned for more inspiring stories from Initiatives of Change, and don\u2019t forget to subscribe and leave a review if you enjoyed the show!",
+      "release": "2024-11-21T10:25:41Z",
+      "duration": "00:38:16",
+      "explicit": false,
+      "spotifyId": "1QE6XzG0eopSXVcQT9Xpw2",
+      "appleId": 1000677764796,
+      "subjects": [
+        "Moral Re-Armament"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QE6XzG0eopSXVcQT9Xpw2",
+        "apple": "https://podcasts.apple.com/podcast/a-very-simple-secret/id1599064937?i=1000677764796"
+      }
+    }
+  ]
+}

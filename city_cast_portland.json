@@ -4,7 +4,28 @@
   "name": "City Cast Portland",
   "spotifyId": "3n4tIUHguXmzdWTNDL2hX5",
   "appleId": 1655458573,
+  "youTubeChannelId": "UCwbJK1Av1qBggskpz74gw-g",
   "episodes": [
+    {
+      "id": "f721349a-1162-4fd2-a2d4-d95af528ef75",
+      "title": "Oregon\u2019s Strange Relationship With Cults",
+      "description": "Oregon has a reputation in popular culture for its long and weird history with cults. Whether it was for the cheap abundant land, mystic moody vibes, or just the lack of competition from organized religion, many groups have come to our state and set up new eyebrow-raising belief systems. Today, we\u2019re talking with Kick Ass Oregon History podcast host Doug Kenck-Crispin about the impact of a few of our state\u2019s most notorious cults \u2013 and even one group that exists today. Mentioned in today\u2019s episode: Eden Within Eden: Oregon\u0027s Utopian Heritage by James J. Kopp Wild Wild Country The TwinRay Mystery: A Spiritual Group in Ashland Raises Eyebrows and Worries [OPB] Become a member of City Cast Portland today! Get all the details and sign up here. Who would you like to hear on City Cast Portland? Shoot us an email at portland@citycast.fm , or leave us a voicemail at 503-208-5448. Want more Portland news? Then make sure to sign up for our morning newsletter, Hey Portland , and be sure to follow us on Instagram . Looking to advertise on City Cast Portland? Check out our options for podcast and newsletter ads at citycast.fm/advertise . Learn more about the sponsors of this November 21st episode: Forrit Credit Union Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-11-21T11:00:00Z",
+      "duration": "00:25:33.2570000",
+      "explicit": false,
+      "spotifyId": "2JfRe0iT8JSVYrfSrLobKD",
+      "appleId": 1000677760902,
+      "youTubeId": "VeAExqLMjDg",
+      "subjects": [
+        "Bhagwan Shree Rajneesh",
+        "TwinRay"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2JfRe0iT8JSVYrfSrLobKD",
+        "apple": "https://podcasts.apple.com/podcast/oregons-strange-relationship-with-cults/id1655458573?i=1000677760902",
+        "youtube": "https://www.youtube.com/watch?v=VeAExqLMjDg"
+      }
+    },
     {
       "id": "888de091-3006-4854-b224-605c76a05a92",
       "title": "Oregon\u2019s Latest Eyebrow-Raising Spirituality Group",

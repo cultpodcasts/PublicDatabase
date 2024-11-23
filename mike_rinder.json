@@ -7,6 +7,21 @@
   "youTubeChannelId": "UCbMBYQbOSKN7MjvGGpYiiKg",
   "episodes": [
     {
+      "id": "a3885f10-80ce-45c9-b3cf-7f9cd49e4f6f",
+      "title": "Update from Mike Rinder: Thank you",
+      "description": "Thank you to everybody who has reached out.",
+      "release": "2024-11-17T22:14:56Z",
+      "duration": "00:03:39",
+      "explicit": false,
+      "youTubeId": "JjmvUKAdSDs",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JjmvUKAdSDs"
+      }
+    },
+    {
       "id": "60b9e861-fa1a-4842-b463-03e2c05c00b6",
       "title": "Update from Mike Rinder, Part 3 - Graham Berry",
       "description": "Update from Mike Rinder\nPart 3 - Graham Berry",
@@ -472,11 +487,15 @@
       "release": "2023-10-21T21:35:54Z",
       "duration": "01:11:01",
       "explicit": false,
+      "spotifyId": "6e54j8Ok5A2l1fBXaMtmA3",
+      "appleId": 1000639066917,
       "youTubeId": "Gjtv2UYQ8UU",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6e54j8Ok5A2l1fBXaMtmA3",
+        "apple": "https://podcasts.apple.com/podcast/secret-scientology-document-fair-game-proof/id1714019520?i=1000639066917",
         "youtube": "https://www.youtube.com/watch?v=Gjtv2UYQ8UU"
       }
     },
@@ -487,11 +506,15 @@
       "release": "2023-10-21T00:48:18Z",
       "duration": "01:41:57",
       "explicit": false,
+      "spotifyId": "2ed3nG5nvrhOCbHb3KSgwS",
+      "appleId": 1000639324841,
       "youTubeId": "O9U6e8-6rMY",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2ed3nG5nvrhOCbHb3KSgwS",
+        "apple": "https://podcasts.apple.com/podcast/scientology-declares-danny-masterson-a-suppressive/id1714019520?i=1000639324841",
         "youtube": "https://www.youtube.com/watch?v=O9U6e8-6rMY"
       }
     },
@@ -502,11 +525,15 @@
       "release": "2023-10-13T23:20:27Z",
       "duration": "01:02:10",
       "explicit": false,
+      "spotifyId": "6jGV7iSg3RjnddvAm8OICN",
+      "appleId": 1000638426151,
       "youTubeId": "-f-2SKfIwu0",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6jGV7iSg3RjnddvAm8OICN",
+        "apple": "https://podcasts.apple.com/podcast/victim-is-a-dirty-word/id1714019520?i=1000638426151",
         "youtube": "https://www.youtube.com/watch?v=-f-2SKfIwu0"
       }
     },
@@ -547,11 +574,15 @@
       "release": "2023-09-27T01:07:42Z",
       "duration": "01:54:57",
       "explicit": false,
+      "spotifyId": "02KoszHfQ6DPHf40b8dUfw",
+      "appleId": 1000635672855,
       "youTubeId": "LIr8x9pplL8",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/02KoszHfQ6DPHf40b8dUfw",
+        "apple": "https://podcasts.apple.com/podcast/mike-brown-rampant-horrifying-elder-abuse-in-scientology/id1714019520?i=1000635672855",
         "youtube": "https://www.youtube.com/watch?v=LIr8x9pplL8"
       }
     },
@@ -577,11 +608,15 @@
       "release": "2023-09-14T01:51:29Z",
       "duration": "01:06:48",
       "explicit": false,
+      "spotifyId": "7lNPIRhJNqqvFmvwiJjMcb",
+      "appleId": 1000633914103,
       "youTubeId": "rBoI50dyUU8",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7lNPIRhJNqqvFmvwiJjMcb",
+        "apple": "https://podcasts.apple.com/podcast/how-scientology-covers-up-crimes/id1714019520?i=1000633914103",
         "youtube": "https://www.youtube.com/watch?v=rBoI50dyUU8"
       }
     },
@@ -592,11 +627,15 @@
       "release": "2023-09-08T00:44:13Z",
       "duration": "01:06:25",
       "explicit": false,
+      "spotifyId": "2iCsdAE6eeUHydNmY6Ni8v",
+      "appleId": 1000632899138,
       "youTubeId": "1nihRITAf8w",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2iCsdAE6eeUHydNmY6Ni8v",
+        "apple": "https://podcasts.apple.com/podcast/leah-mike-talk-masterson-verdict/id1714019520?i=1000632899138",
         "youtube": "https://www.youtube.com/watch?v=1nihRITAf8w"
       }
     },
@@ -607,11 +646,15 @@
       "release": "2023-09-07T11:21:50Z",
       "duration": "01:04:15",
       "explicit": false,
+      "spotifyId": "5UgHtbgoyzkMZpD7VW1LdI",
+      "appleId": 1000632889575,
       "youTubeId": "Zn_1ougJqTI",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5UgHtbgoyzkMZpD7VW1LdI",
+        "apple": "https://podcasts.apple.com/podcast/leah-mike-are-back/id1714019520?i=1000632889575",
         "youtube": "https://www.youtube.com/watch?v=Zn_1ougJqTI"
       }
     },

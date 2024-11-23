@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "5c3f7602-7f9c-4e48-a7ae-43acf9b1dfe5",
+  "name": "Oscar Hottakes",
+  "youTubeChannelId": "UCA65Gc9PTNYAGrMGu_EtBRA",
+  "episodes": [
+    {
+      "id": "8e005bf3-1b6c-48bd-8136-47f9f7a9443b",
+      "title": "End times",
+      "release": "2013-05-11T23:06:19Z",
+      "duration": "00:02:12",
+      "explicit": false,
+      "youTubeId": "JjxYRxCkEMY",
+      "subjects": [
+        "Church of the End Times"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JjxYRxCkEMY"
+      }
+    }
+  ]
+}

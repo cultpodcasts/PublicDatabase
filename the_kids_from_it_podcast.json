@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCE6tvTcszoJ8WxQnZnXBLGA",
   "episodes": [
     {
+      "id": "248f1e65-5165-4758-9301-e05cacccc527",
+      "title": "Why Does the Christian Right Worship Someone So Wrong",
+      "release": "2024-11-22T23:13:10Z",
+      "duration": "01:23:57",
+      "explicit": false,
+      "youTubeId": "BS-eVEl5NWo",
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BS-eVEl5NWo"
+      }
+    },
+    {
+      "id": "be8556ef-46cd-4f78-9023-a098c57e1ec9",
+      "title": "The Kids Discuss Christian Fundamentalism w/Eric Skwaycynski (Preacher Boy Podcast)",
+      "description": "@PreacherBoys joins TJ and Kayla to discuss fundy culture and influences",
+      "release": "2024-11-17T18:21:44Z",
+      "duration": "00:15:15",
+      "explicit": false,
+      "youTubeId": "dH-TG_E24LQ",
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dH-TG_E24LQ"
+      }
+    },
+    {
       "id": "686a4ed5-fb8c-4123-8b84-cca3cf8d8e4b",
       "title": "The Toxic Legacy of Christian Fundamentalism (Interview w/Preacher Boys Pod)",
       "release": "2024-11-15T19:05:59Z",

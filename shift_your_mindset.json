@@ -5,6 +5,34 @@
   "youTubeChannelId": "UCDvbvhI7ZERvBJQR6ZKLOfA",
   "episodes": [
     {
+      "id": "7652f3ef-1d24-4d5d-a871-de9579ced85b",
+      "title": "Norway reacts to WT",
+      "release": "2024-11-22T07:55:24Z",
+      "duration": "00:28:33",
+      "explicit": false,
+      "youTubeId": "k4FRvSSfx4Q",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=k4FRvSSfx4Q"
+      }
+    },
+    {
+      "id": "f07e2777-2b61-42eb-b237-61185b736dde",
+      "title": "EX (JW): Do you have pure intentions?",
+      "release": "2024-11-21T13:02:56Z",
+      "duration": "00:19:23",
+      "explicit": false,
+      "youTubeId": "v6wP9W-CpXU",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=v6wP9W-CpXU"
+      }
+    },
+    {
       "id": "c2f85848-3d3e-4681-aa9d-e5a1d8d70d2e",
       "title": "JW loose appeal in supreme Court",
       "description": "https://caselaw.findlaw.com/court/ny-supreme-court/116669237.html",

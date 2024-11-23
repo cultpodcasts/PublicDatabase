@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "9f8054a4-9cfb-419c-bf1b-1013af38cc4f",
+  "name": "Beyond the Ferns",
+  "appleId": 1767460033,
+  "episodes": [
+    {
+      "id": "6cfc738b-1802-4ba8-beb5-31c64a4a06c0",
+      "title": "The SSPX Church",
+      "release": "2024-11-20T05:00:00Z",
+      "duration": "01:10:50",
+      "explicit": false,
+      "appleId": 1000677570693,
+      "subjects": [
+        "Society of Saint Pius X",
+        "SSPX Resistance"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/09-the-sspx-church/id1767460033?i=1000677570693"
+      }
+    }
+  ]
+}

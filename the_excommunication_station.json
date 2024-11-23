@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "88d364aa-bfa6-41d3-941f-c489c3a1c271",
+      "title": "181. McGee And Me: PartII",
+      "description": "We are back in the world of mcgee and me as we break down episodes 4-9.",
+      "release": "2024-11-20T07:00:00Z",
+      "duration": "01:57:32.9820000",
+      "explicit": true,
+      "spotifyId": "1QOJTMTuMlmIPODFM8VUps",
+      "appleId": 1000677587705,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QOJTMTuMlmIPODFM8VUps",
+        "apple": "https://podcasts.apple.com/podcast/181-mcgee-and-me-partii/id1573190999?i=1000677587705"
+      }
+    },
+    {
       "id": "1e16270e-f2af-4a24-b5b5-ddce1068a5b9",
       "title": "180. McGee And Me: Part I",
       "description": "Today we dive into the classic christian straight to vhs kids show, McGee And Me.",
