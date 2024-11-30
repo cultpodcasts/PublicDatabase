@@ -1,0 +1,64 @@
+{
+  "_ts": 0,
+  "id": "8b2986fa-5f86-4b7c-b4aa-43cb54000549",
+  "name": "The Wise and The Wicked",
+  "spotifyId": "2lsKyObfNxFSocQpeglICA",
+  "appleId": 1699941279,
+  "youTubeChannelId": "UCbSAVa4BNOPPFnf35zIjl5g",
+  "episodes": [
+    {
+      "id": "2fa42d4b-42a0-41b2-84e4-057bb67fa280",
+      "title": "16. What is a cult?",
+      "description": "Welcome to Season 3 of The Wise and The Wicked. This season we are exploring cults. How do they work? Why would someone join a cult? How to cult leaders lead their followers to do things they never thought they would do? These are the questions we are looking into on this season. This episode is a little introduction to all things culty. We look at the history of cults, the structure and how someone would find themselves in cult. Become a member at https://plus.acast.com/s/the-wise-the-wicked . Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-11-23T09:52:42Z",
+      "duration": "00:27:11.3990000",
+      "explicit": false,
+      "spotifyId": "7kkk0uF6p6hpwcdVZunirS",
+      "appleId": 1000677995365,
+      "subjects": [
+        "Peoples Temple",
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7kkk0uF6p6hpwcdVZunirS",
+        "apple": "https://podcasts.apple.com/podcast/16-what-is-a-cult/id1699941279?i=1000677995365"
+      }
+    },
+    {
+      "id": "1de53d9b-64c3-4759-a5f8-5c48da7d20b5",
+      "title": "13. Ruby Franke",
+      "description": "YouTube Mommy Vlogger turned deadly. This episode covers the case of Ruby Franke and her parter Jodi Hildebrant. *TRIGGER WARNINGS* This story details crimes committed against children. Links: https://www.youtube.com/watch?v=vdL7PnmysDY\u0026list=PLoW1SIeAWaWbJRXxDp0S7jL4ONHPoWg3I\u0026index=3 https://www.youtube.com/watch?v=qAAPRVst1Ng Become a member at https://plus.acast.com/s/the-wise-the-wicked . Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-03-30T10:34:23Z",
+      "duration": "00:49:57.7600000",
+      "explicit": true,
+      "spotifyId": "7yQo9RVSXogfEgU3WAfEuu",
+      "appleId": 1000650918554,
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7yQo9RVSXogfEgU3WAfEuu",
+        "apple": "https://podcasts.apple.com/podcast/13-ruby-franke/id1699941279?i=1000650918554"
+      }
+    },
+    {
+      "id": "da8185b3-8176-471c-b653-4b64b8e3be87",
+      "title": "**PATREON TEASER** Let\u0027s Discuss: Andrew Tate",
+      "description": "This is a teaser clip of the lastest Patreon episode. This week KJ \u0026 Shu sat down and delved into the life of the controversial king himself, Andrew Tate. We looked at his early life, his upbringing, potential dzaddy issues and where he is now. \n\nI hope you enjoy. You can sign up to the Patreon today for the full episode!",
+      "release": "2024-03-24T12:27:02Z",
+      "duration": "01:53:59",
+      "explicit": false,
+      "spotifyId": "0bAVgah1pfGfNY5M7fj2Qq",
+      "appleId": 1000650255076,
+      "youTubeId": "URVpfnJjC7o",
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0bAVgah1pfGfNY5M7fj2Qq",
+        "apple": "https://podcasts.apple.com/podcast/patreon-teaser-lets-discuss-andrew-cobra-tate/id1699941279?i=1000650255076",
+        "youtube": "https://www.youtube.com/watch?v=URVpfnJjC7o"
+      }
+    }
+  ]
+}

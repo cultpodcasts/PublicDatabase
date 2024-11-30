@@ -6,6 +6,23 @@
   "appleId": 1431103327,
   "episodes": [
     {
+      "id": "57cc0281-1ca8-47e2-811e-e9a937b1e89b",
+      "title": "285: The Jaredite Voyager",
+      "description": "Email us: notsomollymormonpodcast@gmail.com Support us: patreon.com/notsomollymormon",
+      "release": "2024-11-23T00:00:00Z",
+      "duration": "00:32:43.5780000",
+      "explicit": true,
+      "spotifyId": "0w6MSlkArBMO1OHJmIdKEy",
+      "appleId": 1000678030252,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0w6MSlkArBMO1OHJmIdKEy",
+        "apple": "https://podcasts.apple.com/podcast/285-the-jaredite-voyager/id1431103327?i=1000678030252"
+      }
+    },
+    {
       "id": "66f49004-9e1a-4b4b-9237-81b0a2424a8b",
       "title": "284: The Mormon Church is Bad for Women",
       "description": "Email us: notsomollymormonpodcast@gmail.com\nSupport us: patreon.com/notsomollymormon",

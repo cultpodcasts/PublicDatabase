@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "cac56d67-c899-411f-b3fb-dad0029c6cf9",
+  "name": "In The News",
+  "spotifyId": "5LdvU3hLoVFskuROWcP39t",
+  "appleId": 1566625447,
+  "episodes": [
+    {
+      "id": "926f2973-37d4-4d0a-b22a-9ebde3c53489",
+      "title": "Why Scientology gets refugees to work for free on the streets of Dublin",
+      "description": "The Irish branch of the Church of Scientology has been going into an international protection asylum centre in Dublin and recruiting the refugees living there for all types of work, from cleaning parks to handing out anti-drug leaflets on the streets of the capital. The men are not paid, instead they are given a \u201Ccertificate\u201D which they are told will help them in their asylum applications. Many of the people strolling though Dublin who take a leaflet off one of these men will not be aware that it originates in the Church of Scientology. Irish Times reporters Sorcha Pollak and Conor Gallagher investigated this practice and they talked to some of the vulnerable men who felt taken in by the scheme. They explain to In the News. And why is Scientology \u2013 a very wealthy organisation with a tiny membership in Ireland \u2013 operating in this way? Presented by Bernice Harrison. Produced by John Casey Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-11-25T05:00:45Z",
+      "duration": "00:26:32.5550000",
+      "explicit": false,
+      "spotifyId": "6KXLiuExiMH6RbJPsYnQk9",
+      "appleId": 1000678118821,
+      "subjects": [
+        "Scientology",
+        "_Ireland"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KXLiuExiMH6RbJPsYnQk9",
+        "apple": "https://podcasts.apple.com/podcast/why-scientology-gets-refugees-to-work-for-free-on-the/id1566625447?i=1000678118821"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "9482e38e-2def-4076-a1cd-d3501a665c4a",
+  "name": "Extremes",
+  "spotifyId": "7BkK3pxARwmhw3bXEKPPsn",
+  "episodes": [
+    {
+      "id": "9e3d11a6-5e48-46da-b4ef-bacf308aa887",
+      "title": "S3E3 - A Cult\u0027s Plan for Armageddon ",
+      "description": "In 1993, a Japanese cult named Aum Shinrikyo bought a remote sheep station in Western Australia. Their purpose: to mine uranuim and build a nuclear bomb. Today, a former member describes what happened there, and how their trip to Australia allowed them to prepare for their 1995 attack on the Tokyo subway. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2021-03-16T00:00:00",
+      "duration": "00:42:19.6760000",
+      "explicit": true,
+      "spotifyId": "0661GZMinhIy6kOlMyqYSA",
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0661GZMinhIy6kOlMyqYSA"
+      }
+    },
+    {
+      "id": "88d2813b-b1a7-4a87-a2a6-67c5f4434005",
+      "title": "S2E1 - Escaping a Cult",
+      "description": "Vernon Gosney escaped Jonestown just hours before the group\u0027s 900 members were forced to take their own lives. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2020-02-27T00:00:00",
+      "duration": "00:44:26.5530000",
+      "explicit": false,
+      "spotifyId": "1uhTQi1fNkTSp6asABOz7m",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1uhTQi1fNkTSp6asABOz7m"
+      }
+    }
+  ]
+}

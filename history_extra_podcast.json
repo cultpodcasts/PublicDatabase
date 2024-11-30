@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "16d431f7-03a0-4a3d-8ccc-69ed8e5b0366",
+  "name": "History Extra podcast",
+  "spotifyId": "67EPVbpyjlDxGWsrfzdYu5",
+  "appleId": 256580326,
+  "episodes": [
+    {
+      "id": "885380d8-c7c0-42c3-9719-81a61b188284",
+      "title": "A Victorian cult: inside the strange world of the Agapemone",
+      "description": "In the 1840s, a strange, secretive community known as the Agapemonites set up camp in Spaxton, Somerset. Presided over by a rogue Anglican priest who believed he had a hotline to god, this religious cult attracted wealthy members in search of a deeper connection to the Lord. But once they had handed over their worldy possessions in order to join, the Agapemonites found it was rather harder to leave. Speaking to Ellie Cawthorne, Stuart Flinders explores their story, from triple marriages and spiritual wives, to financial exploitation and suicide. (Ad) Stuart Flinders is the author of A Very British Cult: Rogue Priests and the Abode of Love (Icon Books, 2024). Buy it now from Amazon: https://www.amazon.co.uk/Very-British-Cult-Rogue-Priests/dp/1837731470/?tag=bbchistory045-21\u0026ascsubtag=historyextra-social-histboty. Hear Stephen Talty tell the story of the 1993 Waco siege, a standoff between a religious cult and the FBI:https://link.chtbl.com/cIi5wFEw. The HistoryExtra podcast is produced by the team behind BBC History Magazine. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2024-11-27T00:00:00Z",
+      "duration": "00:32:32.2350000",
+      "explicit": false,
+      "spotifyId": "3fL8BAXkdiZR2aCGYF1R3c",
+      "appleId": 1000677651384,
+      "subjects": [
+        "Agapemonites",
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3fL8BAXkdiZR2aCGYF1R3c",
+        "apple": "https://podcasts.apple.com/podcast/a-victorian-cult-inside-the-strange-world-of-the-agapemone/id256580326?i=1000677651384"
+      }
+    }
+  ]
+}

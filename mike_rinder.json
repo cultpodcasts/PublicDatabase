@@ -7,6 +7,21 @@
   "youTubeChannelId": "UCbMBYQbOSKN7MjvGGpYiiKg",
   "episodes": [
     {
+      "id": "1543cd77-0dbc-464d-b6e0-26855502cf5e",
+      "title": "Happy Thanksgiving",
+      "description": "Happy Thanksgiving!",
+      "release": "2024-11-28T21:22:38Z",
+      "duration": "00:02:18",
+      "explicit": false,
+      "youTubeId": "u5_F34gpaqg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=u5_F34gpaqg"
+      }
+    },
+    {
       "id": "a3885f10-80ce-45c9-b3cf-7f9cd49e4f6f",
       "title": "Update from Mike Rinder: Thank you",
       "description": "Thank you to everybody who has reached out.",

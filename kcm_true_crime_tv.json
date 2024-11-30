@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "860611b9-b322-4981-a4ca-60f51631c60b",
+  "name": "KCM True Crime TV",
+  "youTubeChannelId": "UCpHNwZl0WVPWcUmsZRGF3vg",
+  "episodes": [
+    {
+      "id": "04695c46-2d71-447d-9b88-7b4e826763c7",
+      "title": "The Cult of Premananda",
+      "description": "There were some very, very nasty things going on at the Premananda Ashram in India, very nasty indeed.",
+      "release": "2024-11-29T15:00:29Z",
+      "duration": "00:05:28",
+      "explicit": false,
+      "youTubeId": "Qt375q33pPE",
+      "subjects": [
+        "Swami Premananda"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Qt375q33pPE"
+      }
+    }
+  ]
+}

@@ -72,6 +72,24 @@
         "spotify": "https://open.spotify.com/episode/2BfSSErW1iBe2FGbdSSJ1E",
         "apple": "https://podcasts.apple.com/podcast/the-music-star-who-was-born-into-a-cult/id1618960891?i=1000557369608"
       }
+    },
+    {
+      "id": "30a4fda5-51db-4c84-9afa-c6ffdcc1fb04",
+      "title": "The Supermodel who Took Down a Cult",
+      "description": "Hoyt Richards has been called the first male supermodel. In the 1980s and 90s he was jet-setting around the world doing shoots for Versace and Ralph Lauren, and moving in the same circles as stars like Cindy Crawford, Christy Turlington and Madonna. But outside of working hours he was involved with a cult called Eternal Values. They believed there would be a catastrophe at the turn of the century and the group would have a crucial role to play. So partying wasn\u0027t allowed. Image: Hoyt Richards Credit: Fabrizio Gianni",
+      "release": "2018-04-02T12:00:00Z",
+      "duration": "00:40:41.4040000",
+      "explicit": false,
+      "spotifyId": "7oKVXUSLQL0fHsgNkLzy0c",
+      "appleId": 1000651884984,
+      "subjects": [
+        "Eternal Values",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7oKVXUSLQL0fHsgNkLzy0c",
+        "apple": "https://podcasts.apple.com/podcast/the-supermodel-who-took-down-a-cult/id1618960891?i=1000651884984"
+      }
     }
   ]
 }

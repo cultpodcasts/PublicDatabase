@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "7a821e11-ada0-40f6-b37a-6a4df0c8d3ba",
+  "name": "True Crimecast",
+  "spotifyId": "2nYrc8DpwjISIUPbRlNV8o",
+  "appleId": 1307664642,
+  "youTubeChannelId": "UCac_E92krhYGNiT4_bLX0CQ",
+  "episodes": [
+    {
+      "id": "75aa8a0b-f239-4b65-8636-5b9bea20fae0",
+      "title": "The Shekinah Church Cult - Robert Shinn",
+      "description": "Today, John looks into the Shekinah church and explores its cult-like tendencies. Thanks to the spotlight created by a recent docuseries on Netflix, \u0022Dancing with the Devil,\u0022 the group is finally being looked into as serious allegations of physical, sexual, spiritual, and financial abuse come to light. Become a supporter of this podcast: https://www.spreaker.com/podcast/true-crimecast--4106013/support .",
+      "release": "2024-11-26T08:00:07Z",
+      "duration": "00:28:00.0330000",
+      "explicit": false,
+      "spotifyId": "3LEWjVW9Nf8qANETBgnHXu",
+      "appleId": 1000678261872,
+      "youTubeId": "uwYugbU3mN0",
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3LEWjVW9Nf8qANETBgnHXu",
+        "apple": "https://podcasts.apple.com/podcast/the-shekinah-church-cult-robert-shinn/id1307664642?i=1000678261872",
+        "youtube": "https://www.youtube.com/watch?v=uwYugbU3mN0"
+      }
+    }
+  ]
+}

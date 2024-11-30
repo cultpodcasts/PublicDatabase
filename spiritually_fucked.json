@@ -6,6 +6,23 @@
   "appleId": 1712148990,
   "episodes": [
     {
+      "id": "9fa05586-6883-4fa7-8324-957739e9826e",
+      "title": "Krishna Venta: Train Ho",
+      "description": "Krishna Venta was a vagabond before dedicating his life to cosplaying as Jesus and peddling a doomsday race war that would live on in infamy long after he was gone.",
+      "release": "2024-11-27T11:03:00Z",
+      "duration": "00:59:03.2200000",
+      "explicit": true,
+      "spotifyId": "0bTp759yB5kfgW0z9z80Ne",
+      "appleId": 1000678397190,
+      "subjects": [
+        "Fountain of the World"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0bTp759yB5kfgW0z9z80Ne",
+        "apple": "https://podcasts.apple.com/podcast/krishna-venta-train-ho/id1712148990?i=1000678397190"
+      }
+    },
+    {
       "id": "d01e47cc-d388-421f-a6a4-f3f483efd7e3",
       "title": "Body and Brain: A Shooting Star to Nick Cage Rushmore",
       "release": "2024-11-20T11:30:00Z",

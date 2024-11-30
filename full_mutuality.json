@@ -4,7 +4,28 @@
   "name": "Full Mutuality",
   "spotifyId": "1Nx6dDwa9XvpZiAcuMhfWF",
   "appleId": 1587186701,
+  "youTubeChannelId": "UC6na0n0Y5m2t0D92uPOsG_A",
   "episodes": [
+    {
+      "id": "7a9650cb-68b4-482b-9d62-54087f7bee82",
+      "title": "S2E13: Religious Trauma, Healing Communities, \u0026 Saying Hello to Deconstruction \u2014 with Maggie Harrigan",
+      "description": "Maggie Harrigan, host of the podcast Hello Deconstructionists and creator behind the Instagram account of the same name joins Nate and Gail for a fun conversation about healing from religious trauma, deconstruction, and the power of storytelling in building community after leaving evangelicalism. TRIGGER WARNING: there are a ton of references to contemporary Christian music of the 2000\u0027s and early 2010\u0027s. Subscribe to Maggie\u0027s podcast at dauntless.fm/hellodeconstructionists . Follow Maggie\u0027s Instagram at instagram.com/hello_deconstructionists . --- Follow us on Twitter at @fullmutuality , on Facebook at fb.com/fullmutuality , and on Instagram at @fullmutuality . Join the conversation in our Discord server at dauntless.fm/discord-server . Visit fullmutuality.com for more ways to connect with us. Full Mutuality is a Dauntless Media Collective podcast. Visit dauntless.fm for more content. Join as a partner on Patreon for exclusive content!",
+      "release": "2024-08-01T09:00:00Z",
+      "duration": "01:19:21.5210000",
+      "explicit": true,
+      "spotifyId": "4xCHq88LBNjcq2kNNzTqhl",
+      "appleId": 1000664015110,
+      "youTubeId": "zbizqFfANBE",
+      "subjects": [
+        "Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4xCHq88LBNjcq2kNNzTqhl",
+        "apple": "https://podcasts.apple.com/podcast/s2e13-religious-trauma-healing-communities-saying-hello/id1587186701?i=1000664015110",
+        "youtube": "https://www.youtube.com/watch?v=zbizqFfANBE"
+      }
+    },
     {
       "id": "1ccb7720-42b6-420c-830d-2c5e37788c35",
       "title": "S2E10: Examining the Predatory Culture of the IFB \u2014 with Eric Skwarczynski",
@@ -14,12 +35,14 @@
       "explicit": true,
       "spotifyId": "2rQ4l7qkbUgvNk7ENgGb4T",
       "appleId": 1000643780310,
+      "youTubeId": "PrLd4EZ8fA8",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2rQ4l7qkbUgvNk7ENgGb4T",
-        "apple": "https://podcasts.apple.com/podcast/s2e10-examining-the-predatory-culture-of-the/id1587186701?i=1000643780310"
+        "apple": "https://podcasts.apple.com/podcast/s2e10-my-cult-was-in-a-documentary-part-3-with/id1587186701?i=1000643780310",
+        "youtube": "https://www.youtube.com/watch?v=PrLd4EZ8fA8"
       }
     },
     {
@@ -31,13 +54,15 @@
       "explicit": true,
       "spotifyId": "2mwGG7qoanQGvxuRyE7Okh",
       "appleId": 1000642078290,
+      "youTubeId": "b88yRVgW5hQ",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2mwGG7qoanQGvxuRyE7Okh",
-        "apple": "https://podcasts.apple.com/podcast/s2e09-on-leaving-bju-and-klandamentalism-with-dr/id1587186701?i=1000642078290"
+        "apple": "https://podcasts.apple.com/podcast/s2e09-on-leaving-bju-and-klandamentalism-with-dr/id1587186701?i=1000642078290",
+        "youtube": "https://www.youtube.com/watch?v=b88yRVgW5hQ"
       }
     },
     {
@@ -49,12 +74,14 @@
       "explicit": true,
       "spotifyId": "4cQRQhS1hEJLttGdfMlqZM",
       "appleId": 1000640304317,
+      "youTubeId": "WKgsdvS_dV0",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cQRQhS1hEJLttGdfMlqZM",
-        "apple": "https://podcasts.apple.com/podcast/s2e08-my-cult-was-in-a-documentary-part-2-with/id1587186701?i=1000640304317"
+        "apple": "https://podcasts.apple.com/podcast/s2e08-my-cult-was-in-a-documentary-part-2-with/id1587186701?i=1000640304317",
+        "youtube": "https://www.youtube.com/watch?v=WKgsdvS_dV0"
       }
     },
     {
@@ -66,12 +93,14 @@
       "explicit": true,
       "spotifyId": "0C78CUtuf6EkHF32oA4xb4",
       "appleId": 1000623290162,
+      "youTubeId": "HIMGiyymMlg",
       "subjects": [
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0C78CUtuf6EkHF32oA4xb4",
-        "apple": "https://podcasts.apple.com/podcast/s2e05-bob-jones-university-will-never-do-right-with/id1587186701?i=1000623290162"
+        "apple": "https://podcasts.apple.com/podcast/s2e05-bob-jones-university-will-never-do-right-with/id1587186701?i=1000623290162",
+        "youtube": "https://www.youtube.com/watch?v=HIMGiyymMlg"
       }
     },
     {
@@ -83,12 +112,14 @@
       "explicit": true,
       "spotifyId": "0fMOAVCgWhWIZhD4MPSmmm",
       "appleId": 1000622500090,
+      "youTubeId": "lw9ncDkP-l8",
       "subjects": [
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0fMOAVCgWhWIZhD4MPSmmm",
-        "apple": "https://podcasts.apple.com/podcast/s2e04-what-you-need-to-know-about-bob-jones-university/id1587186701?i=1000622500090"
+        "apple": "https://podcasts.apple.com/podcast/s2e04-what-you-need-to-know-about-bob-jones-university/id1587186701?i=1000622500090",
+        "youtube": "https://www.youtube.com/watch?v=lw9ncDkP-l8"
       }
     },
     {
@@ -100,13 +131,15 @@
       "explicit": true,
       "spotifyId": "0YpWattUHdHL3OAwkCo1dP",
       "appleId": 1000619180253,
+      "youTubeId": "mgMXPNv2S2A",
       "subjects": [
         "Hillsong",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0YpWattUHdHL3OAwkCo1dP",
-        "apple": "https://podcasts.apple.com/podcast/s2e02-my-cult-was-in-a-documentary-with-janice-lagata/id1587186701?i=1000619180253"
+        "apple": "https://podcasts.apple.com/podcast/s2e02-my-cult-was-in-a-documentary-with-janice-lagata/id1587186701?i=1000619180253",
+        "youtube": "https://www.youtube.com/watch?v=mgMXPNv2S2A"
       }
     },
     {
@@ -118,12 +151,14 @@
       "explicit": true,
       "spotifyId": "5BGL6Bu2gIrgXyduyJCA9P",
       "appleId": 1000599516129,
+      "youTubeId": "fd8O8CQSggQ",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BGL6Bu2gIrgXyduyJCA9P",
-        "apple": "https://podcasts.apple.com/podcast/s1e26-is-evangelicalism-a-cult-part-3-with-janice-lagata/id1587186701?i=1000599516129"
+        "apple": "https://podcasts.apple.com/podcast/s1e26-is-evangelicalism-a-cult-part-3-with-janice-lagata/id1587186701?i=1000599516129",
+        "youtube": "https://www.youtube.com/watch?v=fd8O8CQSggQ"
       }
     },
     {
@@ -135,12 +170,14 @@
       "explicit": true,
       "spotifyId": "54nvIlGYXy1oBHkotgYIG6",
       "appleId": 1000597386218,
+      "youTubeId": "j_6JbDaAoIw",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/54nvIlGYXy1oBHkotgYIG6",
-        "apple": "https://podcasts.apple.com/podcast/s1e25-is-evangelicalism-a-cult-part-2-with-janice-lagata/id1587186701?i=1000597386218"
+        "apple": "https://podcasts.apple.com/podcast/s1e25-is-evangelicalism-a-cult-part-2-with-janice-lagata/id1587186701?i=1000597386218",
+        "youtube": "https://www.youtube.com/watch?v=j_6JbDaAoIw"
       }
     },
     {
@@ -152,12 +189,14 @@
       "explicit": true,
       "spotifyId": "1T1fdB6sITyfTt3Caqu9Qs",
       "appleId": 1000593430859,
+      "youTubeId": "Lng56NHM-6k",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1T1fdB6sITyfTt3Caqu9Qs",
-        "apple": "https://podcasts.apple.com/podcast/s1e23-is-evangelicalism-a-cult-part-1-with-janice-lagata/id1587186701?i=1000593430859"
+        "apple": "https://podcasts.apple.com/podcast/s1e23-is-evangelicalism-a-cult-part-1-with-janice-lagata/id1587186701?i=1000593430859",
+        "youtube": "https://www.youtube.com/watch?v=Lng56NHM-6k"
       }
     },
     {
@@ -169,12 +208,14 @@
       "explicit": true,
       "spotifyId": "5mgLWhaKENZqJ9IQCIoPbR",
       "appleId": 1000591574015,
+      "youTubeId": "K03tTLp1OSA",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5mgLWhaKENZqJ9IQCIoPbR",
-        "apple": "https://podcasts.apple.com/podcast/s1e22-hillsong-on-trial-with-tanya-levin/id1587186701?i=1000591574015"
+        "apple": "https://podcasts.apple.com/podcast/s1e22-hillsong-on-trial-with-tanya-levin/id1587186701?i=1000591574015",
+        "youtube": "https://www.youtube.com/watch?v=K03tTLp1OSA"
       }
     },
     {
@@ -186,9 +227,11 @@
       "explicit": true,
       "spotifyId": "4yGrgTITSSnDNDnxy3L7ww",
       "appleId": 1000576468843,
+      "youTubeId": "9X4iP7hmAUc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4yGrgTITSSnDNDnxy3L7ww",
-        "apple": "https://podcasts.apple.com/podcast/s1e21-how-to-destroy-a-megachurch-with-zach-malm/id1587186701?i=1000576468843"
+        "apple": "https://podcasts.apple.com/podcast/s1e21-how-to-destroy-a-megachurch-with-zach-malm/id1587186701?i=1000576468843",
+        "youtube": "https://www.youtube.com/watch?v=9X4iP7hmAUc"
       }
     },
     {
@@ -200,12 +243,14 @@
       "explicit": true,
       "spotifyId": "5eJ7KqpvcVuNXeBTFVgEME",
       "appleId": 1000564654385,
+      "youTubeId": "lmqxxYP7MkU",
       "subjects": [
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5eJ7KqpvcVuNXeBTFVgEME",
-        "apple": "https://podcasts.apple.com/podcast/s1e16-bju-me-queer-voices-from-the-worlds-most/id1587186701?i=1000564654385"
+        "apple": "https://podcasts.apple.com/podcast/s1e16-bju-me-queer-voices-from-the-worlds-most/id1587186701?i=1000564654385",
+        "youtube": "https://www.youtube.com/watch?v=lmqxxYP7MkU"
       }
     },
     {
@@ -217,12 +262,14 @@
       "explicit": true,
       "spotifyId": "7jCueyNIMsB7TR0nrXByr5",
       "appleId": 1000560465356,
+      "youTubeId": "mA53vXzbIwg",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jCueyNIMsB7TR0nrXByr5",
-        "apple": "https://podcasts.apple.com/podcast/s1e14-stories-from-hillsong-survivors-deconstructing/id1587186701?i=1000560465356"
+        "apple": "https://podcasts.apple.com/podcast/s1e14-stories-from-hillsong-survivors-deconstructing/id1587186701?i=1000560465356",
+        "youtube": "https://www.youtube.com/watch?v=mA53vXzbIwg"
       }
     },
     {
@@ -234,12 +281,14 @@
       "explicit": true,
       "spotifyId": "4Kr593Z2XvJj9lweRaajaO",
       "appleId": 1000559564974,
+      "youTubeId": "2oVRS32pAqk",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Kr593Z2XvJj9lweRaajaO",
-        "apple": "https://podcasts.apple.com/podcast/s1e13-stories-from-hillsong-survivors-the-boston/id1587186701?i=1000559564974"
+        "apple": "https://podcasts.apple.com/podcast/s1e13-stories-from-hillsong-survivors-the-boston/id1587186701?i=1000559564974",
+        "youtube": "https://www.youtube.com/watch?v=2oVRS32pAqk"
       }
     },
     {
@@ -251,12 +300,14 @@
       "explicit": true,
       "spotifyId": "4Kv3uIQobGlkcyarCOD0B1",
       "appleId": 1000555926646,
+      "youTubeId": "M2TYcMLJynQ",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Kv3uIQobGlkcyarCOD0B1",
-        "apple": "https://podcasts.apple.com/podcast/s1e12-hillsong-the-aftermath-with-janice-lagata/id1587186701?i=1000555926646"
+        "apple": "https://podcasts.apple.com/podcast/s1e12-hillsong-the-aftermath-with-janice-lagata/id1587186701?i=1000555926646",
+        "youtube": "https://www.youtube.com/watch?v=M2TYcMLJynQ"
       }
     },
     {
@@ -268,12 +319,14 @@
       "explicit": true,
       "spotifyId": "3TDpzJQfM1f0pepFdPQ6gk",
       "appleId": 1000555805104,
+      "youTubeId": "-pbsIU0tUYw",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3TDpzJQfM1f0pepFdPQ6gk",
-        "apple": "https://podcasts.apple.com/podcast/s1e11-the-fall-of-the-hillsong-empire-with-janice-lagata/id1587186701?i=1000555805104"
+        "apple": "https://podcasts.apple.com/podcast/s1e11-the-fall-of-the-hillsong-empire-with-janice-lagata/id1587186701?i=1000555805104",
+        "youtube": "https://www.youtube.com/watch?v=-pbsIU0tUYw"
       }
     },
     {
@@ -285,12 +338,14 @@
       "explicit": true,
       "spotifyId": "3UAtNIzfrp466g7r6zSSDh",
       "appleId": 1000554184567,
+      "youTubeId": "RAUCy7r6iN4",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3UAtNIzfrp466g7r6zSSDh",
-        "apple": "https://podcasts.apple.com/podcast/s1e10-the-cult-of-the-duggars-ati/id1587186701?i=1000554184567"
+        "apple": "https://podcasts.apple.com/podcast/s1e10-the-cult-of-the-duggars-ati/id1587186701?i=1000554184567",
+        "youtube": "https://www.youtube.com/watch?v=RAUCy7r6iN4"
       }
     },
     {
@@ -302,13 +357,15 @@
       "explicit": true,
       "spotifyId": "0ARy50CFs0tPMWZxxPWb9C",
       "appleId": 1000552561236,
+      "youTubeId": "Rk_6QLnLDYc",
       "subjects": [
         "Institute In Basic Life Principles",
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ARy50CFs0tPMWZxxPWb9C",
-        "apple": "https://podcasts.apple.com/podcast/s1e09-brainwashing-a-look-inside-bill-gothards-cult/id1587186701?i=1000552561236"
+        "apple": "https://podcasts.apple.com/podcast/s1e09-brainwashing-a-look-inside-bill-gothards-cult/id1587186701?i=1000552561236",
+        "youtube": "https://www.youtube.com/watch?v=Rk_6QLnLDYc"
       }
     },
     {
@@ -320,12 +377,14 @@
       "explicit": true,
       "spotifyId": "3LyHkNAJvM3YUiJ00jLdP0",
       "appleId": 1000548217107,
+      "youTubeId": "3zoBSM0SbLc",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3LyHkNAJvM3YUiJ00jLdP0",
-        "apple": "https://podcasts.apple.com/podcast/s1e06-when-hillsong-pastors-send-dick-pics-with-lezeth/id1587186701?i=1000548217107"
+        "apple": "https://podcasts.apple.com/podcast/s1e06-when-hillsong-pastors-send-dick-pics-with-lezeth/id1587186701?i=1000548217107",
+        "youtube": "https://www.youtube.com/watch?v=3zoBSM0SbLc"
       }
     },
     {
@@ -337,12 +396,14 @@
       "explicit": true,
       "spotifyId": "5YqDHsVFeAbmUOdM7CqRCM",
       "appleId": 1000546869240,
+      "youTubeId": "A6NrrcusBV0",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5YqDHsVFeAbmUOdM7CqRCM",
-        "apple": "https://podcasts.apple.com/podcast/s1e05-setting-the-stage-inside-hillsongs-abusive/id1587186701?i=1000546869240"
+        "apple": "https://podcasts.apple.com/podcast/s1e05-setting-the-stage-inside-hillsongs-abusive/id1587186701?i=1000546869240",
+        "youtube": "https://www.youtube.com/watch?v=A6NrrcusBV0"
       }
     }
   ]

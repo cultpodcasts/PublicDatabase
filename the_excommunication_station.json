@@ -6,6 +6,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "8f7e336a-843a-48fb-bdb9-86bc746bfe82",
+      "title": "182. The NEW Adventures Of Mcgee And Me",
+      "description": "This week, we finish up our travels into the world of mcgee and me.",
+      "release": "2024-11-27T07:00:00Z",
+      "duration": "01:45:32.7860000",
+      "explicit": true,
+      "spotifyId": "6pxeQ0vx6PrTHY6h6GJG0f",
+      "appleId": 1000678375064,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6pxeQ0vx6PrTHY6h6GJG0f",
+        "apple": "https://podcasts.apple.com/podcast/182-the-new-adventures-of-mcgee-and-me/id1573190999?i=1000678375064"
+      }
+    },
+    {
+      "id": "cd3d45f1-3d8d-4de8-8fe1-0c932f315bae",
+      "title": "180. McGee And Me Part 1",
+      "description": "somehow got deleted and now reposted. our apologies.",
+      "release": "2024-11-25T02:55:17Z",
+      "duration": "02:06:48.8680000",
+      "explicit": true,
+      "spotifyId": "6VVaVwA1vxJoA6HI45zG4e",
+      "appleId": 1000678109952,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6VVaVwA1vxJoA6HI45zG4e",
+        "apple": "https://podcasts.apple.com/podcast/180-mcgee-and-me-part-1/id1573190999?i=1000678109952"
+      }
+    },
+    {
       "id": "88d364aa-bfa6-41d3-941f-c489c3a1c271",
       "title": "181. McGee And Me: PartII",
       "description": "We are back in the world of mcgee and me as we break down episodes 4-9.",

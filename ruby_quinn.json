@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCgdI17cTQUMIKSKJGhM-WPQ",
   "episodes": [
     {
+      "id": "1de53404-b971-440b-83a2-927159f58613",
+      "title": "JW News Tonight",
+      "description": "Join me for the news then entertainment.",
+      "release": "2024-11-30T01:31:23Z",
+      "duration": "01:31:27",
+      "explicit": false,
+      "youTubeId": "DOCGt9uDSrc",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DOCGt9uDSrc"
+      }
+    },
+    {
       "id": "697d7868-8652-4a94-a9e6-fe7aa805060c",
       "title": "JW News Tonight",
       "description": "Join us for a Rare  LIVE with upcoming (exjw) Rock Stars....featuring Compassionate Apostate and  ExWitnessAwake...",
