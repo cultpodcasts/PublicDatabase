@@ -5,6 +5,20 @@
   "youTubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
   "episodes": [
     {
+      "id": "a1a1c52e-ff31-4905-976e-929626c59123",
+      "title": "Court on Camera - \u0027Cult\u0027 Kidnap Plot Sentencing",
+      "description": "Four \u0027cult\u0027 members who stormed an Essex court, to try and abduct a coroner, are sentenced",
+      "release": "2024-10-29T00:00:00",
+      "duration": "00:30:00",
+      "explicit": true,
+      "subjects": [
+        "Federal Postal Court"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/l0056tbd/court-on-camera-cult-kidnap-plot-sentencing"
+      }
+    },
+    {
       "id": "f67e1820-2561-4ba9-9fd1-7bff81552d58",
       "title": "Ex-Abercrombie \u0026 Fitch CEO charged with sex trafficking | BBC News",
       "description": "The former CEO of Abercrombie \u0026 Fitch (A\u0026F) and his partner have been arrested and charged with running a prostitution and international sex trafficking business.\n\nUS authorities arrested former fashion executive Mike Jeffries, his partner Matthew Smith and the couple\u2019s alleged middleman - James Jacobson.\n\nFederal prosecutors said the men used force, fraud and coercion to engage in \u0022violent and exploitive\u0022 sexual acts.\n\nIt\u2019s alleged that Mr Jeffries used his wealth, power and status as CEO of A\u0026F \u0022to traffic men for his own sexual pleasure\u0022 and for the pleasure of his partner, Mr Smith.\n\nMr Jeffries and his partner have previously denied any wrongdoing via their lawyers, and Mr Jeffries\u0027 lawyer told the BBC that they would \u0022respond in detail to the allegations after the Indictment is unsealed\u0022.\n\nA lawyer for Mr Smith has been approached for new comment. A\u0026F declined to comment on the latest developments.\n\nSophie Raworth presents BBC News at Ten reporting by Rianna Croxford.\n\nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#BBCNews",
@@ -36,6 +50,21 @@
       }
     },
     {
+      "id": "1fadbba3-4e4a-4ff1-977b-a7ee322e7ada",
+      "title": "Brazilian Instagram influencer and ex-model jailed for trafficking and slavery | BBC News",
+      "description": "Former Brazilian model, wellness influencer and spiritual life coach Kat Torres was an inspiration and a lifeline to women all over the world. \n \nMore than a million people on Instagram followed her extraordinary career trajectory from extreme poverty in Brazil to a European modelling career and a life of luxury in the US.\n \nBut behind the perfectly curated posts is a story of sexual exploitation and human trafficking that led to missing women and sent their families and the FBI on a desperate search to find them.\n \nAfter months of investigations, a team from BBC Eye and BBC News Brasil uncovers a wellness empire built on half-truths and lies. \n\nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#KatTorres #Brazil #BBCNews",
+      "release": "2024-07-15T18:30:26Z",
+      "duration": "00:13:30",
+      "explicit": false,
+      "youTubeId": "h4R0D6WhVog",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=h4R0D6WhVog"
+      }
+    },
+    {
       "id": "fcc26dcf-0c82-481a-918e-72fc1186901e",
       "title": "How TB Joshua\u2019s whistle-blowing daughter took on \u2018Daddy\u2019 | BBC News",
       "description": "The late megachurch leader TB Joshua locked up his own daughter and tortured her for years before leaving her homeless on the streets of Lagos, Nigeria, the BBC has found.\n \nAjoke was one of the first whistle-blowers to reach out to the BBC about the abuse she witnessed at her father\u0027s church, the Synagogue Church of All Nations (Scoan).\n \nTB Joshua, who died in 2021 at the age of 57, is accused of widespread abuse and torture spanning almost 20 years.\n \nThe BBC contacted Scoan with the allegations in this investigation. It did not respond to them, but denied previous claims against TB Joshua.\n \nWatch all three episodes of Disciples: The Cult of TB Joshua on BBC iPlayer (UK only) or on the BBC Africa YouTube channel.\n\nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#Scoan #Nigeria #BBCAfricaEye #BBCNews",
@@ -48,6 +77,35 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=n3AajVu3c5s"
+      }
+    },
+    {
+      "id": "4407fefc-566d-45be-a3fa-931b2833caf6",
+      "title": "TB Joshua: How the pastor covered up fatal Lagos building collapse | BBC News",
+      "description": "The late Nigerian megachurch leader TB Joshua hid dead bodies and intimidated families, to cover up his role in the collapse of a building which killed at least 116 people at his church in 2014, a BBC investigation has found.\n \nThe collapse is one of the worst disasters to ever strike a place of worship in Africa.\n \nFor the first time, insiders from TB Joshua\u0027s Synagogue Church of All Nations (Scoan) in Lagos presented evidence of what caused the incident nearly 10 years ago.\n \nIt comes after evidence uncovered by the BBC showed TB Joshua, the founder of one of the world\u0027s biggest Christian evangelical churches, caused widespread abuse and torture.\n \nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#BBCAfricaEye #TBJoshua #BBCNews",
+      "release": "2024-01-09T16:00:23Z",
+      "duration": "00:09:19",
+      "explicit": false,
+      "youTubeId": "ghV0sZdMNSc",
+      "subjects": [
+        "T. B. Joshua"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ghV0sZdMNSc"
+      }
+    },
+    {
+      "id": "7de3d2d1-6e9e-4ae8-9fcb-57ba7e6c46b2",
+      "title": "YouTuber Ruby Franke pleads guilty to child abuse #Shorts #RubyFranke #BBCNews",
+      "release": "2023-12-19T15:45:02Z",
+      "duration": "00:00:32",
+      "explicit": false,
+      "youTubeId": "fl6n3CvFGIQ",
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fl6n3CvFGIQ"
       }
     },
     {
@@ -74,7 +132,6 @@
       "explicit": false,
       "youTubeId": "JuOJTRKV7nY",
       "subjects": [
-        "Evangelicalism",
         "Good News International Ministries"
       ],
       "urls": {
@@ -112,6 +169,60 @@
       }
     },
     {
+      "id": "c6d7a81c-3e05-4970-9d5f-7c5fbfe64908",
+      "title": "How a new Christian right is changing US politics - BBC News",
+      "description": "A new battle of faith is being driven by some pastors and politicians in the United States.\n\nTheir central message is that the country\u0027s conservative Christian way of life is under threat, and American society is moving in the wrong direction. \n\nThe BBC\u2019s Barbara Plett Usher explores the impact of this growing movement on US politics.\n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\n#US #America #BBCNews",
+      "release": "2022-11-28T19:30:05Z",
+      "duration": "00:25:53",
+      "explicit": false,
+      "youTubeId": "cnG-BI98-_0",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=cnG-BI98-_0"
+      }
+    },
+    {
+      "id": "1e89300e-be43-4cb3-b60c-67532714e23e",
+      "title": "Japan begins investigation into church in wake of Shinzo Abe killing - BBC News",
+      "description": "The Japanese government has begun an official investigation into the Unification Church months after former Prime Minister Shinzo Abe was shot dead, allegedly by a man who had a grudge against the group.\n\nThere have been recent revelations about links between the religious group and the governing Liberal Democratic Party.\n\nThe church has been under scrutiny since Abe\u0027s assassination in July, with the suspect saying his family had been bankrupted by donations to the group.\n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\n#Japan #BBCNews",
+      "release": "2022-11-22T18:30:39Z",
+      "duration": "00:03:29",
+      "explicit": false,
+      "youTubeId": "e-nSxGHSS_k",
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=e-nSxGHSS_k"
+      }
+    },
+    {
+      "id": "e642f16a-f2dc-40c8-9d94-5558cf597ab3",
+      "title": "What QAnon followers believe now - BBC News",
+      "description": "A year ago supporters of outgoing President Donald Trump stormed the US Capitol. Many of them were followers of the QAnon conspiracy theory, which saw Trump as a hero who would defeat a Satan-worshipping global cabal. \n\nA survey by the polling organisation Ipsos Mori has found that 7% of Americans still believe this conspiracy theory - despite a lack of any evidence and the fact that QAnon\u0027s many predictions never came true. \n\nSo who are these people? \n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\n#BBCNews",
+      "release": "2022-01-07T00:34:21Z",
+      "duration": "00:11:46",
+      "explicit": false,
+      "youTubeId": "jzsiDRP5gXc",
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jzsiDRP5gXc"
+      }
+    },
+    {
+      "id": "7bff3ced-1aa2-4b33-aed4-219016504a55",
+      "title": "London teenager who murdered sisters influenced by satanic beliefs - BBC News",
+      "description": "Teenager Danyal Hussein murdered two sisters in a London park last year - seemingly influenced to do so by a satanic web forum that contained instructions about demonic pacts that mirror his crime.\n\nConvicted of killing sisters Bibaa Henry and Nicole Smallman, the BBC has uncovered new evidence that Hussein was a member of a web forum run by an American self-styled black magician.\n\nHe encouraged murder in some of his posts, including for a violent Satanic group that\u2019s been cited as an influence on seven young men convicted of neo-Nazi terror offences in the UK over the past two years.\n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\n#BBCNews",
+      "release": "2021-08-15T13:30:04Z",
+      "duration": "00:05:58",
+      "explicit": false,
+      "youTubeId": "LmhNfUqVX9s",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LmhNfUqVX9s"
+      }
+    },
+    {
       "id": "989feff2-2040-4732-beb9-fbae5b12c929",
       "title": "Is this Russian cult leader a fraud? - BBC News",
       "description": "The City of the Sun is home to a mysterious Russian cult known as the Church of the Last Testament. Its leader Vissarion used to be a traffic cop but now believes he is the second coming of Jesus Christ. Last September armed security officers stormed the City of the Sun and arrested Vissarion and two of his closest aides. They have been accused of embezzling funds from Vissarion\u2019s followers and physically or mentally abusing them.\n \nBBC Russian\u2019s Nataliya Zotova travelled to Siberia to find out more about what happened.\n \n\nPlease subscribe HERE http://bit.ly/1rbfUog #BBCNews",
@@ -127,6 +238,21 @@
       }
     },
     {
+      "id": "44643662-9b81-4d7c-ba69-6cf57bf7c6a8",
+      "title": "QAnon, coronavirus and the conspiracy cult - BBC News",
+      "description": "A bizarre conspiracy theory has surged in popularity in the US since the pandemic, according to exclusive research seen by the BBC.\n\nQAnon and its believers say that Donald Trump is here to save the world from an evil cabal of paedophiles and it\u2019s had a surprising level of interest around the world from Brazil to Germany, the UK and Indonesia.\n\nAnd this week Twitter announced it would delete 7,000 QAnon-related accounts, saying it hoped the action would help to prevent \u0022offline harm\u0022.\n\nBBC Population Correspondent Stephanie Hegarty has spoken to QAnon followers and their families to find out why this cultish conspiracy has gained so much traction.\n\nProduced by Emma Ailes\n\nEdited by Emma Ailes \u0026 Robert Timothy\n\nAnimation by Peter Caires\n\nPlease subscribe HERE http://bit.ly/1rbfUog",
+      "release": "2020-07-27T15:09:24Z",
+      "duration": "00:12:26",
+      "explicit": false,
+      "youTubeId": "4XTZbYtwZJQ",
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=4XTZbYtwZJQ"
+      }
+    },
+    {
       "id": "a656e24f-1037-42bf-8ae5-6106a49934d2",
       "title": "The woman encouraging her followers to visualise death - BBC News",
       "description": "The BBC has heard testimony that the teachings of spiritual influencer Teal Swan may have contributed to the suicides of at least two of her followers. \nSwan, who has said that death can be a re-set button - has hundreds of thousands of followers across social media platforms and her Youtube channel has over 78million views.\n But mental health experts say her teachings around suicide could be  dangerous. \nOur global religion reporter Lebo Diseko reports.\n\n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\nGetting help\nCanada and US:\nFrom Canada or US: If you\u0027re in an emergency, please call 911\nIn the US, you can call the National Suicide Prevention Lifeline on 1-800-273-8255 (TALK), or the Crisis Test Line by texting HOME to 741741, or visit SpeakingOfSuicide: https://www.speakingofsuicide.com/resources/\nYoung people in need of help can call Kids Help Phone on 1-800-668-6868\n\nUK:\nIf you are in the UK, you can call the Samaritans on 116123\nBBC Action Line has support and more information on emotional distress: https://www.bbc.co.uk/programmes/articles/4WLs5NlwrySXJR2n8Snszdg/emotional-distress-information-and-support",
@@ -139,6 +265,63 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=zKsPnKlZRS0"
+      }
+    },
+    {
+      "id": "78dd86d2-69c9-4b75-8fa9-1e6bb3ba3fe0",
+      "title": "\u0027Why I had to leave my ultra-Orthodox family\u0027 - BBC News",
+      "description": "Would you be able to leave your family and friends, knowing you may never see them again, so you could follow your dreams?\n\nThat was the choice Izzy Posen, a Hasidic ultra-Orthodox Jew faced when he decided to leave his isolated religious community.\n\nHe told BBC World Service how his life has been transformed since breaking free.\n\nVideo produced by Trystan Young and Alice Porter\n\nPlease subscribe HERE http://bit.ly/1rbfUog",
+      "release": "2019-01-14T10:56:05Z",
+      "duration": "00:03:44",
+      "explicit": false,
+      "youTubeId": "-5Tz6pLH7ig",
+      "subjects": [
+        "Hasidic Judaism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-5Tz6pLH7ig"
+      }
+    },
+    {
+      "id": "23a64a7e-f6f7-4d0b-952f-4fd35aced86d",
+      "title": "Charles Manson dies after four decades in prison - BBC News",
+      "description": "Charles Manson was the head of a cult, which he directed to commit murders.\nIn 1969, he sent his followers, known as the Manson family, to kill seven people.\nRoman Polanski\u0027s heavily pregnant wife Sharon Tate was among the victims.\n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\nWorld In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP\nBig Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP\nJust Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",
+      "release": "2017-11-20T10:31:43Z",
+      "duration": "00:01:48",
+      "explicit": false,
+      "youTubeId": "kfdC1O-W-Lw",
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kfdC1O-W-Lw"
+      }
+    },
+    {
+      "id": "29a5d88e-ad0d-4e02-90e8-2ba09d2b87e7",
+      "title": "R Kelly denies allegations of holding young women against their will - BBC News",
+      "description": "Buzzfeed reports that Kelly lures young women into his inner circle and keeps them against their will inside his homes in a \u0022cult-like\u0022 atmosphere. The story says six women are being held in the star\u0027s properties, where he controls all aspects of their lives.\nBuzzfeed also interviewed three former members of Kelly\u0027s inner circle, and reports the singer controls every aspect of the women\u0027s lives: dictating \u0022what they eat, how they dress, when they bathe, when they sleep, and how they engage in sexual encounters that he records\u0022.\nThe superstar also confiscates the women\u0027s cell phones, the report says, barring contact with friends and family. He gives them new phones that they are only allowed to use to contact him or others with his permission.\nThe story was written by Jim DeRogatis, who has covered the allegations against R Kelly for two decades, principally for the Chicago Sun Times.\nAll of the women cited in his article are of legal age; and one has denied accusations that she is being held against her will.\n\u0022I\u0027m not being brainwashed or anything like that,\u0022 said 21-year-old Joycelyn Savage in a video call to TMZ. However, she would not reveal where she was speaking from, nor the nature of her relationship with Kelly.\nR Kelly\u0027s lawyer, Linda Mensch, has also issued a strongly-worded denial of the accusations.\n\u0022Mr Robert Kelly is both alarmed and disturbed at the recent revelations attributed to him,\u0022 the statement said.\n\u0022Mr Kelly unequivocally denies such allegations and will work diligently and forcibly to pursue his accusers and clear his name.\u0022\n\nPlease subscribe HERE http://bit.ly/1rbfUog\n\nWorld In Pictures https://www.youtube.com/playlist?list=PLS3XGZxi7cBX37n4R0UGJN-TLiQOm7ZTP\nBig Hitters https://www.youtube.com/playlist?list=PLS3XGZxi7cBUME-LUrFkDwFmiEc3jwMXP\nJust Good News https://www.youtube.com/playlist?list=PLS3XGZxi7cBUsYo_P26cjihXLN-k3w246",
+      "release": "2017-07-18T11:24:05Z",
+      "duration": "00:01:47",
+      "explicit": false,
+      "youTubeId": "L1JwK6kNcOA",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=L1JwK6kNcOA"
+      }
+    },
+    {
+      "id": "44d95121-83eb-428b-ad94-92acf20010c1",
+      "title": "Father falsely accused of being a \u0027satanic cult paedophile ring leader\u0027 Victoria Derbyshire",
+      "description": "Warning: contains a graphic description. A father falsely accused of abusing his two children as part of a \u0022satanic cult\u0022 has spoken of the \u0022horrific\u0022 allegations he faced. In an exclusive first interview, Ricky says he is still receiving death threats from people who believe them. But in March, a Family Court judge dismissed the claims, saying the children had been forced to make the allegations by their mother and her new partner. He spoke to Victoria about his ordeal.\nWarning: Contains a graphic description.\n\nYou can watch more Victoria Derbyshire films here Watch more films here http://bbc.in/1P39x2K\nSubscribe to BBC News HERE http://bit.ly/1rbfUog\nCheck out our website: http://www.bbc.com/news \nFacebook: http://www.facebook.com/bbcworldnews \nTwitter: http://www.twitter.com/bbcworld\nInstagram: http://instagram.com/bbcnews",
+      "release": "2015-04-20T17:13:42Z",
+      "duration": "00:22:57",
+      "explicit": false,
+      "youTubeId": "f5f9N6wmiLQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=f5f9N6wmiLQ"
       }
     },
     {

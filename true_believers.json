@@ -1,0 +1,20 @@
+{
+  "_ts": 0,
+  "id": "2fb149f3-5422-473e-a3f4-17ddcc0e591c",
+  "name": "True Believers",
+  "episodes": [
+    {
+      "id": "c31c789b-c397-4799-9c00-40997451d855",
+      "title": "The Demon Slayer Academy",
+      "release": "2022-05-01T23:00:00Z",
+      "duration": "00:44:05",
+      "explicit": false,
+      "subjects": [
+        "Modern Mystery School"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/true-believers-modern-mystery-school"
+      }
+    }
+  ]
+}

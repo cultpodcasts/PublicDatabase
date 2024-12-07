@@ -1,0 +1,80 @@
+{
+  "_ts": 0,
+  "id": "069bc621-347b-40cf-89d6-82b257f458a7",
+  "name": "BBC Panorama",
+  "youTubeChannelId": "UCrcW5RwDkuS5RUMM_RNLvmw",
+  "episodes": [
+    {
+      "id": "044b4866-537d-4a37-af64-668f6f4ae08f",
+      "title": "Panorama - Andrew Tate: Accused",
+      "description": "Oana Marocico returns to her home country to investigate Andrew and Tristan Tate\u0027s Romanian webcam business and speaks to women who claim they\u2019ve been abused by the brothers. ",
+      "release": "2024-09-09T20:00:00",
+      "duration": "00:28:00",
+      "explicit": false,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m0022vj7/panorama-andrew-tate-accused"
+      }
+    },
+    {
+      "id": "b47832d0-2eb9-4615-98ed-b21a5165ddbd",
+      "title": "The Billionaire Bishop and the Global Megachurch",
+      "description": "With more than 30 branches in the UK, the Universal Church of the Kingdom of God, led by a Brazilian billionaire businessman, claims to transform lives through its preaching. But Panorama uncovers allegations that members can feel manipulated into giving money to the church, that it tells young members mental health conditions are linked to evil spirits which can be \u2018cast out\u2019 by what it calls, strong prayers; and that it persuades members to stay with the church by suggesting that leaving can lead to serious illness.",
+      "release": "2023-12-11T20:00:00Z",
+      "duration": "00:28:57",
+      "explicit": false,
+      "subjects": [
+        "Universal Church Of The Kingdom Of God"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/bbc-panorama-universal-church-of-the-kingdom-of-god-uckg",
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001tcgf/panorama-the-billionaire-bishop-and-the-global-megachurch"
+      }
+    },
+    {
+      "id": "5e15e54a-af54-4326-99f3-6e558f7dea63",
+      "title": "The Secrets Of Scientology",
+      "description": "Reporter John Sweeney\u0027s last investigation into the Church of Scientology resulted in an explosive confrontation with church officials. This time, in a Panorama Special, one of those officials has turned whistleblower to help him reveal the dark secrets of the church,which boasts Hollywood A-listers Tom Cruise and John Travolta among its devotees.\n\nhttps://www.bbc.co.uk/programmes/b00v1ykr\n\nhttps://en.wikipedia.org/wiki/The_Secrets_of_Scientology",
+      "release": "2010-09-28T19:00:00Z",
+      "duration": "00:59:07",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/the-secrets-of-scientology-bbc-panorama-28-sept-2010"
+      }
+    },
+    {
+      "id": "1ed53629-250c-45ec-a8bc-c64cc481c7ee",
+      "title": "Scientology And Me",
+      "description": "An investigation into the Church of Scientology, endorsed by Hollywood celebs, which continues to face criticism that it is less of a religion and more of a cult.\n\nhttps://www.bbc.co.uk/programmes/b007jdf3\nhttps://en.wikipedia.org/wiki/Scientology_and_Me",
+      "release": "2007-05-14T19:30:00Z",
+      "duration": "00:29:20",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/bbc-panorama-scientology-and-me-v-155829886-qj-8-wkak"
+      }
+    },
+    {
+      "id": "67b0df04-bc71-4510-b4c6-6d3c797de081",
+      "title": "\u0027The definition of religion (...) is not defined by John Sweeney.\u0027",
+      "description": "Tommy Davis (Spokesperson of the Church of Scientology) and John Sweeney (BBC Panorama).",
+      "release": "2007-05-11T18:39:46Z",
+      "duration": "00:01:22",
+      "explicit": false,
+      "youTubeId": "0HGM8DSnYh0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0HGM8DSnYh0"
+      }
+    }
+  ]
+}

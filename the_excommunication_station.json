@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "4236e959-8c7f-4f95-9e8e-d53599e449d9",
+      "title": "183. Tori Williams Douglass Interview Part I",
+      "description": "Tori from Go Home Bible You\u0027re Drunk comes back on to talk about growing up in the church, leaving, her family and authoritarian parenting.",
+      "release": "2024-12-04T07:00:00Z",
+      "duration": "01:45:22.1550000",
+      "explicit": false,
+      "spotifyId": "5eTfHWLzU4yq95jhn8NmSu",
+      "appleId": 1000679175505,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5eTfHWLzU4yq95jhn8NmSu",
+        "apple": "https://podcasts.apple.com/podcast/183-tori-williams-douglass-interview-part-i/id1573190999?i=1000679175505"
+      }
+    },
+    {
       "id": "8f7e336a-843a-48fb-bdb9-86bc746bfe82",
       "title": "182. The NEW Adventures Of Mcgee And Me",
       "description": "This week, we finish up our travels into the world of mcgee and me.",

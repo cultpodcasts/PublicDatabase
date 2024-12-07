@@ -2221,6 +2221,9 @@
       "explicit": false,
       "spotifyId": "2ST8IDmf5PWf9WdocjQ9hX",
       "appleId": 1000489092888,
+      "subjects": [
+        "Ripper Crew"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ST8IDmf5PWf9WdocjQ9hX",
         "apple": "https://podcasts.apple.com/podcast/the-chicago-rippers-robin-gecht-pt-2/id1286818575?i=1000489092888"
@@ -2235,6 +2238,9 @@
       "explicit": false,
       "spotifyId": "0c6s65Mqlrg24o64j4IfeU",
       "appleId": 1000488455338,
+      "subjects": [
+        "Ripper Crew"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0c6s65Mqlrg24o64j4IfeU",
         "apple": "https://podcasts.apple.com/podcast/the-chicago-rippers-robin-gecht-pt-1/id1286818575?i=1000488455338"
@@ -3828,7 +3834,7 @@
       "spotifyId": "6cF48sCaYU0Im1lKILl0X2",
       "appleId": 1000440566478,
       "subjects": [
-        "Glenn Helzer"
+        "Glen Helzer"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6cF48sCaYU0Im1lKILl0X2",
@@ -3845,7 +3851,7 @@
       "spotifyId": "264TbU4q4KpwKVuyyCXkXq",
       "appleId": 1000439916005,
       "subjects": [
-        "Glenn Helzer"
+        "Glen Helzer"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/264TbU4q4KpwKVuyyCXkXq",

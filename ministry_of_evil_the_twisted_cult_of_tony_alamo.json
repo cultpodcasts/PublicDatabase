@@ -1,0 +1,63 @@
+{
+  "_ts": 0,
+  "id": "2aa1161e-69a6-4b5a-ba67-1e20e7fa6e77",
+  "name": "Ministry of Evil: The Twisted Cult of Tony Alamo",
+  "episodes": [
+    {
+      "id": "f9b6ce18-fbac-4aeb-a006-2558ba24a727",
+      "title": "Series 1: Episode 4",
+      "description": "Once released from prison, Tony Alamo begins \u0027wedding\u0027 young girls. As the child abuse escalates, former members urge the FBI to intervene. \n",
+      "release": "2024-04-16T22:45:00",
+      "duration": "00:42:00",
+      "explicit": false,
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001ycfj/ministry-of-evil-the-twisted-cult-of-tony-alamo-series-1-episode-4"
+      }
+    },
+    {
+      "id": "0e62f2c6-3ee8-466f-a4b5-75cebfcc0ab1",
+      "title": "Series 1: Episode 3",
+      "description": "While on the run, Alamo orders his followers to leave the compound and take his wife\u0027s body whilst he tries to evade arrest. ",
+      "release": "2024-04-16T22:00:00",
+      "duration": "00:41:00",
+      "explicit": false,
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001ycfg/ministry-of-evil-the-twisted-cult-of-tony-alamo-series-1-episode-3"
+      }
+    },
+    {
+      "id": "86047248-bd9f-4819-8317-ac1a9253b35c",
+      "title": "Series 1: Episode 2",
+      "description": "Tony and Susan Alamo\u0027s grip on power is challenged as Susan becomes ill and law enforcement investigates allegations of labour violations and abuse. ",
+      "release": "2024-04-09T22:45:00",
+      "duration": "00:41:00",
+      "explicit": false,
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001y576/ministry-of-evil-the-twisted-cult-of-tony-alamo-series-1-episode-2"
+      }
+    },
+    {
+      "id": "367328a4-6023-43b6-af9c-a29934852161",
+      "title": "Series 1: Episode 1",
+      "description": "In the 1960s, preachers Susan and Tony Alamo recruit vulnerable young people to join their cult promoting personal salvation. Over time, the group faces allegations of abuse. ",
+      "release": "2024-04-08T23:00:00Z",
+      "duration": "00:41:01",
+      "explicit": false,
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001y572/ministry-of-evil-the-twisted-cult-of-tony-alamo-series-1-episode-1"
+      }
+    }
+  ]
+}

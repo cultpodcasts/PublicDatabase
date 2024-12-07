@@ -1,0 +1,63 @@
+{
+  "_ts": 0,
+  "id": "f3239896-7176-4240-ae50-a061c2ff8364",
+  "name": "Sirius: An Apocalyptic Order",
+  "episodes": [
+    {
+      "id": "9110c054-f5c7-4e7a-9a6a-08d9c8ddcc62",
+      "title": "Series 1: 2. The Origins",
+      "description": "The sect\u2019s origins and mysticism are uncovered, profiles of the guru leaders and their financial misconduct emerge. Murder allegations arise, but the cult defends its secrets.",
+      "release": "2024-12-03T22:40:00",
+      "duration": "00:42:00",
+      "explicit": false,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001xx5m/sirius-an-apocalyptic-order-series-1-2-the-origins"
+      }
+    },
+    {
+      "id": "f27db9ce-0ec3-4ccf-9efa-ee1a9474a2e3",
+      "title": "Series 1: 1. Massacre or Suicide",
+      "description": "Corpses found at a Swiss farm lead police and reporters to investigate a mystic cult. More ritualistic murders in Canada expand the enquiry, and former cult members speak out.",
+      "release": "2024-12-03T22:00:00",
+      "duration": "00:41:00",
+      "explicit": false,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001xx53/sirius-an-apocalyptic-order-series-1-1-massacre-or-suicide"
+      }
+    },
+    {
+      "id": "c1b6398f-4987-410f-b639-0d31ba3cb62d",
+      "title": "Series 1: Episode 3",
+      "description": "Sixteen charred bodies found in French woodland shock the public, and a French lawsuit opens. New photos of cult rituals damn a flamboyant former cult member, making him prime suspect.",
+      "release": "2024-12-03T00:00:00",
+      "duration": "00:43:00",
+      "explicit": false,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001xx5q/sirius-an-apocalyptic-order-series-1-episode-3"
+      }
+    },
+    {
+      "id": "3c8c743d-1fd9-4a7e-a4f7-bfbb671a9853",
+      "title": "Sirius: An Apocalyptic Order - Series 1: Episode 4",
+      "description": "Three children survive a final suicide ritual, and their accounts fuel theories at a fraught public trial. Families of victims mourn, and journalists conclude that the cult may still exist.",
+      "release": "2024-12-03T00:00:00",
+      "duration": "00:43:00",
+      "explicit": false,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001xx5s/sirius-an-apocalyptic-order-series-1-episode-4"
+      }
+    }
+  ]
+}

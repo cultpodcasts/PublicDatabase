@@ -6,6 +6,34 @@
   "appleId": 1513489117,
   "episodes": [
     {
+      "id": "39adc19e-b9ae-4e40-ac0f-73aff8216eca",
+      "title": "BEST OF: Show Me The Toes P2",
+      "description": "Join Tara Jean Stevens for her exclusive interview with Krissy Dines. On March 14th, she claims her amputated toes supernaturally regrew, during a healing service, at James River Church. This is part two of a two-part miniseries, first released in June 2023. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-12-02T11:01:27Z",
+      "duration": "00:32:48.0910000",
+      "explicit": false,
+      "spotifyId": "0aWpoJ3XzqJLClnL9UYedX",
+      "appleId": 1000678890699,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0aWpoJ3XzqJLClnL9UYedX",
+        "apple": "https://podcasts.apple.com/podcast/best-of-show-me-the-toes-p2/id1513489117?i=1000678890699"
+      }
+    },
+    {
+      "id": "dd2ddb45-dd5d-4ce0-852e-352808acc816",
+      "title": "BEST OF: Show Me The Toes P1",
+      "description": "Did a Missouri-woman\u2019s amputated toes regrow, during a healing service, at James River Church? In part one of this two-part miniseries, Tara Jean Stevens talks to the creator of ShowMeTheToes.com. He\u2019s a skeptical Christian who wants to see evidence of this so-called miracle. This 2-part series was originally published in June 2023. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2024-12-02T11:00:58Z",
+      "duration": "00:29:47.4280000",
+      "explicit": false,
+      "spotifyId": "3rg8968ZlCMccbByas0KfO",
+      "appleId": 1000678890970,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rg8968ZlCMccbByas0KfO",
+        "apple": "https://podcasts.apple.com/podcast/best-of-show-me-the-toes-p1/id1513489117?i=1000678890970"
+      }
+    },
+    {
       "id": "1fa8495f-bdf8-404e-af84-c4fce1320e5b",
       "title": "S4 B7: IHOPKC 1-Year Later",
       "description": "It\u2019s been one year since Season 4 took a shocking turn. This episode offers a retrospective and the latest on the scandal that rocked the International House of Prayer in Kansas City to its core. NOTE: This episode includes portions of the subscriber-only episode from July, 2024. Hosted on Acast. See acast.com/privacy for more information.",
@@ -382,7 +410,6 @@
       "spotifyId": "0IFVEsaRFSZRJXjhXW4R0x",
       "appleId": 1000590724904,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {
@@ -586,7 +613,6 @@
       "spotifyId": "4hgYDbE3D5X2nm0QyzGuNd",
       "appleId": 1000517716258,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {
@@ -604,9 +630,8 @@
       "spotifyId": "3KDHCvWj6IxIfUT8AFhgpE",
       "appleId": 1000516759483,
       "subjects": [
-        "Evangelicalism",
-        "Kings Chapel Group",
-        "Bethel Church (Redding CA)"
+        "Bethel Church (Redding CA)",
+        "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KDHCvWj6IxIfUT8AFhgpE",
@@ -623,7 +648,6 @@
       "spotifyId": "726rFRxiMwZtpKu1GT9MQe",
       "appleId": 1000515793246,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {
@@ -658,7 +682,6 @@
       "spotifyId": "5WA0TIb4yAQ2jKYT16TFH0",
       "appleId": 1000513917861,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {
@@ -693,7 +716,6 @@
       "spotifyId": "6p57nQvdekfVC4Vz7bWFgz",
       "appleId": 1000512056738,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {
@@ -711,7 +733,6 @@
       "spotifyId": "57QXWMtfAEvPPl10Oeu2Yx",
       "appleId": 1000511097904,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {
@@ -746,7 +767,6 @@
       "spotifyId": "5PY4sA3wrc5DhTdth7S859",
       "appleId": 1000508814473,
       "subjects": [
-        "Kings Chapel Group",
         "Bethel Church (Redding CA)"
       ],
       "urls": {

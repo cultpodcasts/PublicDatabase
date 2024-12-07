@@ -5184,6 +5184,9 @@
       "explicit": false,
       "spotifyId": "6XkF5ER343KVvf05gqLWDZ",
       "appleId": 1000440112144,
+      "subjects": [
+        "David Berkowitz"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6XkF5ER343KVvf05gqLWDZ",
         "apple": "https://podcasts.apple.com/podcast/david-berkowitz/id1436376574?i=1000440112144"

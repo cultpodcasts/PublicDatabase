@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCgdI17cTQUMIKSKJGhM-WPQ",
   "episodes": [
     {
+      "id": "0d97ca50-00fd-4b0c-a7c8-431e8e2778f4",
+      "title": "JW News Friday Wrap-up / Entertainment Tonight",
+      "description": "Join us for a news wrap up and entertainment tonight featuring Alora Mermaid",
+      "release": "2024-12-07T00:26:50Z",
+      "duration": "01:42:02",
+      "explicit": false,
+      "youTubeId": "iZ1g_xygQ9g",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iZ1g_xygQ9g"
+      }
+    },
+    {
+      "id": "c00995a9-5dc5-4ff0-adfe-3686899fe603",
+      "title": "Recap of the Ehsan Joarder Interview - EXJW\u0027s weigh in",
+      "release": "2024-12-04T03:26:42Z",
+      "duration": "01:52:58",
+      "explicit": false,
+      "youTubeId": "ZbgvdHvS6I4",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZbgvdHvS6I4"
+      }
+    },
+    {
       "id": "1de53404-b971-440b-83a2-927159f58613",
       "title": "JW News Tonight",
       "description": "Join me for the news then entertainment.",

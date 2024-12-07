@@ -34,6 +34,20 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=oKBv_qiGm2E"
       }
+    },
+    {
+      "id": "7f92dd5b-254f-47fb-803b-1e763aa1b6b8",
+      "title": "Andrew Tate - Andrew Tate: The Man Who Groomed the World?",
+      "description": "Is Andrew Tate behind a secret society that grooms women into online sex work? And could someone else be behind him? Matt Shea reveals the truth behind Tate and his \u0027War Room.\u0027",
+      "release": "2023-08-31T00:00:00",
+      "duration": "01:05:00",
+      "explicit": false,
+      "subjects": [
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m001q1n6/andrew-tate-andrew-tate-the-man-who-groomed-the-world"
+      }
     }
   ]
 }

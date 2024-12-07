@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "1c229c0e-8847-488b-af63-5eafa80ea227",
+  "name": "The Backstory with Patty Steele",
+  "spotifyId": "0o5zY28cwKCNpwAFnU57iw",
+  "appleId": 1697870711,
+  "episodes": [
+    {
+      "id": "350c27fb-6727-4059-a2d3-9b47e7d67747",
+      "title": "The Backstory: Drinking the Kool-Aid \u2013 the Jonestown massacre",
+      "description": "Ever heard the term \u201Cdrinking the Kool-Aid\u201D? It all started with Jim Jones and his people\u2019s temple cult in the 1970s. After outspoken support from people like Jane Fonda and First Lady Roselyn Carter, he led his followers to the jungles of Guyana in South America in 1978. In the end, over 900 people drank his cyanide-laced Kool-Aid. See omnystudio.com/listener for privacy information.",
+      "release": "2024-12-06T05:00:00Z",
+      "duration": "00:12:41.9650000",
+      "explicit": false,
+      "spotifyId": "3xjEnglpQZ4rYAXKpZS2t6",
+      "appleId": 1000679436721,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3xjEnglpQZ4rYAXKpZS2t6",
+        "apple": "https://podcasts.apple.com/podcast/the-backstory-drinking-the-kool-aid-the-jonestown-massacre/id1697870711?i=1000679436721"
+      }
+    }
+  ]
+}

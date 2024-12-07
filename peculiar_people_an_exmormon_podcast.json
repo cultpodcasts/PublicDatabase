@@ -6,6 +6,23 @@
   "appleId": 1758628735,
   "episodes": [
     {
+      "id": "5e89daa4-81b0-4724-9c6b-6c814b124366",
+      "title": "Ep. 20 - In and Out: Called to be Queer",
+      "description": "Kage shares their story of meeting the missionaries and feeling like she was living a double life as she explored Mormonism in their early 20s.",
+      "release": "2024-12-01T15:00:00Z",
+      "duration": "00:46:55",
+      "explicit": false,
+      "spotifyId": "39C4OaBhiuqhPeZkLaRPUS",
+      "appleId": 1000678789128,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/39C4OaBhiuqhPeZkLaRPUS",
+        "apple": "https://podcasts.apple.com/podcast/ep-20-in-and-out-called-to-be-queer/id1758628735?i=1000678789128"
+      }
+    },
+    {
       "id": "117c3520-d241-47d8-b2a0-28c5dd597bdd",
       "title": "Ep. 19 - \u0022I\u0027m wearing Crocs to Mass.\u0022",
       "description": "TW: Mentions of emotional abuse and cult behavior Our special guest Em shares their story of growing up Catholic, exploring another church during college, and ultimately deciding that religion is just not for them.",

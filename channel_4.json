@@ -1,0 +1,21 @@
+{
+  "_ts": 0,
+  "id": "14f1896b-af44-4462-97db-a1649cd88caa",
+  "name": "Channel 4",
+  "episodes": [
+    {
+      "id": "e4ff3497-4c44-4570-92c1-7b9a79b7d523",
+      "title": "Rebekah Vardy: Jehovah\u0027s Witnesses and Me",
+      "description": "Rebekah Vardy goes on a personal journey through her difficult history with the Jehovah\u0027s Witnesses, meeting former members and uncovering secret documents",
+      "release": "2023-05-16T20:00:00Z",
+      "duration": "00:48:08",
+      "explicit": false,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/rebekah-vardy-jehovahs-witnesses-and-me-web"
+      }
+    }
+  ]
+}

@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "83e39455-b3f6-49e6-b160-b5378642f6b6",
+      "title": " Live with special guest - CourtTV\u0027s Vinnie Politan ",
+      "description": "Don\u0027t miss Vinnie\u0027s insights and experiences - and it\u0027s LIVE!!",
+      "release": "2024-12-02T17:43:34Z",
+      "duration": "01:02:02.5000000",
+      "explicit": false,
+      "spotifyId": "61KjGEHjohCs3lDXpVXOCl",
+      "appleId": 1000678935142,
+      "youTubeId": "3fVwLERq014",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/61KjGEHjohCs3lDXpVXOCl",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-067-12-1-24-live/id1694606661?i=1000678935142",
+        "youtube": "https://www.youtube.com/watch?v=3fVwLERq014"
+      }
+    },
+    {
       "id": "050a44e7-b63f-49fc-a95b-f8320decd7b5",
       "title": "Silver Linings Podcast - YOUTUBE LIVE-066 - 11-15-24 - Live Session - What questions do we still want ans",
       "description": "Silver Linings Podcast - YOUTUBE LIVE-066 - 11-15-24 - Live Session - What questions do we still want ans",

@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "02195085-095e-42c2-9334-074867db5892",
+  "name": "France3",
+  "episodes": [
+    {
+      "id": "c37a50f3-0c1e-44ad-bc97-ecc02af35868",
+      "title": "Voyage Au Pays Des Nouveaux Gourous (Voyage to the Land of the New Gurus)",
+      "description": "\n\n    In 2004 a documentary film about the activities of Landmark Education also known as the Landmark Forum or The Forum was broadcast on French television. The film entitled Voyage Au Pays Des Nouveaux Gourous (Voyage to the Land of the New Gurus) was produced by the French news program Pi\u00E8ces \u00E0 Conviction.\n\n    San Francisco-based Landmark Education known for its Landmark Forum motivational workshops describes itself as \u0022a global educational enterprise offering The Landmark Forum and graduate courses \u0022 claiming that \u0022[m]ore than 160 000 people participate in Landmark\u0027s courses each year.\u0022\n\n    The documentary is critical of the Landmark program and includes hidden camera footage from inside a Landmark Forum event in France as well as within the Landmark offices in France. It also includes a panel discussion with the host and interviews with a variety of people regarding whether or not Landmark is a cult. According to Landmark the \u0022broadcasting of this program had disastrous consequences and resulted in considerable damage to Landmark Education\u0027s subsidiary operating the France.\u0022 \n",
+      "release": "2004-05-24T20:00:00Z",
+      "duration": "01:05:01",
+      "explicit": false,
+      "subjects": [
+        "Landmark",
+        "Large Group Awareness Trainings"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/VoyageDesNouveauxGourous"
+      }
+    }
+  ]
+}

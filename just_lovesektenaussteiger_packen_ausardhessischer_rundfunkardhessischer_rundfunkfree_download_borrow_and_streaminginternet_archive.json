@@ -1,0 +1,21 @@
+{
+  "_ts": 0,
+  "id": "60655084-8d16-4497-95c4-96ddc42e181c",
+  "name": "ARD/Hessischer Rundfunk",
+  "episodes": [
+    {
+      "id": "1012ce43-1d68-4270-80da-745eab83ea6c",
+      "title": "Just Love - Sektenaussteiger packen aus",
+      "description": "Ex-followers accuse Guru Vishwananda of abusing his power. They report the Guru of the Hindu cult Bhakti Marga allegedly tricks young male supporters into sexual encounters.",
+      "release": "2022-01-27T00:00:00Z",
+      "duration": "00:45:45",
+      "explicit": false,
+      "subjects": [
+        "Bhakti Marga"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/just-love-sektenaussteiger-packen-aus"
+      }
+    }
+  ]
+}

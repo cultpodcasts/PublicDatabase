@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "23433ab0-5294-4e35-abce-686129d14b59",
+  "name": "The Shrink Show",
+  "spotifyId": "1X16319nx5NYmaXLyenDMp",
+  "appleId": 1637681180,
+  "episodes": [
+    {
+      "id": "0016ad00-d230-425d-9ad3-79040adbadd5",
+      "title": "Religious Cult Survivor w/ Heather Ford",
+      "description": "Heather Ford shares her life story of finding herself after surviving cult abuse. Her story includes her life of living in foster care, being raised in a religious cult, sexual abuse, and eventually escaping the religious cult. She is currently writing her memoir and hopes to share her story to inspire and to help others in similar situations. Follow Heather: Instagram @religiouscultsurvivor1006 Tiktok @religiouscultsurivor06 Subscribe, rate, \u0026 review The Shrink Show podcast: Facebook , Instagram , YouTube , X",
+      "release": "2024-12-04T06:00:00Z",
+      "duration": "00:56:37.3020000",
+      "explicit": true,
+      "spotifyId": "7ek02NnbNpO3AHN65Vo7ac",
+      "appleId": 1000679166438,
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7ek02NnbNpO3AHN65Vo7ac",
+        "apple": "https://podcasts.apple.com/podcast/religious-cult-survivor-w-heather-ford/id1637681180?i=1000679166438"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "4fc631a9-d4bb-4f39-b58c-a5883ce2db51",
+  "name": "StopTheAbuse2010",
+  "youTubeChannelId": "UCZ8wJblcc8Vq3mC8tTSJWCQ",
+  "episodes": [
+    {
+      "id": "3ad071fc-58d2-4510-ab06-8bcb447998d6",
+      "title": "Mike Rinder Speaks Out - Scientology (part 2 of 2)",
+      "description": "Part 2 of 2 \r\nBroadcast July 22 2010 on Channel Seven\u0027s Today Tonight programme \r\nReporter: Bryan Seymour \r\nhttp://au.todaytonight.yahoo.com",
+      "release": "2010-07-22T10:37:18Z",
+      "duration": "00:02:34",
+      "explicit": false,
+      "youTubeId": "_vgorwz_s2k",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_vgorwz_s2k"
+      }
+    },
+    {
+      "id": "bd20e81a-610d-4071-a526-5e2fc9e8397b",
+      "title": "Mike Rinder Speaks Out - Scientology (part 1 of 2)",
+      "description": "Part 1 of 2 \r\nBroadcast July 22 2010 on Channel Seven\u0027s Today Tonight programme \r\nReporter: Bryan Seymour \r\nhttp://au.todaytonight.yahoo.com",
+      "release": "2010-07-22T10:25:26Z",
+      "duration": "00:09:39",
+      "explicit": false,
+      "youTubeId": "sOv0LtzXlx4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sOv0LtzXlx4"
+      }
+    }
+  ]
+}

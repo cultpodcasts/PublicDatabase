@@ -3467,6 +3467,9 @@
       "explicit": true,
       "spotifyId": "3Ymw9JRlmn6W2j1PIRzuwD",
       "appleId": 1000455334548,
+      "subjects": [
+        "Ripper Crew"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Ymw9JRlmn6W2j1PIRzuwD",
         "apple": "https://podcasts.apple.com/podcast/ep-113-the-chicago-rippers-pt-3-the-grandslammer/id1276011417?i=1000455334548"
@@ -3509,6 +3512,9 @@
       "explicit": true,
       "spotifyId": "2GRgtXKAxhuDBSrFx94jfE",
       "appleId": 1000452613611,
+      "subjects": [
+        "Ripper Crew"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GRgtXKAxhuDBSrFx94jfE",
         "apple": "https://podcasts.apple.com/podcast/ep-111-the-chicago-rippers-an-pony-o-banderas/id1276011417?i=1000452613611"
