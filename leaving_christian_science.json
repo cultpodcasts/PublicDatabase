@@ -7,6 +7,44 @@
   "youTubeChannelId": "UCRZgut8uSRL-ZhBmWgSEbuA",
   "episodes": [
     {
+      "id": "964c9d65-0945-404c-aae5-a4a5ce2c29af",
+      "title": "Leaving Christian Science: Season 2, Episode 3 - Brianna",
+      "description": "In this episode, Brianna discusses her childhood in Christian Science, her experiences in Sunday School and at Christian Science summer camp, her own health struggles, and the death of her mom due to CS medical neglect",
+      "release": "2024-12-13T16:00:00Z",
+      "duration": "01:33:32.4480000",
+      "explicit": false,
+      "spotifyId": "0GAQA3AMS1Dl3EULKTYtIf",
+      "appleId": 1000680282214,
+      "youTubeId": "XDs1EwxGBmE",
+      "subjects": [
+        "Christian Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0GAQA3AMS1Dl3EULKTYtIf",
+        "apple": "https://podcasts.apple.com/podcast/leaving-christian-science-season-2-episode-3-brianna/id1715422784?i=1000680282214",
+        "youtube": "https://www.youtube.com/watch?v=XDs1EwxGBmE"
+      }
+    },
+    {
+      "id": "da0eb13a-2cdf-4337-b08c-3dfeba855c2a",
+      "title": "Leaving Christian Science: Season 2, Episode 2 - Judith",
+      "description": "In this episode, Judith discusses her harrowing experience with appendicitis while on a cruise far from home, apocryphal family healing stories (or were they?), and dealing with PTSD",
+      "release": "2024-12-07T00:47:13Z",
+      "duration": "01:10:12.2850000",
+      "explicit": true,
+      "spotifyId": "5nRbifzEMO6BbXr678J3q2",
+      "appleId": 1000679541497,
+      "youTubeId": "nHX2rma0WjQ",
+      "subjects": [
+        "Christian Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5nRbifzEMO6BbXr678J3q2",
+        "apple": "https://podcasts.apple.com/podcast/leaving-christian-science-season-2-episode-2-judith/id1715422784?i=1000679541497",
+        "youtube": "https://www.youtube.com/watch?v=nHX2rma0WjQ"
+      }
+    },
+    {
       "id": "55e7bbf6-2208-4e61-b61e-54baaf3495c0",
       "title": "Wasted time",
       "description": "How many thousands of hours did we waste praying and studying and guarding our thoughts when we just could have taken an Advil? Check out this week\u0027s episode featuring Judith, now available.",

@@ -244,12 +244,14 @@
       "explicit": false,
       "spotifyId": "5OSoc9qTxIwhis4vIL8HaN",
       "appleId": 1000608921498,
+      "youTubeId": "8_aoUoaQEc8",
       "subjects": [
         "Sufi"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5OSoc9qTxIwhis4vIL8HaN",
-        "apple": "https://podcasts.apple.com/podcast/tween-marriage-and-the-culture-of-polygamy-with-tamara/id1387341884?i=1000608921498"
+        "apple": "https://podcasts.apple.com/podcast/tween-marriage-and-the-culture-of-polygamy-with-tamara/id1387341884?i=1000608921498",
+        "youtube": "https://www.youtube.com/watch?v=8_aoUoaQEc8"
       }
     },
     {
@@ -664,13 +666,15 @@
       "explicit": false,
       "spotifyId": "1rmxLXfCs40JecLfz4rEuU",
       "appleId": 1000423515165,
+      "youTubeId": "3WAwOGNQf7Q",
       "subjects": [
         "Science of Identity Foundation",
         "Hare Krishnas"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1rmxLXfCs40JecLfz4rEuU",
-        "apple": "https://podcasts.apple.com/podcast/sandy-footprints/id1387341884?i=1000423515165"
+        "apple": "https://podcasts.apple.com/podcast/sandy-footprints/id1387341884?i=1000423515165",
+        "youtube": "https://www.youtube.com/watch?v=3WAwOGNQf7Q"
       }
     },
     {

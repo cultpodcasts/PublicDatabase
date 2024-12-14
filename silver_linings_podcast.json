@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "d6f150cf-f793-4a7d-b1e1-8e1f4a167a34",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-068 - 12-8-24 - Time for Wild Lori Speculations",
+      "description": "Let\u0027s wildly speculate together about Lori representing herself!",
+      "release": "2024-12-10T21:41:03Z",
+      "duration": "01:00:49.3720000",
+      "explicit": false,
+      "spotifyId": "7BSCkNebkFgWdvZeDbM19f",
+      "appleId": 1000679936973,
+      "youTubeId": "DU4keEZxnBM",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7BSCkNebkFgWdvZeDbM19f",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-068-12-8-24-time/id1694606661?i=1000679936973",
+        "youtube": "https://www.youtube.com/watch?v=DU4keEZxnBM"
+      }
+    },
+    {
       "id": "83e39455-b3f6-49e6-b160-b5378642f6b6",
       "title": " Live with special guest - CourtTV\u0027s Vinnie Politan ",
       "description": "Don\u0027t miss Vinnie\u0027s insights and experiences - and it\u0027s LIVE!!",

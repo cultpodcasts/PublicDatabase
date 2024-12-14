@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "871ca2d2-14e8-4668-bdb1-b75ec54a4c7a",
+  "name": "Crime Alert Hourly Update",
+  "spotifyId": "5r4p8Dp9rtbmzxEGKv4Juo",
+  "appleId": 1415787912,
+  "episodes": [
+    {
+      "id": "883bbc52-511c-43ea-b32c-ba168feb86db",
+      "title": "Crime Alert 8AM 12.13.24| Mom Who Stabbed Baby to Death in Cult Murder Sentenced",
+      "description": "13-mo-old Hannah Driver was stabbed to death by her mother, Chloe Driver. The cult mother has been sentenced to life in prison. See omnystudio.com/listener for privacy information.",
+      "release": "2024-12-13T13:20:00Z",
+      "duration": "00:13:43.0660000",
+      "explicit": false,
+      "spotifyId": "4ufKOOeC385TJG7ade1oy4",
+      "appleId": 1000680266310,
+      "subjects": [
+        "Benyamin Ben-Michaeil"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ufKOOeC385TJG7ade1oy4",
+        "apple": "https://podcasts.apple.com/podcast/crime-alert-8am-12-13-24-mom-who-stabbed-baby-to-death/id1415787912?i=1000680266310"
+      }
+    }
+  ]
+}

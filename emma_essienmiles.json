@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "86a9e685-6dea-4cea-bd0c-4a1a6b3fd593",
+  "name": "Emma Essien-Miles",
+  "youTubeChannelId": "UCPpGx9xm0C38kKiwGwL-onA",
+  "episodes": [
+    {
+      "id": "13ac2e17-b9fe-4b65-8124-1f891210b217",
+      "title": "Conned by my church",
+      "description": "Documentary from the BBC",
+      "release": "2019-12-18T17:45:10Z",
+      "duration": "00:28:58",
+      "explicit": false,
+      "youTubeId": "kpmvlz07z5c",
+      "subjects": [
+        "SPAC Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kpmvlz07z5c"
+      }
+    }
+  ]
+}

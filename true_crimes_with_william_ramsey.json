@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "0444b2c7-db1c-4e9f-b820-48e587ae2ba6",
+  "name": "True Crimes with William Ramsey",
+  "spotifyId": "5VN8HjTLHCPiOxjkQb3fQX",
+  "appleId": 1617860693,
+  "episodes": [
+    {
+      "id": "c4450845-a501-42a1-bd15-3735107bfb3c",
+      "title": "Frank Parlato talks about Keith Raniere and NXIVM, April 2018.",
+      "description": "Frank Parlato talks about Keith Raniere and NXIUM, April 2018.",
+      "release": "2021-10-20T15:28:29Z",
+      "duration": "00:56:21.8900000",
+      "explicit": false,
+      "spotifyId": "5CN8zkJzTrPLMrm3W0faUA",
+      "appleId": 1000556333339,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5CN8zkJzTrPLMrm3W0faUA",
+        "apple": "https://podcasts.apple.com/podcast/frank-parlato-talks-about-keith-raniere-and-nxium/id1617860693?i=1000556333339"
+      }
+    }
+  ]
+}

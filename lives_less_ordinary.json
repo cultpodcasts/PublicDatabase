@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "00e0cc75-c375-4506-8fdd-70d8a5d226c5",
+  "name": "Lives Less Ordinary",
+  "spotifyId": "5QHhthwcJVGBrvVHV0oiJR",
+  "appleId": 333469871,
+  "episodes": [
+    {
+      "id": "2bf59a79-a55c-4c89-864a-59e80d32ccc3",
+      "title": "After doomsday: I outgrew a cult and became a professor",
+      "description": "Jerald Walker grew up in the predominantly white, Worldwide Church of God \u2013 a doomsday cult that convinced its followers the world would end in 1972. Raised by blind, African American parents and under the cult\u0027s strict teachings, which preached racial segregation and an imminent apocalypse, Jerald\u2019s life was dominated by fear, isolation, and the belief that his future didn\u2019t exist. When the promised doomsday never came, Jerald and his family were left grappling with shattered beliefs. As his life unravelled, Jerald fell into addiction and crime, struggling to escape the mental and emotional grip of the cult. But through education, an extraordinary teacher and a passion for writing, he found a path to redemption. Presenter: Asya Fouks Producer: Thomas Harding Assinder Get in touch: liveslessordinary@bbc.co.uk or WhatsApp: 0044 330 678 2784",
+      "release": "2024-12-09T00:30:00Z",
+      "duration": "00:41:29.2910000",
+      "explicit": false,
+      "spotifyId": "3J5YCxnXpv2ab1Ysn9XoLu",
+      "appleId": 1000679690939,
+      "subjects": [
+        "Worldwide Church Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3J5YCxnXpv2ab1Ysn9XoLu",
+        "apple": "https://podcasts.apple.com/podcast/after-doomsday-i-outgrew-a-cult-and-became-a-professor/id333469871?i=1000679690939"
+      }
+    }
+  ]
+}

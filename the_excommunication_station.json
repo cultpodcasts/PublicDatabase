@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "3e840365-2324-4f5f-9391-996f23e0fa99",
+      "title": "184. We Read: The Woman They Wanted by Shannon Harris",
+      "description": "This week, we dive into The Women They Wanted by Shannon Harris, exwife of purity culture megastar, Joshua Harris. This is going to be a 3 part series and sorry its so long but we have a lot to say.",
+      "release": "2024-12-11T07:00:00Z",
+      "duration": "02:45:34.4970000",
+      "explicit": true,
+      "spotifyId": "6iNrEokTXnmlRMxBF82KFo",
+      "appleId": 1000679980639,
+      "subjects": [
+        "Purity Culture"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6iNrEokTXnmlRMxBF82KFo",
+        "apple": "https://podcasts.apple.com/podcast/184-we-read-the-woman-they-wanted-by-shannon-harris/id1573190999?i=1000679980639"
+      }
+    },
+    {
       "id": "4236e959-8c7f-4f95-9e8e-d53599e449d9",
       "title": "183. Tori Williams Douglass Interview Part I",
       "description": "Tori from Go Home Bible You\u0027re Drunk comes back on to talk about growing up in the church, leaving, her family and authoritarian parenting.",

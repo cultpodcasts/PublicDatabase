@@ -1,10 +1,27 @@
 {
   "_ts": 0,
   "id": "02d43878-e585-4764-86cc-5fc28b375ff0",
-  "name": "Spiritually F**ked",
+  "name": "The CULTural Zeitgeist",
   "spotifyId": "3pUzEKtXEt6GSKBgxeReNS",
   "appleId": 1712148990,
   "episodes": [
+    {
+      "id": "cdd102db-d0cb-4bd8-9fca-3cb9ca000e2f",
+      "title": "JZ Knight: The Wizard of Yelm",
+      "description": "JZ Knight rose to prominence for channeling a Ramtha, a 35,000-year-old entity from a lost civilization. However, she quickly contorted her message of love and self-acceptance into a racist doomsday prediction that pit reptilian aliens against only the most enlightened of mankind.",
+      "release": "2024-12-11T11:30:00Z",
+      "duration": "01:15:03.0900000",
+      "explicit": true,
+      "spotifyId": "1gkSUvQzsYeoqqtVQF8VOr",
+      "appleId": 1000680003589,
+      "subjects": [
+        "Ramtha\u0027s School of Enlightenment"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1gkSUvQzsYeoqqtVQF8VOr",
+        "apple": "https://podcasts.apple.com/podcast/jz-knight-the-wizard-of-yelm/id1712148990?i=1000680003589"
+      }
+    },
     {
       "id": "4de19db1-ee8c-43bd-be6f-169d3ea083db",
       "title": "Guru Jagat: Qanon Alien Wars and Melon Diets (Re-release)",

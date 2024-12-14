@@ -1,0 +1,77 @@
+{
+  "_ts": 0,
+  "id": "bccc115c-9545-4ccc-b5aa-0bf09abc620d",
+  "name": "Church Review Podcast",
+  "spotifyId": "7zqgJF0ESU3ghb6108wF8b",
+  "episodes": [
+    {
+      "id": "029afdec-5541-4ac9-8855-7d43bdeff439",
+      "title": "Ep4: Bethel Church Redding",
+      "description": "Join hosts Jesse and Sam as they take a spirited journey into the world of Bethel Church in Redding, California\u2014where the worship is electric, the teachings are... well, supernatural, and the coffee is probably anointed. From Bethel\u2019s rise as a powerhouse of modern Christianity to its global influence (and occasional eyebrow-raising moments), Jesse and Sam break down what makes this mega-church tick. Is it the miracle healings? The rockstar worship leaders? Or maybe it\u2019s just the sheer volume of fog machines? Along the way, they discuss Bethel\u0027s infamous Bethel School of Supernatural Ministry, the magic of \u0022Jesus culture,\u0022 and why some people think they\u2019re onto something divine while others just want to know if it\u2019s all just a really good cult in disguise. Get ready for a fun, irreverent, and surprisingly deep dive into one of the most talked-about churches of our time!",
+      "release": "2024-12-10T00:00:00",
+      "duration": "00:50:06.1710000",
+      "explicit": false,
+      "spotifyId": "6A5jKiSuGL2TKM650xNYDf",
+      "subjects": [
+        "Bethel Church (Redding CA)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6A5jKiSuGL2TKM650xNYDf"
+      }
+    },
+    {
+      "id": "afafacd4-089c-4be8-87cc-bf039ec9ad68",
+      "title": "Rod of Iron Ministries: Guns, Faith, and Politics",
+      "description": "What happens when faith, firearms, and politics intersect in the pews? Join us as we explore the astonishing practices of the Rod of Iron Ministries, a church led by Pastor Sean Moon that uniquely incorporates firearms into their worship services, inspired by their interpretation of Revelation 19:15. Discover the church\u0027s roots in the Unification Church founded by Reverend Sun Myung Moon and the family tensions that birthed this controversial offshoot.",
+      "release": "2024-12-04T00:00:00",
+      "duration": "00:50:09.7760000",
+      "explicit": false,
+      "spotifyId": "1xGVWZgTTNytKhIjmqcTK4",
+      "subjects": [
+        "Rod of Iron Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1xGVWZgTTNytKhIjmqcTK4"
+      }
+    },
+    {
+      "id": "3d7706fa-e725-4672-8936-54e1b5ab3542",
+      "title": "Exclusive Brethren Church",
+      "description": "In this episode Jesse and Sam, the hosts take a deep dive into the world of the Exclusive Brethren\u2014think of them as the secretive cult who really don\u2019t want you using the internet. Jesse and Sam break down the quirks of this ultra-strict religious group, from their peculiar dress code to their \u0022we\u2019re not talking to you\u0022 attitude toward the outside world. With a mix of humor, and a healthy dose of skepticism, they explore why some people choose to join and why others flee faster than you can say \u201Cno music allowed.\u201D",
+      "release": "2024-12-01T00:00:00",
+      "duration": "00:45:53.9060000",
+      "explicit": false,
+      "spotifyId": "7oVtAS31NnRCKHDSm7w94p",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7oVtAS31NnRCKHDSm7w94p"
+      }
+    },
+    {
+      "id": "30438d75-b93a-4a3b-8f6b-3fc0b374dae9",
+      "title": "The Church of the Lord Jesus with Signs Following (Snake Biting Church)",
+      "description": "Join Jesse and Sam as they dive into the bizarre world of snake-handling churches\u2014where proving your faith means literally dodging a venomous bite. They\u2019ll explore why some people risk life and limb for God, the wild history behind it, and how this dangerous practice is still alive today. With stories, takes, and a few laughs along the way, this episode is your ticket to one of the weirdest religious traditions around.",
+      "release": "2024-11-28T00:00:00",
+      "duration": "00:43:19.6010000",
+      "explicit": false,
+      "spotifyId": "4619ZDpXk2mUtbIne2ig75",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4619ZDpXk2mUtbIne2ig75"
+      }
+    },
+    {
+      "id": "c40d69bf-ea1d-464d-8543-2a1579996ab8",
+      "title": "Unofficial Official Episode",
+      "description": "Join hosts Jesse Graham and Sam Charles as they review everything church-related \u2014 from the music to the sermon to the little things that make each service unique. In this unique and short episode, they share their thoughts on what the church review podcast is about and a little but about themselves in the making too. Whether you\u0027re a regular churchgoer or just curious, Jesse and Sam\u2019s laid-back, honest take will make you look at Sunday service a little differently.",
+      "release": "2024-11-27T00:00:00",
+      "duration": "00:32:20.7150000",
+      "explicit": false,
+      "spotifyId": "6el2Uw1LsasCiz3VRSz4kD",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6el2Uw1LsasCiz3VRSz4kD"
+      }
+    }
+  ]
+}
