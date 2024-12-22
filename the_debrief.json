@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "f6f0162c-1656-4ec2-991e-aedfab2955bf",
+  "name": "The Debrief",
+  "spotifyId": "47Wj7Eqe1Sq8oaX7cqh9wR",
+  "appleId": 1768993013,
+  "episodes": [
+    {
+      "id": "16d1bd62-c560-4218-b355-38641beffa4d",
+      "title": "Growing in a \u0027brainwashing\u0027 cult",
+      "description": "Imagine growing up in a cult. That\u0027s exactly what happened to Sarito Carroll who was a child of the Osho Rajneesh movement.\u00A0\n She joins Dane and Lucy on The Debrief and talks of her experiences as a child growing up through the movement and witnessing a bizarre way of life.",
+      "release": "2024-12-16T15:27:56Z",
+      "duration": "00:57:15",
+      "explicit": false,
+      "spotifyId": "1fVsqLbzmBOkv0iY5o9cPf",
+      "appleId": 1000680571440,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1fVsqLbzmBOkv0iY5o9cPf",
+        "apple": "https://podcasts.apple.com/podcast/growing-in-a-brainwashing-cult/id1768993013?i=1000680571440"
+      }
+    }
+  ]
+}

@@ -5,6 +5,76 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "402cb6e9-4395-45a6-b07e-3c7a4379b05a",
+      "title": "The Mafia of Academic Publishing - why is it just so problematic?",
+      "release": "2024-12-20T23:43:56Z",
+      "duration": "00:03:02",
+      "explicit": false,
+      "youTubeId": "4FPBdhzODkg",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=4FPBdhzODkg"
+      }
+    },
+    {
+      "id": "8f4e9374-bc39-43b3-b97a-68937ede280b",
+      "title": "How Aaron Swartz first took on the Public Access to Court Electronic Records (PACER) scam",
+      "release": "2024-12-20T23:28:23Z",
+      "duration": "00:06:25",
+      "explicit": false,
+      "youTubeId": "Ui_VOG0B9tg",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ui_VOG0B9tg"
+      }
+    },
+    {
+      "id": "6ff0054a-ffb6-45a5-abb5-f22c1a5f8d88",
+      "title": "What was the Stop Online Piracy Act (SOPA), and how did Aaron Swartz and Demand Progress stop it?",
+      "release": "2024-12-20T23:15:43Z",
+      "duration": "00:07:50",
+      "explicit": false,
+      "youTubeId": "Ozn8kmpMJog",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ozn8kmpMJog"
+      }
+    },
+    {
+      "id": "ecbe5c73-6a5b-4fa7-92d6-d72c13e41f5b",
+      "title": "Do we get bad technology policy outcomes because lawmakers don\u0026#39;t understand tech?",
+      "release": "2024-12-14T15:51:07Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "youTubeId": "kSmSR0l2Vug",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kSmSR0l2Vug"
+      }
+    },
+    {
+      "id": "9dd9347c-e1ca-4a5f-a4b9-e831c36b0801",
+      "title": "Does Information Want To Be Free?",
+      "release": "2024-12-14T13:13:42Z",
+      "duration": "00:00:41",
+      "explicit": false,
+      "youTubeId": "zzaM4W2Hj7M",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zzaM4W2Hj7M"
+      }
+    },
+    {
       "id": "b6ddfe4e-3b3e-4de4-98ec-8f4e3ab325ae",
       "title": "The Inevitable Spread of Information - What Does History Tell Us?",
       "release": "2024-12-13T21:46:31Z",

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "f419363b-4722-4652-a08a-2bb20b658d93",
+  "name": "Talk Murder To Me Podcast",
+  "spotifyId": "1fHAN7dZTV5xqAn1GolEjH",
+  "appleId": 1379928882,
+  "youTubeChannelId": "UCdyQTnX-4da3gPSyxAwitwA",
+  "episodes": [
+    {
+      "id": "7bdfa09b-2365-4214-9914-ebe18eaf7838",
+      "title": "Talking Nazi Cults: Colonia Dignidad",
+      "description": "Deep in the foothills of the Andes Mountains, a cult run by former Nazis perpetuated a cycle of horror and destruction. In operation for decades under the leadership of Paul Shafer and influenced by Evangelical Revivalist Christianity, Colonia Dignidad was endorsed by the military dictatorship in Chile.\n\n\n\n\nSubscribe: https://linktr.ee/talkmurdertome\n\nContent warning: the true crime stories discussed on this podcast can involve graphic and disturbing subject matter. Listener discretion is strongly advised.\n\nFair use disclaimer: some materials used in this work are included under the fair use doctrine for educational purposes. Any copyrighted materials are owned by their respective copyright holders. Questions regarding use of copyrighted materials may be directed to legal [@] Talkocast.com",
+      "release": "2021-10-09T19:02:32Z",
+      "duration": "00:54:16",
+      "explicit": false,
+      "spotifyId": "3XraPc4ovVyFhDEkRQovdx",
+      "appleId": 1000538072095,
+      "youTubeId": "0kaMFTukLo4",
+      "subjects": [
+        "Colonia Dignidad"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3XraPc4ovVyFhDEkRQovdx",
+        "apple": "https://podcasts.apple.com/podcast/talking-nazi-cults-colonia-dignidad-new-podcast/id1379928882?i=1000538072095",
+        "youtube": "https://www.youtube.com/watch?v=0kaMFTukLo4"
+      }
+    }
+  ]
+}

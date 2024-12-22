@@ -15,12 +15,14 @@
       "explicit": true,
       "spotifyId": "2w9ulTbt4DaLMGWnQLOY0J",
       "appleId": 1000679847755,
+      "youTubeId": "nZyysjPD1KE",
       "subjects": [
         "Jeffrey Lundgren"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2w9ulTbt4DaLMGWnQLOY0J",
-        "apple": "https://podcasts.apple.com/podcast/episode-74-the-kirtland-cult-part-2-the-rise-and/id1695961925?i=1000679847755"
+        "apple": "https://podcasts.apple.com/podcast/episode-74-the-kirtland-cult-part-2-the-rise-and/id1695961925?i=1000679847755",
+        "youtube": "https://www.youtube.com/watch?v=nZyysjPD1KE"
       }
     },
     {
@@ -32,12 +34,14 @@
       "explicit": true,
       "spotifyId": "74xlK9WF1vkZgjl4Ra3SCx",
       "appleId": 1000679004591,
+      "youTubeId": "73yYHPqbnNU",
       "subjects": [
         "Jeffrey Lundgren"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/74xlK9WF1vkZgjl4Ra3SCx",
-        "apple": "https://podcasts.apple.com/podcast/episode-73-the-kirtland-cult-part-1-the-rise-and/id1695961925?i=1000679004591"
+        "apple": "https://podcasts.apple.com/podcast/episode-73-the-kirtland-cult-part-1-the-rise-and/id1695961925?i=1000679004591",
+        "youtube": "https://www.youtube.com/watch?v=73yYHPqbnNU"
       }
     },
     {
@@ -163,12 +167,14 @@
       "explicit": true,
       "spotifyId": "6ZO7ZG5bkWMeZRrQIcWq4l",
       "appleId": 1000660135045,
+      "youTubeId": "c3oim1YsvcE",
       "subjects": [
         "Connexions"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ZO7ZG5bkWMeZRrQIcWq4l",
-        "apple": "https://podcasts.apple.com/podcast/episode-51-ruby-franke-the-family-vlog-mom-from-hell/id1695961925?i=1000660135045"
+        "apple": "https://podcasts.apple.com/podcast/episode-51-ruby-franke-the-family-vlog-mom-from-hell/id1695961925?i=1000660135045",
+        "youtube": "https://www.youtube.com/watch?v=c3oim1YsvcE"
       }
     },
     {
@@ -199,12 +205,14 @@
       "explicit": true,
       "spotifyId": "1GP7qiUvl4zxXMOchCV6WQ",
       "appleId": 1000654007219,
+      "youTubeId": "jtgN8FpR-us",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1GP7qiUvl4zxXMOchCV6WQ",
-        "apple": "https://podcasts.apple.com/podcast/episode-43-keith-raniere-the-nxivm-cult-leader/id1695961925?i=1000654007219"
+        "apple": "https://podcasts.apple.com/podcast/episode-43-keith-raniere-the-nxivm-cult-leader/id1695961925?i=1000654007219",
+        "youtube": "https://www.youtube.com/watch?v=jtgN8FpR-us"
       }
     },
     {

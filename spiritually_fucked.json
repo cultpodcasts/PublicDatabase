@@ -6,6 +6,22 @@
   "appleId": 1712148990,
   "episodes": [
     {
+      "id": "9ac21451-de7b-4149-92a1-f29927fe7f06",
+      "title": "The Seekers: A Casual Christmas Doomsday Abduction",
+      "release": "2024-12-18T11:30:00Z",
+      "duration": "00:49:27.6920000",
+      "explicit": true,
+      "spotifyId": "5BZ2ZIl2IoUzLWfidc5fw0",
+      "appleId": 1000680815997,
+      "subjects": [
+        "The Seekers"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5BZ2ZIl2IoUzLWfidc5fw0",
+        "apple": "https://podcasts.apple.com/podcast/the-seekers-a-casual-christmas-doomsday-abduction/id1712148990?i=1000680815997"
+      }
+    },
+    {
       "id": "cdd102db-d0cb-4bd8-9fca-3cb9ca000e2f",
       "title": "JZ Knight: The Wizard of Yelm",
       "description": "JZ Knight rose to prominence for channeling a Ramtha, a 35,000-year-old entity from a lost civilization. However, she quickly contorted her message of love and self-acceptance into a racist doomsday prediction that pit reptilian aliens against only the most enlightened of mankind.",

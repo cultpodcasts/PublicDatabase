@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCRZgut8uSRL-ZhBmWgSEbuA",
   "episodes": [
     {
+      "id": "192eabba-8179-4862-af91-1688c35d91e9",
+      "title": "Leaving Christian Science: Season 2, Episode 4 - Caito",
+      "description": "In this episode, Caito discusses the experience of pulling away from Christian Science while still having parents in it, the grief over her mother\u0027s death, and the role art and music played in her deconstruction and recovery",
+      "release": "2024-12-20T16:00:00Z",
+      "duration": "01:14:20.9700000",
+      "explicit": false,
+      "spotifyId": "6I9138eotPu0nfy1DdUgNd",
+      "appleId": 1000681155356,
+      "youTubeId": "NqqXmgdKfhI",
+      "subjects": [
+        "Christian Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6I9138eotPu0nfy1DdUgNd",
+        "apple": "https://podcasts.apple.com/podcast/leaving-christian-science-season-2-episode-4-caito/id1715422784?i=1000681155356",
+        "youtube": "https://www.youtube.com/watch?v=NqqXmgdKfhI"
+      }
+    },
+    {
       "id": "964c9d65-0945-404c-aae5-a4a5ce2c29af",
       "title": "Leaving Christian Science: Season 2, Episode 3 - Brianna",
       "description": "In this episode, Brianna discusses her childhood in Christian Science, her experiences in Sunday School and at Christian Science summer camp, her own health struggles, and the death of her mom due to CS medical neglect",

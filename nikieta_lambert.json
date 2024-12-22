@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCvyOve11JdrB4gMNLBnVg2A",
   "episodes": [
     {
+      "id": "caa6e245-f06c-4a74-a41e-e278029ff880",
+      "title": "Vicki Jacoby Speaks: Too Little Too Late?",
+      "description": "Live reaction to the letter Vicki Jacoby recently allowed to be circulated.",
+      "release": "2024-12-21T14:03:53Z",
+      "duration": "00:24:53",
+      "explicit": false,
+      "youTubeId": "ASfszKzGRes",
+      "subjects": [
+        "International Churches Of Christ"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ASfszKzGRes"
+      }
+    },
+    {
       "id": "cf6ae53c-8cc1-48c0-80ae-782d1212bb5d",
       "title": "Leaving ICOC/ICC: where do you go from here? (Live!)",
       "release": "2024-11-17T23:08:53Z",

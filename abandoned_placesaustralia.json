@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCJD0QXUezYplLhhxl8mnUFg",
   "episodes": [
     {
+      "id": "97ff2076-c448-4cd3-b9f7-134339e70531",
+      "title": "MELBOURNE CULT HOUSE PT1",
+      "release": "2024-12-20T17:17:11Z",
+      "duration": "00:21:21",
+      "explicit": false,
+      "youTubeId": "WI8_T66kD74",
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WI8_T66kD74"
+      }
+    },
+    {
       "id": "17a056c4-9d79-4386-9cbd-3ea2701d6be4",
       "title": "Melbourne Cult Leader Interview, And inside One of The Abandoned Propertys",
       "release": "2024-07-26T09:34:49Z",

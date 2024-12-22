@@ -1,0 +1,19 @@
+{
+  "_ts": 0,
+  "id": "7aaa3a5f-7818-4ca6-9530-e177a548de69",
+  "name": "Boxoffice Rewind TV",
+  "youTubeChannelId": "UCeAr4kZFImRUJyUnLJ1dklA",
+  "episodes": [
+    {
+      "id": "583fa4a7-a1d6-471e-ba2e-517bf8e44ee3",
+      "title": "The A-Team VS A Cult | The A-Team CLIP",
+      "release": "2024-12-19T16:00:50Z",
+      "duration": "00:06:36",
+      "explicit": false,
+      "youTubeId": "nOqcecI11bg",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nOqcecI11bg"
+      }
+    }
+  ]
+}

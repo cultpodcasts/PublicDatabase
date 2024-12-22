@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "18e13dfa-1c69-4b03-a36e-6e0912bdde1a",
+  "name": "True Crime with Rachel Shannon",
+  "spotifyId": "0iEuhhIUMwViHYzjfTUAAy",
+  "appleId": 1751988016,
+  "youTubeChannelId": "UCAFWNLR1noxicep8TVIUEIg",
+  "episodes": [
+    {
+      "id": "09617974-f734-454c-963f-eb457325ddcf",
+      "title": "33: BARBARIC: Mom in Polygamist Cult STABS Her Baby to Death After \u0022Pouring Sin\u0022 Into Her",
+      "description": "Hannah Driver was born into an unusual lifestyle: Her mother, Chloe was one of 3 wives married to her father, Brian. After being a part of this \u0022polygamist cult\u0022 for years, Chloe started showing signs of mental illness, until one day she took the most drastic action possible: killing her own baby in the most horrific, brutal way possible.",
+      "release": "2024-12-15T15:00:00Z",
+      "duration": "00:42:41.1360000",
+      "explicit": false,
+      "spotifyId": "4YLkG53gwRjrQaChV7cHto",
+      "appleId": 1000680433569,
+      "youTubeId": "ifJ6xcK42b8",
+      "subjects": [
+        "Benyamin Ben-Michaeil"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4YLkG53gwRjrQaChV7cHto",
+        "apple": "https://podcasts.apple.com/podcast/barbaric-mom-in-polygamist-cult-stabs-her-baby-to-death/id1751988016?i=1000680433569",
+        "youtube": "https://www.youtube.com/watch?v=ifJ6xcK42b8"
+      }
+    }
+  ]
+}

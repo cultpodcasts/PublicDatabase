@@ -1001,6 +1001,9 @@
       "explicit": false,
       "spotifyId": "4Wep2xysjTFHUoVA0VzdtQ",
       "appleId": 1000615353048,
+      "subjects": [
+        "The Seekers"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Wep2xysjTFHUoVA0VzdtQ",
         "apple": "https://podcasts.apple.com/podcast/the-christmas-rapture/id1286818575?i=1000615353048"
@@ -2843,6 +2846,9 @@
       "explicit": false,
       "spotifyId": "3xSRT2MtkoHH15JDMEqxLc",
       "appleId": 1000472035254,
+      "subjects": [
+        "The Seekers"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3xSRT2MtkoHH15JDMEqxLc",
         "apple": "https://podcasts.apple.com/podcast/cults-daily-the-seekers-dr-charles-laughead/id1286818575?i=1000472035254"

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "1c31ff45-1934-48b5-826f-d8cf60a850cc",
+  "name": "The International Book Show Podcast",
+  "spotifyId": "0CA1kKhhSzvX1fj6EJqv4w",
+  "appleId": 1702097455,
+  "episodes": [
+    {
+      "id": "0f8f02a4-7a3a-4f65-b1b2-b6cd4c38acdc",
+      "title": "Episode 106 - Annie Dawid",
+      "description": "Annie Dawid is the author of the book called Paradise Undone: A Novel of Jonestown. https://www.amazon.co.uk/Paradise-Undone-Jonestown-Annie-Dawid/dp/1916708005",
+      "release": "2024-12-15T23:35:42Z",
+      "duration": "00:46:38.2620000",
+      "explicit": false,
+      "spotifyId": "4Zqaywo4TdQS8oMi3Vrh1z",
+      "appleId": 1000680476397,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Zqaywo4TdQS8oMi3Vrh1z",
+        "apple": "https://podcasts.apple.com/podcast/episode-106-annie-dawid/id1702097455?i=1000680476397"
+      }
+    }
+  ]
+}
