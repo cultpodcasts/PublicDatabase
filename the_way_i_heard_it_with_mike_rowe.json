@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8769eedf-c7c0-4157-91fc-8633b767f51d",
+  "name": "The Way I Heard It with Mike Rowe",
+  "spotifyId": "5cqHs2kCabyijuKOSN2QUS",
+  "appleId": 1087110764,
+  "episodes": [
+    {
+      "id": "17c7fd4b-fd16-4faa-9845-28086201e991",
+      "title": "240: The Crushing Certainty of Scientology",
+      "description": "Today\u2019s guest is Spanky Taylor, whose company does fan management and threat assessment for high profile celebrities. Oh yeah, and she broke her billion-year contract and escaped Scientology.",
+      "release": "2022-02-28T13:00:00Z",
+      "duration": "01:09:12.7110000",
+      "explicit": false,
+      "spotifyId": "2rC3ttSwxs1bwRGYmCKRGn",
+      "appleId": 1000552445262,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rC3ttSwxs1bwRGYmCKRGn",
+        "apple": "https://podcasts.apple.com/podcast/240-the-crushing-certainty-of-scientology/id1087110764?i=1000552445262"
+      }
+    }
+  ]
+}

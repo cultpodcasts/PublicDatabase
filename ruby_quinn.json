@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCgdI17cTQUMIKSKJGhM-WPQ",
   "episodes": [
     {
+      "id": "d2e9880e-912b-4347-9760-a42f7ccf9b09",
+      "title": "JW News Around the World",
+      "description": "Join Ruby and Vern for a discussion on the latest news.....",
+      "release": "2024-12-27T18:10:28Z",
+      "duration": "01:57:26",
+      "explicit": false,
+      "youTubeId": "ijEY26kOVTs",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ijEY26kOVTs"
+      }
+    },
+    {
       "id": "17ddb7f4-6440-4ae4-b69c-c8d1d2b14c64",
       "title": "JW NEWS around the world",
       "description": "Join us for the friday night news and entertainment",

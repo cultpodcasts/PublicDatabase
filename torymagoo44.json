@@ -5,6 +5,21 @@
   "youTubeChannelId": "UC__gcXYVQlmVocNLZykibUw",
   "episodes": [
     {
+      "id": "64c1194f-a759-40ad-96a1-5a16711f1e72",
+      "title": "Twas the Night Before Christmas....in some lands :) 2024",
+      "description": "#Christmas 2024\r\n#ToryMagoo44",
+      "release": "2024-12-24T07:52:54Z",
+      "duration": "00:25:43",
+      "explicit": false,
+      "youTubeId": "Pi-300jiAts",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Pi-300jiAts"
+      }
+    },
+    {
       "id": "8232a00d-b3ec-4e5a-adc0-015fbec1a740",
       "title": "Scientology: Vital Targets by Hubbard",
       "description": "#Scientology\r\n#VitalTargetsofScientology\r\n#ToryMagoo44",
@@ -9104,8 +9119,7 @@
       "explicit": false,
       "youTubeId": "pSzSocVvs2o",
       "subjects": [
-        "Scientology",
-        "The Living Word Fellowship"
+        "Scientology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=pSzSocVvs2o"

@@ -1,11 +1,30 @@
 {
   "_ts": 0,
   "id": "14634825-750e-4261-8e1d-a19b32268358",
-  "name": "Multispective Podcast",
+  "name": "Multispective",
   "spotifyId": "6Ww9d7Hmq6CfdKwN21CC09",
   "appleId": 1604126986,
   "youTubeChannelId": "UCZY5UdaFDVnW8-pRucMHtog",
   "episodes": [
+    {
+      "id": "85d298ae-a8b5-416f-8d4a-68fcd932de2f",
+      "title": "068 I survived Jehovah\u0027s Witnesses, Abuse and Addiction",
+      "description": "Send us a text In this episode, CJ shares his story of growing up as a Jehovah\u2019s Witness with an abusive father. He emulated his father in his later years, turning to alcohol to cope. He shares the darkest and lowest points in this period and the key moments that changed his life. From childhood trauma to breaking free and finding sobriety, CJ\u2019s journey is about survival, transformation, and hope. Don\u2019t miss this powerful episode. Support the show Additionally, you can now also watch the full video version of your favourite episode here on YouTube . Please subscribe, like or drop a comment letting us know your thoughts on the episode and if you\u0027d like more stories going forward! If you would like to offer any feedback on our show or get in touch with us, you can also contact us on the following platforms: Website: www.multispective.org Email: info@multispective.org Instagram: www.instagram.com/multispectiveorg Facebook: www.facebook.com/multispectiveorg Reddit: www.reddit.com/r/multispective Support the show: https://www.patreon.com/multispective Producer \u0026 Host: Jennica Sadhwani Editing: Stephan Menzel Marketing: Lucas Phiri",
+      "release": "2024-12-27T10:00:00Z",
+      "duration": "00:56:41.5860000",
+      "explicit": false,
+      "spotifyId": "4tTnwF3YlXS3AneDnHDIPk",
+      "appleId": 1000681839032,
+      "youTubeId": "zhqmVUbrE0Q",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4tTnwF3YlXS3AneDnHDIPk",
+        "apple": "https://podcasts.apple.com/podcast/068-i-survived-jehovahs-witnesses-abuse-and-addiction/id1604126986?i=1000681839032",
+        "youtube": "https://www.youtube.com/watch?v=zhqmVUbrE0Q"
+      }
+    },
     {
       "id": "9951d350-7f0b-4cc2-8a1b-b69ff2b9cfce",
       "title": "The Cult that Killed my Son",

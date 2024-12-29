@@ -15,13 +15,15 @@
       "explicit": false,
       "spotifyId": "3rjVHojecWv93Bo9EBnHmF",
       "appleId": 1000673603045,
+      "youTubeId": "3VoRsiXIrU0",
       "subjects": [
         "Opus Dei",
         "Catholicism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3rjVHojecWv93Bo9EBnHmF",
-        "apple": "https://podcasts.apple.com/podcast/opus-dei-the-secret-catholic-cult-backing-donald-trump/id1472959950?i=1000673603045"
+        "apple": "https://podcasts.apple.com/podcast/opus-dei-the-secret-catholic-cult-backing-donald-trump/id1472959950?i=1000673603045",
+        "youtube": "https://www.youtube.com/watch?v=3VoRsiXIrU0"
       }
     },
     {

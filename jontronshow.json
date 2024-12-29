@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "e1d3889e-b85f-4943-9538-c1ba70845c93",
+  "name": "JonTronShow",
+  "youTubeChannelId": "UCdJdEguB1F1CiYe7OEi3SBg",
+  "episodes": [
+    {
+      "id": "6b2eaac5-70d2-4f2f-99e6-89cb820b902c",
+      "title": "The \u0022Alien-Italian\u0022 Cult That Wants Your Inheritance",
+      "release": "2024-09-28T19:41:38Z",
+      "duration": "00:16:38",
+      "explicit": false,
+      "youTubeId": "tLxx_Fu3qNc",
+      "subjects": [
+        "Federation of Damanhur"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tLxx_Fu3qNc"
+      }
+    }
+  ]
+}

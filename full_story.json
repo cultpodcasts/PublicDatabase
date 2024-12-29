@@ -4,7 +4,27 @@
   "name": "Full Story",
   "spotifyId": "7GJod4EyoLywB1AW6zrSHh",
   "appleId": 1482061243,
+  "youTubeChannelId": "UCoWKwd06OC0Y0XpvAa8jfdw",
+  "youTubePlaylistId": "PL_oP0ajyhYQkHHCUmBHgfNr5fETgUEpwG",
   "episodes": [
+    {
+      "id": "4d53f70c-fe03-4609-bca9-1f4188bcaab3",
+      "title": "Best of 2024: The \u2018doomsday cult\u2019 recruiting Australian university students",
+      "description": "The Shincheonji church is an international Christian sect which started in South Korea. But the group is being accused of bizarre recruitment strategies at a number of Australian universities and former members have made allegations of \u2018coercive control\u2019 tactics that include love bombing and sleep deprivation. Medical editor Melissa Davey speaks to Reged Ahmad about the experiences of families of current members, as well as former members, about life on the inside You can support the Guardian at theguardian.com/fullstorysupport",
+      "release": "2024-12-25T14:00:13Z",
+      "duration": "00:24:54.8660000",
+      "explicit": false,
+      "spotifyId": "2Itc9SmPMp2ZJ1wzka5MdA",
+      "appleId": 1000681658037,
+      "subjects": [
+        "Shincheonji Church of Jesus",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Itc9SmPMp2ZJ1wzka5MdA",
+        "apple": "https://podcasts.apple.com/podcast/best-of-2024-the-doomsday-cult-recruiting/id1482061243?i=1000681658037"
+      }
+    },
     {
       "id": "2a684bfb-a599-4e09-9c36-4e7bc1b2cb36",
       "title": "The \u0027doomsday cult\u0027 recruiting Australian university students",

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "64db90dc-5f9f-4ff4-8f3c-f1f49f191a37",
+  "name": "A Little Help For Our Friends",
+  "spotifyId": "6x83w7AgYfIEQ4droFaakV",
+  "appleId": 1534779912,
+  "youTubeChannelId": "UCzL8H8pH8zzjkRnTM-fRRIg",
+  "episodes": [
+    {
+      "id": "dd3f2bc8-b905-4efc-9e34-32855001835b",
+      "title": "Interview with Sarah Edmondson: Escaping a Cult",
+      "description": "Interview with Sarah Edmondson, the actress and podcast host who escaped Nxivm. Featured on HBO\u0027s The Vow, Nxivm is a group organization that claims to be a personal and professional development program, but has been discovered as a cult that recruits for a secret society called \u0022DOS\u0022 in which women are sexually exploited. Sarah describes her experiences in Nxivm and DOS, the journey to realizing the true nature of organization, and her process of healing after her departure. Resources: \u0022 A Little Bit Culty\u0022 Podcast and Sarah\u0027s Memoir: \u0022Scarred: The True Story of How I Escaped NXIVM the Cult that Bound My Life. \u0022 For more info, check out: www.alittlehelpforourfriends.com Follow us on Instagram: @ALittleHelpForOurFriends Support the show If you have a loved one with mental or emotional problems, join KulaMind , our community and support platform. KulaMind teaches you how to cope with difficult relationships through one-on-one expert coaching, exclusive group support, and personalized digital resources. *We only take a select few clients at a time, so apply here if you\u0027re interested. Listeners of the podcast get a special discount! Follow @kulamind on Instagram for science-backed tips and resources for mental health and relationships. For more info about this podcast, check out: www.alittlehelpforourfriends.com Follow us on Instagram: @ALittleHelpForOurFriends",
+      "release": "2021-12-08T16:00:00Z",
+      "duration": "01:02:34.6840000",
+      "explicit": true,
+      "spotifyId": "5qUBPXWRrGzI18yxz5XViL",
+      "appleId": 1000544336759,
+      "youTubeId": "MyvzLIjurxo",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5qUBPXWRrGzI18yxz5XViL",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-sarah-edmondson-escaping-a-cult/id1534779912?i=1000544336759",
+        "youtube": "https://www.youtube.com/watch?v=MyvzLIjurxo"
+      }
+    }
+  ]
+}

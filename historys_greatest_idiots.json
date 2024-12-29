@@ -13,11 +13,15 @@
       "release": "2024-12-09T10:04:04Z",
       "duration": "01:21:23",
       "explicit": false,
+      "spotifyId": "2B0pteimUoRVX06FENLJLT",
+      "appleId": 1000681349356,
       "youTubeId": "Mu8xx5WD-w4",
       "subjects": [
         "Lighthouse International Group"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2B0pteimUoRVX06FENLJLT",
+        "apple": "https://podcasts.apple.com/podcast/season-5-episode-1-no-cults-please-were-british/id1560346165?i=1000681349356",
         "youtube": "https://www.youtube.com/watch?v=Mu8xx5WD-w4"
       }
     }

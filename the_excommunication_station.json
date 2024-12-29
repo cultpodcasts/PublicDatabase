@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "4e4df6b6-2c1e-4a6c-9cbf-cadef265b355",
+      "title": "186. The Woman They Wanted Part III",
+      "description": "We finish up Shannon Harris\u0027 book The Woman They Wanted. Sorry it took so long",
+      "release": "2024-12-24T23:00:00Z",
+      "duration": "01:12:46.1580000",
+      "explicit": false,
+      "spotifyId": "1f0O6rKaChg2t48GMq5Vfa",
+      "appleId": 1000681601231,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1f0O6rKaChg2t48GMq5Vfa",
+        "apple": "https://podcasts.apple.com/podcast/186-the-woman-they-wanted-part-iii/id1573190999?i=1000681601231"
+      }
+    },
+    {
       "id": "8c47a0ad-176f-4af8-be6f-d0ffb35a1107",
       "title": "185. The Women They Wanted Part II",
       "description": "We continue our talk on Shannon Harris\u0027 book The Women They Wanted",

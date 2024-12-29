@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "56d7c4e5-9da4-4a30-a398-0a4658072d22",
+  "name": "The MeidasTouch Podcast",
+  "spotifyId": "34NcOzUEJs0T5DaUeYLfFl",
+  "appleId": 1510240831,
+  "episodes": [
+    {
+      "id": "d10f71d3-766e-45c7-b966-ff843a1c44ef",
+      "title": "Thought Reform and Cyber Security: Where Cult Manipulation Techniques Meet Technology With Dustin Rozario Steinhagen, PhD",
+      "description": "Dustin Rozario Steinhagen, PhD is a privacy expert who recently graduated with his doctorate degree in Cyber Defense from Dakota State University. His dissertation is titled \u201CDefending the security of the mind: A mail survey of thought-reform literacy in South Dakota.\u201D This quantitative analysis measured \u201Cwhat everyday people know about thought reform and psychologically manipulative groups.\u201D One of the most powerful defenses a person can have against mind hacking is admitting they are vulnerable to it. After that, skills can be acquired and built upon to teach people how to protect themselves further. However, we mustn\u2019t let our guard down when it comes to our brains and minds coming under attack. Like anti-virus software needing updates to protect against the latest cyber threats, our minds also require ongoing learning to maintain psychological security in addition to adequate rest, play, and sleep. Influences are also more challenging to detect, more frequent in occurrence, from multiple directions, and require vigilance when interacting with different levels of trusted or untrusted sources. Having trusted groups who respect personal privacy and have our best intentions in mind becomes extremely important in such an environment. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2024-12-23T10:00:00Z",
+      "duration": "01:00:32.2740000",
+      "explicit": false,
+      "spotifyId": "45c0Gddfzj5TC3Jvoq2Jux",
+      "appleId": 1000681397379,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/45c0Gddfzj5TC3Jvoq2Jux",
+        "apple": "https://podcasts.apple.com/podcast/thought-reform-and-cyber-security-where-cult/id1510240831?i=1000681397379"
+      }
+    }
+  ]
+}

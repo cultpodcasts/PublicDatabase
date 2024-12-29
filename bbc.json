@@ -62,6 +62,51 @@
       "urls": {
         "bbc": "https://www.bbc.co.uk/iplayer/episode/p08vwr8y/catch-her-if-you-can"
       }
+    },
+    {
+      "id": "fc7a1aee-020b-4b20-b0af-1bec5712ad79",
+      "title": "Panorama - Scientology and Me - Editor\u0027s View - BBC One",
+      "description": "BBC Panorama editor Sandy Smith sets out the scene surrounding John Sweeney\u0027s investigation of Scientology.\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
+      "release": "2007-05-15T09:00:41Z",
+      "duration": "00:06:32",
+      "explicit": false,
+      "youTubeId": "Md0zPchNeQ0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Md0zPchNeQ0"
+      }
+    },
+    {
+      "id": "7109a7d5-97fe-4c73-ab16-30e998c0e4b3",
+      "title": "Panorama - Scientology and Me - Tommy Walks Away - BBC One",
+      "description": "Subscribe and \uD83D\uDD14 to the BBC \uD83D\uDC49 https://bit.ly/BBCYouTubeSub\nWatch the BBC first on iPlayer \uD83D\uDC49 https://bbc.in/iPlayer-Home http://www.bbc.co.uk/panorama\r\nTommy Davis (Spokesperson of the Church of Scientology) and John Sweeney (BBC Panorama).\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
+      "release": "2007-05-14T12:23:29Z",
+      "duration": "00:01:25",
+      "explicit": false,
+      "youTubeId": "gE3Y4JwJ0jM",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gE3Y4JwJ0jM"
+      }
+    },
+    {
+      "id": "8ae6fad0-4b68-4880-b0ec-14b89bb27e92",
+      "title": "Panorama  - John Sweeney losing his temper - BBC One",
+      "description": "Subscribe and \uD83D\uDD14 to the BBC \uD83D\uDC49 https://bit.ly/BBCYouTubeSub\nWatch the BBC first on iPlayer \uD83D\uDC49 https://bbc.in/iPlayer-Home http://www.bbc.co.uk/panorama\r\nBBC One Panorama - Scientology and Me - BBC reporter John Sweeney losing his temper.\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
+      "release": "2007-05-14T12:07:39Z",
+      "duration": "00:00:47",
+      "explicit": false,
+      "youTubeId": "mjlo4u_8g60",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mjlo4u_8g60"
+      }
     }
   ]
 }
