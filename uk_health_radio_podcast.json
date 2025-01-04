@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "56d9d65b-a62c-4a17-87ba-d7b950f9c02d",
+  "name": "UK Health Radio Podcast",
+  "spotifyId": "3867vVDIDleqC3d6ldcAok",
+  "appleId": 1656232035,
+  "episodes": [
+    {
+      "id": "f40b8dab-f0ea-4905-abe0-94b21029fd6e",
+      "title": "Heal It with Ken D. Foster - Episode 34",
+      "description": "Episode 34 - Today\u2019s guest, Martha Kartaoui, is a survivor of a religious cult. She now helps others facing adversity reconnect with their true selves, align body and mind, and build resilience for a happier life.",
+      "release": "2024-12-31T04:00:00Z",
+      "duration": "00:42:58",
+      "explicit": false,
+      "spotifyId": "5J8RHG83DoEV5Szieya6PU",
+      "appleId": 1000682194308,
+      "subjects": [
+        "Samanta Roy Institute of Science and Technology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5J8RHG83DoEV5Szieya6PU",
+        "apple": "https://podcasts.apple.com/podcast/heal-it-with-ken-d-foster-episode-34/id1656232035?i=1000682194308"
+      }
+    }
+  ]
+}

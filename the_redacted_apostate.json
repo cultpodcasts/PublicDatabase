@@ -7,6 +7,20 @@
   "youTubeChannelId": "UCeO_7EoE7YEjNoZXUS0oyEw",
   "episodes": [
     {
+      "id": "02ec78a3-2a93-4261-9c7a-eace2c0eadda",
+      "title": "The Cult lurking in the Guatemalan Jungles",
+      "release": "2025-01-01T14:00:50Z",
+      "duration": "01:08:09",
+      "explicit": false,
+      "youTubeId": "tjejSXjv2HE",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tjejSXjv2HE"
+      }
+    },
+    {
       "id": "d5f69c2d-9084-48ca-ad00-ec0d0c3c373a",
       "title": "Why do we listen to Medical Influencers?",
       "description": "In this weeks podcast we look at the almost cult following of medical influencers.  From their early days of solid medical advice to hocking any item that pays them enough money.  Are they our generations snake oil salesmen using Pseudoscience to justify junk cures.",

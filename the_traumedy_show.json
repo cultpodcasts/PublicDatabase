@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "3b58fa09-3a70-48ab-8ac7-f67c7f3d551e",
+  "name": "The Traumedy Show",
+  "spotifyId": "0vHZGBC4LJ5oSJVO8pIdWb",
+  "appleId": 1740207191,
+  "episodes": [
+    {
+      "id": "d628a332-8382-475a-bf56-3fc0ea52aec9",
+      "title": "30. How I Overcame My Narcissistic Patterns and Escaped a Cult (Jacob\u2019s Story)",
+      "description": "This one\u0027s for the boys! Join us for this exciting episode with special guest Jacob as he shares his inspiring and vulnerable journey of personal growth and transformation. His candid account delves into themes of manipulation, religious cults, redemption and the complexities of navigating relationships.\nJacob opens up about his past experiences with relationships, his struggles with emotional detachment and the life-altering turning points that led him to self-discovery and healing. From dealing with family dynamics in a single-parent household to his time in a controlling religious group, Jacob offers insightful reflections on how these experiences shaped him.\nThis episode is a testament to the power of change, shedding light on male vulnerability and the importance of genuine connections and self-awareness. Tune in to hear about Jacob\u0027s compelling path to becoming a more compassionate and self-aware individual, marking a journey filled with humor, honesty and inspiration.",
+      "release": "2025-01-01T11:00:00Z",
+      "duration": "01:28:32",
+      "explicit": false,
+      "spotifyId": "7F14iEKhnro5kI50NFSTZY",
+      "appleId": 1000682315171,
+      "subjects": [
+        "International Churches Of Christ"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7F14iEKhnro5kI50NFSTZY",
+        "apple": "https://podcasts.apple.com/podcast/30-how-i-overcame-my-narcissistic-patterns-and/id1740207191?i=1000682315171"
+      }
+    }
+  ]
+}

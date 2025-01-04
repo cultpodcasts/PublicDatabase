@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "71566e0b-d98e-4e00-97b5-21076ec3af20",
+  "name": "Wine \u0026 Crime Podcast",
+  "youTubeChannelId": "UCvOAQyr3TRB_KNFxCXWLzwQ",
+  "episodes": [
+    {
+      "id": "565a8917-daae-4994-a012-530e25bb6f59",
+      "title": "Ep294 Lady Cult Leaders",
+      "release": "2025-01-02T23:27:55Z",
+      "duration": "01:22:40",
+      "explicit": false,
+      "youTubeId": "SollszaDIME",
+      "subjects": [
+        "Santiniketan Park Association",
+        "Love Has Won"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=SollszaDIME"
+      }
+    }
+  ]
+}

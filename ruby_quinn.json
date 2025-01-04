@@ -5,6 +5,36 @@
   "youTubeChannelId": "UCgdI17cTQUMIKSKJGhM-WPQ",
   "episodes": [
     {
+      "id": "0a9f51e2-fd97-446e-ad77-de1c7fdbbad6",
+      "title": "JW News Tonight",
+      "description": "Join me for a summary of December....",
+      "release": "2025-01-04T01:22:58Z",
+      "duration": "01:28:32",
+      "explicit": false,
+      "youTubeId": "mM6WsI7i-mw",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mM6WsI7i-mw"
+      }
+    },
+    {
+      "id": "402ef0fa-0001-4ea4-8418-afce104458a6",
+      "title": "EXJW Aposta-Thon: New Year\u0027s LIVE Stream!",
+      "description": "Happy New year! Join us to reflect on 2024 and bring in the new year.",
+      "release": "2025-01-01T07:54:35Z",
+      "duration": "03:43:06",
+      "explicit": false,
+      "youTubeId": "pjTK0fkGP9o",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pjTK0fkGP9o"
+      }
+    },
+    {
       "id": "d2e9880e-912b-4347-9760-a42f7ccf9b09",
       "title": "JW News Around the World",
       "description": "Join Ruby and Vern for a discussion on the latest news.....",

@@ -4,7 +4,27 @@
   "name": "Background Briefing with Ian Masters",
   "spotifyId": "3lN8tTFbLPNtaQqVX0wzY9",
   "appleId": 886953283,
+  "youTubeChannelId": "UCmJpAujA8GVVy9EwBR5QwVg",
   "episodes": [
+    {
+      "id": "ef3578b8-4cce-4f9f-8e78-7b11108428a8",
+      "title": "December 31, 2024 - Jason Stanley | Gareth Gore | Timothy Shenk",
+      "description": "A Deep Investigation of the Far-Right Cult Opus Dei and Its Infiltration of American Politics at the Highest Level",
+      "release": "2024-12-31T21:39:02Z",
+      "duration": "01:18:00.0710000",
+      "explicit": false,
+      "spotifyId": "2M0Q79WZQXddr3Ordy8wyj",
+      "appleId": 1000682270986,
+      "youTubeId": "uIZ9LDu3oOY",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2M0Q79WZQXddr3Ordy8wyj",
+        "apple": "https://podcasts.apple.com/podcast/december-31-2024-jason-stanley-gareth-gore-timothy-shenk/id886953283?i=1000682270986",
+        "youtube": "https://www.youtube.com/watch?v=uIZ9LDu3oOY"
+      }
+    },
     {
       "id": "f6f71b95-3b2b-4351-87fe-2889c072e5f8",
       "title": "November 14, 2024 - Lisa Graves | Robert Young Pelton | Gregory Treverton",

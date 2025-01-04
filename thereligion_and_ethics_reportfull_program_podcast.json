@@ -5,6 +5,21 @@
   "appleId": 499968301,
   "episodes": [
     {
+      "id": "25c0159c-4623-42b5-a644-cf077b6a356b",
+      "title": "The stand-off between a cult and the FBI that gripped America",
+      "description": "The 51-day stand-off between the FBI and the Branch Davidians cult that came to a fiery end.",
+      "release": "2025-01-01T05:00:00Z",
+      "duration": "00:28:37",
+      "explicit": false,
+      "appleId": 1000682293822,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/the-stand-off-between-a-cult-and-the-fbi-that-gripped-america/id499968301?i=1000682293822"
+      }
+    },
+    {
       "id": "b1add3c8-adbf-4b28-ba5e-cadba4cc7a6b",
       "title": "The FBI and cult stand-off that gripped America",
       "description": "The 51 day stand-off between the FBI and the Branch Davidians cult that came to a fiery end.",

@@ -4,6 +4,8 @@
   "name": "From One To Wicked",
   "spotifyId": "06QAIRzlD07PLxLLm3tHfA",
   "appleId": 1772817108,
+  "youTubeChannelId": "UC81uEYLYSXbGgwPfP2aXHhw",
+  "youTubePlaylistId": "PLt3D4aBmo9kqFQ-RkGG1qEL4lDXA6E0dR",
   "episodes": [
     {
       "id": "a9458964-85c2-4b1f-add8-308cfd49712d",
@@ -14,12 +16,14 @@
       "explicit": true,
       "spotifyId": "5tLNejqnYS6zklGq24pf4x",
       "appleId": 1000677957638,
+      "youTubeId": "GLnd4qLsWUE",
       "subjects": [
         "Twelve Tribes"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5tLNejqnYS6zklGq24pf4x",
-        "apple": "https://podcasts.apple.com/podcast/the-twelve-tribes-cult-the-dangerous-cult-in/id1772817108?i=1000677957638"
+        "apple": "https://podcasts.apple.com/podcast/the-twelve-tribes-cult-the-dangerous-cult-in/id1772817108?i=1000677957638",
+        "youtube": "https://www.youtube.com/watch?v=GLnd4qLsWUE"
       }
     }
   ]

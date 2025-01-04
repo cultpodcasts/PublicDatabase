@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "3bf4f4dc-23d2-4f67-9e39-283cda066ab3",
+      "title": "187. The Infancy Gospel Of Thomas: Jesus Christ!",
+      "description": "This week we dive into an early christian book which cover\u0027s Jesus\u0027 childhood.",
+      "release": "2025-01-01T07:00:00Z",
+      "duration": "01:34:10.1280000",
+      "explicit": false,
+      "spotifyId": "5ZiROPQRHGiHSTziokizBK",
+      "appleId": 1000682304589,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ZiROPQRHGiHSTziokizBK",
+        "apple": "https://podcasts.apple.com/podcast/187-the-infancy-gospel-of-thomas-jesus-christ/id1573190999?i=1000682304589"
+      }
+    },
+    {
       "id": "4e4df6b6-2c1e-4a6c-9cbf-cadef265b355",
       "title": "186. The Woman They Wanted Part III",
       "description": "We finish up Shannon Harris\u0027 book The Woman They Wanted. Sorry it took so long",
@@ -160,6 +174,9 @@
       "explicit": false,
       "spotifyId": "42nRQXkrh9KIZz4mnl2rz8",
       "appleId": 1000526216661,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/42nRQXkrh9KIZz4mnl2rz8",
         "apple": "https://podcasts.apple.com/podcast/1-where-is-your-wwjd-bracelet/id1573190999?i=1000526216661"
@@ -335,6 +352,9 @@
       "explicit": false,
       "spotifyId": "7hgqwtkArpk6BxecAsRyJq",
       "appleId": 1000665220631,
+      "subjects": [
+        "Purity Culture"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hgqwtkArpk6BxecAsRyJq",
         "apple": "https://podcasts.apple.com/us/podcast/167-wwjd-back-at-one/id1573190999?i=1000665220631"

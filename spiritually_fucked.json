@@ -4,7 +4,27 @@
   "name": "The CULTural Zeitgeist",
   "spotifyId": "3pUzEKtXEt6GSKBgxeReNS",
   "appleId": 1712148990,
+  "youTubeChannelId": "UC4_cOYXbKPpW6s9TqKW-XlQ",
   "episodes": [
+    {
+      "id": "90f65ef9-0ff0-4482-8006-bbae7f0f2630",
+      "title": "Belle Gibson: The Worst - Part Two (Re-release)",
+      "description": "Belle Gibson continues to take her scheme to new levels, gets blasted on 60 Minutes, and takes cultural appropriation to a new level. Please Consider Donating To Cancer Research Institute Cancer Research Institute\u2019s mission is to save more lives by fueling the discovery and development of powerful immunotherapies for all types of cancer. It holds an A- from charity watchdog CharityWatch for it\u2019s transparency and the amount of money it allocated to actually help fund research. Resources Donelly, Beau and Nick Toscano. The Woman Who Fooled The World: Belle Gibson\u2019s Cancer Con. Scribble, 2018 Ackerman, Tessa. \u201C Cancer Fraudster Belle Gibson Rejected by Ethiopians. \u201D The Weekend Australian. 24 January 2020 Donelly, Beau and Nick Toscano. \u201C Friends and doctors raise doubts over \u0027Healing Belle\u0027 cancer claims. \u201D The Age, 10 March 2015 Donelly, Beau and Nick Toscano. \u201C Backlash over app developer Belle Gibson\u0027s missing charity money .\u201D The Age, 9 March 2015 Weaver, Claire. \u201C Belle Gibson: The Girl Who Conned Us All. \u201D Now To Love, 25 July 2015",
+      "release": "2025-01-01T11:30:00Z",
+      "duration": "00:46:48.7370000",
+      "explicit": true,
+      "spotifyId": "4xTneM9M15kh25lXcetVBy",
+      "appleId": 1000682317113,
+      "youTubeId": "JvfV0A5rPiU",
+      "subjects": [
+        "Belle Gibson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4xTneM9M15kh25lXcetVBy",
+        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-two-re-release/id1712148990?i=1000682317113",
+        "youtube": "https://www.youtube.com/watch?v=JvfV0A5rPiU"
+      }
+    },
     {
       "id": "2d6e2db3-791e-461f-a5e0-a51871d1d443",
       "title": "Belle Gibson: The Worst - Part One (Re-release)",
@@ -14,29 +34,14 @@
       "explicit": true,
       "spotifyId": "57IAGntlVTpm79Lqr0lAGJ",
       "appleId": 1000681781363,
+      "youTubeId": "qmUGY0UKQxI",
       "subjects": [
         "Belle Gibson"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/57IAGntlVTpm79Lqr0lAGJ",
-        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-one-re-release/id1712148990?i=1000681781363"
-      }
-    },
-    {
-      "id": "5138d3de-b632-46e7-8006-8a69a1770cea",
-      "title": "Belle Gibson: The Worst - Part One (Re-release)",
-      "description": "Originally aired November 13, 2023 Wellness influencer Belle Gibson claimed that she had cured herself of malignant brain cancer through clean eating and coffee enemas. But, spoiler alert, she was a huge F*CKING liar. Please Consider Donating To Cancer Research Institute Cancer Research Institute\u2019s mission is to save more lives by fueling the discovery and development of powerful immunotherapies for all types of cancer. It holds an A- from charity watchdog CharityWatch for it\u2019s transparency and the amount of money it allocated to actually help fund research. Resources Donelly, Beau and Nick Toscano. The Woman Who Fooled The World: Belle Gibson\u2019s Cancer Con. Scribble, 2018 Ackerman, Tessa. \u201C Cancer Fraudster Belle Gibson Rejected by Ethiopians. \u201D The Weekend Australian. 24 January 2020 Donelly, Beau and Nick Toscano. \u201C Friends and doctors raise doubts over \u0027Healing Belle\u0027 cancer claims. \u201D The Age, 10 March 2015 Donelly, Beau and Nick Toscano. \u201C Backlash over app developer Belle Gibson\u0027s missing charity money .\u201D The Age, 9 March 2015 Weaver, Claire. \u201C Belle Gibson: The Girl Who Conned Us All. \u201D Now To Love, 25 July 2015 The sheets I promised to link in the shownotes",
-      "release": "2024-12-25T11:30:00Z",
-      "duration": "00:00:11.9370000",
-      "explicit": true,
-      "spotifyId": "5sAFq22P1PeQKV2LitbMcr",
-      "appleId": 1000681651262,
-      "subjects": [
-        "Belle Gibson"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/5sAFq22P1PeQKV2LitbMcr",
-        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-one-re-release/id1712148990?i=1000681651262"
+        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-one-re-release/id1712148990?i=1000681781363",
+        "youtube": "https://www.youtube.com/watch?v=qmUGY0UKQxI"
       }
     },
     {
@@ -47,12 +52,14 @@
       "explicit": true,
       "spotifyId": "5BZ2ZIl2IoUzLWfidc5fw0",
       "appleId": 1000680815997,
+      "youTubeId": "9a0Ho6bqZ8g",
       "subjects": [
         "The Seekers"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BZ2ZIl2IoUzLWfidc5fw0",
-        "apple": "https://podcasts.apple.com/podcast/the-seekers-a-casual-christmas-doomsday-abduction/id1712148990?i=1000680815997"
+        "apple": "https://podcasts.apple.com/podcast/the-seekers-a-casual-christmas-doomsday-abduction/id1712148990?i=1000680815997",
+        "youtube": "https://www.youtube.com/watch?v=9a0Ho6bqZ8g"
       }
     },
     {
@@ -64,12 +71,14 @@
       "explicit": true,
       "spotifyId": "1gkSUvQzsYeoqqtVQF8VOr",
       "appleId": 1000680003589,
+      "youTubeId": "ZDs5d7unxcA",
       "subjects": [
         "Ramtha\u0027s School of Enlightenment"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1gkSUvQzsYeoqqtVQF8VOr",
-        "apple": "https://podcasts.apple.com/podcast/jz-knight-the-wizard-of-yelm/id1712148990?i=1000680003589"
+        "apple": "https://podcasts.apple.com/podcast/jz-knight-the-wizard-of-yelm/id1712148990?i=1000680003589",
+        "youtube": "https://www.youtube.com/watch?v=ZDs5d7unxcA"
       }
     },
     {
@@ -81,6 +90,7 @@
       "explicit": false,
       "spotifyId": "3KvbJksVbN7v6rwtGcx7cP",
       "appleId": 1000679241784,
+      "youTubeId": "4FcXhfdStCc",
       "subjects": [
         "Guru Jagat",
         "Qanon",
@@ -88,7 +98,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KvbJksVbN7v6rwtGcx7cP",
-        "apple": "https://podcasts.apple.com/podcast/guru-jagat-qanon-alien-wars-and-melon-diets-re-release/id1712148990?i=1000679241784"
+        "apple": "https://podcasts.apple.com/podcast/guru-jagat-qanon-alien-wars-and-melon-diets-re-release/id1712148990?i=1000679241784",
+        "youtube": "https://www.youtube.com/watch?v=4FcXhfdStCc"
       }
     },
     {
@@ -100,12 +111,14 @@
       "explicit": true,
       "spotifyId": "0bTp759yB5kfgW0z9z80Ne",
       "appleId": 1000678397190,
+      "youTubeId": "-bgKb-labV0",
       "subjects": [
         "Fountain of the World"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0bTp759yB5kfgW0z9z80Ne",
-        "apple": "https://podcasts.apple.com/podcast/krishna-venta-train-ho/id1712148990?i=1000678397190"
+        "apple": "https://podcasts.apple.com/podcast/krishna-venta-train-ho/id1712148990?i=1000678397190",
+        "youtube": "https://www.youtube.com/watch?v=-bgKb-labV0"
       }
     },
     {
@@ -116,12 +129,14 @@
       "explicit": false,
       "spotifyId": "3jCudg66JFaGqKyccpl6Dy",
       "appleId": 1000677617561,
+      "youTubeId": "JKloqieJ1eA",
       "subjects": [
         "Body \u0026 Brain"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3jCudg66JFaGqKyccpl6Dy",
-        "apple": "https://podcasts.apple.com/podcast/body-and-brain-a-shooting-star-to-nick-cage-rushmore/id1712148990?i=1000677617561"
+        "apple": "https://podcasts.apple.com/podcast/body-and-brain-a-shooting-star-to-nick-cage-rushmore/id1712148990?i=1000677617561",
+        "youtube": "https://www.youtube.com/watch?v=JKloqieJ1eA"
       }
     },
     {
@@ -132,12 +147,14 @@
       "explicit": true,
       "spotifyId": "7sIfCFI5c3imjiCtpzSReq",
       "appleId": 1000676763938,
+      "youTubeId": "_iDjrgryWkw",
       "subjects": [
         "Ma Jaya"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7sIfCFI5c3imjiCtpzSReq",
-        "apple": "https://podcasts.apple.com/podcast/ma-jaya-bhagavati-and-the-stigmata-diet/id1712148990?i=1000676763938"
+        "apple": "https://podcasts.apple.com/podcast/ma-jaya-bhagavati-and-the-stigmata-diet/id1712148990?i=1000676763938",
+        "youtube": "https://www.youtube.com/watch?v=_iDjrgryWkw"
       }
     },
     {
@@ -149,9 +166,11 @@
       "explicit": false,
       "spotifyId": "3ygwy8WwbvMlbS2U7hKmxa",
       "appleId": 1000675915894,
+      "youTubeId": "Q7YQU2ArY6w",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ygwy8WwbvMlbS2U7hKmxa",
-        "apple": "https://podcasts.apple.com/podcast/marcia-moore-broadcasting-from-the-twelfth-dimension/id1712148990?i=1000675915894"
+        "apple": "https://podcasts.apple.com/podcast/marcia-moore-broadcasting-from-the-twelfth-dimension/id1712148990?i=1000675915894",
+        "youtube": "https://www.youtube.com/watch?v=Q7YQU2ArY6w"
       }
     },
     {
@@ -163,9 +182,11 @@
       "explicit": false,
       "spotifyId": "5lCAj6q5URf8jrQw0zQeXm",
       "appleId": 1000674993343,
+      "youTubeId": "CS4jTBAjmck",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5lCAj6q5URf8jrQw0zQeXm",
-        "apple": "https://podcasts.apple.com/podcast/the-salem-witch-trials-part-2-f-ck-you-more-weight/id1712148990?i=1000674993343"
+        "apple": "https://podcasts.apple.com/podcast/the-salem-witch-trials-part-2-f-ck-you-more-weight/id1712148990?i=1000674993343",
+        "youtube": "https://www.youtube.com/watch?v=CS4jTBAjmck"
       }
     },
     {
@@ -177,13 +198,15 @@
       "explicit": false,
       "spotifyId": "6llNqZNxqHJWCSpwdBxAt2",
       "appleId": 1000674697938,
+      "youTubeId": "KBrQvPz6l98",
       "subjects": [
         "Self-Help",
         "Sean Combs"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6llNqZNxqHJWCSpwdBxAt2",
-        "apple": "https://podcasts.apple.com/podcast/cultured-3/id1712148990?i=1000674697938"
+        "apple": "https://podcasts.apple.com/podcast/cultured-3/id1712148990?i=1000674697938",
+        "youtube": "https://www.youtube.com/watch?v=KBrQvPz6l98"
       }
     },
     {
@@ -195,9 +218,11 @@
       "explicit": false,
       "spotifyId": "1ZdkQnY18sT3gNbwmCTts5",
       "appleId": 1000674139114,
+      "youTubeId": "Mivv-E3XjdE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ZdkQnY18sT3gNbwmCTts5",
-        "apple": "https://podcasts.apple.com/podcast/the-salem-witch-trials-yes-and-shes-a-witch/id1712148990?i=1000674139114"
+        "apple": "https://podcasts.apple.com/podcast/the-salem-witch-trials-yes-and-shes-a-witch/id1712148990?i=1000674139114",
+        "youtube": "https://www.youtube.com/watch?v=Mivv-E3XjdE"
       }
     },
     {
@@ -209,12 +234,14 @@
       "explicit": false,
       "spotifyId": "5HfpKPRwAYKGQtRbW6X7Ai",
       "appleId": 1000673290960,
+      "youTubeId": "pk17TUp8VI0",
       "subjects": [
         "Magdalena Sol\u00EDs"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5HfpKPRwAYKGQtRbW6X7Ai",
-        "apple": "https://podcasts.apple.com/podcast/magdalena-solis-high-priestess-of-blood-human-and-chicken/id1712148990?i=1000673290960"
+        "apple": "https://podcasts.apple.com/podcast/magdalena-solis-high-priestess-of-blood-human-and-chicken/id1712148990?i=1000673290960",
+        "youtube": "https://www.youtube.com/watch?v=pk17TUp8VI0"
       }
     },
     {
@@ -226,12 +253,14 @@
       "explicit": false,
       "spotifyId": "6YyiP6dNlfXd3yJ2BRVJI9",
       "appleId": 1000672349897,
+      "youTubeId": "7AmszZ1YtmQ",
       "subjects": [
         "Fox sisters"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6YyiP6dNlfXd3yJ2BRVJI9",
-        "apple": "https://podcasts.apple.com/us/podcast/the-fox-sisters-toes-crackalackin/id1712148990?i=1000672349897"
+        "apple": "https://podcasts.apple.com/us/podcast/the-fox-sisters-toes-crackalackin/id1712148990?i=1000672349897",
+        "youtube": "https://www.youtube.com/watch?v=7AmszZ1YtmQ"
       }
     },
     {
@@ -243,9 +272,11 @@
       "explicit": false,
       "spotifyId": "4t0XVxQa3K710P0wZktktK",
       "appleId": 1000660299960,
+      "youTubeId": "ZIi58S2PtkI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4t0XVxQa3K710P0wZktktK",
-        "apple": "https://podcasts.apple.com/us/podcast/louis-dewohl-the-astrologer-hired-to-thwart-hitler/id1712148990?i=1000660299960"
+        "apple": "https://podcasts.apple.com/us/podcast/louis-dewohl-the-astrologer-hired-to-thwart-hitler/id1712148990?i=1000660299960",
+        "youtube": "https://www.youtube.com/watch?v=ZIi58S2PtkI"
       }
     },
     {
@@ -257,13 +288,15 @@
       "explicit": false,
       "spotifyId": "0Fcuk5NoYODgvHFmJZgsCj",
       "appleId": 1000660087411,
+      "youTubeId": "0ErMQE12Lmg",
       "subjects": [
         "7M Films",
         "TwinRay"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Fcuk5NoYODgvHFmJZgsCj",
-        "apple": "https://podcasts.apple.com/us/podcast/cultured-2-shirtless-mens-drum-circle-vs-bear/id1712148990?i=1000660087411"
+        "apple": "https://podcasts.apple.com/us/podcast/cultured-2-shirtless-mens-drum-circle-vs-bear/id1712148990?i=1000660087411",
+        "youtube": "https://www.youtube.com/watch?v=0ErMQE12Lmg"
       }
     },
     {
@@ -275,9 +308,11 @@
       "explicit": false,
       "spotifyId": "4i9VMdXI6fjaZUZNhk05gt",
       "appleId": 1000659543500,
+      "youTubeId": "36qVqvmieT8",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4i9VMdXI6fjaZUZNhk05gt",
-        "apple": "https://podcasts.apple.com/podcast/miss-cleo-that-shady-hotline-bling/id1712148990?i=1000659543500"
+        "apple": "https://podcasts.apple.com/podcast/miss-cleo-that-shady-hotline-bling/id1712148990?i=1000659543500",
+        "youtube": "https://www.youtube.com/watch?v=36qVqvmieT8"
       }
     },
     {
@@ -289,12 +324,14 @@
       "explicit": false,
       "spotifyId": "1ChVer8DoOxyHzItj8ofw9",
       "appleId": 1000658762458,
+      "youTubeId": "_1QuedgfyJc",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ChVer8DoOxyHzItj8ofw9",
-        "apple": "https://podcasts.apple.com/podcast/nxivm-part-2-serve-set-sentence/id1712148990?i=1000658762458"
+        "apple": "https://podcasts.apple.com/podcast/nxivm-part-2-serve-set-sentence/id1712148990?i=1000658762458",
+        "youtube": "https://www.youtube.com/watch?v=_1QuedgfyJc"
       }
     },
     {
@@ -306,12 +343,14 @@
       "explicit": false,
       "spotifyId": "1xQwOa5gje5SqvOooF65RT",
       "appleId": 1000657916178,
+      "youTubeId": "ADvaQbydk6s",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1xQwOa5gje5SqvOooF65RT",
-        "apple": "https://podcasts.apple.com/podcast/nxivm-burn-it-down-sarah-burn-it-down/id1712148990?i=1000657916178"
+        "apple": "https://podcasts.apple.com/podcast/nxivm-burn-it-down-sarah-burn-it-down/id1712148990?i=1000657916178",
+        "youtube": "https://www.youtube.com/watch?v=ADvaQbydk6s"
       }
     },
     {
@@ -323,12 +362,14 @@
       "explicit": false,
       "spotifyId": "0QYqAEDtMX6g5TCuP2LM3h",
       "appleId": 1000657153578,
+      "youTubeId": "7L9tNwFwxFk",
       "subjects": [
         "Teal Swan"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0QYqAEDtMX6g5TCuP2LM3h",
-        "apple": "https://podcasts.apple.com/podcast/teal-swan-spiritual-influencer-and-pathological-liar/id1712148990?i=1000657153578"
+        "apple": "https://podcasts.apple.com/podcast/teal-swan-spiritual-influencer-and-pathological-liar/id1712148990?i=1000657153578",
+        "youtube": "https://www.youtube.com/watch?v=7L9tNwFwxFk"
       }
     },
     {
@@ -340,6 +381,7 @@
       "explicit": false,
       "spotifyId": "7E9fI6HZP8QebyFX6RlhvH",
       "appleId": 1000656890480,
+      "youTubeId": "PO0AAxXZthI",
       "subjects": [
         "NXIVM",
         "Self-Help",
@@ -348,7 +390,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7E9fI6HZP8QebyFX6RlhvH",
-        "apple": "https://podcasts.apple.com/podcast/cultured-1-culty-news-roundup-featuring-joey-donner/id1712148990?i=1000656890480"
+        "apple": "https://podcasts.apple.com/podcast/cultured-1-culty-news-roundup-featuring-joey-donner/id1712148990?i=1000656890480",
+        "youtube": "https://www.youtube.com/watch?v=PO0AAxXZthI"
       }
     },
     {
@@ -360,12 +403,14 @@
       "explicit": false,
       "spotifyId": "1XwEQDIJegN6ZnBq56Im66",
       "appleId": 1000656381434,
+      "youTubeId": "5FZPV7fzVTk",
       "subjects": [
         "Modern Mystery School"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1XwEQDIJegN6ZnBq56Im66",
-        "apple": "https://podcasts.apple.com/us/podcast/modern-mystery-school-banging-for-magik-and-maybe/id1712148990?i=1000656381434"
+        "apple": "https://podcasts.apple.com/us/podcast/modern-mystery-school-banging-for-magik-and-maybe/id1712148990?i=1000656381434",
+        "youtube": "https://www.youtube.com/watch?v=5FZPV7fzVTk"
       }
     },
     {
@@ -377,13 +422,15 @@
       "explicit": false,
       "spotifyId": "6MsiorkbI8SRpH7xspumPM",
       "appleId": 1000654158152,
+      "youTubeId": "73-XGX5ux58",
       "subjects": [
         "Gregorian Bivolaru",
         "Yoga Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6MsiorkbI8SRpH7xspumPM",
-        "apple": "https://podcasts.apple.com/podcast/gregorian-bivolaru-king-of-yoga-porn-and/id1712148990?i=1000654158152"
+        "apple": "https://podcasts.apple.com/podcast/gregorian-bivolaru-king-of-yoga-porn-and/id1712148990?i=1000654158152",
+        "youtube": "https://www.youtube.com/watch?v=73-XGX5ux58"
       }
     },
     {
@@ -395,12 +442,14 @@
       "explicit": false,
       "spotifyId": "36J4EmImdPju1KfLEUSPad",
       "appleId": 1000653444347,
+      "youTubeId": "AUByYuMkDZY",
       "subjects": [
         "Universal Medicine"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36J4EmImdPju1KfLEUSPad",
-        "apple": "https://podcasts.apple.com/podcast/serge-benhayon-the-davinci-of-toilet-prophets/id1712148990?i=1000653444347"
+        "apple": "https://podcasts.apple.com/podcast/serge-benhayon-the-davinci-of-toilet-prophets/id1712148990?i=1000653444347",
+        "youtube": "https://www.youtube.com/watch?v=AUByYuMkDZY"
       }
     },
     {
@@ -412,12 +461,14 @@
       "explicit": false,
       "spotifyId": "2aNnLdLxpdcC43DlPKiqrB",
       "appleId": 1000652723871,
+      "youTubeId": "Xuig030ZsK4",
       "subjects": [
         "Onetaste"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2aNnLdLxpdcC43DlPKiqrB",
-        "apple": "https://podcasts.apple.com/podcast/one-taste-an-orgasmic-mediation-circle-jerk/id1712148990?i=1000652723871"
+        "apple": "https://podcasts.apple.com/podcast/one-taste-an-orgasmic-mediation-circle-jerk/id1712148990?i=1000652723871",
+        "youtube": "https://www.youtube.com/watch?v=Xuig030ZsK4"
       }
     },
     {
@@ -429,12 +480,14 @@
       "explicit": false,
       "spotifyId": "1X1ezkTQI3SrqYdG7ZFgAw",
       "appleId": 1000651343017,
+      "youTubeId": "ZGm7w7tIhu4",
       "subjects": [
         "Theos Casimir Bernard"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1X1ezkTQI3SrqYdG7ZFgAw",
-        "apple": "https://podcasts.apple.com/podcast/the-omnipotent-oom-americas-first-v-racist-yoga-scandal/id1712148990?i=1000651343017"
+        "apple": "https://podcasts.apple.com/podcast/the-omnipotent-oom-americas-first-v-racist-yoga-scandal/id1712148990?i=1000651343017",
+        "youtube": "https://www.youtube.com/watch?v=ZGm7w7tIhu4"
       }
     },
     {
@@ -446,12 +499,14 @@
       "explicit": false,
       "spotifyId": "1MbbwYCVWYyDGMB1yEfS88",
       "appleId": 1000649846954,
+      "youTubeId": "IxrFWettg6Q",
       "subjects": [
         "James Arthur Ray"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1MbbwYCVWYyDGMB1yEfS88",
-        "apple": "https://podcasts.apple.com/podcast/james-arthur-ray-the-sedona-sweat-lodge-deaths/id1712148990?i=1000649846954"
+        "apple": "https://podcasts.apple.com/podcast/james-arthur-ray-the-sedona-sweat-lodge-deaths/id1712148990?i=1000649846954",
+        "youtube": "https://www.youtube.com/watch?v=IxrFWettg6Q"
       }
     },
     {
@@ -463,12 +518,14 @@
       "explicit": false,
       "spotifyId": "3FKHQfXqoQyUJ9n1WdDdZm",
       "appleId": 1000648197912,
+      "youTubeId": "kGVa6Blw5Ew",
       "subjects": [
         "Samaritan Foundation"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FKHQfXqoQyUJ9n1WdDdZm",
-        "apple": "https://podcasts.apple.com/podcast/the-samaritan-foundation-rest-in-distress-linda/id1712148990?i=1000648197912"
+        "apple": "https://podcasts.apple.com/podcast/the-samaritan-foundation-rest-in-distress-linda/id1712148990?i=1000648197912",
+        "youtube": "https://www.youtube.com/watch?v=kGVa6Blw5Ew"
       }
     },
     {
@@ -480,12 +537,14 @@
       "explicit": false,
       "spotifyId": "1y6meN25QkyCCnP7jhcsUa",
       "appleId": 1000647381719,
+      "youTubeId": "L8V0heWAi48",
       "subjects": [
         "Santiniketan Park Association"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1y6meN25QkyCCnP7jhcsUa",
-        "apple": "https://podcasts.apple.com/podcast/anne-hamilton-byrne-the-original-mother-god/id1712148990?i=1000647381719"
+        "apple": "https://podcasts.apple.com/podcast/anne-hamilton-byrne-the-original-mother-god/id1712148990?i=1000647381719",
+        "youtube": "https://www.youtube.com/watch?v=L8V0heWAi48"
       }
     },
     {
@@ -497,12 +556,14 @@
       "explicit": false,
       "spotifyId": "651D23pa9Z1rdxE5dn3xxn",
       "appleId": 1000646242995,
+      "youTubeId": "9nzOw5ZfrsQ",
       "subjects": [
         "Bikram Yoga"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/651D23pa9Z1rdxE5dn3xxn",
-        "apple": "https://podcasts.apple.com/podcast/bikram-emphasis-on-the-ick-of-it-all/id1712148990?i=1000646242995"
+        "apple": "https://podcasts.apple.com/podcast/bikram-emphasis-on-the-ick-of-it-all/id1712148990?i=1000646242995",
+        "youtube": "https://www.youtube.com/watch?v=9nzOw5ZfrsQ"
       }
     },
     {
@@ -514,9 +575,11 @@
       "explicit": false,
       "spotifyId": "0hkmI8ly2uzIeeKVrdc9MH",
       "appleId": 1000645297593,
+      "youTubeId": "SAsVKfrnHEk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0hkmI8ly2uzIeeKVrdc9MH",
-        "apple": "https://podcasts.apple.com/podcast/rose-marks-operation-crystal-ball/id1712148990?i=1000645297593"
+        "apple": "https://podcasts.apple.com/podcast/rose-marks-operation-crystal-ball/id1712148990?i=1000645297593",
+        "youtube": "https://www.youtube.com/watch?v=SAsVKfrnHEk"
       }
     },
     {
@@ -528,13 +591,15 @@
       "explicit": false,
       "spotifyId": "29mB9RFkXp51HgYB0wZyoJ",
       "appleId": 1000644477187,
+      "youTubeId": "4SM8v5-xDak",
       "subjects": [
         "Aum Shinrikyo",
         "Yoga Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/29mB9RFkXp51HgYB0wZyoJ",
-        "apple": "https://podcasts.apple.com/podcast/aum-shinrikyo-japans-most-notorious-anime-doomsday/id1712148990?i=1000644477187"
+        "apple": "https://podcasts.apple.com/podcast/aum-shinrikyo-japans-most-notorious-anime-doomsday/id1712148990?i=1000644477187",
+        "youtube": "https://www.youtube.com/watch?v=4SM8v5-xDak"
       }
     },
     {
@@ -546,13 +611,15 @@
       "explicit": false,
       "spotifyId": "6CwK8E8mopjztISqZ1wPUd",
       "appleId": 1000644477187,
+      "youTubeId": "4SM8v5-xDak",
       "subjects": [
         "Aum Shinrikyo",
         "Yoga Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CwK8E8mopjztISqZ1wPUd",
-        "apple": "https://podcasts.apple.com/podcast/aum-shinrikyo-japans-most-notorious-anime-doomsday/id1712148990?i=1000644477187"
+        "apple": "https://podcasts.apple.com/podcast/aum-shinrikyo-japans-most-notorious-anime-doomsday/id1712148990?i=1000644477187",
+        "youtube": "https://www.youtube.com/watch?v=4SM8v5-xDak"
       }
     },
     {
@@ -564,12 +631,14 @@
       "explicit": false,
       "spotifyId": "1WyhNtlttGPonsCS50tUDL",
       "appleId": 1000642771246,
+      "youTubeId": "_3JQU-KtNbM",
       "subjects": [
         "Buddhafield"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1WyhNtlttGPonsCS50tUDL",
-        "apple": "https://podcasts.apple.com/podcast/the-buddhafield-neon-hot-bods-and-ballerinos/id1712148990?i=1000642771246"
+        "apple": "https://podcasts.apple.com/podcast/the-buddhafield-neon-hot-bods-and-ballerinos/id1712148990?i=1000642771246",
+        "youtube": "https://www.youtube.com/watch?v=_3JQU-KtNbM"
       }
     },
     {
@@ -581,12 +650,14 @@
       "explicit": false,
       "spotifyId": "75hSwJFwpWn6PRsypXDqaS",
       "appleId": 1000641863612,
+      "youTubeId": "Fr6AJ6wyFY8",
       "subjects": [
         "Hare Krishnas"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75hSwJFwpWn6PRsypXDqaS",
-        "apple": "https://podcasts.apple.com/podcast/the-hare-krishna-murders-part-2/id1712148990?i=1000641863612"
+        "apple": "https://podcasts.apple.com/podcast/the-hare-krishna-murders-part-2/id1712148990?i=1000641863612",
+        "youtube": "https://www.youtube.com/watch?v=Fr6AJ6wyFY8"
       }
     },
     {
@@ -598,12 +669,14 @@
       "explicit": false,
       "spotifyId": "5g2TTY6mo3wEOORESDrFdL",
       "appleId": 1000640421155,
+      "youTubeId": "z1qXhXIuFMw",
       "subjects": [
         "Hare Krishnas"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5g2TTY6mo3wEOORESDrFdL",
-        "apple": "https://podcasts.apple.com/podcast/the-hare-krishna-murders-part-1/id1712148990?i=1000640421155"
+        "apple": "https://podcasts.apple.com/podcast/the-hare-krishna-murders-part-1/id1712148990?i=1000640421155",
+        "youtube": "https://www.youtube.com/watch?v=z1qXhXIuFMw"
       }
     },
     {
@@ -615,13 +688,15 @@
       "explicit": false,
       "spotifyId": "4jvWeDcJs6ZYkJkLJl5671",
       "appleId": 1000639808786,
+      "youTubeId": "3udgudeFOV0",
       "subjects": [
         "Young Living",
         "Multi-Level Marketing"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4jvWeDcJs6ZYkJkLJl5671",
-        "apple": "https://podcasts.apple.com/podcast/doodooterra/id1712148990?i=1000639808786"
+        "apple": "https://podcasts.apple.com/podcast/doodooterra/id1712148990?i=1000639808786",
+        "youtube": "https://www.youtube.com/watch?v=3udgudeFOV0"
       }
     },
     {
@@ -633,13 +708,15 @@
       "explicit": false,
       "spotifyId": "0zADunA9eiw5RGKTUUFyJR",
       "appleId": 1000639215541,
+      "youTubeId": "bFHGYYhyJew",
       "subjects": [
         "Young Living",
         "Multi-Level Marketing"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zADunA9eiw5RGKTUUFyJR",
-        "apple": "https://podcasts.apple.com/podcast/d-gary-young-essential-oil-tycoon-ex-convict-and-baby-killer/id1712148990?i=1000639215541"
+        "apple": "https://podcasts.apple.com/podcast/d-gary-young-essential-oil-tycoon-ex-convict-and-baby-killer/id1712148990?i=1000639215541",
+        "youtube": "https://www.youtube.com/watch?v=bFHGYYhyJew"
       }
     },
     {
@@ -651,9 +728,11 @@
       "explicit": false,
       "spotifyId": "3AD3xTAQZbHS2d1DsCgq8p",
       "appleId": 1000638427497,
+      "youTubeId": "3YkoBxFzP-o",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3AD3xTAQZbHS2d1DsCgq8p",
-        "apple": "https://podcasts.apple.com/podcast/fruitlands-dickensian-hipsters-start-a-cult/id1712148990?i=1000638427497"
+        "apple": "https://podcasts.apple.com/podcast/fruitlands-dickensian-hipsters-start-a-cult/id1712148990?i=1000638427497",
+        "youtube": "https://www.youtube.com/watch?v=3YkoBxFzP-o"
       }
     },
     {
@@ -665,12 +744,14 @@
       "explicit": false,
       "spotifyId": "1syQcgKOiB54gOhuLOJp37",
       "appleId": 1000637684213,
+      "youTubeId": "-XPia7b0c6k",
       "subjects": [
         "Guru Jagat"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1syQcgKOiB54gOhuLOJp37",
-        "apple": "https://podcasts.apple.com/podcast/guru-jagat-and-the-secret-alien-war/id1712148990?i=1000637684213"
+        "apple": "https://podcasts.apple.com/podcast/guru-jagat-and-the-secret-alien-war/id1712148990?i=1000637684213",
+        "youtube": "https://www.youtube.com/watch?v=-XPia7b0c6k"
       }
     },
     {
@@ -682,12 +763,14 @@
       "explicit": false,
       "spotifyId": "1D7rZCU3LIZUauOagd8r51",
       "appleId": 1000636948681,
+      "youTubeId": "nY9rTW3C3zQ",
       "subjects": [
         "3HO"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1D7rZCU3LIZUauOagd8r51",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-yogi-bhajan/id1712148990?i=1000636948681"
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-yogi-bhajan/id1712148990?i=1000636948681",
+        "youtube": "https://www.youtube.com/watch?v=nY9rTW3C3zQ"
       }
     },
     {
@@ -699,12 +782,14 @@
       "explicit": false,
       "spotifyId": "3Y9i3fk0XBHEg2yJ9jXv2h",
       "appleId": 1000635673557,
+      "youTubeId": "VIkORxYJfwg",
       "subjects": [
         "Belle Gibson"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Y9i3fk0XBHEg2yJ9jXv2h",
-        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-2/id1712148990?i=1000635673557"
+        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-2/id1712148990?i=1000635673557",
+        "youtube": "https://www.youtube.com/watch?v=VIkORxYJfwg"
       }
     },
     {
@@ -716,12 +801,14 @@
       "explicit": false,
       "spotifyId": "2iOvaytLBbuSbjeaDUMHX2",
       "appleId": 1000635673557,
+      "youTubeId": "VIkORxYJfwg",
       "subjects": [
         "Belle Gibson"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2iOvaytLBbuSbjeaDUMHX2",
-        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-2/id1712148990?i=1000635673557"
+        "apple": "https://podcasts.apple.com/podcast/belle-gibson-the-worst-part-2/id1712148990?i=1000635673557",
+        "youtube": "https://www.youtube.com/watch?v=VIkORxYJfwg"
       }
     },
     {
@@ -733,9 +820,11 @@
       "explicit": false,
       "spotifyId": "5blL1y5C1Vo1EvblzZL4Js",
       "appleId": 1000634554213,
+      "youTubeId": "3903ozNyD44",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5blL1y5C1Vo1EvblzZL4Js",
-        "apple": "https://podcasts.apple.com/podcast/bonus-episode-kaitlin-armstrong-murder-trial-update/id1712148990?i=1000634554213"
+        "apple": "https://podcasts.apple.com/podcast/bonus-episode-kaitlin-armstrong-murder-trial-update/id1712148990?i=1000634554213",
+        "youtube": "https://www.youtube.com/watch?v=3903ozNyD44"
       }
     },
     {
@@ -747,9 +836,11 @@
       "explicit": false,
       "spotifyId": "7gtL1si5lR4JUr0uAcMcjI",
       "appleId": 1000634137801,
+      "youTubeId": "3QOA3ySthc0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gtL1si5lR4JUr0uAcMcjI",
-        "apple": "https://podcasts.apple.com/podcast/the-tragic-murder-of-mo-wilson/id1712148990?i=1000634137801"
+        "apple": "https://podcasts.apple.com/podcast/the-tragic-murder-of-mo-wilson/id1712148990?i=1000634137801",
+        "youtube": "https://www.youtube.com/watch?v=3QOA3ySthc0"
       }
     },
     {
@@ -761,12 +852,14 @@
       "explicit": false,
       "spotifyId": "37sVa0yygyYVw1RCu9LtwZ",
       "appleId": 1000633350818,
+      "youTubeId": "OkEiF5bfyWo",
       "subjects": [
         "Bhagwan Shree Rajneesh"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37sVa0yygyYVw1RCu9LtwZ",
-        "apple": "https://podcasts.apple.com/podcast/the-rajneeshee-bioterror-attack/id1712148990?i=1000633350818"
+        "apple": "https://podcasts.apple.com/podcast/the-rajneeshee-bioterror-attack/id1712148990?i=1000633350818",
+        "youtube": "https://www.youtube.com/watch?v=OkEiF5bfyWo"
       }
     },
     {
@@ -778,9 +871,23 @@
       "explicit": false,
       "spotifyId": "3t90QMHrOQAqCrH4igXjaJ",
       "appleId": 1000632604385,
+      "youTubeId": "E2VuxeH7U3w",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3t90QMHrOQAqCrH4igXjaJ",
-        "apple": "https://podcasts.apple.com/podcast/the-botched-case-of-dana-jones/id1712148990?i=1000632604385"
+        "apple": "https://podcasts.apple.com/podcast/the-botched-case-of-dana-jones/id1712148990?i=1000632604385",
+        "youtube": "https://www.youtube.com/watch?v=E2VuxeH7U3w"
+      }
+    },
+    {
+      "id": "f0591d0f-0c0d-4e73-8f67-4f6858a5659a",
+      "title": "Yoga To The People Part 2",
+      "description": "In 2019 Yoga to the People founder, Greg Gumucio was on top of the world. His yoga studio chain was a massive success, drawing in thousands of yogis and making him a millionaire. However, when COVID-19 forced their studios to close, an anonymous Instagram account would not only shutter the business permanently but put Gumucio behind bars.\u00A0\n\n\n\n\u00A0\n\n\n\nSpirituallyfucked.com (https://www.spirituallyfucked.com/)",
+      "release": "2023-10-19T12:30:00Z",
+      "duration": "00:47:12",
+      "explicit": false,
+      "youTubeId": "U8BYKtu_-Hg",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=U8BYKtu_-Hg"
       }
     },
     {
@@ -792,9 +899,11 @@
       "explicit": false,
       "spotifyId": "473lfHZVeb6XiAk9C4OYJH",
       "appleId": 1000631729298,
+      "youTubeId": "DXFGOxDuZCc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/473lfHZVeb6XiAk9C4OYJH",
-        "apple": "https://podcasts.apple.com/podcast/yoga-to-the-people-part-1/id1712148990?i=1000631729298"
+        "apple": "https://podcasts.apple.com/podcast/yoga-to-the-people-part-1/id1712148990?i=1000631729298",
+        "youtube": "https://www.youtube.com/watch?v=DXFGOxDuZCc"
       }
     },
     {
@@ -806,9 +915,11 @@
       "explicit": false,
       "spotifyId": "3r8yAI5lVW0nIbYDVVTtjJ",
       "appleId": 1000631508687,
+      "youTubeId": "a6XDjWJzmvc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3r8yAI5lVW0nIbYDVVTtjJ",
-        "apple": "https://podcasts.apple.com/podcast/chow-wai-yin-a-k-a-aqua-chow/id1712148990?i=1000631508687"
+        "apple": "https://podcasts.apple.com/podcast/chow-wai-yin-a-k-a-aqua-chow/id1712148990?i=1000631508687",
+        "youtube": "https://www.youtube.com/watch?v=a6XDjWJzmvc"
       }
     }
   ]

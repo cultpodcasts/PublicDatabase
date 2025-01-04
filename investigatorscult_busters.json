@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "bc08f8a0-63b2-4d19-a403-9fd179a72ccd",
+      "title": "IDMR Dr. Harris\u2019s The Liver Compared to Tabernacle",
+      "release": "2025-01-03T22:44:28Z",
+      "duration": "00:03:06",
+      "explicit": false,
+      "youTubeId": "-cHMMzYZgfk",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-cHMMzYZgfk"
+      }
+    },
+    {
+      "id": "a5082e1e-442c-46da-8773-0e40fcfdc864",
+      "title": "IDMR on Jeopardy",
+      "release": "2024-12-31T22:32:37Z",
+      "duration": "00:01:01",
+      "explicit": false,
+      "youTubeId": "_STAJTcUPXE",
+      "subjects": [
+        "Institute of Divine Metaphysical Research",
+        "Fountain of the World"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_STAJTcUPXE"
+      }
+    },
+    {
       "id": "164bed58-0f32-464c-bd4d-734a2e28c1ee",
       "title": "Tribute Song to Dr. Harris IDMR International Dean",
       "release": "2024-12-22T16:46:44Z",

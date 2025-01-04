@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "c7918c17-f845-49ef-a938-0cc6fcee167e",
+  "name": "Stuttering in Silence",
+  "spotifyId": "1lmWFx3WrvhPXZ2XBunvST",
+  "appleId": 1590450677,
+  "episodes": [
+    {
+      "id": "e7fc9edb-372b-4949-93f3-731947883b99",
+      "title": "Cult Minds: Tragedy and Power \u2013 The Branch Davidians, Children of God, and NXIVM",
+      "description": "Dive deep into the chilling tales of three infamous cults that shocked the world. In this episode, we unravel the apocalyptic fervor of the Branch Davidians and the fiery siege that ended in tragedy. We confront the disturbing practices of the Children of God, a group that weaponized faith and manipulated innocence. Finally, we explore the rise and fall of NXIVM, a self-help organization that became a nightmare of coercion and exploitation. Join us as we examine the psychological grip of these groups, the conspiracies and scandals surrounding them, and their enduring impact on society. How do such movements thrive, and what can we learn to guard against them today?",
+      "release": "2025-01-02T22:00:09Z",
+      "duration": "00:52:00.8220000",
+      "explicit": true,
+      "spotifyId": "4EGK87FDJqm85B3VPdSCRZ",
+      "appleId": 1000682459021,
+      "subjects": [
+        "Branch Davidians",
+        "Children Of God",
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4EGK87FDJqm85B3VPdSCRZ",
+        "apple": "https://podcasts.apple.com/podcast/cult-minds-tragedy-and-power-the-branch/id1590450677?i=1000682459021"
+      }
+    }
+  ]
+}

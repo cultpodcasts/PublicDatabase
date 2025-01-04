@@ -1,0 +1,92 @@
+{
+  "_ts": 0,
+  "id": "8f5f39e6-c654-45fb-b78e-b362c19ff0b1",
+  "name": "Rock-N-Reeny",
+  "youTubeChannelId": "UCdp4v5lYFH_Pf2gJoGikp8w",
+  "episodes": [
+    {
+      "id": "57062294-9128-4d57-b45b-9b9f4d9ac081",
+      "title": "Narcissism is damaging.",
+      "release": "2025-01-04T07:51:00Z",
+      "duration": "00:04:28",
+      "explicit": false,
+      "youTubeId": "j9wF7mm_0bU",
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=j9wF7mm_0bU"
+      }
+    },
+    {
+      "id": "a161f62b-f570-4ec8-8f81-3facfdf8ddd1",
+      "title": "Surviving childhood with narcissistic parents.",
+      "release": "2025-01-04T07:45:03Z",
+      "duration": "00:04:29",
+      "explicit": false,
+      "youTubeId": "sjVsfOMRv5U",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sjVsfOMRv5U"
+      }
+    },
+    {
+      "id": "6b5f94c0-c051-4847-8186-4637beac8581",
+      "title": "Deconstructing faith.",
+      "release": "2025-01-04T07:42:09Z",
+      "duration": "00:03:44",
+      "explicit": false,
+      "youTubeId": "XFf8d7TAAyA",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XFf8d7TAAyA"
+      }
+    },
+    {
+      "id": "db7b3148-44f9-499f-9db5-60f750c402f5",
+      "title": "Leaving a high-demand religion.",
+      "release": "2025-01-03T20:10:42Z",
+      "duration": "00:05:56",
+      "explicit": false,
+      "youTubeId": "B2lyroHEIzQ",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=B2lyroHEIzQ"
+      }
+    },
+    {
+      "id": "7e6af099-0da2-4093-ade2-319023489110",
+      "title": "Leaving the mormon cult.",
+      "release": "2025-01-03T19:53:58Z",
+      "duration": "00:06:47",
+      "explicit": false,
+      "youTubeId": "sXALey_vxdA",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sXALey_vxdA"
+      }
+    },
+    {
+      "id": "15557025-f703-4ef4-a270-40e51829ef39",
+      "title": "Deconstructing a high-demand religion.",
+      "release": "2025-01-03T09:35:00Z",
+      "duration": "00:03:41",
+      "explicit": false,
+      "youTubeId": "blUEU0u3gY4",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=blUEU0u3gY4"
+      }
+    }
+  ]
+}
