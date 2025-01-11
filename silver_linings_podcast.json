@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "e7b59ee3-e873-4c1b-9e2d-ad886b979919",
+      "title": "What can we learn from Lori that we didn\u0027t really want to",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-069 - 1-2-25 - What can we learn from Lori that we didn\u0027t really want to",
+      "release": "2025-01-07T16:40:12Z",
+      "duration": "01:10:57",
+      "explicit": false,
+      "spotifyId": "2GAAyLATOC3ARsGjfDqOh2",
+      "appleId": 1000683047587,
+      "youTubeId": "Y01VqB7kvD0",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2GAAyLATOC3ARsGjfDqOh2",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-069-1-2-25-what/id1694606661?i=1000683047587",
+        "youtube": "https://www.youtube.com/watch?v=Y01VqB7kvD0"
+      }
+    },
+    {
       "id": "d6f150cf-f793-4a7d-b1e1-8e1f4a167a34",
       "title": "Silver Linings Podcast - YOUTUBE LIVE-068 - 12-8-24 - Time for Wild Lori Speculations",
       "description": "Let\u0027s wildly speculate together about Lori representing herself!",

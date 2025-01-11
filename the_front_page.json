@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "eea2ce80-5492-4680-bd45-7a9bd7865c96",
+  "name": "The Front Page",
+  "spotifyId": "0ud1acNOkiC9HVArhTpbwp",
+  "appleId": 1439843579,
+  "episodes": [
+    {
+      "id": "aadfd968-a38f-4759-83f7-b24523339dc3",
+      "title": "Gloriavale\u0027s past, present and future explored in documentary series",
+      "description": "While The Front Page is on summer break, we\u2019re taking a look back at some of the biggest news stories and top-rated episodes from the podcast in 2024. For over 50 years, the secretive Christian community of Gloriavale has fascinated New Zealanders. While the community has long been discussed by former members who have left Gloriavale behind, in the last few years, multiple official investigations and Employment Court proceedings have shone more light on what\u0027s happening behind the scenes. In March, a new TVNZ documentary, Escaping Utopia, premiered, looking back at the community\u2019s chequered history and its recent problems. We spoke with co-director Justin Pemberton \u2013 who explained his fresh look at historic concerns. New episodes return January 13th. Host: Chelsea Daniels Audio Engineers: Paddy Fox, Richard Martin Executive Producer: Ethan Sills See omnystudio.com/listener for privacy information.",
+      "release": "2025-01-06T16:00:00Z",
+      "duration": "00:20:15.5820000",
+      "explicit": false,
+      "spotifyId": "29yRjJyekK970jY8wEtfXq",
+      "appleId": 1000682888260,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/29yRjJyekK970jY8wEtfXq",
+        "apple": "https://podcasts.apple.com/podcast/gloriavales-past-present-and-future-explored-in/id1439843579?i=1000682888260"
+      }
+    }
+  ]
+}

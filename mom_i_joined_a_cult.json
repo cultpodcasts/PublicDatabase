@@ -6,6 +6,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "6da0552b-eab6-441d-aab1-a7a2eb90a828",
+      "title": "Season Review - Season 9 Episode 11",
+      "description": "We talk about what we can do differently for next season, what episodes we liked this season, and goals for this year.",
+      "release": "2025-01-10T03:21:01Z",
+      "duration": "00:53:40.3750000",
+      "explicit": false,
+      "spotifyId": "4rW6cvKYu8KaOo1OdJ40J8",
+      "appleId": 1000683404942,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4rW6cvKYu8KaOo1OdJ40J8",
+        "apple": "https://podcasts.apple.com/podcast/season-review-season-9-episode-11/id1565633523?i=1000683404942"
+      }
+    },
+    {
       "id": "b791d834-97ae-489a-acd8-422cd39cea00",
       "title": "The Domestication of The Species - Season 9 Episode 10",
       "description": "Thor teaches us how to domesticate and makes Gunnar feel better about having a small brain.",

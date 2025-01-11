@@ -1,0 +1,33 @@
+{
+  "_ts": 0,
+  "id": "820bcb13-d2a6-4615-8fde-5af272def71b",
+  "name": "PBS",
+  "episodes": [
+    {
+      "id": "4ad55435-170a-439a-94ff-2253e2b8178a",
+      "title": "Jonestown The Life And Death Of Peoples Temple",
+      "release": "2006-04-25T23:00:00Z",
+      "duration": "01:24:50",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/jonestown-the-life-and-death-of-peoples-temple-2006_202207"
+      }
+    },
+    {
+      "id": "f9e5fac7-2f63-47f8-81ac-79b1272a785f",
+      "title": "Jonestown: The Life and Death of Peoples Temple",
+      "release": "2006-04-25T23:00:00Z",
+      "duration": "01:26:29",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/Jonestown_The_Life_and_Death_of_Peoples_Temple"
+      }
+    }
+  ]
+}

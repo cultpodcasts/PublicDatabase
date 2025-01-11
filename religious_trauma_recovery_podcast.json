@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "1d2d3e09-2b2f-4557-8d69-5f9a152b8579",
+  "name": "Religious Trauma Recovery Podcast",
+  "spotifyId": "3ysbBRVhMsl2O2kcIqeDZi",
+  "youTubeChannelId": "UCZmvLe5q3JheL2fQdNh9HyQ",
+  "episodes": [
+    {
+      "id": "ccdaea5f-d833-4a06-bc2d-309e1d4a38cd",
+      "title": "Boundaries",
+      "description": "Coming out of a rigid belief system, you might struggle with understanding boundaries and how to apply them. Let\u0027s talk about it!",
+      "release": "2025-01-09T01:43:13Z",
+      "duration": "00:18:16.4110000",
+      "explicit": false,
+      "spotifyId": "0UAslzUtuZRflWwLWk0dR6",
+      "youTubeId": "NZ7UDe9dYMM",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0UAslzUtuZRflWwLWk0dR6",
+        "youtube": "https://www.youtube.com/watch?v=NZ7UDe9dYMM"
+      }
+    },
+    {
+      "id": "dbc15963-0283-4652-807b-b248f39bfc88",
+      "title": "Intro",
+      "description": "What to expect!",
+      "release": "2025-01-09T00:00:00",
+      "duration": "00:04:57.8220000",
+      "explicit": false,
+      "spotifyId": "4axfDZjVmTWaL5sUxOoZ9A",
+      "youTubeId": "alV4ctT0jU0",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4axfDZjVmTWaL5sUxOoZ9A",
+        "youtube": "https://www.youtube.com/watch?v=alV4ctT0jU0"
+      }
+    }
+  ]
+}

@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCWXWLynI5YwDHn_U-boE2Cg",
   "episodes": [
     {
+      "id": "b1c0cd3f-2d44-46a9-8b2b-937204ecf5df",
+      "title": "Let\u0026#39;s talk",
+      "description": "#scientology #NMKIS",
+      "release": "2025-01-10T13:19:05Z",
+      "duration": "01:01:01",
+      "explicit": false,
+      "youTubeId": "aGnoEmUMDAI",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aGnoEmUMDAI"
+      }
+    },
+    {
       "id": "4af8e710-aa66-4a83-ab94-efa33b607908",
       "title": "Rice and Beans for Scientology Denmark this Christmas? #cult #scientology",
       "release": "2024-12-20T10:41:13Z",

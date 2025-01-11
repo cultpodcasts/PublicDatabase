@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "e5d52859-e41f-4204-86ec-fa5b460a5924",
+  "name": "Entertainment Tonight",
+  "youTubeChannelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+  "episodes": [
+    {
+      "id": "aff5287d-7df1-427d-bf6a-c12924a93662",
+      "title": "Leah Remini Mourns Mike Rinder, Scientology and the Aftermath Co-Host, Dead at 69",
+      "description": "Leah Remini remembers her \u0027Scientology and the Aftermath\u0027 co-host, Mike Rinder, who died Sunday, in a lengthy tribute on X. He was 69. The friends and former Scientology members also shared a podcast together, \u0027Fair Game.\u0027",
+      "release": "2025-01-08T05:00:29Z",
+      "duration": "00:02:11",
+      "explicit": false,
+      "youTubeId": "g-fYsVyxprc",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=g-fYsVyxprc"
+      }
+    }
+  ]
+}

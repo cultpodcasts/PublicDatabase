@@ -1,0 +1,19 @@
+{
+  "_ts": 0,
+  "id": "a05daf23-98fa-4a57-92f7-2fe98fe6aa18",
+  "name": "Twosome Podcast",
+  "youTubeChannelId": "UCmtW2HQvLZMhl4UwLPjDUiA",
+  "episodes": [
+    {
+      "id": "71c2e4e0-75eb-404f-9ced-c2fa3901ffa6",
+      "title": "Date With a Cult Leader  - Twosome #7",
+      "release": "2025-01-08T01:00:04Z",
+      "duration": "00:42:14",
+      "explicit": false,
+      "youTubeId": "6RODqlFC298",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6RODqlFC298"
+      }
+    }
+  ]
+}

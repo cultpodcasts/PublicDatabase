@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6e2bfc1d-6cdb-48e0-a739-4cd8a0e38b3f",
+  "name": "Slate Money",
+  "spotifyId": "2AgxNbNcUOckZSww9mk8mX",
+  "appleId": 876523888,
+  "episodes": [
+    {
+      "id": "6d25cf80-bd4b-44c2-ba08-289f2380ffb2",
+      "title": "Money Talks: Selling The American Dream",
+      "description": "In this Money Talks: Jane Marie has spent years reporting on the tangled web of multi-level marketing companies, or MLMs, with her podcast The Dream and dives even deeper in her new book, Selling the Dream: The Billion-Dollar Industry Bankrupting Americans . In this episode, she sits down with Emily Peck to discuss their origins, their appeal to American women, and their extremely questionable business practices. Want to hear that discussion and hear more Slate Money? Join Slate Plus to unlock weekly bonus episodes. Plus, you\u2019ll access ad-free listening across all your favorite Slate podcasts. You can subscribe directly from the Slate Money show page on Apple Podcasts and Spotify . Or, visit slate.com/moneyplus to get access wherever you listen. Podcast production by Jessamine Molli and Cheyna Roth. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-01-07T08:00:00Z",
+      "duration": "00:42:28.2710000",
+      "explicit": false,
+      "spotifyId": "2Y4NAcEPKtVogtbYnhOHMB",
+      "appleId": 1000682931851,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Y4NAcEPKtVogtbYnhOHMB",
+        "apple": "https://podcasts.apple.com/podcast/money-talks-selling-the-american-dream/id876523888?i=1000682931851"
+      }
+    }
+  ]
+}

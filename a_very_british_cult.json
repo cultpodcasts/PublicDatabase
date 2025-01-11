@@ -34,7 +34,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cLih8v92RbdMm1WTHgcV3",
-        "apple": "https://podcasts.apple.com/podcast/7-us-and-them/id1679737896?i=1000607444539"
+        "apple": "https://podcasts.apple.com/podcast/7-us-and-them/id1679737896?i=1000607444539",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0fdl5d6"
       }
     },
     {
@@ -51,7 +52,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0fKg8k99rc9q7vNgsuCvH9",
-        "apple": "https://podcasts.apple.com/podcast/8-the-showdown/id1679737896?i=1000607446084"
+        "apple": "https://podcasts.apple.com/podcast/8-the-showdown/id1679737896?i=1000607446084",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0fdl5nd"
       }
     },
     {
@@ -68,7 +70,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6nkNsh0tz6roKHqT9VtXLL",
-        "apple": "https://podcasts.apple.com/podcast/1-lighthouse/id1679737896?i=1000607440010"
+        "apple": "https://podcasts.apple.com/podcast/1-lighthouse/id1679737896?i=1000607440010",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m001kvf7"
       }
     },
     {
@@ -85,7 +88,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6P4KAnkqW7U7arFXrJB4J1",
-        "apple": "https://podcasts.apple.com/podcast/2-the-daily-call/id1679737896?i=1000607442279"
+        "apple": "https://podcasts.apple.com/podcast/2-the-daily-call/id1679737896?i=1000607442279",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m001kxfh"
       }
     },
     {
@@ -102,7 +106,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/53KQbxfmpvJEGn8vFj5YL6",
-        "apple": "https://podcasts.apple.com/podcast/3-the-life-coach/id1679737896?i=1000607442328"
+        "apple": "https://podcasts.apple.com/podcast/3-the-life-coach/id1679737896?i=1000607442328",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m001l26k"
       }
     },
     {
@@ -119,7 +124,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0noSgOpJotqDU0uw7dgGM1",
-        "apple": "https://podcasts.apple.com/podcast/4-getting-out/id1679737896?i=1000607442302"
+        "apple": "https://podcasts.apple.com/podcast/4-getting-out/id1679737896?i=1000607442302",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0fdl26y"
       }
     },
     {
@@ -136,7 +142,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2x1aAnvWxhl9v1jshqS1p4",
-        "apple": "https://podcasts.apple.com/podcast/5-paulie/id1679737896?i=1000607443011"
+        "apple": "https://podcasts.apple.com/podcast/5-paulie/id1679737896?i=1000607443011",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0fdl4qf"
       }
     },
     {
@@ -153,7 +160,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3amtUDfCQprRjJtgWAnAgM",
-        "apple": "https://podcasts.apple.com/podcast/6-control/id1679737896?i=1000607444538"
+        "apple": "https://podcasts.apple.com/podcast/6-control/id1679737896?i=1000607444538",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0fdl4wz"
       }
     },
     {
@@ -170,7 +178,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Rr9jRzrjOFOcJiAauLAGH",
-        "apple": "https://podcasts.apple.com/podcast/welcome-to-a-very-british-cult/id1679737896?i=1000606429265"
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-a-very-british-cult/id1679737896?i=1000606429265",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0fcky7w"
       }
     }
   ]

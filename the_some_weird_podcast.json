@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "660767ad-9c05-4afc-9dd4-fe73d4ddce79",
+  "name": "The Some Weird Podcast",
+  "spotifyId": "3COAT3dxSlwBsHFYJK6Tdw",
+  "appleId": 1534627370,
+  "episodes": [
+    {
+      "id": "66a05cae-f096-4be2-a4f9-8eddffad27e5",
+      "title": "Cults Part 2: The 7M Tik Tok Cult",
+      "description": "This is part 2 of our episode on Cults. In Cults Part 2: The 7M Tik Tok Cult we will talk about the current situation with 7M. Is it a church? A talent agency? A terrible place to work? We\u2019re not sure but many are convinced this is one of the latest cults to spring up in the United States. \n\n\n\n\nWarning: some language or themes may not be suitable for all ages. \n\n\n\n\nCheck out our website: www.someweirdpodcast.com\n\n\n\n\nHave your own story or your own take on our stories? Email us at\u00A0 SomeWeirdPodcast@gmail.com or on reach out on the Instagram",
+      "release": "2025-01-09T13:00:00Z",
+      "duration": "00:29:39",
+      "explicit": false,
+      "spotifyId": "0EJH9kH9KSLzeTjzkNKFU1",
+      "appleId": 1000683316292,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0EJH9kH9KSLzeTjzkNKFU1",
+        "apple": "https://podcasts.apple.com/podcast/cults-part-2-the-7m-tik-tok-cult/id1534627370?i=1000683316292"
+      }
+    },
+    {
+      "id": "cef9a6f4-179f-4bc4-83e2-5510260f0a8b",
+      "title": "Cults Part 1: Heaven\u0027s Gate",
+      "description": "This is a two-part episode because there was just so much weirdness! In Cults Part 1: Heaven\u2019s Gate we will talk about how this UFO cult started and how it ended. Stay tuned for the end bloopers for our tangent discussion on the best Jokers. Cults Part 2 will be out on the next scheduled time. Warning: some language or themes may not be suitable for all ages. Check out our website: www.someweirdpodcast.com Have your own story or your own take on our stories? Email us at SomeWeirdPodcast@gmail.com or reach out on Instagram",
+      "release": "2024-12-26T13:00:00Z",
+      "duration": "00:31:29.7370000",
+      "explicit": false,
+      "spotifyId": "6JYi4IGUYyMnsmmlT3BN9B",
+      "appleId": 1000681745758,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6JYi4IGUYyMnsmmlT3BN9B",
+        "apple": "https://podcasts.apple.com/podcast/cults-part-1-heavens-gate/id1534627370?i=1000681745758"
+      }
+    }
+  ]
+}

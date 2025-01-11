@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCE6tvTcszoJ8WxQnZnXBLGA",
   "episodes": [
     {
+      "id": "fd1e0c86-40a2-4e2c-a159-1ce8a85e3d43",
+      "title": "Leaving Christian Fundamentalism with Denise Whitehead",
+      "release": "2025-01-10T18:22:02Z",
+      "duration": "01:28:58",
+      "explicit": false,
+      "youTubeId": "6P-XDbFgGTA",
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6P-XDbFgGTA"
+      }
+    },
+    {
       "id": "248f1e65-5165-4758-9301-e05cacccc527",
       "title": "Why Does the Christian Right Worship Someone So Wrong",
       "release": "2024-11-22T23:13:10Z",
@@ -102,20 +116,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=ZHAL9_FF_kY"
-      }
-    },
-    {
-      "id": "4106b006-cda8-4933-b105-f5bf59cdda16",
-      "title": "Weird Bible Stories: The Wedding and the Foreskins (Ep 23)",
-      "release": "2024-10-26T23:00:08Z",
-      "duration": "01:05:53",
-      "explicit": false,
-      "youTubeId": "Uua_GG5PCiQ",
-      "subjects": [
-        "Independent Fundamentalist Baptist"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=Uua_GG5PCiQ"
       }
     },
     {

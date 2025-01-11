@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "197cda9f-62dc-4b8e-ad84-0d95d5903234",
+  "name": "KUTV 2 News Salt Lake City",
+  "youTubeChannelId": "UCFVUStJ4azXbWMhFO4yTELg",
+  "episodes": [
+    {
+      "id": "c623e751-2f61-4de8-8981-a96745b4abe2",
+      "title": "Ruby Franke\u0027s oldest daughter, Shari, speaks to Utah legislative committee about child influencers",
+      "release": "2024-10-16T23:32:39Z",
+      "duration": "00:07:08",
+      "explicit": false,
+      "youTubeId": "yDtYlTYeLSk",
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=yDtYlTYeLSk"
+      }
+    }
+  ]
+}

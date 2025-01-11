@@ -4,6 +4,7 @@
   "name": "The New Heretics",
   "spotifyId": "6KJ1dAPrURoi63IbooJYFZ",
   "appleId": 1741668169,
+  "youTubeChannelId": "UCGafMnS_2Mjic6DI98L39tg",
   "episodes": [
     {
       "id": "9eb6777f-adb6-46d7-8c86-dfcfcfeb2037",
@@ -31,12 +32,14 @@
       "explicit": false,
       "spotifyId": "5s3mMWHq5HFVsagwAqSmMv",
       "appleId": 1000673762272,
+      "youTubeId": "fd1ZztFm_cg",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5s3mMWHq5HFVsagwAqSmMv",
-        "apple": "https://podcasts.apple.com/podcast/jw-doubts-tier-list-being-pimq-part-3/id1741668169?i=1000673762272"
+        "apple": "https://podcasts.apple.com/podcast/jw-doubts-tier-list-being-pimq-part-3/id1741668169?i=1000673762272",
+        "youtube": "https://www.youtube.com/watch?v=fd1ZztFm_cg"
       }
     },
     {
@@ -48,12 +51,14 @@
       "explicit": false,
       "spotifyId": "1tLpAAVauiIIk3GhM8tqRW",
       "appleId": 1000670465893,
+      "youTubeId": "AT9TbDiZeCU",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1tLpAAVauiIIk3GhM8tqRW",
-        "apple": "https://podcasts.apple.com/podcast/no-wrong-way-to-wake-up-being-pimq-part-2/id1741668169?i=1000670465893"
+        "apple": "https://podcasts.apple.com/podcast/no-wrong-way-to-wake-up-being-pimq-part-2/id1741668169?i=1000670465893",
+        "youtube": "https://www.youtube.com/watch?v=AT9TbDiZeCU"
       }
     },
     {
@@ -82,9 +87,11 @@
       "explicit": false,
       "spotifyId": "4jaF8GtYV89Rj04A8XbV4R",
       "appleId": 1000660246313,
+      "youTubeId": "eh7yq76YnvE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4jaF8GtYV89Rj04A8XbV4R",
-        "apple": "https://podcasts.apple.com/podcast/when-in-doubt-being-pimq-part-1/id1741668169?i=1000660246313"
+        "apple": "https://podcasts.apple.com/podcast/when-in-doubt-being-pimq-part-1/id1741668169?i=1000660246313",
+        "youtube": "https://www.youtube.com/watch?v=eh7yq76YnvE"
       }
     },
     {
@@ -144,9 +151,11 @@
       "explicit": false,
       "spotifyId": "0v9lz487xf3jDHTyEN1NRP",
       "appleId": 1000652686565,
+      "youTubeId": "lrIAegofCNE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0v9lz487xf3jDHTyEN1NRP",
-        "apple": "https://podcasts.apple.com/podcast/so-you-left-a-cult-now-what/id1741668169?i=1000652686565"
+        "apple": "https://podcasts.apple.com/podcast/so-you-left-a-cult-now-what/id1741668169?i=1000652686565",
+        "youtube": "https://www.youtube.com/watch?v=lrIAegofCNE"
       }
     }
   ]

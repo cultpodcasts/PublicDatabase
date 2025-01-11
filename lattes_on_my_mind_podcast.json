@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "d2215e42-275b-445e-9aea-854dc5f3d1e5",
+  "name": "Lattes On My Mind Podcast",
+  "spotifyId": "5NJIrvWrHMQJrY4jWm9PC1",
+  "appleId": 1760971035,
+  "youTubeChannelId": "UC1p7badFT9U7A4cCBl0WVLA",
+  "episodes": [
+    {
+      "id": "475be640-8b17-4da2-8a76-0df243607830",
+      "title": "Episode 40: Opus Dei: Cult or Lay Group?",
+      "description": "Let\u0027s find out! \n\n\n\nOn this episode we touch on the origins of the group, what they may be hiding, and what exactly is expected of their members.",
+      "release": "2025-01-09T05:49:09Z",
+      "duration": "00:56:44",
+      "explicit": false,
+      "spotifyId": "33CGlN3k1hRDMMvCx4vpFE",
+      "appleId": 1000683267356,
+      "youTubeId": "wrdGmbRzrRg",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/33CGlN3k1hRDMMvCx4vpFE",
+        "apple": "https://podcasts.apple.com/podcast/episode-40-opus-dei-cult-or-lay-group/id1760971035?i=1000683267356",
+        "youtube": "https://www.youtube.com/watch?v=wrdGmbRzrRg"
+      }
+    }
+  ]
+}

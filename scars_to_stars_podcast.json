@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "d659d330-e74a-4f70-93ef-b377283a770f",
+  "name": "Scars to Stars",
+  "spotifyId": "07iaTclOtxMgAAMBkkammC",
+  "appleId": 1688742664,
+  "episodes": [
+    {
+      "id": "99d7d5dd-638a-4fab-b06c-7515f5791e76",
+      "title": "From Sex Cult to Millionaire",
+      "description": "Deana talks with Lucy about her journey of growing up in a cult in Mexico and how she found success in Real Estate as well as becoming a mental health professional and helping others with trauma healing. #happinesscoach #cult #entrepreneur #dreams #fearless #resillience #grit #traumahealing",
+      "release": "2025-01-08T15:00:00Z",
+      "duration": "00:32:24.9870000",
+      "explicit": true,
+      "spotifyId": "37sIQq9IrDdGVl7U5tTa7q",
+      "appleId": 1000683211208,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37sIQq9IrDdGVl7U5tTa7q",
+        "apple": "https://podcasts.apple.com/podcast/from-sex-cult-to-millionaire/id1688742664?i=1000683211208"
+      }
+    }
+  ]
+}

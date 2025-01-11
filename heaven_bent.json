@@ -6,6 +6,23 @@
   "appleId": 1513489117,
   "episodes": [
     {
+      "id": "48ce037e-283b-46f8-bd8f-c7002c20c89b",
+      "title": "S4 B8: The First Lawsuit",
+      "description": "Allegations of abuse have followed IHOPKC for years. Meet the team behind the first lawsuit. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-01-07T11:00:12Z",
+      "duration": "00:24:27.2190000",
+      "explicit": false,
+      "spotifyId": "06JWYg1unoB6megjO5vkNJ",
+      "appleId": 1000682950778,
+      "subjects": [
+        "International House of Prayer Kansas City"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/06JWYg1unoB6megjO5vkNJ",
+        "apple": "https://podcasts.apple.com/podcast/s4-b8-the-first-lawsuit/id1513489117?i=1000682950778"
+      }
+    },
+    {
       "id": "39adc19e-b9ae-4e40-ac0f-73aff8216eca",
       "title": "BEST OF: Show Me The Toes P2",
       "description": "Join Tara Jean Stevens for her exclusive interview with Krissy Dines. On March 14th, she claims her amputated toes supernaturally regrew, during a healing service, at James River Church. This is part two of a two-part miniseries, first released in June 2023. Hosted on Acast. See acast.com/privacy for more information.",

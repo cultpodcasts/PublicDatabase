@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "71131008-fe97-482d-874f-69e364696282",
+      "title": "188. JPUSA Part I",
+      "description": "This week we start our journey through the world of Jesus People USA or JPUSA.",
+      "release": "2025-01-08T07:00:00Z",
+      "duration": "01:36:32.6530000",
+      "explicit": false,
+      "spotifyId": "5coFfn8Aw5cztvdTeYohb7",
+      "appleId": 1000683133855,
+      "subjects": [
+        "Jesus People USA"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5coFfn8Aw5cztvdTeYohb7",
+        "apple": "https://podcasts.apple.com/podcast/188-jpusa-part-i/id1573190999?i=1000683133855"
+      }
+    },
+    {
       "id": "3bf4f4dc-23d2-4f67-9e39-283cda066ab3",
       "title": "187. The Infancy Gospel Of Thomas: Jesus Christ!",
       "description": "This week we dive into an early christian book which cover\u0027s Jesus\u0027 childhood.",

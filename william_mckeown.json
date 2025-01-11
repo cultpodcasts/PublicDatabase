@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "d505a6e7-57b7-4dda-95ea-281f7b8d2fac",
+  "name": "William McKeown",
+  "youTubeChannelId": "UChSZH236FQCkojjM_ScMvWQ",
+  "episodes": [
+    {
+      "id": "cc735acd-7370-43fe-b054-9a556b573532",
+      "title": "Jonestown:  The Life and Death of People\u0027s Temple",
+      "description": "This video is used to enhance ideas in HSP 3M1.",
+      "release": "2017-11-14T13:40:47Z",
+      "duration": "01:24:51",
+      "explicit": true,
+      "youTubeId": "traRRAQQfbg",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=traRRAQQfbg"
+      }
+    }
+  ]
+}
