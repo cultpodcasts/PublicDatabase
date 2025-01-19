@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "ff8f421b-af36-474c-8918-d13069da5f24",
+  "name": "Save the Therapist",
+  "spotifyId": "3MJioaaz79oKngOsuKg88y",
+  "episodes": [
+    {
+      "id": "0096f796-fa3e-4bf3-9758-21d726ffc442",
+      "title": "Religious Trauma",
+      "description": "Part 1: Mark Mayhew, LCSW, works in community mental health and maintains a small clinical practice on the side. He shares a personal story about how his interest in the treatment of religious trauma was born. (5 minutes) Part 2: Anna Clark Miller, LPC-S, specializes in working with survivors of religious trauma, spiritual abuse, cults, and other high-control groups. Her work requires practicing religious neutrality\u2014which can be harder than it sounds. Hear about some of the common symptoms and impacts of religious trauma as well as suggestions for clinical approaches to this type of work. (23 minutes) Part 3: Summary of topic and conclusion. (2 minutes)",
+      "release": "2025-01-14T00:00:00",
+      "duration": "00:30:03.6540000",
+      "explicit": false,
+      "spotifyId": "3ujYeuxy3SAVNdneJL3oeH",
+      "subjects": [
+        "Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ujYeuxy3SAVNdneJL3oeH"
+      }
+    }
+  ]
+}

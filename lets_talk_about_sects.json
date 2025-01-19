@@ -470,7 +470,8 @@
       "spotifyId": "3UwcfoREuX8aKtc00g7lbi",
       "appleId": 1000623810779,
       "subjects": [
-        "Legislation"
+        "Legislation",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3UwcfoREuX8aKtc00g7lbi",
@@ -1503,6 +1504,7 @@
       "spotifyId": "0GfkQOz9SReiuYNtIQ3dhq",
       "appleId": 1000397156597,
       "subjects": [
+        "Kenja Communication",
         "Scientology",
         "Cult Psychology"
       ],

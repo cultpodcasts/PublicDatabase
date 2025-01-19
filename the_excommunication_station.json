@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "fd8fd622-c767-43ac-b2ec-f9941d435baa",
+      "title": "189. JPUSA Part II",
+      "description": "We dive back into JPUSA and we talk about the abuses that happened in the commune so just a content warning.",
+      "release": "2025-01-15T07:00:00Z",
+      "duration": "01:08:46.9010000",
+      "explicit": true,
+      "spotifyId": "3Gu5edJE6Ppyac2yjf8lLJ",
+      "appleId": 1000684050185,
+      "subjects": [
+        "Jesus People USA"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Gu5edJE6Ppyac2yjf8lLJ",
+        "apple": "https://podcasts.apple.com/podcast/189-jpusa-part-ii/id1573190999?i=1000684050185"
+      }
+    },
+    {
       "id": "71131008-fe97-482d-874f-69e364696282",
       "title": "188. JPUSA Part I",
       "description": "This week we start our journey through the world of Jesus People USA or JPUSA.",

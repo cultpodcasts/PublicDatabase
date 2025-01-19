@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "7c5faf80-c497-4e27-bae0-44e03c9f00ac",
+  "name": "Bang to Rights",
+  "spotifyId": "6RVxqn3zwZ2R1vwtL5uWME",
+  "appleId": 1621252969,
+  "youTubeChannelId": "UCwO9D_qzsnrm-xq2lRfhiag",
+  "episodes": [
+    {
+      "id": "11503752-974d-4eb7-860d-09ff52e9e0aa",
+      "title": "257: ABUSED by a \u0022CULT\u0027 leader - The Shocking Case of Ruby Franke and Jodi Hildebrandt",
+      "description": "In my latest episode of true crime , I delve into disturbing case of Ruby Franke, a former family vlogger known for her YouTube channel \u00228 Passengers,\u0022 and her business associate, Jodi Hildebrandt. Em x",
+      "release": "2025-01-13T05:00:00Z",
+      "duration": "01:37:22.2590000",
+      "explicit": false,
+      "spotifyId": "5e1BqyG93dYk0WEvqEzgHy",
+      "appleId": 1000683732347,
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5e1BqyG93dYk0WEvqEzgHy",
+        "apple": "https://podcasts.apple.com/podcast/abused-by-a-cult-leader-the-shocking-case-of/id1621252969?i=1000683732347"
+      }
+    }
+  ]
+}

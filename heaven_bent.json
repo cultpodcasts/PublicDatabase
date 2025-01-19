@@ -6,6 +6,23 @@
   "appleId": 1513489117,
   "episodes": [
     {
+      "id": "a40afad7-390a-45a9-85bc-aaa7011ad092",
+      "title": "Do You See Me?",
+      "description": "When \u0022Sarah\u0022 was kicked out of Kitimat Harvest Church, she was told God\u2019s hand was no longer on her. On this episode, how her life \u0026 faith were shaped\u2014and shaken\u2014by the Harvest. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-01-13T11:00:00Z",
+      "duration": "00:32:53.6030000",
+      "explicit": false,
+      "spotifyId": "2LIa5avqfiLXuYl7gvvy3o",
+      "appleId": 1000683719704,
+      "subjects": [
+        "Harvest Ministries International"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2LIa5avqfiLXuYl7gvvy3o",
+        "apple": "https://podcasts.apple.com/podcast/do-you-see-me/id1513489117?i=1000683719704"
+      }
+    },
+    {
       "id": "48ce037e-283b-46f8-bd8f-c7002c20c89b",
       "title": "S4 B8: The First Lawsuit",
       "description": "Allegations of abuse have followed IHOPKC for years. Meet the team behind the first lawsuit. Hosted on Acast. See acast.com/privacy for more information.",

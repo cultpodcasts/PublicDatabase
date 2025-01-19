@@ -4,7 +4,27 @@
   "name": "Healing Sucks",
   "spotifyId": "04ImpAK5K4LwIVJqJXSPJn",
   "appleId": 1704775987,
+  "youTubeChannelId": "UC_RTY0OIYrOjN8BvmJfqXBQ",
   "episodes": [
+    {
+      "id": "afab18b2-0128-4e7c-ab5d-0c1fecc1f608",
+      "title": "S3E1: I Survived a Cult: The JENNIFER REDCAY story",
+      "description": "In this eye-opening episode of Healing Sucks, host Jackey Hall speaks with Jennifer Redcay, who spent a decade trapped in a manipulative and abusive Christian cult. Jennifer shares her powerful story, recounting how her search for connection and a void left unfilled led her into an environment marked by control, isolation, and abuse. The conversation delves deep into the disturbing tactics cult leaders use to dominate their followers, including financial control, emotional manipulation, and physical and SA abuse. Jennifer bravely recounts the impact this had on her life and how she ultimately found the courage to break free. Her journey is a testament to the resilience of the human spirit. Jennifer reflects on her healing process and how she reclaimed her life through faith and inner strength with God. This episode is a must-listen for anyone seeking hope and insight into overcoming trauma and reclaiming personal freedom. WHERE CAN I FIND JENNIFER? TikTok: https://www.tiktok.com/@jenniferredcayauthor?is_from_webapp=1\u0026sender_device=pc Facebook: Pushing Back The Darkness",
+      "release": "2025-01-17T00:59:46Z",
+      "duration": "01:26:38.4580000",
+      "explicit": true,
+      "spotifyId": "3ESCDanAPwpifHYs6Fn7m0",
+      "appleId": 1000684318146,
+      "youTubeId": "FHWSRL6bviU",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ESCDanAPwpifHYs6Fn7m0",
+        "apple": "https://podcasts.apple.com/podcast/s3e1-i-survived-a-cult-the-jennifer-redcay-story/id1704775987?i=1000684318146",
+        "youtube": "https://www.youtube.com/watch?v=FHWSRL6bviU"
+      }
+    },
     {
       "id": "3da6f570-d547-4a5b-aee0-9a0d6a5376a2",
       "title": "S2E20 I Grew Up In Religious Abuse: The KERI BLACK Story Part 1",

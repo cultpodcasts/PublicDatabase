@@ -5,6 +5,34 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "08f08f1c-b960-4229-8158-0709bdac0747",
+      "title": "Growing Up in Scientology: Everything You Need to Know",
+      "release": "2025-01-13T09:56:26Z",
+      "duration": "00:14:01",
+      "explicit": false,
+      "youTubeId": "Shwk4lTe5sg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Shwk4lTe5sg"
+      }
+    },
+    {
+      "id": "e6b9f68a-8aa9-4e94-bf56-effd93914869",
+      "title": "How do people get into Scientology?",
+      "release": "2025-01-12T09:49:22Z",
+      "duration": "00:02:52",
+      "explicit": false,
+      "youTubeId": "O3fEp_17wrw",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=O3fEp_17wrw"
+      }
+    },
+    {
       "id": "dff54f58-8575-4fa0-90a7-ed0aa4c8d2f2",
       "title": "How Scientology censored L Ron Hubbard\u0026#39;s family members from history",
       "release": "2025-01-11T10:07:47Z",

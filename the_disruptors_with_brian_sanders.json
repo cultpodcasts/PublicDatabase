@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "42680c89-350e-4d55-9927-fbdf5b6a3ab0",
+  "name": "The Disruptors with Brian Sanders",
+  "spotifyId": "5QiNmgm8Z5MgQDAzHa6FeI",
+  "appleId": 1636995899,
+  "episodes": [
+    {
+      "id": "cde342c5-7dee-43a9-9bfc-3213611aa340",
+      "title": "#56 Investigating incest, kidnapping, bio-fuel fraud, and the spread of polygamist cult \u0022The Order\u0022 : Docu-Investigators Mat \u0026 Tawni Browning (A\u0026E series \u0022Secrets of Polygamy\u0022",
+      "description": "Mat and Tawni Browing spent years investigating, infiltrating, and rescuing girls from \u0022The Order,\u0022 a polygamist cult with hundreds of male members who marry their nieces, half-sisters, aunts, and first cousins in order to keep their blood line pure. \u0022The Order\u0022 has been linked to crimes against children, kidnappings, multi-million dollar bio-fuel frauds, public corruption, and more.",
+      "release": "2025-01-17T20:20:11Z",
+      "duration": "01:00:36.5930000",
+      "explicit": true,
+      "spotifyId": "5ZD0BaTpn371pRCFBahfUH",
+      "appleId": 1000684426202,
+      "subjects": [
+        "Latter Day Church of Christ"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ZD0BaTpn371pRCFBahfUH",
+        "apple": "https://podcasts.apple.com/podcast/56-investigating-incest-kidnapping-bio-fuel-fraud-and/id1636995899?i=1000684426202"
+      }
+    }
+  ]
+}

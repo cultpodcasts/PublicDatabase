@@ -1,0 +1,18 @@
+{
+  "_ts": 0,
+  "id": "a911d471-4bf0-47c7-aa86-101c771f67f9",
+  "name": "Cunk on Earth",
+  "episodes": [
+    {
+      "id": "c789eafb-81dc-46bf-aca4-09c40863b64a",
+      "title": "Series 1: 2. Faith/Off",
+      "description": "Cunk continues her journey through, around and across civilisation, taking an unproblematic look at the births of Christianity and Islam.",
+      "release": "2022-09-20T00:00:00",
+      "duration": "00:28:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/p0cz87q8/cunk-on-earth-series-1-2-faithoff"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "11c8deaf-1eaf-433b-b59f-5484ff2406f8",
+  "name": "True Weird Stuff",
+  "spotifyId": "4AYdTg0ckYMfRCkW80z7Ro",
+  "appleId": 1668859460,
+  "youTubeChannelId": "UCYeQP9EO6kayWaoClmGySgQ",
+  "episodes": [
+    {
+      "id": "7ac68e86-222b-44ef-b309-efc6ae311f3c",
+      "title": "August Engelhardt\u0027s Coconut Cult",
+      "description": "In the early 1900s, a German author named August Engelhardt packed up his library of books, moved to the South Pacific island of Kabakon, and started a sun-worshipping coconut cult. He believed the way to become closer to God and gain immortality was by consuming coconuts and nothing else. Engelhardt convinced dozens of people to join him on the island, but many of them died from illness or malnutrition. And the ones who didn\u0027t perish fled, having realized the lunacy of a man who was cuckoo for coconuts.\n\n\nhttps://trueweirdstuff.com/",
+      "release": "2025-01-13T13:00:29Z",
+      "duration": "01:24:27",
+      "explicit": false,
+      "spotifyId": "76590X0WPiiIGTlrMcYZBT",
+      "appleId": 1000683536400,
+      "youTubeId": "MtsgI1y55KI",
+      "subjects": [
+        "August Engelhardt"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/76590X0WPiiIGTlrMcYZBT",
+        "apple": "https://podcasts.apple.com/podcast/coconut-cult/id1668859460?i=1000683536400",
+        "youtube": "https://www.youtube.com/watch?v=MtsgI1y55KI"
+      }
+    }
+  ]
+}

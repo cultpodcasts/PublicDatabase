@@ -1,0 +1,45 @@
+{
+  "_ts": 0,
+  "id": "e7fe2b8c-7908-4002-9ac0-a5e8aa6f4be1",
+  "name": "The Connection with Marty Moss-Coane",
+  "spotifyId": "3a9c0iOyefAvaaeg06Tau4",
+  "appleId": 1667989249,
+  "episodes": [
+    {
+      "id": "9260dd99-85b0-4e3b-ad4b-2ad23ac5389c",
+      "title": "Investigating the cult-like tactics of modern marketers",
+      "description": "Marketing companies can be pretty sneaky when trying to get new customers. Instead of straightforward sales pitches, they\u2019ve turned to manipulative tactics used by cults.",
+      "release": "2025-01-17T17:00:26Z",
+      "duration": "00:49:59.2220000",
+      "explicit": false,
+      "spotifyId": "6FnSYyDxFKeaMMPpllaB4M",
+      "appleId": 1000684413018,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6FnSYyDxFKeaMMPpllaB4M",
+        "apple": "https://podcasts.apple.com/podcast/investigating-the-cult-like-tactics-of-modern-marketers/id1667989249?i=1000684413018"
+      }
+    },
+    {
+      "id": "7dd37742-0749-49cc-8055-28a733b09d92",
+      "title": "Identifying and healing from narcissistic people",
+      "description": "Dr. Ramani Durvasula explores the toxic effects of narcissism and how to deal with narcissistic people.",
+      "release": "2024-12-13T17:00:05Z",
+      "duration": "00:50:30.3340000",
+      "explicit": false,
+      "spotifyId": "1vUOsZq93gujg5yq2FE1Tx",
+      "appleId": 1000680295211,
+      "subjects": [
+        "Psychology",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1vUOsZq93gujg5yq2FE1Tx",
+        "apple": "https://podcasts.apple.com/podcast/identifying-and-healing-from-narcissistic-people/id1667989249?i=1000680295211"
+      }
+    }
+  ]
+}

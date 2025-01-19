@@ -1,0 +1,37 @@
+{
+  "_ts": 0,
+  "id": "3d9d4e90-dbc3-4e15-b72d-58a4ff688f3c",
+  "name": "Always confused atheist",
+  "youTubeChannelId": "UCh-5-iDGJqLoq8fqnfuJq8g",
+  "episodes": [
+    {
+      "id": "a0eec472-d706-4878-942b-3c14175dc73b",
+      "title": "Raised in a cult, cult survivor, CPTSD",
+      "description": "I discuss what it is like to have lived while being in two different cults. Along with my home life",
+      "release": "2025-01-18T23:47:46Z",
+      "duration": "00:09:04",
+      "explicit": true,
+      "youTubeId": "3nINtFES2gg",
+      "subjects": [
+        "Faith Assembly"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3nINtFES2gg"
+      }
+    },
+    {
+      "id": "981b762e-02eb-4143-a6cb-a65cf6458ea0",
+      "title": "Being raised in a cult and abusive home, therapy",
+      "release": "2025-01-18T23:41:51Z",
+      "duration": "00:10:01",
+      "explicit": false,
+      "youTubeId": "QuYV1fQ2Da8",
+      "subjects": [
+        "Faith Assembly"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QuYV1fQ2Da8"
+      }
+    }
+  ]
+}
