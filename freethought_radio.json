@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "54ba71f3-f86e-4a76-86e0-cca025e14664",
+  "name": "Freethought Radio",
+  "spotifyId": "1Xe4MuRtu142nBUo6QdKqW",
+  "appleId": 152788201,
+  "episodes": [
+    {
+      "id": "359444c2-702f-4b33-948c-411ed32ddd3c",
+      "title": "God\u0027s Work",
+      "description": "We speak with journalist Gareth Gore about his book on the Opus Dei called OPUS: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church.",
+      "release": "2025-01-23T19:24:00Z",
+      "duration": "00:49:46.0310000",
+      "explicit": false,
+      "spotifyId": "2UJipUjyTCP3JQwJZ7Ub6d",
+      "appleId": 1000685213043,
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2UJipUjyTCP3JQwJZ7Ub6d",
+        "apple": "https://podcasts.apple.com/podcast/gods-work/id152788201?i=1000685213043"
+      }
+    }
+  ]
+}

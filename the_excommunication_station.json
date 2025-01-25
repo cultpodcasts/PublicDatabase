@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a14b4cf3-f15e-4270-aeb5-30080a1484ba",
+      "title": "190. JPUSA Part III: An Interview With Jaime Prater",
+      "description": "We finish up JPUSA with an interview with a former member and abuse survivor, Jaime Prater. Check out his two films. https://youtu.be/0V4G00Gl51c?si=nFnx-pN5qVafHksC https://youtu.be/JgSwnaMVjQE?si=5t_kPokSZa2u7ofE",
+      "release": "2025-01-22T06:52:00Z",
+      "duration": "01:48:51.3690000",
+      "explicit": true,
+      "spotifyId": "0TvpRkTNC2BmGoDkEm9EGX",
+      "appleId": 1000684957965,
+      "subjects": [
+        "Jesus People USA"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0TvpRkTNC2BmGoDkEm9EGX",
+        "apple": "https://podcasts.apple.com/podcast/190-jpusa-part-iii-an-interview-with-jaime-prater/id1573190999?i=1000684957965"
+      }
+    },
+    {
       "id": "fd8fd622-c767-43ac-b2ec-f9941d435baa",
       "title": "189. JPUSA Part II",
       "description": "We dive back into JPUSA and we talk about the abuses that happened in the commune so just a content warning.",

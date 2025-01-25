@@ -639,6 +639,7 @@
       "explicit": false,
       "spotifyId": "2sYmsFUbuWjzliWi3zUQab",
       "appleId": 1000639122501,
+      "youTubeId": "vZwuB0XaZBA",
       "subjects": [
         "Institute In Basic Life Principles",
         "Children Of God",
@@ -647,7 +648,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2sYmsFUbuWjzliWi3zUQab",
-        "apple": "https://podcasts.apple.com/podcast/episode-20-summer-series-books/id1693307722?i=1000639122501"
+        "apple": "https://podcasts.apple.com/podcast/episode-20-summer-series-books/id1693307722?i=1000639122501",
+        "youtube": "https://www.youtube.com/watch?v=vZwuB0XaZBA"
       }
     },
     {
@@ -659,6 +661,7 @@
       "explicit": false,
       "spotifyId": "1qjCofryvYHYWPLpGSaiY0",
       "appleId": 1000637506926,
+      "youTubeId": "bKcuc3ovPVY",
       "subjects": [
         "Cult Recovery",
         "Psychology",
@@ -667,7 +670,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1qjCofryvYHYWPLpGSaiY0",
-        "apple": "https://podcasts.apple.com/podcast/episode-19-safeguarding-children-is-it-possible-in/id1693307722?i=1000637506926"
+        "apple": "https://podcasts.apple.com/podcast/episode-19-safeguarding-children-is-it-possible-in/id1693307722?i=1000637506926",
+        "youtube": "https://www.youtube.com/watch?v=bKcuc3ovPVY"
       }
     },
     {
@@ -679,6 +683,7 @@
       "explicit": false,
       "spotifyId": "0iHDYfGru52Z5PPonD1Y7R",
       "appleId": 1000636957907,
+      "youTubeId": "KW1LhaHtHFs",
       "subjects": [
         "Cult Recovery",
         "Psychology",
@@ -687,7 +692,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0iHDYfGru52Z5PPonD1Y7R",
-        "apple": "https://podcasts.apple.com/podcast/episode-18-you-come-out-of-it-broken-kids-in-cults-mini-series/id1693307722?i=1000636957907"
+        "apple": "https://podcasts.apple.com/podcast/episode-18-you-come-out-of-it-broken-kids-in-cults-mini-series/id1693307722?i=1000636957907",
+        "youtube": "https://www.youtube.com/watch?v=KW1LhaHtHFs"
       }
     },
     {
@@ -699,12 +705,14 @@
       "explicit": false,
       "spotifyId": "5i3tMnGVt53ZHNvtDzOvfd",
       "appleId": 1000635721542,
+      "youTubeId": "U0qIgbAAeAk",
       "subjects": [
         "Gloriavale"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5i3tMnGVt53ZHNvtDzOvfd",
-        "apple": "https://podcasts.apple.com/podcast/episode-17-growing-up-in-gloriavale-with-hopeful/id1693307722?i=1000635721542"
+        "apple": "https://podcasts.apple.com/podcast/episode-17-growing-up-in-gloriavale-with-hopeful/id1693307722?i=1000635721542",
+        "youtube": "https://www.youtube.com/watch?v=U0qIgbAAeAk"
       }
     },
     {
@@ -716,12 +724,14 @@
       "explicit": false,
       "spotifyId": "4jYz6nMcn7IBEYBRPLYz1S",
       "appleId": 1000635721571,
+      "youTubeId": "IJ-Z23PlHF8",
       "subjects": [
         "Gloriavale"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4jYz6nMcn7IBEYBRPLYz1S",
-        "apple": "https://podcasts.apple.com/podcast/episode-16-growing-up-in-gloriavale-with-hopeful/id1693307722?i=1000635721571"
+        "apple": "https://podcasts.apple.com/podcast/episode-16-growing-up-in-gloriavale-with-hopeful/id1693307722?i=1000635721571",
+        "youtube": "https://www.youtube.com/watch?v=IJ-Z23PlHF8"
       }
     },
     {
@@ -752,12 +762,14 @@
       "explicit": false,
       "spotifyId": "6QXD9zwQ9Ok7LnT4qkvVjY",
       "appleId": 1000632532450,
+      "youTubeId": "4LpvzD7VB6E",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6QXD9zwQ9Ok7LnT4qkvVjY",
-        "apple": "https://podcasts.apple.com/podcast/episode-14-jehovahs-witnesses-in-the-high-court-part-2/id1693307722?i=1000632532450"
+        "apple": "https://podcasts.apple.com/podcast/episode-14-jehovahs-witnesses-in-the-high-court-part-2/id1693307722?i=1000632532450",
+        "youtube": "https://www.youtube.com/watch?v=4LpvzD7VB6E"
       }
     },
     {
@@ -769,12 +781,14 @@
       "explicit": false,
       "spotifyId": "4mbuQhgUR8FQE36YKcRRyk",
       "appleId": 1000632383388,
+      "youTubeId": "WIgJxdRoqLA",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4mbuQhgUR8FQE36YKcRRyk",
-        "apple": "https://podcasts.apple.com/us/podcast/episode-13-jehovahs-witnesses-in-the-high-court-part-1/id1693307722?i=1000632383388"
+        "apple": "https://podcasts.apple.com/us/podcast/episode-13-jehovahs-witnesses-in-the-high-court-part-1/id1693307722?i=1000632383388",
+        "youtube": "https://www.youtube.com/watch?v=WIgJxdRoqLA"
       }
     },
     {
@@ -786,12 +800,14 @@
       "explicit": false,
       "spotifyId": "1ESsQhouQDCtq0Pq43ESxS",
       "appleId": 1000630795560,
+      "youTubeId": "0OztXKaaM6o",
       "subjects": [
         "Plymouth Brethren Christian Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ESsQhouQDCtq0Pq43ESxS",
-        "apple": "https://podcasts.apple.com/podcast/episode-12-two-worlds-collide-plymouth-brethren-christian/id1693307722?i=1000630795560"
+        "apple": "https://podcasts.apple.com/podcast/episode-12-two-worlds-collide-plymouth-brethren-christian/id1693307722?i=1000630795560",
+        "youtube": "https://www.youtube.com/watch?v=0OztXKaaM6o"
       }
     },
     {
@@ -803,12 +819,14 @@
       "explicit": false,
       "spotifyId": "0doF98ijr26RHsYz31huDD",
       "appleId": 1000629287719,
+      "youTubeId": "FxEGi_OW0qo",
       "subjects": [
         "Gloriavale"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0doF98ijr26RHsYz31huDD",
-        "apple": "https://podcasts.apple.com/podcast/episode-11-bonus-part-b-setting-the-record-straight/id1693307722?i=1000629287719"
+        "apple": "https://podcasts.apple.com/podcast/episode-11-bonus-part-b-setting-the-record-straight/id1693307722?i=1000629287719",
+        "youtube": "https://www.youtube.com/watch?v=FxEGi_OW0qo"
       }
     },
     {
@@ -820,12 +838,14 @@
       "explicit": false,
       "spotifyId": "3uLf7xfAHGIAGie5q1kQ85",
       "appleId": 1000629285640,
+      "youTubeId": "1lwsiGEOIPg",
       "subjects": [
         "Gloriavale"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uLf7xfAHGIAGie5q1kQ85",
-        "apple": "https://podcasts.apple.com/podcast/episode-10-bonus-part-a-setting-the-record-straight/id1693307722?i=1000629285640"
+        "apple": "https://podcasts.apple.com/podcast/episode-10-bonus-part-a-setting-the-record-straight/id1693307722?i=1000629285640",
+        "youtube": "https://www.youtube.com/watch?v=1lwsiGEOIPg"
       }
     },
     {

@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "771042e1-345b-4fc4-9d0e-51f90d3dd844",
+  "name": "Witness History",
+  "spotifyId": "3PdxRnHfqIyqerICwGABGs",
+  "appleId": 339986758,
+  "episodes": [
+    {
+      "id": "5d0036a8-71db-4174-a5eb-88aeee98e16e",
+      "title": "Sarin gas attack on the Tokyo subway",
+      "description": "In 1995, an obscure Japanese religion launched a chemical attack on the Tokyo metro. Members of the doomsday cult, which called itself Aum Shinrikyo, dropped plastic bags containing sarin liquid on the floors of five different trains and then pierced them. As the liquid evaporated, passengers began inhaling the deadly fumes. Thirteen people were killed and thousands more injured. One of the passengers affected that day was Atsushi Asakahara. He spoke to Chloe Hadjimatheou in 2012. Eye-witness accounts brought to life by archive. Witness History is for those fascinated by the past. We take you to the events that have shaped our world through the eyes of the people who were there. For nine minutes every day, we take you back in time and all over the world, to examine wars, coups, scientific discoveries, cultural moments and much more. Recent episodes explore everything from football in Brazil, the history of the \u2018Indian Titanic\u2019 and the invention of air fryers, to Public Enemy\u2019s Fight The Power, subway art and the political crisis in Georgia. We look at the lives of some of the most famous leaders, artists, scientists and personalities in history, including: visionary architect Antoni Gaudi and the design of the Sagrada Familia; Michael Jordan and his bespoke Nike trainers; Princess Diana at the Taj Mahal; and G\u00F6rel Hanser, manager of legendary Swedish pop band Abba on the influence they\u2019ve had on the music industry. You can learn all about fascinating and surprising stories, such as the time an Iraqi journalist hurled his shoes at the President of the United States in protest of America\u2019s occupation of Iraq; the creation of the Hollywood commercial that changed advertising forever; and the ascent of the first Aboriginal MP. (Photo: Sarin attack. Credit: Getty Images)",
+      "release": "2025-01-21T10:00:00Z",
+      "duration": "00:09:54.6170000",
+      "explicit": false,
+      "spotifyId": "0ozXATBUVpIkAxQW20othh",
+      "appleId": 1000680817646,
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ozXATBUVpIkAxQW20othh",
+        "apple": "https://podcasts.apple.com/podcast/sarin-gas-attack-on-the-tokyo-subway/id339986758?i=1000680817646",
+        "bbc": "https://www.bbc.co.uk/sounds/play/w3ct5ynk"
+      }
+    }
+  ]
+}

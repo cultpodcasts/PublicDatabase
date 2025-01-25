@@ -3,8 +3,28 @@
   "id": "1d2d3e09-2b2f-4557-8d69-5f9a152b8579",
   "name": "Religious Trauma Recovery Podcast",
   "spotifyId": "3ysbBRVhMsl2O2kcIqeDZi",
+  "appleId": 1789640455,
   "youTubeChannelId": "UCZmvLe5q3JheL2fQdNh9HyQ",
   "episodes": [
+    {
+      "id": "d8998433-9db2-486f-a105-cf61271ec9be",
+      "title": "S1 E 3 Ontological Shock",
+      "description": "Join me as I talk about ontological shock, or as some of you refer to it as, \u0022The Mind F**k\u0022. Learn what it is, how it works, why it exists, and how to navigate it. If you are contemplating suicide, please reach out to one of these organizations for support before making a decision. National Suicide Hotline - call, text, chat (English and Spanish) 988 LGBTQ The Trevor Project - Call (212) 695-8650",
+      "release": "2025-01-23T06:00:07Z",
+      "duration": "00:18:50.2660000",
+      "explicit": false,
+      "spotifyId": "2fLL6Ac07hQzDKecG2ggoP",
+      "appleId": 1000685115648,
+      "youTubeId": "Yy-Us0DMRFc",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2fLL6Ac07hQzDKecG2ggoP",
+        "apple": "https://podcasts.apple.com/podcast/s1-e-3-ontological-shock/id1789640455?i=1000685115648",
+        "youtube": "https://www.youtube.com/watch?v=Yy-Us0DMRFc"
+      }
+    },
     {
       "id": "ccdaea5f-d833-4a06-bc2d-309e1d4a38cd",
       "title": "Boundaries",

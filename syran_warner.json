@@ -7,6 +7,21 @@
   "youTubeChannelId": "UCrOYLMtOe1CExqwd_eHOg9Q",
   "episodes": [
     {
+      "id": "e2f0f2bb-62f5-4432-8731-841e19bae0c6",
+      "title": "Cult Reporter",
+      "description": "The discovery of a reporter in a cult called The Body led by Marc Wade Bisset. Cult Stories. Cult Hunter",
+      "release": "2025-01-21T07:02:07Z",
+      "duration": "00:09:21",
+      "explicit": false,
+      "youTubeId": "R1I5Si_zhn8",
+      "subjects": [
+        "Marc Bisset"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=R1I5Si_zhn8"
+      }
+    },
+    {
       "id": "d18816e6-664d-4bde-852e-178958f62912",
       "title": "The Body is a #cult",
       "release": "2024-10-09T18:31:30Z",

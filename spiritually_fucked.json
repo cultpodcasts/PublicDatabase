@@ -7,6 +7,25 @@
   "youTubeChannelId": "UC4_cOYXbKPpW6s9TqKW-XlQ",
   "episodes": [
     {
+      "id": "d9f7a1b4-4ba4-4f90-b784-820770850f3b",
+      "title": "Madame Helena Blavatsky: Everyday She Hustlin\u0027",
+      "description": "Possibly one of the most influential people we have covered this far, Helena Blavatsky is considered a fraud by some but to us, she is just a 19th-century hustler girlie, who may or may not have been hustled herself.",
+      "release": "2025-01-22T11:30:00Z",
+      "duration": "01:14:31.9450000",
+      "explicit": true,
+      "spotifyId": "3jIl720m2vS6naAqCznLQP",
+      "appleId": 1000685001208,
+      "youTubeId": "XGPy499gagg",
+      "subjects": [
+        "Theosophical Society"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3jIl720m2vS6naAqCznLQP",
+        "apple": "https://podcasts.apple.com/podcast/madame-helena-blavatsky-everyday-she-hustlin/id1712148990?i=1000685001208",
+        "youtube": "https://www.youtube.com/watch?v=XGPy499gagg"
+      }
+    },
+    {
       "id": "0f8b6cfd-6311-46a0-9bce-d036cf4e7bfa",
       "title": "Bentinho Massaro: Douchebag Guru",
       "description": "Bentino Massaro leveraged the internet to grow a devout following. His teachings are a spiritual circle jerk of nonsense that has led to one death and a trail of sexual assault allegations.",

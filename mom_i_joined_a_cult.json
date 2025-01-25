@@ -6,6 +6,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "fce030c4-602f-4032-89ec-429f5ad48798",
+      "title": "The Doomsday Clock - Season 10 Episode 2",
+      "description": "Nathan takes us through the minutes of the Doomsday Clock. Thor gets passionate about role models. Gunnar makes some very uneducated comments. The Nice Cult Starts a clock for the return of Renaldo.",
+      "release": "2025-01-24T07:49:22Z",
+      "duration": "01:01:28.2340000",
+      "explicit": false,
+      "spotifyId": "61sOpyvRLuFDpQsPPcIAJZ",
+      "appleId": 1000685271903,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/61sOpyvRLuFDpQsPPcIAJZ",
+        "apple": "https://podcasts.apple.com/podcast/the-doomsday-clock-season-10-episode-2/id1565633523?i=1000685271903"
+      }
+    },
+    {
       "id": "6da0552b-eab6-441d-aab1-a7a2eb90a828",
       "title": "Season Review - Season 9 Episode 11",
       "description": "We talk about what we can do differently for next season, what episodes we liked this season, and goals for this year.",
