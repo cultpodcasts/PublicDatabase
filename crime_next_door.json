@@ -19,7 +19,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4TASeCxPaEsKuyokTbmOOO",
-        "apple": "https://podcasts.apple.com/podcast/1-the-truth/id1744545000?i=1000678524027"
+        "apple": "https://podcasts.apple.com/podcast/1-the-truth/id1744545000?i=1000678524027",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0021342"
       }
     },
     {
@@ -36,7 +37,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6i9Ffy9QQI1TDxDaTsIB3k",
-        "apple": "https://podcasts.apple.com/podcast/2-dying-in-the-harness/id1744545000?i=1000678526346"
+        "apple": "https://podcasts.apple.com/podcast/2-dying-in-the-harness/id1744545000?i=1000678526346",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m00218vv"
       }
     },
     {
@@ -53,7 +55,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ZOckpR97jUkmAn4fmyb6K",
-        "apple": "https://podcasts.apple.com/podcast/3-undercover/id1744545000?i=1000678527840"
+        "apple": "https://podcasts.apple.com/podcast/3-undercover/id1744545000?i=1000678527840",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0021h7f"
       }
     },
     {
@@ -70,7 +73,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/34dCQHTmcE7kVzo2xjMW83",
-        "apple": "https://podcasts.apple.com/podcast/4-hotline/id1744545000?i=1000678528290"
+        "apple": "https://podcasts.apple.com/podcast/4-hotline/id1744545000?i=1000678528290",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0021pdq"
       }
     },
     {
@@ -87,7 +91,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ZiQUlrbfiPRXVs9LcVvLf",
-        "apple": "https://podcasts.apple.com/podcast/5-dying-to-self/id1744545000?i=1000678528745"
+        "apple": "https://podcasts.apple.com/podcast/5-dying-to-self/id1744545000?i=1000678528745",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0021wzz"
       }
     },
     {
@@ -104,7 +109,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1qEbcTCTgs6sajiwZglHtt",
-        "apple": "https://podcasts.apple.com/podcast/6-hope/id1744545000?i=1000678529270"
+        "apple": "https://podcasts.apple.com/podcast/6-hope/id1744545000?i=1000678529270",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m00223ly"
       }
     }
   ]

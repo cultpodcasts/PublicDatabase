@@ -3,7 +3,22 @@
   "id": "80699243-26c9-410f-8615-6fb5949b114f",
   "name": "PRETEND",
   "spotifyId": "2vaCjR7UvlN9aTIzW6kNCo",
+  "appleId": 1245307962,
   "episodes": [
+    {
+      "id": "4e1820fc-9f21-4e50-9685-c570fbb0f36e",
+      "title": "2003: The Telepathy Tapes B-Side part 1",
+      "description": "The Telepathy Tapes podcast shot to the top of the charts, making bold claims about telepathic abilities in non-verbal autistic children. But are the claims rooted in science\u2014or something else entirely? In this episode of PRETEND, we take a closer look at the phenomenon, the controversies, and the skepticism surrounding these extraordinary claims. We\u2019ll discuss: \u279C The premise of The Telepathy Tapes and the experiments it presents. \u279C Scientific skepticism surrounding telepathy claims. \u279C Ethical concerns, including the history of Facilitated Communication and its controversies. \u279C Voices from parents, experts, and critics, including Zaid Jilani and Amy Lutz. Resources Mentioned: Learn more about Amy Lutz\u2019s work and her book Chasing the Intact Mind. https://amzn.to/4gg9Mbe Read Zaid Jilani\u2019s articles on Facilitated Communication and The Telepathy Tapes on his Substack, The American Saga. https://www.theamericansaga.com/ Explore the history of Facilitated Communication in the documentary Tell Them You Love Me (available on U.S. Netflix). https://www.netflix.com/title/81783064 Share Your Thoughts: Have you listened to The Telepathy Tapes? What do you think about the claims it makes? We want to hear from you! Send a voice memo with your thoughts to javier@pretendradio.org, and your message might be featured in an upcoming episode. Stay Connected: Follow PRETEND on social media and subscribe to the podcast for more stories exploring deception and the human condition. \u279C BlueSky: https://bsky.app/profile/pretendpod.bsky.social \u279C Instagram: https://www.instagram.com/pretendpod/ \u279C TikTok: https://www.tiktok.com/@pretendpod \u279C YouTube: https://www.youtube.com/@pretendpod Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-01-28T08:00:00Z",
+      "duration": "00:44:52.0750000",
+      "explicit": false,
+      "spotifyId": "6mse1jaGSR9nJyT4z51c7g",
+      "appleId": 1000685763817,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6mse1jaGSR9nJyT4z51c7g",
+        "apple": "https://podcasts.apple.com/podcast/the-telepathy-tapes-b-side-part-1/id1245307962?i=1000685763817"
+      }
+    },
     {
       "id": "7bd40ca2-2818-41f0-af56-0fb36dffc90f",
       "title": "S905: The Business of Cults part 3",

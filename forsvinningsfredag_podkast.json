@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "746a52ea-9222-41c7-bca5-8a982863e49f",
+  "name": "ForsvinningsFredag Podkast",
+  "spotifyId": "6DrPhfsEzNjInn6c3DmXz6",
+  "appleId": 1590364047,
+  "episodes": [
+    {
+      "id": "f06c8063-e66b-4816-9a17-e7ea77fb5e92",
+      "title": "Heavens Gate Cult",
+      "description": "I denne ukens episode tar vi for oss saken om Heaven\u2019s Gate Cult, ogs\u00E5 kjent som selvmordskulten. Hva skjer egentlig n\u00E5r en mann tar seg retten til \u00E5 opprette en ny form for trosretning, f\u00E5r en haug av tilhengere og til slutt tar dem med til det han mener er en fantastisk endestasjon, men som for oss utenfor kulten er helt ufattelig morbid og absurd? Det skal vi finne ut av i denne ukens episode.",
+      "release": "2025-01-31T05:00:00Z",
+      "duration": "00:35:39.5060000",
+      "explicit": false,
+      "spotifyId": "1JyJSdA3PGBlHXQxEcgyKq",
+      "appleId": 1000687377562,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1JyJSdA3PGBlHXQxEcgyKq",
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate-cult/id1590364047?i=1000687377562"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "167f7bd3-3524-45d1-b230-b7162d35a106",
+  "name": "The Jayme \u0026 Grayson Podcast",
+  "spotifyId": "59vDyrvdnNBw9DWYcbj3El",
+  "appleId": 1271979313,
+  "episodes": [
+    {
+      "id": "628f5f01-20c4-49be-b7fa-e5f15301d655",
+      "title": "Cults in America and across the world",
+      "release": "2025-01-30T20:07:05Z",
+      "duration": "00:34:04.1860000",
+      "explicit": false,
+      "spotifyId": "25dM2dFeFjYMHi85xEHJ29",
+      "appleId": 1000687246069,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/25dM2dFeFjYMHi85xEHJ29",
+        "apple": "https://podcasts.apple.com/podcast/cults-in-america-and-across-the-world/id1271979313?i=1000687246069"
+      }
+    }
+  ]
+}

@@ -5,17 +5,31 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
-      "id": "08f08f1c-b960-4229-8158-0709bdac0747",
-      "title": "Growing Up in Scientology: Everything You Need to Know",
-      "release": "2025-01-13T09:56:26Z",
-      "duration": "00:14:01",
+      "id": "c47599e8-1357-4f87-ac09-3e58acddda58",
+      "title": "What is \u0026quot;Bull-Baiting\u0026quot; in Scientology?",
+      "release": "2025-01-31T11:33:34Z",
+      "duration": "00:05:39",
       "explicit": false,
-      "youTubeId": "Shwk4lTe5sg",
+      "youTubeId": "x37UBMtTyyg",
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=Shwk4lTe5sg"
+        "youtube": "https://www.youtube.com/watch?v=x37UBMtTyyg"
+      }
+    },
+    {
+      "id": "d0e647ad-9d30-42cf-b333-222bab24c675",
+      "title": "What is \u0026quot;Auditing\u0026quot; in Scientology?",
+      "release": "2025-01-31T11:31:54Z",
+      "duration": "00:21:12",
+      "explicit": false,
+      "youTubeId": "MG69EHAGeoc",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MG69EHAGeoc"
       }
     },
     {

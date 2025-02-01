@@ -1,0 +1,32 @@
+{
+  "_ts": 0,
+  "id": "eb6d810d-1481-49b9-b286-bf76b2cb648f",
+  "name": "The Numinous Podcast",
+  "spotifyId": "3UGtfuf2DPlq9iDDP0rlPc",
+  "appleId": 852171726,
+  "youTubeChannelId": "UCx3rep7v3y3Pt5JDir2TkvQ",
+  "episodes": [
+    {
+      "id": "a943724f-c6e0-4822-bb29-a1890f666468",
+      "title": "TNP121- Alexandra Stein on Disorganized Attachment in Cults Totalitarian Regimes",
+      "description": "How do you know if you\u0027re in a cult? And, how does an open society confront propaganda, brainwashing, and the rise of fascism? That\u0027s the undercurrent of this conversation with noted cultic studies expert, Alexandra Stein, PhD.\n\n \n\nAlexandra Stein is a writer and educator specializing in the social psychology of ideological extremism and other dangerous social relationships. She brings an extraordinary lens to cultic studies with her attachment-based approach, which helps us understand how an average person \u2013 privileged and educated, even \u2013 can fall under the influence of a high-demand group. \u00A0",
+      "release": "2019-03-23T04:00:34Z",
+      "duration": "01:20:11",
+      "explicit": false,
+      "spotifyId": "04Oz0maci1Z1Q91oE0T7hc",
+      "appleId": 1000430470477,
+      "youTubeId": "axMNCq3JGIU",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/04Oz0maci1Z1Q91oE0T7hc",
+        "apple": "https://podcasts.apple.com/podcast/tnp121-alexandra-stein-on-disorganized-attachment-in/id852171726?i=1000430470477",
+        "youtube": "https://www.youtube.com/watch?v=axMNCq3JGIU"
+      }
+    }
+  ]
+}

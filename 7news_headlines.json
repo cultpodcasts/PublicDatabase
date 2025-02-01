@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "e693885c-980c-4c3f-8fb1-5ecef26cc865",
+  "name": "7News Headlines",
+  "spotifyId": "5a41os5Doz64BDOwxlXRmG",
+  "episodes": [
+    {
+      "id": "0ba88002-2bb2-4b62-91a3-13a901025a59",
+      "title": "Cult found guilty, Former Bishop of Broom faces new child sexual abuse charges",
+      "description": "14 members of a Queensland religious cult are today confirmed killers found guilty, of the manslaughter of a little girl in a historic verdict. The former Bishop of Broom is facing a string of new child sexual abuse charges. 7NEWS Headlines with Edwina Bartholomew for January 30, 2025. For more news, head to www.7news.com.au See omnystudio.com/listener for privacy information.",
+      "release": "2025-01-29T00:00:00",
+      "duration": "00:09:33.8310000",
+      "explicit": false,
+      "spotifyId": "3Px5JzZcsQQ7URs9wZvjtg",
+      "subjects": [
+        "The Saints",
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Px5JzZcsQQ7URs9wZvjtg"
+      }
+    }
+  ]
+}
