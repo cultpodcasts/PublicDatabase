@@ -1300,7 +1300,9 @@
       "subjects": [
         "Cult Recovery",
         "Siddha Yoga",
-        "Cult Psychology"
+        "Cult Psychology",
+        "Cult-Expert",
+        "Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=fBOqHAHL8dA"
@@ -1524,7 +1526,8 @@
       "subjects": [
         "Cult Psychology",
         "Cult-Expert",
-        "Cult Recovery"
+        "Cult Recovery",
+        "Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=PUhQlc-7Fn0"
@@ -2425,7 +2428,10 @@
       "explicit": false,
       "youTubeId": "i4JngQ4sWrI",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Cult-Expert",
+        "Cult Recovery",
+        "Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=i4JngQ4sWrI"
@@ -2509,7 +2515,8 @@
       "subjects": [
         "Cult Psychology",
         "Cult-Expert",
-        "Cult Recovery"
+        "Cult Recovery",
+        "Psychology"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=YNtKYyYdVmc"
@@ -2578,7 +2585,10 @@
       "explicit": false,
       "youTubeId": "TISvFOq-kMw",
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=TISvFOq-kMw"

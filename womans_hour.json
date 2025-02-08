@@ -6,6 +6,24 @@
   "appleId": 130950322,
   "episodes": [
     {
+      "id": "cd9c3426-e443-4b83-939a-b19643a69282",
+      "title": "The Bad Guru",
+      "description": "From [0:25:50] -A new BBC podcast has uncovered some shocking allegations of grooming, trafficking and sexual exploitation linked to a yoga movement. The Bad Guru podcast follows Miranda who joined a yoga class in the UK which she discovered had links to the Atman Federation, an international yoga movement led by the Romanian guru Gregorian Bivalaru. After becoming part of the wider movement, Miranda says that she was groomed and sexually exploited. Clare hears from Miranda and from the podcast\u2019s presenter, investigative journalist Cat McShane. Presenter: Clare McDonnell Producer: Laura Northedge",
+      "release": "2025-02-04T11:56:00Z",
+      "duration": "00:53:51.8030000",
+      "explicit": false,
+      "spotifyId": "4DZWrVTBJ1821rE0Xe13G9",
+      "appleId": 1000688879001,
+      "subjects": [
+        "Gregorian Bivolaru"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4DZWrVTBJ1821rE0Xe13G9",
+        "apple": "https://podcasts.apple.com/podcast/daisy-may-cooper-the-bad-guru-fiona-lee/id130950322?i=1000688879001",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0027lts"
+      }
+    },
+    {
       "id": "49258752-6f7d-4024-a7dd-363e062566cc",
       "title": "Children of the Cult",
       "description": "From [0:29:12] - \nIn 2021, Netflix premiered the documentary Wild Wild Country which drew global attention to the Rajneesh movement, a group of around 30,000 people at the movement\u2019s height, who followed an Indian spiritual guru called Bhagwan Shree Rajneesh. But what really drew the attention of many of the people who had grown up as part of this international community was that the experience of children was barely reflected in the six-part series. Maroesja Perizonius and her mother were part of the Rajneesh movement, joining when Maroosha was six. Maroesja has created a new documentary, Children of the Cult. She joins Kylie to talk about this very deeply personal project along with Sargam, another woman whose family became followers when she was a child.",
@@ -19,7 +37,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uOJhgNly0EampU2F4niUB",
-        "apple": "https://podcasts.apple.com/podcast/send-transport-lucy-worsley-children-of-the-cult-t20/id130950322?i=1000671658416"
+        "apple": "https://podcasts.apple.com/podcast/send-transport-lucy-worsley-children-of-the-cult-t20/id130950322?i=1000671658416",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0023gm4"
       }
     }
   ]

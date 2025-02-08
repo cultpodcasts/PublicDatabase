@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "e877c9ec-e0aa-4798-af03-dc337ad9cd24",
+  "name": "A Sassy Little Podcast with Sandra Ann Miller a.k.a. The Happyist",
+  "spotifyId": "7rTWOaA9R94PUoyX5LJzmj",
+  "appleId": 1526725555,
+  "episodes": [
+    {
+      "id": "019ce53b-e7b8-4c31-a685-2477e69f2a12",
+      "title": "Stephanie Sarkis PhD",
+      "description": "Probably one of the best documentaries on cults is the recent Max, four-part docu-series, \u0022Breath of Fire\u0022. The series (which waves plenty of red flags throughout) follows both the high-control organizations of Yogi Bhajan (his face used to grace the box of Yogi Tea) and Guru Jagat, founder of RA MA Institute. How did good people get from doing Kundalini yoga and wanting to make the world a better place, to finding themselves in abusive cults? Gaslighting on both sides of the yoga mat takes place. Listen in. https://stephaniesarkis.com/ https://www.facebook.com/StephanieSarkisPhD https://www.instagram.com/sarkisphd/ Full episodes are available to paid subscribers of A Sassy Little Substack. Subscriptions start at $5/mo or $40/yr. For more information, visit A Sassy Little Substack . The podcast is written, produced and edited by Sandra Ann Miller. If you are interested in becoming a guest, please visit the Contact page at SassyLittlePodcast.com. Music: Shower Beer by GG Riggs",
+      "release": "2025-02-07T08:00:00Z",
+      "duration": "01:07:59.2500000",
+      "explicit": true,
+      "spotifyId": "34jeyvDOtqzCSBM27XHp7L",
+      "appleId": 1000689896168,
+      "subjects": [
+        "3HO",
+        "Guru Jagat",
+        "Yoga Cult",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/34jeyvDOtqzCSBM27XHp7L",
+        "apple": "https://podcasts.apple.com/podcast/stephanie-sarkis-phd/id1526725555?i=1000689896168"
+      }
+    }
+  ]
+}

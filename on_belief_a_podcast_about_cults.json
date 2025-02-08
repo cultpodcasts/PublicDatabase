@@ -687,6 +687,9 @@
       "explicit": true,
       "spotifyId": "3KjqLLbEPUcmKGMmEUtl69",
       "appleId": 1000451891687,
+      "subjects": [
+        "One-on-one"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KjqLLbEPUcmKGMmEUtl69",
         "apple": "https://podcasts.apple.com/podcast/munchausen-by-proxy-with-dr-marc-feldman-and-judy-tienken/id1460412772?i=1000451891687"

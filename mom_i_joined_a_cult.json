@@ -6,6 +6,34 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "cd714dc3-6105-4575-8cc1-8e07e28ef919",
+      "title": "Dr. Brooner\u0027s Magic Soap - Season 10 Episode 4",
+      "description": "Nathan takes us on a ride through the life of Dr. Brooner . The Nice Cult Takes on Dr. Brooner\u0027s Magic Soap as part of bath time.",
+      "release": "2025-02-07T17:14:30Z",
+      "duration": "00:47:36.2400000",
+      "explicit": false,
+      "spotifyId": "6uxANljeu4qkbBus3y5IXN",
+      "appleId": 1000690040307,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6uxANljeu4qkbBus3y5IXN",
+        "apple": "https://podcasts.apple.com/podcast/dr-brooners-magic-soap-season-10-episode-4/id1565633523?i=1000690040307"
+      }
+    },
+    {
+      "id": "281069e4-3df8-4239-ae94-7949321c8227",
+      "title": "Greenland - Season 10 Episode 3",
+      "description": "The Nice Cult Decides to buy Greenland for it\u0027s members. Listen to find out how you can get prime real estate.",
+      "release": "2025-02-02T16:35:24Z",
+      "duration": "01:08:56",
+      "explicit": false,
+      "spotifyId": "3gbQ10ij9JIxPyZg75C9vJ",
+      "appleId": 1000688253613,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gbQ10ij9JIxPyZg75C9vJ",
+        "apple": "https://podcasts.apple.com/podcast/greenland-season-10-episode-3/id1565633523?i=1000688253613"
+      }
+    },
+    {
       "id": "fce030c4-602f-4032-89ec-429f5ad48798",
       "title": "The Doomsday Clock - Season 10 Episode 2",
       "description": "Nathan takes us through the minutes of the Doomsday Clock. Thor gets passionate about role models. Gunnar makes some very uneducated comments. The Nice Cult Starts a clock for the return of Renaldo.",

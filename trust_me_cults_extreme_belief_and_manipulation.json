@@ -6,6 +6,25 @@
   "appleId": 1534370789,
   "episodes": [
     {
+      "id": "36e21842-8dfb-4b44-8a66-9c0e927dcfc7",
+      "title": "Uriah Wesman, Part 1 - The First Cult: Church Universal and Triumphant",
+      "description": "Creator of the one man show 3 Cults Walk Into a Bar, Uriah Wesman, shares about his FIRST cult experience in Church Universal and Triumphant, how they combined Christianity and New Age ideas, the paranoia that was created by beliefs surrounding demons, his mom\u0027s mental deterioration that led her to accuse his father of being a demon, and his parents split that led him to his next cult... which we\u0027ll discuss next week! We have deals for you! ZocDoc: Stop putting off those doctors appointments! Go to Zocdoc.com/trustme to find and instantly book a top-rated doctor today! Shopify: Upgrade your business! Sign up for your $1 per month trial period at shopify.com/trustme BUY OUR MERCH!! bit.ly/trustmemerch Got your own story about cults, extreme belief, or abuse of power? Leave a voicemail or text us at 347-86-TRUST (347-868-7878) OR shoot us an email at TrustMePod@gmail.com INSTAGRAM: @TrustMePodcast @oohlalola @meaganelizabeth11 TWITTER: @TrustMeCultPod @ohlalola @baberahamhicks TIKTOK: @TrustMeCultPodcast",
+      "release": "2025-02-05T09:00:00Z",
+      "duration": "00:55:21.8080000",
+      "explicit": true,
+      "spotifyId": "0tbwIjJ8YYGM2epthrtOuo",
+      "appleId": 1000689278279,
+      "subjects": [
+        "Church Universal and Triumphant",
+        "IDEAL Society",
+        "The Hearts Center"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0tbwIjJ8YYGM2epthrtOuo",
+        "apple": "https://podcasts.apple.com/podcast/uriah-wesman-part-1-the-first-cult-church-universal/id1534370789?i=1000689278279"
+      }
+    },
+    {
       "id": "f4d81e70-0f3f-4e6f-9611-e02b17bbf179",
       "title": "Philip Deslippe \u0026 Stacie Stukin - 3HO,Kundalini yoga, \u0026 Yogi Bhajan",
       "description": "Today our guests are historian Philip Deslippe and writer Stacie Sutkin, who together have done investigative reporting on 3HO (\u201Chappy, healthy, holy organization\u201D), Kundalini yoga, and Yogi Bhajan. They\u2019re going to tell us how they got started writing about 3HO, both interacting with Kundalini yoga in different ways, who Yogi Bhajan was and whether he had any credibility in the Sikh religion (spoiler: he did not), and how he began to get white Americans to believe he was the ultimate spiritual authority, rapidly expanding and profiting off of the money and property of his followers. They\u2019ll tell us about some of the many ways Yogi Bhajan exerted control over his followers lives, the practice of separating children from their parents in a practice called \u201Cdistance therapy,\u201D and the boarding schools kids were sent to for years that turned out to be neglectful and abusive, all within full knowledge and approval of Yogi Bhajan. Plus, the wave of survivors that came forward to tell their stories of his and the organization\u2019s abuse, and how they were failed by 3HO\u2019s reparations program. We have deals for you! Quince: Upgrade your closet! Go to Quince.com/trust for 365-day returns PLUS free shipping on your order! Shopify: Need help with your business? Sign up for your $1 per month trial period at shopify.com/trustme",
@@ -416,7 +435,8 @@
       "spotifyId": "1a1rkjJjaTEfsXocRNbCUt",
       "appleId": 1000663203177,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1a1rkjJjaTEfsXocRNbCUt",
@@ -1083,7 +1103,8 @@
       "spotifyId": "2giyyzrF2PkMCTn2ktKbS1",
       "appleId": 1000626213415,
       "subjects": [
-        "Psychology"
+        "Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2giyyzrF2PkMCTn2ktKbS1",
@@ -2406,6 +2427,9 @@
       "explicit": true,
       "spotifyId": "226DniU1VHds4EWZJGSJlR",
       "appleId": 1000544337050,
+      "subjects": [
+        "Chad Daybell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/226DniU1VHds4EWZJGSJlR",
         "apple": "https://podcasts.apple.com/podcast/lauren-john-matthias-the-daybells-part-2-buried/id1534370789?i=1000544337050"
@@ -2421,6 +2445,7 @@
       "spotifyId": "2QaxdqX3XObt5ccM5tmilZ",
       "appleId": 1000543597208,
       "subjects": [
+        "Chad Daybell",
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {

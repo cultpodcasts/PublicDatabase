@@ -4,7 +4,44 @@
   "name": "Hidden: A True Crime Podcast",
   "spotifyId": "3mvwYdfADoV1AMz8tA4vXP",
   "appleId": 1521619380,
+  "youTubeChannelId": "UCBp03toXz-WZ6gSt7YtSdEg",
   "episodes": [
+    {
+      "id": "9845a200-1260-4e10-9012-f309f7ef4ccb",
+      "title": "Is Jodi Hildebrandt Running Her Cult Behind Bars?! | Full Lawsuit Breakdown",
+      "description": "Prioritize your sleep for a healthy year at https://shopbeam.com/HiddenTrueCrime with up to 35% off Dream by Beam. Just use code TRUECRIME at checkout What started as a simple conversation at their dinner table became a captivating podcast. Join the dynamic duo of Dr. John Matthias, a Princeton educated forensic psychologist, and Lauren Matthias, an award-winning investigative journalist, as they delve into the psychological facets of unthinkable crimes every week. Their unique perspectives and in-depth analysis offer a fresh take on true crime storytelling. Thank you for your support through sponsorships, subscribing, listening, and becoming a Patreon member at Patreon.com/HiddenTrueCrime Full Playlist: https://youtube.com/playlist?list=PLnLc7I2gyWtS4nL0-uvR9OwDVx26lR5in\u0026si=X7VIPOBCYWm2693p Sources: https://www.youtube.com/watch?v=SE0mCku86Gs\u0026t=9s https://www.youtube.com/watch?v=DO1pUG09V6k\u0026t=0s Our Sponsors: * Check out Acorns: https://acorns.com/HIDDENTRUECRIME * Check out Armoire and use my code HIDDENTRUECRIME for a great deal: https://www.armoire.style * Check out Happy Mammoth and use my code HIDDENTRUECRIME for a great deal: https://happymammoth.com Support this podcast at \u2014 https://redcircle.com/hidden-a-true-crime-podcast1836/donations Advertising Inquiries: https://redcircle.com/brands Privacy \u0026 Opt-Out: https://redcircle.com/privacy",
+      "release": "2025-02-01T23:37:34Z",
+      "duration": "01:14:31.2750000",
+      "explicit": false,
+      "spotifyId": "6wtN7YH2gn4MCrSzbriHJ1",
+      "appleId": 1000688016822,
+      "youTubeId": "OpPA-hrWY2g",
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6wtN7YH2gn4MCrSzbriHJ1",
+        "apple": "https://podcasts.apple.com/podcast/is-jodi-hildebrandt-running-her-cult-behind-bars-full/id1521619380?i=1000688016822",
+        "youtube": "https://www.youtube.com/watch?v=OpPA-hrWY2g"
+      }
+    },
+    {
+      "id": "e864e611-2db1-4699-9760-1dabbc37459d",
+      "title": "DAUGHTERS OF THE CULT\u2014An evening with Anna and Celia LeBaron",
+      "description": "Subscribe to join the live chat @HiddenTrueCrime Anna and Celia LeBaron are subjects of the new Hulu Documentary by ABC News Studios \u201CDaughters of the Cult\u201D and Anna is author of the book: \u201CThe Polygamist\u0027s Daughter\u201D\r\n\r\nErvil LeBaron, their father, was charged with ordering the murders of many of his opponents, including family members. Ervil used the religious doctrine of \u0022Blood Atonement\u0022 to justify the murders.  Anna and Celia escaped the cult and tell their harrowing family story in this groundbreaking documentary. We are honored they will spend the evening with us and our Hidden gems tonight (Saturday) at 6:30 pacific \r\n\r\nDISCLAIMER: The views of our guests/interviewee\u0027s, do not reflect the views of Hidden True Crime.",
+      "release": "2024-02-04T04:56:47Z",
+      "duration": "02:07:59",
+      "explicit": false,
+      "appleId": 1000644558991,
+      "youTubeId": "Wsr3ujNdBf8",
+      "subjects": [
+        "Church of the First Born of the Lamb of God"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/daughters-of-the-cult-an-interview-with/id1521619380?i=1000644558991",
+        "youtube": "https://www.youtube.com/watch?v=Wsr3ujNdBf8"
+      }
+    },
     {
       "id": "7b12732a-a13c-4992-8eb2-c4d3bee510a2",
       "title": "RUBY FRANKE/JODI HILDEBRANDT CASE: Hildebrandt Unmasked. Forensic psychologist Dr John Matthias shows what\u0027s Hidden",
@@ -82,12 +119,14 @@
       "explicit": false,
       "spotifyId": "3RI05vciTZYUJBifNx2VST",
       "appleId": 1000625737887,
+      "youTubeId": "yhio0HgQPvI",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3RI05vciTZYUJBifNx2VST",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-an-interview-with-lori-vallows/id1521619380?i=1000625737887"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-an-interview-with-lori-vallows/id1521619380?i=1000625737887",
+        "youtube": "https://www.youtube.com/watch?v=yhio0HgQPvI"
       }
     },
     {
@@ -133,12 +172,14 @@
       "explicit": false,
       "spotifyId": "03S5titDK8cDipkIYHda9b",
       "appleId": 1000623963636,
+      "youTubeId": "FuRL-nGuyCc",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/03S5titDK8cDipkIYHda9b",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-juror-from-lori-vallow-daybell-trial/id1521619380?i=1000623963636"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-juror-from-lori-vallow-daybell-trial/id1521619380?i=1000623963636",
+        "youtube": "https://www.youtube.com/watch?v=FuRL-nGuyCc"
       }
     },
     {
@@ -150,12 +191,14 @@
       "explicit": false,
       "spotifyId": "5vt2RNDdE74AmaLhD37XuD",
       "appleId": 1000623828409,
+      "youTubeId": "RP4Z3k3HKUY",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5vt2RNDdE74AmaLhD37XuD",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-lori-vallow-daybells-cousin-megan/id1521619380?i=1000623828409"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-lori-vallow-daybells-cousin-megan/id1521619380?i=1000623828409",
+        "youtube": "https://www.youtube.com/watch?v=RP4Z3k3HKUY"
       }
     },
     {
@@ -167,12 +210,14 @@
       "explicit": false,
       "spotifyId": "4n4CBhNR377WgNrPk5hp6b",
       "appleId": 1000623612789,
+      "youTubeId": "1mrjBWzByBw",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4n4CBhNR377WgNrPk5hp6b",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-full-sentencing-of-lori-vallow-daybell/id1521619380?i=1000623612789"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-full-sentencing-of-lori-vallow-daybell/id1521619380?i=1000623612789",
+        "youtube": "https://www.youtube.com/watch?v=1mrjBWzByBw"
       }
     },
     {
@@ -202,12 +247,14 @@
       "explicit": false,
       "spotifyId": "59mhRe8eiE7wGegIdk1GJ8",
       "appleId": 1000621915993,
+      "youTubeId": "kY0mR9aWarw",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/59mhRe8eiE7wGegIdk1GJ8",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-tammy-daybells-aunt/id1521619380?i=1000621915993"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-tammy-daybells-aunt/id1521619380?i=1000621915993",
+        "youtube": "https://www.youtube.com/watch?v=kY0mR9aWarw"
       }
     },
     {
@@ -253,12 +300,14 @@
       "explicit": false,
       "spotifyId": "2z21Lb4BJ1scZ7o9gTyuvM",
       "appleId": 1000618915344,
+      "youTubeId": "ifEv4R3TjWc",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2z21Lb4BJ1scZ7o9gTyuvM",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-lori-vallow/id1521619380?i=1000618915344"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-interview-with-lori-vallow/id1521619380?i=1000618915344",
+        "youtube": "https://www.youtube.com/watch?v=ifEv4R3TjWc"
       }
     },
     {
@@ -270,12 +319,14 @@
       "explicit": false,
       "spotifyId": "7c8jJ5w1rx8FW0YPNJeJNy",
       "appleId": 1000615943086,
+      "youTubeId": "Hf-WFfkts9s",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7c8jJ5w1rx8FW0YPNJeJNy",
-        "apple": "https://podcasts.apple.com/podcast/josh-duggar-verdict-iblp-bill-gothard-and-insights/id1521619380?i=1000615943086"
+        "apple": "https://podcasts.apple.com/podcast/josh-duggar-verdict-iblp-bill-gothard-and-insights/id1521619380?i=1000615943086",
+        "youtube": "https://www.youtube.com/watch?v=Hf-WFfkts9s"
       }
     },
     {
@@ -287,12 +338,14 @@
       "explicit": false,
       "spotifyId": "6zl2TLienY4IMPN7REQ9lG",
       "appleId": 1000614101317,
+      "youTubeId": "An85UC7JUIM",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6zl2TLienY4IMPN7REQ9lG",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-an-interview-with-sharie-dowdle/id1521619380?i=1000614101317"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-an-interview-with-sharie-dowdle/id1521619380?i=1000614101317",
+        "youtube": "https://www.youtube.com/watch?v=An85UC7JUIM"
       }
     },
     {
@@ -424,12 +477,14 @@
       "explicit": false,
       "spotifyId": "0sohbT9noaRnoKnujDiKHt",
       "appleId": 1000514531490,
+      "youTubeId": "aVnfQFvMZaE",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0sohbT9noaRnoKnujDiKHt",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-lori-met-chad-and-the/id1521619380?i=1000514531490"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-lori-met-chad-and-the/id1521619380?i=1000514531490",
+        "youtube": "https://www.youtube.com/watch?v=aVnfQFvMZaE"
       }
     },
     {
@@ -441,12 +496,14 @@
       "explicit": false,
       "spotifyId": "2uFt1O51jSFsCLF6UKgvox",
       "appleId": 1000509989517,
+      "youTubeId": "EDJ3YvcDg2k",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2uFt1O51jSFsCLF6UKgvox",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-lori-met-chad-and-the/id1521619380?i=1000509989517"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-lori-met-chad-and-the/id1521619380?i=1000509989517",
+        "youtube": "https://www.youtube.com/watch?v=EDJ3YvcDg2k"
       }
     },
     {
@@ -458,12 +515,14 @@
       "explicit": false,
       "spotifyId": "16efHnBD1knEawilFshfZQ",
       "appleId": 1000499512055,
+      "youTubeId": "ahcjbiH6fxc",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/16efHnBD1knEawilFshfZQ",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-chad-met-lori-and/id1521619380?i=1000499512055"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-when-chad-met-lori-and/id1521619380?i=1000499512055",
+        "youtube": "https://www.youtube.com/watch?v=ahcjbiH6fxc"
       }
     },
     {
@@ -475,12 +534,14 @@
       "explicit": false,
       "spotifyId": "7ww7P5MYRAc8D9Ov8eMD0M",
       "appleId": 1000496221752,
+      "youTubeId": "RdUEEoYlZm0",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ww7P5MYRAc8D9Ov8eMD0M",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-revisiting-chad-and-a-tribute/id1521619380?i=1000496221752"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-revisiting-chad-and-a-tribute/id1521619380?i=1000496221752",
+        "youtube": "https://www.youtube.com/watch?v=RdUEEoYlZm0"
       }
     },
     {
@@ -492,12 +553,14 @@
       "explicit": false,
       "spotifyId": "31iwaeu2Cj2YuAZPFGi1WZ",
       "appleId": 1000493991671,
+      "youTubeId": "l3-IDv-1Iew",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/31iwaeu2Cj2YuAZPFGi1WZ",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-fearlessness-and-filicide/id1521619380?i=1000493991671"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-fearlessness-and-filicide/id1521619380?i=1000493991671",
+        "youtube": "https://www.youtube.com/watch?v=l3-IDv-1Iew"
       }
     },
     {
@@ -509,12 +572,14 @@
       "explicit": false,
       "spotifyId": "2zue0qZ7YaEs8ib3g5ayEH",
       "appleId": 1000492305586,
+      "youTubeId": "2jTTZAG5dxM",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2zue0qZ7YaEs8ib3g5ayEH",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-many-extremes-of-lori/id1521619380?i=1000492305586"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-many-extremes-of-lori/id1521619380?i=1000492305586",
+        "youtube": "https://www.youtube.com/watch?v=2jTTZAG5dxM"
       }
     },
     {
@@ -526,12 +591,14 @@
       "explicit": false,
       "spotifyId": "5StG4GxuImv2GJKKmMMYM3",
       "appleId": 1000490780598,
+      "youTubeId": "ieuqhu8CoF4",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5StG4GxuImv2GJKKmMMYM3",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-many-extremes-of-lori/id1521619380?i=1000490780598"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-many-extremes-of-lori/id1521619380?i=1000490780598",
+        "youtube": "https://www.youtube.com/watch?v=ieuqhu8CoF4"
       }
     },
     {
@@ -543,12 +610,14 @@
       "explicit": false,
       "spotifyId": "1pkgnNJ7zfcQAslPKgxnyN",
       "appleId": 1000489554978,
+      "youTubeId": "7CbvEbOGK6Q",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1pkgnNJ7zfcQAslPKgxnyN",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-making-of-lori-vallow-daybell/id1521619380?i=1000489554978"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-making-of-lori-vallow-daybell/id1521619380?i=1000489554978",
+        "youtube": "https://www.youtube.com/watch?v=7CbvEbOGK6Q"
       }
     },
     {
@@ -560,12 +629,14 @@
       "explicit": false,
       "spotifyId": "5ITJdlljOy3DJb3G1lXmVa",
       "appleId": 1000488665796,
+      "youTubeId": "1l1ut-Tlxnk",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ITJdlljOy3DJb3G1lXmVa",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-midnight-musings-on-chad-daybells/id1521619380?i=1000488665796"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-midnight-musings-on-chad-daybells/id1521619380?i=1000488665796",
+        "youtube": "https://www.youtube.com/watch?v=1l1ut-Tlxnk"
       }
     },
     {
@@ -577,12 +648,14 @@
       "explicit": false,
       "spotifyId": "28yJ81PbkpsCC9WDPsNg4U",
       "appleId": 1000486696693,
+      "youTubeId": "-0uslG2WRf4",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/28yJ81PbkpsCC9WDPsNg4U",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-oprah-and-portals-and-daybell-oh-my/id1521619380?i=1000486696693"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-oprah-and-portals-and-daybell-oh-my/id1521619380?i=1000486696693",
+        "youtube": "https://www.youtube.com/watch?v=-0uslG2WRf4"
       }
     },
     {
@@ -594,12 +667,14 @@
       "explicit": false,
       "spotifyId": "6EkU1DK3MsTs0xNAVRaRJ3",
       "appleId": 1000485768535,
+      "youTubeId": "-yPVDfZ2Myk",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6EkU1DK3MsTs0xNAVRaRJ3",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-inside-chad-daybells-murderous-mind/id1521619380?i=1000485768535"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-inside-chad-daybells-murderous-mind/id1521619380?i=1000485768535",
+        "youtube": "https://www.youtube.com/watch?v=-yPVDfZ2Myk"
       }
     },
     {
@@ -611,12 +686,14 @@
       "explicit": false,
       "spotifyId": "2pNl6IScJcd5m9FuTwXpf6",
       "appleId": 1000485125704,
+      "youTubeId": "zj9bgDb3_dQ",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2pNl6IScJcd5m9FuTwXpf6",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-closing-of-the-daybellian-mind/id1521619380?i=1000485125704"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-the-closing-of-the-daybellian-mind/id1521619380?i=1000485125704",
+        "youtube": "https://www.youtube.com/watch?v=zj9bgDb3_dQ"
       }
     },
     {
@@ -628,12 +705,14 @@
       "explicit": false,
       "spotifyId": "1F8tbVWK3YmQIbfnHm22xN",
       "appleId": 1000483738683,
+      "youTubeId": "p04NKmm_s40",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1F8tbVWK3YmQIbfnHm22xN",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-chad-daybells-big-disconnect/id1521619380?i=1000483738683"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-chad-daybells-big-disconnect/id1521619380?i=1000483738683",
+        "youtube": "https://www.youtube.com/watch?v=p04NKmm_s40"
       }
     },
     {
@@ -645,12 +724,14 @@
       "explicit": false,
       "spotifyId": "0ybPsreShzE3L1zQpfDlGX",
       "appleId": 1000480892453,
+      "youTubeId": "pc09v0uJOg4",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ybPsreShzE3L1zQpfDlGX",
-        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-chad-daybells-prophetic-yearnings/id1521619380?i=1000480892453"
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-veil-chad-daybells-prophetic-yearnings/id1521619380?i=1000480892453",
+        "youtube": "https://www.youtube.com/watch?v=pc09v0uJOg4"
       }
     }
   ]

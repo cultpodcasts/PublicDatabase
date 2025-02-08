@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "cbe6e783-7678-41e4-b88d-a708d133cc2f",
+  "name": "Mystery of Everything",
+  "spotifyId": "6uVF7yzhH4uJsogaZU67iL",
+  "appleId": 1707905167,
+  "youTubeChannelId": "UCWTh8aBBAmjiUwG2DMfkrKg",
+  "episodes": [
+    {
+      "id": "2c7d318a-550b-40e5-b6da-098ab8f82b2c",
+      "title": "The Cult That Tried to Take over and American Town",
+      "description": "In a nearly unbelievable chapter of Oregon history, a guru from India gathered 2,000 followers to live on a remote eastern Oregon ranch. The dream collapsed decades ago amid attempted murders, criminal charges and deportations. \u0026#xfeff;Subscribe to our Patreon Follow us on Instagram Listen to our sister podcast: History of Everything Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-02-03T08:10:00Z",
+      "duration": "00:42:37.6220000",
+      "explicit": false,
+      "spotifyId": "2DqBhe1yJMOGrS1vG5Sd2Y",
+      "appleId": 1000688459269,
+      "youTubeId": "qSDo8GrGNHo",
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2DqBhe1yJMOGrS1vG5Sd2Y",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-that-tried-to-take-over-and-american-town/id1707905167?i=1000688459269",
+        "youtube": "https://www.youtube.com/watch?v=qSDo8GrGNHo"
+      }
+    }
+  ]
+}

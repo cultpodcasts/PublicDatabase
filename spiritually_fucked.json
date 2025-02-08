@@ -7,6 +7,22 @@
   "youTubeChannelId": "UC4_cOYXbKPpW6s9TqKW-XlQ",
   "episodes": [
     {
+      "id": "f373a5af-20f8-410a-be4f-3b9f7f630d4f",
+      "title": "MAHA: WTAF",
+      "description": "This week, we discuss Robert F. Kennedy, Jr. and the MAHA movement. What does it really mean, and is it as good as it sounds? Short answer: Probably not.",
+      "release": "2025-02-05T11:30:00Z",
+      "duration": "00:50:56.9790000",
+      "explicit": true,
+      "spotifyId": "1aHXbJOlcPixf5MwZtskQV",
+      "appleId": 1000689280914,
+      "youTubeId": "Qv0leoBhjME",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1aHXbJOlcPixf5MwZtskQV",
+        "apple": "https://podcasts.apple.com/podcast/maha-wtaf/id1712148990?i=1000689280914",
+        "youtube": "https://www.youtube.com/watch?v=Qv0leoBhjME"
+      }
+    },
+    {
       "id": "b1166184-eac3-4c9a-9c28-38bee3feea7d",
       "title": "Love Has Won: Mother God\u0027s Weekend at Bernie\u0027s",
       "description": "We finally cover Amy Carlson A.K.A. Mother God, who\u0027s cult of personality may have led to her undoing.",
