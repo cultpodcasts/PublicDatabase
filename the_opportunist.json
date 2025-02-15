@@ -6,6 +6,20 @@
   "appleId": 1551162705,
   "episodes": [
     {
+      "id": "41c962ae-f0fe-4bc1-a8b5-92651e3e5e57",
+      "title": "The New York City Ballet, Part 1: Peter Martins",
+      "description": "The American Ballet Company, led by the charismatic Peter Martins, was the epitome of grace and perfection\u2014until allegations of abuse and exploitation surfaced. In this episode, we explore how Martins used his influence to exploit dancers and manipulate those around him to maintain his dominance.",
+      "release": "2025-02-10T07:00:00Z",
+      "duration": "00:48:06",
+      "explicit": false,
+      "spotifyId": "1QUm6XzVoJnEq7oyabMjNP",
+      "appleId": 1000690816446,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QUm6XzVoJnEq7oyabMjNP",
+        "apple": "https://podcasts.apple.com/podcast/the-new-york-city-ballet-part-1-peter-martins/id1551162705?i=1000690816446"
+      }
+    },
+    {
       "id": "ab63dd17-b58d-40f3-9959-f4fab7b1e0fa",
       "title": "Tim Ballard E10: The Roundtable",
       "description": "In the final episode of The Opportunist: Tim Ballard - Unmasking a Hero, host Sarah James McLaughlin sits down with the producers and writers to explore the creative and investigative processes behind this compelling series. They also discuss their attempts to secure an interview with the new leader of O.U.R. Rescue.",

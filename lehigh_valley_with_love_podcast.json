@@ -4,7 +4,28 @@
   "name": "Lehigh Valley with Love Podcast",
   "spotifyId": "1yKYuS4U617bKeDQYeS6kW",
   "appleId": 1347726074,
+  "youTubeChannelId": "UChehZgOASv6bqnRQGsKda3g",
   "episodes": [
+    {
+      "id": "58a985f5-494c-4dad-8f16-e8729e6e1522",
+      "title": "Some of Lisa\u2019s Favorite Cult Items | Lisa Joins a Cult at The Emmaus Theatre on February 23",
+      "description": "Get More LVWITHLOVE Content Guests: Lisa Van Arsdale \u2013 Storyteller and Performer, \u201CLisa Joins a Cult\u201D In this episode, we sit down with Lisa Van Arsdale to discuss her upcoming show, Lisa Joins a Cult, happening February 23 at 6 p.m. at the Emmaus Theatre. Lisa shares her journey of exploring fringe religious communities and collecting fascinating artifacts\u2014like a \u201CJesus First\u201D pin from the Jerry Falwell Museum, a protective card from Father Divine followers, and a pamphlet predicting Judgment Day in 2011. Far from mocking these beliefs, Lisa approaches these groups with curiosity and respect, offering a unique lens into their cultures. We dive into the stories behind these artifacts and how they\u2019ve shaped her show. If you\u2019ve ever been curious about fringe communities, this episode is for you! Links Lisa Joins a Cult Show Info \u0026 Tickets: https://emmaustheatre.com Learn More About Lisa: https://lisajoinsacult.com Watch Episode www.lvwithlove.com Thank you to our Partners! WDIY Lehigh Valley Health Network Wind Creek Event Center Michael Bernadyn of RE/MAX Real Estate Molly\u2019s Irish Grille \u0026 Sports Pub Banko Beverage Company",
+      "release": "2025-02-13T12:08:05Z",
+      "duration": "00:27:05.3030000",
+      "explicit": false,
+      "spotifyId": "3MfEAebgkObmUf7N8Vj0Yc",
+      "appleId": 1000691832793,
+      "youTubeId": "R2UiYtC1LmU",
+      "subjects": [
+        "International Peace Mission movement",
+        "Thomas Road Baptist Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3MfEAebgkObmUf7N8Vj0Yc",
+        "apple": "https://podcasts.apple.com/podcast/some-of-lisas-favorite-cult-items-lisa-joins-a-cult/id1347726074?i=1000691832793",
+        "youtube": "https://www.youtube.com/watch?v=R2UiYtC1LmU"
+      }
+    },
     {
       "id": "f5ae76a7-a142-424c-96a2-c1b09f49b9c0",
       "title": "Lisa Joins a Cult | March 23 at SteelStacks",

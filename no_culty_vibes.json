@@ -13,6 +13,7 @@
       "release": "2025-01-14T19:26:18Z",
       "duration": "01:34:14",
       "explicit": false,
+      "spotifyId": "65Ws3dJmmOjn3RorWBZUDh",
       "appleId": 1000683980145,
       "youTubeId": "F6FXLN5fCdI",
       "subjects": [
@@ -22,6 +23,7 @@
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/65Ws3dJmmOjn3RorWBZUDh",
         "apple": "https://podcasts.apple.com/podcast/the-cult-of-morningstar-ministries-and-rick/id1564792393?i=1000683980145",
         "youtube": "https://www.youtube.com/watch?v=F6FXLN5fCdI"
       }
@@ -381,12 +383,14 @@
       "explicit": false,
       "spotifyId": "7oUxrn92VpUdtPBrZEg9ZF",
       "appleId": 1000628641582,
+      "youTubeId": "tcROYAGi7Vg",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7oUxrn92VpUdtPBrZEg9ZF",
-        "apple": "https://podcasts.apple.com/podcast/the-sound-of-freedoms-tim-ballard-denounced-by/id1564792393?i=1000628641582"
+        "apple": "https://podcasts.apple.com/podcast/the-sound-of-freedoms-tim-ballard-denounced-by/id1564792393?i=1000628641582",
+        "youtube": "https://www.youtube.com/watch?v=tcROYAGi7Vg"
       }
     },
     {
@@ -398,12 +402,14 @@
       "explicit": false,
       "spotifyId": "0HwJf1WCvxF30zt6ZnI6my",
       "appleId": 1000628050449,
+      "youTubeId": "PELS7-f-Yi0",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HwJf1WCvxF30zt6ZnI6my",
-        "apple": "https://podcasts.apple.com/podcast/ashton-kutcher-and-mila-kunis-dragged-for-supporting/id1564792393?i=1000628050449"
+        "apple": "https://podcasts.apple.com/podcast/ashton-kutcher-and-mila-kunis-dragged-for-supporting/id1564792393?i=1000628050449",
+        "youtube": "https://www.youtube.com/watch?v=PELS7-f-Yi0"
       }
     },
     {
@@ -487,12 +493,14 @@
       "explicit": false,
       "spotifyId": "6SpKEbeyQRgMtGGqjP2mYH",
       "appleId": 1000626763133,
+      "youTubeId": "g7wFfMo9nng",
       "subjects": [
         "Connexions"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6SpKEbeyQRgMtGGqjP2mYH",
-        "apple": "https://podcasts.apple.com/podcast/8-passengers-deep-dive-the-cults-that-led-to-ruby/id1564792393?i=1000626763133"
+        "apple": "https://podcasts.apple.com/podcast/8-passengers-deep-dive-the-cults-that-led-to-ruby/id1564792393?i=1000626763133",
+        "youtube": "https://www.youtube.com/watch?v=g7wFfMo9nng"
       }
     },
     {
@@ -638,12 +646,14 @@
       "explicit": false,
       "spotifyId": "6eJBbkHW0ame5WLCvQpd3c",
       "appleId": 1000522195642,
+      "youTubeId": "y6gTavDNiOM",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6eJBbkHW0ame5WLCvQpd3c",
-        "apple": "https://podcasts.apple.com/podcast/unraveling-evangelical-christianity-and-diet-culture/id1564792393?i=1000522195642"
+        "apple": "https://podcasts.apple.com/podcast/unraveling-evangelical-christianity-and-diet-culture/id1564792393?i=1000522195642",
+        "youtube": "https://www.youtube.com/watch?v=y6gTavDNiOM"
       }
     },
     {

@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "7e1f914d-a8d2-4f19-94bf-00f93f6b9f29",
+      "title": "193. Benjamin Lay W/ Benjamin Faye of White Homework",
+      "description": "This week, we talk about Quaker abolitionist, Benjamin Lay, with cohost of the podcast White Homework, Benjamin Faye",
+      "release": "2025-02-12T07:02:00Z",
+      "duration": "01:45:29.2600000",
+      "explicit": true,
+      "spotifyId": "2KA7hseXoy1hdma3myFn65",
+      "appleId": 1000691316094,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2KA7hseXoy1hdma3myFn65",
+        "apple": "https://podcasts.apple.com/podcast/193-benjamin-lay-w-benjamin-faye-of-white-homework/id1573190999?i=1000691316094"
+      }
+    },
+    {
       "id": "76feb9c4-fc2c-4c4a-9c25-95f1c7632a29",
       "title": "192. Racism And Organizing W/ Tori Williams Douglass",
       "description": "Tori is back and this week we talk about racism within the evangelical church and organizing in the time we are in.",

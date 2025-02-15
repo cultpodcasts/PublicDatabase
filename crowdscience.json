@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "f18c032b-1782-4b65-b240-a7209b4c1baf",
+  "name": "CrowdScience",
+  "spotifyId": "629I08CgYDzS071Up4UFnX",
+  "appleId": 1172855980,
+  "episodes": [
+    {
+      "id": "d9a08331-e740-455b-bf33-e50d307f02f2",
+      "title": "What is brainwashing?",
+      "description": "*Warning* This episode includes references to suicide. When listener Ben heard about a Kenyan \u201Cstarvation cult\u201D in the news, he wondered whether the members of this group had been brainwashed. Is it possible to control someone\u2019s mind? In this episode presenter Caroline Steel learns how easily people can be influenced. She hears what it\u2019s like to be part of a cult, and gets to the bottom of a decades-long debate: does brainwashing exist? And, if so, how does it work? Presenter: Caroline Steel Producer: Florian Bohr Editor: Richard Collings Production Co-ordinator: Jonathan Harris Studio Managers: Donald McDonald and Emma Harth Featuring: Anthony Pratkanis, Emeritus Professor of Psychology, University of California, Santa Cruz Alexandra Stein, Honorary Research Fellow, University of Sussex Eileen Barker, Professor Emeritus of Sociology, London School of Economics (Image: Washing a brain. Credit: Cemile Bingol / Getty Images).",
+      "release": "2023-12-01T21:00:00Z",
+      "duration": "00:37:09.9680000",
+      "explicit": false,
+      "spotifyId": "70irkCvyVbdarqjxwO3lPW",
+      "appleId": 1000637225735,
+      "subjects": [
+        "Cult Psychology",
+        "Cult Apologists",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/70irkCvyVbdarqjxwO3lPW",
+        "apple": "https://podcasts.apple.com/podcast/what-is-brainwashing/id1172855980?i=1000637225735"
+      }
+    }
+  ]
+}

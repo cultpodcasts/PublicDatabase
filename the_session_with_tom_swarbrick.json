@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "6b92383d-07fc-4c4e-9980-cafe07365e6b",
+  "name": "The Session with Tom Swarbrick",
+  "spotifyId": "3oqY51WktavIgbb9QOeAUN",
+  "appleId": 1620259814,
+  "episodes": [
+    {
+      "id": "284f0a0c-918f-4634-a13f-f760cda6722c",
+      "title": "Cults with Dr Janja Lalich",
+      "description": "In this episode of The Session, sociologist Dr Janja Lalich joins Tom Swarbrick to discuss how widespread cults are in 21st Century Western society, how they operate, and her own experiences of being a member of one.",
+      "release": "2022-07-14T23:01:00Z",
+      "duration": "00:46:30.3470000",
+      "explicit": false,
+      "spotifyId": "7gzV3VfumLIJqHGL4d9BQg",
+      "appleId": 1000569947042,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7gzV3VfumLIJqHGL4d9BQg",
+        "apple": "https://podcasts.apple.com/podcast/cults-with-dr-janja-lalich/id1620259814?i=1000569947042"
+      }
+    }
+  ]
+}

@@ -13,12 +13,16 @@
       "release": "2025-02-01T23:53:58Z",
       "duration": "02:43:12",
       "explicit": false,
+      "spotifyId": "7BP1oWyNviQ0ScWhEMZOZU",
+      "appleId": 1000690360850,
       "youTubeId": "zIjiKmBZvjw",
       "subjects": [
         "Opus Dei",
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7BP1oWyNviQ0ScWhEMZOZU",
+        "apple": "https://podcasts.apple.com/podcast/opus-dei-accused-of-labor-trafficking-again-and/id1706189667?i=1000690360850",
         "youtube": "https://www.youtube.com/watch?v=zIjiKmBZvjw"
       }
     },

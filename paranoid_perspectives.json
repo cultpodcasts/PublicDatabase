@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "a8e0bc13-0d02-4ec9-9a27-934638c2cbc2",
+  "name": "Paranoid Perspectives",
+  "spotifyId": "7tq7egOe7fsffnwhY3WoEx",
+  "appleId": 1792962581,
+  "youTubeChannelId": "UCgzsS7gv4k4liMI_HXypVhQ",
+  "episodes": [
+    {
+      "id": "af785968-7372-441b-bfed-9db8ec19a7bc",
+      "title": "Ep. 2 - Cults: Jehovah\u0027s Witnesses",
+      "description": "In this episode ofParanoid Perspectives, we dive into the controversial world of Jehovah\u2019s Witnesses\u2014examining cult-like control, shunning, secrecy, and much more within the organization. Is it just a strict religion, or does it fit the definition of a cult? \u0026#x1f914; \u26A0\uFE0FTrigger Warning: This episode contains discussions on cults, religion, and sexual abuse. Listener discretion is advised. Copyright Disclaimer:Under section 107 of the copyright act 1976 allowance is made for \u0022fair use\u0022 for purposes such as criticism comment, news reporting, teaching, scholarship, eduction and research. Fair use is a use permitted by copyright law that may otherwise be infringing.",
+      "release": "2025-02-08T23:24:54Z",
+      "duration": "01:09:57.2240000",
+      "explicit": false,
+      "spotifyId": "7wWhIZnrIVqKDxREen6Vcs",
+      "appleId": 1000690422261,
+      "youTubeId": "TouSY8JCCAQ",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7wWhIZnrIVqKDxREen6Vcs",
+        "apple": "https://podcasts.apple.com/podcast/ep-2-cults-jehovahs-witnesses/id1792962581?i=1000690422261",
+        "youtube": "https://www.youtube.com/watch?v=TouSY8JCCAQ"
+      }
+    }
+  ]
+}

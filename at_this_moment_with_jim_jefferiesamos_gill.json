@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "96bb46aa-1a2d-458c-809a-f0e4976fbac4",
+  "name": "At This Moment with Jim Jefferies \u0026 Amos Gill",
+  "spotifyId": "4F5JTmmbkeqkMaYt1YtJBo",
+  "appleId": 1502150789,
+  "episodes": [
+    {
+      "id": "a7a0e53e-eb56-41ab-8c44-95d1307ed7ab",
+      "title": "Jonestown Massacre",
+      "description": "Dr. Janja Lalich (www.janjalalich.com) really schools us on what happened that day at Jonestown and also the experience of being in a cult. Check out Dr. Lalich\u0027s charity The Lalich Center on Cults and Coercion at www.lalichcenter.org. Jim\u0027s new special \u0022High \u0026 Dry\u0022 is now available on Netflix! Subscribe to our Patreon at patreon.com/IDKAT for ad free episodes, bonus episodes, and more exclusive perks! Tiers start at just $2! AD: Freeze Pipe: Go to www.thefreezepipe.com and use the promo code: IDKAT to get 10% off your order.",
+      "release": "2023-05-09T07:00:00Z",
+      "duration": "01:00:53.3330000",
+      "explicit": true,
+      "spotifyId": "4uQ5fYDPuzAvvBCa5igB2g",
+      "appleId": 1000612290099,
+      "subjects": [
+        "Peoples Temple",
+        "Cult-Expert",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4uQ5fYDPuzAvvBCa5igB2g",
+        "apple": "https://podcasts.apple.com/podcast/jonestown-massacre/id1502150789?i=1000612290099"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "f8ddaeba-9954-40a5-ad2a-999d7dcd9457",
+  "name": "It\u0027s Me, Tinx",
+  "spotifyId": "2R7d2aRQkSO4Q8I7AuFbxq",
+  "appleId": 1610545976,
+  "episodes": [
+    {
+      "id": "c8ab211c-56f1-4597-b28b-4a9943171e57",
+      "title": "Its Me, Tinx Live: My Friend Joined a Cult",
+      "description": "Another week, another first. I talk to a caller who had to drop a lifelong friend due to joining what she views as a cult. A woman who has some serious red flags to deal with in regards to a boyfriend that seems to be angry about nothing. Oh, and when is the best time to sleep with someone new after a long term relationship? Spoiler alert, whenever, wherever, and however you want!",
+      "release": "2025-02-12T18:48:55Z",
+      "duration": "00:48:41.8480000",
+      "explicit": true,
+      "spotifyId": "3DKgWiYS9QFYe0jVad9zAY",
+      "appleId": 1000691533377,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3DKgWiYS9QFYe0jVad9zAY",
+        "apple": "https://podcasts.apple.com/podcast/its-me-tinx-live-my-friend-joined-a-cult/id1610545976?i=1000691533377"
+      }
+    }
+  ]
+}

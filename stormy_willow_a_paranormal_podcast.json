@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "54a724dd-4ad9-43cf-865c-068f2bf8908f",
+  "name": "Stormy Willow: A Paranormal Podcast",
+  "spotifyId": "6GQUDSzxAFixZBHxyWpb2o",
+  "appleId": 1559651172,
+  "youTubeChannelId": "UCBXkRG0swcY2nG0lWg6tafg",
+  "episodes": [
+    {
+      "id": "68ad707d-8f98-4845-8152-49d74991f1b7",
+      "title": "E133 WOFF - Word of Faith Fellowship - The Church that Preys",
+      "description": "In this episode, we dive into the real-life horror show of Word of Faith Fellowship (WOFF)\u2014a cult masquerading as a church in Spindale, NC. Led by Jane Whaley, WOFF has been accused of blasting prayers (aka exorcisms on steroids), forced labor, and complete mind control. Would you rather spend a night in a haunted house or a week at WOFF? \u0026#x1f440;\u0026#x1f47b;",
+      "release": "2025-02-11T10:00:00Z",
+      "duration": "00:56:49.1300000",
+      "explicit": true,
+      "spotifyId": "2l80wbXGsictBXe06KT7Lp",
+      "appleId": 1000691065122,
+      "youTubeId": "4fu4-xSG04w",
+      "subjects": [
+        "Word of Faith Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2l80wbXGsictBXe06KT7Lp",
+        "apple": "https://podcasts.apple.com/podcast/e133-woff-word-of-faith-fellowship-the-church-that-preys/id1559651172?i=1000691065122",
+        "youtube": "https://www.youtube.com/watch?v=4fu4-xSG04w"
+      }
+    }
+  ]
+}

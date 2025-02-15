@@ -1,0 +1,68 @@
+{
+  "_ts": 0,
+  "id": "43656b07-ff10-4039-8a7e-5bc8476e0996",
+  "name": "WNYT NewsChannel 13",
+  "youTubeChannelId": "UC5CEbfa5Q3j3w-rPIq-3XOg",
+  "episodes": [
+    {
+      "id": "c89bb136-36d9-487c-a3ca-169a27c2ab0f",
+      "title": "Allison Mack sentenced to 3 years in prison for role in NXIVM",
+      "description": "Actor Allison Mack has been sentenced to three years in prison for her role in the NXIVM sex cult investigation.",
+      "release": "2021-07-01T00:46:25Z",
+      "duration": "00:02:38",
+      "explicit": false,
+      "youTubeId": "1YUpnNs7TOo",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1YUpnNs7TOo"
+      }
+    },
+    {
+      "id": "6ac8b5b0-da57-47a3-a924-cd71c81c4048",
+      "title": "Allison Mack arrives for sentencing",
+      "description": "TV actor Allison Mack, who played a key role in a scandal-ridden, cult-like upstate New York group, arrives at federal court in Brooklyn for her sentencing. She pleaded guilty to charges she manipulated women into becoming sex slaves for the group\u0027s spiritual leader.\n\n\nDan Levy is there for sentencing and will have reports on NewsChannel 13 and WNYT.com.",
+      "release": "2021-06-30T15:15:30Z",
+      "duration": "00:00:33",
+      "explicit": false,
+      "youTubeId": "msDeJ_m7WEs",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=msDeJ_m7WEs"
+      }
+    },
+    {
+      "id": "c3988ca1-ea0e-413a-9b2d-c3c4faaa3acf",
+      "title": "NXIVM leader Keith Raniere sentenced to 120 years in prison",
+      "description": "Disgraced self-improvement guru Keith Raniere, whose NXIVM followers included millionaires and Hollywood actors, was sentenced to 120 years on Tuesday for turning some adherents into sex slaves branded with his initials.",
+      "release": "2020-10-27T22:25:19Z",
+      "duration": "00:02:33",
+      "explicit": false,
+      "youTubeId": "GMXIZ4GIIPc",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GMXIZ4GIIPc"
+      }
+    },
+    {
+      "id": "7a56513a-4e41-44d4-8745-c08956e74d0b",
+      "title": "NXIVM leader guilty on all charges",
+      "description": "A federal jury has found NXIVM leader Keith Raniere guilty on all charges.",
+      "release": "2019-06-20T00:04:32Z",
+      "duration": "00:02:37",
+      "explicit": false,
+      "youTubeId": "95NN1kn8dM4",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=95NN1kn8dM4"
+      }
+    }
+  ]
+}

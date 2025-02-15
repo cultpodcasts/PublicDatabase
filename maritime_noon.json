@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "b92fa5ea-4e45-44d8-9ed9-e065eb435b1d",
+  "name": "Maritime Noon",
+  "spotifyId": "7fTy588lgyNva7HCdGhch4",
+  "appleId": 322125502,
+  "episodes": [
+    {
+      "id": "466f4880-99df-4d1c-8408-d41a55faf54e",
+      "title": "On the phone-in: we discuss multi-level marketing schemes.",
+      "description": "Today\u0027s phone-in: are multi-level marketing schemes legitimate side hustles or a grift?",
+      "release": "2025-02-12T04:10:00Z",
+      "duration": "00:52:46.1190000",
+      "explicit": false,
+      "spotifyId": "1dtbSd5TNKZjM9W7XdQoBg",
+      "appleId": 1000691503194,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1dtbSd5TNKZjM9W7XdQoBg",
+        "apple": "https://podcasts.apple.com/podcast/on-the-phone-in-we-discuss-multi-level-marketing/id322125502?i=1000691503194"
+      }
+    }
+  ]
+}

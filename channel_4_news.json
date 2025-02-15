@@ -2,8 +2,24 @@
   "_ts": 0,
   "id": "32452bf3-3df7-4012-9904-2b3431e75313",
   "name": "Channel 4 News",
+  "appleId": 1488353942,
   "youTubeChannelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
   "episodes": [
+    {
+      "id": "42ceb3e6-bb5e-43b9-b7c1-d736bc54f8ba",
+      "title": "Church abuse: synod votes to delay independent safeguarding",
+      "description": "After a series of abuse scandals, survivors had hoped The Church of England would outsource its handling of future allegations.\n\n(Subscribe: https://bit.ly/C4_News_Subscribe) \n\nBut today the annual meeting of the General Synod, the church governing body, voted against establishing a fully independent body to oversee safeguarding - in a vote which representatives of abuse survivors called \u0022incredibly disappointing\u0022 and \u0022a punch in the gut\u0022.\n-----------------------  \nFollow us:\nFacebook - https://www.facebook.com/Channel4News/\nTwitter - https://twitter.com/Channel4News\nTikTok - https://www.tiktok.com/@c4news\nInstagram - https://www.instagram.com/channel4news/",
+      "release": "2025-02-11T19:41:42Z",
+      "duration": "00:06:25",
+      "explicit": false,
+      "youTubeId": "SnqxvRqjShQ",
+      "subjects": [
+        "Church Of England"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=SnqxvRqjShQ"
+      }
+    },
     {
       "id": "28eaca9c-2541-4397-a84b-72a5455ddf32",
       "title": "Church scandal: Man behind cover-up was abuser",

@@ -978,6 +978,10 @@
       "duration": "00:47:12",
       "explicit": false,
       "youTubeId": "U8BYKtu_-Hg",
+      "subjects": [
+        "Yoga to the People",
+        "Yoga Cult"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=U8BYKtu_-Hg"
       }
@@ -992,6 +996,10 @@
       "spotifyId": "473lfHZVeb6XiAk9C4OYJH",
       "appleId": 1000631729298,
       "youTubeId": "DXFGOxDuZCc",
+      "subjects": [
+        "Yoga to the People",
+        "Yoga Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/473lfHZVeb6XiAk9C4OYJH",
         "apple": "https://podcasts.apple.com/podcast/yoga-to-the-people-part-1/id1712148990?i=1000631729298",
