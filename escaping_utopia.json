@@ -1,0 +1,49 @@
+{
+  "_ts": 0,
+  "id": "aae1ddcf-805a-4d31-94ae-4abc735991cf",
+  "name": "Escaping Utopia",
+  "episodes": [
+    {
+      "id": "51c9b2de-b9e4-4fe7-81a6-2833e2dbd9df",
+      "title": "Series 1: Episode 1",
+      "description": "A look into the beginnings of the Gloriavale community and how it evolved from its socialist Christian beginnings to the extreme place it now occupies.",
+      "release": "2025-02-16T00:00:00",
+      "duration": "00:55:00",
+      "explicit": false,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m00284tm/escaping-utopia-series-1-episode-1"
+      }
+    },
+    {
+      "id": "1a4ff0e8-0194-4985-bfc9-61af91b53b5a",
+      "title": "Series 1: Episode 2",
+      "description": "Renowned New Zealand journalist Melanie Reid recounts her experiences of going undercover inside Gloriavale in the 1990s and the important work she did to try to stop the abuse she discovered.",
+      "release": "2025-02-16T00:00:00",
+      "duration": "00:57:00",
+      "explicit": true,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m00284tp/escaping-utopia-series-1-episode-2"
+      }
+    },
+    {
+      "id": "cd26d1b2-1f78-40cb-98b9-60d9c0e71246",
+      "title": "Series 1: Episode 3",
+      "description": "The community reels at the loss of its charismatic leader Hopeful Christian, while two former children of Gloriavale expose one of its most shocking secrets.",
+      "release": "2025-02-16T00:00:00",
+      "duration": "01:01:00",
+      "explicit": false,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m00284tr/escaping-utopia-series-1-episode-3"
+      }
+    }
+  ]
+}

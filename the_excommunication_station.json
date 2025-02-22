@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "5e5afca5-933c-4243-b566-06b3408077b6",
+      "title": "194. Walker Railey W/ Sadie Carpenter",
+      "description": "This week, we dive into the store of Walker Railey and the wild story of a man who had it all except self control. Sadie Carpenter of The Leaving Eden Podcast joins us.",
+      "release": "2025-02-19T07:01:00Z",
+      "duration": "01:31:18.1640000",
+      "explicit": false,
+      "spotifyId": "5EW3cqk5CB8p5f26FU2nrB",
+      "appleId": 1000693903064,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5EW3cqk5CB8p5f26FU2nrB",
+        "apple": "https://podcasts.apple.com/podcast/194-walker-railey-w-sadie-carpenter/id1573190999?i=1000693903064"
+      }
+    },
+    {
       "id": "7e1f914d-a8d2-4f19-94bf-00f93f6b9f29",
       "title": "193. Benjamin Lay W/ Benjamin Faye of White Homework",
       "description": "This week, we talk about Quaker abolitionist, Benjamin Lay, with cohost of the podcast White Homework, Benjamin Faye",

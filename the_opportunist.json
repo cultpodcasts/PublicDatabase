@@ -6,6 +6,20 @@
   "appleId": 1551162705,
   "episodes": [
     {
+      "id": "6260bb94-3771-4113-b45b-3c3bebb19b4a",
+      "title": "Part 2: The Fraternity",
+      "description": "After Peter Martins\u2019 actions were exposed, a dancer named Chase Finlay was caught taking inappropriate pictures and videos of dancers at the New York City Ballet. In this episode, we dive into how the misogynistic culture created by Peter Martins spurred others to misuse their perceived power.",
+      "release": "2025-02-18T22:07:45Z",
+      "duration": "00:50:22",
+      "explicit": false,
+      "spotifyId": "3ZFbme3wKPREdynPRvjY98",
+      "appleId": 1000691509056,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ZFbme3wKPREdynPRvjY98",
+        "apple": "https://podcasts.apple.com/podcast/part-2-the-fraternity/id1551162705?i=1000691509056"
+      }
+    },
+    {
       "id": "41c962ae-f0fe-4bc1-a8b5-92651e3e5e57",
       "title": "The New York City Ballet, Part 1: Peter Martins",
       "description": "The American Ballet Company, led by the charismatic Peter Martins, was the epitome of grace and perfection\u2014until allegations of abuse and exploitation surfaced. In this episode, we explore how Martins used his influence to exploit dancers and manipulate those around him to maintain his dominance.",
@@ -187,6 +201,91 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Zj6ub6arY2TA22LF52A0X",
         "apple": "https://podcasts.apple.com/podcast/tim-ballard-e2-the-origin-myth/id1551162705?i=1000673816739"
+      }
+    },
+    {
+      "id": "1c02dc8f-746f-436d-a32d-dc94d13ed9f7",
+      "title": "SHERYL RUTHVEN Epilogue: What Kind of Power?",
+      "description": "Hannah and producer Patia discuss making Season 3. We bring you more information on Sheryl\u0027s finances and her connection to local law enforcement in Tennessee and we ask the question: what happens to someone after they leave a cult? We also have a brand new interview for you with one of Sheryl\u0027s former\u0027s followers. Hear more of Rachael\u0027s on The Ex Files The Safe Passage Foundation - https://safepassagefoundation.org/ You can purchase Opportunist merchandise here: https://theopportunistpodcast.com/ Thank you to our sponsors: Wondery, Against The Odds: Plane Crash in the Andes Dipsea - For an extended 30 day free trial, go to Dipseastories.com/opp Everlywell - Go to everlywell.com/opp for 20% off your at-home lab test. - June\u0027s Journey - * Download June\u0027s Journey free today on the Apple App Store or Google Play!",
+      "release": "2021-10-19T07:00:00Z",
+      "duration": "00:46:15.4840000",
+      "explicit": false,
+      "spotifyId": "5KkpbSo9HmCkMCgIGDvK7q",
+      "appleId": 1000632855685,
+      "subjects": [
+        "Freedom Fire Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5KkpbSo9HmCkMCgIGDvK7q",
+        "apple": "https://podcasts.apple.com/podcast/sheryl-ruthven-epilogue-what-kind-of-power/id1551162705?i=1000632855685"
+      }
+    },
+    {
+      "id": "0d96874c-de38-45f3-8df3-83d3d6f81426",
+      "title": "SHERYL RUTHVEN Part 4 of 4: The Exodus",
+      "description": "When her ministry and cat rescue gain unwanted notoriety in Whatcom County, Sheryl Ruthven plans a mass exodus, shrouded in secrecy.",
+      "release": "2021-10-12T07:00:00Z",
+      "duration": "00:47:13.0050000",
+      "explicit": false,
+      "spotifyId": "0OjxYmZgYme6jLjmzBdIfh",
+      "appleId": 1000632855478,
+      "subjects": [
+        "Freedom Fire Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0OjxYmZgYme6jLjmzBdIfh",
+        "apple": "https://podcasts.apple.com/podcast/sheryl-ruthven-part-4-of-4-the-exodus/id1551162705?i=1000632855478"
+      }
+    },
+    {
+      "id": "bafb55c0-c64f-4dbd-a276-b87c04635429",
+      "title": "SHERYL RUTHVEN Part 3 of 4: Creating Eden",
+      "description": "When Sheryl Ruthven\u0027s cat passes away, she calls on her followers to build \u0022Eva\u0027s Eden,\u0022 a cat rescue, unlike any other, with a mission that extends far beyond rescuing cats. She also plots to get rid of her ex-husband.",
+      "release": "2021-10-05T07:00:00Z",
+      "duration": "00:49:53.3190000",
+      "explicit": false,
+      "spotifyId": "2UHhiGnTCq6nIE6UFPQpgW",
+      "appleId": 1000632855779,
+      "subjects": [
+        "Freedom Fire Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2UHhiGnTCq6nIE6UFPQpgW",
+        "apple": "https://podcasts.apple.com/podcast/sheryl-ruthven-part-3-of-4-creating-eden/id1551162705?i=1000632855779"
+      }
+    },
+    {
+      "id": "4f710623-31ff-4bab-b9d8-ebc31c7a54cf",
+      "title": "SHERYL RUTHVEN Part 1 of 4: A New Mary Magdalene",
+      "description": "In 2001, Sheryl Ruthven started her own church: Freedom Fire Ministries. But gradually, her uplifting sermons gave way to unorthodox teachings and doomsday prophecies. Over the last fifteen years those who believed her have seen families destroyed, their bank accounts drained and their homes filled... with cats.",
+      "release": "2021-09-28T07:00:00Z",
+      "duration": "00:48:34.0110000",
+      "explicit": false,
+      "spotifyId": "2nS1BSV7VPy4wOKhFiZdYm",
+      "appleId": 1000632855708,
+      "subjects": [
+        "Freedom Fire Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2nS1BSV7VPy4wOKhFiZdYm",
+        "apple": "https://podcasts.apple.com/podcast/sheryl-ruthven-part-1-of-4-a-new-mary-magdalene/id1551162705?i=1000632855708"
+      }
+    },
+    {
+      "id": "9601a1fb-a04b-4dea-a3ec-db49f7625dbd",
+      "title": "SHERYL RUTHVEN Part 2 of 4: You\u0027ve Been Conned",
+      "description": "When one of Sheryl Ruthven\u0027s followers dares to question her need for a $170,000 trip to Scotland, he is excommunicated. We begin to see a pattern, a wake of destruction that follows anyone who dares to question Sheryl\u0027s authority.",
+      "release": "2021-09-28T07:00:00Z",
+      "duration": "00:50:51.4670000",
+      "explicit": false,
+      "spotifyId": "0BD2fPoteI6lQqeKZYQlGV",
+      "appleId": 1000632855810,
+      "subjects": [
+        "Freedom Fire Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0BD2fPoteI6lQqeKZYQlGV",
+        "apple": "https://podcasts.apple.com/podcast/sheryl-ruthven-part-2-of-4-youve-been-conned/id1551162705?i=1000632855810"
       }
     }
   ]

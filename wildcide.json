@@ -70,12 +70,14 @@
       "explicit": true,
       "spotifyId": "35nUTGr2IZHWqm3QoMwea5",
       "appleId": 1000648184537,
+      "youTubeId": "KZsTbmbJF8c",
       "subjects": [
         "The Fall River Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/35nUTGr2IZHWqm3QoMwea5",
-        "apple": "https://podcasts.apple.com/podcast/the-fall-river-cult-murders-part-1-satanic-panic/id1721815484?i=1000648184537"
+        "apple": "https://podcasts.apple.com/podcast/the-fall-river-cult-murders-part-1-satanic-panic/id1721815484?i=1000648184537",
+        "youtube": "https://www.youtube.com/watch?v=KZsTbmbJF8c"
       }
     },
     {

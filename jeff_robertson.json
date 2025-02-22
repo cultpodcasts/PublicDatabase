@@ -1,9 +1,30 @@
 {
   "_ts": 0,
   "id": "5ad56306-c737-492a-a0c7-13fd6105582e",
-  "name": "Jeff Robertson",
+  "name": "The Second Chance Podcast with Jeff Robertson",
+  "spotifyId": "2VhMdYJb8nHFQVELT7w71n",
+  "appleId": 1749875876,
   "youTubeChannelId": "UCOkHR29Ay9gTApttScZzTbw",
   "episodes": [
+    {
+      "id": "dddb1d61-4ce3-4490-abd2-71103c2bdaed",
+      "title": "From Cult Survivor to Resilience Coach: Rhonda Parker Taylor\u0027s Inspiring Journey",
+      "description": "In this compelling episode, we sit down with Rhonda Parker Taylor, an American writer, entrepreneur, and academic researcher. Rhonda shares her transformative journey from surviving a cult and enduring personal tragedies to becoming a best-selling author and resilience coach. Her debut novel, \u0022Crossroads,\u0022 has been hailed as a captivating crime thriller that keeps readers intrigued from start to finish. \n\n\n\n\n\n\n\n\nCROSSROADS\n\n\n\n\n\n\n\n\nConnect with Rhonda Parker Taylor:\n\n\n\nOfficial Website: rhondaparkertaylor.com\n\n\n\nFacebook: facebook.com/rhondaparkertaylor\n\n\n\nInstagram: instagram.com/rhondaparkertaylor\n\n\n\nGoodreads: goodreads.com/author/show/29670535.Rhonda_Parker_Taylor\n\n\n\n\n\n\n\n\nIn this episode, we discuss:\n\n\n\n\n\n\n\n\nRhonda\u0027s inspiring journey from tragedy to triumph.\n\n\n\nPractical tips for healing and personal growth.\n\n\n\nHow to embrace second chances and find strength in adversity.\n\n\n\nDon\u0027t miss this unforgettable story of hope and resilience. Subscribe for more transformative conversations!\n\n\n\n\n\n\n\n\nConnect with Jeff today - www.jeffreyrobertson.com\n\n\n\nhttps://www.instagram.com/jeffrabason/\n\n\n\nhttps://twitter.com/JRabason",
+      "release": "2025-02-19T10:18:22Z",
+      "duration": "00:36:19",
+      "explicit": false,
+      "spotifyId": "0XoffycjncrfAtmr3ltB57",
+      "appleId": 1000693956843,
+      "youTubeId": "KCwOEfNjyM4",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0XoffycjncrfAtmr3ltB57",
+        "apple": "https://podcasts.apple.com/podcast/from-cult-survivor-to-resilience-coach-rhonda-parker/id1749875876?i=1000693956843",
+        "youtube": "https://www.youtube.com/watch?v=KCwOEfNjyM4"
+      }
+    },
     {
       "id": "a8edee67-0520-43f0-867f-a2b269974ff8",
       "title": "What if One Day You Realized you Were in a Cult? With Manti Barlow",
@@ -11,11 +32,15 @@
       "release": "2024-08-19T09:26:18Z",
       "duration": "01:11:28",
       "explicit": false,
+      "spotifyId": "6MV5NHXk0Pv7tzwSJthm78",
+      "appleId": 1000665864907,
       "youTubeId": "xbWKKS-Ht20",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6MV5NHXk0Pv7tzwSJthm78",
+        "apple": "https://podcasts.apple.com/podcast/what-if-one-day-you-realized-you-were-in-a-cult/id1749875876?i=1000665864907",
         "youtube": "https://www.youtube.com/watch?v=xbWKKS-Ht20"
       }
     }

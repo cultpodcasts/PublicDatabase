@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "e64774d8-b35a-4e21-83c2-8532af782a66",
+  "name": "Extraordinary Lives",
+  "spotifyId": "47QMSHnHytUnT2fTCr73Tu",
+  "appleId": 1644350792,
+  "youTubeChannelId": "UC4oVjJptcsvtgIMrdIUQYlQ",
+  "youTubePlaylistId": "PLe6SfReIxAlG82pieKwelE0ovBQH4BAU4",
+  "episodes": [
+    {
+      "id": "6f9d1c0b-164b-45ed-97c0-69f05e837741",
+      "title": "Cult Survivor: Born \u0026 Raised In An International Cult ",
+      "description": "Natacha Tormey told us about her life growing up inside \u0027The Children of God\u0027 cult (now known under the name \u2018The Family International\u2019). She explains how she was sexually abused, made to live in a compound with strict rules and taught to fear the outside world. Warning: this episode contains content you may find distressing. We speak to people with a unique life story to tell. From a North Korea escapee to an undercover cop, a Cold War spy to a shipwreck survivor. Hosted by LADbible\u0027s Ben-Powell Jones, this series is a window into remarkable experiences \u2013 with stories that paint a picture of extraordinary lives.",
+      "release": "2023-06-07T05:00:00Z",
+      "duration": "01:18:18.0900000",
+      "explicit": true,
+      "spotifyId": "1PN2sKJA0BlEmLmkbQdtXa",
+      "appleId": 1000615958491,
+      "youTubeId": "wya2EpC5uFA",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1PN2sKJA0BlEmLmkbQdtXa",
+        "apple": "https://podcasts.apple.com/podcast/cult-survivor-born-raised-in-an-international-cult/id1644350792?i=1000615958491",
+        "youtube": "https://www.youtube.com/watch?v=wya2EpC5uFA"
+      }
+    }
+  ]
+}

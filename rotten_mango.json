@@ -35,12 +35,14 @@
       "explicit": false,
       "spotifyId": "1VJjtfLLokBTdqBb7qhDhi",
       "appleId": 1000674622552,
+      "youTubeId": "IOS_75ZCcUc",
       "subjects": [
         "Sean Combs"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1VJjtfLLokBTdqBb7qhDhi",
-        "apple": "https://podcasts.apple.com/podcast/the-alleged-diddy-list-diddys-celebrity-friends-what/id1517954480?i=1000674622552"
+        "apple": "https://podcasts.apple.com/podcast/the-alleged-diddy-list-diddys-celebrity-friends-what/id1517954480?i=1000674622552",
+        "youtube": "https://www.youtube.com/watch?v=IOS_75ZCcUc"
       }
     },
     {

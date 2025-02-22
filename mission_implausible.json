@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "258f6fce-c7ed-4e71-95c7-b82babe92074",
+  "name": "Mission Implausible",
+  "spotifyId": "2Kwc4A42HNyRWR4LkRPPql",
+  "appleId": 1728340033,
+  "episodes": [
+    {
+      "id": "06890598-e322-42e7-8b99-e391e73b0b0e",
+      "title": "The Cult of Trump (with Steven Hassan)",
+      "description": "Steven Hassan was once sucked into The Moonies. He broke free and has devoted the subsequent 50 years to becoming and expert on mind control and cults and then using that knowledge to help others escape cults and rejoin their lives. Cults take many forms, but their tactics are very similar. Which brings us to MAGA. Does it fit the definition of a cult? If so, how are people indoctrinated and how can they be supported in leaving?",
+      "release": "2025-02-16T08:05:00Z",
+      "duration": "00:44:58.4750000",
+      "explicit": false,
+      "spotifyId": "6r6g4qXUuU8KIFVDm157JP",
+      "appleId": 1000692717589,
+      "subjects": [
+        "Cult-Expert",
+        "Qanon",
+        "Unification Church",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6r6g4qXUuU8KIFVDm157JP",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-trump-with-steven-hassan/id1728340033?i=1000692717589"
+      }
+    }
+  ]
+}

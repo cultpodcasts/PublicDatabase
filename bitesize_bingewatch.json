@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "fe821d28-72e5-434f-b498-2c1f49c4e51b",
+  "name": "Bitesize Bingewatch",
+  "spotifyId": "1DY7lgpToG9JUSHUflYoC2",
+  "appleId": 1649614220,
+  "episodes": [
+    {
+      "id": "24e747a0-4382-4c07-b332-0bee6387f99e",
+      "title": "Escaping Utopia (BBC iPlayer, 2025)",
+      "description": "A journalist recounts her fight to break free from infamous New Zealand Christian cult Gloriavale in BBC documentary Escaping Utopia. If you like this review, why not check out the full podcast. Search for Bingewatch wherever you get your podcasts and listen, subscribe and share now! If you like this podcast, you can now show your support for Bingewatch and leave us a tip . If you\u0027re a brand interested in sponsorship or collabs, email hello@podcastsbyliam.com and chat to us now!",
+      "release": "2025-02-21T04:00:00Z",
+      "duration": "00:06:48.4360000",
+      "explicit": false,
+      "spotifyId": "4kUGjLeNnraW4fYB1Intts",
+      "appleId": 1000694598356,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4kUGjLeNnraW4fYB1Intts",
+        "apple": "https://podcasts.apple.com/podcast/escaping-utopia-bbc-iplayer-2025/id1649614220?i=1000694598356"
+      }
+    }
+  ]
+}

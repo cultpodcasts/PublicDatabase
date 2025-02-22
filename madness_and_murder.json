@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "e3bd234c-5011-4ecc-bb03-1d1b6028328c",
+  "name": "Madness and Murder",
+  "spotifyId": "32HtpKZWcJHVicHDzRGzUt",
+  "appleId": 1670701289,
+  "episodes": [
+    {
+      "id": "035e3e76-6775-4952-94e2-d3e1f55ab575",
+      "title": "Episode 46: The Peoples Temple: The Story of Jonestown",
+      "description": "Authors:\u00A0Samya and Mia\nDescription:\nOn November 18, 1978, a mass suicide at Jonestown changed nearly one thousand lives. Peoples Temple leader Jim Jones led over 900 members in a mass suicide through the consumption of cyanide-laced punch. We take a deep dive into the Peoples Temple timeline, and the years leading up to the mass suicide. Through the exploration of Jim Jones\u2019 leadership and members\u0027 experiences we discover the true conditions of the Peoples Temple. Additionally, we dissect the media\u2019s approach to the coverage of Jonestown from an ethical standpoint.\nSources:\nhttps://www.history.com/this-day-in-history/mass-suicide-at-jonestown.\u00A0\nhttps://www.history.com/news/jonestown-jim-jones-mass-murder-suicide.\u00A0\nFBI statement of the jonestown cult including FBI files.\nhttps://jonestown.sdsu.edu/?page_id=16973\nhttps://www.pbs.org/wgbh/americanexperience/media/pdf/transcript/Jonestown_transcript.pdf.\nhttps://time.com/6120017/jonestown-massacre-survivors/#\u00A0\nhttps://www.tripadvisor.com/AttractionProductReview-g294078-d32714084-2_Day_Jonestown_Memorial_Tour-Georgetown_Demerara_Mahaica.html#/media/32714084/?albumid=-150\u0026type=ALL_INCLUDING_RESTRICTED\u0026category=-150\u00A0\nMusic:\n\u201CDark mysterious true crime music - loopable\u201D by Joel Fazhari - Pixabay\nhttps://pixabay.com/music/crime-scene-dark-mysterious-true-crime-music-loopable-235870/",
+      "release": "2025-02-18T17:12:13Z",
+      "duration": "00:14:48",
+      "explicit": false,
+      "spotifyId": "0Qom9GoiV29m9Fa1snL660",
+      "appleId": 1000693647645,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Qom9GoiV29m9Fa1snL660",
+        "apple": "https://podcasts.apple.com/podcast/episode-46-the-peoples-temple-the-story-of-jonestown/id1670701289?i=1000693647645"
+      }
+    },
+    {
+      "id": "056d26d8-9e66-41c4-abc8-b9c87b47fab3",
+      "title": "Episode 8:  The Cult Murders on 10050 Cielo Drive",
+      "description": "Authors: Abby Prusha and Zach Graves August 8th, 1969\u201310050 Cielo Drive, Beverly Hills, California\u2013midnight, friends Sharon Tate, Abigail Folger, Voytek Frykowski, and Jay Sebring were planning on having a restful evening at their picturesque rental property. Tate was pregnant, and she had her friends over to stay with her while her husband, Roman Polanski, was away on business in Europe. At about midnight on August 9th, those individuals were gruesomely murdered inside the home by the Manson Family cult. Who were the victims? Why were the murders committed? What happened to the criminals involved afterward? Sources: https://www.biography.com/crime-figure/sharon-tateLinks to an external site. https://www.biography.com/news/sharon-tate-murder-charles-manson?li_source=LI\u0026li_medium=m2m-rcw-biographyLinks to an external site. https://www.biography.com/news/charles-manson-family-victimsLinks to an external site. https://www.thefamouspeople.com/profiles/abigail-folger-44043.phpLinks to an external site. https://allthatsinteresting.com/wojciech-frykowskiLinks to an external site. https://allthatsinteresting.com/jay-sebringLinks to an external site. https://www.britannica.com/biography/Charles-MansonLinks to an external site. https://www.britannica.com/question/Why-did-the-Manson-Family-murder-Sharon-Tate#:~:text=In%20late%201969%20Manson%20Family,.%E2%80%9D%20Watson%20made%20similar%20claimsLinks to an external site. . https://www.charlesmanson.com/victims/wojciech-frykowski/Links to an external site. https://www.famous-trials.com/manson/243-homeLinks to an external site. https://www.housebeautiful.com/lifestyle/a40834300/10050-cielo-drive-sharon-tate-house/Links to an external site. https://www.youtube.com/watch?v=M3KV6S7rQB0\u0026t=1187sLinks to an external site. (Background music)",
+      "release": "2023-02-23T16:37:41Z",
+      "duration": "00:11:02.0540000",
+      "explicit": true,
+      "spotifyId": "3406B5fbnpVbK8FbpgLNSB",
+      "appleId": 1000601294932,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3406B5fbnpVbK8FbpgLNSB",
+        "apple": "https://podcasts.apple.com/podcast/episode-8-the-cult-murders-on-10050-cielo-drive/id1670701289?i=1000601294932"
+      }
+    }
+  ]
+}

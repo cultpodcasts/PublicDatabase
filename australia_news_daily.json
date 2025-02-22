@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "8f599e19-e5c6-4189-b8dd-ae91e2e82f71",
+  "name": "Australia News Daily",
+  "spotifyId": "149kBO2CvovffzlXZdXtxh",
+  "appleId": 1735777964,
+  "episodes": [
+    {
+      "id": "9c4f641a-6b6c-48dc-8903-47627d0c1cc0",
+      "title": "Cult Members Convicted for Child Death",
+      "description": "(4:07): Cult Members Convicted in Tragic Death of Insulin-Deprived Child; Sentencing Awaits",
+      "release": "2025-02-15T14:40:02Z",
+      "duration": "00:10:46.6660000",
+      "explicit": false,
+      "spotifyId": "1mhVBcoZoERL6CRoGRHaEI",
+      "appleId": 1000692547267,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1mhVBcoZoERL6CRoGRHaEI",
+        "apple": "https://podcasts.apple.com/podcast/australia-condemns-chinese-flares-sam-kerr-acquitted/id1735777964?i=1000692547267"
+      }
+    }
+  ]
+}

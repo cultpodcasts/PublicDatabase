@@ -1,0 +1,36 @@
+{
+  "_ts": 0,
+  "id": "27468c32-7b9c-4126-8122-8ffb45e36186",
+  "name": "The Midnight Guild Podcast",
+  "spotifyId": "6AWMKqtLcdAZ9JL9Cw1EXQ",
+  "youTubeChannelId": "UCsMUWI42YLLebsvOyCzx7-A",
+  "episodes": [
+    {
+      "id": "2ccf193e-37c0-46c4-81e5-c9e97da9eb32",
+      "title": "The 12 Tribes - A Modern Day Cult - The Midnight Guild Podcast",
+      "description": "A former members first hand account of his time in The 12 Tribes cult; along with a deep dive into some of the cults teachings.\n\nIf you want more information on The 12 Tribes, please visit this website, \nwww.splcenter.org\nFor this article, Josh read today, and other articles with additional information.",
+      "release": "2025-02-18T20:40:14Z",
+      "duration": "00:36:46",
+      "explicit": false,
+      "youTubeId": "Ifl-VQ2KV_Y",
+      "subjects": [
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ifl-VQ2KV_Y"
+      }
+    },
+    {
+      "id": "d7568ece-581f-4095-9b5b-bc0f92b14f88",
+      "title": "The Midnight Guild Podcast - Skinwalker Stories",
+      "description": "Skinwalker Stories from online and Reddit.",
+      "release": "2025-01-14T18:35:16Z",
+      "duration": "00:25:32",
+      "explicit": false,
+      "youTubeId": "21PgajOoHw8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=21PgajOoHw8"
+      }
+    }
+  ]
+}
