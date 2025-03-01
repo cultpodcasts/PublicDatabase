@@ -4,7 +4,27 @@
   "name": "Cult Chronicles",
   "spotifyId": "5zUcHCvrBM1fGrWttdChKq",
   "appleId": 1748253153,
+  "youTubeChannelId": "UCldAkgukajAS8hB0DBWR_SA",
   "episodes": [
+    {
+      "id": "4f3192d9-9f7e-4e4b-b4a8-59cf866734a9",
+      "title": "Tony - Landmark Worldwide",
+      "description": "This week Tony gives us the inside scoop on Landmark Worldwide. www.isthisacultbook.com Watch: https://rumble.com/user/rabbitholepodcast https://www.youtube.com/@Rabbit.holepodcast Merch: https://keighdesign.com/cult-chronicles/ Wise Wolf Gold: https://www.wolfpack.gold/?ref=jvujkwgs Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-02-24T07:00:00Z",
+      "duration": "01:13:36.2080000",
+      "explicit": false,
+      "spotifyId": "6VPUUfwfdS3JhfL8lbkxAQ",
+      "appleId": 1000695456988,
+      "youTubeId": "s22Yog2ZbxA",
+      "subjects": [
+        "Landmark"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6VPUUfwfdS3JhfL8lbkxAQ",
+        "apple": "https://podcasts.apple.com/podcast/tony-landmark-worldwide/id1748253153?i=1000695456988",
+        "youtube": "https://www.youtube.com/watch?v=s22Yog2ZbxA"
+      }
+    },
     {
       "id": "3dcc3b54-26c2-4cda-a4d2-c35171a2b713",
       "title": "Landmark Worldwide",
@@ -14,12 +34,14 @@
       "explicit": false,
       "spotifyId": "19zbVZRHsatCJva3OGMvab",
       "appleId": 1000692963207,
+      "youTubeId": "Fua92k5iGds",
       "subjects": [
         "Landmark"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19zbVZRHsatCJva3OGMvab",
-        "apple": "https://podcasts.apple.com/podcast/landmark-worldwide/id1748253153?i=1000692963207"
+        "apple": "https://podcasts.apple.com/podcast/landmark-worldwide/id1748253153?i=1000692963207",
+        "youtube": "https://www.youtube.com/watch?v=Fua92k5iGds"
       }
     },
     {
@@ -31,12 +53,14 @@
       "explicit": true,
       "spotifyId": "7k5ivVordPAr3sVZld2rvI",
       "appleId": 1000690763861,
+      "youTubeId": "xHbWSsGecjU",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7k5ivVordPAr3sVZld2rvI",
-        "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-w-amber/id1748253153?i=1000690763861"
+        "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-w-amber/id1748253153?i=1000690763861",
+        "youtube": "https://www.youtube.com/watch?v=xHbWSsGecjU"
       }
     },
     {
@@ -48,12 +72,14 @@
       "explicit": true,
       "spotifyId": "3ct18VUBRsVPu8PTn3sIat",
       "appleId": 1000688444366,
+      "youTubeId": "A_Sd0YyriKw",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ct18VUBRsVPu8PTn3sIat",
-        "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses/id1748253153?i=1000688444366"
+        "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses/id1748253153?i=1000688444366",
+        "youtube": "https://www.youtube.com/watch?v=A_Sd0YyriKw"
       }
     },
     {

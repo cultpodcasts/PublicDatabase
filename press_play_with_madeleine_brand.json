@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "adfe9711-1129-4780-bb16-940cf8c0d729",
+  "name": "Press Play with Madeleine Brand",
+  "spotifyId": "4UAhxEsGUevLLmfVX7apsN",
+  "appleId": 807752117,
+  "episodes": [
+    {
+      "id": "d575319d-2fbb-46c2-b5f0-cffadfb426d6",
+      "title": "\u2018Zizians\u2019: The vegan techy cult tied to murders across US",
+      "description": "(From 0:25:00) \nDisaffected Silicon Valley separatists and mostly trans women have formed a mysterious collective known as Zizians. They\u2019re linked to murders in California, Pennsylvania, and Vermont. ",
+      "release": "2025-02-28T00:04:58Z",
+      "duration": "00:53:06.0760000",
+      "explicit": false,
+      "spotifyId": "1ukGu9Qs7KgbIi0aFI8ZY0",
+      "appleId": 1000696668113,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ukGu9Qs7KgbIi0aFI8ZY0",
+        "apple": "https://podcasts.apple.com/podcast/measles-resurgence-we-hold-these-truths-book-film-reviews/id807752117?i=1000696668113"
+      }
+    }
+  ]
+}

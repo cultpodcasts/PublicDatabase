@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "0f065b42-1de6-485b-878d-f933d9c96da0",
+  "name": "the finance and property survival guide",
+  "spotifyId": "4wz3g2iyU2PxaTaPRsh3Fz",
+  "appleId": 1548234881,
+  "episodes": [
+    {
+      "id": "7cb4a2e4-f831-48b0-9653-493ec0511a7d",
+      "title": "From the Vault: Cons \u0026 Cults with Sarah Steel",
+      "description": "Sarah Steel is the author of \u0022Do as I Say\u0022, a book about cults, charisma and coercive control and the host of Let\u0027s Talk About Sects podcast. \nYou can check out her book here: \u2060Do As I Say: How cults control, why we join them, and what they teach us about bullying, abuse and coercion - Pan Macmillan Australia\u2060You can check out her podcast here: \u2060Let\u0027s Talk About Sects - Episodes",
+      "release": "2025-02-24T22:25:52Z",
+      "duration": "00:22:39",
+      "explicit": false,
+      "spotifyId": "4wytitKB1w6omREQbOZSoL",
+      "appleId": 1000695645431,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4wytitKB1w6omREQbOZSoL",
+        "apple": "https://podcasts.apple.com/podcast/from-the-vault-cons-cults-with-sarah-steel/id1548234881?i=1000695645431"
+      }
+    }
+  ]
+}

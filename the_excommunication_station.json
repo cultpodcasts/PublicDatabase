@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "d0495ef2-83ef-464f-9961-d47692c99eb7",
+      "title": "195. John Bodkin Adams",
+      "description": "This week we dive into a serial killer who was part of the Plymouth Brethren.",
+      "release": "2025-02-26T07:00:00Z",
+      "duration": "01:29:56.0090000",
+      "explicit": false,
+      "spotifyId": "2Q34EQQGbSkLe8ZJcZz2PA",
+      "appleId": 1000696152254,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Q34EQQGbSkLe8ZJcZz2PA",
+        "apple": "https://podcasts.apple.com/podcast/195-john-bodkin-adams/id1573190999?i=1000696152254"
+      }
+    },
+    {
       "id": "5e5afca5-933c-4243-b566-06b3408077b6",
       "title": "194. Walker Railey W/ Sadie Carpenter",
       "description": "This week, we dive into the store of Walker Railey and the wild story of a man who had it all except self control. Sadie Carpenter of The Leaving Eden Podcast joins us.",

@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "4aaec79c-ead1-4890-a2bd-069102622948",
+  "name": "True Crime and Psychiatry",
+  "spotifyId": "5VbWfXw6t08mqIgJ3t89U6",
+  "appleId": 1793824781,
+  "youTubeChannelId": "UCGqOYfkXEGBD4ZxqLeBza3w",
+  "episodes": [
+    {
+      "id": "6a64600a-f658-4d0d-8456-c99870747c0b",
+      "title": "Who are the Zizians \u0026 What are Delusions?",
+      "description": "Attempt#1 at figuring out what these people believe and why",
+      "release": "2025-02-28T11:09:17Z",
+      "duration": "00:39:52.9670000",
+      "explicit": false,
+      "spotifyId": "40t7ABn13lADyjAoIoKo7I",
+      "appleId": 1000696778463,
+      "youTubeId": "OV8bdMx_P88",
+      "subjects": [
+        "Zizians",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/40t7ABn13lADyjAoIoKo7I",
+        "apple": "https://podcasts.apple.com/podcast/who-are-the-zizians-what-are-delusions/id1793824781?i=1000696778463",
+        "youtube": "https://www.youtube.com/watch?v=OV8bdMx_P88"
+      }
+    }
+  ]
+}

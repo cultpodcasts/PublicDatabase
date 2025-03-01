@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "43d3868a-0e30-4f8f-a221-0f384643db99",
+  "name": "THE EAGLE: A Times Union Podcast",
+  "spotifyId": "11RGFxWpWSLOGWTffUd2SF",
+  "appleId": 1506637079,
+  "youTubeChannelId": "UCEgBIoEucE2H6tA1LRywR3A",
+  "episodes": [
+    {
+      "id": "4104fb93-6f10-436f-9917-a1dca157cdc0",
+      "title": "Who are the Zizians?",
+      "description": "A cult-like group of ultra-rationalist vegans is now connected to five deaths across the country. On this episode, we attempt to unravel the bizarre and convoluted story of the Zizians. Also on this episode, our in-house movie buffs make their Oscar predictions. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-02-28T10:00:00Z",
+      "duration": "00:37:34.4710000",
+      "explicit": false,
+      "spotifyId": "31DtE0ctt12YyYrk597M71",
+      "appleId": 1000696762487,
+      "youTubeId": "kZB5p724lEI",
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/31DtE0ctt12YyYrk597M71",
+        "apple": "https://podcasts.apple.com/podcast/who-are-the-zizians/id1506637079?i=1000696762487",
+        "youtube": "https://www.youtube.com/watch?v=kZB5p724lEI"
+      }
+    }
+  ]
+}

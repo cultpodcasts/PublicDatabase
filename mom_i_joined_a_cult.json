@@ -6,6 +6,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "9a64cce2-a219-446d-87f9-a2d6b36afeec",
+      "title": "Transatlantic Slave Trade Season 10 Episode 5",
+      "description": "Thor scares us all on what he would be like as a slave owner. Finn introduces us to a new section, Finn The News.",
+      "release": "2025-02-22T18:04:15Z",
+      "duration": "01:02:12",
+      "explicit": false,
+      "spotifyId": "5gtO738BGRpNugUUOl9Whl",
+      "appleId": 1000695090351,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5gtO738BGRpNugUUOl9Whl",
+        "apple": "https://podcasts.apple.com/podcast/transatlantic-slave-trade-season-10-episode-5/id1565633523?i=1000695090351"
+      }
+    },
+    {
       "id": "cd714dc3-6105-4575-8cc1-8e07e28ef919",
       "title": "Dr. Brooner\u0027s Magic Soap - Season 10 Episode 4",
       "description": "Nathan takes us on a ride through the life of Dr. Brooner . The Nice Cult Takes on Dr. Brooner\u0027s Magic Soap as part of bath time.",
@@ -947,6 +961,9 @@
       "explicit": false,
       "spotifyId": "1LC7jGduGPvusenMU9zJIS",
       "appleId": 1000624273381,
+      "subjects": [
+        "Satan\u0027s Disciples"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1LC7jGduGPvusenMU9zJIS",
         "apple": "https://podcasts.apple.com/podcast/season-6-episode-1-satans-disciples/id1565633523?i=1000624273381"
