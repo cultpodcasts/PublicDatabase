@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "d17acb2f-282b-4cda-8e9d-1da74b9ac90a",
+      "title": "196. John George Haigh: The Acid Bath Killer",
+      "description": "This week, we do another Plymouth Brethren serial killer, John George Haigh, the Acid Bath Killer",
+      "release": "2025-03-05T07:54:00Z",
+      "duration": "02:07:00.9630000",
+      "explicit": true,
+      "spotifyId": "1DLgB2uL3lzq6DWNieAB21",
+      "appleId": 1000697818988,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1DLgB2uL3lzq6DWNieAB21",
+        "apple": "https://podcasts.apple.com/podcast/196-john-george-haigh-the-acid-bath-killer/id1573190999?i=1000697818988"
+      }
+    },
+    {
       "id": "d0495ef2-83ef-464f-9961-d47692c99eb7",
       "title": "195. John Bodkin Adams",
       "description": "This week we dive into a serial killer who was part of the Plymouth Brethren.",

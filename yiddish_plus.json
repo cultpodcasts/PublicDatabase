@@ -1,0 +1,36 @@
+{
+  "_ts": 0,
+  "id": "2e5ff1b7-b8ed-4a50-a30e-94822184b43a",
+  "name": "Yiddish Plus",
+  "youTubeChannelId": "UC7oIxlRYJ9ClVbyRTLr-v_Q",
+  "episodes": [
+    {
+      "id": "226d4fed-fe5f-4f01-a8d1-9b8ecc6f2271",
+      "title": "Mendy Levy Confronts Lev Tahor Cult Leader \u201CNissan Malka\u201D",
+      "release": "2025-03-02T00:39:48Z",
+      "duration": "00:00:30",
+      "explicit": false,
+      "youTubeId": "26ClNeV0YwA",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=26ClNeV0YwA"
+      }
+    },
+    {
+      "id": "dc2ed639-17be-4603-86a9-52fcde677380",
+      "title": "The Two Lev Tahor Cult Leaders That Got Arrested - Yoel Goldman \u0026 Nissan Malka",
+      "release": "2025-03-02T00:39:36Z",
+      "duration": "00:00:20",
+      "explicit": false,
+      "youTubeId": "lgKTKVd69Ms",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lgKTKVd69Ms"
+      }
+    }
+  ]
+}

@@ -6,6 +6,23 @@
   "appleId": 174829950,
   "episodes": [
     {
+      "id": "56fec10f-1a3e-4912-bcf9-dbf0f70de163",
+      "title": "Unveiled: Theophila Pratt\u0027s story of surviving Gloriavale",
+      "description": "At 18, after a life of servitude and subserviance, Theophila Pratt was dropped at a bus stop and left to fend for herself. She tells her story of surviving Gloriavale",
+      "release": "2025-03-02T21:05:00Z",
+      "duration": "00:25:34.2950000",
+      "explicit": false,
+      "spotifyId": "634xepn4I0fJSgZscSjf54",
+      "appleId": 1000697237078,
+      "subjects": [
+        "Gloriavale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/634xepn4I0fJSgZscSjf54",
+        "apple": "https://podcasts.apple.com/podcast/unveiled-theophila-pratts-story-of-surviving-gloriavale/id174829950?i=1000697237078"
+      }
+    },
+    {
       "id": "2856ee6a-eef2-406f-b40b-bff4160e8fdc",
       "title": "Leading UK cult reformer Gillie Jenkinson",
       "description": "When Gillie Jenkinson was in her early 20s she ended up in a religious group that developed into a cult.",

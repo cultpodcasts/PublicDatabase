@@ -4,7 +4,27 @@
   "name": "Bodies Behind The Bus",
   "spotifyId": "10b0rbS8MNB7UjNIlWUAmf",
   "appleId": 1601586078,
+  "youTubeChannelId": "UChcfpE64EbPZRmv6P7ipfpw",
   "episodes": [
+    {
+      "id": "714e1653-10d8-45ec-882e-21199652876d",
+      "title": "ATBS - \u201CFundie Cult Beliefs Going Mainstream w/ Christian Nationalism\u201D ft. Margaret Bronson \u0026 Eric Isaac",
+      "description": "This episode of Bodies Behind the Bus features Margaret Bronson and Eric Isaac discussing the rise of Christian nationalism and its intersection with fundamentalist cult beliefs. Margaret shares insights from her experience in a high-control religious group, highlighting issues of female subjugation, the quiverfull movement, lack of education, and financial entrapment. Eric connects these experiences to broader patterns of spiritual abuse, coercion, and religious power structures. The conversation explores how extreme fundamentalist ideologies are becoming mainstream in America, their ties to white supremacy, and the political implications of these beliefs. Margaret\u2019s ig: https://www.instagram.com/margaretrosebronson?igsh=cW5nbHZ1ZnQ4dTU0 Margaret\u2019s Website: https://www.deconstructiondoulas.com/ Eric\u2019s thesis: https://digitalcommons.fiu.edu/etd/5151/ Support the show",
+      "release": "2025-03-06T10:00:00Z",
+      "duration": "01:35:13.3710000",
+      "explicit": true,
+      "spotifyId": "5bdlEFFGgpKe5jB3aSq0ku",
+      "appleId": 1000698061414,
+      "youTubeId": "kAn5KKdK9zk",
+      "subjects": [
+        "Quiverfull"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5bdlEFFGgpKe5jB3aSq0ku",
+        "apple": "https://podcasts.apple.com/podcast/atbs-fundie-cult-beliefs-going-mainstream-w-christian/id1601586078?i=1000698061414",
+        "youtube": "https://www.youtube.com/watch?v=kAn5KKdK9zk"
+      }
+    },
     {
       "id": "737fcb2c-7717-4f14-90a3-2834cfb879ec",
       "title": "ATBS: \u201CThe Spirit of Justice\u201D w/ Jemar Tisby",
@@ -14,12 +34,14 @@
       "explicit": false,
       "spotifyId": "41irH1irWP1a4TvAlkDwta",
       "appleId": 1000695814711,
+      "youTubeId": "e9S-Nb0ptd0",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/41irH1irWP1a4TvAlkDwta",
-        "apple": "https://podcasts.apple.com/podcast/atbs-the-spirit-of-justice-w-jemar-tisby/id1601586078?i=1000695814711"
+        "apple": "https://podcasts.apple.com/podcast/atbs-the-spirit-of-justice-w-jemar-tisby/id1601586078?i=1000695814711",
+        "youtube": "https://www.youtube.com/watch?v=e9S-Nb0ptd0"
       }
     },
     {
@@ -116,12 +138,14 @@
       "explicit": false,
       "spotifyId": "5tOey6L4LIDiKJQLT6S8zC",
       "appleId": 1000680249957,
+      "youTubeId": "xIkYmOC_ipU",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5tOey6L4LIDiKJQLT6S8zC",
-        "apple": "https://podcasts.apple.com/podcast/sustaining-bbtb-2025-beyond/id1601586078?i=1000680249957"
+        "apple": "https://podcasts.apple.com/podcast/sustaining-bbtb-2025-beyond/id1601586078?i=1000680249957",
+        "youtube": "https://www.youtube.com/watch?v=xIkYmOC_ipU"
       }
     },
     {
@@ -150,12 +174,14 @@
       "explicit": true,
       "spotifyId": "0CqfwPR6P82awHIdYYzKPJ",
       "appleId": 1000678255533,
+      "youTubeId": "xdsiKZp70bY",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0CqfwPR6P82awHIdYYzKPJ",
-        "apple": "https://podcasts.apple.com/podcast/atbs-election-debrief-w-the-board/id1601586078?i=1000678255533"
+        "apple": "https://podcasts.apple.com/podcast/atbs-election-debrief-w-the-board/id1601586078?i=1000678255533",
+        "youtube": "https://www.youtube.com/watch?v=xdsiKZp70bY"
       }
     },
     {

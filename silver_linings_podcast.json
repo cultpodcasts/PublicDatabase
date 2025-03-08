@@ -7,6 +7,23 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "57ee3c20-2895-410e-94a4-dead2ff59cea",
+      "title": "Silver Linings Podcast - YOUTUBE LIVE-072 - 3-1-25 - Counting Down - It\u0027s About Charles, not Lori!",
+      "description": "Silver Linings Podcast - YOUTUBE LIVE-072 - 3-1-25 - Counting Down - It\u0027s About Charles, not Lori!",
+      "release": "2025-03-05T00:58:22Z",
+      "duration": "01:00:44.2320000",
+      "explicit": false,
+      "spotifyId": "2lRx4LaWHnK7MjcWfskwvP",
+      "appleId": 1000697755964,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2lRx4LaWHnK7MjcWfskwvP",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-podcast-youtube-live-072-3-1-25-counting/id1694606661?i=1000697755964"
+      }
+    },
+    {
       "id": "22b6d374-af36-4ee5-9119-bda121a646ae",
       "title": "Silver Linings Podcast - YOUTUBE LIVE-071 - 2-1-25 - Justice for Charles Vallow",
       "description": "Silver Linings Podcast - YOUTUBE LIVE-071 - 2-1-25 - Justice for Charles Vallow",

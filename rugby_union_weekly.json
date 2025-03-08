@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "e04804e8-99f7-4293-89c7-58b19d01a380",
+  "name": "Rugby Union Weekly",
+  "spotifyId": "2F2Qb00cSHBQwkRS1hb3sS",
+  "appleId": 1197440162,
+  "episodes": [
+    {
+      "id": "f6c8884e-3a2b-4c49-864a-ea0d41aacad7",
+      "title": "Six Nations: Ireland in Dublin, the ultimate challenge?",
+      "description": "Is playing Ireland in Dublin the ultimate challenge in northern hemisphere rugby? Shaun Edwards thinks so, and we hear how he\u0027s been motivating himself and the French players ahead of Saturday\u0027s showdown in Dublin. Chris chats to Gavin Mairs, chief rugby correspondent for the Daily Telegraph, and senior writer at ESPN Tom Hamilton. We look at Fabien Galthie\u0027s mind games this week with his comments in the press about Sam Prendergast. And speaking of Prendergast, just how big a day is this for him in his burgeoning international career? There\u0027s more on France opting for a 7:1 split and do Scotland really have cause for concern this weekend?",
+      "release": "2025-03-07T23:00:00Z",
+      "duration": "00:34:19",
+      "explicit": false,
+      "spotifyId": "7G5J3YfpH3Hjjwg63GeDLK",
+      "appleId": 1000698323979,
+      "subjects": [
+        "EDUCO",
+        "_Ireland"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7G5J3YfpH3Hjjwg63GeDLK",
+        "apple": "https://podcasts.apple.com/podcast/six-nations-ireland-in-dublin-the-ultimate-challenge/id1197440162?i=1000698323979",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0kwx73x"
+      }
+    }
+  ]
+}

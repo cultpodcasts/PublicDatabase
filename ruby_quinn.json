@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCgdI17cTQUMIKSKJGhM-WPQ",
   "episodes": [
     {
+      "id": "18864f30-4fd9-4801-92ff-5d0f4c02bd69",
+      "title": "JW News Hour with Ruby Quinn",
+      "description": "Articles: \n\nhttps://www.heraldnet.com/opinion/editorial-hold-clergy-to-duty-to-report-child-abuse/\n\nhttps://www.essentiallysports.com/wta-tennis-news-i-slay-and-pray-jehovahs-witness-serena-williams-reflects-on-her-faith-with-daughter-olympia-in-a-candid-confession/",
+      "release": "2025-03-08T01:00:09Z",
+      "duration": "01:00:24",
+      "explicit": false,
+      "youTubeId": "-YN3vCsu6ag",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-YN3vCsu6ag"
+      }
+    },
+    {
       "id": "612db937-0ccb-40c0-a184-0ad6dafb15f2",
       "title": "JW News Hour with Ruby Quinn",
       "release": "2025-03-01T01:40:39Z",

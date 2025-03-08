@@ -1,0 +1,51 @@
+{
+  "_ts": 0,
+  "id": "fdbf6d3b-04c3-4861-b57e-eabb88fe4795",
+  "name": "Stuff To Blow Your Mind",
+  "spotifyId": "00VIrB4E80ThIbMnsgAoTA",
+  "appleId": 350359306,
+  "episodes": [
+    {
+      "id": "34a983fc-b8e1-4468-ae23-7182a17783b2",
+      "title": "Mystery Cults, Part 3",
+      "description": "In this episode of Stuff to Blow Your Mind, Robert and Joe dive into the world of Greco-Roman Mystery Cults. What exactly were the Mysteries and how did they factor into religious practices of the day? Find out\u2026 See omnystudio.com/listener for privacy information.",
+      "release": "2025-03-07T21:07:04Z",
+      "duration": "01:19:39.2060000",
+      "explicit": false,
+      "spotifyId": "05KkdzD8gFOLHBbksCUsPH",
+      "appleId": 1000698312326,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/05KkdzD8gFOLHBbksCUsPH",
+        "apple": "https://podcasts.apple.com/podcast/mystery-cults-part-3/id350359306?i=1000698312326"
+      }
+    },
+    {
+      "id": "9beb0153-a97a-46df-aaf3-0fddaa94882f",
+      "title": "Mystery Cults, Part 2",
+      "description": "In this episode of Stuff to Blow Your Mind, Robert and Joe dive into the world of Greco-Roman Mystery Cults. What exactly were the Mysteries and how did they factor into religious practices of the day? Find out\u2026 See omnystudio.com/listener for privacy information.",
+      "release": "2025-03-04T14:57:44Z",
+      "duration": "01:09:03.3330000",
+      "explicit": false,
+      "spotifyId": "6u357UB8Nyw8OX54U81EV3",
+      "appleId": 1000697655198,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6u357UB8Nyw8OX54U81EV3",
+        "apple": "https://podcasts.apple.com/podcast/mystery-cults-part-2/id350359306?i=1000697655198"
+      }
+    },
+    {
+      "id": "b4b0f61f-024b-455b-9920-08d707098d52",
+      "title": "Mystery Cults, Part 1",
+      "description": "In this episode of Stuff to Blow Your Mind, Robert and Joe dive into the world of Greco-Roman Mystery Cults. What exactly were the Mysteries and how did they factor into religious practices of the day? Find out\u2026 See omnystudio.com/listener for privacy information.",
+      "release": "2025-02-27T17:50:01Z",
+      "duration": "00:56:16.8480000",
+      "explicit": false,
+      "spotifyId": "0NtqOtS4HCZRTEy1rOKkhE",
+      "appleId": 1000696597774,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0NtqOtS4HCZRTEy1rOKkhE",
+        "apple": "https://podcasts.apple.com/podcast/mystery-cults-part-1/id350359306?i=1000696597774"
+      }
+    }
+  ]
+}

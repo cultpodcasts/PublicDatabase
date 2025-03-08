@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "3bc60700-df2a-40d3-82c0-0dac0c5bd020",
+  "name": "Today, Explained",
+  "spotifyId": "3pXx5SXzXwJxnf4A5pWN2A",
+  "appleId": 1346207297,
+  "episodes": [
+    {
+      "id": "d7aad938-4e3a-46c2-ac63-9ab6b9802bca",
+      "title": "The Zizian \u0022death cult\u0022",
+      "description": "Journalist Max Read explains how a bunch of Silicon Valley computer scientists spun into a cult accused of killings. This episode was produced by Amanda Lewellyn with help from Travis Larchuk, edited by Amina Al-Sadi, fact-checked by Laura Bullard, engineered by Andrea Kristinsdottir and Patrick Boyd, and hosted by Noel King. Transcript at vox.com/today-explained-podcast Support Today, Explained by becoming a Vox Member today: http://www.vox.com/members A mugshot of Jack \u0027Ziz\u0027 Lasota, leader of the Zizians, after her arrest in connection with the killing of a Border Patrol Officer in Vermont in January. Image courtesy of the Allegany, MD County Sheriff\u0027s Office. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-03-06T19:25:00Z",
+      "duration": "00:30:15.2750000",
+      "explicit": false,
+      "spotifyId": "4mYDhiHHkTy84QvsdW2szc",
+      "appleId": 1000698153906,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4mYDhiHHkTy84QvsdW2szc",
+        "apple": "https://podcasts.apple.com/podcast/the-zizian-death-cult/id1346207297?i=1000698153906"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "39b33f30-769b-4e0c-aeea-6456fe6a8f87",
+  "name": "True Crime News: The Podcast",
+  "spotifyId": "5MCQgSSVQEPB6ME2jSy9u2",
+  "appleId": 1451999167,
+  "youTubeChannelId": "UC69uYUqvx-vw4luuX7aHNLQ",
+  "episodes": [
+    {
+      "id": "7ce5434d-7a4b-4d24-9aa4-206256529296",
+      "title": "Alleged \u2018Zizian\u2019 cult linked to four slayings in three states",
+      "description": "Police link an alleged cult called the \u201CZizians\u201D to the slaying of four people, including landowner Curtis Lind, parents Richard and Rita Zajko, and Border Patrol Agent David Maland. The arrest of Jack Lasota, the suspected cult leader, unveiled what investigators claim is a bi-coastal crime spree tied to the group. Ashleigh Banfield joins host Ana Garcia. To learn more about listener data and our privacy practices visit: https://www.audacyinc.com/privacy-policy Learn more about your ad choices. Visit https://podcastchoices.com/adchoices",
+      "release": "2025-03-04T08:01:00Z",
+      "duration": "01:04:25.8870000",
+      "explicit": false,
+      "spotifyId": "0wRbUqQ6xLbKG7cgxVvPge",
+      "appleId": 1000697591413,
+      "youTubeId": "q42qzIOMhWI",
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0wRbUqQ6xLbKG7cgxVvPge",
+        "apple": "https://podcasts.apple.com/podcast/alleged-zizian-cult-linked-to-four-slayings-in-three-states/id1451999167?i=1000697591413",
+        "youtube": "https://www.youtube.com/watch?v=q42qzIOMhWI"
+      }
+    }
+  ]
+}

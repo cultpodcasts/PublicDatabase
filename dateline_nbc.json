@@ -1,25 +1,169 @@
 {
   "_ts": 0,
-  "id": "d8a14c54-c1da-48a4-b924-f01f6694d9e4",
+  "id": "63cc17b3-3194-4274-8a38-36fdb86bd8e8",
   "name": "Dateline NBC",
   "spotifyId": "3MGn724Y6BOSQzfmk3TyuY",
   "appleId": 1464919521,
+  "youTubeChannelId": "UCu3sKtOW9TGaErPsAYVPplA",
   "episodes": [
     {
-      "id": "655f15f9-e815-4765-9970-83137e3db354",
-      "title": "Unbreakable",
-      "description": "The story of Rebecca Musser vs. FLDS leader and notorious FBI fugitive Warren Jeffs. Rebecca opens up to Keith Morrison about life in the church and why she decided to leave the denomination. Originally aired on NBC on May 8, 2020. ",
-      "release": "2020-05-12T00:00:00",
-      "duration": "01:22:47.6540000",
+      "id": "9e622d47-e0b6-4cd9-b58c-e94afb1fcf11",
+      "title": "Lori Vallow Daybell sits down with Keith Morrison for her first television interview | Dateline NBC",
+      "description": "Lori Vallow Daybell, convicted of murdering two of her children, sits down with Keith Morrison for her first TV interview. \n\nWatch full episodes: https://www.nbc.com/dateline\n\nLike us on Facebook: http://www.facebook.com/datelinenbc\nFollow us on Twitter: http://www.twitter.com/datelinenbc\nFollow us on Instagram: http://www.instagram.com/datelinenbc\nFollow us on TikTok: https://www.tiktok.com/@nbcdateline\n\nStream on Peacock: https://www.peacocktv.com/watch/asset...",
+      "release": "2025-03-05T23:01:28Z",
+      "duration": "00:00:51",
       "explicit": false,
-      "spotifyId": "3S3eMV1swfYUGqvxhhwNLm",
-      "appleId": 1000474335093,
+      "youTubeId": "2apt_nGAnxM",
       "subjects": [
-        "FLDS Church"
+        "Chad Daybell"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3S3eMV1swfYUGqvxhhwNLm",
-        "apple": "https://podcasts.apple.com/podcast/unbreakable/id1464919521?i=1000474335093"
+        "youtube": "https://www.youtube.com/watch?v=2apt_nGAnxM"
+      }
+    },
+    {
+      "id": "15c1c9a8-7d2b-4189-abe8-e440fbb71b0d",
+      "title": "The Trial of Lori Vallow Daybell",
+      "description": "Keith Morrison returns to Idaho for the case against Lori Vallow Daybell, who was on trial for the murders of two of her children, Tylee Ryan and JJ Vallow, and conspiracy to commit the murder of her husband Chad\u2019s previous wife, Tammy Daybell. On July 31, 2023, Vallow Daybell was sentenced to five terms of life in prison without the possibility of parole.",
+      "release": "2023-05-16T00:00:00",
+      "duration": "01:26:28.0480000",
+      "explicit": false,
+      "spotifyId": "2TC6YfOwiCU0QrjgAFWbPp",
+      "appleId": 1000679929134,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2TC6YfOwiCU0QrjgAFWbPp",
+        "apple": "https://podcasts.apple.com/podcast/the-trial-of-lori-vallow-daybell/id1464919521?i=1000679929134"
+      }
+    },
+    {
+      "id": "63b578df-60c3-4fc5-a5e0-9ea6c8c56180",
+      "title": "Dateline Episode Trailer: The Trial of Lori Vallow Daybell | Dateline NBC",
+      "description": "Keith Morrison returns to Idaho for the latest in the Lori Vallow Daybell case, revealing details from inside the courtroom on key evidence and powerful witness testimony that led to a verdict.\n\nWatch this full episode: https://www.nbc.com/dateline/video/the-trial-of-lori-vallow-daybell/9000267476\n\nLike us on Facebook: http://www.facebook.com/datelinenbc\nFollow us on Twitter: http://www.twitter.com/datelinenbc\nFollow us on Instagram: http://www.instagram.com/datelinenbc\nFollow us on TikTok: https://www.tiktok.com/@nbcdateline\n\nStream on Peacock: https://www.peacocktv.com/watch/asset...",
+      "release": "2023-05-12T20:12:06Z",
+      "duration": "00:00:57",
+      "explicit": false,
+      "youTubeId": "qp5jAw8A3H4",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qp5jAw8A3H4"
+      }
+    },
+    {
+      "id": "9453c8bd-0a42-4fe9-b06d-84d53b8020f7",
+      "title": "Dateline Episode Trailer: The Doomsday Files | Dateline NBC",
+      "description": "New evidence, exclusive interviews, and an in-depth look at Lori Vallow and Chad Daybell, the Idaho couple charged in the murders of Lori\u2019s children JJ \u0026 Tylee. Keith Morrison reports.\n\nWatch this full episode: https://www.nbc.com/dateline/video/the-doomsday-files/9000190889\n\nLike us on Facebook: http://www.facebook.com/datelinenbc\nFollow us on Twitter: http://www.twitter.com/datelinenbc\nFollow us on Instagram: http://www.instagram.com/datelinenbc\nFollow us on TikTok: https://www.tiktok.com/@nbcdateline\n\nStream on Peacock for FREE! https://www.peacocktv.com/watch/asset...",
+      "release": "2021-11-11T16:12:33Z",
+      "duration": "00:01:51",
+      "explicit": false,
+      "youTubeId": "tPA7ZLHQFbk",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tPA7ZLHQFbk"
+      }
+    },
+    {
+      "id": "e00cf853-f785-4268-a6e9-740f89becf05",
+      "title": "Dateline Episode Trailer: The Ascension of Mother God | Dateline NBC",
+      "description": "Keith Morrison reports Friday, October 15 at 9/8c on NBC. \n\nWatch full episodes: https://www.nbc.com/dateline\n\nLike us on Facebook: http://www.facebook.com/datelinenbc\nFollow us on Twitter: http://www.twitter.com/datelinenbc\nFollow us on Instagram: http://www.instagram.com/datelinenbc\nFollow us on TikTok: https://www.tiktok.com/@nbcdateline\n\nStream on Peacock for FREE! https://www.peacocktv.com/watch/asset...",
+      "release": "2021-10-14T15:53:19Z",
+      "duration": "00:01:39",
+      "explicit": false,
+      "youTubeId": "pTGfQ-Db4YQ",
+      "subjects": [
+        "Love Has Won"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pTGfQ-Db4YQ"
+      }
+    },
+    {
+      "id": "b9f781dc-b1c8-4483-a3b1-e6dd7b9ca485",
+      "title": "Mommy Doomsday",
+      "description": "Exclusive new interviews and details on the deaths surrounding Chad and Lori Vallow Daybell, a case Keith Morrison has been on since it drew national attention after Lori\u2019s children disappeared.",
+      "release": "2021-04-01T00:00:00",
+      "duration": "01:22:01.2340000",
+      "explicit": false,
+      "spotifyId": "0ZzqnXKrxHrniyFEqBD2gJ",
+      "appleId": 1000515316087,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ZzqnXKrxHrniyFEqBD2gJ",
+        "apple": "https://podcasts.apple.com/podcast/mommy-doomsday/id1464919521?i=1000515316087"
+      }
+    },
+    {
+      "id": "42521281-65c6-4f48-bdc8-3b3d530442f7",
+      "title": "Keith Morrison and Producer Shane Bishop Talk Mommy Doomsday | Dateline NBC",
+      "description": "Ahead of the 2-hour broadcast version of Mommy Doomsday, Keith Morrison sat down with producer Shane Bishop, who details the new content to expect in the television episode airing March 26th at 9/8c on NBC. \n\nLike us on Facebook: http://www.facebook.com/datelinenbc\u200B\u200B...\u200B\nFollow us on Twitter: http://www.twitter.com/datelinenbc\u200B\u200B\u200B...\u200B\nFollow us on Instagram: http://www.instagram.com/datelinenbc\u200B...\u200B\n\nPlus! Stream recent and classic episodes of Dateline now on Peacock, the new free streaming service from NBCUniversal here: https://www.peacocktv.com/watch/home\u200B\u200B\u200B",
+      "release": "2021-03-24T20:00:02Z",
+      "duration": "00:07:01",
+      "explicit": false,
+      "spotifyId": "0ZzqnXKrxHrnyFEqBD2gJ",
+      "youTubeId": "KjHmDzW3NoI",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KjHmDzW3NoI"
+      }
+    },
+    {
+      "id": "3de8b7b0-4548-40b6-9c94-5f27c134f2e0",
+      "title": "Collateral Damage",
+      "description": "Former NXIVM members tell Kate Snow about life inside the controversial self-help group, and life since founder Keith Raniere\u2019s conviction on charges including sex trafficking and forced labor.",
+      "release": "2021-03-02T00:00:00",
+      "duration": "01:21:01.4400000",
+      "explicit": false,
+      "spotifyId": "0w8WmS3kAqQEBLdMkwP4Mz",
+      "appleId": 1000511271880,
+      "subjects": [
+        "NXIVM",
+        "Human Trafficking",
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0w8WmS3kAqQEBLdMkwP4Mz",
+        "apple": "https://podcasts.apple.com/podcast/collateral-damage/id1464919521?i=1000511271880"
+      }
+    },
+    {
+      "id": "b7c094cb-c5d6-4e41-bd2e-0727836b3d97",
+      "title": "Dateline Episode Trailer: Collateral Damage | Dateline NBC",
+      "description": "Former NXIVM members tell Kate Snow about life inside the controversial self-help group, and life since founder Keith Raniere\u2019s conviction on charges including sex trafficking and forced labor.\n\nWatch this full episode: https://www.nbc.com/dateline/video/collateral-damage/4316728\n\nLike us on Facebook: http://www.facebook.com/datelinenbc\u200B\u200B...\u200B\nFollow us on Twitter: http://www.twitter.com/datelinenbc\u200B\u200B\u200B...\u200B\nFollow us on Instagram: http://www.instagram.com/datelinenbc\u200B...\u200B\n\nPlus! Stream recent and classic episodes of Dateline now on Peacock, the new free streaming service from NBCUniversal here: https://www.peacocktv.com/watch/home\u200B\u200B",
+      "release": "2021-02-26T13:58:20Z",
+      "duration": "00:00:59",
+      "explicit": false,
+      "youTubeId": "VoJBui1HPkI",
+      "subjects": [
+        "NXIVM",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VoJBui1HPkI"
+      }
+    },
+    {
+      "id": "c91565de-8559-4204-9605-42369e49a2be",
+      "title": "Where Are the Manson Family Members Now? | Dateline NBC",
+      "description": "Nearly 50 years ago, the Manson \u201Cfamily\u201D rampaged Los Angeles with an infamous murder spree that marked the end of the Summer of Love. What became of some of the key players in this case?\n\nWatch Full Episodes of Dateline: http://www.DatelineNBC.com\n\nLike us on Facebook: http://www.facebook.com/datelinenbc\nFollow us on Twitter: http://www.twitter.com/datelinenbc\nFollow us on Instagram: http://www.instagram.com/datelinenbc",
+      "release": "2017-08-09T15:42:54Z",
+      "duration": "00:04:43",
+      "explicit": false,
+      "youTubeId": "Al08pFa_ZP4",
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Al08pFa_ZP4"
       }
     }
   ]

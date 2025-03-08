@@ -1,11 +1,26 @@
 {
   "_ts": 0,
   "id": "4431db09-f230-41f4-b083-5f4193e68efa",
-  "name": "Transmissions From Jonestown",
+  "name": "Radio Jonestown",
   "spotifyId": "0Efev51SDjCk66zdGM2bh9",
   "appleId": 1308803723,
   "youTubeChannelId": "UCPiqN-33HLn_OPyIU9XzBDg",
   "episodes": [
+    {
+      "id": "5535d9a3-f926-4502-bb46-e9b822f094fb",
+      "title": "Jonestown Home Movies 1 rare footage",
+      "description": "Rare 8MM footage shot in Jonestown, Guyana. This footage was used to create promotional films about Jonestown to attract new residents and show the world what the Peoples Temple had built in their agricultural project in North West Guyana. This footage was saved by a former member as the assets of Peoples Temple were being collected and auctioned off.  This footage was likely shot in 1977-1978.",
+      "release": "2025-03-06T00:52:12Z",
+      "duration": "00:50:21",
+      "explicit": false,
+      "youTubeId": "dca2E5dxJXg",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dca2E5dxJXg"
+      }
+    },
     {
       "id": "a814167d-de41-4a6c-9aef-cecfa166f4ae",
       "title": "Jonestown\u0027s First Memorial: Families Grieve and Await News at the Human Freedom Center",

@@ -2,6 +2,8 @@
   "_ts": 0,
   "id": "4685a2c9-7240-4a14-b72f-56bbc548ff26",
   "name": "Megyn Kelly",
+  "spotifyId": "0awxEJH88Xur0GHXuteBLw",
+  "appleId": 1532976305,
   "youTubeChannelId": "UCzJXNzqz6VMHSNInQt_7q6w",
   "episodes": [
     {
@@ -11,6 +13,8 @@
       "release": "2023-06-15T20:00:08Z",
       "duration": "01:35:56",
       "explicit": false,
+      "spotifyId": "04pVBa5suwQJPYDGqAjtRJ",
+      "appleId": 1000617180551,
       "youTubeId": "4Za_SoIAX4s",
       "subjects": [
         "Kare Youth League",
@@ -18,6 +22,8 @@
         "Cult-Expert"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/04pVBa5suwQJPYDGqAjtRJ",
+        "apple": "https://podcasts.apple.com/podcast/what-happens-in-cults-and-escaping-from-them-a/id1532976305?i=1000617180551",
         "youtube": "https://www.youtube.com/watch?v=4Za_SoIAX4s"
       }
     },
@@ -28,11 +34,15 @@
       "release": "2022-09-28T21:27:21Z",
       "duration": "01:38:28",
       "explicit": false,
+      "spotifyId": "4v5TzGwsnWOZ8F6cKnhyFZ",
+      "appleId": 1000580953612,
       "youTubeId": "xzwflJtjInI",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4v5TzGwsnWOZ8F6cKnhyFZ",
+        "apple": "https://podcasts.apple.com/podcast/escaping-scientology-tom-cruises-impact-and-a/id1532976305?i=1000580953612",
         "youtube": "https://www.youtube.com/watch?v=xzwflJtjInI"
       }
     }

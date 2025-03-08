@@ -15,12 +15,14 @@
       "explicit": false,
       "spotifyId": "6yIuo2M7tPTBZKYQAheHWM",
       "appleId": 1000695745955,
+      "youTubeId": "r2yB99u6z9c",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yIuo2M7tPTBZKYQAheHWM",
-        "apple": "https://podcasts.apple.com/podcast/episode-80-the-twin-flames-cult-the-dark-side/id1695961925?i=1000695745955"
+        "apple": "https://podcasts.apple.com/podcast/episode-80-the-twin-flames-cult-the-dark-side/id1695961925?i=1000695745955",
+        "youtube": "https://www.youtube.com/watch?v=r2yB99u6z9c"
       }
     },
     {

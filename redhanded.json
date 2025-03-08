@@ -15,9 +15,11 @@
       "explicit": true,
       "spotifyId": "2yVAQbfwtGRFP7dN4feEV1",
       "appleId": 1000696476481,
+      "youTubeId": "z7PsxyXLN5Q",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2yVAQbfwtGRFP7dN4feEV1",
-        "apple": "https://podcasts.apple.com/podcast/episode-388-the-house-of-v%C3%A9drines-the-guru-who-stole-it-all/id1250599915?i=1000696476481"
+        "apple": "https://podcasts.apple.com/podcast/episode-388-the-house-of-v%C3%A9drines-the-guru-who-stole-it-all/id1250599915?i=1000696476481",
+        "youtube": "https://www.youtube.com/watch?v=z7PsxyXLN5Q"
       }
     },
     {

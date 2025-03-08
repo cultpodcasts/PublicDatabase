@@ -1,0 +1,111 @@
+{
+  "_ts": 0,
+  "id": "1f169979-9db7-4ca5-bf42-e1e938191ac6",
+  "name": "Mommy Doomsday",
+  "spotifyId": "6O1U4NMmvQbvrbnBayyomu",
+  "appleId": 1540849480,
+  "episodes": [
+    {
+      "id": "38e0f5d9-9e5b-4e73-b246-94d88114f92e",
+      "title": "6 - What Happened to the Children",
+      "description": "The six-month search for Lori\u2019s two missing children has followed a trail from snowy Idaho to sunny Kauai and back again. And the question of where the children are is finally answered.",
+      "release": "2021-03-04T11:00:00Z",
+      "duration": "00:39:06.0830000",
+      "explicit": false,
+      "spotifyId": "4rCu0NCVkgMAUyN5toDjgS",
+      "appleId": 1000511558426,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4rCu0NCVkgMAUyN5toDjgS",
+        "apple": "https://podcasts.apple.com/podcast/6-what-happened-to-the-children/id1540849480?i=1000511558426"
+      }
+    },
+    {
+      "id": "0fe6e404-b703-45fb-bcb7-b27ddbff7bd2",
+      "title": "5 - Gone",
+      "description": "As the investigation into Lori\u2019s missing children intensifies, she and her new husband leave town. Then another person close to Lori dies unexpectedly.",
+      "release": "2021-03-02T11:00:00Z",
+      "duration": "00:38:31.8100000",
+      "explicit": false,
+      "spotifyId": "0A7exrb1UqmtM7sLFB48Lv",
+      "appleId": 1000511264979,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0A7exrb1UqmtM7sLFB48Lv",
+        "apple": "https://podcasts.apple.com/podcast/5-gone/id1540849480?i=1000511264979"
+      }
+    },
+    {
+      "id": "ab8051da-4e0e-4dca-8ce5-a3c87ae199db",
+      "title": "4 - Somewhere Cold",
+      "description": "Lori moves to Idaho, as mysterious and disturbing events continue to unfold around her and Chad.",
+      "release": "2021-02-25T11:00:00Z",
+      "duration": "00:35:58.0800000",
+      "explicit": false,
+      "spotifyId": "5PMsvdbYpKBtPRYWcWtzk6",
+      "appleId": 1000510602535,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5PMsvdbYpKBtPRYWcWtzk6",
+        "apple": "https://podcasts.apple.com/podcast/4-somewhere-cold/id1540849480?i=1000510602535"
+      }
+    },
+    {
+      "id": "15fc0529-b0d9-416b-b553-1ce627b110ea",
+      "title": "3 - He Saw It Coming",
+      "description": "A deadly shooting at Lori Vallow\u2019s home brings police to her door. And it wasn\u2019t the first time they\u2019d met.",
+      "release": "2021-02-23T11:00:00Z",
+      "duration": "00:37:06.3900000",
+      "explicit": false,
+      "spotifyId": "5H5FDWdpIcPjIhJucWuDUg",
+      "appleId": 1000510314452,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5H5FDWdpIcPjIhJucWuDUg",
+        "apple": "https://podcasts.apple.com/podcast/3-he-saw-it-coming/id1540849480?i=1000510314452"
+      }
+    },
+    {
+      "id": "5f9ecd69-ef97-43da-b993-eb09d8adcd75",
+      "title": "2 - The Start of Something Big",
+      "description": "Lori is drawn to an end-times author. They\u2019re both married to other people. That\u2019s about to change.",
+      "release": "2021-02-16T21:00:00Z",
+      "duration": "00:29:02.4710000",
+      "explicit": false,
+      "spotifyId": "30EVSR27CQpU40K8ShNkPU",
+      "appleId": 1000509444497,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/30EVSR27CQpU40K8ShNkPU",
+        "apple": "https://podcasts.apple.com/podcast/2-the-start-of-something-big/id1540849480?i=1000509444497"
+      }
+    },
+    {
+      "id": "a9bc2dac-8eb9-45e6-b422-2f3c2f6adf16",
+      "title": "1 - Ticking Time Bomb",
+      "description": "Lori Vallow was a wife, mother, and beauty pageant contestant. Then people around her started dying.",
+      "release": "2021-02-16T11:00:00Z",
+      "duration": "00:36:08.0320000",
+      "explicit": false,
+      "spotifyId": "2tkVCyjZQZ1hybymHs0jFr",
+      "appleId": 1000509243077,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2tkVCyjZQZ1hybymHs0jFr",
+        "apple": "https://podcasts.apple.com/podcast/1-ticking-time-bomb/id1540849480?i=1000509243077"
+      }
+    }
+  ]
+}

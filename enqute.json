@@ -2,6 +2,7 @@
   "_ts": 0,
   "id": "d3148493-ff13-478a-9016-b9c4b67f3b16",
   "name": "Enqu\u00EAte",
+  "youTubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig",
   "episodes": [
     {
       "id": "a06c52ad-4c6b-4117-a097-9fab1bdd7250",
@@ -10,10 +11,12 @@
       "release": "2023-11-30T00:00:00Z",
       "duration": "00:44:04",
       "explicit": false,
+      "youTubeId": "T_fxzCU6PIM",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "youtube": "https://www.youtube.com/watch?v=T_fxzCU6PIM",
         "internetArchive": "https://archive.org/details/les-remedes-de-la-scientologie"
       }
     }
