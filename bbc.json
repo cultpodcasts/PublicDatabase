@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCCj956IF62FbT7Gouszaj9w",
   "episodes": [
     {
+      "id": "c826d840-49e8-48de-9573-b0dcdd5d3b83",
+      "title": "Al Fayed: Predator at Harrods",
+      "description": "A BBC investigation into allegations of rape and attempted rape by Mohamed Al Fayed, the former owner of Harrods. Did the luxury store protect a billionaire predator? ",
+      "release": "2024-09-19T00:00:00",
+      "duration": "01:30:00",
+      "explicit": true,
+      "subjects": [
+        "Mohamed Al-Fayed"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m0023ff5/al-fayed-predator-at-harrods"
+      }
+    },
+    {
       "id": "987ebbb5-238c-4eed-8c01-6acbdd686e68",
       "title": "How An Online Book Group Turned Out To Be A Cult - BBC",
       "description": "It started with an online webinar discussion of a popular book. 2 and a half years later, Jeff had sold his house and handed out over \u00A3100,000. Just how did he end up here? In this eighteen-month investigation for the BBC, journalist Catrin Nye and her team expose control, intimidation and fear at a mysterious life coaching company taking over people\u2019s lives and ripping families apart. \n\n#Cult #BBCiPlayer #BBC \n\nSubscribe and \uD83D\uDD14 to the BBC \uD83D\uDC49 https://bit.ly/BBCYouTubeSub\nWatch the BBC first on iPlayer \uD83D\uDC49 https://bbc.in/iPlayer-Home\n\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
@@ -61,6 +75,20 @@
       ],
       "urls": {
         "bbc": "https://www.bbc.co.uk/iplayer/episode/p08vwr8y/catch-her-if-you-can"
+      }
+    },
+    {
+      "id": "eaad6e4a-a081-4c6d-990d-366d888fc367",
+      "title": "The Cult Next Door",
+      "description": "The extraordinary story of a strange cult, which came to light in 2013 when news broke about three women emerging from a small flat in south London after decades in captivity.",
+      "release": "2017-01-26T21:00:00",
+      "duration": "00:58:00",
+      "explicit": true,
+      "subjects": [
+        "Lambeth Slavery Case"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/b08c3vrx/the-cult-next-door"
       }
     },
     {

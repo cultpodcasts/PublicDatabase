@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "a3d6bf04-5122-431b-8627-d3f21b8b47b4",
+  "name": "BBC Bad People",
+  "spotifyId": "2adOK9JUNEw43zmP5Kile8",
+  "appleId": 1524768655,
+  "episodes": [
+    {
+      "id": "4b0db6c6-ecb9-4f6e-bf5a-22edcb9fd129",
+      "title": "42. Jonestown: How can you tell that you\u2019re in a cult?",
+      "description": "In the late 1970s, a charismatic cult leader, Jim Jones, promised his followers that they would create a utopian community based on Christian values and racial equality. In the jungle in Guyana, South America, Jones started the project and named it after himself: Jonestown. \n\nOn this episode of Bad People, Dr Julia Shaw and Sofie Hagen discuss why so many people joined and later stayed in Peoples Temple. Once isolated in the jungle, it became hard for the inhabitants to escape and Jim Jones\u0027 abuse escalated. The cult ended abruptly after a visit from a concerned US congressman.\n\nWarning: This episode includes descriptions of murder, suicide, graphic violence, drug abuse and possibly strong language.\n\nThis episode contains audio collected by The Jonestown Institute and from The Jonestown Massacre: Paradise Lost by Real Stories produced by Cineflix, Galaxie Production, Film Afrika and NextFilm.\n\nCREDITS\nPresenters: Dr Julia Shaw and Sofie Hagen\nProducer: Louisa Field\nAssistant Producer: Simona Rata\nMusic: Matt Chandler\nEditor: Rami Tzabar\nAcademic Consultants for The Open University: Dr Lara Frumkin and Dr James Munro\n#BadPeople_BBC\nCommissioning Executive: Dylan Haskins\nCommissioning Assistant Producer: Adam Eland\nBad People is produced in partnership with The Open University and is a BBC Audio Science Production for BBC Sounds.",
+      "release": "2021-10-14T04:00:00Z",
+      "duration": "00:36:58",
+      "explicit": true,
+      "spotifyId": "0n9mKBa2PQdEGJt1HBAlmu",
+      "appleId": 1000538534927,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0n9mKBa2PQdEGJt1HBAlmu",
+        "apple": "https://podcasts.apple.com/podcast/42-jonestown-how-can-you-tell-that-youre-in-a-cult/id1524768655?i=1000538534927",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p09yjx8f"
+      }
+    }
+  ]
+}

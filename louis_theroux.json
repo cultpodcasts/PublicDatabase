@@ -1,0 +1,71 @@
+{
+  "_ts": 0,
+  "id": "331068b0-4a7e-4413-9146-7a893229b8a3",
+  "name": "Louis Theroux",
+  "episodes": [
+    {
+      "id": "b852ca5f-ddc2-45ea-a296-3e5d54d0bba6",
+      "title": "Louis Theroux\u0027s Forbidden America - Series 1: 1. Extreme and Online",
+      "description": "Louis Theroux meets the latest incarnation of the American far right: a political movement born out of the internet and increasingly making its presence felt on the political stage.",
+      "release": "2022-02-13T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m0014khc/louis-therouxs-forbidden-america-series-1-1-extreme-and-online"
+      }
+    },
+    {
+      "id": "b0f0d650-fec8-4bd7-a1a3-b9b1c331981b",
+      "title": "Surviving America\u0027s Most Hated Family",
+      "description": "Louis Theroux returns to visit the controversial Westboro Baptist Church, investigating what effect the death of its founder has had on its members and those who have since left.",
+      "release": "2019-07-14T21:20:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m0006vv7/louis-theroux-surviving-americas-most-hated-family"
+      }
+    },
+    {
+      "id": "27d72b74-014f-4703-80fc-6b477477bb70",
+      "title": "America\u0027s Most Hated Family in Crisis",
+      "description": "Following up on his 2007 documentary, The Most Hated Family in America, Louis Theroux returns to Topeka, Kansas, for a week-long visit with the Westboro Baptist Church.",
+      "release": "2011-04-03T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/b0107zhy/louis-theroux-americas-most-hated-family-in-crisis"
+      }
+    },
+    {
+      "id": "90623e9a-3de1-49a1-bbeb-8581264f71ad",
+      "title": "Ultra Zionists",
+      "description": "Louis Theroux spends time with ultra-nationalist Jewish settlers, who consider it their religious and political obligation to populate some of the sensitive areas of the West Bank.",
+      "release": "2011-02-03T00:00:00",
+      "duration": "00:58:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/b00ybyxp/louis-theroux-ultra-zionists"
+      }
+    },
+    {
+      "id": "f71fe564-21f8-4f45-925a-84f5d4ae47b0",
+      "title": "The Most Hated Family in America",
+      "description": "Louis Theroux struggles to come to terms with the infamous Phelps family from Topeka, Kansas, who picket countrywide as a protest against an America that tolerates homosexuality.",
+      "release": "2007-04-01T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "subjects": [
+        "Westboro Baptist Church"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/b007clvf/louis-theroux-the-most-hated-family-in-america"
+      }
+    }
+  ]
+}

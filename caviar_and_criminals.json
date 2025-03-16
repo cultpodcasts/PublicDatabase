@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "c510b845-a874-4011-acea-f94126d70d6e",
+  "name": "Caviar and Criminals",
+  "spotifyId": "1kO8LUgNBVcGQmp1xh3p4f",
+  "appleId": 1792536064,
+  "episodes": [
+    {
+      "id": "dad56ac9-a4a8-4f8b-8680-1a2ea76faf78",
+      "title": "The Cult of Leggings: LuLaRoe",
+      "description": "Cult week continues as Anthony breaks down the insane MLM of LuLaRoe. From how the downline works to the ridiculous printed leggings, we discuss how this company preyed on stay at home moms to create a multi billion dollar business. Are you willing to go bankrupt for the promise of a leggings empire? We discuss it all.",
+      "release": "2025-03-12T05:00:00Z",
+      "duration": "01:07:55.8830000",
+      "explicit": true,
+      "spotifyId": "4MB492takcqP9Z5IrmJutI",
+      "appleId": 1000698836237,
+      "subjects": [
+        "LuLaRoe",
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4MB492takcqP9Z5IrmJutI",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-leggings-lularoe/id1792536064?i=1000698836237"
+      }
+    }
+  ]
+}

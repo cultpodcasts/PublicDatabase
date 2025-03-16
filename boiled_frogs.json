@@ -3,20 +3,23 @@
   "id": "28674e11-85f4-45ed-a4b7-7ac61d9d04cf",
   "name": "Boiled Frogs",
   "spotifyId": "3UWrUeu5GHx4XMxfGQeuyj",
+  "appleId": 1655270404,
   "episodes": [
     {
       "id": "6de2e907-022e-439e-91b1-b32eeb81a044",
       "title": "False Prophet",
       "description": "This podcast tells the story of the Bride of Christ cult that operated in the United States from the late 1970\u2019s to 2000.It began as a conservative Christian church in Las Vegas, Nevada. Ran by pastor Thomas Clyde Smith Jr. A man guilty of incest and rape, who, upon finding his faith while in a mental institution, began having visions that led him to believe he was a prophet being called by God to start \u201Cthe true church\u201D.What could go wrong\u2026",
-      "release": "2022-11-01T00:00:00",
+      "release": "2022-11-01T23:00:00Z",
       "duration": "03:47:16.1270000",
       "explicit": true,
       "spotifyId": "5IAVmioPv1iJxa4O3QeFxI",
+      "appleId": 1000586660239,
       "subjects": [
         "Bride Of Christ Church"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5IAVmioPv1iJxa4O3QeFxI"
+        "spotify": "https://open.spotify.com/episode/5IAVmioPv1iJxa4O3QeFxI",
+        "apple": "https://podcasts.apple.com/podcast/false-prophet/id1655270404?i=1000586660239"
       }
     }
   ]

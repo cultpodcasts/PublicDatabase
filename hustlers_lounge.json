@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "89ed571b-addd-4ec2-8669-0ecadbc36ab4",
+  "name": "Hustlers Lounge",
+  "spotifyId": "6Bf62FhEe6IJb5p6QcZ1T7",
+  "appleId": 1358149733,
+  "episodes": [
+    {
+      "id": "3debd1f4-167b-49c6-8070-838b84f5d548",
+      "title": "The Dark Side of Power: Eligio Bishop and The Carbon Nation Cult",
+      "description": "In this chilling episode of The Dark Side of Power, we explore the rise and fall of Eligio Bishop, a man once admired by thousands as a spiritual guru, but whose legacy is now defined by manipulation, control, and abuse. Known to his followers as \u0022Natureboy,\u0022 Bishop led the controversial Carbon Nation cult, promising freedom and enlightenment while secretly exploiting and controlling his members. Through interviews with former followers and experts, we trace Bishop\u2019s journey from a social media sensation to the leader of a dangerous cult. We delve into the allegations of abuse, including rape, false imprisonment, and revenge porn, that led to his arrest and life sentence. And we reveal the violent prison altercation that left him hospitalized in 2024, further cementing his notoriety. Join us as we uncover the dark truth behind the man who once claimed to heal the world\u2014but instead left a wake of destruction. This is a story of power, manipulation, and the devastating impact of unchecked influence. If you or someone you know is in a harmful situation, please seek help. Support resources are available. The Dark Side of Power\u2014where the truth is often darker than we imagine.",
+      "release": "2025-03-12T19:10:06Z",
+      "duration": "00:27:44.5710000",
+      "explicit": true,
+      "spotifyId": "1XCtUpUTSGLh2FMtTY0PzT",
+      "appleId": 1000698932796,
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1XCtUpUTSGLh2FMtTY0PzT",
+        "apple": "https://podcasts.apple.com/podcast/the-dark-side-of-power-eligio-bishop-and/id1358149733?i=1000698932796"
+      }
+    }
+  ]
+}

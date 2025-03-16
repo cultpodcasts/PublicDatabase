@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "077a8a2a-9830-4643-8256-cd6f715c0765",
+  "name": "BBC A Point of View",
+  "spotifyId": "4S4WLovQZficuwYjUE0bQ6",
+  "appleId": 292076787,
+  "episodes": [
+    {
+      "id": "8225d309-d38b-476d-89bd-e7b254abed89",
+      "title": "Suffer the Children",
+      "description": "In the aftermath of the recent report on religious groups in the UK carried out by the Independent Inquiry into Child Sexual Abuse, Rebecca Stott ponders the tension between defending the right to religious freedom and defending the rights of the child.  \n\u0022Maybe it is time,\u0022 she writes, \u0022to admit that closed, highly-controlling environments , that refuse or escape scrutiny in the name of religious toleration... might not be safe places to entrust the hearts, minds and bodies of children.\u0022 \n\nProducer: Adele Armstrong",
+      "release": "2021-09-24T20:00:00Z",
+      "duration": "00:09:00",
+      "explicit": false,
+      "spotifyId": "2ANkyxtHOvLmrosTpSTxYt",
+      "appleId": 1000536538771,
+      "subjects": [
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2ANkyxtHOvLmrosTpSTxYt",
+        "apple": "https://podcasts.apple.com/podcast/suffer-the-children/id292076787?i=1000536538771",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m000zv9m"
+      }
+    }
+  ]
+}

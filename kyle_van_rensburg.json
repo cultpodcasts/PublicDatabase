@@ -1,0 +1,37 @@
+{
+  "_ts": 0,
+  "id": "f5fb959c-963e-4ed9-868f-c5b37b77bee5",
+  "name": "Kyle van Rensburg",
+  "youTubeChannelId": "UCkJXcMp76HviboHUfQD93DA",
+  "episodes": [
+    {
+      "id": "4f77cb9e-9d18-4371-a3fc-1c6b7416511e",
+      "title": "How to Escape a Cult",
+      "release": "2025-03-16T16:00:31Z",
+      "duration": "00:10:29",
+      "explicit": false,
+      "youTubeId": "ILW4wSi9yeQ",
+      "subjects": [
+        "Cult Recovery",
+        "Authority In Christ Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ILW4wSi9yeQ"
+      }
+    },
+    {
+      "id": "d18119af-d09d-4dd9-be92-e36810753c66",
+      "title": "The Cult I Grew Up In",
+      "release": "2025-03-09T14:53:44Z",
+      "duration": "00:09:36",
+      "explicit": false,
+      "youTubeId": "dWJRH8Nhu8Y",
+      "subjects": [
+        "Authority In Christ Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dWJRH8Nhu8Y"
+      }
+    }
+  ]
+}

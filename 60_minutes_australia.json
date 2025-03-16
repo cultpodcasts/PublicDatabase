@@ -2,8 +2,44 @@
   "_ts": 0,
   "id": "e124cdbd-145e-4e55-ace8-76cce6390242",
   "name": "60 Minutes Australia",
+  "spotifyId": "2uNAzllKU2MBINvyQBH9ak",
+  "appleId": 1749455939,
   "youTubeChannelId": "UC0L1suV8pVgO4pCAIBNGx5w",
   "episodes": [
+    {
+      "id": "fa3cc4d7-d259-4624-a3fa-be5fd948200d",
+      "title": "Former Harrods owner accused of sexual assault by hundreds of women | 60 Minutes Australia",
+      "description": "Billionaire Mohamed Al Fayed, the former owner of London\u0027s luxury department store Harrods, is now accused of being a serial sexual predator.\n\n*Horror at Harrods (2025)*\n\u25BA Subscribe: http://9Soci.al/chmP50wA97J \n\u25BA WATCH Full Episodes on 9NOW: https://9now.app.link/uNP4qBkmN6 \n\n*MORE VIDEOS like this one*\n\u25BA https://youtu.be/nUnmeU4rmfY\n\u25BA https://youtu.be/Zeylckd2t0Y\n\u25BA https://youtu.be/jORH_jMzc2k\n\nFOLLOW 60 Minutes Australia\n\u25BA Instagram: https://www.instagram.com/60minutes9 \n\u25BA TikTok: https://www.tiktok.com/@60minutes9\n\u25BA Facebook: https://www.facebook.com/60Minutes9 \n\nABOUT 60 Minutes Australia\n60 Minutes Australia have been telling the world\u2019s greatest stories for over 40 years. Reporters Tara Brown, Amelia Adams, Adam Hegarty, Dimity Clancey and Nick McKenzie look past the headlines to show the bigger picture. Watch the latest from 60 Minutes Australia every Sunday on Channel 9 and 9Now.\n\n#60Mins",
+      "release": "2025-03-09T09:52:13Z",
+      "duration": "00:51:02",
+      "explicit": false,
+      "youTubeId": "dS6QXqZ9mDQ",
+      "subjects": [
+        "Mohamed Al-Fayed"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dS6QXqZ9mDQ"
+      }
+    },
+    {
+      "id": "7ba843ae-682b-4a89-801a-abaf3188d0c6",
+      "title": "Mohamed Al-Fayed: The monster behind the iconic British institution | Extra Minutes",
+      "description": "Tara Brown and Anne Worthington discuss the harrowing story of women targeted and attacked by notorious business figure Mohamed Al-Fayed.\n\n*Horror at Harrods (2025)*\n\u25BA Watch the full story: xx\n\u25BA Subscribe: http://9Soci.al/chmP50wA97J \n\u25BA WATCH Full Episodes on 9NOW: https://9now.app.link/uNP4qBkmN6 \n\nFOLLOW 60 Minutes Australia\n\u25BA Instagram: https://www.instagram.com/60minutes9 \n\u25BA TikTok: https://www.tiktok.com/@60minutes9\n\u25BA Facebook: https://www.facebook.com/60Minutes9 \n\nABOUT 60 Minutes Australia\n60 Minutes Australia have been telling the world\u2019s greatest stories for over 40 years. Reporters Tara Brown, Amelia Adams, Adam Hegarty, Dimity Clancey and Nick McKenzie look past the headlines to show the bigger picture. Watch the latest from 60 Minutes Australia every Sunday on Channel 9 and 9Now.\n\n#60Mins",
+      "release": "2025-03-09T09:45:03Z",
+      "duration": "00:14:21",
+      "explicit": false,
+      "spotifyId": "51C1qfMTJTOvUgFT2jqqBM",
+      "appleId": 1000698516249,
+      "youTubeId": "fGH138HRONw",
+      "subjects": [
+        "Mohamed Al-Fayed"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/51C1qfMTJTOvUgFT2jqqBM",
+        "apple": "https://podcasts.apple.com/podcast/mohamed-al-fayed-the-monster-behind-the-iconic/id1749455939?i=1000698516249",
+        "youtube": "https://www.youtube.com/watch?v=fGH138HRONw"
+      }
+    },
     {
       "id": "e3a3a8b1-611e-41e6-96e0-750ef2ecbd77",
       "title": "SNEAK PEEK: Horror at Harrods | 60 Minutes Australia",
@@ -26,11 +62,15 @@
       "release": "2025-02-17T10:45:04Z",
       "duration": "00:46:51",
       "explicit": false,
+      "spotifyId": "00co8STM81cYtHluNZQo0N",
+      "appleId": 1000693182014,
       "youTubeId": "fahOX8VBXCc",
       "subjects": [
         "Belle Gibson"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/00co8STM81cYtHluNZQo0N",
+        "apple": "https://podcasts.apple.com/podcast/the-real-belle-gibson-and-the-journalists-who/id1749455939?i=1000693182014",
         "youtube": "https://www.youtube.com/watch?v=fahOX8VBXCc"
       }
     },

@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "ddb099b0-e493-475f-bb6d-4f5ae27b2794",
+      "title": "Let\u0027s Talk About the Dateline Episode",
+      "description": "We needed to delay a day until Sunday the 9th at 4:30 - please join us then!",
+      "release": "2025-03-10T02:35:10Z",
+      "duration": "01:17:18",
+      "explicit": false,
+      "spotifyId": "2v2HJQmzFnGnnFixNIIiKB",
+      "appleId": 1000698525944,
+      "youTubeId": "pnEMaoN49Xc",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2v2HJQmzFnGnnFixNIIiKB",
+        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-the-dateline-episode/id1694606661?i=1000698525944",
+        "youtube": "https://www.youtube.com/watch?v=pnEMaoN49Xc"
+      }
+    },
+    {
       "id": "57ee3c20-2895-410e-94a4-dead2ff59cea",
       "title": "Silver Linings Podcast - YOUTUBE LIVE-072 - 3-1-25 - Counting Down - It\u0027s About Charles, not Lori!",
       "description": "Silver Linings Podcast - YOUTUBE LIVE-072 - 3-1-25 - Counting Down - It\u0027s About Charles, not Lori!",

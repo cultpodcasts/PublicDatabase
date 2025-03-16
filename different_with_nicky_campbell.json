@@ -19,7 +19,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6BfCnWtyh7Zx5k1jDqtrfB",
-        "apple": "https://podcasts.apple.com/podcast/born-into-a-cult/id1628519589?i=1000637624627"
+        "apple": "https://podcasts.apple.com/podcast/born-into-a-cult/id1628519589?i=1000637624627",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0gxqdyh"
       }
     },
     {
@@ -36,7 +37,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Yjok8OB8C4XwwSzaOlKJm",
-        "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372"
+        "apple": "https://podcasts.apple.com/podcast/total-control/id1628519589?i=1000566446372",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0cdtfnt"
       }
     }
   ]

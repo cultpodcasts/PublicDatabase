@@ -5,6 +5,398 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "e181c3bb-928c-4856-adb3-5fcef0da7a5f",
+      "title": "Why are civil lawsuits against abusive religious groups just so important?",
+      "release": "2025-03-16T08:31:38Z",
+      "duration": "00:01:47",
+      "explicit": false,
+      "youTubeId": "WWoGBo8i24I",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WWoGBo8i24I"
+      }
+    },
+    {
+      "id": "7af8e6ab-a977-4293-8a0f-bd6c7323e52a",
+      "title": "How To... Sue the Church of Scientology and Win? The Extraordinary Case of Lawrence Wollersheim",
+      "release": "2025-03-16T08:29:47Z",
+      "duration": "00:05:23",
+      "explicit": false,
+      "youTubeId": "QMkFqoEFes4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QMkFqoEFes4"
+      }
+    },
+    {
+      "id": "2ec10c25-e1db-443d-8a8d-6b85fb1fa7de",
+      "title": "What does a \u0026quot;Scientology Expert Witness\u0026quot; do? Claire Headley explains",
+      "release": "2025-03-15T22:05:02Z",
+      "duration": "00:02:17",
+      "explicit": false,
+      "youTubeId": "349H0ULreE8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=349H0ULreE8"
+      }
+    },
+    {
+      "id": "9fb4b7cf-7d7b-43b5-8ab3-ecc6b0d43b74",
+      "title": "What can litigating Scientology achieve? Ex-Scientologists Marc and Claire Headley share",
+      "release": "2025-03-15T21:47:16Z",
+      "duration": "00:02:39",
+      "explicit": false,
+      "youTubeId": "rsnN-whBLJ8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=rsnN-whBLJ8"
+      }
+    },
+    {
+      "id": "85adbcdc-4733-45bc-b99a-3355aa789573",
+      "title": "What do American judges need to use on Scientology? Just a bit of common sense!",
+      "release": "2025-03-15T21:41:06Z",
+      "duration": "00:03:28",
+      "explicit": false,
+      "youTubeId": "nz5mORGpKwE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nz5mORGpKwE"
+      }
+    },
+    {
+      "id": "2cf2194a-381b-4256-875d-96db6ecc339f",
+      "title": "Going Up Against Scientology: Valerie Haney\u0026#39;s Story",
+      "release": "2025-03-15T09:47:34Z",
+      "duration": "00:10:00",
+      "explicit": false,
+      "youTubeId": "STzEiyeKpBU",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=STzEiyeKpBU"
+      }
+    },
+    {
+      "id": "b2599114-cbcb-4bac-83db-99996ab7bb42",
+      "title": "Escaping Scientology (in the Trunk of a Car): Valerie Haney\u0026#39;s Story",
+      "release": "2025-03-15T09:44:27Z",
+      "duration": "00:05:21",
+      "explicit": false,
+      "youTubeId": "wmes21gSTUg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=wmes21gSTUg"
+      }
+    },
+    {
+      "id": "0c5f2e5d-83fc-406e-83e9-aa36269c8a02",
+      "title": "Waking Up from Scientology: Valerie Haney\u0026#39;s Story",
+      "release": "2025-03-15T09:42:39Z",
+      "duration": "00:06:03",
+      "explicit": false,
+      "youTubeId": "PgHC-PedepA",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PgHC-PedepA"
+      }
+    },
+    {
+      "id": "79c97e7d-fac2-4aba-8eea-83bb132950bc",
+      "title": "Waking Up from Scientology: Ramina Nunnelee\u0027s Story",
+      "release": "2025-03-14T19:24:52Z",
+      "duration": "00:05:24",
+      "explicit": false,
+      "youTubeId": "XRkSJY7FYmY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XRkSJY7FYmY"
+      }
+    },
+    {
+      "id": "c5ff6caf-b755-459e-873c-16c9884e4a0e",
+      "title": "Waking Up and Escaping from Scientology: Ron Miscavige\u0026#39;s Story",
+      "release": "2025-03-14T19:15:52Z",
+      "duration": "00:03:38",
+      "explicit": false,
+      "youTubeId": "U8f3tfb1fWE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=U8f3tfb1fWE"
+      }
+    },
+    {
+      "id": "31fa0b5e-83a6-4d77-8932-d4a125e765b9",
+      "title": "Waking up from Scientology: Tom de Vocht\u0026#39;s Story",
+      "release": "2025-03-14T17:33:30Z",
+      "duration": "00:05:15",
+      "explicit": false,
+      "youTubeId": "ZF4_PJyjE_I",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZF4_PJyjE_I"
+      }
+    },
+    {
+      "id": "a3232247-cf8d-4293-b5ba-56c4fd8b7804",
+      "title": "Waking up from Scientology: Marc Headley\u0026#39;s Story",
+      "release": "2025-03-14T11:33:47Z",
+      "duration": "00:05:21",
+      "explicit": false,
+      "youTubeId": "EyXiBIJPZuY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=EyXiBIJPZuY"
+      }
+    },
+    {
+      "id": "30ab6b47-9b13-48cf-b757-4f647950174f",
+      "title": "Waking up from Scientology: Amy Skobee\u0026#39;s Story",
+      "release": "2025-03-14T09:41:54Z",
+      "duration": "00:02:02",
+      "explicit": false,
+      "youTubeId": "8cdQ_TsEDTo",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8cdQ_TsEDTo"
+      }
+    },
+    {
+      "id": "2a409e4b-bc09-4c61-96bb-698a5c75b119",
+      "title": "Waking up from Scientology: Jeff Hawkins\u0026#39; Story",
+      "release": "2025-03-14T09:39:59Z",
+      "duration": "00:03:20",
+      "explicit": false,
+      "youTubeId": "o2JRv4_tc7o",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=o2JRv4_tc7o"
+      }
+    },
+    {
+      "id": "92bd4156-6014-4c66-b84c-f8d5d61c1892",
+      "title": "Waking Up from Scientology: Hana Eltringham Whitfield\u0026#39;s Story",
+      "release": "2025-03-13T15:19:43Z",
+      "duration": "00:03:58",
+      "explicit": false,
+      "youTubeId": "cM62fXNRlKg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=cM62fXNRlKg"
+      }
+    },
+    {
+      "id": "9dda93e6-72fd-4ef4-925b-186e561a74c2",
+      "title": "Waking up from Scientology: Gary \u0026quot;Jackson\u0026quot; Morehead\u0026#39;s Story",
+      "release": "2025-03-12T21:27:42Z",
+      "duration": "00:05:47",
+      "explicit": false,
+      "youTubeId": "ZSd8pnruhCw",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZSd8pnruhCw"
+      }
+    },
+    {
+      "id": "9724ac7f-0ec1-4a40-b0aa-408734a4017a",
+      "title": "Waking up from Scientology: John Brousseau\u0026#39;s Story",
+      "release": "2025-03-12T21:26:24Z",
+      "duration": "00:04:10",
+      "explicit": false,
+      "youTubeId": "emIdabqRM_g",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=emIdabqRM_g"
+      }
+    },
+    {
+      "id": "40f8e63f-7bf0-48fa-ba4e-3f3a2440eca0",
+      "title": "Waking up from Scientology: Carol\u0026#39;s Story",
+      "release": "2025-03-12T21:21:58Z",
+      "duration": "00:01:49",
+      "explicit": false,
+      "youTubeId": "SSVLIFZfeHM",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=SSVLIFZfeHM"
+      }
+    },
+    {
+      "id": "e5ccf1c1-12d6-44cd-b7e5-5ccd515ead1d",
+      "title": "Does John Travolta know the truth about Scientology? Insiders tell all!",
+      "release": "2025-03-12T09:56:35Z",
+      "duration": "00:02:37",
+      "explicit": false,
+      "youTubeId": "TKaNhuktVsg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TKaNhuktVsg"
+      }
+    },
+    {
+      "id": "cdfffbb7-5630-4c4f-859e-a1c09627e80c",
+      "title": "Waking Up from Scientology: Larry Anderson\u0026#39;s Story",
+      "release": "2025-03-11T22:26:13Z",
+      "duration": "00:00:55",
+      "explicit": false,
+      "youTubeId": "9AhVtWF44IE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9AhVtWF44IE"
+      }
+    },
+    {
+      "id": "dd488a07-a214-49fd-bafd-76b1d73c3658",
+      "title": "What\u0026#39;s the problem with being \u0026#39;reasonable\u0026#39; in Scientology?",
+      "release": "2025-03-11T18:52:18Z",
+      "duration": "00:01:20",
+      "explicit": false,
+      "youTubeId": "3hRZ3-VS6S4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3hRZ3-VS6S4"
+      }
+    },
+    {
+      "id": "1f7d7f31-82ed-4151-83e9-4092d384fabb",
+      "title": "The Wackiest Double-Bind in Scientology: \u0026quot;you can leave, you can also kill yourself\u0026quot;",
+      "release": "2025-03-11T18:50:20Z",
+      "duration": "00:01:06",
+      "explicit": false,
+      "youTubeId": "A_c4wVMvx0Y",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=A_c4wVMvx0Y"
+      }
+    },
+    {
+      "id": "90fdbf7a-45a8-4a2e-a110-d398a564b8a3",
+      "title": "Waking up from Scientology: how does a Scientologist do it?",
+      "release": "2025-03-11T18:45:52Z",
+      "duration": "00:02:01",
+      "explicit": false,
+      "youTubeId": "FCgJtuDF1Lg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=FCgJtuDF1Lg"
+      }
+    },
+    {
+      "id": "3ddfbcbe-b0f1-4a7e-8c08-962af424004f",
+      "title": "Escaping Scientology: how do Scientologists do it?",
+      "release": "2025-03-11T09:46:57Z",
+      "duration": "00:08:10",
+      "explicit": false,
+      "youTubeId": "HTeYFBF5sLA",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=HTeYFBF5sLA"
+      }
+    },
+    {
+      "id": "091d289f-a11b-4c34-9a33-0b67512e9125",
+      "title": "The Internet is killing Scientology!",
+      "release": "2025-03-11T09:42:13Z",
+      "duration": "00:01:30",
+      "explicit": false,
+      "youTubeId": "HakpPRGkxBk",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=HakpPRGkxBk"
+      }
+    },
+    {
+      "id": "e452c929-9c60-4210-b5e9-59d20266e867",
+      "title": "How To... Investigate Scientology? Reckless Ben Schneider and Mike advise",
+      "release": "2025-03-08T12:07:31Z",
+      "duration": "00:01:57",
+      "explicit": false,
+      "youTubeId": "5MeGYvEKwj4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5MeGYvEKwj4"
+      }
+    },
+    {
+      "id": "17ed0851-29fa-4e3b-bf4b-88c1fa154a6e",
+      "title": "What happened when a Scientologist found out her neighbor was anti-Scientology activist Mark Bunker?",
+      "release": "2025-03-08T12:03:19Z",
+      "duration": "00:00:53",
+      "explicit": false,
+      "youTubeId": "fr0n1a0G1p4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fr0n1a0G1p4"
+      }
+    },
+    {
+      "id": "441bf416-b238-496b-a464-0e8da970bf36",
+      "title": "The Extreme Anti-Piracy Measures used by Scientology",
+      "release": "2025-03-08T12:00:12Z",
+      "duration": "00:03:28",
+      "explicit": false,
+      "youTubeId": "GL_tZgZxSv4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GL_tZgZxSv4"
+      }
+    },
+    {
       "id": "6b70dca8-a5ef-4638-ab6b-6ce7f8205c8b",
       "title": "The Best/Worst of Scientology Spokesman Tommy Davis",
       "release": "2025-03-08T11:57:04Z",

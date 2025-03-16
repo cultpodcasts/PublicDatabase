@@ -22,6 +22,24 @@
         "apple": "https://podcasts.apple.com/podcast/sarin-gas-attack-on-the-tokyo-subway/id339986758?i=1000680817646",
         "bbc": "https://www.bbc.co.uk/sounds/play/w3ct5ynk"
       }
+    },
+    {
+      "id": "f5b56e7d-7a06-4e9d-94b7-c07ce102358c",
+      "title": "Escaping a Maoist cult",
+      "description": "In 2013, three women escaped from a cult that had been based in an ordinary house in Brixton, South London, since the 1970s. The cult was led by Aravindan Balakrishnan, a former student at the London School of Economics, who claimed to be a Maoist revolutionary, but actually brainwashed his followers and kept them prisoner in cruel and violent conditions. The Metropolitan Police said it was the worst case of its kind they had ever seen. Reena Stanton-Sharma talks to Katy Morgan-Davies, one of the women who escaped the cult.\n\nPHOTO: Aravindan Balakrishnan in 2015 (Getty Images)",
+      "release": "2022-04-01T09:00:00Z",
+      "duration": "00:09:00",
+      "explicit": false,
+      "spotifyId": "5uJt9c8x8i8oBeR3FQCelz",
+      "appleId": 1000555928483,
+      "subjects": [
+        "Lambeth Slavery Case"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5uJt9c8x8i8oBeR3FQCelz",
+        "apple": "https://podcasts.apple.com/podcast/escaping-a-maoist-cult/id339986758?i=1000555928483",
+        "bbc": "https://www.bbc.co.uk/sounds/play/w3ct3bw6"
+      }
     }
   ]
 }

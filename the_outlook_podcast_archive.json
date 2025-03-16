@@ -19,7 +19,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5NW6BeGohYdWR7SM53pUVO",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-the-crocodile-and-my-journey-back-to-love/id1618960891?i=1000557373229"
+        "apple": "https://podcasts.apple.com/podcast/the-cult-the-crocodile-and-my-journey-back-to-love/id1618960891?i=1000557373229",
+        "bbc": "https://www.bbc.co.uk/sounds/play/w3ct1jv2"
       }
     },
     {
@@ -36,7 +37,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3gZHAfkaeFlIKD9FzPjbtk",
-        "apple": "https://podcasts.apple.com/podcast/the-perilous-world-of-a-cult-deprogrammer/id1618960891?i=1000557369404"
+        "apple": "https://podcasts.apple.com/podcast/the-perilous-world-of-a-cult-deprogrammer/id1618960891?i=1000557369404",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p09k7djp"
       }
     },
     {
@@ -53,7 +55,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4azpRwwe7nc6ndgi2xlU1I",
-        "apple": "https://podcasts.apple.com/podcast/fighting-to-free-my-daughter-from-the-nxivm-sex-cult/id1618960891?i=1000557369574"
+        "apple": "https://podcasts.apple.com/podcast/fighting-to-free-my-daughter-from-the-nxivm-sex-cult/id1618960891?i=1000557369574",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p09jyxgs"
       }
     },
     {
@@ -70,7 +73,26 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BfSSErW1iBe2FGbdSSJ1E",
-        "apple": "https://podcasts.apple.com/podcast/the-music-star-who-was-born-into-a-cult/id1618960891?i=1000557369608"
+        "apple": "https://podcasts.apple.com/podcast/the-music-star-who-was-born-into-a-cult/id1618960891?i=1000557369608",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p09h4r47"
+      }
+    },
+    {
+      "id": "6e5d2f9d-4f9c-4e5a-9d11-32fb6e19b878",
+      "title": "The supermodel who escaped a cult",
+      "description": "Hoyt Richards has been called the first male supermodel. In the 1980s and 90s he jet-setted around the world doing shoots for Versace and Ralph Lauren, and moving in the same circles as stars like Cindy Crawford, Christy Turlington and Madonna. But outside of working hours he was involved with a cult called Eternal Values. They believed there would be a catastrophe at the turn of the century and the group would have a crucial role to play. This episode was first released on 29th March 2018. Presenter: Jo Fidgen. Producer: Catrin Manel. Picture: Hoyt Richards. Credit: Fabrizio Gianni.",
+      "release": "2020-08-10T11:00:00Z",
+      "duration": "00:40:08.9900000",
+      "explicit": false,
+      "spotifyId": "2EqSJK0hh2VFVTJzZEnyXL",
+      "appleId": 1000557338761,
+      "subjects": [
+        "Eternal Values"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2EqSJK0hh2VFVTJzZEnyXL",
+        "apple": "https://podcasts.apple.com/podcast/the-supermodel-who-escaped-a-cult/id1618960891?i=1000557338761",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p08myhf8"
       }
     },
     {
@@ -88,7 +110,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7oKVXUSLQL0fHsgNkLzy0c",
-        "apple": "https://podcasts.apple.com/podcast/the-supermodel-who-took-down-a-cult/id1618960891?i=1000651884984"
+        "apple": "https://podcasts.apple.com/podcast/the-supermodel-who-took-down-a-cult/id1618960891?i=1000651884984",
+        "bbc": "https://www.bbc.co.uk/sounds/play/w3cswkxz"
       }
     }
   ]

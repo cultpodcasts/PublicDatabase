@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "ae62c092-a4a9-4901-ab91-dd31c1846c76",
+  "name": "The Radicalist",
+  "spotifyId": "66pxhbfJyOF1bIxX4Ox3wH",
+  "appleId": 1717194023,
+  "episodes": [
+    {
+      "id": "6fd8833f-d519-42c6-b55a-e212cdabcef4",
+      "title": "I Survived a Crazy Christian Cult",
+      "description": "David Volodzko speaks with Allin Kimbrough, who grew up in the Quiverfull movement and its famous branch the Duggar family cult, a group of independent Baptist fundamentalists whose lifestyle was celebrated on The Learning Channel show 19 Kids and Counting and who later became the topic of the grim 2023 Amazon documentary Shiny Happy People, involving the story of how their eldest son molested his own sisters as well as his child pornography conviction. David and Allin also discuss the cult\u2019s ties to Mike Huckabee, Rick Santorum, Ted Cruz, Mike Pence, and Russia, as well as the day-to-day routine of growing up in a crazy Christian cult. For more, see David\u2019s interview with cult expert Steven Hasan .",
+      "release": "2025-03-12T17:31:03Z",
+      "duration": "01:35:07.3060000",
+      "explicit": false,
+      "spotifyId": "22QAlIyZ6HEtxvDLhctkwo",
+      "appleId": 1000698921054,
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "Quiverfull",
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/22QAlIyZ6HEtxvDLhctkwo",
+        "apple": "https://podcasts.apple.com/podcast/i-survived-a-crazy-christian-cult/id1717194023?i=1000698921054"
+      }
+    }
+  ]
+}

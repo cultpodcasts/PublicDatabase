@@ -6,6 +6,23 @@
   "appleId": 1758628735,
   "episodes": [
     {
+      "id": "97e168d9-36f7-440f-8b39-85d7d0c5525d",
+      "title": "Ep. 30 - Am I the asshole?",
+      "description": "TW: Mentions of verbal abuse, sexual assault, and homophobia\nJoin us as we read AITA stories from Redditt...Mormon style!\u00A0\nLet us know if you\u0027d like more AITA episodes! Maybe we\u0027ll make it a series!",
+      "release": "2025-03-16T14:00:00Z",
+      "duration": "00:44:33",
+      "explicit": false,
+      "spotifyId": "28cd4wYMoaA91WDgVhmrrd",
+      "appleId": 1000699375753,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/28cd4wYMoaA91WDgVhmrrd",
+        "apple": "https://podcasts.apple.com/podcast/ep-30-am-i-the-asshole/id1758628735?i=1000699375753"
+      }
+    },
+    {
       "id": "2dd952e6-cc36-4691-b31e-dae26580b063",
       "title": "Ep. 29 - Joseph Smith\u0027s First Vision",
       "description": "In this episode we discuss the origin story of the church along with the incongruencies in Joseph\u0027s writings about the \u0022First Vision.\u0022\u00A0\nSOURCES:\u00A0churchofjesuschrist.orgcesletter.org",
