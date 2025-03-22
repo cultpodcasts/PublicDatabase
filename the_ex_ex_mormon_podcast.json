@@ -1,0 +1,553 @@
+{
+  "_ts": 0,
+  "id": "59eaf735-4085-4aec-a894-8707f8b79708",
+  "name": "The Ex Ex Mormon Podcast",
+  "spotifyId": "3ix05YARJykanBwpOSNIrz",
+  "appleId": 1555494727,
+  "episodes": [
+    {
+      "id": "28787b00-0f43-4c11-822b-f20763eff1da",
+      "title": "Mormon Traditions (Not for the Faint of Heart)",
+      "description": "The Brother of Jared and Heavenly Mother chat about some unhinged traditions in the church. These are not doctrinal, or even specific to church culture topics. From pageants, Temple open houses, and stake musicals, we get into it.",
+      "release": "2025-02-16T11:00:00Z",
+      "duration": "01:00:13.4460000",
+      "explicit": true,
+      "spotifyId": "0BIeWUdndMtOXbuAPPiTpC",
+      "appleId": 1000692834954,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0BIeWUdndMtOXbuAPPiTpC",
+        "apple": "https://podcasts.apple.com/podcast/mormon-traditions-not-for-the-faint-of-heart/id1555494727?i=1000692834954"
+      }
+    },
+    {
+      "id": "3295a22f-8261-449b-9cab-6fda15c917d5",
+      "title": "\u0022Keep the Crazy Inside\u0022",
+      "description": "Author of the book \u0022Nonconsensual Morality: A Silenced Woman\u0027s Voice from the Dark\u0022 Samantha Sorensen is interviewed by Heavenly Mother. Sorensen\u0027s book is available on Amazon, Ebooks, and Barnes and Noble.",
+      "release": "2025-01-18T11:00:00Z",
+      "duration": "01:21:57.7330000",
+      "explicit": true,
+      "spotifyId": "1DhzvOynnGVW3fDo2mL8Lx",
+      "appleId": 1000684534288,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1DhzvOynnGVW3fDo2mL8Lx",
+        "apple": "https://podcasts.apple.com/podcast/keep-the-crazy-inside/id1555494727?i=1000684534288"
+      }
+    },
+    {
+      "id": "ce812286-2f6e-49eb-84fc-495ff1cb014c",
+      "title": "We Still Love Star Wars",
+      "description": "Heavenly Mother and The Harlot Isabel discuss the politics of Star Wars and how our love of Star Wars remains, even after leaving the church. Disclaimer: Heavenly Mother is highly opinionated and if that\u0027s stressful we understand you can sit in the foyer and come back on another episode. We are happy to have you here! \u2018Star Wars\u2019 Is Still Intact: Re-Finding Yourself in the Age of Trump by Alysha V. Scarlett",
+      "release": "2024-11-03T11:00:00Z",
+      "duration": "02:05:33.7560000",
+      "explicit": true,
+      "spotifyId": "1QvJ8RmHFINPGVqHb9AxQb",
+      "appleId": 1000675533534,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QvJ8RmHFINPGVqHb9AxQb",
+        "apple": "https://podcasts.apple.com/podcast/we-still-love-star-wars/id1555494727?i=1000675533534"
+      }
+    },
+    {
+      "id": "43e87dcf-1273-40a5-baab-9b848df520d4",
+      "title": "Utah Politics and the Church",
+      "description": "The Harlot Isabel informs Heavenly Mother on the ways Utah politics were directly impacted by The Church during her career in Utah. The full title of her book is \u0022 \u0027Star Wars Is Still Intact\u0027 Re-Finding Yourself in the Age of Trump\u0022 by Alysha V. Scarlett.",
+      "release": "2024-10-26T11:00:00Z",
+      "duration": "00:37:35.8680000",
+      "explicit": true,
+      "spotifyId": "2fNt9j7IGq2pURWSyjO51j",
+      "appleId": 1000674572263,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2fNt9j7IGq2pURWSyjO51j",
+        "apple": "https://podcasts.apple.com/podcast/utah-politics-and-the-church/id1555494727?i=1000674572263"
+      }
+    },
+    {
+      "id": "6cbe83b4-6b19-404e-82cc-ca86db46bf63",
+      "title": "Replacing Bishops",
+      "description": "Heavenly Mother and The Harlot Isabel discuss how sometimes trusting counselors or authority figures too easily can be a side effect of leaving Mormonism. The Harlot Isabel, real name Alysha, is a published author, her book \u0027Star Wars\u0027 Is Still Intact: Re-Finding Yourself in the Age of Trump is available online or at various book stores nationwide.",
+      "release": "2024-10-01T11:00:00Z",
+      "duration": "00:38:09.2030000",
+      "explicit": true,
+      "spotifyId": "6N5jOZg7rTMQFmvXcSZsxQ",
+      "appleId": 1000671485383,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6N5jOZg7rTMQFmvXcSZsxQ",
+        "apple": "https://podcasts.apple.com/podcast/replacing-bishops/id1555494727?i=1000671485383"
+      }
+    },
+    {
+      "id": "c9bc01d3-17e5-40fa-a135-ce2d96408bb4",
+      "title": "Interview with The Harlot Isabel",
+      "description": "Heavenly Mother is joined by The Harlot Isabel to tell her story.",
+      "release": "2024-08-26T11:00:00Z",
+      "duration": "00:56:29.2910000",
+      "explicit": true,
+      "spotifyId": "2cXnagBrbEqMmg7Pxd65ov",
+      "appleId": 1000666716078,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2cXnagBrbEqMmg7Pxd65ov",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-the-harlot-isabel/id1555494727?i=1000666716078"
+      }
+    },
+    {
+      "id": "6e361e0e-d5ef-470b-8d17-508b0b44c5cd",
+      "title": "Faith Not to be Healed?!",
+      "description": "Heavenly Mother and Brother The Brother of Jared discuss how the church does not heal anyone ever",
+      "release": "2024-08-12T11:00:00Z",
+      "duration": "00:59:15.9960000",
+      "explicit": true,
+      "spotifyId": "5Z3phhrNzfa3GXfuGgteXw",
+      "appleId": 1000665094825,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Z3phhrNzfa3GXfuGgteXw",
+        "apple": "https://podcasts.apple.com/podcast/faith-not-to-be-healed/id1555494727?i=1000665094825"
+      }
+    },
+    {
+      "id": "ac22ef79-c362-4e81-b382-78766bf5ef82",
+      "title": "Self-care as ExMormons",
+      "description": "Heavenly Mother and Brother The Brother of Jared discuss self-care as ExMormons. Exciting! Please send comments, concerns, conundrums to our new email exexmormon@gmail.com",
+      "release": "2024-07-08T05:15:00Z",
+      "duration": "01:00:26.9450000",
+      "explicit": true,
+      "spotifyId": "6KpF9E5sR86JjwBdps92p0",
+      "appleId": 1000661490451,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KpF9E5sR86JjwBdps92p0",
+        "apple": "https://podcasts.apple.com/podcast/self-care-as-exmormons/id1555494727?i=1000661490451"
+      }
+    },
+    {
+      "id": "a19606ba-1c7e-4f3d-870e-c7a5fbfc3ba0",
+      "title": "How It\u0027s Going",
+      "description": "Heavenly Mother and Elder Sister check in with how being an Ex Mormon is going (spoiler it\u0027s fantastic on the other side).",
+      "release": "2024-03-24T11:00:00Z",
+      "duration": "00:37:55.8110000",
+      "explicit": true,
+      "spotifyId": "2OmaR0s3gudoiZrllklYH6",
+      "appleId": 1000650249851,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2OmaR0s3gudoiZrllklYH6",
+        "apple": "https://podcasts.apple.com/podcast/how-its-going/id1555494727?i=1000650249851"
+      }
+    },
+    {
+      "id": "e6e2f69c-2644-4f48-8deb-d7b1ed6168ff",
+      "title": "Cringe Words",
+      "description": "Heavenly Mother and Elder Sister list off words and phrases unique to the Mormon vocabulary.",
+      "release": "2024-03-17T11:00:00Z",
+      "duration": "00:37:34.8600000",
+      "explicit": true,
+      "spotifyId": "3MsKerUOxvvxpfMHZGuhik",
+      "appleId": 1000649463028,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3MsKerUOxvvxpfMHZGuhik",
+        "apple": "https://podcasts.apple.com/podcast/cringe-words/id1555494727?i=1000649463028"
+      }
+    },
+    {
+      "id": "27ab0b60-da47-4a2a-a63c-2d7e78742ec8",
+      "title": "Shame Part 1",
+      "description": "Heavenly Mother and Laban discuss internalized shame and guilt the church gives it\u2019s members.",
+      "release": "2024-01-03T11:00:00Z",
+      "duration": "00:35:04.9560000",
+      "explicit": true,
+      "spotifyId": "7vbYWHWqYAUqruh3k3jfA5",
+      "appleId": 1000640460784,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7vbYWHWqYAUqruh3k3jfA5",
+        "apple": "https://podcasts.apple.com/podcast/shame-part-1/id1555494727?i=1000640460784"
+      }
+    },
+    {
+      "id": "9193d01b-1e16-4a3c-b975-4342bf7df248",
+      "title": "Elder Sister\u0027s Story",
+      "description": "Heavenly Mother is joined by Elder Sister in today\u0027s episode.",
+      "release": "2023-11-12T11:00:00Z",
+      "duration": "01:05:46.0310000",
+      "explicit": true,
+      "spotifyId": "4hANgzN6mLZYY8dX92o8vA",
+      "appleId": 1000634524085,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4hANgzN6mLZYY8dX92o8vA",
+        "apple": "https://podcasts.apple.com/podcast/elder-sisters-story/id1555494727?i=1000634524085"
+      }
+    },
+    {
+      "id": "34a339d7-5e9e-49de-b559-018d3f056596",
+      "title": "Tall Tales from Mormon Missions",
+      "description": "Heavenly Mother and Methuselah discuss the rich oral tradition of missionary \u0022Tall Tales\u0022 or \u0022Legends\u0022, and deconstruct several \u0022totally true events\u0022 shared amongst missionaries. We also discuss how our humanity leaks out of such stories, and how they become a unique window into the hopes and fears of missionaries on the mission.",
+      "release": "2023-07-11T11:00:00Z",
+      "duration": "01:29:10.2950000",
+      "explicit": true,
+      "spotifyId": "2HCwLwwYXCJE23xxR5IyYl",
+      "appleId": 1000620794702,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2HCwLwwYXCJE23xxR5IyYl",
+        "apple": "https://podcasts.apple.com/podcast/tall-tales-from-mormon-missions/id1555494727?i=1000620794702"
+      }
+    },
+    {
+      "id": "78c8f55c-30de-423a-93e2-22d89dac658e",
+      "title": "Interview with Thyateria",
+      "description": "Heavenly Mother interviews a guest named after the Biblical city.",
+      "release": "2023-06-18T11:00:00Z",
+      "duration": "01:42:12.2060000",
+      "explicit": true,
+      "spotifyId": "0aLIYweAy6fpzMX0nQPUpl",
+      "appleId": 1000617433152,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0aLIYweAy6fpzMX0nQPUpl",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-thyateria/id1555494727?i=1000617433152"
+      }
+    },
+    {
+      "id": "7160df23-651f-490e-85e9-d987570508e1",
+      "title": "Expectations of Relationships vs Reality",
+      "description": "Heavenly Mother and The Brother of Jared meet for a chat.",
+      "release": "2023-06-04T11:00:00Z",
+      "duration": "01:16:10.1280000",
+      "explicit": true,
+      "spotifyId": "59reE8tMGGrHiYgMuPZ18t",
+      "appleId": 1000615587915,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/59reE8tMGGrHiYgMuPZ18t",
+        "apple": "https://podcasts.apple.com/podcast/expectations-of-relationships-vs-reality/id1555494727?i=1000615587915"
+      }
+    },
+    {
+      "id": "40d662e2-1e8b-42c7-9973-2c8125a47ce0",
+      "title": "Pandemic Failure",
+      "description": "Heavenly Mother, Mary Magdalene and Methuselah discuss how the church failed during a global disaster.",
+      "release": "2023-05-28T11:00:00Z",
+      "duration": "00:34:07.0560000",
+      "explicit": true,
+      "spotifyId": "3HxaYWjHxUlJZZlzsDLDTS",
+      "appleId": 1000614770704,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3HxaYWjHxUlJZZlzsDLDTS",
+        "apple": "https://podcasts.apple.com/podcast/pandemic-failure/id1555494727?i=1000614770704"
+      }
+    },
+    {
+      "id": "80433947-c09c-4f39-83f8-e2e512ad2a72",
+      "title": "Mormon Dating Stories",
+      "description": "Sugar Cain and Heavenly Mother discuss scary stories of dating as a Mormon.",
+      "release": "2023-04-30T11:00:00Z",
+      "duration": "01:11:55.4160000",
+      "explicit": true,
+      "spotifyId": "2TFHQQMK6IadK5iR70J8j1",
+      "appleId": 1000611249589,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2TFHQQMK6IadK5iR70J8j1",
+        "apple": "https://podcasts.apple.com/podcast/mormon-dating-stories/id1555494727?i=1000611249589"
+      }
+    },
+    {
+      "id": "57d58c3f-35ef-4446-810e-1399ca509d77",
+      "title": "Scary Movies as an ExMormon",
+      "description": "Heavenly Mother and Mary Magdalene discuss what scares them in film and media after leaving the church.",
+      "release": "2023-04-09T11:00:00Z",
+      "duration": "01:13:09.4210000",
+      "explicit": true,
+      "spotifyId": "1BJPW2aB86xBPJdrUDCgwn",
+      "appleId": 1000608090914,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1BJPW2aB86xBPJdrUDCgwn",
+        "apple": "https://podcasts.apple.com/podcast/scary-movies-as-an-exmormon/id1555494727?i=1000608090914"
+      }
+    },
+    {
+      "id": "ad0c7967-1169-4a0a-b8c4-7d0bd20a03e6",
+      "title": "State-side Mission Horrors (ft. Laban)",
+      "description": "Heavenly Mother is joined by Laban to recount some memories of serving a mission in the US.",
+      "release": "2023-03-26T11:00:00Z",
+      "duration": "01:21:13.0780000",
+      "explicit": true,
+      "spotifyId": "5F6lz4WArSS0sqbcot8RF5",
+      "appleId": 1000605998120,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5F6lz4WArSS0sqbcot8RF5",
+        "apple": "https://podcasts.apple.com/podcast/state-side-mission-horrors-ft-laban/id1555494727?i=1000605998120"
+      }
+    },
+    {
+      "id": "b53b6437-e1d3-4096-b0e8-a909994835d5",
+      "title": "Doomsday (ft. Sugar Cain)",
+      "description": "Heavenly Mother is joined by Sugar Cain to discuss the END TIMES!!",
+      "release": "2023-03-12T11:00:00Z",
+      "duration": "01:09:40.1510000",
+      "explicit": true,
+      "spotifyId": "19coALEt25xdLahElFKtdI",
+      "appleId": 1000603778568,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/19coALEt25xdLahElFKtdI",
+        "apple": "https://podcasts.apple.com/podcast/doomsday-ft-sugar-cain/id1555494727?i=1000603778568"
+      }
+    },
+    {
+      "id": "7b3b12d8-9516-427f-8185-3d7c9220f2dd",
+      "title": "Cheesy \u0026 Corny",
+      "description": "Heavenly Mother and Mary Magdalene chat!",
+      "release": "2023-02-19T11:00:00Z",
+      "duration": "01:17:32.1830000",
+      "explicit": true,
+      "spotifyId": "3nMyZ5w6EmqRqtaAG0GuDM",
+      "appleId": 1000600415586,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3nMyZ5w6EmqRqtaAG0GuDM",
+        "apple": "https://podcasts.apple.com/podcast/cheesy-corny/id1555494727?i=1000600415586"
+      }
+    },
+    {
+      "id": "0c6db980-70ed-4497-bc74-c5fb4e119cc3",
+      "title": "Temples are Creepy",
+      "description": "Heavenly Mother and Mary Magdalene talk about the temple - the ultimate cult.",
+      "release": "2023-02-05T11:00:00Z",
+      "duration": "01:10:30.1910000",
+      "explicit": true,
+      "spotifyId": "45slciNYZuhZZmZcNtb4Jq",
+      "appleId": 1000598074173,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/45slciNYZuhZZmZcNtb4Jq",
+        "apple": "https://podcasts.apple.com/podcast/temples-are-creepy/id1555494727?i=1000598074173"
+      }
+    },
+    {
+      "id": "56d3bb8a-6dfe-4187-978e-59adc2336acf",
+      "title": "Panel w/ Sugar Cain \u0026 Laban",
+      "description": "Heavenly Mother is joined by Sugar Cain and Laban for a panel discussion.",
+      "release": "2023-01-29T11:00:00Z",
+      "duration": "01:10:41.0720000",
+      "explicit": true,
+      "spotifyId": "2y0xQbSi0gyYF6rBmcV6vZ",
+      "appleId": 1000597136917,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2y0xQbSi0gyYF6rBmcV6vZ",
+        "apple": "https://podcasts.apple.com/podcast/panel-w-sugar-cain-laban/id1555494727?i=1000597136917"
+      }
+    },
+    {
+      "id": "a9ee31a0-3d53-4a7c-9a3f-174d77bd7b09",
+      "title": "Interview w/ King David",
+      "description": "Heavenly Mother is joined by King David to share his Mormon story.",
+      "release": "2023-01-22T11:00:00Z",
+      "duration": "01:01:17.5680000",
+      "explicit": true,
+      "spotifyId": "43yPWt2I1PclSkLUDLKhP7",
+      "appleId": 1000595967552,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/43yPWt2I1PclSkLUDLKhP7",
+        "apple": "https://podcasts.apple.com/podcast/interview-w-king-david/id1555494727?i=1000595967552"
+      }
+    },
+    {
+      "id": "4b1eeba6-89c7-4f4a-bd0f-01c6ebf42a9c",
+      "title": "Mormon Theft",
+      "description": "Heavenly Mother is joined by Sugar Cain to talk about Mormon Theft.",
+      "release": "2023-01-15T11:00:00Z",
+      "duration": "01:00:03.7680000",
+      "explicit": true,
+      "spotifyId": "5dGyc12TvXdpXnyn2G0PQo",
+      "appleId": 1000594513775,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5dGyc12TvXdpXnyn2G0PQo",
+        "apple": "https://podcasts.apple.com/podcast/mormon-theft/id1555494727?i=1000594513775"
+      }
+    },
+    {
+      "id": "66803b11-e9fc-41dc-843c-7f7a293faaa7",
+      "title": "Body Shame",
+      "description": "Our Mother in Heaven, who is here on Earth, and the Sister of Heavenly Mother, who is Mary Magdalene unpack Mormon body shame.",
+      "release": "2022-12-18T11:00:00Z",
+      "duration": "00:38:47.6160000",
+      "explicit": true,
+      "spotifyId": "4FNBs45JaDN7GSeuj9C76r",
+      "appleId": 1000590525110,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4FNBs45JaDN7GSeuj9C76r",
+        "apple": "https://podcasts.apple.com/podcast/body-shame/id1555494727?i=1000590525110"
+      }
+    },
+    {
+      "id": "3bbae006-f472-4e73-ba6a-527cfedbd914",
+      "title": "Diet Culture",
+      "description": "Heavenly Mother and Mary Magdalene talk diet culture!",
+      "release": "2022-12-11T11:00:00Z",
+      "duration": "01:11:47.3760000",
+      "explicit": true,
+      "spotifyId": "1nXe8P615BIz5ZL5SK5KPa",
+      "appleId": 1000589741485,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1nXe8P615BIz5ZL5SK5KPa",
+        "apple": "https://podcasts.apple.com/podcast/diet-culture/id1555494727?i=1000589741485"
+      }
+    },
+    {
+      "id": "76e2fc8e-a29f-4e69-83b8-1e1b16411e70",
+      "title": "Sugar Cain\u0027s Story",
+      "description": "Heavenly Mother interviews Sugar Cain!",
+      "release": "2022-12-04T11:00:00Z",
+      "duration": "01:03:26.8080000",
+      "explicit": true,
+      "spotifyId": "0xZ9ToiDmLBfuvB0dk79hx",
+      "appleId": 1000588672031,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0xZ9ToiDmLBfuvB0dk79hx",
+        "apple": "https://podcasts.apple.com/podcast/sugar-cains-story/id1555494727?i=1000588672031"
+      }
+    },
+    {
+      "id": "080cd0d2-ca6a-4c26-a898-8b52b4c311ca",
+      "title": "Interview w/ Laban",
+      "description": "Heavenly Mother hosts Laban on today\u0027s show!",
+      "release": "2022-11-27T11:00:00Z",
+      "duration": "00:54:34.3910000",
+      "explicit": true,
+      "spotifyId": "2TXR0rfm7FuAut8cORGsrl",
+      "appleId": 1000587601787,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2TXR0rfm7FuAut8cORGsrl",
+        "apple": "https://podcasts.apple.com/podcast/interview-w-laban/id1555494727?i=1000587601787"
+      }
+    },
+    {
+      "id": "7e7ea887-73d7-4612-8dc8-077a1f6840c0",
+      "title": "Mormon Weddings",
+      "description": "Heavenly Mother and Mary Magdalene discuss Mormon weddings.",
+      "release": "2022-11-20T11:00:00Z",
+      "duration": "01:25:05.2800000",
+      "explicit": true,
+      "spotifyId": "5HDCYWjoEQoluh2JiL6vGl",
+      "appleId": 1000586849875,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5HDCYWjoEQoluh2JiL6vGl",
+        "apple": "https://podcasts.apple.com/podcast/mormon-weddings/id1555494727?i=1000586849875"
+      }
+    },
+    {
+      "id": "32803f8c-af7e-42e4-9a0d-7d28f852bb65",
+      "title": "Opulence",
+      "description": "The Ever-Sacred Heavenly Mother (AKA: The Wife of The Brother of Jared) and her sister, The First Ordained Sister, who is Mary Magdalene, even The Sister of The Wife of The Brother of Jared, discuss the opulence of The Church of Jesus Christ of Latter-day Saints.",
+      "release": "2022-11-13T11:00:00Z",
+      "duration": "01:05:13.8230000",
+      "explicit": true,
+      "spotifyId": "3rH8MFZ8DOlcGrFj7MbJZf",
+      "appleId": 1000585998268,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rH8MFZ8DOlcGrFj7MbJZf",
+        "apple": "https://podcasts.apple.com/podcast/opulence/id1555494727?i=1000585998268"
+      }
+    },
+    {
+      "id": "12d5fa45-06a9-4172-8cb5-04a896c0651b",
+      "title": "Forgiveness Culture",
+      "description": "Elder Jaxxxon and Bishop Jensen are absent, once again! Sister Mary Magdalene and her sister (not cousin...) Sister The Wife of The Brother of Jared are discussing the toxic culture of forced forgiveness in the church.",
+      "release": "2022-10-16T11:00:00Z",
+      "duration": "00:53:53.7830000",
+      "explicit": true,
+      "spotifyId": "1rnOrwwYB84RNL5Dn2hUxm",
+      "appleId": 1000582784749,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1rnOrwwYB84RNL5Dn2hUxm",
+        "apple": "https://podcasts.apple.com/podcast/forgiveness-culture/id1555494727?i=1000582784749"
+      }
+    }
+  ]
+}

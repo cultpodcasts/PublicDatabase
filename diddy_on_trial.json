@@ -8,6 +8,24 @@
   "youTubePlaylistId": "PLz_B0PFGIn4dP8PQoiH-X5FAYSgacE2b4",
   "episodes": [
     {
+      "id": "33976e71-4ef8-4926-b6ff-a1fd8de7e84a",
+      "title": "Elsewhere in the \u2018Diddyverse\u2019: Jay-Z, Buzbee and Kanye",
+      "description": "There is a lot going on in the \u2018Diddyverse\u2019 this week, from the ongoing row between Jay-Z and Tony Buzbee through to Kanye, or Ye, releasing a song which appears to feature Diddy in prison.\nSean \u2018Diddy\u2019 Combs is awaiting trial on charges of sex trafficking, racketeering with conspiracy and transportation for prostitution. He denies them all.\nCriminal defence attorney Shaun Kent and Rolling Stone\u2019s senior investigative reporter Cheyenne Roundtree join Anoushka Mutanda-Dougherty.\nThe Diddy on Trial podcast is here to investigate the rumours, confront the theories, and give you the answers that you need.\nWe also want YOU to be part of the conversation. Have you any burning questions about the cases or the upcoming trial? Heard a theory that doesn\u2019t sit right with you? Get in touch now via WhatsApp: 0330 123 555 1.\nPresenter: Anoushka Mutanda-Dougherty\nSeries Producer: Laura Jones\nSound Design: Craig Boardman\nProduction Coordinator: Hattie Valentine\nEditor: Clare Fordham\nCommissioning Editor: Rhian Roberts\nAssistant Commissioner: Will Drysdale\nCommissioning Producer: Adam Eland\nCommissioning Assistant Producer: Rechmial Miller\nSean \u2018Diddy\u2019 Combs - who has also gone by the names Puffy, Puff Daddy, P Diddy, Love, and Brother Love - emerged into the hip-hop scene in the 1990s. He founded Bad Boy Records, which launched the careers of the Notorious B.I.G. and Mary J Blige.\nHis current legal issues began when he was sued by his ex-girlfriend Casandra Ventura, also known as Cassie, in late 2023. She accused him of violently abusing and raping her.\nThat lawsuit was settled for an undisclosed amount a day after it was filed, with Mr Combs maintaining his innocence.\nHis controversial history with Ms Ventura resurfaced in 2024, when CCTV footage emerged showing Mr Combs kicking his former girlfriend as she lay on a hotel hallway floor in 2016.\nMultiple people have filed lawsuits accusing Mr Combs of sexual assault, with accusations dating back to 1991. He denies all claims.\nHe is accused of the federal charges of kidnapping, drugging and coercing women into sexual activities, sometimes by using firearms or threatening them with violence. He denies the charges.",
+      "release": "2025-03-20T06:00:00Z",
+      "duration": "00:22:45",
+      "explicit": false,
+      "spotifyId": "6lu6BGpBF0K5IR5IGNU9Aa",
+      "appleId": 1000700063990,
+      "subjects": [
+        "Sean Combs",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6lu6BGpBF0K5IR5IGNU9Aa",
+        "apple": "https://podcasts.apple.com/podcast/elsewhere-in-the-diddyverse-jay-z-buzbee-and-kanye/id1781636710?i=1000700063990"
+      }
+    },
+    {
       "id": "e5f98837-d6ea-4c5e-8b3c-e34837233a3c",
       "title": "Diddy in court says \u2018not guilty\u2019 to forced labour claims",
       "description": "Sean \u2018Diddy\u2019 Combs appears in court for a pre-trial hearing. He pleads not guilty to forced labour charges which are part of an updated indictment. \nLawyers also argue over the inclusion of the CNN leaked footage which shows Combs kicking his former girlfriend Cassie Ventura in the hallway of a hotel in 2016. \nIt was agreed that jury selection will begin on 5 May, with opening trial statements on 12 May.\nThe BBC\u2019s New York correspondent Nada Tawfik was in the courtroom and speaks to Anoushka Mutanda-Dougherty.\nThe Diddy on Trial podcast is here to investigate the rumours, confront the theories, and give you the answers that you need.\n \nWe also want YOU to be part of the conversation. Have you any burning questions about the cases or the upcoming trial? Heard a theory that doesn\u2019t sit right with you? Get in touch now via WhatsApp: 0330 123 555 1.\n \nPresenter: Anoushka Mutanda-Dougherty\nSeries Producer: Laura Jones\nSound Design: Craig Boardman\nProduction Coordinator: Hattie Valentine\nEditor: Clare Fordham \n \nCommissioning Editor: Rhian Roberts\nAssistant Commissioner: Will Drysdale\nCommissioning Producer: Adam Eland\nCommissioning Assistant Producer: Rechmial Miller\n \nSean \u2018Diddy\u2019 Combs - who has also gone by the names Puffy, Puff Daddy, P Diddy, Love, and Brother Love - emerged into the hip-hop scene in the 1990s. He founded Bad Boy Records, which launched the careers of the Notorious B.I.G. and Mary J Blige.\n \nHis current legal issues began when he was sued by his ex-girlfriend Casandra Ventura, also known as Cassie, in late 2023. She accused him of violently abusing and raping her.\nThat lawsuit was settled for an undisclosed amount a day after it was filed, with Mr Combs maintaining his innocence. \n \nHis controversial history with Ms Ventura resurfaced in 2024, when CCTV footage emerged showing Mr Combs kicking his former girlfriend as she lay on a hotel hallway floor in 2016.\n \nMultiple people have filed lawsuits accusing Mr Combs of sexual assault, with accusations dating back to 1991. He denies all claims.\n \nHe is accused of the federal charges of kidnapping, drugging and coercing women into sexual activities, sometimes by using firearms or threatening them with violence. He denies the charges.",
@@ -35,6 +53,7 @@
       "explicit": false,
       "spotifyId": "0gQWsu4lGOYZVj6wE8MRn8",
       "appleId": 1000698993391,
+      "youTubeId": "9a9FTwWlgXc",
       "subjects": [
         "Sean Combs",
         "Human Trafficking"
@@ -42,6 +61,7 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gQWsu4lGOYZVj6wE8MRn8",
         "apple": "https://podcasts.apple.com/podcast/celebs-named-and-lurid-new-claims-in-lawsuit-diddy/id1781636710?i=1000698993391",
+        "youtube": "https://www.youtube.com/watch?v=9a9FTwWlgXc",
         "bbc": "https://www.bbc.co.uk/sounds/play/p0kxqr8n"
       }
     },

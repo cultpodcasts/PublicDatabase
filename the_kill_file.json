@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "c0b5c608-17d1-4cd0-8c70-a9d391d76e46",
+  "name": "The Kill File",
+  "spotifyId": "5DPOMPgUePmmjFgpNMEDdz",
+  "appleId": 1762523692,
+  "episodes": [
+    {
+      "id": "0a2fd537-1519-4868-bc65-1bc82badf210",
+      "title": "The Order of The Solar Temple",
+      "description": "This week we delve into the \u0022cult\u0022 that is the Order of the Solar Temple and their beliefs that ended in tragedy. Sources: https://www.britannica.com/topic/Order-of-the-Solar-Temple https://www.britannica.com/topic/New-Age-movement https://www.worldhistory.org/Gnosticism/#:~:text=Gnosticism%20is%20the%20belief%20that,on%20earth%20meant%20to%20believers . https://www.britannica.com/topic/Rosicrucians#:~:text=Rosicrucian%20teachings%20are%20a%20combination,to%20them%20from%20ancient%20times . https://blogs.uoregon.edu/rel399f14drreis/hermeticism/#:~:text=Hermeticism%20is%20a%20dualistic%20faith,being%20antagonistic%20to%20the%20soul . https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/temple-solaire https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/temple-solaire https://www.history.com/topics/middle-ages/the-knights-templar https://www.britannica.com/place/Sirius-star https://dictionary.cambridge.org/dictionary/english/doctrine#:~:text=a%20belief%2C%20theory%2C%20or%20set,%5B%20U%20%5D%20church%20doctrine https://www.bbc.co.uk/thepassion/articles/joseph_of_arimathea.shtml#:~:text=The%20story%20of%20Joseph%20of%20Arimathea%20is%20told%20in%20all,stone%20rolled%20against%20the%20opening . https://templarhistory.com/the-tragedy-of-the-solar-temple-cult/ HistoryUnveiled (YouTube) MysteryBytes (YouTube)",
+      "release": "2025-03-17T10:24:00Z",
+      "duration": "00:47:18.2670000",
+      "explicit": true,
+      "spotifyId": "0neKAoxAyU8NLFaF4sGoVq",
+      "appleId": 1000699485362,
+      "subjects": [
+        "Order of the Solar Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0neKAoxAyU8NLFaF4sGoVq",
+        "apple": "https://podcasts.apple.com/podcast/the-order-of-the-solar-temple/id1762523692?i=1000699485362"
+      }
+    }
+  ]
+}

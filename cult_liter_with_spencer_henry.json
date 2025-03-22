@@ -2409,6 +2409,9 @@
       "explicit": false,
       "spotifyId": "1SxuyCZFgLsbrhz2YA18oQ",
       "appleId": 1000564723608,
+      "subjects": [
+        "Peter Popoff"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1SxuyCZFgLsbrhz2YA18oQ",
         "apple": "https://podcasts.apple.com/podcast/peter-popped-off/id1436376574?i=1000564723608"

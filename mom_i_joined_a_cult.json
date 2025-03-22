@@ -6,6 +6,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "35e6934e-a63a-45d1-a14f-fca66b8f3d8c",
+      "title": "Oscar Wilde Season 10 Episode 7",
+      "description": "Thor takes us through the glory and fall of Oscar Wilde",
+      "release": "2025-03-21T01:19:46Z",
+      "duration": "00:59:32.7380000",
+      "explicit": false,
+      "spotifyId": "0XmgtgZT946JtjqO17QWYE",
+      "appleId": 1000700205676,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0XmgtgZT946JtjqO17QWYE",
+        "apple": "https://podcasts.apple.com/podcast/oscar-wilde-season-10-episode-7/id1565633523?i=1000700205676"
+      }
+    },
+    {
       "id": "e4254db6-c4cc-4e87-ae00-55cc7841a969",
       "title": "The Deseret Alphabet Season 10 Episode 6",
       "description": "Nathan walks us through a magical alphabet that may have been able to save the english language from some hardships. We introduce Finn as a guest. Gunnar saves a few more souls.",

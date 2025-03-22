@@ -2429,6 +2429,9 @@
       "explicit": true,
       "spotifyId": "0mHKpyrphv51L5kidzvVR9",
       "appleId": 1000549037834,
+      "subjects": [
+        "Peter Popoff"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0mHKpyrphv51L5kidzvVR9",
         "apple": "https://podcasts.apple.com/podcast/banachek-part-2-critical-thinking-vs-skepticism/id1534370789?i=1000549037834"

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "1fae2389-4195-410e-af5e-a53796995406",
+  "name": "Beautiful Stories From Anonymous People",
+  "spotifyId": "1HuiR5EiKgk9rjWJtqeTw2",
+  "appleId": 1090147504,
+  "youTubeChannelId": "UCGAjzNRjJkGJCNHHYmevQWg",
+  "episodes": [
+    {
+      "id": "b2aa13b9-2565-42d9-a9c5-78594c50aa1a",
+      "title": "Escape From A Cult",
+      "description": "Brainwashed into a religious cult. Our caller escaped 10 years ago, but she\u0027s only now starting to process the trauma: from sexual manipulation and poison, to hallucinations and \u0022mind melding\u0022. Chris talks about therapy (and discovers a mutual love for go kart rides). This episode is brought to you by Mack Weldon ( www.mackweldon.com code: BEAUTIFUL), Mailchimp ( www.mailchimp.com ), HUAWEI ( www.huawei.fit/AnonymousPeople ), Stamps.com ( www.stamps.com code: BEAUTIFUL), and Texture ( www.texture.com/beautiful ).",
+      "release": "2016-12-13T17:45:57Z",
+      "duration": "01:12:49",
+      "explicit": false,
+      "spotifyId": "110ThSUjLR9IpZerGo4cv3",
+      "appleId": 1000378893984,
+      "youTubeId": "NfhXVrdLNoE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/110ThSUjLR9IpZerGo4cv3",
+        "apple": "https://podcasts.apple.com/podcast/escape-from-a-cult/id1090147504?i=1000378893984",
+        "youtube": "https://www.youtube.com/watch?v=NfhXVrdLNoE"
+      }
+    }
+  ]
+}
