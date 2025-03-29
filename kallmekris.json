@@ -2,8 +2,31 @@
   "_ts": 0,
   "id": "469329b9-c179-4418-bd7b-6c246e993d2b",
   "name": "Kallmekris",
+  "spotifyId": "2mClgQ5t53TqBIAxxGjvnu",
+  "appleId": 1787796281,
   "youTubeChannelId": "UCiciOsypkXcqSFqSPd-NRVA",
   "episodes": [
+    {
+      "id": "96fafc87-9ac2-418d-8f19-8afe59be1f49",
+      "title": "DISTURBING Cults You\u0027ve Never Heard Of",
+      "description": "Take on every plan without thinking twice. From morning walks to nonstop days, Vessi keeps\nup\u2014waterproof, comfortable, and ready for anything. Get yours now at https://vessi.com/kallmekris and enjoy 15% o\uFB00 your first pair at checkout!\n\nI HAVE A 2ND CHANNEL! I do reaction, reading reddit and other fun videos there! https://www.youtube.com/@KallMeKrisToo  \n\nCheck out my Podcast, \u0022Crime, Conspiracy, Cults \u0026 Murder\u0022 everywhere you listen to podcasts!\n\uD83C\uDFA7 Spotify Podcast: https://open.spotify.com/show/2mClgQ5t53TqBIAxxGjvnu\n\uD83C\uDFA7 Apple Podcast: https://podcasts.apple.com/us/podcast/crime-conspiracy-cults-and-murder/id1787796281\n\nMy Co-owned Candy Company SourBoys \u0026 NEW LIL GUYS!\nhttps://sour.gg/ and use code KRIS for 10% OFF your order\n\nJOIN THE PATREON HERE: patreon.com/kallmekris\n\nAppreciate you!\n\nSocial Media: https://linktr.ee/Kallmekris\n\nEditor: Jason Christopher Mayer\nIG: @jayjaymay",
+      "release": "2025-03-26T18:10:54Z",
+      "duration": "00:52:53",
+      "explicit": false,
+      "spotifyId": "0Ab4I2pukStxH8aX4cbLVS",
+      "appleId": 1000700956199,
+      "youTubeId": "1nPyOgnpbo4",
+      "subjects": [
+        "Angel\u0027s Landing",
+        "Love Has Won",
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Ab4I2pukStxH8aX4cbLVS",
+        "apple": "https://podcasts.apple.com/podcast/ep-41-disturbing-cults-youve-never-heard-of/id1787796281?i=1000700956199",
+        "youtube": "https://www.youtube.com/watch?v=1nPyOgnpbo4"
+      }
+    },
     {
       "id": "c846b14b-dbe4-403c-8e84-1ccafe4c75a2",
       "title": "The Cosmic Child DEATH CULT",
@@ -11,11 +34,15 @@
       "release": "2024-12-28T19:50:10Z",
       "duration": "00:35:22",
       "explicit": false,
+      "spotifyId": "1chr6runIXUUPA2SRkmjTL",
+      "appleId": 1000682042511,
       "youTubeId": "MtLCmPo66gE",
       "subjects": [
         "Order of the Solar Temple"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1chr6runIXUUPA2SRkmjTL",
+        "apple": "https://podcasts.apple.com/podcast/ep-28-the-cosmic-child-death-cult/id1787796281?i=1000682042511",
         "youtube": "https://www.youtube.com/watch?v=MtLCmPo66gE"
       }
     },
@@ -25,12 +52,35 @@
       "release": "2024-11-28T17:05:07Z",
       "duration": "00:56:17",
       "explicit": false,
+      "spotifyId": "745FaZh0N0XgKV3HaLGvXd",
+      "appleId": 1000682042334,
       "youTubeId": "FUuH12Gm3gM",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/745FaZh0N0XgKV3HaLGvXd",
+        "apple": "https://podcasts.apple.com/podcast/ep-23-one-of-the-most-disturbing-cult-leaders/id1787796281?i=1000682042334",
         "youtube": "https://www.youtube.com/watch?v=FUuH12Gm3gM"
+      }
+    },
+    {
+      "id": "f80b42ee-a56d-4a51-80b4-fc7963299da6",
+      "title": "Ep. 11 | Jim Jones | How the World\u0027s DEADLIEST Cult Leader Was Made",
+      "description": "Jim Jones led his followers from hope to horror as the charismatic leader of the People\u2019s Temple. What began as a vision of a utopian community ended in tragedy with the infamous Jonestown massacre. This episode I explore the twisted path that led to one of the largest mass suicides in history and the chilling legacy of Jim Jones.",
+      "release": "2024-10-28T04:06:48Z",
+      "duration": "00:41:49.9840000",
+      "explicit": true,
+      "spotifyId": "3gmplW9jYT1e4DLlLmklUM",
+      "appleId": 1000682042513,
+      "youTubeId": "VXSy6G-lvTY",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gmplW9jYT1e4DLlLmklUM",
+        "apple": "https://podcasts.apple.com/podcast/ep-11-jim-jones-how-the-worlds-deadliest-cult-leader-was-made/id1787796281?i=1000682042513",
+        "youtube": "https://www.youtube.com/watch?v=VXSy6G-lvTY"
       }
     },
     {
@@ -68,11 +118,15 @@
       "release": "2023-12-27T17:09:58Z",
       "duration": "00:50:52",
       "explicit": false,
+      "spotifyId": "4ongiX7jCLrWIJyh4Z0CIR",
+      "appleId": 1000682042447,
       "youTubeId": "8KhJ1EZdwmc",
       "subjects": [
         "Children Of God"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4ongiX7jCLrWIJyh4Z0CIR",
+        "apple": "https://podcasts.apple.com/podcast/ep-1-the-most-sickening-s-cult-in-history-children-of-god/id1787796281?i=1000682042447",
         "youtube": "https://www.youtube.com/watch?v=8KhJ1EZdwmc"
       }
     }

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "cf46ba9d-528c-4388-b57e-d2e2ce879db5",
+  "name": "Once an Orphan",
+  "spotifyId": "1oB0X5uxjQMPRE5nmqM7gm",
+  "appleId": 1780259826,
+  "youTubeChannelId": "UCnGMbbczVYCqLFA7qha-XvA",
+  "episodes": [
+    {
+      "id": "bff8c8bf-b2ec-4699-9ada-8f9061dd30d8",
+      "title": "The Sex Cult That Raised Me",
+      "description": "Taza, @TaZa_Simone11 was your normal child, growing up in a home with her mother and older sister.  So, how did she end up pregnant and giving birth to her mother\u0027s boyfriend\u0027s child?",
+      "release": "2025-03-27T03:27:02Z",
+      "duration": "01:06:41",
+      "explicit": false,
+      "spotifyId": "3nVgoW0QCW3ek8uNVmYWeT",
+      "appleId": 1000701224878,
+      "youTubeId": "9Ct-vVpx7wI",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3nVgoW0QCW3ek8uNVmYWeT",
+        "apple": "https://podcasts.apple.com/podcast/the-sex-cult-that-raised-me/id1780259826?i=1000701224878",
+        "youtube": "https://www.youtube.com/watch?v=9Ct-vVpx7wI"
+      }
+    }
+  ]
+}

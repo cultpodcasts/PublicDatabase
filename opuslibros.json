@@ -5,6 +5,51 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "e5faaffe-00a1-4119-b22d-cd17417760a0",
+      "title": "EP# 99 LAS TRES GENERACIONES DE SUPERNUMERARIOS ESPA\u00D1OLES Cap\u00EDtulo 3 ~ Escriba 26/5/2006",
+      "description": "LAS TRES GENERACIONES DE SUPERNUMERARIOS ESPA\u00D1OLES Cap\u00EDtulo 3",
+      "release": "2025-03-26T00:00:00",
+      "duration": "00:18:45.0060000",
+      "explicit": false,
+      "spotifyId": "6t9Xx2BAMWHuTr1i7pzge5",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6t9Xx2BAMWHuTr1i7pzge5"
+      }
+    },
+    {
+      "id": "c6235244-1624-43a8-8f1b-94c4658b3ed1",
+      "title": "EP# 98 LAS TRES GENERACIONES DE SUPERNUMERARIOS ESPA\u00D1OLES Cap\u00EDtulo 2 ~ Escriba 26/5/2006",
+      "description": "LAS TRES GENERACIONES DE SUPERNUMERARIOS ESPA\u00D1OLES Cap\u00EDtulo 2",
+      "release": "2025-03-24T00:00:00",
+      "duration": "00:11:54.9650000",
+      "explicit": false,
+      "spotifyId": "4BJqG50tR1Kec3Cc5BmB8f",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4BJqG50tR1Kec3Cc5BmB8f"
+      }
+    },
+    {
+      "id": "4e98fbd3-a867-465a-9c89-353857b87304",
+      "title": "EP# 97 LAS TRES GENERACIONES DE SUPERNUMERARIOS ESPA\u00D1OLES Cap\u00EDtulo 1 ~ Escriba 26/5/2006",
+      "description": "LAS TRES GENERACIONES DE SUPERNUMERARIOS ESPA\u00D1OLES Cap\u00EDtulo 1",
+      "release": "2025-03-22T00:00:00",
+      "duration": "00:14:19.5090000",
+      "explicit": false,
+      "spotifyId": "0jxYc2KVM19f1cvSVKR1JL",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0jxYc2KVM19f1cvSVKR1JL"
+      }
+    },
+    {
       "id": "71577edc-a11b-4f92-aca5-033bcbf7d356",
       "title": "EP# 96 \u00BFEs voluntad de Dios una monta\u00F1a de incongruencias? ~ Mediterr\u00E1neo 18/12/2023",
       "description": "\u00BFEs voluntad de Dios una monta\u00F1a de incongruencias?",

@@ -6,6 +6,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "2cf49dbd-0623-4025-a4be-ce010013eda6",
+      "title": "199. Eric Show W/Scott Okamoto",
+      "description": "This week, Scott Okamoto joined us to talk about former MLB pitcher and evangelical, Eric Show.",
+      "release": "2025-03-26T06:00:00Z",
+      "duration": "02:08:36.2570000",
+      "explicit": true,
+      "spotifyId": "4TZ2bhkvR4Vo5JsItuIXFp",
+      "appleId": 1000700872331,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4TZ2bhkvR4Vo5JsItuIXFp",
+        "apple": "https://podcasts.apple.com/podcast/199-eric-show-w-scott-okamoto/id1573190999?i=1000700872331"
+      }
+    },
+    {
       "id": "47f211ec-6056-41de-89db-009f2919ac72",
       "title": "198. The Sicarii Part II W/ Samuel David",
       "description": "This week we finish up our series on the Sicarii. We talk about the fall of jerusalem and the sicarii getting their justice against Rome and their own leaders.",

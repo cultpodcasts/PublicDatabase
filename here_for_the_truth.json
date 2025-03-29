@@ -4,6 +4,7 @@
   "name": "Here For The Truth",
   "spotifyId": "46WXKZsvOsR4R4Q6JGnNAy",
   "appleId": 1570026970,
+  "youTubeChannelId": "UCz6qcPjQdZSTRX70wxCEBGQ",
   "episodes": [
     {
       "id": "0d5ab361-91e4-42f2-8c3b-c81b9689004c",
@@ -14,12 +15,14 @@
       "explicit": true,
       "spotifyId": "2dQZCCBk8JBtVKdckn8fU3",
       "appleId": 1000683654765,
+      "youTubeId": "l1ndF5roKmc",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2dQZCCBk8JBtVKdckn8fU3",
-        "apple": "https://podcasts.apple.com/podcast/ep-221-mark-vicente-inside-the-making-of-a-cult/id1570026970?i=1000683654765"
+        "apple": "https://podcasts.apple.com/podcast/ep-221-mark-vicente-inside-the-making-of-a-cult/id1570026970?i=1000683654765",
+        "youtube": "https://www.youtube.com/watch?v=l1ndF5roKmc"
       }
     }
   ]

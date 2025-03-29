@@ -2,8 +2,28 @@
   "_ts": 0,
   "id": "b610b026-de3e-4177-a342-a815902d08d9",
   "name": "Ray William Johnson",
+  "spotifyId": "2OyqGF8rokIi7K0CDwQc1Z",
+  "appleId": 1795844824,
   "youTubeChannelId": "UCGt7X90Au6BV8rf49BiM6Dg",
   "episodes": [
+    {
+      "id": "59e3aef7-64be-41a6-a8f8-101fa847630a",
+      "title": "He\u2019s a dangerous cult leader",
+      "description": "The Mark Kilroy case is a chilling true crime story involving a University of Texas student who disappeared during spring break in Matamoros, Mexico, in 1989. Kilroy was later found to have been kidnapped and murdered by a cult led by Adolfo Constanzo, which practiced ritualistic human sacrifices as part of their belief system. His death shocked both the U.S. and Mexico, leading to an intense cross-border investigation that exposed a gruesome network of occult crime.\n\n#truecrime #truestory #mexico #raywilliamjohnson",
+      "release": "2025-03-28T17:14:31Z",
+      "duration": "00:08:14",
+      "explicit": false,
+      "youTubeId": "vwwUYycGkh0",
+      "subjects": [
+        "Adolfo Constanzo",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2qCNQf0ac09oLXPXWQsvNL",
+        "apple": "https://podcasts.apple.com/podcast/kidnapped-by-a-drug-cult-the-mark-kilroy-story/id1795844824?i=1000700966493",
+        "youtube": "https://www.youtube.com/watch?v=vwwUYycGkh0"
+      }
+    },
     {
       "id": "7c43a996-aebe-4864-9403-2a9a036c4187",
       "title": "I\u2019m not sorry",
