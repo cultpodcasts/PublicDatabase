@@ -1,0 +1,35 @@
+{
+  "_ts": 0,
+  "id": "cd45c2e2-03c0-404c-b159-b7f449230642",
+  "name": "The TCK Podcast",
+  "spotifyId": "3bgkdJgzUnEhaWSb8Ir33d",
+  "youTubeChannelId": "UC4WU-Ul6dBXEz4qxMjR7vlQ",
+  "episodes": [
+    {
+      "id": "60a21467-4cdd-4b4f-90af-91c1d3dfa4cb",
+      "title": "Exposing a New Christian Modern Cult | Part 2 Trish\u0027s Background Story of Abuse",
+      "description": "Heys guys - so there is a new cult going around it fairly new and modern and they prey of vulnerable people. For Trish and Maka, we both had a history of abuse which made us more impressionable. \n\nThis background story is necessary in helping you understand why we were easily influence by this predator.",
+      "release": "2025-04-03T01:36:48Z",
+      "duration": "00:14:09",
+      "explicit": false,
+      "youTubeId": "gcNtJxBaPNc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gcNtJxBaPNc"
+      }
+    },
+    {
+      "id": "7290d7ed-36f7-4920-984e-f67e39c2cdd3",
+      "title": "Exposing a New Christian Modern Cult | Part 1- Maka\u0027s Background Story of Abuse",
+      "description": "Heys guys - so there is a new cult going around it fairly new and modern and they prey of vulnerable people. For Trish and Maka, we both had a history of abuse which made us more impressionable. \n\nThis background story is necessary in helping you understand why we were easily influence by this predator.",
+      "release": "2025-04-03T01:26:44Z",
+      "duration": "00:18:56",
+      "explicit": false,
+      "spotifyId": "5lFwOvBzbDsviLLP0bVbCo",
+      "youTubeId": "H_TFVCm3qZM",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5lFwOvBzbDsviLLP0bVbCo",
+        "youtube": "https://www.youtube.com/watch?v=H_TFVCm3qZM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_ts": 0,
+  "id": "fb8a2aa9-7cf9-45d3-9a64-c25eff094127",
+  "name": "Radio Health Journal",
+  "spotifyId": "6Ul82XjZYp9bzUVTjQJXhi",
+  "appleId": 338742826,
+  "youTubeChannelId": "UCOnsRShkaN563FAH8nxhMUw",
+  "episodes": [
+    {
+      "id": "e7fc554b-2512-45e5-b594-dd3703daad9b",
+      "title": "Leaving The Cult: How To Rebuild Your Life After Living A Lie",
+      "description": "High demand, high control groups can be both positive and negative, and describe many different populations from the military to infamous cults. Experiencing the negative side of these groups can lead to trauma and abuse. Our experts discuss their time in high demand, high control groups and how they were able to heal from these experiences. Learn More: https://radiohealthjournal.org/leaving-the-cult-how-to-rebuild-your-life-after-living-a-lie Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-03-30T10:00:00Z",
+      "duration": "00:13:03.9860000",
+      "explicit": false,
+      "spotifyId": "4bvocmRVIbTHhLt6NGEi16",
+      "appleId": 1000701432515,
+      "youTubeId": "ExX6yNLP_UE",
+      "subjects": [
+        "3HO",
+        "Jehovah\u0027s Witnesses",
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4bvocmRVIbTHhLt6NGEi16",
+        "apple": "https://podcasts.apple.com/podcast/leaving-the-cult-how-to-rebuild-your-life-after-living-a-lie/id338742826?i=1000701432515",
+        "youtube": "https://www.youtube.com/watch?v=ExX6yNLP_UE"
+      }
+    }
+  ]
+}

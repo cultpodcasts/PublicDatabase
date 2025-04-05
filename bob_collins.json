@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "9bbdd794-3a91-4f9f-b28a-1388569eb447",
+  "name": "Bob Collins",
+  "youTubeChannelId": "UC4g6Ok5gqPWJ187t1uSvpXA",
+  "episodes": [
+    {
+      "id": "98041bb3-47a8-4dca-989f-1c63bf5ab6fe",
+      "title": "Jonestown Video 01",
+      "release": "2018-04-30T13:22:23Z",
+      "duration": "00:03:31",
+      "explicit": false,
+      "youTubeId": "lJSv0gDPVLA",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lJSv0gDPVLA"
+      }
+    }
+  ]
+}

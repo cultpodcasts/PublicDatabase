@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "0edc10b6-e576-4b8c-a90f-22e13a624f57",
+  "name": "Bookwild",
+  "spotifyId": "1r72aXE4JEjcwGeEjVosvI",
+  "appleId": 1648192032,
+  "episodes": [
+    {
+      "id": "41c9233e-c14a-46d9-a3d3-7f3472401872",
+      "title": "Elizabeth Rose Quinn\u0027s Follow Me: A Thrilling Takedown of Mommy-Influencer Culture",
+      "release": "2025-04-01T14:00:40Z",
+      "duration": "00:45:13",
+      "explicit": false,
+      "spotifyId": "1QWuiFFtQQ6MPrCGBK02gk",
+      "appleId": 1000701735094,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QWuiFFtQQ6MPrCGBK02gk",
+        "apple": "https://podcasts.apple.com/podcast/elizabeth-rose-quinns-follow-me-a-thrilling/id1648192032?i=1000701735094"
+      }
+    }
+  ]
+}

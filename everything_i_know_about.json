@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "204f1497-8ef7-47db-96e0-7d60d225983e",
+  "name": "Everything I Know About",
+  "spotifyId": "4NhJx38ICKVJvg7cw4kOJr",
+  "appleId": 1726247724,
+  "youTubeChannelId": "UChu2Rz088Gajlmpwvfm220A",
+  "episodes": [
+    {
+      "id": "fbb98851-c3bb-4c7b-8aba-2afe06d7e7f4",
+      "title": "Surviving a Doomsday Cult",
+      "description": "This week, special guest \u0026 friend of the pod Cherish joins Lucy to discuss her experience leaving the Children of God cult, building a new life in the US, and her reflections since.Additional resources on the Children of God:Books Sex Cult Nun by Faith Jones Not Without My Sister by Celeste Jones, Kristina Jones, and Juliana Buhring Cult Following by Bexy Cameron Documentaries/TV Children of the Cult (2021) Cults and Extreme Belief, Episode 3 (2018) Children of God: Lost and Found (2007) If you\u2019re able to and our content means something to you, you can support us on \u2060\u2060Patreon\u2060\u2060 \u2764\uFE0F",
+      "release": "2025-04-02T04:00:00Z",
+      "duration": "00:39:56.6500000",
+      "explicit": true,
+      "spotifyId": "5eccPAVgR4WErjj3WMLSGA",
+      "appleId": 1000701840674,
+      "youTubeId": "v-s737qZAZA",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5eccPAVgR4WErjj3WMLSGA",
+        "apple": "https://podcasts.apple.com/podcast/surviving-a-doomsday-cult/id1726247724?i=1000701840674",
+        "youtube": "https://www.youtube.com/watch?v=v-s737qZAZA"
+      }
+    }
+  ]
+}

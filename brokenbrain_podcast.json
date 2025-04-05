@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "09fdfa8d-c20d-4c86-ad23-74fc75aaba8c",
+  "name": "BrokenBrain Podcast",
+  "spotifyId": "7ylWRg2hTwlhpt2L6zwJW4",
+  "appleId": 906031946,
+  "youTubeChannelId": "UC5anlRnprPlCKmk7TA7vOqg",
+  "episodes": [
+    {
+      "id": "ca8aca14-75ed-46f9-9698-ecd7dbe15d41",
+      "title": "How Marketers Use the Same Tactics as Cults, with Mara Einstein",
+      "description": "Mara Einstein is an author, academic, speaker, and marketing expert. In her new book, \u0022Hoodwinked: How Marketers Use The Same Techniques as Cults,\u0022 discusses how we have moved from attention-based advertising to an economy of anxiety. She reviews the ways in which cults attract and enmesh new members, and how marketing has become increasingly similar. \r\n\r\n Follow her work at www.drmaraeinstein.com.",
+      "release": "2025-04-01T13:20:00Z",
+      "duration": "00:40:44",
+      "explicit": false,
+      "spotifyId": "65gFug7pEyUFlSg7y13hwy",
+      "appleId": 1000701731761,
+      "youTubeId": "cUQAC7IjWjc",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/65gFug7pEyUFlSg7y13hwy",
+        "apple": "https://podcasts.apple.com/podcast/how-marketers-use-the-same-tactics-as-cults-with/id906031946?i=1000701731761",
+        "youtube": "https://www.youtube.com/watch?v=cUQAC7IjWjc"
+      }
+    }
+  ]
+}

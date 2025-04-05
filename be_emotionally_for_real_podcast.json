@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "894ee025-d193-49f8-b98f-b9d8f65a9d67",
+  "name": "Be emotionally for real Podcast",
+  "youTubeChannelId": "UCmx3u8oJ8GcGLgbcFjgqxFA",
+  "episodes": [
+    {
+      "id": "b41f974c-02d9-4600-bc70-a011b4325e86",
+      "title": "How to NOT get recruited by a cult in London",
+      "release": "2025-04-02T12:23:56Z",
+      "duration": "00:32:00",
+      "explicit": false,
+      "youTubeId": "NIAW57ua_iw",
+      "subjects": [
+        "_London",
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=NIAW57ua_iw"
+      }
+    }
+  ]
+}

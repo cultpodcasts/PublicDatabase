@@ -5,6 +5,20 @@
   "youTubeChannelId": "UCm-iSgcwm2CsMhcQnPazl4Q",
   "episodes": [
     {
+      "id": "fc81f1ad-ef4d-4fba-af34-ce1b2343b23e",
+      "title": "Ex-LA IDMR Survivor Testimony",
+      "release": "2025-03-30T13:00:37Z",
+      "duration": "00:02:20",
+      "explicit": false,
+      "youTubeId": "Q-GK-p7HVnw",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Q-GK-p7HVnw"
+      }
+    },
+    {
       "id": "bb132855-f093-42eb-bdc2-8c0e101c1dc2",
       "title": "IDMR Survivors Testimony",
       "release": "2025-03-23T23:48:56Z",

@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "44b8e29b-a9e0-43f5-9e26-81d62ae9c1ae",
+  "name": "Joe\u2019s Video Archives",
+  "youTubeChannelId": "UCJXTq0wS8fDHCMg6680QgLA",
+  "episodes": [
+    {
+      "id": "9c65e937-0b6f-4aff-93aa-439fb137149e",
+      "title": "Investigative Report Jonestown Mystery of a Massacre A\u0026E May 10th 1999",
+      "description": "Ending is cut off. A\u0026E\u0027s May 10th 1999 investigative report on the Jonestown massacre.",
+      "release": "2023-03-07T01:40:42Z",
+      "duration": "00:56:15",
+      "explicit": true,
+      "youTubeId": "9qdS-t8ISZ0",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9qdS-t8ISZ0"
+      }
+    }
+  ]
+}

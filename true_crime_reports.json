@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "bfb6ff07-7d4c-4306-81c9-779f65fd6bfa",
+  "name": "True Crime Reports",
+  "spotifyId": "2AKBfmlq5OZdK67PcBwN4h",
+  "appleId": 1786217227,
+  "youTubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+  "youTubePlaylistId": "PLzGHKb8i9vTwJ_Smu6j10KfJZjhLPbHYj",
+  "episodes": [
+    {
+      "id": "025bf5a0-1631-4f9b-a5eb-f2e5b5371d7a",
+      "title": "Preview: A Deadly Nazi Cult in Chile | True Crime Reports",
+      "description": "How was a secret Nazi cult allowed to operate in Chile for nearly 40 years? \n\nColonia Dignidad, run by former Nazi Paul Sch\u00E4fer, was home to child abuse and torture. \n\nSo why did the Chilean Pinochet government not only allow this to happen - but support it?\n\nIn a story that goes right to the heart of the German and Chilean governments, what justice can the victims themselves hope for?\n\nWatch the full episode on Sunday, April 6, here: https://youtube.com/playlist?list=PLzGHKb8i9vTwJ_Smu6j10KfJZjhLPbHYj\u0026si=NqpCNV_kz3W8Rwqj",
+      "release": "2025-04-02T18:09:05Z",
+      "duration": "00:02:21",
+      "explicit": false,
+      "youTubeId": "GkxnheLwQjM",
+      "subjects": [
+        "Colonia Dignidad"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GkxnheLwQjM"
+      }
+    }
+  ]
+}

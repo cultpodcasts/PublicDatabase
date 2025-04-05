@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "83e54f09-f3d8-4213-bc10-2fe5788a644a",
+  "name": "Loris Game",
+  "youTubeChannelId": "UCLX_z8EnQP6u5OPi9lI7NCw",
+  "episodes": [
+    {
+      "id": "1d933755-a6a4-4ede-b55e-1ac2e0f4b8c4",
+      "title": "News Conference With Stephan Jones After The Jonestown Massacre",
+      "release": "2015-12-07T21:43:21Z",
+      "duration": "00:08:16",
+      "explicit": false,
+      "youTubeId": "IXhb0YYOWds",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=IXhb0YYOWds"
+      }
+    }
+  ]
+}

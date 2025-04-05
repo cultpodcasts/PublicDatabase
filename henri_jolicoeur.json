@@ -5,6 +5,17 @@
   "youTubeChannelId": "UCrX22zqKYHHQCL0-hzZLd4Q",
   "episodes": [
     {
+      "id": "a32dcb25-237b-4915-8b95-00b5529c3858",
+      "title": "DE ROCKSTAR A TUEUR   Bertrand Cantat un psychopathe ???",
+      "release": "2025-04-04T02:11:35Z",
+      "duration": "00:09:28",
+      "explicit": false,
+      "youTubeId": "hKjEC3w-dis",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hKjEC3w-dis"
+      }
+    },
+    {
       "id": "3ee600ce-0acc-4fa8-abfc-9c6570d2efd4",
       "title": "Paramavaiti...Atulananda...Hridayananda...Virabahu y otros FALSO GURUS LATINOS  (in espagnol)",
       "release": "2025-03-27T18:24:42Z",
@@ -2004,9 +2015,7 @@
       "explicit": false,
       "youTubeId": "1JN83Hsah_A",
       "subjects": [
-        "Cult Psychology",
-        "Bhakti Marga",
-        "Sathya Sai Baba"
+        "Nithyananda"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=1JN83Hsah_A"
@@ -2461,6 +2470,9 @@
       "duration": "00:11:57",
       "explicit": false,
       "youTubeId": "NMJlh9y2ssw",
+      "subjects": [
+        "Nithyananda"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=NMJlh9y2ssw"
       }
@@ -2865,7 +2877,7 @@
       "explicit": false,
       "youTubeId": "hYDOtcfoWdA",
       "subjects": [
-        "Psychology"
+        "Nithyananda"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=hYDOtcfoWdA"
@@ -3112,6 +3124,9 @@
       "duration": "00:24:25",
       "explicit": false,
       "youTubeId": "ZbuIV1g0RoI",
+      "subjects": [
+        "Nithyananda"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=ZbuIV1g0RoI"
       }

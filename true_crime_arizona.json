@@ -4,7 +4,28 @@
   "name": "True Crime Arizona",
   "spotifyId": "1R36EkLIb4v155hEBQ3I7B",
   "appleId": 1539546360,
+  "youTubeChannelId": "UCIrgpHvUm1FMtv-C1xwkJtw",
+  "youTubePlaylistId": "PLJQ20huef_NyLUOPJos066GQNJBPlnwpP",
   "episodes": [
+    {
+      "id": "c665aa56-7959-44c3-bb77-fa30f92c18e8",
+      "title": "The jailhouse interview with Lori Vallow Daybell",
+      "description": "Just days before her high-profile trial is set to begin in Phoenix, so-called \u201CDoomsday Mom\u201D Lori Vallow Daybell sat down for an interview with True Crime Arizona. \u201CI\u2019m fighting for my life here,\u201D she told True Crime Arizona correspondent Briana Whitney. She\u2019s set to represent herself in a murder conspiracy trial in the 2019 death of her fourth husband, Charles Vallow, who was shot to death by her brother Alex Cox. He claimed self-defense at the time and died from natural causes months after the shooting. A jury has been seated , and opening statements are scheduled for Monday.",
+      "release": "2025-04-05T02:18:48Z",
+      "duration": "00:23:50.7520000",
+      "explicit": false,
+      "spotifyId": "2bonU6EVTpc7yg94tCuugR",
+      "appleId": 1000702268482,
+      "youTubeId": "3yiXM6Ke8pE",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2bonU6EVTpc7yg94tCuugR",
+        "apple": "https://podcasts.apple.com/podcast/the-jailhouse-interview-with-lori-vallow-daybell/id1539546360?i=1000702268482",
+        "youtube": "https://www.youtube.com/watch?v=3yiXM6Ke8pE"
+      }
+    },
     {
       "id": "baa579d9-351a-45db-9986-a2aab4a6a19e",
       "title": "Stolen Innocence: Child Brides of the New FLDS Cult Prophet",

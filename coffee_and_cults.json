@@ -1121,6 +1121,9 @@
       "explicit": true,
       "spotifyId": "5dKWeO8RZz1daUC4tFp9fD",
       "appleId": 1000422884925,
+      "subjects": [
+        "Rod Ferrell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5dKWeO8RZz1daUC4tFp9fD",
         "apple": "https://podcasts.apple.com/podcast/episode-8-the-vampire-clan-halloween-special/id1369740428?i=1000422884925"

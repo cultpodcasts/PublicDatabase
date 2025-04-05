@@ -6,6 +6,23 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "27035b74-15c8-40c3-a085-6dd68bd10381",
+      "title": "The Irish Potato Famine - Season 10 Episode 9",
+      "description": "Thor takes us through the Irish Potato Famine. Nathan becomes the modern day Marie Antoinette. Gunnar proclaims the potato as the official Nice Cult Crop.",
+      "release": "2025-04-03T17:05:30Z",
+      "duration": "00:54:12.1170000",
+      "explicit": false,
+      "spotifyId": "08ymaQPVHobIAawxGtiicB",
+      "appleId": 1000702081245,
+      "subjects": [
+        "_Ireland"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/08ymaQPVHobIAawxGtiicB",
+        "apple": "https://podcasts.apple.com/podcast/the-irish-potato-famine-season-10-episode-9/id1565633523?i=1000702081245"
+      }
+    },
+    {
       "id": "efa8262a-4329-461b-9401-e99349f121f8",
       "title": "Porker - Season 10 Episode 8",
       "description": "Nathan brings us through the history of why pork was taken off the menu. Gunnar solves a photographers greatest problems. Thor astounds us with his knowledge. Credit - Matt Smith (",

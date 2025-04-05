@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "41dbed34-f805-4222-908f-f0f6a2ebd04b",
+      "title": "200. John Allen Chau",
+      "description": "This week, we talk about missionary John Allen Chau",
+      "release": "2025-04-02T05:00:00Z",
+      "duration": "01:10:23.5030000",
+      "explicit": true,
+      "spotifyId": "5YuVZOq8oYMxZOZFT6hYNE",
+      "appleId": 1000701849938,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5YuVZOq8oYMxZOZFT6hYNE",
+        "apple": "https://podcasts.apple.com/podcast/200-john-allen-chau/id1573190999?i=1000701849938"
+      }
+    },
+    {
       "id": "2cf49dbd-0623-4025-a4be-ce010013eda6",
       "title": "199. Eric Show W/Scott Okamoto",
       "description": "This week, Scott Okamoto joined us to talk about former MLB pitcher and evangelical, Eric Show.",

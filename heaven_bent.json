@@ -4,7 +4,25 @@
   "name": "Heaven Bent",
   "spotifyId": "7tRJcheTT2UxoGz7ujH8Vo",
   "appleId": 1513489117,
+  "youTubeChannelId": "UCqFAr-WST8nyqrsoFcdv-eA",
   "episodes": [
+    {
+      "id": "2f23a4e2-bf0e-4ec2-af73-01739f8df563",
+      "title": "Touch Not The Lord\u0027s Anointed",
+      "description": "Bodybuilder. Missionary. Youth Pastor. On this episode, Tara Jean reveals what she\u2019s discovered about Art Lucier\u2019s past\u2014from newspaper archives, to livestreams, to firsthand stories from former Harvesters. Art Lucier is the Apostolic Overseer of Harvest Ministries International. He\u2019s also the founding leader of Kelowna Harvest Church, and the former founding leader of Kitimat Harvest Church. As these new episodes are being released, he is facing mounting allegations that have now led to him stepping down. But is he telling the truth. Is this just a bunch of \u0022broken people\u0022 tellings lies? Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-04-03T10:00:00Z",
+      "duration": "00:27:22.3960000",
+      "explicit": false,
+      "spotifyId": "3qANolljWJtIFQJRYSIkUN",
+      "appleId": 1000701953523,
+      "subjects": [
+        "Harvest Ministries International"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3qANolljWJtIFQJRYSIkUN",
+        "apple": "https://podcasts.apple.com/podcast/touch-not-the-lords-anointed/id1513489117?i=1000701953523"
+      }
+    },
     {
       "id": "42223805-a7fa-4ce6-b42e-7f7724ec45b0",
       "title": "Heaven Bent Revisits: Christian Nationalism",
@@ -477,12 +495,14 @@
       "explicit": false,
       "spotifyId": "0IFVEsaRFSZRJXjhXW4R0x",
       "appleId": 1000590724904,
+      "youTubeId": "PdVmj705WA0",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0IFVEsaRFSZRJXjhXW4R0x",
-        "apple": "https://podcasts.apple.com/podcast/s2-bonus-bethel-church-update/id1513489117?i=1000590724904"
+        "apple": "https://podcasts.apple.com/podcast/s2-bonus-bethel-church-update/id1513489117?i=1000590724904",
+        "youtube": "https://www.youtube.com/watch?v=PdVmj705WA0"
       }
     },
     {
@@ -494,12 +514,14 @@
       "explicit": false,
       "spotifyId": "0vgUQFN3eFiY6SudpvDAf9",
       "appleId": 1000586080976,
+      "youTubeId": "kNVriTWn6qg",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0vgUQFN3eFiY6SudpvDAf9",
-        "apple": "https://podcasts.apple.com/podcast/s3-bonus-dreams-of-a-christian-music-superstar/id1513489117?i=1000586080976"
+        "apple": "https://podcasts.apple.com/podcast/s3-bonus-dreams-of-a-christian-music-superstar/id1513489117?i=1000586080976",
+        "youtube": "https://www.youtube.com/watch?v=kNVriTWn6qg"
       }
     },
     {
@@ -511,12 +533,14 @@
       "explicit": false,
       "spotifyId": "5XDQKSHbVVJCNynMBKqKSg",
       "appleId": 1000585303032,
+      "youTubeId": "k8_TkWp30M8",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5XDQKSHbVVJCNynMBKqKSg",
-        "apple": "https://podcasts.apple.com/podcast/s3-bonus-sharon-tells-all/id1513489117?i=1000585303032"
+        "apple": "https://podcasts.apple.com/podcast/s3-bonus-sharon-tells-all/id1513489117?i=1000585303032",
+        "youtube": "https://www.youtube.com/watch?v=k8_TkWp30M8"
       }
     },
     {
@@ -528,12 +552,14 @@
       "explicit": false,
       "spotifyId": "2meKiIjIdGdyUMWKdB2XQy",
       "appleId": 1000581712168,
+      "youTubeId": "fUSPJruLWls",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2meKiIjIdGdyUMWKdB2XQy",
-        "apple": "https://podcasts.apple.com/podcast/s3e7-the-big-ol-ship/id1513489117?i=1000581712168"
+        "apple": "https://podcasts.apple.com/podcast/s3e7-the-big-ol-ship/id1513489117?i=1000581712168",
+        "youtube": "https://www.youtube.com/watch?v=fUSPJruLWls"
       }
     },
     {
@@ -545,13 +571,15 @@
       "explicit": false,
       "spotifyId": "120NZo9rlNXTbuIirXrMrr",
       "appleId": 1000581451365,
+      "youTubeId": "Hr_vkZRqxXY",
       "subjects": [
         "Evangelicalism",
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/120NZo9rlNXTbuIirXrMrr",
-        "apple": "https://podcasts.apple.com/podcast/s3e6-the-tongues-not-of-their-own/id1513489117?i=1000581451365"
+        "apple": "https://podcasts.apple.com/podcast/s3e6-the-tongues-not-of-their-own/id1513489117?i=1000581451365",
+        "youtube": "https://www.youtube.com/watch?v=Hr_vkZRqxXY"
       }
     },
     {
@@ -563,12 +591,14 @@
       "explicit": false,
       "spotifyId": "5thdt3blFc7vB5wfUAR37L",
       "appleId": 1000580199301,
+      "youTubeId": "f4XBm8OTDHQ",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5thdt3blFc7vB5wfUAR37L",
-        "apple": "https://podcasts.apple.com/podcast/s3e5-the-women-preachers/id1513489117?i=1000580199301"
+        "apple": "https://podcasts.apple.com/podcast/s3e5-the-women-preachers/id1513489117?i=1000580199301",
+        "youtube": "https://www.youtube.com/watch?v=f4XBm8OTDHQ"
       }
     },
     {
@@ -580,12 +610,14 @@
       "explicit": false,
       "spotifyId": "0gljXz9i8YDJIVwuiuVMYj",
       "appleId": 1000579491090,
+      "youTubeId": "6sRCvXZRK0g",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0gljXz9i8YDJIVwuiuVMYj",
-        "apple": "https://podcasts.apple.com/podcast/s3e4-the-david-terry-trial/id1513489117?i=1000579491090"
+        "apple": "https://podcasts.apple.com/podcast/s3e4-the-david-terry-trial/id1513489117?i=1000579491090",
+        "youtube": "https://www.youtube.com/watch?v=6sRCvXZRK0g"
       }
     },
     {
@@ -597,12 +629,14 @@
       "explicit": false,
       "spotifyId": "3pUyVcA01XXvu6kJiGnEIM",
       "appleId": 1000578747346,
+      "youTubeId": "NTtlnIJam_M",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3pUyVcA01XXvu6kJiGnEIM",
-        "apple": "https://podcasts.apple.com/podcast/s3e3-the-tabernacle/id1513489117?i=1000578747346"
+        "apple": "https://podcasts.apple.com/podcast/s3e3-the-tabernacle/id1513489117?i=1000578747346",
+        "youtube": "https://www.youtube.com/watch?v=NTtlnIJam_M"
       }
     },
     {
@@ -614,12 +648,14 @@
       "explicit": false,
       "spotifyId": "7HcCwnMMSrcSi90DIDDeQq",
       "appleId": 1000578747233,
+      "youTubeId": "5L_jHYrwJ90",
       "subjects": [
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7HcCwnMMSrcSi90DIDDeQq",
-        "apple": "https://podcasts.apple.com/podcast/s3e2-the-bishop-overseer/id1513489117?i=1000578747233"
+        "apple": "https://podcasts.apple.com/podcast/s3e2-the-bishop-overseer/id1513489117?i=1000578747233",
+        "youtube": "https://www.youtube.com/watch?v=5L_jHYrwJ90"
       }
     },
     {
@@ -631,13 +667,15 @@
       "explicit": false,
       "spotifyId": "36DFz8YIHoGsaZYqwFfa53",
       "appleId": 1000578744383,
+      "youTubeId": "SSXSvEROKTc",
       "subjects": [
         "Evangelicalism",
         "Emmanuel Church of Christ (Nashville)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36DFz8YIHoGsaZYqwFfa53",
-        "apple": "https://podcasts.apple.com/podcast/s3e1-the-emmanuel-church-of-christ/id1513489117?i=1000578744383"
+        "apple": "https://podcasts.apple.com/podcast/s3e1-the-emmanuel-church-of-christ/id1513489117?i=1000578744383",
+        "youtube": "https://www.youtube.com/watch?v=SSXSvEROKTc"
       }
     },
     {
@@ -649,12 +687,14 @@
       "explicit": false,
       "spotifyId": "64HbQxdLuOAJnwX8bimrj1",
       "appleId": 1000577647409,
+      "youTubeId": "St16bfDTLhM",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/64HbQxdLuOAJnwX8bimrj1",
-        "apple": "https://podcasts.apple.com/podcast/s3-trailer-emmanuel-church-of-christ/id1513489117?i=1000577647409"
+        "apple": "https://podcasts.apple.com/podcast/s3-trailer-emmanuel-church-of-christ/id1513489117?i=1000577647409",
+        "youtube": "https://www.youtube.com/watch?v=St16bfDTLhM"
       }
     },
     {
@@ -666,12 +706,14 @@
       "explicit": false,
       "spotifyId": "4hgYDbE3D5X2nm0QyzGuNd",
       "appleId": 1000517716258,
+      "youTubeId": "XVd1Gb1kxo0",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4hgYDbE3D5X2nm0QyzGuNd",
-        "apple": "https://podcasts.apple.com/podcast/s2e8-the-heart-of-bethel/id1513489117?i=1000517716258"
+        "apple": "https://podcasts.apple.com/podcast/s2e8-the-heart-of-bethel/id1513489117?i=1000517716258",
+        "youtube": "https://www.youtube.com/watch?v=XVd1Gb1kxo0"
       }
     },
     {
@@ -683,13 +725,15 @@
       "explicit": false,
       "spotifyId": "3KDHCvWj6IxIfUT8AFhgpE",
       "appleId": 1000516759483,
+      "youTubeId": "PyQwC05g_sU",
       "subjects": [
         "Bethel Church (Redding CA)",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KDHCvWj6IxIfUT8AFhgpE",
-        "apple": "https://podcasts.apple.com/podcast/s2e7-the-devil-himself/id1513489117?i=1000516759483"
+        "apple": "https://podcasts.apple.com/podcast/s2e7-the-devil-himself/id1513489117?i=1000516759483",
+        "youtube": "https://www.youtube.com/watch?v=PyQwC05g_sU"
       }
     },
     {
@@ -701,12 +745,14 @@
       "explicit": false,
       "spotifyId": "726rFRxiMwZtpKu1GT9MQe",
       "appleId": 1000515793246,
+      "youTubeId": "EggQ8ibhM50",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/726rFRxiMwZtpKu1GT9MQe",
-        "apple": "https://podcasts.apple.com/podcast/s2e6-the-once-gays/id1513489117?i=1000515793246"
+        "apple": "https://podcasts.apple.com/podcast/s2e6-the-once-gays/id1513489117?i=1000515793246",
+        "youtube": "https://www.youtube.com/watch?v=EggQ8ibhM50"
       }
     },
     {
@@ -718,12 +764,14 @@
       "explicit": false,
       "spotifyId": "4K7sYN2zeUZmgZjlRy66Z9",
       "appleId": 1000514831261,
+      "youTubeId": "N-DEJlt0TZU",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4K7sYN2zeUZmgZjlRy66Z9",
-        "apple": "https://podcasts.apple.com/podcast/s2e5-the-outbreak/id1513489117?i=1000514831261"
+        "apple": "https://podcasts.apple.com/podcast/s2e5-the-outbreak/id1513489117?i=1000514831261",
+        "youtube": "https://www.youtube.com/watch?v=N-DEJlt0TZU"
       }
     },
     {
@@ -735,12 +783,14 @@
       "explicit": false,
       "spotifyId": "5WA0TIb4yAQ2jKYT16TFH0",
       "appleId": 1000513917861,
+      "youTubeId": "slrd7rBXr90",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5WA0TIb4yAQ2jKYT16TFH0",
-        "apple": "https://podcasts.apple.com/podcast/s2e4-the-power-to-heal/id1513489117?i=1000513917861"
+        "apple": "https://podcasts.apple.com/podcast/s2e4-the-power-to-heal/id1513489117?i=1000513917861",
+        "youtube": "https://www.youtube.com/watch?v=slrd7rBXr90"
       }
     },
     {
@@ -752,12 +802,14 @@
       "explicit": false,
       "spotifyId": "4F1LCkb8u3APbDs7j5zELu",
       "appleId": 1000513029003,
+      "youTubeId": "FMlrL6qFVhw",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4F1LCkb8u3APbDs7j5zELu",
-        "apple": "https://podcasts.apple.com/podcast/s2e3-the-bethel-school-of-supernatural-ministry/id1513489117?i=1000513029003"
+        "apple": "https://podcasts.apple.com/podcast/s2e3-the-bethel-school-of-supernatural-ministry/id1513489117?i=1000513029003",
+        "youtube": "https://www.youtube.com/watch?v=FMlrL6qFVhw"
       }
     },
     {
@@ -769,12 +821,14 @@
       "explicit": false,
       "spotifyId": "6p57nQvdekfVC4Vz7bWFgz",
       "appleId": 1000512056738,
+      "youTubeId": "vp4U_0k1Fr4",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6p57nQvdekfVC4Vz7bWFgz",
-        "apple": "https://podcasts.apple.com/podcast/s2e2-the-city-of-redding/id1513489117?i=1000512056738"
+        "apple": "https://podcasts.apple.com/podcast/s2e2-the-city-of-redding/id1513489117?i=1000512056738",
+        "youtube": "https://www.youtube.com/watch?v=vp4U_0k1Fr4"
       }
     },
     {
@@ -786,12 +840,14 @@
       "explicit": false,
       "spotifyId": "57QXWMtfAEvPPl10Oeu2Yx",
       "appleId": 1000511097904,
+      "youTubeId": "PRKMVSd4oZI",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/57QXWMtfAEvPPl10Oeu2Yx",
-        "apple": "https://podcasts.apple.com/podcast/s2e1-the-freedom-to-worship/id1513489117?i=1000511097904"
+        "apple": "https://podcasts.apple.com/podcast/s2e1-the-freedom-to-worship/id1513489117?i=1000511097904",
+        "youtube": "https://www.youtube.com/watch?v=PRKMVSd4oZI"
       }
     },
     {
@@ -803,12 +859,14 @@
       "explicit": false,
       "spotifyId": "0f6QAYS0XmdSzL2gZWtydo",
       "appleId": 1000509868832,
+      "youTubeId": "dy15OHvICs0",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0f6QAYS0XmdSzL2gZWtydo",
-        "apple": "https://podcasts.apple.com/podcast/s1-bonus-the-modern-prophetic-tour/id1513489117?i=1000509868832"
+        "apple": "https://podcasts.apple.com/podcast/s1-bonus-the-modern-prophetic-tour/id1513489117?i=1000509868832",
+        "youtube": "https://www.youtube.com/watch?v=dy15OHvICs0"
       }
     },
     {
@@ -820,12 +878,14 @@
       "explicit": false,
       "spotifyId": "5PY4sA3wrc5DhTdth7S859",
       "appleId": 1000508814473,
+      "youTubeId": "Ql5e1VcXhgo",
       "subjects": [
         "Bethel Church (Redding CA)"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5PY4sA3wrc5DhTdth7S859",
-        "apple": "https://podcasts.apple.com/podcast/season-2-inside-americas-most-unusual-church/id1513489117?i=1000508814473"
+        "apple": "https://podcasts.apple.com/podcast/season-2-inside-americas-most-unusual-church/id1513489117?i=1000508814473",
+        "youtube": "https://www.youtube.com/watch?v=Ql5e1VcXhgo"
       }
     },
     {
@@ -837,12 +897,14 @@
       "explicit": false,
       "spotifyId": "2IR9RM07zL09yxVd0yNaC4",
       "appleId": 1000493637095,
+      "youTubeId": "kT7jF_wLfvs",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2IR9RM07zL09yxVd0yNaC4",
-        "apple": "https://podcasts.apple.com/podcast/s1-bonus-the-most-evil-person-ever/id1513489117?i=1000493637095"
+        "apple": "https://podcasts.apple.com/podcast/s1-bonus-the-most-evil-person-ever/id1513489117?i=1000493637095",
+        "youtube": "https://www.youtube.com/watch?v=kT7jF_wLfvs"
       }
     },
     {
@@ -854,12 +916,14 @@
       "explicit": false,
       "spotifyId": "3OUZ383mSmNiSV35FHzOe5",
       "appleId": 1000480113756,
+      "youTubeId": "zNdh4WMiXiY",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OUZ383mSmNiSV35FHzOe5",
-        "apple": "https://podcasts.apple.com/podcast/s1e5-the-gold-teeth/id1513489117?i=1000480113756"
+        "apple": "https://podcasts.apple.com/podcast/s1e5-the-gold-teeth/id1513489117?i=1000480113756",
+        "youtube": "https://www.youtube.com/watch?v=zNdh4WMiXiY"
       }
     },
     {
@@ -871,12 +935,14 @@
       "explicit": false,
       "spotifyId": "0lgqrVS5wvo9PPx0zHGOfI",
       "appleId": 1000479039945,
+      "youTubeId": "3a7kciNzmi0",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0lgqrVS5wvo9PPx0zHGOfI",
-        "apple": "https://podcasts.apple.com/podcast/s1e4-the-river/id1513489117?i=1000479039945"
+        "apple": "https://podcasts.apple.com/podcast/s1e4-the-river/id1513489117?i=1000479039945",
+        "youtube": "https://www.youtube.com/watch?v=3a7kciNzmi0"
       }
     },
     {
@@ -888,12 +954,14 @@
       "explicit": false,
       "spotifyId": "1OpKfRk3CXA3HdSFQ5NvrQ",
       "appleId": 1000477992511,
+      "youTubeId": "zcJ-NngaoYw",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1OpKfRk3CXA3HdSFQ5NvrQ",
-        "apple": "https://podcasts.apple.com/podcast/s1e3-the-carpet-time/id1513489117?i=1000477992511"
+        "apple": "https://podcasts.apple.com/podcast/s1e3-the-carpet-time/id1513489117?i=1000477992511",
+        "youtube": "https://www.youtube.com/watch?v=zcJ-NngaoYw"
       }
     },
     {
@@ -905,12 +973,14 @@
       "explicit": false,
       "spotifyId": "3Unkz7LAwsTTJ1HnqVHr18",
       "appleId": 1000477155492,
+      "youTubeId": "jUec3eMD7jQ",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Unkz7LAwsTTJ1HnqVHr18",
-        "apple": "https://podcasts.apple.com/podcast/s1e2-the-gifts-of-the-spirit/id1513489117?i=1000477155492"
+        "apple": "https://podcasts.apple.com/podcast/s1e2-the-gifts-of-the-spirit/id1513489117?i=1000477155492",
+        "youtube": "https://www.youtube.com/watch?v=jUec3eMD7jQ"
       }
     },
     {
@@ -922,12 +992,14 @@
       "explicit": false,
       "spotifyId": "5CfaO7JhYq25W6escMuYrd",
       "appleId": 1000476405960,
+      "youTubeId": "QkQrokO8ihE",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5CfaO7JhYq25W6escMuYrd",
-        "apple": "https://podcasts.apple.com/podcast/s1e1-the-revival/id1513489117?i=1000476405960"
+        "apple": "https://podcasts.apple.com/podcast/s1e1-the-revival/id1513489117?i=1000476405960",
+        "youtube": "https://www.youtube.com/watch?v=QkQrokO8ihE"
       }
     },
     {
@@ -939,12 +1011,14 @@
       "explicit": false,
       "spotifyId": "3qWlCevgraKfl8EuotAEjQ",
       "appleId": 1000474648969,
+      "youTubeId": "QkQrokO8ihE",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qWlCevgraKfl8EuotAEjQ",
-        "apple": "https://podcasts.apple.com/podcast/s1-trailer-the-toronto-blessing/id1513489117?i=1000474648969"
+        "apple": "https://podcasts.apple.com/podcast/s1-trailer-the-toronto-blessing/id1513489117?i=1000474648969",
+        "youtube": "https://www.youtube.com/watch?v=QkQrokO8ihE"
       }
     }
   ]

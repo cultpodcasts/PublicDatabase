@@ -6,6 +6,20 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "c9fd6d75-175d-41de-b907-3907ff3cda2a",
+      "title": "Can play save us?",
+      "description": "Dr. Lakisha Lockhart-Rusch talks to us about the power of play, womanism, and how to survive an era when powers that be seek to erase minoritized identities.",
+      "release": "2025-04-01T09:08:00Z",
+      "duration": "00:58:54.0050000",
+      "explicit": false,
+      "spotifyId": "0f4zjoQOPEiH5RVUt275Qe",
+      "appleId": 1000701707179,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0f4zjoQOPEiH5RVUt275Qe",
+        "apple": "https://podcasts.apple.com/podcast/can-play-save-us/id1438368947?i=1000701707179"
+      }
+    },
+    {
       "id": "97a25b7d-bdd4-421e-8b6f-97935eba28e2",
       "title": "Safe Church",
       "description": "Dr. Andrew Bauman shines a light on the pervasive nature of the sexism on the church and how to fight back. Spoiler: we need to treat it like a men\u0027s issue, not a women\u0027s issue",

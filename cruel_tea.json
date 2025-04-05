@@ -4,7 +4,27 @@
   "name": "Cruel Tea",
   "spotifyId": "1KxA93Ta6qY4cMO7vA69Ax",
   "appleId": 1588660497,
+  "youTubeChannelId": "UCzFG45r3q0IJnLn-naM180g",
   "episodes": [
+    {
+      "id": "619cfc71-2a1e-40c9-94cc-44b196593f23",
+      "title": "Merris Monday: The Zizian Death Cult",
+      "description": "To date, this complicated and strange death cult has been responsible for the death of six people. What does Silicon Valley, veganism, and altruism have to do with it. Well, let me explain\u2026 Lillian: Venmo: Lillian-Asterios, cash app: LillianAsterios, PayPal: Lillisnasterios@icloud.com Support the show",
+      "release": "2025-03-31T06:00:00Z",
+      "duration": "00:33:31.8980000",
+      "explicit": false,
+      "spotifyId": "1mzQn5irhNRifWVtq3wZIr",
+      "appleId": 1000701543245,
+      "youTubeId": "_Dh13GvVC0g",
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1mzQn5irhNRifWVtq3wZIr",
+        "apple": "https://podcasts.apple.com/podcast/merris-monday-the-zizian-death-cult/id1588660497?i=1000701543245",
+        "youtube": "https://www.youtube.com/watch?v=_Dh13GvVC0g"
+      }
+    },
     {
       "id": "836bbfae-8677-49ea-bcb2-968324f24f30",
       "title": "The Kidwelly Sex Cult Season 3 Episode 360",

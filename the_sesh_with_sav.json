@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "fea3ccca-a4e6-41e5-b237-5f207372e3aa",
+  "name": "The Sesh With Sav",
+  "spotifyId": "0hDu3Q4rIgRivTl2OJDmfA",
+  "appleId": 1625593245,
+  "youTubeChannelId": "UC7frLkqp03caX2Ds6oF54rw",
+  "episodes": [
+    {
+      "id": "f24eba82-b034-4cde-aba9-f35e81e227cd",
+      "title": "Jack Fran | Growing up in a Cult | Is Modern Art Stupid? | TSWS PODCAST #149",
+      "description": "We dive into [Jack Fran\u0027s] upbringing in a cult",
+      "release": "2025-03-27T00:52:51Z",
+      "duration": "01:48:46",
+      "explicit": false,
+      "spotifyId": "4eYxdJCnYgDx5k2ByFm1LT",
+      "appleId": 1000700997160,
+      "youTubeId": "2u-cn8WTlDs",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4eYxdJCnYgDx5k2ByFm1LT",
+        "apple": "https://podcasts.apple.com/podcast/jack-fran-growing-up-in-a-cult-is-modern-art-stupid/id1625593245?i=1000700997160",
+        "youtube": "https://www.youtube.com/watch?v=2u-cn8WTlDs"
+      }
+    }
+  ]
+}

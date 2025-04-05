@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "2228406b-95ee-4a82-b3e1-eb4faf26ce45",
+  "name": "Mr Grim\u2019s Terrifying Tales",
+  "youTubeChannelId": "UCLtrTM5ljZhhVMBbLtzfk4A",
+  "episodes": [
+    {
+      "id": "682c1d4d-007b-4f4b-918a-4976db2852f1",
+      "title": "FIVE SONGS BY CULT LEADERS",
+      "release": "2025-03-30T12:42:38Z",
+      "duration": "00:08:54",
+      "explicit": false,
+      "youTubeId": "ro63jq4APD0",
+      "subjects": [
+        "Branch Davidians",
+        "Scientology",
+        "The Source Family",
+        "Peoples Temple",
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ro63jq4APD0"
+      }
+    }
+  ]
+}

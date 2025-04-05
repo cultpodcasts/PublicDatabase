@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "6cbadb5a-ccdd-4ba3-abc9-2c25456c68f3",
+  "name": "1on1 with Jon Evans",
+  "spotifyId": "1VVNrxrxiNYqUO0Bprm955",
+  "appleId": 1793817561,
+  "youTubeChannelId": "UC5FiEHO6PVsHPTdEACdVitw",
+  "episodes": [
+    {
+      "id": "d8034fbd-f45a-42c1-bcf7-44767b93f4f5",
+      "title": "Bethany Joy Lenz: One Tree Hill alum and bestselling author becomes a Queen",
+      "description": "Bethany Joy Lenz \u2019s acting career took off in 2003, when she got the role of Haley James Scott on the hit show One Tree Hill . Fans of the Wilmington-based show didn\u2019t know that while Lenz enjoyed success on-screen, her personal life was being manipulated by leaders of a religious cult. Lenz\u2019s bestselling 2024 memoir, Dinner for Vampires , details how she was lured into \u2018The Family\u2019 and later found the courage to escape with her daughter. Years later, Lenz has now become a Queen , in a city that feels like home.",
+      "release": "2025-04-04T09:30:00Z",
+      "duration": "00:42:14.8050000",
+      "explicit": false,
+      "spotifyId": "3vnRsTboZ3G5a2rsOHgs6D",
+      "appleId": 1000702175785,
+      "youTubeId": "HhbNW6Vl--I",
+      "subjects": [
+        "The Big House Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3vnRsTboZ3G5a2rsOHgs6D",
+        "apple": "https://podcasts.apple.com/podcast/bethany-joy-lenz-one-tree-hill-alum-and-bestselling/id1793817561?i=1000702175785",
+        "youtube": "https://www.youtube.com/watch?v=HhbNW6Vl--I"
+      }
+    }
+  ]
+}

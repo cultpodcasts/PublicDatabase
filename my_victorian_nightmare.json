@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "f3ba55ee-fb7f-47d4-9019-2df19854a760",
+  "name": "My Victorian Nightmare",
+  "spotifyId": "15h4sm3w9DtWRcywgFlzOU",
+  "appleId": 1749899895,
+  "episodes": [
+    {
+      "id": "92d1524c-3643-4e74-9656-87afc545feec",
+      "title": "Ep. 36 - Victorian Cults: Messiahs, Manipulation \u0026 Custom Tea Blends",
+      "description": "Ep. 36 - Victorian Cults: Messiahs, Manipulation \u0026 Custom Tea Blends On today\u2019s episode, Genevieve is talking about Victorian era cults: the bonkers beliefs, the scandals, manipulation, devil children, corpses in bath tubs, custom tea blends, and what inspired these cults to come about in the first place. References for today\u2019s episode: https://medium.com/@pau1morgan/the-lampeter-brethren-a-victorian-sex-cult-e318213d7b7f https://en.wikipedia.org/wiki/Agapemonites https://www.utopia-britannica.org.uk/pages/abode%20of%20love.htm https://headstuff.org/culture/history/terrible-people-from-history/henry-james-prince-john-hugh-smyth-pigott-agapemonite-messiahs/ https://digitalcommons.hamilton.edu/cgi/viewcontent.cgi?params=/context/acsq/article/1490/\u0026path_info=ACSQ_2021.02_130.pdf https://en.m.wikipedia.org/wiki/Koreshan_Unity https://floridatraveler.com/koreshan-state-park/ https://www.newspapers.com/image/917741876/?match=1\u0026terms=Agapemonite https://medium.com/illumination/blurred-lines-how-our-culture-echoes-cult-like-patterns-181bcb9b600a https://conflicttransformation.substack.com/p/responding-to-cults-as-a-social-conflict Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-03-31T09:00:00Z",
+      "duration": "00:52:17.0710000",
+      "explicit": false,
+      "spotifyId": "0qTzRNDpWVYhIUmXKZVonD",
+      "appleId": 1000701554004,
+      "subjects": [
+        "Agapemonites",
+        "Koreshanity"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0qTzRNDpWVYhIUmXKZVonD",
+        "apple": "https://podcasts.apple.com/podcast/ep-36-victorian-cults-messiahs-manipulation-custom/id1749899895?i=1000701554004"
+      }
+    }
+  ]
+}

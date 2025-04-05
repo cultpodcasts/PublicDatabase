@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "2664b1b3-3a56-42fe-ad4b-aca69221b855",
+  "name": "The Slab of Life",
+  "spotifyId": "5LjCo075FNxt3HzGSmzGl9",
+  "appleId": 1589545086,
+  "episodes": [
+    {
+      "id": "2b6db972-73ec-45e3-ba7d-a87b3ad587ea",
+      "title": "Interview With An Ex-Cult Member (Feat. Cheyanne J.) Ep. #15",
+      "description": "Sit a spell on the slab and put your feet up while we interview our friend Cheyanne on her time she spent briefly in a local tiny cult within her hometown. We later shift the topic over towards pyramids schemes and their similarities to cults. Enjoy!",
+      "release": "2025-04-01T04:00:00Z",
+      "duration": "01:06:23.8010000",
+      "explicit": true,
+      "spotifyId": "2WBR9VsER7lBRVuWCC6TvS",
+      "appleId": 1000701680985,
+      "subjects": [
+        "Therapy Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2WBR9VsER7lBRVuWCC6TvS",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-an-ex-cult-member-feat-cheyanne-j-ep-15/id1589545086?i=1000701680985"
+      }
+    }
+  ]
+}

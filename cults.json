@@ -3158,6 +3158,9 @@
       "explicit": false,
       "spotifyId": "7Bc5kETYQZ2x9OQX1wJ4rt",
       "appleId": 1000468648447,
+      "subjects": [
+        "Rod Ferrell"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Bc5kETYQZ2x9OQX1wJ4rt",
         "apple": "https://podcasts.apple.com/podcast/vampire-clan-rod-ferrell/id1286818575?i=1000468648447"
