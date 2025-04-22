@@ -36,6 +36,21 @@
       }
     },
     {
+      "id": "e250e319-04f0-41c5-b839-434b2bec431c",
+      "title": "The case of the predator priest: Abuse and scandal in the Catholic Church (2019)",
+      "description": "CNN\u2019s Nima Elbagir examines allegations of rape, abuse, and cover-ups in the Catholic Church in this 2019 documentary.  #CNN #News",
+      "release": "2023-10-29T22:00:05Z",
+      "duration": "00:42:42",
+      "explicit": false,
+      "youTubeId": "Fsw6vskB-2M",
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Fsw6vskB-2M"
+      }
+    },
+    {
       "id": "5cc13533-259e-4e11-a874-fea56529abc5",
       "title": "Surviving a cult: How 30 people escaped the Jim Jones murder-suicide (2012)",
       "description": "More than 900 people died the day Rev. Jim Jones forced his church followers into a mass murder-suicide in his remote settlement in Guyana, but 30 people were able to survive by defying Jones and fleeing. A 2012 CNN Special Report explored their stories of desperation and remarkable will to survive. #CNN #News",
@@ -93,6 +108,22 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=BC3zCMbdtaE"
+      }
+    },
+    {
+      "id": "93efc643-ea20-4cbe-978a-9a11c6f7615d",
+      "title": "World\u0027s Untold Stories: Secrets \u0026 Sins",
+      "description": "This is a documentary about  the first victim of clerical sexual abuse in Ireland  to go public with their story  It also shows why Pope Francis\u0027 had to chastise  bishops who covered up abuse by priests in their dioceses. The half hour CNNI show World\u0027s Untold Stories, produced by Andrew Tkach and editor Scott McGhee, also examines how errant priests were protected by the church and exported to other countries, including the United States.",
+      "release": "2012-09-06T23:40:35Z",
+      "duration": "00:25:05",
+      "explicit": false,
+      "youTubeId": "AUB52BatlPw",
+      "subjects": [
+        "Catholicism",
+        "_Ireland"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=AUB52BatlPw"
       }
     }
   ]

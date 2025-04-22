@@ -4,7 +4,57 @@
   "name": "Dear Franklin Jones",
   "spotifyId": "5CXfdr4w7CjcurqEVaucyV",
   "appleId": 1348032695,
+  "youTubeChannelId": "UCrKozMNL6yv2Or9N-CDo4dQ",
   "episodes": [
+    {
+      "id": "f8964da3-fabb-4ae0-8536-73c29faa65f7",
+      "title": "The Mind Is Burning: Prologue",
+      "description": "A preview of my memoir for Dear Franklin Jones listeners. THE MIND IS BURNING: Losing my Father to a Cult and Dementia is on sale May 13th and will only be available as an audiobook. You can pre-order your copy now from TheMindisBurning.com or wherever audiobooks are sold.",
+      "release": "2025-04-22T07:00:00Z",
+      "duration": "00:08:13.5400000",
+      "explicit": true,
+      "spotifyId": "0O0yQl05V55zul2oTNwPLJ",
+      "appleId": 1000704422840,
+      "subjects": [
+        "Adi Da"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0O0yQl05V55zul2oTNwPLJ",
+        "apple": "https://podcasts.apple.com/podcast/the-mind-is-burning-prologue/id1348032695?i=1000704422840"
+      }
+    },
+    {
+      "id": "32051f26-151e-4920-834d-7d0ad2d73bbf",
+      "title": "Introducing: The Mind Is Burning",
+      "description": "A very special announcement for fans of Dear Franklin Jones. Introducing my memoir and audiobook. THE MIND IS BURNING: Losing my Father to a Cult and Dementia is on sale May 13th and will only be available as an audiobook. You can pre-order your copy now from TheMindisBurning.com or wherever audiobooks are sold.",
+      "release": "2025-04-11T17:15:29Z",
+      "duration": "00:02:10.7980000",
+      "explicit": true,
+      "spotifyId": "0Q9pIAlPS2cM5GYp1i4lQW",
+      "appleId": 1000703190712,
+      "subjects": [
+        "Adi Da"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Q9pIAlPS2cM5GYp1i4lQW",
+        "apple": "https://podcasts.apple.com/podcast/introducing-the-mind-is-burning/id1348032695?i=1000703190712"
+      }
+    },
+    {
+      "id": "9cb92815-ba90-4983-b2f3-bf6f9a559a7e",
+      "title": "History - Dear Franklin Jones - EP.7.5: The Dream: Wanna Swim in Cash?",
+      "description": "History - Dear Franklin Jones - EP.7.5: The Dream: Wanna Swim in Cash?\n\nPlease subscribe for more updates at: https://goo.gl/eGR6N4\n\nG\u002B: https://goo.gl/DLpQrU\n\n=========================",
+      "release": "2018-12-21T12:30:01Z",
+      "duration": "00:42:43",
+      "explicit": false,
+      "youTubeId": "9jJkUtvSOdI",
+      "subjects": [
+        "Adi Da"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9jJkUtvSOdI"
+      }
+    },
     {
       "id": "0f4a9d87-1469-4a85-bf83-1db182c228b1",
       "title": "Chapter 7: Maybe",
@@ -14,12 +64,14 @@
       "explicit": false,
       "spotifyId": "4Xsstwvf7fZwhYJzlZVi48",
       "appleId": 1000408644474,
+      "youTubeId": "v8_kBU_PrZo",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Xsstwvf7fZwhYJzlZVi48",
-        "apple": "https://podcasts.apple.com/podcast/chapter-7-maybe/id1348032695?i=1000408644474"
+        "apple": "https://podcasts.apple.com/podcast/chapter-7-maybe/id1348032695?i=1000408644474",
+        "youtube": "https://www.youtube.com/watch?v=v8_kBU_PrZo"
       }
     },
     {
@@ -31,12 +83,14 @@
       "explicit": false,
       "spotifyId": "7zG8KlgUx98YO1ti2K9ICZ",
       "appleId": 1000408133903,
+      "youTubeId": "sdqKFzjVISc",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7zG8KlgUx98YO1ti2K9ICZ",
-        "apple": "https://podcasts.apple.com/podcast/chapter-6-gone/id1348032695?i=1000408133903"
+        "apple": "https://podcasts.apple.com/podcast/chapter-6-gone/id1348032695?i=1000408133903",
+        "youtube": "https://www.youtube.com/watch?v=sdqKFzjVISc"
       }
     },
     {
@@ -48,12 +102,14 @@
       "explicit": false,
       "spotifyId": "4b1uo7oE5PKHzBNX5K9kOf",
       "appleId": 1000407650806,
+      "youTubeId": "bhGSeYnP8rE",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4b1uo7oE5PKHzBNX5K9kOf",
-        "apple": "https://podcasts.apple.com/podcast/chapter-5-initiation/id1348032695?i=1000407650806"
+        "apple": "https://podcasts.apple.com/podcast/chapter-5-initiation/id1348032695?i=1000407650806",
+        "youtube": "https://www.youtube.com/watch?v=bhGSeYnP8rE"
       }
     },
     {
@@ -65,12 +121,14 @@
       "explicit": false,
       "spotifyId": "4nJ6HT5fKtLCFf37SkV87e",
       "appleId": 1000407024662,
+      "youTubeId": "TApeO-V2Sfc",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4nJ6HT5fKtLCFf37SkV87e",
-        "apple": "https://podcasts.apple.com/podcast/chapter-4-the-fire/id1348032695?i=1000407024662"
+        "apple": "https://podcasts.apple.com/podcast/chapter-4-the-fire/id1348032695?i=1000407024662",
+        "youtube": "https://www.youtube.com/watch?v=TApeO-V2Sfc"
       }
     },
     {
@@ -82,12 +140,14 @@
       "explicit": false,
       "spotifyId": "7KcVlnLMRTs27IovwKsfLy",
       "appleId": 1000406315083,
+      "youTubeId": "D_IH13nB2Og",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7KcVlnLMRTs27IovwKsfLy",
-        "apple": "https://podcasts.apple.com/podcast/chapter-3-the-accusations-and-the-radiant-presence/id1348032695?i=1000406315083"
+        "apple": "https://podcasts.apple.com/podcast/chapter-3-the-accusations-and-the-radiant-presence/id1348032695?i=1000406315083",
+        "youtube": "https://www.youtube.com/watch?v=D_IH13nB2Og"
       }
     },
     {
@@ -99,12 +159,14 @@
       "explicit": false,
       "spotifyId": "19Jh3OyA7fVt4HD1L6zeyT",
       "appleId": 1000405231826,
+      "youTubeId": "8vIJyo6Pz4g",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19Jh3OyA7fVt4HD1L6zeyT",
-        "apple": "https://podcasts.apple.com/podcast/chapter-2-origin-myths/id1348032695?i=1000405231826"
+        "apple": "https://podcasts.apple.com/podcast/chapter-2-origin-myths/id1348032695?i=1000405231826",
+        "youtube": "https://www.youtube.com/watch?v=8vIJyo6Pz4g"
       }
     },
     {
@@ -116,12 +178,14 @@
       "explicit": false,
       "spotifyId": "1mLfOmT2JwK2fBzS2VcA20",
       "appleId": 1000404151802,
+      "youTubeId": "Bu_HZxfkKfM",
       "subjects": [
         "Adi Da"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1mLfOmT2JwK2fBzS2VcA20",
-        "apple": "https://podcasts.apple.com/podcast/chapter-1-waking-up/id1348032695?i=1000404151802"
+        "apple": "https://podcasts.apple.com/podcast/chapter-1-waking-up/id1348032695?i=1000404151802",
+        "youtube": "https://www.youtube.com/watch?v=Bu_HZxfkKfM"
       }
     },
     {

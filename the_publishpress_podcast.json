@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "61573699-e713-4671-bf1c-57611ea942d1",
+  "name": "The PublishPress Podcast",
+  "spotifyId": "6Cr3gkXcltcUClmPQiHVmC",
+  "appleId": 1790516548,
+  "youTubeChannelId": "UC8VExJ7eS8EduxYD_GSMNdA",
+  "episodes": [
+    {
+      "id": "e83f2e9e-b76d-4e08-a489-20f6fbbe93f5",
+      "title": "Teaching Web Design to Everyone from Harvard to Human Trafficking Survivors, With Jen Kramer",
+      "description": "Jen Kramer has taught web design for decades. Her career spans Harvard, community colleges, LinkedIn, Frontend Masters and now Annie Cannons, a nonprofit boot camp for human trafficking survivors. In this episode of the PublishPress Podcast, Jen talks about her career and how web design teaching has changes over the years. Jen believes that good teaching requires the same skills, no matter where the students are. Jen believes that students need to know the foundational skills in web development: HTML, CSS, and Javascript. Everything else should build on that base. Key Links: https://anniecannons.org https://www.jenkramer.org We touched on these topics in this episode: Jen is currently the director of learning design and technology for Annie Cannons. The bootcamp teaches job skills to human trafficking survivors. Students are paid to attend classes, allowing them to focus on learning. The course lasts a little over a year and includes various programming languages. Graduates are prepared for junior developer roles, but the job market is tough. Teaching requires a solid understanding of educational principles. Effective teaching involves chunking information and allowing for reflection. The transition to online learning has changed the landscape of education. Video learning has become the preferred method for many learners. Fundamentals like HTML and CSS remain crucial in web development. Coding is often seen as entertainment rather than a learning process. Tools like Duolingo provide fast but not always effective learning. Effective teaching requires a focus on what students will remember long-term. AI is changing the landscape of coding education and job opportunities but junior developers need to develop real problem-solving skills. Structured learning helps students understand the order of concepts. The basics of web development remain crucial despite technological changes.",
+      "release": "2025-04-16T00:37:17Z",
+      "duration": "00:47:33.1720000",
+      "explicit": false,
+      "spotifyId": "73tiObRGHEIxXfXJIqLJBO",
+      "appleId": 1000703679118,
+      "youTubeId": "SOGXl40IMkE",
+      "subjects": [
+        "Human Trafficking",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/73tiObRGHEIxXfXJIqLJBO",
+        "apple": "https://podcasts.apple.com/podcast/teaching-web-design-to-everyone-from-harvard-to-human/id1790516548?i=1000703679118",
+        "youtube": "https://www.youtube.com/watch?v=SOGXl40IMkE"
+      }
+    }
+  ]
+}

@@ -5,6 +5,66 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "4ccdb712-35f3-430d-acfa-307ed57e888c",
+      "title": "EP# 106 ~ A quien pueda interesar. Cap\u00EDtulo 3 Se ha escrito esta semana ~ Satur 4/4/04",
+      "description": "https://opuslibros.org/nuevaweb/modules.php?name=News\u0026file=article\u0026sid=1343",
+      "release": "2025-04-18T00:00:00",
+      "duration": "00:05:00.0250000",
+      "explicit": false,
+      "spotifyId": "4STjkSyALwucNCfMZ8hTr0",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4STjkSyALwucNCfMZ8hTr0"
+      }
+    },
+    {
+      "id": "864a50f0-b83f-49a7-9a57-ec8fb1474706",
+      "title": "EP# 105 ~ A quien pueda interesar. Cap\u00EDtulo 2 \u00BFQu\u00E9 has hecho del pasado? ~ Satur 20/3/04",
+      "description": "https://opuslibros.org/nuevaweb/modules.php?name=News\u0026file=article\u0026sid=1226",
+      "release": "2025-04-15T00:00:00",
+      "duration": "00:05:13.0970000",
+      "explicit": false,
+      "spotifyId": "6wLaBwjcoNiOrjDCS8tYOe",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6wLaBwjcoNiOrjDCS8tYOe"
+      }
+    },
+    {
+      "id": "ee463df1-aca0-41df-86a6-2f8878556f29",
+      "title": "EP# 104 ~ A quien pueda interesar. Cap\u00EDtulo 1 Jos\u00E9 Car anda erre que erre ~ Satur 4/3/04",
+      "description": "https://opuslibros.org/nuevaweb/modules.php?name=News\u0026file=article\u0026sid=1092",
+      "release": "2025-04-12T00:00:00",
+      "duration": "00:08:58.6330000",
+      "explicit": false,
+      "spotifyId": "4mJRPb25hTZTbJIdbgw5oW",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4mJRPb25hTZTbJIdbgw5oW"
+      }
+    },
+    {
+      "id": "bea4d508-e9e8-4292-8b29-fd5dd006adce",
+      "title": "EP# 103 ~ \u00BFQu\u00E9 es lo fundamental? ~ Melqui 8/7/2004",
+      "description": "https://www.opuslibros.org/nuevaweb/modules.php?name=News\u0026file=article\u0026sid=2240",
+      "release": "2025-04-09T00:00:00",
+      "duration": "00:10:45.5610000",
+      "explicit": false,
+      "spotifyId": "1VG4B3xcIw2wYEL2FQp6Kd",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1VG4B3xcIw2wYEL2FQp6Kd"
+      }
+    },
+    {
       "id": "640c7e1f-af59-4fde-b2eb-0f5fbf762e9f",
       "title": "EP# 102 Las mu\u00F1ecas rotas ~ Mar\u00EDa Elena G 10/3/2023",
       "description": "https://www.opuslibros.org/nuevaweb/modules.php?name=News\u0026file=print\u0026sid=27680",

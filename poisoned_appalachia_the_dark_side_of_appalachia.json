@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "b5c3c16c-f7ad-4cf5-844b-fc41fd2b3a03",
+  "name": "Poisoned Appalachia: the Dark Side of Appalachia",
+  "spotifyId": "7gNdEnGqisDezHEabNbIlK",
+  "appleId": 1763635964,
+  "youTubeChannelId": "UCsNkobfuzoI70lqU8XjQ5bQ",
+  "episodes": [
+    {
+      "id": "5d641d21-126f-4c94-a5cb-3626fed6f2b9",
+      "title": "Episode 36: the Cult of the Unknown Tongues",
+      "description": "In 1933 in Kentucky, the only known ritual killing in Appalachia occurred. Find out about the death of Lucinda Mills and the Cult of the unknown tongues.",
+      "release": "2025-04-07T20:00:00Z",
+      "duration": "00:27:15.8450000",
+      "explicit": false,
+      "spotifyId": "3YkkkhD5H3eq9l9rbsMF0G",
+      "appleId": 1000702588694,
+      "youTubeId": "4ni_fentkzw",
+      "subjects": [
+        "John H Mills"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3YkkkhD5H3eq9l9rbsMF0G",
+        "apple": "https://podcasts.apple.com/podcast/episode-36-the-cult-of-the-unknown-tongues/id1763635964?i=1000702588694",
+        "youtube": "https://www.youtube.com/watch?v=4ni_fentkzw"
+      }
+    }
+  ]
+}

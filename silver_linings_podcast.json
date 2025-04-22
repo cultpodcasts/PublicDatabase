@@ -7,6 +7,59 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "a6e36a07-44aa-40bc-9f47-908402092c6b",
+      "title": "Silver Linings Going Forward - April 18th",
+      "description": "Silver Linings Podcast continues to be a safe place for people to come and explore the collateral damage of embracing evil like Chad, Lori, and Alex chose to do.",
+      "release": "2025-04-19T00:31:06Z",
+      "duration": "00:30:15",
+      "explicit": false,
+      "spotifyId": "4x3swzIiEbTxoTrJAcsMWg",
+      "appleId": 1000704067798,
+      "youTubeId": "usD-ONDrOac",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4x3swzIiEbTxoTrJAcsMWg",
+        "apple": "https://podcasts.apple.com/podcast/silver-linings-going-forward-april-18th/id1694606661?i=1000704067798",
+        "youtube": "https://www.youtube.com/watch?v=usD-ONDrOac"
+      }
+    },
+    {
+      "id": "8c60988f-23fd-4e94-93c8-535e80b5797c",
+      "title": "Adam Testifies in Court_April_12th",
+      "description": "Adam faces Lori in court and stays as cool as the other side of the pillow!",
+      "release": "2025-04-19T00:27:15Z",
+      "duration": "01:30:44",
+      "explicit": false,
+      "spotifyId": "0rKwOmMOsVf2AIvTQYLur6",
+      "appleId": 1000704067740,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0rKwOmMOsVf2AIvTQYLur6",
+        "apple": "https://podcasts.apple.com/podcast/adam-testifies-in-court-april-12th/id1694606661?i=1000704067740"
+      }
+    },
+    {
+      "id": "7821ee54-b03f-4dd5-85cd-a3ae5665d83c",
+      "title": "And So It Begins - from 1 April",
+      "description": "Lori\u0027s trial is underway. Let\u0027s discuss what we may expect and are we ready for it!",
+      "release": "2025-04-18T21:57:44Z",
+      "duration": "01:15:27",
+      "explicit": false,
+      "spotifyId": "5gRtaNIH1CjL4UPMeq9Qse",
+      "appleId": 1000704055945,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5gRtaNIH1CjL4UPMeq9Qse",
+        "apple": "https://podcasts.apple.com/podcast/and-so-it-begins-from-1-april/id1694606661?i=1000704055945"
+      }
+    },
+    {
       "id": "ddb099b0-e493-475f-bb6d-4f5ae27b2794",
       "title": "Let\u0027s Talk About the Dateline Episode",
       "description": "We needed to delay a day until Sunday the 9th at 4:30 - please join us then!",

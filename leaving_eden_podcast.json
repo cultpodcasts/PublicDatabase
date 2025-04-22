@@ -4,7 +4,60 @@
   "name": "Leaving Eden Podcast",
   "spotifyId": "6jh5cAYRXAoqBSIQ1OckG5",
   "appleId": 1525971285,
+  "youTubeChannelId": "UCJ4q94gAnsoW2jME4SvVrrQ",
   "episodes": [
+    {
+      "id": "64637b3a-7747-4058-a4ce-a95539ddef9e",
+      "title": "Ep. 227: Missions Conferences with Chad Harris",
+      "description": "In this episode, we are joined by Chad Harris (AKA Archraddish85) to talk about missions conferences! Also, Gavi live-reacts to missions classic banger tunes \u0022People Need The Lord\u0022 and \u0022Thank You For Giving To The Lord.\u0022 Sadie is very sick so her voice sounds like Michelle Duggar. Join our discord server! https://discord.gg/G5wXrMH6k6 Join our subreddit! Reddit.com/r/EdenExodus Bluesky: @leavingedenpodcast.bsky.social @hellyeahsadie.bsky.social @gavihacohen.bsky.social Instagram: https://www.instagram.com/leavingedenpodcast/ https://www.instagram.com/sadiecarpentermusic/ https://www.instagram.com/gavrielhacohen/ Get bonus content on Patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-04-21T07:00:00Z",
+      "duration": "01:20:34.8470000",
+      "explicit": false,
+      "spotifyId": "4Celo0u5Lh3gDhl91aaGCU",
+      "appleId": 1000704274155,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Celo0u5Lh3gDhl91aaGCU",
+        "apple": "https://podcasts.apple.com/podcast/ep-227-missions-conferences-with-chad-harris/id1525971285?i=1000704274155"
+      }
+    },
+    {
+      "id": "3ed57823-778d-4b81-91fa-e83798adc19e",
+      "title": "Ep. 226: Fundie Would You Rather",
+      "description": "In this episode, we play a game of \u0022would you rather\u0022 and this time, it\u0027s fundie themed! Hope you enjoy! Join our discord server! https://discord.gg/G5wXrMH6k6 Join our subreddit! Reddit.com/r/EdenExodus Bluesky: @leavingedenpodcast.bsky.social @hellyeahsadie.bsky.social @gavihacohen.bsky.social Instagram: https://www.instagram.com/leavingedenpodcast/ https://www.instagram.com/sadiecarpentermusic/ https://www.instagram.com/gavrielhacohen/ Get bonus content on Patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-04-14T07:00:00Z",
+      "duration": "01:20:12.3290000",
+      "explicit": false,
+      "spotifyId": "5e7PWLCwmpSsI3pvN9uFDj",
+      "appleId": 1000703429086,
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5e7PWLCwmpSsI3pvN9uFDj",
+        "apple": "https://podcasts.apple.com/podcast/ep-226-fundie-would-you-rather/id1525971285?i=1000703429086"
+      }
+    },
+    {
+      "id": "3f52935a-a109-434d-8dec-cf1ba96702bd",
+      "title": "Ep. 225: Listener Responses to \u0022Is The Church Doomed?\u0022 and \u0022Deprogramming MAGA\u0022",
+      "description": "Last month, we released two episodes about the future of the church and deprogramming friends/family members from the MAGA movement. Our listeners had thoughts about these episodes that we decided to share with you! A big thank you to Caroline, Brian, Megan, and Norman for writing to us! Join our discord server! https://discord.gg/jpbGb6rh Join our subreddit! Reddit.com/r/EdenExodus Bluesky: @leavingedenpodcast.bsky.social @hellyeahsadie.bsky.social @gavihacohen.bsky.social Instagram: https://www.instagram.com/leavingedenpodcast/ https://www.instagram.com/sadiecarpentermusic/ https://www.instagram.com/gavrielhacohen/ Get bonus content on Patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-04-07T07:00:00Z",
+      "duration": "01:46:33.6780000",
+      "explicit": false,
+      "spotifyId": "0wdqb58PEXxV5Wd0u1eSYY",
+      "appleId": 1000702473258,
+      "subjects": [
+        "Qanon",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0wdqb58PEXxV5Wd0u1eSYY",
+        "apple": "https://podcasts.apple.com/podcast/ep-225-listener-responses-to-is-the-church-doomed/id1525971285?i=1000702473258"
+      }
+    },
     {
       "id": "7401411b-7215-4c0b-bb62-a2736437766c",
       "title": "Ep, 224: TRUMP IS THE ANTICHRIST MUSK IS THE FALSE PROPHET",
@@ -66,13 +119,15 @@
       "explicit": false,
       "spotifyId": "1q01GhCXwA8uzehPBDj0HU",
       "appleId": 1000698548041,
+      "youTubeId": "7p1TfC0ir54",
       "subjects": [
         "Qanon",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1q01GhCXwA8uzehPBDj0HU",
-        "apple": "https://podcasts.apple.com/podcast/ep-221-deprogramming-maga/id1525971285?i=1000698548041"
+        "apple": "https://podcasts.apple.com/podcast/ep-221-deprogramming-maga/id1525971285?i=1000698548041",
+        "youtube": "https://www.youtube.com/watch?v=7p1TfC0ir54"
       }
     },
     {

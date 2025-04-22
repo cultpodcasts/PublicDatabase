@@ -20,6 +20,22 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=OWV-5tMgLKo"
       }
+    },
+    {
+      "id": "2874efc3-1e0d-49dc-b68b-b28eb825a8dc",
+      "title": "Mea Maxima Culpa - Silence in the House of God",
+      "description": "Alex Gibney explores the charged issue of pedophilia in the Catholic Church, following a trail from the first known protest against clerical sexual abuse in the United States and all the way to the Vatican.",
+      "release": "2013-02-15T00:00:00Z",
+      "duration": "01:46:34",
+      "explicit": false,
+      "subjects": [
+        "_Ireland",
+        "Catholicism",
+        "EDUCO"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/Mea.Maxima.Culpa.Silence.in.the.House.of.God.720p"
+      }
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "53b1ce0a-783b-47a2-958e-372172a60fef",
+  "name": "Marnie and Campo",
+  "spotifyId": "4kOFqhzPPsP7ILXp86V7vc",
+  "appleId": 1313206968,
+  "episodes": [
+    {
+      "id": "4f48ad3d-73f8-4f86-bbe4-c0391dbbd92b",
+      "title": "The Saints - The Podcast",
+      "description": "See omnystudio.com/listener for privacy information.",
+      "release": "2025-04-06T23:58:23Z",
+      "duration": "00:02:14",
+      "explicit": false,
+      "spotifyId": "48iFQI3qISLc7il1YwToSS",
+      "appleId": 1000702414927,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/48iFQI3qISLc7il1YwToSS",
+        "apple": "https://podcasts.apple.com/podcast/the-saints-the-podcast/id1313206968?i=1000702414927"
+      }
+    }
+  ]
+}

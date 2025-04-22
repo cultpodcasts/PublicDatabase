@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCnqB030coG1f5i9-XUTuAyA",
   "episodes": [
     {
+      "id": "02b9b7a5-0ea3-4d2d-87aa-65559436c169",
+      "title": "QYC 221: Cult Piece",
+      "release": "2025-04-20T20:27:05Z",
+      "duration": "00:17:56",
+      "explicit": false,
+      "youTubeId": "MHxU67aIcNA",
+      "subjects": [
+        "Sufi"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MHxU67aIcNA"
+      }
+    },
+    {
+      "id": "4cb08a35-4ee2-4113-bb10-a5e53d339a11",
+      "title": "Cult Piece Audio/Video",
+      "description": "This is the video/audio track for my performance Cult Piece. I\u0027ve made it accessible here so that people can watch/listen before the show. This is in the interest of sensory accessibility and empowering people to decide for themselves how they want to most comfortably engage with stimulating material. In the show, I perform against this backdrop.  I look forward to your thoughts.  One more detail:  every minute of this video corresponds with a year of my life, so minutes 29-53 are my years in the cult.",
+      "release": "2025-04-12T15:00:34Z",
+      "duration": "01:00:04",
+      "explicit": false,
+      "youTubeId": "n3p2jnI5Qf8",
+      "subjects": [
+        "Sufi"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=n3p2jnI5Qf8"
+      }
+    },
+    {
       "id": "2d2fcc78-e9d7-49e6-83ef-f6aeac1e2e8f",
       "title": "QYC 220:  Dean\u0027s Response to Being Called Out on Sexual Abuse",
       "release": "2025-03-25T13:17:33Z",

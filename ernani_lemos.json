@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "81b30dc5-fd1a-4e18-ad01-1893ccd5a535",
+  "name": "Ernani Lemos",
+  "youTubeChannelId": "UCNufXwEhZbpHGrM4zof0TRA",
+  "episodes": [
+    {
+      "id": "8bdcd526-6066-4c96-8096-791828237c1f",
+      "title": "LOST CHILDHOOD",
+      "description": "Two Irish men tell the routine of violence, horror and abuse they have been through as children in the institutions ruled by the catholic church in the 40s and 50s.",
+      "release": "2010-05-10T15:52:16Z",
+      "duration": "00:09:14",
+      "explicit": false,
+      "youTubeId": "Bd__3GqrcBw",
+      "subjects": [
+        "Catholicism",
+        "_Ireland"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Bd__3GqrcBw"
+      }
+    }
+  ]
+}

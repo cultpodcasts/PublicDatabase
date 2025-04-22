@@ -6,6 +6,48 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "47a0c1be-a377-49ef-b67e-3ee506a81af0",
+      "title": "202. Hitler\u0027s Favorite Play W/ Go Home Bible You\u0027re Drunk",
+      "description": "This week, Tori and Justin from Go Home Bible Youre drunk join us to talk Passion Plays and their connection to antisemitism and Adolf Hitler.",
+      "release": "2025-04-16T06:00:00Z",
+      "duration": "01:42:39.3070000",
+      "explicit": true,
+      "spotifyId": "2YY3kwbdIr4NVKvZKPKKiM",
+      "appleId": 1000703704074,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2YY3kwbdIr4NVKvZKPKKiM",
+        "apple": "https://podcasts.apple.com/podcast/202-hitlers-favorite-play-w-go-home-bible-youre-drunk/id1573190999?i=1000703704074"
+      }
+    },
+    {
+      "id": "17c51c5f-e5ff-4e7b-b0ea-53b89eb105ba",
+      "title": "198. Sicarii Part II W/Samuel David (deleted and reuploaded)",
+      "description": "The original got deleted. Our apologies.",
+      "release": "2025-04-14T15:47:51Z",
+      "duration": "01:38:12",
+      "explicit": false,
+      "spotifyId": "4AtZG24zNw0BbzkYWMFqRP",
+      "appleId": 1000703480998,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4AtZG24zNw0BbzkYWMFqRP",
+        "apple": "https://podcasts.apple.com/podcast/198-sicarii-part-ii-w-samuel-david-deleted-and-reuploaded/id1573190999?i=1000703480998"
+      }
+    },
+    {
+      "id": "02841454-3c76-45d6-86f2-2deaa275c1cc",
+      "title": "201. John Allen Chau Part II",
+      "description": "This week, we finish up our discussion on late missionary John Allen Chau",
+      "release": "2025-04-09T06:00:00Z",
+      "duration": "01:08:02.3110000",
+      "explicit": true,
+      "spotifyId": "3R4vvMSwuMalRFo1oSWf4T",
+      "appleId": 1000702825782,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3R4vvMSwuMalRFo1oSWf4T",
+        "apple": "https://podcasts.apple.com/podcast/201-john-allen-chau-part-ii/id1573190999?i=1000702825782"
+      }
+    },
+    {
       "id": "41dbed34-f805-4222-908f-f0f6a2ebd04b",
       "title": "200. John Allen Chau",
       "description": "This week, we talk about missionary John Allen Chau",

@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "38daa474-00f2-4523-a834-8d56eb0af975",
+  "name": "Dr. Mara Einstein",
+  "youTubeChannelId": "UCSV_OXecDvswqCvgDlSNg5A",
+  "episodes": [
+    {
+      "id": "2d185d0e-24ea-4ed9-ba8f-b752837e6af8",
+      "title": "Belle Gibson and Cult Tactics",
+      "release": "2025-04-18T11:30:16Z",
+      "duration": "00:04:39",
+      "explicit": false,
+      "youTubeId": "QVC9hB4_qiI",
+      "subjects": [
+        "Belle Gibson",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QVC9hB4_qiI"
+      }
+    }
+  ]
+}

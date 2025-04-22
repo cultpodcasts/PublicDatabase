@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "39b63641-0206-4bc4-aa03-9575366c4a45",
+  "name": "L.A. Not So Confidential: The Premier Forensic Psychology Podcast",
+  "spotifyId": "21dpgZ5V9I9m2RI8tB8Nr2",
+  "appleId": 1293032240,
+  "episodes": [
+    {
+      "id": "b35b911a-c824-4dd0-9d24-c01e4df8b0e5",
+      "title": "205. Behind the Couch: True Crime in the News",
+      "description": "We jump in to the Zizian Cult out of California and the related murders across the nation. If you want to hear us talk more in depth about the Zizians, watch our appearance on Defense Diaries .",
+      "release": "2025-04-16T08:00:07Z",
+      "duration": "00:55:53.4960000",
+      "explicit": true,
+      "spotifyId": "2Hv13vNNtgKbAz6gE72qck",
+      "appleId": 1000703713501,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Hv13vNNtgKbAz6gE72qck",
+        "apple": "https://podcasts.apple.com/podcast/205-behind-the-couch-true-crime-in-the-news/id1293032240?i=1000703713501"
+      }
+    }
+  ]
+}

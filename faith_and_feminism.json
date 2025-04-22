@@ -6,6 +6,51 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "e7a43743-ff84-4533-b840-8c28f53ab19d",
+      "title": "The radicalization of young white men in America.",
+      "description": "Rev. Angela Denker talks to us about the rise in radicalization among young white men in America, especially focused on the role of right-wing Christianity in the increase of religious-based hatred and violence, and how we can combat it by helping men heal.",
+      "release": "2025-04-22T13:37:00Z",
+      "duration": "01:05:17.0190000",
+      "explicit": false,
+      "spotifyId": "3joAYMwMtitk2k3knfXil7",
+      "appleId": 1000704456989,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3joAYMwMtitk2k3knfXil7",
+        "apple": "https://podcasts.apple.com/podcast/the-radicalization-of-young-white-men-in-america/id1438368947?i=1000704456989"
+      }
+    },
+    {
+      "id": "85def349-6333-42da-817f-9e75b6278bd2",
+      "title": "Saving Face: Finding My Self, God, and One Another Outside a Defaced Church",
+      "description": "Aimee Byrd, author or\u00A0Recovering From Biblical Manhood and Womanhood,\u00A0talks to us the trauma she experienced through daring to question evangelical teachings on gender, and how she is healing as she finds a way forward walking in authenticity and integrity.",
+      "release": "2025-04-15T13:58:00Z",
+      "duration": "01:00:12",
+      "explicit": false,
+      "spotifyId": "5dX5GyHMKHvrLPWnh3AK4W",
+      "appleId": 1000703601895,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5dX5GyHMKHvrLPWnh3AK4W",
+        "apple": "https://podcasts.apple.com/podcast/saving-face-finding-my-self-god-and-one-another/id1438368947?i=1000703601895"
+      }
+    },
+    {
+      "id": "633a2c51-c853-48b7-922e-09ffaa795401",
+      "title": "Womanist Bioethics: Social Justice, Spirituality, and Black Women\u0027s Health",
+      "description": "Dr. Wylin D. Wilson talks to us about the disparity of healthcare when it comes to Black Women\u0027s bodies and how womanist theology can show us a way forward.",
+      "release": "2025-04-08T12:02:00Z",
+      "duration": "01:06:48",
+      "explicit": false,
+      "spotifyId": "1iV4VJZPSeqEEBEwpWrDJT",
+      "appleId": 1000702703189,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1iV4VJZPSeqEEBEwpWrDJT",
+        "apple": "https://podcasts.apple.com/podcast/womanist-bioethics-social-justice-spirituality-and/id1438368947?i=1000702703189"
+      }
+    },
+    {
       "id": "c9fd6d75-175d-41de-b907-3907ff3cda2a",
       "title": "Can play save us?",
       "description": "Dr. Lakisha Lockhart-Rusch talks to us about the power of play, womanism, and how to survive an era when powers that be seek to erase minoritized identities.",

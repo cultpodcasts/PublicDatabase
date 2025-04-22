@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "dcaa1256-e412-4c0b-ace6-313330118e13",
+  "name": "Cryptid Cocktail Party",
+  "spotifyId": "0vfEUXplTCrvyPp6Rskb5X",
+  "appleId": 1668688455,
+  "youTubeChannelId": "UCPzEgfGF-cAJ51CqD0tfYzg",
+  "episodes": [
+    {
+      "id": "477dfdbc-3a9a-43af-93d4-d4d4e3472352",
+      "title": "The Seekers: A UFO Doomsday Cult Story",
+      "description": "Welcome back to another episode of Cryptid Cocktail Party! This week, we decided to try something a little different and dip our toes into the world of cults and discuss the 1950s UFO doomsday cult known as The Seekers, who not only ended up being 100% wrong about their predictions but, also ended up being the case study for the theory of cognitive dissonance! So that\u0027s cool!",
+      "release": "2025-04-07T04:00:38Z",
+      "duration": "00:42:47.3660000",
+      "explicit": false,
+      "spotifyId": "18fWvVAhEBVxDfNFYZ9Oyi",
+      "appleId": 1000702441228,
+      "youTubeId": "v9W70O-uZoA",
+      "subjects": [
+        "The Seekers"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/18fWvVAhEBVxDfNFYZ9Oyi",
+        "apple": "https://podcasts.apple.com/podcast/the-seekers-a-ufo-doomsday-cult-story/id1668688455?i=1000702441228",
+        "youtube": "https://www.youtube.com/watch?v=v9W70O-uZoA"
+      }
+    }
+  ]
+}

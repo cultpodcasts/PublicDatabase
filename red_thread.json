@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "9b571cf5-9736-42ad-9162-00572cc6cdc4",
+  "name": "Red Thread",
+  "spotifyId": "1AuEfikQoC5MTezIAiance",
+  "appleId": 1719818294,
+  "youTubeChannelId": "UCcHYe-Qw7qUN5gFWMdj9nNw",
+  "episodes": [
+    {
+      "id": "9ac8b6fb-0d9c-467b-acf5-ac4f8f2c7f31",
+      "title": "61: Ra\u00EBlism: The UFO Cult With Dark Motives | Red Thread",
+      "release": "2025-04-20T23:25:00Z",
+      "duration": "03:03:21.0660000",
+      "explicit": false,
+      "spotifyId": "6aYlH82ap5bCfE3NFtS9wE",
+      "appleId": 1000704236043,
+      "youTubeId": "Q-dBPsNvtlc",
+      "subjects": [
+        "Ra\u00EBlism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6aYlH82ap5bCfE3NFtS9wE",
+        "apple": "https://podcasts.apple.com/podcast/61-ra%C3%ABlism-the-ufo-cult-with-dark-motives-red-thread/id1719818294?i=1000704236043",
+        "youtube": "https://www.youtube.com/watch?v=Q-dBPsNvtlc"
+      }
+    }
+  ]
+}

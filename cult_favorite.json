@@ -4,7 +4,43 @@
   "name": "Cult Favorite",
   "spotifyId": "3hQvP3lW9OiBUyBO0JUhd0",
   "appleId": 1758534607,
+  "youTubeChannelId": "UCA04PrhGZx1KBOC0mFk7N0g",
   "episodes": [
+    {
+      "id": "157740ed-7c53-410a-bd83-210bf05cee1b",
+      "title": "The Hatchet Wielding Hitchhiker (Netflix, 2023)",
+      "description": "If the ingredients of something called a \u201Ccult\u201D include a charismatic figure and unquestioning followers, the phenomenon of \u201CKai the Hitchhiker\u201D helps us think about what happens when the power dynamic between those elements is inverted. Famous for the local news interview that launched a thousand memes, Kai was an unlikely hero whose lowkey charm saw people clamoring to make him a late-night and reality tv star. What do people offer and, alternatively, ignore when we want to see a particular story play out in a way that satisfies us? How do we respond when someone doesn\u2019t follow our social scripts about wealth and power? What stories do we tell retroactively to make it make sense? What do we expect of someone deemed charismatic, and what does that tell us about ourselves? We explore these questions and others, like: will we ever get the video working for this podcast? Hang in as we keep trying, dear listeners! \n\n\n\n\n\n\nMerinda\u0027s Cult Favorite:\n\n\nHanif Abdurraqib\u2019s \u201CTo Chan Marshall: A Letter to Cat Power\u201D (in season 2 of the Lost Notes podcast); then his own examination of musical moments and figures in 1980 for the 3rd season (the episode that reckons with the deaths of John Lennon and Darby Crash [lead singer of punk band Germs] is so good). Both are examples of attending to context with empathy, which is one of his trademarks and which siiiiiiiigh, thank you. \n\n\nMike\u0027s Cult Favorite:\n\n\n\u201CI Don\u2019t Like Who I Was Then\u201D by The Wonder Years (https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv) \n\n\nAs an undermatured 40 year old recovering emo kid, a song where a dude sings about genuinely tryingto be a better person with the lyric \u201CLike I\u0027m working babyface, Out of Mid-South in the eighties, I kept a blade hidden in my wrist tape\u201D just hits me right in the heart.\n\n\n\n\n\n\nFollow us on the socials at @cultfavoritepod.\n\n\nProduction assistance from the Department of Religious Studies at the University of Alabama. \n\n\nTheme music produced with Udio.",
+      "release": "2025-04-21T09:00:00Z",
+      "duration": "01:03:59.6330000",
+      "explicit": true,
+      "spotifyId": "6ekoRRcKL7XyLpsLuFfCZX",
+      "appleId": 1000704283306,
+      "youTubeId": "gaIp68iVyKo",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ekoRRcKL7XyLpsLuFfCZX",
+        "apple": "https://podcasts.apple.com/podcast/the-hatchet-wielding-hitchhiker-netflix-2023/id1758534607?i=1000704283306",
+        "youtube": "https://www.youtube.com/watch?v=gaIp68iVyKo"
+      }
+    },
+    {
+      "id": "fe5b65b6-a616-4c61-b7a6-d8d32934c7e6",
+      "title": "Cult of Fear: Asaram Bapu (Max, 2025)",
+      "description": "Follow us on the socials at @cultfavoritepod. Production assistance from the Department of Religious Studies at the University of Alabama. Theme music produced with Udio.",
+      "release": "2025-04-06T09:00:00Z",
+      "duration": "01:11:17.6700000",
+      "explicit": true,
+      "spotifyId": "7zZq2tLLYS0FMbSy3u5gQE",
+      "appleId": 1000702365280,
+      "youTubeId": "7cBemiuOdK0",
+      "subjects": [
+        "Asaram"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7zZq2tLLYS0FMbSy3u5gQE",
+        "apple": "https://podcasts.apple.com/podcast/cult-of-fear-asaram-bapu-max-2025/id1758534607?i=1000702365280",
+        "youtube": "https://www.youtube.com/watch?v=7cBemiuOdK0"
+      }
+    },
     {
       "id": "486ff7a2-0955-4a3c-ac0e-6feb251c74a7",
       "title": "Waco: American Apocalypse (Netflix, 2023)",
@@ -14,12 +50,14 @@
       "explicit": true,
       "spotifyId": "2m1wh5RfYwcFBkWP3M7c7f",
       "appleId": 1000700572490,
+      "youTubeId": "MWbt9oQWmek",
       "subjects": [
         "Branch Davidians"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2m1wh5RfYwcFBkWP3M7c7f",
-        "apple": "https://podcasts.apple.com/podcast/waco-american-apocalypse-netflix-2023/id1758534607?i=1000700572490"
+        "apple": "https://podcasts.apple.com/podcast/waco-american-apocalypse-netflix-2023/id1758534607?i=1000700572490",
+        "youtube": "https://www.youtube.com/watch?v=MWbt9oQWmek"
       }
     },
     {
@@ -31,12 +69,14 @@
       "explicit": true,
       "spotifyId": "4sViS1PQjAvandXzAF0Ayw",
       "appleId": 1000690794006,
+      "youTubeId": "EzZwLeTCigM",
       "subjects": [
         "Onetaste"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4sViS1PQjAvandXzAF0Ayw",
-        "apple": "https://podcasts.apple.com/podcast/orgasm-inc-the-story-of-onetaste-netflix-2022/id1758534607?i=1000690794006"
+        "apple": "https://podcasts.apple.com/podcast/orgasm-inc-the-story-of-onetaste-netflix-2022/id1758534607?i=1000690794006",
+        "youtube": "https://www.youtube.com/watch?v=EzZwLeTCigM"
       }
     },
     {
@@ -48,13 +88,15 @@
       "explicit": false,
       "spotifyId": "6baVuoeDmlBmBST147GKsb",
       "appleId": 1000685858737,
+      "youTubeId": "7BxevihtyIA",
       "subjects": [
         "3HO",
         "Guru Jagat"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6baVuoeDmlBmBST147GKsb",
-        "apple": "https://podcasts.apple.com/podcast/breath-of-fire-max-2024/id1758534607?i=1000685858737"
+        "apple": "https://podcasts.apple.com/podcast/breath-of-fire-max-2024/id1758534607?i=1000685858737",
+        "youtube": "https://www.youtube.com/watch?v=7BxevihtyIA"
       }
     },
     {
@@ -65,9 +107,11 @@
       "explicit": true,
       "spotifyId": "3lu6LAnxa0bOtAO76ZpAXx",
       "appleId": 1000681398411,
+      "youTubeId": "cnYhyAz9TNU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3lu6LAnxa0bOtAO76ZpAXx",
-        "apple": "https://podcasts.apple.com/podcast/how-to-become-a-cult-leader-netflix-2023/id1758534607?i=1000681398411"
+        "apple": "https://podcasts.apple.com/podcast/how-to-become-a-cult-leader-netflix-2023/id1758534607?i=1000681398411",
+        "youtube": "https://www.youtube.com/watch?v=cnYhyAz9TNU"
       }
     },
     {
@@ -79,12 +123,14 @@
       "explicit": true,
       "spotifyId": "1niypkvprAGiPSi0SJBt07",
       "appleId": 1000679731994,
+      "youTubeId": "CuuCShMYq_I",
       "subjects": [
         "Ra\u00EBlism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1niypkvprAGiPSi0SJBt07",
-        "apple": "https://podcasts.apple.com/podcast/ra%C3%ABl-the-alien-prophet/id1758534607?i=1000679731994"
+        "apple": "https://podcasts.apple.com/podcast/ra%C3%ABl-the-alien-prophet/id1758534607?i=1000679731994",
+        "youtube": "https://www.youtube.com/watch?v=CuuCShMYq_I"
       }
     },
     {
@@ -96,12 +142,14 @@
       "explicit": true,
       "spotifyId": "6hOLBPoizu2ZlI8FSacqYT",
       "appleId": 1000678144471,
+      "youTubeId": "dk9B7694moA",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6hOLBPoizu2ZlI8FSacqYT",
-        "apple": "https://podcasts.apple.com/podcast/escaping-twin-flames/id1758534607?i=1000678144471"
+        "apple": "https://podcasts.apple.com/podcast/escaping-twin-flames/id1758534607?i=1000678144471",
+        "youtube": "https://www.youtube.com/watch?v=dk9B7694moA"
       }
     },
     {
@@ -113,6 +161,7 @@
       "explicit": true,
       "spotifyId": "4g9JuFFB5zt87HGvNEFdZ5",
       "appleId": 1000676475579,
+      "youTubeId": "zrPoUuEiP2c",
       "subjects": [
         "Multi-Level Marketing",
         "The Church Of Jesus Christ Of Latter-Day Saints",
@@ -120,7 +169,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4g9JuFFB5zt87HGvNEFdZ5",
-        "apple": "https://podcasts.apple.com/podcast/lula-rich/id1758534607?i=1000676475579"
+        "apple": "https://podcasts.apple.com/podcast/lula-rich/id1758534607?i=1000676475579",
+        "youtube": "https://www.youtube.com/watch?v=zrPoUuEiP2c"
       }
     },
     {
@@ -132,9 +182,11 @@
       "explicit": true,
       "spotifyId": "6EK7IJ7ICibZaNjmXjE1Gg",
       "appleId": 1000674688716,
+      "youTubeId": "dzTe8dsndJk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6EK7IJ7ICibZaNjmXjE1Gg",
-        "apple": "https://podcasts.apple.com/podcast/hells-bells-the-dangers-of-rock-n-roll/id1758534607?i=1000674688716"
+        "apple": "https://podcasts.apple.com/podcast/hells-bells-the-dangers-of-rock-n-roll/id1758534607?i=1000674688716",
+        "youtube": "https://www.youtube.com/watch?v=dzTe8dsndJk"
       }
     },
     {
@@ -146,12 +198,14 @@
       "explicit": true,
       "spotifyId": "2I4FOob30szF7pHFYPrhYN",
       "appleId": 1000673820447,
+      "youTubeId": "bq7dKohgSgg",
       "subjects": [
         "Remnant Fellowship"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2I4FOob30szF7pHFYPrhYN",
-        "apple": "https://podcasts.apple.com/podcast/the-way-down-god-greed-and-the-cult-of-gwen-shamblin/id1758534607?i=1000673820447"
+        "apple": "https://podcasts.apple.com/podcast/the-way-down-god-greed-and-the-cult-of-gwen-shamblin/id1758534607?i=1000673820447",
+        "youtube": "https://www.youtube.com/watch?v=bq7dKohgSgg"
       }
     },
     {
@@ -163,12 +217,14 @@
       "explicit": true,
       "spotifyId": "1VFFxeQ6PlTqbFRFmDCaHT",
       "appleId": 1000673003167,
+      "youTubeId": "IGUeEubqCHM",
       "subjects": [
         "Buddhafield"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1VFFxeQ6PlTqbFRFmDCaHT",
-        "apple": "https://podcasts.apple.com/podcast/holy-hell-22-years-inside-a-modern-cult/id1758534607?i=1000673003167"
+        "apple": "https://podcasts.apple.com/podcast/holy-hell-22-years-inside-a-modern-cult/id1758534607?i=1000673003167",
+        "youtube": "https://www.youtube.com/watch?v=IGUeEubqCHM"
       }
     },
     {
@@ -180,12 +236,14 @@
       "explicit": true,
       "spotifyId": "7IMG3G31rJYuVzM7bnbraW",
       "appleId": 1000671986725,
+      "youTubeId": "hCesR_eSuFg",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7IMG3G31rJYuVzM7bnbraW",
-        "apple": "https://podcasts.apple.com/podcast/going-clear-scientology-the-prison-of-belief/id1758534607?i=1000671986725"
+        "apple": "https://podcasts.apple.com/podcast/going-clear-scientology-the-prison-of-belief/id1758534607?i=1000671986725",
+        "youtube": "https://www.youtube.com/watch?v=hCesR_eSuFg"
       }
     },
     {
@@ -197,9 +255,11 @@
       "explicit": true,
       "spotifyId": "67be1v2TysMK3YrAnFxfjX",
       "appleId": 1000671269669,
+      "youTubeId": "Ht84UCk6icA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/67be1v2TysMK3YrAnFxfjX",
-        "apple": "https://podcasts.apple.com/podcast/the-garden-commune-or-cult/id1758534607?i=1000671269669"
+        "apple": "https://podcasts.apple.com/podcast/the-garden-commune-or-cult/id1758534607?i=1000671269669",
+        "youtube": "https://www.youtube.com/watch?v=Ht84UCk6icA"
       }
     },
     {
@@ -211,12 +271,14 @@
       "explicit": true,
       "spotifyId": "2qPttYcFDt9DLlxqnGBKor",
       "appleId": 1000670385124,
+      "youTubeId": "AkjwlrG6tmE",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2qPttYcFDt9DLlxqnGBKor",
-        "apple": "https://podcasts.apple.com/podcast/the-secret-lives-of-mormon-wives/id1758534607?i=1000670385124"
+        "apple": "https://podcasts.apple.com/podcast/the-secret-lives-of-mormon-wives/id1758534607?i=1000670385124",
+        "youtube": "https://www.youtube.com/watch?v=AkjwlrG6tmE"
       }
     },
     {
@@ -228,12 +290,14 @@
       "explicit": true,
       "spotifyId": "3OHtcUcAPCuNNOIv5EWSdo",
       "appleId": 1000669678725,
+      "youTubeId": "stVdfDrO8gI",
       "subjects": [
         "Bhagwan Shree Rajneesh"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OHtcUcAPCuNNOIv5EWSdo",
-        "apple": "https://podcasts.apple.com/podcast/wild-wild-country-part-2/id1758534607?i=1000669678725"
+        "apple": "https://podcasts.apple.com/podcast/wild-wild-country-part-2/id1758534607?i=1000669678725",
+        "youtube": "https://www.youtube.com/watch?v=stVdfDrO8gI"
       }
     },
     {
@@ -245,12 +309,14 @@
       "explicit": true,
       "spotifyId": "3t6y3l8CJ4Y0C11q2OsVUa",
       "appleId": 1000668859190,
+      "youTubeId": "ey0yZym6kOI",
       "subjects": [
         "Bhagwan Shree Rajneesh"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3t6y3l8CJ4Y0C11q2OsVUa",
-        "apple": "https://podcasts.apple.com/podcast/wild-wild-country-part-1/id1758534607?i=1000668859190"
+        "apple": "https://podcasts.apple.com/podcast/wild-wild-country-part-1/id1758534607?i=1000668859190",
+        "youtube": "https://www.youtube.com/watch?v=ey0yZym6kOI"
       }
     },
     {
@@ -262,9 +328,11 @@
       "explicit": true,
       "spotifyId": "3qTAZ6YAqCwRQKznpTERJc",
       "appleId": 1000668031317,
+      "youTubeId": "y3RSsUOiwxU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qTAZ6YAqCwRQKznpTERJc",
-        "apple": "https://podcasts.apple.com/podcast/brandy-hellville-the-cult-of-fast-fashion/id1758534607?i=1000668031317"
+        "apple": "https://podcasts.apple.com/podcast/brandy-hellville-the-cult-of-fast-fashion/id1758534607?i=1000668031317",
+        "youtube": "https://www.youtube.com/watch?v=y3RSsUOiwxU"
       }
     },
     {
@@ -276,12 +344,14 @@
       "explicit": true,
       "spotifyId": "3uuCrEaUH9kHs67EhrLEBH",
       "appleId": 1000666630031,
+      "youTubeId": "yKgDp-ZnrCk",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uuCrEaUH9kHs67EhrLEBH",
-        "apple": "https://podcasts.apple.com/podcast/cult-massacre-one-day-in-jonestown/id1758534607?i=1000666630031"
+        "apple": "https://podcasts.apple.com/podcast/cult-massacre-one-day-in-jonestown/id1758534607?i=1000666630031",
+        "youtube": "https://www.youtube.com/watch?v=yKgDp-ZnrCk"
       }
     },
     {
@@ -293,12 +363,14 @@
       "explicit": true,
       "spotifyId": "3FvR1kjkqL7TZHRkUfYg78",
       "appleId": 1000665865373,
+      "youTubeId": "T0rYqN6POM4",
       "subjects": [
         "Heaven\u0027s Gate"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FvR1kjkqL7TZHRkUfYg78",
-        "apple": "https://podcasts.apple.com/podcast/heavens-gate-the-cult-of-cults-part-2/id1758534607?i=1000665865373"
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate-the-cult-of-cults-part-2/id1758534607?i=1000665865373",
+        "youtube": "https://www.youtube.com/watch?v=T0rYqN6POM4"
       }
     },
     {
@@ -310,12 +382,14 @@
       "explicit": true,
       "spotifyId": "1JBMORcUxhxydMfWgTWwno",
       "appleId": 1000665017109,
+      "youTubeId": "0TBpkx8Ugxo",
       "subjects": [
         "Heaven\u0027s Gate"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1JBMORcUxhxydMfWgTWwno",
-        "apple": "https://podcasts.apple.com/podcast/heavens-gate-the-cult-of-cults-part-1/id1758534607?i=1000665017109"
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate-the-cult-of-cults-part-1/id1758534607?i=1000665017109",
+        "youtube": "https://www.youtube.com/watch?v=0TBpkx8Ugxo"
       }
     },
     {
@@ -327,12 +401,14 @@
       "explicit": true,
       "spotifyId": "172PQAEWw3yrHvslImOoh4",
       "appleId": 1000664350916,
+      "youTubeId": "Z2fKuCjX2co",
       "subjects": [
         "7M Films"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/172PQAEWw3yrHvslImOoh4",
-        "apple": "https://podcasts.apple.com/podcast/dancing-for-the-devil-the-7m-tiktok-cult/id1758534607?i=1000664350916"
+        "apple": "https://podcasts.apple.com/podcast/dancing-for-the-devil-the-7m-tiktok-cult/id1758534607?i=1000664350916",
+        "youtube": "https://www.youtube.com/watch?v=Z2fKuCjX2co"
       }
     },
     {
@@ -344,12 +420,14 @@
       "explicit": true,
       "spotifyId": "0Grz2XDqcwNF9SNT7dU2Tw",
       "appleId": 1000663660504,
+      "youTubeId": "sCGmjQoU4u8",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Grz2XDqcwNF9SNT7dU2Tw",
-        "apple": "https://podcasts.apple.com/podcast/the-secrets-of-hillsong-part-2/id1758534607?i=1000663660504"
+        "apple": "https://podcasts.apple.com/podcast/the-secrets-of-hillsong-part-2/id1758534607?i=1000663660504",
+        "youtube": "https://www.youtube.com/watch?v=sCGmjQoU4u8"
       }
     },
     {
@@ -361,12 +439,14 @@
       "explicit": true,
       "spotifyId": "43bwApvdpU7EkmAellGnkD",
       "appleId": 1000662962251,
+      "youTubeId": "UQk7E2mun3U",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/43bwApvdpU7EkmAellGnkD",
-        "apple": "https://podcasts.apple.com/podcast/the-secrets-of-hillsong-part-1/id1758534607?i=1000662962251"
+        "apple": "https://podcasts.apple.com/podcast/the-secrets-of-hillsong-part-1/id1758534607?i=1000662962251",
+        "youtube": "https://www.youtube.com/watch?v=UQk7E2mun3U"
       }
     }
   ]

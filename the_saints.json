@@ -1,0 +1,94 @@
+{
+  "_ts": 0,
+  "id": "0294b36a-1fbd-46a2-85c9-e697f2cabce0",
+  "name": "The Saints",
+  "spotifyId": "26lJ9tnE7mztvJE9nIMsWW",
+  "appleId": 1803524288,
+  "episodes": [
+    {
+      "id": "e736c981-f4c4-4d12-b2b1-7db67e3f5998",
+      "title": "4.  Saints to Sinners",
+      "description": "Just weeks after her mother\u2019s release from prison, and with her father now in the grip of the cult, Elizabeth is left vulnerable. Deprived of her insulin, she suffers a slow and painful death. After her parents are arrested, Pippa Bradshaw tracks down the cult in Toowoomba to find answers. Months later, 12 other adults are also charged and we hear them attempt to justify their actions, through hours-long police interviews, steadfast in their belief that God will miraculously bring Elizabeth back to life. See omnystudio.com/listener for privacy information.",
+      "release": "2025-04-20T19:00:00Z",
+      "duration": "00:44:27.3630000",
+      "explicit": false,
+      "spotifyId": "4xe0xEPDM96JdLs673usV8",
+      "appleId": 1000704215544,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4xe0xEPDM96JdLs673usV8",
+        "apple": "https://podcasts.apple.com/podcast/4-saints-to-sinners/id1803524288?i=1000704215544"
+      }
+    },
+    {
+      "id": "3be4eeb7-cada-4256-b7a5-282eaa04d932",
+      "title": "3. Critical Warnings Ignored",
+      "description": "Serious red flags loomed long before Elizabeth Struhs\u0027 tragic death. In 2019, she was rushed to the hospital on the brink of death. Court documents, police interrogations and expert medical testimony expose the events leading to Elizabeth\u2019s diagnosis. Her case was so extreme, having been neglected to the point of critical illness, that her mother was jailed. See omnystudio.com/listener for privacy information.",
+      "release": "2025-04-13T19:00:00Z",
+      "duration": "00:34:49.8740000",
+      "explicit": false,
+      "spotifyId": "1MeFQhpumVSKkZQu05SrOf",
+      "appleId": 1000703372908,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1MeFQhpumVSKkZQu05SrOf",
+        "apple": "https://podcasts.apple.com/podcast/3-critical-warnings-ignored/id1803524288?i=1000703372908"
+      }
+    },
+    {
+      "id": "cf09b79f-2488-435d-a62b-2f7861f09c01",
+      "title": "2. The Saints Unmasked",
+      "description": "Who are the 14 cult members arrested over Elizabeth Struhs\u2019 death? How did ordinary people, from teachers to police officers, become entangled in religious cult who called themselves The Saints? Estranged family members and friends break their silence for the first time. This episode breaks down the origins of this group, its members, and the shocking truth behind their decent into religious extremism. See omnystudio.com/listener for privacy information.",
+      "release": "2025-04-06T19:01:00Z",
+      "duration": "00:44:12.3680000",
+      "explicit": false,
+      "spotifyId": "0ysaXZG6J0bhamRmvob8jM",
+      "appleId": 1000702397453,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ysaXZG6J0bhamRmvob8jM",
+        "apple": "https://podcasts.apple.com/podcast/2-the-saints-unmasked/id1803524288?i=1000702397453"
+      }
+    },
+    {
+      "id": "d50f0239-e6c3-4fdd-9ebb-7b7286c6b58d",
+      "title": "1. Elizabeth",
+      "description": "In January 2022, two parents were arrested on the front lawn of their Toowoomba home and charged over the death of their eight-year-old daughter, Elizabeth Struhs. In the months that followed a disturbing story unraveled of a religious cult with extreme beliefs, rejecting medical assistance and placing their complete trust in divine healing. In a rare and deeply personal interview, Elizabeth\u2019s sister opens up about how their mother\u2019s unwavering devotion to the cult leader shaped their childhood. She shares chilling details of life inside the cult, the suffocating control, and blind faith. See omnystudio.com/listener for privacy information.",
+      "release": "2025-04-06T19:00:00Z",
+      "duration": "00:37:28.5420000",
+      "explicit": false,
+      "spotifyId": "4fkh71p5rpvuGboqYHUe7n",
+      "appleId": 1000702397378,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4fkh71p5rpvuGboqYHUe7n",
+        "apple": "https://podcasts.apple.com/podcast/1-elizabeth/id1803524288?i=1000702397378"
+      }
+    },
+    {
+      "id": "9b497caf-d714-461d-a898-bb5b80067750",
+      "title": "Introducing: The Saints",
+      "description": "A little girl dead. A cult on trial. A tragedy that should have never happened. The Saints unravels the harrowing story of eight-year-old Elizabeth Struhs, whose parents and their secretive religious group denied her life-saving medical care \u2014 choosing prayer over treatment, with fatal consequences. Award-winning journalist Pippa Bradshaw takes you inside one of Australia\u2019s most confronting cases of religious extremism, exposing how blind faith turned deadly. With exclusive interviews, chilling police interrogations, and expert analysis, this gripping series lays bare the sinister side of excessive devotion. How did no one stop it? And could it happen again? The Saints launches Monday, April 7, 2025. See omnystudio.com/listener for privacy information.",
+      "release": "2025-03-21T03:16:41Z",
+      "duration": "00:02:10.7950000",
+      "explicit": false,
+      "spotifyId": "6QZyvjpsaiB4TIxuDUNYgo",
+      "appleId": 1000700214648,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6QZyvjpsaiB4TIxuDUNYgo",
+        "apple": "https://podcasts.apple.com/podcast/introducing-the-saints/id1803524288?i=1000700214648"
+      }
+    }
+  ]
+}

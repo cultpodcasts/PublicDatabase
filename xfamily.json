@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "9d1a2118-1d11-4c52-9631-5d94460416ae",
+  "name": "xFamily",
+  "youTubeChannelId": "UCT_ddITNzGoRMrT-WilSBIw",
+  "episodes": [
+    {
+      "id": "24726e05-b605-4326-a2df-b9caad503737",
+      "title": "GMTV:News Hour: Children of God",
+      "description": "See http://www.xfamily.org for more information on this cult.",
+      "release": "2007-05-22T19:51:07Z",
+      "duration": "00:08:47",
+      "explicit": false,
+      "youTubeId": "VqEonLSi99s",
+      "subjects": [
+        "Children Of God",
+        "Cult Apologists"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VqEonLSi99s"
+      }
+    }
+  ]
+}

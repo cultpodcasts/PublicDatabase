@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "597adb7c-bdcf-4888-bd5c-11d6e17d5878",
+  "name": "Earshot",
+  "appleId": 961897019,
+  "episodes": [
+    {
+      "id": "db94a8ba-e965-4abd-b800-fcb85d4f227c",
+      "title": "Follow me and the Virgin Mary| Preparing for the apocalypse",
+      "description": "When Claire Ashman followed her husband into a gated community on the NSW South Coast, she never imagined she would spend the next decade hoarding food and covering her windows to prepare for the apocalypse.",
+      "release": "2023-04-17T01:00:00Z",
+      "duration": "00:30:23",
+      "explicit": false,
+      "appleId": 1000609411620,
+      "subjects": [
+        "Order of St Charbel"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/follow-me-and-the-virgin-mary-preparing-for-the-apocalypse/id961897019?i=1000609411620"
+      }
+    }
+  ]
+}

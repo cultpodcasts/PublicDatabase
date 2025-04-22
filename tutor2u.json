@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "e6c35da6-9a89-4458-8405-22e956d2834c",
+  "name": "tutor2u",
+  "youTubeChannelId": "UCe83jLdZ3PuqVwAHe6B3U2A",
+  "episodes": [
+    {
+      "id": "625ab868-24dc-475f-a911-b3a870d77ff3",
+      "title": "Cults Case Study | The Church of Scientology | Beliefs in Society | A Level Sociology",
+      "description": "The Church of Scientology works as a very good example of a number of different types of cult.\n\n#sociology #alevelsociology #aqasociology #tutor2usociology",
+      "release": "2025-04-11T17:08:07Z",
+      "duration": "00:10:01",
+      "explicit": false,
+      "youTubeId": "sscwdnxniec",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sscwdnxniec"
+      }
+    },
+    {
+      "id": "c5aacb51-1ab9-407b-b974-d88af6ecc9e2",
+      "title": "Cults Case Study | The Raelian Movement | Beliefs in Society | A Level Sociology",
+      "description": "This video explores an example of a cult (the sociological definition of a cult): the Raelian Movement.\n\n#alevelsociology #aqasociology #sociology #tutor2usociology",
+      "release": "2025-04-11T17:06:18Z",
+      "duration": "00:08:16",
+      "explicit": false,
+      "youTubeId": "SvkKS2eD3Ys",
+      "subjects": [
+        "Ra\u00EBlism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=SvkKS2eD3Ys"
+      }
+    }
+  ]
+}

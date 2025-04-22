@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "709b4357-d40a-41e6-b41b-7761259d76fe",
+  "name": "Harts on Fire",
+  "spotifyId": "0yQM7psFqt5QXgEH9QnRrV",
+  "appleId": 1772362520,
+  "episodes": [
+    {
+      "id": "57859caa-ae9a-4602-a8fa-a924a876864d",
+      "title": "From Polygamist Cult to NYT Bestseller: Ruth Wariner\u2019s Unbelievable Escape",
+      "description": "In this unforgettable episode, we\u2019re joined by New York Times bestselling author Ruth Wariner, who shares her extraordinary journey from a childhood inside a dangerous polygamist cult to building a life rooted in freedom, purpose, and truth. As the niece of infamous cult leader Ervil LeBaron, Ruth was born into a world of violence, poverty, and control. After her father, the prophet was murdered, she faced years of instability and loss\u2014ultimately stepping into the role of caregiver for her younger siblings while still just a child herself. But Ruth\u2019s story is not just one of survival\u2014it\u2019s one of resilience, courage, and motivation. Her escape from the cult was just the beginning of a powerful transformation that led her to education, healing, and the writing of her bestselling memoir, The Sound of Gravel. This conversation will move you, challenge you, and remind you of the strength that lives within us all\u2014even in the darkest of places.",
+      "release": "2025-04-12T01:00:00Z",
+      "duration": "01:59:24.4210000",
+      "explicit": true,
+      "spotifyId": "2cWx9BwbfQBV0TYlC0IFay",
+      "appleId": 1000703230988,
+      "subjects": [
+        "Church of the First Born of the Lamb of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2cWx9BwbfQBV0TYlC0IFay",
+        "apple": "https://podcasts.apple.com/podcast/from-polygamist-cult-to-nyt-bestseller-ruth-wariners/id1772362520?i=1000703230988"
+      }
+    }
+  ]
+}

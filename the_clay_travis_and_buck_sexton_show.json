@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "a2596057-a995-4773-84fa-7f25c42779c3",
+  "name": "The Tudor Dixon Podcast",
+  "spotifyId": "45jiwF2hgASAyswqOSe3PG",
+  "appleId": 1498106610,
+  "youTubeChannelId": "UCnH_ezJzd9SnZpPRsEflxlQ",
+  "youTubePlaylistId": "PLVPuvKNpV0RTLjTOKk7CvPuc7kGHNZ42o",
+  "episodes": [
+    {
+      "id": "7d8b40cc-46d4-4fb5-ad44-8412898eabde",
+      "title": "The Disturbing Facts About The Tate Brothers",
+      "description": "In this episode, Tudor and Dani Pinter discuss the alarming allegations against Andrew Tate and his brother, focusing on their manipulative tactics, the reality of domestic sex trafficking, and the impact of social media on public perception. Dani, a legal advocate for victims, shares insights into the legal battles faced by victims who are suing the Tate brothers for defamation. The Tudor Dixon Podcast is part of the Clay Travis \u0026 Buck Sexton Podcast Network. For more visit TudorDixonPodcast.com",
+      "release": "2025-04-09T08:00:00Z",
+      "duration": "00:31:25",
+      "explicit": false,
+      "spotifyId": "27qobWj1diHwfspih1t0u2",
+      "appleId": 1000702834119,
+      "youTubeId": "gNRNN49e2Y4",
+      "subjects": [
+        "Human Trafficking",
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/27qobWj1diHwfspih1t0u2",
+        "apple": "https://podcasts.apple.com/podcast/the-tudor-dixon-podcast-the-disturbing-facts-about/id1498106610?i=1000702834119",
+        "youtube": "https://www.youtube.com/watch?v=gNRNN49e2Y4"
+      }
+    }
+  ]
+}

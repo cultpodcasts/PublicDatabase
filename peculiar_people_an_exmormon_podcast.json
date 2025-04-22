@@ -6,6 +6,23 @@
   "appleId": 1758628735,
   "episodes": [
     {
+      "id": "69af34b4-7920-431a-9829-096c3ec8e556",
+      "title": "Ep. 32 - The perks of being a man (Chris\u0027s Exit Story)",
+      "description": "Join us as our new friend Chris details his introduction \u0026 exit from the church along with all the perks that come with being a man in the church.",
+      "release": "2025-04-06T14:00:00Z",
+      "duration": "00:47:13",
+      "explicit": false,
+      "spotifyId": "3A8SXSGXYMRSYo6qlds4lW",
+      "appleId": 1000702377849,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3A8SXSGXYMRSYo6qlds4lW",
+        "apple": "https://podcasts.apple.com/podcast/ep-32-the-perks-of-being-a-man-chriss-exit-story/id1758628735?i=1000702377849"
+      }
+    },
+    {
       "id": "c5bfe771-9a45-4827-b5b5-bb729e9ac998",
       "title": "Ep. 31 - Angel Moroni\u0027s Visitations",
       "description": "Join us as we continue to tell the tale of the restoration as told by J$ (Joseph Smith) himself.\nSOURCES:\nChurchofjesuschrist.org\u00A0\nmormonr.org",
