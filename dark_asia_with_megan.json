@@ -2,9 +2,24 @@
   "_ts": 0,
   "id": "ec55a17d-3ed7-4621-b2fe-0dd0339651ed",
   "name": "Dark Asia with Megan",
+  "spotifyId": "116kLQ7H9hzpX6ARaAMlDv",
   "appleId": 1697095332,
   "youTubeChannelId": "UCxCluSnDKJmDiamvRTArf5g",
   "episodes": [
+    {
+      "id": "32c30dbe-4b46-4a2e-89f6-ee3bbbe1f911",
+      "title": "Nobody Talks About Him Out of Fear. So Here We Go... Philippines\u0027 Worst Cult Leader Apollo Quiboloy",
+      "release": "2025-04-22T12:08:46Z",
+      "duration": "00:26:21",
+      "explicit": false,
+      "youTubeId": "7OYLls1Sapk",
+      "subjects": [
+        "Apollo Quiboloy"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=7OYLls1Sapk"
+      }
+    },
     {
       "id": "cc18c934-ef6f-41d5-81cd-bc557b253d0c",
       "title": "Wonder why there are no trash bins in Tokyo\u0027s subway? Cult Aom Shinrikyo\u0027s Deadly Metro Sarin Attack",
@@ -12,12 +27,14 @@
       "release": "2024-08-10T11:22:10Z",
       "duration": "00:17:56",
       "explicit": false,
+      "spotifyId": "1boftav912vN5G83VevLKu",
       "appleId": 1000645280804,
       "youTubeId": "GhHodc5EgCE",
       "subjects": [
         "Aum Shinrikyo"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1boftav912vN5G83VevLKu",
         "apple": "https://podcasts.apple.com/podcast/worlds-worst-single-day-attack-on-journalists-and/id1697095332?i=1000645280804",
         "youtube": "https://www.youtube.com/watch?v=GhHodc5EgCE"
       }

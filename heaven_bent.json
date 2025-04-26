@@ -530,9 +530,11 @@
       "explicit": false,
       "spotifyId": "40opsCyIPzAxfck8Kx19zO",
       "appleId": 1000607079303,
+      "youTubeId": "RgIM9ksEM6Y",
       "urls": {
         "spotify": "https://open.spotify.com/episode/40opsCyIPzAxfck8Kx19zO",
-        "apple": "https://podcasts.apple.com/podcast/asbury-revival-behind-the-scenes/id1513489117?i=1000607079303"
+        "apple": "https://podcasts.apple.com/podcast/asbury-revival-behind-the-scenes/id1513489117?i=1000607079303",
+        "youtube": "https://www.youtube.com/watch?v=RgIM9ksEM6Y"
       }
     },
     {

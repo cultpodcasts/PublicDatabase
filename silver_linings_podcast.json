@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "9ad50a20-92f8-432e-8d21-952707bfd5e2",
+      "title": "Guilty Again!",
+      "description": "Reactions to getting some justice for Charles!",
+      "release": "2025-04-24T01:09:05Z",
+      "duration": "01:26:23.6450000",
+      "explicit": false,
+      "spotifyId": "2qn8Koi573C8xaqa38BGZX",
+      "appleId": 1000704661312,
+      "youTubeId": "g4QVgnvamtg",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2qn8Koi573C8xaqa38BGZX",
+        "apple": "https://podcasts.apple.com/podcast/guilty-again/id1694606661?i=1000704661312",
+        "youtube": "https://www.youtube.com/watch?v=g4QVgnvamtg"
+      }
+    },
+    {
       "id": "a6e36a07-44aa-40bc-9f47-908402092c6b",
       "title": "Silver Linings Going Forward - April 18th",
       "description": "Silver Linings Podcast continues to be a safe place for people to come and explore the collateral damage of embracing evil like Chad, Lori, and Alex chose to do.",

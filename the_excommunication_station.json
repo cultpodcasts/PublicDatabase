@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "d2919b27-0029-4630-8967-f0e63eb028c5",
+      "title": "203. Johnathan Bell \u0022The Screaming Boy\u0022 w/ Gigtapes",
+      "description": "This week, we are joined by Gigtapes and we talk about youtube star, Johnathan Bell AKA The Screaming Boy.",
+      "release": "2025-04-22T06:00:00Z",
+      "duration": "01:44:15.2810000",
+      "explicit": true,
+      "spotifyId": "6LpA94aNgIXRW2AxmWLNop",
+      "appleId": 1000704536371,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6LpA94aNgIXRW2AxmWLNop",
+        "apple": "https://podcasts.apple.com/podcast/203-johnathan-bell-the-screaming-boy-w-gigtapes/id1573190999?i=1000704536371"
+      }
+    },
+    {
       "id": "47a0c1be-a377-49ef-b67e-3ee506a81af0",
       "title": "202. Hitler\u0027s Favorite Play W/ Go Home Bible You\u0027re Drunk",
       "description": "This week, Tori and Justin from Go Home Bible Youre drunk join us to talk Passion Plays and their connection to antisemitism and Adolf Hitler.",

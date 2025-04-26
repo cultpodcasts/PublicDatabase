@@ -12,11 +12,13 @@
       "release": "2022-02-17T04:00:00Z",
       "duration": "00:57:49.6080000",
       "explicit": false,
+      "spotifyId": "1iDjqeNBCAa7175JHxCok7",
       "appleId": 1000679871175,
       "subjects": [
         "Bhakti Marga"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1iDjqeNBCAa7175JHxCok7",
         "apple": "https://podcasts.apple.com/podcast/kapitel-6-anklage/id1605765371?i=1000679871175",
         "internetArchive": "https://archive.org/details/Just_Love_Podcast_Vishwananda_Bhakti_Marga_Cult/Kapitel\u002B6\u002B-\u002BAnklage.mp3"
       }
@@ -28,11 +30,13 @@
       "release": "2022-02-10T04:00:00Z",
       "duration": "00:54:41.5430000",
       "explicit": false,
+      "spotifyId": "79YWFtpkB8NIp8I2x01vQP",
       "appleId": 1000679871114,
       "subjects": [
         "Bhakti Marga"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/79YWFtpkB8NIp8I2x01vQP",
         "apple": "https://podcasts.apple.com/podcast/kapitel-5-gehorsam/id1605765371?i=1000679871114",
         "internetArchive": "https://archive.org/details/Just_Love_Podcast_Vishwananda_Bhakti_Marga_Cult/Kapitel\u002B5\u002B-\u002BGehorsam.mp3"
       }
@@ -44,11 +48,13 @@
       "release": "2022-02-03T03:00:00Z",
       "duration": "01:09:37.3680000",
       "explicit": false,
+      "spotifyId": "4Cc7wAVRQIYBZUiB6kvt26",
       "appleId": 1000679871144,
       "subjects": [
         "Bhakti Marga"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4Cc7wAVRQIYBZUiB6kvt26",
         "apple": "https://podcasts.apple.com/podcast/kapitel-4-erleuchtung-ag/id1605765371?i=1000679871144",
         "internetArchive": "https://archive.org/details/Just_Love_Podcast_Vishwananda_Bhakti_Marga_Cult/Kapitel\u002B4\u002B-\u002BErleuchtung\u002BAG.mp3"
       }
@@ -60,11 +66,13 @@
       "release": "2022-01-28T04:00:00Z",
       "duration": "00:50:41",
       "explicit": false,
+      "spotifyId": "6pDQgOplIao3VzdLVmF1Be",
       "appleId": 1000679871199,
       "subjects": [
         "Bhakti Marga"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6pDQgOplIao3VzdLVmF1Be",
         "apple": "https://podcasts.apple.com/podcast/kapitel-3-der-guru/id1605765371?i=1000679871199",
         "internetArchive": "https://archive.org/details/Just_Love_Podcast_Vishwananda_Bhakti_Marga_Cult/Kapitel\u002B3\u002B-\u002BDer\u002BGuru.mp3"
       }
@@ -94,11 +102,13 @@
       "release": "2022-01-10T04:00:00Z",
       "duration": "00:59:49",
       "explicit": false,
+      "spotifyId": "2SIigHUrf56AZUm2Z9Obcb",
       "appleId": 1000679871227,
       "subjects": [
         "Bhakti Marga"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2SIigHUrf56AZUm2Z9Obcb",
         "apple": "https://podcasts.apple.com/podcast/kapitel-1-miles/id1605765371?i=1000679871227",
         "internetArchive": "https://archive.org/details/Just_Love_Podcast_Vishwananda_Bhakti_Marga_Cult/Kapitel\u002B1\u002B-\u002BMiles.mp3"
       }

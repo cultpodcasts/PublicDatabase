@@ -13,12 +13,14 @@
       "release": "2025-04-22T05:00:00Z",
       "duration": "01:19:22",
       "explicit": false,
+      "spotifyId": "7Kx2wLaF97OcjuqZG8AaJu",
       "appleId": 1000704408366,
       "youTubeId": "hXQgPs7tiUA",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7Kx2wLaF97OcjuqZG8AaJu",
         "apple": "https://podcasts.apple.com/podcast/ep-14-the-sex-life-of-bryan/id1791618379?i=1000704408366",
         "youtube": "https://www.youtube.com/watch?v=hXQgPs7tiUA"
       }
