@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "ae671d47-effd-44d1-b2ee-7b45fd26b1f3",
+  "name": "Daily Nation",
+  "youTubeChannelId": "UCz9jK123qAo5ATWtuuCn8IA",
+  "episodes": [
+    {
+      "id": "162377e8-cac5-4e1e-a8ee-8f81466562ef",
+      "title": "Authorities close Rongo church indefinitely following deaths and illegal burials",
+      "description": "Read more: https://nation.africa/kenya/counties/migori/members-of-closed-rongo-church-gave-up-their-property-to-live-there--5014172",
+      "release": "2025-04-23T14:26:41Z",
+      "duration": "00:10:55",
+      "explicit": false,
+      "youTubeId": "v9_Efln-tKA",
+      "subjects": [
+        "Melkio St Joseph Missions of Messiah Africa Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=v9_Efln-tKA"
+      }
+    },
+    {
+      "id": "eda5e97c-f200-4f2a-9eb4-aad309165a4c",
+      "title": "Police find alleged member of the \u0027religious fasting cult\u0027 in a forest in Chakama area, Kilifi",
+      "description": "Police find alleged member of the \u0027religious fasting cult\u0027 in a forest in Chakama area, Kilifi",
+      "release": "2023-04-19T12:14:54Z",
+      "duration": "00:01:51",
+      "explicit": false,
+      "youTubeId": "W-WubRE3lQs",
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=W-WubRE3lQs"
+      }
+    }
+  ]
+}

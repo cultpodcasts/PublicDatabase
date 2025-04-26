@@ -1,0 +1,86 @@
+{
+  "_ts": 0,
+  "id": "40380c8b-0368-4325-a04c-f34455b6e7a8",
+  "name": "Gin And Tantra",
+  "spotifyId": "1DsYjaWCDbnBUDf2kcc61i",
+  "appleId": 1522699382,
+  "youTubeChannelId": "UCV8Bci_ybARSmvAbFLtk17w",
+  "episodes": [
+    {
+      "id": "a6483537-6ab2-4338-a059-c015d032a663",
+      "title": "Deprogramming the Soul: Escaping the Web of Cults and Ideologies (Cults 4)",
+      "description": "We continue our discussion on social psychology, cult mentality, critical thinking and the confines we find ourselves currently in.",
+      "release": "2025-04-25T23:43:58Z",
+      "duration": "01:09:43.3170000",
+      "explicit": true,
+      "spotifyId": "6fOINpLjfuLYKENnsZhwJI",
+      "appleId": 1000704972696,
+      "youTubeId": "l_tcm-Y3BUw",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6fOINpLjfuLYKENnsZhwJI",
+        "apple": "https://podcasts.apple.com/podcast/deprogramming-the-soul-escaping-the-web-of/id1522699382?i=1000704972696",
+        "youtube": "https://www.youtube.com/watch?v=l_tcm-Y3BUw"
+      }
+    },
+    {
+      "id": "daa1d92d-6918-47d2-85c7-4f1d17fc21b0",
+      "title": "Social Cohesion... (Cults 3)",
+      "description": "We continue our discussion on the psychology of cults, conformity and normative influence, social cohesion and the pressure of non-conformity, attachment theory and charisma.",
+      "release": "2025-04-18T12:01:07Z",
+      "duration": "00:42:08",
+      "explicit": false,
+      "spotifyId": "6jNpzTZ8H0vp13XYwzhoOQ",
+      "appleId": 1000704027112,
+      "youTubeId": "bTLM0HLj9u4",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6jNpzTZ8H0vp13XYwzhoOQ",
+        "apple": "https://podcasts.apple.com/podcast/social-cohesion-cults-3/id1522699382?i=1000704027112",
+        "youtube": "https://www.youtube.com/watch?v=bTLM0HLj9u4"
+      }
+    },
+    {
+      "id": "88fca2c6-2303-4aec-87aa-cce490dd02fd",
+      "title": "The Problem of Conformity (Cults 2)",
+      "description": "In this episode we introduce some of the main aspects of cult mentality.  The problem of conformity, social cohesion and charismatic influence.",
+      "release": "2025-04-11T21:48:50Z",
+      "duration": "00:44:05",
+      "explicit": false,
+      "spotifyId": "2OF6v0gMMNt9Nti5GSkmBd",
+      "appleId": 1000703226665,
+      "youTubeId": "_ZZidyzDrUk",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2OF6v0gMMNt9Nti5GSkmBd",
+        "apple": "https://podcasts.apple.com/podcast/the-problem-of-conformity-cults-2/id1522699382?i=1000703226665",
+        "youtube": "https://www.youtube.com/watch?v=_ZZidyzDrUk"
+      }
+    },
+    {
+      "id": "782f3050-f958-470a-9349-0322967b7bfe",
+      "title": "Cult Mentality...",
+      "description": "We begin a short series on the psychology of cults, social psychology and the cognitive epidemic of our time.",
+      "release": "2025-04-03T02:49:28Z",
+      "duration": "00:50:56",
+      "explicit": false,
+      "spotifyId": "2F8JKwW0DPefbbAoSdFCpM",
+      "appleId": 1000702139898,
+      "youTubeId": "M26UQb2h_MQ",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2F8JKwW0DPefbbAoSdFCpM",
+        "apple": "https://podcasts.apple.com/podcast/cult-mentality/id1522699382?i=1000702139898",
+        "youtube": "https://www.youtube.com/watch?v=M26UQb2h_MQ"
+      }
+    }
+  ]
+}

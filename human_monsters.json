@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "2561d3c5-7e61-4f52-b95a-71d6aeb27d1f",
+  "name": "Human Monsters",
+  "spotifyId": "3xeADhkGWurQRISqCoZzrQ",
+  "appleId": 1498722050,
+  "episodes": [
+    {
+      "id": "c0ca2c85-4b89-48e7-82a4-d6108f764153",
+      "title": "Child Abuse Part 42: The Kidwelly Sex Cult Part 1",
+      "description": "What is it with cults and perverts? Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-04-25T02:42:00Z",
+      "duration": "01:07:42.9020000",
+      "explicit": true,
+      "spotifyId": "1xzLsPzWdoCxhqzPLBgvZ0",
+      "appleId": 1000704834802,
+      "subjects": [
+        "Colin Batley"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1xzLsPzWdoCxhqzPLBgvZ0",
+        "apple": "https://podcasts.apple.com/podcast/child-abuse-part-42-the-kidwelly-sex-cult-part-1/id1498722050?i=1000704834802"
+      }
+    }
+  ]
+}

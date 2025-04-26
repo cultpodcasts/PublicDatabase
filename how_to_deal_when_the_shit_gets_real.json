@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "dc3d92f7-e6df-4fa1-90c5-6161d4eff40f",
+  "name": "How to Deal When the Shit Gets Real",
+  "spotifyId": "46I631T2Wgyp9pp17Uzd3O",
+  "appleId": 1498836096,
+  "youTubeChannelId": "UCRyX1ZAau_ArpWw-595XOog",
+  "episodes": [
+    {
+      "id": "0c1dd624-b7de-4542-92bc-2fa60721b8a6",
+      "title": "Tina Djuretic: Cult Life and Narcissists",
+      "description": "Today, I am joined by Tina, who at 10 years old had her dreams ripped away from her when her family joined a cult-like church. Later on, she ended up in not one, but three narcissistic relationships. She takes us on her journey from no boundaries to healthy boundaries! Tina has excellent advice you do not want to miss.",
+      "release": "2025-04-25T12:37:10Z",
+      "duration": "00:38:26",
+      "explicit": false,
+      "spotifyId": "1caAVW1krv6StlX9Gw7vhU",
+      "appleId": 1000704900669,
+      "youTubeId": "HDHYs-u64Xg",
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1caAVW1krv6StlX9Gw7vhU",
+        "apple": "https://podcasts.apple.com/podcast/tina-djuretic-cult-life-and-narcissists/id1498836096?i=1000704900669",
+        "youtube": "https://www.youtube.com/watch?v=HDHYs-u64Xg"
+      }
+    }
+  ]
+}
