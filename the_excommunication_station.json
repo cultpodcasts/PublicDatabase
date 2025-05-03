@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "c9166cea-6bdd-42d9-8428-2ce0a9d18c93",
+      "title": "204. Petra Part I",
+      "description": "We start our series on Christian rock band, Petra",
+      "release": "2025-04-30T10:05:07Z",
+      "duration": "01:26:10.2590000",
+      "explicit": true,
+      "spotifyId": "5olCdUCBJdnRPOE3VSF6Vl",
+      "appleId": 1000705534052,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5olCdUCBJdnRPOE3VSF6Vl",
+        "apple": "https://podcasts.apple.com/podcast/204-petra-part-i/id1573190999?i=1000705534052"
+      }
+    },
+    {
       "id": "d2919b27-0029-4630-8967-f0e63eb028c5",
       "title": "203. Johnathan Bell \u0022The Screaming Boy\u0022 w/ Gigtapes",
       "description": "This week, we are joined by Gigtapes and we talk about youtube star, Johnathan Bell AKA The Screaming Boy.",

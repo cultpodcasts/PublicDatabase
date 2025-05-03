@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "0d24e589-6bd2-49d5-a0c9-61b687fce351",
+  "name": "TechStuff",
+  "spotifyId": "57wZcoxW8oNs5Mq7WZfTs7",
+  "appleId": 282795787,
+  "episodes": [
+    {
+      "id": "138b32ee-1f25-45d5-82bb-c0e2314f8dc9",
+      "title": "The Story: The Silicon Valley \u201CDeath Cult\u201D w/ Evan Ratliff",
+      "description": "Evan Ratliff is an investigative journalist and podcast host. His Wired article, \u201CThe Delirious, Violent, Impossible True Story of the Zizians,\u201D marked the culmination of a two-year deep-dive into a group of young tech radicals and their spiral into violence. Ratliff sits down with Oz to unpack how the group formed, what they believed \u2013 the parts we can decipher, at least \u2013 and how those beliefs led to alleged murder. See omnystudio.com/listener for privacy information.",
+      "release": "2025-04-30T09:00:00Z",
+      "duration": "00:41:31.2190000",
+      "explicit": false,
+      "spotifyId": "4hgcF7VExnMnhoYEeo5rS5",
+      "appleId": 1000705526571,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4hgcF7VExnMnhoYEeo5rS5",
+        "apple": "https://podcasts.apple.com/podcast/the-story-the-silicon-valley-death-cult-w-evan-ratliff/id282795787?i=1000705526571"
+      }
+    }
+  ]
+}

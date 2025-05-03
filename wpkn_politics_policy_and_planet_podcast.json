@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "52fbf1bf-3a6d-4a24-99d0-81adfb10e3a0",
+  "name": "WPKN: Politics, Policy, and Planet Podcast",
+  "spotifyId": "6115pM3ZQhXP8h00BXJGUk",
+  "appleId": 1771872577,
+  "episodes": [
+    {
+      "id": "327a3e46-7bcd-4462-89e3-63b1c63177f6",
+      "title": "Opus Dei, Trump\u2019s MAGA Movement and Pope Francis\u2019 Catholic Church",
+      "description": "Interview with Gareth Gore, a London-based investigative journalist and editor, conducted by Scott Harris. Gareth Gore talks about his new book, \u201COpus: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church. He discusses the late Pope Francis\u2019 views on Opus Dei, the conservative personal prelature within the Catholic Church, and the coming college of cardinals vote for his successor, as well as the rising influence of the political right-wing inside the U.S. Catholic Church.",
+      "release": "2025-05-02T04:17:03Z",
+      "duration": "00:25:05.1180000",
+      "explicit": false,
+      "spotifyId": "4BJ5iEIOjcRdxHM28wwyDJ",
+      "appleId": 1000705798203,
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4BJ5iEIOjcRdxHM28wwyDJ",
+        "apple": "https://podcasts.apple.com/podcast/opus-dei-trumps-maga-movement-and-pope-francis/id1771872577?i=1000705798203"
+      }
+    }
+  ]
+}

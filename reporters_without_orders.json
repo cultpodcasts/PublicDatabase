@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "c1dd066d-58b7-4ba8-a492-c512a8bd1a42",
+  "name": "Reporters Without Orders",
+  "spotifyId": "379g0Qt1UDMVEVbIPZtQv4",
+  "appleId": 1462395750,
+  "youTubeChannelId": "UCustbySVJGb659WDpdkeATg",
+  "youTubePlaylistId": "PLpHbno9djTOT0u88m22XUAs0oJ06eB_Ik",
+  "episodes": [
+    {
+      "id": "1f94f2a8-5066-44a0-a0a9-9910d8e7c987",
+      "title": " \u2018Sexual abuse\u2019 inside Isha Foundation schools, new e-waste policy | RWO 366 ",
+      "description": "Anjana talks about her report on Isha home schools being run by Jaggi Vasudev, where alleged cases of molestation and sexual assault unfolded. She explains how these misconducts led to traumatic experiences for some, but there is a lack of a grievance redressing mechanism within the organisation. She finds the functional body of the school to be an absurd way of spiritual business.",
+      "release": "2025-04-26T12:30:00Z",
+      "duration": "00:33:17.8970000",
+      "explicit": false,
+      "spotifyId": "3qzPIOX5uF9UAEcxZpyu5s",
+      "appleId": 1000705026767,
+      "youTubeId": "CFegBTyi8Js",
+      "subjects": [
+        "Sadhguru"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3qzPIOX5uF9UAEcxZpyu5s",
+        "apple": "https://podcasts.apple.com/podcast/rwo-366/id1462395750?i=1000705026767",
+        "youtube": "https://www.youtube.com/watch?v=CFegBTyi8Js"
+      }
+    }
+  ]
+}

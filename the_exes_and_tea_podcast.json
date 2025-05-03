@@ -302,12 +302,14 @@
       "explicit": false,
       "spotifyId": "1ScCTXYNu40xUdkDxY58YT",
       "appleId": 1000659206051,
+      "youTubeId": "76X23KuGPEI",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ScCTXYNu40xUdkDxY58YT",
-        "apple": "https://podcasts.apple.com/podcast/wwdbs-right-wing-extremism-and-religious-abuse-ft/id1685499064?i=1000659206051"
+        "apple": "https://podcasts.apple.com/podcast/wwdbs-right-wing-extremism-and-religious-abuse-ft/id1685499064?i=1000659206051",
+        "youtube": "https://www.youtube.com/watch?v=76X23KuGPEI"
       }
     },
     {
@@ -319,12 +321,14 @@
       "explicit": false,
       "spotifyId": "1gc25xMoArkLugyJV9ZzM7",
       "appleId": 1000657239856,
+      "youTubeId": "IVRzMfxAPNk",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1gc25xMoArkLugyJV9ZzM7",
-        "apple": "https://podcasts.apple.com/podcast/escape-to-paradise-embracing-freedom-from-amway/id1685499064?i=1000657239856"
+        "apple": "https://podcasts.apple.com/podcast/escape-to-paradise-embracing-freedom-from-amway/id1685499064?i=1000657239856",
+        "youtube": "https://www.youtube.com/watch?v=IVRzMfxAPNk"
       }
     },
     {
@@ -336,12 +340,14 @@
       "explicit": false,
       "spotifyId": "5xy1YeFmPmp8amIuOxwLL0",
       "appleId": 1000656343642,
+      "youTubeId": "J_Po50WjeRg",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5xy1YeFmPmp8amIuOxwLL0",
-        "apple": "https://podcasts.apple.com/podcast/how-amway-targets-the-vulnerable/id1685499064?i=1000656343642"
+        "apple": "https://podcasts.apple.com/podcast/how-amway-targets-the-vulnerable/id1685499064?i=1000656343642",
+        "youtube": "https://www.youtube.com/watch?v=J_Po50WjeRg"
       }
     },
     {
@@ -353,10 +359,14 @@
       "explicit": false,
       "spotifyId": "3jguLIUmMhCBXvV3ll08NU",
       "appleId": 1000656223823,
-      "youTubeId": "Cult Recovery",
+      "youTubeId": "pgKYxcabLmI",
+      "subjects": [
+        "Cult Recovery"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3jguLIUmMhCBXvV3ll08NU",
-        "apple": "https://podcasts.apple.com/podcast/isolation-after-leaving-a-cult/id1685499064?i=1000656223823"
+        "apple": "https://podcasts.apple.com/podcast/isolation-after-leaving-a-cult/id1685499064?i=1000656223823",
+        "youtube": "https://www.youtube.com/watch?v=pgKYxcabLmI"
       }
     },
     {
@@ -368,12 +378,14 @@
       "explicit": false,
       "spotifyId": "0SQZw7sTECwjbxppqtspTY",
       "appleId": 1000655275613,
+      "youTubeId": "yd7gxYntaQg",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0SQZw7sTECwjbxppqtspTY",
-        "apple": "https://podcasts.apple.com/podcast/self-care-is-important-despite-what-amway-says-ft-rebecca/id1685499064?i=1000655275613"
+        "apple": "https://podcasts.apple.com/podcast/self-care-is-important-despite-what-amway-says-ft-rebecca/id1685499064?i=1000655275613",
+        "youtube": "https://www.youtube.com/watch?v=yd7gxYntaQg"
       }
     },
     {
@@ -385,12 +397,14 @@
       "explicit": false,
       "spotifyId": "5ZxHw70B8VUnjwT38YPqUS",
       "appleId": 1000650281394,
+      "youTubeId": "bMbXIYuEDiI",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ZxHw70B8VUnjwT38YPqUS",
-        "apple": "https://podcasts.apple.com/podcast/my-amway-upline-was-convicted-of-what/id1685499064?i=1000650281394"
+        "apple": "https://podcasts.apple.com/podcast/my-amway-upline-was-convicted-of-what/id1685499064?i=1000650281394",
+        "youtube": "https://www.youtube.com/watch?v=bMbXIYuEDiI"
       }
     },
     {
@@ -402,9 +416,11 @@
       "explicit": false,
       "spotifyId": "2mHEFaT7WokYLPIH9wNRaZ",
       "appleId": 1000648253048,
+      "youTubeId": "Sqq-1xzQ9eQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2mHEFaT7WokYLPIH9wNRaZ",
-        "apple": "https://podcasts.apple.com/podcast/postpartum-after-a-cult-liberation-for-your-baby/id1685499064?i=1000648253048"
+        "apple": "https://podcasts.apple.com/podcast/postpartum-after-a-cult-liberation-for-your-baby/id1685499064?i=1000648253048",
+        "youtube": "https://www.youtube.com/watch?v=Sqq-1xzQ9eQ"
       }
     },
     {
@@ -416,12 +432,14 @@
       "explicit": false,
       "spotifyId": "3L8MNensJ2Pk7ZNAi39hNP",
       "appleId": 1000644708805,
+      "youTubeId": "kRXK2jmgnq4",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3L8MNensJ2Pk7ZNAi39hNP",
-        "apple": "https://podcasts.apple.com/podcast/amway-discussion-panel-episode-2/id1685499064?i=1000644708805"
+        "apple": "https://podcasts.apple.com/podcast/amway-discussion-panel-episode-2/id1685499064?i=1000644708805",
+        "youtube": "https://www.youtube.com/watch?v=kRXK2jmgnq4"
       }
     },
     {
@@ -433,9 +451,11 @@
       "explicit": false,
       "spotifyId": "64gWUp7tKUyCtSF481VBza",
       "appleId": 1000644286873,
+      "youTubeId": "ODVaqPzN8nk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/64gWUp7tKUyCtSF481VBza",
-        "apple": "https://podcasts.apple.com/podcast/freedom-after-13-years-a-journey-from-cult-follower/id1685499064?i=1000644286873"
+        "apple": "https://podcasts.apple.com/podcast/freedom-after-13-years-a-journey-from-cult-follower/id1685499064?i=1000644286873",
+        "youtube": "https://www.youtube.com/watch?v=ODVaqPzN8nk"
       }
     },
     {
@@ -447,12 +467,14 @@
       "explicit": false,
       "spotifyId": "37MtmCF16AneLoJgrHgA3E",
       "appleId": 1000642258502,
+      "youTubeId": "0zYau8MSc-k",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37MtmCF16AneLoJgrHgA3E",
-        "apple": "https://podcasts.apple.com/podcast/amway-group-discussion-ep-1-ft-nandi-hope-ksenija-and-ariel/id1685499064?i=1000642258502"
+        "apple": "https://podcasts.apple.com/podcast/amway-group-discussion-ep-1-ft-nandi-hope-ksenija-and-ariel/id1685499064?i=1000642258502",
+        "youtube": "https://www.youtube.com/watch?v=0zYau8MSc-k"
       }
     },
     {
@@ -464,12 +486,14 @@
       "explicit": false,
       "spotifyId": "3fnhcty6EwhlUrLU103e0R",
       "appleId": 1000641903091,
+      "youTubeId": "uvKJo3k1awk",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3fnhcty6EwhlUrLU103e0R",
-        "apple": "https://podcasts.apple.com/podcast/freedom-vs-amway-in-ura-hobbies-take-a-backseat-ft/id1685499064?i=1000641903091"
+        "apple": "https://podcasts.apple.com/podcast/freedom-vs-amway-in-ura-hobbies-take-a-backseat-ft/id1685499064?i=1000641903091",
+        "youtube": "https://www.youtube.com/watch?v=uvKJo3k1awk"
       }
     },
     {
@@ -481,12 +505,14 @@
       "explicit": false,
       "spotifyId": "5A9aUnfCsRBdVdxIB5i1YZ",
       "appleId": 1000641339962,
+      "youTubeId": "e0EE4cnk9t4",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5A9aUnfCsRBdVdxIB5i1YZ",
-        "apple": "https://podcasts.apple.com/podcast/rose-unveils-deception-within-amway-and-wwdb/id1685499064?i=1000641339962"
+        "apple": "https://podcasts.apple.com/podcast/rose-unveils-deception-within-amway-and-wwdb/id1685499064?i=1000641339962",
+        "youtube": "https://www.youtube.com/watch?v=e0EE4cnk9t4"
       }
     },
     {
@@ -498,12 +524,14 @@
       "explicit": false,
       "spotifyId": "7Ef60BkV7YjLgsjhXgtymo",
       "appleId": 1000641086205,
+      "youTubeId": "eLzNPa1-5Fk",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7Ef60BkV7YjLgsjhXgtymo",
-        "apple": "https://podcasts.apple.com/podcast/the-pursuit-of-success-landed-him-in-amways-ltd-ft-stephen/id1685499064?i=1000641086205"
+        "apple": "https://podcasts.apple.com/podcast/the-pursuit-of-success-landed-him-in-amways-ltd-ft-stephen/id1685499064?i=1000641086205",
+        "youtube": "https://www.youtube.com/watch?v=eLzNPa1-5Fk"
       }
     },
     {
@@ -515,12 +543,14 @@
       "explicit": false,
       "spotifyId": "23ZWYviKIPIgp8jb8UaXvC",
       "appleId": 1000639951691,
+      "youTubeId": "ylxxQA0BgKw",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23ZWYviKIPIgp8jb8UaXvC",
-        "apple": "https://podcasts.apple.com/podcast/lecture-halls-to-amway-calls-joining-and-leaving-ltd/id1685499064?i=1000639951691"
+        "apple": "https://podcasts.apple.com/podcast/lecture-halls-to-amway-calls-joining-and-leaving-ltd/id1685499064?i=1000639951691",
+        "youtube": "https://www.youtube.com/watch?v=ylxxQA0BgKw"
       }
     },
     {
@@ -532,12 +562,14 @@
       "explicit": false,
       "spotifyId": "322JUjTGZIoiVUzk0vBsqp",
       "appleId": 1000639748938,
+      "youTubeId": "75bCn_xZz4I",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/322JUjTGZIoiVUzk0vBsqp",
-        "apple": "https://podcasts.apple.com/podcast/faith-in-love-leavng-amways-ur-association-ft-anilujah/id1685499064?i=1000639748938"
+        "apple": "https://podcasts.apple.com/podcast/faith-in-love-leavng-amways-ur-association-ft-anilujah/id1685499064?i=1000639748938",
+        "youtube": "https://www.youtube.com/watch?v=75bCn_xZz4I"
       }
     },
     {
@@ -549,12 +581,14 @@
       "explicit": false,
       "spotifyId": "77xMD2uBSaZlNesOObRDwN",
       "appleId": 1000639470566,
+      "youTubeId": "6aM3iD8edAA",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/77xMD2uBSaZlNesOObRDwN",
-        "apple": "https://podcasts.apple.com/podcast/changing-states-chasing-dreams-and-lured-by-amway-ft/id1685499064?i=1000639470566"
+        "apple": "https://podcasts.apple.com/podcast/changing-states-chasing-dreams-and-lured-by-amway-ft/id1685499064?i=1000639470566",
+        "youtube": "https://www.youtube.com/watch?v=6aM3iD8edAA"
       }
     },
     {
@@ -566,12 +600,14 @@
       "explicit": false,
       "spotifyId": "799r3zaqaKImuUHQY8lvK5",
       "appleId": 1000639363022,
+      "youTubeId": "yKRgcg3eWoY",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/799r3zaqaKImuUHQY8lvK5",
-        "apple": "https://podcasts.apple.com/podcast/amways-exploitation-of-a-grieving-family-ft-andrea/id1685499064?i=1000639363022"
+        "apple": "https://podcasts.apple.com/podcast/amways-exploitation-of-a-grieving-family-ft-andrea/id1685499064?i=1000639363022",
+        "youtube": "https://www.youtube.com/watch?v=yKRgcg3eWoY"
       }
     },
     {
@@ -583,12 +619,14 @@
       "explicit": false,
       "spotifyId": "2vBpke51CNplvbJYd3baqI",
       "appleId": 1000639174412,
+      "youTubeId": "8fSBPf0V7zE",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2vBpke51CNplvbJYd3baqI",
-        "apple": "https://podcasts.apple.com/podcast/escaping-the-amway-grind-after-seven-years/id1685499064?i=1000639174412"
+        "apple": "https://podcasts.apple.com/podcast/escaping-the-amway-grind-after-seven-years/id1685499064?i=1000639174412",
+        "youtube": "https://www.youtube.com/watch?v=8fSBPf0V7zE"
       }
     },
     {
@@ -600,12 +638,14 @@
       "explicit": false,
       "spotifyId": "1iRC2uuk7apTjeEDOxgs8g",
       "appleId": 1000637760733,
+      "youTubeId": "vus22TP5gQs",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1iRC2uuk7apTjeEDOxgs8g",
-        "apple": "https://podcasts.apple.com/podcast/from-amway-to-triumph-the-path-to-independent-success/id1685499064?i=1000637760733"
+        "apple": "https://podcasts.apple.com/podcast/from-amway-to-triumph-the-path-to-independent-success/id1685499064?i=1000637760733",
+        "youtube": "https://www.youtube.com/watch?v=vus22TP5gQs"
       }
     },
     {
@@ -617,12 +657,14 @@
       "explicit": false,
       "spotifyId": "61IZvxEQQBOIPJcTeFBERV",
       "appleId": 1000637388329,
+      "youTubeId": "V8qIklvuWsc",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61IZvxEQQBOIPJcTeFBERV",
-        "apple": "https://podcasts.apple.com/podcast/amways-takeover-toll-on-motherhood-ft-jackie/id1685499064?i=1000637388329"
+        "apple": "https://podcasts.apple.com/podcast/amways-takeover-toll-on-motherhood-ft-jackie/id1685499064?i=1000637388329",
+        "youtube": "https://www.youtube.com/watch?v=V8qIklvuWsc"
       }
     },
     {
@@ -634,12 +676,14 @@
       "explicit": false,
       "spotifyId": "1ts8Sr2X7Vor18mIcfvFzD",
       "appleId": 1000637133576,
+      "youTubeId": "IKoDyxpPvuM",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ts8Sr2X7Vor18mIcfvFzD",
-        "apple": "https://podcasts.apple.com/podcast/the-link-between-childhood-grooming-and-amway/id1685499064?i=1000637133576"
+        "apple": "https://podcasts.apple.com/podcast/the-link-between-childhood-grooming-and-amway/id1685499064?i=1000637133576",
+        "youtube": "https://www.youtube.com/watch?v=IKoDyxpPvuM"
       }
     },
     {
@@ -651,12 +695,14 @@
       "explicit": false,
       "spotifyId": "6wLIGubMXVhRfukqdn1Vy8",
       "appleId": 1000636870555,
+      "youTubeId": "6YlkcsmmUXQ",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wLIGubMXVhRfukqdn1Vy8",
-        "apple": "https://podcasts.apple.com/podcast/amways-toxic-view-on-marriage-and-abuse-ft-my-upline-jess/id1685499064?i=1000636870555"
+        "apple": "https://podcasts.apple.com/podcast/amways-toxic-view-on-marriage-and-abuse-ft-my-upline-jess/id1685499064?i=1000636870555",
+        "youtube": "https://www.youtube.com/watch?v=6YlkcsmmUXQ"
       }
     },
     {
@@ -668,12 +714,14 @@
       "explicit": false,
       "spotifyId": "063zw6KjipO8gT17fl6sKu",
       "appleId": 1000634997127,
+      "youTubeId": "prhUcJM0B1o",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/063zw6KjipO8gT17fl6sKu",
-        "apple": "https://podcasts.apple.com/podcast/amway-the-patriarchy-and-the-pressure-of-pregnancy-ft-hope/id1685499064?i=1000634997127"
+        "apple": "https://podcasts.apple.com/podcast/amway-the-patriarchy-and-the-pressure-of-pregnancy-ft-hope/id1685499064?i=1000634997127",
+        "youtube": "https://www.youtube.com/watch?v=prhUcJM0B1o"
       }
     },
     {
@@ -685,12 +733,14 @@
       "explicit": false,
       "spotifyId": "6rZPuzhFhRxEtd03o3eQ02",
       "appleId": 1000634442717,
+      "youTubeId": "w4BiJFzP-dM",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6rZPuzhFhRxEtd03o3eQ02",
-        "apple": "https://podcasts.apple.com/podcast/amway-tries-to-deceive-an-accountant/id1685499064?i=1000634442717"
+        "apple": "https://podcasts.apple.com/podcast/amway-tries-to-deceive-an-accountant/id1685499064?i=1000634442717",
+        "youtube": "https://www.youtube.com/watch?v=w4BiJFzP-dM"
       }
     },
     {
@@ -702,12 +752,14 @@
       "explicit": false,
       "spotifyId": "6CoAhchlcpstVkmzFKtXJ8",
       "appleId": 1000634225604,
+      "youTubeId": "RMbgD5MD808",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6CoAhchlcpstVkmzFKtXJ8",
-        "apple": "https://podcasts.apple.com/podcast/preying-on-potential-amways-exploitation-of-todays/id1685499064?i=1000634225604"
+        "apple": "https://podcasts.apple.com/podcast/preying-on-potential-amways-exploitation-of-todays/id1685499064?i=1000634225604",
+        "youtube": "https://www.youtube.com/watch?v=RMbgD5MD808"
       }
     },
     {
@@ -719,12 +771,14 @@
       "explicit": false,
       "spotifyId": "1KbPCAZli5sIHo8YhHZ3vg",
       "appleId": 1000633667804,
+      "youTubeId": "UKmZpxtX0Q0",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1KbPCAZli5sIHo8YhHZ3vg",
-        "apple": "https://podcasts.apple.com/podcast/exposing-amway-taking-back-power-after-abuse-ft-anna/id1685499064?i=1000633667804"
+        "apple": "https://podcasts.apple.com/podcast/exposing-amway-taking-back-power-after-abuse-ft-anna/id1685499064?i=1000633667804",
+        "youtube": "https://www.youtube.com/watch?v=UKmZpxtX0Q0"
       }
     },
     {
@@ -736,12 +790,14 @@
       "explicit": false,
       "spotifyId": "5MZX97rRqoDNjGiPIP4fld",
       "appleId": 1000633280843,
+      "youTubeId": "YfD27-zMAr0",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5MZX97rRqoDNjGiPIP4fld",
-        "apple": "https://podcasts.apple.com/podcast/amways-wwdb-fails-to-protect-abuse-survivors/id1685499064?i=1000633280843"
+        "apple": "https://podcasts.apple.com/podcast/amways-wwdb-fails-to-protect-abuse-survivors/id1685499064?i=1000633280843",
+        "youtube": "https://www.youtube.com/watch?v=YfD27-zMAr0"
       }
     },
     {
@@ -753,12 +809,14 @@
       "explicit": false,
       "spotifyId": "4YcNUttMHxdAKXvFfn1WmV",
       "appleId": 1000633178975,
+      "youTubeId": "jAVt8ipUms4",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4YcNUttMHxdAKXvFfn1WmV",
-        "apple": "https://podcasts.apple.com/podcast/preying-on-potential-amways-exploitation-of-todays/id1685499064?i=1000633178975"
+        "apple": "https://podcasts.apple.com/podcast/preying-on-potential-amways-exploitation-of-todays/id1685499064?i=1000633178975",
+        "youtube": "https://www.youtube.com/watch?v=jAVt8ipUms4"
       }
     },
     {
@@ -770,12 +828,14 @@
       "explicit": false,
       "spotifyId": "4uV5yBH5tchJ4ZJqqRmfOJ",
       "appleId": 1000632952926,
+      "youTubeId": "Fe-txrvzoh4",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4uV5yBH5tchJ4ZJqqRmfOJ",
-        "apple": "https://podcasts.apple.com/podcast/amways-exploitative-cycle-of-young-dreams-and-debt/id1685499064?i=1000632952926"
+        "apple": "https://podcasts.apple.com/podcast/amways-exploitative-cycle-of-young-dreams-and-debt/id1685499064?i=1000632952926",
+        "youtube": "https://www.youtube.com/watch?v=Fe-txrvzoh4"
       }
     },
     {
@@ -787,12 +847,14 @@
       "explicit": false,
       "spotifyId": "5gBsJSORujYUBBsiGTuaPb",
       "appleId": 1000632888333,
+      "youTubeId": "8RIE1OSOwvw",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5gBsJSORujYUBBsiGTuaPb",
-        "apple": "https://podcasts.apple.com/podcast/escaping-amway-finding-a-safe-place-to-call-home/id1685499064?i=1000632888333"
+        "apple": "https://podcasts.apple.com/podcast/escaping-amway-finding-a-safe-place-to-call-home/id1685499064?i=1000632888333",
+        "youtube": "https://www.youtube.com/watch?v=8RIE1OSOwvw"
       }
     },
     {
@@ -804,12 +866,14 @@
       "explicit": false,
       "spotifyId": "4icJvkTC0oEtzgdYi3hrg0",
       "appleId": 1000632099145,
+      "youTubeId": "3if9K8VZumI",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4icJvkTC0oEtzgdYi3hrg0",
-        "apple": "https://podcasts.apple.com/podcast/amway-domestic-abuse-and-the-midlife-crisis/id1685499064?i=1000632099145"
+        "apple": "https://podcasts.apple.com/podcast/amway-domestic-abuse-and-the-midlife-crisis/id1685499064?i=1000632099145",
+        "youtube": "https://www.youtube.com/watch?v=3if9K8VZumI"
       }
     },
     {
@@ -821,12 +885,14 @@
       "explicit": false,
       "spotifyId": "6r1KYI2fXwdHWWfvFmtCfL",
       "appleId": 1000631557117,
+      "youTubeId": "w_CM9iIW1_4",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6r1KYI2fXwdHWWfvFmtCfL",
-        "apple": "https://podcasts.apple.com/podcast/amways-disregard-for-people-faith-weaponization-and/id1685499064?i=1000631557117"
+        "apple": "https://podcasts.apple.com/podcast/amways-disregard-for-people-faith-weaponization-and/id1685499064?i=1000631557117",
+        "youtube": "https://www.youtube.com/watch?v=w_CM9iIW1_4"
       }
     },
     {
@@ -838,12 +904,14 @@
       "explicit": false,
       "spotifyId": "3Mp2QAxgXPlLD9WHcWQHmn",
       "appleId": 1000630923362,
+      "youTubeId": "TwLnwsPRi4I",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Mp2QAxgXPlLD9WHcWQHmn",
-        "apple": "https://podcasts.apple.com/podcast/amway-the-intersection-of-racism-misogyny/id1685499064?i=1000630923362"
+        "apple": "https://podcasts.apple.com/podcast/amway-the-intersection-of-racism-misogyny/id1685499064?i=1000630923362",
+        "youtube": "https://www.youtube.com/watch?v=TwLnwsPRi4I"
       }
     },
     {
@@ -855,13 +923,15 @@
       "explicit": false,
       "spotifyId": "6lqutB9C0BJIwlBgESnuH1",
       "appleId": 1000630498924,
+      "youTubeId": "zkBF4Z1U39Q",
       "subjects": [
         "Amway",
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6lqutB9C0BJIwlBgESnuH1",
-        "apple": "https://podcasts.apple.com/podcast/amways-web-of-narcissism-and-deception-ft-nandi/id1685499064?i=1000630498924"
+        "apple": "https://podcasts.apple.com/podcast/amways-web-of-narcissism-and-deception-ft-nandi/id1685499064?i=1000630498924",
+        "youtube": "https://www.youtube.com/watch?v=zkBF4Z1U39Q"
       }
     },
     {
@@ -873,9 +943,11 @@
       "explicit": false,
       "spotifyId": "0M1JKbFbqzDv8xyafVLGQ4",
       "appleId": 1000630271381,
+      "youTubeId": "8JnOB646Uss",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0M1JKbFbqzDv8xyafVLGQ4",
-        "apple": "https://podcasts.apple.com/podcast/a-culty-beginning-how-the-salem-witch-trials/id1685499064?i=1000630271381"
+        "apple": "https://podcasts.apple.com/podcast/a-culty-beginning-how-the-salem-witch-trials/id1685499064?i=1000630271381",
+        "youtube": "https://www.youtube.com/watch?v=8JnOB646Uss"
       }
     },
     {
@@ -887,9 +959,11 @@
       "explicit": false,
       "spotifyId": "5IGbP4la5llikT28fsf41K",
       "appleId": 1000629723878,
+      "youTubeId": "Z0RlSVlSi18",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5IGbP4la5llikT28fsf41K",
-        "apple": "https://podcasts.apple.com/podcast/what-it-was-like-to-be-a-father-to-an-ambot-in-wwdb-ft-my-dad/id1685499064?i=1000629723878"
+        "apple": "https://podcasts.apple.com/podcast/what-it-was-like-to-be-a-father-to-an-ambot-in-wwdb-ft-my-dad/id1685499064?i=1000629723878",
+        "youtube": "https://www.youtube.com/watch?v=Z0RlSVlSi18"
       }
     },
     {
@@ -901,12 +975,14 @@
       "explicit": false,
       "spotifyId": "5aIXV1qgQj6eLACe7uEB1H",
       "appleId": 1000629428267,
+      "youTubeId": "1ub_GNOXLic",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5aIXV1qgQj6eLACe7uEB1H",
-        "apple": "https://podcasts.apple.com/podcast/exposing-amway-inside-a-wwdb-meeting-pt-3/id1685499064?i=1000629428267"
+        "apple": "https://podcasts.apple.com/podcast/exposing-amway-inside-a-wwdb-meeting-pt-3/id1685499064?i=1000629428267",
+        "youtube": "https://www.youtube.com/watch?v=1ub_GNOXLic"
       }
     },
     {
@@ -918,12 +994,14 @@
       "explicit": false,
       "spotifyId": "1r4tj34rS3Isju97OqLxnW",
       "appleId": 1000629279730,
+      "youTubeId": "eJ9ziXiasho",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1r4tj34rS3Isju97OqLxnW",
-        "apple": "https://podcasts.apple.com/podcast/the-amway-experience-exposing-wwdbs-patriarchy-ft-cassia/id1685499064?i=1000629279730"
+        "apple": "https://podcasts.apple.com/podcast/the-amway-experience-exposing-wwdbs-patriarchy-ft-cassia/id1685499064?i=1000629279730",
+        "youtube": "https://www.youtube.com/watch?v=eJ9ziXiasho"
       }
     },
     {
@@ -935,12 +1013,14 @@
       "explicit": false,
       "spotifyId": "5iw8fbN99koEY1ftGtJJmm",
       "appleId": 1000627965168,
+      "youTubeId": "0euhbkcuCq0",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5iw8fbN99koEY1ftGtJJmm",
-        "apple": "https://podcasts.apple.com/podcast/exposing-an-amway-wwdb-meeting-pt-2/id1685499064?i=1000627965168"
+        "apple": "https://podcasts.apple.com/podcast/exposing-an-amway-wwdb-meeting-pt-2/id1685499064?i=1000627965168",
+        "youtube": "https://www.youtube.com/watch?v=0euhbkcuCq0"
       }
     },
     {
@@ -952,12 +1032,14 @@
       "explicit": false,
       "spotifyId": "0GTwPwvKWDSefHLX34ZABZ",
       "appleId": 1000627821709,
+      "youTubeId": "5CWNfbAnkHI",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0GTwPwvKWDSefHLX34ZABZ",
-        "apple": "https://podcasts.apple.com/podcast/amways-bww-two-rebellious-crossline-and-their/id1685499064?i=1000627821709"
+        "apple": "https://podcasts.apple.com/podcast/amways-bww-two-rebellious-crossline-and-their/id1685499064?i=1000627821709",
+        "youtube": "https://www.youtube.com/watch?v=5CWNfbAnkHI"
       }
     },
     {
@@ -968,11 +1050,15 @@
       "duration": "00:47:30.9980000",
       "explicit": false,
       "spotifyId": "3v1ccaQh8qmfAkMNgOxvHn",
+      "appleId": 1000627821709,
+      "youTubeId": "yFREF2TzsCM",
       "subjects": [
         "Amway"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3v1ccaQh8qmfAkMNgOxvHn"
+        "spotify": "https://open.spotify.com/episode/3v1ccaQh8qmfAkMNgOxvHn",
+        "apple": "https://podcasts.apple.com/podcast/amways-bww-two-rebellious-crossline-and-their/id1685499064?i=1000627821709",
+        "youtube": "https://www.youtube.com/watch?v=yFREF2TzsCM"
       }
     },
     {
@@ -984,12 +1070,14 @@
       "explicit": false,
       "spotifyId": "7hpFdYCBxxj6ZwRutDHsU7",
       "appleId": 1000626901947,
+      "youTubeId": "VeOSf7Ikz5s",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hpFdYCBxxj6ZwRutDHsU7",
-        "apple": "https://podcasts.apple.com/podcast/amway-exposed-inside-a-wwdb-meeting/id1685499064?i=1000626901947"
+        "apple": "https://podcasts.apple.com/podcast/amway-exposed-inside-a-wwdb-meeting/id1685499064?i=1000626901947",
+        "youtube": "https://www.youtube.com/watch?v=VeOSf7Ikz5s"
       }
     },
     {
@@ -1001,12 +1089,14 @@
       "explicit": false,
       "spotifyId": "6yABnQtzCU89ao9qryknp6",
       "appleId": 1000626525961,
+      "youTubeId": "rmCt0S-Wbo4",
       "subjects": [
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yABnQtzCU89ao9qryknp6",
-        "apple": "https://podcasts.apple.com/podcast/lost-in-the-chaos-lifes-wild-ride-with/id1685499064?i=1000626525961"
+        "apple": "https://podcasts.apple.com/podcast/lost-in-the-chaos-lifes-wild-ride-with/id1685499064?i=1000626525961",
+        "youtube": "https://www.youtube.com/watch?v=rmCt0S-Wbo4"
       }
     },
     {
@@ -1018,9 +1108,11 @@
       "explicit": false,
       "spotifyId": "1QO4mwSoQfiX012XP7Nz5U",
       "appleId": 1000626166186,
+      "youTubeId": "MSqCZeTUWe4",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1QO4mwSoQfiX012XP7Nz5U",
-        "apple": "https://podcasts.apple.com/podcast/wwdb-teaches-family-prioritization-except-its-never/id1685499064?i=1000626166186"
+        "apple": "https://podcasts.apple.com/podcast/wwdb-teaches-family-prioritization-except-its-never/id1685499064?i=1000626166186",
+        "youtube": "https://www.youtube.com/watch?v=MSqCZeTUWe4"
       }
     },
     {
@@ -1032,9 +1124,11 @@
       "explicit": false,
       "spotifyId": "5QT5JQhRGpOT8wTpLTWYfP",
       "appleId": 1000625806629,
+      "youTubeId": "D7AI_V6YY30",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5QT5JQhRGpOT8wTpLTWYfP",
-        "apple": "https://podcasts.apple.com/podcast/bree-exposes-wwdbs-deceit-and-failure-to-safeguard/id1685499064?i=1000625806629"
+        "apple": "https://podcasts.apple.com/podcast/bree-exposes-wwdbs-deceit-and-failure-to-safeguard/id1685499064?i=1000625806629",
+        "youtube": "https://www.youtube.com/watch?v=D7AI_V6YY30"
       }
     },
     {
@@ -1046,12 +1140,14 @@
       "explicit": false,
       "spotifyId": "7wkW5ZGexjMawgAGEJbNxn",
       "appleId": 1000625345461,
+      "youTubeId": "p-EFSS5iwLw",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7wkW5ZGexjMawgAGEJbNxn",
-        "apple": "https://podcasts.apple.com/podcast/exclusivity-and-patriarchal-reign-in-amways-wwdb/id1685499064?i=1000625345461"
+        "apple": "https://podcasts.apple.com/podcast/exclusivity-and-patriarchal-reign-in-amways-wwdb/id1685499064?i=1000625345461",
+        "youtube": "https://www.youtube.com/watch?v=p-EFSS5iwLw"
       }
     },
     {
@@ -1063,9 +1159,11 @@
       "explicit": false,
       "spotifyId": "3Iy6Me1W0cn33RQCq83hp9",
       "appleId": 1000625049675,
+      "youTubeId": "-iQMPcOLxNo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Iy6Me1W0cn33RQCq83hp9",
-        "apple": "https://podcasts.apple.com/podcast/unveiling-wwdb-sleep-deprivation-and-old-upline-say/id1685499064?i=1000625049675"
+        "apple": "https://podcasts.apple.com/podcast/unveiling-wwdb-sleep-deprivation-and-old-upline-say/id1685499064?i=1000625049675",
+        "youtube": "https://www.youtube.com/watch?v=-iQMPcOLxNo"
       }
     },
     {
@@ -1077,9 +1175,11 @@
       "explicit": false,
       "spotifyId": "4VPyPIodZ000z2JSv0xRAc",
       "appleId": 1000624690451,
+      "youTubeId": "0-lS4cimwqM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4VPyPIodZ000z2JSv0xRAc",
-        "apple": "https://podcasts.apple.com/podcast/breaking-the-silence-and-the-journey-to/id1685499064?i=1000624690451"
+        "apple": "https://podcasts.apple.com/podcast/breaking-the-silence-and-the-journey-to/id1685499064?i=1000624690451",
+        "youtube": "https://www.youtube.com/watch?v=0-lS4cimwqM"
       }
     },
     {
@@ -1091,6 +1191,7 @@
       "explicit": false,
       "spotifyId": "6pBXrLIDQjrnbR9qyQ8k8k",
       "appleId": 1000623994485,
+      "youTubeId": "StyBwcO8wVE",
       "subjects": [
         "Landmark",
         "Multi-Level Marketing",
@@ -1098,7 +1199,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6pBXrLIDQjrnbR9qyQ8k8k",
-        "apple": "https://podcasts.apple.com/podcast/experiencing-the-landmark-forum-and-arbonne-two-mlms/id1685499064?i=1000623994485"
+        "apple": "https://podcasts.apple.com/podcast/experiencing-the-landmark-forum-and-arbonne-two-mlms/id1685499064?i=1000623994485",
+        "youtube": "https://www.youtube.com/watch?v=StyBwcO8wVE"
       }
     },
     {
@@ -1110,12 +1212,14 @@
       "explicit": false,
       "spotifyId": "6JVG1oC4FWGGFqTmmCFjbk",
       "appleId": 1000621595314,
+      "youTubeId": "ailRwVHYbNs",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6JVG1oC4FWGGFqTmmCFjbk",
-        "apple": "https://podcasts.apple.com/podcast/amways-wwdb-is-lying-about-what-an-anonymous-source/id1685499064?i=1000621595314"
+        "apple": "https://podcasts.apple.com/podcast/amways-wwdb-is-lying-about-what-an-anonymous-source/id1685499064?i=1000621595314",
+        "youtube": "https://www.youtube.com/watch?v=ailRwVHYbNs"
       }
     },
     {
@@ -1127,12 +1231,14 @@
       "explicit": false,
       "spotifyId": "0YNtr753lWibzN6ElxrZEn",
       "appleId": 1000620860954,
+      "youTubeId": "-rvE2vRBvcE",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0YNtr753lWibzN6ElxrZEn",
-        "apple": "https://podcasts.apple.com/podcast/from-amway-to-entrepreneur-unleashing-potential-beyond/id1685499064?i=1000620860954"
+        "apple": "https://podcasts.apple.com/podcast/from-amway-to-entrepreneur-unleashing-potential-beyond/id1685499064?i=1000620860954",
+        "youtube": "https://www.youtube.com/watch?v=-rvE2vRBvcE"
       }
     },
     {
@@ -1144,12 +1250,14 @@
       "explicit": false,
       "spotifyId": "19eHYuEPZAcgfz3HmgE4Wp",
       "appleId": 1000619423491,
+      "youTubeId": "-RHwzL3NzB0",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19eHYuEPZAcgfz3HmgE4Wp",
-        "apple": "https://podcasts.apple.com/podcast/unmasking-a-cult-amways-britt-world-wide-ft-meredith-adams/id1685499064?i=1000619423491"
+        "apple": "https://podcasts.apple.com/podcast/unmasking-a-cult-amways-britt-world-wide-ft-meredith-adams/id1685499064?i=1000619423491",
+        "youtube": "https://www.youtube.com/watch?v=-RHwzL3NzB0"
       }
     },
     {
@@ -1161,12 +1269,14 @@
       "explicit": false,
       "spotifyId": "2AQrXcUKQfR4RGgaesRRz2",
       "appleId": 1000618935976,
+      "youTubeId": "7uwjTGb-RAc",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2AQrXcUKQfR4RGgaesRRz2",
-        "apple": "https://podcasts.apple.com/podcast/exposing-amway-cult-like-tactics-and-financial-lies/id1685499064?i=1000618935976"
+        "apple": "https://podcasts.apple.com/podcast/exposing-amway-cult-like-tactics-and-financial-lies/id1685499064?i=1000618935976",
+        "youtube": "https://www.youtube.com/watch?v=7uwjTGb-RAc"
       }
     },
     {
@@ -1178,9 +1288,11 @@
       "explicit": false,
       "spotifyId": "3FbWeDpQtVbWa9dK11Jy7I",
       "appleId": 1000618550859,
+      "youTubeId": "CW63SiojrbI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3FbWeDpQtVbWa9dK11Jy7I",
-        "apple": "https://podcasts.apple.com/podcast/building-her-empire-empowering-women-in-real-estate/id1685499064?i=1000618550859"
+        "apple": "https://podcasts.apple.com/podcast/building-her-empire-empowering-women-in-real-estate/id1685499064?i=1000618550859",
+        "youtube": "https://www.youtube.com/watch?v=CW63SiojrbI"
       }
     },
     {
@@ -1192,9 +1304,11 @@
       "explicit": false,
       "spotifyId": "4pbeq8JT0QP9fO5cdGXfh9",
       "appleId": 1000618146897,
+      "youTubeId": "Xav_vSoW42o",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4pbeq8JT0QP9fO5cdGXfh9",
-        "apple": "https://podcasts.apple.com/podcast/youtuber-grooming-minors-yep-were-talking-about-colleen/id1685499064?i=1000618146897"
+        "apple": "https://podcasts.apple.com/podcast/youtuber-grooming-minors-yep-were-talking-about-colleen/id1685499064?i=1000618146897",
+        "youtube": "https://www.youtube.com/watch?v=Xav_vSoW42o"
       }
     },
     {
@@ -1206,13 +1320,15 @@
       "explicit": false,
       "spotifyId": "2UNVIq5ixvX9Md3yCyxIME",
       "appleId": 1000617779519,
+      "youTubeId": "XsGFPv86w3U",
       "subjects": [
         "Cult Psychology",
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2UNVIq5ixvX9Md3yCyxIME",
-        "apple": "https://podcasts.apple.com/podcast/exposing-amway-ideology-cults-and-brainwashing-ft/id1685499064?i=1000617779519"
+        "apple": "https://podcasts.apple.com/podcast/exposing-amway-ideology-cults-and-brainwashing-ft/id1685499064?i=1000617779519",
+        "youtube": "https://www.youtube.com/watch?v=XsGFPv86w3U"
       }
     },
     {
@@ -1224,12 +1340,14 @@
       "explicit": false,
       "spotifyId": "5E0gdyG3ztKpZ0VfzqkBhq",
       "appleId": 1000617315569,
+      "youTubeId": "9dnPA9413mo",
       "subjects": [
         "Amway"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5E0gdyG3ztKpZ0VfzqkBhq",
-        "apple": "https://podcasts.apple.com/podcast/exposing-amway-ura-u-r-a-scam-ft-taylor/id1685499064?i=1000617315569"
+        "apple": "https://podcasts.apple.com/podcast/exposing-amway-ura-u-r-a-scam-ft-taylor/id1685499064?i=1000617315569",
+        "youtube": "https://www.youtube.com/watch?v=9dnPA9413mo"
       }
     },
     {
@@ -1241,12 +1359,14 @@
       "explicit": false,
       "spotifyId": "7FXWbfc8zizc7BbGX1rczu",
       "appleId": 1000616908518,
+      "youTubeId": "Q6FyDavSRNs",
       "subjects": [
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7FXWbfc8zizc7BbGX1rczu",
-        "apple": "https://podcasts.apple.com/podcast/exposing-a-cult-wwdb-promotes-censorship-ft-jessica/id1685499064?i=1000616908518"
+        "apple": "https://podcasts.apple.com/podcast/exposing-a-cult-wwdb-promotes-censorship-ft-jessica/id1685499064?i=1000616908518",
+        "youtube": "https://www.youtube.com/watch?v=Q6FyDavSRNs"
       }
     },
     {
@@ -1258,9 +1378,11 @@
       "explicit": false,
       "spotifyId": "6r5YCfFNJitGBpxFg1gpTq",
       "appleId": 1000616320017,
+      "youTubeId": "JYZfYOUxM6s",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6r5YCfFNJitGBpxFg1gpTq",
-        "apple": "https://podcasts.apple.com/podcast/empowering-voices-learning-disability-advocacy-with/id1685499064?i=1000616320017"
+        "apple": "https://podcasts.apple.com/podcast/empowering-voices-learning-disability-advocacy-with/id1685499064?i=1000616320017",
+        "youtube": "https://www.youtube.com/watch?v=JYZfYOUxM6s"
       }
     },
     {
@@ -1272,12 +1394,14 @@
       "explicit": false,
       "spotifyId": "1oFK53JruC6i9qcyGEPruo",
       "appleId": 1000615933674,
+      "youTubeId": "LMP1PJmvwjQ",
       "subjects": [
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1oFK53JruC6i9qcyGEPruo",
-        "apple": "https://podcasts.apple.com/podcast/narcissism-in-childhood-healing-in-adulthood-ft-kelley/id1685499064?i=1000615933674"
+        "apple": "https://podcasts.apple.com/podcast/narcissism-in-childhood-healing-in-adulthood-ft-kelley/id1685499064?i=1000615933674",
+        "youtube": "https://www.youtube.com/watch?v=LMP1PJmvwjQ"
       }
     },
     {
@@ -1289,12 +1413,14 @@
       "explicit": false,
       "spotifyId": "77TTiEzsQKtWAa6AveAfvs",
       "appleId": 1000613748720,
+      "youTubeId": "Bqx99cv9taE",
       "subjects": [
         "Potter\u0027s House Christian Fellowship"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/77TTiEzsQKtWAa6AveAfvs",
-        "apple": "https://podcasts.apple.com/podcast/they-were-in-a-cult-the-potters-house-experience/id1685499064?i=1000613748720"
+        "apple": "https://podcasts.apple.com/podcast/they-were-in-a-cult-the-potters-house-experience/id1685499064?i=1000613748720",
+        "youtube": "https://www.youtube.com/watch?v=Bqx99cv9taE"
       }
     },
     {
@@ -1306,9 +1432,11 @@
       "explicit": false,
       "spotifyId": "69XkdjaqQjEgILBnyMZzFA",
       "appleId": 1000613292152,
+      "youTubeId": "jsTdY5uRFwA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/69XkdjaqQjEgILBnyMZzFA",
-        "apple": "https://podcasts.apple.com/podcast/wwdb-preaches-misogyny-ft-hope/id1685499064?i=1000613292152"
+        "apple": "https://podcasts.apple.com/podcast/wwdb-preaches-misogyny-ft-hope/id1685499064?i=1000613292152",
+        "youtube": "https://www.youtube.com/watch?v=jsTdY5uRFwA"
       }
     },
     {
@@ -1320,9 +1448,11 @@
       "explicit": false,
       "spotifyId": "18xIyRN16KWujeGJgMDCTs",
       "appleId": 1000612848715,
+      "youTubeId": "K4drc5sPuqM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/18xIyRN16KWujeGJgMDCTs",
-        "apple": "https://podcasts.apple.com/podcast/true-crime-the-case-of-ashley-pond-and-miranda-gaddis/id1685499064?i=1000612848715"
+        "apple": "https://podcasts.apple.com/podcast/true-crime-the-case-of-ashley-pond-and-miranda-gaddis/id1685499064?i=1000612848715",
+        "youtube": "https://www.youtube.com/watch?v=K4drc5sPuqM"
       }
     },
     {
@@ -1334,9 +1464,11 @@
       "explicit": false,
       "spotifyId": "33cFUnBWxImjr0oOZ2My6Y",
       "appleId": 1000612414655,
+      "youTubeId": "4gigw2p8Lzk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/33cFUnBWxImjr0oOZ2My6Y",
-        "apple": "https://podcasts.apple.com/podcast/she-jumped-out-of-an-airplane-how-falling-was-healing/id1685499064?i=1000612414655"
+        "apple": "https://podcasts.apple.com/podcast/she-jumped-out-of-an-airplane-how-falling-was-healing/id1685499064?i=1000612414655",
+        "youtube": "https://www.youtube.com/watch?v=4gigw2p8Lzk"
       }
     },
     {
@@ -1348,12 +1480,14 @@
       "explicit": false,
       "spotifyId": "1Cazo4Q15Hwiekmb1HVmwK",
       "appleId": 1000611945942,
+      "youTubeId": "jOzIiqL-sSI",
       "subjects": [
         "Multi-Level Marketing"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Cazo4Q15Hwiekmb1HVmwK",
-        "apple": "https://podcasts.apple.com/podcast/wwdb-strikes-again-ft-christina/id1685499064?i=1000611945942"
+        "apple": "https://podcasts.apple.com/podcast/wwdb-strikes-again-ft-christina/id1685499064?i=1000611945942",
+        "youtube": "https://www.youtube.com/watch?v=jOzIiqL-sSI"
       }
     },
     {
@@ -1365,9 +1499,11 @@
       "explicit": false,
       "spotifyId": "75W9Iph3YYYRbkygENU88i",
       "appleId": 1000611517464,
+      "youTubeId": "BGxM0R-3LbQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/75W9Iph3YYYRbkygENU88i",
-        "apple": "https://podcasts.apple.com/podcast/its-just-life-friends-lets-talk-about-it/id1685499064?i=1000611517464"
+        "apple": "https://podcasts.apple.com/podcast/its-just-life-friends-lets-talk-about-it/id1685499064?i=1000611517464",
+        "youtube": "https://www.youtube.com/watch?v=BGxM0R-3LbQ"
       }
     },
     {
@@ -1379,9 +1515,11 @@
       "explicit": false,
       "spotifyId": "3Oi2nsy0ieYspYEx2YpVrX",
       "appleId": 1000611151946,
+      "youTubeId": "i9YqnJ49i_w",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Oi2nsy0ieYspYEx2YpVrX",
-        "apple": "https://podcasts.apple.com/podcast/toxic-positivity-ft-hope-and-fyscher/id1685499064?i=1000611151946"
+        "apple": "https://podcasts.apple.com/podcast/toxic-positivity-ft-hope-and-fyscher/id1685499064?i=1000611151946",
+        "youtube": "https://www.youtube.com/watch?v=i9YqnJ49i_w"
       }
     },
     {
@@ -1393,9 +1531,11 @@
       "explicit": false,
       "spotifyId": "6joBeFWgYpFHHHZxg2BzF2",
       "appleId": 1000611151880,
+      "youTubeId": "KI_EKdcWMiQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6joBeFWgYpFHHHZxg2BzF2",
-        "apple": "https://podcasts.apple.com/podcast/being-recruited-by-wwdb-run-ft-hope-fyscher/id1685499064?i=1000611151880"
+        "apple": "https://podcasts.apple.com/podcast/being-recruited-by-wwdb-run-ft-hope-fyscher/id1685499064?i=1000611151880",
+        "youtube": "https://www.youtube.com/watch?v=KI_EKdcWMiQ"
       }
     },
     {
@@ -1407,9 +1547,11 @@
       "explicit": false,
       "spotifyId": "1zSy6TGmcPV78dalPq0jxW",
       "appleId": 1000611151838,
+      "youTubeId": "40YOPo1-PDo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1zSy6TGmcPV78dalPq0jxW",
-        "apple": "https://podcasts.apple.com/podcast/speak-out-how-did-we-get-tricked-by-wwdb-hopes-story/id1685499064?i=1000611151838"
+        "apple": "https://podcasts.apple.com/podcast/speak-out-how-did-we-get-tricked-by-wwdb-hopes-story/id1685499064?i=1000611151838",
+        "youtube": "https://www.youtube.com/watch?v=40YOPo1-PDo"
       }
     },
     {
@@ -1421,9 +1563,11 @@
       "explicit": false,
       "spotifyId": "60r6le6TluJpkcFzoB4o6E",
       "appleId": 1000611151761,
+      "youTubeId": "0J080spnCy8",
       "urls": {
         "spotify": "https://open.spotify.com/episode/60r6le6TluJpkcFzoB4o6E",
-        "apple": "https://podcasts.apple.com/podcast/speak-out-parenting-after-trauma-ft-terralynn/id1685499064?i=1000611151761"
+        "apple": "https://podcasts.apple.com/podcast/speak-out-parenting-after-trauma-ft-terralynn/id1685499064?i=1000611151761",
+        "youtube": "https://www.youtube.com/watch?v=0J080spnCy8"
       }
     },
     {
@@ -1435,12 +1579,14 @@
       "explicit": false,
       "spotifyId": "4rfrVLzNxdR9aScu9s1Ljq",
       "appleId": 1000611151777,
+      "youTubeId": "6_TwCjun8zg",
       "subjects": [
         "Multi-Level Marketing"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4rfrVLzNxdR9aScu9s1Ljq",
-        "apple": "https://podcasts.apple.com/podcast/mlm-nightmare-interview-with-jessica-pt-2/id1685499064?i=1000611151777"
+        "apple": "https://podcasts.apple.com/podcast/mlm-nightmare-interview-with-jessica-pt-2/id1685499064?i=1000611151777",
+        "youtube": "https://www.youtube.com/watch?v=6_TwCjun8zg"
       }
     },
     {
@@ -1452,12 +1598,14 @@
       "explicit": false,
       "spotifyId": "4H8blGcGQdLQD9ByErOYXV",
       "appleId": 1000611152008,
+      "youTubeId": "NC6LAwd7ZPY",
       "subjects": [
         "Multi-Level Marketing"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4H8blGcGQdLQD9ByErOYXV",
-        "apple": "https://podcasts.apple.com/podcast/mlm-nightmare-interview-with-jessica-pt-1/id1685499064?i=1000611152008"
+        "apple": "https://podcasts.apple.com/podcast/mlm-nightmare-interview-with-jessica-pt-1/id1685499064?i=1000611152008",
+        "youtube": "https://www.youtube.com/watch?v=NC6LAwd7ZPY"
       }
     },
     {
@@ -1469,9 +1617,11 @@
       "explicit": false,
       "spotifyId": "4nF7xQpbcvjO2hdojfXk9F",
       "appleId": 1000611151881,
+      "youTubeId": "NdPX5hkM-nM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4nF7xQpbcvjO2hdojfXk9F",
-        "apple": "https://podcasts.apple.com/podcast/leaving-a-cult-danis-experience-with-worldwide/id1685499064?i=1000611151881"
+        "apple": "https://podcasts.apple.com/podcast/leaving-a-cult-danis-experience-with-worldwide/id1685499064?i=1000611151881",
+        "youtube": "https://www.youtube.com/watch?v=NdPX5hkM-nM"
       }
     },
     {
@@ -1483,9 +1633,11 @@
       "explicit": false,
       "spotifyId": "74r55udpyHbXFQ4f1nQNBW",
       "appleId": 1000611152007,
+      "youTubeId": "D6lcqO4kdwg",
       "urls": {
         "spotify": "https://open.spotify.com/episode/74r55udpyHbXFQ4f1nQNBW",
-        "apple": "https://podcasts.apple.com/podcast/joining-a-cult-danis-experience-with-worldwide/id1685499064?i=1000611152007"
+        "apple": "https://podcasts.apple.com/podcast/joining-a-cult-danis-experience-with-worldwide/id1685499064?i=1000611152007",
+        "youtube": "https://www.youtube.com/watch?v=D6lcqO4kdwg"
       }
     },
     {
@@ -1497,9 +1649,11 @@
       "explicit": false,
       "spotifyId": "4imwZWVPr9hBInvMIfk7C9",
       "appleId": 1000611151821,
+      "youTubeId": "RhDqwyfm9YQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4imwZWVPr9hBInvMIfk7C9",
-        "apple": "https://podcasts.apple.com/podcast/our-first-guest-ft-kendra-part-2-trigger-warning/id1685499064?i=1000611151821"
+        "apple": "https://podcasts.apple.com/podcast/our-first-guest-ft-kendra-part-2-trigger-warning/id1685499064?i=1000611151821",
+        "youtube": "https://www.youtube.com/watch?v=RhDqwyfm9YQ"
       }
     },
     {
@@ -1511,9 +1665,11 @@
       "explicit": false,
       "spotifyId": "7zBNYNRJtuoVLDrzcGcJc6",
       "appleId": 1000611151762,
+      "youTubeId": "H69A8K52jBM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7zBNYNRJtuoVLDrzcGcJc6",
-        "apple": "https://podcasts.apple.com/podcast/our-first-guest-ft-kendra-part-1-trigger-warning/id1685499064?i=1000611151762"
+        "apple": "https://podcasts.apple.com/podcast/our-first-guest-ft-kendra-part-1-trigger-warning/id1685499064?i=1000611151762",
+        "youtube": "https://www.youtube.com/watch?v=H69A8K52jBM"
       }
     },
     {
@@ -1525,9 +1681,11 @@
       "explicit": false,
       "spotifyId": "2BK76T0FeiDMpEpPHWgsNd",
       "appleId": 1000611151961,
+      "youTubeId": "l4nwgxwl58U",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2BK76T0FeiDMpEpPHWgsNd",
-        "apple": "https://podcasts.apple.com/podcast/aftermath/id1685499064?i=1000611151961"
+        "apple": "https://podcasts.apple.com/podcast/aftermath/id1685499064?i=1000611151961",
+        "youtube": "https://www.youtube.com/watch?v=l4nwgxwl58U"
       }
     },
     {
@@ -1539,9 +1697,11 @@
       "explicit": false,
       "spotifyId": "6yQSh5eFpO5Sb8QeLWyjqA",
       "appleId": 1000611151883,
+      "youTubeId": "03nx9zFxk0c",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yQSh5eFpO5Sb8QeLWyjqA",
-        "apple": "https://podcasts.apple.com/podcast/seeking-justice-danis-story-pt-3/id1685499064?i=1000611151883"
+        "apple": "https://podcasts.apple.com/podcast/seeking-justice-danis-story-pt-3/id1685499064?i=1000611151883",
+        "youtube": "https://www.youtube.com/watch?v=03nx9zFxk0c"
       }
     },
     {
@@ -1553,9 +1713,11 @@
       "explicit": false,
       "spotifyId": "1oETnGyDkkzOlyfiT2XOHD",
       "appleId": 1000611151962,
+      "youTubeId": "60x1qMRlap4",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1oETnGyDkkzOlyfiT2XOHD",
-        "apple": "https://podcasts.apple.com/podcast/enduring-domestic-violence-danis-story-pt-2/id1685499064?i=1000611151962"
+        "apple": "https://podcasts.apple.com/podcast/enduring-domestic-violence-danis-story-pt-2/id1685499064?i=1000611151962",
+        "youtube": "https://www.youtube.com/watch?v=60x1qMRlap4"
       }
     },
     {
@@ -1567,9 +1729,11 @@
       "explicit": false,
       "spotifyId": "6H0npNRfNtxh8iLrTxvwZi",
       "appleId": 1000611152009,
+      "youTubeId": "AUKmrvq724w",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6H0npNRfNtxh8iLrTxvwZi",
-        "apple": "https://podcasts.apple.com/podcast/surving-domestic-violence-danis-story-pt-1/id1685499064?i=1000611152009"
+        "apple": "https://podcasts.apple.com/podcast/surving-domestic-violence-danis-story-pt-1/id1685499064?i=1000611152009",
+        "youtube": "https://www.youtube.com/watch?v=AUKmrvq724w"
       }
     }
   ]

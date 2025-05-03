@@ -5,6 +5,48 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "b0c8dc2c-54d3-4e49-a9c7-844e845408e4",
+      "title": "What happened when Josh Bloch decided to visit the NXIVM cult headquarters in Albany?",
+      "release": "2025-04-28T21:10:22Z",
+      "duration": "00:02:19",
+      "explicit": false,
+      "youTubeId": "dvvV_R28KRE",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dvvV_R28KRE"
+      }
+    },
+    {
+      "id": "211a92ee-e780-47cb-906b-56048610611f",
+      "title": "Shutting Down the NXIVM center in Vancouver, Canada",
+      "release": "2025-04-28T21:06:26Z",
+      "duration": "00:04:48",
+      "explicit": false,
+      "youTubeId": "RE_5gMUn6eo",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RE_5gMUn6eo"
+      }
+    },
+    {
+      "id": "1da6748d-203f-404c-8ec8-8bdf9507c3d4",
+      "title": "How to... Teach People about Destructive Cults? NXIVM survivors demonstrate",
+      "release": "2025-04-27T08:05:08Z",
+      "duration": "00:03:02",
+      "explicit": false,
+      "youTubeId": "EywzQl9_gH4",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=EywzQl9_gH4"
+      }
+    },
+    {
       "id": "f82db5b9-4369-4d58-a880-e34fd8276b5d",
       "title": "Can you be too messed up to join a destructive cult? New York Times reporter Barry Meier thinks so",
       "release": "2025-04-26T10:08:56Z",
@@ -12,7 +54,8 @@
       "explicit": false,
       "youTubeId": "T4Dlp6i45zk",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "NXIVM"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=T4Dlp6i45zk"
@@ -26,7 +69,8 @@
       "explicit": false,
       "youTubeId": "xFKZt-q2WH8",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "NXIVM"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=xFKZt-q2WH8"
@@ -54,7 +98,8 @@
       "explicit": false,
       "youTubeId": "f8N_LrUPM4U",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "NXIVM"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=f8N_LrUPM4U"

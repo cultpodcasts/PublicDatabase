@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "44bd5f71-2397-43d6-b4d1-b3b635bf581c",
+  "name": "My Psychologist Bestie",
+  "spotifyId": "7hzaGlC3csYYx5IP2PceAy",
+  "appleId": 1793445142,
+  "episodes": [
+    {
+      "id": "9ee991d2-20ff-445a-bdb0-c7bcaf3eee74",
+      "title": "Cults and the High Achiever",
+      "description": "What do multilevel-level marketing, highly restrictive wellness programs and intense niche religious movements (Not saying which ones! Stop looking at me, Tom Cruise!) have in common? They all use tactics common in cults! Put on your best tin foil bonnet and join your psychologist besties to explore why ANYONE, including very intelligent high achievers, can be drawn into predatory, cult-adjacent situations.",
+      "release": "2025-05-02T12:00:00Z",
+      "duration": "00:32:08.9280000",
+      "explicit": false,
+      "spotifyId": "6vLi2SMPtdw3Ng3WK36Yvf",
+      "appleId": 1000705835949,
+      "subjects": [
+        "Scientology",
+        "Self-Help",
+        "Multi-Level Marketing",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6vLi2SMPtdw3Ng3WK36Yvf",
+        "apple": "https://podcasts.apple.com/podcast/cults-and-the-high-achiever/id1793445142?i=1000705835949"
+      }
+    }
+  ]
+}

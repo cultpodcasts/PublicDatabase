@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "4325f550-b75c-48a5-9929-8e8eda19b6a6",
+  "name": "What in the World (BBC World Service)",
+  "spotifyId": "2mPQrJT37b3iXf4zxlnPOD",
+  "appleId": 1696601121,
+  "youTubeChannelId": "UCQXHTFnQYFTqN0MqmNh9EIA",
+  "youTubePlaylistId": "PLz_B0PFGIn4eMOlGZclzdcHmv7s8BFQE6",
+  "episodes": [
+    {
+      "id": "095b3819-4d98-429d-ab49-f8d78ae82634",
+      "title": "Everything you need to know about the Diddy trial",
+      "description": "Sean \u0022Diddy\u0022 Combs is one of the most successful music moguls in the history of rap. He has been arrested and charged with sex trafficking and racketeering. Prosecutors allege that he \u201Cabused, threatened, and coerced women\u201D and that he created \u201Ca criminal enterprise\u201D involving forced labour, kidnapping and bribery. Mr. Combs denies the charges and has pleaded not guilty. Ahead of the trial later this month, Anoushka Mutanda-Dougherty, host of the BBC podcast, Diddy on Trial, explains the charges and shares Diddy\u2019s response. Instagram: @bbcwhatintheworld Email: whatintheworld@bbc.co.uk WhatsApp: \u0026#43;44 0330 12 33 22 6 Presenter: Hannah Gelbart Producer: William Lee Adams and Mora Morrison Video Journalist: Baldeep Chahal Editor: Verity Wilde",
+      "release": "2025-05-01T13:30:00Z",
+      "duration": "00:12:31.8070000",
+      "explicit": false,
+      "spotifyId": "5poV6VWcGrxoT7dlAA412J",
+      "appleId": 1000705693170,
+      "youTubeId": "8X7M6HK6iJw",
+      "subjects": [
+        "Human Trafficking",
+        "Sean Combs"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5poV6VWcGrxoT7dlAA412J",
+        "apple": "https://podcasts.apple.com/podcast/everything-you-need-to-know-about-the-diddy-trial/id1696601121?i=1000705693170",
+        "youtube": "https://www.youtube.com/watch?v=8X7M6HK6iJw"
+      }
+    }
+  ]
+}

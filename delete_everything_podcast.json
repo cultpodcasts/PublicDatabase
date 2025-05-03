@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "e72672b3-af3f-48c0-8a28-7ba666bacb45",
+  "name": "Delete Everything Podcast",
+  "spotifyId": "3V5LJBM4Z6MBTAWSSXw2aW",
+  "appleId": 1767474018,
+  "youTubeChannelId": "UCgDdYzBWTjW-1mbXe8W75ZQ",
+  "episodes": [
+    {
+      "id": "87a34ae2-af12-4ca7-a694-5ed1038841b5",
+      "title": "#41 Corporate Cults",
+      "description": "In this week\u0027s episode, Riley and Patrick recreate their first ever episode, kind of. \u00A0 If you\u2019re a fan of shoving unhinged religious philosophies in your bum, racism toward blue people, and screaming your biggest insecurities at strangers while in your underwear in exchange for subpar orange chicken, then this episode is tailor made for you. After all, cults are more fun when there\u0027s also corporate synergy!\u00A0",
+      "release": "2025-05-02T00:38:09Z",
+      "duration": "01:56:27",
+      "explicit": false,
+      "spotifyId": "6SGHdxSXZSTx0tUfrZqW7b",
+      "appleId": 1000705208118,
+      "youTubeId": "yn0wM68golY",
+      "subjects": [
+        "Corporate Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6SGHdxSXZSTx0tUfrZqW7b",
+        "apple": "https://podcasts.apple.com/podcast/41-corporate-cults/id1767474018?i=1000705208118",
+        "youtube": "https://www.youtube.com/watch?v=yn0wM68golY"
+      }
+    }
+  ]
+}

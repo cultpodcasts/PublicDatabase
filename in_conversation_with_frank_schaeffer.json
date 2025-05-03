@@ -2,8 +2,30 @@
   "_ts": 0,
   "id": "ef537a95-597f-492a-957a-4c23e34d7e39",
   "name": "In Conversation\u2026 with Frank Schaeffer",
+  "spotifyId": "1FVF48mNwzNaLd1tJ4zH6y",
   "appleId": 1570357787,
+  "youTubeChannelId": "UCeEyQuE2XSdHHEr9F4Jrjpg",
   "episodes": [
+    {
+      "id": "0f5672cc-e8d1-4f75-99b4-54093010f2d0",
+      "title": "How Marketers Brainwash You: Dr. Mara Einstein, PhD on Hoodwinked and Cult Tactics",
+      "description": "Marketing or mind control? Dr. Mara Einstein, former NBC and MTV executive, exposes how brands use cult tactics to manipulate you. Based on her book Hoodwinked and featured in Netflix\u2019s Buy Now documentary, this Conversation pulls back the curtain on deceptive marketing\u2019s dark side. _____  https://www.drmaraeinstein.com  https://www.instagram.com/drmaraeinstein/  https://www.linkedin.com/in/drmaraeinstein/  https://www.tiktok.com/@drmaraeinstein  https://www.threads.net/@drmaraeinstein  https...",
+      "release": "2025-04-29T04:00:00Z",
+      "duration": "01:04:31",
+      "explicit": false,
+      "spotifyId": "2CNcGVuqinXTyPHtqbMQiO",
+      "appleId": 1000705357748,
+      "youTubeId": "kv9H5NWisSI",
+      "subjects": [
+        "Cult Psychology",
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2CNcGVuqinXTyPHtqbMQiO",
+        "apple": "https://podcasts.apple.com/podcast/how-marketers-brainwash-you-dr-mara-einstein-phd-on/id1570357787?i=1000705357748",
+        "youtube": "https://www.youtube.com/watch?v=kv9H5NWisSI"
+      }
+    },
     {
       "id": "6daa7a6d-1322-47cd-932d-3d997380a72d",
       "title": "Dr. Laura Anderson, PhD, LMFT",

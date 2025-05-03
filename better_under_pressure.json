@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "6474d68f-dc91-4b3b-b6b3-10ea7380fed3",
+  "name": "Better Under Pressure",
+  "spotifyId": "0ySnokbVfsDqW621Qsx2bQ",
+  "appleId": 1611078756,
+  "youTubeChannelId": "UCq6mzib3e1q33UcHL_rmgOQ",
+  "episodes": [
+    {
+      "id": "53c90821-45a1-4fb8-9701-a694b85f24bd",
+      "title": "Petra Velzeboer - Bet On Yourself",
+      "description": "When I ask most guests on Better Under Pressure when they first experienced pressure, they normally say it was from either parents or school in exams or on sports day, but when you\u2019re born into a notorious cult where you\u2019re raised knowing the world is ending and you are one of god\u2019s endtime soldiers, the pressure is on a whole other level. Petra Velzeboer managed to escape from the cult in her early twenties, and started a family and working, only to find the latter not too dissimilar to those original pressures of the cult - which is why - to use her phrase - she crashed. So it\u2019s no wonder that, when she managed to very consciously extract herself from that second cycle, Petra became a psychotherapist and champion of mental health support with her organisation - PVL - combatting psychologically toxic cultures and promoting mentally healthy work environments.",
+      "release": "2025-05-01T05:00:00Z",
+      "duration": "00:47:37.7030000",
+      "explicit": false,
+      "spotifyId": "4o3cDciJwLc3vAsZrBipFk",
+      "appleId": 1000705653987,
+      "youTubeId": "jHD-oVqNETc",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4o3cDciJwLc3vAsZrBipFk",
+        "apple": "https://podcasts.apple.com/podcast/petra-velzeboer-bet-on-yourself/id1611078756?i=1000705653987",
+        "youtube": "https://www.youtube.com/watch?v=jHD-oVqNETc"
+      }
+    }
+  ]
+}

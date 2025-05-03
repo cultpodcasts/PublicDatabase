@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "9e2425a7-926e-4139-ba1f-90959c431b52",
+  "name": "WFLA News Channel 8",
+  "youTubeChannelId": "UCDvJcb8Adv-_bOrtnRLmiDw",
+  "episodes": [
+    {
+      "id": "539023e2-d85c-4102-8537-9adf9ca4d77d",
+      "title": "Clearwater Police accused of showing favor to Church of Scientology",
+      "description": "The Clearwater Police Chief took to Facebook over the weekend, releasing a video where he answers allegations of being \u0022used\u0022 and showing favor to the Church of Scientology, based in downtown Clearwater.",
+      "release": "2019-02-05T04:22:51Z",
+      "duration": "00:01:59",
+      "explicit": false,
+      "youTubeId": "BERMGgRGqc0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BERMGgRGqc0"
+      }
+    }
+  ]
+}

@@ -16,6 +16,7 @@
       "explicit": false,
       "spotifyId": "2uDv1ge1CRzfHoZye4ebDa",
       "appleId": 1000704842806,
+      "youTubeId": "O4NfgZv4XQg",
       "subjects": [
         "Cult-Expert",
         "Qanon",
@@ -23,7 +24,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2uDv1ge1CRzfHoZye4ebDa",
-        "apple": "https://podcasts.apple.com/podcast/killing-the-cult-of-trump-a-conversation/id1714009198?i=1000704842806"
+        "apple": "https://podcasts.apple.com/podcast/killing-the-cult-of-trump-a-conversation/id1714009198?i=1000704842806",
+        "youtube": "https://www.youtube.com/watch?v=O4NfgZv4XQg"
       }
     },
     {

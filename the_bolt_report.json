@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "e826d3e9-91da-4e1d-b9bc-48c4cd621f34",
+  "name": "The Bolt Report",
+  "spotifyId": "4N3MCtK9YqJI1KB43VD1pT",
+  "appleId": 1107866169,
+  "youTubeChannelId": "UCO0akufu9MOzyz3nvGIXAAw",
+  "youTubePlaylistId": "PL2OFHLSeLxlYU4Pnch95gKgJOgeTH71DU",
+  "episodes": [
+    {
+      "id": "28e3f690-6be5-4f1d-93ee-6a31eb9c105c",
+      "title": "The Bolt Report | 29 April (From 23 minutes)",
+      "description": "Exclusive Brethren quietly campaign for Coalition despite not voting,",
+      "release": "2025-04-29T10:22:51Z",
+      "duration": "00:50:12.3880000",
+      "explicit": false,
+      "spotifyId": "48aJm4Pq2xYeduX2rLNEKj",
+      "appleId": 1000705391456,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/48aJm4Pq2xYeduX2rLNEKj",
+        "apple": "https://podcasts.apple.com/podcast/the-bolt-report-29-april/id1107866169?i=1000705391456"
+      }
+    }
+  ]
+}

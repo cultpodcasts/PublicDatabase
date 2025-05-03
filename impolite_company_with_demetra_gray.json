@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "571a54d3-bf58-43ac-85fc-6b914b9a2e88",
+  "name": "Impolite Company with Demetra Gray",
+  "spotifyId": "1Ra4aPA3zV0Eay1G8Dn1Al",
+  "appleId": 1788568554,
+  "youTubeChannelId": "UCPOTWnlSfvb9aC97yniQz3g",
+  "episodes": [
+    {
+      "id": "4011ac0d-30b8-4efe-8911-dd16bbfdaea3",
+      "title": "#13: Growing up in a Christian cult, sexual abuse \u0026 grooming, winning in court, \u0026 a story of healing",
+      "description": "Danielle grew up in a Duggar-family-style Christian cult. Leading a very sheltered childhood, she left to find her own independence as a teenager and ended up getting groomed into another \u201CChristian\u201D cult, by a narcissistic couple who sexually abused and financially exploited her. Danielle has a lot of self-awareness about exactly how this happened and also tells the story of her escape and the rebuilding of her life. She was later able to testify against her abuser in court and contributed to him going to prison. She is now happily married and has truly moved on from her past experiences.",
+      "release": "2025-05-02T07:01:00Z",
+      "duration": "02:34:09",
+      "explicit": false,
+      "spotifyId": "3sJRGXzRH7yJEAoisJg9FS",
+      "appleId": 1000705815386,
+      "youTubeId": "pouWj0XZ2pw",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3sJRGXzRH7yJEAoisJg9FS",
+        "apple": "https://podcasts.apple.com/podcast/13-growing-up-in-a-christian-cult-sexual-abuse/id1788568554?i=1000705815386",
+        "youtube": "https://www.youtube.com/watch?v=pouWj0XZ2pw"
+      }
+    }
+  ]
+}

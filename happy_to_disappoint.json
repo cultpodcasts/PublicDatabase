@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "5ff1ccf8-3ab5-4136-8f30-2b252ba197d5",
+  "name": "Happy To Disappoint",
+  "spotifyId": "2mCOJnlrOGk3UgzAc46Dsk",
+  "appleId": 1811505214,
+  "youTubeChannelId": "UCCvdmecVF8uQmn0MX9G61iA",
+  "episodes": [
+    {
+      "id": "6a7be82b-5f2c-4781-9ec6-3d818715a6f7",
+      "title": "Ep 1: The Disappointment Begins",
+      "description": "In our very exciting first episode, we\u0027ll be giving you, dear listener, some context on who we are, what the heck this show is, and why we can\u0027t stop crying at the grocery store! (It\u2019s the trauma.) Tune in to hear us ramble on about all of this and more as we discuss:\nThe cult from whence we cameLeaving a harmful environment and the messy feelings that followThe power of sharing stories, even the painful onesThe all-too-relatable story of getting groped in the Pope Room at Bucca Di Beppo   (You know the one)\nCONTENT TRIGGER WARNINGS:  Sexual and Physical Abuse, Childhood Sexual Abuse, Religious and Spiritual Abuse, Bucca Di Beppo",
+      "release": "2025-05-01T09:30:10Z",
+      "duration": "00:57:42",
+      "explicit": false,
+      "spotifyId": "3qRkLfsAQ0flkRDIeOtEe6",
+      "appleId": 1000705672370,
+      "youTubeId": "k-3Zxa-iW8A",
+      "subjects": [
+        "The Living Word Fellowship",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3qRkLfsAQ0flkRDIeOtEe6",
+        "apple": "https://podcasts.apple.com/podcast/ep-1-the-disappointment-begins/id1811505214?i=1000705672370",
+        "youtube": "https://www.youtube.com/watch?v=k-3Zxa-iW8A"
+      }
+    }
+  ]
+}

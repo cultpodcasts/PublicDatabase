@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "060ec8c0-c4c7-40d8-8ffd-4fdb2970049f",
+  "name": "Autopsy Cult",
+  "spotifyId": "1OpJ53lVMmNkYMTbn9NNu4",
+  "episodes": [
+    {
+      "id": "cf9901a6-49d4-4390-b95c-feb524fb4158",
+      "title": "Family Radio",
+      "description": "Deep Dive into prophecy, the end of the world and death caravans all brought to you by Harold Camping \u0026 Family Radio",
+      "release": "2025-04-30T00:00:00",
+      "duration": "00:21:18.9020000",
+      "explicit": true,
+      "spotifyId": "7fFM93dJBlcV8ZOrhGSkHr",
+      "subjects": [
+        "Family Radio"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fFM93dJBlcV8ZOrhGSkHr"
+      }
+    }
+  ]
+}

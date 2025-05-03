@@ -7,6 +7,23 @@
   "youTubeChannelId": "UCJ4q94gAnsoW2jME4SvVrrQ",
   "episodes": [
     {
+      "id": "8c007fe2-7aee-4045-be67-f947c18cbfcc",
+      "title": "Ep. 228: Adolescence",
+      "description": "In this episode, we discuss the Netflix series Adolescence, as well as the manosphere. Join our discord server! https://discord.gg/G5wXrMH6k6 Join our subreddit! Reddit.com/r/EdenExodus Bluesky: @leavingedenpodcast.bsky.social @hellyeahsadie.bsky.social @gavihacohen.bsky.social Instagram: https://www.instagram.com/leavingedenpodcast/ https://www.instagram.com/sadiecarpentermusic/ https://www.instagram.com/gavrielhacohen/ Get bonus content on Patreon Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-04-28T07:00:00Z",
+      "duration": "01:33:48.4470000",
+      "explicit": false,
+      "spotifyId": "4onY59YUjVabDGr2iGBKSZ",
+      "appleId": 1000705228672,
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4onY59YUjVabDGr2iGBKSZ",
+        "apple": "https://podcasts.apple.com/podcast/ep-228-adolescence/id1525971285?i=1000705228672"
+      }
+    },
+    {
       "id": "64637b3a-7747-4058-a4ce-a95539ddef9e",
       "title": "Ep. 227: Missions Conferences with Chad Harris",
       "description": "In this episode, we are joined by Chad Harris (AKA Archraddish85) to talk about missions conferences! Also, Gavi live-reacts to missions classic banger tunes \u0022People Need The Lord\u0022 and \u0022Thank You For Giving To The Lord.\u0022 Sadie is very sick so her voice sounds like Michelle Duggar. Join our discord server! https://discord.gg/G5wXrMH6k6 Join our subreddit! Reddit.com/r/EdenExodus Bluesky: @leavingedenpodcast.bsky.social @hellyeahsadie.bsky.social @gavihacohen.bsky.social Instagram: https://www.instagram.com/leavingedenpodcast/ https://www.instagram.com/sadiecarpentermusic/ https://www.instagram.com/gavrielhacohen/ Get bonus content on Patreon Hosted on Acast. See acast.com/privacy for more information.",
@@ -139,12 +156,14 @@
       "explicit": false,
       "spotifyId": "6PMp1uElInLBzCk1XmGKog",
       "appleId": 1000697331185,
+      "youTubeId": "f8LvOEvyYPQ",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6PMp1uElInLBzCk1XmGKog",
-        "apple": "https://podcasts.apple.com/podcast/ep-220-is-the-church-doomed/id1525971285?i=1000697331185"
+        "apple": "https://podcasts.apple.com/podcast/ep-220-is-the-church-doomed/id1525971285?i=1000697331185",
+        "youtube": "https://www.youtube.com/watch?v=f8LvOEvyYPQ"
       }
     },
     {
@@ -156,13 +175,15 @@
       "explicit": false,
       "spotifyId": "455EFbbSDjzMCMrgC4GQSz",
       "appleId": 1000695469531,
+      "youTubeId": "HZIexyKNfVw",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/455EFbbSDjzMCMrgC4GQSz",
-        "apple": "https://podcasts.apple.com/podcast/ep-219-patriarchy-hannah-catfishes-the-trads/id1525971285?i=1000695469531"
+        "apple": "https://podcasts.apple.com/podcast/ep-219-patriarchy-hannah-catfishes-the-trads/id1525971285?i=1000695469531",
+        "youtube": "https://www.youtube.com/watch?v=HZIexyKNfVw"
       }
     },
     {
@@ -174,13 +195,15 @@
       "explicit": false,
       "spotifyId": "5m134n20ZyttamxRNe0nKC",
       "appleId": 1000692973533,
+      "youTubeId": "ovVVNClkGUE",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5m134n20ZyttamxRNe0nKC",
-        "apple": "https://podcasts.apple.com/podcast/ep-218-aimee-semple-mcpherson-pt-2/id1525971285?i=1000692973533"
+        "apple": "https://podcasts.apple.com/podcast/ep-218-aimee-semple-mcpherson-pt-2/id1525971285?i=1000692973533",
+        "youtube": "https://www.youtube.com/watch?v=ovVVNClkGUE"
       }
     },
     {
@@ -192,13 +215,15 @@
       "explicit": false,
       "spotifyId": "5lWt1p6R4DxUIxv1yLyGod",
       "appleId": 1000690774358,
+      "youTubeId": "uxaENEZ_TnI",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5lWt1p6R4DxUIxv1yLyGod",
-        "apple": "https://podcasts.apple.com/podcast/ep-217-aimee-semple-mcpherson-pt-1/id1525971285?i=1000690774358"
+        "apple": "https://podcasts.apple.com/podcast/ep-217-aimee-semple-mcpherson-pt-1/id1525971285?i=1000690774358",
+        "youtube": "https://www.youtube.com/watch?v=uxaENEZ_TnI"
       }
     },
     {
@@ -210,13 +235,15 @@
       "explicit": false,
       "spotifyId": "2ZbYhGPygSbsuFhUsShfQR",
       "appleId": 1000688458293,
+      "youTubeId": "Com5ANd6748",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ZbYhGPygSbsuFhUsShfQR",
-        "apple": "https://podcasts.apple.com/podcast/ep-216-deconstruction-questions-from-reddit-r-deconstruction/id1525971285?i=1000688458293"
+        "apple": "https://podcasts.apple.com/podcast/ep-216-deconstruction-questions-from-reddit-r-deconstruction/id1525971285?i=1000688458293",
+        "youtube": "https://www.youtube.com/watch?v=Com5ANd6748"
       }
     },
     {
@@ -228,13 +255,15 @@
       "explicit": false,
       "spotifyId": "5VhgmoJwEWChionK13xUZo",
       "appleId": 1000685600106,
+      "youTubeId": "OmtQtfsBPlw",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5VhgmoJwEWChionK13xUZo",
-        "apple": "https://podcasts.apple.com/podcast/ep-215-jonah-and-the-fish-not-a-whale/id1525971285?i=1000685600106"
+        "apple": "https://podcasts.apple.com/podcast/ep-215-jonah-and-the-fish-not-a-whale/id1525971285?i=1000685600106",
+        "youtube": "https://www.youtube.com/watch?v=OmtQtfsBPlw"
       }
     },
     {
@@ -246,12 +275,14 @@
       "explicit": false,
       "spotifyId": "5UQhzAMj1clvP8iz118BQm",
       "appleId": 1000684663576,
+      "youTubeId": "r4qWDmVKWew",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5UQhzAMj1clvP8iz118BQm",
-        "apple": "https://podcasts.apple.com/podcast/ep-214-jinger-duggars-new-book-people-pleaser/id1525971285?i=1000684663576"
+        "apple": "https://podcasts.apple.com/podcast/ep-214-jinger-duggars-new-book-people-pleaser/id1525971285?i=1000684663576",
+        "youtube": "https://www.youtube.com/watch?v=r4qWDmVKWew"
       }
     },
     {
@@ -604,12 +635,14 @@
       "explicit": false,
       "spotifyId": "0nOmOd9MHFrNuS7tyk3hyc",
       "appleId": 1000666612617,
+      "youTubeId": "8CU1v3vzc90",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nOmOd9MHFrNuS7tyk3hyc",
-        "apple": "https://podcasts.apple.com/podcast/ep-195-listener-rapture-stories/id1525971285?i=1000666612617"
+        "apple": "https://podcasts.apple.com/podcast/ep-195-listener-rapture-stories/id1525971285?i=1000666612617",
+        "youtube": "https://www.youtube.com/watch?v=8CU1v3vzc90"
       }
     },
     {
@@ -621,13 +654,15 @@
       "explicit": false,
       "spotifyId": "0owgYQDbeD2RaaMnkpKgFq",
       "appleId": 1000665855646,
+      "youTubeId": "gOvqvvtxiYo",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0owgYQDbeD2RaaMnkpKgFq",
-        "apple": "https://podcasts.apple.com/podcast/ep-194-dictators/id1525971285?i=1000665855646"
+        "apple": "https://podcasts.apple.com/podcast/ep-194-dictators/id1525971285?i=1000665855646",
+        "youtube": "https://www.youtube.com/watch?v=gOvqvvtxiYo"
       }
     },
     {
@@ -639,6 +674,7 @@
       "explicit": false,
       "spotifyId": "3qvV5lY4KTtzpfkBiWiLiJ",
       "appleId": 1000665007394,
+      "youTubeId": "b4wltFqTqsg",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Qanon",
@@ -646,7 +682,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qvV5lY4KTtzpfkBiWiLiJ",
-        "apple": "https://podcasts.apple.com/podcast/ep-193-who-is-the-antichrist/id1525971285?i=1000665007394"
+        "apple": "https://podcasts.apple.com/podcast/ep-193-who-is-the-antichrist/id1525971285?i=1000665007394",
+        "youtube": "https://www.youtube.com/watch?v=b4wltFqTqsg"
       }
     },
     {
@@ -658,13 +695,15 @@
       "explicit": false,
       "spotifyId": "2V23AhZODhTre3R1HoN5xE",
       "appleId": 1000664340319,
+      "youTubeId": "aZHfpsPZK1Y",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2V23AhZODhTre3R1HoN5xE",
-        "apple": "https://podcasts.apple.com/podcast/ep-192-tia-levings-discusses-her-new-book-a-well-trained-wife/id1525971285?i=1000664340319"
+        "apple": "https://podcasts.apple.com/podcast/ep-192-tia-levings-discusses-her-new-book-a-well-trained-wife/id1525971285?i=1000664340319",
+        "youtube": "https://www.youtube.com/watch?v=aZHfpsPZK1Y"
       }
     },
     {
@@ -676,12 +715,14 @@
       "explicit": false,
       "spotifyId": "2ktwzdspjElZ2pj229grIJ",
       "appleId": 1000663651117,
+      "youTubeId": "KJ7QwzIKfKU",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ktwzdspjElZ2pj229grIJ",
-        "apple": "https://podcasts.apple.com/podcast/ep-191-swedenborgianism/id1525971285?i=1000663651117"
+        "apple": "https://podcasts.apple.com/podcast/ep-191-swedenborgianism/id1525971285?i=1000663651117",
+        "youtube": "https://www.youtube.com/watch?v=KJ7QwzIKfKU"
       }
     },
     {
@@ -693,13 +734,15 @@
       "explicit": false,
       "spotifyId": "6TbAWvFOWq1WFDJ40vtFUW",
       "appleId": 1000662951237,
+      "youTubeId": "fAejeyjyVts",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6TbAWvFOWq1WFDJ40vtFUW",
-        "apple": "https://podcasts.apple.com/podcast/ep-190-fundie-update/id1525971285?i=1000662951237"
+        "apple": "https://podcasts.apple.com/podcast/ep-190-fundie-update/id1525971285?i=1000662951237",
+        "youtube": "https://www.youtube.com/watch?v=fAejeyjyVts"
       }
     },
     {
@@ -711,13 +754,15 @@
       "explicit": false,
       "spotifyId": "6ParQJtYOkIgxbyBxczxCR",
       "appleId": 1000662263292,
+      "youTubeId": "10JyJ6QPaWE",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ParQJtYOkIgxbyBxczxCR",
-        "apple": "https://podcasts.apple.com/podcast/ep-189-left-behind-with-dinah-house-fire/id1525971285?i=1000662263292"
+        "apple": "https://podcasts.apple.com/podcast/ep-189-left-behind-with-dinah-house-fire/id1525971285?i=1000662263292",
+        "youtube": "https://www.youtube.com/watch?v=10JyJ6QPaWE"
       }
     },
     {
@@ -729,13 +774,15 @@
       "explicit": false,
       "spotifyId": "2ftxnd1VoCva3wK8rUJRDT",
       "appleId": 1000661500907,
+      "youTubeId": "NvAam8TKSH4",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ftxnd1VoCva3wK8rUJRDT",
-        "apple": "https://podcasts.apple.com/us/podcast/ep-188-patrick-henry-college-generation-joshua-and/id1525971285?i=1000661500907"
+        "apple": "https://podcasts.apple.com/us/podcast/ep-188-patrick-henry-college-generation-joshua-and/id1525971285?i=1000661500907",
+        "youtube": "https://www.youtube.com/watch?v=NvAam8TKSH4"
       }
     },
     {
@@ -747,12 +794,14 @@
       "explicit": false,
       "spotifyId": "1YWuBgGtFIZFoW2WlnYjGa",
       "appleId": 1000660763438,
+      "youTubeId": "cCaomrbqlCI",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1YWuBgGtFIZFoW2WlnYjGa",
-        "apple": "https://podcasts.apple.com/podcast/ep-187-dancing-for-the-devil-the-7m-tiktok-cult/id1525971285?i=1000660763438"
+        "apple": "https://podcasts.apple.com/podcast/ep-187-dancing-for-the-devil-the-7m-tiktok-cult/id1525971285?i=1000660763438",
+        "youtube": "https://www.youtube.com/watch?v=cCaomrbqlCI"
       }
     },
     {
@@ -764,13 +813,15 @@
       "explicit": false,
       "spotifyId": "6VeIeYYVetCWBTKCQmmkMW",
       "appleId": 1000660023367,
+      "youTubeId": "YXPuItJa_Qo",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VeIeYYVetCWBTKCQmmkMW",
-        "apple": "https://podcasts.apple.com/podcast/ep-186-drag-brunch-2024-with-dinah-house-fire/id1525971285?i=1000660023367"
+        "apple": "https://podcasts.apple.com/podcast/ep-186-drag-brunch-2024-with-dinah-house-fire/id1525971285?i=1000660023367",
+        "youtube": "https://www.youtube.com/watch?v=YXPuItJa_Qo"
       }
     },
     {
@@ -782,13 +833,15 @@
       "explicit": false,
       "spotifyId": "0ydSjNG8wUanukEolzBP7b",
       "appleId": 1000659238683,
+      "youTubeId": "GUI5y06AHGU",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ydSjNG8wUanukEolzBP7b",
-        "apple": "https://podcasts.apple.com/podcast/ep-185-pride-stories-2024/id1525971285?i=1000659238683"
+        "apple": "https://podcasts.apple.com/podcast/ep-185-pride-stories-2024/id1525971285?i=1000659238683",
+        "youtube": "https://www.youtube.com/watch?v=GUI5y06AHGU"
       }
     },
     {
@@ -800,13 +853,15 @@
       "explicit": false,
       "spotifyId": "6HzWhsCNojFxX7fvRCBsc3",
       "appleId": 1000658421225,
+      "youTubeId": "a1r_B6w0Me0",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6HzWhsCNojFxX7fvRCBsc3",
-        "apple": "https://podcasts.apple.com/podcast/ep-184-gay-jesus/id1525971285?i=1000658421225"
+        "apple": "https://podcasts.apple.com/podcast/ep-184-gay-jesus/id1525971285?i=1000658421225",
+        "youtube": "https://www.youtube.com/watch?v=a1r_B6w0Me0"
       }
     },
     {
@@ -818,13 +873,15 @@
       "explicit": false,
       "spotifyId": "2gNWJ6LN9mj3Q910Zmr2Ok",
       "appleId": 1000657636624,
+      "youTubeId": "t4FMcKXPQ-E",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2gNWJ6LN9mj3Q910Zmr2Ok",
-        "apple": "https://podcasts.apple.com/podcast/ep-183-interview-with-andrew-pledger-of-surviving/id1525971285?i=1000657636624"
+        "apple": "https://podcasts.apple.com/podcast/ep-183-interview-with-andrew-pledger-of-surviving/id1525971285?i=1000657636624",
+        "youtube": "https://www.youtube.com/watch?v=t4FMcKXPQ-E"
       }
     },
     {
@@ -836,12 +893,14 @@
       "explicit": false,
       "spotifyId": "3SkWKfrHnZ4CuVMVv63RUi",
       "appleId": 1000656868129,
+      "youTubeId": "XOaPiRV6l9Y",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3SkWKfrHnZ4CuVMVv63RUi",
-        "apple": "https://podcasts.apple.com/podcast/ep-182-revelation-the-rapture-and-the-end-times-part-5/id1525971285?i=1000656868129"
+        "apple": "https://podcasts.apple.com/podcast/ep-182-revelation-the-rapture-and-the-end-times-part-5/id1525971285?i=1000656868129",
+        "youtube": "https://www.youtube.com/watch?v=XOaPiRV6l9Y"
       }
     },
     {
@@ -853,12 +912,14 @@
       "explicit": false,
       "spotifyId": "6C46y2cOWMRM8uoIWRTcqf",
       "appleId": 1000656113449,
+      "youTubeId": "cClT_H9vmzU",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6C46y2cOWMRM8uoIWRTcqf",
-        "apple": "https://podcasts.apple.com/podcast/ep-181-revelation-the-rapture-and-the-end-times-part-4/id1525971285?i=1000656113449"
+        "apple": "https://podcasts.apple.com/podcast/ep-181-revelation-the-rapture-and-the-end-times-part-4/id1525971285?i=1000656113449",
+        "youtube": "https://www.youtube.com/watch?v=cClT_H9vmzU"
       }
     },
     {
@@ -870,12 +931,14 @@
       "explicit": false,
       "spotifyId": "5XeRDqaoeUpUVbaZXAGtnG",
       "appleId": 1000655384364,
+      "youTubeId": "1vxOcu6WNEA",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5XeRDqaoeUpUVbaZXAGtnG",
-        "apple": "https://podcasts.apple.com/podcast/ep-180-casa-bonita/id1525971285?i=1000655384364"
+        "apple": "https://podcasts.apple.com/podcast/ep-180-casa-bonita/id1525971285?i=1000655384364",
+        "youtube": "https://www.youtube.com/watch?v=1vxOcu6WNEA"
       }
     },
     {
@@ -887,12 +950,14 @@
       "explicit": false,
       "spotifyId": "6g8RhQiFiveMAQtJSqNcW8",
       "appleId": 1000654645340,
+      "youTubeId": "IB2y_pMpq2I",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6g8RhQiFiveMAQtJSqNcW8",
-        "apple": "https://podcasts.apple.com/podcast/ep-179-revelation-the-rapture-and-the-end-times-part-3/id1525971285?i=1000654645340"
+        "apple": "https://podcasts.apple.com/podcast/ep-179-revelation-the-rapture-and-the-end-times-part-3/id1525971285?i=1000654645340",
+        "youtube": "https://www.youtube.com/watch?v=IB2y_pMpq2I"
       }
     },
     {
@@ -904,6 +969,7 @@
       "explicit": false,
       "spotifyId": "6G7usNkbPL8WG3fgxDnzGC",
       "appleId": 1000653883841,
+      "youTubeId": "7pPs2jPai9o",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Institute In Basic Life Principles",
@@ -911,7 +977,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6G7usNkbPL8WG3fgxDnzGC",
-        "apple": "https://podcasts.apple.com/podcast/chad-harris-on-growing-up-as-an-ifb-iblp-missionary/id1525971285?i=1000653883841"
+        "apple": "https://podcasts.apple.com/podcast/chad-harris-on-growing-up-as-an-ifb-iblp-missionary/id1525971285?i=1000653883841",
+        "youtube": "https://www.youtube.com/watch?v=7pPs2jPai9o"
       }
     },
     {
@@ -923,12 +990,14 @@
       "explicit": false,
       "spotifyId": "4vOTzMFGUh5uXleLnWEX9n",
       "appleId": 1000653175924,
+      "youTubeId": "GIOkl7XzXPg",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4vOTzMFGUh5uXleLnWEX9n",
-        "apple": "https://podcasts.apple.com/podcast/ep-178-revelation-the-rapture-and-the-end-times-part-2/id1525971285?i=1000653175924"
+        "apple": "https://podcasts.apple.com/podcast/ep-178-revelation-the-rapture-and-the-end-times-part-2/id1525971285?i=1000653175924",
+        "youtube": "https://www.youtube.com/watch?v=GIOkl7XzXPg"
       }
     },
     {
@@ -940,12 +1009,14 @@
       "explicit": false,
       "spotifyId": "5ukBXstYd5iWHewQKnjLL2",
       "appleId": 1000652463427,
+      "youTubeId": "Zw3F0bWpAG8",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ukBXstYd5iWHewQKnjLL2",
-        "apple": "https://podcasts.apple.com/podcast/olivia-plath-speaks-out-in-teen-vogue-feat-eric-skwarczynski/id1525971285?i=1000652463427"
+        "apple": "https://podcasts.apple.com/podcast/olivia-plath-speaks-out-in-teen-vogue-feat-eric-skwarczynski/id1525971285?i=1000652463427",
+        "youtube": "https://www.youtube.com/watch?v=Zw3F0bWpAG8"
       }
     },
     {
@@ -957,12 +1028,14 @@
       "explicit": false,
       "spotifyId": "6bZs18EHk39RTgAEeJhcQh",
       "appleId": 1000651747235,
+      "youTubeId": "X9ojaqjojYI",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bZs18EHk39RTgAEeJhcQh",
-        "apple": "https://podcasts.apple.com/podcast/ep-177-revelation-the-rapture-and-the-end-times-part-1/id1525971285?i=1000651747235"
+        "apple": "https://podcasts.apple.com/podcast/ep-177-revelation-the-rapture-and-the-end-times-part-1/id1525971285?i=1000651747235",
+        "youtube": "https://www.youtube.com/watch?v=X9ojaqjojYI"
       }
     },
     {
@@ -974,12 +1047,14 @@
       "explicit": false,
       "spotifyId": "0Qpph1thLBze7310n6YmZB",
       "appleId": 1000651041658,
+      "youTubeId": "dMFVqWi_9q4",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Qpph1thLBze7310n6YmZB",
-        "apple": "https://podcasts.apple.com/podcast/ep-176-christian-hoaxes-april-fools-special/id1525971285?i=1000651041658"
+        "apple": "https://podcasts.apple.com/podcast/ep-176-christian-hoaxes-april-fools-special/id1525971285?i=1000651041658",
+        "youtube": "https://www.youtube.com/watch?v=dMFVqWi_9q4"
       }
     },
     {
@@ -991,12 +1066,14 @@
       "explicit": false,
       "spotifyId": "6U2FHyK9UXI7DBbrzR6Sov",
       "appleId": 1000650329972,
+      "youTubeId": "9Lv5odugcG8",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6U2FHyK9UXI7DBbrzR6Sov",
-        "apple": "https://podcasts.apple.com/podcast/ep-175-the-cult-of-consumerism/id1525971285?i=1000650329972"
+        "apple": "https://podcasts.apple.com/podcast/ep-175-the-cult-of-consumerism/id1525971285?i=1000650329972",
+        "youtube": "https://www.youtube.com/watch?v=9Lv5odugcG8"
       }
     },
     {
@@ -1008,13 +1085,15 @@
       "explicit": false,
       "spotifyId": "7in4EPURrP1zXboubiDwbv",
       "appleId": 1000649542796,
+      "youTubeId": "M4t0VpyUoz0",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7in4EPURrP1zXboubiDwbv",
-        "apple": "https://podcasts.apple.com/podcast/ep-174-reactions-to-i-kissed-dating-goodbye/id1525971285?i=1000649542796"
+        "apple": "https://podcasts.apple.com/podcast/ep-174-reactions-to-i-kissed-dating-goodbye/id1525971285?i=1000649542796",
+        "youtube": "https://www.youtube.com/watch?v=M4t0VpyUoz0"
       }
     },
     {
@@ -1026,12 +1105,14 @@
       "explicit": false,
       "spotifyId": "2APU9o4hqbBlaVBZWnAzLR",
       "appleId": 1000648726579,
+      "youTubeId": "uh98d8fkRn4",
       "subjects": [
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2APU9o4hqbBlaVBZWnAzLR",
-        "apple": "https://podcasts.apple.com/podcast/ep-173-dav-and-bethany-deconstructing-feat-chad/id1525971285?i=1000648726579"
+        "apple": "https://podcasts.apple.com/podcast/ep-173-dav-and-bethany-deconstructing-feat-chad/id1525971285?i=1000648726579",
+        "youtube": "https://www.youtube.com/watch?v=uh98d8fkRn4"
       }
     },
     {
@@ -1043,13 +1124,15 @@
       "explicit": false,
       "spotifyId": "55h126L3hVQ88YwKsdO52x",
       "appleId": 1000647903063,
+      "youTubeId": "TGG4-cz2Rn4",
       "subjects": [
         "Evangelicalism",
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/55h126L3hVQ88YwKsdO52x",
-        "apple": "https://podcasts.apple.com/podcast/ep-172-mary-cosby-cult-leader-real-housewives-of/id1525971285?i=1000647903063"
+        "apple": "https://podcasts.apple.com/podcast/ep-172-mary-cosby-cult-leader-real-housewives-of/id1525971285?i=1000647903063",
+        "youtube": "https://www.youtube.com/watch?v=TGG4-cz2Rn4"
       }
     },
     {
@@ -1061,13 +1144,15 @@
       "explicit": false,
       "spotifyId": "7gmb9D6gn5Qm9vZW4JaoCX",
       "appleId": 1000646846235,
+      "youTubeId": "xJABflEFreo",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gmb9D6gn5Qm9vZW4JaoCX",
-        "apple": "https://podcasts.apple.com/podcast/ep-171-the-woman-they-wanted-by-shannon-harris/id1525971285?i=1000646846235"
+        "apple": "https://podcasts.apple.com/podcast/ep-171-the-woman-they-wanted-by-shannon-harris/id1525971285?i=1000646846235",
+        "youtube": "https://www.youtube.com/watch?v=xJABflEFreo"
       }
     },
     {
@@ -1079,6 +1164,7 @@
       "explicit": false,
       "spotifyId": "5fEO0GycuGMEJlBrXOHT7X",
       "appleId": 1000645838849,
+      "youTubeId": "QVKMY7epgF0",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Evangelicalism",
@@ -1086,7 +1172,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5fEO0GycuGMEJlBrXOHT7X",
-        "apple": "https://podcasts.apple.com/podcast/ep-170-i-kissed-dating-goodbye/id1525971285?i=1000645838849"
+        "apple": "https://podcasts.apple.com/podcast/ep-170-i-kissed-dating-goodbye/id1525971285?i=1000645838849",
+        "youtube": "https://www.youtube.com/watch?v=QVKMY7epgF0"
       }
     },
     {
@@ -1098,12 +1185,14 @@
       "explicit": false,
       "spotifyId": "597m5WLZKe2BjuW75cuJst",
       "appleId": 1000645006675,
+      "youTubeId": "CAzX1dVAw6Y",
       "subjects": [
         "Amish"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/597m5WLZKe2BjuW75cuJst",
-        "apple": "https://podcasts.apple.com/podcast/ep-169-amish-romance/id1525971285?i=1000645006675"
+        "apple": "https://podcasts.apple.com/podcast/ep-169-amish-romance/id1525971285?i=1000645006675",
+        "youtube": "https://www.youtube.com/watch?v=CAzX1dVAw6Y"
       }
     },
     {
@@ -1115,12 +1204,14 @@
       "explicit": false,
       "spotifyId": "5oQixBZcQZtXc74pJ0B3VJ",
       "appleId": 1000644181147,
+      "youTubeId": "gwQUJQFT2HU",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5oQixBZcQZtXc74pJ0B3VJ",
-        "apple": "https://podcasts.apple.com/podcast/ep-168-russell-anderson/id1525971285?i=1000644181147"
+        "apple": "https://podcasts.apple.com/podcast/ep-168-russell-anderson/id1525971285?i=1000644181147",
+        "youtube": "https://www.youtube.com/watch?v=gwQUJQFT2HU"
       }
     },
     {
@@ -1132,13 +1223,15 @@
       "explicit": false,
       "spotifyId": "4CdhgtqU1ZLFJx4RDtZ4PB",
       "appleId": 1000643344492,
+      "youTubeId": "B6V72LEohDU",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4CdhgtqU1ZLFJx4RDtZ4PB",
-        "apple": "https://podcasts.apple.com/podcast/ep-167-real-housewives-of-salt-lake-city-and/id1525971285?i=1000643344492"
+        "apple": "https://podcasts.apple.com/podcast/ep-167-real-housewives-of-salt-lake-city-and/id1525971285?i=1000643344492",
+        "youtube": "https://www.youtube.com/watch?v=B6V72LEohDU"
       }
     },
     {
@@ -1150,12 +1243,14 @@
       "explicit": false,
       "spotifyId": "5bRS1lLlYNQkRkSZDCb3LQ",
       "appleId": 1000642463136,
+      "youTubeId": "xsDUOYpaEEc",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5bRS1lLlYNQkRkSZDCb3LQ",
-        "apple": "https://podcasts.apple.com/podcast/ep-166-the-ifb-responds-to-let-us-prey/id1525971285?i=1000642463136"
+        "apple": "https://podcasts.apple.com/podcast/ep-166-the-ifb-responds-to-let-us-prey/id1525971285?i=1000642463136",
+        "youtube": "https://www.youtube.com/watch?v=xsDUOYpaEEc"
       }
     },
     {
@@ -1167,12 +1262,14 @@
       "explicit": false,
       "spotifyId": "4qCGJ4lbQAu4hFeBuVraiG",
       "appleId": 1000641678676,
+      "youTubeId": "LpgL9MZzlD0",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qCGJ4lbQAu4hFeBuVraiG",
-        "apple": "https://podcasts.apple.com/podcast/ep-165-bethany-beal-sex-influencer-and-the/id1525971285?i=1000641678676"
+        "apple": "https://podcasts.apple.com/podcast/ep-165-bethany-beal-sex-influencer-and-the/id1525971285?i=1000641678676",
+        "youtube": "https://www.youtube.com/watch?v=LpgL9MZzlD0"
       }
     },
     {
@@ -1184,12 +1281,14 @@
       "explicit": false,
       "spotifyId": "5RZB0Eh0ENB1Zxnck4yxPe",
       "appleId": 1000640876401,
+      "youTubeId": "kvtdcpWw6Dg",
       "subjects": [
         "Aum Shinrikyo"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5RZB0Eh0ENB1Zxnck4yxPe",
-        "apple": "https://podcasts.apple.com/podcast/ep-164-tokyo-sarin-gas-attack-of-1995-aum-shinrikyo/id1525971285?i=1000640876401"
+        "apple": "https://podcasts.apple.com/podcast/ep-164-tokyo-sarin-gas-attack-of-1995-aum-shinrikyo/id1525971285?i=1000640876401",
+        "youtube": "https://www.youtube.com/watch?v=kvtdcpWw6Dg"
       }
     },
     {
@@ -1201,12 +1300,14 @@
       "explicit": false,
       "spotifyId": "1DLI3sTLVN9fWyYn0Nq6mA",
       "appleId": 1000640194510,
+      "youTubeId": "zX_cPYMbDKg",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1DLI3sTLVN9fWyYn0Nq6mA",
-        "apple": "https://podcasts.apple.com/podcast/ep-163-2023-in-review-with-dinah-house-fire/id1525971285?i=1000640194510"
+        "apple": "https://podcasts.apple.com/podcast/ep-163-2023-in-review-with-dinah-house-fire/id1525971285?i=1000640194510",
+        "youtube": "https://www.youtube.com/watch?v=zX_cPYMbDKg"
       }
     },
     {
@@ -1218,12 +1319,14 @@
       "explicit": false,
       "spotifyId": "0fvav0SEXp7A3stFIvOaC5",
       "appleId": 1000638911595,
+      "youTubeId": "wobTJLQ50b0",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0fvav0SEXp7A3stFIvOaC5",
-        "apple": "https://podcasts.apple.com/podcast/ep-162-the-war-on-christmas/id1525971285?i=1000638911595"
+        "apple": "https://podcasts.apple.com/podcast/ep-162-the-war-on-christmas/id1525971285?i=1000638911595",
+        "youtube": "https://www.youtube.com/watch?v=wobTJLQ50b0"
       }
     },
     {
@@ -1235,12 +1338,14 @@
       "explicit": false,
       "spotifyId": "5r5eY2J72484spa2TNnxED",
       "appleId": 1000638458573,
+      "youTubeId": "1MUWsy86ZKc",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5r5eY2J72484spa2TNnxED",
-        "apple": "https://podcasts.apple.com/podcast/clip-for-tiktok-ep-161-elora-dodd-speaks-about-growing/id1525971285?i=1000638458573"
+        "apple": "https://podcasts.apple.com/podcast/clip-for-tiktok-ep-161-elora-dodd-speaks-about-growing/id1525971285?i=1000638458573",
+        "youtube": "https://www.youtube.com/watch?v=1MUWsy86ZKc"
       }
     },
     {
@@ -1252,12 +1357,14 @@
       "explicit": false,
       "spotifyId": "4LezuJyzhzMFEZ8THtjWlZ",
       "appleId": 1000638282328,
+      "youTubeId": "9U29mX1SxVU",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4LezuJyzhzMFEZ8THtjWlZ",
-        "apple": "https://podcasts.apple.com/podcast/ep-161-elora-dodd-speaks-about-growing-up-neurodivergent/id1525971285?i=1000638282328"
+        "apple": "https://podcasts.apple.com/podcast/ep-161-elora-dodd-speaks-about-growing-up-neurodivergent/id1525971285?i=1000638282328",
+        "youtube": "https://www.youtube.com/watch?v=9U29mX1SxVU"
       }
     },
     {
@@ -1269,12 +1376,14 @@
       "explicit": false,
       "spotifyId": "2TnuCy6QZApZrY1QCEBtX3",
       "appleId": 1000637400372,
+      "youTubeId": "91guWWnkacE",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2TnuCy6QZApZrY1QCEBtX3",
-        "apple": "https://podcasts.apple.com/podcast/ep-160-let-us-prey-interview-with-rachel-peach-and/id1525971285?i=1000637400372"
+        "apple": "https://podcasts.apple.com/podcast/ep-160-let-us-prey-interview-with-rachel-peach-and/id1525971285?i=1000637400372",
+        "youtube": "https://www.youtube.com/watch?v=91guWWnkacE"
       }
     },
     {
@@ -1286,12 +1395,14 @@
       "explicit": false,
       "spotifyId": "0qJkSWOj6pfFhZnbVQz5wE",
       "appleId": 1000636886014,
+      "youTubeId": "kbR_vjGS78M",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0qJkSWOj6pfFhZnbVQz5wE",
-        "apple": "https://podcasts.apple.com/podcast/let-us-prey-reactions/id1525971285?i=1000636886014"
+        "apple": "https://podcasts.apple.com/podcast/let-us-prey-reactions/id1525971285?i=1000636886014",
+        "youtube": "https://www.youtube.com/watch?v=kbR_vjGS78M"
       }
     },
     {
@@ -1303,12 +1414,14 @@
       "explicit": false,
       "spotifyId": "49et59uzUgP4vfbMGhTzcx",
       "appleId": 1000636629672,
+      "youTubeId": "BvTxmyyU5Lk",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/49et59uzUgP4vfbMGhTzcx",
-        "apple": "https://podcasts.apple.com/podcast/ep-159-ifb-modesty-rules/id1525971285?i=1000636629672"
+        "apple": "https://podcasts.apple.com/podcast/ep-159-ifb-modesty-rules/id1525971285?i=1000636629672",
+        "youtube": "https://www.youtube.com/watch?v=BvTxmyyU5Lk"
       }
     },
     {
@@ -1320,12 +1433,14 @@
       "explicit": false,
       "spotifyId": "0Ju5cw3lxq9xtKuZy7uXGT",
       "appleId": 1000636476281,
+      "youTubeId": "f3uVLmVvvg4",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Ju5cw3lxq9xtKuZy7uXGT",
-        "apple": "https://podcasts.apple.com/podcast/what-is-the-ifb-and-who-are-we/id1525971285?i=1000636476281"
+        "apple": "https://podcasts.apple.com/podcast/what-is-the-ifb-and-who-are-we/id1525971285?i=1000636476281",
+        "youtube": "https://www.youtube.com/watch?v=f3uVLmVvvg4"
       }
     },
     {
@@ -1337,12 +1452,14 @@
       "explicit": false,
       "spotifyId": "5G2kG0WoxgwKfdQTepbbHV",
       "appleId": 1000635395783,
+      "youTubeId": "67nCno0RJSA",
       "subjects": [
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5G2kG0WoxgwKfdQTepbbHV",
-        "apple": "https://podcasts.apple.com/podcast/ep-158-hobby-lobby-and-the-museum-of-the-bible/id1525971285?i=1000635395783"
+        "apple": "https://podcasts.apple.com/podcast/ep-158-hobby-lobby-and-the-museum-of-the-bible/id1525971285?i=1000635395783",
+        "youtube": "https://www.youtube.com/watch?v=67nCno0RJSA"
       }
     },
     {
@@ -1354,13 +1471,15 @@
       "explicit": false,
       "spotifyId": "41XPNCxFDaTh3Q7R5XVeZH",
       "appleId": 1000634599685,
+      "youTubeId": "ramvBv9YTyA",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/41XPNCxFDaTh3Q7R5XVeZH",
-        "apple": "https://podcasts.apple.com/podcast/ep-157-hell/id1525971285?i=1000634599685"
+        "apple": "https://podcasts.apple.com/podcast/ep-157-hell/id1525971285?i=1000634599685",
+        "youtube": "https://www.youtube.com/watch?v=ramvBv9YTyA"
       }
     },
     {
@@ -1372,13 +1491,15 @@
       "explicit": false,
       "spotifyId": "32d4J9onnIJNbScLn5NaMz",
       "appleId": 1000633817033,
+      "youTubeId": "gGoX66YZfdI",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/32d4J9onnIJNbScLn5NaMz",
-        "apple": "https://podcasts.apple.com/podcast/ep-156-heaven/id1525971285?i=1000633817033"
+        "apple": "https://podcasts.apple.com/podcast/ep-156-heaven/id1525971285?i=1000633817033",
+        "youtube": "https://www.youtube.com/watch?v=gGoX66YZfdI"
       }
     },
     {
@@ -1390,13 +1511,15 @@
       "explicit": false,
       "spotifyId": "1ycfQQPTxovNcLp3bGPvdr",
       "appleId": 1000633054045,
+      "youTubeId": "ywipG58o3QI",
       "subjects": [
         "Psychology",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1ycfQQPTxovNcLp3bGPvdr",
-        "apple": "https://podcasts.apple.com/podcast/ep-155-the-well-to-hell-hoax-halloween-special/id1525971285?i=1000633054045"
+        "apple": "https://podcasts.apple.com/podcast/ep-155-the-well-to-hell-hoax-halloween-special/id1525971285?i=1000633054045",
+        "youtube": "https://www.youtube.com/watch?v=ywipG58o3QI"
       }
     },
     {
@@ -1408,13 +1531,15 @@
       "explicit": false,
       "spotifyId": "4a8JTPBSojPBfAVUL6xEO6",
       "appleId": 1000632246721,
+      "youTubeId": "AAhgIw8rulU",
       "subjects": [
         "Psychology",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4a8JTPBSojPBfAVUL6xEO6",
-        "apple": "https://podcasts.apple.com/podcast/ep-154-a-thief-in-the-night-halloween-special/id1525971285?i=1000632246721"
+        "apple": "https://podcasts.apple.com/podcast/ep-154-a-thief-in-the-night-halloween-special/id1525971285?i=1000632246721",
+        "youtube": "https://www.youtube.com/watch?v=AAhgIw8rulU"
       }
     },
     {
@@ -1426,13 +1551,15 @@
       "explicit": false,
       "spotifyId": "5Bb9u24UnUL1pn1upkTSoL",
       "appleId": 1000631441300,
+      "youTubeId": "6YvIfgafa-8",
       "subjects": [
         "Psychology",
         "Christian Fundamentalist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Bb9u24UnUL1pn1upkTSoL",
-        "apple": "https://podcasts.apple.com/us/podcast/ep-153-created-to-be-his-helpmeet-by-debi-and-michael-pearl/id1525971285?i=1000631441300"
+        "apple": "https://podcasts.apple.com/us/podcast/ep-153-created-to-be-his-helpmeet-by-debi-and-michael-pearl/id1525971285?i=1000631441300",
+        "youtube": "https://www.youtube.com/watch?v=6YvIfgafa-8"
       }
     },
     {
@@ -1444,12 +1571,14 @@
       "explicit": false,
       "spotifyId": "1COFbdcEepQlxaU10vLjrZ",
       "appleId": 1000631057873,
+      "youTubeId": "RVsBjxaxadY",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1COFbdcEepQlxaU10vLjrZ",
-        "apple": "https://podcasts.apple.com/podcast/bonus-episode-liberty-university-investigation-kanye/id1525971285?i=1000631057873"
+        "apple": "https://podcasts.apple.com/podcast/bonus-episode-liberty-university-investigation-kanye/id1525971285?i=1000631057873",
+        "youtube": "https://www.youtube.com/watch?v=RVsBjxaxadY"
       }
     },
     {
@@ -1461,9 +1590,11 @@
       "explicit": false,
       "spotifyId": "18MG5g2Jf28EfapgzFdXF3",
       "appleId": 1000630661298,
+      "youTubeId": "yu7gmFEEh-I",
       "urls": {
         "spotify": "https://open.spotify.com/episode/18MG5g2Jf28EfapgzFdXF3",
-        "apple": "https://podcasts.apple.com/podcast/ep-152-which-duggar-should-be-on-the-bachelor-what/id1525971285?i=1000630661298"
+        "apple": "https://podcasts.apple.com/podcast/ep-152-which-duggar-should-be-on-the-bachelor-what/id1525971285?i=1000630661298",
+        "youtube": "https://www.youtube.com/watch?v=yu7gmFEEh-I"
       }
     },
     {
@@ -1475,9 +1606,11 @@
       "explicit": false,
       "spotifyId": "0Llz3KkKXGqTCiRJdVFGMH",
       "appleId": 1000629871609,
+      "youTubeId": "FI4tALPN2P8",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Llz3KkKXGqTCiRJdVFGMH",
-        "apple": "https://podcasts.apple.com/podcast/ep-151-will-anna-duggar-stay-with-josh-what-do-we/id1525971285?i=1000629871609"
+        "apple": "https://podcasts.apple.com/podcast/ep-151-will-anna-duggar-stay-with-josh-what-do-we/id1525971285?i=1000629871609",
+        "youtube": "https://www.youtube.com/watch?v=FI4tALPN2P8"
       }
     },
     {
@@ -1489,9 +1622,11 @@
       "explicit": false,
       "spotifyId": "4qlOwQJ1qxBqJD1mHrSbYw",
       "appleId": 1000629040252,
+      "youTubeId": "kSBAEWXV3YQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4qlOwQJ1qxBqJD1mHrSbYw",
-        "apple": "https://podcasts.apple.com/podcast/ep-150-keep-your-word-and-obey-your-father/id1525971285?i=1000629040252"
+        "apple": "https://podcasts.apple.com/podcast/ep-150-keep-your-word-and-obey-your-father/id1525971285?i=1000629040252",
+        "youtube": "https://www.youtube.com/watch?v=kSBAEWXV3YQ"
       }
     },
     {
@@ -1503,9 +1638,11 @@
       "explicit": false,
       "spotifyId": "6vV1kFYIa44sEzuq14aHmn",
       "appleId": 1000628222705,
+      "youTubeId": "YDTiikTTNXI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6vV1kFYIa44sEzuq14aHmn",
-        "apple": "https://podcasts.apple.com/podcast/ep-149-counting-the-cost-by-jill-duggar-dillard-book/id1525971285?i=1000628222705"
+        "apple": "https://podcasts.apple.com/podcast/ep-149-counting-the-cost-by-jill-duggar-dillard-book/id1525971285?i=1000628222705",
+        "youtube": "https://www.youtube.com/watch?v=YDTiikTTNXI"
       }
     },
     {
@@ -1517,9 +1654,11 @@
       "explicit": false,
       "spotifyId": "3QSIPpCzZetmU70jikYTNQ",
       "appleId": 1000627432228,
+      "youTubeId": "DPxw82aVIVw",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3QSIPpCzZetmU70jikYTNQ",
-        "apple": "https://podcasts.apple.com/podcast/ep-148-brain-in-the-jar-part-2-j-frank-norris-murder/id1525971285?i=1000627432228"
+        "apple": "https://podcasts.apple.com/podcast/ep-148-brain-in-the-jar-part-2-j-frank-norris-murder/id1525971285?i=1000627432228",
+        "youtube": "https://www.youtube.com/watch?v=DPxw82aVIVw"
       }
     },
     {
@@ -1531,9 +1670,11 @@
       "explicit": false,
       "spotifyId": "68pgcSLcwdtFDHDBWMh4Lw",
       "appleId": 1000626667606,
+      "youTubeId": "iUq6jOix2Do",
       "urls": {
         "spotify": "https://open.spotify.com/episode/68pgcSLcwdtFDHDBWMh4Lw",
-        "apple": "https://podcasts.apple.com/podcast/ep-147-brain-in-the-jar-part-1-j-frank-norris-was/id1525971285?i=1000626667606"
+        "apple": "https://podcasts.apple.com/podcast/ep-147-brain-in-the-jar-part-1-j-frank-norris-was/id1525971285?i=1000626667606",
+        "youtube": "https://www.youtube.com/watch?v=iUq6jOix2Do"
       }
     },
     {
@@ -1545,9 +1686,11 @@
       "explicit": false,
       "spotifyId": "0qmItB7MtnmQTUKScnk6jp",
       "appleId": 1000625903350,
+      "youTubeId": "ixAhdJmS7tY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0qmItB7MtnmQTUKScnk6jp",
-        "apple": "https://podcasts.apple.com/podcast/ep-146-brittany-dawn-megaepisode/id1525971285?i=1000625903350"
+        "apple": "https://podcasts.apple.com/podcast/ep-146-brittany-dawn-megaepisode/id1525971285?i=1000625903350",
+        "youtube": "https://www.youtube.com/watch?v=ixAhdJmS7tY"
       }
     },
     {
@@ -1559,9 +1702,11 @@
       "explicit": false,
       "spotifyId": "34nC0bGjXUSYmIhnQ77Rnp",
       "appleId": 1000625102022,
+      "youTubeId": "r2zQvgVCLdU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/34nC0bGjXUSYmIhnQ77Rnp",
-        "apple": "https://podcasts.apple.com/podcast/ep-145-barbie-is-satanic/id1525971285?i=1000625102022"
+        "apple": "https://podcasts.apple.com/podcast/ep-145-barbie-is-satanic/id1525971285?i=1000625102022",
+        "youtube": "https://www.youtube.com/watch?v=r2zQvgVCLdU"
       }
     },
     {
@@ -1573,9 +1718,11 @@
       "explicit": false,
       "spotifyId": "3e3JDdaqnRTexA0z8ZiUl1",
       "appleId": 1000624345148,
+      "youTubeId": "7DcyyW33A10",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3e3JDdaqnRTexA0z8ZiUl1",
-        "apple": "https://podcasts.apple.com/podcast/ep-144-3rd-anniversary-special/id1525971285?i=1000624345148"
+        "apple": "https://podcasts.apple.com/podcast/ep-144-3rd-anniversary-special/id1525971285?i=1000624345148",
+        "youtube": "https://www.youtube.com/watch?v=7DcyyW33A10"
       }
     },
     {
@@ -1587,9 +1734,11 @@
       "explicit": false,
       "spotifyId": "6TXTNQHSfyRT6IcWp6SIn5",
       "appleId": 1000623632391,
+      "youTubeId": "U07sHVpFUuo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6TXTNQHSfyRT6IcWp6SIn5",
-        "apple": "https://podcasts.apple.com/podcast/ep-143-alberto-rivera-part-2/id1525971285?i=1000623632391"
+        "apple": "https://podcasts.apple.com/podcast/ep-143-alberto-rivera-part-2/id1525971285?i=1000623632391",
+        "youtube": "https://www.youtube.com/watch?v=U07sHVpFUuo"
       }
     },
     {
@@ -1601,9 +1750,11 @@
       "explicit": false,
       "spotifyId": "3olA4JgISTKgrVZWrp7XcO",
       "appleId": 1000622878630,
+      "youTubeId": "KOFe1cuie1Y",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3olA4JgISTKgrVZWrp7XcO",
-        "apple": "https://podcasts.apple.com/podcast/bonus-episode-netflixs-jewish-matchmaking-show-discussion/id1525971285?i=1000622878630"
+        "apple": "https://podcasts.apple.com/podcast/bonus-episode-netflixs-jewish-matchmaking-show-discussion/id1525971285?i=1000622878630",
+        "youtube": "https://www.youtube.com/watch?v=KOFe1cuie1Y"
       }
     },
     {
@@ -1615,9 +1766,11 @@
       "explicit": false,
       "spotifyId": "5tKOa352XvUpIRulJdSzEo",
       "appleId": 1000621346322,
+      "youTubeId": "DLWyJY-_4Dk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5tKOa352XvUpIRulJdSzEo",
-        "apple": "https://podcasts.apple.com/podcast/ep-142-alberto-rivera-part-1/id1525971285?i=1000621346322"
+        "apple": "https://podcasts.apple.com/podcast/ep-142-alberto-rivera-part-1/id1525971285?i=1000621346322",
+        "youtube": "https://www.youtube.com/watch?v=DLWyJY-_4Dk"
       }
     },
     {
@@ -1629,9 +1782,11 @@
       "explicit": false,
       "spotifyId": "5hHgqISYnw8xQteTTCvfuZ",
       "appleId": 1000620433234,
+      "youTubeId": "7qs1RFvk0pY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5hHgqISYnw8xQteTTCvfuZ",
-        "apple": "https://podcasts.apple.com/podcast/ep-141-rock-and-roll-is-satanic-according-to/id1525971285?i=1000620433234"
+        "apple": "https://podcasts.apple.com/podcast/ep-141-rock-and-roll-is-satanic-according-to/id1525971285?i=1000620433234",
+        "youtube": "https://www.youtube.com/watch?v=7qs1RFvk0pY"
       }
     },
     {
@@ -1643,9 +1798,11 @@
       "explicit": false,
       "spotifyId": "4MSH6Sgf0XmDvypN30T9Lh",
       "appleId": 1000619084175,
+      "youTubeId": "HigCNBu_6wo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4MSH6Sgf0XmDvypN30T9Lh",
-        "apple": "https://podcasts.apple.com/podcast/ep-140-jack-chick-and-chick-publications-the-summer-of-satan/id1525971285?i=1000619084175"
+        "apple": "https://podcasts.apple.com/podcast/ep-140-jack-chick-and-chick-publications-the-summer-of-satan/id1525971285?i=1000619084175",
+        "youtube": "https://www.youtube.com/watch?v=HigCNBu_6wo"
       }
     },
     {
@@ -1657,9 +1814,11 @@
       "explicit": false,
       "spotifyId": "48Km8G1GzQLfABbwU1TmG3",
       "appleId": 1000618303458,
+      "youTubeId": "z4I9k--kZts",
       "urls": {
         "spotify": "https://open.spotify.com/episode/48Km8G1GzQLfABbwU1TmG3",
-        "apple": "https://podcasts.apple.com/podcast/ep-139-through-gates-of-splendor-the-leaving-eden/id1525971285?i=1000618303458"
+        "apple": "https://podcasts.apple.com/podcast/ep-139-through-gates-of-splendor-the-leaving-eden/id1525971285?i=1000618303458",
+        "youtube": "https://www.youtube.com/watch?v=z4I9k--kZts"
       }
     },
     {
@@ -1671,9 +1830,11 @@
       "explicit": false,
       "spotifyId": "0ZH3PS1FT6Bk3TVt4zozj6",
       "appleId": 1000617499426,
+      "youTubeId": "86YoZ-DQ6Kk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0ZH3PS1FT6Bk3TVt4zozj6",
-        "apple": "https://podcasts.apple.com/podcast/ep-138-bisexual-pride-interview-with-meghan-crozier/id1525971285?i=1000617499426"
+        "apple": "https://podcasts.apple.com/podcast/ep-138-bisexual-pride-interview-with-meghan-crozier/id1525971285?i=1000617499426",
+        "youtube": "https://www.youtube.com/watch?v=86YoZ-DQ6Kk"
       }
     },
     {
@@ -1685,9 +1846,11 @@
       "explicit": false,
       "spotifyId": "3Ls8ugAzQMeE9XxgsUWPyX",
       "appleId": 1000616578727,
+      "youTubeId": "Td_hwQ4e6p8",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Ls8ugAzQMeE9XxgsUWPyX",
-        "apple": "https://podcasts.apple.com/podcast/ep-137-queer-eyes-pastor-noah-hepler-pride-month-special/id1525971285?i=1000616578727"
+        "apple": "https://podcasts.apple.com/podcast/ep-137-queer-eyes-pastor-noah-hepler-pride-month-special/id1525971285?i=1000616578727",
+        "youtube": "https://www.youtube.com/watch?v=Td_hwQ4e6p8"
       }
     },
     {
@@ -1699,12 +1862,14 @@
       "explicit": false,
       "spotifyId": "6TDMQUjDOaNx5kUeP6SbQI",
       "appleId": 1000616111589,
+      "youTubeId": "VtJIcePTVZo",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6TDMQUjDOaNx5kUeP6SbQI",
-        "apple": "https://podcasts.apple.com/podcast/shiny-happy-people-duggar-family-secrets-miniseries/id1525971285?i=1000616111589"
+        "apple": "https://podcasts.apple.com/podcast/shiny-happy-people-duggar-family-secrets-miniseries/id1525971285?i=1000616111589",
+        "youtube": "https://www.youtube.com/watch?v=VtJIcePTVZo"
       }
     },
     {
@@ -1716,12 +1881,14 @@
       "explicit": false,
       "spotifyId": "2riijALZw5kjKusmj8Svu5",
       "appleId": 1000615657684,
+      "youTubeId": "1WBluUcCN2A",
       "subjects": [
         "Westboro Baptist Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2riijALZw5kjKusmj8Svu5",
-        "apple": "https://podcasts.apple.com/podcast/ep-136-the-westboro-baptist-church-pride-month/id1525971285?i=1000615657684"
+        "apple": "https://podcasts.apple.com/podcast/ep-136-the-westboro-baptist-church-pride-month/id1525971285?i=1000615657684",
+        "youtube": "https://www.youtube.com/watch?v=1WBluUcCN2A"
       }
     },
     {
@@ -1733,9 +1900,11 @@
       "explicit": false,
       "spotifyId": "4jWS4WndJI5Q25RdjxzojI",
       "appleId": 1000614818735,
+      "youTubeId": "TWxOjOI7-zQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4jWS4WndJI5Q25RdjxzojI",
-        "apple": "https://podcasts.apple.com/podcast/ep-135-the-wizard-of-god-scandal-affair/id1525971285?i=1000614818735"
+        "apple": "https://podcasts.apple.com/podcast/ep-135-the-wizard-of-god-scandal-affair/id1525971285?i=1000614818735",
+        "youtube": "https://www.youtube.com/watch?v=TWxOjOI7-zQ"
       }
     },
     {
@@ -1747,9 +1916,11 @@
       "explicit": false,
       "spotifyId": "3rNapY3gT3wuADQoLMc3s7",
       "appleId": 1000613932619,
+      "youTubeId": "TfjX_G5Hlrg",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3rNapY3gT3wuADQoLMc3s7",
-        "apple": "https://podcasts.apple.com/podcast/ep-134-the-scopes-monkey-trial-true-crime-evolution/id1525971285?i=1000613932619"
+        "apple": "https://podcasts.apple.com/podcast/ep-134-the-scopes-monkey-trial-true-crime-evolution/id1525971285?i=1000613932619",
+        "youtube": "https://www.youtube.com/watch?v=TfjX_G5Hlrg"
       }
     },
     {
@@ -1761,12 +1932,14 @@
       "explicit": false,
       "spotifyId": "0z9VuB9UHiOWxv5rUaNJx7",
       "appleId": 1000613015936,
+      "youTubeId": "oYuBMuDXLYk",
       "subjects": [
         "Thomas Road Baptist Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0z9VuB9UHiOWxv5rUaNJx7",
-        "apple": "https://podcasts.apple.com/podcast/ep-133-jerry-falwell-and-liberty-university-part-2/id1525971285?i=1000613015936"
+        "apple": "https://podcasts.apple.com/podcast/ep-133-jerry-falwell-and-liberty-university-part-2/id1525971285?i=1000613015936",
+        "youtube": "https://www.youtube.com/watch?v=oYuBMuDXLYk"
       }
     },
     {
@@ -1778,12 +1951,14 @@
       "explicit": false,
       "spotifyId": "455fDOut7qN09M3aJ6QRe1",
       "appleId": 1000612117870,
+      "youTubeId": "SZ56A6v8gnA",
       "subjects": [
         "Thomas Road Baptist Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/455fDOut7qN09M3aJ6QRe1",
-        "apple": "https://podcasts.apple.com/podcast/ep-132-jerry-falwell-the-moral-majority-and/id1525971285?i=1000612117870"
+        "apple": "https://podcasts.apple.com/podcast/ep-132-jerry-falwell-the-moral-majority-and/id1525971285?i=1000612117870",
+        "youtube": "https://www.youtube.com/watch?v=SZ56A6v8gnA"
       }
     },
     {
@@ -1795,9 +1970,11 @@
       "explicit": false,
       "spotifyId": "19dvkz9LWfbtPK2HVrACSy",
       "appleId": 1000611258325,
+      "youTubeId": "Ci_R9alhvlI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/19dvkz9LWfbtPK2HVrACSy",
-        "apple": "https://podcasts.apple.com/podcast/ep-131-to-train-up-a-child-michael-and-debi-pearl/id1525971285?i=1000611258325"
+        "apple": "https://podcasts.apple.com/podcast/ep-131-to-train-up-a-child-michael-and-debi-pearl/id1525971285?i=1000611258325",
+        "youtube": "https://www.youtube.com/watch?v=Ci_R9alhvlI"
       }
     },
     {
@@ -1809,9 +1986,11 @@
       "explicit": false,
       "spotifyId": "7hCkYGjIFF1C5XAbDV58LT",
       "appleId": 1000610340007,
+      "youTubeId": "5OEQ6zNc38g",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7hCkYGjIFF1C5XAbDV58LT",
-        "apple": "https://podcasts.apple.com/podcast/ep-130-peter-ruckman-steven-anderson-nifb-racism-white/id1525971285?i=1000610340007"
+        "apple": "https://podcasts.apple.com/podcast/ep-130-peter-ruckman-steven-anderson-nifb-racism-white/id1525971285?i=1000610340007",
+        "youtube": "https://www.youtube.com/watch?v=5OEQ6zNc38g"
       }
     },
     {
@@ -1823,9 +2002,11 @@
       "explicit": false,
       "spotifyId": "0nVqWO5l07hBMiBEsH7eMo",
       "appleId": 1000609230556,
+      "youTubeId": "TipJctXsu00",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0nVqWO5l07hBMiBEsH7eMo",
-        "apple": "https://podcasts.apple.com/podcast/ep-129-q-a-sadies-faith-journey-environmentalism/id1525971285?i=1000609230556"
+        "apple": "https://podcasts.apple.com/podcast/ep-129-q-a-sadies-faith-journey-environmentalism/id1525971285?i=1000609230556",
+        "youtube": "https://www.youtube.com/watch?v=TipJctXsu00"
       }
     },
     {
@@ -1837,9 +2018,11 @@
       "explicit": false,
       "spotifyId": "1bq4y4pkYKsJZneKdE729J",
       "appleId": 1000608130840,
+      "youTubeId": "PH4dveYE3T4",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1bq4y4pkYKsJZneKdE729J",
-        "apple": "https://podcasts.apple.com/podcast/ep-128-fundies-being-woke-by-accident-he-gets-us-paul/id1525971285?i=1000608130840"
+        "apple": "https://podcasts.apple.com/podcast/ep-128-fundies-being-woke-by-accident-he-gets-us-paul/id1525971285?i=1000608130840",
+        "youtube": "https://www.youtube.com/watch?v=PH4dveYE3T4"
       }
     },
     {
@@ -1851,9 +2034,11 @@
       "explicit": false,
       "spotifyId": "2TodxlY1HTPzsFkWgxfmpU",
       "appleId": 1000607050752,
+      "youTubeId": "eLYACN3JDos",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2TodxlY1HTPzsFkWgxfmpU",
-        "apple": "https://podcasts.apple.com/podcast/ep-127-fundie-pastors-wives-deconstruction-burnout/id1525971285?i=1000607050752"
+        "apple": "https://podcasts.apple.com/podcast/ep-127-fundie-pastors-wives-deconstruction-burnout/id1525971285?i=1000607050752",
+        "youtube": "https://www.youtube.com/watch?v=eLYACN3JDos"
       }
     },
     {
@@ -1865,9 +2050,11 @@
       "explicit": false,
       "spotifyId": "56gnb68Es0cjI8RzbUiSGy",
       "appleId": 1000606011141,
+      "youTubeId": "nxWW33DQtxw",
       "urls": {
         "spotify": "https://open.spotify.com/episode/56gnb68Es0cjI8RzbUiSGy",
-        "apple": "https://podcasts.apple.com/podcast/ep-126-mike-warnke-the-satan-seller-part-2-satanic/id1525971285?i=1000606011141"
+        "apple": "https://podcasts.apple.com/podcast/ep-126-mike-warnke-the-satan-seller-part-2-satanic/id1525971285?i=1000606011141",
+        "youtube": "https://www.youtube.com/watch?v=nxWW33DQtxw"
       }
     },
     {
@@ -1879,9 +2066,11 @@
       "explicit": false,
       "spotifyId": "7LrUFfwuWWCWRh0uydABUK",
       "appleId": 1000604908191,
+      "youTubeId": "ujwpzxTvaJY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7LrUFfwuWWCWRh0uydABUK",
-        "apple": "https://podcasts.apple.com/podcast/ep-125-mike-warnke-the-satan-seller-part-1-satanic/id1525971285?i=1000604908191"
+        "apple": "https://podcasts.apple.com/podcast/ep-125-mike-warnke-the-satan-seller-part-1-satanic/id1525971285?i=1000604908191",
+        "youtube": "https://www.youtube.com/watch?v=ujwpzxTvaJY"
       }
     },
     {
@@ -1893,9 +2082,11 @@
       "explicit": false,
       "spotifyId": "07NI5NxknkYiJVVneWh3kV",
       "appleId": 1000603867238,
+      "youTubeId": "PivyD4QqNSg",
       "urls": {
         "spotify": "https://open.spotify.com/episode/07NI5NxknkYiJVVneWh3kV",
-        "apple": "https://podcasts.apple.com/podcast/ep-124-pastors-school-ifb-jack-hyles-jack-schaap-david/id1525971285?i=1000603867238"
+        "apple": "https://podcasts.apple.com/podcast/ep-124-pastors-school-ifb-jack-hyles-jack-schaap-david/id1525971285?i=1000603867238",
+        "youtube": "https://www.youtube.com/watch?v=PivyD4QqNSg"
       }
     },
     {
@@ -1907,9 +2098,11 @@
       "explicit": false,
       "spotifyId": "2DOiRENiM7xDOZUGQ3Qoa0",
       "appleId": 1000602892715,
+      "youTubeId": "kcOSlghFaac",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DOiRENiM7xDOZUGQ3Qoa0",
-        "apple": "https://podcasts.apple.com/podcast/ep-123-lori-alexander-the-transformed-wife-with-jen/id1525971285?i=1000602892715"
+        "apple": "https://podcasts.apple.com/podcast/ep-123-lori-alexander-the-transformed-wife-with-jen/id1525971285?i=1000602892715",
+        "youtube": "https://www.youtube.com/watch?v=kcOSlghFaac"
       }
     },
     {
@@ -1921,12 +2114,14 @@
       "explicit": false,
       "spotifyId": "5iZcQ4XFOQcCERSB0ZqUkI",
       "appleId": 1000601755113,
+      "youTubeId": "eTP15MVX9FI",
       "subjects": [
         "Hustler\u0027s University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5iZcQ4XFOQcCERSB0ZqUkI",
-        "apple": "https://podcasts.apple.com/podcast/ep-122-is-toxic-masculinity-a-cult-manosphere-deep/id1525971285?i=1000601755113"
+        "apple": "https://podcasts.apple.com/podcast/ep-122-is-toxic-masculinity-a-cult-manosphere-deep/id1525971285?i=1000601755113",
+        "youtube": "https://www.youtube.com/watch?v=eTP15MVX9FI"
       }
     },
     {
@@ -1938,9 +2133,11 @@
       "explicit": false,
       "spotifyId": "72gyUx5Wls4fvQV5uKwLvQ",
       "appleId": 1000600483656,
+      "youTubeId": "GSCthpxysYk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/72gyUx5Wls4fvQV5uKwLvQ",
-        "apple": "https://podcasts.apple.com/podcast/ep-121-jinger-duggars-book-listener-responses-calvinism/id1525971285?i=1000600483656"
+        "apple": "https://podcasts.apple.com/podcast/ep-121-jinger-duggars-book-listener-responses-calvinism/id1525971285?i=1000600483656",
+        "youtube": "https://www.youtube.com/watch?v=GSCthpxysYk"
       }
     },
     {
@@ -1952,9 +2149,11 @@
       "explicit": false,
       "spotifyId": "6sTKCRixes8GwkR1Ym1uss",
       "appleId": 1000599270702,
+      "youTubeId": "DciLgkaSxJM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6sTKCRixes8GwkR1Ym1uss",
-        "apple": "https://podcasts.apple.com/podcast/ep-120-why-heathens-have-better-sex-than-christians/id1525971285?i=1000599270702"
+        "apple": "https://podcasts.apple.com/podcast/ep-120-why-heathens-have-better-sex-than-christians/id1525971285?i=1000599270702",
+        "youtube": "https://www.youtube.com/watch?v=DciLgkaSxJM"
       }
     },
     {
@@ -1966,9 +2165,11 @@
       "explicit": false,
       "spotifyId": "7I14Gm3bVvoxb61bokWfLe",
       "appleId": 1000598171502,
+      "youTubeId": "-dkPwa-4FJo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7I14Gm3bVvoxb61bokWfLe",
-        "apple": "https://podcasts.apple.com/podcast/ep-119-becoming-free-indeed-we-read-jinger-duggar-vuolos/id1525971285?i=1000598171502"
+        "apple": "https://podcasts.apple.com/podcast/ep-119-becoming-free-indeed-we-read-jinger-duggar-vuolos/id1525971285?i=1000598171502",
+        "youtube": "https://www.youtube.com/watch?v=-dkPwa-4FJo"
       }
     },
     {
@@ -1980,12 +2181,14 @@
       "explicit": false,
       "spotifyId": "5oJ0tniknSt56TF1k0nIOr",
       "appleId": 1000597174184,
+      "youTubeId": "DnGJnvRffpU",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5oJ0tniknSt56TF1k0nIOr",
-        "apple": "https://podcasts.apple.com/podcast/ep-118-the-king-james-bible-code-numerology-theology/id1525971285?i=1000597174184"
+        "apple": "https://podcasts.apple.com/podcast/ep-118-the-king-james-bible-code-numerology-theology/id1525971285?i=1000597174184",
+        "youtube": "https://www.youtube.com/watch?v=DnGJnvRffpU"
       }
     },
     {
@@ -1997,13 +2200,15 @@
       "explicit": false,
       "spotifyId": "2LvaRMRE8toPRLw9uJzjrO",
       "appleId": 1000595996853,
+      "youTubeId": "knxYHfHioWQ",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2LvaRMRE8toPRLw9uJzjrO",
-        "apple": "https://podcasts.apple.com/podcast/ep-117-calvinism-christianity-protestant-reformation/id1525971285?i=1000595996853"
+        "apple": "https://podcasts.apple.com/podcast/ep-117-calvinism-christianity-protestant-reformation/id1525971285?i=1000595996853",
+        "youtube": "https://www.youtube.com/watch?v=knxYHfHioWQ"
       }
     },
     {
@@ -2015,9 +2220,11 @@
       "explicit": false,
       "spotifyId": "20zwXOXUVwiLL3yrPTUCnh",
       "appleId": 1000594567605,
+      "youTubeId": "syeuJpsilDc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/20zwXOXUVwiLL3yrPTUCnh",
-        "apple": "https://podcasts.apple.com/podcast/ep-116-lets-all-get-triggered-by-fundie-childrens-music/id1525971285?i=1000594567605"
+        "apple": "https://podcasts.apple.com/podcast/ep-116-lets-all-get-triggered-by-fundie-childrens-music/id1525971285?i=1000594567605",
+        "youtube": "https://www.youtube.com/watch?v=syeuJpsilDc"
       }
     },
     {
@@ -2029,9 +2236,11 @@
       "explicit": false,
       "spotifyId": "4RDFJ8o7kdaBpXmybspe9N",
       "appleId": 1000593090920,
+      "youTubeId": "HsAot43bPfw",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4RDFJ8o7kdaBpXmybspe9N",
-        "apple": "https://podcasts.apple.com/podcast/ep-115-what-did-jesus-look-like-christianity-judaism/id1525971285?i=1000593090920"
+        "apple": "https://podcasts.apple.com/podcast/ep-115-what-did-jesus-look-like-christianity-judaism/id1525971285?i=1000593090920",
+        "youtube": "https://www.youtube.com/watch?v=HsAot43bPfw"
       }
     },
     {
@@ -2043,12 +2252,14 @@
       "explicit": false,
       "spotifyId": "4078sBwN52sre6OyddKkQ6",
       "appleId": 1000591865647,
+      "youTubeId": "zJvYY705okk",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4078sBwN52sre6OyddKkQ6",
-        "apple": "https://podcasts.apple.com/podcast/ep-114-jonestown-jim-jones-and-the-peoples-temple/id1525971285?i=1000591865647"
+        "apple": "https://podcasts.apple.com/podcast/ep-114-jonestown-jim-jones-and-the-peoples-temple/id1525971285?i=1000591865647",
+        "youtube": "https://www.youtube.com/watch?v=zJvYY705okk"
       }
     },
     {
@@ -2060,9 +2271,11 @@
       "explicit": false,
       "spotifyId": "7o4obhFuYPcK2pyh06fC8f",
       "appleId": 1000590583260,
+      "youTubeId": "TgzKT7yFO5s",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7o4obhFuYPcK2pyh06fC8f",
-        "apple": "https://podcasts.apple.com/podcast/ep-113-gavi-visits-first-baptist-church-of-hammond/id1525971285?i=1000590583260"
+        "apple": "https://podcasts.apple.com/podcast/ep-113-gavi-visits-first-baptist-church-of-hammond/id1525971285?i=1000590583260",
+        "youtube": "https://www.youtube.com/watch?v=TgzKT7yFO5s"
       }
     },
     {
@@ -2074,9 +2287,11 @@
       "explicit": false,
       "spotifyId": "4NvdyzmqvkCIrZRnte4upM",
       "appleId": 1000589804881,
+      "youTubeId": "sK2IEeKTvFc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4NvdyzmqvkCIrZRnte4upM",
-        "apple": "https://podcasts.apple.com/podcast/ep-112-sadie-explains-why-the-king-james-version-is/id1525971285?i=1000589804881"
+        "apple": "https://podcasts.apple.com/podcast/ep-112-sadie-explains-why-the-king-james-version-is/id1525971285?i=1000589804881",
+        "youtube": "https://www.youtube.com/watch?v=sK2IEeKTvFc"
       }
     },
     {
@@ -2088,9 +2303,11 @@
       "explicit": false,
       "spotifyId": "1GBRwH8xYkw4x2O95iZbl7",
       "appleId": 1000588779657,
+      "youTubeId": "hzjOoMtOGZ0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1GBRwH8xYkw4x2O95iZbl7",
-        "apple": "https://podcasts.apple.com/podcast/ep-111-potato-salad-potlucks-dinners-and-pimento/id1525971285?i=1000588779657"
+        "apple": "https://podcasts.apple.com/podcast/ep-111-potato-salad-potlucks-dinners-and-pimento/id1525971285?i=1000588779657",
+        "youtube": "https://www.youtube.com/watch?v=hzjOoMtOGZ0"
       }
     },
     {
@@ -2102,12 +2319,14 @@
       "explicit": false,
       "spotifyId": "1OGs6hZxb3p5mxkWqrTIZC",
       "appleId": 1000587683636,
+      "youTubeId": "_TKVsLJvlJo",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1OGs6hZxb3p5mxkWqrTIZC",
-        "apple": "https://podcasts.apple.com/podcast/ep-110-is-hillsong-a-cult-pentacostal-megachurch/id1525971285?i=1000587683636"
+        "apple": "https://podcasts.apple.com/podcast/ep-110-is-hillsong-a-cult-pentacostal-megachurch/id1525971285?i=1000587683636",
+        "youtube": "https://www.youtube.com/watch?v=_TKVsLJvlJo"
       }
     },
     {
@@ -2119,12 +2338,14 @@
       "explicit": false,
       "spotifyId": "0kAXjyRTWzMlWmJO6BzOF0",
       "appleId": 1000586927471,
+      "youTubeId": "ZIS_06oSEhc",
       "subjects": [
         "Hillsong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0kAXjyRTWzMlWmJO6BzOF0",
-        "apple": "https://podcasts.apple.com/podcast/ep-109-is-it-a-cult-kanye-wests-donda-academy/id1525971285?i=1000586927471"
+        "apple": "https://podcasts.apple.com/podcast/ep-109-is-it-a-cult-kanye-wests-donda-academy/id1525971285?i=1000586927471",
+        "youtube": "https://www.youtube.com/watch?v=ZIS_06oSEhc"
       }
     },
     {
@@ -2136,6 +2357,7 @@
       "explicit": false,
       "spotifyId": "1YlmTWPqRwLz2mhV1TQqLI",
       "appleId": 1000586077785,
+      "youTubeId": "Y_28wVxCDIo",
       "subjects": [
         "Cult Psychology",
         "Qanon",
@@ -2143,7 +2365,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1YlmTWPqRwLz2mhV1TQqLI",
-        "apple": "https://podcasts.apple.com/podcast/ep-108-cult-of-personality-fundamentalism-religion/id1525971285?i=1000586077785"
+        "apple": "https://podcasts.apple.com/podcast/ep-108-cult-of-personality-fundamentalism-religion/id1525971285?i=1000586077785",
+        "youtube": "https://www.youtube.com/watch?v=Y_28wVxCDIo"
       }
     },
     {
@@ -2155,9 +2378,11 @@
       "explicit": false,
       "spotifyId": "19eYM0WHpnbF3eCMbcxkjQ",
       "appleId": 1000585300440,
+      "youTubeId": "uZ1sGdWSdQc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/19eYM0WHpnbF3eCMbcxkjQ",
-        "apple": "https://podcasts.apple.com/podcast/ep-107-true-crime-the-return-of-paul-sand-aka/id1525971285?i=1000585300440"
+        "apple": "https://podcasts.apple.com/podcast/ep-107-true-crime-the-return-of-paul-sand-aka/id1525971285?i=1000585300440",
+        "youtube": "https://www.youtube.com/watch?v=uZ1sGdWSdQc"
       }
     },
     {
@@ -2169,9 +2394,11 @@
       "explicit": false,
       "spotifyId": "6YBvfQKyOcRvLKNABGSjxI",
       "appleId": 1000584462404,
+      "youTubeId": "apskcklGR04",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6YBvfQKyOcRvLKNABGSjxI",
-        "apple": "https://podcasts.apple.com/podcast/ep-106-the-demon-test-bob-larson-exorcist/id1525971285?i=1000584462404"
+        "apple": "https://podcasts.apple.com/podcast/ep-106-the-demon-test-bob-larson-exorcist/id1525971285?i=1000584462404",
+        "youtube": "https://www.youtube.com/watch?v=apskcklGR04"
       }
     },
     {
@@ -2183,9 +2410,11 @@
       "explicit": false,
       "spotifyId": "2kCuYt9PklcJuW3E72MJhP",
       "appleId": 1000583659071,
+      "youTubeId": "jSMinoaoKVs",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2kCuYt9PklcJuW3E72MJhP",
-        "apple": "https://podcasts.apple.com/podcast/ep-105-the-burning-hell-spooky-helloween-halloween/id1525971285?i=1000583659071"
+        "apple": "https://podcasts.apple.com/podcast/ep-105-the-burning-hell-spooky-helloween-halloween/id1525971285?i=1000583659071",
+        "youtube": "https://www.youtube.com/watch?v=jSMinoaoKVs"
       }
     },
     {
@@ -2197,13 +2426,15 @@
       "explicit": false,
       "spotifyId": "2Qict1mEU6i1JcL9cNL9zw",
       "appleId": 1000582915553,
+      "youTubeId": "1YyIlkWoTLo",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Troubled Teen Industry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Qict1mEU6i1JcL9cNL9zw",
-        "apple": "https://podcasts.apple.com/podcast/ep-104-agape-boarding-school-troubled-teen-industry/id1525971285?i=1000582915553"
+        "apple": "https://podcasts.apple.com/podcast/ep-104-agape-boarding-school-troubled-teen-industry/id1525971285?i=1000582915553",
+        "youtube": "https://www.youtube.com/watch?v=1YyIlkWoTLo"
       }
     },
     {
@@ -2215,9 +2446,11 @@
       "explicit": false,
       "spotifyId": "0aJlmoE6SawdIRciSUC27g",
       "appleId": 1000582120820,
+      "youTubeId": "2gc54Q5_oYg",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0aJlmoE6SawdIRciSUC27g",
-        "apple": "https://podcasts.apple.com/podcast/ep-103-leaving-springfield-christianity-on-the/id1525971285?i=1000582120820"
+        "apple": "https://podcasts.apple.com/podcast/ep-103-leaving-springfield-christianity-on-the/id1525971285?i=1000582120820",
+        "youtube": "https://www.youtube.com/watch?v=2gc54Q5_oYg"
       }
     },
     {
@@ -2229,12 +2462,14 @@
       "explicit": false,
       "spotifyId": "3uRiPuGIq0naexxGK0jYhc",
       "appleId": 1000581364598,
+      "youTubeId": "YA5HZupKJ2w",
       "subjects": [
         "Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3uRiPuGIq0naexxGK0jYhc",
-        "apple": "https://podcasts.apple.com/podcast/ep-102-why-do-people-become-fundie-deconstruction-mental/id1525971285?i=1000581364598"
+        "apple": "https://podcasts.apple.com/podcast/ep-102-why-do-people-become-fundie-deconstruction-mental/id1525971285?i=1000581364598",
+        "youtube": "https://www.youtube.com/watch?v=YA5HZupKJ2w"
       }
     },
     {
@@ -2246,9 +2481,11 @@
       "explicit": false,
       "spotifyId": "4hIqtJIXZQoNxJ7FQFts0J",
       "appleId": 1000580630677,
+      "youTubeId": "QoVujl9oULM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4hIqtJIXZQoNxJ7FQFts0J",
-        "apple": "https://podcasts.apple.com/podcast/ep-101-fundie-influencers-paul-and-morgan-oliges/id1525971285?i=1000580630677"
+        "apple": "https://podcasts.apple.com/podcast/ep-101-fundie-influencers-paul-and-morgan-oliges/id1525971285?i=1000580630677",
+        "youtube": "https://www.youtube.com/watch?v=QoVujl9oULM"
       }
     },
     {
@@ -2260,9 +2497,11 @@
       "explicit": false,
       "spotifyId": "1rO44Yd4x9u23FX8E9LyUt",
       "appleId": 1000579900367,
+      "youTubeId": "BIEE7LTxwoM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1rO44Yd4x9u23FX8E9LyUt",
-        "apple": "https://podcasts.apple.com/podcast/ep-100-episode-100-2-year-anniversary-celebration-how/id1525971285?i=1000579900367"
+        "apple": "https://podcasts.apple.com/podcast/ep-100-episode-100-2-year-anniversary-celebration-how/id1525971285?i=1000579900367",
+        "youtube": "https://www.youtube.com/watch?v=BIEE7LTxwoM"
       }
     },
     {
@@ -2274,13 +2513,15 @@
       "explicit": false,
       "spotifyId": "0YNuO1yfvX87yUV4c5RMvz",
       "appleId": 1000579167707,
+      "youTubeId": "LtUwukNdSIU",
       "subjects": [
         "Psychology",
         "Human Trafficking"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0YNuO1yfvX87yUV4c5RMvz",
-        "apple": "https://podcasts.apple.com/podcast/ep-99-cult-leader-jack-schaap-is-out-of-prison-and/id1525971285?i=1000579167707"
+        "apple": "https://podcasts.apple.com/podcast/ep-99-cult-leader-jack-schaap-is-out-of-prison-and/id1525971285?i=1000579167707",
+        "youtube": "https://www.youtube.com/watch?v=LtUwukNdSIU"
       }
     },
     {
@@ -2292,13 +2533,15 @@
       "explicit": false,
       "spotifyId": "2DfxAYuqoAfgU9z3DudIdA",
       "appleId": 1000578387257,
+      "youTubeId": "-vn_fFtcwEc",
       "subjects": [
         "Evangelicalism",
         "Bob Jones University"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2DfxAYuqoAfgU9z3DudIdA",
-        "apple": "https://podcasts.apple.com/podcast/ep-98-bob-jones-university-bju-cult-college-fundamentalism/id1525971285?i=1000578387257"
+        "apple": "https://podcasts.apple.com/podcast/ep-98-bob-jones-university-bju-cult-college-fundamentalism/id1525971285?i=1000578387257",
+        "youtube": "https://www.youtube.com/watch?v=-vn_fFtcwEc"
       }
     },
     {
@@ -2310,9 +2553,11 @@
       "explicit": false,
       "spotifyId": "3nD4hYAaD0XQpAOwkU5R5m",
       "appleId": 1000577642099,
+      "youTubeId": "3sxoBtHl5PI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3nD4hYAaD0XQpAOwkU5R5m",
-        "apple": "https://podcasts.apple.com/podcast/ep-97-how-to-enjoy-live-music-and-dancing-sinning-fun/id1525971285?i=1000577642099"
+        "apple": "https://podcasts.apple.com/podcast/ep-97-how-to-enjoy-live-music-and-dancing-sinning-fun/id1525971285?i=1000577642099",
+        "youtube": "https://www.youtube.com/watch?v=3sxoBtHl5PI"
       }
     },
     {
@@ -2324,6 +2569,7 @@
       "explicit": false,
       "spotifyId": "7pwPNKXaP7aLDo3teMzBan",
       "appleId": 1000576897214,
+      "youTubeId": "FS5jgAGUIY0",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Evangelicalism",
@@ -2331,7 +2577,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7pwPNKXaP7aLDo3teMzBan",
-        "apple": "https://podcasts.apple.com/podcast/ep-96-sadie-goes-to-jesus-camp-cry-night-fun-pain-trauma/id1525971285?i=1000576897214"
+        "apple": "https://podcasts.apple.com/podcast/ep-96-sadie-goes-to-jesus-camp-cry-night-fun-pain-trauma/id1525971285?i=1000576897214",
+        "youtube": "https://www.youtube.com/watch?v=FS5jgAGUIY0"
       }
     },
     {
@@ -2343,9 +2590,11 @@
       "explicit": false,
       "spotifyId": "6NdquBBGLSKbOHwREmtpNy",
       "appleId": 1000576098911,
+      "youTubeId": "_EnqTO3Io7M",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6NdquBBGLSKbOHwREmtpNy",
-        "apple": "https://podcasts.apple.com/podcast/ep-95-how-to-alcohol-drinking-fundie-snark-ifb-ex-fundie/id1525971285?i=1000576098911"
+        "apple": "https://podcasts.apple.com/podcast/ep-95-how-to-alcohol-drinking-fundie-snark-ifb-ex-fundie/id1525971285?i=1000576098911",
+        "youtube": "https://www.youtube.com/watch?v=_EnqTO3Io7M"
       }
     },
     {
@@ -2357,9 +2606,11 @@
       "explicit": false,
       "spotifyId": "0AmLzfBnkRcLXZaYQYYNqa",
       "appleId": 1000575620514,
+      "youTubeId": "ybtQ1Gnk57w",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0AmLzfBnkRcLXZaYQYYNqa",
-        "apple": "https://podcasts.apple.com/podcast/ep-94-and-a-half-welcome-to-plathville-season-4/id1525971285?i=1000575620514"
+        "apple": "https://podcasts.apple.com/podcast/ep-94-and-a-half-welcome-to-plathville-season-4/id1525971285?i=1000575620514",
+        "youtube": "https://www.youtube.com/watch?v=ybtQ1Gnk57w"
       }
     },
     {
@@ -2371,9 +2622,11 @@
       "explicit": false,
       "spotifyId": "0SsPefjCy1ehcXu2ifMMzG",
       "appleId": 1000575340971,
+      "youTubeId": "IrbJd0IrJMM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0SsPefjCy1ehcXu2ifMMzG",
-        "apple": "https://podcasts.apple.com/podcast/ep-94-plathville-part-2-seasons-1-3-recap-tlc-reality/id1525971285?i=1000575340971"
+        "apple": "https://podcasts.apple.com/podcast/ep-94-plathville-part-2-seasons-1-3-recap-tlc-reality/id1525971285?i=1000575340971",
+        "youtube": "https://www.youtube.com/watch?v=IrbJd0IrJMM"
       }
     },
     {
@@ -2385,9 +2638,11 @@
       "explicit": false,
       "spotifyId": "28XGnO7gOVR0gplXtueymj",
       "appleId": 1000574612949,
+      "youTubeId": "M2rqBc3KbcQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/28XGnO7gOVR0gplXtueymj",
-        "apple": "https://podcasts.apple.com/podcast/ep-93-how-to-dating-ex-fundie-fundie-snark-deconstruction/id1525971285?i=1000574612949"
+        "apple": "https://podcasts.apple.com/podcast/ep-93-how-to-dating-ex-fundie-fundie-snark-deconstruction/id1525971285?i=1000574612949",
+        "youtube": "https://www.youtube.com/watch?v=M2rqBc3KbcQ"
       }
     },
     {
@@ -2399,9 +2654,11 @@
       "explicit": false,
       "spotifyId": "6SaiO4wNQ9u9yEzSHgDoQY",
       "appleId": 1000571062580,
+      "youTubeId": "T-a0FyDZdzo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6SaiO4wNQ9u9yEzSHgDoQY",
-        "apple": "https://podcasts.apple.com/podcast/ep-92-plathville-part-1-are-the-plaths-iblp-or-ifb/id1525971285?i=1000571062580"
+        "apple": "https://podcasts.apple.com/podcast/ep-92-plathville-part-1-are-the-plaths-iblp-or-ifb/id1525971285?i=1000571062580",
+        "youtube": "https://www.youtube.com/watch?v=T-a0FyDZdzo"
       }
     },
     {
@@ -2413,9 +2670,11 @@
       "explicit": false,
       "spotifyId": "2cT32VMWLj5NRNi5ERa3oF",
       "appleId": 1000570279313,
+      "youTubeId": "7iLI87iILL4",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2cT32VMWLj5NRNi5ERa3oF",
-        "apple": "https://podcasts.apple.com/podcast/ep-91-burnout-deconstruction-theology-fundie-snark/id1525971285?i=1000570279313"
+        "apple": "https://podcasts.apple.com/podcast/ep-91-burnout-deconstruction-theology-fundie-snark/id1525971285?i=1000570279313",
+        "youtube": "https://www.youtube.com/watch?v=7iLI87iILL4"
       }
     },
     {
@@ -2427,13 +2686,15 @@
       "explicit": false,
       "spotifyId": "0YyzsmPXCKJin3IFAcpcRs",
       "appleId": 1000569499942,
+      "youTubeId": "9Ar7n11e0Pw",
       "subjects": [
         "FLDS Church",
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0YyzsmPXCKJin3IFAcpcRs",
-        "apple": "https://podcasts.apple.com/podcast/ep-90-warren-jeffs-and-the-flds-mormonism/id1525971285?i=1000569499942"
+        "apple": "https://podcasts.apple.com/podcast/ep-90-warren-jeffs-and-the-flds-mormonism/id1525971285?i=1000569499942",
+        "youtube": "https://www.youtube.com/watch?v=9Ar7n11e0Pw"
       }
     },
     {
@@ -2445,9 +2706,11 @@
       "explicit": false,
       "spotifyId": "37R4CNwL16bqdagCU1XNYd",
       "appleId": 1000568711557,
+      "youTubeId": "I9Jm_p21PAo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/37R4CNwL16bqdagCU1XNYd",
-        "apple": "https://podcasts.apple.com/podcast/ep-89-christian-nationalism-biblical-literalism-is/id1525971285?i=1000568711557"
+        "apple": "https://podcasts.apple.com/podcast/ep-89-christian-nationalism-biblical-literalism-is/id1525971285?i=1000568711557",
+        "youtube": "https://www.youtube.com/watch?v=I9Jm_p21PAo"
       }
     },
     {
@@ -2459,9 +2722,11 @@
       "explicit": false,
       "spotifyId": "6gSKdEr3uJ8esE30fveNX5",
       "appleId": 1000567805129,
+      "youTubeId": "Qn_1yi0G6q0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6gSKdEr3uJ8esE30fveNX5",
-        "apple": "https://podcasts.apple.com/podcast/ep-88-the-leaving-eden-drag-brunch-returns-with/id1525971285?i=1000567805129"
+        "apple": "https://podcasts.apple.com/podcast/ep-88-the-leaving-eden-drag-brunch-returns-with/id1525971285?i=1000567805129",
+        "youtube": "https://www.youtube.com/watch?v=Qn_1yi0G6q0"
       }
     },
     {
@@ -2473,9 +2738,11 @@
       "explicit": false,
       "spotifyId": "0xNJbHaJEHEElsCR6ljFzS",
       "appleId": 1000567100019,
+      "youTubeId": "lM2qEdOT9dY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0xNJbHaJEHEElsCR6ljFzS",
-        "apple": "https://podcasts.apple.com/podcast/ep-87-pride-3-the-gayzer-beam-grooming-libel-lgbtq/id1525971285?i=1000567100019"
+        "apple": "https://podcasts.apple.com/podcast/ep-87-pride-3-the-gayzer-beam-grooming-libel-lgbtq/id1525971285?i=1000567100019",
+        "youtube": "https://www.youtube.com/watch?v=lM2qEdOT9dY"
       }
     },
     {
@@ -2487,9 +2754,11 @@
       "explicit": false,
       "spotifyId": "5zOSUNZGXWWIfyuzUjNGDs",
       "appleId": 1000566201559,
+      "youTubeId": "w76ECI03YTM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5zOSUNZGXWWIfyuzUjNGDs",
-        "apple": "https://podcasts.apple.com/podcast/ep-86-pride-month-special-interview-with-elizabeth/id1525971285?i=1000566201559"
+        "apple": "https://podcasts.apple.com/podcast/ep-86-pride-month-special-interview-with-elizabeth/id1525971285?i=1000566201559",
+        "youtube": "https://www.youtube.com/watch?v=w76ECI03YTM"
       }
     },
     {
@@ -2501,9 +2770,11 @@
       "explicit": false,
       "spotifyId": "2GxoeAdLbrFfZOuTTJKlic",
       "appleId": 1000565335812,
+      "youTubeId": "zAkMKMFqcVg",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2GxoeAdLbrFfZOuTTJKlic",
-        "apple": "https://podcasts.apple.com/podcast/ep-85-the-history-of-pride-and-why-you-shouldnt/id1525971285?i=1000565335812"
+        "apple": "https://podcasts.apple.com/podcast/ep-85-the-history-of-pride-and-why-you-shouldnt/id1525971285?i=1000565335812",
+        "youtube": "https://www.youtube.com/watch?v=zAkMKMFqcVg"
       }
     },
     {
@@ -2515,13 +2786,15 @@
       "explicit": false,
       "spotifyId": "0A9fWxHnkRFb5YMUoxf663",
       "appleId": 1000564495074,
+      "youTubeId": "4wo1lrQcO0s",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Self-Help"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0A9fWxHnkRFb5YMUoxf663",
-        "apple": "https://podcasts.apple.com/podcast/ep-84-cult-leaders-and-convicted-pedophiles-are-bad/id1525971285?i=1000564495074"
+        "apple": "https://podcasts.apple.com/podcast/ep-84-cult-leaders-and-convicted-pedophiles-are-bad/id1525971285?i=1000564495074",
+        "youtube": "https://www.youtube.com/watch?v=4wo1lrQcO0s"
       }
     },
     {
@@ -2533,13 +2806,15 @@
       "explicit": false,
       "spotifyId": "1vjmryIYNRDaFb6nJwndh5",
       "appleId": 1000563938835,
+      "youTubeId": "T28lAYe9HCY",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1vjmryIYNRDaFb6nJwndh5",
-        "apple": "https://podcasts.apple.com/podcast/josh-duggar-sentencing-special-12-years-and-counting/id1525971285?i=1000563938835"
+        "apple": "https://podcasts.apple.com/podcast/josh-duggar-sentencing-special-12-years-and-counting/id1525971285?i=1000563938835",
+        "youtube": "https://www.youtube.com/watch?v=T28lAYe9HCY"
       }
     },
     {
@@ -2551,12 +2826,14 @@
       "explicit": false,
       "spotifyId": "7pOG5U75G5dBeZvhgfgqvL",
       "appleId": 1000563242019,
+      "youTubeId": "JBYJ-C8PwVg",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7pOG5U75G5dBeZvhgfgqvL",
-        "apple": "https://podcasts.apple.com/podcast/ep-83-a-day-in-the-life-at-cult-college-hac/id1525971285?i=1000563242019"
+        "apple": "https://podcasts.apple.com/podcast/ep-83-a-day-in-the-life-at-cult-college-hac/id1525971285?i=1000563242019",
+        "youtube": "https://www.youtube.com/watch?v=JBYJ-C8PwVg"
       }
     },
     {
@@ -2568,12 +2845,14 @@
       "explicit": false,
       "spotifyId": "0uTMR1RtPCPgKxW2uysQY6",
       "appleId": 1000561535590,
+      "youTubeId": "KBiPN45o3h8",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0uTMR1RtPCPgKxW2uysQY6",
-        "apple": "https://podcasts.apple.com/podcast/ep-82-a-day-in-the-life-in-cult-high-school/id1525971285?i=1000561535590"
+        "apple": "https://podcasts.apple.com/podcast/ep-82-a-day-in-the-life-in-cult-high-school/id1525971285?i=1000561535590",
+        "youtube": "https://www.youtube.com/watch?v=KBiPN45o3h8"
       }
     },
     {
@@ -2585,12 +2864,14 @@
       "explicit": false,
       "spotifyId": "6Mj5SmyA7RJB7LaDY2rliE",
       "appleId": 1000560022624,
+      "youTubeId": "-WJu-Elk9zM",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Mj5SmyA7RJB7LaDY2rliE",
-        "apple": "https://podcasts.apple.com/podcast/ep-81-my-smokin-hot-wife-mothers-day-ifb-cult-stories/id1525971285?i=1000560022624"
+        "apple": "https://podcasts.apple.com/podcast/ep-81-my-smokin-hot-wife-mothers-day-ifb-cult-stories/id1525971285?i=1000560022624",
+        "youtube": "https://www.youtube.com/watch?v=-WJu-Elk9zM"
       }
     },
     {
@@ -2602,9 +2883,11 @@
       "explicit": false,
       "spotifyId": "4bsgr5HiZwgIMDoYi0hjox",
       "appleId": 1000559304307,
+      "youTubeId": "td_hZFzA4I0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4bsgr5HiZwgIMDoYi0hjox",
-        "apple": "https://podcasts.apple.com/podcast/ep-80-the-mother-of-all-conspiracy-theories/id1525971285?i=1000559304307"
+        "apple": "https://podcasts.apple.com/podcast/ep-80-the-mother-of-all-conspiracy-theories/id1525971285?i=1000559304307",
+        "youtube": "https://www.youtube.com/watch?v=td_hZFzA4I0"
       }
     },
     {
@@ -2616,9 +2899,11 @@
       "explicit": false,
       "spotifyId": "7fQId5DbtoqXjZq6jPAo9o",
       "appleId": 1000558578520,
+      "youTubeId": "j9FSqQLG7Ns",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7fQId5DbtoqXjZq6jPAo9o",
-        "apple": "https://podcasts.apple.com/podcast/ep-79-the-monarch-returns-for-missions-madness-feat/id1525971285?i=1000558578520"
+        "apple": "https://podcasts.apple.com/podcast/ep-79-the-monarch-returns-for-missions-madness-feat/id1525971285?i=1000558578520",
+        "youtube": "https://www.youtube.com/watch?v=j9FSqQLG7Ns"
       }
     },
     {
@@ -2630,13 +2915,15 @@
       "explicit": false,
       "spotifyId": "1cctlXylNOlbZ8dC6KKb4V",
       "appleId": 1000557892360,
+      "youTubeId": "9BrD8Mzk8Po",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Qanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1cctlXylNOlbZ8dC6KKb4V",
-        "apple": "https://podcasts.apple.com/podcast/ep-78-from-the-illuminati-to-the-ifb-the-fantastic/id1525971285?i=1000557892360"
+        "apple": "https://podcasts.apple.com/podcast/ep-78-from-the-illuminati-to-the-ifb-the-fantastic/id1525971285?i=1000557892360",
+        "youtube": "https://www.youtube.com/watch?v=9BrD8Mzk8Po"
       }
     },
     {
@@ -2648,13 +2935,15 @@
       "explicit": false,
       "spotifyId": "1VZpzojVgjDW92crzKdaB1",
       "appleId": 1000557067472,
+      "youTubeId": "hXq6btVpCYs",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Purity Culture"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1VZpzojVgjDW92crzKdaB1",
-        "apple": "https://podcasts.apple.com/podcast/ep-77-eric-skwarczynski-of-the-preacher-boys-podcast/id1525971285?i=1000557067472"
+        "apple": "https://podcasts.apple.com/podcast/ep-77-eric-skwarczynski-of-the-preacher-boys-podcast/id1525971285?i=1000557067472",
+        "youtube": "https://www.youtube.com/watch?v=hXq6btVpCYs"
       }
     },
     {
@@ -2666,9 +2955,11 @@
       "explicit": false,
       "spotifyId": "2yRgBtM8Th2KLHiHjuFGiV",
       "appleId": 1000571255310,
+      "youTubeId": "uMoMuw7a9zA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2yRgBtM8Th2KLHiHjuFGiV",
-        "apple": "https://podcasts.apple.com/podcast/ep-76-getting-snug-with-the-dugg-part-2-walmart/id1525971285?i=1000571255310"
+        "apple": "https://podcasts.apple.com/podcast/ep-76-getting-snug-with-the-dugg-part-2-walmart/id1525971285?i=1000571255310",
+        "youtube": "https://www.youtube.com/watch?v=uMoMuw7a9zA"
       }
     },
     {
@@ -2680,9 +2971,11 @@
       "explicit": false,
       "spotifyId": "4cg90dtIDAlsFmM3uSQ8BG",
       "appleId": 1000555429322,
+      "youTubeId": "90radej9uOU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4cg90dtIDAlsFmM3uSQ8BG",
-        "apple": "https://podcasts.apple.com/podcast/ep-75-getting-snug-with-the-dugg-part-1-no-duggrets/id1525971285?i=1000555429322"
+        "apple": "https://podcasts.apple.com/podcast/ep-75-getting-snug-with-the-dugg-part-1-no-duggrets/id1525971285?i=1000555429322",
+        "youtube": "https://www.youtube.com/watch?v=90radej9uOU"
       }
     },
     {
@@ -2694,9 +2987,11 @@
       "explicit": false,
       "spotifyId": "7tOgO6s0jBifhxZE7yW3xd",
       "appleId": 1000554691821,
+      "youTubeId": "JRyNWuRRbDE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7tOgO6s0jBifhxZE7yW3xd",
-        "apple": "https://podcasts.apple.com/podcast/ep-74-q-a-episode-number-3-and-life-update/id1525971285?i=1000554691821"
+        "apple": "https://podcasts.apple.com/podcast/ep-74-q-a-episode-number-3-and-life-update/id1525971285?i=1000554691821",
+        "youtube": "https://www.youtube.com/watch?v=JRyNWuRRbDE"
       }
     },
     {
@@ -2708,9 +3003,11 @@
       "explicit": false,
       "spotifyId": "5x4rx8OfvZmCVQQxed7YWD",
       "appleId": 1000552310695,
+      "youTubeId": "67miqEqlIik",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5x4rx8OfvZmCVQQxed7YWD",
-        "apple": "https://podcasts.apple.com/podcast/february-26-update/id1525971285?i=1000552310695"
+        "apple": "https://podcasts.apple.com/podcast/february-26-update/id1525971285?i=1000552310695",
+        "youtube": "https://www.youtube.com/watch?v=67miqEqlIik"
       }
     },
     {
@@ -2722,9 +3019,11 @@
       "explicit": false,
       "spotifyId": "6mYcEq1RKqjuNVhQLM3DH7",
       "appleId": 1000551737346,
+      "youTubeId": "n4gOZn87WiM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6mYcEq1RKqjuNVhQLM3DH7",
-        "apple": "https://podcasts.apple.com/podcast/ep-73-the-laws-of-god-vs-the-laws-of-men/id1525971285?i=1000551737346"
+        "apple": "https://podcasts.apple.com/podcast/ep-73-the-laws-of-god-vs-the-laws-of-men/id1525971285?i=1000551737346",
+        "youtube": "https://www.youtube.com/watch?v=n4gOZn87WiM"
       }
     },
     {
@@ -2736,9 +3035,11 @@
       "explicit": false,
       "spotifyId": "3yBeC49iGlZVJsgmidioMz",
       "appleId": 1000551008534,
+      "youTubeId": "EUKTyOnP_S0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3yBeC49iGlZVJsgmidioMz",
-        "apple": "https://podcasts.apple.com/podcast/ep-72-so-prudish-its-accidentally-kinky-the-cult-sex/id1525971285?i=1000551008534"
+        "apple": "https://podcasts.apple.com/podcast/ep-72-so-prudish-its-accidentally-kinky-the-cult-sex/id1525971285?i=1000551008534",
+        "youtube": "https://www.youtube.com/watch?v=EUKTyOnP_S0"
       }
     },
     {
@@ -2750,9 +3051,11 @@
       "explicit": false,
       "spotifyId": "3P8wA08o7LXCQgmlXpsrW1",
       "appleId": 1000550281831,
+      "youTubeId": "oikZ-NH24CY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3P8wA08o7LXCQgmlXpsrW1",
-        "apple": "https://podcasts.apple.com/podcast/ep-71-good-old-fashioned-toxic-masculinity-ifb-cult/id1525971285?i=1000550281831"
+        "apple": "https://podcasts.apple.com/podcast/ep-71-good-old-fashioned-toxic-masculinity-ifb-cult/id1525971285?i=1000550281831",
+        "youtube": "https://www.youtube.com/watch?v=oikZ-NH24CY"
       }
     },
     {
@@ -2764,12 +3067,14 @@
       "explicit": false,
       "spotifyId": "3hTE3XwTrwUKWCzqsVm9eU",
       "appleId": 1000549498377,
+      "youTubeId": "LUXkB0vOl2M",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3hTE3XwTrwUKWCzqsVm9eU",
-        "apple": "https://podcasts.apple.com/podcast/ep-70-iblp-advanced-seminar-michelle-duggar-wears-pants/id1525971285?i=1000549498377"
+        "apple": "https://podcasts.apple.com/podcast/ep-70-iblp-advanced-seminar-michelle-duggar-wears-pants/id1525971285?i=1000549498377",
+        "youtube": "https://www.youtube.com/watch?v=LUXkB0vOl2M"
       }
     },
     {
@@ -2781,9 +3086,11 @@
       "explicit": false,
       "spotifyId": "2l1vi0KH1l9zrP1bZ8uBkv",
       "appleId": 1000548790480,
+      "youTubeId": "6EOv3HgucWk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2l1vi0KH1l9zrP1bZ8uBkv",
-        "apple": "https://podcasts.apple.com/podcast/ep-69-the-most-banned-book-of-all-banned/id1525971285?i=1000548790480"
+        "apple": "https://podcasts.apple.com/podcast/ep-69-the-most-banned-book-of-all-banned/id1525971285?i=1000548790480",
+        "youtube": "https://www.youtube.com/watch?v=6EOv3HgucWk"
       }
     },
     {
@@ -2795,9 +3102,11 @@
       "explicit": false,
       "spotifyId": "04QlVIkd4pVxGPvEurfpLg",
       "appleId": 1000548090508,
+      "youTubeId": "TlBePdbdVTI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/04QlVIkd4pVxGPvEurfpLg",
-        "apple": "https://podcasts.apple.com/podcast/ep-68-ethnic-cleansing-but-make-it-christian-a-beka/id1525971285?i=1000548090508"
+        "apple": "https://podcasts.apple.com/podcast/ep-68-ethnic-cleansing-but-make-it-christian-a-beka/id1525971285?i=1000548090508",
+        "youtube": "https://www.youtube.com/watch?v=TlBePdbdVTI"
       }
     },
     {
@@ -2809,9 +3118,11 @@
       "explicit": false,
       "spotifyId": "37Bvz37yUSeZaxwDTTC0mw",
       "appleId": 1000547394826,
+      "youTubeId": "Bmisj9Pq270",
       "urls": {
         "spotify": "https://open.spotify.com/episode/37Bvz37yUSeZaxwDTTC0mw",
-        "apple": "https://podcasts.apple.com/podcast/ep-67-gender-segregated-staircases-pensacola-christian/id1525971285?i=1000547394826"
+        "apple": "https://podcasts.apple.com/podcast/ep-67-gender-segregated-staircases-pensacola-christian/id1525971285?i=1000547394826",
+        "youtube": "https://www.youtube.com/watch?v=Bmisj9Pq270"
       }
     },
     {
@@ -2823,12 +3134,14 @@
       "explicit": false,
       "spotifyId": "5COnlQsTm1yvXdgLwiyHi3",
       "appleId": 1000546762485,
+      "youTubeId": "MilVgbOIh9Q",
       "subjects": [
         "Branch Davidians"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5COnlQsTm1yvXdgLwiyHi3",
-        "apple": "https://podcasts.apple.com/podcast/ep-66-david-koresh-the-branch-davidians-and-the/id1525971285?i=1000546762485"
+        "apple": "https://podcasts.apple.com/podcast/ep-66-david-koresh-the-branch-davidians-and-the/id1525971285?i=1000546762485",
+        "youtube": "https://www.youtube.com/watch?v=MilVgbOIh9Q"
       }
     },
     {
@@ -2840,9 +3153,11 @@
       "explicit": false,
       "spotifyId": "4BL1OI7srGXpuole4tjgVi",
       "appleId": 1000546190185,
+      "youTubeId": "_74acYChyww",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4BL1OI7srGXpuole4tjgVi",
-        "apple": "https://podcasts.apple.com/podcast/ep-65-watch-night-new-years-special-feat-dinah-house/id1525971285?i=1000546190185"
+        "apple": "https://podcasts.apple.com/podcast/ep-65-watch-night-new-years-special-feat-dinah-house/id1525971285?i=1000546190185",
+        "youtube": "https://www.youtube.com/watch?v=_74acYChyww"
       }
     },
     {
@@ -2854,9 +3169,11 @@
       "explicit": false,
       "spotifyId": "7ohKS9ASShE0YiXM5CP1E6",
       "appleId": 1000544780730,
+      "youTubeId": "fJktTawqXFo",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7ohKS9ASShE0YiXM5CP1E6",
-        "apple": "https://podcasts.apple.com/podcast/ep-64-the-beefy-boys-4-jesus-jack-chick-conspiracy/id1525971285?i=1000544780730"
+        "apple": "https://podcasts.apple.com/podcast/ep-64-the-beefy-boys-4-jesus-jack-chick-conspiracy/id1525971285?i=1000544780730",
+        "youtube": "https://www.youtube.com/watch?v=fJktTawqXFo"
       }
     },
     {
@@ -2868,13 +3185,15 @@
       "explicit": false,
       "spotifyId": "4iw5eQgH3bA0g7h0vnoTZE",
       "appleId": 1000544515524,
+      "youTubeId": "0kY_VFJ7luI",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4iw5eQgH3bA0g7h0vnoTZE",
-        "apple": "https://podcasts.apple.com/podcast/josh-duggar-trial-recap-the-verdict-iblp-ati/id1525971285?i=1000544515524"
+        "apple": "https://podcasts.apple.com/podcast/josh-duggar-trial-recap-the-verdict-iblp-ati/id1525971285?i=1000544515524",
+        "youtube": "https://www.youtube.com/watch?v=0kY_VFJ7luI"
       }
     },
     {
@@ -2886,13 +3205,15 @@
       "explicit": false,
       "spotifyId": "6TCpKstjYQc62rZAze2Z5H",
       "appleId": 1000544299040,
+      "youTubeId": "Y-EWca-Tvrc",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6TCpKstjYQc62rZAze2Z5H",
-        "apple": "https://podcasts.apple.com/podcast/josh-duggar-trial-week-2-recap-iblp-ati-quiverfull/id1525971285?i=1000544299040"
+        "apple": "https://podcasts.apple.com/podcast/josh-duggar-trial-week-2-recap-iblp-ati-quiverfull/id1525971285?i=1000544299040",
+        "youtube": "https://www.youtube.com/watch?v=Y-EWca-Tvrc"
       }
     },
     {
@@ -2904,9 +3225,11 @@
       "explicit": false,
       "spotifyId": "1PY0JtBfgq8qzd6CLTf6TZ",
       "appleId": 1000544065714,
+      "youTubeId": "6uALqa4CvyE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1PY0JtBfgq8qzd6CLTf6TZ",
-        "apple": "https://podcasts.apple.com/podcast/true-crime-episode-63-the-tragic-tale-of-andrea/id1525971285?i=1000544065714"
+        "apple": "https://podcasts.apple.com/podcast/true-crime-episode-63-the-tragic-tale-of-andrea/id1525971285?i=1000544065714",
+        "youtube": "https://www.youtube.com/watch?v=6uALqa4CvyE"
       }
     },
     {
@@ -2918,13 +3241,15 @@
       "explicit": false,
       "spotifyId": "2c8W9TMQ9KqMT0OK0r0u4F",
       "appleId": 1000543927539,
+      "youTubeId": "3Tt1nTLBEFg",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2c8W9TMQ9KqMT0OK0r0u4F",
-        "apple": "https://podcasts.apple.com/podcast/josh-duggar-trial-week-1-recap-iblp-ati-quiverfull/id1525971285?i=1000543927539"
+        "apple": "https://podcasts.apple.com/podcast/josh-duggar-trial-week-1-recap-iblp-ati-quiverfull/id1525971285?i=1000543927539",
+        "youtube": "https://www.youtube.com/watch?v=3Tt1nTLBEFg"
       }
     },
     {
@@ -2936,9 +3261,11 @@
       "explicit": false,
       "spotifyId": "4RSowkw1ohGr9TqaRKV8dy",
       "appleId": 1000543339486,
+      "youTubeId": "D-aF8nYYn9E",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4RSowkw1ohGr9TqaRKV8dy",
-        "apple": "https://podcasts.apple.com/podcast/ep-62-are-the-satanists-really-that-bad-satanic-panic/id1525971285?i=1000543339486"
+        "apple": "https://podcasts.apple.com/podcast/ep-62-are-the-satanists-really-that-bad-satanic-panic/id1525971285?i=1000543339486",
+        "youtube": "https://www.youtube.com/watch?v=D-aF8nYYn9E"
       }
     },
     {
@@ -2950,9 +3277,11 @@
       "explicit": false,
       "spotifyId": "5udrGkKYei81E5ux3oGWSp",
       "appleId": 1000542681210,
+      "youTubeId": "aIjTJli1Tzs",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5udrGkKYei81E5ux3oGWSp",
-        "apple": "https://podcasts.apple.com/podcast/ep-61-satan-is-our-lord-and-master-satanic-panic-part/id1525971285?i=1000542681210"
+        "apple": "https://podcasts.apple.com/podcast/ep-61-satan-is-our-lord-and-master-satanic-panic-part/id1525971285?i=1000542681210",
+        "youtube": "https://www.youtube.com/watch?v=aIjTJli1Tzs"
       }
     },
     {
@@ -2964,13 +3293,15 @@
       "explicit": false,
       "spotifyId": "40SUtzR3eljjSxrXcpuwg2",
       "appleId": 1000541925960,
+      "youTubeId": "LxcJbuFN4k8",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/40SUtzR3eljjSxrXcpuwg2",
-        "apple": "https://podcasts.apple.com/podcast/ep-60-how-to-break-your-loved-ones-out-of-a/id1525971285?i=1000541925960"
+        "apple": "https://podcasts.apple.com/podcast/ep-60-how-to-break-your-loved-ones-out-of-a/id1525971285?i=1000541925960",
+        "youtube": "https://www.youtube.com/watch?v=LxcJbuFN4k8"
       }
     },
     {
@@ -2982,9 +3313,11 @@
       "explicit": false,
       "spotifyId": "4YqJLWKDQdxKygZe9eYzon",
       "appleId": 1000541464844,
+      "youTubeId": "3pQfsnJwnpM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4YqJLWKDQdxKygZe9eYzon",
-        "apple": "https://podcasts.apple.com/podcast/breaking-news-jim-bob-is-running-for-senate-god-help/id1525971285?i=1000541464844"
+        "apple": "https://podcasts.apple.com/podcast/breaking-news-jim-bob-is-running-for-senate-god-help/id1525971285?i=1000541464844",
+        "youtube": "https://www.youtube.com/watch?v=3pQfsnJwnpM"
       }
     },
     {
@@ -2996,9 +3329,11 @@
       "explicit": false,
       "spotifyId": "1SbwIqVZjccq7erjMTIza8",
       "appleId": 1000541083119,
+      "youTubeId": "vs4DMK4Ijq0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1SbwIqVZjccq7erjMTIza8",
-        "apple": "https://podcasts.apple.com/podcast/ep-59-prohibitive-vaginas-and-songs-that-traumatized/id1525971285?i=1000541083119"
+        "apple": "https://podcasts.apple.com/podcast/ep-59-prohibitive-vaginas-and-songs-that-traumatized/id1525971285?i=1000541083119",
+        "youtube": "https://www.youtube.com/watch?v=vs4DMK4Ijq0"
       }
     },
     {
@@ -3010,13 +3345,15 @@
       "explicit": false,
       "spotifyId": "3ViMPj6eG4pSUZLLFI19RX",
       "appleId": 1000540351204,
+      "youTubeId": "-_9CTiCgMbY",
       "subjects": [
         "Independent Fundamentalist Baptist",
         "Institute In Basic Life Principles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3ViMPj6eG4pSUZLLFI19RX",
-        "apple": "https://podcasts.apple.com/podcast/ep-58-the-dark-side-of-marriage-in/id1525971285?i=1000540351204"
+        "apple": "https://podcasts.apple.com/podcast/ep-58-the-dark-side-of-marriage-in/id1525971285?i=1000540351204",
+        "youtube": "https://www.youtube.com/watch?v=-_9CTiCgMbY"
       }
     },
     {
@@ -3028,9 +3365,11 @@
       "explicit": false,
       "spotifyId": "2lF0HrieZ211UTOsQ4Kkl2",
       "appleId": 1000539463783,
+      "youTubeId": "bynOa9CRyQA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2lF0HrieZ211UTOsQ4Kkl2",
-        "apple": "https://podcasts.apple.com/podcast/ep-57-primer-for-new-listeners-and-review-for-long/id1525971285?i=1000539463783"
+        "apple": "https://podcasts.apple.com/podcast/ep-57-primer-for-new-listeners-and-review-for-long/id1525971285?i=1000539463783",
+        "youtube": "https://www.youtube.com/watch?v=bynOa9CRyQA"
       }
     },
     {
@@ -3042,13 +3381,15 @@
       "explicit": false,
       "spotifyId": "5ShjPj92WbgYctQV0Wz5Zf",
       "appleId": 1000539092417,
+      "youTubeId": "r-z18Tual-g",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ShjPj92WbgYctQV0Wz5Zf",
-        "apple": "https://podcasts.apple.com/podcast/ep-56-doug-phillips-and-the-vision-forum-iblp-ati-quiverfull/id1525971285?i=1000539092417"
+        "apple": "https://podcasts.apple.com/podcast/ep-56-doug-phillips-and-the-vision-forum-iblp-ati-quiverfull/id1525971285?i=1000539092417",
+        "youtube": "https://www.youtube.com/watch?v=r-z18Tual-g"
       }
     },
     {
@@ -3060,9 +3401,11 @@
       "explicit": false,
       "spotifyId": "6gql6ZZFtuESggPJt2f5E4",
       "appleId": 1000538183037,
+      "youTubeId": "SYEO4COaxvI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6gql6ZZFtuESggPJt2f5E4",
-        "apple": "https://podcasts.apple.com/podcast/ep-55-mental-health-does-not-exist-according-to-fundies/id1525971285?i=1000538183037"
+        "apple": "https://podcasts.apple.com/podcast/ep-55-mental-health-does-not-exist-according-to-fundies/id1525971285?i=1000538183037",
+        "youtube": "https://www.youtube.com/watch?v=SYEO4COaxvI"
       }
     },
     {
@@ -3074,13 +3417,15 @@
       "explicit": false,
       "spotifyId": "1pMK1aoxphSjMYHeEh2lFG",
       "appleId": 1000537816829,
+      "youTubeId": "mGPN5DKBCi8",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1pMK1aoxphSjMYHeEh2lFG",
-        "apple": "https://podcasts.apple.com/podcast/josh-duggar-and-kent-hovind-legal-update-the/id1525971285?i=1000537816829"
+        "apple": "https://podcasts.apple.com/podcast/josh-duggar-and-kent-hovind-legal-update-the/id1525971285?i=1000537816829",
+        "youtube": "https://www.youtube.com/watch?v=mGPN5DKBCi8"
       }
     },
     {
@@ -3092,9 +3437,11 @@
       "explicit": false,
       "spotifyId": "0k5OWbqCOUJBaEztuT4qDx",
       "appleId": 1000537445757,
+      "youTubeId": "kDqeplaCWnA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0k5OWbqCOUJBaEztuT4qDx",
-        "apple": "https://podcasts.apple.com/podcast/ep-54-jill-rodrigues-is-extremely-messy-fundies-love/id1525971285?i=1000537445757"
+        "apple": "https://podcasts.apple.com/podcast/ep-54-jill-rodrigues-is-extremely-messy-fundies-love/id1525971285?i=1000537445757",
+        "youtube": "https://www.youtube.com/watch?v=kDqeplaCWnA"
       }
     },
     {
@@ -3106,9 +3453,11 @@
       "explicit": false,
       "spotifyId": "0HNkM1hWcBOyH2A73ZmAKN",
       "appleId": 1000536711854,
+      "youTubeId": "yfPg2uGRrIU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HNkM1hWcBOyH2A73ZmAKN",
-        "apple": "https://podcasts.apple.com/podcast/ep-53-abortion/id1525971285?i=1000536711854"
+        "apple": "https://podcasts.apple.com/podcast/ep-53-abortion/id1525971285?i=1000536711854",
+        "youtube": "https://www.youtube.com/watch?v=yfPg2uGRrIU"
       }
     },
     {
@@ -3120,9 +3469,11 @@
       "explicit": false,
       "spotifyId": "18LtMKhC9keiKTDau4CrjT",
       "appleId": 1000535979265,
+      "youTubeId": "4QS2UohfE44",
       "urls": {
         "spotify": "https://open.spotify.com/episode/18LtMKhC9keiKTDau4CrjT",
-        "apple": "https://podcasts.apple.com/podcast/ep-52-the-high-holidays-5782-theology-judaism/id1525971285?i=1000535979265"
+        "apple": "https://podcasts.apple.com/podcast/ep-52-the-high-holidays-5782-theology-judaism/id1525971285?i=1000535979265",
+        "youtube": "https://www.youtube.com/watch?v=4QS2UohfE44"
       }
     },
     {
@@ -3134,9 +3485,11 @@
       "explicit": false,
       "spotifyId": "2OJNjfKWcWckUklY9im1r5",
       "appleId": 1000535136894,
+      "youTubeId": "BCaB2_OCjWc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2OJNjfKWcWckUklY9im1r5",
-        "apple": "https://podcasts.apple.com/podcast/ep-51-true-crime-doctorb-kent-hovind-stars-on-the/id1525971285?i=1000535136894"
+        "apple": "https://podcasts.apple.com/podcast/ep-51-true-crime-doctorb-kent-hovind-stars-on-the/id1525971285?i=1000535136894",
+        "youtube": "https://www.youtube.com/watch?v=BCaB2_OCjWc"
       }
     },
     {
@@ -3148,9 +3501,11 @@
       "explicit": false,
       "spotifyId": "5b5yvvnftzO9icq2Ytj0Ag",
       "appleId": 1000534422572,
+      "youTubeId": "UfNa1gcj7iA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5b5yvvnftzO9icq2Ytj0Ag",
-        "apple": "https://podcasts.apple.com/podcast/ep-50-doctorb-kent-hovinds-very-scientific-evidence/id1525971285?i=1000534422572"
+        "apple": "https://podcasts.apple.com/podcast/ep-50-doctorb-kent-hovinds-very-scientific-evidence/id1525971285?i=1000534422572",
+        "youtube": "https://www.youtube.com/watch?v=UfNa1gcj7iA"
       }
     },
     {
@@ -3162,9 +3517,11 @@
       "explicit": false,
       "spotifyId": "3EXd0TIw0W1frxFzPvYHWY",
       "appleId": 1000533514293,
+      "youTubeId": "_R6o7W5vkQ8",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3EXd0TIw0W1frxFzPvYHWY",
-        "apple": "https://podcasts.apple.com/podcast/ep-49-back-to-school-special-american-history-education/id1525971285?i=1000533514293"
+        "apple": "https://podcasts.apple.com/podcast/ep-49-back-to-school-special-american-history-education/id1525971285?i=1000533514293",
+        "youtube": "https://www.youtube.com/watch?v=_R6o7W5vkQ8"
       }
     },
     {
@@ -3176,9 +3533,11 @@
       "explicit": false,
       "spotifyId": "14Daz0Bym708e96nGaYxdK",
       "appleId": 1000532778713,
+      "youTubeId": "ZBSSBPVLApk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/14Daz0Bym708e96nGaYxdK",
-        "apple": "https://podcasts.apple.com/podcast/ep-48-back-to-school-special-banned-books-education/id1525971285?i=1000532778713"
+        "apple": "https://podcasts.apple.com/podcast/ep-48-back-to-school-special-banned-books-education/id1525971285?i=1000532778713",
+        "youtube": "https://www.youtube.com/watch?v=ZBSSBPVLApk"
       }
     },
     {
@@ -3190,9 +3549,11 @@
       "explicit": false,
       "spotifyId": "2T9l8bi3aixrMnUQmtYQkS",
       "appleId": 1000532123049,
+      "youTubeId": "gjljgxMM5vQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2T9l8bi3aixrMnUQmtYQkS",
-        "apple": "https://podcasts.apple.com/podcast/ep-47-back-to-school-special-evolution-vs-creationism/id1525971285?i=1000532123049"
+        "apple": "https://podcasts.apple.com/podcast/ep-47-back-to-school-special-evolution-vs-creationism/id1525971285?i=1000532123049",
+        "youtube": "https://www.youtube.com/watch?v=gjljgxMM5vQ"
       }
     },
     {
@@ -3204,9 +3565,11 @@
       "explicit": false,
       "spotifyId": "5Sa1AF62jlAQZEu3GRK67F",
       "appleId": 1000531441208,
+      "youTubeId": "mpFat_Dr2SQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Sa1AF62jlAQZEu3GRK67F",
-        "apple": "https://podcasts.apple.com/podcast/ep-46-one-year-anniversary-feat-rod-stewart/id1525971285?i=1000531441208"
+        "apple": "https://podcasts.apple.com/podcast/ep-46-one-year-anniversary-feat-rod-stewart/id1525971285?i=1000531441208",
+        "youtube": "https://www.youtube.com/watch?v=mpFat_Dr2SQ"
       }
     },
     {
@@ -3218,9 +3581,11 @@
       "explicit": false,
       "spotifyId": "3P31LTSukggHB349YNr6D0",
       "appleId": 1000531056322,
+      "youTubeId": "gfB1UlqzKQ0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3P31LTSukggHB349YNr6D0",
-        "apple": "https://podcasts.apple.com/podcast/homework-edition-back-to-school-special-magic-school-bus/id1525971285?i=1000531056322"
+        "apple": "https://podcasts.apple.com/podcast/homework-edition-back-to-school-special-magic-school-bus/id1525971285?i=1000531056322",
+        "youtube": "https://www.youtube.com/watch?v=gfB1UlqzKQ0"
       }
     },
     {
@@ -3232,9 +3597,11 @@
       "explicit": false,
       "spotifyId": "23W3JV0D7YQkPiLYYk05Lx",
       "appleId": 1000530722571,
+      "youTubeId": "UCLIFaV6GlA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/23W3JV0D7YQkPiLYYk05Lx",
-        "apple": "https://podcasts.apple.com/podcast/ep-45-back-to-school-special-are-dinosaurs-real-education/id1525971285?i=1000530722571"
+        "apple": "https://podcasts.apple.com/podcast/ep-45-back-to-school-special-are-dinosaurs-real-education/id1525971285?i=1000530722571",
+        "youtube": "https://www.youtube.com/watch?v=UCLIFaV6GlA"
       }
     },
     {
@@ -3246,9 +3613,11 @@
       "explicit": false,
       "spotifyId": "4PWm7he6MFzdLCJybyZjaO",
       "appleId": 1000530015604,
+      "youTubeId": "yTLCxwaT0oE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4PWm7he6MFzdLCJybyZjaO",
-        "apple": "https://podcasts.apple.com/podcast/ep-44-listener-questions-gay-blood-ban-hogwarts-houses/id1525971285?i=1000530015604"
+        "apple": "https://podcasts.apple.com/podcast/ep-44-listener-questions-gay-blood-ban-hogwarts-houses/id1525971285?i=1000530015604",
+        "youtube": "https://www.youtube.com/watch?v=yTLCxwaT0oE"
       }
     },
     {
@@ -3260,13 +3629,15 @@
       "explicit": false,
       "spotifyId": "0g2mnoaJVXxgYXEVQcEDNZ",
       "appleId": 1000529311025,
+      "youTubeId": "anV24DJqFwM",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0g2mnoaJVXxgYXEVQcEDNZ",
-        "apple": "https://podcasts.apple.com/podcast/ep-43-bill-gothard-and-the-iblp-part-2-bank-bills/id1525971285?i=1000529311025"
+        "apple": "https://podcasts.apple.com/podcast/ep-43-bill-gothard-and-the-iblp-part-2-bank-bills/id1525971285?i=1000529311025",
+        "youtube": "https://www.youtube.com/watch?v=anV24DJqFwM"
       }
     },
     {
@@ -3278,13 +3649,15 @@
       "explicit": false,
       "spotifyId": "28drMj8Us7visiqFIQXyOe",
       "appleId": 1000528579838,
+      "youTubeId": "Q0sSAkvmJmo",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/28drMj8Us7visiqFIQXyOe",
-        "apple": "https://podcasts.apple.com/podcast/ep-42-bill-gothard-and-the-iblp-part-1-iblp/id1525971285?i=1000528579838"
+        "apple": "https://podcasts.apple.com/podcast/ep-42-bill-gothard-and-the-iblp-part-1-iblp/id1525971285?i=1000528579838",
+        "youtube": "https://www.youtube.com/watch?v=Q0sSAkvmJmo"
       }
     },
     {
@@ -3296,9 +3669,11 @@
       "explicit": false,
       "spotifyId": "0F7qJTAl4YYs0TRYqcoQ4s",
       "appleId": 1000527083976,
+      "youTubeId": "LYXqz3owLoQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0F7qJTAl4YYs0TRYqcoQ4s",
-        "apple": "https://podcasts.apple.com/podcast/ep-41-pride-month-finale-special-leaving-eden-drag/id1525971285?i=1000527083976"
+        "apple": "https://podcasts.apple.com/podcast/ep-41-pride-month-finale-special-leaving-eden-drag/id1525971285?i=1000527083976",
+        "youtube": "https://www.youtube.com/watch?v=LYXqz3owLoQ"
       }
     },
     {
@@ -3310,9 +3685,11 @@
       "explicit": false,
       "spotifyId": "0QbsMzsdJhvUUTG7pgYFEE",
       "appleId": 1000526703245,
+      "youTubeId": "vVUF7qLnC9o",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0QbsMzsdJhvUUTG7pgYFEE",
-        "apple": "https://podcasts.apple.com/podcast/pride-month-special-homework-edition-lady-gaga-lgbtq/id1525971285?i=1000526703245"
+        "apple": "https://podcasts.apple.com/podcast/pride-month-special-homework-edition-lady-gaga-lgbtq/id1525971285?i=1000526703245",
+        "youtube": "https://www.youtube.com/watch?v=vVUF7qLnC9o"
       }
     },
     {
@@ -3324,9 +3701,11 @@
       "explicit": false,
       "spotifyId": "0HiJjaw5qevF2jHwbJRaM6",
       "appleId": 1000526240869,
+      "youTubeId": "aWWffi5Eq20",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0HiJjaw5qevF2jHwbJRaM6",
-        "apple": "https://podcasts.apple.com/podcast/ep-40-pride-month-special-pray-the-gay-away/id1525971285?i=1000526240869"
+        "apple": "https://podcasts.apple.com/podcast/ep-40-pride-month-special-pray-the-gay-away/id1525971285?i=1000526240869",
+        "youtube": "https://www.youtube.com/watch?v=aWWffi5Eq20"
       }
     },
     {
@@ -3338,9 +3717,11 @@
       "explicit": false,
       "spotifyId": "26V1Q3Y49fHBj4WYHppLfP",
       "appleId": 1000525834697,
+      "youTubeId": "cZ-bCX7NC94",
       "urls": {
         "spotify": "https://open.spotify.com/episode/26V1Q3Y49fHBj4WYHppLfP",
-        "apple": "https://podcasts.apple.com/podcast/pride-month-special-reverse-homework-edition-hedwig/id1525971285?i=1000525834697"
+        "apple": "https://podcasts.apple.com/podcast/pride-month-special-reverse-homework-edition-hedwig/id1525971285?i=1000525834697",
+        "youtube": "https://www.youtube.com/watch?v=cZ-bCX7NC94"
       }
     },
     {
@@ -3352,9 +3733,11 @@
       "explicit": false,
       "spotifyId": "7IEX9qSwXpu6qz4DL3n2sP",
       "appleId": 1000525403210,
+      "youTubeId": "M5kPwSw5THU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7IEX9qSwXpu6qz4DL3n2sP",
-        "apple": "https://podcasts.apple.com/podcast/ep-39-pride-month-special-interview-with-evan-jones-lgbtq/id1525971285?i=1000525403210"
+        "apple": "https://podcasts.apple.com/podcast/ep-39-pride-month-special-interview-with-evan-jones-lgbtq/id1525971285?i=1000525403210",
+        "youtube": "https://www.youtube.com/watch?v=M5kPwSw5THU"
       }
     },
     {
@@ -3366,9 +3749,11 @@
       "explicit": false,
       "spotifyId": "1scyzRoUVX9cUDu0iS6nix",
       "appleId": 1000524465334,
+      "youTubeId": "2spebXfcPSs",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1scyzRoUVX9cUDu0iS6nix",
-        "apple": "https://podcasts.apple.com/podcast/ep-38-happy-pride-theology-lgbtq/id1525971285?i=1000524465334"
+        "apple": "https://podcasts.apple.com/podcast/ep-38-happy-pride-theology-lgbtq/id1525971285?i=1000524465334",
+        "youtube": "https://www.youtube.com/watch?v=2spebXfcPSs"
       }
     },
     {
@@ -3380,9 +3765,11 @@
       "explicit": false,
       "spotifyId": "0OBrtJXIvWJgdHHz6ulM8U",
       "appleId": 1000523619473,
+      "youTubeId": "NsFc8D_MwuM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0OBrtJXIvWJgdHHz6ulM8U",
-        "apple": "https://podcasts.apple.com/podcast/ep-37-the-trail-of-blood-where-is-the-foreskin-theology/id1525971285?i=1000523619473"
+        "apple": "https://podcasts.apple.com/podcast/ep-37-the-trail-of-blood-where-is-the-foreskin-theology/id1525971285?i=1000523619473",
+        "youtube": "https://www.youtube.com/watch?v=NsFc8D_MwuM"
       }
     },
     {
@@ -3394,9 +3781,11 @@
       "explicit": false,
       "spotifyId": "4FlWEYJAt6j8Mq2QtGU2vj",
       "appleId": 1000523255302,
+      "youTubeId": "20iUJlCRzVE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/4FlWEYJAt6j8Mq2QtGU2vj",
-        "apple": "https://podcasts.apple.com/podcast/dating-with-a-purpose-a-teen-dating-manual/id1525971285?i=1000523255302"
+        "apple": "https://podcasts.apple.com/podcast/dating-with-a-purpose-a-teen-dating-manual/id1525971285?i=1000523255302",
+        "youtube": "https://www.youtube.com/watch?v=20iUJlCRzVE"
       }
     },
     {
@@ -3408,9 +3797,11 @@
       "explicit": false,
       "spotifyId": "7xBp8ZsTzFrQEYH4crv3oY",
       "appleId": 1000522885396,
+      "youTubeId": "O99L0XxCMhI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7xBp8ZsTzFrQEYH4crv3oY",
-        "apple": "https://podcasts.apple.com/podcast/ep-36-breaking-the-script-the-brokeback-mountain/id1525971285?i=1000522885396"
+        "apple": "https://podcasts.apple.com/podcast/ep-36-breaking-the-script-the-brokeback-mountain/id1525971285?i=1000522885396",
+        "youtube": "https://www.youtube.com/watch?v=O99L0XxCMhI"
       }
     },
     {
@@ -3422,9 +3813,11 @@
       "explicit": false,
       "spotifyId": "5w99E41yJGYvEFy6ZXPwXw",
       "appleId": 1000521978296,
+      "youTubeId": "4fiCNcRi7es",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5w99E41yJGYvEFy6ZXPwXw",
-        "apple": "https://podcasts.apple.com/podcast/ep-35-true-crime-the-story-of-elsa-garcia/id1525971285?i=1000521978296"
+        "apple": "https://podcasts.apple.com/podcast/ep-35-true-crime-the-story-of-elsa-garcia/id1525971285?i=1000521978296",
+        "youtube": "https://www.youtube.com/watch?v=4fiCNcRi7es"
       }
     },
     {
@@ -3436,9 +3829,11 @@
       "explicit": false,
       "spotifyId": "1bhw6AZoOpsyKmVDy6AahV",
       "appleId": 1000521554331,
+      "youTubeId": "ftPjaYmQTHg",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1bhw6AZoOpsyKmVDy6AahV",
-        "apple": "https://podcasts.apple.com/podcast/homework-edition-south-park-bigger-longer-and-uncut/id1525971285?i=1000521554331"
+        "apple": "https://podcasts.apple.com/podcast/homework-edition-south-park-bigger-longer-and-uncut/id1525971285?i=1000521554331",
+        "youtube": "https://www.youtube.com/watch?v=ftPjaYmQTHg"
       }
     },
     {
@@ -3450,9 +3845,11 @@
       "explicit": false,
       "spotifyId": "2q2kfZ8RPPRm581ddiqfPM",
       "appleId": 1000521057933,
+      "youTubeId": "QeDB-JCg6SU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2q2kfZ8RPPRm581ddiqfPM",
-        "apple": "https://podcasts.apple.com/podcast/ep-34-chick-tracts-jack-chicks-bathroom-reading-material/id1525971285?i=1000521057933"
+        "apple": "https://podcasts.apple.com/podcast/ep-34-chick-tracts-jack-chicks-bathroom-reading-material/id1525971285?i=1000521057933",
+        "youtube": "https://www.youtube.com/watch?v=QeDB-JCg6SU"
       }
     },
     {
@@ -3464,13 +3861,15 @@
       "explicit": false,
       "spotifyId": "1EFXQgSgEslQP4CsfFACCD",
       "appleId": 1000520536324,
+      "youTubeId": "ikCXcHS7GqY",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1EFXQgSgEslQP4CsfFACCD",
-        "apple": "https://podcasts.apple.com/podcast/breaking-news-josh-duggar-the-pest-arrested-pt-2-iblp/id1525971285?i=1000520536324"
+        "apple": "https://podcasts.apple.com/podcast/breaking-news-josh-duggar-the-pest-arrested-pt-2-iblp/id1525971285?i=1000520536324",
+        "youtube": "https://www.youtube.com/watch?v=ikCXcHS7GqY"
       }
     },
     {
@@ -3482,12 +3881,14 @@
       "explicit": false,
       "spotifyId": "4yquacg6uTMExVvE938Laq",
       "appleId": 1000519820549,
+      "youTubeId": "LYfBiC2s-H8",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4yquacg6uTMExVvE938Laq",
-        "apple": "https://podcasts.apple.com/podcast/ep-33-mothers-day-cult-stories/id1525971285?i=1000519820549"
+        "apple": "https://podcasts.apple.com/podcast/ep-33-mothers-day-cult-stories/id1525971285?i=1000519820549",
+        "youtube": "https://www.youtube.com/watch?v=LYfBiC2s-H8"
       }
     },
     {
@@ -3499,13 +3900,15 @@
       "explicit": false,
       "spotifyId": "0aJzrzxqFrzfTr7ofipPPQ",
       "appleId": 1000519558773,
+      "youTubeId": "hy8dgR1HfgA",
       "subjects": [
         "Institute In Basic Life Principles",
         "Quiverfull"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0aJzrzxqFrzfTr7ofipPPQ",
-        "apple": "https://podcasts.apple.com/podcast/breaking-news-the-pest-arrested-iblp-ati-quiverfull/id1525971285?i=1000519558773"
+        "apple": "https://podcasts.apple.com/podcast/breaking-news-the-pest-arrested-iblp-ati-quiverfull/id1525971285?i=1000519558773",
+        "youtube": "https://www.youtube.com/watch?v=hy8dgR1HfgA"
       }
     },
     {
@@ -3517,9 +3920,11 @@
       "explicit": false,
       "spotifyId": "1sMVN2mfhrj3WVDhM2qcKh",
       "appleId": 1000518623094,
+      "youTubeId": "m18qBd_nOwQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1sMVN2mfhrj3WVDhM2qcKh",
-        "apple": "https://podcasts.apple.com/podcast/ep-32-youths-love-the-st-louis-cardinals-baptish-to/id1525971285?i=1000518623094"
+        "apple": "https://podcasts.apple.com/podcast/ep-32-youths-love-the-st-louis-cardinals-baptish-to/id1525971285?i=1000518623094",
+        "youtube": "https://www.youtube.com/watch?v=m18qBd_nOwQ"
       }
     },
     {
@@ -3531,9 +3936,11 @@
       "explicit": false,
       "spotifyId": "2IhdOoosyz1K4czZ9v5rhb",
       "appleId": 1000517710075,
+      "youTubeId": "x3JoJx7ezHQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2IhdOoosyz1K4czZ9v5rhb",
-        "apple": "https://podcasts.apple.com/podcast/ep-31-steven-anderson-and-the-nifb-part-2/id1525971285?i=1000517710075"
+        "apple": "https://podcasts.apple.com/podcast/ep-31-steven-anderson-and-the-nifb-part-2/id1525971285?i=1000517710075",
+        "youtube": "https://www.youtube.com/watch?v=x3JoJx7ezHQ"
       }
     },
     {
@@ -3545,9 +3952,11 @@
       "explicit": false,
       "spotifyId": "3c6At5tqqwAl1fA13XRmEX",
       "appleId": 1000516748309,
+      "youTubeId": "DEbi5CJ5AfQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3c6At5tqqwAl1fA13XRmEX",
-        "apple": "https://podcasts.apple.com/podcast/ep-30-steven-anderson-and-the-nifb-part-1-tempe/id1525971285?i=1000516748309"
+        "apple": "https://podcasts.apple.com/podcast/ep-30-steven-anderson-and-the-nifb-part-1-tempe/id1525971285?i=1000516748309",
+        "youtube": "https://www.youtube.com/watch?v=DEbi5CJ5AfQ"
       }
     },
     {
@@ -3559,9 +3968,11 @@
       "explicit": false,
       "spotifyId": "3we6ZC6f65pfnsN6PIqh7C",
       "appleId": 1000515786573,
+      "youTubeId": "52l9P1zPHaM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3we6ZC6f65pfnsN6PIqh7C",
-        "apple": "https://podcasts.apple.com/podcast/ep-29-easter-special-the-passion-of-the-christ-2/id1525971285?i=1000515786573"
+        "apple": "https://podcasts.apple.com/podcast/ep-29-easter-special-the-passion-of-the-christ-2/id1525971285?i=1000515786573",
+        "youtube": "https://www.youtube.com/watch?v=52l9P1zPHaM"
       }
     },
     {
@@ -3573,9 +3984,11 @@
       "explicit": false,
       "spotifyId": "3bbtgr978t8XsPSfb5C14v",
       "appleId": 1000514822863,
+      "youTubeId": "SUtZpLvS3J0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3bbtgr978t8XsPSfb5C14v",
-        "apple": "https://podcasts.apple.com/podcast/ep-28-spring-program-part-2-the-big-day-goldfish/id1525971285?i=1000514822863"
+        "apple": "https://podcasts.apple.com/podcast/ep-28-spring-program-part-2-the-big-day-goldfish/id1525971285?i=1000514822863",
+        "youtube": "https://www.youtube.com/watch?v=SUtZpLvS3J0"
       }
     },
     {
@@ -3587,9 +4000,11 @@
       "explicit": false,
       "spotifyId": "5CmFynZauu8Q0bCVg6OHbA",
       "appleId": 1000513911101,
+      "youTubeId": "i4xaLkiNToI",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5CmFynZauu8Q0bCVg6OHbA",
-        "apple": "https://podcasts.apple.com/podcast/ep-27-spring-program-part-1-childhood-trauma-and/id1525971285?i=1000513911101"
+        "apple": "https://podcasts.apple.com/podcast/ep-27-spring-program-part-1-childhood-trauma-and/id1525971285?i=1000513911101",
+        "youtube": "https://www.youtube.com/watch?v=i4xaLkiNToI"
       }
     },
     {
@@ -3601,9 +4016,11 @@
       "explicit": false,
       "spotifyId": "3mIhkcgFWyTNIBVjKY9bQ2",
       "appleId": 1000513021395,
+      "youTubeId": "I29GjnlKBks",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3mIhkcgFWyTNIBVjKY9bQ2",
-        "apple": "https://podcasts.apple.com/podcast/ep-26-fake-true-crime-sadielock-holmes-nancy-jew-and/id1525971285?i=1000513021395"
+        "apple": "https://podcasts.apple.com/podcast/ep-26-fake-true-crime-sadielock-holmes-nancy-jew-and/id1525971285?i=1000513021395",
+        "youtube": "https://www.youtube.com/watch?v=I29GjnlKBks"
       }
     },
     {
@@ -3615,9 +4032,11 @@
       "explicit": false,
       "spotifyId": "3wOq2ui8re1scQbnhYUQbB",
       "appleId": 1000512042548,
+      "youTubeId": "pgskyKFs9S0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3wOq2ui8re1scQbnhYUQbB",
-        "apple": "https://podcasts.apple.com/podcast/ep-25-true-crime-my-personal-finance-teacher-was-running/id1525971285?i=1000512042548"
+        "apple": "https://podcasts.apple.com/podcast/ep-25-true-crime-my-personal-finance-teacher-was-running/id1525971285?i=1000512042548",
+        "youtube": "https://www.youtube.com/watch?v=pgskyKFs9S0"
       }
     },
     {
@@ -3629,9 +4048,11 @@
       "explicit": false,
       "spotifyId": "2SnVuAc7y1HCQ9KmpJXPRT",
       "appleId": 1000511083978,
+      "youTubeId": "8Laywqq5hOA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2SnVuAc7y1HCQ9KmpJXPRT",
-        "apple": "https://podcasts.apple.com/podcast/ep-24-whats-with-all-the-questions-listener-questions/id1525971285?i=1000511083978"
+        "apple": "https://podcasts.apple.com/podcast/ep-24-whats-with-all-the-questions-listener-questions/id1525971285?i=1000511083978",
+        "youtube": "https://www.youtube.com/watch?v=8Laywqq5hOA"
       }
     },
     {
@@ -3643,9 +4064,11 @@
       "explicit": false,
       "spotifyId": "2nEZHc3ZMh5e3I5zCOhCtv",
       "appleId": 1000510132235,
+      "youTubeId": "CqGTEoSz5u0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2nEZHc3ZMh5e3I5zCOhCtv",
-        "apple": "https://podcasts.apple.com/podcast/ep-23-called-to-preach-theology/id1525971285?i=1000510132235"
+        "apple": "https://podcasts.apple.com/podcast/ep-23-called-to-preach-theology/id1525971285?i=1000510132235",
+        "youtube": "https://www.youtube.com/watch?v=CqGTEoSz5u0"
       }
     },
     {
@@ -3657,9 +4080,11 @@
       "explicit": false,
       "spotifyId": "51j8PDFBlAbkKSIsGwhpWh",
       "appleId": 1000509069846,
+      "youTubeId": "nlK2Xv0gNaY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/51j8PDFBlAbkKSIsGwhpWh",
-        "apple": "https://podcasts.apple.com/podcast/ep-22-true-crime-living-by-faith-the-legend-of/id1525971285?i=1000509069846"
+        "apple": "https://podcasts.apple.com/podcast/ep-22-true-crime-living-by-faith-the-legend-of/id1525971285?i=1000509069846",
+        "youtube": "https://www.youtube.com/watch?v=nlK2Xv0gNaY"
       }
     },
     {
@@ -3671,9 +4096,11 @@
       "explicit": false,
       "spotifyId": "3nIDYtukWo9l5bNmMrGxCu",
       "appleId": 1000508161312,
+      "youTubeId": "UCw8GqBV2CM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3nIDYtukWo9l5bNmMrGxCu",
-        "apple": "https://podcasts.apple.com/podcast/ep-21-valentines-day-banquet-aka-the-baptist-dundies/id1525971285?i=1000508161312"
+        "apple": "https://podcasts.apple.com/podcast/ep-21-valentines-day-banquet-aka-the-baptist-dundies/id1525971285?i=1000508161312",
+        "youtube": "https://www.youtube.com/watch?v=UCw8GqBV2CM"
       }
     },
     {
@@ -3699,9 +4126,11 @@
       "explicit": false,
       "spotifyId": "5Lq5fHqkJbix6Wo2MVq0Y5",
       "appleId": 1000507268138,
+      "youTubeId": "Jkc4FkX7NRk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Lq5fHqkJbix6Wo2MVq0Y5",
-        "apple": "https://podcasts.apple.com/podcast/ep-20-i-am-a-girl-defined-by-my-sexual-purity-and/id1525971285?i=1000507268138"
+        "apple": "https://podcasts.apple.com/podcast/ep-20-i-am-a-girl-defined-by-my-sexual-purity-and/id1525971285?i=1000507268138",
+        "youtube": "https://www.youtube.com/watch?v=Jkc4FkX7NRk"
       }
     },
     {
@@ -3713,9 +4142,11 @@
       "explicit": false,
       "spotifyId": "6xkNoIGQmp7qkxKTKIcqtD",
       "appleId": 1000506853658,
+      "youTubeId": "UYszH3091A0",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6xkNoIGQmp7qkxKTKIcqtD",
-        "apple": "https://podcasts.apple.com/podcast/reverse-homework-edition-sheffey-movie-review-theology/id1525971285?i=1000506853658"
+        "apple": "https://podcasts.apple.com/podcast/reverse-homework-edition-sheffey-movie-review-theology/id1525971285?i=1000506853658",
+        "youtube": "https://www.youtube.com/watch?v=UYszH3091A0"
       }
     },
     {
@@ -3727,9 +4158,11 @@
       "explicit": false,
       "spotifyId": "6VjQdwrxxpI64nHMXhSfdq",
       "appleId": 1000506468183,
+      "youTubeId": "BiAWcOSGNiA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VjQdwrxxpI64nHMXhSfdq",
-        "apple": "https://podcasts.apple.com/podcast/ep-19-bottoms-up-and-the-devil-laughs-monster/id1525971285?i=1000506468183"
+        "apple": "https://podcasts.apple.com/podcast/ep-19-bottoms-up-and-the-devil-laughs-monster/id1525971285?i=1000506468183",
+        "youtube": "https://www.youtube.com/watch?v=BiAWcOSGNiA"
       }
     },
     {
@@ -3755,9 +4188,11 @@
       "explicit": false,
       "spotifyId": "6fNzQNKwrF5BrWfxzle3ia",
       "appleId": 1000505627370,
+      "youTubeId": "hY65qcRMCXk",
       "urls": {
         "spotify": "https://open.spotify.com/episode/6fNzQNKwrF5BrWfxzle3ia",
-        "apple": "https://podcasts.apple.com/podcast/ep-18-god-honoring-sex-playlist-cult-music/id1525971285?i=1000505627370"
+        "apple": "https://podcasts.apple.com/podcast/ep-18-god-honoring-sex-playlist-cult-music/id1525971285?i=1000505627370",
+        "youtube": "https://www.youtube.com/watch?v=hY65qcRMCXk"
       }
     },
     {
@@ -3769,9 +4204,11 @@
       "explicit": false,
       "spotifyId": "74VaFvOaTpvrppn9JsDQO9",
       "appleId": 1000505344270,
+      "youTubeId": "PuCrfolUP9s",
       "urls": {
         "spotify": "https://open.spotify.com/episode/74VaFvOaTpvrppn9JsDQO9",
-        "apple": "https://podcasts.apple.com/podcast/homework-edition-sex-and-the-city/id1525971285?i=1000505344270"
+        "apple": "https://podcasts.apple.com/podcast/homework-edition-sex-and-the-city/id1525971285?i=1000505344270",
+        "youtube": "https://www.youtube.com/watch?v=PuCrfolUP9s"
       }
     },
     {
@@ -3783,9 +4220,11 @@
       "explicit": false,
       "spotifyId": "2PHtVxO6Q2bcBwLTwhshBh",
       "appleId": 1000504946804,
+      "youTubeId": "rPhi4tq-xuQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2PHtVxO6Q2bcBwLTwhshBh",
-        "apple": "https://podcasts.apple.com/podcast/ep-17-its-almost-as-if-weve-heard-this-story-before/id1525971285?i=1000504946804"
+        "apple": "https://podcasts.apple.com/podcast/ep-17-its-almost-as-if-weve-heard-this-story-before/id1525971285?i=1000504946804",
+        "youtube": "https://www.youtube.com/watch?v=rPhi4tq-xuQ"
       }
     },
     {
@@ -3797,9 +4236,11 @@
       "explicit": false,
       "spotifyId": "2YDZo3H5gl4mUiM6EG2yKA",
       "appleId": 1000504585918,
+      "youTubeId": "EjeOH3Mq7iE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2YDZo3H5gl4mUiM6EG2yKA",
-        "apple": "https://podcasts.apple.com/podcast/reverse-homework-edition-strypers-in-god-we-trust/id1525971285?i=1000504585918"
+        "apple": "https://podcasts.apple.com/podcast/reverse-homework-edition-strypers-in-god-we-trust/id1525971285?i=1000504585918",
+        "youtube": "https://www.youtube.com/watch?v=EjeOH3Mq7iE"
       }
     },
     {
@@ -3811,9 +4252,11 @@
       "explicit": false,
       "spotifyId": "44osZCWg5wLw3UQGYVu7zx",
       "appleId": 1000504270256,
+      "youTubeId": "qmPzNaZSA2c",
       "urls": {
         "spotify": "https://open.spotify.com/episode/44osZCWg5wLw3UQGYVu7zx",
-        "apple": "https://podcasts.apple.com/podcast/ep-16-jinger-with-a-j-and-other-atrocities-the-duggars/id1525971285?i=1000504270256"
+        "apple": "https://podcasts.apple.com/podcast/ep-16-jinger-with-a-j-and-other-atrocities-the-duggars/id1525971285?i=1000504270256",
+        "youtube": "https://www.youtube.com/watch?v=qmPzNaZSA2c"
       }
     },
     {
@@ -3825,12 +4268,14 @@
       "explicit": false,
       "spotifyId": "66rzYwx8JGh7Oho0hTn6WO",
       "appleId": 1000502433369,
+      "youTubeId": "ZlK8tl3Nlhg",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/66rzYwx8JGh7Oho0hTn6WO",
-        "apple": "https://podcasts.apple.com/podcast/ep-15-the-loch-ness-monster-is-actually-a-dinosaur/id1525971285?i=1000502433369"
+        "apple": "https://podcasts.apple.com/podcast/ep-15-the-loch-ness-monster-is-actually-a-dinosaur/id1525971285?i=1000502433369",
+        "youtube": "https://www.youtube.com/watch?v=ZlK8tl3Nlhg"
       }
     },
     {
@@ -3842,12 +4287,14 @@
       "explicit": false,
       "spotifyId": "0JAJm3YDq677I0cBSw30N3",
       "appleId": 1000501929649,
+      "youTubeId": "aLswNg3zDtY",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0JAJm3YDq677I0cBSw30N3",
-        "apple": "https://podcasts.apple.com/podcast/ep-14-new-allegations-against-david-hyles-arrestdavidhyles/id1525971285?i=1000501929649"
+        "apple": "https://podcasts.apple.com/podcast/ep-14-new-allegations-against-david-hyles-arrestdavidhyles/id1525971285?i=1000501929649",
+        "youtube": "https://www.youtube.com/watch?v=aLswNg3zDtY"
       }
     },
     {
@@ -3859,12 +4306,14 @@
       "explicit": false,
       "spotifyId": "0L8SIWuzGXqPgRr0PiO6UL",
       "appleId": 1000501694897,
+      "youTubeId": "6hinmqvmpEg",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0L8SIWuzGXqPgRr0PiO6UL",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-the-ifb-connection-to-the-killing-of-breonna-taylor/id1525971285?i=1000501694897"
+        "apple": "https://podcasts.apple.com/podcast/ep-13-the-ifb-connection-to-the-killing-of-breonna-taylor/id1525971285?i=1000501694897",
+        "youtube": "https://www.youtube.com/watch?v=6hinmqvmpEg"
       }
     },
     {
@@ -3890,9 +4339,11 @@
       "explicit": false,
       "spotifyId": "0Q9FdKWH8k6XyINQLQwqB6",
       "appleId": 1000500042155,
+      "youTubeId": "6aEchyLPM2g",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Q9FdKWH8k6XyINQLQwqB6",
-        "apple": "https://podcasts.apple.com/podcast/ep-11-dont-you-dare-have-a-christian-seder-theology-judaism/id1525971285?i=1000500042155"
+        "apple": "https://podcasts.apple.com/podcast/ep-11-dont-you-dare-have-a-christian-seder-theology-judaism/id1525971285?i=1000500042155",
+        "youtube": "https://www.youtube.com/watch?v=6aEchyLPM2g"
       }
     },
     {
@@ -3904,9 +4355,11 @@
       "explicit": false,
       "spotifyId": "624Dn7mEmK7W9wRMUMTlnV",
       "appleId": 1000499331547,
+      "youTubeId": "nVSd2onskFQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/624Dn7mEmK7W9wRMUMTlnV",
-        "apple": "https://podcasts.apple.com/podcast/reverse-homework-edition-hac-tour-tapes-ifb-music/id1525971285?i=1000499331547"
+        "apple": "https://podcasts.apple.com/podcast/reverse-homework-edition-hac-tour-tapes-ifb-music/id1525971285?i=1000499331547",
+        "youtube": "https://www.youtube.com/watch?v=nVSd2onskFQ"
       }
     },
     {
@@ -3918,12 +4371,14 @@
       "explicit": false,
       "spotifyId": "2eqppB6YPywZQp4uVKFXZN",
       "appleId": 1000498949956,
+      "youTubeId": "_ZMrS7Zz1Qk",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2eqppB6YPywZQp4uVKFXZN",
-        "apple": "https://podcasts.apple.com/podcast/ep-10-the-prophetesses-erasure-of-women-from/id1525971285?i=1000498949956"
+        "apple": "https://podcasts.apple.com/podcast/ep-10-the-prophetesses-erasure-of-women-from/id1525971285?i=1000498949956",
+        "youtube": "https://www.youtube.com/watch?v=_ZMrS7Zz1Qk"
       }
     },
     {
@@ -3949,9 +4404,11 @@
       "explicit": false,
       "spotifyId": "0VIR6cVwf0CDLxccsQtXN0",
       "appleId": 1000497894189,
+      "youTubeId": "oY88jgOz0EE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0VIR6cVwf0CDLxccsQtXN0",
-        "apple": "https://podcasts.apple.com/podcast/remastered-ep-9-how-sadie-got-out-the-side-hug-from/id1525971285?i=1000497894189"
+        "apple": "https://podcasts.apple.com/podcast/remastered-ep-9-how-sadie-got-out-the-side-hug-from/id1525971285?i=1000497894189",
+        "youtube": "https://www.youtube.com/watch?v=oY88jgOz0EE"
       }
     },
     {
@@ -3963,9 +4420,11 @@
       "explicit": false,
       "spotifyId": "1WO1lnO0KUQXbVvFvJUkxG",
       "appleId": 1000496903298,
+      "youTubeId": "HWfvfx3NpLs",
       "urls": {
         "spotify": "https://open.spotify.com/episode/1WO1lnO0KUQXbVvFvJUkxG",
-        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000496903298"
+        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000496903298",
+        "youtube": "https://www.youtube.com/watch?v=HWfvfx3NpLs"
       }
     },
     {
@@ -3991,9 +4450,11 @@
       "explicit": false,
       "spotifyId": "3tnJNjRuvBLPfywNiLojnh",
       "appleId": 1000496211862,
+      "youTubeId": "kQ1bJ_ei1LY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3tnJNjRuvBLPfywNiLojnh",
-        "apple": "https://podcasts.apple.com/podcast/remastered-ep-8-scare-them-to-jesus-christian-haunted/id1525971285?i=1000496211862"
+        "apple": "https://podcasts.apple.com/podcast/remastered-ep-8-scare-them-to-jesus-christian-haunted/id1525971285?i=1000496211862",
+        "youtube": "https://www.youtube.com/watch?v=kQ1bJ_ei1LY"
       }
     },
     {
@@ -4005,12 +4466,14 @@
       "explicit": false,
       "spotifyId": "4IkJblfqPfdfaGlPX4KwtI",
       "appleId": 1000495378712,
+      "youTubeId": "h1fl8FFnRHQ",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4IkJblfqPfdfaGlPX4KwtI",
-        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000495378712"
+        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000495378712",
+        "youtube": "https://www.youtube.com/watch?v=h1fl8FFnRHQ"
       }
     },
     {
@@ -4036,9 +4499,11 @@
       "explicit": false,
       "spotifyId": "2s8d9w0drb2MEk3PEruTL7",
       "appleId": 1000494555383,
+      "youTubeId": "g9BBTC6lvrA",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2s8d9w0drb2MEk3PEruTL7",
-        "apple": "https://podcasts.apple.com/podcast/remastered-ep-7-jesus-was-the-original-fidget-spinner/id1525971285?i=1000494555383"
+        "apple": "https://podcasts.apple.com/podcast/remastered-ep-7-jesus-was-the-original-fidget-spinner/id1525971285?i=1000494555383",
+        "youtube": "https://www.youtube.com/watch?v=g9BBTC6lvrA"
       }
     },
     {
@@ -4050,9 +4515,11 @@
       "explicit": false,
       "spotifyId": "2bKsGSmI7jE57UYouxNhm3",
       "appleId": 1000492919347,
+      "youTubeId": "Gp0C7abbL1w",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2bKsGSmI7jE57UYouxNhm3",
-        "apple": "https://podcasts.apple.com/podcast/remastered-ep-6-what-is-a-life-verse-biblical/id1525971285?i=1000492919347"
+        "apple": "https://podcasts.apple.com/podcast/remastered-ep-6-what-is-a-life-verse-biblical/id1525971285?i=1000492919347",
+        "youtube": "https://www.youtube.com/watch?v=Gp0C7abbL1w"
       }
     },
     {
@@ -4064,9 +4531,11 @@
       "explicit": false,
       "spotifyId": "3itz8PSnzEPQ8TFeANk8Hb",
       "appleId": 1000493742354,
+      "youTubeId": "0ymDfZJiIKc",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3itz8PSnzEPQ8TFeANk8Hb",
-        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000493742354"
+        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000493742354",
+        "youtube": "https://www.youtube.com/watch?v=0ymDfZJiIKc"
       }
     },
     {
@@ -4078,9 +4547,11 @@
       "explicit": false,
       "spotifyId": "0qSCTWneFtRhjGsZAutHqe",
       "appleId": 1000492083125,
+      "youTubeId": "SrWFJi0LMCE",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0qSCTWneFtRhjGsZAutHqe",
-        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000492083125"
+        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000492083125",
+        "youtube": "https://www.youtube.com/watch?v=SrWFJi0LMCE"
       }
     },
     {
@@ -4092,9 +4563,11 @@
       "explicit": false,
       "spotifyId": "2IDdLxUfx5xvRWLBYHLzTU",
       "appleId": 1000490434161,
+      "youTubeId": "pQBUHluy7CY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2IDdLxUfx5xvRWLBYHLzTU",
-        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000490434161"
+        "apple": "https://podcasts.apple.com/podcast/remastered-true-crime-first-family-of-fundamentalism/id1525971285?i=1000490434161",
+        "youtube": "https://www.youtube.com/watch?v=pQBUHluy7CY"
       }
     },
     {
@@ -4106,9 +4579,11 @@
       "explicit": false,
       "spotifyId": "78GsSieMU7232Cihcp8e0i",
       "appleId": 1000489716004,
+      "youTubeId": "4MO_NXe8DpY",
       "urls": {
         "spotify": "https://open.spotify.com/episode/78GsSieMU7232Cihcp8e0i",
-        "apple": "https://podcasts.apple.com/podcast/ep-4-what-if-he-drinks-mountain-moo-dating-and/id1525971285?i=1000489716004"
+        "apple": "https://podcasts.apple.com/podcast/ep-4-what-if-he-drinks-mountain-moo-dating-and/id1525971285?i=1000489716004",
+        "youtube": "https://www.youtube.com/watch?v=4MO_NXe8DpY"
       }
     },
     {
@@ -4120,9 +4595,11 @@
       "explicit": false,
       "spotifyId": "5CAyqtK1QCjeDvQ2xmtJkr",
       "appleId": 1000489074848,
+      "youTubeId": "cEx4QSGkweQ",
       "urls": {
         "spotify": "https://open.spotify.com/episode/5CAyqtK1QCjeDvQ2xmtJkr",
-        "apple": "https://podcasts.apple.com/podcast/ep-3-school-rules-welcome-to-cult-college-remastered/id1525971285?i=1000489074848"
+        "apple": "https://podcasts.apple.com/podcast/ep-3-school-rules-welcome-to-cult-college-remastered/id1525971285?i=1000489074848",
+        "youtube": "https://www.youtube.com/watch?v=cEx4QSGkweQ"
       }
     },
     {
@@ -4134,9 +4611,11 @@
       "explicit": false,
       "spotifyId": "2v7LwC12b1E5msBMvabpnU",
       "appleId": 1000488454783,
+      "youTubeId": "rxxCsokBEcM",
       "urls": {
         "spotify": "https://open.spotify.com/episode/2v7LwC12b1E5msBMvabpnU",
-        "apple": "https://podcasts.apple.com/podcast/ep-2-rock-n-roll-is-the-devils-music-remastered/id1525971285?i=1000488454783"
+        "apple": "https://podcasts.apple.com/podcast/ep-2-rock-n-roll-is-the-devils-music-remastered/id1525971285?i=1000488454783",
+        "youtube": "https://www.youtube.com/watch?v=rxxCsokBEcM"
       }
     },
     {
@@ -4148,12 +4627,14 @@
       "explicit": false,
       "spotifyId": "4SApetORzAVpouGENIW89H",
       "appleId": 1000487771332,
+      "youTubeId": "klJou0KULik",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4SApetORzAVpouGENIW89H",
-        "apple": "https://podcasts.apple.com/podcast/ep-1-what-makes-a-cult-remastered-fundamentalism/id1525971285?i=1000487771332"
+        "apple": "https://podcasts.apple.com/podcast/ep-1-what-makes-a-cult-remastered-fundamentalism/id1525971285?i=1000487771332",
+        "youtube": "https://www.youtube.com/watch?v=klJou0KULik"
       }
     },
     {

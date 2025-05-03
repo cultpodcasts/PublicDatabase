@@ -4,7 +4,42 @@
   "name": "Escaping NXIVM",
   "spotifyId": "0UU1CJt7vnJhUouy355qhM",
   "appleId": 1527772333,
+  "youTubeChannelId": "UC8rLel5fzQV-pN7pUOF31gQ",
+  "youTubePlaylistId": "PL36GQAccexbzLm-eb2KEe6PPkjRkl4lWY",
   "episodes": [
+    {
+      "id": "29c43cee-6929-4742-8490-50e6cc5df203",
+      "title": "Bonus Episode 2: The Psychology of Joining and Leaving a Cult",
+      "description": "Josh speaks to Alexandra Stein, an expert on the psychology of joining and leaving ideologically extremist groups. Stein is a cult survivor and author of \u0022Terror, Love and Brainwashing: Attachment in cults and totalitarian systems\u0022.\n\n\nAbout Escaping NXIVM: NXIVM calls itself a humanitarian community. Experts call it a cult. Uncover: Escaping NXIVM is an investigative podcast series about the group, its leader Keith Raniere and one woman\u0027s journey to get out. \n\n\uD83C\uDFA7 More Escaping NXIVM episodes: https://www.youtube.com/playlist?list=PLuMdLmjdG8dfyp_8268yNFa_0mgFV8plc\n\u2728 Like this podcast? You might like Crime Story. Listen here https://www.youtube.com/playlist?list=PLuMdLmjdG8dfrpU_PKftMAFxzenopipsO\n\uD83D\uDC49 Subscribe for more: https://www.youtube.com/channel/UC8rLel5fzQV-pN7pUOF31gQ?sub_confirmation=1\n\nThis podcast is part of the CBC Podcasts family. Find this podcast and others at https://cbc.ca/podcasts\n\nThank you for listening",
+      "release": "2023-11-08T15:15:46Z",
+      "duration": "00:21:33",
+      "explicit": false,
+      "youTubeId": "uCeZG3Pmvak",
+      "subjects": [
+        "Cult-Expert",
+        "Psychology",
+        "Cult Psychology",
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=uCeZG3Pmvak"
+      }
+    },
+    {
+      "id": "b54a71c1-8c9a-4d72-9836-3be1050f9d2c",
+      "title": "Bonus Episode 1: The Fright Experiments | Escaping NXIVM",
+      "description": "Jennifer Kobelt \u2014 Sarah Edmondson\u0027s former assistant in NXIVM \u2014 tells her story of joining NXIVM at a moment of crisis in her life and being involved in the group\u2019s so-called \u0022fright study.\u201D\n\n\nAbout Escaping NXIVM: NXIVM calls itself a humanitarian community. Experts call it a cult. Uncover: Escaping NXIVM is an investigative podcast series about the group, its leader Keith Raniere and one woman\u0027s journey to get out. \n\n\uD83C\uDFA7 More Escaping NXIVM episodes: https://www.youtube.com/playlist?list=PLuMdLmjdG8dfyp_8268yNFa_0mgFV8plc\n\u2728 Like this podcast? You might like Crime Story. Listen here https://www.youtube.com/playlist?list=PLuMdLmjdG8dfrpU_PKftMAFxzenopipsO\n\uD83D\uDC49 Subscribe for more: https://www.youtube.com/channel/UC8rLel5fzQV-pN7pUOF31gQ?sub_confirmation=1\n\nThis podcast is part of the CBC Podcasts family. Find this podcast and others at https://cbc.ca/podcasts\n\nThank you for listening",
+      "release": "2023-11-08T15:15:46Z",
+      "duration": "00:37:02",
+      "explicit": false,
+      "youTubeId": "tduBDMy6BGk",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tduBDMy6BGk"
+      }
+    },
     {
       "id": "937303c0-b5f9-4e8a-8c82-7826c3c6e954",
       "title": "A Conversation With Sarah Edmondson \u0026 Anthony Ames About Escaping NXIVM \u0026 Mental Health: Sickboy Podcast",
@@ -40,6 +75,26 @@
       }
     },
     {
+      "id": "f73c875e-2968-485b-b86e-b970282625a7",
+      "title": "Episode 1: The Branding",
+      "description": "Sarah Edmondson is a high-level member of a self-help group called NXIVM, but an invitation to join a secret women\u0027s group called DOS leads her to do something she later regrets.",
+      "release": "2018-09-04T04:08:00Z",
+      "duration": "00:36:54.7650000",
+      "explicit": true,
+      "spotifyId": "7EI30aRxUUu7132gz5nEPQ",
+      "appleId": 1000488492474,
+      "youTubeId": "3EizAM8usUE",
+      "subjects": [
+        "NXIVM",
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7EI30aRxUUu7132gz5nEPQ",
+        "apple": "https://podcasts.apple.com/podcast/episode-1-the-branding/id1527772333?i=1000488492474",
+        "youtube": "https://www.youtube.com/watch?v=3EizAM8usUE"
+      }
+    },
+    {
       "id": "48c5ae0a-aff8-4631-b678-787752ad0fe4",
       "title": "Episode 7: The Reckoning",
       "description": "Sarah faces criticism about her role in NXIVM and tries to come to terms with the 12 years she spent as a high-level member of the group.",
@@ -48,12 +103,14 @@
       "explicit": true,
       "spotifyId": "5ZSTmsoBKsOUCGGDv3yD6C",
       "appleId": 1000488492479,
+      "youTubeId": "3uIyCxP1kD0",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5ZSTmsoBKsOUCGGDv3yD6C",
-        "apple": "https://podcasts.apple.com/podcast/episode-7-the-reckoning/id1527772333?i=1000488492479"
+        "apple": "https://podcasts.apple.com/podcast/episode-7-the-reckoning/id1527772333?i=1000488492479",
+        "youtube": "https://www.youtube.com/watch?v=3uIyCxP1kD0"
       }
     },
     {
@@ -65,12 +122,14 @@
       "explicit": true,
       "spotifyId": "2LtY2zDkuFe1xzUkMEDs7e",
       "appleId": 1000488492482,
+      "youTubeId": "qOwE8PnYXlE",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2LtY2zDkuFe1xzUkMEDs7e",
-        "apple": "https://podcasts.apple.com/podcast/episode-6-the-defence/id1527772333?i=1000488492482"
+        "apple": "https://podcasts.apple.com/podcast/episode-6-the-defence/id1527772333?i=1000488492482",
+        "youtube": "https://www.youtube.com/watch?v=qOwE8PnYXlE"
       }
     },
     {
@@ -82,12 +141,14 @@
       "explicit": true,
       "spotifyId": "57QsszHJdQuCiWHJFo9K9M",
       "appleId": 1000488492477,
+      "youTubeId": "fTQfwr1y6_c",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/57QsszHJdQuCiWHJFo9K9M",
-        "apple": "https://podcasts.apple.com/podcast/episode-5-blow-it-up/id1527772333?i=1000488492477"
+        "apple": "https://podcasts.apple.com/podcast/episode-5-blow-it-up/id1527772333?i=1000488492477",
+        "youtube": "https://www.youtube.com/watch?v=fTQfwr1y6_c"
       }
     },
     {
@@ -99,12 +160,14 @@
       "explicit": true,
       "spotifyId": "1pfJaNLIqQP2O3GCNNj777",
       "appleId": 1000488492480,
+      "youTubeId": "dXygJdQLE78",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1pfJaNLIqQP2O3GCNNj777",
-        "apple": "https://podcasts.apple.com/podcast/episode-4-the-suppressives/id1527772333?i=1000488492480"
+        "apple": "https://podcasts.apple.com/podcast/episode-4-the-suppressives/id1527772333?i=1000488492480",
+        "youtube": "https://www.youtube.com/watch?v=dXygJdQLE78"
       }
     },
     {
@@ -116,12 +179,14 @@
       "explicit": true,
       "spotifyId": "56yR8dtvT0zpLxXIBrkkF1",
       "appleId": 1000488492481,
+      "youTubeId": "dNNeccyMC88",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/56yR8dtvT0zpLxXIBrkkF1",
-        "apple": "https://podcasts.apple.com/podcast/episode-3-sex-money-and-nazis/id1527772333?i=1000488492481"
+        "apple": "https://podcasts.apple.com/podcast/episode-3-sex-money-and-nazis/id1527772333?i=1000488492481",
+        "youtube": "https://www.youtube.com/watch?v=dNNeccyMC88"
       }
     },
     {
@@ -133,30 +198,14 @@
       "explicit": true,
       "spotifyId": "1HgJPsugwksuxZ77VH94Yi",
       "appleId": 1000488492475,
+      "youTubeId": "DzkmGeUBSIc",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1HgJPsugwksuxZ77VH94Yi",
-        "apple": "https://podcasts.apple.com/podcast/episode-2-the-epiphany/id1527772333?i=1000488492475"
-      }
-    },
-    {
-      "id": "f73c875e-2968-485b-b86e-b970282625a7",
-      "title": "Episode 1: The Branding",
-      "description": "Sarah Edmondson is a high-level member of a self-help group called NXIVM, but an invitation to join a secret women\u0027s group called DOS leads her to do something she later regrets.",
-      "release": "2018-09-04T00:00:00",
-      "duration": "00:36:54.7650000",
-      "explicit": true,
-      "spotifyId": "7EI30aRxUUu7132gz5nEPQ",
-      "appleId": 1000488492474,
-      "subjects": [
-        "NXIVM",
-        "Self-Help"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/7EI30aRxUUu7132gz5nEPQ",
-        "apple": "https://podcasts.apple.com/podcast/episode-1-the-branding/id1527772333?i=1000488492474"
+        "apple": "https://podcasts.apple.com/podcast/episode-2-the-epiphany/id1527772333?i=1000488492475",
+        "youtube": "https://www.youtube.com/watch?v=DzkmGeUBSIc"
       }
     }
   ]

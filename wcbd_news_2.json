@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "6b13aa00-cabe-4d25-83a0-5928f69813c3",
+  "name": "WCBD NEWS 2",
+  "youTubeChannelId": "UCbuw1IGXnmkwWCt5d5UQWVQ",
+  "episodes": [
+    {
+      "id": "6b5b4b56-3b84-49b0-bf3a-cad1422d2e23",
+      "title": "VIDEO: Word of Faith Fellowship responds to more abuse allegations",
+      "description": "News 2 at 4:30A",
+      "release": "2017-03-07T09:56:18Z",
+      "duration": "00:01:13",
+      "explicit": false,
+      "youTubeId": "kYpIcdL2gNM",
+      "subjects": [
+        "Word of Faith Fellowship"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kYpIcdL2gNM"
+      }
+    }
+  ]
+}

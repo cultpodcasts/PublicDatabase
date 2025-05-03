@@ -6,6 +6,37 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "53f8c850-67d2-465f-9acb-a9ede9d7784f",
+      "title": "Doomsday Prep - Season 10 Episode 13",
+      "description": "In this episode: Nathan has strange dreams. Gunnar is no longer a Big Boy. Thor teaches the ins and outs to Doomsday Prepping.",
+      "release": "2025-05-02T17:22:07Z",
+      "duration": "01:11:06.7360000",
+      "explicit": false,
+      "spotifyId": "1n4uphWmXgXTE7EBZUh8ub",
+      "appleId": 1000705869898,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1n4uphWmXgXTE7EBZUh8ub",
+        "apple": "https://podcasts.apple.com/podcast/doomsday-prep-season-10-episode-13/id1565633523?i=1000705869898"
+      }
+    },
+    {
+      "id": "f22ce8bc-1b85-4215-8441-3173aba8b45f",
+      "title": "Zizians - Season 10 Episode 12",
+      "description": "Thor gives the most unpopular opinion ever.\nGunnar plans on being sick in Italy.\nNathan brings us a cult to think about.",
+      "release": "2025-04-28T01:59:49Z",
+      "duration": "00:42:49",
+      "explicit": false,
+      "spotifyId": "43roX0M3rcinpr6nUjIeqA",
+      "appleId": 1000705198503,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/43roX0M3rcinpr6nUjIeqA",
+        "apple": "https://podcasts.apple.com/podcast/zizians-season-10-episode-12/id1565633523?i=1000705198503"
+      }
+    },
+    {
       "id": "54591268-3ff8-4d59-aa5f-6267c7a69602",
       "title": "President Assassinations - Season 10 Episode 11",
       "description": "In this episode,\nNathan shows that he is a master herbalist\nThor walks us through all presidents that have been assassinated and some close calls.\nGunnar wants to revolutionize the world with corporal punishment.",
