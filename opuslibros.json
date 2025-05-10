@@ -5,6 +5,36 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "537113bf-49ca-4af4-aac6-720732aff1f6",
+      "title": "EP# 112 ~ A quien pueda interesar. Cap\u00EDtulo 9 \u00A1Sigamos con m\u00E1s an\u00E9rdotas! ~ Satur 23/5/04",
+      "description": "\u00A1Sigamos con m\u00E1s an\u00E9rdotas!",
+      "release": "2025-05-08T00:00:00",
+      "duration": "00:08:36.1330000",
+      "explicit": false,
+      "spotifyId": "3tetaVkTaznj3kH0xp0j3h",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3tetaVkTaznj3kH0xp0j3h"
+      }
+    },
+    {
+      "id": "47894fc8-fec2-4d91-b9f7-59d37dc152b5",
+      "title": "EP# 111 ~ A quien pueda interesar. Cap\u00EDtulo 8 Quiz\u00E1s sean las frases m\u00E1s citadas ~ Satur 16/5/04",
+      "description": "Quiz\u00E1s sean las frases m\u00E1s citadas",
+      "release": "2025-05-06T00:00:00",
+      "duration": "00:05:00.1410000",
+      "explicit": false,
+      "spotifyId": "3fj3xqZL8xLADpHlGvEp4y",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3fj3xqZL8xLADpHlGvEp4y"
+      }
+    },
+    {
       "id": "b7ab0793-bd7a-4788-a989-4088447c398d",
       "title": "EP# 110 ~ A quien pueda interesar. Cap\u00EDtulo 7 Asomarte a Orejas ~ Satur 9/5/04",
       "description": "Asomarte a Orejas",

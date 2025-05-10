@@ -19,6 +19,94 @@
       }
     },
     {
+      "id": "5061847a-5ffe-492a-b15c-d80fa04ab786",
+      "title": "WAYNE BENT",
+      "release": "2016-10-08T18:32:43Z",
+      "duration": "00:46:05",
+      "explicit": false,
+      "youTubeId": "u-KGxGRS7Yc",
+      "subjects": [
+        "Lord Our Righteousness Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=u-KGxGRS7Yc"
+      }
+    },
+    {
+      "id": "3f382c3c-c391-44eb-8386-c65fc1fcb37f",
+      "title": "INSIDE A CULT",
+      "release": "2016-10-08T16:16:57Z",
+      "duration": "00:41:44",
+      "explicit": false,
+      "youTubeId": "fHj0tt3oTwU",
+      "subjects": [
+        "Lord Our Righteousness Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fHj0tt3oTwU"
+      }
+    },
+    {
+      "id": "ad8ecc67-7306-441a-b5f9-e1eb2560a348",
+      "title": "Cults History\u0027s Mysteries",
+      "release": "2016-10-08T15:41:04Z",
+      "duration": "00:42:01",
+      "explicit": true,
+      "youTubeId": "566eRX3OzjE",
+      "subjects": [
+        "Peoples Temple",
+        "Branch Davidians",
+        "Cult Apologists",
+        "Order of the Solar Temple",
+        "Movement for the Restoration of the Ten Commandments of God"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=566eRX3OzjE"
+      }
+    },
+    {
+      "id": "26be347e-9a7a-46e4-b5ba-0ece2c5da3f3",
+      "title": "Cults WE TV",
+      "release": "2016-10-08T11:37:12Z",
+      "duration": "00:43:08",
+      "explicit": false,
+      "youTubeId": "Nr0f7vQL2Ew",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Nr0f7vQL2Ew"
+      }
+    },
+    {
+      "id": "ed0cabd6-47e4-4cab-b9c3-88037eeac4b8",
+      "title": "MOST EVIL CULTS",
+      "description": "Biblical Archaeology \u0026 Christianity",
+      "release": "2016-10-08T00:59:16Z",
+      "duration": "00:43:05",
+      "explicit": false,
+      "youTubeId": "NfvpH5VRN50",
+      "subjects": [
+        "Jeffrey Lundgren",
+        "Manson Family",
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=NfvpH5VRN50"
+      }
+    },
+    {
+      "id": "6cdb634d-3059-4423-926d-da016b0d8eba",
+      "title": "Helzer Skelter",
+      "release": "2014-05-28T20:33:12Z",
+      "duration": "00:42:16",
+      "explicit": false,
+      "youTubeId": "GsjGSG37vPo",
+      "subjects": [
+        "Glen Helzer"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GsjGSG37vPo"
+      }
+    },
+    {
       "id": "bc1182b6-97f9-4851-aed3-62e42c322fba",
       "title": "SEARCHING 4 ALLEN",
       "release": "2014-05-28T19:16:13Z",
@@ -30,6 +118,106 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=6m5mb3ogp-8"
+      }
+    },
+    {
+      "id": "d68fecd9-d143-4c00-8c89-34282d5dd51d",
+      "title": "RLDS Jeffery Lundgren",
+      "description": "Biblical Archaeology \u0026 Christianity",
+      "release": "2014-05-11T22:16:22Z",
+      "duration": "00:33:20",
+      "explicit": false,
+      "youTubeId": "BUY2S8NEiJM",
+      "subjects": [
+        "Jeffrey Lundgren"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BUY2S8NEiJM"
+      }
+    },
+    {
+      "id": "57e087c3-2b94-481e-b6b1-4087d29e8686",
+      "title": "The Rajneeshes Cult In Oregon",
+      "release": "2014-05-11T21:30:38Z",
+      "duration": "00:20:57",
+      "explicit": false,
+      "youTubeId": "qyfrBZddlsg",
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qyfrBZddlsg"
+      }
+    },
+    {
+      "id": "5d6fd9c2-0b9d-42e3-9501-9f50d81ac7a0",
+      "title": "Amish",
+      "release": "2014-05-11T13:23:54Z",
+      "duration": "00:42:14",
+      "explicit": false,
+      "youTubeId": "q6x3MW7oXn0",
+      "subjects": [
+        "Amish"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=q6x3MW7oXn0"
+      }
+    },
+    {
+      "id": "cea12adf-0f55-4d24-8514-d01b00fc162a",
+      "title": "Religion or Mind Control",
+      "release": "2014-05-11T12:33:25Z",
+      "duration": "00:43:49",
+      "explicit": false,
+      "youTubeId": "bAWomQqKpmY",
+      "subjects": [
+        "Cult Psychology",
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bAWomQqKpmY"
+      }
+    },
+    {
+      "id": "8357dbda-1afd-4850-9d43-3ff899d6d214",
+      "title": "Nancy Grace FLDS part 1",
+      "release": "2014-05-11T08:41:29Z",
+      "duration": "00:10:50",
+      "explicit": false,
+      "youTubeId": "Ro-6dv0x8sM",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ro-6dv0x8sM"
+      }
+    },
+    {
+      "id": "8b968e6e-c96d-4856-baff-d8834b052765",
+      "title": "NANCY GRACE FLDS 2",
+      "release": "2014-05-11T08:36:44Z",
+      "duration": "00:31:12",
+      "explicit": false,
+      "youTubeId": "z65NSNR2Qbk",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=z65NSNR2Qbk"
+      }
+    },
+    {
+      "id": "817fce76-fcc3-4c35-aac5-b9ade503f9d0",
+      "title": "Cult Killer",
+      "release": "2014-05-11T06:31:17Z",
+      "duration": "00:43:18",
+      "explicit": false,
+      "youTubeId": "v3W_H26QH1c",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=v3W_H26QH1c"
       }
     }
   ]

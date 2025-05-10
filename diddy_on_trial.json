@@ -8,6 +8,25 @@
   "youTubePlaylistId": "PLz_B0PFGIn4dP8PQoiH-X5FAYSgacE2b4",
   "episodes": [
     {
+      "id": "f41965d2-2191-487c-9e5c-21b4b1003f08",
+      "title": "The start of Diddy\u2019s trial: What to expect",
+      "description": "The trial of Sean \u2018Diddy\u2019 Combs is set to begin on Monday. He denies the charges of sex trafficking, racketeering with conspiracy and transportation for prostitution. So what should we expect at the start? Criminal defence attorney Shaun Kent explains how lawyers for the prosecution and defence will be making their opening statements as persuasive as possible. Veteran sketch artist Jane Rosenberg shares her four decades of courtroom experience with presenter Anoushka Mutanda-Dougherty. She will be in court most days, drawing sketches of Sean \u2018Diddy\u2019 Combs for the world to see. The Diddy on Trial podcast is here to investigate the rumours, confront the theories, and give you the answers that you need. We also want YOU to be part of the conversation. Have you any burning questions about the cases or the upcoming trial? Heard a theory that doesn\u2019t sit right with you? Get in touch now via WhatsApp: 0330 123 555 1. Presenter: Anoushka Mutanda-Dougherty Series Producer: Laura Jones Sound Design: Richard Hannaford Video producer: Daniel Raza Production Coordinator: Hattie Valentine Editor: Clare Fordham Commissioning Editor: Rhian Roberts Assistant Commissioner: Will Drysdale Commissioning Producer: Adam Eland Commissioning Assistant Producer: Rechmial Miller",
+      "release": "2025-05-08T05:00:00Z",
+      "duration": "00:24:48.7040000",
+      "explicit": false,
+      "spotifyId": "2JxbCQRf48k21pnsUIcWOX",
+      "appleId": 1000706761690,
+      "subjects": [
+        "Sean Combs",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2JxbCQRf48k21pnsUIcWOX",
+        "apple": "https://podcasts.apple.com/podcast/the-start-of-diddys-trial-what-to-expect/id1781636710?i=1000706761690",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0l7kn7r"
+      }
+    },
+    {
       "id": "5ace04d6-2e1d-4186-bbc8-d6763815861c",
       "title": "Diddy\u2019s defence: \u2018He\u2019s a swinger\u2019",
       "description": "Lawyers for Sean \u0027Diddy\u0027 Combs preview his legal defence in his sex trafficking case, arguing that the rapper led the \u0027lifestyle\u0027 of a \u0027swinger\u0027 and was not a criminal. Potential jurors are sent questionnaires, with questions including whether wealthy people get away with things that less wealthy people do not and also asking people if they watch crime shows. Anoushka Mutanda-Dougherty goes through all the latest pre-trial news with criminal defence attorney Shaun Kent and Rolling Stone\u2019s senior investigative reporter Cheyenne Roundtree. The Diddy on Trial podcast is here to investigate the rumours, confront the theories, and give you the answers that you need. We also want YOU to be part of the conversation. Have you any burning questions about the cases or the upcoming trial? Heard a theory that doesn\u2019t sit right with you? Get in touch now via WhatsApp: 0330 123 555 1. Presenter: Anoushka Mutanda-Dougherty Series Producer: Laura Jones Sound Design: Richard Hannaford Production Coordinator: Hattie Valentine Editor: Clare Fordham Commissioning Editor: Rhian Roberts Assistant Commissioner: Will Drysdale Commissioning Producer: Adam Eland Commissioning Assistant Producer: Rechmial Miller Sean \u2018Diddy\u2019 Combs - who has also gone by the names Puffy, Puff Daddy, P Diddy, Love, and Brother Love - emerged into the hip-hop scene in the 1990s. He founded Bad Boy Records, which launched the careers of the Notorious B.I.G. and Mary J Blige. His current legal issues began when he was sued by his ex-girlfriend Casandra Ventura, also known as Cassie, in late 2023. She accused him of violently abusing and raping her. That lawsuit was settled for an undisclosed amount a day after it was filed, with Mr Combs maintaining his innocence. His controversial history with Ms Ventura resurfaced in 2024, when CCTV footage emerged showing Mr Combs kicking his former girlfriend as she lay on a hotel hallway floor in 2016. Multiple people have filed lawsuits accusing Mr Combs of sexual assault, with accusations dating back to 1991. He denies all claims. He is accused of the federal charges of kidnapping, drugging and coercing women into sexual activities, sometimes by using firearms or threatening them with violence. He denies the charges.",
@@ -16,6 +35,7 @@
       "explicit": false,
       "spotifyId": "0SvtDocZ7ShOSjuj5ucmRA",
       "appleId": 1000705652626,
+      "youTubeId": "egVaYe9Olmc",
       "subjects": [
         "Sean Combs",
         "Human Trafficking"
@@ -23,6 +43,7 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/0SvtDocZ7ShOSjuj5ucmRA",
         "apple": "https://podcasts.apple.com/podcast/diddys-defence-hes-a-swinger/id1781636710?i=1000705652626",
+        "youtube": "https://www.youtube.com/watch?v=egVaYe9Olmc",
         "bbc": "https://www.bbc.co.uk/sounds/play/p0l7cq42"
       }
     },

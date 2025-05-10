@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "3a701e33-0420-45ea-b0b0-79c5fee21973",
+      "title": "205. Petra Part II",
+      "description": "Gavin is back with us to continue our history of Petra .",
+      "release": "2025-05-07T06:00:00Z",
+      "duration": "01:47:03.8490000",
+      "explicit": true,
+      "spotifyId": "5zwlGu1l6UM6VyWNYKr4ZB",
+      "appleId": 1000706634761,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5zwlGu1l6UM6VyWNYKr4ZB",
+        "apple": "https://podcasts.apple.com/podcast/205-petra-part-ii/id1573190999?i=1000706634761"
+      }
+    },
+    {
       "id": "c9166cea-6bdd-42d9-8428-2ce0a9d18c93",
       "title": "204. Petra Part I",
       "description": "We start our series on Christian rock band, Petra",

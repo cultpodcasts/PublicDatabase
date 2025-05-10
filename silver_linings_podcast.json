@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "d2df142f-4fbd-4315-9147-ebb7876b5ef2",
+      "title": "Alex\u0027s Collateral Damage",
+      "description": "We have begun our shift toward emphasizing collateral damage of the many evil crimes that surround us, including Lori\u0027s, Chad\u0027s, and Alex\u0027s. We need your feedback on this format to which we are migrating. Please!",
+      "release": "2025-05-05T01:52:40Z",
+      "duration": "00:27:03",
+      "explicit": false,
+      "spotifyId": "5SXTb8GRIFVAduD4LRAvSV",
+      "appleId": 1000706271402,
+      "youTubeId": "BkjSrcscJ8A",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5SXTb8GRIFVAduD4LRAvSV",
+        "apple": "https://podcasts.apple.com/podcast/alexs-collateral-damage/id1694606661?i=1000706271402",
+        "youtube": "https://www.youtube.com/watch?v=BkjSrcscJ8A"
+      }
+    },
+    {
       "id": "9ad50a20-92f8-432e-8d21-952707bfd5e2",
       "title": "Guilty Again!",
       "description": "Reactions to getting some justice for Charles!",

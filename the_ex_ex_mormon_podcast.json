@@ -6,6 +6,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "f759e622-4bdb-48d4-8e0c-27572afb947f",
+      "title": "A Silenced Woman\u0027s Voice",
+      "description": "Samantha Sorensen returns to discuss her book, \u0022Non-Consensual Morality: A Silenced Woman\u0027s Voice from the Dark.\u0022 TW: This episode includes topics of SA that may not be suitable for some viewers.",
+      "release": "2025-05-03T10:00:00Z",
+      "duration": "01:01:26.6980000",
+      "explicit": true,
+      "spotifyId": "0lwBRv3ogiaCnxH3YOxgXP",
+      "appleId": 1000706022987,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0lwBRv3ogiaCnxH3YOxgXP",
+        "apple": "https://podcasts.apple.com/podcast/a-silenced-womans-voice/id1555494727?i=1000706022987"
+      }
+    },
+    {
       "id": "28787b00-0f43-4c11-822b-f20763eff1da",
       "title": "Mormon Traditions (Not for the Faint of Heart)",
       "description": "The Brother of Jared and Heavenly Mother chat about some unhinged traditions in the church. These are not doctrinal, or even specific to church culture topics. From pageants, Temple open houses, and stake musicals, we get into it.",

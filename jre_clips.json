@@ -1,83 +1,22 @@
 {
   "_ts": 0,
-  "id": "1b9c8096-f66f-4921-a84e-52ee1e863dff",
-  "name": "The Joe Rogan Experience",
-  "spotifyId": "1LMmQF9PH8LjYrktU0Oq5Y",
-  "appleId": 360084272,
-  "youTubeChannelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+  "id": "b421e447-1c27-4c8b-bc15-59f00dd3cfb6",
+  "name": "JRE Clips",
+  "youTubeChannelId": "UCnxGkOGNMqQEUMvroOWps6Q",
   "episodes": [
     {
-      "id": "114dd2f5-618b-4171-b7bc-559582a022d0",
-      "title": "Michelle Dowd on Surviving Growing Up in Her Family\u0027s Cult",
-      "description": "JRE #2137  w/Michelle Dowd\nYouTube: https://youtu.be/ELGY6HfkENg\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
-      "release": "2024-04-18T17:15:02Z",
-      "duration": "00:14:55",
+      "id": "64070d69-7935-4c61-8e44-9eeeef6ce00e",
+      "title": "Leah Remini on Finding Out About Xenu (from Joe Rogan Experience #908)",
+      "description": "Leah Remini talks about reaching OT III and having Scientology\u0027s origin story revealed to her.\n\nTaken from Joe Rogan Experience #908.",
+      "release": "2017-02-16T06:51:34Z",
+      "duration": "00:12:33",
       "explicit": false,
-      "spotifyId": "3WR3sALXn3djlnmV5YUq5x",
-      "youTubeId": "SIjs2xYANbc",
-      "subjects": [
-        "Kare Youth League"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/3WR3sALXn3djlnmV5YUq5x",
-        "youtube": "https://www.youtube.com/watch?v=SIjs2xYANbc"
-      }
-    },
-    {
-      "id": "f9961bdb-0dec-41f4-9efc-fb43d039d5a4",
-      "title": "Joe Rogan Experience #2137 - Michelle Dowd",
-      "description": "Michelle Dowd is the author of \u0022Forager: Field Notes on Surviving a Family Cult,\u0022 revealing her life growing up on an isolated mountain within an apocalyptic cult, and how she found her way out by gleaning strength from the wilderness.\n \nhttps://www.michelledowd.org/\nhttps://twitter.com/Michelledowd2",
-      "release": "2024-04-18T17:00:07Z",
-      "duration": "02:53:05",
-      "explicit": false,
-      "spotifyId": "2ipcHULT1mmVIR9nQKNCD3",
-      "appleId": 1000652884570,
-      "youTubeId": "ELGY6HfkENg",
-      "subjects": [
-        "Kare Youth League",
-        "Buddhafield"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/2ipcHULT1mmVIR9nQKNCD3",
-        "apple": "https://podcasts.apple.com/podcast/2137-michelle-dowd/id360084272?i=1000652884570",
-        "youtube": "https://www.youtube.com/watch?v=ELGY6HfkENg"
-      }
-    },
-    {
-      "id": "2ecb6085-4784-44da-8cc5-89d082365dc2",
-      "title": "The Psychology of Cult Members and Fanatics",
-      "description": "Taken from JRE #2102 w/Will Storr: https://open.spotify.com/episode/221RAH36sgmCCf1XwSzo14?si\u0026#61;8710f99eeb804c70",
-      "release": "2024-02-14T18:42:50Z",
-      "duration": "00:14:46.4210000",
-      "explicit": true,
-      "spotifyId": "5TBva6W3SZCIsSxZGntj54",
-      "youTubeId": "WGc4CsTVxis",
-      "subjects": [
-        "Cult Psychology",
-        "Psychology"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/5TBva6W3SZCIsSxZGntj54",
-        "youtube": "https://www.youtube.com/watch?v=WGc4CsTVxis"
-      }
-    },
-    {
-      "id": "2a0c4420-2475-4f3b-af1b-ef97fa92d640",
-      "title": "#908 - Leah Remini",
-      "description": "Leah Remini is an actress, producer, author, and comedian. Her new show \u0022Leah Remini: Scientology and the Aftermath\u0022 is a documentary series that can be seen on A\u0026E. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "release": "2017-01-30T00:00:00Z",
-      "duration": "02:17:09.9640000",
-      "explicit": true,
-      "spotifyId": "5ZpGdcaP2hNnGxX0uDGh5L",
-      "appleId": 1000644540150,
-      "youTubeId": "AJ0-VeWMr-A",
+      "youTubeId": "dAfdPFWiF9U",
       "subjects": [
         "Scientology"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/5ZpGdcaP2hNnGxX0uDGh5L",
-        "apple": "https://podcasts.apple.com/podcast/908-leah-remini/id360084272?i=1000644540150",
-        "youtube": "https://www.youtube.com/watch?v=AJ0-VeWMr-A"
+        "youtube": "https://www.youtube.com/watch?v=dAfdPFWiF9U"
       }
     }
   ]

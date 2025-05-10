@@ -4,6 +4,8 @@
   "name": "Fair Game",
   "spotifyId": "4vKGBFQuKX5QZOzWZKrh3T",
   "appleId": 1523307706,
+  "youTubeChannelId": "UCHz-rH0kR_wzshscjRap74Q",
+  "youTubePlaylistId": "PLz1BxjxnsFiKikF_vDpp1zyWv6PxZnDkX",
   "episodes": [
     {
       "id": "b10c4dbd-1a09-4ac4-81c5-25a053a96dec",
@@ -184,12 +186,14 @@
       "explicit": false,
       "spotifyId": "3NKKJ0i3o1ihwyL0mrQvth",
       "appleId": 1000574698370,
+      "youTubeId": "fIno2Yf8oRM",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3NKKJ0i3o1ihwyL0mrQvth",
-        "apple": "https://podcasts.apple.com/podcast/episode-70-claire-headley-knowledge-reports/id1523307706?i=1000574698370"
+        "apple": "https://podcasts.apple.com/podcast/episode-70-claire-headley-knowledge-reports/id1523307706?i=1000574698370",
+        "youtube": "https://www.youtube.com/watch?v=fIno2Yf8oRM"
       }
     },
     {
@@ -287,12 +291,14 @@
       "explicit": false,
       "spotifyId": "39DDLcKtkFCSFVCCsZk83h",
       "appleId": 1000574698482,
+      "youTubeId": "GDUxrQami_Y",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/39DDLcKtkFCSFVCCsZk83h",
-        "apple": "https://podcasts.apple.com/podcast/episode-64-tory-magoo-christman/id1523307706?i=1000574698482"
+        "apple": "https://podcasts.apple.com/podcast/episode-64-tory-magoo-christman/id1523307706?i=1000574698482",
+        "youtube": "https://www.youtube.com/watch?v=GDUxrQami_Y"
       }
     },
     {
@@ -304,12 +310,14 @@
       "explicit": false,
       "spotifyId": "37o9kOHev8FFg9YV7IOfBN",
       "appleId": 1000574698506,
+      "youTubeId": "lA6PBv6UOhU",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/37o9kOHev8FFg9YV7IOfBN",
-        "apple": "https://podcasts.apple.com/podcast/episode-62-the-aftermath-og-amy-scobee/id1523307706?i=1000574698506"
+        "apple": "https://podcasts.apple.com/podcast/episode-62-the-aftermath-og-amy-scobee/id1523307706?i=1000574698506",
+        "youtube": "https://www.youtube.com/watch?v=lA6PBv6UOhU"
       }
     },
     {
@@ -338,12 +346,14 @@
       "explicit": false,
       "spotifyId": "6yHLB75ddiLx6GBfzyfNOM",
       "appleId": 1000574698573,
+      "youTubeId": "yn7u7Z5NXTU",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6yHLB75ddiLx6GBfzyfNOM",
-        "apple": "https://podcasts.apple.com/podcast/episode-59-listener-questions-part-8/id1523307706?i=1000574698573"
+        "apple": "https://podcasts.apple.com/podcast/episode-59-listener-questions-part-8/id1523307706?i=1000574698573",
+        "youtube": "https://www.youtube.com/watch?v=yn7u7Z5NXTU"
       }
     },
     {
@@ -696,12 +706,14 @@
       "explicit": false,
       "spotifyId": "7vd6HInLf0Tf8t9qXEMpxI",
       "appleId": 1000574698578,
+      "youTubeId": "PLSzPM3V0aY",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vd6HInLf0Tf8t9qXEMpxI",
-        "apple": "https://podcasts.apple.com/podcast/episode-38-listener-questions-4/id1523307706?i=1000574698578"
+        "apple": "https://podcasts.apple.com/podcast/episode-38-listener-questions-4/id1523307706?i=1000574698578",
+        "youtube": "https://www.youtube.com/watch?v=PLSzPM3V0aY"
       }
     },
     {
@@ -919,12 +931,14 @@
       "explicit": false,
       "spotifyId": "6Yu4B27GmNVLwedZXM5Zz0",
       "appleId": 1000574698375,
+      "youTubeId": "8gZqeOt8n1Y",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Yu4B27GmNVLwedZXM5Zz0",
-        "apple": "https://podcasts.apple.com/podcast/episode-25-whistleblower-valeska-guider-paris/id1523307706?i=1000574698375"
+        "apple": "https://podcasts.apple.com/podcast/episode-25-whistleblower-valeska-guider-paris/id1523307706?i=1000574698375",
+        "youtube": "https://www.youtube.com/watch?v=8gZqeOt8n1Y"
       }
     },
     {
@@ -1123,12 +1137,14 @@
       "explicit": false,
       "spotifyId": "6wtJ2946wgUtPxKA6jVhhR",
       "appleId": 1000574698487,
+      "youTubeId": "0IDJz1ScfbU",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wtJ2946wgUtPxKA6jVhhR",
-        "apple": "https://podcasts.apple.com/podcast/episode-13-listener-questions-part-1/id1523307706?i=1000574698487"
+        "apple": "https://podcasts.apple.com/podcast/episode-13-listener-questions-part-1/id1523307706?i=1000574698487",
+        "youtube": "https://www.youtube.com/watch?v=0IDJz1ScfbU"
       }
     },
     {
@@ -1192,12 +1208,14 @@
       "explicit": false,
       "spotifyId": "7r7fGHwSraNLisl2iMZppb",
       "appleId": 1000574698659,
+      "youTubeId": "Zr480wzfvvA",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7r7fGHwSraNLisl2iMZppb",
-        "apple": "https://podcasts.apple.com/podcast/episode-9-author-of-fair-game-australian/id1523307706?i=1000574698659"
+        "apple": "https://podcasts.apple.com/podcast/episode-9-author-of-fair-game-australian/id1523307706?i=1000574698659",
+        "youtube": "https://www.youtube.com/watch?v=Zr480wzfvvA"
       }
     },
     {
@@ -1243,12 +1261,14 @@
       "explicit": false,
       "spotifyId": "71R6Qam3sITzENmmVq0qYw",
       "appleId": 1000574698679,
+      "youTubeId": "HDIbgDZsYsY",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/71R6Qam3sITzENmmVq0qYw",
-        "apple": "https://podcasts.apple.com/podcast/episode-6-the-leaders-father-is-fair-gamed/id1523307706?i=1000574698679"
+        "apple": "https://podcasts.apple.com/podcast/episode-6-the-leaders-father-is-fair-gamed/id1523307706?i=1000574698679",
+        "youtube": "https://www.youtube.com/watch?v=HDIbgDZsYsY"
       }
     },
     {
@@ -1260,12 +1280,14 @@
       "explicit": false,
       "spotifyId": "0VuHzvtFzP2Qhd0xEz2nty",
       "appleId": 1000574698682,
+      "youTubeId": "BqGwY1uLkzw",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0VuHzvtFzP2Qhd0xEz2nty",
-        "apple": "https://podcasts.apple.com/podcast/episode-5-the-history-of-fair-game/id1523307706?i=1000574698682"
+        "apple": "https://podcasts.apple.com/podcast/episode-5-the-history-of-fair-game/id1523307706?i=1000574698682",
+        "youtube": "https://www.youtube.com/watch?v=BqGwY1uLkzw"
       }
     },
     {
@@ -1277,12 +1299,14 @@
       "explicit": false,
       "spotifyId": "4ySPzBuquRtrdNCEEi7R0r",
       "appleId": 1000574698535,
+      "youTubeId": "3rxzxGgdfPo",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ySPzBuquRtrdNCEEi7R0r",
-        "apple": "https://podcasts.apple.com/podcast/episode-4-scientologys-war-on-a-holocaust-survivor/id1523307706?i=1000574698535"
+        "apple": "https://podcasts.apple.com/podcast/episode-4-scientologys-war-on-a-holocaust-survivor/id1523307706?i=1000574698535",
+        "youtube": "https://www.youtube.com/watch?v=3rxzxGgdfPo"
       }
     },
     {
@@ -1294,12 +1318,14 @@
       "explicit": false,
       "spotifyId": "1kVTXeJZZiAf2CbGQxVb6l",
       "appleId": 1000574698630,
+      "youTubeId": "NUywSfO2EP4",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1kVTXeJZZiAf2CbGQxVb6l",
-        "apple": "https://podcasts.apple.com/podcast/episode-3-scientologys-war-on-the-media/id1523307706?i=1000574698630"
+        "apple": "https://podcasts.apple.com/podcast/episode-3-scientologys-war-on-the-media/id1523307706?i=1000574698630",
+        "youtube": "https://www.youtube.com/watch?v=NUywSfO2EP4"
       }
     },
     {
@@ -1311,12 +1337,14 @@
       "explicit": false,
       "spotifyId": "4JpoYK7WKo23VJLkxY5gaK",
       "appleId": 1000574698536,
+      "youTubeId": "l9hKIf8ywMc",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4JpoYK7WKo23VJLkxY5gaK",
-        "apple": "https://podcasts.apple.com/podcast/episode-2-the-welfare-check/id1523307706?i=1000574698536"
+        "apple": "https://podcasts.apple.com/podcast/episode-2-the-welfare-check/id1523307706?i=1000574698536",
+        "youtube": "https://www.youtube.com/watch?v=l9hKIf8ywMc"
       }
     },
     {
@@ -1328,12 +1356,14 @@
       "explicit": false,
       "spotifyId": "2KytW8y4m4O2eUo1tFaxus",
       "appleId": 1000574698680,
+      "youTubeId": "3nrO3tPEo_o",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2KytW8y4m4O2eUo1tFaxus",
-        "apple": "https://podcasts.apple.com/podcast/episode-1-scientology-deaths-and-suicides/id1523307706?i=1000574698680"
+        "apple": "https://podcasts.apple.com/podcast/episode-1-scientology-deaths-and-suicides/id1523307706?i=1000574698680",
+        "youtube": "https://www.youtube.com/watch?v=3nrO3tPEo_o"
       }
     },
     {
@@ -1345,12 +1375,14 @@
       "explicit": false,
       "spotifyId": "1CHpguu9dyyL3itakzu3Lt",
       "appleId": 1000574698681,
+      "youTubeId": "dUsXgf4uBFg",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1CHpguu9dyyL3itakzu3Lt",
-        "apple": "https://podcasts.apple.com/podcast/episode-0-when-scientology-declares-you-fair-game/id1523307706?i=1000574698681"
+        "apple": "https://podcasts.apple.com/podcast/episode-0-when-scientology-declares-you-fair-game/id1523307706?i=1000574698681",
+        "youtube": "https://www.youtube.com/watch?v=dUsXgf4uBFg"
       }
     },
     {

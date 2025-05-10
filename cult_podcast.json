@@ -6,6 +6,20 @@
   "appleId": 1276011417,
   "episodes": [
     {
+      "id": "8a7696f2-3b48-4e52-8eb0-cd6253bd5ddd",
+      "title": "Ep. 316 Brother Louv: Granny Style",
+      "description": "We\u2019re BACK! Join us as Mando takes Paige through the early life of Brother Louv, formerly known as Thomas F. Reilly, and the path that led him towards a life of kick ass crime.\u00A0\n\nAlso, we have a Patreon! [Insert Air Horn Noises Here] If you\u0027d like to donate and join our cult, please visit\u00A0www.patreon.com/cultpodcast\u00A0or visit our website and click on the Patreon tab.\n\nAlso also, if you\u2019d like to listen to Armando\u2019s new show,\u00A0Boyfriend Material, click\u00A0this link right here\u00A0or go to\u00A0linktr.ee/midnightsnack.tv",
+      "release": "2025-05-06T08:15:40Z",
+      "duration": "01:12:22",
+      "explicit": false,
+      "spotifyId": "2pnbciRpQWgMzQDatgH5tI",
+      "appleId": 1000706494320,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2pnbciRpQWgMzQDatgH5tI",
+        "apple": "https://podcasts.apple.com/podcast/ep-316-brother-louv-granny-style/id1276011417?i=1000706494320"
+      }
+    },
+    {
       "id": "be765087-e752-4842-ab9e-200ca6f3e975",
       "title": "Ep. 315 The Church Universal Pt. 2: Theosophy Strikes Again",
       "description": "We\u0027re BACK with our final installment on a woman literally named Prophet. Listen along as Paige tells Mando about Ms. Prophet\u0027s takeover, remarriages, and the fall of the whole damn thing.\u00A0\nAlso, we have a Patreon! [Insert Air Horn Noises Here] If you\u0027d like to donate and join our cult, please visit\u00A0www.patreon.com/cultpodcast\u00A0or visit our website and click on the Patreon tab.\nAlso also, if you\u2019d like to listen to Armando\u2019s new show,\u00A0Boyfriend Material, click\u00A0this link right here\u00A0or go to\u00A0linktr.ee/midnightsnack.tv",
@@ -1796,6 +1810,10 @@
       "explicit": true,
       "spotifyId": "4ybj6jz8QxhwKjhgHKGEEp",
       "appleId": 1000549556424,
+      "subjects": [
+        "Yogaville",
+        "Yoga Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ybj6jz8QxhwKjhgHKGEEp",
         "apple": "https://podcasts.apple.com/podcast/ep-210-yogaville-pt-2-baja-blastin-off/id1276011417?i=1000549556424"
@@ -1810,6 +1828,10 @@
       "explicit": true,
       "spotifyId": "61PtFXZ53lPy6vFsjChMEh",
       "appleId": 1000548794404,
+      "subjects": [
+        "Yogaville",
+        "Yoga Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/61PtFXZ53lPy6vFsjChMEh",
         "apple": "https://podcasts.apple.com/podcast/ep-209-yogaville-pt-1-one-of-our-recent-episodes/id1276011417?i=1000548794404"
@@ -3527,7 +3549,7 @@
       "spotifyId": "4g0bzAADbPs3ols2v73bR2",
       "appleId": 1000457787257,
       "subjects": [
-        "Erhard Seminars Training"
+        "_Blank"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4g0bzAADbPs3ols2v73bR2",

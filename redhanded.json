@@ -7,6 +7,24 @@
   "youTubeChannelId": "UC7dovjXDB69lhDjASbAgnwA",
   "episodes": [
     {
+      "id": "617ae1bf-c32b-4ce7-9a5e-3005143182cb",
+      "title": "Diddy Part 2: Daddy\u2019s House | #398",
+      "description": "In our second part of the Pre-Diddy saga, we take a closer look at the accusations you need to know about \u2013 and the 99 problems it could cause for some of his closest associates... With all the sensational stories swirling around this case, we separate fact from fiction, and find out that the truth is always wilder than the headlines: from \u2018MVP bags\u2019 containing \u2018power banger sex machines\u2019, to the involvement of some of music\u2019s biggest names. So what do Justin Bieber, Usher, Jay-Z, Beyonc\u00E9, Gloria Estefan, LeBron James and Nikki Minaj have to do with it? Join us to find out. Exclusive bonus content: Wondery - Ad-free \u0026 ShortHand Patreon - Ad-free \u0026 Bonus Episodes Follow us on social media: YouTube TikTok Instagram Visit our website: Website Sources available on redhandedpodcast.com See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2025-05-08T06:00:00Z",
+      "duration": "01:42:00.2020000",
+      "explicit": true,
+      "spotifyId": "0hpeiPJ28UcoBiWaEOXJQ4",
+      "appleId": 1000705251890,
+      "subjects": [
+        "Human Trafficking",
+        "Sean Combs"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0hpeiPJ28UcoBiWaEOXJQ4",
+        "apple": "https://podcasts.apple.com/podcast/diddy-part-2-daddys-house-398/id1250599915?i=1000705251890"
+      }
+    },
+    {
       "id": "cb78dbc2-fbe7-4c0a-b691-df1d0081fcb2",
       "title": "Diddy Part 1: Deal With the Devil | #397",
       "description": "As the trial we\u2019ve all been waiting for finally approaches, we bring you the full rundown on the self-proclaimed \u201Cbad boy for life\u201D \u2013 and the hundreds of accusations, from victims as young as nine years old, that threaten to jail the music mogul for the rest of his days. Before we find out which \u201Cwell-known figures\u201D are likely to be accused alongside Sean Combs (aka P Diddy aka \u201CLove\u201D) here is everything you need to know: from his explosive beginnings on the hip hop scene with Bad Boy Records; through his despicable history of violence and sexual exploitation going back decades; all the way to Cassie\u2019s hotel video, the infamous \u201CDiddy parties\u201D, the police raids\u2026 and 1,000 bottles of baby oil. All accompanied by the deafening silence of famous friends, from Usher to Jay-Z and Beyonc\u00E9. Exclusive bonus content: Wondery - Ad-free \u0026 ShortHand Patreon - Ad-free \u0026 Bonus Episodes Follow us on social media: YouTube TikTok Instagram Visit our website: Website Sources available on redhandedpodcast.com See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
@@ -104,12 +122,14 @@
       "explicit": true,
       "spotifyId": "7gvRXn3RzvcqCet1faFJ1t",
       "appleId": 1000680032170,
+      "youTubeId": "TnqvIWvnkDA",
       "subjects": [
         "Peoples Temple"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gvRXn3RzvcqCet1faFJ1t",
-        "apple": "https://podcasts.apple.com/podcast/episode-380-jim-jones-part-2-the-jonestown-massacre/id1250599915?i=1000680032170"
+        "apple": "https://podcasts.apple.com/podcast/episode-380-jim-jones-part-2-the-jonestown-massacre/id1250599915?i=1000680032170",
+        "youtube": "https://www.youtube.com/watch?v=TnqvIWvnkDA"
       }
     },
     {
@@ -174,12 +194,14 @@
       "explicit": true,
       "spotifyId": "5aNrFycoUOOQsPHgKiWkbs",
       "appleId": 1000653542818,
+      "youTubeId": "Ub-9QIHF3VY",
       "subjects": [
         "Children Of God"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5aNrFycoUOOQsPHgKiWkbs",
-        "apple": "https://podcasts.apple.com/podcast/episode-346-david-berg-the-children-of-god-part-2/id1250599915?i=1000653542818"
+        "apple": "https://podcasts.apple.com/podcast/episode-346-david-berg-the-children-of-god-part-2/id1250599915?i=1000653542818",
+        "youtube": "https://www.youtube.com/watch?v=Ub-9QIHF3VY"
       }
     },
     {
@@ -189,11 +211,13 @@
       "release": "2024-05-02T06:00:20Z",
       "duration": "02:03:10",
       "explicit": false,
+      "spotifyId": "5aNrFycoUOOQsPHgKiWkbs",
       "youTubeId": "Ub-9QIHF3VY",
       "subjects": [
         "Children Of God"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5aNrFycoUOOQsPHgKiWkbs",
         "youtube": "https://www.youtube.com/watch?v=Ub-9QIHF3VY"
       }
     },

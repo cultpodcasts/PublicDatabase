@@ -13,6 +13,8 @@
       "release": "2025-04-30T21:20:29Z",
       "duration": "00:58:09",
       "explicit": false,
+      "spotifyId": "6oeFuCbjXrjj9PtEmYcBlf",
+      "appleId": 1000706395548,
       "youTubeId": "Dk0pMewUHtU",
       "subjects": [
         "Psychology",
@@ -20,6 +22,8 @@
         "One-on-one"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6oeFuCbjXrjj9PtEmYcBlf",
+        "apple": "https://podcasts.apple.com/podcast/111-how-narcissists-use-trauma-to-trap-you-dr-nadine/id1433818402?i=1000706395548",
         "youtube": "https://www.youtube.com/watch?v=Dk0pMewUHtU"
       }
     },
@@ -30,6 +34,8 @@
       "release": "2025-04-22T16:17:16Z",
       "duration": "01:33:59",
       "explicit": false,
+      "spotifyId": "3ioFDT9jANsyjTEEavXa8J",
+      "appleId": 1000706068963,
       "youTubeId": "Xjcg9g6xYzs",
       "subjects": [
         "Cult-Expert",
@@ -37,6 +43,8 @@
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3ioFDT9jANsyjTEEavXa8J",
+        "apple": "https://podcasts.apple.com/podcast/110-how-narcissists-use-cult-mind-control-rick-ross/id1433818402?i=1000706068963",
         "youtube": "https://www.youtube.com/watch?v=Xjcg9g6xYzs"
       }
     },

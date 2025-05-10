@@ -7,6 +7,24 @@
   "youTubeChannelId": "UCqFAr-WST8nyqrsoFcdv-eA",
   "episodes": [
     {
+      "id": "8575bfbe-babe-4e57-be35-b8f266d39542",
+      "title": "Bleed For Your Husband",
+      "description": "Jubilee married Ted because prophet Shawn Bolz said that\u0027s what God wanted. But would God want Jubilee to marry a man who would nearly kill her? Also, how did \u0027Purity Culture\u0027 override Jubilee\u0027s abilities to trust her own instincts?? Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-05-05T10:00:00Z",
+      "duration": "00:35:09",
+      "explicit": false,
+      "spotifyId": "23jBXsvEFg8wAyIQSgL20M",
+      "appleId": 1000706340787,
+      "subjects": [
+        "Bethel Church (Redding CA)",
+        "Purity Culture"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/23jBXsvEFg8wAyIQSgL20M",
+        "apple": "https://podcasts.apple.com/podcast/bleed-for-your-husband/id1513489117?i=1000706340787"
+      }
+    },
+    {
       "id": "6795eb05-4029-4370-9b2f-5769d2d77f00",
       "title": "The Smartphone Prophet",
       "description": "He is one of the most-acclaimed \u0027prophets\u0027 in the modern-day church. But\u00A0is Shawn Bolz a sheister, and, if he is, how did this stay a secret for so long? As new-evidence mounts against him, this 3-episode miniseries features a personal testimony from Jubilee, a woman who says one of Shawn\u0027s most-viral prophecies - nearly got her killed. Hosted on Acast. See acast.com/privacy for more information.",
@@ -157,9 +175,11 @@
       "explicit": false,
       "spotifyId": "0aWpoJ3XzqJLClnL9UYedX",
       "appleId": 1000678890699,
+      "youTubeId": "oxrvqdk6YPU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/0aWpoJ3XzqJLClnL9UYedX",
-        "apple": "https://podcasts.apple.com/podcast/best-of-show-me-the-toes-p2/id1513489117?i=1000678890699"
+        "apple": "https://podcasts.apple.com/podcast/best-of-show-me-the-toes-p2/id1513489117?i=1000678890699",
+        "youtube": "https://www.youtube.com/watch?v=oxrvqdk6YPU"
       }
     },
     {
@@ -521,9 +541,11 @@
       "explicit": false,
       "spotifyId": "51xYUTIl7Ae13fqYh5AoYl",
       "appleId": 1000615685595,
+      "youTubeId": "oxrvqdk6YPU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/51xYUTIl7Ae13fqYh5AoYl",
-        "apple": "https://podcasts.apple.com/podcast/show-me-the-toes-p2-of-2/id1513489117?i=1000615685595"
+        "apple": "https://podcasts.apple.com/podcast/show-me-the-toes-p2-of-2/id1513489117?i=1000615685595",
+        "youtube": "https://www.youtube.com/watch?v=oxrvqdk6YPU"
       }
     },
     {
