@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "1faeba07-f6c8-44b3-a319-70d66d3c37d7",
+      "title": "206. Petra Part III",
+      "description": "This week we talk about the end of Greg X Volz and in comes John Schlitt.",
+      "release": "2025-05-14T06:00:00Z",
+      "duration": "01:58:23",
+      "explicit": false,
+      "spotifyId": "6w31fTiS9fv7rpSvckw4Vs",
+      "appleId": 1000708417385,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6w31fTiS9fv7rpSvckw4Vs",
+        "apple": "https://podcasts.apple.com/podcast/206-petra-part-iii/id1573190999?i=1000708417385"
+      }
+    },
+    {
       "id": "3a701e33-0420-45ea-b0b0-79c5fee21973",
       "title": "205. Petra Part II",
       "description": "Gavin is back with us to continue our history of Petra .",

@@ -7,6 +7,45 @@
   "youTubeChannelId": "UCV8Bci_ybARSmvAbFLtk17w",
   "episodes": [
     {
+      "id": "d0565141-da37-4e4f-8c3e-20795b1dda53",
+      "title": "The Stanford Prison Experiment",
+      "description": "In this episode we continue our foray into social psychology and breakdown the 1971 Stanford Prison Experiment.  Known as the Zimbardo prison experiment, we discuss conformity under threat, learned helplessness, sub-group psychology and more...",
+      "release": "2025-05-16T17:00:00Z",
+      "duration": "00:57:32.7780000",
+      "explicit": true,
+      "spotifyId": "0qQaHZO5N9Q9F172tWHRoW",
+      "appleId": 1000708756804,
+      "youTubeId": "B_xj0ODyt_g",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0qQaHZO5N9Q9F172tWHRoW",
+        "apple": "https://podcasts.apple.com/podcast/the-stanford-prison-experiment/id1522699382?i=1000708756804",
+        "youtube": "https://www.youtube.com/watch?v=B_xj0ODyt_g"
+      }
+    },
+    {
+      "id": "9ed57d07-0106-4840-af22-65682c8b7f26",
+      "title": "Leaving Jehovah - An Escape Story w/Leslie Garrett",
+      "description": "In this episode we have on Leslie Garrett and she details her upbringing and life as a Jehovah\u0027s Witness and her eventual escape from the clutches of its grasp on her and her family.",
+      "release": "2025-05-11T20:51:21Z",
+      "duration": "01:26:22.6340000",
+      "explicit": true,
+      "spotifyId": "21Q0PBJkNAbnOp3toiLpzx",
+      "appleId": 1000708018700,
+      "youTubeId": "xExhbaURq4g",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/21Q0PBJkNAbnOp3toiLpzx",
+        "apple": "https://podcasts.apple.com/podcast/leaving-jehovah-an-escape-story-w-leslie-garrett/id1522699382?i=1000708018700",
+        "youtube": "https://www.youtube.com/watch?v=xExhbaURq4g"
+      }
+    },
+    {
       "id": "a6483537-6ab2-4338-a059-c015d032a663",
       "title": "Deprogramming the Soul: Escaping the Web of Cults and Ideologies (Cults 4)",
       "description": "We continue our discussion on social psychology, cult mentality, critical thinking and the confines we find ourselves currently in.",

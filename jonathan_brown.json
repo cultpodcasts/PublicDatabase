@@ -1,0 +1,51 @@
+{
+  "_ts": 0,
+  "id": "72827d5b-2857-4ed4-99b8-1ebb06cee152",
+  "name": "Jonathan Brown",
+  "appleId": 1208434465,
+  "youTubeChannelId": "UCyf5vDg8ngPjHlo9l29Dwqw",
+  "episodes": [
+    {
+      "id": "ebe90c4b-a2de-489b-a1cd-e5a69fd53a51",
+      "title": "Excellent Clearwater Scientology Testimony -  Janie Peterson",
+      "description": "Janie Peterson worked in the Guardians Office and offers some great insight into much of Scientology\u0027s covert workings. This is from the Clearwater Hearings of 1982. It appears that not much has changed.",
+      "release": "2013-10-27T10:46:23Z",
+      "duration": "01:27:58",
+      "explicit": false,
+      "youTubeId": "j4tTp3xfwYE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=j4tTp3xfwYE"
+      }
+    },
+    {
+      "id": "b8a4d881-df7a-4f0d-8019-b9a48cd82d63",
+      "title": "Affidavit of Carol Garrity read into Clearwater record",
+      "description": "This is an affidavit from Carol Garrity being read into the record. She worked in the Guardians Office",
+      "release": "2013-10-27T09:44:54Z",
+      "duration": "00:05:03",
+      "explicit": false,
+      "youTubeId": "SK_sescmJs8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=SK_sescmJs8"
+      }
+    },
+    {
+      "id": "764b72a6-0be0-4a1b-92cd-30f9ff7efe27",
+      "title": "Casey Kelly - 1982 Scientology Hearings in Clearwater",
+      "description": "Casey Kelly handled Recruitment and Finances for Scientology. For three years. It seems that not much  has changed in the cult over the years.",
+      "release": "2013-10-15T21:38:59Z",
+      "duration": "01:51:59",
+      "explicit": false,
+      "youTubeId": "g9Zc2cdyujE",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=g9Zc2cdyujE"
+      }
+    }
+  ]
+}

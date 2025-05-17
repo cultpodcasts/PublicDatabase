@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "61af8ff9-1e42-44eb-b938-badcf926dc5d",
+  "name": "Spokane Stories",
+  "spotifyId": "31bN4SVbbvtNFBdhAc8JB7",
+  "appleId": 1804448755,
+  "episodes": [
+    {
+      "id": "8f4f091b-26ac-4b6e-9607-651e0f26221f",
+      "title": "From a Cult Living Room to Religion Reporting with Tracy Simmons",
+      "description": "Tracy Simmons joined us to share her story of being raised in a restrictive cult to finding freedom in education and religion journalism. Tracy is a long-time religion reporter, a journalism professor, and cycling enthusiast. To follow Tracy\u0027s work go to favs.news .",
+      "release": "2025-05-16T20:00:00Z",
+      "duration": "00:41:47.5720000",
+      "explicit": false,
+      "spotifyId": "2YGK0n27aTWXjuagxkzUK1",
+      "appleId": 1000708776844,
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2YGK0n27aTWXjuagxkzUK1",
+        "apple": "https://podcasts.apple.com/podcast/from-a-cult-living-room-to-religion-reporting-with/id1804448755?i=1000708776844"
+      }
+    }
+  ]
+}

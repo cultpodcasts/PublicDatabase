@@ -5,6 +5,51 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "3f4708c2-cf47-45e7-95a9-167bd8b85fe4",
+      "title": "EP# 115 ~ A quien pueda interesar. Cap\u00EDtulo 12 La Piedra, antes de ir a trabajar... ~ Satur 13/6/04",
+      "description": "La Piedra, antes de ir a trabajar...",
+      "release": "2025-05-16T00:00:00",
+      "duration": "00:06:35.6440000",
+      "explicit": false,
+      "spotifyId": "70N80t9B9yozz3YfCqtYaH",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/70N80t9B9yozz3YfCqtYaH"
+      }
+    },
+    {
+      "id": "6e1e282f-80b3-47e0-bf7e-6966064360d9",
+      "title": "EP# 114 ~ A quien pueda interesar. Cap\u00EDtulo 11 Hanibal Lecter a su lado es una catequista... ~ Satur 6/6/04",
+      "description": "Hanibal Lecter a su lado es una catequista...",
+      "release": "2025-05-14T00:00:00",
+      "duration": "00:09:44.4690000",
+      "explicit": false,
+      "spotifyId": "03wZ5uNkqcRxXw3yWUIeqn",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/03wZ5uNkqcRxXw3yWUIeqn"
+      }
+    },
+    {
+      "id": "f8559a61-7002-4dee-9859-47791ade453d",
+      "title": "EP# 11 3~ A quien pueda interesar. Cap\u00EDtulo 10 \u00A1\u00A1\u00A1M\u00E1s an\u00E9rdotas!!! ~ Satur 30/5/04",
+      "description": "\u00A1\u00A1\u00A1M\u00E1s an\u00E9rdotas!!!",
+      "release": "2025-05-11T00:00:00",
+      "duration": "00:09:57.0080000",
+      "explicit": false,
+      "spotifyId": "6YKbzuIMV4wfwp8yqAFvtY",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6YKbzuIMV4wfwp8yqAFvtY"
+      }
+    },
+    {
       "id": "537113bf-49ca-4af4-aac6-720732aff1f6",
       "title": "EP# 112 ~ A quien pueda interesar. Cap\u00EDtulo 9 \u00A1Sigamos con m\u00E1s an\u00E9rdotas! ~ Satur 23/5/04",
       "description": "\u00A1Sigamos con m\u00E1s an\u00E9rdotas!",

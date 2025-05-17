@@ -15,13 +15,15 @@
       "explicit": true,
       "spotifyId": "0hpeiPJ28UcoBiWaEOXJQ4",
       "appleId": 1000705251890,
+      "youTubeId": "Tx-gHaeYxhQ",
       "subjects": [
         "Human Trafficking",
         "Sean Combs"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0hpeiPJ28UcoBiWaEOXJQ4",
-        "apple": "https://podcasts.apple.com/podcast/diddy-part-2-daddys-house-398/id1250599915?i=1000705251890"
+        "apple": "https://podcasts.apple.com/podcast/diddy-part-2-daddys-house-398/id1250599915?i=1000705251890",
+        "youtube": "https://www.youtube.com/watch?v=Tx-gHaeYxhQ"
       }
     },
     {

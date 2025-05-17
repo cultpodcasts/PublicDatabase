@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "5f073d9d-a497-4a3c-b2aa-ad50fbd60b03",
+  "name": "Dalton Fischer Podcast",
+  "spotifyId": "7iCoSZq4LsvZPdspWiZX1V",
+  "appleId": 1713384664,
+  "youTubeChannelId": "UC-LJKAwCZE1q9kC57cHyJwA",
+  "episodes": [
+    {
+      "id": "92f7291e-9b53-4002-8241-a4dee5cde2a0",
+      "title": "What Is Scientology? | Cult Expert Explains",
+      "description": "Full interview with Rick Spence: https://youtu.be/t_D-s03k61s?si=JEU41m8F7g--T-TJ\n\n#story #podcast #tomcruise",
+      "release": "2025-05-04T16:21:40Z",
+      "duration": "00:07:40",
+      "explicit": false,
+      "spotifyId": "3oNvBhflfXc74Z3wjjgQWa",
+      "appleId": 1000705620145,
+      "youTubeId": "Li_-HEwKveE",
+      "subjects": [
+        "Scientology",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3oNvBhflfXc74Z3wjjgQWa",
+        "apple": "https://podcasts.apple.com/podcast/cia-mossad-epstein-mk-ultra-cults-secret-societies/id1713384664?i=1000705620145",
+        "youtube": "https://www.youtube.com/watch?v=Li_-HEwKveE"
+      }
+    }
+  ]
+}

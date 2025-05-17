@@ -1,0 +1,73 @@
+{
+  "_ts": 0,
+  "id": "c1f4e4e6-1cf0-4c5d-82bd-c522b8af7a62",
+  "name": "The Account from CNN",
+  "spotifyId": "1PKHpP9IkbJ0foLbfivQwx",
+  "appleId": 1753771538,
+  "youTubeChannelId": "UCupvZG-5ko_eiXAupbDfxWw",
+  "youTubePlaylistId": "PL6XRrncXkMaVVnTrYM4Or7Z_4DROJ0Fji",
+  "episodes": [
+    {
+      "id": "550e4940-76c6-4311-864c-9d75448282fc",
+      "title": "Persuadable: Scrolling Alone",
+      "description": "If loneliness and social isolation are part of what pushes people down the rabbit hole, what\u2019s the cure? CNN\u2019s Donie O\u2019Sullivan sits down with a cult survivor who explains why conspiracy theories can have such a powerful hold on believers, and he learns from a pair of documentary filmmakers who have a prescription for a fractured, lonely society. Diane Benscoter is the founder of the nonprofit Antidote , and she\u0027s the author of Shoes of a Servant: My Unconditional Devotion To A Lie . You can listen to more of Donie\u0027s conversation with Diane on YouTube . Pete Davis and Rebecca Davis are the directors and producers of the documentary Join or Die. You can learn more about their film here . Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-05-14T08:00:00Z",
+      "duration": "00:34:19.1020000",
+      "explicit": false,
+      "spotifyId": "7MYQhJk2JhKSACHJaAb7QR",
+      "appleId": 1000708425585,
+      "youTubeId": "6Ibk5vJ-4-o",
+      "subjects": [
+        "Cult Recovery",
+        "Cult Psychology",
+        "Unification Church",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MYQhJk2JhKSACHJaAb7QR",
+        "apple": "https://podcasts.apple.com/podcast/persuadable-scrolling-alone/id1753771538?i=1000708425585",
+        "youtube": "https://www.youtube.com/watch?v=6Ibk5vJ-4-o"
+      }
+    },
+    {
+      "id": "1a9fb9ae-aba1-4cf7-8915-5a14578fc014",
+      "title": "Persuadable: Back Up the Rabbit Hole",
+      "description": "What would you do if the person closest to you woke up believing something that sounded completely crazy? That\u2019s what happened to Stephen Ghiglieri when his then- fianc\u00E9e, Katrina Vaillancourt, became a Q-Anon believer overnight. But their story is a hopeful one. In part two of Persuadable, CNN\u2019s Donie O\u2019Sullivan explores one route out of conspiracy theory belief.\u00A0\n\n\n\nListen to more of Donie\u0027s conversation with Dr. Joe Pierre, author of False: How Mistrust, Disinformation, and Motivated Reasoning Make Us Believe Things That Aren\u2019t True, on YouTube. \n\n\n\nRead about Katrina Vaillancourt\u0027s book, ReQovery: How I Tumbled Down the QAnon Rabbit Hole and Climbed Out, here.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-05-07T08:00:00Z",
+      "duration": "00:37:29",
+      "explicit": false,
+      "spotifyId": "1RLfTU3hpKwrv0Xw3EYVpq",
+      "appleId": 1000706641598,
+      "youTubeId": "Gxb65amXnac",
+      "subjects": [
+        "Qanon",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1RLfTU3hpKwrv0Xw3EYVpq",
+        "apple": "https://podcasts.apple.com/podcast/persuadable-back-up-the-rabbit-hole/id1753771538?i=1000706641598",
+        "youtube": "https://www.youtube.com/watch?v=Gxb65amXnac"
+      }
+    },
+    {
+      "id": "4814df4a-56a7-4b2a-82ea-166644d61a0d",
+      "title": "Persuadable: Why Do We Believe Crazy S**t?",
+      "description": "Conspiracy theories are not new. They\u2019re as old as time itself. But if you feel like they\u2019re everywhere right now, you\u2019re not alone. So, what do you do when somebody you love has fallen down a rabbit hole? CNN\u2019s Donie O\u2019Sullivan has been covering the world of misinformation for more than a decade, but now he\u0027s less interested in what people believe than why they believe it. So, he\u2019s trying to find out.\n\n\n\nSee more of Donie\u0027s interview with Dr. Samuel Veissi\u00E8re\u2060 on YouTube.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-04-30T08:00:00Z",
+      "duration": "00:32:31",
+      "explicit": false,
+      "spotifyId": "0wPxvWPJWFMcLbz41glRPg",
+      "appleId": 1000705522521,
+      "youTubeId": "I2SUeYWJxvw",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0wPxvWPJWFMcLbz41glRPg",
+        "apple": "https://podcasts.apple.com/podcast/persuadable-why-do-we-believe-crazy-s-t/id1753771538?i=1000705522521",
+        "youtube": "https://www.youtube.com/watch?v=I2SUeYWJxvw"
+      }
+    }
+  ]
+}

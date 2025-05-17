@@ -1,0 +1,35 @@
+{
+  "_ts": 0,
+  "id": "4cf091ec-33ba-494a-9e78-2c93c883b5c3",
+  "name": "The Lord Of The Universe",
+  "episodes": [
+    {
+      "id": "5c4552d0-7128-4742-9cff-e5c14f92300b",
+      "title": "(Excerpt) Lord of the Universe",
+      "description": "Excerpt from the duPont-Columbia winning documentary that takes a skeptical view of the Guru Maharaj Ji, leader of a cult-like, new age group, the Divine Light Mission (DLM), and who is known to his followers as \u0022The Lord of the Universe\u0022. It chronicles a gathering of his followers at Houston\u0027s Astrodome, as well as some of the beliefs and practices of his zealous supporters. This excerpt features Rennie Davis and Abbie Hoffman. Clips of Davis in his more radicals days are contrasted with his current New Agey-support of the Guru. Hoffman is quite critical of Davis and the other followers: \u0022Rennie is arrogant about the future... There\u0027s a difference between saying youve found god, and that you know his address.\u0022... \u0022If this guy IS God, hes the God America deserves!\u0022 \n\nAbbie Hoffman, Rennie Davis : Hudson Marquez, Allen Rucker, Michael Shamberg, Elon Soltes, Tom Weinberg, and Megan Williams",
+      "release": "1974-02-24T00:00:00Z",
+      "duration": "00:02:34",
+      "explicit": false,
+      "subjects": [
+        "Divine Light Mission"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/lord_of_the_universe_abbie_hoffman_rennie_davis"
+      }
+    },
+    {
+      "id": "27d0c40e-9473-4a04-9e31-29b3230ed302",
+      "title": "The Lord Of The Universe",
+      "description": "This doc by video pioneers TVTV examines Guru Maharaj Ji, 16-year-old leader of a cult-like new age group, known to his followers as Lord of the Universe. The 1974 gathering at Houston\u0027s Astrodome features Rennie Davis and Abbie Hoffman.",
+      "release": "1974-02-02T00:00:00Z",
+      "duration": "00:58:54",
+      "explicit": false,
+      "subjects": [
+        "Divine Light Mission"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/the-lord-of-the-universe-divine-light-mission-cult"
+      }
+    }
+  ]
+}

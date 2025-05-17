@@ -24,6 +24,21 @@
         "apple": "https://podcasts.apple.com/podcast/mark-hewitt-charles-manson-behind-bars/id1114414039?i=1000705867864",
         "youtube": "https://www.youtube.com/watch?v=mGxjz_ER4dA"
       }
+    },
+    {
+      "id": "bb12fce8-7856-4faf-a9dd-ed7ed17e1a56",
+      "title": "KFNX - Unbreakable Miss Lovely - Tony Ortega",
+      "description": "The Unbreakable Miss Lovely: How the Church of Scientology tried to destroy Paulette Cooper - In 1971 Paulette Cooper wrote a scathing book about the Church of Scientology. Desperate to shut the book down, Scientology unleashed on her one of the most sinister personal campaigns the free world has ever known. The onslaught, which lasted years, ruined her life, and drove her to the brink of suicide. The story of Paulette\u2019s terrifying ordeal is told in full for the first time in The Unbreakable Miss Lovely. It reveals the shocking details of the darkest chapter in Scientology\u2019s checkered history, which ended with senior members in prison, and the organization permanently damaged.",
+      "release": "2022-04-12T03:13:47Z",
+      "duration": "01:19:15",
+      "explicit": false,
+      "youTubeId": "8AfjD38NFtg",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8AfjD38NFtg"
+      }
     }
   ]
 }

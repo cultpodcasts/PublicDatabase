@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "56611538-60a1-46d6-bbd6-864812d71239",
+  "name": "The Sh!t Apple Podcast",
+  "spotifyId": "7eg6Bz5nHQ5Lw9KziiQufm",
+  "appleId": 1793851003,
+  "youTubeChannelId": "UCvsrFTLF1O5YK6JNX6t7cuA",
+  "episodes": [
+    {
+      "id": "eb106d90-eec5-4a9e-94bb-41f05e26aa59",
+      "title": "Have You Accidentally Almost Joined a Cult?",
+      "description": "Ever been to a Beach Boys concert that turned out to be a cult meetup? We have. This week, we\u2019re swapping stories of accidental cult run-ins, MLMs we reluctantly bought into, and how the PTA might just be the most socially acceptable cult out there. And because we clearly have what it takes, we\u2019re starting our own cult\u2014there will be free gifts, good snacks, and 90s gangsta rap!",
+      "release": "2025-05-06T09:00:42Z",
+      "duration": "01:10:22",
+      "explicit": false,
+      "spotifyId": "769YGLGutiJ6UoOgkyWyoJ",
+      "appleId": 1000706510598,
+      "youTubeId": "SpMKlwSU_xA",
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/769YGLGutiJ6UoOgkyWyoJ",
+        "apple": "https://podcasts.apple.com/podcast/have-you-accidentally-almost-joined-a-cult/id1793851003?i=1000706510598",
+        "youtube": "https://www.youtube.com/watch?v=SpMKlwSU_xA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "f2727163-b40a-4eac-a29b-c72cac169a5c",
+  "name": "The HisTerical Society Feminist Podcast",
+  "spotifyId": "3pQNBWTNBD02eLrR6yUrvG",
+  "appleId": 1694599502,
+  "youTubeChannelId": "UCKwAaj8sGQaBYTdaJYFDdSQ",
+  "episodes": [
+    {
+      "id": "5d74331b-6989-41f3-8285-bf32e54e5029",
+      "title": "2-Time Cult Survivor Mindy Conway",
+      "description": "Mindy was raised Jehovah\u0027s Witness and survived only to later find as an adult her mega-church in Texas turned QAnon. She shares the story of how she got out and saw the light both times, as well as tips for those with loved ones who are still in a cult on how to reach them and help them out. #QAnon #IGotOut Resources: Dr. Hassan\u0027s Cult Center: https://freedomofmind.com/ Jim Stewartson\u0027s X: https://x.com/jimstewartson Dave Troy\u0027s X: https://x.com/davetroy",
+      "release": "2025-05-07T01:31:09Z",
+      "duration": "00:30:36.6950000",
+      "explicit": false,
+      "spotifyId": "6BAUxglrlDtZpTioqbRKO6",
+      "appleId": 1000706610361,
+      "youTubeId": "Q4GLhn_qGVo",
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6BAUxglrlDtZpTioqbRKO6",
+        "apple": "https://podcasts.apple.com/podcast/2-time-cult-survivor-mindy-conway/id1694599502?i=1000706610361",
+        "youtube": "https://www.youtube.com/watch?v=Q4GLhn_qGVo"
+      }
+    }
+  ]
+}

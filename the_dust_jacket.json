@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6cf2ee70-9510-429a-b7f0-8eb21b7fa78c",
+  "name": "The Dust Jacket",
+  "spotifyId": "7jyFqjPIgxDcjMkNXG0EgO",
+  "appleId": 1790904479,
+  "episodes": [
+    {
+      "id": "6a1e172c-e1c4-40be-be46-b37e786f9fea",
+      "title": "Dinner for Vampires, by Bethany Joy Lenz",
+      "description": "We discuss the shocking memoir of One Tree Hill star Bethany Joy Lenz, who was in a cult for over a decade. We also have a special guest, the person who recommended this book, Alayne!",
+      "release": "2025-05-16T07:00:00Z",
+      "duration": "00:35:34.4550000",
+      "explicit": true,
+      "spotifyId": "0BGBIi5hkmBExVDjli7E8M",
+      "appleId": 1000708697852,
+      "subjects": [
+        "The Big House Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0BGBIi5hkmBExVDjli7E8M",
+        "apple": "https://podcasts.apple.com/podcast/dinner-for-vampires-by-bethany-joy-lenz/id1790904479?i=1000708697852"
+      }
+    }
+  ]
+}

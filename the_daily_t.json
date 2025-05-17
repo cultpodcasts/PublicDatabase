@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "b60bb45b-3fbe-4609-9541-d6802fa4b570",
+  "name": "The Daily T",
+  "spotifyId": "4m8VUURbHVccXOxne8NaUP",
+  "appleId": 1489612924,
+  "youTubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
+  "youTubePlaylistId": "PLJnf_DDTfIVBV8Pt89mSFIFfZBPkWUoB6",
+  "episodes": [
+    {
+      "id": "d08f94b5-d53f-42a6-a617-c47a0ac3db94",
+      "title": "Rupert Lowe: \u0022Farage is leading a cult, I might start my own party\u0022",
+      "description": "As the row inside Reform rumbles on, Camilla speaks to the man behind the headlines: Rupert Lowe. In the wake of his blistering attack on his former ally Nigel Farage, Lowe tells The Daily T the Reform leader is \u201Crunning a cult\u201D and a \u201Cnarcissist\u201D. He also says he might start a new party to the right of Reform, calling for \u201Ca satisfactory alternative\u201D that is \u201Cmore than just a mobile PR machine\u201D. Later, we bring you part two of The Daily T\u2019s interview with veteran Tory MP and father of the house Sir Edward Leigh, who\u2019s leading the charge against the legalisation of assisted dying. Ahead of another debate by MPs on Friday, Sir Edward explains why he has joined forces with Labour grandee Diane Abbott in an attempt to halt the Bill\u2019s progress. Producers: Georgia Coan and Lilian Fawcett Senior Producer: John Cadigan Planning Editor: Venetia Rainey Executive Producer: Louisa Wells Social Media Producer: Rachel Duffy Video Editor/Camera Operator: Aaron Wheeler Studio Operator: Meghan Searle Editor: Camilla Tominey Original music by Goss Studio Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-05-15T16:21:26Z",
+      "duration": "00:35:07.0620000",
+      "explicit": false,
+      "spotifyId": "5kfk0oeHIXY2VI7h8XK1vx",
+      "appleId": 1000708621346,
+      "youTubeId": "aQHMWIHZgq0",
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5kfk0oeHIXY2VI7h8XK1vx",
+        "apple": "https://podcasts.apple.com/podcast/rupert-lowe-farage-is-leading-a-cult-i-might-start/id1489612924?i=1000708621346",
+        "youtube": "https://www.youtube.com/watch?v=aQHMWIHZgq0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_ts": 0,
+  "id": "d48448e8-63a7-4f43-b852-d51230f359a7",
+  "name": "The Excerpt (USA Today)",
+  "spotifyId": "01lfF43JXe9yW6AKxxwhUC",
+  "appleId": 975311694,
+  "youTubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
+  "youTubePlaylistId": "PLlvHlI3rc2tOumBquZBOeyXQ_AUY2tzfc",
+  "episodes": [
+    {
+      "id": "be2c83d4-9f65-4b32-a4a9-1198ad971c54",
+      "title": "Diddy\u0027s lawyer defended a \u0027sex cult\u0027 leader in an eerily similar case",
+      "description": "Justice Department Correspondent Aysha Bagchi explains how Diddy\u0027s lawyer defended a \u0027sex cult\u0027 leader in an eerily similar case . Pope Leo XIV warned of a \u0027piecemeal\u0027 third world war in first Sunday address . Let us know what you think of this episode by sending an email to podcasts@usatoday.com. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2025-05-12T09:00:00Z",
+      "duration": "00:11:41.0480000",
+      "explicit": false,
+      "spotifyId": "3QovwP9Xahvk7m76cfJ4gJ",
+      "appleId": 1000708091166,
+      "youTubeId": "uYv-zZvZO28",
+      "subjects": [
+        "Sean Combs",
+        "NXIVM",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3QovwP9Xahvk7m76cfJ4gJ",
+        "apple": "https://podcasts.apple.com/podcast/us-and-china-reach-deal-to-slash-trade-tariffs/id975311694?i=1000708091166",
+        "youtube": "https://www.youtube.com/watch?v=uYv-zZvZO28"
+      }
+    },
+    {
+      "id": "680370c3-85a9-4488-8d07-7d079223f875",
+      "title": "Boys and men are also victims of sex trafficking | The Excerpt",
+      "description": "When people talk about the crime of sex trafficking they often think of girls and women. But there are male victims of sex trafficking too. The recent arrest and indictment of former Abercrombie \u0026 Fitch CEO Michael Jeffries on charges of international sex trafficking and interstate prostitution could bring dozens of men out of the shadows to talk about their trauma. Could this be the beginning of a broader reckoning involving male victims of trafficking? Steven Procopio, a licensed clinical social worker who specializes in men\u2019s issues including sexual abuse and sex trafficking, joins The Excerpt to talk about this often overlooked community of survivors.\n#podcast #news #abercrombieandfitch",
+      "release": "2024-11-24T10:00:25Z",
+      "duration": "00:13:42",
+      "explicit": false,
+      "youTubeId": "Rz2gCnKsXtk",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Rz2gCnKsXtk"
+      }
+    },
+    {
+      "id": "ba1253be-1634-4255-8b3a-25dfd46da0f8",
+      "title": "How can we end human trafficking? | The Excerpt",
+      "description": "In just two days, the United Nations will commemorate its World Day Against Trafficking in Persons. The theme this year is \u0022Leave No Child Behind in the Fight Against Human Trafficking.\u0022 Children, particularly girls, remain at great risk here. A staggering 1 in 3 victims of human trafficking globally is a child. How can we prevent this type of exploitation and what\u2019s being done to end human trafficking both in the U.S. and globally? Emma Ecker, a Senior Policy Specialist with Freedom Network USA,  the largest coalition working on human trafficking in America, joins The Excerpt to share the progress that\u0027s been made and lay out the challenges that continue to impede efforts to end the practice altogether.\n#podcast #girls #freedom",
+      "release": "2024-07-28T09:00:17Z",
+      "duration": "00:13:21",
+      "explicit": false,
+      "youTubeId": "Q1HYL8sj5NA",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Q1HYL8sj5NA"
+      }
+    }
+  ]
+}

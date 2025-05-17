@@ -15,13 +15,15 @@
       "explicit": false,
       "spotifyId": "1Du82sJaioaJOD7vA2dx37",
       "appleId": 1000706891464,
+      "youTubeId": "6vwrgifW87M",
       "subjects": [
         "NXIVM",
         "Self-Help"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Du82sJaioaJOD7vA2dx37",
-        "apple": "https://podcasts.apple.com/podcast/the-hollywood-sex-cult/id1795844824?i=1000706891464"
+        "apple": "https://podcasts.apple.com/podcast/the-hollywood-sex-cult/id1795844824?i=1000706891464",
+        "youtube": "https://www.youtube.com/watch?v=6vwrgifW87M"
       }
     },
     {

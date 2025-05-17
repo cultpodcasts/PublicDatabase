@@ -271,12 +271,14 @@
       "explicit": false,
       "spotifyId": "20InTWcnpxvir4pgbJRYhW",
       "appleId": 1000684068609,
+      "youTubeId": "nglncGHtmME",
       "subjects": [
         "The Crusade Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/20InTWcnpxvir4pgbJRYhW",
-        "apple": "https://podcasts.apple.com/podcast/ep-47-fire-rat-from-heaven/id1699470395?i=1000684068609"
+        "apple": "https://podcasts.apple.com/podcast/ep-47-fire-rat-from-heaven/id1699470395?i=1000684068609",
+        "youtube": "https://www.youtube.com/watch?v=nglncGHtmME"
       }
     },
     {
@@ -1303,6 +1305,7 @@
       "explicit": false,
       "spotifyId": "0zngPHRm17uxnHbYLnSe83",
       "appleId": 1000625682833,
+      "youTubeId": "ghoy8s6fyx4",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -1310,7 +1313,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0zngPHRm17uxnHbYLnSe83",
-        "apple": "https://podcasts.apple.com/podcast/ep-2-teaser-we-knew-what-would-happen-if-you-didnt-stay-in-line/id1699470395?i=1000625682833"
+        "apple": "https://podcasts.apple.com/podcast/ep-2-teaser-we-knew-what-would-happen-if-you-didnt-stay-in-line/id1699470395?i=1000625682833",
+        "youtube": "https://www.youtube.com/watch?v=ghoy8s6fyx4"
       }
     },
     {
@@ -1343,6 +1347,7 @@
       "explicit": false,
       "spotifyId": "24B1WYR0k7AFBus4vJ8Skm",
       "appleId": 1000624834925,
+      "youTubeId": "u_ugxqILjDs",
       "subjects": [
         "Living Church of God",
         "Worldwide Church Of God",
@@ -1350,7 +1355,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/24B1WYR0k7AFBus4vJ8Skm",
-        "apple": "https://podcasts.apple.com/podcast/ep-2-teaser-it-felt-like-i-jumped-out-of-a-burning-building/id1699470395?i=1000624834925"
+        "apple": "https://podcasts.apple.com/podcast/ep-2-teaser-it-felt-like-i-jumped-out-of-a-burning-building/id1699470395?i=1000624834925",
+        "youtube": "https://www.youtube.com/watch?v=u_ugxqILjDs"
       }
     },
     {

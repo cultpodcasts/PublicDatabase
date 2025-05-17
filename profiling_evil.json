@@ -13,12 +13,14 @@
       "release": "2025-05-04T18:00:53Z",
       "duration": "00:35:34",
       "explicit": false,
-      "youTubeId": "rM59qnRDSrw",
+      "spotifyId": "4fNgvQ8WacDMZT4OUhS7ax",
+      "appleId": 1000707860868,
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=rM59qnRDSrw"
+        "spotify": "https://open.spotify.com/episode/4fNgvQ8WacDMZT4OUhS7ax",
+        "apple": "https://podcasts.apple.com/podcast/lori-daybell-plotting-and-preaching-post-conviction/id1553176314?i=1000707860868"
       }
     },
     {

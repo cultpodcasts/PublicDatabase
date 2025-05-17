@@ -7,6 +7,23 @@
   "youTubeChannelId": "UCqFAr-WST8nyqrsoFcdv-eA",
   "episodes": [
     {
+      "id": "8346f060-3219-4b04-9882-0f7e572e4617",
+      "title": "The File Of Evidence",
+      "description": "If there\u0027s a \u0022file of evidence\u0022 that proves prophet Shawn Bolz is a fraud, why didn\u0027t anyone alert the public? On the final episode of this miniseries, Jubilee\u0027s journey from victim to whistleblower. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-05-12T10:00:00Z",
+      "duration": "00:31:25",
+      "explicit": false,
+      "spotifyId": "3J5xQmmC7oXQkAU32za4uH",
+      "appleId": 1000708099213,
+      "subjects": [
+        "Bethel Church (Redding CA)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3J5xQmmC7oXQkAU32za4uH",
+        "apple": "https://podcasts.apple.com/podcast/the-file-of-evidence/id1513489117?i=1000708099213"
+      }
+    },
+    {
       "id": "8575bfbe-babe-4e57-be35-b8f266d39542",
       "title": "Bleed For Your Husband",
       "description": "Jubilee married Ted because prophet Shawn Bolz said that\u0027s what God wanted. But would God want Jubilee to marry a man who would nearly kill her? Also, how did \u0027Purity Culture\u0027 override Jubilee\u0027s abilities to trust her own instincts?? Hosted on Acast. See acast.com/privacy for more information.",
@@ -105,12 +122,14 @@
       "explicit": false,
       "spotifyId": "7jyDa1P1lUjKpmQm9vJRrU",
       "appleId": 1000697368240,
+      "youTubeId": "N-HodvUO7qs",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7jyDa1P1lUjKpmQm9vJRrU",
-        "apple": "https://podcasts.apple.com/podcast/heaven-bent-revisists-black-pentecostalism/id1513489117?i=1000697368240"
+        "apple": "https://podcasts.apple.com/podcast/heaven-bent-revisists-black-pentecostalism/id1513489117?i=1000697368240",
+        "youtube": "https://www.youtube.com/watch?v=N-HodvUO7qs"
       }
     },
     {

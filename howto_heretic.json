@@ -1,0 +1,44 @@
+{
+  "_ts": 0,
+  "id": "a074dedb-506d-48b1-9baa-77b2cd587679",
+  "name": "How-To Heretic",
+  "spotifyId": "2jiXZb0yhwkTnEJxFTSzsJ",
+  "appleId": 1294505998,
+  "youTubeChannelId": "UCBQ-QeACCg76SmmYSNfHKQQ",
+  "episodes": [
+    {
+      "id": "073ddeb5-d6fe-4e94-aebd-9b55d49c9d9e",
+      "title": "69: Divine Light Mission - Uncle Mark",
+      "description": "This week! Uncle Mark introduces us to a boy with a simple dream to fly an arena into space\n\nWebsite: https://howtoheretic.com/\nPatreon: https://www.patreon.com/howtoheretic\nH\u00E9r\u00E9tique: https://howtoheretic.threadless.com/collections/clothing/#",
+      "release": "2021-05-19T19:00:09Z",
+      "duration": "00:21:08",
+      "explicit": false,
+      "youTubeId": "Ep5IQCvmTM0",
+      "subjects": [
+        "Divine Light Mission"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ep5IQCvmTM0"
+      }
+    },
+    {
+      "id": "cd825137-2e5c-42df-aa38-c8dfc5fa4b0d",
+      "title": "Keep The Tip - 069",
+      "description": "This week! Uncle Mark introduces us to a boy with a simple dream to fly an arena into space, and Uncle Dan gets circumspect about mutilating babies for no reason.",
+      "release": "2019-01-16T07:00:00Z",
+      "duration": "01:09:51",
+      "explicit": false,
+      "spotifyId": "5e70UIIrPTceX7bmTFQs47",
+      "appleId": 1000427745485,
+      "youTubeId": "sJHbq1fK9fQ",
+      "subjects": [
+        "Divine Light Mission"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5e70UIIrPTceX7bmTFQs47",
+        "apple": "https://podcasts.apple.com/podcast/keep-the-tip-069/id1294505998?i=1000427745485",
+        "youtube": "https://www.youtube.com/watch?v=sJHbq1fK9fQ"
+      }
+    }
+  ]
+}

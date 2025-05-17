@@ -6,6 +6,24 @@
   "appleId": 1638918169,
   "episodes": [
     {
+      "id": "d18c089e-08aa-4329-b882-8ecf1701c008",
+      "title": "Jonestown: The Death of a Cult",
+      "description": "Did you ever wonder where the phrase \u0027drink the Kool-Aid\u0027 came from? In this second episode about the Peoples Temple, we rejoin them in Jonestown, Guyana. How planned was the final \u0027white night\u0027? Did anyone survive? And what happened to the notorious Jim Jones? Don is joined once again by author and scholar Annie Dawid, who has spent over two decades researching Peoples Temple. Produced by Sophie Gee. Edited by Tim Arstall. Senior Producer was Charlotte Long. Sign up to History Hit for hundreds of hours of original documentaries, with a new release every week and ad-free podcasts. Sign up at https://www.historyhit.com/subscribe . You can take part in our listener survey here . All music from Epidemic Sounds. American History Hit is a History Hit podcast.",
+      "release": "2025-05-12T08:00:00Z",
+      "duration": "00:30:27.6830000",
+      "explicit": false,
+      "spotifyId": "69cOVnciVmyxISif8SNo1U",
+      "appleId": 1000706980030,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/69cOVnciVmyxISif8SNo1U",
+        "apple": "https://podcasts.apple.com/podcast/jonestown-the-death-of-a-cult/id1638918169?i=1000706980030",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0l99z5y"
+      }
+    },
+    {
       "id": "ce882ccd-6bd5-4c02-9827-40a9694aa93c",
       "title": "Jonestown: The Birth of Peoples Temple",
       "description": "On November 18th, 1978, over 900 people died at an American settlement in the jungle of Guyana called Jonestown. In this first of two episodes, we are going to find out how they ended up in South America. Who was the eponymous Reverend Jim Jones, notorious leader of the cult? What did the Peoples Temple believe in? How and why did they make the journey from Indiana to California to Guyana? Don is joined by author and scholar Annie Dawid, who has spent over two decades researching Peoples Temple. Produced by Sophie Gee. Edited by Tim Arstall. Senior Producer was Charlotte Long. Sign up to History Hit for hundreds of hours of original documentaries, with a new release every week and ad-free podcasts. Sign up at https://www.historyhit.com/subscribe . You can take part in our listener survey here . All music from Epidemic Sounds. American History Hit is a History Hit podcast.",
@@ -37,7 +55,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1L33DxkY1fTL6HyGrAOAml",
-        "apple": "https://podcasts.apple.com/podcast/waco-a-cult-the-fbi-and-a-fiery-ending/id1638918169?i=1000679475141"
+        "apple": "https://podcasts.apple.com/podcast/waco-a-cult-the-fbi-and-a-fiery-ending/id1638918169?i=1000679475141",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0k9f39p"
       }
     }
   ]

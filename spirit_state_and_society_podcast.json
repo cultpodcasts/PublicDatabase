@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "5cb2658e-be49-4763-af7f-34fc408ba95a",
+  "name": "Spirit, State, and Society Podcast",
+  "spotifyId": "7k6kYNkFIlkT1TMJBuY0G9",
+  "youTubeChannelId": "UCg1iGewURbw0G1Ggfo0I7fA",
+  "youTubePlaylistId": "PLpBDHBQghi1DR-UGmd-kfnl6a0ry2zIGR",
+  "episodes": [
+    {
+      "id": "380fcb5b-6374-4fa6-94f1-1d56087198dd",
+      "title": "Welcome to the Spirit, State, and Society Podcast",
+      "description": "In the first episode, we ask why understanding Pentecostalism matters, define what is meant by \u201Cpentecostal,\u201D and explain our approach to the study of these movements.",
+      "release": "2025-05-07T22:42:39Z",
+      "duration": "00:18:39.4340000",
+      "explicit": false,
+      "spotifyId": "4VEJEfV0lBwmNVaAJfl2gr",
+      "youTubeId": "MYDkM1u2zwI",
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4VEJEfV0lBwmNVaAJfl2gr",
+        "youtube": "https://www.youtube.com/watch?v=MYDkM1u2zwI"
+      }
+    }
+  ]
+}

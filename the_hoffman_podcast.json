@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "dd3123fe-9dbc-4938-97f7-66f07473b6d3",
+  "name": "The Hoffman Podcast",
+  "spotifyId": "4jrTxSz1DcEehEUBbr8d1h",
+  "appleId": 1516681509,
+  "episodes": [
+    {
+      "id": "78fa8720-d123-4d16-98bd-c96b305a9cbd",
+      "title": "S2E8: Cara Jones \u2013 Finding My Own Inner Messiah",
+      "description": "In today\u2019s episode, Cara Jones shares her powerful life story. Cara is a filmmaker, former Emmy Award-winning journalist, and a story coach. She grew up in the Unification Church, often called the \u2018Moonies\u2019, and adopted this spiritual belief system. Cara\u2019s real journey began when she left this religious movement. As she did, everything she\u2019d been taught and had come to believe in about the world fell out from under her. In completing the Hoffman Process, Cara found great healing. She came to see that, \u201CYou can\u2019t be haunted by a ghost you know.\u201D Listen in as Cara shares about finding her inner messiah, healing her relationship with her family, and the freedom that comes when you own your story. Cara Jones\u2019 work in the World: After completing the Process, Cara was finally able to tell her story to the world in her feature-length film, Blessed Child . Cara\u2019s film production company, Storytellers for Good, produced this personal journey documentary. The seven-year journey of making the film inspires her current coaching work helping entrepreneurs untether their voices and get visible with their stories and bold messages. She works with people to guide them to own their stories. She invites you to \u201Cown your story so your story doesn\u2019t own you.\u201D Cara is also a MOTH story slam winner. Her writing has been featured in the Washington Post, HuffPo, and the Boston Globe. You can find out more about Cara here or follow her on Instagram .",
+      "release": "2020-12-10T17:50:36Z",
+      "duration": "00:28:30.0530000",
+      "explicit": false,
+      "spotifyId": "1FmiveicNMncIFZmGYiqNU",
+      "appleId": 1000501982464,
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1FmiveicNMncIFZmGYiqNU",
+        "apple": "https://podcasts.apple.com/podcast/s2e8-cara-jones-finding-my-own-inner-messiah/id1516681509?i=1000501982464"
+      }
+    }
+  ]
+}
