@@ -1,0 +1,38 @@
+{
+  "_ts": 0,
+  "id": "35a0a95a-feb5-4098-bd96-d3d7d3efc5b0",
+  "name": "timjbd",
+  "youTubeChannelId": "UCdp1ISFyHUSmo2MEY6bCs5A",
+  "episodes": [
+    {
+      "id": "0fe95993-7c8e-4ba3-b779-099d64f52915",
+      "title": "Belize Oil- The Benefits",
+      "description": "Now that oil has been discovered in Belize, who\u0027s likely to benefit? Dave Marash reports",
+      "release": "2007-10-07T22:05:28Z",
+      "duration": "00:05:43",
+      "explicit": false,
+      "youTubeId": "I1si1FQ6lgU",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=I1si1FQ6lgU"
+      }
+    },
+    {
+      "id": "5af971bb-1179-4de9-85f3-61ef30339aec",
+      "title": "Belize Strikes Oil!",
+      "description": "The tiny Caribbean nation of Belize strikes oil. Will it change the layed-back way of life? If so, how? Dave Marash reports.",
+      "release": "2007-10-07T22:01:42Z",
+      "duration": "00:04:54",
+      "explicit": false,
+      "youTubeId": "YdxCvJ7UPnw",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=YdxCvJ7UPnw"
+      }
+    }
+  ]
+}

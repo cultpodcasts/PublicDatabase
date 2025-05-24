@@ -3,7 +3,28 @@
   "id": "dea89ef9-b76a-475f-bb70-124ba4dff7fe",
   "name": "Deep Dive: Fascists, spies and gurus",
   "spotifyId": "2GJLMxHvC7U5KIdfMQZJmz",
+  "youTubeChannelId": "UC8Wwvdt6MheGPy9pJY-9g3w",
   "episodes": [
+    {
+      "id": "163d4047-641d-41e8-ae08-7fe3b31f6ded",
+      "title": "The cult apologist network. Part 1",
+      "description": "Extended video version",
+      "release": "2025-05-18T16:21:42Z",
+      "duration": "00:17:45.5110000",
+      "explicit": false,
+      "spotifyId": "7n3kVM6odFHxiHbI6pft1u",
+      "youTubeId": "Xn-1aNyaCjg",
+      "subjects": [
+        "Cult Apologists",
+        "Scientology",
+        "Gregorian Bivolaru",
+        "AllatRa"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7n3kVM6odFHxiHbI6pft1u",
+        "youtube": "https://www.youtube.com/watch?v=Xn-1aNyaCjg"
+      }
+    },
     {
       "id": "fb3140aa-4856-40d5-87d8-0e0734374af5",
       "title": "The Children of God/The Family: Middle Europe 1990-2025",

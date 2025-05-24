@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "3b7efc1f-9bb2-42f2-a6cf-98fd2c9b816d",
+  "name": "Trial By Jury: Diddy",
+  "spotifyId": "69nk77HGKdSgIhc7CB5dXk",
+  "appleId": 1814219790,
+  "episodes": [
+    {
+      "id": "a5ca03f1-242b-44da-bf8f-75541f24e9a5",
+      "title": "An Expert Explains Why Survivors Stay Silent",
+      "description": "As the second week of Sean \u0022Diddy\u0022 Combs\u2019 racketeering and sex trafficking trial unfolds, the abuse and coercion alleged by Combs\u2019 ex-girlfriend has been in the spotlight. Laura Coates speaks with Dr. Lisa Fontes, a professor and expert on intimate partner violence and coercive control, to unpack what the jury heard and what it reveals about the prosecution\u2019s strategy. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-05-22T00:19:00Z",
+      "duration": "00:22:59.2130000",
+      "explicit": false,
+      "spotifyId": "2k4FAzhYf2aWxGtecvvupD",
+      "appleId": 1000709349197,
+      "subjects": [
+        "Human Trafficking",
+        "Cult Psychology",
+        "Sean Combs",
+        "Psychology",
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2k4FAzhYf2aWxGtecvvupD",
+        "apple": "https://podcasts.apple.com/podcast/an-expert-explains-why-survivors-stay-silent/id1814219790?i=1000709349197"
+      }
+    }
+  ]
+}

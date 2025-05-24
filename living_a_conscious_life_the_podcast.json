@@ -1,0 +1,55 @@
+{
+  "_ts": 0,
+  "id": "c5c63749-249c-446e-9288-68701bb0421a",
+  "name": "Living a Conscious Life: The Podcast",
+  "spotifyId": "2fcL3T8yUDkKfGOcGPqr2J",
+  "appleId": 1749658889,
+  "youTubeChannelId": "UCJiRNm3eLQF2bUpIu1tlMqg",
+  "episodes": [
+    {
+      "id": "2395e19e-bbc0-439f-8e75-31f7b3e3ebaa",
+      "title": "Guru Gone Bad? The Unflattering Truth About Prem Rawat: Interview with Paul Drescher",
+      "description": "Don Johnson interviews Paul Drescher, an ex-follower of Prem Rawat.  We discuss our experiences as young men in what we now know was and still is a cult.",
+      "release": "2025-05-18T11:05:46Z",
+      "duration": "01:02:20",
+      "explicit": false,
+      "youTubeId": "q6wQB0YGm60",
+      "subjects": [
+        "Divine Light Mission"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=q6wQB0YGm60"
+      }
+    },
+    {
+      "id": "07d0f5a3-b2e1-4ba7-8630-02447af84a24",
+      "title": "In the Shadow of Enlightenment with Sarito Carroll: A Girl\u0027s Journey Through the Osho Rajneesh Cult",
+      "description": "This is my interview with Sarito Carroll, a survivor of the Osho Rajneesh Cult and author of her newly released memoir, In the Shadow of Enlightenment: A Girl\u0027s Journey Through the Osho Rajneesh Cult.",
+      "release": "2025-03-18T14:01:51Z",
+      "duration": "01:03:55",
+      "explicit": false,
+      "youTubeId": "yW5rlGKQ4Nw",
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=yW5rlGKQ4Nw"
+      }
+    },
+    {
+      "id": "47906d23-9542-4837-82e4-6f1d20ea65cd",
+      "title": "Prem Rawat: The Dark Star of India? His Recent Attempt to Silence Me",
+      "description": "On this podcast I discuss my response to the intimidation letter sent to a podcast host by a law firm hired by Prem Rawat. \n\nThe letter warned her of possible litigation if she allowed me to spread defamatory statements about Prem Rawat on her show. \n\nI also discuss several other related topics.",
+      "release": "2025-01-24T12:34:49Z",
+      "duration": "00:39:10",
+      "explicit": false,
+      "youTubeId": "2CNstBldX_Y",
+      "subjects": [
+        "Divine Light Mission"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2CNstBldX_Y"
+      }
+    }
+  ]
+}

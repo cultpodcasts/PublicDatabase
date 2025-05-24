@@ -7,33 +7,20 @@
   "youTubeChannelId": "UCBP-YKtljlv5Eq4qT6fItog",
   "episodes": [
     {
-      "id": "04f38b2f-caaa-4a09-a057-96757a06d783",
-      "title": "Temple (REALLY Do Not) Recommend Part Two",
-      "description": "The Mormon Temple and all its rituals are creepy. In this episode, the Two NoMos dive further into the cult-like rituals and share some terrifying quotes from ExMormons who went through the Temple and came out scathed and traumatized.",
-      "release": "2025-05-16T00:00:00",
-      "duration": "01:04:34.9460000",
-      "explicit": true,
-      "spotifyId": "1JpHoKfZsU7hiVF5keg95Y",
-      "subjects": [
-        "The Church Of Jesus Christ Of Latter-Day Saints"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/1JpHoKfZsU7hiVF5keg95Y"
-      }
-    },
-    {
       "id": "92264fb2-a4c3-4e04-ab2c-6b5373b21cd2",
       "title": "Ep. 16 -  Temple (REALLY Do Not) Recommend Part Two",
       "description": "Source:\nhttps://www.podbean.com/eau/pb-bt3fx-189e4ab\n\nThe Mormon Temple and all its rituals are creepy.\nIn this episode, the Two NoMos dive further into the cult-like rituals and share some terrifying quotes from ExMormons who went through the Temple and came out scathed and traumatized.",
       "release": "2025-05-06T05:02:00Z",
       "duration": "01:04:34",
       "explicit": false,
+      "spotifyId": "1JpHoKfZsU7hiVF5keg95Y",
       "appleId": 1000706477147,
       "youTubeId": "jH6ZEedFI3I",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1JpHoKfZsU7hiVF5keg95Y",
         "apple": "https://podcasts.apple.com/podcast/ep-16-temple-really-do-not-recommend-part-two/id1791618379?i=1000706477147",
         "youtube": "https://www.youtube.com/watch?v=jH6ZEedFI3I"
       }

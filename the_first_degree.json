@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "a87d9ea3-b242-412d-93b6-5ae43045dd37",
+  "name": "The First Degree",
+  "spotifyId": "4ENeQGFGaek8xVHPdo4u47",
+  "appleId": 1423759123,
+  "episodes": [
+    {
+      "id": "efb6c4d3-6171-49f7-a1dc-4e52e74d39ed",
+      "title": "DEEP DIVE: SHEN YUN",
+      "description": "IT\u2019S TIME! This week, the girls are finally deep diving into Shen Yun. And this time, it\u2019s personal. Jac and Lex went to a Shen Yun show themselves to see what all of the fuss was about. They\u2019re diving into the bizarre history of Shen Yun itself, what going to a Shen Yun show is REALLY like, and figuring out once and for all if Shen Yun is actually a cult (spoiler alert: it is). \u0026#x1f39f; Catch up to FOUR bonus episodes per month plus full video episodes over on Patreon: patreon.com/thefirstdegree \u0026#x1f4f8; Instagram: instagram.com/thefirstdegree \u0026#x1f57a; TikTok: tiktok.com/@thefirstdegreee \u0026#x1f464; Facebook: facebook.com/thefirstdegree",
+      "release": "2025-05-22T10:00:00Z",
+      "duration": "00:52:30.4710000",
+      "explicit": false,
+      "spotifyId": "0TAQpHvFFzmbq5XHx2N8Ia",
+      "appleId": 1000709409301,
+      "subjects": [
+        "Falun Gong"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0TAQpHvFFzmbq5XHx2N8Ia",
+        "apple": "https://podcasts.apple.com/podcast/deep-dive-shen-yun/id1423759123?i=1000709409301"
+      }
+    }
+  ]
+}

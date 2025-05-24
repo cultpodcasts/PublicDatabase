@@ -5,6 +5,40 @@
   "youTubeChannelId": "UC8Wwvdt6MheGPy9pJY-9g3w",
   "episodes": [
     {
+      "id": "8ffcbc33-4379-4fb4-8679-2a164133ad23",
+      "title": "The Cult Apologist Network. Part 1",
+      "description": "Based on Luigi Corvaglia\u0027s investigation",
+      "release": "2025-05-18T16:21:42Z",
+      "duration": "00:17:45",
+      "explicit": false,
+      "youTubeId": "Xn-1aNyaCjg",
+      "subjects": [
+        "Cult Apologists",
+        "Scientology",
+        "Gregorian Bivolaru",
+        "AllatRa"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Xn-1aNyaCjg"
+      }
+    },
+    {
+      "id": "3a31c7a6-d80d-4d56-a3d6-8ccf048d0d94",
+      "title": "Il modello SAPS di manipolazione  - Scuola di Alta Formazione in Sociologia della Religione,  2025",
+      "description": "Lezione sulle fallacie argomentative degli \u0022apologeti dei culti\u0022 e sul modello Submission As Preference Shifting (SAPS)",
+      "release": "2025-05-15T09:30:03Z",
+      "duration": "00:30:55",
+      "explicit": false,
+      "youTubeId": "aKGRGpzy588",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aKGRGpzy588"
+      }
+    },
+    {
       "id": "0895bee1-859c-45d5-b787-4730066be23c",
       "title": "The paradox of cult apologists",
       "release": "2024-09-27T16:50:34Z",

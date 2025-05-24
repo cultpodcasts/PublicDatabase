@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "421f9639-5ffb-413c-9222-3e1059f34f55",
+  "name": "Latest Stories from The Associated Press",
+  "spotifyId": "0ktXuNT8M6AmSdDDlstWyq",
+  "appleId": 1034954712,
+  "episodes": [
+    {
+      "id": "ff98d019-4e99-495e-8e43-bd4942421413",
+      "title": "Leader of neo-Nazi \u0027murder cult\u0027 extradited to the US from Moldova",
+      "description": "AP\u0027s Lisa Dwyer reports on the extradition of a leader of a neo-Nazi group.",
+      "release": "2025-05-23T20:58:39Z",
+      "duration": "00:00:53",
+      "explicit": false,
+      "spotifyId": "4OZbMXg81XIozSeTFVkCYu",
+      "appleId": 1000709632961,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4OZbMXg81XIozSeTFVkCYu",
+        "apple": "https://podcasts.apple.com/podcast/leader-of-neo-nazi-murder-cult-extradited-to-the-us/id1034954712?i=1000709632961"
+      }
+    }
+  ]
+}

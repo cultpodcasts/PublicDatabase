@@ -7,6 +7,25 @@
   "youTubeChannelId": "UCGt7X90Au6BV8rf49BiM6Dg",
   "episodes": [
     {
+      "id": "4e65a42b-b62a-4ffc-aae0-5b0569b62b41",
+      "title": "He Started a Sex Cult",
+      "description": "Larry Ray orchestrated a decade-long campaign of manipulation and abuse after moving into his daughter Talia\u0027s dorm at Sarah Lawrence College in 2010. Presenting himself as a mentor, he ingratiated himself with her roommates, eventually subjecting them to psychological, physical abuse.",
+      "release": "2025-05-21T19:16:27Z",
+      "duration": "00:08:06",
+      "explicit": false,
+      "spotifyId": "689PP5EqiqbHxhYK9Ygv8f",
+      "appleId": 1000709319092,
+      "youTubeId": "LYkszZy9F2A",
+      "subjects": [
+        "Larry Ray"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/689PP5EqiqbHxhYK9Ygv8f",
+        "apple": "https://podcasts.apple.com/podcast/he-started-a-sex-cult-the-larry-ray-story/id1795844824?i=1000709319092",
+        "youtube": "https://www.youtube.com/watch?v=LYkszZy9F2A"
+      }
+    },
+    {
       "id": "9b005649-b62a-4902-bdd5-6d214f3fd500",
       "title": "The Hollywood Sex Cult",
       "description": "Allison Mack, formerly known for her role as Chloe Sullivan on the television series Smallville, became a central figure in the NXIVM scandal\u2014a case involving a self-proclaimed self-help organization that was later exposed as a coercive cult. Mack joined NXIVM in 2006, an organization led by Keith Raniere. Within NXIVM, she rose to a high-ranking position and was instrumental in establishing a secret subgroup called DOS. This subgroup operated under a master-slave hierarchy, where women were recruited under the guise of female empowerment but were subjected to branding, forced labor, and exploitation.",

@@ -4,6 +4,7 @@
   "name": "Nobody Should Believe Me",
   "spotifyId": "0tU5rLsNkx7LeI2GhLlQ4X",
   "appleId": 1615637188,
+  "youTubeChannelId": "UCgU_pa06KOh2jc4XXTgau4g",
   "episodes": [
     {
       "id": "9f3d2737-6971-4137-b1cb-20ca36a02532",
@@ -99,6 +100,7 @@
       "explicit": true,
       "spotifyId": "0BHAQElKUfMnydmh9zL9cc",
       "appleId": 1000702965938,
+      "youTubeId": "ubXKliUonmk",
       "subjects": [
         "Cult-Expert",
         "Cult Recovery",
@@ -106,7 +108,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0BHAQElKUfMnydmh9zL9cc",
-        "apple": "https://podcasts.apple.com/podcast/case-files-15-everyday-cults-with-rachel-bernstein/id1615637188?i=1000702965938"
+        "apple": "https://podcasts.apple.com/podcast/case-files-15-everyday-cults-with-rachel-bernstein/id1615637188?i=1000702965938",
+        "youtube": "https://www.youtube.com/watch?v=ubXKliUonmk"
       }
     },
     {
@@ -118,12 +121,14 @@
       "explicit": true,
       "spotifyId": "1Ue7r0TZMgIWAVdOSSQy3M",
       "appleId": 1000702001087,
+      "youTubeId": "10E9zUGmNOk",
       "subjects": [
         "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Ue7r0TZMgIWAVdOSSQy3M",
-        "apple": "https://podcasts.apple.com/podcast/case-files-14-susan-smith-and-the-impact/id1615637188?i=1000702001087"
+        "apple": "https://podcasts.apple.com/podcast/case-files-14-susan-smith-and-the-impact/id1615637188?i=1000702001087",
+        "youtube": "https://www.youtube.com/watch?v=10E9zUGmNOk"
       }
     },
     {
@@ -135,12 +140,14 @@
       "explicit": false,
       "spotifyId": "00tTHRqYD0CsWR00YW9dNy",
       "appleId": 1000701152305,
+      "youTubeId": "qTR_PVXoYss",
       "subjects": [
         "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/00tTHRqYD0CsWR00YW9dNy",
-        "apple": "https://podcasts.apple.com/podcast/the-andreas-of-ethical-true-crime-with-andrea-gunning/id1615637188?i=1000701152305"
+        "apple": "https://podcasts.apple.com/podcast/the-andreas-of-ethical-true-crime-with-andrea-gunning/id1615637188?i=1000701152305",
+        "youtube": "https://www.youtube.com/watch?v=qTR_PVXoYss"
       }
     },
     {
@@ -169,12 +176,14 @@
       "explicit": true,
       "spotifyId": "3nKUBz07HZiQmojEqT920v",
       "appleId": 1000700069275,
+      "youTubeId": "JYxaFJ93LJU",
       "subjects": [
         "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3nKUBz07HZiQmojEqT920v",
-        "apple": "https://podcasts.apple.com/podcast/answering-your-season-5-questions/id1615637188?i=1000700069275"
+        "apple": "https://podcasts.apple.com/podcast/answering-your-season-5-questions/id1615637188?i=1000700069275",
+        "youtube": "https://www.youtube.com/watch?v=JYxaFJ93LJU"
       }
     },
     {
@@ -186,12 +195,14 @@
       "explicit": true,
       "spotifyId": "19x2kOVDDAy4hQQDS3fkV2",
       "appleId": 1000699106310,
+      "youTubeId": "poX57AqLLpk",
       "subjects": [
         "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19x2kOVDDAy4hQQDS3fkV2",
-        "apple": "https://podcasts.apple.com/podcast/case-files-11-new-media-journalism-and-death-eaters-with/id1615637188?i=1000699106310"
+        "apple": "https://podcasts.apple.com/podcast/case-files-11-new-media-journalism-and-death-eaters-with/id1615637188?i=1000699106310",
+        "youtube": "https://www.youtube.com/watch?v=poX57AqLLpk"
       }
     },
     {

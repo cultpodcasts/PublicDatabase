@@ -2,7 +2,6 @@
   "_ts": 0,
   "id": "e1e47c00-4ba2-41c3-aa45-dc87c29034ab",
   "name": "People Are Deep",
-  "spotifyId": "3BXcc5VbJfBgElkuFZtmUj",
   "appleId": 1771507802,
   "youTubeChannelId": "UCO3CXJLea-Iynza7PmK33Eg",
   "episodes": [
@@ -13,11 +12,13 @@
       "release": "2024-10-19T17:00:14Z",
       "duration": "00:26:10",
       "explicit": false,
+      "appleId": 1000674300905,
       "youTubeId": "KxKmN0RF69I",
       "subjects": [
         "Children Of God"
       ],
       "urls": {
+        "apple": "https://podcasts.apple.com/podcast/how-i-escaped-a-dangerous-cult/id1771507802?i=1000674300905",
         "youtube": "https://www.youtube.com/watch?v=KxKmN0RF69I"
       }
     },
@@ -43,13 +44,12 @@
       "release": "2024-10-01T13:00:02Z",
       "duration": "00:33:27.4570000",
       "explicit": false,
-      "spotifyId": "10ttpI9AcMJGJWTecC9g6k",
       "appleId": 1000671424504,
+      "youTubeId": "4AciMfSM0Dg",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/10ttpI9AcMJGJWTecC9g6k",
         "apple": "https://podcasts.apple.com/podcast/former-jehovahs-witness-speaks-out/id1771507802?i=1000671424504",
         "youtube": "https://www.youtube.com/watch?v=4AciMfSM0Dg"
       }

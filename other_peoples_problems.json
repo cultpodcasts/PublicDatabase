@@ -14,12 +14,16 @@
       "release": "2025-05-12T12:01:24Z",
       "duration": "00:35:40",
       "explicit": false,
+      "spotifyId": "2uVscxFk4Z3paxj6Zmbvmb",
+      "appleId": 1000707010763,
       "youTubeId": "mn66xjaRmIg",
       "subjects": [
         "Cult Psychology",
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2uVscxFk4Z3paxj6Zmbvmb",
+        "apple": "https://podcasts.apple.com/podcast/brandi-cult-control-and-social-anxiety/id1355059144?i=1000707010763",
         "youtube": "https://www.youtube.com/watch?v=mn66xjaRmIg"
       }
     }

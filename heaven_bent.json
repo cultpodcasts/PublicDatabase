@@ -7,6 +7,20 @@
   "youTubeChannelId": "UCqFAr-WST8nyqrsoFcdv-eA",
   "episodes": [
     {
+      "id": "17bcc93f-70cf-4ca5-9f9c-f4adc9f8c696",
+      "title": "Heaven Bent: Behind The Mic",
+      "description": "A researcher from the University of Georgia recently asked Tara Jean to be a part of a study. It\u0027s focus was on content creators whose work impacts people who are leaving or questioning a belief or community that define a large part of someone\u0027s identity. So, normally, she\u0027s the one doing the interviewing, but not on this episode. Why did Tara Jean start making Heaven Bent? Who is her podcast for? Is she a documentarian? An ally? A meddler? Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-05-19T17:29:46Z",
+      "duration": "00:48:28.8390000",
+      "explicit": false,
+      "spotifyId": "4AlBH58P5QA20cL57cGJgX",
+      "appleId": 1000709034524,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4AlBH58P5QA20cL57cGJgX",
+        "apple": "https://podcasts.apple.com/podcast/heaven-bent-behind-the-mic/id1513489117?i=1000709034524"
+      }
+    },
+    {
       "id": "8346f060-3219-4b04-9882-0f7e572e4617",
       "title": "The File Of Evidence",
       "description": "If there\u0027s a \u0022file of evidence\u0022 that proves prophet Shawn Bolz is a fraud, why didn\u0027t anyone alert the public? On the final episode of this miniseries, Jubilee\u0027s journey from victim to whistleblower. Hosted on Acast. See acast.com/privacy for more information.",
@@ -576,9 +590,11 @@
       "explicit": false,
       "spotifyId": "3qighI5FFrLvdB25vAP2mp",
       "appleId": 1000615683505,
+      "youTubeId": "G4UmltGK7EU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qighI5FFrLvdB25vAP2mp",
-        "apple": "https://podcasts.apple.com/podcast/show-me-the-toes-p1-of-2/id1513489117?i=1000615683505"
+        "apple": "https://podcasts.apple.com/podcast/show-me-the-toes-p1-of-2/id1513489117?i=1000615683505",
+        "youtube": "https://www.youtube.com/watch?v=G4UmltGK7EU"
       }
     },
     {

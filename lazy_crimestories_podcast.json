@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "f6c5e864-3489-492e-bb3a-ad13295f84f9",
+  "name": "Lazy Crime  Stories Podcast",
+  "spotifyId": "4D2Zgk9OsGXiIqkkzVPfhR",
+  "appleId": 1810875576,
+  "episodes": [
+    {
+      "id": "79ed5a76-7a3a-4bee-a7e6-e3ea3149b4b0",
+      "title": "The Zizian\u0027s: A Cult Trail of Violence (S2, E17)",
+      "description": "Dive into the chilling world of the Zizians in this gripping episode of Lazy Crime Stories (Season 2, Ep16). On February 18, 2025, Maryland authorities arrested Jack LaSota, aka \u0022Ziz,\u0022 and two associates, uncovering a cultlike group linked to six killings across the U.S. From a landlord\u0027s brutal attack to a deadly border shootout, the Zizians\u2019 extreme beliefs in veganism, AI risks, and transgender issues spiraled into a trail of violence. Join us as we unravel their dark story, exploring the radicalization that left a nation in shock. Perfect for true crime fans craving real, unsettling tales.",
+      "release": "2025-05-17T06:00:00Z",
+      "duration": "00:05:42.6740000",
+      "explicit": false,
+      "spotifyId": "4GDXruQhEUegG4a8eWHMKL",
+      "appleId": 1000708804019,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4GDXruQhEUegG4a8eWHMKL",
+        "apple": "https://podcasts.apple.com/podcast/the-zizians-a-cult-trail-of-violence-s2-e17/id1810875576?i=1000708804019"
+      }
+    }
+  ]
+}
