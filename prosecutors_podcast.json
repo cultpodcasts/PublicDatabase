@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "27ea521a-cd0e-47d5-be6d-352ad905b8e1",
+  "name": "Prosecutors Podcast",
+  "spotifyId": "5jE3NzCLOp9pXIcBeHuZOy",
+  "appleId": 1513765512,
+  "youTubeChannelId": "UCap_f7bZBDXrlewGmURxNMw",
+  "episodes": [
+    {
+      "id": "24481830-314c-4836-8267-965c7bf93632",
+      "title": "99: Rod Ferrell and the Vampire Cult Murders -- Bela Lugosi\u0027s Dead",
+      "description": "A vampire cult? In Kentucky? You bet, and it ends in murder.",
+      "release": "2021-10-19T04:00:00Z",
+      "duration": "01:05:01",
+      "explicit": false,
+      "spotifyId": "4wPWSc43l4pcKLcdn46DZ1",
+      "appleId": 1000546797169,
+      "youTubeId": "hsD5uAb_3DM",
+      "subjects": [
+        "Rod Ferrell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4wPWSc43l4pcKLcdn46DZ1",
+        "apple": "https://podcasts.apple.com/podcast/99-rod-ferrell-and-the-vampire-cult-murders-bela/id1513765512?i=1000546797169",
+        "youtube": "https://www.youtube.com/watch?v=hsD5uAb_3DM"
+      }
+    }
+  ]
+}

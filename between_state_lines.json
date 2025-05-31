@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "16122610-b961-4c91-830d-8e00e7238565",
+  "name": "Between State Lines",
+  "spotifyId": "4BlMgJiZOQ9BmxVdYwp2uR",
+  "appleId": 1756976383,
+  "youTubeChannelId": "UC5ahhaAHmmQRGBy7mce06lg",
+  "episodes": [
+    {
+      "id": "0be5701f-cecd-44a7-ab09-fbea2683928c",
+      "title": "The Cult of Mormonism",
+      "description": "Ex-Mormon and friend of the podcast, Chloe, joins Steff and Holden to talk about the cult of the Mormon church.",
+      "release": "2025-05-29T17:12:29Z",
+      "duration": "01:15:13",
+      "explicit": false,
+      "spotifyId": "1XiUNuwBmzEB1VfoqWFagd",
+      "appleId": 1000709468731,
+      "youTubeId": "5cdYISCwh-4",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1XiUNuwBmzEB1VfoqWFagd",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-mormonism/id1756976383?i=1000709468731",
+        "youtube": "https://www.youtube.com/watch?v=5cdYISCwh-4"
+      }
+    }
+  ]
+}

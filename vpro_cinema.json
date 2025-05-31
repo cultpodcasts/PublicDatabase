@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "e0767c91-20c5-49a1-8352-1175de8f09c8",
+  "name": "vpro cinema",
+  "youTubeChannelId": "UCtr1cGQ5WjD2YJ8dlIxHoVA",
+  "episodes": [
+    {
+      "id": "dea16052-35e5-47ab-a469-589a2cf67f5c",
+      "title": "Louis Theroux on My Scientology Movie",
+      "description": "TV journalist Louis Theroux talks about making his documentary on the church of Scientology in My Scientology Movie (2016).\nhttp://www.cinema.nl\n\nThanks for watching and please subscribe to our channel and follow us on Twitter and Facebook!\nhttp://www.twitter.com/vprocinema\nhttp://www.facebook.com/vprocinema",
+      "release": "2016-05-10T12:23:46Z",
+      "duration": "00:12:31",
+      "explicit": false,
+      "youTubeId": "zCxsJBLbxbc",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zCxsJBLbxbc"
+      }
+    }
+  ]
+}

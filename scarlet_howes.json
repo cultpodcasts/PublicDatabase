@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "482370d8-0d70-41fb-8e00-e5008538c70a",
+  "name": "Scarlet Howes",
+  "youTubeChannelId": "UC7hcPGNYtS45lzenlRUs1vA",
+  "episodes": [
+    {
+      "id": "85f89b6d-73a3-4dcc-b89c-85fcbcfbfd6d",
+      "title": "My Scientology Movie world premiere LFF with Louis Theroux",
+      "description": "Louis Theroux and producer Simon Chinn talk about their controversial documentary at LFF.",
+      "release": "2015-10-14T21:58:18Z",
+      "duration": "00:04:25",
+      "explicit": false,
+      "youTubeId": "0WULaUv5l4Y",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0WULaUv5l4Y"
+      }
+    }
+  ]
+}

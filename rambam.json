@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "744cd5f1-922f-4ec4-8051-31edebbda00b",
+  "name": "RAMBAM",
+  "youTubeChannelId": "UC8DPFSTPErSEbBNr63kpTLw",
+  "episodes": [
+    {
+      "id": "b4a81d99-f878-4390-bcdc-305ca3df4f68",
+      "title": "Louis Theroux discusses Scientology and undercover reporting- Rambam",
+      "description": "Louis Theroux discusses his new documentary \u0022My Scientology movie\u0022 with Rinke Verkerk from Rambam.",
+      "release": "2016-05-13T15:31:58Z",
+      "duration": "00:10:29",
+      "explicit": false,
+      "youTubeId": "X_l0FaZPS2I",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=X_l0FaZPS2I"
+      }
+    }
+  ]
+}

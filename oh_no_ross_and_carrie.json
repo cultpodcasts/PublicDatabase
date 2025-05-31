@@ -4,6 +4,7 @@
   "name": "Oh No, Ross and Carrie",
   "spotifyId": "6VxkVPjFYgEop7tEZeUNmC",
   "appleId": 425328515,
+  "youTubeChannelId": "UCNTdzyeK_lFmTRO0k5mUjZg",
   "episodes": [
     {
       "id": "c6c38a74-e1fe-4709-8750-f5746a23d1ad",
@@ -48,6 +49,29 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Xn4mYHV1sa9jmaCJfMR7T",
         "apple": "https://podcasts.apple.com/podcast/ross-and-carrie-test-the-perimeter-fences-responses/id425328515?i=1000653141412"
+      }
+    },
+    {
+      "id": "e464360a-8ea7-44c7-98b7-ab24509feda1",
+      "title": "Ross Blocher at SkeptiCamp LA - Testing the Perimeter Fences",
+      "description": "Testing the Perimeter Fences: How Practitioners of Non-Science Wall Themselves Off from Criticism. Presented at SkeptiCamp Los Angeles by Ross Blocher on March 24, 2024. Filmed by Adrienne Hill and Emery Emery and edited by Heather Henderson. Oh No, Ross and Carrie! the podcast.\n\nFull SkeptiCamp playlist link on Heather Henderson\u0027s channel: https://www.youtube.com/playlist?list=PLb82CF-DGYCfxT6IKckZtm6KnMNMqxDQr\nMost videos also available on About Time\u0027s channel as well: https://www.youtube.com/playlist?list=PLULWW-7O_P4H2Pc2dPXZ2WN8NkzP0-GdT",
+      "release": "2024-04-18T06:18:10Z",
+      "duration": "00:32:01",
+      "explicit": false,
+      "youTubeId": "3Di1-jbKMuc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3Di1-jbKMuc"
+      }
+    },
+    {
+      "id": "41595b65-a7df-4f24-a292-323e1c22cafc",
+      "title": "Oh No, Ross and Carrie! Live Stream",
+      "release": "2024-03-23T00:15:26Z",
+      "duration": "04:56:08",
+      "explicit": false,
+      "youTubeId": "XDfftxGKiH8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XDfftxGKiH8"
       }
     },
     {
@@ -294,6 +318,18 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/4MGtjSSpFmK4vRGlxYhm0R",
         "apple": "https://podcasts.apple.com/podcast/ross-and-carrie-hug-amma-part-1-miraculous-edition/id425328515?i=1000459029143"
+      }
+    },
+    {
+      "id": "aef073b3-0a2d-4c33-8756-fe7a9ec705d5",
+      "title": "Oh No, Ross and Carrie Boston Live Show - March 24, 2019",
+      "description": "Ross and Carrie visit the Healing Rooms Ministries of Boston on a quest to heal eczema, migraines, allergies, and myopia, and then share the tale with a live Boston public radio audience... and also all the people walking by who overhear their buttfisting references. The great Jennings Brown (Gizmodo, The Gateway) also shares his recent expos\u00E9 of a fake sex expert, and comes along to the healing rooms to cure his thanatophobist malady. Plus, Carrie tests her new allergy cure in front of a horrified crowd, and Ross shares his dad photos (mostly graves). March 24, 2019.",
+      "release": "2019-07-20T12:30:43Z",
+      "duration": "01:41:53",
+      "explicit": false,
+      "youTubeId": "jGXKQCwG_aw",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jGXKQCwG_aw"
       }
     },
     {

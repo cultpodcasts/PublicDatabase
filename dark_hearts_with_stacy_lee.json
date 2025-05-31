@@ -613,11 +613,15 @@
       "release": "2023-06-06T17:00:26Z",
       "duration": "00:32:27",
       "explicit": false,
+      "spotifyId": "4cJbVlopnWNxx2KwzhHlsP",
+      "appleId": 1000709874738,
       "youTubeId": "uBJDn2NShNQ",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4cJbVlopnWNxx2KwzhHlsP",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-immanuel-a-horrific-tragedy-in-salt/id1751330081?i=1000709874738",
         "youtube": "https://www.youtube.com/watch?v=uBJDn2NShNQ"
       }
     },

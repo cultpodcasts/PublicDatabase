@@ -4,7 +4,28 @@
   "name": "At This Moment with Jim Jefferies \u0026 Amos Gill",
   "spotifyId": "4F5JTmmbkeqkMaYt1YtJBo",
   "appleId": 1502150789,
+  "youTubeChannelId": "UCm0DJ7GBsBZ7-Nq5x10c9hQ",
+  "youTubePlaylistId": "PLVYeh_3Gx_96uafJXlvmZsDXgHqK83X-y",
   "episodes": [
+    {
+      "id": "97847e0a-7a2b-4d3f-b5fb-1d99ed0e7dd2",
+      "title": "ATM: Episode 13 - New Zealand\u0027s January 6th",
+      "description": "Jim and Amos talk about how they like Tom Cruise even though he\u0027s part of a cult that makes people disappear.",
+      "release": "2025-05-28T07:00:00Z",
+      "duration": "01:32:30.4210000",
+      "explicit": true,
+      "spotifyId": "4ys7o9BdJjAy1LF7dAZGSO",
+      "appleId": 1000710240292,
+      "youTubeId": "VkLfcHDHo6s",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ys7o9BdJjAy1LF7dAZGSO",
+        "apple": "https://podcasts.apple.com/podcast/atm-episode-13-new-zealands-january-6th/id1502150789?i=1000710240292",
+        "youtube": "https://www.youtube.com/watch?v=VkLfcHDHo6s"
+      }
+    },
     {
       "id": "a7a0e53e-eb56-41ab-8c44-95d1307ed7ab",
       "title": "Jonestown Massacre",

@@ -4,7 +4,28 @@
   "name": "KQED\u0027s Forum",
   "spotifyId": "1QN1TOcYhAqgk5jDO3pPu6",
   "appleId": 73329719,
+  "youTubeChannelId": "UC0FISFbEaHFc5ccrIgkZ3mg",
+  "youTubePlaylistId": "PLCxtKFQXBuRirbXGU1ZhZXLonwrXow4Do",
   "episodes": [
+    {
+      "id": "20bd5be7-8daa-4728-9366-15ed27ee8409",
+      "title": "Forum From the Archives: Jonathan Hirsch on Losing His Father to \u0027A Cult and Dementia\u0027",
+      "description": "In his popular podcast \u201CDear Franklin Jones,\u201D radio producer Jonathan Hirsch tried to make sense of a childhood dominated by his parents\u2019 spiritual guru. In a new memoir he more deeply explores his relationship with his father and the complexity of providing care for a parent who didn\u2019t take care of him. We talk to him about his audio memoir, \u201CThe Mind is Burning: Losing My Father to a Cult and Dementia.\u201D Guests: Jonathan Hirsch, podcast producer; author of the audiobook memoir, \u0022The Mind Is Burning: Losing my Father to a Cult and Dementia\u0022 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-05-26T18:00:00Z",
+      "duration": "00:56:43.0750000",
+      "explicit": false,
+      "spotifyId": "4EbRh3lkZ0QgJOiRTj5B1j",
+      "appleId": 1000709965331,
+      "youTubeId": "lmdJrgjq1M4",
+      "subjects": [
+        "Adi Da"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4EbRh3lkZ0QgJOiRTj5B1j",
+        "apple": "https://podcasts.apple.com/podcast/forum-from-the-archives-jonathan-hirsch-on-losing-his/id73329719?i=1000709965331",
+        "youtube": "https://www.youtube.com/watch?v=lmdJrgjq1M4"
+      }
+    },
     {
       "id": "10e10a26-b8c0-4a79-ace4-c5ba0b878a01",
       "title": "Jonathan Hirsch on Losing His Father to \u2018A Cult and Dementia\u2019",

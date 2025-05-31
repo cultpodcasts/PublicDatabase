@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "8b060bfc-cbb7-4d11-a587-bc7149d68d21",
+      "title": "207. Petra Part V",
+      "description": "We finish up our Petra series with Unseen Power and Wake Up Call.",
+      "release": "2025-05-27T23:43:38Z",
+      "duration": "01:41:30.0040000",
+      "explicit": true,
+      "spotifyId": "3IZNc6SsPZoCGNXvA7vrQN",
+      "appleId": 1000710197673,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3IZNc6SsPZoCGNXvA7vrQN",
+        "apple": "https://podcasts.apple.com/podcast/207-petra-part-v/id1573190999?i=1000710197673"
+      }
+    },
+    {
       "id": "2bdb628e-46fe-4abf-ad31-0cf26a51a2f5",
       "title": "207. Petra IV: Beyond Belief",
       "description": "This week, we discuss Petra\u0027s two biggest albums, On Fire and Beyond Belief. We also go through the mini movie for beyond belief.",

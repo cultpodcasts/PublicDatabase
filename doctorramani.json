@@ -50,6 +50,22 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=_Ir76c8eTFU"
       }
+    },
+    {
+      "id": "79a23652-6946-4056-97f0-3fd5f79ab40e",
+      "title": "The narcissistic cult of two",
+      "release": "2022-06-08T13:46:29Z",
+      "duration": "00:11:18",
+      "explicit": false,
+      "youTubeId": "pqlX3bAc8n4",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology",
+        "One-on-one"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pqlX3bAc8n4"
+      }
     }
   ]
 }

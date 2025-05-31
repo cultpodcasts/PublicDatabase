@@ -7,6 +7,104 @@
   "youTubeChannelId": "UCM-6n1rFPHQVDnEQWay3odQ",
   "episodes": [
     {
+      "id": "fb8e5cd1-7aa3-4b95-bc2f-f60cc3a4efda",
+      "title": "CRIMECON COLLECTION: IN CONVERSATION WITH BEXY CAMERON",
+      "description": "BOOK YOUR TICKETS HERE - Book Now | London True Crime Event | CrimeCon UK USE CODE CULT FOR 10% OFF FIND BEXY\u0027S WORK HERE - Bexy Cameron (@cameron_film) \u2022 Instagram photos and videos",
+      "release": "2025-05-25T20:17:12Z",
+      "duration": "00:34:04.3910000",
+      "explicit": true,
+      "spotifyId": "6lys2L3p87Js1BDCuvAgLN",
+      "appleId": 1000709815645,
+      "youTubeId": "oSAdY3hiOYI",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6lys2L3p87Js1BDCuvAgLN",
+        "apple": "https://podcasts.apple.com/podcast/crimecon-collection-in-conversation-with-bexy-cameron/id1514656568?i=1000709815645",
+        "youtube": "https://www.youtube.com/watch?v=oSAdY3hiOYI"
+      }
+    },
+    {
+      "id": "9bea9fc7-e7e5-4d3c-8297-0e61275f1d68",
+      "title": "CRIMECON COLLECTION: A TALK WITH LEGENDARY JON ATACK",
+      "description": "BOOK YOUR TICKETS HERE - Book Now | London True Crime Event | CrimeCon UK USE CODE CULT FOR 10% OFF FIND JON\u0027S WORK HERE - www.youtube.com/@jonatackfamilyfriends6176",
+      "release": "2025-05-25T20:14:52Z",
+      "duration": "00:47:19.2230000",
+      "explicit": true,
+      "spotifyId": "3iw578prnNVHFwzKAAzVtP",
+      "appleId": 1000709815646,
+      "youTubeId": "Ea_i5_ENcJI",
+      "subjects": [
+        "Cult-Expert",
+        "Scientology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3iw578prnNVHFwzKAAzVtP",
+        "apple": "https://podcasts.apple.com/podcast/crimecon-collection-a-talk-with-legendary-jon-atack/id1514656568?i=1000709815646",
+        "youtube": "https://www.youtube.com/watch?v=Ea_i5_ENcJI"
+      }
+    },
+    {
+      "id": "e7271877-15e0-48d6-9f43-71719a76a2ee",
+      "title": "CRIMECON COLLECTION: UK PODCASTER\u0027S ROUNDUP",
+      "description": "BOOK YOUR TICKETS HERE - Book Now | London True Crime Event | CrimeCon UK USE CODE CULT FOR 10% OFF",
+      "release": "2025-05-25T20:13:10Z",
+      "duration": "00:46:26.1360000",
+      "explicit": false,
+      "spotifyId": "5Udiy3Y0JJL7VvQ37D4J6p",
+      "appleId": 1000709815094,
+      "youTubeId": "rf8_YByLfFE",
+      "subjects": [
+        "_London"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Udiy3Y0JJL7VvQ37D4J6p",
+        "apple": "https://podcasts.apple.com/podcast/crimecon-collection-uk-podcasters-roundup/id1514656568?i=1000709815094",
+        "youtube": "https://www.youtube.com/watch?v=rf8_YByLfFE"
+      }
+    },
+    {
+      "id": "557b8a9e-3c87-4100-b3b4-3230315907e0",
+      "title": "CRIMECON COLLECTION: A LIVE TALK WITH COLIN SUTTON",
+      "description": "BOOK YOUR TICKETS HERE - Book Now | London True Crime Event | CrimeCon UK USE CODE \u0022CULT\u0022 TO GET 10% OFF FIND COLIN\u0027S LIVE TOUR DATES HERE - Colin Sutton tour dates \u0026 tickets 2025 | Ents24",
+      "release": "2025-05-25T20:09:17Z",
+      "duration": "00:42:29.2800000",
+      "explicit": true,
+      "spotifyId": "6FRmubtDwBi1AcX3VNGVq2",
+      "appleId": 1000709815427,
+      "youTubeId": "V4ueJWworr8",
+      "subjects": [
+        "Legislation",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6FRmubtDwBi1AcX3VNGVq2",
+        "apple": "https://podcasts.apple.com/podcast/crimecon-collection-a-live-talk-with-colin-sutton/id1514656568?i=1000709815427",
+        "youtube": "https://www.youtube.com/watch?v=V4ueJWworr8"
+      }
+    },
+    {
+      "id": "5d9ec5e0-897a-48a0-b379-af601ecc2ebc",
+      "title": "CRIMECON COLLECTION: A LIVE TALK WITH ELGEN STRAIT - THE UNIFICATION CHURCH",
+      "description": "BOOK YOUR TICKETS HERE - Book Now | London True Crime Event | CrimeCon UK USE CODE CULT FOR 10% OFF FIND ELGEN\u0027S WORK HERE - Falling Out",
+      "release": "2025-05-25T20:05:02Z",
+      "duration": "00:32:29.9030000",
+      "explicit": true,
+      "spotifyId": "2EsY4J3eJnQ3pIqDgCvHVk",
+      "appleId": 1000709815500,
+      "youTubeId": "lickqW-R-rw",
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2EsY4J3eJnQ3pIqDgCvHVk",
+        "apple": "https://podcasts.apple.com/podcast/crimecon-collection-a-live-talk-with-elgen/id1514656568?i=1000709815500",
+        "youtube": "https://www.youtube.com/watch?v=lickqW-R-rw"
+      }
+    },
+    {
       "id": "159532e9-a04f-4533-81c2-e3412face146",
       "title": "STOP QUOTING OSHO! #shorts #osho",
       "release": "2025-05-24T02:00:04Z",

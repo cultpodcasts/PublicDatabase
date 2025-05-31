@@ -6,6 +6,24 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "522d934d-9a09-4d6d-ac18-02a1c31f6e6c",
+      "title": "Amish \u0026 Mennonites Season 10 Episode 14",
+      "description": "Gunnar and Thor Return from Italy.\nNathan and Thor discuss their findings on the Amish and Mennonites.\nGunnar enjoys being sick.",
+      "release": "2025-05-29T18:13:06Z",
+      "duration": "00:58:49",
+      "explicit": false,
+      "spotifyId": "2m7n2R3iXWE46pcPg6cf2U",
+      "appleId": 1000710459833,
+      "subjects": [
+        "Amish",
+        "Mennonite"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2m7n2R3iXWE46pcPg6cf2U",
+        "apple": "https://podcasts.apple.com/podcast/amish-mennonites-season-10-episode-14/id1565633523?i=1000710459833"
+      }
+    },
+    {
       "id": "53f8c850-67d2-465f-9acb-a9ede9d7784f",
       "title": "Doomsday Prep - Season 10 Episode 13",
       "description": "In this episode: Nathan has strange dreams. Gunnar is no longer a Big Boy. Thor teaches the ins and outs to Doomsday Prepping.",

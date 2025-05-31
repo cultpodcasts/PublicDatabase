@@ -2,8 +2,44 @@
   "_ts": 0,
   "id": "c3564cfe-ac1e-4eb5-9e90-49e421923121",
   "name": "Good Morning America",
+  "spotifyId": "4AIKidJG6lRCzjyyDguc1k",
+  "appleId": 1604634359,
   "youTubeChannelId": "UCH1oRy1dINbMVp3UFWrKP0w",
   "episodes": [
+    {
+      "id": "243a101e-1101-4303-9ebb-184aee5feda5",
+      "title": "GMA3: Wednesday, May 28",
+      "description": "Trevor Zegras and Rob Thorsen champion mental health in hockey; ER or urgent care? How to make the right call; How to cook with oat milk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-05-28T16:00:00Z",
+      "duration": "00:35:52.2540000",
+      "explicit": false,
+      "spotifyId": "1bSQ93uCz6wj4W1QKGmQjR",
+      "appleId": 1000710305773,
+      "youTubeId": "XG0IFlz8Rc4",
+      "subjects": [
+        "Church of the First Born of the Lamb of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1bSQ93uCz6wj4W1QKGmQjR",
+        "apple": "https://podcasts.apple.com/podcast/wednesday-may-28/id1604634359?i=1000710305773",
+        "youtube": "https://www.youtube.com/watch?v=XG0IFlz8Rc4"
+      }
+    },
+    {
+      "id": "93ae77ff-4394-40fe-b8bb-bf3b64de784d",
+      "title": "Felicity Huffman dishes on new role as woman leaving a cult",
+      "description": "The actress talks to \u201CGMA\u201D about her role in \u201CThe Thirteenth Wife: Escaping Polygamy,\u201D a two-part Lifetime movie.\n\n\nSUBSCRIBE to GMA on YouTube: https://bit.ly/2Zq0dU5 \n\nSIGN UP to get the daily GMA Wake-Up Newsletter: \nhttps://tinyurl.com/yc34mz6t\n\nVISIT GMA: https://www.goodmorningamerica.com\n\nFOLLOW:\nTikTok: https://tiktok.com/@gma\nInstagram: https://instagram.com/GoodMorningAmerica\nFacebook: https://facebook.com/GoodMorningAmerica\nThreads: https://www.threads.net/@goodmorningamerica\nX: https://twitter.com/gma",
+      "release": "2025-05-28T15:20:00Z",
+      "duration": "00:04:43",
+      "explicit": false,
+      "youTubeId": "PE1EfghE7A8",
+      "subjects": [
+        "Church of the First Born of the Lamb of God"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PE1EfghE7A8"
+      }
+    },
     {
       "id": "76060e13-19b9-4974-a366-32e26984984b",
       "title": "Ruby Franke\u0027s daughter speaks out about mom\u0027s arrest and her abusive childhood",

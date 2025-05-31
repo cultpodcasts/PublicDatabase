@@ -6,6 +6,21 @@
   "youTubeChannelId": "UC8Wwvdt6MheGPy9pJY-9g3w",
   "episodes": [
     {
+      "id": "12100b0d-c82c-44b8-93af-7497d6466181",
+      "title": "The Cult Apologist Network. Part 2",
+      "description": "The political roots of CESNUR",
+      "release": "2025-05-30T00:00:00",
+      "duration": "00:17:33.7810000",
+      "explicit": false,
+      "spotifyId": "5f3CbQYMcXGTddm5JKcug7",
+      "subjects": [
+        "Cult Apologists"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5f3CbQYMcXGTddm5JKcug7"
+      }
+    },
+    {
       "id": "163d4047-641d-41e8-ae08-7fe3b31f6ded",
       "title": "The cult apologist network. Part 1",
       "description": "Extended video version",

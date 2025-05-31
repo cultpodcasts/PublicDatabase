@@ -1,0 +1,42 @@
+{
+  "_ts": 0,
+  "id": "eb659498-0afe-4768-b133-cba7bf0eda78",
+  "name": "The Louis Theroux Podcast",
+  "spotifyId": "7LuQv400JFzzlJrOuMukRj",
+  "appleId": 1725833532,
+  "youTubeChannelId": "UC1NB2uPfRcaun2jcTR1RSxg",
+  "episodes": [
+    {
+      "id": "52275fa4-3309-4900-b0b8-915242123d4b",
+      "title": "John Wilson: \u201CWe were groomed by a cult leader\u201D | The Louis Theroux Podcast",
+      "description": "John Wilson in the house! The brilliant and idiosyncratic documentary auteur discusses filmmaking, his acclaimed HBO series \u2018How To with John Wilson\u2019, his run-in with the NXIVM cult, Nathan Fielder, acappella singing, and much else besides. It\u2019s an awkward-man two-hander! Please join!\nhttps://open.spotify.com/episode/72uXTGekyvo0xADdvFQCSg?si=916f8db2a0fa438b",
+      "release": "2025-05-27T12:35:55Z",
+      "duration": "00:10:57",
+      "explicit": false,
+      "youTubeId": "yr0Q9iZw7VU",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=yr0Q9iZw7VU"
+      }
+    },
+    {
+      "id": "7b2448ff-2c6a-45fe-85b6-bb4d5be491b8",
+      "title": "S5 EP4: John Wilson on collaborating with Nathan Fielder, confronting a cult, and hating mockumentaries",
+      "description": "Louis speaks to John Wilson, fellow documentarian and creator of the cult-favourite series, How To...with John Wilson. The pair swap stories about their respective work, including discussing John\u2019s collaborations with writer and producer Nathan Fielder, how joining an acapella group exposed him to the NXIVM sex-cult, and their shared disdain for mockumentaries. Plus, John turns the tables on Louis\u2026 Warnings: Strong language and some adult themes. Links/Attachments: TV Show: \u2018How To with John Wilson\u2019 (2020-2023) - HBO https://www.bbc.co.uk/iplayer/episodes/p0cltlm3/how-to-with-john-wilson TV Show: \u2018Louis Theroux: Gambling in Las Vegas\u2019 (2007) - BBC https://www.bbc.co.uk/iplayer/episode/b007957z/louis-theroux-gambling-in-las-vegas TV Show: \u2018Louis Theroux\u2019s LA Stories\u2019 (2014) - BBC https://www.bbc.co.uk/iplayer/episodes/b03zjc67/louis-therouxs-la-stories Pitch Perfect (2012) https://www.youtube.com/watch?v=2mbsapmW0bg Song: \u2018Roxanne\u2019, The Police (1978) https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo TV Show: \u2018Seduced: Inside the NXIVM Cult\u2019 (2020) - Starz https://www.youtube.com/watch?v=ch_4jn_m6-g TV Show: \u2018The Vow\u2019 (2020) - HBO https://www.hbo.com/the-vow-2020 TV Show: \u2018Louis Theroux\u2019s Weird Weekends\u2019 (1998-2000) - BBC https://www.bbc.co.uk/iplayer/episode/p02q5prq/louis-therouxs-weird-weekends-series-1-1-christianity?seriesId=unsliced The Amazing Johnathan (2019) https://www.imdb.com/title/tt9358084/ TV Show: \u2018When Louis Met...Jimmy Savile\u2019 (2000) - BBC https://www.bbc.co.uk/iplayer/episode/p0g3zjn9/when-louis-met-series-1-jimmy-savile TV Show: \u2018Louis Theroux: America\u2019s Most Dangerous Pets\u2019 (2011) - BBC https://www.bbc.co.uk/iplayer/episode/b016yklh/louis-theroux-americas-most-dangerous-pets TV Show: \u2018Nathan For You\u2019 (2013-2017) - Comedy Central https://www.imdb.com/title/tt2297757/ TV Show: \u2018The Rehearsal\u2019 (2022 \u2013 Present) - HBO https://www.hbo.com/the-rehearsal Book: The Journalist and the Murderer, Janet Malcolm (1989) https://www.amazon.co.uk/Journalist-Murderer-Janet-Malcolm/dp/1847085342 Book: The Silent Woman: Sylvia Plath and Ted Hughes, Janet Malcolm (1994) https://www.amazon.co.uk/Silent-Woman-J-Malcolm/dp/0679751408 Book: Psychoanalysis: The Impossible Profession, Janet Malcolm (1977) https://www.amazon.co.uk/Psychoanalysis-Impossible-Profession-Janet-Malcolm/dp/0394710347 Credits: Producer: Millie Chu Assistant Producer: Emilia Gill Production Manager: Francesca Bassett Music: Miguel D\u2019Oliveira Audio Mixer: Tom Guest Video Mixer: Scott Edwards Shownotes compiled by Immie Webb Executive Producer: Arron Fellows A Mindhouse Production for Spotify www.mindhouse.co.uk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-05-26T23:00:00Z",
+      "duration": "01:10:10.8580000",
+      "explicit": false,
+      "spotifyId": "72uXTGekyvo0xADdvFQCSg",
+      "appleId": 1000710001110,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72uXTGekyvo0xADdvFQCSg",
+        "apple": "https://podcasts.apple.com/podcast/john-wilson-on-collaborating-with-nathan-fielder/id1725833532?i=1000710001110"
+      }
+    }
+  ]
+}

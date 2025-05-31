@@ -5,6 +5,51 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "0a212166-afcd-4fdf-b063-33be7d81f394",
+      "title": "EP# 119 ~ Escapar cuando no hay m\u00E1s remedio ~ Luc\u00EDa Gim\u00E9nez 10/5/24",
+      "description": "Escapar cuando no hay m\u00E1s remedio",
+      "release": "2025-05-29T00:00:00",
+      "duration": "00:02:26.8660000",
+      "explicit": false,
+      "spotifyId": "1HuAh9tGadWMhK4HSp8DbW",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1HuAh9tGadWMhK4HSp8DbW"
+      }
+    },
+    {
+      "id": "c30cd56f-f7ff-407f-aa60-ff32a5777c99",
+      "title": "EP# 118 ~ Lo que nadie puede imaginar ~ Solitudine 15/11/17",
+      "description": "Lo que nadie puede imaginar",
+      "release": "2025-05-26T00:00:00",
+      "duration": "00:10:50.5070000",
+      "explicit": false,
+      "spotifyId": "3VofSGr6rF2vW1IoYF8CCT",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3VofSGr6rF2vW1IoYF8CCT"
+      }
+    },
+    {
+      "id": "3994246a-b27f-4565-8fce-3993c1fbddd5",
+      "title": "EP# 117 ~ Carta abierta a Mons. Oc\u00E1riz: \u00BFSabe usted qu\u00E9 es el abuso espiritual? ~ Teresa del Romero Montes 12/03/25",
+      "description": "Carta abierta a Mons. Oc\u00E1riz: \u00BFSabe usted qu\u00E9 es el abuso espiritual?",
+      "release": "2025-05-24T00:00:00",
+      "duration": "00:10:50.5070000",
+      "explicit": false,
+      "spotifyId": "2CFYC56dUGaLGfCm9yWmWM",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2CFYC56dUGaLGfCm9yWmWM"
+      }
+    },
+    {
       "id": "dfc56479-55d4-458f-b135-b09688987bb5",
       "title": "EP# 116 ~ A quien pueda interesar. Cap\u00EDtulo 13 ~ Satur 28/6/04",
       "description": "De c\u00F3mo salv\u00E9 de morir quemada a una agregada potente",

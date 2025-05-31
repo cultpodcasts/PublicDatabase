@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "1c401084-e834-422d-9663-33d8decb7735",
+  "name": "comedy poison",
+  "youTubeChannelId": "UC6Nk8U0dIt2I7KCLJGmk1gA",
+  "episodes": [
+    {
+      "id": "63591dae-ca72-4839-a1c6-87072d5f717c",
+      "title": "How To With John Wilson: The NXIVM story",
+      "description": "John Wilson recounts his experience with Keith Raniere, founder of cult NXIVM, at an ill-fated acapella summit. \nThis part of the episode was incredible to me.",
+      "release": "2021-12-06T22:48:39Z",
+      "duration": "00:03:44",
+      "explicit": false,
+      "youTubeId": "G7nA9CGjyBE",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=G7nA9CGjyBE"
+      }
+    }
+  ]
+}

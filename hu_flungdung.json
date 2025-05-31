@@ -18,6 +18,20 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=eCZ_tEMWoO8"
       }
+    },
+    {
+      "id": "172c49b7-03d6-4413-a7f2-9ca56642f6a1",
+      "title": "Louis Theroux - My Scientology Movie interview with Tony Jones",
+      "release": "2016-06-18T02:17:42Z",
+      "duration": "00:01:04",
+      "explicit": false,
+      "youTubeId": "hNV4G-CU9vo",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hNV4G-CU9vo"
+      }
     }
   ]
 }

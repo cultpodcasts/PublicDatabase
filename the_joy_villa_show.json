@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "d5072978-fc26-44f8-9aa9-a62d70edd8b9",
+  "name": "The Joy Villa Show",
+  "spotifyId": "5UmRLwW3SORGpLL0wWJiZV",
+  "appleId": 1804937528,
+  "youTubeChannelId": "UC6hld3om8u8ya_RTbA00iBg",
+  "youTubePlaylistId": "PLxrz6HXvOcrWl4_XBV-Y9x7HpFBi-kgCH",
+  "episodes": [
+    {
+      "id": "306fbbfd-25dc-4e8b-a055-85bdb67f3ce9",
+      "title": "\u201DWhy I Had To Leave Scientology\u201D- Joy on Life After A Cult @NatalieLifeAfterACult",
+      "description": "Preorder my BOOK! https://www.amazon.com/dp/B0F8LKT2T7?ref=cm_sw_r_ffobk_cp_ud_dp_14HP0KSZRRRTKNX7VB6J_1\u0026ref_=cm_sw_r_ffobk_cp_ud_dp_14HP0KSZRRRTKNX7VB6J_1\u0026social_share=cm_sw_r_ffobk_cp_ud_dp_14HP0KSZRRRTKNX7VB6J_1\u0026bestFormat=true\u0026previewDoh=1\u0026fbclid=PAZXh0bgNhZW0CMTEAAaeopN99So3EXZL6ruWEM-kCRbgXQvPnr5PoiMmAyVxuk8UQWNOy-y5z0AA1_A_aem_JR5z2F5QicwKKvmkTHQiXg",
+      "release": "2025-05-28T23:28:17Z",
+      "duration": "01:36:45",
+      "explicit": false,
+      "spotifyId": "1XI8htFawEIx7Lyd07jQ5V",
+      "appleId": 1000710370596,
+      "youTubeId": "ypq4rQcc6cI",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1XI8htFawEIx7Lyd07jQ5V",
+        "apple": "https://podcasts.apple.com/podcast/why-i-had-to-leave-scientology-joy-on-life-after-a/id1804937528?i=1000710370596",
+        "youtube": "https://www.youtube.com/watch?v=ypq4rQcc6cI"
+      }
+    }
+  ]
+}

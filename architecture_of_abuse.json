@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "a336ae8d-f0bc-4f4b-a0b5-86e4f06bfd3b",
+  "name": "Architecture of Abuse",
+  "spotifyId": "2NdR9oh1Vmbhfyey4bXCuz",
+  "appleId": 1816319575,
+  "youTubeChannelId": "UCmyDtVnLXgVhNgq201A3hzg",
+  "episodes": [
+    {
+      "id": "3dea64da-0af4-43dd-ab3d-f54b7b8e63e7",
+      "title": "Trailer",
+      "description": "Architecture of Abuse explores the widespread issue of child sexual abuse in Utah, with a particular focus on how the Church of Jesus Christ of Latter-day Saints has historically responded to reports of abuse within its community. Hosted by Alyssa Grenfell and veteran attorney Tim Kosnoff, and in conversation with clinical therapists, sociologists, historians, journalists, and researchers, we examine the cultural, institutional, and historical forces that enable silence and protect abusers.We aim to equip listeners with a deeper understanding of the scope of this issue, and how abuse can be prevented and addressed, while offering support and resources for survivors\u2014including information about legal representation. Rooted in compassion and a call for accountability, this podcast invites listeners\u2014especially members of the LDS Church\u2014to be part of the movement for meaningful change.",
+      "release": "2025-05-23T22:23:29Z",
+      "duration": "00:02:31.1280000",
+      "explicit": false,
+      "spotifyId": "3GRNT2sNQWtFWcIB4q03dL",
+      "appleId": 1000709639841,
+      "youTubeId": "clcms95AYtI",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3GRNT2sNQWtFWcIB4q03dL",
+        "apple": "https://podcasts.apple.com/podcast/trailer-architecture-of-abuse/id1816319575?i=1000709639841",
+        "youtube": "https://www.youtube.com/watch?v=clcms95AYtI"
+      }
+    }
+  ]
+}

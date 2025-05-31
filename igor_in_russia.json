@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "f3da5a22-1608-4980-b00f-27c520c4e94d",
+  "name": "Igor in Russia",
+  "youTubeChannelId": "UCOEGv7ALlDmWfSevkMwXOhA",
+  "episodes": [
+    {
+      "id": "9b773fdb-8904-4193-b0fe-1e27c7374090",
+      "title": "Investigating Religious Cult in Russia - Scientology",
+      "release": "2025-05-30T17:30:01Z",
+      "duration": "00:17:59",
+      "explicit": false,
+      "youTubeId": "QLIZSxa7Pzk",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QLIZSxa7Pzk"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_ts": 0,
+  "id": "0312b712-d188-4826-9a7a-ec9fbb5bf7a1",
+  "name": "CEA BLOOM",
+  "youTubeChannelId": "UC_ICdKba6DImgcQYyCkcFEQ",
+  "episodes": [
+    {
+      "id": "02413632-80a9-4559-9047-d52bdaf387bb",
+      "title": "tom cruise jumping on oprahs couch",
+      "release": "2015-01-28T22:03:45Z",
+      "duration": "00:00:07",
+      "explicit": false,
+      "youTubeId": "knK9hSrd1a0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=knK9hSrd1a0"
+      }
+    }
+  ]
+}
