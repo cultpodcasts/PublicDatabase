@@ -2,6 +2,8 @@
   "_ts": 0,
   "id": "16d32331-e3cc-4665-8eb2-fa4fa64d0336",
   "name": "beEmboldened",
+  "spotifyId": "2knC3v69smnP9K5znxjHJD",
+  "appleId": 1553576703,
   "youTubeChannelId": "UCPSnkK3zLp0nK__Tdp9ZDRQ",
   "episodes": [
     {
@@ -11,6 +13,8 @@
       "release": "2025-05-30T15:00:06Z",
       "duration": "01:34:29",
       "explicit": false,
+      "spotifyId": "4z9ixVo73uRKz7UbvqMSFW",
+      "appleId": 1000710906846,
       "youTubeId": "GHMVfRGkupo",
       "subjects": [
         "Worldwide Church Of God",
@@ -18,6 +22,8 @@
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4z9ixVo73uRKz7UbvqMSFW",
+        "apple": "https://podcasts.apple.com/podcast/94-from-cult-control-to-freedom-blakes-story-of/id1553576703?i=1000710906846",
         "youtube": "https://www.youtube.com/watch?v=GHMVfRGkupo"
       }
     },
@@ -88,12 +94,16 @@
       "release": "2024-10-03T19:45:26Z",
       "duration": "01:15:22",
       "explicit": false,
+      "spotifyId": "0s0oxDN1oOcfMWNdcP7ZzJ",
+      "appleId": 1000672632780,
       "youTubeId": "YNsX9kTO7LU",
       "subjects": [
         "Cult Recovery",
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0s0oxDN1oOcfMWNdcP7ZzJ",
+        "apple": "https://podcasts.apple.com/podcast/89-from-cult-leader-to-truth-teller-charles-journey/id1553576703?i=1000672632780",
         "youtube": "https://www.youtube.com/watch?v=YNsX9kTO7LU"
       }
     },
@@ -104,11 +114,15 @@
       "release": "2024-09-05T19:16:46Z",
       "duration": "00:58:59",
       "explicit": false,
+      "spotifyId": "2X8LmNMZ2w1faPlXihKtNq",
+      "appleId": 1000668514541,
       "youTubeId": "GwnLxX3uhaE",
       "subjects": [
         "New Apostolic Reformation"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2X8LmNMZ2w1faPlXihKtNq",
+        "apple": "https://podcasts.apple.com/podcast/87-prophesy-spiritual-abuse-a-deep-dive-with-holly-pivec/id1553576703?i=1000668514541",
         "youtube": "https://www.youtube.com/watch?v=GwnLxX3uhaE"
       }
     },
@@ -119,11 +133,15 @@
       "release": "2024-08-15T17:25:14Z",
       "duration": "00:54:28",
       "explicit": false,
+      "spotifyId": "0azefWEEYqREqZwualj5aw",
+      "appleId": 1000673492511,
       "youTubeId": "2RHA6RzlX30",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0azefWEEYqREqZwualj5aw",
+        "apple": "https://podcasts.apple.com/podcast/90-back-to-school-how-to-protect-against-cults-recruiting/id1553576703?i=1000673492511",
         "youtube": "https://www.youtube.com/watch?v=2RHA6RzlX30"
       }
     },
@@ -134,11 +152,15 @@
       "release": "2024-07-25T20:37:03Z",
       "duration": "00:52:36",
       "explicit": false,
+      "spotifyId": "0Luc39FHCBAwireMte4R07",
+      "appleId": 1000663362894,
       "youTubeId": "Mt53rd4vVj0",
       "subjects": [
         "Multi-Level Marketing"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0Luc39FHCBAwireMte4R07",
+        "apple": "https://podcasts.apple.com/podcast/84-when-mlm-meets-the-church-tamis-powerful-story/id1553576703?i=1000663362894",
         "youtube": "https://www.youtube.com/watch?v=Mt53rd4vVj0"
       }
     },
@@ -164,12 +186,16 @@
       "release": "2024-05-23T20:00:01Z",
       "duration": "01:00:09",
       "explicit": false,
+      "spotifyId": "7uPcofxlu2t4CElVKI2wP9",
+      "appleId": 1000657083670,
       "youTubeId": "cj2oEbbyFjM",
       "subjects": [
         "Cult Recovery",
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7uPcofxlu2t4CElVKI2wP9",
+        "apple": "https://podcasts.apple.com/podcast/80-surviving-poor-theology-nakitas-story-of-hyper/id1553576703?i=1000657083670",
         "youtube": "https://www.youtube.com/watch?v=cj2oEbbyFjM"
       }
     },
@@ -195,11 +221,15 @@
       "release": "2024-04-11T22:17:12Z",
       "duration": "00:59:58",
       "explicit": false,
+      "spotifyId": "5sfTM8tZsUYTYIhsNeUBLw",
+      "appleId": 1000652191805,
       "youTubeId": "Rejb7Qk5wfI",
       "subjects": [
         "Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5sfTM8tZsUYTYIhsNeUBLw",
+        "apple": "https://podcasts.apple.com/podcast/77-joshs-story-how-a-youth-pastor-lost-his-job-for/id1553576703?i=1000652191805",
         "youtube": "https://www.youtube.com/watch?v=Rejb7Qk5wfI"
       }
     },

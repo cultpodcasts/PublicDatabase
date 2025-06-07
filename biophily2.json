@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "acbec2e6-1d8e-41ce-9148-8f9723051d2a",
+  "name": "Biophily2",
+  "youTubeChannelId": "UCAxD-HZ7VQT3NhsU5Ky99CQ",
+  "episodes": [
+    {
+      "id": "c209bcf8-c9ec-4c6b-8677-66df704c54c9",
+      "title": "Erich Fromm - Psychology of Nationalism (1962)",
+      "release": "2016-02-22T14:17:49Z",
+      "duration": "00:41:50",
+      "explicit": false,
+      "youTubeId": "pcX53MuX0ZI",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pcX53MuX0ZI"
+      }
+    }
+  ]
+}

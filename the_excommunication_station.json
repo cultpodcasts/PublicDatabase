@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "f4501b7b-df90-45b2-8c8e-474bd5925bbe",
+      "title": "209. Janie GIbbs",
+      "description": "This week we do another true crime episode about christian housewife Janie Gibbs.",
+      "release": "2025-06-04T13:37:39Z",
+      "duration": "01:31:47.4740000",
+      "explicit": true,
+      "spotifyId": "4yparV0MUZJhW0qtUzvlrp",
+      "appleId": 1000711162586,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4yparV0MUZJhW0qtUzvlrp",
+        "apple": "https://podcasts.apple.com/podcast/209-janie-gibbs/id1573190999?i=1000711162586"
+      }
+    },
+    {
       "id": "8b060bfc-cbb7-4d11-a587-bc7149d68d21",
       "title": "207. Petra Part V",
       "description": "We finish up our Petra series with Unseen Power and Wake Up Call.",

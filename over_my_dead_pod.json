@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "0b5fb7d5-4285-41e3-9949-e3b19e2c494c",
+  "name": "Over My Dead Pod",
+  "spotifyId": "4uhBo0Y9OC4shvatqJfnbe",
+  "appleId": 1643609511,
+  "youTubeChannelId": "UCZgXjwKUWAyAASDzerMEj2w",
+  "episodes": [
+    {
+      "id": "8410230a-d2ce-4954-b5cc-db23bb3c6516",
+      "title": "Bethany Deaton Found Mysteriously Dead - Was her Cult Leader Husband Involved? [Over My Dead Pod]",
+      "description": "Bethany Deaton was found mysteriously deceased in her car in 2012, her cause of death remains undetermined, but the case is officially closed. Fingers were immediately pointed to the odd-behaving husband, who just so happened to lead a religious cult. Fingers were also pointed at fellow cult members. But what really happened?\n\nIf you have any information concerning the death of Bethany Deaton, please call the anonymous tip line at 816-316-4800. \n\nFor more information, check out overmydeadpod.com or @overmydeadpod  on social media!",
+      "release": "2025-06-05T04:00:55Z",
+      "duration": "00:57:11",
+      "explicit": false,
+      "youTubeId": "io2oK1Em-yM",
+      "subjects": [
+        "Tyler Deaton"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6lTxHOGaEDilcwc8OOAH3Q",
+        "apple": "https://podcasts.apple.com/podcast/episode-111-bethany-deaton/id1643609511?i=1000711252274",
+        "youtube": "https://www.youtube.com/watch?v=io2oK1Em-yM"
+      }
+    }
+  ]
+}

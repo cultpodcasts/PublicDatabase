@@ -5,6 +5,21 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "08ec25f9-6efc-4c37-b870-82b172660eef",
+      "title": "EP# 120 ~ El Opus Dei ante el espejo de Francisco: Reforma, Resistencia y Relojes detenidos ~ Lvdovicvs 9/4/2025",
+      "description": "El Opus Dei ante el espejo de Francisco: Reforma, Resistencia y Relojes detenidos",
+      "release": "2025-06-03T00:00:00",
+      "duration": "00:08:10.5670000",
+      "explicit": false,
+      "spotifyId": "3ggiaa1tT2i9kC7DGAP8gx",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ggiaa1tT2i9kC7DGAP8gx"
+      }
+    },
+    {
       "id": "0a212166-afcd-4fdf-b063-33be7d81f394",
       "title": "EP# 119 ~ Escapar cuando no hay m\u00E1s remedio ~ Luc\u00EDa Gim\u00E9nez 10/5/24",
       "description": "Escapar cuando no hay m\u00E1s remedio",

@@ -2,8 +2,25 @@
   "_ts": 0,
   "id": "eb720dc9-a307-4956-8f9d-79bfbffa0173",
   "name": "Dancing Appaloosa",
+  "appleId": 1560057482,
   "youTubeChannelId": "UCVdy4Nzb2rbY0UmdhnCzDLg",
   "episodes": [
+    {
+      "id": "df082a3f-665b-4b76-864a-c8f3b8e2c339",
+      "title": "The NXIVM Cult part 2: How the concept of collateral was twisted",
+      "description": "This is part 2 of my series about NXIVM/DOS, and I examine an article written by a group of women still loyal to Keith Raniere and the DOS ideology that has to do with the concept of collateral.",
+      "release": "2025-06-01T19:19:14Z",
+      "duration": "01:32:37",
+      "explicit": false,
+      "youTubeId": "NzS1Gocj9aY",
+      "subjects": [
+        "NXIVM",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=NzS1Gocj9aY"
+      }
+    },
     {
       "id": "da1dcd6f-f25f-44d0-874f-73d8546123e5",
       "title": "Examining undue influence: Keith Raniere \u0026 Allison Mack discuss authenticity - NXIVM Cult part 1",

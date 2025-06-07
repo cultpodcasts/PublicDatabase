@@ -2,6 +2,8 @@
   "_ts": 0,
   "id": "7500d7c6-c99b-4a2a-8a13-f2acb259e4d7",
   "name": "Kollectively Vigilant",
+  "spotifyId": "4mpukTLDb1vAg3FAf7P5VX",
+  "appleId": 1793037290,
   "youTubeChannelId": "UCIgCQ7ru-h9_rJo5XlvbbGQ",
   "episodes": [
     {
@@ -41,11 +43,15 @@
       "release": "2024-03-18T12:54:27Z",
       "duration": "00:29:52",
       "explicit": false,
+      "spotifyId": "4j9A5B5UhLk4Ln8LzPpdcG",
+      "appleId": 1000710786855,
       "youTubeId": "lF30HgCra-c",
       "subjects": [
         "Asaram"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4j9A5B5UhLk4Ln8LzPpdcG",
+        "apple": "https://podcasts.apple.com/podcast/the-asaram-cult-part1-episode-21/id1793037290?i=1000710786855",
         "youtube": "https://www.youtube.com/watch?v=lF30HgCra-c"
       }
     }

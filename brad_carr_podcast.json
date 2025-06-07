@@ -29,12 +29,16 @@
       "release": "2025-05-22T16:21:29Z",
       "duration": "01:04:32",
       "explicit": false,
+      "spotifyId": "0kzzVdfP5hlnsPOYBdAIpy",
+      "appleId": 1000711851518,
       "youTubeId": "UvDk0iOHuR0",
       "subjects": [
         "NXIVM",
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0kzzVdfP5hlnsPOYBdAIpy",
+        "apple": "https://podcasts.apple.com/podcast/narcissists-in-leadership-community-or-cult-7-red-flags/id1433818402?i=1000711851518",
         "youtube": "https://www.youtube.com/watch?v=UvDk0iOHuR0"
       }
     },

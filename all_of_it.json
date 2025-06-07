@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "d1b272b7-b991-4da3-ba26-b54b433b11a6",
+  "name": "All Of It",
+  "spotifyId": "4MSFp9H0FuYfiiypQ5e3CK",
+  "appleId": 74254710,
+  "episodes": [
+    {
+      "id": "0ed30b04-baba-4696-a08c-3cdf0c00d86d",
+      "title": "The Cult of SoulCycle",
+      "description": "A new podcast explores how SoulCycle came to capture the hearts, minds, and bodies of many New Yorkers passionate about fitness. Host Jess Rothschild discusses her show \u0022 Cult of Body and Soul ,\u0022 and we take calls from listeners.",
+      "release": "2025-06-04T18:34:47Z",
+      "duration": "00:26:18.7360000",
+      "explicit": false,
+      "spotifyId": "2Uv6B8sxp0BIHWWku5jTZV",
+      "appleId": 1000711196935,
+      "subjects": [
+        "SoulCycle"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Uv6B8sxp0BIHWWku5jTZV",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-soulcycle/id74254710?i=1000711196935"
+      }
+    }
+  ]
+}

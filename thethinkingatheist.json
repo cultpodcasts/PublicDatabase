@@ -4,7 +4,60 @@
   "name": "TheThinkingAtheist",
   "spotifyId": "4mVMP5yGBAZU6zVHLLiiKK",
   "appleId": 412308695,
+  "youTubeChannelId": "UCeYP27qLtfUMY1b1Cyy3WdQ",
   "episodes": [
+    {
+      "id": "b9ccafd7-a14a-41e1-aef1-61c4b28bda3b",
+      "title": "Bearing Witness: Escape from the JW Cult (with Sherrie D\u0027Souza)",
+      "description": "Sherrie was born into a JW family. Indoctrinated as a child and silenced as a woman, she discovered alarming facts that soon propelled her into apostasy.\n\nwww.recoveringfromreligion.org",
+      "release": "2025-06-06T12:00:30Z",
+      "duration": "00:14:27",
+      "explicit": false,
+      "youTubeId": "9sa94JB3UPk",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9sa94JB3UPk"
+      }
+    },
+    {
+      "id": "6e5f4196-ae5d-4f28-b678-6b7cce4e45b9",
+      "title": "Divorcing Religion: a Survival Guide Through Doubt and Non-Belief (with Janice Selbie)",
+      "description": "Many people experience post-religion trauma. Author and religious trauma coach Janice Selbie has some tools to help.\n\nhttps://www.divorcing-religion.com",
+      "release": "2025-02-25T18:25:22Z",
+      "duration": "00:45:03",
+      "explicit": false,
+      "spotifyId": "4vizSonKAOIz0QZ6KC07OW",
+      "appleId": 1000695829786,
+      "youTubeId": "ZQOOFionKtY",
+      "subjects": [
+        "Evangelicalism",
+        "Cult Recovery",
+        "The Church Of God In Christ"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4vizSonKAOIz0QZ6KC07OW",
+        "apple": "https://podcasts.apple.com/podcast/divorcing-religion-a-survival-guide-through-doubt/id412308695?i=1000695829786",
+        "youtube": "https://www.youtube.com/watch?v=ZQOOFionKtY"
+      }
+    },
+    {
+      "id": "957489e7-04ec-4ad0-b2d5-05ce8eec96c8",
+      "title": "\u0022I Escaped a Red Pill Cult\u0022 (with Coleman Watts)",
+      "description": "What\u0027s the \u0022red pill?\u0022 Ex-cult member Coleman Watts explains the term and tells his deconstruction story.\n\nThink This Though channel: https://www.youtube.com/@UC4wMk3HP7lnfxddidABBEbw",
+      "release": "2024-08-13T11:43:30Z",
+      "duration": "00:44:51",
+      "explicit": false,
+      "spotifyId": "1ocYtomVNx4cKBJDdU9A6i",
+      "appleId": 1000665131463,
+      "youTubeId": "bIsIAaVIcH8",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ocYtomVNx4cKBJDdU9A6i",
+        "apple": "https://podcasts.apple.com/podcast/i-escaped-a-red-pill-cult-with-coleman-watts/id412308695?i=1000665131463",
+        "youtube": "https://www.youtube.com/watch?v=bIsIAaVIcH8"
+      }
+    },
     {
       "id": "2720b25d-adae-4015-88ce-8f5522aab34c",
       "title": "Hard Knocks: Who Are the Jehovah\u0027s Witnesses? (with Owen Morgan)",
@@ -14,12 +67,261 @@
       "explicit": false,
       "spotifyId": "3c1PNCtGHhR59nbW9QlAn9",
       "appleId": 1000659378922,
+      "youTubeId": "Kt99jx6yZJc",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3c1PNCtGHhR59nbW9QlAn9",
-        "apple": "https://podcasts.apple.com/podcast/hard-knocks-who-are-the-jehovahs-witnesses-with-owen-morgan/id412308695?i=1000659378922"
+        "apple": "https://podcasts.apple.com/podcast/hard-knocks-who-are-the-jehovahs-witnesses-with-owen-morgan/id412308695?i=1000659378922",
+        "youtube": "https://www.youtube.com/watch?v=Kt99jx6yZJc"
+      }
+    },
+    {
+      "id": "24608d7d-8863-4f76-88ad-2d59d7ea95ca",
+      "title": "Gothard\u0027s God: Reflections on the Amazon Documentary \u0022Shiny Happy People\u0022",
+      "description": "A new https://www.amazon.com/Shiny-Happy-People-Duggar-Secrets/dp/B0B8TR2QV5 is highlighting the destructive Quiverfull cult developed under the leadership of Bill Gothard. We continue the discussion this week.\n\nDivorcing Religion: https://www.divorcing-religion.com/\nHeresy in the Heartland blog: http://heresyintheheartland.blogspot.com/",
+      "release": "2023-06-27T11:24:36Z",
+      "duration": "01:10:34",
+      "explicit": false,
+      "spotifyId": "5J1xYVxMbL224smNl6bbXd",
+      "appleId": 1000616811468,
+      "youTubeId": "wuObZDWzHtw",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5J1xYVxMbL224smNl6bbXd",
+        "apple": "https://podcasts.apple.com/podcast/gothards-god-reflections-on-the-amazon-documentary/id412308695?i=1000616811468",
+        "youtube": "https://www.youtube.com/watch?v=wuObZDWzHtw"
+      }
+    },
+    {
+      "id": "81dcbd68-bd50-48f4-879b-b8935695a0a7",
+      "title": "Scientology and the Danny Masterson Trial",
+      "description": "Source:\nThe sexual assault allegations against actor/comedian Danny Masterson are bringing to light maneuverings by the Church of Scientology. We discuss the case, the courts, and the cult with ex-Scientologist Chris Shelton and investigative reporter Tony Ortega.\n\nChris Shelton: https://bit.ly/2TKmjz9\nTony Ortega/Underground Bunker: https://tonyortega.org",
+      "release": "2021-07-20T20:13:01Z",
+      "duration": "00:34:56",
+      "explicit": false,
+      "spotifyId": "1fJKdKxDkk4t68XPScGBaG",
+      "appleId": 1000526396521,
+      "youTubeId": "Wwt5dEo_7ag",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1fJKdKxDkk4t68XPScGBaG",
+        "apple": "https://podcasts.apple.com/podcast/scientology-and-the-danny-masterson-trial/id412308695?i=1000526396521",
+        "youtube": "https://www.youtube.com/watch?v=Wwt5dEo_7ag"
+      }
+    },
+    {
+      "id": "cd2129c5-e167-4740-b244-47191e280f98",
+      "title": "Leah Remini, Tom Cruise, and the \u0022Space Opera\u0022 of Scientology (with guest Tony Ortega)",
+      "description": "Australia\u0027s Channel 7 produced a 10-part series called \u0022Scientology: Black Ops\u0022 starting Leah Remini and Paul Haggis. Strangely, they cancelled the broadcast on the day it was scheduled to air. Did Tom Cruise - the world\u0027s most famous Scientologist - use his (significant) influence to silence criticisms of his religion? We speak to Scientology expert Tony Ortega about the story.\n\nThe Guardian article on \u0022Scientology: Black Ops:\u0022 https://bit.ly/2DdE0z9\nTony Ortega\u0027s article on Tom Cruise: https://bit.ly/3frNlk9\nLeah Remini\u0027s book \u0022Troublemaker:\u0022 https://amzn.to/2CZehuq",
+      "release": "2020-10-02T16:55:37Z",
+      "duration": "01:02:03",
+      "explicit": false,
+      "spotifyId": "3vLlGCp10SrJcGw1iEKXU5",
+      "appleId": 1000487059221,
+      "youTubeId": "o8PaAchZV1M",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3vLlGCp10SrJcGw1iEKXU5",
+        "apple": "https://podcasts.apple.com/podcast/leah-remini-tom-cruise-and-the-space-opera/id412308695?i=1000487059221",
+        "youtube": "https://www.youtube.com/watch?v=o8PaAchZV1M"
+      }
+    },
+    {
+      "id": "3d40ef9a-8701-4106-b213-ee96d6b94773",
+      "title": "Jehovah\u0027s Witnesses: When a Cult Comes Knocking",
+      "description": "Who/What are the Jehovah\u0027s Witnesses? It\u0027s a religion most people have heard of but know little about. In this podcast, Seth Andrews speaks with three ex-JWs about the origins, the teachings, and the organizations. Guests include:\n\nLloyd Evans, author of \u0022The Reluctant Apostate\u0022 @cedarsjwsurvey\nAmber Scorah, author of \u0022Leaving the Witness\u0022 @amberscorah\nTelltale (Owen Morgan), host of TellTale Atheist @telltaleatheist\n\nSource:\nhttps://www.spreaker.com/user/thethinkingatheist/podcast473-jw-when-a-cult-comes-knocking",
+      "release": "2019-12-03T11:04:10Z",
+      "duration": "01:07:17",
+      "explicit": false,
+      "spotifyId": "24IJwBUVrdVzXVHkQtE00E",
+      "appleId": 1000458530131,
+      "youTubeId": "kyTIBzDj8nQ",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/24IJwBUVrdVzXVHkQtE00E",
+        "apple": "https://podcasts.apple.com/podcast/jehovahs-witnesses-when-a-cult-comes-knocking/id412308695?i=1000458530131",
+        "youtube": "https://www.youtube.com/watch?v=kyTIBzDj8nQ"
+      }
+    },
+    {
+      "id": "7d4793d8-e861-4254-a07b-74fddadf87d0",
+      "title": "I Escaped the Nuwaubian Cult",
+      "description": "Hanna was once a member of The Nuwaubian Nation, an American cult founded and led by a Dwight York, a self-anointed god figure who dominated the lives and attitudes of his followers, and who is now serving a life sentence in federal prison. \n\nHanna speaks candidly about her years inside the cult, her liberation, and her personal journey as a (now) atheist and skeptic. \n\nSupport our sponsor. Get $80 off your first month of Hello Fresh at http://www.hellofresh.com/sethandrews80 (promo code: sethandrews80)\n\nSource:\nhttps://www.spreaker.com/user/thethinkingatheist/podcast439-escapenawabian",
+      "release": "2019-05-07T10:07:05Z",
+      "duration": "00:39:47",
+      "explicit": false,
+      "spotifyId": "75J5ezHkz1rbaW4FMWSYtP",
+      "appleId": 1000437403477,
+      "youTubeId": "iGe455gswnM",
+      "subjects": [
+        "Nuwaubian Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/75J5ezHkz1rbaW4FMWSYtP",
+        "apple": "https://podcasts.apple.com/podcast/i-escaped-the-nuwaubian-cult/id412308695?i=1000437403477",
+        "youtube": "https://www.youtube.com/watch?v=iGe455gswnM"
+      }
+    },
+    {
+      "id": "75805235-6769-4cca-84f5-ec24972c58dc",
+      "title": "Cults Part 2 of 2: The Trouble with Totalism",
+      "description": "From the Moonies to Scientology to Heaven\u0027s Gate, we continue our two-part series on cults, their methods, their abuses, and the stories of some who escaped. \n\nChris Shelton\u0027s Scientology blog: http://mncriticalthinking.com/\nA helpful resource. The International Cultic Studies Association\nSansu the Cat: http://sansuthecat.blogspot.com/2015/09/the-lunacy-of-rev-moon-or-why-i-am-not.html?m=1\n\nSupport our sponsors: \nThe Great Courses Plus http://www.thegreatcoursesplus.com/seth\nStamps.com http://www.stamps.com ($20 off contact lenses with code sethandrews20)",
+      "release": "2018-07-17T12:29:07Z",
+      "duration": "01:26:37",
+      "explicit": false,
+      "spotifyId": "4IIpqguI4FMVdGZeFfDIrI",
+      "appleId": 1000416004533,
+      "youTubeId": "u96_5grBLuI",
+      "subjects": [
+        "Scientology",
+        "Heaven\u0027s Gate",
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4IIpqguI4FMVdGZeFfDIrI",
+        "apple": "https://podcasts.apple.com/podcast/cults-part-two-the-trouble-with-totalism/id412308695?i=1000416004533",
+        "youtube": "https://www.youtube.com/watch?v=u96_5grBLuI"
+      }
+    },
+    {
+      "id": "ed23f046-0e3c-4a12-be6d-4d7f304de969",
+      "title": "Naked Mormonism",
+      "description": "\u0022Secular Mormon\u0022 Bryce Blankenagel speaks with Seth Andrews about the dark and often bloody foundations of the Mormon church.\n\nBryce\u0027s page: http://nakedmormonismpodcast.com\n\nSupport our sponsor The Great Courses Plus: http://www.thegreatcoursesplus.com/seth",
+      "release": "2018-05-15T16:11:17Z",
+      "duration": "00:51:00",
+      "explicit": false,
+      "spotifyId": "7pzVIMhragJVntXC8Xh19z",
+      "appleId": 1000411568427,
+      "youTubeId": "gy5mUiviawU",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7pzVIMhragJVntXC8Xh19z",
+        "apple": "https://podcasts.apple.com/podcast/naked-mormonism/id412308695?i=1000411568427",
+        "youtube": "https://www.youtube.com/watch?v=gy5mUiviawU"
+      }
+    },
+    {
+      "id": "4d6bd8c7-d080-4c2f-bd27-034c97c529d8",
+      "title": "Ron Miscavige: Scientology and my Son (TTA Podcast 317)",
+      "description": "Ron Miscavige is father of David Miscavige, leader of the Church of Scientology.  Ron tells the story of his son, Scientology, and his escape from the church\u0027s controlling grasp.\n\nRon\u0027s book, \u0022Ruthless:\u0022  https://www.amazon.com/Ruthless-Scientology-Son-David-Miscavige/dp/1250096936/ref=sr_1_1?ie=UTF8\u0026qid=1487075049\u0026sr=8-1\u0026keywords=ron\u002Bmiscavige\n\nSUPPORT OUR SPONSOR:\nThe Great Courses Plus:  http://www.thegreatcoursesplus.com/seth",
+      "release": "2017-03-14T14:52:29Z",
+      "duration": "01:06:35",
+      "explicit": false,
+      "spotifyId": "6Kq3nQ2Xic9PksDXSnAoAh",
+      "appleId": 1000382605195,
+      "youTubeId": "f5lQV-K9nw8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Kq3nQ2Xic9PksDXSnAoAh",
+        "apple": "https://podcasts.apple.com/podcast/ron-miscavige-scientology-and-my-son/id412308695?i=1000382605195",
+        "youtube": "https://www.youtube.com/watch?v=f5lQV-K9nw8"
+      }
+    },
+    {
+      "id": "28a56565-3cd4-4f47-9ea9-6d9c6c1e921a",
+      "title": "TTA Podcast 268: Homeschool Cults (Part 2 of 2)",
+      "description": "SUPPORT OUR SPONSOR:  http://www.lootcrate.com/sethandrews\n\nThe U.S. Department of Education says that over 1.7 million children in the United States are homeschooled.  But what happens when homeschooling stops being about education, and instead becomes insulation?  Isolation?  Inodctrination?\n\nThis broadcast isn\u0027t a referendum on the concept of homeschooling.  It\u0027s an exploration into some of the more extreme religious homeschool environments, and into the lives and personal stories of those who experienced them.\n\nThis is part 2 of a two-part broadcast. \n\nHomeschoolers Anonymous:  https://homeschoolersanonymous.org\n\nVyckie Garrison \u0022No Longer Quivering:\u0022  https://youtu.be/EGiv_o6YGKU",
+      "release": "2016-04-12T12:15:06Z",
+      "duration": "01:04:13",
+      "explicit": false,
+      "spotifyId": "6uQ2qgPS7OJKPjOKj9xGWj",
+      "appleId": 1000366695812,
+      "youTubeId": "-2xdHXQ_39E",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6uQ2qgPS7OJKPjOKj9xGWj",
+        "apple": "https://podcasts.apple.com/podcast/homeschool-cults-part-2-of-2/id412308695?i=1000366695812",
+        "youtube": "https://www.youtube.com/watch?v=-2xdHXQ_39E"
+      }
+    },
+    {
+      "id": "f7cd7af0-fbce-43dc-b717-afc6458a9950",
+      "title": "TTA Podcast 267: Homeschool Cults (Part 1 of 2)",
+      "description": "SUPPORT OUR SPONSOR:  http://www.lootcrate.com/sethandrews\n\nThe U.S. Department of Education says that over 1.7 million children in the United States are homeschooled.  But what happens when homeschooling stops being about education, and instead becomes insulation?  Isolation?  Inodctrination?\n\nThis broadcast isn\u0027t a referendum on the concept of homeschooling.  It\u0027s an exploration into some of the more extreme religious homeschool environments, and into the lives and personal stories of those who experienced them.\n\nThis is part 1 of a two-part broadcast.",
+      "release": "2016-04-05T14:51:04Z",
+      "duration": "01:09:36",
+      "explicit": false,
+      "spotifyId": "5kXOBv745pAg3x3MYSbNY8",
+      "appleId": 1000366244558,
+      "youTubeId": "LX_vrX3wWtw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5kXOBv745pAg3x3MYSbNY8",
+        "apple": "https://podcasts.apple.com/podcast/homeschool-cults-part-1-of-2/id412308695?i=1000366244558",
+        "youtube": "https://www.youtube.com/watch?v=LX_vrX3wWtw"
+      }
+    },
+    {
+      "id": "4f53c55a-b8bc-4e1a-9c14-999bb5ed4547",
+      "title": "TTA Podcast 184: Scientology Unmasked",
+      "description": "SUPPORT OUR SPONSOR:  http://www.naturebox.com/thinkingatheist\n\nCreated by the late science fiction writer L. Ron Hubbard, Scientology is a religion/cult which teaches that humans are actually immortal beings who, having forgotten their true nature, require intensive (and expensive) \u0022auditing\u0022 techniques to rediscover their true, immortal selves.\n\nReports and allegations have been made, by journalists, courts, and governmental bodies of several countries, that the Church of Scientology is an unscrupulous commercial enterprise that harasses its critics and brutally exploits its members.\n\nIn this compelling episode, we explore Scientology\u0027s practices, and we hear from those who escaped its shadow. \n\nTony Ortega \u0022The Underground Bunker:\u0022  http://tonyortega.org\n\nTory Christman\u0027s YouTube page:  https://www.youtube.com/user/ToryMagoo44\n\nMark Bunker\u0027s Knowledge Report: http://www.knowledgereport-themovie.com\n\nScientific American article \u0022The Real Science Behind Scientology\u0022: http://www.scientificamerican.com/article/the-real-science-behind-scientology/",
+      "release": "2014-09-24T00:10:21Z",
+      "duration": "01:32:24",
+      "explicit": false,
+      "spotifyId": "7bkdk155YAN8ImLzagZo3P",
+      "appleId": 1000333757048,
+      "youTubeId": "Qo3m16Yq368",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7bkdk155YAN8ImLzagZo3P",
+        "apple": "https://podcasts.apple.com/podcast/scientology-unmasked/id412308695?i=1000333757048",
+        "youtube": "https://www.youtube.com/watch?v=Qo3m16Yq368"
+      }
+    },
+    {
+      "id": "75a67bec-87de-47d5-9b67-62897fdde78b",
+      "title": "TTA Podcast 127 - Jehovah\u0027s Witnesses",
+      "description": "Sponsored by Audible.com.  Get a FREE audiobook and 30-day trial today by signing up at www.audiblepodcast.com/thinkingatheist\n\nAvailable via BlogTalkRadio:  http://www.thethinkingatheist.com/podcast/index \niTunes: https://itunes.apple.com/podcast/thethinkingatheist-blog-talk/id412308695?mt=2\nStitcher (search The Thinking Atheist)\n\nIt\u0027s is one of the most unusual and mysterious churches (cults?) in the world.  \n\nBut what, exactly, is a Jehovah\u0027s Witness?  What do JWs believe?   Do they truly believe that only 144,000 will achieve God\u0027s Kingdom, and what does that mean?  (And is it true that a Jehovah\u0027s Witness is forbidden to buy Girl Scout Cookies?)\n\nOur special guests include:\n\nJohn Hoyle, a former Jehovah\u0027s Witnesses who is now behind the websites www.aawa.co, Ex-JW.com, watchtowerwatch.com and insidethewatchtower.com.  \n \nJames Zimmerman, author of the upcoming book, Deliverance at Hand!: The Redemption of a Devout Jehovah\u0027s Witness",
+      "release": "2013-09-18T22:22:00Z",
+      "duration": "01:37:08",
+      "explicit": false,
+      "youTubeId": "eHnLC3tY3JU",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=eHnLC3tY3JU"
+      }
+    },
+    {
+      "id": "69954463-03c2-4ea2-8290-973e1287e4bb",
+      "title": "Weird Beliefs \u0026 Crazy Cults -The Thinking Atheist Radio Podcast #22",
+      "description": "BlogTalkRadio link:  http://www.blogtalkradio.com/thethinkingatheist/2011/04/24/its-a-crazy-weird-jacked-up-world\r\n\r\nAlso on iTunes\r\n\r\nMainstream religion certainly has its share of oddities and oddballs. But this show is about the more fringe elements that populate our humble planet. The bizarre cults, the crazy superstitions, the laughable and scary beliefs that HAVE TO BE a joke...but aren\u0027t. This show is about incense and chants, witches, animal spirits, healing potions, spirit \u0022languages\u0022 and much more!  Your calls and emails",
+      "release": "2011-04-24T23:35:06Z",
+      "duration": "01:16:56",
+      "explicit": false,
+      "youTubeId": "XvTT1dYneRY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XvTT1dYneRY"
+      }
+    },
+    {
+      "id": "bfb80056-4371-478a-abc0-71f3f6de8e9d",
+      "title": "Scientology - Circus of the Stars",
+      "description": "Haven for the rich and gullible, Scientology is one of the more \u0022unique\u0022 cults on the planet.  Check it out!",
+      "release": "2010-05-23T18:55:33Z",
+      "duration": "00:04:25",
+      "explicit": false,
+      "youTubeId": "DwiYjQyu0Tw",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DwiYjQyu0Tw"
       }
     }
   ]
