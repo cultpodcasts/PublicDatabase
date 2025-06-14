@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "873e845d-cd36-4895-8c64-32aafe35f897",
+  "name": "TED Radio Hour",
+  "spotifyId": "1vfOw64nKjQ8LzZDPCfRaO",
+  "appleId": 523121474,
+  "episodes": [
+    {
+      "id": "627f0cd7-8f98-4c07-9d73-0fa99ae730f3",
+      "title": "Escaping the modern world and your noisy mind",
+      "description": "How do you find the courage to leave the world you know and make your way to a completely different reality? This episode, TED speakers share ideas about escape and renewal. Guests include author Pico Iyer, NXIVM whistleblower Sarah Edmondson, captain and navigator Lehua Kamalu and TV producer and screenwriter Shonda Rhimes. TED Radio Hour\u0026#43; subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at plus.npr.org/ted. Learn more about sponsor message choices: podcastchoices.com/adchoices NPR Privacy Policy",
+      "release": "2025-06-13T07:00:59Z",
+      "duration": "00:51:09.8310000",
+      "explicit": false,
+      "spotifyId": "2WMl9D6r54y6ttfGJJatjQ",
+      "appleId": 1000712605767,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2WMl9D6r54y6ttfGJJatjQ",
+        "apple": "https://podcasts.apple.com/podcast/escaping-the-modern-world-and-your-noisy-mind/id523121474?i=1000712605767"
+      }
+    }
+  ]
+}

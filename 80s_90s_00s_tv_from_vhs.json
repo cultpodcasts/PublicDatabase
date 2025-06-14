@@ -1,0 +1,25 @@
+{
+  "_ts": 0,
+  "id": "8f9c0e19-5331-4d9e-9167-510ba90b4a37",
+  "name": "80s, 90s, 00s TV from VHS",
+  "youTubeChannelId": "UCd277qNl7bod8jxs4PX2VsQ",
+  "episodes": [
+    {
+      "id": "96f7edd6-a0a3-46b1-9cdc-51d411f30dcd",
+      "title": "RTE Primetime Scientology report | RTE 1997 (ish)",
+      "description": "Miriam O\u0027Callaghan lifts the lid on Scientology in Ireland in this Primtime special from around 1997. \n\n#rte  #ireland   #scientology  #primetime  #dianetics",
+      "release": "1997-02-12T10:59:00Z",
+      "duration": "00:15:51",
+      "explicit": false,
+      "youTubeId": "CgLOdDWFd3E",
+      "subjects": [
+        "Scientology",
+        "_East Grinstead",
+        "Cult Apologists"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CgLOdDWFd3E"
+      }
+    }
+  ]
+}

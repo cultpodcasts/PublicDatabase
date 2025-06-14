@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "2dfc9f9c-e090-4882-9306-8a61792f4641",
+  "name": "Quick Smart",
+  "spotifyId": "7v8RAyW3u7gIlzb0Hfc7Cp",
+  "appleId": 1690478320,
+  "episodes": [
+    {
+      "id": "a93a3f3d-a26b-4adf-a763-077ed5386e79",
+      "title": "Coercive control isn\u0027t just in relationships. Cults use these tactics, too",
+      "description": "They tell you how to act, what to believe, and who to surround yourself with. It sounds like coercive control, right? But this type of manipulation doesn\u2019t just exist in intimate relationships, it happens in spiritual ones, too. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-06-09T21:00:00Z",
+      "duration": "00:09:50.6280000",
+      "explicit": false,
+      "spotifyId": "1v2gEuJIunhG8oHMI5f5fE",
+      "appleId": 1000712153641,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1v2gEuJIunhG8oHMI5f5fE",
+        "apple": "https://podcasts.apple.com/podcast/coercive-control-isnt-just-in-relationships-cults-use/id1690478320?i=1000712153641"
+      }
+    }
+  ]
+}

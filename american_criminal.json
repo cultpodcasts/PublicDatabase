@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "fb2fc7fd-c7b0-4b06-b830-d1b8c15fa17c",
+  "name": "American Criminal",
+  "spotifyId": "0awmsz6xUju4z8hJoLFZ02",
+  "appleId": 1729427405,
+  "episodes": [
+    {
+      "id": "64d26da5-c8c8-4fd6-bf91-dbc17a6a93d7",
+      "title": "American Criminal Season 15: NXIVM",
+      "description": "In 2017, a little-known consulting firm called NXIVM became the center of an international scandal. One day, no one had heard of the group at all. The next, people were calling it a cult. There were accusations of a secret society, psychological manipulation, imprisonment, occult sexual abuse. Then there was the group\u2019s founder, Keith Raniere \u2013 a self-styled genius whose followers worshipped him and called him \u201CVanguard.\u201D Suddenly, everyone wanted to know: where had this group come from? Who was Keith Raniere? And how had he hoodwinked so many people in this day and age?\n\nSubscribe to American Criminal in Apple Podcasts, Spotify, or at \u2060\u2060\u2060\u2060AmericanCriminal.com\u2060\u2060\u2060\u2060 \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-06-12T07:00:00Z",
+      "duration": "00:02:59",
+      "explicit": false,
+      "spotifyId": "6AK5B9RWj40nlSol77wcch",
+      "appleId": 1000712541206,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6AK5B9RWj40nlSol77wcch",
+        "apple": "https://podcasts.apple.com/podcast/american-criminal-season-15-nxivm/id1729427405?i=1000712541206"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "2c623b1c-91f2-4feb-a1d0-220076c8781b",
+  "name": "Flightless Bird",
+  "spotifyId": "0TY5qJWU2bH9DSX9Gsx8VN",
+  "appleId": 1763461729,
+  "youTubeChannelId": "UCNVEPjKEtr2UdKXfWy9LZmQ",
+  "episodes": [
+    {
+      "id": "de8416ec-e7a1-4af8-91de-123f98b72379",
+      "title": "Scientology",
+      "description": "In this week\u2019s Flightless Bird, David and Rob explore Scientology in LA and beyond. David goes on a mini tour of LA Scientology, attempting to visit the Museum of Psychology, Big Blue and the Celebrity Centre to varying degrees of success. He looks at how this church/cult recruits members, before meeting someone who joined and spent around $50,000 on courses before leaving. He then meets Mike Brown, someone raised in Scientology, eventually joining the Sea Org before managing to escape. He takes David through his experience and his own theories about the church today in 2025. Email us: flightlessbirdchat@gmail.com Live show tickets for Denver on July 3: http://bit.ly/lostkiwiDEN Live show tickets for Chicago on July 10: http://bit.ly/lostkiwiCHI Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-06-10T07:30:00Z",
+      "duration": "01:37:33.8860000",
+      "explicit": true,
+      "spotifyId": "6SA8kzEPTDIXVg79FmvmoT",
+      "appleId": 1000712216446,
+      "youTubeId": "OlesXSxOHR4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6SA8kzEPTDIXVg79FmvmoT",
+        "apple": "https://podcasts.apple.com/podcast/scientology/id1763461729?i=1000712216446",
+        "youtube": "https://www.youtube.com/watch?v=OlesXSxOHR4"
+      }
+    }
+  ]
+}

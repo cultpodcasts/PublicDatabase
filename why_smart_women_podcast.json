@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "1371c55b-25db-4764-bd2c-f1916166bb56",
+  "name": "Why Smart Women Podcast",
+  "spotifyId": "7f9qSRq1VSTd3JtYOpYrn8",
+  "appleId": 1758672641,
+  "youTubeChannelId": "UCmLXciLZsgddZ9W-6SLPufw",
+  "episodes": [
+    {
+      "id": "5e9a1f86-5aa7-48f6-a6e6-a08aea56dc21",
+      "title": "Coleman and the Cult",
+      "description": "The gap between wellness culture and conspiracy theories is smaller than most realize\u2014something Coleman Watts and Daniela discovered firsthand. Their extraordinary journey from deep immersion in false beliefs to champions of critical thinking offers a masterclass in how our minds can both deceive and liberate us. Coleman\u0027s Video - Sex, Lies, and the Mercola Tapes Send the Why Smart Women Podcast a Message Proudly sponsored by COUP \u2014 helping brands cut through the noise with bold, smart marketing. Visit the http://coup.co website or book a meeting with us at. https://go.oncehub.com/RequestMeeting",
+      "release": "2025-06-10T01:00:00Z",
+      "duration": "00:51:40.1860000",
+      "explicit": true,
+      "spotifyId": "6mlSabevYIOzmPKAKgxsrI",
+      "appleId": 1000712180906,
+      "youTubeId": "562qVy7m1Qo",
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6mlSabevYIOzmPKAKgxsrI",
+        "apple": "https://podcasts.apple.com/podcast/coleman-and-the-cult/id1758672641?i=1000712180906",
+        "youtube": "https://www.youtube.com/watch?v=562qVy7m1Qo"
+      }
+    }
+  ]
+}

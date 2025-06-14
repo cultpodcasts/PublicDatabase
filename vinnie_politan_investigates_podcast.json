@@ -14,6 +14,7 @@
       "duration": "00:43:59",
       "explicit": false,
       "spotifyId": "4TUZNxgFcsOp2d1KTrm1P4",
+      "appleId": 1000712776636,
       "youTubeId": "Zm5BLPnnfPc",
       "subjects": [
         "Human Trafficking",
@@ -21,6 +22,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4TUZNxgFcsOp2d1KTrm1P4",
+        "apple": "https://podcasts.apple.com/podcast/diddy-special-report-vinnie-politan-investigates-podcast/id1769673691?i=1000712776636",
         "youtube": "https://www.youtube.com/watch?v=Zm5BLPnnfPc"
       }
     },

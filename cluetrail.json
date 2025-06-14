@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "e1868d81-ab47-479b-b40b-d1fbd057a78f",
+  "name": "ClueTrail",
+  "spotifyId": "2aZ2Qhw1YRGBRtJ7FrRRGK",
+  "appleId": 1794634601,
+  "youTubeChannelId": "UCkHSB_uDgTcNre9CQoD5yYA",
+  "episodes": [
+    {
+      "id": "9d5ba5f9-ea3b-4021-8c62-7c7f12fd3425",
+      "title": "The Kurim Case: Abuse, Identity Lies and Cult Influence",
+      "description": "A baby monitor test becomes the thread that unravels one of the most disturbing cases in modern Czech history. When Edward Trdy\u0027s new device accidentally intercepts video showing a confined, distressed child, he alerts authorities\u2014triggering a sequence of revelations that defy belief.\n\nBehind the charming facade of a countryside home in Kurim, police discover eight-year-old Ondrej and his older brother Jakub, both victims of prolonged physical and psychological torture. Their mother Klara Mauerova and aunt Katerina had subjected them to unimaginable cruelty\u2014forcing one to dig his own grave as punishment, keeping them in cages, and justifying it all through distorted spiritual beliefs. Yet the most shocking discovery was \u0022Anna,\u0022 supposedly a 13-year-old girl living with the family.\n\nThe Kurim case forces us to confront uncomfortable truths about vulnerability, manipulation, and the dangerous power of extreme belief systems. What happened in that quiet Czech town wasn\u0027t just abuse\u2014it was a chilling demonstration of how easily reality can be distorted when trust is weaponized. \n\nFollow Clue Trail as we examine how this extraordinary case changed Czech society\u0027s understanding of hidden abuse and the psychological control that enables it.",
+      "release": "2025-06-12T17:40:29Z",
+      "duration": "00:30:01",
+      "explicit": false,
+      "spotifyId": "1IUgPv24NAdJ7XEjZkIB2I",
+      "appleId": 1000712512878,
+      "youTubeId": "-T_z4S5vh2I",
+      "subjects": [
+        "Kurim Case"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IUgPv24NAdJ7XEjZkIB2I",
+        "apple": "https://podcasts.apple.com/podcast/the-kurim-case-abuse-identity-lies-and-cult-influence/id1794634601?i=1000712512878",
+        "youtube": "https://www.youtube.com/watch?v=-T_z4S5vh2I"
+      }
+    }
+  ]
+}

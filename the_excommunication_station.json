@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "369f5bc2-2191-4b3d-a71f-d726b15b02b4",
+      "title": "210. Christian Nazis Part I: Early Church Fathers",
+      "description": "This week, we start our deep dive into the role of Christinaity within the Third Reich and we start with early church fathers.",
+      "release": "2025-06-11T06:00:00Z",
+      "duration": "01:11:13.3190000",
+      "explicit": true,
+      "spotifyId": "6IrZoilm31CVY0djfDx7Bj",
+      "appleId": 1000712396104,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6IrZoilm31CVY0djfDx7Bj",
+        "apple": "https://podcasts.apple.com/podcast/210-christian-nazis-part-i-early-church-fathers/id1573190999?i=1000712396104"
+      }
+    },
+    {
       "id": "f4501b7b-df90-45b2-8c8e-474bd5925bbe",
       "title": "209. Janie GIbbs",
       "description": "This week we do another true crime episode about christian housewife Janie Gibbs.",

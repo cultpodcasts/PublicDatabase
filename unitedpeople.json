@@ -1,0 +1,39 @@
+{
+  "_ts": 0,
+  "id": "d5006a5b-7c07-49a5-9772-97fcd382d7b6",
+  "name": "UnitedPeople",
+  "youTubeChannelId": "UCekypQp1iSnNuvfB-yhJzqg",
+  "episodes": [
+    {
+      "id": "8fcdbc6b-fb25-4716-a5a7-27bf8d02b113",
+      "title": "RTE Primetime - Scientology. An Ireland Cult.",
+      "description": "The Irish broadcast that yet again exposed Scientology for the family breaking, crazy, financial and dangerous cult madness that it truly is!\nSee: http://unitedpeople.ie/acultexposed for more.",
+      "release": "2020-02-28T23:11:50Z",
+      "duration": "00:31:24",
+      "explicit": false,
+      "youTubeId": "iSpRO_HDTSc",
+      "subjects": [
+        "_Ireland",
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iSpRO_HDTSc"
+      }
+    },
+    {
+      "id": "da7c7842-cc4b-4010-be23-9d49e757275f",
+      "title": "CNN - Scientology: A History of Violence",
+      "description": "In 2010, Anderson Cooper from CNN conducted a one-man crusade against those who evolved from the Planet Xenu. CNN conducted a week-long series on the history of violence inside the Church of Scientology. I have spliced these series segments together.",
+      "release": "2018-01-14T21:12:13Z",
+      "duration": "00:59:42",
+      "explicit": false,
+      "youTubeId": "1HiKD97Jgtk",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1HiKD97Jgtk"
+      }
+    }
+  ]
+}

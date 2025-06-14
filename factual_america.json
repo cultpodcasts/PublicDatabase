@@ -2,10 +2,25 @@
   "_ts": 0,
   "id": "44226fd4-6c70-4b41-beee-e629488186e9",
   "name": "Factual America",
-  "spotifyId": "2IiC0JVB7YrNOcvrKQJCVj",
+  "spotifyId": "3AKmwx2rBcv6EiOJFSb1nn",
   "appleId": 1494485257,
   "youTubeChannelId": "UCtw2v3PX8bx0uXh2kSoVytA",
   "episodes": [
+    {
+      "id": "e4e99b67-01cc-4cdf-921c-54929f52efbb",
+      "title": "The Zizians: A vegan cult with a dark twist",
+      "description": "The Zizians: A vegan cult with a dark twist. What happens when ideology turns deadly? Dive into the chilling story of this mysterious group and uncover the shocking truth behind their beliefs. You won\u0027t see this coming!\n\n #Zizians #VeganCult #TrueCrime #CultMysteries #DarkHistory #ShockingTruth #VeganismGoneWrong #UnbelievableStories #DocumentaryStyle #HiddenSecrets",
+      "release": "2025-06-08T22:00:49Z",
+      "duration": "00:09:08",
+      "explicit": false,
+      "youTubeId": "qnvsxfgKMeg",
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qnvsxfgKMeg"
+      }
+    },
     {
       "id": "5616921e-003e-4749-a490-334c4a6ed428",
       "title": "The 7M TikTok Dance Cult: Dancing for the Devil",
@@ -13,14 +28,14 @@
       "release": "2024-06-20T11:29:00Z",
       "duration": "00:48:14.0800000",
       "explicit": false,
-      "spotifyId": "3jtjKMobv93I3qYEXOFMY2",
+      "spotifyId": "5ochy8iNXNi1s22xo3sVdn",
       "appleId": 1000659630251,
       "youTubeId": "HmNaMP2PpO8",
       "subjects": [
         "7M Films"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/3jtjKMobv93I3qYEXOFMY2",
+        "spotify": "https://open.spotify.com/episode/5ochy8iNXNi1s22xo3sVdn",
         "apple": "https://podcasts.apple.com/podcast/the-7m-tiktok-dance-cult-dancing-for-the-devil/id1494485257?i=1000659630251",
         "youtube": "https://www.youtube.com/watch?v=HmNaMP2PpO8"
       }

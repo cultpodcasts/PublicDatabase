@@ -4,6 +4,7 @@
   "name": "Touched Out!",
   "spotifyId": "0GOYtJp4sybvWfsKvvmx1o",
   "appleId": 1679800062,
+  "youTubeChannelId": "UCOexxxz3B0zMTSLOIKC0k-w",
   "episodes": [
     {
       "id": "a8fe758b-3e6a-4b5a-be17-79d843ab27f6",
@@ -14,12 +15,14 @@
       "explicit": true,
       "spotifyId": "1JIPCbLg44EINnmsDTpOVg",
       "appleId": 1000702933497,
+      "youTubeId": "qSlWAqsOTQE",
       "subjects": [
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1JIPCbLg44EINnmsDTpOVg",
-        "apple": "https://podcasts.apple.com/podcast/faith-fear-and-freedom-escaping-a-cult-finding-strength/id1679800062?i=1000702933497"
+        "apple": "https://podcasts.apple.com/podcast/faith-fear-and-freedom-escaping-a-cult-finding-strength/id1679800062?i=1000702933497",
+        "youtube": "https://www.youtube.com/watch?v=qSlWAqsOTQE"
       }
     }
   ]

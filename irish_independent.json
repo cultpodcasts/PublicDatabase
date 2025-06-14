@@ -1,0 +1,39 @@
+{
+  "_ts": 0,
+  "id": "caad1451-5125-4ba1-b4b4-ef6d63fc2d4f",
+  "name": "Irish Independent",
+  "youTubeChannelId": "UCRIi2dybGnHe3D9vdJJuU-Q",
+  "episodes": [
+    {
+      "id": "142d756c-2487-452c-9326-81b5e1eea4dd",
+      "title": "VIDEO: Residents protest Scientology-linked drug rehab centre due to open beside creche",
+      "description": "A protest has been held in opposition to a drug rehab centre linked to Scientology which could soon be situated beside a creche and montessori.",
+      "release": "2018-01-18T07:56:47Z",
+      "duration": "00:01:53",
+      "explicit": false,
+      "youTubeId": "H7VJQToBgEs",
+      "subjects": [
+        "Scientology",
+        "_Ireland"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=H7VJQToBgEs"
+      }
+    },
+    {
+      "id": "46046e8e-23cf-4213-ba47-6f7339548ba1",
+      "title": "VIDEO: Scientology",
+      "release": "2017-12-16T21:58:43Z",
+      "duration": "00:02:31",
+      "explicit": false,
+      "youTubeId": "VItAjGFAdbY",
+      "subjects": [
+        "Scientology",
+        "_Ireland"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VItAjGFAdbY"
+      }
+    }
+  ]
+}

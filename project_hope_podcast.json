@@ -474,7 +474,7 @@
       "explicit": true,
       "spotifyId": "6wkmrPOOMw10InV4fitHcG",
       "appleId": 1000615158148,
-      "youTubeId": "KOPw4T5ZjS4",
+      "youTubeId": "EVcHqTCamGo",
       "subjects": [
         "Bhagwan Shree Rajneesh",
         "Centrepoint",
@@ -484,7 +484,7 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/6wkmrPOOMw10InV4fitHcG",
         "apple": "https://podcasts.apple.com/podcast/s2-ep-17-anke-richter-p1-on-her-book-cult-trip-inside/id1539680073?i=1000615158148",
-        "youtube": "https://www.youtube.com/watch?v=KOPw4T5ZjS4"
+        "youtube": "https://www.youtube.com/watch?v=EVcHqTCamGo"
       }
     },
     {
@@ -810,12 +810,14 @@
       "explicit": true,
       "spotifyId": "36j4kh38Lb3QAB1sac8jG1",
       "appleId": 1000552017237,
+      "youTubeId": "zVMrIJyLaQI",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/36j4kh38Lb3QAB1sac8jG1",
-        "apple": "https://podcasts.apple.com/podcast/season-1-bonus-sarah-edmondson-anthony-nippy-ames-on/id1539680073?i=1000552017237"
+        "apple": "https://podcasts.apple.com/podcast/season-1-bonus-sarah-edmondson-anthony-nippy-ames-on/id1539680073?i=1000552017237",
+        "youtube": "https://www.youtube.com/watch?v=zVMrIJyLaQI"
       }
     },
     {
