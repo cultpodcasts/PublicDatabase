@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "7cbb5c61-7d36-48f4-8844-a48a72a1035b",
+  "name": "WWLTV",
+  "youTubeChannelId": "UCJCreS7pODbA6XYRsI5fdLg",
+  "episodes": [
+    {
+      "id": "fcfb6dff-93b4-46d8-942a-e80eb32a69c6",
+      "title": "Documentary details Catholic church abuse",
+      "description": "WWL morning anchor Brandon Walker sat down with Chief Investigator David Hammer, his reporting partner, and the team behind the film.",
+      "release": "2025-05-20T03:17:20Z",
+      "duration": "00:04:20",
+      "explicit": false,
+      "youTubeId": "OxfpeRhOAA0",
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=OxfpeRhOAA0"
+      }
+    }
+  ]
+}

@@ -5,6 +5,66 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "60cc62d0-b979-455f-9117-71da9df1981a",
+      "title": "EP# 124 ~ El Opus Dei ante el espejo de Francisco ~ Lvdovicvs 9/4/2025",
+      "description": "El Opus Dei ante el espejo de Francisco",
+      "release": "2025-06-19T00:00:00",
+      "duration": "00:09:49.3450000",
+      "explicit": false,
+      "spotifyId": "02A9bwvousenSiwJmY2l4T",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/02A9bwvousenSiwJmY2l4T"
+      }
+    },
+    {
+      "id": "d789de5d-f1ea-4209-9444-4f15fa4514a4",
+      "title": "EP# 124 ~ Hijos discapacitados y pureza antes del matrimonio, seg\u00FAn Echevarr\u00EDa ~ Diogneto 14/6/2006",
+      "description": "Hijos discapacitados y pureza antes del matrimonio, seg\u00FAn Echevarr\u00EDa",
+      "release": "2025-06-19T00:00:00",
+      "duration": "00:07:59.2590000",
+      "explicit": false,
+      "spotifyId": "6JtxmnDq6sC3gBNeMkcjYq",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6JtxmnDq6sC3gBNeMkcjYq"
+      }
+    },
+    {
+      "id": "5f4d4a9b-8362-4a44-95b5-07489359c5f5",
+      "title": "EP# 123 ~ 27 pasos para que pida la admisi\u00F3n una numeraria al mes 2/3/2007",
+      "description": "27 pasos para que pida la admisi\u00F3n una numeraria al mes",
+      "release": "2025-06-16T00:00:00",
+      "duration": "00:04:21.8510000",
+      "explicit": false,
+      "spotifyId": "7pzFID6CPm2XV36YlbAeoN",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7pzFID6CPm2XV36YlbAeoN"
+      }
+    },
+    {
+      "id": "b625b842-56cc-46b1-a148-37e2c399a93d",
+      "title": "EP# 122 ~ Una estafa de magnitudes colosales ~ Eilad 9/05/2025",
+      "description": "Una estafa de magnitudes colosales",
+      "release": "2025-06-15T00:00:00",
+      "duration": "00:09:11.6360000",
+      "explicit": false,
+      "spotifyId": "4W3WhYEZTNS9HNawvYJ7Gd",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4W3WhYEZTNS9HNawvYJ7Gd"
+      }
+    },
+    {
       "id": "c8077749-a86a-4e49-bd1b-64ea8ea288e7",
       "title": "EP# 121 ~ As\u00ED habl\u00F3 Tiquismisquis ~ Heavy 11 /9/2006",
       "description": "As\u00ED habl\u00F3 Tiquismisquis",

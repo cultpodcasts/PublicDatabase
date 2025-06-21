@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "1a3b00a9-f101-419c-b0ea-13db9abb3a55",
+  "name": "Midnight Facts for Insomniacs",
+  "spotifyId": "5oOk8ESPXiRcC8bGNsoiUJ",
+  "appleId": 1489830993,
+  "episodes": [
+    {
+      "id": "508371c5-3774-41ce-91d7-7d79bed41a61",
+      "title": "The Zizian Cult, Part Two: Meat is Murder, and So Are We",
+      "description": "The first episode covered the origins; now it\u2019s time for the bloodbath. In part two of the Zizian cult series, Shane and Duncan unpack the chilling details of the group\u2019s most violent acts: samurai swords, parricide, and a vegan warlord with delusions of grandeur. From the calculated murders to the dramatic downfall, this is the story of how an online ideology turned into a real-world body count. ~ Support the show by becoming a Midnight Minion, Menace, or Maniac, and unlock exclusive bonus content over at PATREON ~ Chat with fellow insomniacs and vote on episode topics via DISCORD ~ Join the Midnight Masses! Become an Insomniac by dropping a review, adding us on social media, and contacting us with episode ideas. And we now have Midnight Merch! Show your Insomniac pride and pick up a tee shirt or coffee mug to spread the word! Midnight Merch ~ Leave an Audio Message! ~ Instagram ~ Podcast Website",
+      "release": "2025-06-19T07:00:00Z",
+      "duration": "01:12:35.9440000",
+      "explicit": true,
+      "spotifyId": "6AllSCXk7298956BEZFbNH",
+      "appleId": 1000713536488,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6AllSCXk7298956BEZFbNH",
+        "apple": "https://podcasts.apple.com/podcast/the-zizian-cult-part-two-meat-is-murder-and-so-are-we/id1489830993?i=1000713536488"
+      }
+    }
+  ]
+}

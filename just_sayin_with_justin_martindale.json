@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "8bcc45d5-b32e-4ef8-ae02-363ba7e46b7b",
+  "name": "JUST SAYIN\u2019 with Justin Martindale",
+  "spotifyId": "5TOs6hLbu2QMFMDfI3gXbF",
+  "appleId": 1612725859,
+  "youTubeChannelId": "UCWHZt1zsnWz3ksHg-YND7PQ",
+  "youTubePlaylistId": "PLqE73YLSOO_z31osf1VzSAoy8fqiXk1S0",
+  "episodes": [
+    {
+      "id": "34cac09e-3944-4131-afa4-4d79661666c0",
+      "title": "Are you in a Cult? w/ Jane Borden",
+      "description": "This week on Just Sayin\u2019, Justin welcomes Jane Borden, author of Cults Like Us and I Totally Meant to Do That, for a deep dive into the wild world of modern devotion. We\u0027re exploring the fine line between fandom and full-blown cult behavior and asking which celebs would make good cult leaders and whether some already are. Plus, an elephant raids a convenience store for snacks, a graduation backflip ends in a face-kick, TSA reminds us that Costco cards aren\u2019t valid IDs, and the moms fighting for the right to brunch with their hyper-realistic baby dolls. Follow Jane - https://www.instagram.com/janeborden We are brought to you by: ZBiotics - https://www.zbiotics.com/sayin and HUEL - Get Huel today with this exclusive offer for New Customers of 15% OFF with code sayin at https://huel.com/sayin (Minimum $75 purchase) Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-06-18T04:00:00Z",
+      "duration": "01:15:23.0490000",
+      "explicit": false,
+      "spotifyId": "0ncKSp8B5ovgmHC7WPxXyY",
+      "appleId": 1000713367726,
+      "youTubeId": "sH2oMmyIZVY",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ncKSp8B5ovgmHC7WPxXyY",
+        "apple": "https://podcasts.apple.com/podcast/are-you-in-a-cult-w-jane-borden/id1612725859?i=1000713367726",
+        "youtube": "https://www.youtube.com/watch?v=sH2oMmyIZVY"
+      }
+    }
+  ]
+}

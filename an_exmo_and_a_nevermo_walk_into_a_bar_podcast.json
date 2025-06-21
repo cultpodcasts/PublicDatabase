@@ -7,17 +7,36 @@
   "youTubeChannelId": "UCBP-YKtljlv5Eq4qT6fItog",
   "episodes": [
     {
+      "id": "62e5d91c-1e96-40d5-b013-727ae1f88671",
+      "title": "Season 2 Ep. 3 - LIVE at PRIDE With Author Jonathan Alder!",
+      "description": "Source:\nhttps://www.podbean.com/eau/pb-wnyb3-18dce63\n\nTwo NoMos Kate and Erika had the opportunity to sit down with author Jonathan Alder at the Utah Pride Festival.\u00A0He wrote the book Closeted about his experiences as a gay student at BYU. His story is heartbreaking, poignant, and ultimately joyful and healing, as he has stepped into his true self, and is living authentically and thriving!His book is available here.",
+      "release": "2025-06-17T15:06:23Z",
+      "duration": "00:52:54",
+      "explicit": false,
+      "appleId": 1000713262271,
+      "youTubeId": "vrQOr-U9a9Q",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/season-2-ep-3-live-at-pride-with-author-jonathan-alder/id1791618379?i=1000713262271",
+        "youtube": "https://www.youtube.com/watch?v=vrQOr-U9a9Q"
+      }
+    },
+    {
       "id": "a106f7af-fdcb-4b5e-a61c-fefff7615d1b",
       "title": "Season 2 Ep. 2 - An ExMo and a NeverMo Walk Into a PRIDE Festival!",
       "description": "Two NoMos go LIVE for the first time at the Utah PRIDE Festival! It\u0027s a little loud, it\u0027s a little messy, it\u0027s a lot colorful, but so is life. Happy PRIDE, Everyone!!!!",
       "release": "2025-06-10T05:23:53Z",
       "duration": "00:48:28",
       "explicit": false,
+      "spotifyId": "1q4H95Ex9qfZkIrK9cdnRH",
       "appleId": 1000712202051,
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1q4H95Ex9qfZkIrK9cdnRH",
         "apple": "https://podcasts.apple.com/podcast/season-2-ep-2-an-exmo-and-a-nevermo-walk-into-a-pride-festival/id1791618379?i=1000712202051"
       }
     },

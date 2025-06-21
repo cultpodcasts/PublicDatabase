@@ -7,6 +7,22 @@
   "youTubeChannelId": "UCA04PrhGZx1KBOC0mFk7N0g",
   "episodes": [
     {
+      "id": "c5e2b72a-55dd-4731-8ba8-6481c2ff30e6",
+      "title": "Fyre Fraud (Hulu, 2019)",
+      "description": "What happens when someone with A Big Idea makes even bigger promises but fails to attend to logistical tasks and/or infrastructure? We\u2019re sticking with our summer theme by telling the story of a beach music festival for the ultra-elite that became a trending trainwreck on social media. Charismatic entrepreneur \u002B unquestioning yes-people \u002B exploited local staff = a vacation that dreams (nightmares, specifically) are made of. That\u2019s right, we\u2019re going to Fyre Fest, and we want you to come along! We can\u2019t promise comfortable accommodations, but we do promise insightful analysis about wealth, access, and influence in the digital age.",
+      "release": "2025-06-16T09:00:00Z",
+      "duration": "01:24:41.3030000",
+      "explicit": true,
+      "spotifyId": "62Jhbm21x8G6LQ5vJSjCUe",
+      "appleId": 1000713069890,
+      "youTubeId": "Z-jWExD2l0g",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/62Jhbm21x8G6LQ5vJSjCUe",
+        "apple": "https://podcasts.apple.com/podcast/fyre-fraud-hulu-2019/id1758534607?i=1000713069890",
+        "youtube": "https://www.youtube.com/watch?v=Z-jWExD2l0g"
+      }
+    },
+    {
       "id": "c6b6ed83-e115-4bbf-ac77-51ecc9316015",
       "title": "Bikram: Yogi, Guru, Predator (Netflix, 2019)",
       "description": "Bikram Choudhury claimed to heal President Nixon\u0027s thrombosis and developed his own form of yoga that became an international brand. The brash, tale-telling, foul-mouthed yoga teacher built an empire around his teacher training courses. But he was also a predator and abuser. Where did Brikram yoga come from? (Spoiler: it\u0027s a long story about colonialism in India) Why do we think physical training requires verbal abuse? Is Bikra, the Vince McMahon of yoga? We\u0027ll answer all of these questions and more this week!\n\n\n\n\n\n\nFollow us on the socials at @cultfavoritepod.\n\n\nProduction assistance from the Department of Religious Studies at the University of Alabama. \n\n\nTheme music produced with Udio.",
@@ -387,6 +403,9 @@
       "spotifyId": "3qTAZ6YAqCwRQKznpTERJc",
       "appleId": 1000668031317,
       "youTubeId": "y3RSsUOiwxU",
+      "subjects": [
+        "Corporate Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3qTAZ6YAqCwRQKznpTERJc",
         "apple": "https://podcasts.apple.com/podcast/brandy-hellville-the-cult-of-fast-fashion/id1758534607?i=1000668031317",

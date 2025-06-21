@@ -2,36 +2,180 @@
   "_ts": 0,
   "id": "79672bb0-4251-4164-8f9e-94ebb5f49ad4",
   "name": "Philion",
+  "spotifyId": "2oYm35ukgRWeZQIqAVlszv",
+  "appleId": 1802687005,
   "youTubeChannelId": "UCgKJPhVzv8w0VaZFnS_VmaA",
   "episodes": [
     {
+      "id": "7e4972ea-391f-46fb-b2f5-9154f966a618",
+      "title": "The Transgender Vegan Death Cult",
+      "release": "2025-04-10T00:30:44Z",
+      "duration": "00:36:10",
+      "explicit": false,
+      "youTubeId": "7_ySEPkG-8w",
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=7_ySEPkG-8w"
+      }
+    },
+    {
       "id": "4a8d11ee-289b-4081-b5bc-8ff3f3a3655c",
       "title": "The Cult of Osho",
-      "description": "Visit https://helixsleep.com/philion to get 20% off your Helix mattress, plus two free pillows.\n\n\nTHIRD EYE GLOBAL PATREON: https://www.patreon.com/philion\n\n\nCHAPTERS:\n0:00 AMERICAN UTOPIA\n2:33 BIRTH OF A GURU\n20:02 SANCTUARY\n36:32 ORANGE PARADISE\n52:51 MASTER VS DISCIPLE\n58:01 THE GURU SPEAKS\n1:04:30 THE BITTER END\n1:08:41 A NEW HOAX\n1:11:28 PATREON\n\n\nTWITTER: https://twitter.com/thirdeyeoftruth\nINSTAGRAM: https://www.instagram.com/philion/\n\nHAVE A STORY?\nEMAIL: leads@thirdeye.global\n\nCopyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201Cfair use\u201D for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.",
+      "description": "CHAPTERS:\n0:00 AMERICAN UTOPIA\n2:33 BIRTH OF A GURU\n20:02 SANCTUARY\n36:32 ORANGE PARADISE\n52:51 MASTER VS DISCIPLE\n58:01 THE GURU SPEAKS\n1:04:30 THE BITTER END\n1:08:41 A NEW HOAX\n1:11:28 PATREON\n",
       "release": "2023-07-28T19:25:25Z",
       "duration": "01:12:30",
       "explicit": false,
+      "spotifyId": "0YfQnu7vaOmjfjtaGYazZf",
+      "appleId": 1000711222214,
       "youTubeId": "Mk4DhLf9TDs",
       "subjects": [
         "Bhagwan Shree Rajneesh"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0YfQnu7vaOmjfjtaGYazZf",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-osho-philion/id1802687005?i=1000711222214",
         "youtube": "https://www.youtube.com/watch?v=Mk4DhLf9TDs"
+      }
+    },
+    {
+      "id": "56712b77-c3d9-4cc9-8b42-ac89f198c52e",
+      "title": "The Cult of Scientology",
+      "description": "CHAPTERS\n0:00-4:48 INTRO\n4:52-12:34 FOUNDING FATHER\n12:35-13:54 SURFSHARK VPN\n13:55-17:41 FACTORY OF FICTION\n17:42-24:29 HUBBMARINE\n24:32-39:50 DIANETICS\n39:54-49:38 MISSION IMPOSSIBLE\n49:40-57:27 SPACE OPERA \n57:28-1:03:46 CELEBRITY CLEARS\n1:03:47-1:10:54 THE HYPNOTIST",
+      "release": "2023-05-05T17:52:29Z",
+      "duration": "01:10:54",
+      "explicit": false,
+      "spotifyId": "6ToRQCQWbuR7VZFzT7sB15",
+      "appleId": 1000711794958,
+      "youTubeId": "aAHPaQlafSI",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ToRQCQWbuR7VZFzT7sB15",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-scientology-philion/id1802687005?i=1000711794958",
+        "youtube": "https://www.youtube.com/watch?v=aAHPaQlafSI"
+      }
+    },
+    {
+      "id": "02596a92-4e0d-4d9c-82b2-329615c65204",
+      "title": "The Ezra Miller Problem",
+      "description": "CHAPTERS:\n0:00-0:53 Intro\n0:54-6:08 The Wallflower\n6:09-8:10 Helix\n8:11-8:34 Shallow Waters\n8:35-15:35 The Deep End\n15:36-25:15 Clown Paint\n25:16-28:24 Full House\n28:25-30:53 Conclusion",
+      "release": "2023-03-01T05:50:07Z",
+      "duration": "00:30:53",
+      "explicit": false,
+      "spotifyId": "0ifjcSj879VvB7nMk9Jk0A",
+      "appleId": 1000711989451,
+      "youTubeId": "aRi4xPmIqOQ",
+      "subjects": [
+        "Spiritual Narcissist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ifjcSj879VvB7nMk9Jk0A",
+        "apple": "https://podcasts.apple.com/podcast/the-ezra-miller-problem-philion/id1802687005?i=1000711989451",
+        "youtube": "https://www.youtube.com/watch?v=aRi4xPmIqOQ"
+      }
+    },
+    {
+      "id": "8c10586b-1ca8-425a-94ca-eb438ed343ca",
+      "title": "The Cult Within a Cult",
+      "description": "NXIVM was the name of Keith Raniere\u0027s infamous multi-level marketing company that operated from 1998 to 2018. It used practices of neuro-linguistic programming or NLP to effectively \u0027brainwash\u0027 new recruits in their corporate cult. As NXIVM grew, Keith established an inner circle known as D.O.S or Dominus Obsequious Sororium. This is the insane story of how NXIVM manipulated thousands of people under the guise of self help. \n\n\nOther Links\nPATREON: https://www.patreon.com/philion\nTWITTER: https://twitter.com/thirdeyeoftruth\nDISCORD: https://discord.gg/ubECAEB\nINSTAGRAM: https://www.instagram.com/philion/\nEMAIL: philionfit@gmail.com\n\nEdited by Philion x  PattyTrills: https://www.youtube.com/c/PattyTrills\n\nCopyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201Cfair use\u201D for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.",
+      "release": "2022-10-24T20:04:50Z",
+      "duration": "00:28:30",
+      "explicit": false,
+      "spotifyId": "2NElRRCEdJj2bRA6Q9IdEd",
+      "appleId": 1000713140771,
+      "youTubeId": "yhTHVvxQcEg",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2NElRRCEdJj2bRA6Q9IdEd",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-within-a-cult-philion/id1802687005?i=1000713140771",
+        "youtube": "https://www.youtube.com/watch?v=yhTHVvxQcEg"
       }
     },
     {
       "id": "6c673dda-1556-438e-b008-d4b6bea18ac1",
       "title": "The Cult of Mormonism",
-      "description": "Thanks to Keeps for sponsoring this video! Head to https://keeps.com/Philion to get 50% off your first Keeps order.\n\n\nMormonism is a modern religion founded by American \u0022Prophet\u0022 Joseph Smith in 1830 with the establishment of the Church of Jesus Christ and publication of the infamous Book of Mormon. Now nearly 200 years old, it has spiraled into one of the fastest growing religions in the world. The actual history of Mormonism is one of absurdity, a completely fabricated story designed to fulfill Smith\u0027s agenda. Operating like a billion dollar corporation instead of a religion: this is the cult of mormonism. \n\n\nOther Links\nPATREON: https://www.patreon.com/philion\nTWITTER: https://twitter.com/thirdeyeoftruth\nDISCORD: https://discord.gg/ubECAEB\nINSTAGRAM: https://www.instagram.com/philion/\nEMAIL: philionfit@gmail.com\n\n\nCopyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201Cfair use\u201D for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.",
+      "description": "Mormonism is a modern religion founded by American \u0022Prophet\u0022 Joseph Smith in 1830 with the establishment of the Church of Jesus Christ and publication of the infamous Book of Mormon. Now nearly 200 years old, it has spiraled into one of the fastest growing religions in the world. The actual history of Mormonism is one of absurdity, a completely fabricated story designed to fulfill Smith\u0027s agenda. Operating like a billion dollar corporation instead of a religion: this is the cult of mormonism. \n\n\nOther Links\nPATREON: https://www.patreon.com/philion\nTWITTER: https://twitter.com/thirdeyeoftruth\nDISCORD: https://discord.gg/ubECAEB\nINSTAGRAM: https://www.instagram.com/philion/\nEMAIL: philionfit@gmail.com\n\n\nCopyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201Cfair use\u201D for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.",
       "release": "2022-10-18T14:19:53Z",
       "duration": "00:32:34",
       "explicit": false,
+      "spotifyId": "54uNCYTKPocZl3HmzT4kid",
+      "appleId": 1000713140712,
       "youTubeId": "S5tOj7kkOx8",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/54uNCYTKPocZl3HmzT4kid",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-mormonism-philion/id1802687005?i=1000713140712",
         "youtube": "https://www.youtube.com/watch?v=S5tOj7kkOx8"
+      }
+    },
+    {
+      "id": "365189be-8057-440a-8429-36aad37c99c7",
+      "title": "The Cult of Heaven\u0027s Gate",
+      "description": "Heaven\u0027s Gate is appropriately referred to as the \u0027Cult of Cults\u0027. From 1974 to 1997, they lived in solitude only interacting with each other until the day of their transcendence. This video explores the insane origin story, impact, and aftermath of the 39 disciples of Marshall Applewhite and Bonnie Nettles. \n\nOther Links\nTWITTER: https://twitter.com/thirdeyeoftruth\nTWITCH: https://twitch.tv/philionlive\nPODCAST: https://bit.ly/2ppf8h7\nDISCORD: https://discord.gg/ubECAEB\nINSTAGRAM: https://www.instagram.com/philion/\nEMAIL: philionfit@gmail.com\n\n\nCopyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201Cfair use\u201D for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.",
+      "release": "2022-09-30T22:38:10Z",
+      "duration": "00:20:25",
+      "explicit": true,
+      "youTubeId": "8hByxOYy5Qs",
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8hByxOYy5Qs"
+      }
+    },
+    {
+      "id": "9ffebf21-966e-4fee-83a6-f84c8a348beb",
+      "title": "The Manson Family",
+      "description": "Charles Manson formed a murderous cult that ravaged Hollywood throughout the 1960\u0027s. Whether it be hiding out at Spahn\u0027s Ranch, or spreading \u0027Helter Skelter\u0027 ideology, the Manson Family is infamous for their crimes. These include the LaBianca and Sharon Tate murders. \n\n\n\nOther Links\nTWITTER: https://twitter.com/thirdeyeoftruth\nTWITCH: https://twitch.tv/philionlive\nPODCAST: https://bit.ly/2ppf8h7\nDISCORD: https://discord.gg/ubECAEB\nINSTAGRAM: https://www.instagram.com/philion/\nEMAIL: philionfit@gmail.com\n\n\nCopyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for \u201Cfair use\u201D for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.",
+      "release": "2022-09-25T00:06:45Z",
+      "duration": "00:17:38",
+      "explicit": false,
+      "spotifyId": "2rIa9PZOwXL2UMWQZjYPps",
+      "appleId": 1000713466972,
+      "youTubeId": "WLQ5uTM56Mc",
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rIa9PZOwXL2UMWQZjYPps",
+        "apple": "https://podcasts.apple.com/podcast/the-manson-family-philion/id1802687005?i=1000713466972",
+        "youtube": "https://www.youtube.com/watch?v=WLQ5uTM56Mc"
+      }
+    },
+    {
+      "id": "b866e672-4311-4f36-a24b-505de589546d",
+      "title": "The World\u0027s Most Annoying Cult Leader",
+      "release": "2022-07-29T02:09:35Z",
+      "duration": "00:23:59",
+      "explicit": false,
+      "youTubeId": "J7qMqYAUJNU",
+      "subjects": [
+        "Bentinho Massaro"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=J7qMqYAUJNU"
+      }
+    },
+    {
+      "id": "bb04f1e8-d550-410a-8d85-0f899b557d04",
+      "title": "The Cult of Jared Leto",
+      "description": "Jared Leto is a known for being both a Hollywood A-list actor, and frontman for Thirty Seconds to Mars. During his long and successful career as a celebrity, dark rumors and allegations have come out against him. Jared Leto is currently in the zeitgeist for his roles in House of Gucci, Morbius, and WeCrashed. Here is how Jared Leto has built a cult-like fandom that makes him untouchable in the media. \n\nWelcome to the Dystopia. \n\nEditing/Production/Visuals/Sound Design/Story : Philion\n\nOther Links\nTWITTER: https://twitter.com/thirdeyeoftruth\nTWITCH: https://twitch.tv/philionlive\nPODCAST: https://bit.ly/2ppf8h7\nDISCORD: https://discord.gg/ubECAEB\nINSTAGRAM: https://www.instagram.com/philion/\nEMAIL: philionfit@gmail.com",
+      "release": "2022-04-25T19:53:05Z",
+      "duration": "00:17:44",
+      "explicit": false,
+      "youTubeId": "nd6dwkqVlaY",
+      "subjects": [
+        "Jared Leto"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nd6dwkqVlaY"
       }
     }
   ]

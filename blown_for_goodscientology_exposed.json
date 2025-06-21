@@ -316,14 +316,14 @@
       "explicit": true,
       "spotifyId": "7JIhDGcM4L1dU6dCWxHo08",
       "appleId": 1000680956905,
-      "youTubeId": "r0JF8y5PoBo",
+      "youTubeId": "jAn9t0m_NzA\u0026",
       "subjects": [
         "Scientology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7JIhDGcM4L1dU6dCWxHo08",
         "apple": "https://podcasts.apple.com/podcast/scientology-legal-battles-bobblehead-creativity-and/id1671284503?i=1000680956905",
-        "youtube": "https://www.youtube.com/watch?v=r0JF8y5PoBo"
+        "youtube": "https://www.youtube.com/watch?v=jAn9t0m_NzA\u0026"
       }
     },
     {
@@ -352,11 +352,15 @@
       "release": "2024-12-11T19:41:04Z",
       "duration": "01:18:58",
       "explicit": false,
+      "spotifyId": "6sfNqHYdUVjebPUtPgsMjW",
+      "appleId": 1000713228285,
       "youTubeId": "r0JF8y5PoBo",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6sfNqHYdUVjebPUtPgsMjW",
+        "apple": "https://podcasts.apple.com/podcast/scientologys-alien-beliefs-xenu-galactic-federation/id1671284503?i=1000713228285",
         "youtube": "https://www.youtube.com/watch?v=r0JF8y5PoBo"
       }
     },

@@ -1,0 +1,31 @@
+{
+  "_ts": 0,
+  "id": "04080b6f-22fb-4b8a-a20b-ca133d51bfb7",
+  "name": "Painful Lessons",
+  "spotifyId": "6Z65Jr9DcOliiRBcfFFKFP",
+  "appleId": 1729973942,
+  "youTubeChannelId": "UCkC06HhkZIfoqk_n1E9MOiA",
+  "episodes": [
+    {
+      "id": "c3bf064c-a7af-4826-816d-218907bc2f69",
+      "title": "Claire Hoffman on Cults, Faith \u0026 the Scandal That Shaped American Religion",
+      "description": "Journalist and author Claire Hoffman joins Painful Lessons to explore faith, scandal, and survival. From growing up in the Transcendental Meditation movement to writing Sister Sinner, Claire shares the incredible true story of Amy Semple McPherson, the most famous woman in 1920s America\u2014who vanished into the ocean and reappeared in the desert 35 days later. She and host Tyler Ramsey also dive into spirituality, modern cult dynamics, Claire\u2019s investigation into abuse in media empires, and her deeply personal moments around death, doubt, and redemption. \u0026#x1f538; Topics covered: Surviving a spiritual movement Writing Sister Sinner The disappearance of Amy Semple McPherson Religion and media in Los Angeles Trauma, belief, and transformation Final moments with Claire\u0027s father Dangers of binary morality #ClaireHoffman #GirlsGoneWild #JoeFrancis #SisterSinner #AmySempleMcPherson #PainfulLessonsPodcast #ReligiousScandals #TMmovement #CultSurvivor #JournalismMatters #UntoldHistory #AuthorInterview",
+      "release": "2025-06-16T17:00:00Z",
+      "duration": "01:00:28.8620000",
+      "explicit": false,
+      "spotifyId": "681Tc8usWDPYvHNlzZuN9N",
+      "appleId": 1000713123418,
+      "youTubeId": "dCk9gshrpsg",
+      "subjects": [
+        "Sister Aimee",
+        "Transcendental Meditation",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/681Tc8usWDPYvHNlzZuN9N",
+        "apple": "https://podcasts.apple.com/podcast/claire-hoffman-on-cults-faith-the-scandal-that-shaped/id1729973942?i=1000713123418",
+        "youtube": "https://www.youtube.com/watch?v=dCk9gshrpsg"
+      }
+    }
+  ]
+}

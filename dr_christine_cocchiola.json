@@ -2,8 +2,29 @@
   "_ts": 0,
   "id": "988cd62c-ff4f-42c0-9d1b-a04b18af524e",
   "name": "Dr. Christine Cocchiola",
+  "spotifyId": "4GybPLyjdiTAoJSbIIcRYK",
+  "appleId": 1704962170,
   "youTubeChannelId": "UCF4ZdsbuXhzXqlnI5w54BFA",
   "episodes": [
+    {
+      "id": "1db5c724-38df-45ef-aec6-f128a139cc18",
+      "title": "Podcast: Children of Coercive Control - Maya Laing",
+      "description": "Maya Laing joins Dr. C on Perfect Prey to share her and her brother Sebastian\u0027s experiences growing up in a home where they felt unsafe with one parent. When they expressed their desire to live with their father, their mother turned to the family court system, resulting in mandated reunification therapy and a reunification camp a devastating consequence for children who feel unsafe with one parent.\n\n\uD83D\uDD38Follow Dr. Christine on IG: www.instagram.com/dr.cocchiola_coercivecontrol\n\n\uD83D\uDD38Visit her website: https://coercivecontrolconsulting.com \n\n\uD83D\uDD38Become a Certified Trauma-Informed Protective Parent in this intensive educational program with an option for LIVE coaching/support to guide protective parents as they navigate the stormy seas of parenting a child who has been coercively controlled. \n\n\uD83D\uDD38Sign up here: https://go.drcocchiola.com/accelerated2-selfstudy",
+      "release": "2025-06-17T01:37:08Z",
+      "duration": "00:32:35",
+      "explicit": false,
+      "spotifyId": "3eOljeNO4VHspLiFtJHUXX",
+      "appleId": 1000712767053,
+      "youTubeId": "-dc4gkHk2-Y",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3eOljeNO4VHspLiFtJHUXX",
+        "apple": "https://podcasts.apple.com/podcast/children-of-coercive-control-maya-laing/id1704962170?i=1000712767053",
+        "youtube": "https://www.youtube.com/watch?v=-dc4gkHk2-Y"
+      }
+    },
     {
       "id": "86e6b3ee-4e7c-47e2-b2d9-07835d339e0a",
       "title": "Like a Cult: Why Children Align with Abusers | Trauma Bonding",

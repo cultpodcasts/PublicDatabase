@@ -117,21 +117,6 @@
       }
     },
     {
-      "id": "9953ca2b-18c4-4f30-86d9-05eeca401e44",
-      "title": "TV3 2020 expose of Tony Quinn   part 4 of 4",
-      "release": "2015-04-03T06:21:15Z",
-      "duration": "00:08:58",
-      "explicit": false,
-      "youTubeId": "pjpwOlFPVTA",
-      "subjects": [
-        "EDUCO",
-        "Yoga Cult"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=pjpwOlFPVTA"
-      }
-    },
-    {
       "id": "61f2bf1b-18d1-4fb6-94ac-ebc969db7c15",
       "title": "TV3s Midweek on cults 3 of 3",
       "release": "2015-04-03T06:21:02Z",
@@ -176,51 +161,6 @@
       "youTubeId": "Fk813qC2f0A",
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=Fk813qC2f0A"
-      }
-    },
-    {
-      "id": "f512d936-b03b-44ec-a06b-578fd1c1c613",
-      "title": "TV3 2020 expose of Tony Quinn   part 2 of 4",
-      "release": "2015-04-03T06:19:16Z",
-      "duration": "00:08:58",
-      "explicit": false,
-      "youTubeId": "JLmm6ZF9X7I",
-      "subjects": [
-        "EDUCO",
-        "Yoga Cult"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=JLmm6ZF9X7I"
-      }
-    },
-    {
-      "id": "360df03c-e7f1-45bf-929a-f664b1462e49",
-      "title": "TV3 2020 expose of Tony Quinn   part 3 of 4",
-      "release": "2015-04-03T06:19:15Z",
-      "duration": "00:08:58",
-      "explicit": false,
-      "youTubeId": "1Vl5qhd3Ap0",
-      "subjects": [
-        "EDUCO",
-        "Yoga Cult"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=1Vl5qhd3Ap0"
-      }
-    },
-    {
-      "id": "bfce8af5-4b72-42f1-9b26-9963518bc260",
-      "title": "TV3 2020 expose of Tony Quinn   part 1 of 4",
-      "release": "2015-04-03T06:18:38Z",
-      "duration": "00:08:53",
-      "explicit": false,
-      "youTubeId": "tL5KzIlKEso",
-      "subjects": [
-        "EDUCO",
-        "Yoga Cult"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=tL5KzIlKEso"
       }
     },
     {
@@ -961,76 +901,6 @@
       }
     },
     {
-      "id": "edeb3f8c-55b3-4102-8603-149493e7d520",
-      "title": "Marcus  part 4 of 5",
-      "release": "2015-04-01T07:28:07Z",
-      "duration": "00:10:37",
-      "explicit": false,
-      "youTubeId": "KV1srSeGee4",
-      "subjects": [
-        "EDUCO"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=KV1srSeGee4"
-      }
-    },
-    {
-      "id": "1abc2a99-f855-49cb-ae86-c9651b132165",
-      "title": "Marcus  part 5 of 5",
-      "release": "2015-04-01T07:28:00Z",
-      "duration": "00:10:37",
-      "explicit": false,
-      "youTubeId": "pHCu4l_U7yI",
-      "subjects": [
-        "EDUCO"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=pHCu4l_U7yI"
-      }
-    },
-    {
-      "id": "7701bd7f-d709-4553-b303-ce26fff6ef34",
-      "title": "Marcus  part 1 of 5",
-      "release": "2015-04-01T07:27:50Z",
-      "duration": "00:10:33",
-      "explicit": false,
-      "youTubeId": "whb2q-thuQ0",
-      "subjects": [
-        "EDUCO"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=whb2q-thuQ0"
-      }
-    },
-    {
-      "id": "073085ba-52bf-4e15-a147-bc6d61fa7c65",
-      "title": "Marcus  part 3 of 5",
-      "release": "2015-04-01T07:27:49Z",
-      "duration": "00:10:37",
-      "explicit": false,
-      "youTubeId": "a-YjjB9YtlQ",
-      "subjects": [
-        "EDUCO"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=a-YjjB9YtlQ"
-      }
-    },
-    {
-      "id": "30bae569-f6fc-4b33-b783-f051652dfd07",
-      "title": "Marcus  part 2 of 5",
-      "release": "2015-04-01T07:27:49Z",
-      "duration": "00:10:37",
-      "explicit": false,
-      "youTubeId": "hZgFhnYQNwE",
-      "subjects": [
-        "EDUCO"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=hZgFhnYQNwE"
-      }
-    },
-    {
       "id": "971e0acf-92ab-48c9-a784-c441c160586e",
       "title": "Midweek discuss the new book on House of Prayer  part 2 of 2",
       "release": "2015-04-01T07:27:49Z",
@@ -1419,6 +1289,136 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=QBqQn182sfY"
+      }
+    },
+    {
+      "id": "edeb3f8c-55b3-4102-8603-149493e7d520",
+      "title": "Marcus  part 4 of 5",
+      "release": "2002-05-23T00:00:00Z",
+      "duration": "00:10:37",
+      "explicit": false,
+      "youTubeId": "KV1srSeGee4",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KV1srSeGee4"
+      }
+    },
+    {
+      "id": "1abc2a99-f855-49cb-ae86-c9651b132165",
+      "title": "Marcus  part 5 of 5",
+      "release": "2002-05-23T00:00:00Z",
+      "duration": "00:10:37",
+      "explicit": false,
+      "youTubeId": "pHCu4l_U7yI",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pHCu4l_U7yI"
+      }
+    },
+    {
+      "id": "7701bd7f-d709-4553-b303-ce26fff6ef34",
+      "title": "Marcus  part 1 of 5",
+      "release": "2002-05-23T00:00:00Z",
+      "duration": "00:10:33",
+      "explicit": false,
+      "youTubeId": "whb2q-thuQ0",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=whb2q-thuQ0"
+      }
+    },
+    {
+      "id": "073085ba-52bf-4e15-a147-bc6d61fa7c65",
+      "title": "Marcus  part 3 of 5",
+      "release": "2002-05-23T00:00:00Z",
+      "duration": "00:10:37",
+      "explicit": false,
+      "youTubeId": "a-YjjB9YtlQ",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=a-YjjB9YtlQ"
+      }
+    },
+    {
+      "id": "30bae569-f6fc-4b33-b783-f051652dfd07",
+      "title": "Marcus  part 2 of 5",
+      "release": "2002-05-23T00:00:00Z",
+      "duration": "00:10:37",
+      "explicit": false,
+      "youTubeId": "hZgFhnYQNwE",
+      "subjects": [
+        "EDUCO"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hZgFhnYQNwE"
+      }
+    },
+    {
+      "id": "9953ca2b-18c4-4f30-86d9-05eeca401e44",
+      "title": "TV3 2020 expose of Tony Quinn   part 4 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "youTubeId": "pjpwOlFPVTA",
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pjpwOlFPVTA"
+      }
+    },
+    {
+      "id": "f512d936-b03b-44ec-a06b-578fd1c1c613",
+      "title": "TV3 2020 expose of Tony Quinn   part 2 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "youTubeId": "JLmm6ZF9X7I",
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JLmm6ZF9X7I"
+      }
+    },
+    {
+      "id": "360df03c-e7f1-45bf-929a-f664b1462e49",
+      "title": "TV3 2020 expose of Tony Quinn   part 3 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "youTubeId": "1Vl5qhd3Ap0",
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1Vl5qhd3Ap0"
+      }
+    },
+    {
+      "id": "bfce8af5-4b72-42f1-9b26-9963518bc260",
+      "title": "TV3 2020 expose of Tony Quinn   part 1 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:53",
+      "explicit": false,
+      "youTubeId": "tL5KzIlKEso",
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tL5KzIlKEso"
       }
     }
   ]
