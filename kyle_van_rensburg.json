@@ -5,6 +5,34 @@
   "youTubeChannelId": "UCkJXcMp76HviboHUfQD93DA",
   "episodes": [
     {
+      "id": "13c64d1a-07b9-430c-8a48-d2fc4ff6bd6e",
+      "title": "Don\u0027t Fall Into a Cult",
+      "release": "2025-06-25T15:06:22Z",
+      "duration": "00:04:54",
+      "explicit": false,
+      "youTubeId": "VZy-2I1FnSo",
+      "subjects": [
+        "Authority In Christ Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VZy-2I1FnSo"
+      }
+    },
+    {
+      "id": "68e370db-c0f1-4ab1-9984-5da704fbe1de",
+      "title": "My Cult Story - What I Didn\u0027t Say",
+      "release": "2025-06-22T12:17:59Z",
+      "duration": "00:04:04",
+      "explicit": false,
+      "youTubeId": "_OfszhIlXZA",
+      "subjects": [
+        "Authority In Christ Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_OfszhIlXZA"
+      }
+    },
+    {
       "id": "4f77cb9e-9d18-4371-a3fc-1c6b7416511e",
       "title": "How to Escape a Cult",
       "release": "2025-03-16T16:00:31Z",

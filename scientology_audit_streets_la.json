@@ -5,6 +5,21 @@
   "youTubeChannelId": "UCuPSrpb5YqC6Y2F9e21G0BA",
   "episodes": [
     {
+      "id": "72e00bdd-61d4-42dd-ac10-ef3d40613a24",
+      "title": "Shannon to Make Social Media Accounts",
+      "description": "Clips from livestream discussing and informing the public about Scientology.",
+      "release": "2025-06-23T04:16:30Z",
+      "duration": "00:10:46",
+      "explicit": false,
+      "youTubeId": "RuqNz9rInEQ",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RuqNz9rInEQ"
+      }
+    },
+    {
       "id": "90a11bf6-6c4d-47a7-a359-8c3ee299a072",
       "title": "SELF HELP NONSENSE: Talking w/People That Took Scientology Tour",
       "description": "Talking with young people who took the tour of the Scientology building",

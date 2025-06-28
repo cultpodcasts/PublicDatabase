@@ -15,12 +15,44 @@
       "explicit": false,
       "spotifyId": "6qAu0sQvCZjtEuGKbstv1J",
       "appleId": 1000713894454,
+      "youTubeId": "nmiMJWoRTmk",
       "subjects": [
         "Colonia Dignidad"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6qAu0sQvCZjtEuGKbstv1J",
-        "apple": "https://podcasts.apple.com/podcast/nazi-farm-part-1/id1668859460?i=1000713894454"
+        "apple": "https://podcasts.apple.com/podcast/nazi-farm-part-1/id1668859460?i=1000713894454",
+        "youtube": "https://www.youtube.com/watch?v=nmiMJWoRTmk"
+      }
+    },
+    {
+      "id": "cdc4e5ee-c82a-4094-8c86-fed4088369bd",
+      "title": "This Religious Cult Claimed They Cloned A Baby",
+      "description": "In the previous episode of True Weird Stuff, we told the story of Ra\u00EBlism, the religious UFO cult led by Claude Vorilhon. We\u0027re now diving into one of their core beliefs: that Jesus was resurrected through cloning and humans need to perfect human cloning to achieve immortality. That would lead to a claim made in 2002 by a scientific company created by Ra\u00EBlians that the first human clone had been born. \n\n| Ep. 96 | True Weird Stuff\nhttps://trueweirdstuff.com/",
+      "release": "2025-01-27T13:00:07Z",
+      "duration": "01:40:54",
+      "explicit": false,
+      "youTubeId": "2mc9-szmvEg",
+      "subjects": [
+        "Ra\u00EBlism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2mc9-szmvEg"
+      }
+    },
+    {
+      "id": "5f586e2e-97f2-4208-a129-e30dc75a1a45",
+      "title": "We Were Created By Aliens? The Ra\u00EBlian Religion",
+      "description": "This is the story of a man who created a religion around UFO\u0027s. Claude Vorilhon was a journalist who claimed he was abducted by aliens in 1973. He said they told him humans were created by extraterrestrial species using advanced technology, and then they renamed him Ra\u00EBl and sent him back to Earth to serve as ambassador to their faith. And thus, Ra\u00EBlism was born.\n\n| Ep. 95 | True Weird Stuff\nhttps://trueweirdstuff.com/",
+      "release": "2025-01-20T13:00:13Z",
+      "duration": "01:23:57",
+      "explicit": false,
+      "youTubeId": "CMYdH4UDSQg",
+      "subjects": [
+        "Ra\u00EBlism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CMYdH4UDSQg"
       }
     },
     {
@@ -40,6 +72,22 @@
         "spotify": "https://open.spotify.com/episode/76590X0WPiiIGTlrMcYZBT",
         "apple": "https://podcasts.apple.com/podcast/coconut-cult/id1668859460?i=1000683536400",
         "youtube": "https://www.youtube.com/watch?v=MtsgI1y55KI"
+      }
+    },
+    {
+      "id": "c9ab516a-1fa3-46bd-82c7-436e9d1ac75f",
+      "title": "Jack Parsons: NASA\u0027s Brilliant Scientist and Sex Cult Leader",
+      "description": "Jack Parsons was one of the fathers of the American space age who helped put man on the moon. He invented solid rocket fuel, co-founded the Jet Propulsion Laboratory, and he was also an occultist. He was written out of a lot of NASA\u0027s history because of his antics: he was the leader of a black-magic sex mansion, ate menstrual cakes, and was frenemies with L. Ron Hubbard. Jack Parsons was the definition of a mad scientist.\n\n| Ep. 67 | True Weird Stuff\nhttps://trueweirdstuff.com/",
+      "release": "2024-06-03T12:00:52Z",
+      "duration": "01:31:17",
+      "explicit": false,
+      "youTubeId": "tiZCoAi7Fns",
+      "subjects": [
+        "Ordo Templi Orientis",
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tiZCoAi7Fns"
       }
     }
   ]

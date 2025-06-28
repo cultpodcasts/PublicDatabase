@@ -15,12 +15,14 @@
       "explicit": false,
       "spotifyId": "7DiP3XewQTkmudDKtV6ErK",
       "appleId": 1000713875837,
+      "youTubeId": "a_B5_lqNVoY",
       "subjects": [
         "Zizians"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7DiP3XewQTkmudDKtV6ErK",
-        "apple": "https://podcasts.apple.com/podcast/cults-youve-never-heard-of-part-ii-rise-of-the-zizians/id732915228?i=1000713875837"
+        "apple": "https://podcasts.apple.com/podcast/cults-youve-never-heard-of-part-ii-rise-of-the-zizians/id732915228?i=1000713875837",
+        "youtube": "https://www.youtube.com/watch?v=a_B5_lqNVoY"
       }
     },
     {
@@ -91,7 +93,8 @@
       "appleId": 1000641051242,
       "youTubeId": "-3qnMsavQRc",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Ordo Templi Orientis"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/23BEODOiuKrCSwlvUO0jXn",

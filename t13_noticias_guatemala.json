@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "3fdce8e1-368b-49c6-9f39-a6d5eef95141",
+  "name": "T13 Noticias Guatemala",
+  "youTubeChannelId": "UCq0Cm-3SKthEySQc2JZBi1A",
+  "episodes": [
+    {
+      "id": "a2c5c91a-e736-4822-844a-bcd2535af265",
+      "title": "Extraditan a integrante de la secta Lev Tahor acusado de graves delitos",
+      "description": "Jonathan Emanuel Cardona Castillo, capturado en El Salvador, ya est\u00E1 en Guatemala para enfrentar cargos por abuso y trata de personas.",
+      "release": "2025-06-20T04:09:30Z",
+      "duration": "00:02:20",
+      "explicit": false,
+      "youTubeId": "fnhmZEW1jcE",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fnhmZEW1jcE"
+      }
+    }
+  ]
+}

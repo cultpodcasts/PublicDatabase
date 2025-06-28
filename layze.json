@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "af0a98c2-55f7-44c0-a3ae-71f71dd60887",
+  "name": "Layze",
+  "spotifyId": "5YkXy7nLEly6FmMWjvZ8sJ",
+  "appleId": 1807823327,
+  "youTubeChannelId": "UCg18_1IaazL9VqBegOOt2tQ",
+  "episodes": [
+    {
+      "id": "d06f39c4-bec0-4e54-aa92-937db86791e8",
+      "title": "Tik Toks Creepiest Cult : Scientology",
+      "description": "\uD83D\uDEA8MERCH :  https://layze.store/  \nBecome a member for bragging rights : https://www.youtube.com/c/Layze/join\n\nLast Video : https://youtu.be/oDDayIoryMc\n\nSocial Media : https://www.instagram.com/maybelayze/\n            \nBusiness Inquiries: layze@sparkmedia.la\n\neditor : Jonasfull https://twitter.com/Jonasfullbobafe",
+      "release": "2025-06-21T20:01:34Z",
+      "duration": "00:33:28",
+      "explicit": false,
+      "spotifyId": "2s57IhkSRZro4a1QUjZgxS",
+      "appleId": 1000713985498,
+      "youTubeId": "7EzIfJt7ZDo",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2s57IhkSRZro4a1QUjZgxS",
+        "apple": "https://podcasts.apple.com/podcast/tik-toks-creepiest-cult-scientology/id1807823327?i=1000713985498",
+        "youtube": "https://www.youtube.com/watch?v=7EzIfJt7ZDo"
+      }
+    }
+  ]
+}

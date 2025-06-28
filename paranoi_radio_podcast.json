@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "9bab4520-a646-4761-bca7-778e9307f311",
+  "name": "Paranoi Radio Podcast",
+  "spotifyId": "6H7zVPUqXUENWzBRxzrHRc",
+  "appleId": 1527296823,
+  "youTubeChannelId": "UCkKSt6mNe0ayyVNrPRwtYhw",
+  "episodes": [
+    {
+      "id": "4f092ce9-56cd-4d31-a07f-c7eb978785c9",
+      "title": "CULT LIFE ESCAPED! w/ Amber \u0026 Trebles Garcia",
+      "description": "Amber from Cult Life Escaped joins Paranoi Radio to expose the chilling truths behind the Jehovah\u2019s Witness cult. She reveals the rituals, control tactics, and psychological tools used to keep members in line. A raw survival story turned mission, Amber sheds light on the hidden darkness to spread awareness and help others break free. FOLLOW CULT LIFE ESCAPED CULT LIFE ESCAPED ON TIKTOK ALERT OPERATIONS: CRYPTID WARFARE GET CLEAN: DETOX AND MAKE KIDS HEALTHY AGAIN // // GET 15% OFF AT CHECK OUT USING \u0022PARANOI\u0022 at FLAVORS OF THE FOREST \u2B06\uFE0F\u2B06\uFE0F\u2B06\uFE0F // STRUGGLING WITH MENTAL HEALTH? GET $50 OFF YOUR NEXT LIFE CHANGING TREATMENT AT MENTAL WARIOR by Dr Atwell \u0026 VISIT ParanoiRadio.com \u2602\uFE0F",
+      "release": "2025-06-23T00:33:31Z",
+      "duration": "00:49:37.1760000",
+      "explicit": false,
+      "spotifyId": "6PLFnijYhelKETKK8d6Ugc",
+      "appleId": 1000714100419,
+      "youTubeId": "3qg5b4UUweE",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6PLFnijYhelKETKK8d6Ugc",
+        "apple": "https://podcasts.apple.com/podcast/cult-life-escaped-w-amber-trebles-garcia/id1527296823?i=1000714100419",
+        "youtube": "https://www.youtube.com/watch?v=3qg5b4UUweE"
+      }
+    }
+  ]
+}

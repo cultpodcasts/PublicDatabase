@@ -35,12 +35,14 @@
       "explicit": true,
       "spotifyId": "4F0jm7pV3m9UpXYoEQzQcf",
       "appleId": 1000709092473,
+      "youTubeId": "7Jxm47XWryM",
       "subjects": [
         "Latter Day Church of Christ"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4F0jm7pV3m9UpXYoEQzQcf",
-        "apple": "https://podcasts.apple.com/podcast/episode-86-tom-green-polygamy-prophets-a-disturbing/id1695961925?i=1000709092473"
+        "apple": "https://podcasts.apple.com/podcast/episode-86-tom-green-polygamy-prophets-a-disturbing/id1695961925?i=1000709092473",
+        "youtube": "https://www.youtube.com/watch?v=7Jxm47XWryM"
       }
     },
     {

@@ -1227,7 +1227,11 @@
       "explicit": false,
       "youTubeId": "-Ff3Evj1fGY",
       "subjects": [
-        "Plymouth Brethren Christian Church"
+        "Plymouth Brethren Christian Church",
+        "Psychology",
+        "Cult Psychology",
+        "Cult Recovery",
+        "Cult-Expert"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=-Ff3Evj1fGY"
@@ -2391,7 +2395,8 @@
       "explicit": false,
       "youTubeId": "8loVjHYPQ24",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Ordo Templi Orientis"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=8loVjHYPQ24"

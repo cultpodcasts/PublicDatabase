@@ -13,12 +13,16 @@
       "release": "2025-06-07T17:43:00Z",
       "duration": "00:55:10",
       "explicit": false,
+      "spotifyId": "4RF7hVFchlFwrxSge7CJmv",
+      "appleId": 1000714546191,
       "youTubeId": "D4xDbVae2r8",
       "subjects": [
         "Psychology",
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4RF7hVFchlFwrxSge7CJmv",
+        "apple": "https://podcasts.apple.com/podcast/116-inside-the-narcissistic-minds-of-serial-killers/id1433818402?i=1000714546191",
         "youtube": "https://www.youtube.com/watch?v=D4xDbVae2r8"
       }
     },

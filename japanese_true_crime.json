@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "9f28577a-57ef-477c-8fd4-7a0256d6c0ee",
+  "name": "Japanese True Crime",
+  "spotifyId": "2joY1K1yBTeZaN1y4iK33C",
+  "appleId": 1807112089,
+  "episodes": [
+    {
+      "id": "41b1342f-44fc-426e-b6ca-42d90e65b7e5",
+      "title": "013 Japanese Serial Killers, As the guru of Aum Shinrikyo, he justified religiously motivated murder and used followers for crimes aimed at overthrowing the state.",
+      "description": "Shoko Asahara: Cult Leader and Terrorist Shoko Asahara (born Chizuo Matsumoto, 1955-2018) founded the infamous Aum Shinrikyo cult. Despite partial blindness, he was ambitious, exploring religion after early business ventures and an arrest for selling unlicensed drugs. His charismatic leadership and apocalyptic teachings attracted followers, evolving into radical ideologies justifying violence to establish a new order. Under Asahara\u0027s control, Aum Shinrikyo committed horrific crimes, including the Sakamoto family murder (1989), the Matsumoto sarin attack (1994), and the deadly Tokyo subway sarin attack (1995). Arrested in 1995 as the mastermind, Asahara\u0027s trial was marked by erratic behavior. He was convicted and sentenced to death for multiple murders and terrorist acts. Increasingly unresponsive in detention, his death sentence was finalized in 2006, and he was executed in 2018. Asahara\u0027s rise and the atrocities committed by his cult serve as a stark warning about extremism and the dangers of unchecked authority, raising critical questions about religious freedom and the responsibility of cult leaders. His legacy remains a subject of intense debate. https://bit.ly/4jlVk3D CC BY-SA 4.0",
+      "release": "2025-06-27T16:00:00Z",
+      "duration": "00:24:53.2520000",
+      "explicit": true,
+      "spotifyId": "5X6MJfJpgVE9cd94IU0lRU",
+      "appleId": 1000714832580,
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5X6MJfJpgVE9cd94IU0lRU",
+        "apple": "https://podcasts.apple.com/podcast/013-japanese-serial-killers-as-the-guru-of-aum/id1807112089?i=1000714832580"
+      }
+    }
+  ]
+}

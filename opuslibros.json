@@ -5,6 +5,36 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "90776d65-8240-4593-a935-2bf6289e4093",
+      "title": "EP# 126 ~ La verdad sobre la muerte del Padre Danilo Eterovic ~ Agustina L de los Mozos \u0026 Ezequiel 4/3/2015",
+      "description": "La verdad sobre la muerte del Padre Danilo Eterovic",
+      "release": "2025-06-26T00:00:00",
+      "duration": "00:07:45.8850000",
+      "explicit": false,
+      "spotifyId": "1DzRZHeQToRAQgxZhaS19V",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1DzRZHeQToRAQgxZhaS19V"
+      }
+    },
+    {
+      "id": "3ef67a0e-5244-485e-b22e-e058c13c0421",
+      "title": "EP# 125 ~ Una supernumeraria fuera de su lugar ~ Annette 28/3/2025",
+      "description": "Una supernumeraria fuera de su lugar",
+      "release": "2025-06-24T00:00:00",
+      "duration": "00:09:35.6690000",
+      "explicit": false,
+      "spotifyId": "16ekzdA9zpqWlHzkveUiK1",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/16ekzdA9zpqWlHzkveUiK1"
+      }
+    },
+    {
       "id": "60cc62d0-b979-455f-9117-71da9df1981a",
       "title": "EP# 124 ~ El Opus Dei ante el espejo de Francisco ~ Lvdovicvs 9/4/2025",
       "description": "El Opus Dei ante el espejo de Francisco",

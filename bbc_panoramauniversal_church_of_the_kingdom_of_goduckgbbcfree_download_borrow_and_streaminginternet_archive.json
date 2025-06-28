@@ -5,6 +5,17 @@
   "youTubeChannelId": "UCrcW5RwDkuS5RUMM_RNLvmw",
   "episodes": [
     {
+      "id": "8d3a65bf-d9d7-4597-93fc-690d29058bfd",
+      "title": "Cancer Conspiracy Theories: Why Did Our Sister Die?",
+      "description": "Marianna Spring investigates the rise of health conspiracy theories. Are social media companies\u2019 algorithms pushing potentially harmful content at vulnerable patients?",
+      "release": "2025-06-23T20:00:00",
+      "duration": "00:29:00",
+      "explicit": false,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002f2c4/panorama-cancer-conspiracy-theories-why-did-our-sister-die"
+      }
+    },
+    {
       "id": "044b4866-537d-4a37-af64-668f6f4ae08f",
       "title": "Panorama - Andrew Tate: Accused",
       "description": "Oana Marocico returns to her home country to investigate Andrew and Tristan Tate\u0027s Romanian webcam business and speaks to women who claim they\u2019ve been abused by the brothers. ",
