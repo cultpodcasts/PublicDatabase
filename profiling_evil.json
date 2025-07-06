@@ -28,11 +28,15 @@
       "release": "2025-06-15T14:00:13Z",
       "duration": "00:51:21",
       "explicit": false,
+      "spotifyId": "7sGMyfePDgLneT9WeCnl98",
+      "appleId": 1000715250370,
       "youTubeId": "AWTzUxkG6Ec",
       "subjects": [
         "Chad Daybell"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7sGMyfePDgLneT9WeCnl98",
+        "apple": "https://podcasts.apple.com/podcast/the-cost-of-chaos-in-lori-daybells-pro-se/id1553176314?i=1000715250370",
         "youtube": "https://www.youtube.com/watch?v=AWTzUxkG6Ec"
       }
     },
@@ -1884,7 +1888,9 @@
       "appleId": 1000618840214,
       "youTubeId": "EFSaP-s3x8I",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "Chad Daybell",
+        "Zion Community"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7anwJNbPyD07qPWPHcxOpY",

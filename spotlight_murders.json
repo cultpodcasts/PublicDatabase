@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "b136ec24-5a68-42af-8184-6775ae57d81f",
+  "name": "Spotlight Murders",
+  "spotifyId": "3KnBltLAFkSSL9OPjfpXMc",
+  "appleId": 1821367574,
+  "youTubeChannelId": "UCrGOFKKvdD5prZOmozyeBIQ",
+  "episodes": [
+    {
+      "id": "514a88ea-a18b-41fe-b353-e2855d591f46",
+      "title": "The Tate-LaBianca Murders Exposed USAs Darkest Cult",
+      "description": "The Tate-LaBianca murders remain one of the most infamous crime sprees in American history. In this gripping episode of Spotlight Murder, host Kieran Caldwell unpacks the full timeline of the brutal killings carried out by Charles Manson and his devoted followers\u2014known as the Manson Family.\n\n\nWe take you deep into the shocking events of August 1969, when Sharon Tate, a rising Hollywood star, and several others were murdered in cold blood. From the eerie encounter between Manson and Tate days before the crime, to the second night of horror at the LaBianca home, this episode explores every chilling detail. We cover the manipulation behind the cult, the crime scene evidence, police missteps, and the disturbing philosophy known as Helter Skelter that fueled the bloodshed.\n\n\nPerfect for fans of true crime, cult psychology, serial killers, and unsolved murder cases, this deep dive combines storytelling with research to reveal how the Manson Family\u2019s crimes changed America forever.\n\n\n\u00A0Listen now on Spotify, Apple Podcasts, or YouTube Podcasts",
+      "release": "2025-06-28T13:47:57Z",
+      "duration": "00:56:45",
+      "explicit": false,
+      "spotifyId": "1TKYGxaievYkMExyUvjV74",
+      "appleId": 1000714920111,
+      "youTubeId": "b-9Zxxrwg9A",
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1TKYGxaievYkMExyUvjV74",
+        "apple": "https://podcasts.apple.com/podcast/the-tate-labianca-murders-exposed-usas-darkest-cult/id1821367574?i=1000714920111",
+        "youtube": "https://www.youtube.com/watch?v=b-9Zxxrwg9A"
+      }
+    }
+  ]
+}

@@ -6,6 +6,23 @@
   "appleId": 121534955,
   "episodes": [
     {
+      "id": "c8996e91-552f-4cdd-a3b2-cfd6f82c879b",
+      "title": "Who are the Zizians?",
+      "description": "A cult-like group referred to as the Zizians is linked to a string of violent deaths across the U.S. It has its roots in Silicon Valley \u2013 and a movement called Rationalism. Who are these groups and what do they believe?",
+      "release": "2025-06-30T18:00:00Z",
+      "duration": "00:47:31.0300000",
+      "explicit": false,
+      "spotifyId": "4InKwIGr9yrL7NUG2A6f06",
+      "appleId": 1000715177407,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4InKwIGr9yrL7NUG2A6f06",
+        "apple": "https://podcasts.apple.com/podcast/who-are-the-zizians/id121534955?i=1000715177407"
+      }
+    },
+    {
       "id": "37c91fd8-41e5-4e14-b621-ea29a3577660",
       "title": "The history and science behind why we\u0027re all vulnerable to brainwashing",
       "description": "We tend to associate \u201Cbrainwashing\u201D with cults and hostages, but author and science historian Rebecca Lemov says it can happen to anyone. Her new book \u201CThe Instability of Truth\u0022 explores the history and science of brainwashing and what it can teach us with misinformation on the rise.",
@@ -15,7 +32,9 @@
       "spotifyId": "2FeCPw19kLBHkg6LfSRY7q",
       "appleId": 1000712133199,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Psychology",
+        "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2FeCPw19kLBHkg6LfSRY7q",

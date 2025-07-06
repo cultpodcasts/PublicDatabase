@@ -7,6 +7,22 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "32f1ac2e-8dcf-4780-87a1-41e7a8cde5ae",
+      "title": "Reactions from THE Interview - Lori\u0027s Lies",
+      "release": "2025-07-05T13:25:56Z",
+      "duration": "01:02:01.0440000",
+      "explicit": false,
+      "spotifyId": "25O9GSaDTjip0rUFNo4rLr",
+      "appleId": 1000715863042,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/25O9GSaDTjip0rUFNo4rLr",
+        "apple": "https://podcasts.apple.com/podcast/reactions-from-the-interview-loris-lies/id1694606661?i=1000715863042"
+      }
+    },
+    {
       "id": "6d97bb1b-8023-4327-80b7-938fbb11c5f8",
       "title": "Live Reactions Part Deux",
       "description": "Since our Live reactions to the trial on Thursday got cut short, we will try again...",

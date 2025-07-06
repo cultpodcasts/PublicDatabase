@@ -1,0 +1,24 @@
+{
+  "_ts": 0,
+  "id": "96d3211d-4248-4db8-a51c-24bfcd9ff4aa",
+  "name": "Don Carveth",
+  "youTubeChannelId": "UCWHixk9DDstjfHLuWJAEh9A",
+  "episodes": [
+    {
+      "id": "cd042c0b-8c56-4fe0-95bb-ee06825a3702",
+      "title": "On Narcissism",
+      "description": "Freud, Lacan, Mead and Christianity on narcissism.",
+      "release": "2025-07-02T00:13:10Z",
+      "duration": "00:28:59",
+      "explicit": false,
+      "youTubeId": "bXmPoIP7QMQ",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bXmPoIP7QMQ"
+      }
+    }
+  ]
+}

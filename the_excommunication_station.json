@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "32fa480f-84be-4fce-aa15-4814b254efe5",
+      "title": "213. Christian Nazis - German Christian Movement",
+      "description": "This week, we continue our talk about Christian Nazis and we dive into the German Christian Movement and the start of the Institute for the Study and Elimination of Jewish Influence on German Church Life",
+      "release": "2025-07-02T06:00:00Z",
+      "duration": "01:35:41.0080000",
+      "explicit": true,
+      "spotifyId": "0opYB8KnNtY8EoI0cgCm4y",
+      "appleId": 1000715395811,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0opYB8KnNtY8EoI0cgCm4y",
+        "apple": "https://podcasts.apple.com/podcast/213-christian-nazis-german-christian-movement/id1573190999?i=1000715395811"
+      }
+    },
+    {
       "id": "65d65ac8-dbd3-452d-8c2b-a2920e86dec6",
       "title": "212. Christian Nazis: Positive Christianity",
       "description": "This week, we dive into Germany, the rise of Hitler and his plans for the church or Positive Christianity. We also talk about Martin Neimoller.",

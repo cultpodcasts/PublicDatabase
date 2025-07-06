@@ -1,0 +1,25 @@
+{
+  "_ts": 0,
+  "id": "0cc1d1c6-ac24-41c9-a10c-81604279b8f5",
+  "name": "Life Points with Ronda",
+  "spotifyId": "2VqFdb97R0GlumuxbN4lLf",
+  "appleId": 1644943390,
+  "episodes": [
+    {
+      "id": "39b46df8-9db5-4d85-a51e-ddfe8353f791",
+      "title": "When Spiritual Wellness Becomes Spiritual Warfare: The OneTaste Trial No One\u0027s Talking About",
+      "release": "2025-06-29T10:00:00Z",
+      "duration": "00:22:32.9600000",
+      "explicit": true,
+      "spotifyId": "7fgPTOLr4u288Y1SDMWLbJ",
+      "appleId": 1000715001475,
+      "subjects": [
+        "Onetaste"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fgPTOLr4u288Y1SDMWLbJ",
+        "apple": "https://podcasts.apple.com/podcast/when-spiritual-wellness-becomes-spiritual-warfare-the/id1644943390?i=1000715001475"
+      }
+    }
+  ]
+}

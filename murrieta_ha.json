@@ -17,6 +17,20 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=gS4FC0Gq1N8"
       }
+    },
+    {
+      "id": "23f8681a-a6f0-43f9-b92a-459a97a13542",
+      "title": "Charles Manson Interview by Dianne Sawyer Full Documentary)",
+      "release": "2013-09-18T16:40:27Z",
+      "duration": "00:44:04",
+      "explicit": false,
+      "youTubeId": "IZaVAjrjigY",
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=IZaVAjrjigY"
+      }
     }
   ]
 }

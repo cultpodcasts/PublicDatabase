@@ -7,6 +7,44 @@
   "youTubeChannelId": "UCV8Bci_ybARSmvAbFLtk17w",
   "episodes": [
     {
+      "id": "63b84ce2-ea5f-499b-bc66-c2013a4fd6b9",
+      "title": "Breaking the Spell of Division",
+      "description": "In this episode we discuss overcoming division, unifying with friends, agreeing to disagree, vulnerability and doing it in person.",
+      "release": "2025-07-04T18:16:25Z",
+      "duration": "00:41:54.5380000",
+      "explicit": false,
+      "spotifyId": "02wKZPrL8dbgWCmLk7d7ol",
+      "appleId": 1000715751295,
+      "youTubeId": "TinxRA1vA-M",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/02wKZPrL8dbgWCmLk7d7ol",
+        "apple": "https://podcasts.apple.com/podcast/breaking-the-spell-of-division/id1522699382?i=1000715751295",
+        "youtube": "https://www.youtube.com/watch?v=TinxRA1vA-M"
+      }
+    },
+    {
+      "id": "45fc32b0-d2cc-4301-a9e9-e4c5f87259bc",
+      "title": "The Power of Shared Meaning...",
+      "description": "In this episode we continue our discussion on social cohesion, group think and cults overall as we focus on group symbology, seeing AI as divinity, asymmetrical social bonding and more...",
+      "release": "2025-06-28T14:47:00Z",
+      "duration": "00:58:04.0100000",
+      "explicit": true,
+      "spotifyId": "2uvu3RYQoEjZ2y8Bzq8Lsz",
+      "appleId": 1000714928631,
+      "youTubeId": "ATFa5AENNN8",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2uvu3RYQoEjZ2y8Bzq8Lsz",
+        "apple": "https://podcasts.apple.com/podcast/the-power-of-shared-meaning/id1522699382?i=1000714928631",
+        "youtube": "https://www.youtube.com/watch?v=ATFa5AENNN8"
+      }
+    },
+    {
       "id": "d0565141-da37-4e4f-8c3e-20795b1dda53",
       "title": "The Stanford Prison Experiment",
       "description": "In this episode we continue our foray into social psychology and breakdown the 1971 Stanford Prison Experiment.  Known as the Zimbardo prison experiment, we discuss conformity under threat, learned helplessness, sub-group psychology and more...",

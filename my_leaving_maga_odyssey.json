@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "6840c7a7-7f70-4d71-bf74-d3e7facd19cf",
+  "name": "My Leaving MAGA Odyssey",
+  "spotifyId": "0wNo4eqL5iXfae3brwVWaS",
+  "appleId": 1771351484,
+  "episodes": [
+    {
+      "id": "b17f7f66-612f-4586-bb25-63b4510bbc1b",
+      "title": "An Epiphany in Prison Led Him to Leave MAGA",
+      "description": "An Epiphany in Prison Led Danny Collins to Leave MAGA. \n\nTo read Danny\u0027s testimonial, visit here: \n\nhttps://leavingmaga.org/they-left-maga/danny-collins/",
+      "release": "2025-07-04T02:26:45Z",
+      "duration": "00:22:42",
+      "explicit": false,
+      "spotifyId": "2x1qb59Fgd61DaDZVCNKLL",
+      "appleId": 1000715672187,
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2x1qb59Fgd61DaDZVCNKLL",
+        "apple": "https://podcasts.apple.com/podcast/an-epiphany-in-prison-led-him-to-leave-maga/id1771351484?i=1000715672187"
+      }
+    }
+  ]
+}

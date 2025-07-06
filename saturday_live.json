@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "6f1f46fc-e79e-4e8f-a4c6-adab1c8eca27",
+  "name": "Saturday Live",
+  "spotifyId": "6Xn1BqvKAkl5f3BdWEh1lV",
+  "appleId": 285693232,
+  "episodes": [
+    {
+      "id": "7364b365-47cc-4914-9204-e3e4aa0a0061",
+      "title": "Judy Murray, Defne Suman, Richard Turner, Rick Edwards",
+      "description": "Mother of champions and former tennis star and coach herself... Judy Murray has swapped a killer forehand for the mighty pen. Richard Turner is a cult survivor who knows a thing or two about love bombing, gaslighting and the prosperity gospel, but it was his autism diagnosis that opened his eyes to the truth. Defne Suman, is an acclaimed Turkish author, and hatha yoga teacher, whose novels unearth forgotten histories and turn memory into literature with sociological insight. All that plus the Inheritance Tracks of the 5Live presenter and noughties teen tv icon\u2026Rick Edwards. Presenters: Nikki Bedi and Huw Stephens Producer: Lowri Rhiannon Morgan",
+      "release": "2025-07-05T10:18:00Z",
+      "duration": "01:03:16.4540000",
+      "explicit": false,
+      "spotifyId": "511XKDfagzIJZL0NyL4GVT",
+      "appleId": 1000715810796,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "Cult Recovery",
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/511XKDfagzIJZL0NyL4GVT",
+        "apple": "https://podcasts.apple.com/podcast/judy-murray-defne-suman-richard-turner-rick-edwards/id285693232?i=1000715810796",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002fj49"
+      }
+    }
+  ]
+}

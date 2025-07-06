@@ -1,0 +1,106 @@
+{
+  "_ts": 0,
+  "id": "bacd3417-66e4-45cd-8e43-0766785372a4",
+  "name": "The Lodge",
+  "spotifyId": "5yRSCL4uG2LT9IjqAAgRwk",
+  "appleId": 1821548496,
+  "youTubeChannelId": "UChDJ27ZLcqjcCS1XH3LmivQ",
+  "youTubePlaylistId": "PLB06qFjAt4VD0BDzJjRrHNJpgjmNSAai0",
+  "episodes": [
+    {
+      "id": "062ae31f-0105-46dd-8b7a-682cc10f5fd7",
+      "title": "Being There",
+      "description": "We hear from the guru herself, Aiping Wang in a rare interview recorded for a 20/20 television documentary, The Grandmaster. The guru explains \u201CQi\u201D, what she calls \u201CUniverse Energy\u201D and how it can bring happiness, wealth and health, including curing serious diseases. She explains her teachings and we find out what happened when she started out as a guru back in Slovenia. For articles and images from the series, visit the RNZ website here: www.rnz.co.nz/thelodge Go to this episode on rnz.co.nz for more details",
+      "release": "2025-07-03T17:00:00Z",
+      "duration": "00:41:50.2080000",
+      "explicit": false,
+      "spotifyId": "2HTK1q3WvFKGcCnvCFfJgz",
+      "appleId": 1000715621639,
+      "youTubeId": "ZltuiQg5B1I",
+      "subjects": [
+        "Aiping Wang"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2HTK1q3WvFKGcCnvCFfJgz",
+        "apple": "https://podcasts.apple.com/podcast/being-there/id1821548496?i=1000715621639",
+        "youtube": "https://www.youtube.com/watch?v=ZltuiQg5B1I"
+      }
+    },
+    {
+      "id": "5e8e15c5-1ec0-430b-9b6e-31cf09189c01",
+      "title": "Dealing With Magic",
+      "description": "Warwick\u0027s story unfolds, and we discover if his six-month energy treatment in London has produced a miracle cure for HIV. Phil learns more about the ambitious nature of the wellness cult and its plan to reform all of society. We hear of the tragic tales of two other believers, Sharon and Yanis who died while following Aiping\u2019s teachings and how other followers at the Lodge watched and took photos as a giant melanoma grew on Yanis face.\nGo to this episode on rnz.co.nz for more details (https://www.rnz.co.nz/podcast/the-lodge?share=e304fd93-ac56-415f-8082-5793f5fb4b0e)",
+      "release": "2025-06-30T17:00:00Z",
+      "duration": "00:38:53.9510000",
+      "explicit": false,
+      "spotifyId": "3tWVN2Xfo7mLzRceIErsiI",
+      "appleId": 1000715171311,
+      "youTubeId": "G2qSyvKNQ8o",
+      "subjects": [
+        "Aiping Wang"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3tWVN2Xfo7mLzRceIErsiI",
+        "apple": "https://podcasts.apple.com/podcast/dealing-with-magic/id1821548496?i=1000715171311",
+        "youtube": "https://www.youtube.com/watch?v=G2qSyvKNQ8o"
+      }
+    },
+    {
+      "id": "a2a17982-0163-41ff-a20d-1fb5c6c384c8",
+      "title": "Quiet Death Toll",
+      "description": "Phil delves into the enigmatic world of Takaro Lodge, a wellness retreat in New Zealand that doubled as a high-end luxury resort. We uncover the mysterious practices of its founder, Chinese grandmaster Aiping Wang and meet Warwick, a Kiwi actor who\u2019s hoping that Aiping\u2019s energy treatment will cure his HIV. From Fiordland National Park to the guru\u2019s energy clinics in Europe and the US, how far will people go and what will they believe in the pursuit of wellness?\nGo to this episode on rnz.co.nz for more details (https://www.rnz.co.nz/podcast/the-lodge?share=2e91c12f-55fd-4543-8602-eb7c87920956)",
+      "release": "2025-06-26T17:01:00Z",
+      "duration": "00:40:02.0630000",
+      "explicit": true,
+      "spotifyId": "41JzfoXUGtljWBPnZS1RTC",
+      "appleId": 1000714689763,
+      "youTubeId": "VT1R1lRWXOU",
+      "subjects": [
+        "Aiping Wang"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/41JzfoXUGtljWBPnZS1RTC",
+        "apple": "https://podcasts.apple.com/podcast/quiet-death-toll/id1821548496?i=1000714689763",
+        "youtube": "https://www.youtube.com/watch?v=VT1R1lRWXOU"
+      }
+    },
+    {
+      "id": "39193672-b73d-46c0-9b4f-70db834dc578",
+      "title": "Distant Bells",
+      "description": "Phil Vine explores the fall and rise of a therapeutic community \u2013 or cult \u2013 led by a charismatic guru, who promises to teach followers how to fly and heal without medicine. Followers share their bizarre experiences and the dangerous depth of their convictions, and we discover how this story connects to the modern wellness industry and the allure of alternative healing. \nGo to this episode on rnz.co.nz for more details (https://www.rnz.co.nz/podcast/the-lodge?share=dcdf7000-4dd3-42b0-831f-6852ee5b4f46)",
+      "release": "2025-06-26T17:00:00Z",
+      "duration": "00:40:13.7760000",
+      "explicit": false,
+      "spotifyId": "6h60yNuRFXZEzxyoCFaVE1",
+      "appleId": 1000714689925,
+      "youTubeId": "WXYcTCGnrX4",
+      "subjects": [
+        "Aiping Wang"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6h60yNuRFXZEzxyoCFaVE1",
+        "apple": "https://podcasts.apple.com/podcast/distant-bells/id1821548496?i=1000714689925",
+        "youtube": "https://www.youtube.com/watch?v=WXYcTCGnrX4"
+      }
+    },
+    {
+      "id": "f83928cc-a6c9-4153-b2fb-3324847153d4",
+      "title": "Introducing: The Lodge",
+      "description": "What began as a promising sanctuary for healing in one of New Zealand\u2019s most beautiful locations - became the epicentre of a double tragedy, a cautionary tale that goes straight to the heart of the modern wellness industry. \n\nJoin award-winning RNZ journalist Phil Vine as he reopens the file on a mysterious cult that operated from a 1960s hunting lodge near Te Anau. Chinese guru Aiping Wang promised her followers supernatural powers\u2014the ability to fly, see the future, and heal disease with \u201CUniverse Energy\u201D. What began in a converted cinema in Slovenia and grew in the forests of New Zealand, has spawned a global empire of energy healing clinics and had a massive, sometimes traumatic, impact on the lives of followers. \n\nGo to this episode on rnz.co.nz for more details (https://www.rnz.co.nz/podcast/the-lodge?share=5f822fee-936e-49a7-91e9-43adf06ab196)",
+      "release": "2025-06-18T22:12:39Z",
+      "duration": "00:01:39.2650000",
+      "explicit": false,
+      "spotifyId": "5MdXbjGQpyfgSsp6RECozC",
+      "appleId": 1000713496669,
+      "youTubeId": "O9mObFFGipM",
+      "subjects": [
+        "Aiping Wang"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5MdXbjGQpyfgSsp6RECozC",
+        "apple": "https://podcasts.apple.com/podcast/introducing-the-lodge/id1821548496?i=1000713496669",
+        "youtube": "https://www.youtube.com/watch?v=O9mObFFGipM"
+      }
+    }
+  ]
+}
