@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "246ff1f6-73ee-4e9f-82b3-53cb915a7a69",
+  "name": "Amateur Hour",
+  "spotifyId": "53g7WyijCk82OEqlPwWUlw",
+  "appleId": 1583436483,
+  "episodes": [
+    {
+      "id": "57070254-c929-471c-aa5d-d9221991c639",
+      "title": "#188 - People Leave Cults with Ashlen Hilliard",
+      "description": "Folks, we\u0027ve done it again! Renowned Cult Intervention Specialist Ashlen Hilliard joins us for a 3rd time to talk about the world of Cults and high control groups! We also discuss the documentaries and other projects Ashlen has been involved in, and what else we can look forward to coming soon! Ashlen is going on tour across the country for Psychology Of Cults! Subscribe to the newsletter at PeopleLeaveCults.com for tour dates and details! Check out the trailer for the film \u0022Beyond the Fence\u0022 Ashlen is helping produce HERE Email: Info@Amateurhourpod.com Socials: @Amateur_Pod",
+      "release": "2025-07-10T11:00:00Z",
+      "duration": "01:09:15.3820000",
+      "explicit": true,
+      "spotifyId": "3JAChISNTFHkPQALK258Q9",
+      "appleId": 1000716662948,
+      "subjects": [
+        "Churches of Christ (non-institutional)",
+        "Cult-Expert",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3JAChISNTFHkPQALK258Q9",
+        "apple": "https://podcasts.apple.com/podcast/188-people-leave-cults-with-ashlen-hilliard/id1583436483?i=1000716662948"
+      }
+    }
+  ]
+}

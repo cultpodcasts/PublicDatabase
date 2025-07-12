@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "70052334-39bd-415d-a579-ccedbe9c92c4",
+  "name": "The Women\u0027s Podcast",
+  "spotifyId": "7k44L4YCRiQVq6iqn4KImo",
+  "appleId": 1040117877,
+  "episodes": [
+    {
+      "id": "bf5d892b-71c5-47db-bfe7-a3a93dac2efa",
+      "title": "Anne Marie Allen on life inside Opus Dei",
+      "description": "Anne Marie Allen was just 15 years old when she first entered the world of Opus Dei. It was the late 1970s and the young woman from Cork had enrolled in a cookery course run by the religious order. The program promised culinary qualifications and a pathway to a professional career, but it didn\u2019t take long for her dreams to shatter. As Allen spent most of her days cooking, cleaning and doing laundry for the members of Opus Dei, it soon became clear that she was not there to learn, but to serve. In today\u2019s episode, Allen talks to Kathy Sheridan about her time working as an unpaid \u2018assistant numerary\u2019, the lasting emotional impact of her years within the order and why she\u0027s sharing her story in her new memoir Serve. But first Irish Times opinion editor Jennifer O\u2019Connell is here to discuss some of the biggest stories of the week including the completion of five external reviews into maternity care at Portiuncula University Hospital, what we can learn from Rachel Reeve\u2019s tears in Westminster and why the happiness levels of women often dip in midlife. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-10T14:15:00Z",
+      "duration": "01:10:56.1300000",
+      "explicit": false,
+      "spotifyId": "0Qm3gZlb6AcgMsPWgXrgWY",
+      "appleId": 1000716688787,
+      "subjects": [
+        "Opus Dei",
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Qm3gZlb6AcgMsPWgXrgWY",
+        "apple": "https://podcasts.apple.com/podcast/anne-marie-allen-on-life-inside-opus-dei/id1040117877?i=1000716688787"
+      }
+    }
+  ]
+}

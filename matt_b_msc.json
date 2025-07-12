@@ -5,6 +5,35 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "f732caf7-e47b-4dd3-b246-bed22c98870b",
+      "title": "Who really is Elon Musk? Chris Shelton breaks him down",
+      "description": "Chris\u0027s YouTube channel: \nhttps://www.youtube.com/channel/UCF326xyA0QHI7Z5xAwKQDJg",
+      "release": "2025-07-08T10:00:21Z",
+      "duration": "00:11:39",
+      "explicit": false,
+      "youTubeId": "ZDqoak3sh6k",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZDqoak3sh6k"
+      }
+    },
+    {
+      "id": "250e7af3-e05f-4649-b03f-0aae04fa5bfa",
+      "title": "How would alt-right political commentator Milo Yiannopoulos provoke women on live TV?",
+      "release": "2025-07-08T09:53:54Z",
+      "duration": "00:00:27",
+      "explicit": false,
+      "youTubeId": "J20V3L5MUNs",
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=J20V3L5MUNs"
+      }
+    },
+    {
       "id": "1cf78e01-f153-4181-8276-d4a468d93abb",
       "title": "Why did Conservative Political Commentator Jonah Goldberg leave Fox News?",
       "release": "2025-07-04T18:02:35Z",

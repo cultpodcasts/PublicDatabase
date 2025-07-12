@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "d610b226-aea5-42ea-af23-d7ac98e5deb0",
+  "name": "The Bulwark Goes to Hollywood",
+  "spotifyId": "6QlElUjbQxMq1hAt7Hkbsm",
+  "appleId": 1526477480,
+  "episodes": [
+    {
+      "id": "4179147d-1f03-43e8-981e-f415c9e5d247",
+      "title": "How \u0027Sovereign\u0027 Tackles a Cult with Compassion",
+      "description": "On this week\u2019s episode, I talked to Christian Swegal, the writer-director of the new film Sovereign, about his new film and its focus on the cult-like behavior of the Sovereign Citizen movement. We discussed Nick Offerman\u2019s commanding lead performance, how you adapt a movie with an ending and setting as tragic as this one, and the difficulty of finding compassion even for those who seem to deserve it least. If you enjoyed this episode, make sure to check out Sovereign, which is in theaters and on VOD now. And please, share this with a friend! Movies like this don\u2019t have huge ad budgets; they need word of mouth to thrive. It\u2019s a tough story with some great performances by Offerman, Jacob Tremblay, and Dennis Quaid. If you want to see something a little different from the standard franchise fare flooding the multiplex, you have to support movies like Sovereign.",
+      "release": "2025-07-11T14:00:00Z",
+      "duration": "00:35:33.9420000",
+      "explicit": false,
+      "spotifyId": "4uZTLr3uTuYWqZ6dDaHXcX",
+      "appleId": 1000716839528,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4uZTLr3uTuYWqZ6dDaHXcX",
+        "apple": "https://podcasts.apple.com/podcast/how-sovereign-tackles-a-cult-with-compassion/id1526477480?i=1000716839528"
+      }
+    }
+  ]
+}

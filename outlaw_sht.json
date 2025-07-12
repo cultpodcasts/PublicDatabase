@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "acac5e5a-d489-4e40-8bcd-cacb434ebd0f",
+  "name": "Outlaw Sh!t",
+  "spotifyId": "71HUlcsMqaYMuFroJR2CEe",
+  "appleId": 1806201775,
+  "episodes": [
+    {
+      "id": "0d7c3745-a5a2-4b47-a6c5-f44348c102bc",
+      "title": "Charles Manson - Ep 3. Spooks \u0026 Cults Part 2: The Process",
+      "description": "Alright it\u0027s going off the deep end. We start delving into the Process Church of the Final Judgement. A very litigious cult who was in some capacity related to the Family. They started in England, moved to America and trafficked in a variety of weird shit. There\u0027s porn tapes, sacrifices, drugs, revenge and more.",
+      "release": "2025-07-08T15:56:00Z",
+      "duration": "01:11:16.3230000",
+      "explicit": false,
+      "spotifyId": "4S3LMlr9sTbOFdTFV8upkJ",
+      "appleId": 1000716353834,
+      "subjects": [
+        "Process Church of the Final Judgement",
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4S3LMlr9sTbOFdTFV8upkJ",
+        "apple": "https://podcasts.apple.com/podcast/charles-manson-ep-3-spooks-cults-part-2-the-process/id1806201775?i=1000716353834"
+      }
+    }
+  ]
+}

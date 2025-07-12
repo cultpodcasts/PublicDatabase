@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "d1cc3116-95a4-4ebb-a5b5-2404904f35e1",
+  "name": "Soft Lock",
+  "spotifyId": "3Bx8DgBxlPbwbJF1c2P8LN",
+  "appleId": 1815560642,
+  "episodes": [
+    {
+      "id": "ec4fc7b2-0ee1-4ece-8994-065b9b9b1093",
+      "title": "Episode 18: Me and Syran have both done cult work we have a weird perspective and yet are both unique. V fun to talk to him.",
+      "description": "My social:\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060Big Weasel Lil Weasel (@mikefallek) \u2022 Instagram photos and videos\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\nKickstarter:\u2060Grim Cutie: Stop Motion, Sweetheart, Wizard by Mike Fallek \u2014 Kickstarter\u2060\nYoutube: \u2060The Lawn Con - YouTube\u2060\n\nSyran \nCult Hunter (@syranwarner) | TikTok",
+      "release": "2025-07-08T17:41:01Z",
+      "duration": "00:57:52",
+      "explicit": false,
+      "spotifyId": "0vwmDZR49rzwak0T4OSivh",
+      "appleId": 1000716365499,
+      "subjects": [
+        "Marc Bisset",
+        "Profundity Yours"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0vwmDZR49rzwak0T4OSivh",
+        "apple": "https://podcasts.apple.com/podcast/episode-18-me-and-syran-have-both-done-cult-work-we/id1815560642?i=1000716365499"
+      }
+    }
+  ]
+}

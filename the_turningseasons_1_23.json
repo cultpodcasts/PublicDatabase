@@ -1,0 +1,43 @@
+{
+  "_ts": 0,
+  "id": "137b8591-488f-4374-9680-937d3ab82082",
+  "name": "The Turning - Seasons 1, 2 \u0026 3",
+  "spotifyId": "5FCTTPiQsVRnFywxgk3MgL",
+  "appleId": 1566966691,
+  "episodes": [
+    {
+      "id": "bdec9176-9be8-4c6f-b81f-9c3d49dc9afd",
+      "title": "S3:EP 2 - Summer of Love",
+      "description": "PART TWO - \u201CHe was more important than their husbands. He was more important than their children. He was more important than anything.\u201D For more content, follow us on Instagram @RococoPunch . Content note: This episode includes a description of child sexual abuse. Please listen with discretion. See omnystudio.com/listener for privacy information.",
+      "release": "2025-07-08T09:05:00Z",
+      "duration": "01:02:31.2090000",
+      "explicit": false,
+      "spotifyId": "79rRjOmMTtKKDAMxZhTEng",
+      "appleId": 1000716303704,
+      "subjects": [
+        "River Road Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/79rRjOmMTtKKDAMxZhTEng",
+        "apple": "https://podcasts.apple.com/podcast/s3-ep-2-summer-of-love/id1566966691?i=1000716303704"
+      }
+    },
+    {
+      "id": "0256fee8-d11a-4848-8bce-88b8875ecad0",
+      "title": "S3:EP 1 - The Camp",
+      "description": "PART ONE - \u0022I never thought it would develop into what it was.\u0022 For more content, follow us on Instagram @RococoPunch . See omnystudio.com/listener for privacy information.",
+      "release": "2025-07-08T09:00:00Z",
+      "duration": "00:49:12.9070000",
+      "explicit": false,
+      "spotifyId": "5xANLJD39o3CwhXxeYIDm8",
+      "appleId": 1000716303758,
+      "subjects": [
+        "River Road Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5xANLJD39o3CwhXxeYIDm8",
+        "apple": "https://podcasts.apple.com/podcast/s3-ep-1-the-camp/id1566966691?i=1000716303758"
+      }
+    }
+  ]
+}

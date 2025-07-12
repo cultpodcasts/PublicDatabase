@@ -1,9 +1,41 @@
 {
   "_ts": 0,
   "id": "6d93ca80-3624-46ea-8ed6-956e637597bf",
-  "name": "Mitch - Ex JDub",
+  "name": "The Ex-Jehovah\u2019s Witness",
+  "spotifyId": "02JlyLEdnGFko0C73TJPDu",
+  "appleId": 1823150591,
   "youTubeChannelId": "UClKPQtaYYITPhLlGyC8wjqA",
   "episodes": [
+    {
+      "id": "a7fbcb9f-bbc5-4655-9382-35fed49700a3",
+      "title": "Ep. 06: Why I Am No Longer A Jehovah\u0027s Witness",
+      "description": "I have explained my stance about why I chose to NOT be a Jehovah\u0027s Witness any longer. In this episode I go a little deeper as to why. Hopefully I can wake a few more JW\u0027s up so they flee that cult!\nSupport the show",
+      "release": "2025-07-08T01:00:00Z",
+      "duration": "00:56:24",
+      "explicit": false,
+      "appleId": 1000716257286,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/ep-06-why-i-am-no-longer-a-jehovahs-witness/id1823150591?i=1000716257286"
+      }
+    },
+    {
+      "id": "67d87a7a-811a-481d-828f-a0a4a7dbc302",
+      "title": "Ep. 05: Watchtower Bible \u0026 Tract Society - Big Business",
+      "description": "The Jehovah\u0027s Witness old brand is what I called a religion wrapped around a publishing company. Tracts, brochures, magazines, books, and bound volumes. The flock needed spiritual food, and this publishing giant wanted to provide it, for a fee!\nSupport the show",
+      "release": "2025-07-08T01:00:00Z",
+      "duration": "00:22:48",
+      "explicit": false,
+      "appleId": 1000716255495,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/ep-05-watchtower-bible-tract-society-big-business/id1823150591?i=1000716255495"
+      }
+    },
     {
       "id": "08d64e66-1604-483a-ab9e-3be1c69a0f40",
       "title": "Jehovah\u2019s Witnesses and Women - part 3",
@@ -26,11 +58,15 @@
       "release": "2025-07-01T21:44:49Z",
       "duration": "01:04:12",
       "explicit": false,
+      "spotifyId": "6WQQgksF3bJU17BgBUGMK0",
+      "appleId": 1000715343128,
       "youTubeId": "TaHprFVzXdk",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6WQQgksF3bJU17BgBUGMK0",
+        "apple": "https://podcasts.apple.com/podcast/ep-03-the-main-reason-i-left-the-jehovahs-witness-cult/id1823150591?i=1000715343128",
         "youtube": "https://www.youtube.com/watch?v=TaHprFVzXdk"
       }
     },
@@ -41,11 +77,15 @@
       "release": "2025-06-27T03:28:11Z",
       "duration": "00:48:19",
       "explicit": false,
+      "spotifyId": "3oJEkikengQHqzdNfnUApu",
+      "appleId": 1000714751130,
       "youTubeId": "Fxd0chi_rjU",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3oJEkikengQHqzdNfnUApu",
+        "apple": "https://podcasts.apple.com/podcast/ep-02-my-family-life/id1823150591?i=1000714751130",
         "youtube": "https://www.youtube.com/watch?v=Fxd0chi_rjU"
       }
     },
@@ -56,11 +96,15 @@
       "release": "2025-06-26T08:19:29Z",
       "duration": "00:51:03",
       "explicit": false,
+      "spotifyId": "5ohmnnVWapIWDdjaTHPfem",
+      "appleId": 1000714751000,
       "youTubeId": "3H_wQtXKGdE",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5ohmnnVWapIWDdjaTHPfem",
+        "apple": "https://podcasts.apple.com/podcast/ep-01-an-introduction-to-mitch/id1823150591?i=1000714751000",
         "youtube": "https://www.youtube.com/watch?v=3H_wQtXKGdE"
       }
     },

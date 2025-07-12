@@ -1,0 +1,27 @@
+{
+  "_ts": 0,
+  "id": "9a914811-c54c-488a-bb8a-637817362a47",
+  "name": "Q with Tom Power",
+  "spotifyId": "6h1d94Pr66YBadY44yg8DI",
+  "appleId": 256943801,
+  "youTubeChannelId": "UC1nw_szfrEsDWcwD32wHE_w",
+  "episodes": [
+    {
+      "id": "6721d962-b49a-469e-a974-38d111b75081",
+      "title": "The Bear\u0027s Liza Col\u00F3n-Zayas on the \u201Ccult\u201D that tried to brainwash her",
+      "description": "On the hit series \u201CThe Bear,\u201D Liza Col\u00F3n-Zayas plays a middle-aged line cook named Tina who\u2019s challenged by her mentors to learn new skills as a sous-chef. In some ways, her character\u2019s story mirrors her own journey as an actor. With Season 4 of \u201CThe Bear\u201D out now, we revisit Liza\u2019s conversation with Tom Power about the scarcity and struggle she had to overcome on her path to success, her experience in a strict religious group that forced her to surrender all her wages to them, and how her setbacks continue to shape her as an artist. If you like this conversation, you should also check out Tom\u2019s interview with Matty Matheson.",
+      "release": "2025-07-07T08:10:00Z",
+      "duration": "00:17:43",
+      "explicit": false,
+      "spotifyId": "0VZMHTfvB6VjsCH01ch7FB",
+      "appleId": 1000716081623,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0VZMHTfvB6VjsCH01ch7FB",
+        "apple": "https://podcasts.apple.com/podcast/the-bears-liza-col%C3%B3n-zayas-on-the-cult-that-tried/id256943801?i=1000716081623"
+      }
+    }
+  ]
+}

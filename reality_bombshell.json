@@ -4,7 +4,27 @@
   "name": "Reality Bombshell",
   "spotifyId": "1Ufdz0lt1lMPkROEcSDmSy",
   "appleId": 1800109174,
+  "youTubeChannelId": "UC5HPXIpK4SgPmkzrwj3XW8A",
   "episodes": [
+    {
+      "id": "d424fa0e-be65-46a8-9040-1229c418a258",
+      "title": "Minisode 6 - Is Orlando Bloom in a Cult?",
+      "description": "Orlando Bloom chants to a scroll every morning. Katy Perry wasn\u2019t allowed to say \u201CLucky Charms\u201D as a kid. In this Cult Girl Summer minisode, we\u2019re looking at the spiritual paths of one very public couple\u2014her Pentecostal upbringing, his devotion to Soka Gakkai. What is this Buddhist sect that\u2019s been called everything from a global peace movement to a high-control group? And how do you tell the difference between faith, structure, and something sinister? Have a case or anything else reality TV related you want to hear us cover? Reach out to us at realitybombshell@gmail.com. Follow us @realitybombshell on all social media platforms. Linktr.ee/realitybombshell\u0022",
+      "release": "2025-07-11T04:00:00Z",
+      "duration": "00:21:53.2800000",
+      "explicit": true,
+      "spotifyId": "0oPzQqiIipJjoQBcOYyelE",
+      "appleId": 1000716775423,
+      "youTubeId": "cGQsvVRTALk",
+      "subjects": [
+        "Soka Gakkai"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0oPzQqiIipJjoQBcOYyelE",
+        "apple": "https://podcasts.apple.com/podcast/minisode-6-is-orlando-bloom-in-a-cult/id1800109174?i=1000716775423",
+        "youtube": "https://www.youtube.com/watch?v=cGQsvVRTALk"
+      }
+    },
     {
       "id": "252598cc-51cf-47ac-aa12-329c42f9e905",
       "title": "14 - Gaslight, Gatekeep, Get Shunned (w/ Helen Holmes)",

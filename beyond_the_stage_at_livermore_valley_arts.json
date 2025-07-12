@@ -1,0 +1,32 @@
+{
+  "_ts": 0,
+  "id": "594b5a9f-5fc4-4341-a941-be20f866f0bc",
+  "name": "Beyond the Stage at Livermore Valley Arts",
+  "spotifyId": "0YusbmwuypBnrbjIiCe0Mk",
+  "appleId": 1692641618,
+  "youTubeChannelId": "UCX0VJb1Mv2YYRqSmk7FjGVw",
+  "episodes": [
+    {
+      "id": "5a7b7ec2-770c-40c3-8c9a-bdf1b62c30ed",
+      "title": "Beyond The Stage: Ashlen Hilliard",
+      "description": "Step into the mind of Ashlen Hilliard, renowned Cult Intervention Specialist, Founder of People Leave Cults, with a Master\u2019s degree in Psychology of Coercive Control. In this episode, we discuss why people join cults and what it takes to break away from them. Ashlen unpacks the psychology, manipulation tactics, and hidden dangers that cults use to control their members. Come hear Ashlen Hilliard at Psychology of Cults on November 23rd at the Bankhead Theater for a gripping, eye-opening, and thought provoking event. \u0026#x1f39f;\uFE0F Get your tickets now at LivermoreArts.org",
+      "release": "2025-07-10T12:00:00Z",
+      "duration": "01:02:25.9410000",
+      "explicit": false,
+      "spotifyId": "2seeMgJqu7kjKGOTXUoY0E",
+      "appleId": 1000716678899,
+      "youTubeId": "lxqbeUnKDh4",
+      "subjects": [
+        "Churches of Christ (non-institutional)",
+        "Cult-Expert",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2seeMgJqu7kjKGOTXUoY0E",
+        "apple": "https://podcasts.apple.com/podcast/beyond-the-stage-ashlen-hilliard/id1692641618?i=1000716678899",
+        "youtube": "https://www.youtube.com/watch?v=lxqbeUnKDh4"
+      }
+    }
+  ]
+}

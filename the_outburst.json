@@ -1,0 +1,28 @@
+{
+  "_ts": 0,
+  "id": "bf3cf8c1-4f74-45b3-9b17-dcad1abaf62f",
+  "name": "The Outburst",
+  "spotifyId": "7gD7MgikiBNiiGj8ia7dku",
+  "appleId": 1794593763,
+  "episodes": [
+    {
+      "id": "fe9de3c0-2c49-456f-92db-fb14716c7bdc",
+      "title": "The Outburst: Fundamentalist Cults",
+      "description": "What else but a bit of patriarchy to get us hot and bothered this week. Eren and Ashley tackle 2 particularly potent examples of Fundamentalist Cults. Hear IBLF stories, discussing the \u0022Shiny Happy People\u0022 documentary as well as a book written by Tia Levings \u0022A Well Trained Wife.\u0022 They also tell the story of the FLDS from Rullen Jeffs to Warren Jeffs and the chaos that ensues. Domestic Violence Hotline 800-799-7233 or text BEGIN to 88788 Tia Levings Religious Trauma Resources https://tialevings.com/religious-trauma-resources-2/ 0:00-3:07 Intro and Trigger Warning 3:08-7:57 Characteristics of a Cult 7:58-23:57 Example #1 of Fundamentalist Cults- IBLP and Shiny Happy People 23:58-28:47 Example #2 of Fundamentalist Cults- Tia Levings and \u0022A Well Trained Wife\u0022 28:45-54:51 Example #3 of Fundamentalist Cults- FLDS 54:52-1:00:02 How do cults trap people? 1:00:03-1:04:18 The message of Jesus, domestic violence hotline, and outro",
+      "release": "2025-07-07T16:00:00Z",
+      "duration": "01:04:18.8540000",
+      "explicit": true,
+      "spotifyId": "0IZZ80sK56QDNFEAXDGY5E",
+      "appleId": 1000716195966,
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "FLDS Church",
+        "Quiverfull"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0IZZ80sK56QDNFEAXDGY5E",
+        "apple": "https://podcasts.apple.com/podcast/the-outburst-fundamentalist-cults/id1794593763?i=1000716195966"
+      }
+    }
+  ]
+}
