@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "109271a7-f90c-42fc-837b-7f9d710216ce",
+  "name": "The Naturist Vibe",
+  "spotifyId": "13ouk7eGSFbZQNEFqmPg6k",
+  "appleId": 1823554338,
+  "episodes": [
+    {
+      "id": "cf66e7d5-ceca-49c9-a384-f0486137df4f",
+      "title": "Carbon Nation - Nature Boy",
+      "description": "On this episode of The Naturist Vibe podcast, Gabby and Dan dive into the twisted world of Carbon Nation, unpacking cult tactics, nudity as manipulation, and what ethical naturism can learn from the warnings. This one\u2019s raw, real, and necessary.\u00A0",
+      "release": "2025-07-14T16:00:00Z",
+      "duration": "00:19:35",
+      "explicit": false,
+      "spotifyId": "0Wa6XK4PTgp6YNezjArOTN",
+      "appleId": 1000717211318,
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Wa6XK4PTgp6YNezjArOTN",
+        "apple": "https://podcasts.apple.com/podcast/carbon-nation-nature-boy/id1823554338?i=1000717211318"
+      }
+    }
+  ]
+}

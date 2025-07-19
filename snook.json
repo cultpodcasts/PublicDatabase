@@ -2,8 +2,29 @@
   "_ts": 0,
   "id": "48d64f56-e707-47c0-bac6-0b98c70dba68",
   "name": "Snook",
+  "spotifyId": "2FH70nnKmpdV5PY0fp4F9Q",
+  "appleId": 1824067049,
   "youTubeChannelId": "UC45OWitn6BWG20rxLCL109A",
   "episodes": [
+    {
+      "id": "c848b566-6a27-4e78-af4e-68b3d4df7fe9",
+      "title": "Disturbing Internet Cults",
+      "description": "Online, every connection feels harmless, until you realize who\u2019s really on the other end. In today\u2019s video, we\u2019re getting into the disturbing world of internet cults. From the horrifying group known as\u00A0764, to the twisted ideology of the\u00A0Order of Nine Angles, these aren\u0027t just fringe communities. They are sadistic nightmares.\n\nThese cults use forums, encrypted apps, and even mainstream platforms to spread influence, manipulate minds, and push people toward unthinkable actions. \n\nWARNING:\u00A0This video includes references to extremely disturbing content, including violence, radical ideology, and psychological manipulation. Viewer discretion is\u00A0advised.\n\nIf you\u2019re drawn to internet mysteries, true crime, or the dark psychology behind people, this video and channel is for you. Please like and subscribe, it helps more than you know, thank you. \n\nEdited by - @editedby_le on X\n\nStay curious. Stay cautious. And stay safe.",
+      "release": "2025-07-14T16:00:49Z",
+      "duration": "00:36:26",
+      "explicit": false,
+      "spotifyId": "3Poy2Ag1H3g8LJZO6iucxl",
+      "appleId": 1000717204301,
+      "youTubeId": "UPNH_1R1uKM",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Poy2Ag1H3g8LJZO6iucxl",
+        "apple": "https://podcasts.apple.com/podcast/disturbing-internet-cults/id1824067049?i=1000717204301",
+        "youtube": "https://www.youtube.com/watch?v=UPNH_1R1uKM"
+      }
+    },
     {
       "id": "7d13d6a0-fd90-46bd-b9e7-d6ae683d5103",
       "title": "The Cult Iceberg",

@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "c3ae794a-325c-4ac6-861b-e5c4194d62f4",
+  "name": "The Psychology Podcast",
+  "spotifyId": "4POIiQQjnQOuz0AqnLk3KZ",
+  "appleId": 942777522,
+  "episodes": [
+    {
+      "id": "faeb0133-82d7-415f-b933-778d0ab7dc84",
+      "title": "Debunking the Genius Myth w/ Helen Lewis",
+      "description": "This week, Scott sits down with acclaimed journalist and Atlantic staff writer Helen Lewis to explore her latest book, The Genius Myth: A Curious History of a Dangerous Idea. Together, they examine how society defines\u2014and often distorts\u2014the concept of genius. Helen argues that there\u2019s no universal, objective definition of genius, and that the people we anoint as such often reflect what a culture values, rather than any absolute measure of brilliance. This \u201Cgenius\u201D label, she suggests, grants select individuals undue latitude and props up misleading narratives about creativity, intelligence, and individual achievement. Scott and Helen also dig into the misuse and limitations of IQ, shared myths about extraordinary minds, and the social consequences of genius worship. See omnystudio.com/listener for privacy information.",
+      "release": "2025-07-17T07:00:00Z",
+      "duration": "01:16:53.1720000",
+      "explicit": false,
+      "spotifyId": "2ozR8vU37agsCXRZJWrCkC",
+      "appleId": 1000717638291,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2ozR8vU37agsCXRZJWrCkC",
+        "apple": "https://podcasts.apple.com/podcast/debunking-the-genius-myth-w-helen-lewis/id942777522?i=1000717638291"
+      }
+    }
+  ]
+}

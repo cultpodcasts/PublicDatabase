@@ -1,0 +1,23 @@
+{
+  "_ts": 0,
+  "id": "64936075-609b-4e94-b0c4-3820ab9ac92d",
+  "name": "Simon Anderson",
+  "youTubeChannelId": "UC2siZCJc0k12w0nyNNk1tpA",
+  "episodes": [
+    {
+      "id": "50385141-c981-452b-9df2-a74073496378",
+      "title": "Falun Gong held one of their increasingly frequent demonstrations in Auckland CBD today",
+      "description": "And I took the opportunity to experiment with video processing. This is the result of almost the best quality I can currently produce for social media platforms. Here\u0027s the method:\n\nRecent Pixel phones have a feature called Video Boost. If you enable it and record in 4K the video processing is performed for you in Google\u0027s cloud, using Google\u0027s AI.\n\nYour phone stores a 1080p preview while you\u0027re waiting for the AI version to process. Apparently the processing time varies but I had to wait TEN HOURS for Google to perform the processing and make this one minute-long clip available. What struck me though is the file sizes:\n\n163 MB - 1080p preview\n2.0 GB - Video Boost file as recorded (4K 10-bit HDR)\n357 MB - Google AI product in 4K\n209.5MB - This video (Google AI version downsampled to 1080p)\n\nThe advantage of this approach is -at least nominally- greater clarity of the final output from an improved source. \n\nThere is one step higher I could go beyond this, by using the AI to upsample the 4K to 8K for processing. I don\u0027t think it\u0027s worth it for a what seems to me marginal quality improvement and the time consumption of processing delays.\n\nSimon\u0027s verdict: great to be improving the technology but at this point in the development cycle it\u0027s more a gimmick than a useful utility.",
+      "release": "2025-07-19T11:28:35Z",
+      "duration": "00:01:08",
+      "explicit": false,
+      "youTubeId": "bdaD86912lM",
+      "subjects": [
+        "Falun Gong"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bdaD86912lM"
+      }
+    }
+  ]
+}

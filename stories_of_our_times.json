@@ -1,10 +1,31 @@
 {
   "_ts": 0,
   "id": "3c406e7e-8be0-4ac1-bb1f-f47fb2bd375f",
-  "name": "Stories of our times",
+  "name": "The Story",
   "spotifyId": "7vE5B7Wdq2iNZLYXLwar5I",
   "appleId": 1501716010,
+  "youTubeChannelId": "UCTjDhFuGXlhx9Us0gq0VK2w",
+  "youTubePlaylistId": "PLGeQKoGUstRBHgKht6sT88PKt0ilO6wuH",
   "episodes": [
+    {
+      "id": "bd094b98-664e-44cf-b8de-280f73c26712",
+      "title": "What Virginia Giuffre\u2019s diary tells us about the Epstein files",
+      "description": "This week, the FBI investigation that Trump promised would reveal all about Jeffrey Epstein concluded there was no evidence to implicate anyone else in his abuse. But diaries from Epstein\u2019s most prominent victim, Virginia Giuffre, released exclusively to The Times, tell a different story. This podcast was brought to you thanks to the support of readers of The Times and The Sunday Times. Subscribe today: http://thetimes.com/thestory Guest: Josie Ensor, US Correspondent, The Times. Host: Luke Jones. Producer: Anna Dowell. Further reading: Jeffrey Epstein victim\u2019s diary \u2018contradicts\u2019 FBI blackmail claims . Clips: MSNBC, Sky News Australia, The Dan Bongino Show, The Washington Examiner, ABC News, Tucker Carlson, Breaking Points. Photo: Getty Images. Get in touch: thestory@thetimes.com . Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-10T23:01:00Z",
+      "duration": "00:29:19.9730000",
+      "explicit": false,
+      "spotifyId": "2jT0MrFzNWXFhIB3MnqWHs",
+      "appleId": 1000716747240,
+      "youTubeId": "ApRVlkxuCtg",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2jT0MrFzNWXFhIB3MnqWHs",
+        "apple": "https://podcasts.apple.com/podcast/what-virginia-giuffres-diary-tells-us-about-the/id1501716010?i=1000716747240",
+        "youtube": "https://www.youtube.com/watch?v=ApRVlkxuCtg"
+      }
+    },
     {
       "id": "8be16cb5-eba4-422c-b750-957dbd68dffa",
       "title": "Inside California\u0027s \u0027orgasm commune\u0027",

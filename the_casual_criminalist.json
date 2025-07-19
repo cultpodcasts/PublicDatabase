@@ -2,8 +2,29 @@
   "_ts": 0,
   "id": "2d7afb4b-0ef4-4a99-b077-d9c6248fe8a4",
   "name": "The Casual Criminalist",
+  "spotifyId": "47GOTAdcNOCEmtH2CuiJqD",
+  "appleId": 1545318164,
   "youTubeChannelId": "UCp1tsmksyf6TgKFMdt8-05Q",
   "episodes": [
+    {
+      "id": "ecba1569-176c-4c83-a26c-fa266ce5653b",
+      "title": "The Knutby Cult Murder...",
+      "description": "A small Swedish village. A pastor. A murder. A nanny who claimed God texted her to kill. Dive into the haunting Knutby case\u2014where cults, control, and manipulation led to murder.\n\nSimon\u0027s Social Media:\nTwitter: https://twitter.com/SimonWhistler\nInstagram: https://www.instagram.com/simonwhistler/\n\nThis video is #sponsored by Saily.\n\nLove content? Check out Simon\u0027s other YouTube Channels:\n\nMegaprojects:https://www.youtube.com/@megaprojects9649\nWarfronts: https://www.youtube.com/@warographics643\nSideProjects: https://www.youtube.com/@Sideprojects\nInto The Shadows: https://www.youtube.com/@IntotheShadows\nToday I Found Out: https://www.youtube.com/@TodayIFoundOut\nBrain Blaze: https://www.youtube.com/@brainblaze6526\nDecoding the Unknown: https://www.youtube.com/@decodingtheunknown2373\nPlaces: https://www.youtube.com/@Places302\nCelestium: https://www.youtube.com/@astrographics-ve4yq\nPoliticalFronts: http://www.youtube.com/@politicalfronts",
+      "release": "2025-07-18T19:00:12Z",
+      "duration": "01:40:56",
+      "explicit": false,
+      "spotifyId": "3qf9sGTLaQbkU6HKQoWXc8",
+      "appleId": 1000717993595,
+      "youTubeId": "8_wsXA59zv4",
+      "subjects": [
+        "\u00C5sa Waldau"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3qf9sGTLaQbkU6HKQoWXc8",
+        "apple": "https://podcasts.apple.com/podcast/the-knutby-cult-murder/id1545318164?i=1000717993595",
+        "youtube": "https://www.youtube.com/watch?v=8_wsXA59zv4"
+      }
+    },
     {
       "id": "0be51c0f-7785-487a-b57e-f3596b65942e",
       "title": "The Killing Hour Cult The Insanity of The Alexander Family",

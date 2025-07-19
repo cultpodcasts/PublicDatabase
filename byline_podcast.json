@@ -1,0 +1,30 @@
+{
+  "_ts": 0,
+  "id": "8c7d16a2-771e-499e-986d-858e58b6e319",
+  "name": "Byline Podcast",
+  "spotifyId": "4IsSG9q499WGrxEKuQbWfh",
+  "appleId": 1522910878,
+  "youTubeChannelId": "UCayTdu6LmYI26yVOHTLROlA",
+  "episodes": [
+    {
+      "id": "c32f668d-e1a7-4d83-8953-dfdb76bd9757",
+      "title": "The Manosphere with James Bloodworth",
+      "description": "Adrian Goldberg explores the world of the toxic online masculinity - the \u0022Manosphere\u0022 - with James Bloodworth, author of \u0027Lost Boys\u0027. Recorded at the Byline Festival at Keele University. Produced by Adrian Goldberg, Harvey White and Sean Byrne-Roberts. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-07-16T07:32:00Z",
+      "duration": "00:23:36.0970000",
+      "explicit": false,
+      "spotifyId": "0AGQE3y7nGtkYV910dUCyM",
+      "appleId": 1000717485038,
+      "youTubeId": "U3UEjBq6wcM",
+      "subjects": [
+        "Hustler\u0027s University",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0AGQE3y7nGtkYV910dUCyM",
+        "apple": "https://podcasts.apple.com/podcast/the-manosphere-with-james-bloodworth/id1522910878?i=1000717485038",
+        "youtube": "https://www.youtube.com/watch?v=U3UEjBq6wcM"
+      }
+    }
+  ]
+}

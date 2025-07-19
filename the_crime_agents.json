@@ -1,0 +1,26 @@
+{
+  "_ts": 0,
+  "id": "345eec35-0de7-43f2-8ed8-2e9529382da8",
+  "name": "The Crime Agents",
+  "spotifyId": "5JLp6USV9CcGzpv18ebXTn",
+  "appleId": 1820933088,
+  "episodes": [
+    {
+      "id": "971cfc88-636c-4aee-867e-9809a17465ee",
+      "title": "Death threats and the bomb squad: infiltrating the far-right",
+      "description": "Andy is one of only a very small number of journalists to have successfully gone undercover and infiltrated the far-right. In this episode, he reveals for the first time what happened when the group found out his true identity - and why he needed a visit from the bomb squad and around-the-clock police protection. Andy also explains why people are attracted to join these groups for real - and tells the story of what he was asked to do for his initiation into one of the UK\u0027s most dangerous far-right gangs. Plus Neil explains the history of the far-right in Britain, from Sir Oswald Mosley to the recently proscribed Maniacs Murder Cult and Russian Imperial Movement. He also talks about why the decision to ban the group National Action was so controversial when he was in charge of counter-terrorism policing in 2016. Follow us on social media: @thecrimeagents on all major platforms Get in touch via email: thecrimeagents@global.com",
+      "release": "2025-07-16T11:36:00Z",
+      "duration": "00:52:29.9230000",
+      "explicit": true,
+      "spotifyId": "1j6rrXMiCQPMTrngdVUafJ",
+      "appleId": 1000717514954,
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1j6rrXMiCQPMTrngdVUafJ",
+        "apple": "https://podcasts.apple.com/podcast/death-threats-and-the-bomb-squad-infiltrating-the-far-right/id1820933088?i=1000717514954"
+      }
+    }
+  ]
+}

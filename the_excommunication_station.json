@@ -6,6 +6,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "2714e27e-9aba-4698-9b15-34fe1483ad31",
+      "title": "215. Gerhard Kittel",
+      "description": "This week, Samuel David joins us again for our dive into Gerhard Kittel and the Theological Dictionary Of The New Testament.",
+      "release": "2025-07-16T03:53:07Z",
+      "duration": "01:54:51.4410000",
+      "explicit": true,
+      "spotifyId": "0tDWNaqZPsX2rF7fxskuS5",
+      "appleId": 1000717459582,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0tDWNaqZPsX2rF7fxskuS5",
+        "apple": "https://podcasts.apple.com/podcast/215-christian-nazis-gerhard-kittel/id1573190999?i=1000717459582"
+      }
+    },
+    {
       "id": "c158676d-b0f4-4f6c-b028-297311c785d4",
       "title": "214. The Institute for the Study and Elimination of Jewish Influence on German Church Life",
       "description": "This week, we talk about The Institute for the Study and Elimination of Jewish Influence on German Church Life and their new bible and hymnal and about Walter Grundmann.",

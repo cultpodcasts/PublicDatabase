@@ -1,0 +1,33 @@
+{
+  "_ts": 0,
+  "id": "f20c64e6-34e3-496d-b709-0e125c945dac",
+  "name": "Within Reason",
+  "spotifyId": "16wUbvDT95dxzpG2KEhakK",
+  "appleId": 1458675168,
+  "youTubeChannelId": "UC7kIy8fZavEni8Gzl8NLjOQ",
+  "episodes": [
+    {
+      "id": "b8514408-bab2-48fb-9603-da8b81ae13e7",
+      "title": "#112 Rick Alan Ross - Do Cult Leaders Believe Their Own Lies?",
+      "description": "Rick Alan Ross is an American deprogrammer, cult specialist, and founder and executive director of the non-profit Cult Education Institute. Frequently appearing in the news and other media, discussing groups some consider cults. Ross has intervened in more than 500 deprogramming cases in various countries. (Wikipedia) Get Rick\u0027s book, \u0022Cults Inside Out: How People Get In and Can Get Out\u0022 here . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-07-13T20:03:00Z",
+      "duration": "01:54:41.5150000",
+      "explicit": false,
+      "spotifyId": "5Qg5IShKHO8kBRzgvcnoXT",
+      "appleId": 1000717078816,
+      "youTubeId": "Llg1BOmwVEg",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "Manson Family",
+        "John Frum",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Qg5IShKHO8kBRzgvcnoXT",
+        "apple": "https://podcasts.apple.com/podcast/112-rick-alan-ross-do-cult-leaders-believe-their-own-lies/id1458675168?i=1000717078816",
+        "youtube": "https://www.youtube.com/watch?v=Llg1BOmwVEg"
+      }
+    }
+  ]
+}

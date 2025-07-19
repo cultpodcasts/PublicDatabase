@@ -1,0 +1,29 @@
+{
+  "_ts": 0,
+  "id": "57b6f955-557a-4dbe-92f1-37f52f94534b",
+  "name": "The Dr. Phil Podcast",
+  "spotifyId": "45Ek7SE3SJCUAjq728lLqo",
+  "appleId": 1446088262,
+  "youTubeChannelId": "UCUzybWGzmOOS6w0KokFTRnQ",
+  "episodes": [
+    {
+      "id": "2892d083-af7a-4c8b-b85f-892ebfe85083",
+      "title": "The Yellow Deli Cult | The REAL Story",
+      "description": "The Yellow Deli - sounds innocents enough, right? It\u2019s a restaurant chain that prides itself on wholesome homemade food, like hot steam sandwiches, fresh salads and desserts like sweet potato pound cake. The Real Story about The Yellow Deli will turn your stomach. It starts with a sandwich\u2026 but ends with mind control, child labor, and the loss of personal freedom. You think you\u2019re walking into a cozy caf\u00E9\u2014but you\u2019re actually walking into a cult.",
+      "release": "2025-07-17T03:00:00Z",
+      "duration": "00:10:05.4820000",
+      "explicit": false,
+      "spotifyId": "7h223isLC1ljqjB7UTAeIK",
+      "appleId": 1000717612669,
+      "youTubeId": "gGigFOw2l6g",
+      "subjects": [
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7h223isLC1ljqjB7UTAeIK",
+        "apple": "https://podcasts.apple.com/podcast/the-yellow-deli-cult-the-real-story/id1446088262?i=1000717612669",
+        "youtube": "https://www.youtube.com/watch?v=gGigFOw2l6g"
+      }
+    }
+  ]
+}
