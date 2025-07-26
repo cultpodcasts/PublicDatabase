@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "d3d3aa27-b56c-42fd-af17-16113b4f951b",
   "name": "They Walk Among Us Podcast",
   "spotifyId": "54kGjFC5J2NVKvrXpOTAAC",
@@ -15,14 +14,12 @@
       "explicit": false,
       "spotifyId": "4gakIdflUvmVGIrtFRPACe",
       "appleId": 1000567013670,
-      "youTubeId": "cgTinpMsWrs",
       "subjects": [
         "Jesus Army"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4gakIdflUvmVGIrtFRPACe",
-        "apple": "https://podcasts.apple.com/podcast/bonus-episode-18/id1155846302?i=1000567013670",
-        "youtube": "https://www.youtube.com/watch?v=cgTinpMsWrs"
+        "apple": "https://podcasts.apple.com/podcast/bonus-episode-18/id1155846302?i=1000567013670"
       }
     }
   ]

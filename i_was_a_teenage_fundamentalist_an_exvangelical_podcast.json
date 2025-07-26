@@ -1,11 +1,32 @@
 {
-  "_ts": 0,
   "id": "4cacb815-ea27-4cd0-b31a-ca6a8822225f",
   "name": "I was a Teenage Fundamentalist. An Exvangelical podcast.",
   "spotifyId": "5tbYeCgmIuYwZBiZ9yGKbw",
   "appleId": 1558606464,
   "youTubeChannelId": "UCs0jrFsxPsg7rGNfgqzAGug",
   "episodes": [
+    {
+      "id": "ae9b3c05-2c78-459a-a803-a43b4bc0d8c6",
+      "title": "126 - Sexuality, Shame, and Identity with Cara Flame",
+      "description": "Troy and Brian engage in a deep conversation with Cara Flame, an Australian experiential and creative arts therapist, about her journey from being a teenage fundamentalist to becoming an advocate for those recovering from religious trauma. Cara tells of her experiences in the Esther Foundation, a Christian Fundamentalist organisation, and how it shaped her views on sexuality, shame, and identity. Cara shares her ongoing struggles with the remnants of purity culture and emphasises the importance of listening to one\u0027s body and desires. The conversation also touches on the significance of activism in the deconstruction space and Cara\u0027s aspirations for the future, including her writing and performance endeavours.\n\nLinks:\nhttps://caraflame.com/ \n\nTakeaways:\n\nCara Flame shares her journey from fundamentalism to therapy.\nThe Esther Foundation was a cult-like experience for Cara.\nCara emphasizes the importance of listening to one\u0027s body and desires.\nShame from purity culture continues to affect many individuals.\nDeconstructing beliefs is a lifelong process.\nCara\u0027s book aims to help others navigate their own journeys.\nThe impact of fundamentalism on identity is profound and lasting.\nCara\u0027s experiences highlight the need for open discussions about sexuality.\nActivism in the deconstruction space is crucial for change.\nCara encourages others to embrace their true selves and passions.",
+      "release": "2025-07-25T00:00:00Z",
+      "duration": "01:12:33",
+      "explicit": false,
+      "spotifyId": "2uNYmsryYzs5qRCAe1FD2j",
+      "appleId": 1000718920943,
+      "youTubeId": "wi3LBK9b92o",
+      "subjects": [
+        "Christian Fundamentalist",
+        "Purity Culture",
+        "Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2uNYmsryYzs5qRCAe1FD2j",
+        "apple": "https://podcasts.apple.com/podcast/126-sexuality-shame-and-identity-with-cara-flame/id1558606464?i=1000718920943",
+        "youtube": "https://www.youtube.com/watch?v=wi3LBK9b92o"
+      }
+    },
     {
       "id": "5472910e-61df-4bdf-a101-79b5f5fab336",
       "title": "125 - Let\u0027s Go to Hillsong!",
@@ -1680,7 +1701,8 @@
       "youTubeId": "4OE1MrdWYKo",
       "subjects": [
         "Christian Fundamentalist",
-        "Evangelicalism"
+        "Evangelicalism",
+        "C3 Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0QmDFd7tgar0IEyrQ1ZceG",
@@ -2151,7 +2173,8 @@
       "spotifyId": "7bfuCogtbP3AFhHZPxqMmX",
       "appleId": 1000542371294,
       "subjects": [
-        "Christian Fundamentalist"
+        "Christian Fundamentalist",
+        "C3 Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7bfuCogtbP3AFhHZPxqMmX",

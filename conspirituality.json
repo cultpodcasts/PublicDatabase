@@ -1,10 +1,41 @@
 {
-  "_ts": 0,
   "id": "ba2889fa-fa8a-4deb-91c1-cc1f03b9b876",
   "name": "Conspirituality",
   "spotifyId": "2imIsM2NZRPpQvI56TLdM5",
   "appleId": 1515827446,
   "episodes": [
+    {
+      "id": "a2e14e5f-f722-4007-93e8-e23f5ff52351",
+      "title": "Brief: Mehdi Hasan vs Jordan Peterson",
+      "description": "Mehdi Hasan\u0027s recent Jubilee appearance has blown up\u2014and so has criticism of the entire media operation. Derek and Julian discuss the value and pitfalls of this format, contrasting the far-right participants sitting across from Hasan from another recent episode, when atheists went to battle with Jordan Peterson.\n\nShow Notes\n\n1 Progressive vs 20 Far-Right Conservatives (ft. Mehdi Hasan)\n\nJordan Peterson vs 20 Atheists\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-07-26T10:00:00Z",
+      "duration": "00:39:17",
+      "explicit": false,
+      "spotifyId": "0doSFcyLoAyLAWvAHCzofn",
+      "appleId": 1000719084947,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0doSFcyLoAyLAWvAHCzofn",
+        "apple": "https://podcasts.apple.com/podcast/brief-mehdi-hasan-vs-jordan-peterson/id1515827446?i=1000719084947"
+      }
+    },
+    {
+      "id": "0b31888a-28e3-4807-80d1-e3ee4b151bac",
+      "title": "267: Epstein Never Died",
+      "description": "Jeffrey Epstein\u2019s name is being screamed into the headlines again. The late and former self-described best-friend of Donald Trump\u0027s highly suspicious 2019 death following his arrest for child sex trafficking has been a loose thread for both rabid conspiracists and the reality-based community. \n\nNow that prominent conspiracy personalities are in the highest positions in America\u0027s law enforcement agencies, the QAnon faithful have been expecting all the damning details about the Democrat cabal to emerge. But that\u0027s not what\u0027s happened. \n\nNow Pam Bondi, Kash Patel, and Dan Bongino are in the collective hot seat as MAGA demand answers, while some appear to be colluding with Donald Trump in their own Deep State cover-up.\n\nShow Notes\n\nWhy is MAGA so obsessed with the Epstein files?\n\nTrump can\u0027t stop MAGA from obsessing about the Epstein files\n\nWhy do Trump\u0027s MAGA followers care so much about the Epstein files?\n\nRepublicans are split over the Trump administration\u2019s handling of Epstein files\n\nHow Trump spent years stoking dark theories, and why he\u2019s facing Epstein case blowback now\n\n\u0027We want justice done\u0027: Christianity Today calls to see the Epstein files\n\n146: The Reality of Online Child Abuse (w/H\u00E5kon H\u00F8ydal) \u2014 Conspirituality\u00A0\n\nOnline child sexual exploitation: A statistical profile of police-reported incidents in Canada, 2014 to 2022\u00A0\n\nWoman who accused Donald Trump of raping her at 13 drops lawsuit\n\nPerversion of Justice: Jeffrey Epstein | Miami Herald\u00A0\u00A0\n\nPerversion of Justice \u2013 HarperCollins\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-07-24T10:00:00Z",
+      "duration": "01:02:51",
+      "explicit": false,
+      "spotifyId": "1xxUhE70RG2yerWBT7cTmi",
+      "appleId": 1000718835168,
+      "subjects": [
+        "Qanon",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1xxUhE70RG2yerWBT7cTmi",
+        "apple": "https://podcasts.apple.com/podcast/267-epstein-never-died/id1515827446?i=1000718835168"
+      }
+    },
     {
       "id": "4df27ffe-2acc-48a4-872e-93c560848dc8",
       "title": "Brief: Galloway and the Mooch: The Lost Boys of Capitalism (Pt 1)",
@@ -15,8 +46,7 @@
       "spotifyId": "47xzB05xVdP03lUd3JzZeB",
       "appleId": 1000718059904,
       "subjects": [
-        "Qanon",
-        "Self-Help"
+        "Qanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/47xzB05xVdP03lUd3JzZeB",

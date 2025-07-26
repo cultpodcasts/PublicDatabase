@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "fb2fc7fd-c7b0-4b06-b830-d1b8c15fa17c",
   "name": "American Criminal",
   "spotifyId": "0awmsz6xUju4z8hJoLFZ02",
   "appleId": 1729427405,
   "episodes": [
+    {
+      "id": "e12c36de-ffc7-4c43-a39c-b758b77140e0",
+      "title": "Case File | The Cult Next Door",
+      "description": "Mattie Lasiter and Ashleigh Teeter\u0027s father led a doomsday cult in Arkansas. Now they\u0027re sharing their stories and educating others about how to recognize a cult when you see one -- even from the inside. To listen to all four episodes of \u0027NXIVM\u0027 right now and ad-free, subscribe in Apple Podcasts, Spotify, or at \u2060\u2060\u2060\u2060AmericanCriminal.com\u2060\u2060\u2060\u2060 We\u0027d like to hear from you! Take a short survey about the show: \u2060theshowsurvey.com/criminal Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-07-24T07:00:00Z",
+      "duration": "00:46:35.3370000",
+      "explicit": false,
+      "spotifyId": "74MYjuRZj8tnnKyj5oeSBr",
+      "appleId": 1000717396615,
+      "subjects": [
+        "The Crusade Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74MYjuRZj8tnnKyj5oeSBr",
+        "apple": "https://podcasts.apple.com/podcast/case-file-the-cult-next-door/id1729427405?i=1000717396615"
+      }
+    },
     {
       "id": "5dec2c10-b855-4a2f-917d-257e76db0ed3",
       "title": "NXIVM | The Mighty Fall",

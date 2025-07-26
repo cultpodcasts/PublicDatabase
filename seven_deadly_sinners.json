@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "49a5ed30-ee09-422d-8f00-a6d3f373e23d",
   "name": "Seven Deadly Sinners",
   "spotifyId": "7AOIlXVly2UiB9DMt46FuM",
   "appleId": 1515042150,
   "episodes": [
+    {
+      "id": "50d8eb2b-956e-4896-a8d3-c06dac6169a6",
+      "title": "260: The Epstein Files with Nick Bryant",
+      "description": "In this explosive episode of Seven Deadly Sinners, we dig into one of the most disturbing and far-reaching criminal conspiracies of our time\u2014the Jeffrey Epstein case. Joining us is acclaimed investigative journalist Nick Bryant, whose groundbreaking work on the Epstein files and the Franklin Scandal has exposed the dark underbelly of elite power and abuse. Bryant takes us deep into the sealed documents, hidden connections, and unspoken truths behind Epstein\u2019s international sex trafficking ring. From the flight logs to the black book, from the political ties to the media silence, this episode sheds light on the people and systems that enabled Epstein for decades\u2014and the survivors still fighting for justice. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2025-07-20T07:00:00Z",
+      "duration": "01:15:48.6750000",
+      "explicit": true,
+      "spotifyId": "5p1NhuJXlKd4a5eC2opLIr",
+      "appleId": 1000717138750,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5p1NhuJXlKd4a5eC2opLIr",
+        "apple": "https://podcasts.apple.com/podcast/the-epstein-files-with-nick-bryant/id1515042150?i=1000717138750"
+      }
+    },
     {
       "id": "5e2c51e7-0491-437e-9c35-4d5e982186ca",
       "title": "237: Jim Jones \u0026 The Peoples Temple Part Three: The Move To Guyana",

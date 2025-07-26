@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "02a6dcc1-96ff-42f0-a32f-5e576b6970ca",
   "name": "The Cult I Left Behind",
   "spotifyId": "1oNHYt9VaYLXZKMKeLl01p",
   "appleId": 1705661944,
   "episodes": [
+    {
+      "id": "a953a5d7-b3e5-44bc-890b-bf10f1fb50db",
+      "title": "84 - Sometimes, You Get What You Want",
+      "description": "Amanda has gotten a lot of questions about whether she would ever let anyone from her biological family back into her life.\n\n\nFor a long time, the answer was no. But then something changed.\n\n\nIt\u2019s been a year and a half, and we\u0027ve waited a long time to talk about it. This is the first time we\u0027re sharing the story.\u00A0\nSend us text! Please note this platform only supports one-way communication. \nSupport the show",
+      "release": "2025-07-21T04:00:00Z",
+      "duration": "00:29:23",
+      "explicit": false,
+      "spotifyId": "0P9utkqpuVYA2sDkD2EtM4",
+      "appleId": 1000718224608,
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0P9utkqpuVYA2sDkD2EtM4",
+        "apple": "https://podcasts.apple.com/podcast/84-sometimes-you-get-what-you-want/id1705661944?i=1000718224608"
+      }
+    },
     {
       "id": "5a4fa469-13db-4e84-9d1d-e0a517f091b7",
       "title": "83 - Dear Diary",

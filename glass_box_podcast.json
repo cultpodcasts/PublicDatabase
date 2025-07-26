@@ -1,10 +1,27 @@
 {
-  "_ts": 0,
   "id": "d79faaf4-b139-44b8-889f-75892f3e4d15",
   "name": "Glass Box Podcast",
   "spotifyId": "5leVO8qLmV8iPEQAHwUlpp",
   "appleId": 1100070891,
   "episodes": [
+    {
+      "id": "d3631b13-9c69-4909-af0f-77bdf54fc65a",
+      "title": "Ep 181 \u2014 Word Vomit and Verbosity | The Crucible of Doubt pt. 3",
+      "description": "Your two favorite long winded podcasters are talking about word vomit and verbosity today, which is particularly fitting since today\u2019s Sword of Laman segment covers the last part of the 2nd Givens book, The Crucible of Doubt. We then cleanse your palette with some good news out of Illinois. Enjoy! Sword of Laman: https://freshairarchive.org/segments/richard-dawkins-argument-atheism Happy News: Illinois keeps 988 lifeline for LGBTQIA\u0026#43; youth even after national extension hangs up: https://khqa.com/news/local/illinois-to-keep-988-suicide-crisis-lifeline-for-lgbtqia-youth-after-national-extension-hangs-up-federal-funding-cuts-trump-administration-governor-jb-pritzker-idhs-secretary-dulce-m-quintero-mental-health-behavioral-services-counseling-support-teens Other appearances: Chris Shelton interviewed us in the beginning of a series on Mormonism on his Speaking of Cults series. He has had MANY different fascinating people on so go take a look! Here is the whole playlist: https://www.youtube.com/watch?v=OpGuS7GcsgA\u0026list=PLGrPM1Pg2h72ADIuv8eYmzrJ-ppLOlw_g Email: glassboxpodcast@gmail.com Patreon: https://www.patreon.com/GlassBoxPod Patreon page for documentary: https://www.patreon.com/SeerStonedProductions Facebook page: https://www.facebook.com/glassboxpodcast BlueSky: @ glassboxpodcast.bsky.social Other BlueSky: @bryceblankenagel.bsky.social and @shannongrover.bsky.social Instagram: https://www.instagram.com/glassboxpodcast/ Merch store: https://www.redbubble.com/people/exmoapparel/shop Or find the merch store by clicking on \u201CStore\u201D here: https://glassboxpodcast.com/index.html One time Paypal donation: bryceblankenagel@gmail.com Venmo: @Shannon-Grover-10",
+      "release": "2025-07-23T03:00:00Z",
+      "duration": "02:32:53.4190000",
+      "explicit": true,
+      "spotifyId": "5GhMVMJD9ITs230FRH8lDB",
+      "appleId": 1000718548490,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5GhMVMJD9ITs230FRH8lDB",
+        "apple": "https://podcasts.apple.com/podcast/ep-181-word-vomit-and-verbosity-the-crucible-of-doubt-pt-3/id1100070891?i=1000718548490"
+      }
+    },
     {
       "id": "4ca68658-32c4-42a8-bcc0-deb3f91900df",
       "title": "Ep 180 \u2014 John Taylor 1886 Permanent Polygamy Revelation | National Treasure",

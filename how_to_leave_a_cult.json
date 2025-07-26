@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "9be820e2-fac4-4366-a36c-216caba2bbad",
   "name": "How To Leave A Cult",
   "spotifyId": "1wFepHSUrPZfnfRFalNd6j",
@@ -7,6 +6,25 @@
   "youTubeChannelId": "UCHDfEL6hgO1rS4X3W_My76w",
   "youTubePlaylistId": "PLPk9OlDPA-Z5JeRgII5OClicyCVAcbXvy",
   "episodes": [
+    {
+      "id": "39fe5ee6-4069-474e-8288-e35a5367b31d",
+      "title": "The God Who Punishes: Fear, Shame, and Breaking the Rules",
+      "description": "What happens when your concept of God is shaped more by fear than by love? In this episode, I explore the fear-based spiritual teachings that governed my childhood\u2014where consequences weren\u2019t just earthly, but eternal. From hellfire and damnation to karma and reincarnation, every action carried the weight of divine punishment.\n\nI share how women were treated as lesser, how relationships were distorted by shame and control, and how even something like smoking pot turned into a spiritual scandal. The punishment didn\u2019t just come from leaders\u2014it was baked into the belief system itself.\n\nWe also dive into codependency: what it is, where it comes from, and how these environments of fear and control breed it. When you\u2019re taught that love must be earned, that pleasing others keeps you safe, or that your worth depends on obedience, codependency takes root. I talk about the patterns it creates and how I\u2019ve been working to unravel them\u2014reclaiming my sense of self, boundaries, and agency in the process.\n\nThis episode is about the long shadow of religious fear, how it warps our relationships with others and ourselves, and what it takes to break free and begin to heal.",
+      "release": "2025-07-26T11:00:00Z",
+      "duration": "00:38:03.5200000",
+      "explicit": true,
+      "spotifyId": "45wOBIKPfpI2hXUzr0zUx3",
+      "appleId": 1000719087268,
+      "youTubeId": "F9T9N-BnHjU",
+      "subjects": [
+        "Church of Immortal Consciousness"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/45wOBIKPfpI2hXUzr0zUx3",
+        "apple": "https://podcasts.apple.com/podcast/the-god-who-punishes-fear-shame-and-breaking-the-rules/id1723601274?i=1000719087268",
+        "youtube": "https://www.youtube.com/watch?v=F9T9N-BnHjU"
+      }
+    },
     {
       "id": "8c03e7bd-05af-4b00-94c5-e04869d247c5",
       "title": "The Making of a Minister\u2019s Son: Chosen or Conditioned?",

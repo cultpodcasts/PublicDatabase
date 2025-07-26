@@ -1,0 +1,27 @@
+{
+  "id": "7cfead5d-11a0-4c5e-896b-707fac6d7219",
+  "name": "Pod Candy - Cults, Crimes \u0026 Killers",
+  "spotifyId": "4vWiWIYnqJtxu0DJwvzAaU",
+  "appleId": 1813049296,
+  "episodes": [
+    {
+      "id": "308d08ac-b1ad-43af-a686-8ca31521bd87",
+      "title": "Leaving an Orthodox Jewish Cult",
+      "description": "In this powerful and emotional episode of PodCandy, Stacey, Dori and Dr. John dive deep into the harrowing yet inspiring story of Chavie Weisberger, a brave woman who escaped the confines of an ultra-Orthodox Hasidic Jewish sect\u2014led by her own grandfather. From forced marriage and suppressed sexuality to a traumatic custody battle, Chavie\u2019s journey reveals the dark side of religious extremism and the systemic control of women. With insight from psychologist Dr. John Mayer, the hosts explore themes of gender oppression, cult dynamics, and the resilience it takes to break free and reclaim your identity. Listener discretion advised\u2014this episode includes discussions of sexual abuse and other sensitive topics. Based on the original interview featured on \u0022Cults to Consciousness\u0022 hosted by Shalise Ann Sola.",
+      "release": "2025-07-22T09:00:00Z",
+      "duration": "00:59:33.3200000",
+      "explicit": true,
+      "spotifyId": "6j5YDKZWuTqZIpOKc1lxf1",
+      "appleId": 1000718440550,
+      "subjects": [
+        "Hasidic Judaism",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6j5YDKZWuTqZIpOKc1lxf1",
+        "apple": "https://podcasts.apple.com/podcast/leaving-an-orthodox-jewish-cult/id1813049296?i=1000718440550"
+      }
+    }
+  ]
+}

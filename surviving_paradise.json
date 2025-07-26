@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "1196354d-cbed-454f-826a-a1d71795c915",
   "name": "Surviving Paradise",
   "spotifyId": "7yYMyycO8sctBAz1Ke0WcK",
   "appleId": 1667168726,
   "youTubeChannelId": "UCsy1B0HaSEjoyuWQ4KkTfUA",
   "episodes": [
+    {
+      "id": "75ef8161-07cb-40f7-8f98-0826f4ffccf6",
+      "title": "July 2025 JW Broadcast Highlights: Be Faithful Like Geysers \u0026 King David?",
+      "description": "Despite a 100% failure rate on end of world predictions and flip flopping doctrinal changes, the Governing Body of Jehovah\u0027s Witnesses is going to remind us all to be faithful. They cite King David as a great example. I don\u0027t think they know what \u0027faithful\u0027 means.",
+      "release": "2025-07-21T07:00:00Z",
+      "duration": "01:03:52.8940000",
+      "explicit": true,
+      "spotifyId": "26e6iMubq9ICJHoI6lNvIp",
+      "appleId": 1000718242806,
+      "youTubeId": "JW6gm0rJ8yM",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/26e6iMubq9ICJHoI6lNvIp",
+        "apple": "https://podcasts.apple.com/podcast/july-2025-jw-broadcast-highlights-be-faithful-like/id1667168726?i=1000718242806",
+        "youtube": "https://www.youtube.com/watch?v=JW6gm0rJ8yM"
+      }
+    },
     {
       "id": "968c0e5d-bb63-45e2-bdb7-4aaef536244e",
       "title": "Jehovah\u0027s Witnesses Told to Not Be Babies and We Can Toast to That!",

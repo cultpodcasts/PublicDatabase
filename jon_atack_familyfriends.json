@@ -1,11 +1,25 @@
 {
-  "_ts": 0,
   "id": "ad3c0291-c9c2-4114-a382-b300096f9f26",
   "name": "Jon Atack, Family \u0026 Friends",
   "spotifyId": "1HxLYQiT9udPo5ldlyhpbH",
   "appleId": 1534364303,
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
+    {
+      "id": "c6e803c7-aacb-48c9-b51e-7732d5549b15",
+      "title": "Jamie DeWolf - L. Ron Hubbard\u0026#39;s Great Grandson Speaks Out! - Getting Clear #17",
+      "description": "In this explosive session from the Getting Clear conference, the amazing Jamie DeWolf, poet, performer, and great-grandson of L. Ron Hubbard, speaks out about his journey of discovery in uncovering his famous ancestor\u0027s strange secrets and what it was like growing up in a family that wanted to forget that the founder of the cult ever existed.\n\n#scientologycult #hubbard #dianetics #lronhubbard #scientologyhistory #scientology",
+      "release": "2025-07-26T06:00:04Z",
+      "duration": "01:19:42",
+      "explicit": false,
+      "youTubeId": "42304miylUI",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=42304miylUI"
+      }
+    },
     {
       "id": "c72b6988-3be7-4b24-a64b-52d2869744e2",
       "title": "The SECRETS of Hubbard Exposed! - Getting Clear #18 with Gerry Armstrong",
@@ -15,7 +29,8 @@
       "explicit": false,
       "youTubeId": "V3HLRCrc7vg",
       "subjects": [
-        "Scientology"
+        "Scientology",
+        "Ordo Templi Orientis"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=V3HLRCrc7vg"
@@ -6211,7 +6226,8 @@
         "Cult-Expert",
         "Evangelicalism",
         "Cult Psychology",
-        "Cult Recovery"
+        "Cult Recovery",
+        "C3 Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4vw5pjr2KlmkcSvVPD8LNi",

@@ -1,11 +1,31 @@
 {
-  "_ts": 0,
   "id": "6eaad199-e5af-4859-89e7-72e41f21e388",
   "name": "Sons of Patriarchy",
   "spotifyId": "1JWstUSyyfWcOURGxfHYzk",
   "appleId": 1772141068,
   "youTubeChannelId": "UCUcxMqr9BnZ8XoqeIP_p92Q",
   "episodes": [
+    {
+      "id": "e503a1ca-c190-4644-afb2-8838cd289ed5",
+      "title": "Gothard, Wilson, and Fundamentalist America",
+      "description": "Season 2 - Episode 10\n\nChristy Lynne Wood spent her teens and early twenties in a Christian cult, but Jesus found her anyway. More than twenty years later, Christy continues to pick apart legalism, twisted Scripture, and lies in a search for the truth. As a speaker, podcaster, writer, and author of Religious Rebels: Finding Jesus in the Awkward Middle Way of Grace and Truth, she is passionate about helping people to find a genuine relationship with Jesus. Christy lives in West Michigan with her wonderfully-opposite husband and their two children.\n\nDetails and tickets for Sons of Patriarchy in Moscow go live on August 4!\n\nChristy Wood Resources:\nThreads: https://www.threads.net/@christylynnewood\nSubstack: https://substack.com/@christylynnewood\nInstagram: https://www.instagram.com/christylynnewood/\nWebsite: https://christylynnewood.com/\n\nFind us:\nWebsite: https://www.sonsofpatriarchy.com\nMerch: https://www.sonsofpatriarchy.com/merch\nFacebook: https://www.facebook.com/patriarchysons\nTwitter/X: https://x.com/patriarchysons\nBluesky: https://bsky.app/profile/sonsofpatriarchy.bsky.social\nYouTube: https://www.youtube.com/@SonsofPatriarchy\nPatreon: https://www.patreon.com/c/sonsofpatriarchy\nOutreach Idaho: https://outreachidaho.org",
+      "release": "2025-07-21T10:01:00Z",
+      "duration": "00:52:33",
+      "explicit": false,
+      "spotifyId": "5DUSI4BIW7wXeG4UyfdUcc",
+      "appleId": 1000718002671,
+      "youTubeId": "yIMFJ4AaLq8",
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "Douglas Wilson",
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5DUSI4BIW7wXeG4UyfdUcc",
+        "apple": "https://podcasts.apple.com/podcast/gothard-wilson-and-fundamentalist-america/id1772141068?i=1000718002671",
+        "youtube": "https://www.youtube.com/watch?v=yIMFJ4AaLq8"
+      }
+    },
     {
       "id": "8cfd4865-c417-4f0c-b0d5-d94736b81515",
       "title": "The Ugly Truth About The Girl Next Door",

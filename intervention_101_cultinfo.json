@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "ed7eb8d4-bf6c-4cc7-af56-af8d9f2879fe",
   "name": "Intervention 101 (CultInfo)",
   "youTubeChannelId": "UC5tNzsa-TqulZEKI2bzOp0Q",
@@ -71,7 +70,8 @@
       "explicit": false,
       "youTubeId": "io_qP_jg5e8",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Cult-Expert"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=io_qP_jg5e8"

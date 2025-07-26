@@ -1,10 +1,23 @@
 {
-  "_ts": 0,
   "id": "24e5c0b5-fcad-4681-822e-17659c9fe538",
   "name": "The Excommunication Station",
   "spotifyId": "5WYfTqA2EK48nfcdC1PL8S",
   "appleId": 1573190999,
   "episodes": [
+    {
+      "id": "78a04ec8-ec18-43a1-a67d-9dff8207bb0d",
+      "title": "216. Paul Popenoe Part I: Eugenics",
+      "description": "Tori from Go Home Bible and White Homework joins us this week to talk about Paul Popenoe and the eugenics movement in the united states and how he inspired Nazi Germany.",
+      "release": "2025-07-23T06:00:00Z",
+      "duration": "02:20:20.1790000",
+      "explicit": true,
+      "spotifyId": "0jKTdQaRPdYiZLulQIxuSD",
+      "appleId": 1000718568542,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0jKTdQaRPdYiZLulQIxuSD",
+        "apple": "https://podcasts.apple.com/podcast/216-paul-popenoe-part-i-eugenics/id1573190999?i=1000718568542"
+      }
+    },
     {
       "id": "2714e27e-9aba-4698-9b15-34fe1483ad31",
       "title": "215. Gerhard Kittel",

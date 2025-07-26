@@ -1,11 +1,27 @@
 {
-  "_ts": 0,
   "id": "985cfb4f-7b47-49f5-823b-f74c4ff768e4",
   "name": "Leaving Eden Podcast",
   "spotifyId": "6jh5cAYRXAoqBSIQ1OckG5",
   "appleId": 1525971285,
   "youTubeChannelId": "UCJ4q94gAnsoW2jME4SvVrrQ",
   "episodes": [
+    {
+      "id": "c89e7bfd-ee55-4ac8-8ad4-bbbe899cf162",
+      "title": "Ep. 239: Dave Ramsey is Being Sued for Discrimination",
+      "description": "In this episode, we discuss Dave Ramsey, the basics of his financial advice, and the ongoing lawsuit against his company, Ramsey Solutions, for religious discrimination. We also read two pride stories that we didn\u0027t get to during June Subscribe to Leaving Eden Podcast on YouTube! https://www.youtube.com/channel/UCJ4q94gAnsoW2jME4SvVrrQ Join our discord server! https://discord.gg/aneFkUJu Join our subreddit! Reddit.com/r/EdenExodus Bluesky: @leavingedenpodcast.bsky.social @hellyeahsadie.bsky.social @gavihacohen.bsky.social Instagram: https://www.instagram.com/leavingedenpodcast/ https://www.instagram.com/sadiecarpentermusic/ https://www.instagram.com/gavrielhacohen/ Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-21T07:00:00Z",
+      "duration": "01:08:04.1920000",
+      "explicit": false,
+      "spotifyId": "1AtS52bMDn8sCmzFVJpggt",
+      "appleId": 1000718241712,
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1AtS52bMDn8sCmzFVJpggt",
+        "apple": "https://podcasts.apple.com/podcast/ep-239-dave-ramsey-is-being-sued-for-discrimination/id1525971285?i=1000718241712"
+      }
+    },
     {
       "id": "fce577de-0aba-4bc8-8b05-27acc6f6daf0",
       "title": "Ep. 238: Secrets of the 2x2 Church",

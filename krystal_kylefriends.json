@@ -1,0 +1,25 @@
+{
+  "id": "97a32dbc-b348-4073-9c6f-fa8c1f03b5a1",
+  "name": "Krystal Kyle \u0026 Friends",
+  "spotifyId": "0pYlW1jHA7axBrDUrdRpQz",
+  "appleId": 1547098165,
+  "episodes": [
+    {
+      "id": "c394d667-48dd-4ba8-8954-d8d11b33dc1d",
+      "title": "Episode 235: Ben Meiselas",
+      "description": "We talk to Ben Meiselas of Meidas Touch podcast about Trump\u0027s alleged connections to Epstein and the response of the MAGA cult.",
+      "release": "2025-07-20T04:00:00Z",
+      "duration": "01:10:25.3060000",
+      "explicit": false,
+      "spotifyId": "3To7BXJMSoPjUdzi18tpAC",
+      "appleId": 1000718122583,
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3To7BXJMSoPjUdzi18tpAC",
+        "apple": "https://podcasts.apple.com/podcast/episode-235-ben-meiselas/id1547098165?i=1000718122583"
+      }
+    }
+  ]
+}

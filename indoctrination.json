@@ -1,11 +1,47 @@
 {
-  "_ts": 0,
   "id": "627f22f0-e33e-420d-8c2e-d6e29bf3d460",
   "name": "IndoctriNation",
   "spotifyId": "1prXo4iIxUfjYpfX671cUD",
   "appleId": 1373939526,
   "youTubeChannelId": "UC67JLTD22dSnVadqXKcYPcA",
   "episodes": [
+    {
+      "id": "f0e21ca7-d0d2-46c6-b12d-dcb7ff00f9ef",
+      "title": "The 5 D\u0027s of a Cult - Rachel Bernstein, LMFT, MSEd Cult Specialist",
+      "description": "In this video, we explore the characteristics and dangers of cults. The focus shifts away from blaming individuals and towards those orchestrating these manipulative groups. Learn about the 5 D\u0027s - Deception, Division, Dependency, Destruction, and Debilitation - and how they manifest in cultic groups. We delve into how these tactics are used to control members and the long-term damage they can cause. Also, discover ways to heal and recover from the impacts of being involved in a cult.\n\n00:00 Introduction and Personal Background\n00:08 Understanding Cults: Then and Now\n03:21 Deceptive Practices in Cults\n04:47 Divisiveness and Dependency in Cults\n07:11 Destruction and Debilitation in Cults\n08:35 Healing and Moving Forward\n11:41 Conclusion and Final Thoughts\n\n\nThe IndoctriNation Podcast is a weekly show covering cults, manipulators, \u0026 systems of control. Hosted by Rachel Bernstein LMFT, Cult Specialist.\nFeatured in The New York Times\n\nJoin Patreon: https://www.patreon.com/indoctrination\n\nFollow on social media: https://linktr.ee/indoctrination\n\nWebinars/Video Lectures: http://rachelbernsteintherapy.com/videos.html\n\nWhy Fear Makes Us Say \u0022Yes\u0022 When We Should Have Said \u0022No\u0022 (Free PDF): https://education.rachelbernsteintherapy.com/why-fear-makes-us-say-yes\n\nAm I Dating a Narcissist? (Free PDF) : https://education.rachelbernsteintherapy.com/am-i-dating-a-narcissist\n\nDo I Have a Safe Therapist (Free PDF): https://education.rachelbernsteintherapy.com/do-i-have-a-safe-therapist\n\n5 Signs of an Emotionally Manipulative Partner (Free PDF): https://education.rachelbernsteintherapy.com/five-signs-of-emotionally-manipulative-partner",
+      "release": "2025-07-25T21:45:01Z",
+      "duration": "00:12:20",
+      "explicit": false,
+      "youTubeId": "6kxsUnSg_RY",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology",
+        "Cult Recovery",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6kxsUnSg_RY"
+      }
+    },
+    {
+      "id": "df85c257-6af0-4797-907b-0d404be1d1d9",
+      "title": "Religious Reality: Inside the World of Jehovah\u2019s Witnesses with Lara Kaput",
+      "description": "In this insightful episode, Rachel Bernstein interviews Lara Kaput, a whistleblower and former Jehovah\u0027s Witness. Lara shares her journey from being born into the Jehovah\u0027s Witnesses to leaving at 19 and becoming an advocate for survivors of abuse within the organization. She discusses the emotional, psychological, and financial toll of being a whistleblower, including the lack of governmental and community support. Kaput also addresses issues like modern slavery, social isolation, and mental health challenges faced by Jehovah\u0027s Witnesses. The conversation highlights the power of speaking out, the underlying fear and control mechanisms within the group, and the importance of government submissions and witness testimonies in bringing about change. Inquiry into the recruitment methods and impacts of cults and organised fringe groups: https://www.parliament.vic.gov.au/cofg#:~:text=Snapshot%20of%20inquiry,about%20protecting%20people%20from%20harm Connect with us on social media: \u2060\u2060https://linktr.ee/indoctrination\u2060\u2060 Watch full video episodes of IndoctriNation here: \u2060\u2060https://www.youtube.com/playlist?list=PLNAi0T2hzH9dM029dkTfj635PzuXl67jS\u2060\u2060 Support IndoctriNation on Patreon for exclusive bonus episodes and more: https://www.patreon.com/indoctrination\u2060 Prefer to support the IndoctriNation show with a one-time donation? Use this link: https://www.paypal.biz/indoctriNATION Download Rachel\u2019s Video Lectures and Webinars here: https://rachelbernsteintherapy.com/videos.html IndoctriNation is edited by The Podcast Consultant: \u2060https://thepodcastconsultant.com/about Advertising Inquiries: https://redcircle.com/brands Privacy \u0026 Opt-Out: https://redcircle.com/privacy",
+      "release": "2025-07-23T14:00:49Z",
+      "duration": "01:16:06.0730000",
+      "explicit": false,
+      "spotifyId": "6sw9P8eUCP3plOv4LdOWH1",
+      "appleId": 1000718685452,
+      "youTubeId": "l_jiKoXVCP0",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6sw9P8eUCP3plOv4LdOWH1",
+        "apple": "https://podcasts.apple.com/podcast/religious-reality-inside-the-world-of-jehovahs/id1373939526?i=1000718685452",
+        "youtube": "https://www.youtube.com/watch?v=l_jiKoXVCP0"
+      }
+    },
     {
       "id": "ff4e9c5e-a047-428b-9386-869a78e02c7f",
       "title": "Unmasking Narcissism: The Hidden Truths of Manipulation with Dr. Peter Salerno",
@@ -5158,7 +5194,8 @@
       "youTubeId": "hR7tlOIZ9Ok",
       "subjects": [
         "Evangelicalism",
-        "Cult Recovery"
+        "Cult Recovery",
+        "C3 Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4NmnCvhhwgZm9fXlJ3KEdh",

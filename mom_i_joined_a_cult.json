@@ -1,10 +1,23 @@
 {
-  "_ts": 0,
   "id": "25108948-1687-4186-9617-3b47ac00044a",
   "name": "The Nice Cult Presents",
   "spotifyId": "4ALQPCNu2QLsDCXEhsYTzh",
   "appleId": 1565633523,
   "episodes": [
+    {
+      "id": "c60a5ae6-06ae-4b5a-8206-af8d7161385c",
+      "title": "The Greatest Night in Pop - Season 11 Episode 1",
+      "description": "This season we are dedicated to watching documentaries with you. Let us know what you thought about each documentary before we talk about it. The Greatest Night in Pop, is the story of how the song \u0022We Are The World\u0022 came to be. Over 40 of the greatest music artists of the time (and Steve Martin) came together for one night. This can be watched on Netflix.",
+      "release": "2025-07-24T23:49:16Z",
+      "duration": "00:52:22.2400000",
+      "explicit": false,
+      "spotifyId": "7wzgArkWkUNEGijw38mzag",
+      "appleId": 1000718921180,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7wzgArkWkUNEGijw38mzag",
+        "apple": "https://podcasts.apple.com/podcast/the-greatest-night-in-pop-season-11-episode-1/id1565633523?i=1000718921180"
+      }
+    },
     {
       "id": "ef31d0ff-8be3-4a87-b290-4471f15058d8",
       "title": "Ulysses S. Grant - Season 10 Episode 19",

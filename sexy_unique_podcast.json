@@ -1,0 +1,25 @@
+{
+  "id": "7378d361-6b0e-4030-a093-ba66a79c777d",
+  "name": "Sexy Unique Podcast",
+  "spotifyId": "72KwUG8XvMncTWqM32NOHH",
+  "appleId": 1199768588,
+  "episodes": [
+    {
+      "id": "0c876ce5-491b-4c9f-ba92-0c2831091e5c",
+      "title": "Cult of Body \u0026 Soul (SoulCycle Documentary)",
+      "description": "Introducing Cult of Body \u0026 Soul (new SoulCycle docu series). \u201CCult of Body \u0026 Soul\u201D is a docu-podcast series that explores how SOULCYCLE transcended fitness as it captured the New York City zeitgeist with ritual, candlelight, and cult of personality. Featuring interviews with instructors, studio managers, front desk staff, and corporate insiders \u2014 this is the story behind the brand that became the SoHo House of fitness. Listen on Apple Podcasts, Spotify, or Watch on YouTube Apple Podcasts: https://podcasts.apple.com/us/podcast/cult-of-body-soul/id1814921742 Spotify: https://open.spotify.com/show/5Uuyrffmf9LkvCKKqcgKV3?si=oy175GMNTkyS7-krtl54FA Watch on YouTube: https://www.youtube.com/watch?v=Mr-xXrYQCHg\u0026t=553s Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-22T06:00:00Z",
+      "duration": "00:52:01.3450000",
+      "explicit": false,
+      "spotifyId": "5ujfJMW6igMOAxHwKfG1HT",
+      "appleId": 1000718419029,
+      "subjects": [
+        "SoulCycle"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ujfJMW6igMOAxHwKfG1HT",
+        "apple": "https://podcasts.apple.com/podcast/cult-of-body-soul-soulcycle-documentary/id1199768588?i=1000718419029"
+      }
+    }
+  ]
+}

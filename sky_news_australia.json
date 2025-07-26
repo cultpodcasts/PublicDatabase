@@ -1,9 +1,24 @@
 {
-  "_ts": 0,
   "id": "853bee0e-fea9-4ad5-9839-d046bda49412",
   "name": "Sky News Australia",
   "youTubeChannelId": "UCO0akufu9MOzyz3nvGIXAAw",
   "episodes": [
+    {
+      "id": "94fdfe04-18ef-46eb-9e9b-0efd7797cc1b",
+      "title": "\u2018Definition of a cult\u2019: Australian Greens co-founder opens up about his expulsion from party",
+      "description": "Greens co-founder Drew Hutton meets with Sky News host Chris Kenny to examine the reasoning behind his expulsion from the Australian Greens Party.",
+      "release": "2025-07-22T08:08:33Z",
+      "duration": "00:07:23",
+      "explicit": false,
+      "youTubeId": "iplsa2tinwk",
+      "subjects": [
+        "Political Cult",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iplsa2tinwk"
+      }
+    },
     {
       "id": "1dbbdd9f-840e-4e48-a740-eca6b3fb2d01",
       "title": "Victorian parliamentary hearing into cult groups commences",

@@ -1,9 +1,23 @@
 {
-  "_ts": 0,
   "id": "7fc5adab-bfbf-4cc7-9b32-604fb5ecd099",
   "name": "The C.O. Visit",
   "youTubeChannelId": "UCIPy-c3Pdg1_tgssEejMAIg",
   "episodes": [
+    {
+      "id": "cd99def9-c9ca-4239-959a-eab6e47d14db",
+      "title": "Jehovah\u0026#39;s Witnesses: THE SHALLOW FAITH OF JWs.",
+      "description": "#exjehovahswitness #faith #jehovahwitnesses",
+      "release": "2025-07-23T23:00:06Z",
+      "duration": "00:17:02",
+      "explicit": false,
+      "youTubeId": "03oBxiooEpY",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=03oBxiooEpY"
+      }
+    },
     {
       "id": "b3e4b393-b3c9-402f-b5b7-e64e157bdddc",
       "title": "The C.O. Visit LIVE: MENTAL HEALTH",

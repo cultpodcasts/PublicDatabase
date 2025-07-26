@@ -1,10 +1,23 @@
 {
-  "_ts": 0,
   "id": "902ee797-b9d5-49b8-84ef-ccaae8fc7e41",
   "name": "The Scar Wars Podcast",
   "youTubeChannelId": "UCNLV4owf3PC9hCEuqd8qeeg",
   "youTubePlaylistId": "PLv1UXH-0WBMTSI-FLjUN-1UK0sFGKU4sl",
   "episodes": [
+    {
+      "id": "0b0e80c3-7788-4165-87f1-ac763241cbe2",
+      "title": "Talking about the sentencing..",
+      "release": "2025-07-25T19:05:27Z",
+      "duration": "00:06:35",
+      "explicit": false,
+      "youTubeId": "lJ-U92cstUU",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lJ-U92cstUU"
+      }
+    },
     {
       "id": "7550a24b-09ed-4c09-b430-aa12578eb911",
       "title": "Lori Vallow 2023 Trial Day 9 // Summer phone call // Ian testifies",

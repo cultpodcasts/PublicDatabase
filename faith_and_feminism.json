@@ -1,10 +1,23 @@
 {
-  "_ts": 0,
   "id": "71bb2f93-02fb-4f9b-be30-d7a671fc866e",
   "name": "Faith and Feminism",
   "spotifyId": "5dbvsM87ExeY3z1hP7OvK6",
   "appleId": 1438368947,
   "episodes": [
+    {
+      "id": "f08be190-16cd-40a0-998a-a6bf04dd7d4e",
+      "title": "Mother, Creature, Kin",
+      "description": "What can other-than-human creatures teach us about mothering, belonging, caregiving, loss, and resiliency? Chelsea Steinauer-Scudder answers these questions in a quest to learn how to mother in incredibly challenging times.",
+      "release": "2025-07-22T09:57:00Z",
+      "duration": "00:53:54",
+      "explicit": false,
+      "spotifyId": "2mUy9skHbLcYUh5WoWtusX",
+      "appleId": 1000718447653,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2mUy9skHbLcYUh5WoWtusX",
+        "apple": "https://podcasts.apple.com/podcast/mother-creature-kin/id1438368947?i=1000718447653"
+      }
+    },
     {
       "id": "9d095dc0-f007-4316-87bd-8069b199d952",
       "title": "Preventing Abuse and Fostering Healing in the Church",

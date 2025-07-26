@@ -1,9 +1,24 @@
 {
-  "_ts": 0,
   "id": "bfcddad3-db63-48d8-a2f1-653476a74046",
   "name": "Atrocity Guide",
   "youTubeChannelId": "UCn8OYopT9e8tng-CGEWzfmw",
   "episodes": [
+    {
+      "id": "4127cef8-4c8d-47af-b546-238c44a3fc14",
+      "title": "Master of the Temple: The Tragedy of Jack Parsons",
+      "description": "This video is a deep dive into the life of Jack Parsons--pioneer chemist, rocket scientist, and practitioner of the occult--whose sudden and unexpected end at the age of 37 left many lingering questions. \n\nEnd song performed by Prisoner\u0027s Cinema\nMusic produced by Dean Pool Productions\n\nFind out more about my three interviewees here:\nRoger Launius: www.launiusr.wordpress.com\nDavid Shoemaker: www.livingthelema.com\nPeter Grey: www.scarletimprint.com",
+      "release": "2025-07-20T17:29:10Z",
+      "duration": "02:01:54",
+      "explicit": false,
+      "youTubeId": "mxfSMcNP_HQ",
+      "subjects": [
+        "Ordo Templi Orientis",
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mxfSMcNP_HQ"
+      }
+    },
     {
       "id": "fd67535b-8df2-42ff-a73d-b03b56fe6a82",
       "title": "The Enlightenment Fraud of Zen Master Rama",

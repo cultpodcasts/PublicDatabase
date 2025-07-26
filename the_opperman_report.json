@@ -1,10 +1,27 @@
 {
-  "_ts": 0,
   "id": "7fac111e-063d-4cd6-8337-d23449f1dd1a",
   "name": "The Opperman Report",
   "spotifyId": "6jULai3JCSiCzoQWfuZk4F",
   "appleId": 975926302,
   "episodes": [
+    {
+      "id": "2d04d2db-2f95-4884-8cbb-125d97438e82",
+      "title": "Mike Codella NYPD Investigated Son of Sam Process Church Cult",
+      "description": "Mike Codella NYPD Investigated Son of Sam Process Church Cult Become a supporter of this podcast: https://www.spreaker.com/podcast/the-opperman-report--1198501/support .",
+      "release": "2025-07-21T23:00:07Z",
+      "duration": "02:00:07.4440000",
+      "explicit": false,
+      "spotifyId": "5WmJSKNk3X341NaY11SQMn",
+      "appleId": 1000718379604,
+      "subjects": [
+        "Process Church of the Final Judgement",
+        "David Berkowitz"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5WmJSKNk3X341NaY11SQMn",
+        "apple": "https://podcasts.apple.com/podcast/mike-codella-nypd-investigated-son-of-sam-process/id975926302?i=1000718379604"
+      }
+    },
     {
       "id": "a1034b93-e2ce-48af-a934-abbeb5e04ab9",
       "title": "The Cult of Trump - A Leading Cult Expert Explains How the President Uses Mind Control",

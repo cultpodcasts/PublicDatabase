@@ -1,9 +1,40 @@
 {
-  "_ts": 0,
   "id": "01c022d8-49f5-409b-a622-8e619af39fb2",
   "name": "Citizen TV Kenya",
   "youTubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
   "episodes": [
+    {
+      "id": "3ed3558c-c14e-4d29-bd9a-d7099f995b55",
+      "title": "Malindi cult fears grow as 48 reported Missing, secret burials suspected",
+      "description": "Fears that six children from one family are among dozens who have died in what appears to be a fresh wave of the shakahola massacre. A close relative, who spoke to the children\u2019s parents and the leaders suspected to be behind this second round of killings says the parents themselves confirmed the deaths. Human rights activists now claim more than forty people could have been killed and secretly buried in kwa Binzaro since March.",
+      "release": "2025-07-23T18:26:41Z",
+      "duration": "00:04:11",
+      "explicit": false,
+      "youTubeId": "f2TvinVZkQ8",
+      "subjects": [
+        "Good News International Ministries",
+        "New Foundation Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=f2TvinVZkQ8"
+      }
+    },
+    {
+      "id": "c4963f31-596e-4320-9bce-45f12834dfe8",
+      "title": "Another cult in Shakahola?",
+      "description": "TONIGHT, DISTURBING DEVELOPMENTS OUT OF KILIFI COUNTY ARE REIGNITING FEARS THAT THE HORROR OF THE SHAKAHOLA TRAGEDY MAY NOT BE OVER. ALMOST TWO YEARS SINCE THE HORRIFYING DISCOVERY OF MASS GRAVES IN SHAKAHOLA FOREST,THERE ARE RENEWED CASES OF CULT-PRACTICES  AFTER  AUTHORITIES  RECOVERED ONE BODY AND RESCUED FOUR EMACIATED INDIVIDUALS , JUST KILOMETERS FROM THE ORIGINAL SHAKAHOLA SITE. EVEN MORE UNSETTLING, AMONG THOSE ARRESTED ARE A HUSBAND AND WIFE WHO ARE FORMER VICTIMS OF THE SHAKAHOLA CULT, WHO VANISHED FROM THEIR HOME IN SIAYA COUNTY AND RETURNED TO THE FOREST",
+      "release": "2025-07-20T18:29:05Z",
+      "duration": "00:03:33",
+      "explicit": false,
+      "youTubeId": "9kzdc4Bc-xU",
+      "subjects": [
+        "Good News International Ministries",
+        "New Foundation Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9kzdc4Bc-xU"
+      }
+    },
     {
       "id": "951f9551-3aa3-4b36-ab31-5151605e18d8",
       "title": "Family in search of kin who joined cult-like church",

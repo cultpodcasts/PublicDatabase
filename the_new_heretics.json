@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "559b5aee-1658-45df-a598-90ed25f1ad28",
   "name": "The New Heretics",
   "spotifyId": "6KJ1dAPrURoi63IbooJYFZ",
   "appleId": 1741668169,
   "youTubeChannelId": "UCGafMnS_2Mjic6DI98L39tg",
   "episodes": [
+    {
+      "id": "6dbfca3f-f3c3-4b2e-bd83-a2f214b4498f",
+      "title": "Transcending the Matrix | ft. exJW Lloyd Evans",
+      "description": "Longtime cult activist and former Jehovah\u0027s Witness Lloyd Evans joins The New Heretics to discuss cult deconstruction, the benefits of psychedelics, and the complicated nature of reality and perception. \n\nFor a wealth of JW counter-apologetics and cult activist content, please visit The Lloyd Evans Channel and consider donating to the cause. \n\nYouTube: https://www.youtube.com/@LloydEvans\nPatreon: https://www.patreon.com/cedars",
+      "release": "2025-07-24T19:08:50Z",
+      "duration": "01:49:51.7440000",
+      "explicit": false,
+      "spotifyId": "4szbQf5RXq1hZBsGOwcKJg",
+      "appleId": 1000718891627,
+      "youTubeId": "8reRYpp4KCA",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4szbQf5RXq1hZBsGOwcKJg",
+        "apple": "https://podcasts.apple.com/podcast/transcending-the-matrix-ft-exjw-lloyd-evans/id1741668169?i=1000718891627",
+        "youtube": "https://www.youtube.com/watch?v=8reRYpp4KCA"
+      }
+    },
     {
       "id": "8106e0f1-db18-4dbf-b1bb-aa8d4c2516ef",
       "title": "Exposing the Whitmore Family Cult | ft. exMo Logan",

@@ -1,11 +1,37 @@
 {
-  "_ts": 0,
   "id": "46e3d16f-f8fe-4b76-b1b4-5d279062a966",
   "name": "Generation Cult",
   "spotifyId": "1rP7SzbAYNJURd7QTq5UAa",
   "appleId": 1387341884,
   "youTubeChannelId": "UCzlGpYKYNjA79d4fdGfB2FA",
   "episodes": [
+    {
+      "id": "b15ffc39-f1d6-456e-bf20-fdc7ce88b29e",
+      "title": "**Live Show in San Francisco: Season 4 finale**",
+      "description": "Generation Cult\u0027s live show and literary event happened on stage at The Lost Church San Francisco in front of a fabulous audience on June 26, 2025. If you missed it, you\u0027re in luck because the recording is finally out now!\r\n\r\n It was a late night in North Beach deep down in the Victorian speakeasy-style venue that hosted our show and book signing featuring the three authors who were our guests: Sarito Carroll, Anke Richter and Janja Lalich. Host Dhyana Levey moderated the discussion about children raised in cults, the authors\u0027 books, and what to watch out for in a potentially abusive group.\r\n\r\n Sure, the conversations got a bit intense. But everyone still had a good time. How could we not with Johnny Tripod bartending and cool tunes on the sound system by local SF Bay Area band The Chaw?\r\n\r\n Sarito celebrated the release of her new memoir, In the Shadow of Enlightenment, detailing her upbringing in the Osho Rajneesh cult 40 years after the infamous commune\u2019s collapse. And, yeah, we talked a little about the Netflix documentary \u0022Wild Wild Country\u0022 and its star Ma Anand Sheela ... but there is just so much more to this story. You\u0027ll have to listen to this episode and read Sarito\u0027s book to find out. saritocarroll.com\r\n\r\n We also got a big-time expert to weigh in on our discussions and share a bit about the harsh political cult she spent a decade in. Researcher, educator and author Janja Lalich graced the stage with insight and stayed overtime to sign her book Escaping Utopia, based on interviews with 65 people who grew up in high-demand groups. janjalalich.com\r\n\r\n And tying the whole night together, we had German investigative journalist and author Anke Richter in town to visit all the way from her home base in New Zealand. Her book Cult Trip: Inside the world of coercion \u0026amp; control (Harper Collins), researched the aftermath of sex cults around the world.  ankerichter.net\r\n\r\n What a night! And you didn\u0027t even have to buy tickets. Enjoy the Generation Cult podcast Season 4 finale recorded in front of a live audience.\r\n\r\n Includes discussions of child sexual abuse, please listen with discretion\r\n\r\n *stage recording by Peter Clarke\r\n\r\n *set up/other audio by Brett Cline\r\n\r\n *editing by Dhyana Levey\r\n\r\n *photography by Laura Casey and Nic Roethlisberger\r\n\r\n *music by The Chaw",
+      "release": "2025-07-23T07:31:16Z",
+      "duration": "01:22:36.9170000",
+      "explicit": true,
+      "spotifyId": "59J7h1ayVjaVh3nT53Ca3I",
+      "appleId": 1000718615263,
+      "youTubeId": "ncl5EI5XIy4",
+      "subjects": [
+        "Bhagwan Shree Rajneesh",
+        "Cult-Expert",
+        "Political Cult",
+        "Democratic Workers Party",
+        "Agama Yoga",
+        "Centrepoint",
+        "Cult Apologists",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/59J7h1ayVjaVh3nT53Ca3I",
+        "apple": "https://podcasts.apple.com/podcast/live-show-in-san-francisco-season-4-finale/id1387341884?i=1000718615263",
+        "youtube": "https://www.youtube.com/watch?v=ncl5EI5XIy4"
+      }
+    },
     {
       "id": "07e96eda-7a38-4440-b42e-0a29a46511f5",
       "title": "Opening the 2X2s Floodgates with Mike",

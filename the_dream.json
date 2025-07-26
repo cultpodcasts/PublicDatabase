@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "3c3384ac-3d7b-4bd3-98ca-4a507d8b36d2",
   "name": "The Dream",
   "spotifyId": "69SbOSdWtOYpJArpX6KczL",
   "appleId": 1435743296,
   "episodes": [
+    {
+      "id": "e70a122a-188b-4953-bd27-8e9604cc606d",
+      "title": "Which Lords Work?",
+      "description": "This week, host Jane Marie talks to Julie Jo, a former top MLM distributor who found herself one rung from the top of the pyramid and realized that was too far to fall. \n\nYou can find more from Julie Jo here:\nYouTube: @juliejo\nInstagram: @walkin_on_lexapro\n Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-26T02:40:16Z",
+      "duration": "00:36:40",
+      "explicit": false,
+      "spotifyId": "4is4haboCL7df7xEkIFDue",
+      "appleId": 1000719061001,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4is4haboCL7df7xEkIFDue",
+        "apple": "https://podcasts.apple.com/podcast/which-lords-work/id1435743296?i=1000719061001"
+      }
+    },
     {
       "id": "862bb02e-ed5f-409a-9e04-f454677c10cb",
       "title": "The Wellness Institute",

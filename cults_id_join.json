@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "85127ebc-7d47-4883-9f9b-2be3a47e436b",
   "name": "Cults I\u0027d Join",
   "spotifyId": "6kGY4WYJIzR4E6dbBsC9af",
   "appleId": 1661064678,
   "episodes": [
+    {
+      "id": "707960ca-376f-4672-a62e-14e201c7be99",
+      "title": "The Catholic Workers",
+      "description": "Don\u0027t let the name fool you-- Catholic Workers are some BA MFer\u0027s. Join us on our morally unimpeachable crime spree as we join a fabulous part of the communities movement-- and they\u0027re approaching their centennial birthday! Original song and performance by Devon Sproule Love Cults I\u0027d Join? Want to join all the communal fun with us? *Subscribe to the pod on all pod platforms! *Rate and review us on Google (please and thank you)! *Follow us on the social medes... we\u0027re @ cultsidjoin.com, and Cults I\u0027d Join on FB and Insta! *Share us with your cool friends (only the cool ones, please). Those tax-free compound payments aren\u0027t going to make themselves! You can find Ameran on the Insta @ amawren You can find Jesse on all the things @ lewdlinens Super special thanks to our theme song creator, the incomparable Mz. Devon Sproule, we are lucky ducks to have a piece of her sweet sound on our show!",
+      "release": "2025-07-22T09:00:00Z",
+      "duration": "01:40:09.9390000",
+      "explicit": false,
+      "spotifyId": "6cmxJ5ZV3HPxofEMDE0184",
+      "appleId": 1000718441829,
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6cmxJ5ZV3HPxofEMDE0184",
+        "apple": "https://podcasts.apple.com/podcast/the-catholic-workers/id1661064678?i=1000718441829"
+      }
+    },
     {
       "id": "1409b9aa-65f2-42cf-a1bf-0ccf6244d004",
       "title": "The Weather Underground",

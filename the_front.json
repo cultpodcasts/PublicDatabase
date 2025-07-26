@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "a9052051-d8c1-4c69-b3a2-56b4c27188e7",
   "name": "The Front",
   "spotifyId": "56oUlYWXspZD9xJxb5lLXW",
   "appleId": 1614339406,
   "episodes": [
+    {
+      "id": "d033aef7-4cd5-43cd-bbf0-1cd2b373e794",
+      "title": "The old-school Greens getting expelled from their own party",
+      "description": "Drew Hutton says the party he co-founded has become a \u2018cult\u2019. We unpack how he was kicked to the curb \u2013 and why he\u2019s vowing revenge. Find out more about The Front podcast here . You can read about this story and more on The Australian\u0027s website or on The Australian\u2019s app. This episode of The Front is presented by Claire Harvey, produced by Kristen Amiet and edited by Tiffany Dimmack. Our team includes Lia Tsamoglou, Joshua Burton, Stephanie Coombes and Jasper Leak, who also composed our music. See omnystudio.com/listener for privacy information.",
+      "release": "2025-07-22T17:00:00Z",
+      "duration": "00:12:41.0250000",
+      "explicit": false,
+      "spotifyId": "7JIVnPH6Ejn4QWVuN2CTjR",
+      "appleId": 1000718490915,
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7JIVnPH6Ejn4QWVuN2CTjR",
+        "apple": "https://podcasts.apple.com/podcast/the-old-school-greens-getting-expelled-from-their-own-party/id1614339406?i=1000718490915"
+      }
+    },
     {
       "id": "267a00fe-d68e-47c9-b6c3-37c27ac864f5",
       "title": "The Vatican trial that\u2019s stranger than fiction",

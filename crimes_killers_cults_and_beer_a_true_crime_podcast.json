@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "d12cde2f-3011-4bf2-a8ab-3ef321b6f7d6",
   "name": "Crimes, Killers, Cults and Beer: A True Crime Podcast",
   "spotifyId": "1aCCu8eZ7BjGMVhitQoeaj",
   "appleId": 1616987023,
   "youTubeChannelId": "UCUyuqDB2Dlszhpc_pGca29w",
   "episodes": [
+    {
+      "id": "c72bfe5d-0220-4383-a151-b1e809ddb41a",
+      "title": "CKCB Features, EP 12: 2 Faith Assembly Cult Survivors Discuss It",
+      "description": "Bill is joined by Andy, a fellow Faith Assembly Cult Survivor. They discuss the horrors of growing up in that cult. Its intense. Don\u0027t miss this one! Got a beer you want Doug to review? Send him an email at ckcbeer@gmail.com Any other podcastcorrespondence, send it to ckcbpodcast@gmail.com https://www.instagram.com/crimeskillerscultsandbeer/ https://twitter.com/CKC_Beer https://www.youtube.com/channel/UCUyuqDB2Dlszhpc_pGca29whttps://www.facebook.com/groups/257328477392782/",
+      "release": "2025-07-21T07:58:13Z",
+      "duration": "02:22:58.0460000",
+      "explicit": true,
+      "spotifyId": "1IG83Q3P2i2henduaxmoRw",
+      "appleId": 1000718258709,
+      "youTubeId": "trrLIr7Q5Ds",
+      "subjects": [
+        "Faith Assembly"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1IG83Q3P2i2henduaxmoRw",
+        "apple": "https://podcasts.apple.com/podcast/ckcb-features-ep-12-2-faith-assembly-cult-survivors/id1616987023?i=1000718258709",
+        "youtube": "https://www.youtube.com/watch?v=trrLIr7Q5Ds"
+      }
+    },
     {
       "id": "3c7f61ce-d374-4388-9243-910d775befc7",
       "title": "152 Sheryl Ruthven and her Doomsday Cat Cult, Part 2",

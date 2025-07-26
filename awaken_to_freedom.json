@@ -1,10 +1,43 @@
 {
-  "_ts": 0,
   "id": "74d1a191-be0b-41f4-ab3e-aa4a407fd18d",
   "name": "Awaken to Freedom",
   "spotifyId": "2uUNtNxrBMn2FwMGYwgmY4",
   "youTubeChannelId": "UCsFKdyJwjygw0qZ9abQSEGA",
   "episodes": [
+    {
+      "id": "fcb78005-0b01-4d36-b161-4683453bc9b5",
+      "title": "PART 2 From Witness to Warrior, Shannon\u0027s Story of Survival",
+      "description": "* CW this episode contains sensitive topics of abuse. Viewer discretion is advised.***Technical Disclaimer**\nThis episode may contain preliminary audio, visual, and editing elements, as we are still optimizing our production quality. We appreciate your understanding as we work to improve.\n\nEpisode 17 \n\nPART 2 \nShannon Avery Briggs shares a profound journey of resilience through religious trauma, domestic violence and personal growth. She recounts her experiences with Jehovah\u0027s Witnesses, the challenges of an abusive relationship, her path to self discovery and healing. Shannon discusses the importance of seeking help, the impact of counselling, and her journey through cancer, ultimately leading to a deeper understanding of herself and her emotional health This conversation highlights the significance of community support and the ongoing journey of empowerment and recovery. Shannon\u0027s Book, Triumph over Darkness: My Journey  is available under recommended reads at www.awakentofreedom.ca  If you would like to work with Shannon,  please visit the professional resources page at www.awakentofreedom.ca",
+      "release": "2025-07-25T00:58:59Z",
+      "duration": "00:39:50",
+      "explicit": false,
+      "youTubeId": "3m6yTGsqyhI",
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3m6yTGsqyhI"
+      }
+    },
+    {
+      "id": "c026126a-577c-4ebb-ac71-b2c57466566c",
+      "title": "From Witness to Warrior - Shannon\u0027s story of Survival PART 1",
+      "description": "* CW this episode contains sensitive topics of abuse. Viewer discretion is advised.***Technical Disclaimer**\nThis episode may contain preliminary audio, visual, and editing elements, as we are still optimizing our production quality. We appreciate your understanding as we work to improve.\n\nEpisode 16\n\nShannon Avery Briggs shares a profound journey of resilience through religious trauma, domestic violence and personal growth. She recounts her experiences with Jehovah\u0027s Witnesses, the challenges of an abusive relationship, her path to self discovery and healing. Shannon discusses the importance of seeking help, the impact of counselling, and her journey through cancer, ultimately leading to a deeper understanding of herself and her emotional health This conversation highlights the significance of community support and the ongoing journey of empowerment and recovery. Shannon\u0027s Book, Triumph over Darkness: My Journey  is available under recommended reads at www.awakentofreedom.ca  If you would like to work with Shannon,  please visit the professional resources page at www.awakentofreedom.ca",
+      "release": "2025-07-23T14:30:20Z",
+      "duration": "01:08:21",
+      "explicit": false,
+      "youTubeId": "EiqJ-UHmk-Q",
+      "subjects": [
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=EiqJ-UHmk-Q"
+      }
+    },
     {
       "id": "6aebf971-9f70-484b-b20d-9104c289974d",
       "title": "No Turning Back: Escaping Toxicity and Embracing Self-Love with Masako",

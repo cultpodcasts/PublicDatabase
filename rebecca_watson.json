@@ -1,9 +1,23 @@
 {
-  "_ts": 0,
   "id": "52471304-f09d-4dc7-b73c-707a634e797b",
   "name": "Rebecca Watson",
   "youTubeChannelId": "UCFJxE0l3cVYU4kHzi4qVEkw",
   "episodes": [
+    {
+      "id": "7023e807-deb3-40ab-875c-efe29e30dd41",
+      "title": "The Fascist Cult Behind the Latest \u0022Trump Stole the Election\u0022 Claim",
+      "release": "2025-06-26T17:34:43Z",
+      "duration": "00:14:27",
+      "explicit": false,
+      "youTubeId": "dLxQo_aXhw0",
+      "subjects": [
+        "LaRouche Movement",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dLxQo_aXhw0"
+      }
+    },
     {
       "id": "15103c5a-683a-4ced-a866-ca4999fd1791",
       "title": "The \u0022Rationalist\u0022 Death Cult Now Spreading Mayhem in the US",

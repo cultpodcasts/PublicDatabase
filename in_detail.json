@@ -1,0 +1,26 @@
+{
+  "id": "5deff804-cdc7-496e-9e0d-bd29e246b3d4",
+  "name": "In Detail...",
+  "spotifyId": "0aThRr8LBt7LZDWdL9t0VG",
+  "appleId": 1781007323,
+  "episodes": [
+    {
+      "id": "7ed1d610-66c7-4953-b620-39ff94487eba",
+      "title": "Introducing... The Jesus Army Cult",
+      "description": "Uncovering the rise and unravelling of one of the biggest religious cults in Britain. Exploring the controversies, abuses and lasting scars left on those who lived within it. Diving deep into the Fellowship Church and the \u0027Jesus Army\u0027, led by Baptist evangelical maverick Noel Stanton in the Northamptonshire village of Bugbrooke. Devotees gave up their homes, their money and in some cases their family to live in Noel\u2019s \u0027heaven on earth\u0027 where everything was shared \u2013 even children. Presenter Annabel Amos grew up in a village 5 minutes away from where this all began, as ex-members and survivors share their stories she has realised she knew little of the horrors lurking behind a promise of faith. Presenter: Annabel Amos. Producer: Ellena Wood, Tim Wheeler and Sarah-Jane Muddiman. Writer: Tim Wheeler with additional scripting by Jack Kibble White. Story consultant: Jack Kibble White. Sound design: Meic Parry. Sounds producer: Alex Huxley. Online Producer: Rachael Smith. Executive Producer: Anna Bartlett and Katie Buchanan. Commissioning Editor: Alistair Miskin. For help and information on issues covered in this series, visit bbc.co.uk/actionline.",
+      "release": "2025-07-24T16:30:00Z",
+      "duration": "00:02:52.8200000",
+      "explicit": false,
+      "spotifyId": "6GlTaVIcJeZ1zefEoPuMgh",
+      "appleId": 1000718869997,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6GlTaVIcJeZ1zefEoPuMgh",
+        "apple": "https://podcasts.apple.com/podcast/introducing-the-jesus-army-cult/id1781007323?i=1000718869997",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0lrwcf4"
+      }
+    }
+  ]
+}

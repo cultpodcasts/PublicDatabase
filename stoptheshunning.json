@@ -1,9 +1,36 @@
 {
-  "_ts": 0,
   "id": "7054ea4b-3d9d-4202-917f-7025e4644800",
   "name": "stoptheshunning",
   "youTubeChannelId": "UCdj8K4bOaBGkHqQ2eJcq7ww",
   "episodes": [
+    {
+      "id": "ab839497-620d-4322-b420-e2f46bad2727",
+      "title": "If You\u0027re Fading and Dating...",
+      "release": "2025-07-23T17:00:01Z",
+      "duration": "00:09:40",
+      "explicit": false,
+      "youTubeId": "235f2iFcM2M",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=235f2iFcM2M"
+      }
+    },
+    {
+      "id": "c59a08f3-cb04-461f-8920-a827dd7b1964",
+      "title": "Some \u0022Ex\u0022 JWs Can\u0027t Stop Judging Others",
+      "release": "2025-07-19T19:00:01Z",
+      "duration": "00:08:36",
+      "explicit": false,
+      "youTubeId": "y4jqzhRdrIE",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=y4jqzhRdrIE"
+      }
+    },
     {
       "id": "b7d8465a-6d98-4017-a5f8-435bfbf62ce7",
       "title": "I REFUSED to Raise My Kids as Jehovah\u0027s Witnesses ft. Alissa Watson",

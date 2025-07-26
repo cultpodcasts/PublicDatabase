@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "a9ad3e63-eba0-4e2a-b1b9-adfc1bc33618",
   "name": "American Scandal",
   "spotifyId": "4sUfdePkKVTU0tciTetaau",
   "appleId": 1435516849,
   "episodes": [
+    {
+      "id": "b8128aa4-b3e4-4d1a-b989-a7a723527a3e",
+      "title": "Ruby Ridge Standoff | Deadly Force | 3",
+      "description": "In the fallout of the initial gun battle, the government sends dozens of highly-armed agents to Ruby Ridge. But as they work under a fog of bad information, FBI leadership takes the extraordinary step of altering their rules of engagement, leading to more bloodshed. Be the first to know about Wondery\u2019s newest podcasts, curated recommendations, and more! Sign up now at https://wondery.fm/wonderynewsletter Listen to American Scandal on the Wondery App or wherever you get your podcasts. Experience all episodes ad-free and be the first to binge the newest season. Unlock exclusive early access by joining Wondery\u0026#43; in the Wondery App, Apple Podcasts or Spotify. Start your free trial today by visiting wondery.com/links/american-scandal/ now. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2025-07-22T07:01:00Z",
+      "duration": "00:42:11.2390000",
+      "explicit": false,
+      "spotifyId": "6TskkcUyt3EuPoaxazO5xC",
+      "appleId": 1000715602736,
+      "subjects": [
+        "Ruby Ridge"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6TskkcUyt3EuPoaxazO5xC",
+        "apple": "https://podcasts.apple.com/podcast/ruby-ridge-standoff-deadly-force/id1435516849?i=1000715602736"
+      }
+    },
     {
       "id": "9270764f-e654-432c-a18e-cb2e85c8d640",
       "title": "Ruby Ridge Standoff | Northern Exposure",

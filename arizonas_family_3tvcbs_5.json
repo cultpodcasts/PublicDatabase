@@ -1,9 +1,23 @@
 {
-  "_ts": 0,
   "id": "e8770799-72c5-4470-8085-d78a02ffc1d2",
   "name": "Arizona\u2019s Family (3TV / CBS 5)",
   "youTubeChannelId": "UCIrgpHvUm1FMtv-C1xwkJtw",
   "episodes": [
+    {
+      "id": "6d06b7bf-44d3-4ee6-bb6a-807c3210ea2d",
+      "title": "Lori Vallow gives final interview before sentencing of Arizona cases",
+      "description": "Lori Vallow Daybell denied responsibility for the deaths of children, claiming the media distorted the truth in her final interview before sentencing.\r\n  \r\n For more Local News from KPHO:  https://www.azfamily.com/\r\n For more YouTube Content: https://www.youtube.com/channel/UCIrgpHvUm1FMtv-C1xwkJtw",
+      "release": "2025-07-25T05:48:24Z",
+      "duration": "00:05:12",
+      "explicit": false,
+      "youTubeId": "x_cJCw5bTvs",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=x_cJCw5bTvs"
+      }
+    },
     {
       "id": "912e5a17-408c-4eef-943c-4595cb268a31",
       "title": "Judgement Day: The Lori Vallow Trial | special report",

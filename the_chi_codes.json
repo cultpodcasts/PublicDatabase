@@ -1,11 +1,25 @@
 {
-  "_ts": 0,
   "id": "95e5b145-9807-45fc-a025-b2cbaae901c2",
   "name": "The Chi Codes",
   "spotifyId": "2efQRWLA7rtsAQ5Xfqsit1",
   "appleId": 1764092148,
   "youTubeChannelId": "UCFxlPi-eWh4AmucpGmTdPXA",
   "episodes": [
+    {
+      "id": "0e3d75db-ead4-45fa-ba7a-56140d8739da",
+      "title": "Escaping FLDS and Turning Pain into Purpose | Thomas Dockstader on The Jimmy Rex Show",
+      "description": "I sit down with Jimmy Rex to share the unfiltered story of running away from the FLDS community at 18, battling addiction, and rebuilding my life through sobriety, inner work, and a powerful Ayahuasca breakthrough. We dive into how those experiences sparked my mission\u2014the Chi Codes\u2014to guide others toward healing and purpose. If you\u2019ve ever felt trapped by your past, this conversation proves transformation is possible. Watch, reflect, and let me know what resonates with you in the comments.",
+      "release": "2025-07-25T21:59:45Z",
+      "duration": "01:02:37",
+      "explicit": false,
+      "youTubeId": "jL__ACIH8rc",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jL__ACIH8rc"
+      }
+    },
     {
       "id": "678805eb-e4f5-419a-9831-ef7332f2772f",
       "title": "11. Rising Through Resilience: Kandi Bateman\u2019s Journey from FLDS Life to Cancer Survivor",

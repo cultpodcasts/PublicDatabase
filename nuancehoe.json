@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "123c6578-4442-4e6d-af0b-dbbdaa47c2e1",
   "name": "The Mormon History Hoedown",
   "spotifyId": "5LwwZBSKGDmFdZlOjdZ0dc",
@@ -7,6 +6,20 @@
   "youTubeChannelId": "UCAib1bMCLZh9Ln0Uq62xxjw",
   "youTubePlaylistId": "PLuy6o0h_53SRqCtliyOtnjBMQeALARj33",
   "episodes": [
+    {
+      "id": "3c0023a0-9fc0-4eda-aa7d-6a65bbc3b5c0",
+      "title": "What Were We Made For? ExMormon ExTrad Wife Struggles",
+      "release": "2025-07-20T18:30:16Z",
+      "duration": "00:08:12",
+      "explicit": false,
+      "youTubeId": "ksdOyFEB5mY",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ksdOyFEB5mY"
+      }
+    },
     {
       "id": "94b80bb8-dbb0-468d-b499-de27ac0f1043",
       "title": "IT\u0027S HERE: Mormon Nazis (w/Kwaku El)",

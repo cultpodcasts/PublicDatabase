@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "9c7061c3-860d-4e88-95ec-b56dd2e920c2",
   "name": "Wetwired",
   "spotifyId": "2Dg8yczYq7ZC1nuNMaxiDF",
@@ -51,14 +50,12 @@
       "explicit": false,
       "spotifyId": "1UARvBSdeVDPuVzgFs1a4t",
       "appleId": 1000618662372,
-      "youTubeId": "V9E7NOjT-0c",
       "subjects": [
         "Troubled Teen Industry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1UARvBSdeVDPuVzgFs1a4t",
-        "apple": "https://podcasts.apple.com/podcast/premium-episode-19-cults-and-the-troubled-teen/id1593022493?i=1000618662372",
-        "youtube": "https://www.youtube.com/watch?v=V9E7NOjT-0c"
+        "apple": "https://podcasts.apple.com/podcast/premium-episode-19-cults-and-the-troubled-teen/id1593022493?i=1000618662372"
       }
     },
     {

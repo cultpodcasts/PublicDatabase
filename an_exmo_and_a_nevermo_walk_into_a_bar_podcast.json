@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "476996ee-e327-495f-9d8b-f32d7348a7b5",
   "name": "An Ex-Mo and a Never-Mo Walk Into a Bar... Podcast",
   "spotifyId": "0Bntw7kSgnqJhn2bDRQV1k",
@@ -7,20 +6,37 @@
   "youTubeChannelId": "UCBP-YKtljlv5Eq4qT6fItog",
   "episodes": [
     {
-      "id": "6d49d21e-523f-484b-9f0a-a2eace047040",
-      "title": "Season 2, Ep. 6 - Trans-Gression in Mormonism",
-      "description": "Source:\nhttps://www.podbean.com/eau/pb-k5s55-1908f5c\n\nIn this episode, roles are reversed as Ren\u00E9 takes on the role of cohost and Jaime becomes the guest. Jaime describes the challenges of being a transwoman in predominantly Mormon culture.",
-      "release": "2025-07-16T18:03:37Z",
-      "duration": "01:07:10",
+      "id": "47bcea16-1c12-4316-9414-c88d991bdd43",
+      "title": "Let\u0027s Talk About Mental Health, Baby!",
+      "description": "In this episode, an ExMo and a NeverMo and another ExMo talk about the effects of Mormonism on mental health. Buckle up for some deep conversations, laughter, and an announcement about the future of the podcast!\n\nRecorded at Land of a Thousand Hills in South Jordan, UT, this podcast is NOT intended to strengthen the faith of members of The Church of Jesus Christ of Latter-Day Saints. Listener discretion is advised.\n \n***WARNING: This podcast is created for adult audiences only. Content warnings for this episode include explicit language.\n\nOur website www.twonomos.com is still under construction. Until it\u0027s published...\n\nFollow Two NoMos on Facebook\nFollow Kate on TikTok, YouTube, and Instagram @Midlife Exmo\nFollow Erika on TikTok as @imerikana or on her blog at www.erikarachelstone.com\nFollow Ren\u00E9 on TikTok as Go Gray Dame and follower her podcast, She Became Visible here: https://podcasts.apple.com/us/podcast/she-became-visible/id1620041558\n \n#exmormon #nevermomon #mormonculture #utahculture #thechurchofjesuschristoflatterdaysaints",
+      "release": "2025-07-26T00:08:51Z",
+      "duration": "01:24:26",
       "explicit": false,
-      "appleId": 1000717557649,
-      "youTubeId": "mLO_O8XEgmw",
+      "appleId": 1000719050564,
+      "youTubeId": "cXEghSVBV5A",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
-        "apple": "https://podcasts.apple.com/podcast/season-2-ep-6-trans-gression-in-mormonism/id1791618379?i=1000717557649",
-        "youtube": "https://www.youtube.com/watch?v=mLO_O8XEgmw"
+        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-mental-health-baby/id1791618379?i=1000719050564",
+        "youtube": "https://www.youtube.com/watch?v=cXEghSVBV5A"
+      }
+    },
+    {
+      "id": "5a702c43-ac59-419d-bf4b-65afd98d3f91",
+      "title": "Season 2, Ep. 7 - Trans-Gression in Mormonism",
+      "description": "In this episode, roles are reversed as Ren\u00E9 takes on the role of cohost and Jaime becomes the guest. Jaime describes the challenges of being a transwoman in predominantly Mormon culture.\u00A0",
+      "release": "2025-07-16T18:03:37Z",
+      "duration": "01:07:10",
+      "explicit": false,
+      "appleId": 1000717557649,
+      "youTubeId": "nShlAYV2vCs",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/season-2-ep-7-trans-gression-in-mormonism/id1791618379?i=1000717557649",
+        "youtube": "https://www.youtube.com/watch?v=nShlAYV2vCs"
       }
     },
     {

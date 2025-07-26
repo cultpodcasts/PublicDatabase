@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "ab207ef0-bf72-46dd-9e11-539316db1602",
   "name": "Heaven Bent",
   "spotifyId": "7tRJcheTT2UxoGz7ujH8Vo",
   "appleId": 1513489117,
   "youTubeChannelId": "UCqFAr-WST8nyqrsoFcdv-eA",
   "episodes": [
+    {
+      "id": "44b2d7c9-3370-4dd2-a2c0-f0fde6a7764f",
+      "title": "Heaven Bent Headlines: 7.25.25",
+      "description": "Join Tara Jean as she unpacks this week\u0027s headlines from the Heaven Bent universe. New episodes every Friday. This week: Sean Feucht\u0027s cold reception in Canada, Art Lucier\u0027s new public statement, and the new documentary series about \u0027Teen Mania\u0027. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-25T10:00:00Z",
+      "duration": "00:18:34.1740000",
+      "explicit": false,
+      "spotifyId": "5SrFgeVWp5CktSBmyZQPN5",
+      "appleId": 1000718970764,
+      "subjects": [
+        "Bethel Church (Redding CA)",
+        "New Apostolic Reformation",
+        "Teen Mania Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5SrFgeVWp5CktSBmyZQPN5",
+        "apple": "https://podcasts.apple.com/podcast/heaven-bent-headlines-7-25-25/id1513489117?i=1000718970764"
+      }
+    },
     {
       "id": "8689748b-817c-44ad-bc9f-1d64cb89d461",
       "title": "Heaven Bent Headlines 7.18.25",

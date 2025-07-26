@@ -1,9 +1,27 @@
 {
-  "_ts": 0,
   "id": "9c5c39ca-f0ab-4c1b-af9f-7bfb4bf0fdcb",
-  "name": "The\u00A0Religion and Ethics Report - Full program podcast",
+  "name": "The Religion and Ethics Report",
   "appleId": 499968301,
   "episodes": [
+    {
+      "id": "ffa979b5-bd7b-4d1e-9037-f983cd8e1ebc",
+      "title": "South Korean cults, and the hero chaplain at Gallipoli",
+      "description": "South Korea is one of the great success stories of the past 30 years, moving from military dictatorship to a strong democracy and economy. Last year, it weathered a serious test when the former president tried to declare martial law. He\u2019s since been removed. But South Korea\u2019s also the home of a thriving number of troubling religious cults \u2013 some of them exported to Australia. Professor Tark Ji-il of Busan Presbyterian University understands this threat better than most. Not only is he a world-renowned expert, his family\u2019s been affected in a tragic way. He was in Australia recently, sharing his story.\nThe heroic image of the Anzac at Gallipoli is of the young man, with rifle and bayonet, going over the top of the trenches to face a hail of bullets from the Turkish troops. While that was, indeed, true, there was another hero at Gallipoli, and he carried only a shovel and a Bible. William \u2018Mac\u2019 McKenzie was a beloved Salvation Army chaplain. In his day, he ranked alongside our most famous soldiers and politicians. He\u2019s the subject of a new biography, The Man the Anzacs Revered,\u00A0by author Daniel Reynaud.\u00A0\nGUESTS:\nProfessor Tark Ji-il - Busan Presbyterian University - a respected expert on South Korea\u0027s religious movements.Daniel Reynaud - author of The Man the Anzacs Revered",
+      "release": "2025-07-23T07:30:00Z",
+      "duration": "00:36:51",
+      "explicit": false,
+      "appleId": 1000718577942,
+      "subjects": [
+        "Shincheonji Church of Jesus",
+        "World Mission Society Church of God",
+        "Unification Church",
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Political Cult"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/south-korean-cults-and-the-hero-chaplain-at-gallipoli/id500606381?i=1000718577942"
+      }
+    },
     {
       "id": "25c0159c-4623-42b5-a644-cf077b6a356b",
       "title": "The stand-off between a cult and the FBI that gripped America",

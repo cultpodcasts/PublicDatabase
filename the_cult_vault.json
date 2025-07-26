@@ -1,11 +1,26 @@
 {
-  "_ts": 0,
   "id": "dd4802ae-d6e8-4ec4-bfdc-64da5a4e411e",
   "name": "The Cult Vault",
   "spotifyId": "5jj1sbs9YQFTbBn0w8AP0L",
   "appleId": 1514656568,
   "youTubeChannelId": "UCM-6n1rFPHQVDnEQWay3odQ",
   "episodes": [
+    {
+      "id": "bc9902ab-37c9-4422-9c33-cafeaa923af9",
+      "title": "Uncovering the Dark Side of English Nursery Rhymes",
+      "description": "In this episode of the Cult Vault Podcast, host Kacey speaks with Brittany, a writer who shares her journey of overcoming dyslexia to write her book, \u0027Whispers in the Cradle.\u0027 Brittany discusses the dark origins of nursery rhymes, the true crime elements intertwined with children\u0027s stories, and the challenges she faced during her writing process. The conversation also touches on the importance of research, the support from her family, and advice for aspiring writers. Brittany\u0027s Book Get in Touch or Support: Patreon - patreon.com/thecultvault Crimecon UK 2025 https://www.crimecon.co.uk - use code CULT for 10% off tickets! Instagram: https://www.instagram.com/cultvaultpod/ Twitter: https://twitter.com/CultVaultPod Reddit: https://www.reddit.com/user/Cult-Vault Gmail: cultvaultpodcast@gmail.com",
+      "release": "2025-07-20T09:20:07Z",
+      "duration": "01:08:29.6880000",
+      "explicit": true,
+      "spotifyId": "1U0rtiLbi02M4jf4k3tf7P",
+      "appleId": 1000718141869,
+      "youTubeId": "QDLKxVq6YEw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1U0rtiLbi02M4jf4k3tf7P",
+        "apple": "https://podcasts.apple.com/podcast/uncovering-the-dark-side-of-english-nursery-rhymes/id1514656568?i=1000718141869",
+        "youtube": "https://www.youtube.com/watch?v=QDLKxVq6YEw"
+      }
+    },
     {
       "id": "dbbdb4cf-6805-427c-86d2-2e21ced1dace",
       "title": "Yoga Cults and Families Torn Apart",

@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "fcba74db-bf54-44df-9737-565da3a0ff6f",
   "name": "A Voice Downunder",
   "youTubeChannelId": "UCWrEIzJSBJ2TY9u3HaSrKEA",
@@ -291,6 +290,22 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=uBDDAjPhlLk"
+      }
+    },
+    {
+      "id": "92c12a6e-3b75-4aed-b159-7199e4b0b4bd",
+      "title": "CARDONE TRIES TO REEL PEOPLE IN TO SCIENTO",
+      "description": "Credit to \u200B\u200B\u2060@HitTheButtonPodcast !\nSo funny! \n\uD83E\uDD23 \n#itsacult #podcast #kidscannotconsent #sptv #scientologyandtheaftermath",
+      "release": "2024-09-17T02:45:27Z",
+      "duration": "00:07:12",
+      "explicit": false,
+      "youTubeId": "qHk4TB9jSPg",
+      "subjects": [
+        "Grant Cardone",
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qHk4TB9jSPg"
       }
     },
     {

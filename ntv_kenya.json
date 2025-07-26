@@ -1,9 +1,54 @@
 {
-  "_ts": 0,
   "id": "330b41d9-dc2b-4cad-9e9d-f6f703425e6c",
   "name": "NTV Kenya",
   "youTubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg",
   "episodes": [
+    {
+      "id": "dde1824e-a495-42b5-8319-23e2f8a9112b",
+      "title": "16 people feared dead in latest Chakama cult crackdown",
+      "description": "16 people could be missing in Chakama forest in Kilifi county after falling victim to another deadly religious doctrine of fasting to death.\n\nSubscribe and watch NTV Kenya live for latest Kenyan news today and everyday as told by Kenyans. Get the Kenya news updates, discussions and other exciting shows.\n\nWebsite: https://www.ntvkenya.co.ke || Paper: Daily Nation || Twitter: @ntvkenya || Facebook: NTV Kenya || Instagram: NTV Kenya",
+      "release": "2025-07-22T18:43:31Z",
+      "duration": "00:03:29",
+      "explicit": false,
+      "youTubeId": "0MSyai8nD9g",
+      "subjects": [
+        "Good News International Ministries",
+        "New Foundation Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0MSyai8nD9g"
+      }
+    },
+    {
+      "id": "7560e7e4-fb3f-4d10-99e0-56d0d6dda7e2",
+      "title": "Kilifi: Prime suspect behind the emergence of another suspected religious cult arrested",
+      "release": "2025-07-21T19:17:59Z",
+      "duration": "00:04:25",
+      "explicit": false,
+      "youTubeId": "mUiWtCU9dP8",
+      "subjects": [
+        "New Foundation Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mUiWtCU9dP8"
+      }
+    },
+    {
+      "id": "f78d2447-9ac1-4b14-ac58-6df5856f520d",
+      "title": "Kilifi: Police rescue four people in Chakama forest in another suspected  religious fasting cult",
+      "description": "Subscribe and watch NTV Kenya live for latest Kenyan news today and everyday as told by Kenyans. Get the Kenya news updates, discussions and other exciting shows.\n\nWebsite: https://www.ntvkenya.co.ke || Paper: Daily Nation || Twitter: @ntvkenya || Facebook: NTV Kenya || Instagram: NTV Kenya",
+      "release": "2025-07-20T19:31:26Z",
+      "duration": "00:02:29",
+      "explicit": false,
+      "youTubeId": "Cw0vmb4JMNU",
+      "subjects": [
+        "Good News International Ministries",
+        "New Foundation Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Cw0vmb4JMNU"
+      }
+    },
     {
       "id": "7a128945-c182-44ea-b16e-3b49ae7976fb",
       "title": "Rongo Church Raided Over Cult Allegations",

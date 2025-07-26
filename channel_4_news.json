@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "32452bf3-3df7-4012-9904-2b3431e75313",
   "name": "Channel 4 News",
   "appleId": 1488353942,
@@ -350,6 +349,20 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=RGrg48q9me8"
+      }
+    },
+    {
+      "id": "93ec9164-28c8-4521-8cd1-686bcb61f90b",
+      "title": "Exclusive investigation uncovers alleged homophobia and untrained staff at government-funded charity",
+      "description": "\n\nA Channel 4 News investigation has uncovered serious allegations that untrained staff were left in charge of victims of trafficking and abuse. Around 40 people who were cared for or worked for the City Hearts charity in Sheffield have spoken of their concerns and claims of homophobia. The Home Office and Charity Commission say the findings are \u201Cdeeply distressing\u201D and they are investigating.\n\nSophie May Lan reports.",
+      "release": "2018-03-18T19:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "subjects": [
+        "C3 Church"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/city-hearts-causeway-c-3-church-hope-city-church"
       }
     },
     {

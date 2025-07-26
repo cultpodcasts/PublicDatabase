@@ -1,10 +1,26 @@
 {
-  "_ts": 0,
   "id": "aa803057-5a8a-43e3-976e-9561dba580b3",
   "name": "Lisa Joins a Cult",
   "spotifyId": "4nvTrcyYR4HXKRBlMNNBrh",
   "appleId": 1690727232,
   "episodes": [
+    {
+      "id": "e310f073-7dd3-4568-8270-369c4c4c1158",
+      "title": "S2Ep1: Scientology",
+      "description": "Join hosts Lisa and John as they dive into the world of Scientology. In this episode, Lisa shares her diverse experiences with Scientology, from her interactions with their recruitment efforts in New York City subways to a more in-depth visit to their well-funded Church in Times Square. Lisa reminisces about her house of worship day and her many run-ins with Scientology, including personal audits and a visit to the cult\u0027s epicenter in Clearwater, Florida. New co-host John, an accomplished journalist and host of \u0022The Cult of Christianity\u0022 podcast, also shares his experiences investigating his local Scientology church. They discuss the cult\u2019s tactics in recruiting members, the controversies surrounding its celebrity followers like Tom Cruise and John Travolta, and the oppressive experiences of Sea Org members. \u0026#x1f3ad; Watch Lisa\u0027s Full One-Woman Show \u2013 Only $10: \u0026#x1f449; Lisa Joins a Cult on Gumroad \u0026#x1f3a7; More from Lisa: \u0026#x1f310; Website: lisajoinsacult.com \u0026#x1f4d8; Facebook: Lisa Joins a Cult \u0026#x1f4dd; Blog: Lisa\u0027s Blog \u0026#x1f4f8; Instagram: @lisa_vanarsdale \u0026#x1f399;\uFE0F More from John: \u0026#x1f50a; Podcast: The Cult of Christianity \u0026#x1f310; Website: jverner.com \u0026#x1f4f8; Instagram: @johnmyronverner \u0026#x1f9f5; Threads: @johnmyronverner \u270D\uFE0F Substack: johnverner.substack.com",
+      "release": "2025-07-20T13:00:00Z",
+      "duration": "00:53:21.3660000",
+      "explicit": true,
+      "spotifyId": "2Pam5PjYtNpHGWjSmUrq4O",
+      "appleId": 1000718153517,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Pam5PjYtNpHGWjSmUrq4O",
+        "apple": "https://podcasts.apple.com/podcast/s2ep1-scientology/id1690727232?i=1000718153517"
+      }
+    },
     {
       "id": "d6b24cd0-9ea8-4a67-b51e-bb3c1dffb039",
       "title": "The Amish",

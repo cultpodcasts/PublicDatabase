@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "e88db198-706f-4f18-ad7a-c4aac89f3506",
   "name": "Ghost Town: Strange History, True Crime, \u0026 the Paranormal",
   "spotifyId": "4iUdTQnVVmyjM8je06uzR3",
   "appleId": 1407606863,
   "youTubeChannelId": "UCq-rRFB--QKkWpe_13z1hgQ",
   "episodes": [
+    {
+      "id": "e7304b8d-728d-48f3-8a8c-ebd5d78a9258",
+      "title": "347: The Sullivanians",
+      "description": "An Upper West Side cult takes shape in the 1970s. More Ghost Town: https://www.ghosttownpod.com Support the show: https://www.patreon.com/ghosttownpod (7 Day Free Trial!) Instagram: https://www.instagram.com/ghosttownpod Jason\u0027s Instagram Rebecca\u0027s Instagram Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-07-23T18:32:57Z",
+      "duration": "00:24:14.0530000",
+      "explicit": false,
+      "spotifyId": "3gvk15L4Rj82sD6dH6sBEE",
+      "appleId": 1000718719831,
+      "youTubeId": "APPwHtVjeyE",
+      "subjects": [
+        "Sullivanians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gvk15L4Rj82sD6dH6sBEE",
+        "apple": "https://podcasts.apple.com/podcast/347-the-sullivanians/id1407606863?i=1000718719831",
+        "youtube": "https://www.youtube.com/watch?v=APPwHtVjeyE"
+      }
+    },
     {
       "id": "5abf717a-f1d3-47b3-b546-10dafc20adce",
       "title": "324: The 24 Hour Celebrity Therapy Cult",

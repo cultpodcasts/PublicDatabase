@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "edfc2ef7-a58a-4f61-9404-2056b76e2649",
   "name": "BBC Heart and Soul",
   "spotifyId": "4M1KnP5Fa1stLw29ND1ItS",
@@ -18,7 +17,8 @@
         "Cult-Expert",
         "Cult Psychology",
         "Cult Recovery",
-        "Evangelicalism"
+        "Evangelicalism",
+        "C3 Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0C8PZEprpNjqOnOfRzFonm",

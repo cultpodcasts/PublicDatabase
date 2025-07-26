@@ -1,11 +1,27 @@
 {
-  "_ts": 0,
   "id": "e3a74062-f1c4-4012-966d-7318dac453f4",
   "name": "Bodies Behind The Bus",
   "spotifyId": "10b0rbS8MNB7UjNIlWUAmf",
   "appleId": 1601586078,
   "youTubeChannelId": "UChcfpE64EbPZRmv6P7ipfpw",
   "episodes": [
+    {
+      "id": "f95bcaa1-806d-481e-8e7a-08e5e98c5bb4",
+      "title": "Kenny\u2019s Story / The Austin Stone",
+      "description": "In this episode of the Bodies Behind the Bus podcast, Kenny shares his experience in the worship residency program at The Austin Stone. He recounts his initial passion for ministry, his transition from law school ambitions to church work, and the realities of support-raising, manual labor, and lack of mentorship during his time in the program. Kenny also reflects on his concerns with the church\u2019s culture of celebrity and financial practices, the exploitation he witnessed, and the broader systemic failures he observed. Support the show",
+      "release": "2025-07-22T09:00:00Z",
+      "duration": "01:22:32.7640000",
+      "explicit": true,
+      "spotifyId": "0ioxdj0JgdN56fshNfpB9p",
+      "appleId": 1000718442367,
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ioxdj0JgdN56fshNfpB9p",
+        "apple": "https://podcasts.apple.com/podcast/kennys-story-the-austin-stone/id1601586078?i=1000718442367"
+      }
+    },
     {
       "id": "5f95b054-1430-4479-9400-263ecc859108",
       "title": "James\u2019s Story / The Austin Stone",

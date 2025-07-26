@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "fcb1e4d9-beaf-4318-9657-dd77c6ec52e8",
   "name": "Wicked Confessions Uncensored",
   "spotifyId": "1unJpIRVxVVSkBhf7yR3sO",
   "appleId": 1798937384,
   "youTubeChannelId": "UCWV8x8iWaYTsUU4MqJNZ6FA",
   "episodes": [
+    {
+      "id": "2da2cfba-d873-4b95-8fa7-bd51a028ad91",
+      "title": "Wicked Confessions Uncensored Episode 20 - We Weren\u2019t Supposed to Be Smart: Why Polygamy Fears Educated Women",
+      "description": "From corn dog chaos in Cancun to reading National Geographic on the toilet just to feel educated\u2026 this episode is a wild ride through laughter, loss, sisterhood, and the sacred power of self-education. Vera and Pamela dive into what it was like growing up in a cult that discouraged education, valued obedience over knowledge, and saw smart women as a threat. They share raw stories of raising kids at 10, writing vocabulary lists by candlelight, and learning algebra with zero support, just determination. And it wouldn\u2019t be Wicked Confessions without a little chaos: \u0026#x1f32d; A polygamist \u201Ctips\u201D a wrestler with a corn dog in Mexico \u0026#x1f4da; Teaching themselves to read, write, and spell without school \u0026#x1f494; Wondering if their mom would\u2019ve judged them or cheered them on \u0026#x1f3ad; Reclaiming power through humor, writing, and finally\u2026 freedom This episode is for every woman who was told to sit down, shut up, and stay sweet, but chose to rise instead. Wicked Confessions Uncensored Website | Tiktok | Facebook | Instagram | Email",
+      "release": "2025-07-23T14:00:00Z",
+      "duration": "00:29:20.4440000",
+      "explicit": true,
+      "spotifyId": "7w5YlgITRQXowFBiJYam0w",
+      "appleId": 1000718685304,
+      "youTubeId": "5r3YeoBWaYs",
+      "subjects": [
+        "Church of the Firstborn (LeBaron family)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7w5YlgITRQXowFBiJYam0w",
+        "apple": "https://podcasts.apple.com/podcast/wicked-confessions-uncensored-episode-20-we-werent/id1798937384?i=1000718685304",
+        "youtube": "https://www.youtube.com/watch?v=5r3YeoBWaYs"
+      }
+    },
     {
       "id": "d387ffab-ba87-45ec-b163-07f6cedf777b",
       "title": "Wicked Confessions Uncensored Episode 19 - God\u2019s Chosen\u2026 Thieves? The Shocking Secrets Behind Polygamy\u0027s Mansions \u0026 Mind Games",

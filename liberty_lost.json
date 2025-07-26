@@ -1,10 +1,43 @@
 {
-  "_ts": 0,
   "id": "859e54f2-c46d-4ba2-8a1d-c2915c5e9023",
   "name": "Liberty Lost",
   "spotifyId": "3JWCSfFXnutyd6lARu7Dn0",
   "appleId": 1815337795,
   "episodes": [
+    {
+      "id": "5f8d2b30-cd2a-45bc-99f0-7c739422a88f",
+      "title": "Coming Round the Mountain | 7",
+      "description": "How can the American adoption system change for the better? T. J. sits down with Gretchen Sisson, author of Relinquished: The Politics of Adoption and the Privilege of American Motherhood, for a deep dive on the forces driving adoption and the changes she sees on the horizon. Be the first to know about Wondery\u2019s newest podcasts, curated recommendations, and more! Sign up now at https://wondery.fm/wonderynewsletter Follow Liberty Lost on the Wondery App or wherever you get your podcasts. You can binge all episodes early and ad-free on Wondery\u0026#43;. Start your free trial in the Wondery App, Apple Podcasts, Spotify or by visiting wondery.com/links/liberty-lost/ now. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2025-07-22T07:01:00Z",
+      "duration": "00:34:42.9770000",
+      "explicit": true,
+      "spotifyId": "3ggdx8SVkx4ZHGtsYo9I4n",
+      "appleId": 1000714087341,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ggdx8SVkx4ZHGtsYo9I4n",
+        "apple": "https://podcasts.apple.com/podcast/coming-round-the-mountain/id1815337795?i=1000714087341"
+      }
+    },
+    {
+      "id": "981fcf7d-3c83-4d04-94a0-fce64aba3f72",
+      "title": "How I Wonder What You Are | 6",
+      "description": "As more maternity homes open across the country, Abbi, Zoe, and Toni join a growing chorus of women who are speaking out. And there\u2019s one person in particular who Abbi and Nathan want to hear their story. Dr. Zoe Shaw\u2019s book, \u201CStronger in the Difficult Places: Heal Your Relationship with Yourself by Untangling Complex Shame\u201D is available here . Follow her podcast, \u201CStronger in the Difficult Places,\u201D here . Click here to read the full statements from Abbi\u2019s parents, Debbie and Don Blanzy. Be the first to know about Wondery\u2019s newest podcasts, curated recommendations, and more! Sign up now at https://wondery.fm/wonderynewsletter Follow Liberty Lost on the Wondery App or wherever you get your podcasts. You can binge all episodes early and ad-free on Wondery\u0026#43;. Start your free trial in the Wondery App, Apple Podcasts, Spotify or by visiting wondery.com/links/liberty-lost/ now. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2025-07-21T07:01:00Z",
+      "duration": "00:51:16.3620000",
+      "explicit": true,
+      "spotifyId": "2vb9iBA25UlCPwVo7b5D38",
+      "appleId": 1000713643340,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2vb9iBA25UlCPwVo7b5D38",
+        "apple": "https://podcasts.apple.com/podcast/how-i-wonder-what-you-are/id1815337795?i=1000713643340"
+      }
+    },
     {
       "id": "d2b988ca-78f3-47f6-95e5-ec4724e631d2",
       "title": "All the King\u0027s Men",

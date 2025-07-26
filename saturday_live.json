@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "6f1f46fc-e79e-4e8f-a4c6-adab1c8eca27",
   "name": "Saturday Live",
   "spotifyId": "6Xn1BqvKAkl5f3BdWEh1lV",
@@ -18,7 +17,8 @@
         "Cult-Expert",
         "Cult Psychology",
         "Cult Recovery",
-        "Evangelicalism"
+        "Evangelicalism",
+        "C3 Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/511XKDfagzIJZL0NyL4GVT",

@@ -1,11 +1,29 @@
 {
-  "_ts": 0,
   "id": "5ff1ccf8-3ab5-4136-8f30-2b252ba197d5",
   "name": "Happy To Disappoint",
   "spotifyId": "2mCOJnlrOGk3UgzAc46Dsk",
   "appleId": 1811505214,
   "youTubeChannelId": "UCCvdmecVF8uQmn0MX9G61iA",
   "episodes": [
+    {
+      "id": "ea22768e-e760-4e7c-802c-257b3d9d508c",
+      "title": "Ep 7: The Shiloh Show (Part 2)",
+      "description": "THE SUMMER CHAOS CONTINUES! After having a full blown technical melt down for a few weeks in a row, we are proud to bring you a re-RE-recorded Part Deux of our Shiloh summer camp romp. We pick up where we left you last: disoriented, mid-way through camp, and gearing up for another big event. Buckle up as we immerse you in memories of: \n\n* The Canadian National Anthem\n* The classic \u201CIced-coffee-no-breakfast\u201D mistake and its inevitable consequences\n* \uD83D\uDD25FIRE\uD83D\uDD25HAZARDS\uD83D\uDD25 \n* Sh-sh-shakin\u2019 for the Lord\n* Amphitheater debauchery \n\nCONTENT TRIGGER WARNINGS:  Religious and Spiritual Ab*se, High Control Environments/Relationships, Forced Manual Labor, $*xually Inappropriate Behavior, Gr\uD83D\uDC40ming by Authority Figures, Using Grief to Manipulate People, POOP, Amphitheaters, Wandering Eyes,\uD83D\uDEA8BRINGING FORTH THE KINGDOM\uD83D\uDEA8 \u201CIt\u2019s Happening Now\u201D \uD83D\uDC4F\uD83D\uDC4F",
+      "release": "2025-07-24T11:09:15Z",
+      "duration": "01:51:44.2320000",
+      "explicit": true,
+      "spotifyId": "7MDU9QV8X9FpRowxOZYrmJ",
+      "appleId": 1000718840108,
+      "youTubeId": "cmETMy-fxlk",
+      "subjects": [
+        "The Living Word Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MDU9QV8X9FpRowxOZYrmJ",
+        "apple": "https://podcasts.apple.com/podcast/ep-7-the-shiloh-show-part-2/id1811505214?i=1000718840108",
+        "youtube": "https://www.youtube.com/watch?v=cmETMy-fxlk"
+      }
+    },
     {
       "id": "f57a0ce0-ec21-4a73-8795-b195dd5c8291",
       "title": "Ep 6: The Shiloh Show (Part 1)",

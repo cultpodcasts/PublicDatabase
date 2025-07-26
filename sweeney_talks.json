@@ -1,5 +1,4 @@
 {
-  "_ts": 0,
   "id": "96fe2a1f-fcd0-4f7a-905f-b7c1d964973f",
   "name": "Sweeney Talks",
   "spotifyId": "2Y7N1kdGoD8ig0ShrR6lMz",
@@ -20,6 +19,108 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Nhpu3KWAbee2UzRjB4Kvd",
         "apple": "https://podcasts.apple.com/podcast/elgen-strait-escaping-the-moonies/id1539949999?i=1000590563078"
+      }
+    },
+    {
+      "id": "309d82f6-a924-49ca-99ec-6c0ff1af608c",
+      "title": "Hunting Ghislaine: Demons",
+      "description": "The final episode in the series looks at the dark fairy tale that is the life of Ghislaine Maxwell. She started out a rich and beautiful princess. She is now ina rat-infested cell in a New York prison known as The Tombs, awaiting trial on charges she denies. How could the fairy tell end like this, or is this the end?",
+      "release": "2020-12-23T23:01:00Z",
+      "duration": "00:41:31.2240000",
+      "explicit": true,
+      "spotifyId": "3bvsHBNeJlixPqZd7UH0m7",
+      "appleId": 1000503363806,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3bvsHBNeJlixPqZd7UH0m7",
+        "apple": "https://podcasts.apple.com/podcast/hunting-ghislaine-demons/id1539949999?i=1000503363806"
+      }
+    },
+    {
+      "id": "33dfb58d-1a44-40c3-9ffc-0a354d5a6b05",
+      "title": "Hunting Ghislaine: The Lady Vanishes",
+      "description": "In 2019 Epstein is arrested and then dies in prison. The authorities say suicide, some suspect that he did not kill himself. And Ghislaine? She vanishes. How is it possible to disappear in the twenty first century? In this episode we hear from a former FBI Special Agent who explains how people can hide and how they can be caught.",
+      "release": "2020-12-16T23:01:00Z",
+      "duration": "00:35:46.2460000",
+      "explicit": true,
+      "spotifyId": "5nkuRayquIHZSBXkDPFxhw",
+      "appleId": 1000502637751,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5nkuRayquIHZSBXkDPFxhw",
+        "apple": "https://podcasts.apple.com/podcast/hunting-ghislaine-the-lady-vanishes/id1539949999?i=1000502637751"
+      }
+    },
+    {
+      "id": "8bb2820e-412d-4831-8733-131813104b80",
+      "title": "Hunting Ghislaine: Favours",
+      "description": "Prince Andrew can\u2019t explain why a photo of him exists with his arm around the waist of Virginia Roberts Giuffre, then 17, with Ghislaine looking on inside her mews flat in London. However, he does explain why he stayed in Epstein\u2019s Manhattan mansion in 2010 after the American had been convicted of having sex with an under-age girl. But he\u2019s viewed by many as unconvincing. In this episode we look at what possible favours passed between those allegedly involved?",
+      "release": "2020-12-09T23:01:00Z",
+      "duration": "00:38:43.2260000",
+      "explicit": true,
+      "spotifyId": "04HA9UfPCe7x0gXzBiUK3V",
+      "appleId": 1000501892047,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/04HA9UfPCe7x0gXzBiUK3V",
+        "apple": "https://podcasts.apple.com/podcast/hunting-ghislaine-favours/id1539949999?i=1000501892047"
+      }
+    },
+    {
+      "id": "1e3e8492-a2b7-461a-9f44-94fd0c75652e",
+      "title": "Hunting Ghislaine: The Black Book",
+      "description": "Ghislaine Maxwell\u2019s address book is packed with the names of the rich, famous and powerful. But how did no one know what was happening behind the scenes? Did Ghislaine\u2019s black book and her friendships with the likes of Donald Trump who said: \u201CI wish her well\u201D and Bill Clinton provide an aura of respectability that prevented proper scrutiny?",
+      "release": "2020-12-02T23:01:00Z",
+      "duration": "00:42:13.6940000",
+      "explicit": true,
+      "spotifyId": "59yCWnHOCwK9LwiRPjGW63",
+      "appleId": 1000501146504,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/59yCWnHOCwK9LwiRPjGW63",
+        "apple": "https://podcasts.apple.com/podcast/hunting-ghislaine-the-black-book/id1539949999?i=1000501146504"
+      }
+    },
+    {
+      "id": "d309f40c-b797-4f90-a932-dc5e9ee4692a",
+      "title": "Hunting Ghislaine: Pimp",
+      "description": "Multiple young women say they were sexually abused by Jeffrey Epstein. A smaller number say that Ghislaine Maxwell abused them along with Epstein - she denies all allegations. Victims also accuse Ghislaine of running the machine that served Epstein and that she was the real mastermind behind his actions. In episode two of Hunting Ghislaine we look at the relationship with Epstein after her father, Robert Maxwell\u0027s death, and the role she is accused of playing in supplying him with young women.",
+      "release": "2020-11-25T23:01:00Z",
+      "duration": "00:39:06.4220000",
+      "explicit": true,
+      "spotifyId": "4MjYBUEPzrZghYYF8z4KrZ",
+      "appleId": 1000500274804,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4MjYBUEPzrZghYYF8z4KrZ",
+        "apple": "https://podcasts.apple.com/podcast/hunting-ghislaine-pimp/id1539949999?i=1000500274804"
+      }
+    },
+    {
+      "id": "81a129f9-d873-4fc9-83ab-6658ac528798",
+      "title": "Hunting Ghislaine: Monsters",
+      "description": "Ghislaine Maxwell has been charged with helping rich paedophile Jeffrey Epstein sexually exploit and abuse multiple minor girls \u2013 she denies all wrongdoing. This episode looks at the first monster in her life: her father, Robert Maxwell, a liar, a thief and a sadist. He named the yacht he fell from after her: The Lady Ghislaine. Did he form or, perhaps, deform her too? If you or someone you know is a victim of sexual assault, you can contact victim support free on 0808 16 89 111 or visit www.victimsupport.org.uk Hunting Ghislaine is a Global Original podcast written and reported by John Sweeney. Co-commissioned by Global and The Story Lab, produced in association with Chalk \u0026 Blade",
+      "release": "2020-11-18T23:01:00Z",
+      "duration": "00:39:49.5240000",
+      "explicit": true,
+      "spotifyId": "4C1jOE2k71egCPXNAxwLP9",
+      "appleId": 1000499313574,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4C1jOE2k71egCPXNAxwLP9",
+        "apple": "https://podcasts.apple.com/podcast/hunting-ghislaine-monsters/id1539949999?i=1000499313574"
       }
     }
   ]
