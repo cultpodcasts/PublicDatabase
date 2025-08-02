@@ -1,0 +1,42 @@
+{
+  "id": "8393a781-e09b-4d73-8144-60932d956021",
+  "name": "Infamous Indy",
+  "spotifyId": "4ox17qGItgZGluwhS8xaYd",
+  "appleId": 1451744581,
+  "episodes": [
+    {
+      "id": "06370fea-8f16-4669-a8d8-e308b2cb8106",
+      "title": "6: Jim Jones Part 2: Jim Jones Jr.",
+      "description": "I had the chance to speak with Jim Jones jr. The adopted son of the infamous cult leader. He was the first African-American child to be adopted by Caucasian parent in the state of Indiana. Got to Infamousindy.com for more information.",
+      "release": "2019-03-25T05:01:00Z",
+      "duration": "01:07:07.8480000",
+      "explicit": false,
+      "spotifyId": "74g6WdsbRtQjEdbm829DrC",
+      "appleId": 1000433265107,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74g6WdsbRtQjEdbm829DrC",
+        "apple": "https://podcasts.apple.com/podcast/jim-jones-part-2-jim-jones-jr/id1451744581?i=1000433265107"
+      }
+    },
+    {
+      "id": "60f560d3-eead-4866-8fb9-2441cf717a83",
+      "title": "5: Jim Jones Part 1",
+      "description": "Don\u0027t drink the Kool-Aid. On this episode I dive into the beginning\u0027s of the Jim Jones and His church in Indianapolis. Jim Jones was a young pastor living in Indiana. He moved to the big city to start preaching. He eventually founded the Peoples Temple Church. The same church that was the home to more than 900 people who later committed murder suicide in Jonestown, Guyana November 18th, 1978. This episode I speak to some of his former members as they recalled the change Jim Jones went through from a Civil rights activist pastor to a cult leader.",
+      "release": "2019-03-18T05:01:00Z",
+      "duration": "00:34:20.0870000",
+      "explicit": false,
+      "spotifyId": "0BBZoURVjKTApDZGz6faXL",
+      "appleId": 1000432157624,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0BBZoURVjKTApDZGz6faXL",
+        "apple": "https://podcasts.apple.com/podcast/jim-jones-part-1/id1451744581?i=1000432157624"
+      }
+    }
+  ]
+}

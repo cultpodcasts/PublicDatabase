@@ -1,0 +1,25 @@
+{
+  "id": "718329a9-0019-4a0b-9495-f78c356c11bd",
+  "name": "Going West: True Crime",
+  "spotifyId": "064ffm3t4EQWhM0WQP90W0",
+  "appleId": 1448151398,
+  "episodes": [
+    {
+      "id": "d8ed5499-3497-4930-8a55-6dbf572697db",
+      "title": "Veronica Butler \u0026 Jilian Kelley // 525",
+      "description": "In March of 2024, two women set off on a short drive through the rural backroads of Oklahoma, but they never made it to their destination. Hours later, their car was found abandoned by the side of the road, but suspiciously, along with signs of a struggle. As the search for them intensified, authorities uncovered a trail marked by custody battles, a religious cult, and secrets buried deep in a small-town community, which would ultimately lead to five arrests. These are the murders of Veronica Butler and Jilian Kelley.",
+      "release": "2025-08-01T07:00:00Z",
+      "duration": "00:49:00.7860000",
+      "explicit": false,
+      "spotifyId": "1G1sTUB1K6xYF1wibYdUc8",
+      "appleId": 1000720189783,
+      "subjects": [
+        "God\u0027s Misfits"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1G1sTUB1K6xYF1wibYdUc8",
+        "apple": "https://podcasts.apple.com/podcast/veronica-butler-jilian-kelley-525/id1448151398?i=1000720189783"
+      }
+    }
+  ]
+}

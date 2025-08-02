@@ -1,0 +1,25 @@
+{
+  "id": "8c5fa414-2071-4a0a-a6a8-ff86cb7d3106",
+  "name": "Eyewitness History",
+  "spotifyId": "5U5QBxILg2joDPhByaaEbN",
+  "appleId": 1617821942,
+  "episodes": [
+    {
+      "id": "f8937b82-8532-411f-92d6-dd25ff9ab096",
+      "title": "Jonestown Survivor Discusses The Cult Massacre, Jim Jones, and Loss",
+      "description": "Eugene Smith joined Peoples Temple in 1973 and lived in the Temple\u2019s San Francisco commune before leaving for Jonestown in fall 1977. He was in Georgetown on November 18 clearing items from customs. Numerous members of his family \u2013 including his mother, wife, and infant son \u2013 died in Jonestown. Eugene is the author of the 2021 book, Back to the World: A Life after Jonestown. See omnystudio.com/listener for privacy information.",
+      "release": "2023-06-20T10:00:02Z",
+      "duration": "00:41:59.1960000",
+      "explicit": false,
+      "spotifyId": "4PKtRxzHN5oIGRNBkn6D2k",
+      "appleId": 1000617690650,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4PKtRxzHN5oIGRNBkn6D2k",
+        "apple": "https://podcasts.apple.com/podcast/jonestown-survivor-discusses-the-cult-massacre-jim/id1617821942?i=1000617690650"
+      }
+    }
+  ]
+}

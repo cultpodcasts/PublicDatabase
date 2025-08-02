@@ -1,0 +1,27 @@
+{
+  "id": "ba04165c-d382-4372-921b-a0a64a7e2b99",
+  "name": "The Addiction Solution",
+  "spotifyId": "0QckXErvVvhyRjHXsD66gW",
+  "appleId": 1419619589,
+  "episodes": [
+    {
+      "id": "252745c9-0bce-48e0-ac7a-25b73687946c",
+      "title": "The Dangers of Group Think: A Conversation with Rachel Bernstein, LMFT",
+      "description": "Mark \u0026 Michelle talk with cult expert Rachel Bernstein about how coercive control overlaps with addiction recovery\u2014and how to break free.",
+      "release": "2025-08-01T14:26:35Z",
+      "duration": "00:48:13",
+      "explicit": false,
+      "spotifyId": "4O5lPYanldDI4e3wDHPcmg",
+      "appleId": 1000720228348,
+      "subjects": [
+        "Cult Psychology",
+        "Cult Recovery",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4O5lPYanldDI4e3wDHPcmg",
+        "apple": "https://podcasts.apple.com/podcast/the-dangers-of-group-think-a-conversation/id1419619589?i=1000720228348"
+      }
+    }
+  ]
+}

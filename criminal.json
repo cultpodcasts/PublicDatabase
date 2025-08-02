@@ -1,0 +1,25 @@
+{
+  "id": "f1442b99-2d8f-4520-8fd3-0b267ec9cf3c",
+  "name": "Criminal",
+  "spotifyId": "3ictIqfumbmEuWdt9xWQp5",
+  "appleId": 809264944,
+  "episodes": [
+    {
+      "id": "7aa3ec57-dd99-431f-91b0-30660b9d8aca",
+      "title": "The Guru",
+      "description": "In the late 1960s, a yogi named Swami Rama came to the United States. His followers believed he could read their minds, visit them in their dreams, and manipulate reality. Shruti Swamy was one of them.\n\nShruti Swamy wrote a version of this story for the June 12th issue of The Believer. You can find it at https://www.thebeliever.net/.\n\nSay hello on Facebook, Instagram and TikTok. Sign up for our occasional newsletter. Follow the show and review us on Apple Podcasts.\n\nSign up for Criminal Plus to get behind-the-scenes bonus episodes of Criminal, ad-free listening of all of our shows, special merch deals, and more.\n\nWe also make This is Love and Phoebe Reads a Mystery.\n\nArtwork by Julienne Alexander. Check out our online shop.\n\nEpisode transcripts are posted on our website.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-06-13T10:20:00Z",
+      "duration": "00:35:58",
+      "explicit": false,
+      "spotifyId": "6jBwdcqGMLL0YX7dWFonDP",
+      "appleId": 1000711871021,
+      "subjects": [
+        "Swami Rama"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6jBwdcqGMLL0YX7dWFonDP",
+        "apple": "https://podcasts.apple.com/podcast/the-guru/id809264944?i=1000711871021"
+      }
+    }
+  ]
+}

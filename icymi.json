@@ -3,8 +3,21 @@
   "name": "ICYMI",
   "spotifyId": "6bo1EK9sElQV8DqzO0HLac",
   "appleId": 1554115325,
-  "youTubeChannelId": "UCqF7NjnT4qX35iNMjUbtHKA",
   "episodes": [
+    {
+      "id": "cff9b2b2-6ee8-442f-9af1-1fdca52faf03",
+      "title": "Astronomer Updates, Jessie Murph, and Dubious Cults",
+      "description": "What\u2019s going on with this fake TikTok cult that possibly involves animal sacrifices, skin carvings, and questionable leadership? And who is Jessie Murph, the pseudo-country singer whose recent performance on The Tonight Show with Jimmy Fallon has the internet questioning whether her lyrics are satirical or regressive?\n\nGet more of ICYMI with Slate Plus! Join for exclusive bonus episodes of ICYMI and ad-free listening on all your favorite Slate podcasts. Subscribe from the ICYMI show page on Apple Podcasts or Spotify. Or, visit slate.com/icymiplus for access wherever you listen.\n\nThis podcast is produced by Vic Whitley-Berry, Daisy Rosario, Candice Lim, and Kate Lindsay.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-07-30T07:00:00Z",
+      "duration": "00:46:31",
+      "explicit": false,
+      "spotifyId": "1RT4j3EwWyQah88iAelzQV",
+      "appleId": 1000719726116,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1RT4j3EwWyQah88iAelzQV",
+        "apple": "https://podcasts.apple.com/podcast/astronomer-updates-jessie-murph-and-dubious-cults/id1554115325?i=1000719726116"
+      }
+    },
     {
       "id": "f75585cb-229d-45c1-9bad-12190ea97329",
       "title": "Netflix\u2019s TikTok Dance Cult Documentary is Missing Something | ICYMI",
@@ -14,14 +27,12 @@
       "explicit": false,
       "spotifyId": "0TIxATEF9KrbvBoSGgnOz5",
       "appleId": 1000658691077,
-      "youTubeId": "5S_q1pY77Ok",
       "subjects": [
         "7M Films"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0TIxATEF9KrbvBoSGgnOz5",
-        "apple": "https://podcasts.apple.com/podcast/netflixs-tiktok-dance-cult-documentary-is-missing-something/id1554115325?i=1000658691077",
-        "youtube": "https://www.youtube.com/watch?v=5S_q1pY77Ok"
+        "apple": "https://podcasts.apple.com/podcast/netflixs-tiktok-dance-cult-documentary-is-missing-something/id1554115325?i=1000658691077"
       }
     }
   ]

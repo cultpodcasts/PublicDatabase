@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCtERdi7y0dc-Ud7jmjsktwg",
   "episodes": [
     {
+      "id": "3dca7290-a5b2-49a2-a0cd-9339714d39d3",
+      "title": "NATURE BOY LOST TAPES ARCHIVE 2",
+      "release": "2025-07-31T04:28:30Z",
+      "duration": "00:20:18",
+      "explicit": false,
+      "youTubeId": "Ew85hajrNf4",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ew85hajrNf4"
+      }
+    },
+    {
+      "id": "db29542d-bce6-4d31-943c-d4391fdece43",
+      "title": "Nature Boy lost tapes  Archive  1",
+      "release": "2025-07-27T02:00:06Z",
+      "duration": "00:26:55",
+      "explicit": false,
+      "youTubeId": "jmxeolnXR0o",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jmxeolnXR0o"
+      }
+    },
+    {
       "id": "d8503775-de3f-43ed-b3f7-38f3bf00c3e2",
       "title": "THE RISE AND FALL OF NATURE BOY \u0026quot;ELIGIO BISHOP\u0026quot; PART 37",
       "release": "2025-07-26T02:00:06Z",

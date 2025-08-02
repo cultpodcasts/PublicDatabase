@@ -1,0 +1,28 @@
+{
+  "id": "19f0f8f8-aa64-4e1b-8df6-95c903425c44",
+  "name": "Organized Money",
+  "spotifyId": "41AvDynJ2rECeDCtWNUGF6",
+  "appleId": 1773721991,
+  "episodes": [
+    {
+      "id": "f6165672-5c79-4a63-9313-fe4ccaccf3be",
+      "title": "Amway, Mary Kay, Herbalife and the Get Rich Quick Business",
+      "description": "In this episode of Organized Money, hosts Matt Stoller and David Dayen are joined by journalist and author Bridget Read to unravel the shadowy world of multi-level marketing (MLM) and pyramid schemes. Drawing from Bridget\u2019s new book, Little Bosses Everywhere, How the Pyramid Scheme Shaped America, they explore how companies like Amway, Herbalife, and Mary Kay built vast empires by selling not just products but the promise of entrepreneurship and financial freedom\u2014when in reality, most participants end up losing money. The conversation reveals MLM\u2019s deep ties to American politics, highlighting how the industry helped shape the modern conservative movement and evade federal regulation, with figures like the DeVos family fueling both business and political influence. From cult-like positive thinking and self-help roots to the exploitation of vulnerable communities, the episode exposes how the allure of \u201Cbeing your own boss\u201D often conceals a cycle of extraction, false hope, and systemic harm that reaches far beyond personal finances\u2014shaping culture, politics, and the American dream itself. Like Organized Money? Support us! Go to organizedmoney.fm/donate and help us keep the lights on.",
+      "release": "2025-07-29T07:00:00Z",
+      "duration": "01:14:15.5750000",
+      "explicit": false,
+      "spotifyId": "7awtYR8o3HxasRzNbT8Z0o",
+      "appleId": 1000719605145,
+      "subjects": [
+        "Multi-Level Marketing",
+        "Amway",
+        "Herbalife",
+        "Mary Kay"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7awtYR8o3HxasRzNbT8Z0o",
+        "apple": "https://podcasts.apple.com/podcast/amway-mary-kay-herbalife-and-the-get-rich-quick-business/id1773721991?i=1000719605145"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "50728da5-9766-45fa-a2bd-10e850b97b58",
+  "name": "Zestful Aging",
+  "spotifyId": "6ULRhexQRrIVv7LTlKMbLk",
+  "appleId": 1344320689,
+  "youTubeChannelId": "UCQ71iru4imXEP38EQdSFR3A",
+  "episodes": [
+    {
+      "id": "88a728dc-2937-4fb8-acc7-2925f157a580",
+      "title": "Daniella Young -- \u201CA Cult Stole My Childhood\u201D",
+      "description": "Daniella Mestyanek Young was born a third-generation member of the infamous religious cult, The Children of God, which has often garnered national and international attention for its unconventional and criminal practices including forced polyamory/polygamy, child marriages, religious prostitution, widespread pedophilia and the murder/suicide of the founder\u2019s son and heir apparent. As a 15-year-old, Daniella was excommunicated from the cult, moved to America alone and broke, attending school for the first time in her life. Upon graduating college, she commissioned into the US Army as an intelligence officer, serving for over 6 years, making the rank of Captain, and deploying twice to Afghanistan in support of Operation Enduring Freedom. During her service, Daniella became one of the first women in history to conduct deliberate ground combat operations alongside her male counterparts, buried good friends who she\u2019ll never forget, led intelligence operations for a large area of Afghanistan, met the sitting President and received the Presidential Volunteer Service Medal. Today, Daniella lives in Seattle, where she is married to a Special Operations helicopter pilot, has a 3-year-old daughter who speaks three-languages fluently, is co-founder of an HR-tech company and is an activist for veterans, military spouses and many others who are going through their own intense cultural transitions. Find out more at https://daniellamestyanekyoung.com/ Find out more about the Zestful Aging Podcast at ZestfulAging.com.",
+      "release": "2020-08-01T11:00:01Z",
+      "duration": "01:05:24",
+      "explicit": false,
+      "spotifyId": "5kvwiXFcxinOJMb1Oyi8UL",
+      "appleId": 1000486789882,
+      "youTubeId": "oXLTnXJJBJM",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5kvwiXFcxinOJMb1Oyi8UL",
+        "apple": "https://podcasts.apple.com/podcast/daniella-young-a-cult-stole-my-childhood/id1344320689?i=1000486789882",
+        "youtube": "https://www.youtube.com/watch?v=oXLTnXJJBJM"
+      }
+    }
+  ]
+}

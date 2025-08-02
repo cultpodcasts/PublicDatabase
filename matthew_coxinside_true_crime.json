@@ -46,12 +46,16 @@
       "release": "2024-03-01T20:00:08Z",
       "duration": "01:32:58",
       "explicit": false,
+      "spotifyId": "5C3lpyjnKMDtEAWN3MeGCc",
+      "appleId": 1000719811169,
       "youTubeId": "Evu8uiOa2mg",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints",
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5C3lpyjnKMDtEAWN3MeGCc",
+        "apple": "https://podcasts.apple.com/podcast/exposing-mormonism-cult/id1574561959?i=1000719811169",
         "youtube": "https://www.youtube.com/watch?v=Evu8uiOa2mg"
       }
     }

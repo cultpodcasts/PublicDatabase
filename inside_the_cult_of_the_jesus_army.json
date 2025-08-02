@@ -1,0 +1,34 @@
+{
+  "id": "1d52fb99-cd98-4363-83ad-54ce9b20832e",
+  "name": "Inside the Cult of the Jesus Army",
+  "episodes": [
+    {
+      "id": "da404928-7c56-473d-afc8-29217fa938fb",
+      "title": "Episode 1",
+      "description": "A look at the origins of the Jesus Fellowship, in which an early vision of communal living and spiritual commitment becomes more disciplined, violent and controlling.",
+      "release": "2025-07-27T21:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002fxr8/inside-the-cult-of-the-jesus-army-series-1-episode-1"
+      }
+    },
+    {
+      "id": "95f2d1e8-363d-4fa0-8c1b-6b9ee6832e60",
+      "title": "Episode 2",
+      "description": "As more and more people are drawn into the Jesus Army through its outreach schemes, the \u0027modesty culture\u0027 within the organisation takes a dark turn. ",
+      "release": "2025-07-27T00:00:00",
+      "duration": "00:59:00",
+      "explicit": false,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002fxrc/inside-the-cult-of-the-jesus-army-series-1-episode-2"
+      }
+    }
+  ]
+}

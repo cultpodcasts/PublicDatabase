@@ -1,0 +1,22 @@
+{
+  "id": "a4d323b5-ec1f-4a92-aa4c-4b383036dd70",
+  "name": "Tree Planters: A podcast about change for a better world",
+  "appleId": 1465114467,
+  "episodes": [
+    {
+      "id": "58d33095-bf9f-4374-8c78-3b0e82f758e1",
+      "title": "Misinformation and Conspiracy Theories \u2014 Dr. Alison Meek",
+      "description": "Dr. Alison Meek is a history professor at King\u2019s University College at Western University, where she studies conspiracy theories, cults, extremism and misinformation.\u00A0\nAlison brings an engaging and thoughtful perspective to how beliefs take root and spread, and what they can tell us about society today.\nSupport the show",
+      "release": "2025-07-29T16:00:00Z",
+      "duration": "00:59:37",
+      "explicit": false,
+      "appleId": 1000719654442,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/misinformation-and-conspiracy-theories-dr-alison-meek/id1465114467?i=1000719654442"
+      }
+    }
+  ]
+}
