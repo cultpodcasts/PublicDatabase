@@ -5,6 +5,51 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "626c84a1-64fb-4f7b-bff9-118d73d41d85",
+      "title": "220. Jimmy Swaggart Part I",
+      "description": "We do our dive into the late Jimmy Swaggart",
+      "release": "2025-08-20T06:00:00Z",
+      "duration": "01:31:40.7080000",
+      "explicit": true,
+      "spotifyId": "2WRNv7d7KPNbcS9GQaPAss",
+      "appleId": 1000722761676,
+      "subjects": [
+        "Jimmy Swaggart Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2WRNv7d7KPNbcS9GQaPAss",
+        "apple": "https://podcasts.apple.com/podcast/220-jimmy-swaggart-part-i/id1573190999?i=1000722761676"
+      }
+    },
+    {
+      "id": "23f6139f-615c-40dc-ad91-c4d6b38b4679",
+      "title": "219. The Michael Tait Situation: An Interview W/ Josiah Hesse",
+      "description": "Today we are joined by Josiah Hesse, a journalist for The Guardian, to discuss the Michael Tait abuse allegations and the victims.",
+      "release": "2025-08-13T05:59:00Z",
+      "duration": "01:58:41.6060000",
+      "explicit": true,
+      "spotifyId": "0CF4bHlHoNvjCZagX4gtxX",
+      "appleId": 1000721767540,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0CF4bHlHoNvjCZagX4gtxX",
+        "apple": "https://podcasts.apple.com/podcast/219-the-michael-tait-situation-an-interview-w-josiah-hesse/id1573190999?i=1000721767540"
+      }
+    },
+    {
+      "id": "6a2cea16-f6a8-4b61-802a-6363605e60d0",
+      "title": "218. Swing Kids and Authoritarianism",
+      "description": "We finish up our nazi series as Chrissy takes control to talk about Swing Kids and how it speaks about authoritarianism and how to fight back against it",
+      "release": "2025-08-06T06:00:00Z",
+      "duration": "01:07:30.3640000",
+      "explicit": true,
+      "spotifyId": "4dTKHBExLixhX217n3MhWf",
+      "appleId": 1000720849880,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4dTKHBExLixhX217n3MhWf",
+        "apple": "https://podcasts.apple.com/podcast/218-swing-kids-and-authoritarianism/id1573190999?i=1000720849880"
+      }
+    },
+    {
       "id": "9c5557ec-b581-41b7-859a-79a3eefcead7",
       "title": "217. Paul Popenoe II: James Dobson And Positive Eugenics",
       "description": "We are back to Paul Popenoe with Tori from Go Home Bible. This week, we talk about positive eugenics, marriage counseling and my \u0022Dad\u0022, Dr. James Dobson.",

@@ -1,0 +1,25 @@
+{
+  "id": "6d2d9392-0fb2-4f17-ba79-299feb1b6c90",
+  "name": "De Tenebris Cordis",
+  "spotifyId": "5dVarI06TQkNDGfIySi0lG",
+  "appleId": 1497133490,
+  "episodes": [
+    {
+      "id": "2995097d-7ed2-4099-a867-98aaa1198b95",
+      "title": "Jonestown",
+      "description": "ATTENTION : Cet \u00E9pisode contient des propos pouvant heurter la sensibilit\u00E9 de certaines personnes. Il est d\u00E9conseill\u00E9 aux jeunes auditeurs ou aux personnes sensibles. Pour une exp\u00E9rience optimale, je vous recommande d\u2019\u00E9couter ce podcast avec un casque ou des \u00E9couteurs. Merci Le 18 novembre 1978, dans une clairi\u00E8re isol\u00E9e du Guyana, 914 personnes trouvent la mort, dont 276 enfants. Derri\u00E8re ce massacre : un homme. Jim Jones. Pr\u00EAcheur, militant, manipulateur. Fondateur du Temple du Peuple, il promettait une utopie, il a construit un pi\u00E8ge. Cet \u00E9pisode revient sur l\u2019ascension et la chute de ce faux proph\u00E8te, sur les espoirs de ses fid\u00E8les, sur la parano\u00EFa, les drogues, et les derni\u00E8res heures d\u2019une communaut\u00E9 devenue prisonni\u00E8re d\u2019un seul homme. Sources principales : \u2013 Extrait audio de la Jonestown Death Tape \u2013 Archives du Congr\u00E8s am\u00E9ricain \u2013 \u201CThe Violence of Jim Jones: A Biopsychosocial Explanation\u201D (Candice Lys, Cultic Studies Review) \u2013 T\u00E9moignages d\u2019anciens membres et articles de presse d\u2019\u00E9poque \u2013 \u201CThe cult of Jim Jones\u201D National Geographic channel Bonne \u00E9coute ! Retrouvez moi sur instagram: https://www.instagram.com/detenebriscordis/",
+      "release": "2025-08-07T11:10:01Z",
+      "duration": "00:22:01.3770000",
+      "explicit": false,
+      "spotifyId": "6iUsszV7c9GXuwjuhUp1Qa",
+      "appleId": 1000721043823,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6iUsszV7c9GXuwjuhUp1Qa",
+        "apple": "https://podcasts.apple.com/podcast/jonestown/id1497133490?i=1000721043823"
+      }
+    }
+  ]
+}

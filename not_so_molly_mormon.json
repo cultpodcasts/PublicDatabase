@@ -5,6 +5,23 @@
   "appleId": 1431103327,
   "episodes": [
     {
+      "id": "a2e2de76-e9d9-4848-9e7a-ddc3d2730cc0",
+      "title": "292: Mormon Mount Rushmore",
+      "description": "Email us: notsomollymormonpodcast@gmail.com\nSupport us: patreon.com/notsomollymormon",
+      "release": "2025-08-14T16:23:52Z",
+      "duration": "00:22:23",
+      "explicit": false,
+      "spotifyId": "5nx6Kkccopu4kTGXhI8fre",
+      "appleId": 1000721971782,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5nx6Kkccopu4kTGXhI8fre",
+        "apple": "https://podcasts.apple.com/podcast/292-mormon-mount-rushmore/id1431103327?i=1000721971782"
+      }
+    },
+    {
       "id": "25251110-77b6-46b2-a8cb-79ddf10d673c",
       "title": "291: \u0022Cherishing Life\u0022",
       "description": "Email us: notsomollymormonpodcast@gmail.com Support us: patreon.com/notsomollymormon",

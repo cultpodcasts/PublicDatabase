@@ -4870,6 +4870,9 @@
       "explicit": true,
       "spotifyId": "1QEsqlva54wR9GODatwnlK",
       "appleId": 1000415479506,
+      "subjects": [
+        "John Frum"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1QEsqlva54wR9GODatwnlK",
         "apple": "https://podcasts.apple.com/podcast/ep-48-the-happiest-man-and-the-best-dancer/id1276011417?i=1000415479506"

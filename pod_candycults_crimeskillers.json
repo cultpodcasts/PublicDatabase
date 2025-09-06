@@ -3,7 +3,27 @@
   "name": "Pod Candy - Cults, Crimes \u0026 Killers",
   "spotifyId": "4vWiWIYnqJtxu0DJwvzAaU",
   "appleId": 1813049296,
+  "youTubeChannelId": "UCFmsbXlmisJfHco-hQqCsYA",
   "episodes": [
+    {
+      "id": "d11f8897-66ab-4472-896c-ac91af18df4e",
+      "title": "The Cult of The Duggar Family",
+      "description": "In this powerful and disturbing episode, Stacey, Dori, and Dr. John take a deep dive into Shiny Happy People, the chilling docuseries exposing the Duggar family and their ties to the Institute in Basic Life Principles (IBLP), a fundamentalist Christian organization led by the controversial Bill Gothard. What lies beneath the surface of big smiles and modesty? Abuse, control, and a dangerous culture of silence. The hosts dissect the teachings and tactics of IBLP, including blanket training, purity culture, and the cult-like authoritarian system that robbed countless women and children of agency and safety. With raw honesty and expert insight, they explore how this toxic ideology went mainstream\u2014fueled by TLC\u2019s reality TV empire\u2014and how survivors are now bravely breaking their silence.",
+      "release": "2025-08-05T09:00:00Z",
+      "duration": "00:57:02.4400000",
+      "explicit": true,
+      "spotifyId": "2rcttCRKgCViaUh5qv4EIF",
+      "appleId": 1000720697387,
+      "youTubeId": "8PSwu-Z5iuw",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2rcttCRKgCViaUh5qv4EIF",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-the-duggar-family/id1813049296?i=1000720697387",
+        "youtube": "https://www.youtube.com/watch?v=8PSwu-Z5iuw"
+      }
+    },
     {
       "id": "308d08ac-b1ad-43af-a686-8ca31521bd87",
       "title": "Leaving an Orthodox Jewish Cult",

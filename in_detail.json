@@ -5,16 +5,72 @@
   "appleId": 1781007323,
   "episodes": [
     {
+      "id": "06139bc0-2897-4e8e-a1fd-414bade10a4b",
+      "title": "5. Judas",
+      "description": "Troubling revelations, a heavy conscience, and one man left questioning what to do next.\nPhilippa recalls her visit to court to testify on behalf of her friend \u0027Gemma\u0027 and shares how it led her to question her beliefs and her spiritual family.\nMeanwhile, the Jesus Army continues as it was before, protecting the community and the elders. \nFor information and support on issues covered in this episode, visit bbc.co.uk/actionline.",
+      "release": "2025-08-25T00:05:00Z",
+      "duration": "00:32:43",
+      "explicit": false,
+      "spotifyId": "6BSLybdD9Ro1IwrrT95cU7",
+      "appleId": 1000723364579,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6BSLybdD9Ro1IwrrT95cU7",
+        "apple": "https://podcasts.apple.com/podcast/5-judas/id1781007323?i=1000723364579"
+      }
+    },
+    {
+      "id": "8c310ab2-84ed-4a2a-ab85-aea75fd9ad5f",
+      "title": "4. Love, Power and Sacrifice",
+      "description": "Street preaching, child look-outs and a police investigation. The vulnerable are drawn into the Jesus Army while a court case looms. For information and support on issues covered in this episode, visit bbc.co.uk/actionline.",
+      "release": "2025-08-17T23:05:00Z",
+      "duration": "00:25:33.1520000",
+      "explicit": true,
+      "spotifyId": "07c2k1PLYwc1uw5hidUY0a",
+      "appleId": 1000722334476,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/07c2k1PLYwc1uw5hidUY0a",
+        "apple": "https://podcasts.apple.com/podcast/4-love-power-and-sacrifice/id1781007323?i=1000722334476"
+      }
+    },
+    {
+      "id": "aa8d4d0b-0e6f-4d73-b2b2-2f7929ca0020",
+      "title": "3. Family Values",
+      "description": "Faith, control and growing tension in the Fellowship Church community with wild services, exorcisms and warnings of hidden wrong doing.\n\nThis episode contains references to exorcism. \n\nFor information and support on issues covered in this episode, visit bbc.co.uk/actionline.",
+      "release": "2025-08-11T00:05:00Z",
+      "duration": "00:27:16",
+      "explicit": false,
+      "spotifyId": "4Dk5X2LA2QICrvXk5jtdec",
+      "appleId": 1000721433464,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Dk5X2LA2QICrvXk5jtdec",
+        "apple": "https://podcasts.apple.com/podcast/3-family-values/id1781007323?i=1000721433464",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0ltp9n3"
+      }
+    },
+    {
       "id": "2a7f80ac-65de-4a7d-93d7-99c64a8c1192",
       "title": "2. Genesis",
       "description": "All new followers were welcome to the Jesus Fellowship, they were given new names and strict rules to become a member of the community.\n\nTreasured possessions are left at the door. No media, no music, no belongings and harsh discipline for children.\n\nFor information and support on issues covered in this episode, visit bbc.co.uk/actionline.",
       "release": "2025-07-28T00:06:00Z",
       "duration": "00:26:35",
       "explicit": false,
+      "spotifyId": "17Alwhi4AnqNKyyPVvi46z",
+      "appleId": 1000720532682,
       "subjects": [
         "Jesus Army"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/17Alwhi4AnqNKyyPVvi46z",
+        "apple": "https://podcasts.apple.com/podcast/2-genesis/id1781007323?i=1000720532682",
         "bbc": "https://www.bbc.co.uk/sounds/play/p0lrwfv1"
       }
     },

@@ -5,6 +5,51 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "6341f5f6-d6e1-447d-a1aa-952d47de812c",
+      "title": "Spicy Hot - Season 11 Episode 5",
+      "description": "The Nice Cult reviews the Spicy Hot \u0022documentary\u0022",
+      "release": "2025-08-22T15:47:32Z",
+      "duration": "00:51:36.2180000",
+      "explicit": false,
+      "spotifyId": "57mvj9Y9MnKb3kCIkz633a",
+      "appleId": 1000723111432,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/57mvj9Y9MnKb3kCIkz633a",
+        "apple": "https://podcasts.apple.com/podcast/spicy-hot-season-11-episode-5/id1565633523?i=1000723111432"
+      }
+    },
+    {
+      "id": "1c67b6b6-ec97-496b-ba7d-a697b7c566bb",
+      "title": "Jeffrey Epstein - Season 11 Episode 4",
+      "description": "This episode we cover the documentary on Netflix Jeffrey Epstein Filthy Rich",
+      "release": "2025-08-14T02:37:15Z",
+      "duration": "01:02:05",
+      "explicit": false,
+      "spotifyId": "56KLAqp3ZkWqu4PBFbAYEq",
+      "appleId": 1000721889342,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/56KLAqp3ZkWqu4PBFbAYEq",
+        "apple": "https://podcasts.apple.com/podcast/jeffrey-epstein-season-11-episode-4/id1565633523?i=1000721889342"
+      }
+    },
+    {
+      "id": "d32bca03-700d-4c92-969e-41bdb893f382",
+      "title": "14 Peaks - Season 11 Episode 3",
+      "description": "We review the 14 Peaks documentary on Netflix. We are all blown away by how physically fit you have to be to accomplish this feet.",
+      "release": "2025-08-09T05:39:47Z",
+      "duration": "00:34:43.2240000",
+      "explicit": false,
+      "spotifyId": "2mD3JMwNt8dIGUUXEgr4zh",
+      "appleId": 1000721274659,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2mD3JMwNt8dIGUUXEgr4zh",
+        "apple": "https://podcasts.apple.com/podcast/14-peaks-season-11-episode-3/id1565633523?i=1000721274659"
+      }
+    },
+    {
       "id": "31e52ae2-9326-478d-85fb-c4aebe6b26ae",
       "title": "Amanda Knox - Season 11 Episode 2",
       "description": "In this episode we walk through the Amanda Knox documentary. Gunnar tries to bring fairy smut back with no success. He also gives a very unpopular opinion. Nathan makes a joke that Gunnar has to remove. Thor gets some more facts wrong.",

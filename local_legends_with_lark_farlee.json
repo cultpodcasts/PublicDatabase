@@ -1,0 +1,26 @@
+{
+  "id": "a1a03a8d-9664-41d5-8a49-4ee5b25c9887",
+  "name": "Local Legends with Lark Farlee",
+  "spotifyId": "25S3r0Zb9MkVm6SjOtUmSo",
+  "appleId": 1560565364,
+  "episodes": [
+    {
+      "id": "d22d88ea-2bf1-4277-b26d-75997bd0968f",
+      "title": "Indiana\u0027s Dark History: Cults",
+      "description": "The audio for this podcast is funky, rather than re-recording I went ahead and uploaded it as I didn\u0027t want to delay it by another month. I am dubbing this episode \u0022a voice note from your older sister who has drama that has to be shared\u0022. Today\u0027s episode will be over Indiana\u0027s most notorious cults. We\u0027ll be taking deep dives into the People\u0027s Temple, Faith Assembly, Faithhaven Baptist Church, and Brown County\u2019s very own Faith of the Holy Light.",
+      "release": "2025-08-03T16:00:00Z",
+      "duration": "01:03:11.1770000",
+      "explicit": false,
+      "spotifyId": "6FyqzghMFzEZOztcpZePnO",
+      "appleId": 1000720495980,
+      "subjects": [
+        "Peoples Temple",
+        "Faith Assembly"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6FyqzghMFzEZOztcpZePnO",
+        "apple": "https://podcasts.apple.com/podcast/indianas-dark-history-cults/id1560565364?i=1000720495980"
+      }
+    }
+  ]
+}

@@ -5,6 +5,20 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "c5ebfd0c-1545-40b6-97cb-2a5c224b14e6",
+      "title": "Not That Wheel Jesus",
+      "description": "Mary Katherine Backstrom talks to us about what happens when we are forced to reconsider the beliefs, assumptions, and stories that have always steered our course.",
+      "release": "2025-08-18T09:25:00Z",
+      "duration": "00:58:41.5130000",
+      "explicit": false,
+      "spotifyId": "3yC1bL1xsAi3P5U2L8l2fT",
+      "appleId": 1000722522230,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3yC1bL1xsAi3P5U2L8l2fT",
+        "apple": "https://podcasts.apple.com/podcast/not-that-wheel-jesus/id1438368947?i=1000722522230"
+      }
+    },
+    {
       "id": "f08be190-16cd-40a0-998a-a6bf04dd7d4e",
       "title": "Mother, Creature, Kin",
       "description": "What can other-than-human creatures teach us about mothering, belonging, caregiving, loss, and resiliency? Chelsea Steinauer-Scudder answers these questions in a quest to learn how to mother in incredibly challenging times.",

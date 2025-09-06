@@ -1,0 +1,30 @@
+{
+  "id": "b1dcac8b-4eed-4947-a9fe-f2d5fd7ecbd2",
+  "name": "Come On In, Queens",
+  "spotifyId": "5C5ifABeIAYNlpQkelie38",
+  "appleId": 1815997402,
+  "youTubeChannelId": "UCcE8vuf2Kwutm5R7kq9HWrg",
+  "episodes": [
+    {
+      "id": "8725062a-50c9-4850-b762-61ddf92765bc",
+      "title": "The Tribe Has Spoken: Escaping the Cult",
+      "description": "In today\u2019s powerful episode, Jacob opens up about his deeply personal journey of growing up in, and ultimately escaping a religious cult. He takes listeners on a crash course through key biblical teachings often used to condemn queer people, breaking down their historical context and lasting societal impact. From purity culture to patriarchal structures, we explore how these ideologies still echo through pop culture, and even in our favorite show, Survivor. This one is raw, revealing, and deeply resonant.",
+      "release": "2025-08-07T17:00:00Z",
+      "duration": "01:04:48.3200000",
+      "explicit": false,
+      "spotifyId": "4Jy0vQCAHDbBLwt2zBN6Mj",
+      "appleId": 1000721082137,
+      "youTubeId": "kq4zbWvMoVU",
+      "subjects": [
+        "Purity Culture",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Jy0vQCAHDbBLwt2zBN6Mj",
+        "apple": "https://podcasts.apple.com/podcast/the-tribe-has-spoken-escaping-the-cult/id1815997402?i=1000721082137",
+        "youtube": "https://www.youtube.com/watch?v=kq4zbWvMoVU"
+      }
+    }
+  ]
+}

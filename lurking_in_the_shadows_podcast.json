@@ -1,0 +1,25 @@
+{
+  "id": "30f5bc93-385a-4630-9b41-e27070c1ede3",
+  "name": "Lurking In the Shadows Podcast",
+  "spotifyId": "6jEDIvC0lkeQuclnH3k5u8",
+  "appleId": 1800401153,
+  "episodes": [
+    {
+      "id": "d0ee1198-4130-44aa-bfce-1b62f74b202c",
+      "title": "Wesson Family Massacre",
+      "description": "Episode 21: in this episode we tell you about the disturbing case of a family-made cult by a man named Marcus Wesson. He had multiple children and sadly assaulted and married some of those children and impregnated them. These horrific actions came to an end on March 12, 2004 when Marcus murdered 9 of his children in what would be known as the worst mass murder in Fresno, CA history. Tune in to learn the details. https://en.wikipedia.org/wiki/Marcus_Wesson https://abc30.com/marcus-wesson-mass-murder-children-killed-convicted-murderer/14518182/ https://abcnews.go.com/Primetime/marcus-wesson-mass-murder-surviving-family-speaks-abuse/story?id=11089648 https://6abc.com/archive/8240570/ https://www.cbsnews.com/news/jury-gives-death-to-killer-dad/ https://www.cnn.com/2005/LAW/04/22/wesson/",
+      "release": "2025-08-07T04:00:00Z",
+      "duration": "00:32:16.0790000",
+      "explicit": true,
+      "spotifyId": "4mcAdtXVJw5fHcyRZBuED8",
+      "appleId": 1000720988358,
+      "subjects": [
+        "Marcus Wesson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4mcAdtXVJw5fHcyRZBuED8",
+        "apple": "https://podcasts.apple.com/podcast/wesson-family-massacre/id1800401153?i=1000720988358"
+      }
+    }
+  ]
+}

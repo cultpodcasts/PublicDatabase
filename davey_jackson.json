@@ -13,11 +13,15 @@
       "release": "2025-04-24T02:00:21Z",
       "duration": "01:27:46",
       "explicit": false,
+      "spotifyId": "6TQ1Vfo4pGNiMVpSwm1MCG",
+      "appleId": 1000720686055,
       "youTubeId": "CniYb5Lw8Mg",
       "subjects": [
         "_Blank"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6TQ1Vfo4pGNiMVpSwm1MCG",
+        "apple": "https://podcasts.apple.com/podcast/cults-conspiracies-secret-societies-kurt-metzger-jenna/id1636313367?i=1000720686055",
         "youtube": "https://www.youtube.com/watch?v=CniYb5Lw8Mg"
       }
     },
@@ -28,11 +32,15 @@
       "release": "2025-03-27T01:00:49Z",
       "duration": "01:10:08",
       "explicit": false,
+      "spotifyId": "5M4m276DyVQheFq5s5KxQD",
+      "appleId": 1000720685584,
       "youTubeId": "vCkLk4CBmBM",
       "subjects": [
         "Troubled Teen Industry"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5M4m276DyVQheFq5s5KxQD",
+        "apple": "https://podcasts.apple.com/podcast/wilderness-cult-how-a-troubled-teen-survived-hell/id1636313367?i=1000720685584",
         "youtube": "https://www.youtube.com/watch?v=vCkLk4CBmBM"
       }
     },
@@ -43,11 +51,15 @@
       "release": "2025-03-13T01:00:20Z",
       "duration": "01:19:12",
       "explicit": false,
+      "spotifyId": "47xAw339gmPIBSicAxK779",
+      "appleId": 1000720683850,
       "youTubeId": "TtD_7RBFvkc",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/47xAw339gmPIBSicAxK779",
+        "apple": "https://podcasts.apple.com/podcast/military-spy-cult-jeremy-jonas-and-special-ops/id1636313367?i=1000720683850",
         "youtube": "https://www.youtube.com/watch?v=TtD_7RBFvkc"
       }
     },
@@ -58,11 +70,15 @@
       "release": "2025-02-13T02:00:04Z",
       "duration": "00:41:00",
       "explicit": false,
+      "spotifyId": "5UWcsXn4SivG6LWk7hABqd",
+      "appleId": 1000720682737,
       "youTubeId": "5TLkbqWO13A",
       "subjects": [
         "Institute In Basic Life Principles"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5UWcsXn4SivG6LWk7hABqd",
+        "apple": "https://podcasts.apple.com/podcast/shiny-happy-people-cult-update-with-lindsey-williams/id1636313367?i=1000720682737",
         "youtube": "https://www.youtube.com/watch?v=5TLkbqWO13A"
       }
     },
