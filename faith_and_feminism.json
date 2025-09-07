@@ -5,6 +5,41 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "fe963297-baf4-462e-b5ea-b5f7f1be2155",
+      "title": "Holy Hurt",
+      "description": "In Holy Hurt, award-winning clinical psychologist Hillary L. McBride delivers a profound message: spiritual trauma is real, widespread, and has far-reaching consequences. More importantly, she provides hope and practical guidance for those seeking healing from religious trauma and spiritual abuse.",
+      "release": "2025-09-02T09:30:00Z",
+      "duration": "00:53:19.0110000",
+      "explicit": false,
+      "spotifyId": "3KCEPOb6t6xbdR7x8zGhEr",
+      "appleId": 1000724531156,
+      "subjects": [
+        "Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3KCEPOb6t6xbdR7x8zGhEr",
+        "apple": "https://podcasts.apple.com/podcast/holy-hurt/id1438368947?i=1000724531156"
+      }
+    },
+    {
+      "id": "6eb40222-29f7-4e31-9d97-1ada0b8ff816",
+      "title": "Doug Wilson is Grooming Children",
+      "description": "Doug Wilson recently made headlines as the man whose church members want to take away women\u0027s right to vote, Pete Hegseth goes to his church. But what we know from the brief interview going viral is just the tip of the iceberg. Margaret of Deconstruction Doulas explains why.",
+      "release": "2025-08-26T09:30:00Z",
+      "duration": "01:07:34.0160000",
+      "explicit": false,
+      "spotifyId": "6BIcUSr5S41rc9IFPNlHVM",
+      "appleId": 1000723574454,
+      "subjects": [
+        "Douglas Wilson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6BIcUSr5S41rc9IFPNlHVM",
+        "apple": "https://podcasts.apple.com/podcast/doug-wilson-is-grooming-children/id1438368947?i=1000723574454"
+      }
+    },
+    {
       "id": "c5ebfd0c-1545-40b6-97cb-2a5c224b14e6",
       "title": "Not That Wheel Jesus",
       "description": "Mary Katherine Backstrom talks to us about what happens when we are forced to reconsider the beliefs, assumptions, and stories that have always steered our course.",

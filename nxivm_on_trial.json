@@ -3,6 +3,8 @@
   "name": "NXIVM on Trial",
   "spotifyId": "0Aqs2jgI9AD0fOqm1IBVKh",
   "appleId": 1462352368,
+  "youTubeChannelId": "UCEgBIoEucE2H6tA1LRywR3A",
+  "youTubePlaylistId": "PLspesOlmwluAQcMDS9-ybl5_zPk1eqao5",
   "episodes": [
     {
       "id": "bea92dee-6eb8-42d0-bf95-dd07a5204f16",
@@ -186,12 +188,14 @@
       "explicit": false,
       "spotifyId": "7r7O1c70FGG04QMhFteYUe",
       "appleId": 1000521368849,
+      "youTubeId": "xYO-b-KVD8w",
       "subjects": [
         "NXIVM"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7r7O1c70FGG04QMhFteYUe",
-        "apple": "https://podcasts.apple.com/podcast/dont-call-it-a-cult/id1462352368?i=1000521368849"
+        "apple": "https://podcasts.apple.com/podcast/dont-call-it-a-cult/id1462352368?i=1000521368849",
+        "youtube": "https://www.youtube.com/watch?v=xYO-b-KVD8w"
       }
     },
     {

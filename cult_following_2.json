@@ -1,0 +1,25 @@
+{
+  "id": "25a81cad-d12b-492c-98c0-1c92eb842f3d",
+  "name": "Cult Following",
+  "spotifyId": "3LVgmh4bAJNydHRDPAGpLE",
+  "appleId": 1830049318,
+  "episodes": [
+    {
+      "id": "2c7e57b7-3a18-4803-9159-9361d27fcaa0",
+      "title": "Happy Science",
+      "description": "Happy Science has a Cult Following.",
+      "release": "2025-08-10T17:54:22Z",
+      "duration": "00:04:20.3360000",
+      "explicit": false,
+      "spotifyId": "7eBbluY3bySxJZj9Bx69Pp",
+      "appleId": 1000721401735,
+      "subjects": [
+        "Happy Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7eBbluY3bySxJZj9Bx69Pp",
+        "apple": "https://podcasts.apple.com/podcast/happy-science/id1830049318?i=1000721401735"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "eee27445-c739-4413-9fa9-a375a73b5abf",
+  "name": "CBC News Saskatchewan",
+  "youTubeChannelId": "UCvdbpUpDg1cA4f_Jfg_-_TQ",
+  "episodes": [
+    {
+      "id": "c9f99cd5-9512-429d-bd00-bf7d460d0ad6",
+      "title": "\u0027Queen of Canada\u0027 faces RCMP charges, makes 1st court appearance",
+      "description": "Romana Didulo, the so-called \u0022Queen of Canada\u0022 cult leader, made her first appearance at Swift Current Provincial Court Friday morning. She faces two charges after a raid on the cult\u0027s compound on Wednesday.",
+      "release": "2025-09-06T00:00:24Z",
+      "duration": "00:02:14",
+      "explicit": false,
+      "youTubeId": "CANUI7oZD1M",
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CANUI7oZD1M"
+      }
+    }
+  ]
+}

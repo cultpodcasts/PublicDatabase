@@ -5,6 +5,37 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "e04ff56f-c983-4656-988f-f8d0076d8606",
+      "title": "Holy Hell - Season 11 Episode 7",
+      "description": "We walk through the Holy Hell documentary on YouTube. We come to the conclusion to never trust someone in a spedo.",
+      "release": "2025-09-06T15:55:24Z",
+      "duration": "00:49:58.2300000",
+      "explicit": false,
+      "spotifyId": "4G9daR4brcQkkpwbvLqzbJ",
+      "appleId": 1000725288912,
+      "subjects": [
+        "Buddhafield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4G9daR4brcQkkpwbvLqzbJ",
+        "apple": "https://podcasts.apple.com/podcast/holy-hell-season-11-episode-7/id1565633523?i=1000725288912"
+      }
+    },
+    {
+      "id": "54bca9b0-3e22-4a79-97fc-86f3c17c3c65",
+      "title": "30 for 30 Lance Armstrong - Season 11 Episode 6",
+      "description": "Thor asks us to review the 30 for 30 Lance Armstrong documentary that is on Netflix. Finn joins as a guest.",
+      "release": "2025-08-30T06:42:15Z",
+      "duration": "00:48:55.1180000",
+      "explicit": false,
+      "spotifyId": "6Nl8MByys1PqKRvp9dAtrp",
+      "appleId": 1000724133782,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Nl8MByys1PqKRvp9dAtrp",
+        "apple": "https://podcasts.apple.com/podcast/30-for-30-lance-armstrong-season-11-episode-6/id1565633523?i=1000724133782"
+      }
+    },
+    {
       "id": "6341f5f6-d6e1-447d-a1aa-952d47de812c",
       "title": "Spicy Hot - Season 11 Episode 5",
       "description": "The Nice Cult reviews the Spicy Hot \u0022documentary\u0022",

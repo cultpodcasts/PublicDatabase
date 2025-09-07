@@ -1,0 +1,25 @@
+{
+  "id": "2a497eb9-406c-41a7-b284-165bba89eb4b",
+  "name": "We Are More: Sisters Talk Faith \u0026 Feminism",
+  "spotifyId": "41weXSanIn3cYwzOhTP6le",
+  "appleId": 1729089289,
+  "episodes": [
+    {
+      "id": "29f42e4d-8f42-4330-a259-9e52e5ff3825",
+      "title": "Ep. 69: Shiny Happy Cult Survivors",
+      "description": "This week, we\u2019re diving into Season 2 of Shiny Happy People. It takes us inside Teen Mania\u2014boot camp\u2013style weekends, fear tactics, and nonstop manipulation disguised as discipleship. We\u2019re talking cult vibes, political power grabs, and how it left a generation of students picking up the pieces while pretending everything was shiny and happy.",
+      "release": "2025-08-14T13:00:00Z",
+      "duration": "00:53:29.0900000",
+      "explicit": false,
+      "spotifyId": "27yNZYGJ3dkVp3e9xCyuNt",
+      "appleId": 1000721951021,
+      "subjects": [
+        "Teen Mania Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/27yNZYGJ3dkVp3e9xCyuNt",
+        "apple": "https://podcasts.apple.com/podcast/ep-69-shiny-happy-cult-survivors/id1729089289?i=1000721951021"
+      }
+    }
+  ]
+}

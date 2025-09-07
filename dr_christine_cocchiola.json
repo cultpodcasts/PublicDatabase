@@ -14,6 +14,7 @@
       "explicit": false,
       "spotifyId": "41rMGNKRotGL19bHnHLrnG",
       "appleId": 1000721188312,
+      "youTubeId": "8MArwecta34",
       "subjects": [
         "Cult Psychology",
         "NXIVM",
@@ -21,7 +22,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/41rMGNKRotGL19bHnHLrnG",
-        "apple": "https://podcasts.apple.com/podcast/understanding-narcissism-and-coercive-control-with/id1704962170?i=1000721188312"
+        "apple": "https://podcasts.apple.com/podcast/understanding-narcissism-and-coercive-control-with/id1704962170?i=1000721188312",
+        "youtube": "https://www.youtube.com/watch?v=8MArwecta34"
       }
     },
     {

@@ -5,6 +5,40 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "c9663753-8753-4008-a3a4-535076770d41",
+      "title": "222. Jimmy Swaggart Part III",
+      "description": "This week, Jimmy is at the height of his career but things start to crack.",
+      "release": "2025-09-03T06:00:00Z",
+      "duration": "01:20:22.1770000",
+      "explicit": true,
+      "spotifyId": "2j536wu3W5v4LLUsAqZKm9",
+      "appleId": 1000724692878,
+      "subjects": [
+        "Jimmy Swaggart Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2j536wu3W5v4LLUsAqZKm9",
+        "apple": "https://podcasts.apple.com/podcast/222-jimmy-swaggart-part-iii/id1573190999?i=1000724692878"
+      }
+    },
+    {
+      "id": "1436b6f2-b95c-40c9-91ed-cfff856becb4",
+      "title": "221. Jimmy Swaggart II",
+      "description": "We are back discussing Jimmy Swaggart and his rise to the top of the evangelical world.",
+      "release": "2025-08-27T06:00:00Z",
+      "duration": "01:48:02.5730000",
+      "explicit": true,
+      "spotifyId": "0UUVrFMMu8SIv3BEQSsyJs",
+      "appleId": 1000723677143,
+      "subjects": [
+        "Jimmy Swaggart Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0UUVrFMMu8SIv3BEQSsyJs",
+        "apple": "https://podcasts.apple.com/podcast/221-jimmy-swaggart-ii/id1573190999?i=1000723677143"
+      }
+    },
+    {
       "id": "626c84a1-64fb-4f7b-bff9-118d73d41d85",
       "title": "220. Jimmy Swaggart Part I",
       "description": "We do our dive into the late Jimmy Swaggart",

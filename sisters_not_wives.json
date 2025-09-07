@@ -6,6 +6,25 @@
   "youTubeChannelId": "UCEWohgkI089Vj2hnCMLQ9ew",
   "episodes": [
     {
+      "id": "681bae52-2244-4d1d-a225-db6ae467bb74",
+      "title": "#11: Exploring the Roots of Mormon Feminism",
+      "description": "In this episode, we take a look at the history of women\u0027s rights within the church and how they were slowly dismantled and changed.\n\nWith a mass exodus of women leaving religion, we discuss the challenges and obstacles in a system that still has gender-based power structures.\n\nAnd finally, listen in to hear a once common, then forbidden, and now forgotten matriarchal blessing full of beauty and power that made this the first episode we cried in.",
+      "release": "2025-09-07T14:00:00Z",
+      "duration": "00:56:53.7840000",
+      "explicit": false,
+      "spotifyId": "2DLSlStpy7AfbPZMcyYY3w",
+      "appleId": 1000725379874,
+      "youTubeId": "jHbQxIamplg",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2DLSlStpy7AfbPZMcyYY3w",
+        "apple": "https://podcasts.apple.com/podcast/11-exploring-the-roots-of-mormon-feminism/id1818932495?i=1000725379874",
+        "youtube": "https://www.youtube.com/watch?v=jHbQxIamplg"
+      }
+    },
+    {
       "id": "e1cc0d8b-3ae3-4118-b2a0-924a70a4ff40",
       "title": "#10: The Polygamy Power Struggle | How Brigham Young Took Control",
       "description": "A murdered prophet. A power struggle. And a flood of hidden wives.",
@@ -14,12 +33,14 @@
       "explicit": false,
       "spotifyId": "07ofhNLjZr7iiSCbzzxEZA",
       "appleId": 1000722293536,
+      "youTubeId": "CN1zCpjeM9U",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/07ofhNLjZr7iiSCbzzxEZA",
-        "apple": "https://podcasts.apple.com/podcast/10-the-polygamy-power-struggle-how-brigham-young-took/id1818932495?i=1000722293536"
+        "apple": "https://podcasts.apple.com/podcast/10-the-polygamy-power-struggle-how-brigham-young-took/id1818932495?i=1000722293536",
+        "youtube": "https://www.youtube.com/watch?v=CN1zCpjeM9U"
       }
     },
     {
@@ -31,12 +52,14 @@
       "explicit": false,
       "spotifyId": "1Levyj9OerL2QfJFvVRt6S",
       "appleId": 1000721379157,
+      "youTubeId": "MLaKUMEvFvI",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Levyj9OerL2QfJFvVRt6S",
-        "apple": "https://podcasts.apple.com/podcast/9-the-scripture-brigham-young-didnt-want-you-to-see/id1818932495?i=1000721379157"
+        "apple": "https://podcasts.apple.com/podcast/9-the-scripture-brigham-young-didnt-want-you-to-see/id1818932495?i=1000721379157",
+        "youtube": "https://www.youtube.com/watch?v=MLaKUMEvFvI"
       }
     },
     {
