@@ -5,6 +5,30 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "1180f339-b0fe-4d65-8ec1-2727aa7e067d",
+      "title": "Women: You Matter. Reclaim Your Humanity",
+      "description": "The Church has long been concerned about the spiritual journey for men, neglecting women and the journey might look for them. Bekah Stewart challenges this longstanding tradition to show the way for women.",
+      "release": "2025-09-09T09:30:00Z",
+      "duration": "00:56:16",
+      "explicit": false,
+      "appleId": 1000725685442,
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/women-you-matter-reclaim-your-humanity/id1438368947?i=1000725685442"
+      }
+    },
+    {
+      "id": "d717710e-5541-4c49-a667-3baffc95bf2c",
+      "title": "Permission to Matter",
+      "description": "The Church has long been concerned about the spiritual journey for men, neglecting women and the journey might look for them. Bekah Stewart challenges this longstanding tradition to show the way for women.",
+      "release": "2025-09-09T00:00:00",
+      "duration": "00:56:15.0190000",
+      "explicit": false,
+      "spotifyId": "0A7iiNhlVlqBNMXGgH7r4e",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0A7iiNhlVlqBNMXGgH7r4e"
+      }
+    },
+    {
       "id": "fe963297-baf4-462e-b5ea-b5f7f1be2155",
       "title": "Holy Hurt",
       "description": "In Holy Hurt, award-winning clinical psychologist Hillary L. McBride delivers a profound message: spiritual trauma is real, widespread, and has far-reaching consequences. More importantly, she provides hope and practical guidance for those seeking healing from religious trauma and spiritual abuse.",

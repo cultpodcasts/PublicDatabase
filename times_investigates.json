@@ -1,0 +1,25 @@
+{
+  "id": "c122c300-7676-43da-9bc6-aebe627d7f62",
+  "name": "Times Investigates",
+  "spotifyId": "75APf1v7jwDRH2UJHvuS0q",
+  "appleId": 1630722986,
+  "episodes": [
+    {
+      "id": "8cd4e8c5-1f97-4f55-8ac2-dd8d79ef2ece",
+      "title": "Introducing: The Messiah and his Kittens",
+      "description": "The leader of Turkey\u2019s most powerful cult, Adnan Oktar, was sentenced to over 1,000 years in prison in January 2021. The Sunday Times\u2019s Middle East correspondent Louise Callaghan steps into his weird world of \u2018kittens\u2019, \u2018lions\u2019, and televangelism to reveal its dark heart. This podcast was brought to you thanks to subscribers of The Times and The Sunday Times. To enjoy unlimited digital access to all our journalism subscribe here . Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-09-10T03:41:12Z",
+      "duration": "00:01:03.3990000",
+      "explicit": false,
+      "spotifyId": "1e0YxlHswWYNzfJqAOwMbo",
+      "appleId": 1000725825048,
+      "subjects": [
+        "Adnan Oktar"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1e0YxlHswWYNzfJqAOwMbo",
+        "apple": "https://podcasts.apple.com/podcast/introducing-the-messiah-and-his-kittens/id1630722986?i=1000725825048"
+      }
+    }
+  ]
+}

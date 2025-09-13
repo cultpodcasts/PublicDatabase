@@ -1,0 +1,26 @@
+{
+  "id": "7dda4d39-68be-4a60-832c-f27f6a271be0",
+  "name": "The House of Pod",
+  "spotifyId": "3z6EgP0BzaHQoXzCtxQ32t",
+  "appleId": 1225096382,
+  "episodes": [
+    {
+      "id": "964b08f7-830d-40c5-bb16-f9bbda3fcc05",
+      "title": "Episode 95 - Sarah Hightower: Cults",
+      "description": "Lizzie and Kaveh talk about their election angst and interview anti-cult activist and researcher Sarah Hightower. We discuss the Japanese death cult Aum Shinrikyo as well as Q-ANON.Send your questions and comments to hopquestions@gmail.com, or leave a voicemail at 408-444-6623 Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2020-10-20T05:52:39Z",
+      "duration": "00:41:47.8590000",
+      "explicit": false,
+      "spotifyId": "0EWvDO1VCmw1r4BlnP05bI",
+      "appleId": 1000495375573,
+      "subjects": [
+        "Aum Shinrikyo",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0EWvDO1VCmw1r4BlnP05bI",
+        "apple": "https://podcasts.apple.com/podcast/episode-95-sarah-hightower-cults/id1225096382?i=1000495375573"
+      }
+    }
+  ]
+}

@@ -573,6 +573,9 @@
       "explicit": false,
       "spotifyId": "3aZm32MeWsX5CDEpuB6Pw4",
       "appleId": 1000664339781,
+      "subjects": [
+        "Birmingham Bathing Cult"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3aZm32MeWsX5CDEpuB6Pw4",
         "apple": "https://podcasts.apple.com/us/podcast/birmingham-bathing-cult/id1748253153?i=1000664339781"

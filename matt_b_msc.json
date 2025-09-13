@@ -4,6 +4,48 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "57a84abf-d426-402e-9b09-d3ce5e8e8c5f",
+      "title": "Helping the Fundamentalist Latter Day Saints (FLDS): The Modus Operandi of Christine Marie-Katas",
+      "release": "2025-09-13T07:00:06Z",
+      "duration": "00:09:58",
+      "explicit": false,
+      "youTubeId": "9onX5yWpxx0",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9onX5yWpxx0"
+      }
+    },
+    {
+      "id": "daa59370-b91b-4694-a891-1cb84443fa82",
+      "title": "Prosecuting Fundamentalist Latter Day Saints (FLDS) Cult Leader Warren Jeffs: Part I",
+      "release": "2025-09-11T21:51:00Z",
+      "duration": "00:03:52",
+      "explicit": false,
+      "youTubeId": "Skm-x0HZS3U",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Skm-x0HZS3U"
+      }
+    },
+    {
+      "id": "1b03af1b-4498-4853-b78c-2555ea7255c0",
+      "title": "Prosecuting Fundamentalist Latter Day Saints (FLDS) Cult Leader Warren Jeffs: Part II",
+      "release": "2025-09-11T17:01:10Z",
+      "duration": "00:04:11",
+      "explicit": false,
+      "youTubeId": "mIdVUjSwtTY",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mIdVUjSwtTY"
+      }
+    },
+    {
       "id": "7966573d-231a-42e0-831b-799665ee5da8",
       "title": "How does \u0026quot;charisma\u0026quot; actually work in the Fundamentalist Latter Day Saints? Dr Janja Lalich explains",
       "release": "2025-09-06T22:23:25Z",
@@ -11,7 +53,8 @@
       "explicit": false,
       "youTubeId": "xFn6ge1alYo",
       "subjects": [
-        "Cult-Expert"
+        "Cult-Expert",
+        "FLDS Church"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=xFn6ge1alYo"

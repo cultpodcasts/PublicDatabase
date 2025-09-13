@@ -5,6 +5,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "0891cb52-3fee-41f7-82b7-6f876d0bfc6c",
+      "title": "223. Jimmy Swaggart IV: The Climax",
+      "description": "Last episode about The Swag",
+      "release": "2025-09-10T00:28:20Z",
+      "duration": "02:11:06",
+      "explicit": false,
+      "spotifyId": "5yPTN4rDBokkL5PE5Ezj14",
+      "appleId": 1000725807579,
+      "subjects": [
+        "Jimmy Swaggart Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5yPTN4rDBokkL5PE5Ezj14",
+        "apple": "https://podcasts.apple.com/podcast/223-jimmy-swaggart-iv-the-climax/id1573190999?i=1000725807579"
+      }
+    },
+    {
       "id": "c9663753-8753-4008-a3a4-535076770d41",
       "title": "222. Jimmy Swaggart Part III",
       "description": "This week, Jimmy is at the height of his career but things start to crack.",

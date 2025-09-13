@@ -1,0 +1,50 @@
+{
+  "id": "08ca83aa-b509-46fe-9f20-5fffb9896cec",
+  "name": "Yeah Nah Pasaran!",
+  "spotifyId": "64t976Zwix2PFoVujX23BV",
+  "appleId": 1529396490,
+  "youTubeChannelId": "UCGPoqZp4gaxfKCT7zrYlnhw",
+  "youTubePlaylistId": "PLY3QSChA5FJaja4o5QIOe-pyq5ZKtSvUp",
+  "episodes": [
+    {
+      "id": "3b75546d-fa55-40ae-b1a4-510657c4a617",
+      "title": "Anke Richter on Cults \u0026 Conspiracies",
+      "description": "This week we head across the Tasman to have a yarn with Aotearoa-based journalist Anke Richter about cults and how to Fight Against Conspiracy Theories.",
+      "release": "2022-04-28T00:00:00",
+      "duration": "00:30:45.9950000",
+      "explicit": false,
+      "spotifyId": "1PAgD0vcqNHk4JTOoA0i2w",
+      "youTubeId": "kASiPsIFLr4",
+      "subjects": [
+        "Agama Yoga",
+        "Bhagwan Shree Rajneesh",
+        "Centrepoint",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1PAgD0vcqNHk4JTOoA0i2w",
+        "apple": "https://podcasts.apple.com/podcast/anke-richter-on-cults-conspiracies/id1529396490?i=1000558946895",
+        "youtube": "https://www.youtube.com/watch?v=kASiPsIFLr4"
+      }
+    },
+    {
+      "id": "50368d69-51d3-4d2b-b47f-20ee6d6f3b5d",
+      "title": "Sarah Hightower on Death Cults",
+      "description": "This week we spoke to Sarah Hightower, an independent researcher with an interest in cults \u0026 extremism, about Aum Shinrikyo and Qanon.",
+      "release": "2020-08-27T00:00:00",
+      "duration": "00:28:36.7150000",
+      "explicit": false,
+      "spotifyId": "2oVeCk78YlVEjJM9N6DmpC",
+      "youTubeId": "M7hWezM5C_k",
+      "subjects": [
+        "Aum Shinrikyo",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2oVeCk78YlVEjJM9N6DmpC",
+        "apple": "https://podcasts.apple.com/podcast/sarah-hightower-on-death-cults/id1529396490?i=1000489354316",
+        "youtube": "https://www.youtube.com/watch?v=M7hWezM5C_k"
+      }
+    }
+  ]
+}

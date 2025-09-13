@@ -1,9 +1,27 @@
 {
   "id": "5deff804-cdc7-496e-9e0d-bd29e246b3d4",
-  "name": "In Detail...",
+  "name": "BBC - The Jesus Army Cult",
   "spotifyId": "0aThRr8LBt7LZDWdL9t0VG",
   "appleId": 1781007323,
   "episodes": [
+    {
+      "id": "7c16abc6-c269-4248-a4d2-b5838a630b9b",
+      "title": "7. End of Days",
+      "description": "Ex-Jesus Army members unite in finding their freedom, rebuilding their identity and speaking their truth.\nFor information and support on issues covered in this episode, visit bbc.co.uk/actionline.",
+      "release": "2025-09-08T00:05:00Z",
+      "duration": "00:28:24",
+      "explicit": false,
+      "spotifyId": "7rLD95y6Nktknp70tZWojW",
+      "appleId": 1000725437550,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7rLD95y6Nktknp70tZWojW",
+        "apple": "https://podcasts.apple.com/podcast/7-end-of-days/id1781007323?i=1000725437550",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0lzm93f"
+      }
+    },
     {
       "id": "a0b2bf79-2c45-4f7c-acf2-76b2ab895424",
       "title": "6. Sins of the Flesh",
@@ -18,7 +36,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1kxK5oXMCI6NiJGtdlbdF8",
-        "apple": "https://podcasts.apple.com/podcast/6-sins-of-the-flesh/id1781007323?i=1000724307504"
+        "apple": "https://podcasts.apple.com/podcast/6-sins-of-the-flesh/id1781007323?i=1000724307504",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0lyc87t"
       }
     },
     {
@@ -35,7 +54,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6BSLybdD9Ro1IwrrT95cU7",
-        "apple": "https://podcasts.apple.com/podcast/5-judas/id1781007323?i=1000723364579"
+        "apple": "https://podcasts.apple.com/podcast/5-judas/id1781007323?i=1000723364579",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0lx02fp"
       }
     },
     {
@@ -52,7 +72,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/07c2k1PLYwc1uw5hidUY0a",
-        "apple": "https://podcasts.apple.com/podcast/4-love-power-and-sacrifice/id1781007323?i=1000722334476"
+        "apple": "https://podcasts.apple.com/podcast/4-love-power-and-sacrifice/id1781007323?i=1000722334476",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0lvz7px"
       }
     },
     {

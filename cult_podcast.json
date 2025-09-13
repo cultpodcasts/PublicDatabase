@@ -4235,6 +4235,9 @@
       "explicit": true,
       "spotifyId": "5BzArPlBtKlzfV3i74Cajf",
       "appleId": 1000432192653,
+      "subjects": [
+        "Joseph Kony"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5BzArPlBtKlzfV3i74Cajf",
         "apple": "https://podcasts.apple.com/podcast/ep-83-joseph-kony-pt-3-me-and-you/id1276011417?i=1000432192653"
@@ -4249,6 +4252,9 @@
       "explicit": true,
       "spotifyId": "4umOVUTjXyJYvBTYdjmZ2A",
       "appleId": 1000431562665,
+      "subjects": [
+        "Joseph Kony"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4umOVUTjXyJYvBTYdjmZ2A",
         "apple": "https://podcasts.apple.com/podcast/ep-82-joseph-kony-pt-2-little-seizures-pizza/id1276011417?i=1000431562665"
@@ -4263,6 +4269,9 @@
       "explicit": true,
       "spotifyId": "2sClAgPvKosVPncuE9AOjl",
       "appleId": 1000431029315,
+      "subjects": [
+        "Joseph Kony"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2sClAgPvKosVPncuE9AOjl",
         "apple": "https://podcasts.apple.com/podcast/ep-81-joseph-kony-pt-1-oily-boys/id1276011417?i=1000431029315"
