@@ -444,6 +444,7 @@
       "release": "2025-08-08T09:00:47Z",
       "duration": "00:37:55",
       "explicit": false,
+      "spotifyId": "5sKOKKv6ZhLLHWFzugruGL",
       "youTubeId": "RwQT6v-4YtU",
       "subjects": [
         "Opus Dei",
@@ -451,6 +452,7 @@
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5sKOKKv6ZhLLHWFzugruGL",
         "youtube": "https://www.youtube.com/watch?v=RwQT6v-4YtU"
       }
     },

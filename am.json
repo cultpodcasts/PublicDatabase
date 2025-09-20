@@ -1,0 +1,22 @@
+{
+  "id": "1cf24d10-094a-447b-a609-a72d5c38d9f0",
+  "name": "AM",
+  "appleId": 1309361573,
+  "episodes": [
+    {
+      "id": "b75b5a5b-69ea-43ff-a4fa-e21894eaba16",
+      "title": "Exclusive Brethren abuse survivor speaks out",
+      "description": "A Melbourne man is risking a million dollars to tell his story of abuse in the controversial church once known as the Exclusive Brethren. Prime Minister Anthony Albanese has referred to the Plymouth Brethren Christian Church as a \u0022cult\u0022 and now a Four Corners investigation has discovered the church made a million-dollar settlement offer - conditional on the abuse survivor abiding by a non-disclosure agreement",
+      "release": "2025-09-14T21:10:00Z",
+      "duration": "00:20:04",
+      "explicit": false,
+      "appleId": 1000726806399,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/australias-new-defence-initiatives/id1309361573?i=1000726806399"
+      }
+    }
+  ]
+}

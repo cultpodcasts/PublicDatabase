@@ -1,0 +1,28 @@
+{
+  "id": "8e2709ce-605d-49ed-be91-755c43229799",
+  "name": "Mexico Unexplained",
+  "spotifyId": "0Temut4hyrxoSQeHYYJ1mR",
+  "appleId": 1082586770,
+  "youTubeChannelId": "UC4VejBKo--c_-0PqLUxOcwQ",
+  "episodes": [
+    {
+      "id": "dfa3959e-dd98-4f39-91a9-7b837ef64dda",
+      "title": "The Blood Cult of Magdalena Sol\u00EDs",
+      "description": "An ex-prostitute had an incredible grip over a small town in northern Mexico, convincing the townsfolk to commit unspeakable acts.",
+      "release": "2025-09-14T16:22:25Z",
+      "duration": "00:14:32",
+      "explicit": false,
+      "spotifyId": "6cr3PY8QGdhlcNqBnsV9JE",
+      "appleId": 1000726774296,
+      "youTubeId": "BObnBuQov7k",
+      "subjects": [
+        "Magdalena Sol\u00EDs"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6cr3PY8QGdhlcNqBnsV9JE",
+        "apple": "https://podcasts.apple.com/podcast/the-blood-cult-of-magdalena-sol%C3%ADs/id1082586770?i=1000726774296",
+        "youtube": "https://www.youtube.com/watch?v=BObnBuQov7k"
+      }
+    }
+  ]
+}

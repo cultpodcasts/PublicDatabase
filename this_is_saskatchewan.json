@@ -1,0 +1,30 @@
+{
+  "id": "9791a557-84f3-4899-b3f7-7001aa5c3809",
+  "name": "This is Saskatchewan",
+  "spotifyId": "1TNFbQKfA1c5FStTZDLjOs",
+  "appleId": 1725997603,
+  "youTubeChannelId": "UCvdbpUpDg1cA4f_Jfg_-_TQ",
+  "episodes": [
+    {
+      "id": "c49546e5-99d1-4f30-afc2-34073787d9ec",
+      "title": "Relief in Richmound after cult leader is removed. But is the drama over?",
+      "description": "The self-described Queen of Canada is on house arrest in Regina after police raided the former school in the village of Richmound where she lived with her followers for the past two years. Is the saga over? One resident and a cult expert say, not yet.",
+      "release": "2025-09-17T01:40:00Z",
+      "duration": "00:19:16.1530000",
+      "explicit": false,
+      "spotifyId": "2oRmBkTsx4ixs7ixHPppPM",
+      "appleId": 1000727129095,
+      "youTubeId": "20_sVbMg8Uw",
+      "subjects": [
+        "Romana Didulo",
+        "Cult-Expert",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2oRmBkTsx4ixs7ixHPppPM",
+        "apple": "https://podcasts.apple.com/podcast/relief-in-richmound-after-cult-leader-is-removed-but/id1725997603?i=1000727129095",
+        "youtube": "https://www.youtube.com/watch?v=20_sVbMg8Uw"
+      }
+    }
+  ]
+}

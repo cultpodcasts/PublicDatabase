@@ -1,0 +1,25 @@
+{
+  "id": "dc636e68-3132-48fd-b5b9-6b70f4e913ea",
+  "name": "Nooit meer slapen",
+  "spotifyId": "0h8gUpEmfCSJBEN24RLMqC",
+  "appleId": 793155061,
+  "episodes": [
+    {
+      "id": "37a2a427-a6ae-48c0-be0f-7138fd9ad553",
+      "title": "Maroesja Perizonius (regisseur)",
+      "description": "Maroesja Perizonius is regisseur. Ze studeerde journalistiek aan de Hogeschool Holland. In 2004 maakte ze haar eerste film, \u2018Communekind\u2019, een persoonlijke documentaire over haar jeugd in Bhagwan-communes. Voor deze film won ze de \u2018Prijs van de stad Utrecht\u2019. Over haar ervaringen bij de Bhagwan schreef ze \u2018De droom van mijn moeder, leven in de Bhagwan-commune\u2019. Nu heeft Perizonius een nieuwe film: \u2018Children of the cult\u2019. In deze documentaire, die kans maakte op een British Academy Film Award (BAFTA) en vijf sterren kreeg in \u2018The Guardian\u2019, brengen kinderen die opgroeiden in Bhagwans Osho-sekte voor het eerst hun verhaal naar het grote doek. Ze vertellen over een patroon van misbruik en uitbuiting en confronteren de mensen die hiervoor verantwoordelijk waren. De film beleeft zijn Nederlandse premi\u00E8re op het Nederlands Film Festival. Femke van der Laan gaat met Maroesja Perizonius in gesprek",
+      "release": "2025-09-18T23:00:00Z",
+      "duration": "00:57:39.3250000",
+      "explicit": false,
+      "spotifyId": "5fHngDDpXgySUKmGFMdkSX",
+      "appleId": 1000727425084,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5fHngDDpXgySUKmGFMdkSX",
+        "apple": "https://podcasts.apple.com/podcast/maroesja-perizonius-regisseur/id793155061?i=1000727425084"
+      }
+    }
+  ]
+}

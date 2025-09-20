@@ -1,0 +1,27 @@
+{
+  "id": "9ad3b0ab-1b2a-46e4-804c-b9bbeefce9d7",
+  "name": "Big Take",
+  "spotifyId": "3xau7gwFqr29suMARYPkww",
+  "appleId": 1578096201,
+  "youTubeChannelId": "UChF5O40UBqAc82I7-i5ig6A",
+  "youTubePlaylistId": "PLe4PRejZgr0NPJB9wTuVsdzBVgFlcYQqN",
+  "episodes": [
+    {
+      "id": "2138d508-9a7c-4630-ba6e-9e6a43178a4f",
+      "title": "We Got 18,000 of Jeffrey Epstein\u2019s Emails",
+      "description": "Bloomberg News has obtained 18,000 emails from Jeffrey Epstein\u2019s personal email account. The emails cover two decades and a wide range of topics, from the chilling to the mundane: Details of his Amazon purchases, his reaction to photos of young women, how he considered different potential plea deals.\n Today on the show, Bloomberg\u2019s Jason Leopold and Ava Benny-Morrison with host David Gura on the massive trove of emails \u2014 and what they tell us about Epstein, his powerful network, and his former girlfriend and associate Ghislaine Maxwell.\n Read more:\u00A0Epstein\u2019s Inbox: A Trove of Emails Reveals Ghislaine Maxwell\u2019s Secrets\nSee omnystudio.com/listener for privacy information.",
+      "release": "2025-09-11T10:35:19Z",
+      "duration": "00:21:35",
+      "explicit": false,
+      "appleId": 1000726197191,
+      "youTubeId": "fWGxNnkves4",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/we-got-18-000-of-jeffrey-epsteins-emails/id1578096201?i=1000726197191",
+        "youtube": "https://www.youtube.com/watch?v=fWGxNnkves4"
+      }
+    }
+  ]
+}

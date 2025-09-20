@@ -5,6 +5,24 @@
   "appleId": 1667989249,
   "episodes": [
     {
+      "id": "c8f88769-2bf1-4d64-b2c1-27479fa761b1",
+      "title": "Fawning and the dangers of people-pleasing",
+      "description": "Clinical psychologist Ingrid Clayton used fawning as a coping strategy growing up in a scary home. It helped her in those frightening moments but came at a terrible price.",
+      "release": "2025-09-19T16:00:31Z",
+      "duration": "00:50:00.7380000",
+      "explicit": false,
+      "spotifyId": "33cpfure90v97myhKsMlYk",
+      "appleId": 1000727563213,
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/33cpfure90v97myhKsMlYk",
+        "apple": "https://podcasts.apple.com/podcast/fawning-and-the-dangers-of-people-pleasing/id1667989249?i=1000727563213"
+      }
+    },
+    {
       "id": "9260dd99-85b0-4e3b-ad4b-2ad23ac5389c",
       "title": "Investigating the cult-like tactics of modern marketers",
       "description": "Marketing companies can be pretty sneaky when trying to get new customers. Instead of straightforward sales pitches, they\u2019ve turned to manipulative tactics used by cults.",

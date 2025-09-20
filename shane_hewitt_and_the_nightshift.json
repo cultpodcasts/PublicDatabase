@@ -1,0 +1,26 @@
+{
+  "id": "3ee11816-3361-4aef-aefd-ef756bcafb7d",
+  "name": "Shane Hewitt and The Nightshift",
+  "spotifyId": "65rKbt9EUAZKP7GNvamCdY",
+  "appleId": 1756318756,
+  "episodes": [
+    {
+      "id": "5af4d61a-71e2-4333-8f09-3c53aeee4a37",
+      "title": "ICYMI: The Queen of Canada: Conspiracies and Cult Dynamics",
+      "description": "What happens when conspiracy theories collide with real-life consequences? Nathan Radke joins Shane Hewitt to examine Romana de Dulo, the self-proclaimed Queen of Canada, and the cult-like dynamics surrounding her movement. The conversation unpacks how stress, community, and belief systems can make people vulnerable to dangerous ideologies, drawing parallels to historical examples like Heaven\u2019s Gate and Waco. This episode explores the psychological costs of conspiracy thinking \u2014 and why critical awareness matters more than ever.\n GUEST Nathan Radke @theuncoverup\n Originally aired on\u00A02025-09-17",
+      "release": "2025-09-18T02:19:12Z",
+      "duration": "00:09:12",
+      "explicit": false,
+      "spotifyId": "3hm69c6VBuXPX9iWQTVsPT",
+      "appleId": 1000727278445,
+      "subjects": [
+        "Cult Psychology",
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3hm69c6VBuXPX9iWQTVsPT",
+        "apple": "https://podcasts.apple.com/podcast/icymi-the-queen-of-canada-conspiracies-and-cult-dynamics/id1756318756?i=1000727278445"
+      }
+    }
+  ]
+}

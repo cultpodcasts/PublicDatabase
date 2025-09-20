@@ -5,6 +5,23 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "e292122f-0041-41e0-b0b5-0e7699d12395",
+      "title": "Missionary Kids and White Evangelicalism",
+      "description": "What do we learn about white evangelicalism from those raised by its heroes? From historian Holly Berkley Fletcher, herself a missionary kid, comes this first-of-its-kind examination of how the experiences of missionary kids illuminate broader currents in American Christianity.",
+      "release": "2025-09-16T08:48:00Z",
+      "duration": "01:03:50",
+      "explicit": false,
+      "spotifyId": "7DVSAfpImVCAYZFP9JjGr5",
+      "appleId": 1000727021338,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7DVSAfpImVCAYZFP9JjGr5",
+        "apple": "https://podcasts.apple.com/podcast/missionary-kids-and-white-evangelicalism/id1438368947?i=1000727021338"
+      }
+    },
+    {
       "id": "1180f339-b0fe-4d65-8ec1-2727aa7e067d",
       "title": "Women: You Matter. Reclaim Your Humanity",
       "description": "The Church has long been concerned about the spiritual journey for men, neglecting women and the journey might look for them. Bekah Stewart challenges this longstanding tradition to show the way for women.",

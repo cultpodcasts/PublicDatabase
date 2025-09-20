@@ -1,0 +1,25 @@
+{
+  "id": "21ac742d-6d82-4f23-a2e2-aaecee0da6e1",
+  "name": "True Crime Tonight",
+  "spotifyId": "7o3nP488iutXckHjmPlspS",
+  "appleId": 1816838546,
+  "episodes": [
+    {
+      "id": "3e9285f4-242f-46ee-98b6-d1d5533bda3d",
+      "title": "Doomsday Murder Couple Sends Messages from Prison; Alleged Kirk Killer to Face Federal Charges",
+      "description": "The latest on the case of Charlie Kirk\u2019s murder; the strange messages from convicted \u2018Doomsday parents\u2019 Chad and Lori Daybell; and an unpacking of the Brian Walshe case ahead of his murder trial. Plus, the New Zealand dad who hid his kids from authorities for years, and the woman murdered by her state trooper ex after asking police for help. Also, hear from a hero. Tune in for all the details. See omnystudio.com/listener for privacy information.",
+      "release": "2025-09-16T06:34:21Z",
+      "duration": "01:33:24.7800000",
+      "explicit": false,
+      "spotifyId": "4kcPC3nJk9if4xvaKHxXEC",
+      "appleId": 1000727009745,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4kcPC3nJk9if4xvaKHxXEC",
+        "apple": "https://podcasts.apple.com/podcast/doomsday-murder-couple-sends-messages-from-prison-alleged/id1816838546?i=1000727009745"
+      }
+    }
+  ]
+}
