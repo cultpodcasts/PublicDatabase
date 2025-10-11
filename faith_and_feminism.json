@@ -5,6 +5,48 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "cbc0a133-f241-416e-85ba-58b81b750c03",
+      "title": "Healing From Complex Shame",
+      "description": "Dr. Zoe Shaw guides us through healing from complex shame.",
+      "release": "2025-10-07T15:14:00Z",
+      "duration": "00:58:22",
+      "explicit": false,
+      "spotifyId": "202DjwEi90iYIth0T7HZXx",
+      "appleId": 1000730630779,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/202DjwEi90iYIth0T7HZXx",
+        "apple": "https://podcasts.apple.com/podcast/healing-from-complex-shame/id1438368947?i=1000730630779"
+      }
+    },
+    {
+      "id": "3843b57a-2e70-409a-8ad0-91640f36c25e",
+      "title": "Justice of Jesus",
+      "description": "Joash Thomas and I go way back, nearly a decade, and today he is on the podcast talking to us about his new book \u0022The Justice of Jesus: Reimagining Your Church\u0027s Life Together to Pursue Liberation and Wholeness\u0022",
+      "release": "2025-09-30T19:10:00Z",
+      "duration": "01:02:17.0180000",
+      "explicit": false,
+      "spotifyId": "3ofleGKwEv08g5HOrdxNFJ",
+      "appleId": 1000729386292,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ofleGKwEv08g5HOrdxNFJ",
+        "apple": "https://podcasts.apple.com/podcast/justice-of-jesus/id1438368947?i=1000729386292"
+      }
+    },
+    {
+      "id": "0d50e968-0c1a-482b-a9cc-36bbca4e9d39",
+      "title": "Hell Bent with Brian Recker",
+      "description": "On today\u0027s podcast with Brian Recker, he shares about his new book Hell Bent (coming out next week) about how a theology of hell has bent Christianity into a religion of fear and control, and how this doesn\u0027t come close to what he thinks Christ envisioned for the Church.",
+      "release": "2025-09-22T16:56:00Z",
+      "duration": "01:07:35.5030000",
+      "explicit": false,
+      "spotifyId": "7iITTmXnHTWpMQ8LjqdupP",
+      "appleId": 1000727915743,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7iITTmXnHTWpMQ8LjqdupP",
+        "apple": "https://podcasts.apple.com/podcast/hell-bent-with-brian-recker/id1438368947?i=1000727915743"
+      }
+    },
+    {
       "id": "e292122f-0041-41e0-b0b5-0e7699d12395",
       "title": "Missionary Kids and White Evangelicalism",
       "description": "What do we learn about white evangelicalism from those raised by its heroes? From historian Holly Berkley Fletcher, herself a missionary kid, comes this first-of-its-kind examination of how the experiences of missionary kids illuminate broader currents in American Christianity.",

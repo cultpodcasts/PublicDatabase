@@ -1,0 +1,25 @@
+{
+  "id": "e9f51243-a0e4-41f9-8dca-896e48343499",
+  "name": "Betrayal Trauma Recovery",
+  "spotifyId": "54IhlM7JEJXK3geocKn2hG",
+  "appleId": 1118969643,
+  "episodes": [
+    {
+      "id": "197c4bc6-8fa0-427e-aee5-04abfd042911",
+      "title": "Is My Husband Hiding Money? \u2013 Victoria\u2019s Story",
+      "description": "Are you\u0027re wondering, \u0022Is my husband hiding money?\u0022 Here\u0027s how one woman found out.",
+      "release": "2025-10-07T11:00:00Z",
+      "duration": "00:30:48",
+      "explicit": false,
+      "spotifyId": "5ZkFOEj5bZ2d7Fyzlc81km",
+      "appleId": 1000730602108,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ZkFOEj5bZ2d7Fyzlc81km",
+        "apple": "https://podcasts.apple.com/podcast/is-my-husband-hiding-money-victorias-story/id1118969643?i=1000730602108"
+      }
+    }
+  ]
+}

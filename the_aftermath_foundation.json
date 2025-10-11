@@ -4,6 +4,62 @@
   "youTubeChannelId": "UCMT-VOz9O6TLDHEgO6YOcaQ",
   "episodes": [
     {
+      "id": "200fb832-6dc7-4139-baee-fefce0819cce",
+      "title": "Testimonial Tuesday | \u0026quot;A Boost of Hope\u0026quot;",
+      "release": "2025-10-07T22:56:28Z",
+      "duration": "00:01:07",
+      "explicit": false,
+      "youTubeId": "wk_r59Us7r8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=wk_r59Us7r8"
+      }
+    },
+    {
+      "id": "04b35c7f-d5a2-4c75-8d0e-27f721ca1dee",
+      "title": "Testimonial Tuesday | \u0026quot;Life-Saving\u0026quot;",
+      "release": "2025-10-01T00:37:38Z",
+      "duration": "00:00:41",
+      "explicit": false,
+      "youTubeId": "CTkNb3RC5E8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CTkNb3RC5E8"
+      }
+    },
+    {
+      "id": "7828b218-aa2d-475c-8520-1065162280de",
+      "title": "Foundation Feed Series #9: Ian Rafalko Part 2",
+      "release": "2025-09-28T04:33:28Z",
+      "duration": "01:11:05",
+      "explicit": false,
+      "youTubeId": "pDFLfAzD9NM",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pDFLfAzD9NM"
+      }
+    },
+    {
+      "id": "6471324e-4657-4f56-b6f4-014f5cbbebe2",
+      "title": "Foundation Feed Series #8: News and updates",
+      "release": "2025-09-21T02:01:25Z",
+      "duration": "00:49:30",
+      "explicit": false,
+      "youTubeId": "zKwoovQPEn0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zKwoovQPEn0"
+      }
+    },
+    {
       "id": "24ab7825-b8f3-4cbf-b63c-e40534e2f69b",
       "title": "Testimonial Tuesday | \u0026quot;Taking Off\u0026quot;",
       "release": "2025-09-16T22:49:53Z",

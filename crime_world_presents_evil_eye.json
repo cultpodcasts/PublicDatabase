@@ -1,0 +1,25 @@
+{
+  "id": "dd664eed-fd3c-4682-be14-c13a35382f65",
+  "name": "Crime World Presents: Evil Eye",
+  "spotifyId": "0hUDcrHZO1ZbxXyMSfnDUs",
+  "appleId": 1715522187,
+  "episodes": [
+    {
+      "id": "c868f36c-882d-42e6-8cf7-3835f709964d",
+      "title": "Coming Soon: Groomed \u2013 Control, Coercion, and the Cold-Hearted Killing of Showjumper Katie Simpson",
+      "description": "Groomed, a shocking new eight-part podcast series from Crime World, unveils the brutal truth behind the death of 21-year-old showjumper Katie Simpson, initially staged as a suicide but later revealed to be rape and murder at the hands of Jonathan Creswell, a 36-year-old with a history of controlling and abusing women. This narrative plunges into the dark world of a charismatic yet deeply depraved horseman who cultivated a cult-like control over multiple women, including Katie, her sister Christina, Jill Robinson, Hayley Robb, and Rose De Montmorency Wright. Despite a history of violence, chillingly previewed by the abuse of a former partner, Olympic showjumper Abigail Lyle, Creswell remained untouchable within the privileged equestrian community. It took the relentless efforts of a determined journalist and others to expose the truth, even as Creswell\u2019s own dramatic suicide during his murder trial left his accomplices to face justice alone. Nicola Tallant and the Crime World team talk to journalists and investigators, as well as Katie\u0027s friends and Creswell\u0027s victims, to investigate just how such a violent individual was allowed to hurt so many people, and why he almost got away with murder. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-01T04:30:00Z",
+      "duration": "00:01:23",
+      "explicit": false,
+      "spotifyId": "51uDcJ3sUXy56dCGL2LQKK",
+      "appleId": 1000729453860,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/51uDcJ3sUXy56dCGL2LQKK",
+        "apple": "https://podcasts.apple.com/podcast/coming-soon-groomed-control-coercion-and-the-cold/id1715522187?i=1000729453860"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "30c81ad1-7b0a-4382-8eaf-c6bc370b0b4f",
+  "name": "The Continuum Podcast",
+  "spotifyId": "1DApM6nPcsC9s7zWol8ZkZ",
+  "appleId": 1656586158,
+  "episodes": [
+    {
+      "id": "e966be3e-2d01-4884-9fae-9eb689a6cdb0",
+      "title": "143 - Scientology to Apocalypse Prep",
+      "description": "Adam and Kyle return for another wild journey through conspiracies, cults, and catastrophe. Kicking off with a deep dive... well, a dive into Scientology. They unravel its strange origins, Hollywood ties, and the bizarre lore of Xenu and alien souls. From there, the conversation drifts into film culture. Men in Black, Hollywood\u2019s weirdness, and the surprising history of Pinewood Studios. But as always, things take a darker turn: talk of alien sightings and mysterious drone swarms gives way to speculation about World War III, nuclear fallout, and survival in a post-apocalyptic world. By the end, the pair are weighing up their chances as doomsday preppers, canned beans and all. Funny, thoughtful, and just a little paranoid \u2014 this is The Continuum at its best. Like and Subscribe www.thecontinuumpod.com X - @thecontinuumpod Insta - @thecontinuumpod Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-06T04:00:00Z",
+      "duration": "00:34:11.9180000",
+      "explicit": true,
+      "spotifyId": "72Rcldmgn0dxcfBiXYePPT",
+      "appleId": 1000730344860,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72Rcldmgn0dxcfBiXYePPT",
+        "apple": "https://podcasts.apple.com/podcast/143-scientology-to-apocalypse-prep/id1656586158?i=1000730344860"
+      }
+    }
+  ]
+}

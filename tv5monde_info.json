@@ -1,0 +1,22 @@
+{
+  "id": "f0a29bb8-91f9-4c8b-be6f-428f6dcc70ae",
+  "name": "TV5MONDE Info",
+  "youTubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg",
+  "episodes": [
+    {
+      "id": "ebd30f09-bd60-48c1-8536-68e63d6a6efb",
+      "title": "\u0022La Famille, itin\u00E9raire d\u0027un secret\u0022 :  enqu\u00EAte sur une communaut\u00E9 tr\u00E8s discr\u00E8te",
+      "description": "La journaliste Suzanne Privat a enqu\u00EAt\u00E9 durant plus d\u0027un an sur une myst\u00E9rieuse communaut\u00E9 secr\u00E8te qui existe depuis le 19\u00E8me si\u00E8cle : \u0022La Famille\u0022. Les r\u00E8gles y sont nombreuses, les vies toutes trac\u00E9es et ceux qui veulent s\u0027affranchir sont contraints de partir.",
+      "release": "2021-05-23T17:31:01Z",
+      "duration": "00:07:21",
+      "explicit": false,
+      "youTubeId": "qgjpXphbe0o",
+      "subjects": [
+        "La Famille"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qgjpXphbe0o"
+      }
+    }
+  ]
+}

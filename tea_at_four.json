@@ -1,0 +1,31 @@
+{
+  "id": "fbf01130-d70e-4740-85b1-1a1e33a1c3b4",
+  "name": "Tea at Four",
+  "spotifyId": "3GPlwdY9f5XaioLlohju30",
+  "appleId": 1683356145,
+  "youTubeChannelId": "UC3vHhUX0DaV5vd-J2dmI3yA",
+  "episodes": [
+    {
+      "id": "9a905bce-a47b-4363-a502-b70c7241aa1b",
+      "title": "\u201CI joined a cult that ruined my life\u201D - surviving exorcisms, brainwashing and coercion",
+      "description": "Today Lauren and Christie are joined by cult survivor, Rachel Reign, who wants to raise awareness of the horrible things going on in the Universal Church of the Kingdom of God. She describes being \u2018recruited\u2019 at age 13, having exorcisms every Friday and the dating rules that would keep you from falling into sin. From both a religious and non-religious perspective, we explore what makes a cult a cult, and what are the warning signs you should look out for. Follow @survivinguniversaluk for more information on cultic and spiritual abuse. Send us your dilemmas, tea or quite frankly anything you find funny to teaatfour@junglecreations.com. \u0026#x1f496; Watch on YouTube https://www.youtube.com/@Teaatfourpod \u0026#x1f496; Follow on TikTok https://www.tiktok.com/@four.nine \u0026#x1f496; Follow on Instagram https://www.instagram.com/fournine/?hl=en Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-02T08:28:21Z",
+      "duration": "00:57:28.8940000",
+      "explicit": false,
+      "spotifyId": "2RMnNVUwkmStcz6onFfoY0",
+      "appleId": 1000729670814,
+      "youTubeId": "4RnjyFA7HHI",
+      "subjects": [
+        "Universal Church Of The Kingdom Of God",
+        "_London",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2RMnNVUwkmStcz6onFfoY0",
+        "apple": "https://podcasts.apple.com/podcast/i-joined-a-cult-that-ruined-my-life-surviving/id1683356145?i=1000729670814",
+        "youtube": "https://www.youtube.com/watch?v=4RnjyFA7HHI"
+      }
+    }
+  ]
+}

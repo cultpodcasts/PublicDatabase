@@ -1,0 +1,25 @@
+{
+  "id": "a18f131a-83cf-452d-8910-35c713e32d7e",
+  "name": "The Murder Diaries",
+  "spotifyId": "55kyDPfEhaYMsEuTjChWE4",
+  "appleId": 1475609603,
+  "youTubeChannelId": "UCMOs5iaFU9aSQPKvDsq-wUw",
+  "episodes": [
+    {
+      "id": "3b7c755d-94cd-4833-9ea5-3666918323e6",
+      "title": "UNSCRIPTED: The Cult of American Apparel Documentary",
+      "description": "This week on Unscripted, Natalie and Paige dive into the Cult of American Apparel documentary, dissecting the rise and fall of the iconic brand and the controversy surrounding its founder. From provocative marketing to toxic workplace culture, they explore how a company that promised authenticity became a cautionary tale. Tune in for hot takes, thoughtful commentary, and a candid conversation you won\u2019t want to miss. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-10-06T07:00:00Z",
+      "duration": "00:39:09.4530000",
+      "explicit": false,
+      "spotifyId": "1pankQJLxD8F55Z9556HEn",
+      "appleId": 1000730370675,
+      "youTubeId": "rrNhf25rCIs",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1pankQJLxD8F55Z9556HEn",
+        "apple": "https://podcasts.apple.com/podcast/unscripted-the-cult-of-american-apparel-documentary/id1475609603?i=1000730370675",
+        "youtube": "https://www.youtube.com/watch?v=rrNhf25rCIs"
+      }
+    }
+  ]
+}

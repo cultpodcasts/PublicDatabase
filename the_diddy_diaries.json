@@ -1,8 +1,49 @@
 {
   "id": "bc77cfc8-d890-43a2-808b-f8e358252427",
   "name": "The Diddy Diaries",
+  "spotifyId": "2ZECi9Vlf5XYWDmC4XRYPe",
   "appleId": 1712188502,
   "episodes": [
+    {
+      "id": "d5a79282-d6e9-4134-82ac-a4c7e331caff",
+      "title": "Mega Edition:  Diddy Moves To Exclude Testimony From Prosecution Expert Dr. Dawn Hughes (Parts 3-4) (10/4/25)",
+      "description": "This document is a motion in limine filed by Sean Combs\u2019 legal team in his federal criminal case (Case No. 24-cr-542) in the Southern District of New York, seeking to exclude the testimony of Dr. Dawn Hughes, a psychological expert the prosecution intends to call. Dr. Hughes is expected to testify about general behavioral patterns of victims and perpetrators of sexual and domestic abuse, which the defense argues would unfairly bolster the credibility of the government\u2019s witnesses \u2014 including alleged victims \u2014 without having evaluated any facts specific to this case. The defense asserts that Dr. Hughes\u2019s testimony is not based on a reliable scientific application to the actual circumstances surrounding Combs and instead consists of broad generalizations that risk misleading the jury by presenting \u201Ctypical\u201D abuse behavior as evidence of guilt.\n\nCombs\u2019 attorneys argue that Hughes\u2019s proposed testimony violates the standards set by Federal Rules of Evidence 702 and 403, which regulate expert witness admissibility. They claim her statements offer no specialized knowledge beyond what jurors already understand \u2014 such as abusers exploiting power or victims remaining in abusive relationships \u2014 and that she conflates clinical definitions of coercion with legal ones, potentially confusing the jury. The motion asserts that Hughes\u2019s testimony is \u201Cadvocacy masquerading as expertise\u201D and warns it would improperly bolster the credibility of government witnesses under the guise of psychology. The defense urges the court to block her from testifying, citing that her opinions are methodologically unsound and prejudicial rather than probative.\n\n\n\nto contact\u00A0 me:\n\n\nbobbycapucci@protonmail.com\n\n\n\nsource:\n\ngov.uscourts.nysd.628425.206.0.pdf",
+      "release": "2025-10-04T12:00:08Z",
+      "duration": "00:26:56",
+      "explicit": false,
+      "spotifyId": "17Caq7w3BRRdRgXnBJwZwd",
+      "appleId": 1000730079290,
+      "subjects": [
+        "Sean Combs",
+        "Cult Psychology",
+        "Psychology",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/17Caq7w3BRRdRgXnBJwZwd",
+        "apple": "https://podcasts.apple.com/podcast/mega-edition-diddy-moves-to-exclude-testimony-from/id1712188502?i=1000730079290"
+      }
+    },
+    {
+      "id": "bcf8d23c-c381-424f-883f-802d4529f8fb",
+      "title": "Mega Edition:  Diddy Moves To Exclude Testimony From Prosecution Expert Dr. Dawn Hughes (Parts 1-2) (10/4/25)",
+      "description": "This document is a motion in limine filed by Sean Combs\u2019 legal team in his federal criminal case (Case No. 24-cr-542) in the Southern District of New York, seeking to exclude the testimony of Dr. Dawn Hughes, a psychological expert the prosecution intends to call. Dr. Hughes is expected to testify about general behavioral patterns of victims and perpetrators of sexual and domestic abuse, which the defense argues would unfairly bolster the credibility of the government\u2019s witnesses \u2014 including alleged victims \u2014 without having evaluated any facts specific to this case. The defense asserts that Dr. Hughes\u2019s testimony is not based on a reliable scientific application to the actual circumstances surrounding Combs and instead consists of broad generalizations that risk misleading the jury by presenting \u201Ctypical\u201D abuse behavior as evidence of guilt.\n\nCombs\u2019 attorneys argue that Hughes\u2019s proposed testimony violates the standards set by Federal Rules of Evidence 702 and 403, which regulate expert witness admissibility. They claim her statements offer no specialized knowledge beyond what jurors already understand \u2014 such as abusers exploiting power or victims remaining in abusive relationships \u2014 and that she conflates clinical definitions of coercion with legal ones, potentially confusing the jury. The motion asserts that Hughes\u2019s testimony is \u201Cadvocacy masquerading as expertise\u201D and warns it would improperly bolster the credibility of government witnesses under the guise of psychology. The defense urges the court to block her from testifying, citing that her opinions are methodologically unsound and prejudicial rather than probative.\n\n\n\nto contact\u00A0 me:\n\n\nbobbycapucci@protonmail.com\n\n\n\nsource:\n\ngov.uscourts.nysd.628425.206.0.pdf",
+      "release": "2025-10-04T10:00:08Z",
+      "duration": "00:21:58",
+      "explicit": false,
+      "spotifyId": "6jtvMvC5NR6k3Xc0FfiVr4",
+      "appleId": 1000730070757,
+      "subjects": [
+        "Sean Combs",
+        "Cult Psychology",
+        "Psychology",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6jtvMvC5NR6k3Xc0FfiVr4",
+        "apple": "https://podcasts.apple.com/podcast/mega-edition-diddy-moves-to-exclude-testimony-from/id1712188502?i=1000730070757"
+      }
+    },
     {
       "id": "563509e2-e437-4bdc-83c8-b12097225a67",
       "title": "The Similarities Between Jeffrey Epstein, R. Kelly And Diddy",
@@ -10,12 +51,14 @@
       "release": "2025-08-14T00:00:08Z",
       "duration": "00:21:31",
       "explicit": false,
+      "spotifyId": "0rrv55lJbtywuY21xopL6b",
       "appleId": 1000721877009,
       "subjects": [
         "Human Trafficking",
         "Sean Combs"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0rrv55lJbtywuY21xopL6b",
         "apple": "https://podcasts.apple.com/podcast/the-similarities-between-jeffrey-epstein-r-kelly-and-diddy/id1712188502?i=1000721877009"
       }
     }

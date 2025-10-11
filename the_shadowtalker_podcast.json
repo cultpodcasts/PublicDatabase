@@ -1,0 +1,25 @@
+{
+  "id": "420172d4-9376-46b4-93cf-675224576f2b",
+  "name": "The ShadowTalker Podcast",
+  "spotifyId": "4v39kJYFfS37dqWJz21Odx",
+  "appleId": 1769484844,
+  "episodes": [
+    {
+      "id": "4d177564-8291-4b3d-b77b-1e9a892196fd",
+      "title": "Case #20 - Jason Duncan (Cult Therapy)",
+      "description": "Rootless Coffee Presents- Dossier: Jason Duncan, our subject for this evening\u0027s interrogation, has survived Christian Cults, an abusive step-parent, addiction in a biological parent, being a Southern Baptist, and growing up completely surrounded by the other. Conversely, he ws othered due to it all. This is truly a special interview. A tale of haunting like no other, told to your 3:33 AM agents Nathaniel and Peter over a mason jar of black, steaming Rootless Coffee. if you wish to catch the spirits appropriately, head on over to https://www.rootlesscoffee.com and enter SHADOW20 at checkout for a 20 percent savings! Rootless, they roast stuff, so drink it!",
+      "release": "2025-10-10T23:58:46Z",
+      "duration": "02:20:57.3260000",
+      "explicit": true,
+      "spotifyId": "0JIsEwvjdxOQRhKoOuQ8h2",
+      "appleId": 1000731258436,
+      "subjects": [
+        "Southern Baptist Convention"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0JIsEwvjdxOQRhKoOuQ8h2",
+        "apple": "https://podcasts.apple.com/podcast/case-20-jason-duncan-cult-therapy/id1769484844?i=1000731258436"
+      }
+    }
+  ]
+}

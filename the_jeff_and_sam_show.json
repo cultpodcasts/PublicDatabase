@@ -1,0 +1,25 @@
+{
+  "id": "9e8d2d61-9828-4b66-af03-d997b95aa077",
+  "name": "The Jeff and Sam Show",
+  "spotifyId": "768jtqWLkVy8oI3u4GEz3W",
+  "appleId": 1747583624,
+  "episodes": [
+    {
+      "id": "c750687b-94f4-49f3-9181-a46f164902e7",
+      "title": "67 \u2013 The Kurim Case",
+      "description": "It\u0027s spooky season so it\u0027s getting dark. This week Sam recounts the harrowing story of the Kurim case, a horrific child abuse scandal that emerged in the Czech Republic in 2007. This gripping story unveiled a clandestine cult shrouded in manipulation and cruelty, as well as the shocking revelation of a 33-year-old woman who was ...hiding a secret. The case first came to light in May 2007 when a man in Kurim inadvertently intercepted his neighbor\u0027s baby monitor signal. What he witnessed was nothing short of horrifying: unsettling images of a naked and bound young boy named Ondrej, imprisoned in a cupboard. Visit us on Linktree for all our links, Instagram, or email us at jeffandsamshow@gmail.com. Show Sources: Mother, aunt, mysterious woman, girl, boy sentenced in Brno child abuse case \u2013 Radio Prague International The Kurim Case: A Terrifying True Story of Child Abuse, Cults \u0026 Cannibalism \u2013 Ryan Green Case 223: The Kurim Case \u2013 Casefile Podcast",
+      "release": "2025-10-02T04:00:00Z",
+      "duration": "01:18:59.8070000",
+      "explicit": true,
+      "spotifyId": "0bWGBvFZcQD337ezc3KkT9",
+      "appleId": 1000729635368,
+      "subjects": [
+        "Kurim Case"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0bWGBvFZcQD337ezc3KkT9",
+        "apple": "https://podcasts.apple.com/podcast/67-the-kurim-case/id1747583624?i=1000729635368"
+      }
+    }
+  ]
+}

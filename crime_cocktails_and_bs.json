@@ -1,0 +1,29 @@
+{
+  "id": "a3be4088-e766-4bdd-9c6b-02b7146808fc",
+  "name": "Crime, Cocktails, and BS",
+  "spotifyId": "7J1xqa5NtlNeZ4bMCZ5r4T",
+  "appleId": 1701446070,
+  "youTubeChannelId": "UCR4OOHlmJ_Y87rJGL20OX2g",
+  "episodes": [
+    {
+      "id": "c14ded22-ac06-40b2-b83e-6d02aff06d14",
+      "title": "Cults \u0026 Couture: Ahmadi Religion of Peace and Light, Church of God with Signs Following \u0026 RHOSLC",
+      "description": "This week, we\u2019re diving into two wild corners of the cult world: the modern, media-savvy Ahmadi Religion of Peace and Light and the snake-handling, strychnine-drinking Church of God with Signs Following. From international recruitment tactics to Appalachian backroads, these stories are as unsettling as they are fascinating.\nAnd of course\u2014we\u2019re breaking down all the latest drama from The Real Housewives of Salt Lake City. Buckle up for cults, chaos, and cold Utah shade.",
+      "release": "2025-10-07T12:24:14Z",
+      "duration": "00:56:12",
+      "explicit": false,
+      "spotifyId": "2H3DWu4MI8Uhwvk9j1deDD",
+      "appleId": 1000730608922,
+      "youTubeId": "aiVlh8LAhHk",
+      "subjects": [
+        "Ahmadi Religion of Peace and Light",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2H3DWu4MI8Uhwvk9j1deDD",
+        "apple": "https://podcasts.apple.com/podcast/cults-couture-ahmadi-religion-of-peace-and-light/id1701446070?i=1000730608922",
+        "youtube": "https://www.youtube.com/watch?v=aiVlh8LAhHk"
+      }
+    }
+  ]
+}

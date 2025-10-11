@@ -1,8 +1,32 @@
 {
   "id": "244f7e2f-fac8-42f2-9c52-2943a446bff4",
   "name": "MedCircle",
+  "spotifyId": "3NkI1UqUQE0VYUhdhe84s2",
+  "appleId": 1836292339,
   "youTubeChannelId": "UCyGOloOIJWt8NlE4tnejQeA",
   "episodes": [
+    {
+      "id": "1853192b-56f0-48c4-83c9-b4b1596678a4",
+      "title": "Leaving a Cult \u0026 Living with Purpose | Flor Edwards",
+      "description": "Flor Edwards shares her extraordinary journey from growing up in the apocalyptic cult Children of God to becoming a beacon of healing and hope. Born into a world where death seemed imminent and freedom was an illusion, Flor\u0027s story is a testament to the unbreakable human spirit.\n\n#cult #narcissism",
+      "release": "2025-10-01T11:01:42Z",
+      "duration": "02:09:28",
+      "explicit": false,
+      "spotifyId": "5Q1YgVTZAU5VFa4qC9AAJz",
+      "appleId": 1000729487042,
+      "youTubeId": "tpB9Ap96TaU",
+      "subjects": [
+        "Children Of God",
+        "Psychology",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Q1YgVTZAU5VFa4qC9AAJz",
+        "apple": "https://podcasts.apple.com/podcast/leaving-a-cult-living-with-purpose-flor-edwards/id1836292339?i=1000729487042",
+        "youtube": "https://www.youtube.com/watch?v=tpB9Ap96TaU"
+      }
+    },
     {
       "id": "a590b2f2-7a11-4728-a150-dd3e46a06c86",
       "title": "Growing Up In A Cult",

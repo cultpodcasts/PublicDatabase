@@ -4,6 +4,53 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "c6d05f93-1b29-4046-8543-a0268f016e6c",
+      "title": "EP# 142 ~ C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico Cap\u00EDtulo 1 ~ Castalio 10/7/2009",
+      "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico",
+      "release": "2025-10-09T00:00:00",
+      "duration": "00:06:32.6720000",
+      "explicit": false,
+      "spotifyId": "56v7ihep348l3GORMsnxVz",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/56v7ihep348l3GORMsnxVz"
+      }
+    },
+    {
+      "id": "5b0b7efa-891e-4397-80c4-1837d62b2b32",
+      "title": "EP# 141 ~ Manglano y Opus Dei: un final previsible ~ Jim\u00E9nez 12/6/2020",
+      "description": "Manglano y Opus Dei: un final previsible",
+      "release": "2025-10-01T00:00:00",
+      "duration": "00:06:38.3610000",
+      "explicit": false,
+      "spotifyId": "1HmGSs8b1lrLoNpdAPNBUi",
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1HmGSs8b1lrLoNpdAPNBUi"
+      }
+    },
+    {
+      "id": "e32d7970-03dd-41f6-9310-36f19aa261d3",
+      "title": "EP# 140 ~ \u00BFMI \u00DALTIMA VOLUNTAD? ~ Johannes Kuhlmann 24/6/2019",
+      "description": "\u00BFMI \u00DALTIMA VOLUNTAD?",
+      "release": "2025-09-23T00:00:00",
+      "duration": "00:08:03.9960000",
+      "explicit": false,
+      "spotifyId": "3YelndVTr8zpCeMOGdWMG4",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3YelndVTr8zpCeMOGdWMG4"
+      }
+    },
+    {
       "id": "c03cf6d1-1abf-48a7-850c-96907b6b3572",
       "title": "EP# 139 ~ Efectos del Motu Proprio Ad charisma tuendum ~ Gervasio 15/8/2022",
       "description": "Efectos del Motu Proprio Ad charisma tuendum",

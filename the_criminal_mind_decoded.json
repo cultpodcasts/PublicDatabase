@@ -1,0 +1,25 @@
+{
+  "id": "bdf33924-912f-4cbf-9f17-44292752083f",
+  "name": "The Criminal Mind Decoded",
+  "spotifyId": "7l8wus3DAcIIigDl38VmmA",
+  "appleId": 1837678522,
+  "episodes": [
+    {
+      "id": "48a2d4c3-b447-410e-a259-afec25663bd7",
+      "title": "The Psychology of Cult Leaders: Manipulation and Control",
+      "description": "This episode delves into the captivating and disturbing world of cult leaders, exploring how they manipulate and control their followers. We\u0027ll examine infamous cases, discuss the psychological tactics employed, and investigate the societal conditions that allow such individuals to rise to power. Join us as we unravel the complex psychological dynamics at play in the creation and maintenance of cults.",
+      "release": "2025-10-06T20:44:47Z",
+      "duration": "00:10:41",
+      "explicit": false,
+      "spotifyId": "1mLji4ssoEnDdgx1tJOowI",
+      "appleId": 1000730472505,
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1mLji4ssoEnDdgx1tJOowI",
+        "apple": "https://podcasts.apple.com/podcast/the-psychology-of-cult-leaders-manipulation-and-control/id1837678522?i=1000730472505"
+      }
+    }
+  ]
+}

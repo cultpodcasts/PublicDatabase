@@ -1,0 +1,27 @@
+{
+  "id": "632af7bf-fd17-400e-ac2e-0ea6067327c9",
+  "name": "The Other Side of Midnight with Lionel",
+  "spotifyId": "1TBEo4JAF77T26vVPgmeim",
+  "appleId": 1533675150,
+  "episodes": [
+    {
+      "id": "7d291e3c-9c39-43ab-9f82-643b1a25da67",
+      "title": "Hour 2: Amway vs. Scientology | 10-09-25",
+      "description": "Lionel explores everything from the idea of a cult (including Scientology and the \u0022American Way\u0022 of Amway rallies) to the intense \u0022mind control\u0022 seen in sports fanatics. The conversation tackles complex relationship dynamics, examining what happens when \u0022love or something else\u0022 turns predatory, as seen in caretaker situations and divorce. Plus: A fiery debate over \u0022grandstanding judges\u0022 like Judge Judy, the unbelievable defiance of \u0022sovereign citizens\u0022 who claim they are only \u0022traveling\u0022, and whether customer service is obligated to tell you if you\u0027re talking to an AI. Lionel urges listeners to understand persuasion and change the way people think.\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-10-09T11:17:00Z",
+      "duration": "00:52:16",
+      "explicit": false,
+      "spotifyId": "2RgEoD7rMDERZualVgkdaW",
+      "appleId": 1000730958177,
+      "subjects": [
+        "Amway",
+        "Multi-Level Marketing",
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2RgEoD7rMDERZualVgkdaW",
+        "apple": "https://podcasts.apple.com/podcast/hour-2-amway-vs-scientology-10-09-25/id1533675150?i=1000730958177"
+      }
+    }
+  ]
+}

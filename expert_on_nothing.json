@@ -1,0 +1,25 @@
+{
+  "id": "4c11729e-9888-4d1c-a586-f25e94a9a78b",
+  "name": "Expert On Nothing",
+  "spotifyId": "4nDhr8003LNfJRaH0jgEry",
+  "appleId": 1559336673,
+  "episodes": [
+    {
+      "id": "cbe4a89f-3bc2-4c43-84f5-00b5a45d8ed9",
+      "title": "Growing up in a cult with Richard Baker",
+      "release": "2025-09-22T18:00:00Z",
+      "duration": "00:56:33.5780000",
+      "explicit": false,
+      "spotifyId": "6D4XTnvwcgJ5hapcuDGLdp",
+      "appleId": 1000727922253,
+      "subjects": [
+        "Geelong Revival Centre",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6D4XTnvwcgJ5hapcuDGLdp",
+        "apple": "https://podcasts.apple.com/podcast/growing-up-in-a-cult-with-richard-baker/id1559336673?i=1000727922253"
+      }
+    }
+  ]
+}

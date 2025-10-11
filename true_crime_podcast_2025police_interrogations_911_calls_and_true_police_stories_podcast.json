@@ -1,0 +1,25 @@
+{
+  "id": "9b288427-b4a5-46e9-aab8-a586dbf1f47e",
+  "name": "True Crime Podcast 2025 - Police Interrogations, 911 Calls and True Police Stories Podcast",
+  "spotifyId": "0Re2fAlRF3d44j83JJzYIZ",
+  "appleId": 1650943629,
+  "episodes": [
+    {
+      "id": "8fb68b72-cf3b-4791-8233-380706fbc119",
+      "title": "David Berkowitz - The Son of Sam Speaks - Full Interview",
+      "description": "David Berkowitz - The Son of Sam Speaks - Full Interview\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/true-crime-podcast-2025-police-interrogations-911-calls-and-true-police-stories-podcast--5693470/support.",
+      "release": "2025-10-01T22:00:08Z",
+      "duration": "01:49:09",
+      "explicit": false,
+      "spotifyId": "2GnCTOy8CKuSYPB7BdbDNV",
+      "appleId": 1000729591489,
+      "subjects": [
+        "David Berkowitz"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2GnCTOy8CKuSYPB7BdbDNV",
+        "apple": "https://podcasts.apple.com/podcast/david-berkowitz-the-son-of-sam-speaks-full-interview/id1650943629?i=1000729591489"
+      }
+    }
+  ]
+}

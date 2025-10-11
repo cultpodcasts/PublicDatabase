@@ -1,0 +1,25 @@
+{
+  "id": "e21d46e1-cf22-44c8-8017-df1cc201995d",
+  "name": "The Character\u0027s Toolkit",
+  "spotifyId": "0229AIzijs0RoaXrMs8GSw",
+  "appleId": 1817528646,
+  "episodes": [
+    {
+      "id": "276ea258-8b62-4d35-be3e-056c48c67294",
+      "title": "Leaving A Cult: Healing and Finding Freedom and Our Last Resort",
+      "description": "Marisa chats with author Cl\u00E9mence Michallon (Our Last Resort) and therapist Dr. Natalie Feinblatt about overcoming the challenges of rebuilding identity, healing, and embracing freedom after leaving a cult. Want more? Follow @TheCharactersToolkit on Instagram!",
+      "release": "2025-10-09T17:46:00Z",
+      "duration": "00:45:48.1180000",
+      "explicit": false,
+      "spotifyId": "6kjr7CI3NS8xJk5K2Bd92l",
+      "appleId": 1000731016932,
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6kjr7CI3NS8xJk5K2Bd92l",
+        "apple": "https://podcasts.apple.com/podcast/leaving-a-cult-healing-and-finding-freedom-and/id1817528646?i=1000731016932"
+      }
+    }
+  ]
+}

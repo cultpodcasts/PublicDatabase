@@ -4,6 +4,21 @@
   "youTubeChannelId": "UCialgSZ939oOc5xyGEL7jSA",
   "episodes": [
     {
+      "id": "cfc2a2a8-bdd4-4972-bed3-ea8c167bf89e",
+      "title": "NBC Jonestown Survivor Interview: Tim and Mike Carter and Mike Prokes, 1978",
+      "description": "Interview by NBC correspondent Andrea Mitchell with Jonestown survivors Tim and Mike Carter and Mike Prokes at Guyana\u0027s Park Hotel. 11/25/1978.",
+      "release": "2025-09-22T13:15:03Z",
+      "duration": "00:06:51",
+      "explicit": false,
+      "youTubeId": "9tju0Fn6Ezk",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9tju0Fn6Ezk"
+      }
+    },
+    {
       "id": "3637ca20-547b-4ae6-9061-a37c31916ca5",
       "title": "Jonestown Survivor: Stephan Jones Press Conference, 1978",
       "description": "Press conference with the son of Jim Jones, Stephan Jones, in Guyana. Also features survivors Paula Adams, Lee Ingram, and  Touchette. 11/21/1978",

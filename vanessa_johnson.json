@@ -1,0 +1,49 @@
+{
+  "id": "202dc3cf-9334-43d5-a457-95ddb3532620",
+  "name": "Vanessa Johnson",
+  "youTubeChannelId": "UCJhjbmpPkVg-bkwYTm3sZYw",
+  "episodes": [
+    {
+      "id": "52a8aa83-0271-4862-9122-c6054a97daef",
+      "title": "$10,000 Bond for Michelle Brannon - David E. Taylor Cult",
+      "release": "2025-10-01T23:14:42Z",
+      "duration": "00:19:48",
+      "explicit": false,
+      "youTubeId": "KBpRUgMf7Qg",
+      "subjects": [
+        "Joshua Media Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KBpRUgMf7Qg"
+      }
+    },
+    {
+      "id": "42dd7be1-1891-4763-9cf6-465992c16ef8",
+      "title": "U.S. Government asks for NO BOND - Michelle Brannon - David E. Taylor Cult",
+      "release": "2025-09-29T23:20:20Z",
+      "duration": "00:25:57",
+      "explicit": false,
+      "youTubeId": "lwRCmFfUO90",
+      "subjects": [
+        "Joshua Media Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lwRCmFfUO90"
+      }
+    },
+    {
+      "id": "e70b2ab4-470f-4664-9c48-a08d4824a740",
+      "title": "INSIDE the David E. Taylor cult with Leslie Portillo",
+      "release": "2025-09-28T00:11:04Z",
+      "duration": "01:18:57",
+      "explicit": false,
+      "youTubeId": "p2O3gUUzU0I",
+      "subjects": [
+        "Joshua Media Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=p2O3gUUzU0I"
+      }
+    }
+  ]
+}

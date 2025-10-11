@@ -5,6 +5,23 @@
   "appleId": 174829950,
   "episodes": [
     {
+      "id": "51b73d2e-01eb-4741-a400-b843cb1cd3b3",
+      "title": "The chessmaster who grew up in a cult",
+      "description": "Chessmaster, Danny Rensch, on his new memoir, Dark Squares, tells that story of his cult years, the competitions and co-founding chess.com",
+      "release": "2025-10-01T21:06:00Z",
+      "duration": "00:29:44.1600000",
+      "explicit": false,
+      "spotifyId": "4csmbXZgHZdle9HspQARsY",
+      "appleId": 1000729594164,
+      "subjects": [
+        "Church of Immortal Consciousness"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4csmbXZgHZdle9HspQARsY",
+        "apple": "https://podcasts.apple.com/podcast/the-chessmaster-who-grew-up-in-a-cult/id174829950?i=1000729594164"
+      }
+    },
+    {
       "id": "56fec10f-1a3e-4912-bcf9-dbf0f70de163",
       "title": "Unveiled: Theophila Pratt\u0027s story of surviving Gloriavale",
       "description": "At 18, after a life of servitude and subserviance, Theophila Pratt was dropped at a bus stop and left to fend for herself. She tells her story of surviving Gloriavale",

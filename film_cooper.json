@@ -1,0 +1,21 @@
+{
+  "id": "91b0b4f7-d6de-44d7-8751-4b4340d0698f",
+  "name": "Film Cooper",
+  "youTubeChannelId": "UCWTSOOYG0cfkUqsl-UUxVCA",
+  "episodes": [
+    {
+      "id": "b4abaaad-cf32-453f-b404-161836941924",
+      "title": "The DOOMSDAY CULT That Took Over TikTok",
+      "release": "2025-09-29T21:54:07Z",
+      "duration": "00:46:59",
+      "explicit": false,
+      "youTubeId": "UHVcFxGyVK8",
+      "subjects": [
+        "Joshua Mhlakela"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=UHVcFxGyVK8"
+      }
+    }
+  ]
+}

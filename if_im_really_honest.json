@@ -1,0 +1,47 @@
+{
+  "id": "b22da7f3-19a4-46be-8e83-3e502940a3d3",
+  "name": "If I\u2019m Really Honest",
+  "spotifyId": "5f53Nc35RJWP0JDKrESSDY",
+  "appleId": 1832652507,
+  "youTubeChannelId": "UC26qE2uoKSl53_gOmLhHc6A",
+  "episodes": [
+    {
+      "id": "33a27a32-c3b8-4a65-81bd-6530b09fea3c",
+      "title": "Rick Alan Ross - Cults Inside And Out",
+      "description": "A practical tour of how cults actually work\u2014with de-programmer and Cult Education Institute founder Rick Alan Ross. We unpack recruiting tactics, thought reform, \u201Cloaded language,\u201D high-control group structures, the Waco through-line, and how to help loved ones get out\u2014without demonizing everyone who believes differently. #IfImReallyHonest #TeamPossiblyWrong\n\n\u2022 Cult Education Institute: https://culteducation.com/\n\n\u2022 Cults Inside Out (book site): https://cultsinsideout.com/\n \nMore from the show:\n\u2022 Website: https://IfImReallyHonest.com\n\n\u2022 Superfan page: https://JaminColler.com/iirh_SuperFans",
+      "release": "2025-10-09T15:00:39Z",
+      "duration": "01:02:58",
+      "explicit": false,
+      "spotifyId": "6PE5UucnEdkHlBSLMbui8n",
+      "appleId": 1000730987484,
+      "youTubeId": "LCiZGYoOX3A",
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6PE5UucnEdkHlBSLMbui8n",
+        "apple": "https://podcasts.apple.com/podcast/rick-alan-ross-cults-inside-and-out/id1832652507?i=1000730987484",
+        "youtube": "https://www.youtube.com/watch?v=LCiZGYoOX3A"
+      }
+    },
+    {
+      "id": "d37cdce6-3c5c-48ef-842a-022dd07cc2d6",
+      "title": "Michelle Dowd - Forager in an Apocalyptic Cult",
+      "description": "This episode features an honest, moving conversation with author and educator Michelle Dowd, whose memoir Forager: Field Notes on Surviving a Cult explores growing up inside a high-control religious community and building a new life beyond it. We discuss her forthcoming book A Prodigal Daughter, her Substack newsletter where she engages with readers, and her pilot series based on the stories of people who lived in and left the group.\n\nMichelle shares her experience of leaving the community, raising four children differently, navigating relationships with family who stayed, and the long process of healing from attachment loss and indoctrination.\n\nConnect with Michelle Dowd:\n\n\n\nForager: Field Notes on Surviving a Cult on Amazon: https://www.amazon.com/Forager-Field-Notes-Surviving-Cult/dp/164375308X\n\n\n\nMichelle Dowd\u2019s Substack newsletter: https://IfImReallyHonest.com\n\n\n\nSuperfan page: https://JaminColler.com/iirh_Superfans\n\n\n\n#IfImReallyHonest #TeamPossiblyWrong",
+      "release": "2025-10-02T13:00:00Z",
+      "duration": "01:08:11",
+      "explicit": false,
+      "spotifyId": "74cCZIIFI9ZYSh5mh8PjLC",
+      "appleId": 1000729711378,
+      "youTubeId": "p-btWxICap0",
+      "subjects": [
+        "Kare Youth League"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74cCZIIFI9ZYSh5mh8PjLC",
+        "apple": "https://podcasts.apple.com/podcast/michelle-dowd-forager-in-an-apocalyptic-cult/id1832652507?i=1000729711378",
+        "youtube": "https://www.youtube.com/watch?v=p-btWxICap0"
+      }
+    }
+  ]
+}

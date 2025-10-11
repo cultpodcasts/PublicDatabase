@@ -1,0 +1,25 @@
+{
+  "id": "d438507f-d0aa-4472-94cb-def6978873f1",
+  "name": "Murderess Podcast",
+  "spotifyId": "0uiI3WA4KWI9n9blU3AKLq",
+  "appleId": 1551831964,
+  "episodes": [
+    {
+      "id": "c24e5f8b-d92b-428b-9028-9ea0fb582f76",
+      "title": "Murderess Replay: #51 Apple Colorists, Kevin Hart and Joe Rogan and (The Manson Women)",
+      "description": "Tell me what stayed with you\u2014I read every message. Your thoughts might even shape what the Quiet Jury hears next on Patreon. \u0026#x1f399; Murderess Replay: Ep. 51 \u2014 The Manson Women August 1969. The world remembers the names Tate and LaBianca \u2014 but behind Charles Manson\u2019s cult of personality stood a group of young women whose devotion turned deadly. In this Murderess Replay, host Sidney Smith revisits the story of Susan Atkins, Patricia Krenwinkel, and Leslie Van Houten \u2014 women who followed Manson into violence and infamy. Through trial transcripts, witness accounts, and the haunting image of a cult turned murderous, we explore how loyalty, manipulation, and identity left a permanent scar on American history. Plus, more.",
+      "release": "2025-09-25T08:00:00Z",
+      "duration": "01:18:14.9350000",
+      "explicit": true,
+      "spotifyId": "6Z6ewx8n1wbh06ynZNy1VN",
+      "appleId": 1000728362374,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Z6ewx8n1wbh06ynZNy1VN",
+        "apple": "https://podcasts.apple.com/podcast/murderess-replay-51-apple-colorists-kevin-hart-and/id1551831964?i=1000728362374"
+      }
+    }
+  ]
+}

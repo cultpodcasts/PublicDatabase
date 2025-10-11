@@ -5,6 +5,48 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "12818a13-b091-4634-8e6b-3b1bf8726a26",
+      "title": "227. 1885 World Series W/Scott Okamoto",
+      "description": "We take a small break and dive into our yearly baseball episode and we talk about Billy Sunday and the 1885 World Series with our fellow baseball super fan, Scott Okamoto.",
+      "release": "2025-10-08T06:00:00Z",
+      "duration": "01:28:55.2750000",
+      "explicit": true,
+      "spotifyId": "6u1lG2FAmi5aN8hY7LHvF8",
+      "appleId": 1000730759865,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6u1lG2FAmi5aN8hY7LHvF8",
+        "apple": "https://podcasts.apple.com/podcast/227-1885-world-series-w-scott-okamoto/id1573190999?i=1000730759865"
+      }
+    },
+    {
+      "id": "6d147ed5-ac79-409d-b822-08ca45509eb2",
+      "title": "226. Infancy Gospel Of James W/Tori from Go Home Bible",
+      "description": "This week, we are joined by Tori of Go Home Bible, Youre Drunk and White Homework. We discuss the birth of Mary, her childhood and the birth of Jesus.",
+      "release": "2025-10-01T06:00:00Z",
+      "duration": "01:53:05.7240000",
+      "explicit": true,
+      "spotifyId": "2CthhrJReEiq7hRpuemPzP",
+      "appleId": 1000729465495,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2CthhrJReEiq7hRpuemPzP",
+        "apple": "https://podcasts.apple.com/podcast/226-infancy-gospel-of-james-w-tori-from-go-home-bible/id1573190999?i=1000729465495"
+      }
+    },
+    {
+      "id": "22539818-7f4d-47d2-b57b-c4ff06364129",
+      "title": "225. See You At The Pole II",
+      "description": "We talk columbine, 9/11 and a tragedy.",
+      "release": "2025-09-24T05:57:00Z",
+      "duration": "01:57:13.7820000",
+      "explicit": false,
+      "spotifyId": "1LR6HjcMi1xkhiD96akDZ6",
+      "appleId": 1000728176436,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1LR6HjcMi1xkhiD96akDZ6",
+        "apple": "https://podcasts.apple.com/podcast/225-see-you-at-the-pole-ii/id1573190999?i=1000728176436"
+      }
+    },
+    {
       "id": "ffce4fc9-39fa-42ae-a344-41e12a15a9af",
       "title": "LOST Episode 101: Interview with Dan Friesen Of Knowledge Fight",
       "description": "Episode 101 has been found! Enjoy the interview I did with Dan from Knowledge Fight from quite a while ago.",

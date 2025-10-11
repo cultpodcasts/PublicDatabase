@@ -6,6 +6,25 @@
   "youTubeChannelId": "UCkXl_d--yg89cUP8ZLNBlIw",
   "episodes": [
     {
+      "id": "3e614bd4-4784-43a1-a705-329b381669d9",
+      "title": "Plymouth Brethren Survivor Mick Dover",
+      "description": "Mick Dover used to be a member of the Plymouth Brethren Christian Church, a vicious cult that has been accused by several individuals of systemic sexual, mental, and emotional abuse. \n\nThis is his story.",
+      "release": "2025-10-08T22:46:04Z",
+      "duration": "00:53:19",
+      "explicit": false,
+      "spotifyId": "5tgBTOq7ECfONsHz1uorjw",
+      "appleId": 1000730908242,
+      "youTubeId": "moYep9OkOrs",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5tgBTOq7ECfONsHz1uorjw",
+        "apple": "https://podcasts.apple.com/podcast/mick-dover-survivor-of-plymouth-brethren-cult/id1569093583?i=1000730908242",
+        "youtube": "https://www.youtube.com/watch?v=moYep9OkOrs"
+      }
+    },
+    {
       "id": "721f37d2-7dbd-4469-8f6a-39c1de6c6b2f",
       "title": " BIG BRETHREN: Australian doc exposes Plymouth Brethren Cult",
       "description": "ABC out of Australia just aired BIG BRETHREN, a documentary about the horrors associated with the Plymouth Brethren Christian Church. But did the doc go far enough in exposing this cult? Richard Marsh and David Wallace joins James to discuss the significance of having this cult exposed by major media outlets. Learn more about your ad choices. Visit megaphone.fm/adchoices",
