@@ -1,0 +1,57 @@
+{
+  "id": "f0ee5d05-cc3b-4737-bd45-255c3a0da35a",
+  "name": "Shunned for Good Reason",
+  "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
+  "episodes": [
+    {
+      "id": "2f2126e6-5ebb-4f85-a388-1306e4d219d9",
+      "title": "Putting Cults in Context: What makes a cult turn violent?",
+      "description": "Why do people turn on one another in the name of religion?",
+      "release": "2025-10-11T17:50:39Z",
+      "duration": "00:06:09",
+      "explicit": false,
+      "youTubeId": "kOIVweSCHs4",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kOIVweSCHs4"
+      }
+    },
+    {
+      "id": "b810dfb7-d75b-4768-8351-b6b393310581",
+      "title": "Putting Cults in Context: Calvinism versus Arminianism and what is TULIP?",
+      "release": "2025-10-11T17:19:49Z",
+      "duration": "00:05:04",
+      "explicit": false,
+      "youTubeId": "XDVAIJtkVME",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XDVAIJtkVME"
+      }
+    },
+    {
+      "id": "25c73917-9ea2-44b4-90fd-58d98bd55f7d",
+      "title": "Putting Cults in Context: Protestant versus Catholic ",
+      "description": "Background on Protestantism to put Evangelicalism in context",
+      "release": "2025-10-11T17:17:39Z",
+      "duration": "00:04:38",
+      "explicit": false,
+      "youTubeId": "egZsPWm6m30",
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=egZsPWm6m30"
+      }
+    },
+    {
+      "id": "295e3f8d-25ed-4fcd-bdfe-c8b9874ada86",
+      "title": "Putting Cults in Context: What makes a cult?",
+      "description": "What differentiates a religion from a cult? And are you in one?\nPoor sound quality. Bear with me.",
+      "release": "2025-10-11T17:15:35Z",
+      "duration": "00:08:36",
+      "explicit": false,
+      "youTubeId": "U7-94F8cAiQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=U7-94F8cAiQ"
+      }
+    }
+  ]
+}

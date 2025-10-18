@@ -1,0 +1,25 @@
+{
+  "id": "c7b0d0d9-2a1d-4b77-b315-0ed987123ec4",
+  "name": "Sects Education",
+  "spotifyId": "21hTWc7wO0vzf93sySCYSa",
+  "appleId": 1844875689,
+  "youTubeChannelId": "UCMJgOMxr4FX0xf7LHFcnY7Q",
+  "episodes": [
+    {
+      "id": "a123028a-c5a5-4a5d-8d8e-c54509eba8e8",
+      "title": "Beta Dominion Xenophilia: All Cats Talk to Heaven",
+      "description": "He was a high school dropout who said that he came from another planet. He recruited a small group of followers who lived together in rural Maryland, who were eager to hear his message. And when he needed to get in touch with his home world, he sent a message to the mothership \u2014 through his cats.",
+      "release": "2025-10-13T16:18:36Z",
+      "duration": "00:06:17",
+      "explicit": false,
+      "spotifyId": "2kLaiLTXSmMEsiPACASgx7",
+      "appleId": 1000731666743,
+      "youTubeId": "2SCLmumr4gY",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2kLaiLTXSmMEsiPACASgx7",
+        "apple": "https://podcasts.apple.com/podcast/beta-dominion-xenophilia-all-cats-talk-to-heaven/id1844875689?i=1000731666743",
+        "youtube": "https://www.youtube.com/watch?v=2SCLmumr4gY"
+      }
+    }
+  ]
+}

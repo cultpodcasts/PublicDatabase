@@ -1,0 +1,28 @@
+{
+  "id": "8340d927-37dd-4e2a-b5ce-af2fc4278587",
+  "name": "Praise Be To Pod",
+  "spotifyId": "3XkmQGWnGRq7SalxjjtOmD",
+  "appleId": 1815368664,
+  "youTubeChannelId": "UCkJ0LpODCUXDxAUT-4A6sDg",
+  "episodes": [
+    {
+      "id": "51cf5d17-c61b-4e4a-b676-e31e7e317679",
+      "title": "Spooky Season: The Cult of IBLP",
+      "description": "Bailee and Ashley dig into the world of the Institute in Basic Life Principles (IBLP) \u2014 the fundamentalist organization at the center of the Shiny Happy People docuseries and the belief system that shaped the Duggar family. They explore how IBLP\u2019s teachings on authority, purity, and submission created a culture of fear disguised as faith \u2014 and how those ideas spread far beyond one family or movement.\n\nThey also reflect on how growing up under similar ideologies shaped their own understanding of womanhood, obedience, and \u201Cgodly order,\u201D and what it takes to unlearn those systems while holding space for both humor and healing.\n\nConnect with Us:\n\uD83D\uDCF8 Instagram: @praisebetopod\n\uD83D\uDCBB Web: www.praisebetopod.com",
+      "release": "2025-10-12T15:01:16Z",
+      "duration": "00:53:51",
+      "explicit": false,
+      "spotifyId": "6WYXKPa1Ju1ZfHlJ9rGjUZ",
+      "appleId": 1000731457608,
+      "youTubeId": "kH5mSBEVv0s",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6WYXKPa1Ju1ZfHlJ9rGjUZ",
+        "apple": "https://podcasts.apple.com/podcast/spooky-season-the-cult-of-iblp/id1815368664?i=1000731457608",
+        "youtube": "https://www.youtube.com/watch?v=kH5mSBEVv0s"
+      }
+    }
+  ]
+}

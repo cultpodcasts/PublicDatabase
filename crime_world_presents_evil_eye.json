@@ -1,9 +1,60 @@
 {
   "id": "dd664eed-fd3c-4682-be14-c13a35382f65",
-  "name": "Crime World Presents: Evil Eye",
+  "name": "Crime World Presents: Groomed",
   "spotifyId": "0hUDcrHZO1ZbxXyMSfnDUs",
   "appleId": 1715522187,
   "episodes": [
+    {
+      "id": "3511f096-a61e-4271-9cc5-439cf4e56044",
+      "title": "Groomed: Golden Haired Boy",
+      "description": "Episode three of Groomed examines origins of Jonathan Creswell, and the young woman who would become one of his primary victims: Christina Simpson. Creswell, the lovechild of a wealthy farmer and a teenager, was a \u0022golden child\u0022 in the equestrian world, who began a relationship with 15-year-old Christina after joining Darton Ree Stables, pulling her, along with former girlfriend Jill Robinson, into his dangerous orbit. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-13T04:35:00Z",
+      "duration": "00:32:09",
+      "explicit": false,
+      "spotifyId": "28bCCdcvrxdZsa9bQKARcp",
+      "appleId": 1000731537258,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/28bCCdcvrxdZsa9bQKARcp",
+        "apple": "https://podcasts.apple.com/podcast/groomed-golden-haired-boy/id1715522187?i=1000731537258"
+      }
+    },
+    {
+      "id": "f81dd8eb-cf73-47d6-b85b-cd5b4ace455c",
+      "title": "Groomed: Close to Murder",
+      "description": "In this episode, we look at Jonathan Creswell\u0027s history of extreme coercive control and physical abuse through the experience of his ex-partner, world-class show-jumper Abigail Lyle, who bravely spoke out about how he regularly beat and strangled her, and threatened her life, leading to his eventual, though short, prison sentence. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-13T04:33:00Z",
+      "duration": "00:36:55",
+      "explicit": false,
+      "spotifyId": "2ZaNKpGcAOxldSVFIiJxyK",
+      "appleId": 1000731537289,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2ZaNKpGcAOxldSVFIiJxyK",
+        "apple": "https://podcasts.apple.com/podcast/groomed-close-to-murder/id1715522187?i=1000731537289"
+      }
+    },
+    {
+      "id": "ac94db89-c177-4dd9-af92-8723b27c83ca",
+      "title": "Groomed: The Pied Piper of Tynan",
+      "description": "Groomed is the disturbing story of Katie Simpson, a talented young horsewoman who tragically died after being beaten and strangled by her sister\u0027s partner, Jonathan Creswell. In this episode we see how Creswell, an ambitious and cocky jockey and horse-trainer, had established a pattern of emotionally abusive and controlling relationships with women in the equestrian world, including former girlfriend Jill Robinson and world-class showjumper Abigail Lyle. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-13T04:30:00Z",
+      "duration": "00:21:02",
+      "explicit": false,
+      "spotifyId": "6ey1JQ3BHOmW2KbH3WOvZp",
+      "appleId": 1000731537363,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ey1JQ3BHOmW2KbH3WOvZp",
+        "apple": "https://podcasts.apple.com/podcast/groomed-the-pied-piper-of-tynan/id1715522187?i=1000731537363"
+      }
+    },
     {
       "id": "c868f36c-882d-42e6-8cf7-3835f709964d",
       "title": "Coming Soon: Groomed \u2013 Control, Coercion, and the Cold-Hearted Killing of Showjumper Katie Simpson",

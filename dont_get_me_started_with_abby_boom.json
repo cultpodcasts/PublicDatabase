@@ -1,0 +1,24 @@
+{
+  "id": "0d497b1e-8919-4924-a398-9e1462ccf62e",
+  "name": "Don\u0027t Get Me Started with Abby Boom",
+  "spotifyId": "31T31fbr6LrQbe5SmYATHq",
+  "appleId": 1835702778,
+  "youTubeChannelId": "UCycUZKWhGkN-40DSNCvGRcg",
+  "episodes": [
+    {
+      "id": "0e518784-36b5-4060-9760-4e28266feac7",
+      "title": "Thomas Green Talks ADHD Diagnosis,  His CRAZY Life In A Cult \u0026 MORE! - Don\u0027t Get Me Started #8",
+      "release": "2025-10-16T16:00:47Z",
+      "duration": "01:26:01",
+      "explicit": false,
+      "spotifyId": "2AdKEpyYwadWgdnKRFIW9b",
+      "appleId": 1000732159820,
+      "youTubeId": "RjYRaI__Nbw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2AdKEpyYwadWgdnKRFIW9b",
+        "apple": "https://podcasts.apple.com/podcast/8-thomas-green-talks-adhd-diagnosis-his-crazy-life/id1835702778?i=1000732159820",
+        "youtube": "https://www.youtube.com/watch?v=RjYRaI__Nbw"
+      }
+    }
+  ]
+}
