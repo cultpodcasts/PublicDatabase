@@ -1,0 +1,22 @@
+{
+  "id": "962e57b5-4db2-49f2-bc6d-5b7f5b66952d",
+  "name": "The Devil You Know with Sarah Marshall",
+  "spotifyId": "1swdvfyvA1ane9ZkVvPeP4",
+  "appleId": 1844686289,
+  "episodes": [
+    {
+      "id": "0b7e7696-1e39-4d83-9dc9-873aa2540dd2",
+      "title": "Episode 1: Did Swayze Start the Fire?",
+      "description": "In 1988, a young arts educator drove into a small town in Kentucky with a camera and a directive to teach photography to school kids. But she never got a chance. Instead, a full blown hysteria connecting her presence with other dark rumours swirling around about widespread ritual child sacrifice prompted a mad dash escape for her life. The truth behind the drama? Well, it involves Patrick Swayze and an environment where cops, social workers, teachers, parents and reporters were being primed to see Satanic crime everywhere.",
+      "release": "2025-10-20T08:10:00Z",
+      "duration": "00:38:51.2970000",
+      "explicit": false,
+      "spotifyId": "7HDzL9fqJiLYUrYY9ODsIR",
+      "appleId": 1000732345779,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7HDzL9fqJiLYUrYY9ODsIR",
+        "apple": "https://podcasts.apple.com/podcast/episode-1-did-swayze-start-the-fire/id1844686289?i=1000732345779"
+      }
+    }
+  ]
+}

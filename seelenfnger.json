@@ -5,6 +5,23 @@
   "appleId": 1646014385,
   "episodes": [
     {
+      "id": "1bd53b8d-cfe3-438e-9cd8-41d73b5b561a",
+      "title": "Seelenf\u00E4nger: Es gibt Neuigkeiten",
+      "description": "Wir haben News f\u00FCr euch - von der Staatsanwaltschaft zur Yogabewegung \u0022Atman\u0022. Wir haben ein Buch geschrieben, \u0022Toxic Tantra\u0022. Und wir geben Ausblick auf die n\u00E4chste Staffel \u0022Seelenf\u00E4nger\u0022.",
+      "release": "2025-10-23T22:00:00Z",
+      "duration": "00:09:00",
+      "explicit": false,
+      "spotifyId": "7nh5HHAGd827BAak9yQbVu",
+      "appleId": 1000733288897,
+      "subjects": [
+        "Gregorian Bivolaru"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7nh5HHAGd827BAak9yQbVu",
+        "apple": "https://podcasts.apple.com/podcast/seelenf%C3%A4nger-es-gibt-neuigkeiten/id1646014385?i=1000733288897"
+      }
+    },
+    {
       "id": "3a57bf14-399d-44f3-9c6d-e3dc808baa00",
       "title": "Diagnose Tod: Pillen und Glitzer",
       "description": "Die GNM ist inzwischen auf der ganzen Welt bekannt. Wir sprechen mit einer Anh\u00E4ngerin aus den USA, um zu verstehen wie die Ideologie sich weiter verbreitet. Wie wirkt Hamers Erbe bis heute weiter? Wird Caro der Ausstieg aus der Germanischen Neuen Medizin gelingen?",

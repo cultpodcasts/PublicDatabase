@@ -6,6 +6,22 @@
   "youTubeChannelId": "UCMJgOMxr4FX0xf7LHFcnY7Q",
   "episodes": [
     {
+      "id": "2b3b945a-ad6e-4fbd-b6bb-b83d1a2b496d",
+      "title": "Ascensionism: Kanye is God",
+      "description": "It\u2019s the year 3030, and America has fallen to a cruel dictatorship. Only one man can save the world. And that man is Kanye West.",
+      "release": "2025-10-20T16:00:00Z",
+      "duration": "00:04:21",
+      "explicit": false,
+      "spotifyId": "1y6VOi4xiydZDz7KsJir6L",
+      "appleId": 1000732680132,
+      "youTubeId": "IaVXswF-9eM",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1y6VOi4xiydZDz7KsJir6L",
+        "apple": "https://podcasts.apple.com/podcast/ascensionism-kanye-is-god/id1844875689?i=1000732680132",
+        "youtube": "https://www.youtube.com/watch?v=IaVXswF-9eM"
+      }
+    },
+    {
       "id": "a123028a-c5a5-4a5d-8d8e-c54509eba8e8",
       "title": "Beta Dominion Xenophilia: All Cats Talk to Heaven",
       "description": "He was a high school dropout who said that he came from another planet. He recruited a small group of followers who lived together in rural Maryland, who were eager to hear his message. And when he needed to get in touch with his home world, he sent a message to the mothership \u2014 through his cats.",

@@ -1,8 +1,30 @@
 {
   "id": "520b7a85-da47-453a-b236-97147c19d284",
   "name": "Psychiatry \u0026 Psychotherapy",
+  "spotifyId": "3DYkrmcLjfgHWbkoUWNmVF",
+  "appleId": 1335892956,
   "youTubeChannelId": "UCDV4XSQbdB3n6X3QirO5i_w",
   "episodes": [
+    {
+      "id": "e7a1c656-c358-49b3-97aa-44b62e4201d0",
+      "title": "Devaluation, Transference, Narcissism with Diana Diamond",
+      "description": "In this episode, Dr. David Puder is joined by world-renowned psychologist Diana Diamond, PhD to explore devaluation, narcissism, attachment, and transference in psychotherapy. Together they examine why patients with narcissistic personality traits or narcissistic personality disorder (NPD) often devalue their therapists, how dismissing and disorganized attachment styles shape treatment, and why these cycles can be so painful for clinicians.\n\nDr. Diamond shares clinical insights from Transference-Focused Psychotherapy (TFP), including how to recognize subtle and overt devaluation, how to hold boundaries, how to think psychodynamically about these behaviors, and how to respond without reenacting the patient\u2019s internal object relations. The discussion also highlights the role of trauma, reflective functioning, countertransference, and the deeper tragedy of pathological narcissism.\n\nLink to Blog: https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/episode-250-devaluation-transference-narcissism-with-diana-diamond\n\nBy listening to this episode, you can earn 0.75 Psychiatry CME Credits: https://www.psychiatrypodcast.com/cme-program",
+      "release": "2025-10-24T18:33:14Z",
+      "duration": "00:52:52",
+      "explicit": false,
+      "spotifyId": "34dZghYuLp042ZHrUlSnAf",
+      "appleId": 1000733360270,
+      "youTubeId": "oy-2eDCZaQY",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/34dZghYuLp042ZHrUlSnAf",
+        "apple": "https://podcasts.apple.com/podcast/250-devaluation-transference-narcissism-with-diana/id1335892956?i=1000733360270",
+        "youtube": "https://www.youtube.com/watch?v=oy-2eDCZaQY"
+      }
+    },
     {
       "id": "31c31662-4592-4154-9e1d-c77c1cb315e1",
       "title": "Transference Focused Psychotherapy \u0026 Personality Disorders with Dr. Otto Kernberg",
@@ -10,13 +32,37 @@
       "release": "2025-04-25T17:49:55Z",
       "duration": "01:29:22",
       "explicit": false,
+      "spotifyId": "2i5dUZBTFmjbweQ1998Wxd",
+      "appleId": 1000704939321,
       "youTubeId": "uyPquOVhO-c",
       "subjects": [
         "Psychology",
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2i5dUZBTFmjbweQ1998Wxd",
+        "apple": "https://podcasts.apple.com/podcast/239-transference-focused-psychotherapy-personality/id1335892956?i=1000704939321",
         "youtube": "https://www.youtube.com/watch?v=uyPquOVhO-c"
+      }
+    },
+    {
+      "id": "60f1d396-991f-48ce-8d92-846103cc1bcf",
+      "title": "Narcissism with Jonathan Shedler, PhD",
+      "description": "In this episode of the podcast, we are joined by Dr. Jonathan Shedler to discuss narcissistic personality disorder. Dr. Shedler is a psychologist, consultant, clinical educator, researcher, and author with over 100 scholarly publications. His article, \u201CThe Efficacy of Psychodynamic Psychotherapy,\u201D has garnered worldwide recognition for establishing evidence-based support of psychodynamic psychotherapy. Link to Blog:\u00A0  https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/185-narcissism-with-jonathan-shedler\n",
+      "release": "2023-06-30T00:00:00",
+      "duration": "01:16:30.0530000",
+      "explicit": true,
+      "spotifyId": "380HioyOkAOgCbccNNX9To",
+      "appleId": 1000618895063,
+      "youTubeId": "KZSD3lauzDo",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/380HioyOkAOgCbccNNX9To",
+        "apple": "https://podcasts.apple.com/podcast/185-narcissism-with-jonathan-shedler-phd/id1335892956?i=1000618895063",
+        "youtube": "https://www.youtube.com/watch?v=KZSD3lauzDo"
       }
     }
   ]

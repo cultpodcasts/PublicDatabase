@@ -4,6 +4,21 @@
   "youTubeChannelId": "UC20tQqqgKKzMwO9A0vJAu2Q",
   "episodes": [
     {
+      "id": "2219dbff-e0d3-4d0f-89b2-9c828fccee9a",
+      "title": "L. Ron Hubbard: Creator of Scientology | Inside the Life | Scientology Explained",
+      "description": "https://en.wikipedia.org/wiki/Life_of_L._Ron_Hubbard_from_1967_to_1975\nhttps://www.cs.cmu.edu/~dst/Cowen/warhero/conclusions.htm",
+      "release": "2025-10-22T22:29:54Z",
+      "duration": "00:11:30",
+      "explicit": false,
+      "youTubeId": "QBNk66Q1Kds",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QBNk66Q1Kds"
+      }
+    },
+    {
       "id": "014248af-b392-41a4-9a3b-296db1164a8b",
       "title": "Why Scientology is so Against Psychiatry",
       "description": "Those who cannot be brainwashed are automatically the enemy.",

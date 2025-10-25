@@ -1,0 +1,22 @@
+{
+  "id": "afe5b228-5843-40fe-ba39-d6e05893527c",
+  "name": "True Crime - Krish",
+  "youTubeChannelId": "UC1_iWNWoBDwkmjWo9ZAUZxA",
+  "episodes": [
+    {
+      "id": "7b8b2235-f7f2-4c65-bc41-2dc51ea65436",
+      "title": "The Mauerova Cult Family: A horrific story of abuse and deceit",
+      "description": "He accidentally picked up a camera signal from the neighboring apartment - and what he saw frightened him.",
+      "release": "2025-10-20T04:03:34Z",
+      "duration": "00:30:54",
+      "explicit": false,
+      "youTubeId": "Wosb-MhVRXg",
+      "subjects": [
+        "Kurim Case"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Wosb-MhVRXg"
+      }
+    }
+  ]
+}

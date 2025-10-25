@@ -3,7 +3,28 @@
   "name": "The MeidasTouch Podcast",
   "spotifyId": "34NcOzUEJs0T5DaUeYLfFl",
   "appleId": 1510240831,
+  "youTubeChannelId": "UC9r9HYFxEQOBXSopFS61ZWg",
+  "youTubePlaylistId": "PL36GQAccexbwFPOGmbf5pFE32VmyC7ui3",
   "episodes": [
+    {
+      "id": "d7c6076f-03d3-4c7f-b70e-2d4fa8c29ad6",
+      "title": "Survivor Steps Forward to Expose All as Trump Hides Files",
+      "description": "MeidasTouch host Ben Meiselas interviews Epstein survivor Lisa Phillips about what she endured and her courageous journey as a survivor and an advocate for survivors as she calls for the Epstein files to be released and Meiselas talks about Phillips new initiative. Visit https://meidasplus.com for more! Remember to subscribe to ALL the MeidasTouch Network Podcasts: MeidasTouch: https://www.meidastouch.com/tag/meidastouch-podcast Legal AF: https://www.meidastouch.com/tag/legal-af MissTrial: https://meidasnews.com/tag/miss-trial The PoliticsGirl Podcast: https://www.meidastouch.com/tag/the-politicsgirl-podcast The Influence Continuum: https://www.meidastouch.com/tag/the-influence-continuum-with-dr-steven-hassan Mea Culpa with Michael Cohen: https://www.meidastouch.com/tag/mea-culpa-with-michael-cohen The Weekend Show: https://www.meidastouch.com/tag/the-weekend-show Burn the Boats: https://www.meidastouch.com/tag/burn-the-boats Majority 54: https://www.meidastouch.com/tag/majority-54 Political Beatdown: https://www.meidastouch.com/tag/political-beatdown On Democracy with FP Wellman: https://www.meidastouch.com/tag/on-democracy-with-fpwellman Uncovered: https://www.meidastouch.com/tag/maga-uncovered Coalition of the Sane: https://meidasnews.com/tag/coalition-of-the-sane Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-10-19T21:00:00Z",
+      "duration": "00:33:28.1540000",
+      "explicit": false,
+      "spotifyId": "23AI7Qnb7jpOybOd6aurkC",
+      "appleId": 1000732557864,
+      "youTubeId": "4ux1OBz9NZM",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/23AI7Qnb7jpOybOd6aurkC",
+        "apple": "https://podcasts.apple.com/podcast/survivor-steps-forward-to-expose-all-as-trump-hides-files/id1510240831?i=1000732557864",
+        "youtube": "https://www.youtube.com/watch?v=4ux1OBz9NZM"
+      }
+    },
     {
       "id": "d10f71d3-766e-45c7-b966-ff843a1c44ef",
       "title": "Thought Reform and Cyber Security: Where Cult Manipulation Techniques Meet Technology With Dustin Rozario Steinhagen, PhD",

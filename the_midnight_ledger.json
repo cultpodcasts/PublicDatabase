@@ -11,11 +11,13 @@
       "release": "2025-10-17T21:30:40Z",
       "duration": "00:15:24",
       "explicit": false,
+      "spotifyId": "1J68Fd9BTrICIpAqyB3oPo",
       "youTubeId": "_JDVkQwNpzI",
       "subjects": [
         "Millerism"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1J68Fd9BTrICIpAqyB3oPo",
         "youtube": "https://www.youtube.com/watch?v=_JDVkQwNpzI"
       }
     }

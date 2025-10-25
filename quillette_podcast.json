@@ -1,0 +1,28 @@
+{
+  "id": "a8d61631-3d9d-48dc-9b2e-bbf19aedbc16",
+  "name": "Quillette Podcast",
+  "spotifyId": "5OexgXX1vghj0rizOSvVeR",
+  "appleId": 1441708286,
+  "youTubeChannelId": "UCUK9GA3mt1fVKWj91wW7mfQ",
+  "episodes": [
+    {
+      "id": "eefe9057-f3ac-422b-91be-245d88e7e032",
+      "title": "From Cult Child to Chess Wunderkind",
+      "description": "Quillette podcast host Jonathan Kay speaks with Danny Rensch about his astounding journey from the \u2018Church of Immortal Consciousness\u2019 to the role of Chief Chess Officer at Chess.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-10-20T05:10:00Z",
+      "duration": "00:37:30.5790000",
+      "explicit": false,
+      "spotifyId": "65CMMMBwGq3aX2i3MyarpJ",
+      "appleId": 1000732602613,
+      "youTubeId": "eJi8aOULkys",
+      "subjects": [
+        "Church of Immortal Consciousness"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/65CMMMBwGq3aX2i3MyarpJ",
+        "apple": "https://podcasts.apple.com/podcast/from-cult-child-to-chess-wunderkind/id1441708286?i=1000732602613",
+        "youtube": "https://www.youtube.com/watch?v=eJi8aOULkys"
+      }
+    }
+  ]
+}

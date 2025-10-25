@@ -14,14 +14,12 @@
       "explicit": false,
       "spotifyId": "1IUgPv24NAdJ7XEjZkIB2I",
       "appleId": 1000712512878,
-      "youTubeId": "-T_z4S5vh2I",
       "subjects": [
         "Kurim Case"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1IUgPv24NAdJ7XEjZkIB2I",
-        "apple": "https://podcasts.apple.com/podcast/the-kurim-case-abuse-identity-lies-and-cult-influence/id1794634601?i=1000712512878",
-        "youtube": "https://www.youtube.com/watch?v=-T_z4S5vh2I"
+        "apple": "https://podcasts.apple.com/podcast/the-kurim-case-abuse-identity-lies-and-cult-influence/id1794634601?i=1000712512878"
       }
     }
   ]

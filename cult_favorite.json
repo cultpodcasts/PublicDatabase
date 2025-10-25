@@ -6,6 +6,25 @@
   "youTubeChannelId": "UCA04PrhGZx1KBOC0mFk7N0g",
   "episodes": [
     {
+      "id": "f33797c2-f6ad-4efc-a7dd-affaff3704dc",
+      "title": "Marcial Maciel: The Wolf of God (HBO Max, 2025)",
+      "description": "Follow us on the socials at @cultfavoritepod. Production assistance from the Department of ReligiousStudies at the University of Alabama. Theme music produced with Udio.",
+      "release": "2025-10-20T09:00:00Z",
+      "duration": "01:15:34.4430000",
+      "explicit": true,
+      "spotifyId": "55SliyMqiJSnEaJrW2ajh5",
+      "appleId": 1000732640768,
+      "youTubeId": "14VR0BHY8wI",
+      "subjects": [
+        "Legionaries of Christ"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/55SliyMqiJSnEaJrW2ajh5",
+        "apple": "https://podcasts.apple.com/podcast/marcial-maciel-the-wolf-of-god-hbo-max-2025/id1758534607?i=1000732640768",
+        "youtube": "https://www.youtube.com/watch?v=14VR0BHY8wI"
+      }
+    },
+    {
       "id": "8e243b5e-6e34-44d7-a4bb-04a84bd314a0",
       "title": "The Synanon Fix: Is the Cure a Cult? (HBO Max, 2024)",
       "description": "Follow us on the socials at @cultfavoritepod.\nProduction assistance from the Department of Religious Studies at the University of Alabama. \nTheme music produced with Udio.",

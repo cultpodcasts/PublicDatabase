@@ -1,0 +1,96 @@
+{
+  "id": "fc3914d0-7360-44d9-b254-2f30fe207d51",
+  "name": "BBC Assume Nothing: Creation of a Teenage Satanist",
+  "episodes": [
+    {
+      "id": "54866800-51cb-4c21-9f32-1ad329a59538",
+      "title": "4. Mum",
+      "description": "As Cameron Finnigan is sentenced at the Old Bailey his mum speaks out. She offers a rare, painful and deeply revealing insight into families caught in the fallout of 764. The BBC investigation explores what it will take to stop this network and the National Crime Agency reveal what they\u2019re doing to combat the growing threat of online groups like 764. For information and support on issues discussed in this series, visit bbc.co.uk/actionline.",
+      "release": "2025-10-22T23:20:00Z",
+      "duration": "00:29:18.9290000",
+      "explicit": false,
+      "spotifyId": "721x6pI8T5uYahtEBRv18g",
+      "appleId": 1000733054854,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/721x6pI8T5uYahtEBRv18g",
+        "apple": "https://podcasts.apple.com/podcast/4-mum/id1540321271?i=1000733054854",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0m9y8d5"
+      }
+    },
+    {
+      "id": "4db27f90-857c-4c78-b436-385226cf8162",
+      "title": "3. Taken in 90 Seconds",
+      "description": "In a chilling look at how screens become crime scenes, we uncover a murder that was plotted in Romania and live streamed to 764 members worldwide. The investigation explores the power of online manipulation and the worrying reach of 764. For information and support on issues discussed in this series, visit bbc.co.uk/actionline.",
+      "release": "2025-10-22T23:15:00Z",
+      "duration": "00:23:21.6000000",
+      "explicit": true,
+      "spotifyId": "3IWVMnaxaKFYcXARMhazVi",
+      "appleId": 1000733054855,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3IWVMnaxaKFYcXARMhazVi",
+        "apple": "https://podcasts.apple.com/podcast/3-taken-in-90-seconds/id1540321271?i=1000733054855",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0m9y7mh"
+      }
+    },
+    {
+      "id": "6ab8b75b-0177-4839-8522-d6b1740b18a2",
+      "title": "2. The Lion\u2019s Den",
+      "description": "Uncovering what happens inside 764\u2019s chatrooms and its devastating toll on victims and families who are caught in the web of a network so dangerous, global law enforcement can barely keep up. We meet a Canadian mother, whose daughter was drawn into the group\u2019s grip, revealing how 764\u2019s tactics push families to the brink and leave no one untouched. For information and support on issues discussed in this series, visit bbc.co.uk/actionline.",
+      "release": "2025-10-22T23:11:00Z",
+      "duration": "00:25:32.1330000",
+      "explicit": true,
+      "spotifyId": "5TQoMUrxLU656qhRdciHNT",
+      "appleId": 1000733052422,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5TQoMUrxLU656qhRdciHNT",
+        "apple": "https://podcasts.apple.com/podcast/2-the-lions-den/id1540321271?i=1000733052422",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0m9y5cp"
+      }
+    },
+    {
+      "id": "a2808551-254e-42b5-8e19-a8605ab9963a",
+      "title": "1. The Arrest",
+      "description": "Teenager Cameron Finnigan from Horsham in Sussex is arrested in a dawn raid. Behind it all is a shadowy online network called 764, so dangerous it\u2019s being hunted by the FBI and global law enforcement. The BBC investigates how Finnigan became entangled in a world where teenagers are coerced into live streaming rituals, self-harm and murder plots. Presenter Jo looks deeper into the predators behind 764 and explores how they are reaching vulnerable children in their bedrooms. For information and support on issues discussed in this series, visit bbc.co.uk/actionline.",
+      "release": "2025-10-22T23:09:00Z",
+      "duration": "00:25:08.9630000",
+      "explicit": false,
+      "spotifyId": "3Edz58xx11gAoTvs0jqGHO",
+      "appleId": 1000733052570,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Edz58xx11gAoTvs0jqGHO",
+        "apple": "https://podcasts.apple.com/podcast/1-the-arrest/id1540321271?i=1000733052570",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0m9y36q"
+      }
+    },
+    {
+      "id": "71fbda8f-547f-41b2-95df-617be658b36e",
+      "title": "Introducing... Creation of a Teenage Satanist",
+      "description": "They are a terrorist organisation who believe \u2018no lives matter.\u2019 They search for and extort children and young people, with deadly results. This is the story of the far right Satanist group called 764. For information and support on issues discussed in this series, visit bbc.co.uk/actionline.",
+      "release": "2025-10-22T00:05:00Z",
+      "duration": "00:02:06.7980000",
+      "explicit": false,
+      "spotifyId": "4thlishM3cKzq2miYofU00",
+      "appleId": 1000732894665,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4thlishM3cKzq2miYofU00",
+        "apple": "https://podcasts.apple.com/podcast/introducing-creation-of-a-teenage-satanist/id1540321271?i=1000732894665",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0m97p3r"
+      }
+    }
+  ]
+}

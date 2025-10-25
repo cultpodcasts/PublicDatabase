@@ -1,0 +1,29 @@
+{
+  "id": "14c14ece-4b4a-44b9-a580-bbd7e23f6f81",
+  "name": "Newscast",
+  "spotifyId": "2A8GIhYh5xDSJJrnplUePR",
+  "appleId": 1234185718,
+  "youTubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
+  "youTubePlaylistId": "PLS3XGZxi7cBU_AtRadnVPJPRC6LHrexaF",
+  "episodes": [
+    {
+      "id": "18f330d2-dc2b-408a-a1e1-7ab3aa89b937",
+      "title": "The Virginia Giuffre Memoir And Prince Andrew",
+      "description": "Today, we discuss the allegations made in Virginia Giuffre\u2019s memoir against Prince Andrew. Virginia Giuffre passed away in April after taking her own life, but finished writing the book before her death. The book goes into detail about the allegations she has made against Jeffrey Epstein, Prince Andrew and Ghislaine Maxwell. Prince Andrew denies all of the allegations made against him, but gave up his royal titles on Friday. What does Giuffre say in the book, and how have the Royal Family responded? Adam is joined in the studio with BBC Newsnight presenter Victoria Derbyshire, and BBC royal correspondent Daniela Relph. You can now listen to Newscast on a smart speaker. If you want to listen, just say \u0022Ask BBC Sounds to play Newscast\u201D. It works on most smart speakers. You can join our Newscast online community here: https://bbc.in/newscastdiscord Get in touch with Newscast by emailing newscast@bbc.co.uk or send us a WhatsApp on \u0026#43;44 0330 123 9480. New episodes released every day. If you\u0027re in the UK, for more News and Current Affairs podcasts from the BBC, listen on BBC Sounds: https://bbc.in/4guXgXd Newscast brings you daily analysis of the latest political news stories from the BBC. The presenter was Adam Fleming. It was made by Jack Maclaren with Shiler Mahmoudi. The social producer was Sophie Millward. The technical producer was Dafydd Evans. The assistant editor is Chris Gray. The senior news editor is Sam Bonham.",
+      "release": "2025-10-20T18:38:00Z",
+      "duration": "00:26:14.8180000",
+      "explicit": true,
+      "spotifyId": "5TJnVGcyMGuFSZACrbsNdl",
+      "appleId": 1000732692380,
+      "youTubeId": "FH220cWGhT0",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5TJnVGcyMGuFSZACrbsNdl",
+        "apple": "https://podcasts.apple.com/podcast/the-virginia-giuffre-memoir-and-prince-andrew/id1234185718?i=1000732692380",
+        "youtube": "https://www.youtube.com/watch?v=FH220cWGhT0"
+      }
+    }
+  ]
+}

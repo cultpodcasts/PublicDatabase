@@ -12,6 +12,8 @@
       "release": "2025-10-16T14:59:56Z",
       "duration": "02:45:02",
       "explicit": false,
+      "spotifyId": "2d0xHZcymZH9xnR2Sg9Ksx",
+      "appleId": 1000733204567,
       "youTubeId": "1K23O8vatEM",
       "subjects": [
         "Opus Dei",
@@ -19,6 +21,8 @@
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2d0xHZcymZH9xnR2Sg9Ksx",
+        "apple": "https://podcasts.apple.com/podcast/part-iii-opus-dei-expands-in-hungary-opus-dei-mayor/id1706189667?i=1000733204567",
         "youtube": "https://www.youtube.com/watch?v=1K23O8vatEM"
       }
     },

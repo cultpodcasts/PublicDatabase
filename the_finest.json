@@ -1,0 +1,26 @@
+{
+  "id": "df3a63fb-fe53-4dca-afcc-b3a4af95081e",
+  "name": "The Finest",
+  "spotifyId": "58NQn6xvH8a7DNibo8se7p",
+  "appleId": 1802690409,
+  "youTubeChannelId": "UCP9Zo2a0-bS9oPd_8tl92rQ",
+  "youTubePlaylistId": "PL_wiEYr9F4ekNmAsdtx2hRXM7SC8HzDnO",
+  "episodes": [
+    {
+      "id": "a8c38627-f25b-4083-be7b-6cc6395cffd3",
+      "title": "The science of the supernatural: Psychics, cults and why we believe",
+      "description": "\u0022Dispatch From Paradise\u0022 writer Cora Lee went searching for ghosts in Presidio Park, but her exploration of San Diego\u0027s supernatural underbelly didn\u0027t stop there. She visited San Diego\u0027s many mysterious cults in person, meeting members and observing their practices, and explored a long-running family dynasty of fortune tellers that has sometimes drawn law enforcement and media attention. In this Halloween episode, we follow Cora through the city\u0027s paranormal scene, from haunted hillsides and psychic shops to the strange and sprawling world of alternative spiritual communities. Along the way, religious studies professor Joseph Laycock helps unpack why belief in ghosts, aliens and spirits persists and what our search for \u0022presence\u0022 reveals about being human. It\u0027s part spooky story, part San Diego history and part philosophical journey into why some mysteries endure \u2014 and why, deep down, we might not want them to end.",
+      "release": "2025-10-23T12:00:00Z",
+      "duration": "00:33:27.8160000",
+      "explicit": false,
+      "spotifyId": "2kycOvuGzhKFwfpMZJufB5",
+      "appleId": 1000733137123,
+      "youTubeId": "AxgN-nrakBw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2kycOvuGzhKFwfpMZJufB5",
+        "apple": "https://podcasts.apple.com/podcast/the-science-of-the-supernatural-psychics-cults/id1802690409?i=1000733137123",
+        "youtube": "https://www.youtube.com/watch?v=AxgN-nrakBw"
+      }
+    }
+  ]
+}
