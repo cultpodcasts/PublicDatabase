@@ -7,6 +7,34 @@
   "youTubePlaylistId": "PL_oP0ajyhYQkHHCUmBHgfNr5fETgUEpwG",
   "episodes": [
     {
+      "id": "d9151c8f-187b-4ea3-8ced-d6935bab2ba3",
+      "title": "Australia\u2019s growing cult crisis",
+      "description": "Guardian Australia\u2019s daily news podcast examines why more people are falling prey to cults and whether the current laws are strong enough to help vulnerable people who might be lured in. Victoria correspondent Benita Kolovos speaks to Reged Ahmad about why more \u2018modern\u2019 cults are using new methods to recruit and promising \u2018simple answers to complex problems\u2019",
+      "release": "2025-10-29T14:00:59Z",
+      "duration": "00:22:18.6090000",
+      "explicit": false,
+      "spotifyId": "5ouj558HqqMmuTs21ekDT5",
+      "appleId": 1000734053377,
+      "subjects": [
+        "Legislation",
+        "Hillsong",
+        "Shincheonji Church of Jesus",
+        "Cult Psychology",
+        "Yoga Cult",
+        "Christian Fundamentalist",
+        "Multi-Level Marketing",
+        "One-on-one",
+        "Evangelicalism",
+        "Seventh-day Adventist Church",
+        "Children Of God",
+        "Geelong Revival Centre"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ouj558HqqMmuTs21ekDT5",
+        "apple": "https://podcasts.apple.com/podcast/australias-growing-cult-crisis/id1482061243?i=1000734053377"
+      }
+    },
+    {
       "id": "0cdf5697-0c28-4c7d-9d7b-ab96da1e1f9f",
       "title": "Prince Andrew, Jeffrey Epstein and the scandal that won\u2019t go away",
       "description": "After a storm of new allegations and headlines, Buckingham Palace has confirmed that Prince Andrew \u2013 King Charles\u2019s younger brother \u2013 will no longer hold his royal titles. It\u2019s the latest development in a controversy that\u2019s haunted the British monarchy for years. In this episode of our global news podcast Today in Focus, Helen Pidd and Zoe Williams unpack the scandal that shattered royal tradition, and why so many questions remain unanswered",

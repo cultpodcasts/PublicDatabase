@@ -1433,6 +1433,9 @@
       "explicit": true,
       "spotifyId": "0cf1IKvCHyeW4RiPysFRr2",
       "appleId": 1000581366265,
+      "subjects": [
+        "Santa Muerte"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0cf1IKvCHyeW4RiPysFRr2",
         "apple": "https://podcasts.apple.com/podcast/ep-238-santa-muerte-mexico-is-metal-af/id1276011417?i=1000581366265"

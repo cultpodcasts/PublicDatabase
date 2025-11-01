@@ -1,0 +1,22 @@
+{
+  "id": "fbb0ad4b-2a8d-4680-b51a-98f6486e14e4",
+  "name": "Disability News Japan",
+  "appleId": 1437483856,
+  "episodes": [
+    {
+      "id": "687b3d0d-a839-4996-8bbb-86adf890b9a2",
+      "title": "Warning about cult groups solicitation activities on university campuses in Japan",
+      "description": "These groups cleverly approach university students, both on and off campus, using topics that interest them (social contribution, job hunting, international exchange, etc.), and subtly manipulate them through mind control, drawing them into their activities. Students may be forced to purchase expensive goods, separated from their families and friends, and have their student lives ruined.",
+      "release": "2025-10-30T21:00:38Z",
+      "duration": "00:03:53",
+      "explicit": false,
+      "appleId": 1000734284352,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/warning-about-cult-groups-solicitation-activities-on/id1437483856?i=1000734284352"
+      }
+    }
+  ]
+}

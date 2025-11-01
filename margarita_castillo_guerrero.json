@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCuleUxWJHHE4pl1s3MLVN9Q",
   "episodes": [
     {
+      "id": "3bf3b20c-e997-40c2-9e4e-1e25c823fa9c",
+      "title": "DESPREDICAMDO",
+      "release": "2025-10-31T19:29:01Z",
+      "duration": "00:11:07",
+      "explicit": false,
+      "youTubeId": "ewvMIvFcR1Y",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ewvMIvFcR1Y"
+      }
+    },
+    {
+      "id": "d486f930-17df-463f-8fbf-f647afdba6f0",
+      "title": "DISCURSO DE STEPHEN LED",
+      "release": "2025-10-28T20:31:55Z",
+      "duration": "00:36:45",
+      "explicit": false,
+      "youTubeId": "bLER59NASKU",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bLER59NASKU"
+      }
+    },
+    {
       "id": "293828ed-87f9-49b0-9bd0-19b7d86269e5",
       "title": "LOS ANCIANOS ABANDONADOS POR EL C. G",
       "release": "2025-10-22T18:03:16Z",

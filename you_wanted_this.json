@@ -1,0 +1,25 @@
+{
+  "id": "f7f9efc3-4a88-4a2a-a464-0b01e7526e85",
+  "name": "You Wanted This",
+  "spotifyId": "2sLLlZJ4M3mCCzHDmzyKfd",
+  "appleId": 1247566521,
+  "episodes": [
+    {
+      "id": "fd80826d-cfb0-4217-8ddf-78e5102bc282",
+      "title": "Cults",
+      "description": "This week, Richard and Reid talk cults and teach each other about the Air Loom and the Ant Hill Kids. CW: abuse, sexual violence, etc. Follow us on Instagram! Submit your topics and vote on others on our subreddit ! Get even more content from us on Patreon ! Proudly part of The Sonar Network ! Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-29T05:04:18Z",
+      "duration": "01:28:10.9970000",
+      "explicit": true,
+      "spotifyId": "4DPa6xCGEJVCTKDLeFLkzm",
+      "appleId": 1000733993912,
+      "subjects": [
+        "Ant Hill Kids"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4DPa6xCGEJVCTKDLeFLkzm",
+        "apple": "https://podcasts.apple.com/podcast/cults/id1247566521?i=1000733993912"
+      }
+    }
+  ]
+}

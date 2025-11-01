@@ -1,0 +1,22 @@
+{
+  "id": "07187809-04c3-4346-bd90-218b15eb96e7",
+  "name": "Spotlight (BBC Northern Ireland)",
+  "episodes": [
+    {
+      "id": "593e895d-2018-41ab-a2c3-526bb5e914e7",
+      "title": "Katie: Coerced and Killed",
+      "description": "Katie Simpson\u2019s love for horses brought her into the orbit of Jonathan Creswell, a showjumper-turned-horse trainer with a dark history of coercive control and violence against women. When he claimed to be the Good Samaritan who found the 21-year-old after she attempted suicide, some were immediately suspicious. But for months police seemed to take his story at face value. Jennifer O\u2019Leary investigates Katie\u2019s terrible death and how his lies almost went undetected. \n\nThis programme has been updated to reflect updated Public Prosecution Service information about an aspect of an account given in court",
+      "release": "2024-07-23T00:00:00",
+      "duration": "00:58:00",
+      "explicit": false,
+      "subjects": [
+        "_Ireland",
+        "Cult Psychology",
+        "One-on-one"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m0021gmj/spotlight-katie-coerced-and-killed"
+      }
+    }
+  ]
+}

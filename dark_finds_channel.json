@@ -33,7 +33,6 @@
       "duration": "01:50:09",
       "explicit": false,
       "spotifyId": "2gEbYePAb7cInftWQrRme1",
-      "appleId": 1000703723858,
       "youTubeId": "L8imskN_Br0",
       "subjects": [
         "Order of St Charbel",
@@ -43,7 +42,6 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2gEbYePAb7cInftWQrRme1",
-        "apple": "https://podcasts.apple.com/podcast/29-claire-mcauliffe-lessons-from-a-cult-survivor/id1738653309?i=1000703723858",
         "youtube": "https://www.youtube.com/watch?v=L8imskN_Br0"
       }
     }

@@ -1,0 +1,22 @@
+{
+  "id": "2b5f8cfe-9378-4436-802b-d7dd7e7e941f",
+  "name": "Channel 4 Entertainment",
+  "youTubeChannelId": "UCz1hQ68G3XPVYEBoFDgSjcQ",
+  "episodes": [
+    {
+      "id": "15079d1e-a9e7-46ee-b72f-9fcff1b64233",
+      "title": "David Mitchell On Scientology | Was it Something I Said? - Outtake",
+      "description": "The panel share their views on Scientology, while Richard Ayoade explains YouTube.\n\nWatch full episodes on All 4: http://www.channel4.com/programmes/was-it-something-i-said/\n\nVisit the website: http://somethingisaid.channel4.com/",
+      "release": "2013-11-19T17:04:25Z",
+      "duration": "00:02:07",
+      "explicit": false,
+      "youTubeId": "cXJ-57FHjxQ",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=cXJ-57FHjxQ"
+      }
+    }
+  ]
+}

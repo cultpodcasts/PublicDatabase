@@ -5,6 +5,60 @@
   "appleId": 1715522187,
   "episodes": [
     {
+      "id": "048bb00a-f8a0-4da4-b78f-8d11fd95666e",
+      "title": "Groomed: Legacy of a Showjumper",
+      "description": "Jonathan Creswell\u0027s suicide denied Katie Simpson\u0027s loved ones the opportunity for a murder trial. Despite Creswell\u2019s death, the subsequent sentencing of three co-conspirators\u2014Jill Robinson, Hayley Robb, and Rose De Montmorency-Wright\u2014for charges related to the cover-up allowed the judge to confirm that Creswell was a \u0022skilled and predatory abuser\u0022 with an \u0022established pattern\u0022 of abuse against women.  Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-27T06:35:00Z",
+      "duration": "00:27:09",
+      "explicit": false,
+      "spotifyId": "2dc5BTNfn5ySTf72Vl6VCr",
+      "appleId": 1000733654090,
+      "subjects": [
+        "Cult Psychology",
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2dc5BTNfn5ySTf72Vl6VCr",
+        "apple": "https://podcasts.apple.com/podcast/groomed-legacy-of-a-showjumper/id1715522187?i=1000733654090"
+      }
+    },
+    {
+      "id": "ab5c1d77-1bf9-413d-9828-89c3c0f6c027",
+      "title": "Groomed: The Net Tightens",
+      "description": "Detective Sergeant James Brannigan\u0027s new investigation team finally made progress by assembling expert evidence contradicting Jonathan Creswell\u0027s story, culminating in Brannigan\u0027s team arresting Creswell, and charging him with Katie\u0027s murder. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-27T06:32:00Z",
+      "duration": "00:30:36",
+      "explicit": false,
+      "spotifyId": "1HpIfjJ9xVffudIk7Pbc6U",
+      "appleId": 1000733654091,
+      "subjects": [
+        "Cult Psychology",
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1HpIfjJ9xVffudIk7Pbc6U",
+        "apple": "https://podcasts.apple.com/podcast/groomed-the-net-tightens/id1715522187?i=1000733654091"
+      }
+    },
+    {
+      "id": "61498616-10c0-4ffb-8562-3161f04e2137",
+      "title": "Groomed: All The Signs Were There",
+      "description": "After delays and months of inaction by the PSNI, Detective Sergeant James Brannigan finally begins the investigation into Katie Simpson\u0027s death, and starts to uncover Jonathan Creswell\u0027s lies about Katie\u0027s supposed suicide attempt. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-27T06:30:00Z",
+      "duration": "00:33:03",
+      "explicit": false,
+      "spotifyId": "1vzJw0JodnVHneWIYxKAxI",
+      "appleId": 1000733653430,
+      "subjects": [
+        "Cult Psychology",
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1vzJw0JodnVHneWIYxKAxI",
+        "apple": "https://podcasts.apple.com/podcast/groomed-all-the-signs-were-there/id1715522187?i=1000733653430"
+      }
+    },
+    {
       "id": "8bd2ce8d-e7e5-4ee0-a843-f9b9e6e3a1c1",
       "title": "Groomed: Mountains of Mistakes",
       "description": "After the tragic death of Katie Simpson, Detective Sergeant James Brannigan made aware of the case by journalist Tanya Fowles. Brannigan initiates an investigation into Katie Simpson\u0027s death after recognising the failure of the PSNI to flag Jonathan Creswell\u0027s prior domestic abuse conviction, or to look into his version of events on the night of Katie\u0027s murder. Creswell, and the people around him, have questions to answer. Hosted on Acast. See acast.com/privacy for more information.",
@@ -14,7 +68,8 @@
       "spotifyId": "4Rt0SzGiwIIbpPzKDpK7bG",
       "appleId": 1000732604819,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Rt0SzGiwIIbpPzKDpK7bG",
@@ -31,7 +86,8 @@
       "spotifyId": "4usahwDp6pjRdPTFSgDjMa",
       "appleId": 1000732604818,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4usahwDp6pjRdPTFSgDjMa",
@@ -48,7 +104,8 @@
       "spotifyId": "2bAL7wA5gir6K8bh19RBQT",
       "appleId": 1000732604734,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2bAL7wA5gir6K8bh19RBQT",
@@ -65,7 +122,8 @@
       "spotifyId": "28bCCdcvrxdZsa9bQKARcp",
       "appleId": 1000731537258,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/28bCCdcvrxdZsa9bQKARcp",
@@ -82,7 +140,8 @@
       "spotifyId": "2ZaNKpGcAOxldSVFIiJxyK",
       "appleId": 1000731537289,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2ZaNKpGcAOxldSVFIiJxyK",
@@ -99,7 +158,8 @@
       "spotifyId": "6ey1JQ3BHOmW2KbH3WOvZp",
       "appleId": 1000731537363,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ey1JQ3BHOmW2KbH3WOvZp",
@@ -116,7 +176,8 @@
       "spotifyId": "51uDcJ3sUXy56dCGL2LQKK",
       "appleId": 1000729453860,
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/51uDcJ3sUXy56dCGL2LQKK",

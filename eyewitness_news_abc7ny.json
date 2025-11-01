@@ -1,0 +1,22 @@
+{
+  "id": "859c2b32-6475-4452-93a8-45c5c9da718b",
+  "name": "Eyewitness News ABC7NY",
+  "youTubeChannelId": "UCrlIS7z20CnVaCrMvdkig_g",
+  "episodes": [
+    {
+      "id": "1b635b12-b0f6-41c2-80cb-37674dc17f38",
+      "title": "Prince Andrew to no longer use \u0027prince\u0027 title, per Buckingham Palace",
+      "description": "Sandra Bookman has the latest details. Story here: https://7ny.tv/4oPKkym",
+      "release": "2025-10-30T21:01:00Z",
+      "duration": "00:01:08",
+      "explicit": false,
+      "youTubeId": "esl5FnuaMj0",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=esl5FnuaMj0"
+      }
+    }
+  ]
+}

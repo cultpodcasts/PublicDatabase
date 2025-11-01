@@ -1,0 +1,27 @@
+{
+  "id": "b76cbee8-705f-4e21-9bcf-a6c64f447b50",
+  "name": "Allison after NXIVM from Uncover",
+  "spotifyId": "5asD2sDYXsiUCtYi7VUO49",
+  "appleId": 1364665348,
+  "episodes": [
+    {
+      "id": "1f644ea8-4770-48b3-bb09-f9a26d13b1ef",
+      "title": "S35 Trailer | Allison after NXIVM",
+      "description": "Coming November 10. This is the inside story of Allison Mack \u2014 from TV star to NXIVM enforcer to federal prisoner. With exclusive access post-release, this series explores her rise, fall, and what comes next. Is she a victim, a villain, or something far more complicated? Hear episodes early and ad-free by subscribing to CBC True Crime Premium on Apple Podcasts .",
+      "release": "2025-10-28T04:10:00Z",
+      "duration": "00:02:27.9570000",
+      "explicit": false,
+      "spotifyId": "01zcSSNAoX1EGue93Y76vj",
+      "appleId": 1000733885421,
+      "youTubeId": "ihcA6xFbr5M",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/01zcSSNAoX1EGue93Y76vj",
+        "apple": "https://podcasts.apple.com/podcast/s35-trailer-allison-after-nxivm/id1364665348?i=1000733885421",
+        "youtube": "https://www.youtube.com/watch?v=ihcA6xFbr5M"
+      }
+    }
+  ]
+}

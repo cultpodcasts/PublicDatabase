@@ -1,0 +1,37 @@
+{
+  "id": "659585d7-534c-4015-ab93-0b9ab68e4b92",
+  "name": "CBS LA",
+  "youTubeChannelId": "UCkH1uDkyuO9sVjSqdqBygOg",
+  "episodes": [
+    {
+      "id": "aa1a755a-f91a-4d2e-9c09-952e74e66dc8",
+      "title": "Inland Empire religious group tied to Colton boy\u0027s 2010 death",
+      "description": "Colton Police said the religious group \u0022His Way Spirit Led Assemblies\u0022 had temporary custody of the 4-year-old when he died. Jasmine Viel reports. \n\n\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "release": "2025-08-30T00:44:35Z",
+      "duration": "00:03:03",
+      "explicit": false,
+      "youTubeId": "mipN33PHV_E",
+      "subjects": [
+        "His Way Spirit Led Assemblies"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mipN33PHV_E"
+      }
+    },
+    {
+      "id": "2fff110a-1e47-4618-bcac-b941f4288e26",
+      "title": "Colton police investigate new leads in 4-year-old\u0027s death from 2010",
+      "description": "The Colton Police Department said the \u0022His Way Spirit Led Assemblies\u0022 had temporary custody of the 4-year-old when he died. \n\n\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "release": "2025-08-29T00:03:54Z",
+      "duration": "00:02:54",
+      "explicit": false,
+      "youTubeId": "e-QMHjWcXLM",
+      "subjects": [
+        "His Way Spirit Led Assemblies"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=e-QMHjWcXLM"
+      }
+    }
+  ]
+}
