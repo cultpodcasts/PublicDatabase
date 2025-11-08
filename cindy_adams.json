@@ -1,0 +1,29 @@
+{
+  "id": "b29f1a60-8be5-485f-910d-def1009c2e65",
+  "name": "Cindy Adams",
+  "spotifyId": "1g3M5jY74eOq7pTFtFSWdH",
+  "appleId": 1593723566,
+  "youTubeChannelId": "UCTXtE-WU6IP0nujUF8CLYmw",
+  "youTubePlaylistId": "PLtV-t0Jecs4Wq6q8Zy6vzaIAWZSHM3WNb",
+  "episodes": [
+    {
+      "id": "54e6bb30-66f9-4353-999c-efd5e4f9476b",
+      "title": "Andrew Lownie | 11-02-25",
+      "description": "Cindy talks with Andrew Lownie, author of the new book Entitled: The Rise and Fall of the House of York, about Andrew Windsor, formerly Prince Andrew, including his being stripped of his title and his numerous scandals. https://www.amazon.com/Entitled-Rise-Fall-House-York/dp/B0FL2T96TH/ref=mp_s_a_1_1?adgrpid=183913495859\u0026dib=eyJ2IjoiMSJ9.HoATfbHuZwxOAZlefJc1ySRO2hkz6l1QDmXN9IXCpvRszJaA0OlqEtd-e1wyyVyKn_UuqlB4BRxbF7mu9j-DJ84zuhkWZMUW9KgfSuV5-3o8s0MTGyxJzKkXeY3itQiBgllHEtU58xSz0o8VLm8OoQ.BHydZvBtp6swjr8GcUQc-Dwn3SI9iB8ZFFXLIbfJuao\u0026dib_tag=se\u0026hvadid=768929786057\u0026hvdev=m\u0026hvexpln=0\u0026hvlocphy=9004568\u0026hvnetw=g\u0026hvocijid=18313599656956093920--\u0026hvqmt=b\u0026hvrand=18313599656956093920\u0026hvtargid=kwd-2434462431734\u0026hydadcr=15147_13754972\u0026keywords=entitled\u0026#43;the\u0026#43;rise\u0026#43;and\u0026#43;fall\u0026mcid=69a2f8b921783e54b22a30e3c6312cc3\u0026qid=1761932258\u0026sr=8-1 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-11-02T20:01:00Z",
+      "duration": "00:21:26.3470000",
+      "explicit": false,
+      "spotifyId": "1EmEU5FdFvMvSPcDvMHDfD",
+      "appleId": 1000734879196,
+      "youTubeId": "hf9epMngUck",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1EmEU5FdFvMvSPcDvMHDfD",
+        "apple": "https://podcasts.apple.com/podcast/andrew-lownie-11-02-25/id1593723566?i=1000734879196",
+        "youtube": "https://www.youtube.com/watch?v=hf9epMngUck"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ea6016de-cf35-48af-9dfa-8d118c6a0c4a",
+  "name": "The People We Meet with Ty Bruner",
+  "spotifyId": "16r8MSB1EnIgVesF3VYjY9",
+  "appleId": 1798836499,
+  "episodes": [
+    {
+      "id": "2c458bb8-7612-479f-b09c-8535c933fadf",
+      "title": "Married at 15: Escaping the \u0027Keep Sweet\u0027 Church",
+      "description": "Born into the FLDS and married as teenagers, Ange and Cade\u2019s story reads like a slow-burning escape: ritualized control, a prophet\u2019s death, and a community split that left them adrift. When rebellion and heartbreak push them apart, two restless youths choose very different paths\u2014one into the unbridled thrill of apostasy, the other into a furious search for meaning. Together they unlearn a lifetime of rules, rebuild their lives, and begin to parent and love on their own terms. This episode traces the ache and the light: the trauma of coercion, the tenderness of small mercies, and the fierce work of healing. It\u2019s an intimate, hopeful portrait of two people who refused to let a closed world define their future\u2014and who now tell their story to help others find the courage to leave.",
+      "release": "2025-11-04T01:28:19Z",
+      "duration": "01:34:39",
+      "explicit": false,
+      "spotifyId": "318VjYi2SmT2Zvn4WQbbpy",
+      "appleId": 1000735134590,
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/318VjYi2SmT2Zvn4WQbbpy",
+        "apple": "https://podcasts.apple.com/podcast/married-at-15-escaping-the-keep-sweet-church/id1798836499?i=1000735134590"
+      }
+    }
+  ]
+}

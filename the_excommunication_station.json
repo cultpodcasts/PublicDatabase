@@ -5,17 +5,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
-      "id": "7ef383fa-8f0d-4b39-83da-bae6dc91b07b",
-      "title": "230. He Came To Set The Captives Free Part III: The Finale",
-      "description": "We finish up this insane book. The last part is wild and hilarious.",
-      "release": "2025-10-29T02:00:00Z",
-      "duration": "02:37:27.4190000",
+      "id": "cce1c59f-1413-40d3-8f82-453a4f3b5847",
+      "title": "231. Wisdom Tree Games W/ Fundie Fridays",
+      "description": "This week we are joined by Fundie Fridays to talk about Christian Video Game maker, Wisdom Tree.",
+      "release": "2025-11-05T07:00:00Z",
+      "duration": "01:36:51.5390000",
       "explicit": true,
-      "spotifyId": "6bfGmJNaDDCY41XeauREi3",
-      "appleId": 1000733963949,
+      "spotifyId": "6glkM9GGdsZjdkGvbXJ77U",
+      "appleId": 1000735351594,
+      "subjects": [
+        "Christian Fundamentalist"
+      ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/6bfGmJNaDDCY41XeauREi3",
-        "apple": "https://podcasts.apple.com/podcast/230-he-came-to-set-the-captives-free-part-iii-the-finale/id1573190999?i=1000733963949"
+        "spotify": "https://open.spotify.com/episode/6glkM9GGdsZjdkGvbXJ77U",
+        "apple": "https://podcasts.apple.com/podcast/231-wisdom-tree-games-w-fundie-fridays/id1573190999?i=1000735351594"
+      }
+    },
+    {
+      "id": "4b4a1660-ccaa-4681-9cb6-626a471148fc",
+      "title": "330. He CAME To Set The Captives Free: Part III (Reupload)",
+      "description": "first one was taken down.",
+      "release": "2025-11-01T23:00:39Z",
+      "duration": "02:37:06.9380000",
+      "explicit": true,
+      "spotifyId": "5XN4t7tCLw3Em85s0IoAA9",
+      "appleId": 1000734656094,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5XN4t7tCLw3Em85s0IoAA9",
+        "apple": "https://podcasts.apple.com/podcast/330-he-came-to-set-the-captives-free-part-iii-reupload/id1573190999?i=1000734656094"
       }
     },
     {

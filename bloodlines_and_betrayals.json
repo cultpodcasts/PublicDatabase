@@ -1,0 +1,47 @@
+{
+  "id": "7a6d5279-7351-4a0c-94fb-aa6972a49807",
+  "name": "Bloodlines and Betrayals",
+  "spotifyId": "16cRQ0ICM0NfTZeb0qZRbv",
+  "appleId": 1840695587,
+  "youTubeChannelId": "UCIK83dbsz-IacK7h3wcdlIw",
+  "episodes": [
+    {
+      "id": "62a478aa-fe22-41c0-8be0-05fc369df7c2",
+      "title": "David Koresh and Waco",
+      "description": "David Koresh and Waco\nIn this Bloodlines \u0026 Betrayal episode, hosts David Schuman and Steve Cully unravel the explosive story of David Koresh and the Waco siege \u2014 a tale of faith, control, and catastrophe that tested the limits of both government power and human devotion.\n\n\n\nKoresh, born Vernon Howell, rose to lead the Branch Davidians, a religious sect outside Waco, Texas, preaching a radical interpretation of the Bible and claiming himself the final prophet. What began as a community of believers soon descended into isolation, fear, and manipulation \u2014 a place where Koresh\u2019s word was law, his followers\u2019 loyalty absolute.\n\n\n\nSchuman and Cully trace the events of 1993, when the ATF and FBI confronted the compound over illegal weapons and abuse allegations. A 51-day standoff followed, broadcast live to the world \u2014 ending in fire, gunfire, and the deaths of 76 men, women, and children.\n\n\n\nThrough the lens of power, paranoia, and belief, the hosts examine how a promise of salvation became a death sentence, and how both the government and the faithful crossed lines they could never return from.\n\n\n\nIn the end, Bloodlines \u0026 Betrayal poses a haunting question: Was Waco a massacre born of madness \u2014 or a tragedy fueled by the collision of faith and authority?",
+      "release": "2025-11-02T20:33:48Z",
+      "duration": "01:10:05.1570000",
+      "explicit": false,
+      "spotifyId": "37OZAMgrPHYOG9NzyOho6w",
+      "appleId": 1000734882051,
+      "youTubeId": "uIN5nWcG1vA",
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37OZAMgrPHYOG9NzyOho6w",
+        "apple": "https://podcasts.apple.com/podcast/david-koresh-and-waco/id1840695587?i=1000734882051",
+        "youtube": "https://www.youtube.com/watch?v=uIN5nWcG1vA"
+      }
+    },
+    {
+      "id": "e98eeca6-637c-40ac-910d-4e12cbb80d97",
+      "title": "Jonestown Cult",
+      "description": "Bloodlines \u0026 Betrayals- Jonestown Cult\n\nIn this Bloodlines \u0026 Betrayal episode, hosts David Schuman and Steve Cully take listeners deep into the chilling story of Jonestown \u2014 the utopian dream that became one of history\u2019s darkest nightmares. Led by the charismatic yet paranoid Jim Jones, the People\u2019s Temple began as a movement preaching equality, compassion, and unity \u2014 but ended in the mass murder-suicide of over 900 people in the jungles of Guyana in 1978.\n\nSchuman and Cully unravel how Jones transformed from a passionate preacher to a manipulative cult leader obsessed with control. They expose the psychological grip he held over his followers \u2014 cutting them off from their families, isolating them in the wilderness, and convincing them that loyalty meant surrendering everything, even their lives.\n\nThe episode recounts the fateful visit of Congressman Leo Ryan, whose attempt to investigate the community led to violence, chaos, and the final order: \u201CDrink the poison.\u201D Mothers, children, and entire families perished in what Jones called an act of \u201Crevolutionary suicide.\u201D\n\nUltimately, Bloodlines \u0026 Betrayal portrays Jonestown not just as a tragedy of faith gone wrong, but as a masterclass in manipulation, blind devotion, and the human cost of obedience. Schuman and Cully leave listeners with a haunting truth \u2014 the most dangerous betrayal is the one committed in the name of salvation.",
+      "release": "2025-11-02T20:27:11Z",
+      "duration": "01:20:45",
+      "explicit": false,
+      "spotifyId": "6xEZ7Ml2zErOVQfhcw2eNB",
+      "appleId": 1000734881641,
+      "youTubeId": "2MmlUz4V-gU",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6xEZ7Ml2zErOVQfhcw2eNB",
+        "apple": "https://podcasts.apple.com/podcast/jonestown-cult/id1840695587?i=1000734881641",
+        "youtube": "https://www.youtube.com/watch?v=2MmlUz4V-gU"
+      }
+    }
+  ]
+}

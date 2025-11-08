@@ -1,0 +1,25 @@
+{
+  "id": "b3b40ccc-325c-426e-ad5f-c8fa80e37d03",
+  "name": "Beeswax Biz",
+  "spotifyId": "4VGdjROWHDi3pbcXYSi2Zb",
+  "appleId": 1723952852,
+  "episodes": [
+    {
+      "id": "f635ef8e-cc21-4a41-b315-1a714ca3d0b2",
+      "title": "#180 \u0022Teal Swan: Healer or cult leader?\u0022",
+      "description": "***Trigger Warning - there is some talk of suicide - not for kids! Michelle and Karin explore the world of Teal Swan and the documentary, \u0022The Deep End.\u0022 It\u0027s available on Apple TV, and you can find all kinds of info on her online. Let us know what you think! The story is incredible.",
+      "release": "2025-11-02T07:05:00Z",
+      "duration": "00:42:09.6740000",
+      "explicit": true,
+      "spotifyId": "3Bkhhi4bugDOLx5wfLS1pV",
+      "appleId": 1000734775835,
+      "subjects": [
+        "Teal Swan"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Bkhhi4bugDOLx5wfLS1pV",
+        "apple": "https://podcasts.apple.com/podcast/180-teal-swan-healer-or-cult-leader/id1723952852?i=1000734775835"
+      }
+    }
+  ]
+}

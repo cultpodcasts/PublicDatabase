@@ -1,0 +1,25 @@
+{
+  "id": "3e7ffcc6-1a5c-4232-b682-b57de21c2ace",
+  "name": "Stassi Spills",
+  "spotifyId": "27F9iaOCEp6hhZ0VTvPkSc",
+  "appleId": 1835525757,
+  "episodes": [
+    {
+      "id": "7f1f693a-03b3-4dd0-82fb-d367198f5e2e",
+      "title": "WE VISITED A CULT AND THEY INVITED US TO THEIR HOUSE | Stassi Spills #6",
+      "description": "We visited the Yellow Deli in Vista California, which is run by a world wide cult network known as the Twelve Tribes of Israel. We brought some cameras and hidden mics to the establishment to see what we might find. By the end of our lunch, they interviewed us about our business, where we\u0027re from, what we do, and they invited us to their Friday Sabbath at their house!",
+      "release": "2025-11-06T22:00:00Z",
+      "duration": "01:10:00.9600000",
+      "explicit": false,
+      "spotifyId": "1rB5O4G2HOgJKuZGTMG4XY",
+      "appleId": 1000735633882,
+      "subjects": [
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1rB5O4G2HOgJKuZGTMG4XY",
+        "apple": "https://podcasts.apple.com/podcast/we-visited-a-cult-and-they-invited-us-to-their/id1835525757?i=1000735633882"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d9990a6b-52bc-45c5-8b3b-77cb000792df",
+  "name": "Pete Z",
+  "youTubeChannelId": "UCHYmP-cfjKqVaO0B3Sqeq-g",
+  "episodes": [
+    {
+      "id": "cb19bc02-34a8-4ad7-9654-f9cba1091af7",
+      "title": "I Joined Scientology to Take It Down",
+      "release": "2025-11-01T23:17:08Z",
+      "duration": "00:20:08",
+      "explicit": false,
+      "youTubeId": "rvl3QlzjVC4",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=rvl3QlzjVC4"
+      }
+    }
+  ]
+}

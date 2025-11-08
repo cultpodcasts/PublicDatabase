@@ -1,0 +1,24 @@
+{
+  "id": "b106555b-2a91-4664-8d02-bd35dfc29fab",
+  "name": "Teen Mom Time",
+  "spotifyId": "3KbjScbhe05Ib0KWYTLHcK",
+  "episodes": [
+    {
+      "id": "5048ebdc-6cf9-45b4-9d1d-ed7dfd0da8ac",
+      "title": "Leah Messer Joins Self-Help Group Accused Of Being A Cult!",
+      "description": "On this week\u2019s episode, we discuss Leah Messer\u2019s self-help group accused of being a cult, the explosive Teen Mom reunion fight, Jenelle Evans\u2019 business registration and more! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2019-10-31T00:00:00",
+      "duration": "00:41:41.8510000",
+      "explicit": false,
+      "spotifyId": "4DouitdHE1EUdv8qBPgPlj",
+      "youTubeId": "uKYTly1IkzI",
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4DouitdHE1EUdv8qBPgPlj",
+        "youtube": "https://www.youtube.com/watch?v=uKYTly1IkzI"
+      }
+    }
+  ]
+}

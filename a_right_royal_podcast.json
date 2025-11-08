@@ -1,0 +1,29 @@
+{
+  "id": "a26771b4-ab9e-4914-90a9-1f053c33d311",
+  "name": "A Right Royal Podcast",
+  "spotifyId": "1PuIEbdeAOsNnwQwF1N3PJ",
+  "appleId": 1660605216,
+  "youTubeChannelId": "UC5QrlJmN0CA88HBJcOS99XA",
+  "youTubePlaylistId": "PLS8IhKCBFFo9uk32JPXD9CvYX3xiz3quq",
+  "episodes": [
+    {
+      "id": "67f21080-8fd0-47d1-87a9-30f060bab974",
+      "title": "The Banishment of Andrew",
+      "description": "In this week\u2019s episode, we delve into the King\u0027s decisive move regarding his brother, Prince Andrew - stripping him of his remaining styles, titles, and honours, and declaring that he will now be known simply as Andrew Mountbatten-Windsor. We explore what this means for his future, his ex-wife\u0027s Sarah Ferguson, the late Queen\u0027s corgis, and how their daughters, Beatrice and Eugenie, have been putting on a brave face while abroad. Plus, we look ahead to Prince William\u0027s Earthshot Prize event in Rio and unpack the Sussexes\u0027 latest revelations from across the Atlantic. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-11-03T10:57:00Z",
+      "duration": "00:33:08.0220000",
+      "explicit": false,
+      "spotifyId": "7aBDQalB4rv3OFO5GwqeqV",
+      "appleId": 1000734453970,
+      "youTubeId": "AGryEQszz5k",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7aBDQalB4rv3OFO5GwqeqV",
+        "apple": "https://podcasts.apple.com/podcast/the-banishment-of-andrew/id1660605216?i=1000734453970",
+        "youtube": "https://www.youtube.com/watch?v=AGryEQszz5k"
+      }
+    }
+  ]
+}

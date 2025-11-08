@@ -1,0 +1,29 @@
+{
+  "id": "8387b8ed-4e23-42dd-a931-3fe21205ca6c",
+  "name": "The Adult in the Room",
+  "spotifyId": "5kSgsyoj29afLVgwGScPbx",
+  "appleId": 1535902952,
+  "youTubeChannelId": "UCWmbAWj67y8Fjnroqhd7Phg",
+  "episodes": [
+    {
+      "id": "2aba5e12-f31b-4c85-b3a9-e18d01ff5510",
+      "title": "The Cult Playbook? Ex-Antifa on Recruitment, Roles \u0026 Exit",
+      "description": "An unfiltered look at Portland\u2019s rolling showdown around the ICE facility. In this episode, you\u2019ll hear how former Antifa participants describe the movement\u2019s internal roles, how safe-house logistics work on the ground, and why noise operations target neighborhoods as much as officers. You\u2019ll follow the citizen-journalist chase that helped identify a suspected rock attacker, plus a breakdown of where organizers really work when the costumes come off. Then you\u2019ll hear a veteran PI connect dots between organizers, public-sector unions, and NGOs\u2014and what he says prosecutors should publish if they\u2019re serious about accountability. #Portland #Antifa #ICE #Protest #CitizenJournalism #SafeHouse #BlackBloc #NGO #SEIU #LawAndOrder #FreeSpeech #PortlandOregon",
+      "release": "2025-11-04T23:06:22Z",
+      "duration": "01:18:04.9580000",
+      "explicit": false,
+      "spotifyId": "5AMgslhJ3o3vOnQSR8uZLd",
+      "appleId": 1000735300538,
+      "youTubeId": "wa4KLiqKF4E",
+      "subjects": [
+        "Cult Psychology",
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5AMgslhJ3o3vOnQSR8uZLd",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-playbook-ex-antifa-on-recruitment-roles-exit/id1535902952?i=1000735300538",
+        "youtube": "https://www.youtube.com/watch?v=wa4KLiqKF4E"
+      }
+    }
+  ]
+}

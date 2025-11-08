@@ -256,7 +256,6 @@
       "explicit": false,
       "spotifyId": "0TSJvJxqrDx95CLyIp1amF",
       "appleId": 1000722714952,
-      "youTubeId": "K1K9xxUfWFg",
       "subjects": [
         "Opus Dei",
         "Catholicism",
@@ -264,8 +263,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0TSJvJxqrDx95CLyIp1amF",
-        "apple": "https://podcasts.apple.com/podcast/opus-deis-human-rights-scandal-grows-the-catholic/id1706189667?i=1000722714952",
-        "youtube": "https://www.youtube.com/watch?v=K1K9xxUfWFg"
+        "apple": "https://podcasts.apple.com/podcast/opus-deis-human-rights-scandal-grows-the-catholic/id1706189667?i=1000722714952"
       }
     },
     {
@@ -961,15 +959,13 @@
       "explicit": false,
       "spotifyId": "7BP1oWyNviQ0ScWhEMZOZU",
       "appleId": 1000690360850,
-      "youTubeId": "zIjiKmBZvjw",
       "subjects": [
         "Opus Dei",
         "Human Trafficking"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7BP1oWyNviQ0ScWhEMZOZU",
-        "apple": "https://podcasts.apple.com/podcast/opus-dei-accused-of-labor-trafficking-again-and/id1706189667?i=1000690360850",
-        "youtube": "https://www.youtube.com/watch?v=zIjiKmBZvjw"
+        "apple": "https://podcasts.apple.com/podcast/opus-dei-accused-of-labor-trafficking-again-and/id1706189667?i=1000690360850"
       }
     },
     {

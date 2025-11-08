@@ -1,0 +1,25 @@
+{
+  "id": "fc28a81c-6222-4c57-b5e7-590e2d6a96d0",
+  "name": "NFW",
+  "spotifyId": "4cNSVDZWilZh4u7kdhLT2J",
+  "appleId": 1537279649,
+  "episodes": [
+    {
+      "id": "d51524c6-5f9b-41a1-af44-0c63682cc790",
+      "title": "259 | 764 Cult",
+      "description": "This week, Deanna talks about the 764 Cult (starts at (10:35)). At the end, we quiz each other on our lives. VOICEMAIL us questions, stories, jokes, whatever! (706) 389-8124 CHECK OUT our new merch store ! Please remember to subscribe and rate us/review us! Follow us on Instagram ! Become a patron and support us via Patreon ! Email us your f*cked up stories at NFWpodcast@gmail.com we\u0027d love to hear from you! C U Next Tuesday!",
+      "release": "2025-11-04T05:30:00Z",
+      "duration": "01:21:23.5920000",
+      "explicit": false,
+      "spotifyId": "0cNWv9eDUeotUhxdjQASh0",
+      "appleId": 1000735162878,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0cNWv9eDUeotUhxdjQASh0",
+        "apple": "https://podcasts.apple.com/podcast/259-764-cult/id1537279649?i=1000735162878"
+      }
+    }
+  ]
+}

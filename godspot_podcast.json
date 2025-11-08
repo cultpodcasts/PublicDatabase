@@ -1,0 +1,27 @@
+{
+  "id": "f51df64f-a172-4af9-8723-d7e354c0bfc1",
+  "name": "G(od)-Spot Podcast",
+  "spotifyId": "1ogtDlugQkcWLO2tOUbRDv",
+  "appleId": 1580375802,
+  "episodes": [
+    {
+      "id": "3e2fca59-5ae4-49a1-a73e-a66c1184087a",
+      "title": "S9, Episode 9 - When Religion Hurts You - Dr. Laura Anderson",
+      "description": "Dr. Laura Anderson \u2013a licensed psychotherapist, trauma resolution coach, religious trauma consultant, speaker, author, and educator. She is on a mission to provide religious trauma-informed support and resources to survivors of and those helping survivors of religious trauma, adverse religious experiences (AREs), faith deconstruction, cults, spiritual abuse, and leaving high demand/high control systems. We talk about her own story and her book When Religion Hurts You, a book I really recommend. She runs the Center for Trauma resolution and recovery and she is one of the hosts of the podcast Sunday School Dropouts, and we talked some about that too. It was a great conversation and I\u2019m so happy to have talked with her. Like and share this episode on Social media and to your friends. Follow the podcast on Facebook; Instagram and the Blog and if you want, write your thoughts and comments in the comment section under the episode on these platforms.",
+      "release": "2025-11-02T10:51:57Z",
+      "duration": "00:49:53.7780000",
+      "explicit": false,
+      "spotifyId": "4KSn2JwJQgNgqt2BryAxbE",
+      "appleId": 1000734815583,
+      "subjects": [
+        "Psychology",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4KSn2JwJQgNgqt2BryAxbE",
+        "apple": "https://podcasts.apple.com/podcast/s9-episode-9-when-religion-hurts-you-dr-laura-anderson/id1580375802?i=1000734815583"
+      }
+    }
+  ]
+}
