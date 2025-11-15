@@ -1,0 +1,71 @@
+{
+  "id": "e5216ddd-0fda-4dd2-8db8-2c57ccc3b7dc",
+  "name": "Heavens Gate The Cult of Cults",
+  "episodes": [
+    {
+      "id": "106c50c5-03ce-4449-b9d4-b0b718a663f7",
+      "title": "Heavens Gate The Cult of Cults E02",
+      "release": "0001-01-01T00:00:00",
+      "duration": "00:49:20",
+      "explicit": false,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/heavens-gate-the-cult-of-cults/Heavens\u002BGate\u002BThe\u002BCult\u002Bof\u002BCults\u002BE02.mkv"
+      }
+    },
+    {
+      "id": "98650132-9518-4ea3-a5a6-fc16b30a77aa",
+      "title": "Heavens Gate The Cult of Cults E01",
+      "release": "0001-01-01T00:00:00",
+      "duration": "00:48:39",
+      "explicit": false,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/heavens-gate-the-cult-of-cults/Heavens Gate The Cult of Cults E01.mkv"
+      }
+    },
+    {
+      "id": "14e9b107-7b90-4706-a8aa-041887c7b2fa",
+      "title": "Heavens Gate The Cult of Cults E02",
+      "release": "0001-01-01T00:00:00",
+      "duration": "00:49:20",
+      "explicit": false,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/heavens-gate-the-cult-of-cults/Heavens Gate The Cult of Cults E02.mkv"
+      }
+    },
+    {
+      "id": "81568148-a1fd-4a7c-9bc2-ec3bd72a3992",
+      "title": "Heavens Gate The Cult of Cults E03",
+      "release": "0001-01-01T00:00:00",
+      "duration": "00:51:04",
+      "explicit": false,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/heavens-gate-the-cult-of-cults/Heavens Gate The Cult of Cults E03.mkv"
+      }
+    },
+    {
+      "id": "1fc9b3ac-0e0f-48eb-bfd9-30167179d53c",
+      "title": "Heavens Gate The Cult of Cults E04",
+      "release": "0001-01-01T00:00:00",
+      "duration": "00:51:09",
+      "explicit": false,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/heavens-gate-the-cult-of-cults/Heavens Gate The Cult of Cults E04.mkv"
+      }
+    }
+  ]
+}

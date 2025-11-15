@@ -1,0 +1,20 @@
+{
+  "id": "e7da0b71-c388-42a0-a1c7-9cc627bba65a",
+  "name": "CBS (WHEC-TV)",
+  "episodes": [
+    {
+      "id": "7d045da3-88a8-4dc8-bf2a-d78292837a37",
+      "title": "In Search Of: Jim Jones (October 31, 1981)",
+      "description": "This docu-series, narrated by Leonard Nimoy, usually dealt with supernatural investigations into topics like Bigfoot, The Loch Ness Monster, and the Bermuda Triangle, or historical events, such as the Jack the Ripper Murders, and Amelia Earhart\u0027s disappearance. It originally ran for six seasons between 1977-82 in syndication in the U.S. Revivals of the program would occur on cable/satellite in 2002 on the Sci-Fi Channel (today\u0027s SyFy), and in 2018 on History.  In  Season Six, Episode 127, the series focused on cult leader Jim Jones, and the Jonestown Massacre. Survivors of the tragedy and associates of Jones were interviewed. Some viewers may find parts of the telecast disturbing.The broadcast was record from then-CBS (now NBC) affiliate WHEC-TV in Rochester, New York. Commercials were included.Posted for educational and historical purposes only. All material is under the copyright of their original holders. No copyright infringement is intended.",
+      "release": "1981-10-31T20:00:00Z",
+      "duration": "00:29:32",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/in-search-of-jim-jones-october-31-1981"
+      }
+    }
+  ]
+}

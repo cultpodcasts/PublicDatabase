@@ -1,0 +1,20 @@
+{
+  "id": "cbe91b50-15ee-4200-bd0a-00a9ec872297",
+  "name": "Oprah",
+  "episodes": [
+    {
+      "id": "74c20409-6a6a-48fb-8667-f12341f19867",
+      "title": "Jonestown Oprah 1988",
+      "description": "1988 Oprah Jonestown survivor reunion.",
+      "release": "2025-11-06T23:10:16",
+      "duration": "00:43:48",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/jonestown-oprah-1988"
+      }
+    }
+  ]
+}

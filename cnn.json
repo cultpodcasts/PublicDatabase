@@ -226,6 +226,20 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=AUB52BatlPw"
       }
+    },
+    {
+      "id": "f20a58f8-a105-4039-8244-0805c7028d9f",
+      "title": "CNN: Escape from Jonestown",
+      "description": "CNN Presents: \u0022Escape from Jonestown\u0022 premiered on Nov. 13, 2008 In 1978, 909 Americans were led to mass murder-suicide by Rev. Jim JonesOne-third of the dead at Jonestown were children; only 33 people survived CNN special correspondent Soledad O\u0027Brien reports on untold stories of survivors",
+      "release": "2008-11-13T20:00:00Z",
+      "duration": "01:23:08",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/CNN_Escape.from.Jonestown"
+      }
     }
   ]
 }

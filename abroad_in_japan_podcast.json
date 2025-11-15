@@ -1,0 +1,25 @@
+{
+  "id": "0979cc8b-24c4-427d-be97-b648c1ee05d7",
+  "name": "Abroad In Japan Podcast",
+  "spotifyId": "1dbguTBIriCwhJXlxTITFe",
+  "appleId": 1338558972,
+  "youTubeChannelId": "UCgL1f1txLPqr2XpQlKlKmEg",
+  "episodes": [
+    {
+      "id": "d39d8939-8596-430a-a7f6-f00bc28bd9a3",
+      "title": "The Unsettling Reality of Japanese Cults",
+      "description": "Think of your carbon footprint, cultists. Surely there\u0027s an easier way? \n\n00:00 Trapped In Dodgy Car Parks\n09:13 Avoiding Cults In Japan\n16:30 Ballistic Missiles Fired Towards Sea Of Japan\n24:39 Purification Rituals\n26:40 Tea Tips\n",
+      "release": "2025-11-10T21:00:50Z",
+      "duration": "00:31:20",
+      "explicit": false,
+      "spotifyId": "5A3pOxdLi5MtecgFBOcC2L",
+      "appleId": 1000736062227,
+      "youTubeId": "lk8npgyq1v8",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5A3pOxdLi5MtecgFBOcC2L",
+        "apple": "https://podcasts.apple.com/podcast/the-unsettling-reality-of-of-japanese-cults/id1338558972?i=1000736062227",
+        "youtube": "https://www.youtube.com/watch?v=lk8npgyq1v8"
+      }
+    }
+  ]
+}

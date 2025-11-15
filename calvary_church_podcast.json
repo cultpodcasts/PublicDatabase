@@ -1,0 +1,29 @@
+{
+  "id": "c82eab6f-9c49-4e86-8e07-3d49f7c6f0d0",
+  "name": "Calvary Church Podcast",
+  "spotifyId": "6EgvgpShEJVg0h52y6dwrR",
+  "appleId": 1283179557,
+  "youTubeChannelId": "UC7wMrzLEuV0Hek9bJGHU0fw",
+  "youTubePlaylistId": "PLOl52hoJyOAH859dmboycI_kGB-v4intb",
+  "episodes": [
+    {
+      "id": "7e43d496-6eb2-4308-a0bc-26726026bf2e",
+      "title": "Save The Garden // Ricecast",
+      "description": "Howdy, Pastor and I talk about the future of Clearwater Florida, the Church of Scientology, the Save The Garden Rally, and CCHS. Join us this Sunday May 11th to learn about Relationships that are Built To Last! Listen to our latest sermon from our Built To Last, series here . #SaveTheGarden Save The Garden \u2013 Advocating for Our History, Our Community, Our Future Join The Rally on May 10th @ 10:00 AM Enjoy music, friends, prayers, and an interesting update. Peacefully WALK with us to the project site. We will meet for the rally at 520 Cleveland Street. Free and easy parking available at the Garden Avenue garage. LINKS \u0026#x1f517; - Save The Garden - CCHS Baseball - Dan Support the show Find us at! Calvary.us \u003C- Website \u0026#x1f4bb; Calvary.us \u003C- Instagram \u0026#x1f4f1; CalvaryChurchCLW \u003C- Youtube \u0026#x1f4f9;",
+      "release": "2025-05-07T19:00:00Z",
+      "duration": "00:33:32.7600000",
+      "explicit": false,
+      "spotifyId": "0Gk8YxAOtnvofRqfjUaHaV",
+      "appleId": 1000706716645,
+      "youTubeId": "WThgcuAMkeY",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Gk8YxAOtnvofRqfjUaHaV",
+        "apple": "https://podcasts.apple.com/podcast/save-the-garden-ricecast/id1283179557?i=1000706716645",
+        "youtube": "https://www.youtube.com/watch?v=WThgcuAMkeY"
+      }
+    }
+  ]
+}

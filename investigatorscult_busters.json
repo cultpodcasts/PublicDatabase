@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "d921e448-a6f7-442a-ba6f-b7295e2385ad",
+      "title": "Holding IDMR Accountable at 2026 General Assembly",
+      "release": "2025-11-09T22:00:27Z",
+      "duration": "00:01:20",
+      "explicit": false,
+      "youTubeId": "Qog_aAtTmrA",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Qog_aAtTmrA"
+      }
+    },
+    {
+      "id": "8a683917-cd66-4ed8-8608-99e70fa6d582",
+      "title": "IDMR Royalty Celebrated",
+      "release": "2025-11-09T14:01:11Z",
+      "duration": "00:00:24",
+      "explicit": false,
+      "youTubeId": "ismDmldRDpA",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ismDmldRDpA"
+      }
+    },
+    {
       "id": "4655eacf-dc99-4aeb-8764-7f201d6f43ff",
       "title": "Meet Cliff Henries at the 2026 General Assembly",
       "release": "2025-10-31T20:59:12Z",

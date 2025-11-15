@@ -1,10 +1,23 @@
 {
   "id": "6629da0d-83b6-4c34-85c0-b1409b871836",
   "name": "The Redacted Apostate",
-  "spotifyId": "3dcs0D4y1VQHI4B4Buo3CR",
-  "appleId": 1734295364,
   "youTubeChannelId": "UCeO_7EoE7YEjNoZXUS0oyEw",
   "episodes": [
+    {
+      "id": "803f0844-6624-4baf-a1d6-b90611c47cf6",
+      "title": "What ever happened to Lauren Matthias and Hidden True Crime?",
+      "description": "We have something to talk about! The drama with #htc and #laurenmatthias it was a lot. Inspired by other YouTubers talking about this craziness. These are the opinions of 2 functional idiots. Enjoy/1",
+      "release": "2025-11-08T20:04:20Z",
+      "duration": "01:22:56",
+      "explicit": false,
+      "youTubeId": "-ZISx5qGv9s",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-ZISx5qGv9s"
+      }
+    },
     {
       "id": "9f7df6d9-c711-40dd-bf93-e9e5219a3aeb",
       "title": "Lorrie Vallow Daybell at it again",

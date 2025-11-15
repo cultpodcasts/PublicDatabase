@@ -1,0 +1,29 @@
+{
+  "id": "53f38a8c-5e34-4bf6-b33b-bad11bd17165",
+  "name": "The Trump Report",
+  "spotifyId": "1p2WhZ6C5lbOTIxJVPZANj",
+  "appleId": 1818380107,
+  "youTubeChannelId": "UCTjDhFuGXlhx9Us0gq0VK2w",
+  "youTubePlaylistId": "PLGeQKoGUstRA9Zv-J_Qdc9Ldrcea-HdrD",
+  "episodes": [
+    {
+      "id": "04d15d8a-47f0-4788-8fee-d391afeaaa53",
+      "title": "Epstein offered a reporter \u2018Trump with girls in bikinis\u2019 photos in newly uncovered emails",
+      "description": "White House reporter for Real Clear Politics Philip Wegmann joins Times Radio\u2019s Maddie Hale to discuss old emails of Jeffrey Epstein being published which seems him offer a reporter \u201Cphotos of Donald and girls in bikinis in my kitchen\u201D, whether the White House is in panic mode and if the emails paint author Michael Wolff in a way that rids him of any credibility. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-11-13T18:00:00Z",
+      "duration": "00:25:03.7380000",
+      "explicit": false,
+      "spotifyId": "4yZkBIeoT1WW6EEtBdkkk3",
+      "appleId": 1000736633387,
+      "youTubeId": "gNMWIcBcLMs",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4yZkBIeoT1WW6EEtBdkkk3",
+        "apple": "https://podcasts.apple.com/podcast/epstein-offered-a-reporter-trump-with-girls-in/id1818380107?i=1000736633387",
+        "youtube": "https://www.youtube.com/watch?v=gNMWIcBcLMs"
+      }
+    }
+  ]
+}

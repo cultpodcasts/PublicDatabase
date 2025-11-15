@@ -1,0 +1,25 @@
+{
+  "id": "dbe86665-c687-42d0-bb1f-f3ce570d1c88",
+  "name": "The Most Millennial Podcast",
+  "spotifyId": "3IU3HUQL1vFLDtTW3c5AiL",
+  "appleId": 1637342279,
+  "episodes": [
+    {
+      "id": "64877f41-372f-4877-974b-5e9dc26f7de8",
+      "title": "Episode 113: Special Guest, Ex Cult Member and Entrepreneur, Melissa Sifjard\u00F3ttir.",
+      "description": "Send us a text In this episode of The Most Millennial Podcast, the conversation drifts through incense smoke and memory with guest Melissa Sifjard\u00F3ttir \u2014 a perfumer, practicing witch, and survivor of a cult who has turned her past into a practice of creation and healing. Melissa, founder of the olfactory brand Sif Sniffs, joins the show to talk about the strange alchemy of scent, belief, and identity. Together, she and the hosts of TMMP explore what it means to build a life out of ruins, the power of smells, and why millennials might be the most spiritually curious generation yet. It\u2019s a tender, fragrant episode about reclaiming magic, surviving manipulation, and finding beauty in the act of becoming whole again. Check out her website and instragram: www.sifsniffs.com and @sifsniffs Follow us on Instagram @themostmillennialpodcast or email at podcast@mostmillennial.media Check out our website! themostmillennialpodcast.com",
+      "release": "2025-11-09T10:00:00Z",
+      "duration": "01:03:01.4590000",
+      "explicit": true,
+      "spotifyId": "1hsal8BSaLWBAEyTaho5UK",
+      "appleId": 1000735944941,
+      "subjects": [
+        "Science of Identity Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1hsal8BSaLWBAEyTaho5UK",
+        "apple": "https://podcasts.apple.com/podcast/episode-113-special-guest-ex-cult-member-and/id1637342279?i=1000735944941"
+      }
+    }
+  ]
+}

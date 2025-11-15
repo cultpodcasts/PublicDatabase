@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a6d179d8-c3b3-427a-9318-40bf6ba6cd0b",
+      "title": "232. The Gayness Of King James: Part I",
+      "description": "This week, we are joined by Samuel David to talk about King James, his wonderful book and was he gay?",
+      "release": "2025-11-12T07:00:00Z",
+      "duration": "01:46:22.3930000",
+      "explicit": true,
+      "spotifyId": "4atiWRQagIsWfaRZrvhfef",
+      "appleId": 1000736387877,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4atiWRQagIsWfaRZrvhfef",
+        "apple": "https://podcasts.apple.com/podcast/232-the-gayness-of-king-james-part-i/id1573190999?i=1000736387877"
+      }
+    },
+    {
       "id": "cce1c59f-1413-40d3-8f82-453a4f3b5847",
       "title": "231. Wisdom Tree Games W/ Fundie Fridays",
       "description": "This week we are joined by Fundie Fridays to talk about Christian Video Game maker, Wisdom Tree.",

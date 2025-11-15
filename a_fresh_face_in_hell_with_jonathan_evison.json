@@ -1,0 +1,30 @@
+{
+  "id": "5ba8b506-cf0a-4aca-8e62-ce1306d350e6",
+  "name": "A Fresh Face in Hell with Jonathan Evison",
+  "spotifyId": "5wGHPxIApFsJZ9ZpTvFIs2",
+  "appleId": 1780650409,
+  "youTubeChannelId": "UCq1mtandLJ0HDwrvIZIc_Og",
+  "episodes": [
+    {
+      "id": "7f42aeaa-3c7a-4b00-b7ce-a65417ca9d48",
+      "title": "Jane Borden - America is a Cult",
+      "description": "Ever wonder why there are so many cults in American history? From religious cults to success cults to wellness cults\u2014we\u2019re lousy with them. Author Jane Borden argues that this is no surprise when you consider that the Pilgrims and Puritans were both doomsday cults. With metaphorical red yarn, she lays out a compelling argument that throughout our history, we keep returning to our culty origins. From cowboys and superheroes to the American Dream, multi-level marketing schemes, and finally to MAGA and QAnon, we are who we have always been, unwitting members of Cultus Americanus. \u00A0 \u00A0\nlinktr.ee: https://linktr.ee/freshfacepods.evison",
+      "release": "2025-11-12T11:00:00Z",
+      "duration": "00:52:41",
+      "explicit": false,
+      "spotifyId": "3Pl09gy0H2z2k9Tj6eUqRZ",
+      "appleId": 1000736414947,
+      "youTubeId": "BkcYeE2vFWI",
+      "subjects": [
+        "Cult Psychology",
+        "Multi-Level Marketing",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Pl09gy0H2z2k9Tj6eUqRZ",
+        "apple": "https://podcasts.apple.com/podcast/jane-borden-america-is-a-cult/id1780650409?i=1000736414947",
+        "youtube": "https://www.youtube.com/watch?v=BkcYeE2vFWI"
+      }
+    }
+  ]
+}

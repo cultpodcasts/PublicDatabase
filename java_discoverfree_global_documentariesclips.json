@@ -16,7 +16,8 @@
         "NXIVM"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=T-Kpx5fjfHE"
+        "youtube": "https://www.youtube.com/watch?v=T-Kpx5fjfHE",
+        "internetArchive": "https://archive.org/details/youtube-yYrSoVCjYAw"
       }
     },
     {
@@ -47,7 +48,8 @@
         "Cult Psychology"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=auwSmjuxNaI"
+        "youtube": "https://www.youtube.com/watch?v=auwSmjuxNaI",
+        "internetArchive": "https://archive.org/details/youtube-auwSmjuxNaI"
       }
     },
     {
@@ -105,7 +107,8 @@
         "John Frum"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=xVD8eLvig_I"
+        "youtube": "https://www.youtube.com/watch?v=xVD8eLvig_I",
+        "internetArchive": "https://archive.org/details/youtube-7JI9FZTCmII"
       }
     }
   ]

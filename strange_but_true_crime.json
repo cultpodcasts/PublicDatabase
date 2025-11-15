@@ -1,0 +1,26 @@
+{
+  "id": "3b440b0f-0450-4fad-8408-96d1c4547cea",
+  "name": "Strange But True Crime",
+  "spotifyId": "7HLSZNep1T8ALpQxr88tqQ",
+  "appleId": 1815708242,
+  "episodes": [
+    {
+      "id": "97164dbf-f571-4911-9be8-ec50926d4ab2",
+      "title": "Death Pledge",
+      "description": "Mark Christopher lured followers into his \u0027anti-establishment cult\u2019 by promising to save them money. The movement quickly took a sinister turn. Wanna get in touch? Email us at behaveyourself@bbc.co.uk. Presenter: Rima Ahmed. Reporter: Lewis Adams. Written and produced by Luke de Costa. Researcher: Bethan Davies. Social Media: Fede Marilotti. Online Producer: Rachael Smith. Executive Producer: Luke Eldridge. Commissioning Editors: Gareth Hydes and Alistair Miskin.",
+      "release": "2025-11-05T01:00:00Z",
+      "duration": "00:33:53.4490000",
+      "explicit": false,
+      "spotifyId": "2nhqG7gdtMhzBWD0f7yaTJ",
+      "appleId": 1000735313902,
+      "subjects": [
+        "Federal Postal Court"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2nhqG7gdtMhzBWD0f7yaTJ",
+        "apple": "https://podcasts.apple.com/podcast/death-pledge/id1815708242?i=1000735313902",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0mdrs88?at_mid=lSObIiQMYQ\u0026at_nation=NET\u0026at_audience_id=SS\u0026at_product=sounds\u0026at_brand=p0l3x7rp\u0026at_ptr_type=media\u0026at_format=image\u0026at_objective=consumption\u0026at_link_title=Strange_But_True_Crime_Death_Pledge\u0026at_bbc_team=BBC"
+      }
+    }
+  ]
+}

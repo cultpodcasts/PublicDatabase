@@ -1,0 +1,20 @@
+{
+  "id": "91642e98-01e4-4b91-bea0-12f12c07951f",
+  "name": "Interloper Films",
+  "episodes": [
+    {
+      "id": "25a6dfa3-b1ff-449f-b400-08e7e70836f1",
+      "title": "Surviving a Christian Cult",
+      "description": "2007",
+      "release": "2018-11-25T06:16:41",
+      "duration": "01:33:29",
+      "explicit": false,
+      "subjects": [
+        "Cult-Expert"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/Videoplayback1_20181125"
+      }
+    }
+  ]
+}

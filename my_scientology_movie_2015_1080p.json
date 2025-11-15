@@ -1,0 +1,19 @@
+{
+  "id": "d7e0c304-6dec-45df-bb2d-7cdd3572d920",
+  "name": "My Scientology Movie",
+  "episodes": [
+    {
+      "id": "6c9d93d2-8914-49a0-94cc-cd7001ddc9ba",
+      "title": "My Scientology Movie (2015)",
+      "release": "0001-01-01T00:00:00",
+      "duration": "01:39:17",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/goingclear_202003/Documentaries/My\u002BScientology\u002BMovie\u002B(2015\u002B1080p).mp4"
+      }
+    }
+  ]
+}

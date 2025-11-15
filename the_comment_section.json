@@ -1,0 +1,25 @@
+{
+  "id": "e1214c4c-051b-4c1b-8935-f4253ce3e5f5",
+  "name": "The Comment Section",
+  "spotifyId": "4r5hFdgWHUcZKHV6Kexnr7",
+  "appleId": 1696580710,
+  "episodes": [
+    {
+      "id": "54224cf5-5d46-4e51-bf15-601745f6f725",
+      "title": "TLC released documentary trailer of Mary M Cobsy being a cult leader! ",
+      "description": "Here are today: TLC releases trailer of documentary of Mary Cosby of being cult leader RHOSLC recap Wendy Williams doesn\u0027t have dementia Angel Massie party poops during RHOP group trip Trump being mentioned in Epistein emails Thanks for listening!",
+      "release": "2025-11-14T12:07:00Z",
+      "duration": "00:49:31.7740000",
+      "explicit": false,
+      "spotifyId": "0pH9qtwuSWGGzzpITmRa6N",
+      "appleId": 1000736738251,
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0pH9qtwuSWGGzzpITmRa6N",
+        "apple": "https://podcasts.apple.com/podcast/tlc-released-documentary-trailer-of-mary-m-cobsy/id1696580710?i=1000736738251"
+      }
+    }
+  ]
+}

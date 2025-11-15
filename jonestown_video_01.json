@@ -1,0 +1,20 @@
+{
+  "id": "aa7f6596-c3d7-4c99-b0e4-5c346ac2130c",
+  "name": "FBI",
+  "episodes": [
+    {
+      "id": "461053bd-03b7-47ed-bc05-28a171abe492",
+      "title": "Jonestown Video 01",
+      "description": "The FBI files relating to the Jonestown massacre.",
+      "release": "0001-01-01T00:00:00",
+      "duration": "00:03:30",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/Jonestown-FBI"
+      }
+    }
+  ]
+}

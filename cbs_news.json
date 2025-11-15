@@ -93,6 +93,20 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=0EraFKDB9kU"
       }
+    },
+    {
+      "id": "0512967c-9d37-4edc-bb1a-095c694f4f92",
+      "title": "Cults",
+      "description": "Title from data sheetOriginally broadcast on the CBS television program entitled: 60 minutesIntended audience: Ages 14 through adultsIssued also as videorecordingA documentary on religious cult groups. Features an unidentified twenty-six-year-old member of a cult and his parents, who present opposing perceptions of these groups. Includes remarks by Catholic and Jewish clergymen, and focuses on the issues of deception and mind control by the cults during a meeting of ex-members and their families",
+      "release": "2017-05-31T19:49:40",
+      "duration": "00:13:17",
+      "explicit": false,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/cults_20170531"
+      }
     }
   ]
 }

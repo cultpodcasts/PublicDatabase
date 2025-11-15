@@ -15,6 +15,20 @@
       "urls": {
         "internetArchive": "https://archive.org/details/rebekah-vardy-jehovahs-witnesses-and-me-web"
       }
+    },
+    {
+      "id": "932c0aa6-41cd-44a0-9cab-0e321730c8d1",
+      "title": "1994 Children Of God ~ documentary, full run",
+      "description": "A family describes their time within a {new religious movement} cult. This is probably the best filmed documentary which will ever exist regarding the Children of God group. It is from the early nineties...",
+      "release": "2023-04-25T20:44:22",
+      "duration": "01:03:18",
+      "explicit": false,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/1994-children-of-god"
+      }
     }
   ]
 }

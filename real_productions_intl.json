@@ -1,0 +1,20 @@
+{
+  "id": "d44746aa-b768-4e82-a124-77297a275661",
+  "name": "Re-Al Productions Intl",
+  "episodes": [
+    {
+      "id": "6dc50229-e2cd-4bec-b408-71db08117410",
+      "title": "Guyana: Crime of the Century (1979)",
+      "description": "As seen on the Cinema Snob, \u0022Guyana: Crime of the Century\u0022 is a Mexican American biopic about cult leader Jim Jones and the events leading up to the mass suicide of Jonestown in 1978. Due to legal reasons, nearly everyone depicted in the film has their name changed.",
+      "release": "2021-01-05T10:04:44",
+      "duration": "01:48:06",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/Guyana_Crime_of_the_Century_1979"
+      }
+    }
+  ]
+}

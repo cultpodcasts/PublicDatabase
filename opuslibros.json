@@ -4,9 +4,24 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "e584899b-b8dd-48ca-8914-904dcca6ac32",
+      "title": "EP# 147 ~ C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico Cap\u00EDtulo 6 ~ Castalio 10/7/2009",
+      "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico",
+      "release": "2025-11-12T00:00:00",
+      "duration": "00:12:30.3760000",
+      "explicit": false,
+      "spotifyId": "7BNMjNDMhXKDMbTRq5da9I",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7BNMjNDMhXKDMbTRq5da9I"
+      }
+    },
+    {
       "id": "f87b5c94-42a7-4599-8197-fe93d45cfb8e",
       "title": "EP# 146 ~ C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico Cap\u00EDtulo 5 ~ Castalio 10/7/2009",
-      "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico",
+      "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico ",
       "release": "2025-11-05T00:00:00",
       "duration": "00:07:31.0700000",
       "explicit": false,

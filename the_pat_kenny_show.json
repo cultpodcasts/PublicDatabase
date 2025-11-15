@@ -1,0 +1,26 @@
+{
+  "id": "a34c6416-82a0-4efb-b46c-b9dab3295c29",
+  "name": "The Pat Kenny Show",
+  "spotifyId": "5mFA02dDM1xdLX98QkXY6b",
+  "appleId": 698050979,
+  "episodes": [
+    {
+      "id": "fc16ada4-c1d6-4006-ba1a-b4a68d6ad230",
+      "title": "Nicola Tallant discusses her new book on the murder of Katie Simpson",
+      "description": "In 2020, 21-year-old showjumper Katie Simpson was murdered by her sister\u2019s abusive partner. Yet it took 5 months of persistence from suspicious nurses, Katie\u2019s concerned family and friends, and an investigative journalist for the PSNI to open an investigation into her death. Nicola Tallant discusses her new book on the murder of Katie Simpson with Pat on the show.",
+      "release": "2025-11-11T11:00:00Z",
+      "duration": "00:19:04.6850000",
+      "explicit": false,
+      "spotifyId": "4mFyEcMoJ7PpATbiLQqHYv",
+      "appleId": 1000736282108,
+      "subjects": [
+        "One-on-one",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4mFyEcMoJ7PpATbiLQqHYv",
+        "apple": "https://podcasts.apple.com/podcast/nicola-tallant-discusses-her-new-book-on-the-murder/id698050979?i=1000736282108"
+      }
+    }
+  ]
+}

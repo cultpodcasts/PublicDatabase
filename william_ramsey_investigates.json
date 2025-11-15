@@ -3,7 +3,49 @@
   "name": "William Ramsey Investigates",
   "spotifyId": "6LLqKSobRAK9CdOoxO5m8g",
   "appleId": 1388815042,
+  "youTubeChannelId": "UCWxLi8SaVc9FnJzmcjh4I3g",
   "episodes": [
+    {
+      "id": "c208d5f7-df36-4c6d-8ad6-3d506d520a5b",
+      "title": "Cult City: Jim Jones, Harvey Milk, and 10 Days That Shook San Francisco with Daniel J. Flynn. (2021)",
+      "description": "Cult City: Jim Jones, Harvey Milk, and 10 Days That Shook San Francisco with Daniel J. Flynn. (2021)\n\n\uD83C\uDF99\uFE0F New to streaming or looking to level up? Check out StreamYard and get $10 discount! \uD83D\uDE0D https://streamyard.com/pal/d/6459614828953600",
+      "release": "2025-11-14T19:17:04Z",
+      "duration": "00:56:21",
+      "explicit": false,
+      "spotifyId": "6B1m7FvL9npwsj4cqkx2Fa",
+      "appleId": 1000670672501,
+      "youTubeId": "lex2Vxh6HL0",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6B1m7FvL9npwsj4cqkx2Fa",
+        "apple": "https://podcasts.apple.com/podcast/cult-city-jim-jones-harvey-milk-and-10-days-that/id1388815042?i=1000670672501",
+        "youtube": "https://www.youtube.com/watch?v=lex2Vxh6HL0"
+      }
+    },
+    {
+      "id": "7b3d28ac-a4f0-40f8-b761-f0032983989a",
+      "title": "Santa Fe, Bill Tate and Me: How an Artist became a Cult Interventionist with Author Joe Szimhart (2019)",
+      "description": "Santa Fe, Bill Tate and Me: How an Artist became a Cult Interventionist with Author Joe Szimhart (2019) Joe Szimhart YouTube Channel: https://www.youtube.com/@josephszimhart9431 Amazon: https://www.amazon.com/Santa-Fe-Bill-Tate-interventionist/dp/1676003886/ref=sr_1_1?dchild=1\u0026keywords=joe\u0026#43;szimhart\u0026qid=1610233749\u0026sr=8-1 Become a supporter of this podcast: https://www.spreaker.com/podcast/william-ramsey-investigates--1898073/support .",
+      "release": "2025-11-13T14:32:57Z",
+      "duration": "01:06:31.9800000",
+      "explicit": false,
+      "spotifyId": "7MvDGlTabfUt49mWHsHWyx",
+      "appleId": 1000736603322,
+      "youTubeId": "gAI7udTw4qQ",
+      "subjects": [
+        "Cult-Expert",
+        "Church Universal and Triumphant",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MvDGlTabfUt49mWHsHWyx",
+        "apple": "https://podcasts.apple.com/podcast/santa-fe-bill-tate-and-me-how-an-artist-became/id1388815042?i=1000736603322",
+        "youtube": "https://www.youtube.com/watch?v=gAI7udTw4qQ"
+      }
+    },
     {
       "id": "e896ad97-c022-4dce-801d-edb3cb3882f2",
       "title": "Giuffre v. Ghislaine Maxwell Deposition released October 22nd, 2020, on the True Crime Report with Roberta Glass. (October 2020)",
@@ -81,12 +123,14 @@
       "explicit": false,
       "spotifyId": "1frCyKgTsTDnBKDiW7yb6T",
       "appleId": 1000713459451,
+      "youTubeId": "4iq2613tKZY",
       "subjects": [
         "Synanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1frCyKgTsTDnBKDiW7yb6T",
-        "apple": "https://podcasts.apple.com/podcast/escape-my-life-long-war-against-cults-with-author/id1388815042?i=1000713459451"
+        "apple": "https://podcasts.apple.com/podcast/escape-my-life-long-war-against-cults-with-author/id1388815042?i=1000713459451",
+        "youtube": "https://www.youtube.com/watch?v=4iq2613tKZY"
       }
     },
     {

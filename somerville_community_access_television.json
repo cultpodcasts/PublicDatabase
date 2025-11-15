@@ -1,0 +1,21 @@
+{
+  "id": "7c2baa53-d7fa-46fe-b19b-341f41203efc",
+  "name": "Somerville Community Access Television",
+  "episodes": [
+    {
+      "id": "6644df4f-4b7a-4d0a-8107-cb9492252d68",
+      "title": "The Magnetism of Cults",
+      "description": "A discussion with ex-members of various cults, such as Scientology, Church of Christ, and Moonies.",
+      "release": "2012-12-05T09:28:54",
+      "duration": "00:52:19",
+      "explicit": false,
+      "subjects": [
+        "Scientology",
+        "Unification Church"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/scatv-095_TheMagnetismOfCults_1986"
+      }
+    }
+  ]
+}

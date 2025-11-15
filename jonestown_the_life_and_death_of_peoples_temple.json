@@ -3,6 +3,20 @@
   "name": "PBS",
   "episodes": [
     {
+      "id": "f0b7f2e8-5612-445f-bf4d-4bf0a23c95f9",
+      "title": "Waco : The Inside Story",
+      "description": "Investigates the siege of the Branch Davidian compound in Waco, Texas in April 1993, and the hostile interplay between FBI tactics teams and hostage negotiators.1 videocassette (57 min.) : 1/2 inGeneralVHSDirector of photography, Ben McCoy; reporters, Scott Malone, Joe Rosenbloom III; correspondent, Peter J. Boyer\u0022A coproduction of the Kirk Documentary Group, for Frontline.\u0022Originally broadcast October 17, 1995 as a segment of: FrontlineScott Malone, Joe Rosenbloom III",
+      "release": "2020-06-18T18:11:13",
+      "duration": "00:56:19",
+      "explicit": false,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/WacoTheInsideStory"
+      }
+    },
+    {
       "id": "4ad55435-170a-439a-94ff-2253e2b8178a",
       "title": "Jonestown The Life And Death Of Peoples Temple",
       "release": "2006-04-25T23:00:00Z",
@@ -18,6 +32,7 @@
     {
       "id": "f9e5fac7-2f63-47f8-81ac-79b1272a785f",
       "title": "Jonestown: The Life and Death of Peoples Temple",
+      "description": "Featuring never-before-seen footage, this documentary delivers a startling new look at the Peoples Temple, headed by preacher Jim Jones who, in 1978, led more than 900 members to Guyana, where he orchestrated a mass suicide via tainted punch.",
       "release": "2006-04-25T23:00:00Z",
       "duration": "01:26:29",
       "explicit": false,

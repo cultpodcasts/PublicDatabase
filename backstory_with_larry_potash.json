@@ -1,0 +1,34 @@
+{
+  "id": "c941f45c-4dfc-44ec-a188-0730f339b76b",
+  "name": "Backstory with Larry Potash",
+  "spotifyId": "0DodpXEfAsC6tw8Rh7OoJ7",
+  "appleId": 1451884568,
+  "youTubeChannelId": "UCDrLGkZTcNCshOLiKi5NtEw",
+  "youTubePlaylistId": "PL_QYyuSSJj29HYeM2FOayPCOjPDlNfPK4",
+  "episodes": [
+    {
+      "id": "402473c5-c8a2-4f8a-be98-8cff170161c5",
+      "title": "America\u2019s History of Doomsday Cults",
+      "description": "New EventThere are currently at least 10,000 cults in the United States. Cults have been part of life here going back four centuries. Why is America such a breeding ground for these groups? Larry Potash goes deep in this Backstory piece.",
+      "release": "2025-11-10T06:00:00Z",
+      "duration": "00:09:42.4000000",
+      "explicit": false,
+      "spotifyId": "5GuWIB2sCIidYt0y0LmKiB",
+      "appleId": 1000736053541,
+      "youTubeId": "A6c29yACnhw",
+      "subjects": [
+        "Church Universal and Triumphant",
+        "Branch Davidians",
+        "Peoples Temple",
+        "Manson Family",
+        "Heaven\u0027s Gate",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5GuWIB2sCIidYt0y0LmKiB",
+        "apple": "https://podcasts.apple.com/podcast/americas-history-of-doomsday-cults/id1451884568?i=1000736053541",
+        "youtube": "https://www.youtube.com/watch?v=A6c29yACnhw"
+      }
+    }
+  ]
+}

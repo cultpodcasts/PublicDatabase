@@ -1,0 +1,24 @@
+{
+  "id": "def9dadf-bc68-4fbe-87b1-a4a992dfa186",
+  "name": "KEMPIRE",
+  "spotifyId": "2Vc9qrpg8lucrQqWuNaThD",
+  "appleId": 1510062385,
+  "episodes": [
+    {
+      "id": "20f61055-3e84-471f-bad0-a75e3c6676c0",
+      "title": "HOT TOPICS: Mary Cosby\u0027s CULT Documentary Trailer",
+      "release": "2025-11-13T14:00:00Z",
+      "duration": "01:27:31.8920000",
+      "explicit": false,
+      "spotifyId": "6vUrryktK21xJXqGok9ofF",
+      "appleId": 1000736606551,
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6vUrryktK21xJXqGok9ofF",
+        "apple": "https://podcasts.apple.com/podcast/hot-topics-mary-cosbys-cult-documentary-trailer-tiktoker/id1510062385?i=1000736606551"
+      }
+    }
+  ]
+}
