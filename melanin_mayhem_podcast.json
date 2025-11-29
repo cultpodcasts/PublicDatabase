@@ -1,0 +1,25 @@
+{
+  "id": "0c42e334-1bc7-44d4-bfb8-928bf2a71bf3",
+  "name": "Melanin Mayhem Podcast",
+  "spotifyId": "06v429EEOV3JheaGlJSqxs",
+  "appleId": 1741454738,
+  "episodes": [
+    {
+      "id": "58f9025a-f177-49f7-a4fd-000ae7fa1832",
+      "title": "Flashback Friday *Replay* Holy Hell: The Cult of Marcus Wesson",
+      "description": "Happy Black Friday Noir Nation. Enjoy a replay of one of the top Love Kills episodes. I\u0027ll be back in 2 weeks with a brand-new episode for your listening pleasure. When religion turns to manipulation and devotion becomes deadly, what\u2019s left is a twisted legacy soaked in blood. In this episode of Love Kills X Melanin Mayhem, I\u0027m diving into the disturbing case of Marcus Wesson\u2014a man who called himself a prophet, ruled his household like a cult leader, and shattered the lives of everyone under his control. Wesson\u2019s version of \u201Cfamily\u201D was built on lies, incest, isolation, and a warped form of love that ended in one of the most horrifying mass murders California has ever seen. This is the story of blind obedience, stolen innocence, and a God complex gone completely unchecked. Tune in as we unravel the layers of manipulation, spiritual distortion, and generational trauma behind the man who blurred the lines between husband, father, uncle and grandfather...",
+      "release": "2025-11-28T14:02:01Z",
+      "duration": "00:52:14.0010000",
+      "explicit": true,
+      "spotifyId": "21Zr2NJ20J94GDmuL9gvcp",
+      "appleId": 1000738795924,
+      "subjects": [
+        "Marcus Wesson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/21Zr2NJ20J94GDmuL9gvcp",
+        "apple": "https://podcasts.apple.com/podcast/flashback-friday-replay-holy-hell-the-cult-of-marcus-wesson/id1741454738?i=1000738795924"
+      }
+    }
+  ]
+}

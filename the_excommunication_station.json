@@ -5,6 +5,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "30954962-3206-41d7-885a-81bade6bd772",
+      "title": "234. Ron Ormond and Early Christian Movies",
+      "description": "Sorry, audio issue with the first one, fixed in this one.",
+      "release": "2025-11-26T22:58:48Z",
+      "duration": "01:51:53.4950000",
+      "explicit": true,
+      "spotifyId": "4IWi29TbCCBl4ytEv7KkhZ",
+      "appleId": 1000738597984,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4IWi29TbCCBl4ytEv7KkhZ",
+        "apple": "https://podcasts.apple.com/podcast/234-ron-ormond-and-early-christian-movies/id1573190999?i=1000738597984"
+      }
+    },
+    {
+      "id": "c9ecd9b1-5380-48ab-9dce-3f98e48db978",
+      "title": "233. The Gayness Of King James Part II",
+      "description": "Sorry about the Chaz\u0027s low audio for the first half.",
+      "release": "2025-11-19T07:00:00Z",
+      "duration": "01:38:51.3370000",
+      "explicit": true,
+      "spotifyId": "2bKvFFgfO8xfmhNcq1VRm7",
+      "appleId": 1000737373357,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2bKvFFgfO8xfmhNcq1VRm7",
+        "apple": "https://podcasts.apple.com/podcast/233-the-gayness-of-king-james-part-ii/id1573190999?i=1000737373357"
+      }
+    },
+    {
       "id": "a6d179d8-c3b3-427a-9318-40bf6ba6cd0b",
       "title": "232. The Gayness Of King James: Part I",
       "description": "This week, we are joined by Samuel David to talk about King James, his wonderful book and was he gay?",

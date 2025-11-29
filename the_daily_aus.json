@@ -1,0 +1,31 @@
+{
+  "id": "b00a5bd2-fadc-46b0-98c6-2ec1d9c78d2f",
+  "name": "The Daily Aus",
+  "spotifyId": "0onVY7weTsqjZLM8y3Tt9A",
+  "appleId": 1552309889,
+  "youTubeChannelId": "UCSYDOuVmcILve7CJ9JceU2w",
+  "episodes": [
+    {
+      "id": "b348cad6-d6f6-480b-8cd0-86a227f73d8e",
+      "title": "Does Australia have a cult problem?",
+      "description": "When we talk about cults, we tend to picture the classic images: a doomsday group in the desert, or a fringe religious sect that feels totally disconnected from everyday life. But here in Australia, cults are a current and pressing issue in our communities. So much so that the Victorian Parliament has now launched an inquiry into cults and other coercive groups. In today\u2019s podcast, you\u2019re going to hear from Clare Heath-McIvor. She established an advocacy organisation called the Survivors of Coercive Cults and High-Control Groups after she left behind the life she was born into -a high-control group in eastern Victoria. Hosts: Elliot Lawry and Emma Gillespie Guest: Clare Heath-McIvor, Co-Founder of Survivors of Coercive Cults and High-Control Groups Producer: Orla Maher Want to support The Daily Aus? That\u0027s so kind! The best way to do that is to click \u2018follow\u2019 on Spotify or Apple and to leave us a five-star review. We would be so grateful. The Daily Aus is a media company focused on delivering accessible and digestible news to young people. We are completely independent. Want more from TDA? Subscribe to The Daily Aus newsletter Subscribe to The Daily Aus\u2019 YouTube Channel Have feedback for us? We\u2019re always looking for new ways to improve what we do. If you\u2019ve got feedback, we\u2019re all ears. Tell us here . See omnystudio.com/listener for privacy information.",
+      "release": "2025-11-16T18:00:00Z",
+      "duration": "00:22:46.1250000",
+      "explicit": false,
+      "spotifyId": "7twarJqJvCR514LdWMnvxZ",
+      "appleId": 1000736974406,
+      "youTubeId": "-V8I_3J3ACE",
+      "subjects": [
+        "Evangelicalism",
+        "Cult Psychology",
+        "Cult Recovery",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7twarJqJvCR514LdWMnvxZ",
+        "apple": "https://podcasts.apple.com/podcast/does-australia-have-a-cult-problem/id1552309889?i=1000736974406",
+        "youtube": "https://www.youtube.com/watch?v=-V8I_3J3ACE"
+      }
+    }
+  ]
+}

@@ -3,6 +3,7 @@
   "name": "What Lingers",
   "spotifyId": "3uve9BFufE5QXja1NDk78V",
   "appleId": 1776468683,
+  "youTubeChannelId": "UCMaG12iKRjXIFdfIPwhtepQ",
   "episodes": [
     {
       "id": "c8b05eab-cae7-4de3-9845-dd70783cbcfd",
@@ -13,12 +14,14 @@
       "explicit": false,
       "spotifyId": "0yPNMxTESziG2d9DpISavC",
       "appleId": 1000736109918,
+      "youTubeId": "BrMhJaMWkN4",
       "subjects": [
         "Synanon"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0yPNMxTESziG2d9DpISavC",
-        "apple": "https://podcasts.apple.com/podcast/escaping-synanon-from-cult-manipulation-to-inner-freedom/id1776468683?i=1000736109918"
+        "apple": "https://podcasts.apple.com/podcast/escaping-synanon-from-cult-manipulation-to-inner-freedom/id1776468683?i=1000736109918",
+        "youtube": "https://www.youtube.com/watch?v=BrMhJaMWkN4"
       }
     }
   ]

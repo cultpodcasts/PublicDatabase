@@ -1,0 +1,28 @@
+{
+  "id": "9452af78-f430-4486-bd47-5f14ec356980",
+  "name": "I Wish You Were Here",
+  "spotifyId": "1SUHWIkk73obLicfxPcuVv",
+  "appleId": 1812551142,
+  "youTubeChannelId": "UCtrnzyJKpvhxMU0lpCOiXfQ",
+  "episodes": [
+    {
+      "id": "2ad060b0-2a0a-4add-a833-c8506ca30ac1",
+      "title": "28 Children Born Into A Cult: The Family ",
+      "description": "In this episode, we dive into The Family\u2014the eerie Australian cult led by the chillingly serene Anne Hamilton-Byrne. On the surface, it looked like a spiritual retreat\u2026 but behind closed doors, children were stolen, identities were erased, and obedience was beaten into them. This is the story of how one woman convinced her followers she was the reincarnation of Jesus\u2014and how her \u201Cfamily\u201D unraveled into one of the darkest cult cases in modern history. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-11-28T23:33:00Z",
+      "duration": "00:39:02.7290000",
+      "explicit": false,
+      "spotifyId": "6KiIV2PyKSlpuqK71AtEC7",
+      "appleId": 1000738851035,
+      "youTubeId": "Eh-Y0s_jfbo",
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KiIV2PyKSlpuqK71AtEC7",
+        "apple": "https://podcasts.apple.com/podcast/28-children-born-into-a-cult-the-family/id1812551142?i=1000738851035",
+        "youtube": "https://www.youtube.com/watch?v=Eh-Y0s_jfbo"
+      }
+    }
+  ]
+}

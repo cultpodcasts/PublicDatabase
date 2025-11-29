@@ -1,0 +1,25 @@
+{
+  "id": "3d174eb5-1418-4989-be1c-808a56dcee5b",
+  "name": "MTV",
+  "episodes": [
+    {
+      "id": "2c56a473-c1a4-4f7f-8bb9-53941c570f2f",
+      "title": "New Religions: The Cult Question",
+      "description": "(Begins at 0:30:00) MTV\u0027s investigative report on alternative religions including the Church Universal and Triumphant, International Churches of Christ, and Scientology.",
+      "release": "1995-06-26T19:00:00Z",
+      "duration": "00:32:30",
+      "explicit": false,
+      "subjects": [
+        "Scientology",
+        "Church Universal and Triumphant",
+        "International Churches Of Christ",
+        "Cult Apologists",
+        "Bhagwan Shree Rajneesh",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/vhs-fb-market-box-1-tape-28-mtv-sexual-assault-victims-mtv-religion-and-cults-si?start=1793"
+      }
+    }
+  ]
+}

@@ -4,6 +4,21 @@
   "youTubeChannelId": "UCialgSZ939oOc5xyGEL7jSA",
   "episodes": [
     {
+      "id": "290f7810-3366-4de7-bb5e-d776169a3ba2",
+      "title": "Jonestown 10 Years Later | Evening Magazine 1988",
+      "description": "1988 Evening Magazine Jonestown anniversary program with Ray Murray and Nancy Glass. Features interviews with Grace Stoen, Jackie Speier, and Tim Reiterman.",
+      "release": "2025-11-18T12:00:17Z",
+      "duration": "00:10:42",
+      "explicit": true,
+      "youTubeId": "9NHcpqAdtDA",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9NHcpqAdtDA"
+      }
+    },
+    {
       "id": "9240356f-f0e0-4df7-ba19-6142c64f45b8",
       "title": "1988 Survivors Return to Jonestown | A Current Affair",
       "description": "1988 Fox News A Current Affair: Return to Jonestown with Survivor Thomas Bogue. \n\n Produced by Andrea Spiegel and reporter David Lee Miller.",

@@ -1,0 +1,27 @@
+{
+  "id": "ca5a249b-b6db-4cc9-b982-50ac919ae012",
+  "name": "1Xtra Talks with Richie Brave",
+  "spotifyId": "55qJlHnmyZhyf8nGTeRyBf",
+  "appleId": 1471961121,
+  "episodes": [
+    {
+      "id": "710a8a38-5796-4451-bac5-52d27ac87dc1",
+      "title": "Signs that you might be in a cult",
+      "description": "Richie will sits down with the creators of The Missing Sister Podcast, Charlie Brinkhurst-Cuff and Seren Jones. They discuss the journey into finding out what happened to Joy Morgan, the young woman who went missing in 2018 and was later found dead. Joy and her killer were both members of a church called Israel United in Christ (IUIC). Produced by Unedited for BBC Radio 1Xtra.",
+      "release": "2025-11-23T22:59:00Z",
+      "duration": "00:59:58.2360000",
+      "explicit": false,
+      "spotifyId": "6KflYpjyFQNOXNqpU0DtsK",
+      "appleId": 1000738038535,
+      "subjects": [
+        "Israel United in Christ",
+        "Black Hebrew Israelites"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KflYpjyFQNOXNqpU0DtsK",
+        "apple": "https://podcasts.apple.com/podcast/signs-that-you-might-be-in-a-cult/id1471961121?i=1000738038535",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002mcb2"
+      }
+    }
+  ]
+}

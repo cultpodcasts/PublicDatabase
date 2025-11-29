@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCwWrCryuLBlmvjCcydtAUwg",
   "episodes": [
     {
+      "id": "90fdaac5-c644-485f-a7d7-947adb36c663",
+      "title": "Personal Story : Cynthia Liles",
+      "release": "2025-11-22T19:44:20Z",
+      "duration": "00:31:00",
+      "explicit": false,
+      "youTubeId": "uLkMGAd0lpE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=uLkMGAd0lpE"
+      }
+    },
+    {
+      "id": "9f27924d-ce2c-49fe-a7fe-f363b2d4a1bd",
+      "title": "Personal Story : Jeremy Shaw Wright",
+      "release": "2025-11-15T19:51:16Z",
+      "duration": "00:26:25",
+      "explicit": false,
+      "youTubeId": "iGxxjDIUKJE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iGxxjDIUKJE"
+      }
+    },
+    {
       "id": "1858865e-adb9-4e30-aa03-0a813debc45f",
       "title": "Ep 10 Relearning Love: Building Healthy Relationships After Purity Culture with Julia and Jeremiah",
       "description": "I sat down with Julia Postema and Jeremiah Gibson, both certified sex and relationship therapists, that themselves grew up in high-control religion and purity culture.   Even if you haven\u2019t listened to any purity culture episodes so far, I think this conversation will be incredibly helpful.  We talk broadly about how high-control religion affects our skills for being in healthy relationship.  Julia and Jeremiah pull from their own experiences as well as their work with clients and give helpful tools to begin the hard conversations with anyone you may be in relationship with, especially when there are significant differences to be worked through.\n\nWe talk through these questions and many others: What is a healthy relationship?  How do we have a healthy relationship?   How do we start talking about sexuality?  What relationship skills do we miss developing in purity culture?  How do we navigate disagreement?  How do we navigate relationships where each partner is not in the same place in deconstruction?  How is the work for men and women different coming out of purity culture and high control religion?\n\nLink to notes and resources: https://docs.google.com/document/d/1M7h7Z2QQm6WMwdzGA9XZGMqtTHC2ztEfwkwzcxi9uj8/edit?usp=sharing",
@@ -16,6 +44,34 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=a36P__mLbAw"
+      }
+    },
+    {
+      "id": "00ceae93-c2ec-424c-9f8c-07716dc6145a",
+      "title": "Personal Story : Jodi Timmersman",
+      "release": "2025-11-08T14:35:11Z",
+      "duration": "00:34:27",
+      "explicit": false,
+      "youTubeId": "-Q6MyFk5BoE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-Q6MyFk5BoE"
+      }
+    },
+    {
+      "id": "daa6bf7e-2baa-4db8-b6bc-15911c5be0b0",
+      "title": "Personal Story : Tom Sikes",
+      "release": "2025-11-02T02:48:08Z",
+      "duration": "00:32:10",
+      "explicit": false,
+      "youTubeId": "l0TwfXt_x_k",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=l0TwfXt_x_k"
       }
     },
     {
@@ -35,6 +91,108 @@
       }
     },
     {
+      "id": "0e19c728-1736-48b8-80eb-f532e637a703",
+      "title": "Ilarion Merculieff \u0022Wisdom Keeper\u0022 GMT20251016 000223 Rec... | Oct 20, 2025 001",
+      "description": "Ilarion Merculieff joined the CCF team recently for a conversation touching on the history of the Unangan (Aleut) people in Alaska, i\u0027m indigenous view on spirituality and deep knowing and the future of our planet.\n\nIlarion is the founder of the Global lobal Center for Indigenous Lifeways and Leadership. Visit the the website to learn more about what they are doing to bring Healing and Hope and if you find this talk resonates with you please consider a donation.\n\nhttps://www.gcill.world/\n\nPlease consider viewing the following film to hear a message from the Wisdom Weavers Council.\n\nhttps://www.gcill.world/videos",
+      "release": "2025-10-20T00:42:55Z",
+      "duration": "00:57:17",
+      "explicit": false,
+      "youTubeId": "-JmS5JcSYeY",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-JmS5JcSYeY"
+      }
+    },
+    {
+      "id": "3754dd1b-4bc3-4749-ae21-b509409909b1",
+      "title": "Personal Story : Steve Paddon",
+      "release": "2025-10-18T16:12:19Z",
+      "duration": "00:37:44",
+      "explicit": false,
+      "youTubeId": "BDWg1IPy5C4",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BDWg1IPy5C4"
+      }
+    },
+    {
+      "id": "8f794702-b782-4274-8a47-7e2d20d8a216",
+      "title": "Personal Story : Jacquie Ryan",
+      "release": "2025-10-14T04:02:58Z",
+      "duration": "00:16:40",
+      "explicit": false,
+      "youTubeId": "hX-bYeepjiA",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hX-bYeepjiA"
+      }
+    },
+    {
+      "id": "3dbac37d-acf2-451e-80ea-c028943653f9",
+      "title": "Ep 9 PC Men\u0027s Experiences with Mike and Mark",
+      "description": "Mike Prussack and Mark Simmons joined me for a conversation about their experiences as men growing up in purity culture in the 2x2 church.  Purity Culture seems to have laid the biggest burden on women, but it is not without its effects on men.  I think it\u2019s important to have conversations about how it affected men both to help open conversations around shame and healing but also for those of us in relationship with men to better understand them and start growing healthy relationships together. I\u2019m grateful to Mike and Mark for their courage and vulnerability in sharing their own experiences.  These are not easy topics to navigate.  We do talk about porn, masturbation, and pre-marital sex among other sensitive topics.  Not as experts with any answers, but de-stigmatizing conversations on these topics and the shame that can come with them.  As always, choose to listen or not, pause or come back later if needed.  Listen to yourself and your body and what is right for you.",
+      "release": "2025-10-09T14:08:55Z",
+      "duration": "00:56:15",
+      "explicit": false,
+      "youTubeId": "UhZViin2qDw",
+      "subjects": [
+        "Two By Twos",
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=UhZViin2qDw"
+      }
+    },
+    {
+      "id": "ebb3f863-f79e-49b5-bade-fa3abd174444",
+      "title": "Personal Story : Becca Curtis",
+      "release": "2025-10-05T03:52:51Z",
+      "duration": "00:27:30",
+      "explicit": false,
+      "youTubeId": "jGdjNWPQQOE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jGdjNWPQQOE"
+      }
+    },
+    {
+      "id": "bcd8778a-82c8-403e-a976-13c9a2cc8006",
+      "title": "Personal Story : Verena Masencamp",
+      "release": "2025-09-28T01:41:10Z",
+      "duration": "00:28:38",
+      "explicit": false,
+      "youTubeId": "64m6cJ2iXyQ",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=64m6cJ2iXyQ"
+      }
+    },
+    {
+      "id": "5cb7a9b0-9aef-4e1d-b89e-c5d8073afff5",
+      "title": "Personal Story : Jared Snyder",
+      "description": "Jared\u0027s Substack (where he posts his podcast) can be found here: https://jared3point0.substack.com/\n\nThe episode about Sam is here: https://jared3point0.substack.com/p/son-of-sam\nThe episode about Leslie White is here: https://jared3point0.substack.com/p/yet-another-leslie-white-story",
+      "release": "2025-09-27T18:28:18Z",
+      "duration": "00:48:15",
+      "explicit": false,
+      "youTubeId": "S-A4CxF2_Js",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=S-A4CxF2_Js"
+      }
+    },
+    {
       "id": "228ce13a-8b94-4d6f-bac8-fa127ae36e02",
       "title": "Ep 8- Reclaiming the Body: Somatic Healing from Purity Culture with Kim Johnson",
       "description": "I\u2019m excited to share this conversation that I had with Kim Johnson, a somatic practitioner. Kim shares a bit of her own story and experience in high-control religion and purity culture and helps us to re-frame how we see our relationship with our bodies, our emotions, and our authentic selves. She brings an Eastern lens to her work which provides a holistic view of human development and sees our emotions and bodies as important parts of our selves, not separate from our spirituality.  I love that Kim shared so many small, practical things we can do to help ourselves reconnect. She shared several resources and a short embodiment practice at the end of the video.  I appreciated her gentle teaching and I hope you will too.\n\nLink to many resources on healing, how to find Kim, and additional notes: https://docs.google.com/document/d/1nD7S2_tfCNS3coxQjFA1w30S11PhOef6zyP_tL_A2so/edit?usp=sharing",
@@ -47,6 +205,21 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=6mpEnLQu5iA"
+      }
+    },
+    {
+      "id": "742f7c44-1742-4eeb-82bd-a33640adc8aa",
+      "title": "Ep 7 -When Purity Hurts: Trauma, Gender Roles and Women\u0027s Stories",
+      "description": "After a break for the summer, Shanna, Amy and Cindy dig deeper into purity culture\u2019s effects on women including physical symptoms that may show up in our bodies, and what we learned about our gender roles and sexuality.  We discuss the shame and guilt that often stays with us even after we leave purity culture.  We also talk about sexual abuse along with some of the trauma it can cause, though not graphically.  If you feel like it\u2019s too much, please listen to your body and stop, take a break or come back later.\n\nLink to Notes, Cindy\u0027s convention words and analysis, and Resources: https://docs.google.com/document/d/1KxxltQZoqmVUTnEUBMF8Z85K26b30XWKhFYPsJXhzrE/edit?usp=sharing",
+      "release": "2025-09-04T14:52:22Z",
+      "duration": "00:58:32",
+      "explicit": false,
+      "youTubeId": "tcLErht0hiY",
+      "subjects": [
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tcLErht0hiY"
       }
     },
     {
@@ -63,6 +236,776 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=bHcFUle6MKA"
+      }
+    },
+    {
+      "id": "8d3441d5-3310-4bd4-b884-bd5d4a3596a4",
+      "title": "Personal Story : Dan Pearce",
+      "release": "2025-07-29T17:15:24Z",
+      "duration": "00:49:04",
+      "explicit": false,
+      "youTubeId": "EvGrUd34ExM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=EvGrUd34ExM"
+      }
+    },
+    {
+      "id": "2c79e539-ce64-4756-847b-29575abb2d69",
+      "title": "Personal Story : Darcie Carr",
+      "release": "2025-07-25T18:55:51Z",
+      "duration": "00:47:32",
+      "explicit": false,
+      "youTubeId": "qfvBoVuLeSo",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qfvBoVuLeSo"
+      }
+    },
+    {
+      "id": "fece4735-dacc-4c91-91a2-85589e3647c3",
+      "title": "Episode #9 - Is there a \u0022right\u0022 way?",
+      "description": "In this episode Whitney and Tim tackle the phrase \u0022but it\u0027s the closest thing to what we see in the Bible\u0022 and discuss if/when form matters, and if form mattered to Jesus.",
+      "release": "2025-07-10T02:40:47Z",
+      "duration": "01:02:42",
+      "explicit": false,
+      "youTubeId": "t3CRp0Wxs0s",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=t3CRp0Wxs0s"
+      }
+    },
+    {
+      "id": "7a52630f-4997-429d-9e90-dd66956508d0",
+      "title": "Personal Story : Anna Pheifer",
+      "release": "2025-07-08T12:56:35Z",
+      "duration": "00:41:42",
+      "explicit": false,
+      "youTubeId": "AQwqGg3sBZ4",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=AQwqGg3sBZ4"
+      }
+    },
+    {
+      "id": "4e268df5-f1a2-495c-9cfd-81784a407d78",
+      "title": "Personal Story : Erika Lotz",
+      "release": "2025-06-28T18:46:14Z",
+      "duration": "00:32:33",
+      "explicit": false,
+      "youTubeId": "Nd-pTgFJtvM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Nd-pTgFJtvM"
+      }
+    },
+    {
+      "id": "ea6a0d20-28f3-4c62-822f-d97e0b144a36",
+      "title": "Healing Spiritual Trauma with Dr. Hillary McBride | A CCF Community Conversation",
+      "description": "Dr. Hillary McBride joins Connected and Concerned Friends (CCF) for a conversation with Shanna Smidt and Teena Daize about spiritual trauma, how it forms, and what healing can look like. Drawing from her book Holy Hurt, she shares insight into fear, shame, grief, and the journey back to self-trust.\n\nThe conversation includes a short talk followed by questions collected from our CCF community. Whether you\u2019re still attending or have walked away, this is for anyone navigating the impact of high-control religion.",
+      "release": "2025-06-26T13:06:48Z",
+      "duration": "00:58:27",
+      "explicit": false,
+      "youTubeId": "Dh_xUL1nZhU",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Dh_xUL1nZhU"
+      }
+    },
+    {
+      "id": "6f71835a-643a-472d-9b43-96bc534e9c80",
+      "title": "Personal Story : Shona Ferch",
+      "release": "2025-06-24T19:18:32Z",
+      "duration": "00:48:19",
+      "explicit": false,
+      "youTubeId": "1PdQ0S436lE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1PdQ0S436lE"
+      }
+    },
+    {
+      "id": "18bff084-169f-4e55-a9bd-b517ad40f9b2",
+      "title": "Personal Story : Doyle Wheeler",
+      "release": "2025-06-22T19:04:42Z",
+      "duration": "00:57:26",
+      "explicit": false,
+      "youTubeId": "uyr_Of_REfM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=uyr_Of_REfM"
+      }
+    },
+    {
+      "id": "c7208ec0-865d-47e5-a020-7eef13d0e010",
+      "title": "Ep 6 - White Supremacy in the 2x2 Church",
+      "description": "This week, Shanna sat down with Su-Mei Ooh and Claude Jacobs to talk about race, power, and Purity Culture\u2018s far-reaching effects. \n\nThe shareable document can be read here: \n\nhttps://docs.google.com/document/d/11EyKUSiVuGq9f7PH9UBoN3qlZWsOnqXR/edit?usp=drivesdk\u0026ouid=110020729159457406320\u0026rtpof=true\u0026sd=true",
+      "release": "2025-06-12T16:50:38Z",
+      "duration": "01:11:22",
+      "explicit": false,
+      "youTubeId": "TthJ-pD3eM0",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TthJ-pD3eM0"
+      }
+    },
+    {
+      "id": "ee0c1ee0-703d-4ab9-a1a4-964fb522f6bc",
+      "title": "Personal Story : Laura Bryan",
+      "release": "2025-06-10T20:23:07Z",
+      "duration": "00:25:36",
+      "explicit": false,
+      "youTubeId": "aytmup2pZBA",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aytmup2pZBA"
+      }
+    },
+    {
+      "id": "1286ad2b-05cd-4e29-b4ad-f1fc49d28da1",
+      "title": "Personal Story : Kate Mclaughlin",
+      "release": "2025-06-02T15:21:29Z",
+      "duration": "00:45:52",
+      "explicit": false,
+      "youTubeId": "ifq2I5tvqB0",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ifq2I5tvqB0"
+      }
+    },
+    {
+      "id": "a0b3ab55-4340-4bc9-8fb5-e5217b85c79a",
+      "title": "Ep 5 The Skirt Was Never Just A Skirt",
+      "description": "This week, Shanna was joined by Ashley Neumann, Lindsay Greene and Mikaela Hellevang for a conversation about purity culture and their experiences as girls in the 2x2 church.\nLink to shareable article:\n\nhttps://docs.google.com/document/d/106PMAFsV-6Y8mYjKXzAgVLXPGvF3MzUsVUEPsbDXnVk/edit?usp=sharing",
+      "release": "2025-05-29T02:28:18Z",
+      "duration": "01:17:15",
+      "explicit": false,
+      "youTubeId": "P_-ZKVw8kqM",
+      "subjects": [
+        "Two By Twos",
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=P_-ZKVw8kqM"
+      }
+    },
+    {
+      "id": "55206772-592c-4d66-a639-6891d6368444",
+      "title": "Message from CSA Survivor Linda Block (Interview with Mark Simmons)",
+      "description": "This conversation was recorded by Mark Simmons, a member of the CCF community, and we\u2019re honoured to host it here with permission. The description below is in Mark\u2019s own words:\n\n\u201CI was recently entrusted with this survivor story. I am humbled by the courage shown by Linda, not only in sharing her story with us now, but by the fact of her continuing to move through a remarkable life the past many years as she carried this incomprehensible burden.\u201D\n\n\u201CLinda has her reasons for sharing this at this point and those are made clear in the watching. I hope that a takeaway for some of you might be the permission to find your own meaning from your experience, as she has.\u201D\n\nWe\u2019re grateful to Linda for allowing her story to be shared, and to Mark for creating the space to listen.",
+      "release": "2025-05-28T13:48:54Z",
+      "duration": "00:42:38",
+      "explicit": false,
+      "youTubeId": "mx60boqksRU",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mx60boqksRU"
+      }
+    },
+    {
+      "id": "eaccfbf7-b9a1-4f29-a3c7-7b525da70918",
+      "title": "Personal Story : Bridget Hanks",
+      "release": "2025-05-26T03:19:02Z",
+      "duration": "01:37:07",
+      "explicit": false,
+      "youTubeId": "fUN0WPS2kjs",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=fUN0WPS2kjs"
+      }
+    },
+    {
+      "id": "f4c3164a-c810-48bc-beed-e920aba2bde1",
+      "title": "Personal Story : Dennis Braasch",
+      "release": "2025-05-20T01:33:24Z",
+      "duration": "00:50:45",
+      "explicit": false,
+      "youTubeId": "izQtT8tlKKs",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=izQtT8tlKKs"
+      }
+    },
+    {
+      "id": "f2a37f75-9d93-44e8-b746-3e367e043325",
+      "title": "Holy Hurt Podcast Discussion Recap Week 4",
+      "description": "We discuss episode 4 of the Holy/Hurt Podcast - All In The Family",
+      "release": "2025-05-15T13:38:32Z",
+      "duration": "00:19:20",
+      "explicit": false,
+      "youTubeId": "xdUvMoOEUNc",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xdUvMoOEUNc"
+      }
+    },
+    {
+      "id": "93d40d6b-14f7-48d2-8e01-1835d65ac3bb",
+      "title": "Personal Story : Dean Patterson",
+      "release": "2025-05-12T02:58:07Z",
+      "duration": "00:38:50",
+      "explicit": false,
+      "youTubeId": "7gI_y_wLCjw",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=7gI_y_wLCjw"
+      }
+    },
+    {
+      "id": "368a0d0a-d9f7-4c51-b872-ee94af02b4c3",
+      "title": "Holy Hurt Podcast Discussion Recap Week 6",
+      "description": "Recap of Episode 7 and what healing looks like for us.",
+      "release": "2025-05-08T18:31:07Z",
+      "duration": "00:28:32",
+      "explicit": false,
+      "youTubeId": "63M-lcszDVs",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=63M-lcszDVs"
+      }
+    },
+    {
+      "id": "31f903a1-f60a-4e9a-b4e2-67b8126ff437",
+      "title": "Holy Hurt Podcast Discussion Recap Week 5",
+      "description": "Recap of episodes 5 \u0026 6",
+      "release": "2025-05-08T18:28:15Z",
+      "duration": "00:11:54",
+      "explicit": false,
+      "youTubeId": "9b6z-xqrPk0",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9b6z-xqrPk0"
+      }
+    },
+    {
+      "id": "898a0794-6118-4649-a4ed-e6ad9de7b6f8",
+      "title": "Holy Hurt Podcast Discussion Recap Week 3",
+      "description": "Holy Hurt Podcast Discussion Recap Week 3",
+      "release": "2025-05-08T18:26:20Z",
+      "duration": "00:21:21",
+      "explicit": false,
+      "youTubeId": "SFYttGQFFOQ",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=SFYttGQFFOQ"
+      }
+    },
+    {
+      "id": "6ce872e3-b656-49d0-9823-c5c83688a8aa",
+      "title": "Holy Hurt Podcast Discussion Recap Week 2",
+      "description": "Holy Hurt Podcast Discussion Recap Week 2",
+      "release": "2025-05-08T18:21:15Z",
+      "duration": "00:17:02",
+      "explicit": false,
+      "youTubeId": "sUGOPHRSoh8",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sUGOPHRSoh8"
+      }
+    },
+    {
+      "id": "c10f4169-a0c3-479f-9420-25ab2d3aa66f",
+      "title": "Personal Story : Graham Young",
+      "release": "2025-05-06T03:26:37Z",
+      "duration": "00:49:00",
+      "explicit": false,
+      "youTubeId": "j6DdMblLguE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=j6DdMblLguE"
+      }
+    },
+    {
+      "id": "d39a771c-8511-44b7-b2fe-9d2412454de1",
+      "title": "Personal Story : Mike Groseth",
+      "release": "2025-04-30T03:54:28Z",
+      "duration": "00:37:09",
+      "explicit": false,
+      "youTubeId": "4vT3g9oURBE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=4vT3g9oURBE"
+      }
+    },
+    {
+      "id": "98e8140d-8da5-4732-af19-f03d16b6f057",
+      "title": "Ep 4 Purity Culture in the 2x2 Church",
+      "description": "In this episode of our Purity Culture series, we take a closer look at how purity culture specifically shows up in the 2x2 church. While these teachings are widespread across Christianity, the 2x2 version adds its own unique layers\u2014reinforced by rules, silence, and systems of power.\n\nWe explore how purity is tied to control: from rules around sex, modesty, and celibacy to public shaming, rigid gender roles, and strict lifestyle expectations. These messages don\u2019t just shape belief\u2014they impact bodies, relationships, and identity.\n\nThis conversation is grounded in lived experience, months of research, and insights from Dr. Tina Schermer Sellers.\n\nTrigger warning: Discussion of sexual abuse, rape, and purity-based shame (non-graphic).\n\nhttps://docs.google.com/document/d/1RLbhO9c99HTlEkLfrcJ2xxElw7HMYMeILR3GnpA_NpY/edit?usp=sharing",
+      "release": "2025-04-23T20:31:54Z",
+      "duration": "00:27:51",
+      "explicit": false,
+      "youTubeId": "c3KfRklmsP4",
+      "subjects": [
+        "Two By Twos",
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=c3KfRklmsP4"
+      }
+    },
+    {
+      "id": "bd1b5667-88fe-41bf-b974-c6f462bdc247",
+      "title": "Personal Story : Taralie Sandon",
+      "release": "2025-04-21T16:36:29Z",
+      "duration": "00:54:30",
+      "explicit": false,
+      "youTubeId": "JG1oLGxWg0Q",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JG1oLGxWg0Q"
+      }
+    },
+    {
+      "id": "43ab943a-2b8b-40a9-acaa-a862c792161b",
+      "title": "Ep 3 Let\u2019s Talk About Modesty - Introduction To Purity Culture",
+      "description": "Welcome to episode three of the purity culture series. Shanna, Teena and Amy discuss modesty rules in the 2x2 church and ask the question, what does modesty actually mean?\n\nLink to shareable article: \n\nhttps://docs.google.com/document/d/19Xow7mtCosiaMyo2sLMxDvIWUJczuLGIrHR2bpJPUA4/edit?usp=sharing",
+      "release": "2025-04-17T20:39:30Z",
+      "duration": "00:32:27",
+      "explicit": false,
+      "youTubeId": "LJPDLVQ3ksk",
+      "subjects": [
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LJPDLVQ3ksk"
+      }
+    },
+    {
+      "id": "464111e3-0cce-4a09-8602-8552465f2477",
+      "title": "Ep 2 Purity Culture and the Connection to Rape Culture",
+      "description": "Welcome to our Purity Culture Series\nIn this series, Teena and Shanna explore the lasting impact of purity culture on our bodies, relationships, and faith communities. Drawing from months of research and with insights from Dr. Tina Schermer Sellers\u2014licensed therapist, sexologist, and leading expert on purity culture\u2014we open up honest conversations to help unpack the messages many of us received.\n\nThis week\u2019s episode continues to set the stage for what\u2019s to come. Whether this is a familiar term or brand new to you, we invite you to listen, reflect, and join the conversation.\n\nTrigger warning: sexual assault and rape are mentioned in non-graphic ways. #purityculture\n\nLink to shareable article: \n\nhttps://docs.google.com/document/d/1i_14i5nEpsR2DsxfkVKz_9WTyZ4bcp0ToR-2Zv5YCoo/edit?usp=sharing",
+      "release": "2025-04-14T13:07:26Z",
+      "duration": "00:22:52",
+      "explicit": false,
+      "youTubeId": "Bm9kHjungf0",
+      "subjects": [
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Bm9kHjungf0"
+      }
+    },
+    {
+      "id": "73696824-dc78-46e8-8fe3-a4ed1fb09d3e",
+      "title": "Personal Story : Brad \u0026 Kelly Graves",
+      "release": "2025-04-14T03:46:51Z",
+      "duration": "00:52:10",
+      "explicit": false,
+      "youTubeId": "Z845WfcZw-U",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Z845WfcZw-U"
+      }
+    },
+    {
+      "id": "f39f19d5-c824-404a-be9f-52411a5d1851",
+      "title": "Personal Story : Marg Meyer",
+      "release": "2025-04-06T20:13:45Z",
+      "duration": "00:54:51",
+      "explicit": false,
+      "youTubeId": "LNdln_jtidk",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LNdln_jtidk"
+      }
+    },
+    {
+      "id": "c0b6bc7c-789e-4c7b-91c8-139713d5f379",
+      "title": "Ep 1 Exploring Purity Culture",
+      "description": "Welcome to our Purity Culture Series\nIn this series, Teena and Shanna explore the lasting impact of purity culture on our bodies, relationships, and faith communities. Drawing from months of research and with insights from Dr. Tina Schermer Sellers\u2014licensed therapist, sexologist, and leading expert on purity culture\u2014we open up honest conversations to help unpack the messages many of us received.\n\nThis week\u2019s episode sets the stage for what\u2019s to come. Whether this is a familiar term or brand new to you, we invite you to listen, reflect, and join the conversation.\n\nTrigger warning: sexual assault and rape are mentioned in non-graphic ways.\n#purityculture\nLink to article: https://docs.google.com/document/d/1NIw1tEVUlV87WXzgQGMtaPTzWlwlKmw7Tmx8qGuvVBA/edit?usp=sharing",
+      "release": "2025-04-03T22:29:43Z",
+      "duration": "00:18:57",
+      "explicit": false,
+      "youTubeId": "aoGbPDVDxhE",
+      "subjects": [
+        "Purity Culture"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aoGbPDVDxhE"
+      }
+    },
+    {
+      "id": "f7b20a07-6622-4448-ad56-9e0e952a28d7",
+      "title": "Personal Story : Julia Kember",
+      "release": "2025-04-02T03:28:39Z",
+      "duration": "01:44:05",
+      "explicit": false,
+      "youTubeId": "up7yT1BTGEM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=up7yT1BTGEM"
+      }
+    },
+    {
+      "id": "fafd144f-22fa-471d-9f30-76e3244443d6",
+      "title": "Episode #8 - Spiritual Bypassing",
+      "description": "In this episode Tim and Whitney discuss how spiritual or religious rationale is used to avoid confronting questions and issues.",
+      "release": "2025-03-27T13:07:02Z",
+      "duration": "01:04:40",
+      "explicit": false,
+      "youTubeId": "-phIOKkod-Q",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-phIOKkod-Q"
+      }
+    },
+    {
+      "id": "76cd8c74-0505-44fa-bae9-f9537ba20407",
+      "title": "Personal Story : Kayla Killam",
+      "release": "2025-03-24T19:05:16Z",
+      "duration": "00:59:04",
+      "explicit": false,
+      "youTubeId": "p-oyUUxGOxI",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=p-oyUUxGOxI"
+      }
+    },
+    {
+      "id": "12e05d3f-4cd8-45b4-aeaf-67f3f6a6c22e",
+      "title": "Personal Story : John Bowman",
+      "release": "2025-03-16T01:21:50Z",
+      "duration": "00:37:55",
+      "explicit": false,
+      "youTubeId": "pYFZ2p4xLxE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pYFZ2p4xLxE"
+      }
+    },
+    {
+      "id": "e36cbb34-534c-4c84-a648-363b48f50bfc",
+      "title": "Personal Story : Lyle Benjamin",
+      "release": "2025-03-16T01:21:25Z",
+      "duration": "00:53:06",
+      "explicit": false,
+      "youTubeId": "DBE5Udz4PFs",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DBE5Udz4PFs"
+      }
+    },
+    {
+      "id": "1716ca03-1639-4824-b876-2d8aab148264",
+      "title": "Personal Story : Kevin Kesselring",
+      "release": "2025-02-09T18:31:30Z",
+      "duration": "00:25:16",
+      "explicit": false,
+      "youTubeId": "nu60lI19s_c",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nu60lI19s_c"
+      }
+    },
+    {
+      "id": "494836d0-32d8-4626-afa7-06353753de47",
+      "title": "Personal Story : Mandy Young",
+      "release": "2025-02-02T04:03:44Z",
+      "duration": "00:38:10",
+      "explicit": false,
+      "youTubeId": "8aWwlVjXF9Q",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8aWwlVjXF9Q"
+      }
+    },
+    {
+      "id": "67d40a41-46bc-414e-833a-57dfde02b35e",
+      "title": "Personal Story : Mark Simmons",
+      "release": "2025-01-26T21:16:03Z",
+      "duration": "00:40:59",
+      "explicit": false,
+      "youTubeId": "ua8MuCzko8Q",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ua8MuCzko8Q"
+      }
+    },
+    {
+      "id": "5bcad4b4-bfcd-46ad-a771-2c43caf4d524",
+      "title": "Personal Story : Kelsay Yung",
+      "release": "2025-01-19T22:19:57Z",
+      "duration": "01:19:34",
+      "explicit": false,
+      "youTubeId": "OwNnXPgaMEo",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=OwNnXPgaMEo"
+      }
+    },
+    {
+      "id": "da9e8e14-48b0-466a-9617-7a4cb07bbe50",
+      "title": "Episode #7 - Jesus as saviour OR example?",
+      "description": "In this episode Whitney and Tim talk about the recent Christmas season, and possible reasons why the Ministry in their former church doesn\u0027t acknowledge a holiday that most of the Christian world celebrates.",
+      "release": "2025-01-14T06:08:51Z",
+      "duration": "00:39:01",
+      "explicit": false,
+      "youTubeId": "XO5ptmVbRRo",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XO5ptmVbRRo"
+      }
+    },
+    {
+      "id": "5388cb77-e6ed-414c-b31f-63b7dbf551ce",
+      "title": "Personal Story: Jason Waselenko",
+      "release": "2025-01-14T00:57:27Z",
+      "duration": "00:36:28",
+      "explicit": false,
+      "youTubeId": "hYlOChrN8YE",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hYlOChrN8YE"
+      }
+    },
+    {
+      "id": "d3bf8d49-71b5-4ab6-a567-73f7287f99c5",
+      "title": "Personal Story : Brice Erickson",
+      "release": "2025-01-14T00:57:22Z",
+      "duration": "00:56:46",
+      "explicit": false,
+      "youTubeId": "mQLOeCZtNHw",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mQLOeCZtNHw"
+      }
+    },
+    {
+      "id": "f50b5f1c-fe60-4129-b8a2-5ca5d13ea7a6",
+      "title": "Personal Story : Cyndi Lyon Daugherty",
+      "release": "2025-01-14T00:57:10Z",
+      "duration": "00:36:54",
+      "explicit": false,
+      "youTubeId": "j7uVW6wXiQo",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=j7uVW6wXiQo"
+      }
+    },
+    {
+      "id": "df1292ab-8969-4e27-915e-2eb2d395509e",
+      "title": "Alberta Excommunications",
+      "description": "Two couples share there stories of being elders in the 2x2 church in Alberta during the excommunications crisis that happened in the mid 90s.\n\nhttps://connected-and-concerned-friends.mn.co/share/0GAvy5cEO3PI3pId",
+      "release": "2025-01-06T11:01:27Z",
+      "duration": "00:58:48",
+      "explicit": false,
+      "youTubeId": "prKJP5fsBKA",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=prKJP5fsBKA"
+      }
+    },
+    {
+      "id": "d4f2237f-b996-4642-988a-9bd17f00c9ce",
+      "title": "Episode #6 - Exegesis \u0026 Eisegesis . . . WHAT???",
+      "description": "In this episode Whitney and Tim talk about the meaning of exegesis and eisegesis, words that neither of them knew, and one of the words which is VERY applicable to their former church.",
+      "release": "2024-12-15T15:28:25Z",
+      "duration": "00:46:48",
+      "explicit": false,
+      "youTubeId": "FUwTk9jcaKk",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=FUwTk9jcaKk"
+      }
+    },
+    {
+      "id": "904cf18c-f7a8-49fb-a5d8-eca8a0dd9e32",
+      "title": "Episode #5 - Ministry and Authority",
+      "description": "In this episode Tim and Whitney discuss what a Ministry is, how authority relates to a Ministry, and how access to God was altered after Jesus\u0027s life.",
+      "release": "2024-09-30T15:56:31Z",
+      "duration": "00:38:05",
+      "explicit": false,
+      "youTubeId": "A17BuffaCkk",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=A17BuffaCkk"
+      }
+    },
+    {
+      "id": "d8c2e5d5-e8b3-4443-bffb-9c898a05cfe5",
+      "title": "Holy Hurt Podcast Discussion Recap Week 1",
+      "description": "Week 1 - Holy Hurt Podcast Discussion Recap",
+      "release": "2024-09-17T21:41:26Z",
+      "duration": "00:19:45",
+      "explicit": false,
+      "youTubeId": "s5-kiiDoFI0",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=s5-kiiDoFI0"
+      }
+    },
+    {
+      "id": "7adec73a-1227-43c9-8107-7fe557e6d6d9",
+      "title": "Open Discussion with Bob and Stacy Bainbridge (Woodstock, NB)",
+      "description": "Bob, Stacy, and 2 of their 3 children- Lindsay and Boen share their story\n\nhttps://connected-and-concerned-friends.mn.co/share/0GAvy5cEO3PI3pId",
+      "release": "2024-09-17T21:26:20Z",
+      "duration": "02:23:29",
+      "explicit": false,
+      "youTubeId": "S1lXdt5-jF8",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=S1lXdt5-jF8"
+      }
+    },
+    {
+      "id": "e4e7810e-f4ec-4069-9563-b565df15a0db",
+      "title": "Episode #4 - Rest",
+      "description": "Tim and Whitney discuss crisis fatigue, the obstacles to rest, and how rest is the gift of the gospel.",
+      "release": "2024-08-18T13:05:18Z",
+      "duration": "00:36:44",
+      "explicit": false,
+      "youTubeId": "sJhVpj9IPng",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sJhVpj9IPng"
+      }
+    },
+    {
+      "id": "e6bb67f1-2f38-493f-990f-60d092fdccae",
+      "title": "Episode #3 - Jesus and \u0022religion\u0022",
+      "description": "In this episode Whitney and Tim discuss how Jesus disrupted the notion of formal religion.",
+      "release": "2024-07-23T22:00:20Z",
+      "duration": "00:44:21",
+      "explicit": false,
+      "youTubeId": "UrUunbosKY8",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=UrUunbosKY8"
+      }
+    },
+    {
+      "id": "268642c2-4894-4334-8323-939b46f4baa9",
+      "title": "Episode #2 - Christianity and Patriarchy, and Paul",
+      "description": "Tim and Whitney discuss patriarchy in Christianity, including some discussion on Paul\u0027s writings and attitudes.",
+      "release": "2024-07-09T03:32:37Z",
+      "duration": "00:49:06",
+      "explicit": false,
+      "youTubeId": "5BVTQq8vbeM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5BVTQq8vbeM"
+      }
+    },
+    {
+      "id": "a4c3da83-c45f-42d8-8b74-70cc2bd2bb1b",
+      "title": "Episode #1 - John 6 \u0022What Must We Do\u0022",
+      "description": "Tim and Whitney have a follow up conversation on the question \u0022what must we do\u0022 that the disciples posed to Jesus in John 6.",
+      "release": "2024-06-21T13:07:51Z",
+      "duration": "00:24:26",
+      "explicit": false,
+      "youTubeId": "R12ixQTascs",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=R12ixQTascs"
+      }
+    },
+    {
+      "id": "83190215-a149-494d-9283-7b6ca3a2bdb2",
+      "title": "Episode #0: CCF Purpose Statement",
+      "description": "In this prequel episode, Tim and Whitney talk about the efforts and considerations of the admin team during the CCF Purpose Statement creation process.\u00A0 This episode delves into what CCF was, is, and can be; as well as what Tim and Whitney personally believe makes CCF a bridging space for members in and out of the church.",
+      "release": "2024-06-04T19:55:13Z",
+      "duration": "00:24:10",
+      "explicit": false,
+      "youTubeId": "1PptfBolaVk",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1PptfBolaVk"
       }
     }
   ]

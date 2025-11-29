@@ -4,6 +4,36 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "50c0d1d9-19e4-42e7-8c12-b147b87072b7",
+      "title": "EP# 149 ~ C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico Cap\u00EDtulo 8 ~ Castalio 10/7/2009",
+      "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico",
+      "release": "2025-11-24T00:00:00",
+      "duration": "00:14:48.6500000",
+      "explicit": false,
+      "spotifyId": "1UDsBZ73vKNspwTS5lNkCw",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1UDsBZ73vKNspwTS5lNkCw"
+      }
+    },
+    {
+      "id": "d6dc2f22-050e-4444-b9b7-80e5cff5f36b",
+      "title": "EP# 148 ~ C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico Cap\u00EDtulo 7 ~ Castalio 10/7/2009",
+      "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico",
+      "release": "2025-11-17T00:00:00",
+      "duration": "00:15:07.9690000",
+      "explicit": false,
+      "spotifyId": "1MhpeE0ykgpQRJMpgpj7K4",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1MhpeE0ykgpQRJMpgpj7K4"
+      }
+    },
+    {
       "id": "e584899b-b8dd-48ca-8914-904dcca6ac32",
       "title": "EP# 147 ~ C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico Cap\u00EDtulo 6 ~ Castalio 10/7/2009",
       "description": "C\u00F3mo fabric\u00E1bamos numerarios en M\u00E9xico",

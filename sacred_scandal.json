@@ -1,0 +1,26 @@
+{
+  "id": "909143c8-5625-4c2f-8221-a56c12ab3390",
+  "name": "Sacred Scandal",
+  "spotifyId": "5K795Ig3qbirWzmnS88QJq",
+  "appleId": 1597774528,
+  "episodes": [
+    {
+      "id": "0f3a023a-d6b2-4bca-81e9-6b07a0a37313",
+      "title": "Interview with Steve Hassan",
+      "description": "In our last episode, we ask ourselves\u2026 Was Elena Sada part of a cult? We sat down to talk with Dr. Steven Hassan, an American mental health professional and author who specializes in cults, undue influence, and mind control. See omnystudio.com/listener for privacy information.",
+      "release": "2025-11-27T06:00:00Z",
+      "duration": "00:29:22.5070000",
+      "explicit": false,
+      "spotifyId": "4uIfeaoyQkwrayJOBTlxVc",
+      "appleId": 1000738631814,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4uIfeaoyQkwrayJOBTlxVc",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-steve-hassan/id1597774528?i=1000738631814"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a6fd297b-d97a-4c79-a8f8-8b2e545596b6",
+  "name": "Big Technology Podcast",
+  "spotifyId": "4ln6H9peIXhq19yv3CdOvE",
+  "appleId": 1522960417,
+  "episodes": [
+    {
+      "id": "4b627152-ea98-4994-88db-32a387b2eea8",
+      "title": "Communal Living, Sex, And Silicon Valley\u0027s Groupthink Problem \u2014 With Ellen Huet",
+      "description": "Ellen Huet is a features writer at Bloomberg and the author of Empire of Orgasm: Sex, Power, and the Downfall of a Wellness Cult. Ellen joins Big Technology to discuss how Silicon Valley, a place that prides itself on independent thinking, keeps falling into powerful forms of groupthink. Tune in to hear how group houses, self-help programs, and \u201Chigh agency\u201D ideology create fertile ground for cult dynamics, and how that same psychology shows up in today\u2019s AGI and AI-safety worlds. Hit play for a wild, revealing look at the stories and belief systems quietly shaping the tech industry\u2019s biggest bets. --- Enjoying Big Technology Podcast? Please rate us five stars \u2B50\u2B50\u2B50\u2B50\u2B50 in your podcast app of choice. Questions? Feedback? Write to: bigtechnologypodcast@gmail.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-11-26T15:22:00Z",
+      "duration": "00:57:42.7410000",
+      "explicit": true,
+      "spotifyId": "2NIkaqllid2Cv3nIMSHJ2b",
+      "appleId": 1000738536468,
+      "subjects": [
+        "Onetaste"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2NIkaqllid2Cv3nIMSHJ2b",
+        "apple": "https://podcasts.apple.com/podcast/communal-living-sex-and-silicon-valleys-groupthink/id1522960417?i=1000738536468"
+      }
+    }
+  ]
+}
