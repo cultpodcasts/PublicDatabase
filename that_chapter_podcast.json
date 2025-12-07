@@ -1,0 +1,28 @@
+{
+  "id": "cf765acd-eee5-40eb-9749-68d7660574bb",
+  "name": "That Chapter Podcast",
+  "spotifyId": "5LPqLzjZutoof7avsALbYK",
+  "appleId": 1663948238,
+  "youTubeChannelId": "UCaIswiqbPnwmwRvcJwwpXhw",
+  "episodes": [
+    {
+      "id": "bad33c37-45d4-4a45-a597-80b54ab08e87",
+      "title": "Ep.154 - Most Disturbing Cult of All Time, The Ant Hill Kids Pt. 1",
+      "description": "There was a French Canadian named Roch Th\u00E9riault, and he believed himself to be one of them great men who spoke to God. He also had a proclivity for some very dark and nasty things, leading to the creation of possibly the most disturbing, NSFW cult of ALL TIME: The Ant Hills Kids. Researched by Benj Button Send your scary stories to: mikeohhello@gmail.com Instagram: https://www.instagram.com/thatchapterpodcast Business enquires : thatchapter@night.co Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-12-01T07:00:00Z",
+      "duration": "00:37:22.3770000",
+      "explicit": false,
+      "spotifyId": "1PxJzhO1RfBzRtGUWEK4YP",
+      "appleId": 1000739086546,
+      "youTubeId": "p7kjKQ1qmEI",
+      "subjects": [
+        "Ant Hill Kids"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1PxJzhO1RfBzRtGUWEK4YP",
+        "apple": "https://podcasts.apple.com/podcast/ep-154-most-disturbing-cult-of-all-time-the-ant-hill-kids-pt-1/id1663948238?i=1000739086546",
+        "youtube": "https://www.youtube.com/watch?v=p7kjKQ1qmEI"
+      }
+    }
+  ]
+}

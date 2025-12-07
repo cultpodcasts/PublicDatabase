@@ -2,8 +2,66 @@
   "id": "7bf9eaf1-d960-42a8-a96e-b2107dd981f1",
   "name": "Inside 764",
   "spotifyId": "0tt0cZjGYR9URmY5Hxgx5T",
+  "appleId": 1857511887,
   "youTubeChannelId": "UC7awEObYFNEs23ErljB7StA",
   "episodes": [
+    {
+      "id": "c7bbe0de-7276-4975-8435-700ba98aaae0",
+      "title": "Ep 3: Deadly Influence: From Self-Harm to Murder in Teen Cults",
+      "description": "Episode 3 of Inside 764 reveals how the teen-led 764 cult escalated from online coercion and self-harm challenges to real-world violence and murder. We hear from a parent who lost a daughter at the hands of the cult, as well as the story of the first 764 affiliated murder. \n\n\n764 spirals from Discord chatrooms to splinter groups like No Lives Matter: a group where membership requires real-world violence. Experts, journalists, and survivors expose how 764\u2019s deadly influence inspired copycat attacks, terrorist plots, and extreme acts of violence across the US, UK, Sweden, Brazil, and beyond. This episode shows how vulnerable teens are manipulated into committing horrific acts for acceptance and notoriety.\n\n\nSubscribe and follow Inside 764 to uncover the shocking truth about teen radicalisation, online predators, and the deadly influence of digital cults.",
+      "release": "2025-12-01T18:06:00Z",
+      "duration": "00:26:27",
+      "explicit": false,
+      "spotifyId": "2oUNHQd3Beag6IbuAUWSYX",
+      "appleId": 1000739165758,
+      "youTubeId": "_jRRZckHAJk",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2oUNHQd3Beag6IbuAUWSYX",
+        "apple": "https://podcasts.apple.com/podcast/deadly-influence-from-self-harm-to-murder-in-teen-cults/id1857511887?i=1000739165758",
+        "youtube": "https://www.youtube.com/watch?v=_jRRZckHAJk"
+      }
+    },
+    {
+      "id": "7f79d022-1c4f-4adc-a360-451ad1697963",
+      "title": "Ep 2: The Dark Net Rises: How Teens Spread Sextortion Worldwide",
+      "description": "Episode 2 exposes the dark rise of 764, the teen-led online cult that turned Discord, Roblox, and Minecraft into hunting grounds for coercion and abuse. Bradley Cadenhead\u2019s network didn\u2019t just groom teens \u2014 it pushed victims into self-harm, animal abuse, and real-world crimes, spreading fear and control across the internet.\n\nWe investigate the shocking connections to Kaleb Merritt, the CVLT network, and extremist group 09A, revealing how 764\u2019s twisted ideology continues to manipulate young people. Survivors, journalists, and investigators pull back the curtain on the tactics that make this digital cult so dangerous.\n\nSubscribe and follow Inside 764 to uncover the shocking truth about the online predators hiding behind the games your kids love.\n\n**************************\nFollow us on socials too:\nTiktok: https://www.tiktok.com/@inside764podcast  \nInstagram: https://www.instagram.com/inside764podcast/",
+      "release": "2025-12-01T18:03:18Z",
+      "duration": "00:20:41",
+      "explicit": false,
+      "spotifyId": "72x1SDMT0SnHZYR240A1yL",
+      "appleId": 1000739165699,
+      "youTubeId": "3WzeWtY49ms",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72x1SDMT0SnHZYR240A1yL",
+        "apple": "https://podcasts.apple.com/podcast/the-dark-net-rises-how-teens-spread-sextortion-worldwide/id1857511887?i=1000739165699",
+        "youtube": "https://www.youtube.com/watch?v=3WzeWtY49ms"
+      }
+    },
+    {
+      "id": "94cedef0-91c1-4f19-8c5f-7f6a3bf61395",
+      "title": "Ep 1: Who is Brad764? America\u2019s Youngest Cult Leader",
+      "description": "Inside 764 untangles the web of a teen-led online cult targeting children through Discord, Roblox, and Minecraft. \n\nIn this first episode, a Discord user operating under the name of \u2018Brad764\u2019 is linked to a global sextortion ring. Survivors share their stories, and investigators reveal how a digital cult was built from the bedroom of a teenage boy.\n\nSubscribe and follow Inside 764 for the full investigation into this shocking online cult.",
+      "release": "2025-12-01T18:00:00Z",
+      "duration": "00:21:22",
+      "explicit": false,
+      "spotifyId": "1kbw89NQByhMRGWxqzt5zO",
+      "appleId": 1000739165409,
+      "youTubeId": "FLxFw7T7f7k",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1kbw89NQByhMRGWxqzt5zO",
+        "apple": "https://podcasts.apple.com/podcast/who-is-brad764-americas-youngest-cult-leader/id1857511887?i=1000739165409",
+        "youtube": "https://www.youtube.com/watch?v=FLxFw7T7f7k"
+      }
+    },
     {
       "id": "a3b9818b-f259-447d-8c24-7f8f452ef087",
       "title": "Inside 764: The Most Dangerous Cult You\u0027ve Never Heard Of",
@@ -12,12 +70,14 @@
       "duration": "00:01:08",
       "explicit": false,
       "spotifyId": "1g4HLU11HU3msGLuLgrVqM",
+      "appleId": 1000739060807,
       "youTubeId": "53uQji5M2GY",
       "subjects": [
         "The Order of Nine Angles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1g4HLU11HU3msGLuLgrVqM",
+        "apple": "https://podcasts.apple.com/podcast/inside-764-trailer/id1857511887?i=1000739060807",
         "youtube": "https://www.youtube.com/watch?v=53uQji5M2GY"
       }
     }

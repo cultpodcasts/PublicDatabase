@@ -5,6 +5,23 @@
   "appleId": 152788201,
   "episodes": [
     {
+      "id": "1de813de-09f5-4d92-b806-2ef924deb4ac",
+      "title": "Escape from Scientology",
+      "description": "Pamela Nickel Williams, author of the memoir Clearly Lies Are True, tells us what it was like growing up in Scientology, and how she escaped that abusive cult.",
+      "release": "2025-12-04T18:26:00Z",
+      "duration": "00:49:44.0980000",
+      "explicit": false,
+      "spotifyId": "6XEEuQEqaVrOYNWmA5wjij",
+      "appleId": 1000739723975,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6XEEuQEqaVrOYNWmA5wjij",
+        "apple": "https://podcasts.apple.com/podcast/escape-from-scientology/id152788201?i=1000739723975"
+      }
+    },
+    {
       "id": "359444c2-702f-4b33-948c-411ed32ddd3c",
       "title": "God\u0027s Work",
       "description": "We speak with journalist Gareth Gore about his book on the Opus Dei called OPUS: The Cult of Dark Money, Human Trafficking, and Right-Wing Conspiracy inside the Catholic Church.",

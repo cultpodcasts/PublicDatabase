@@ -1,0 +1,35 @@
+{
+  "id": "5c8e85df-655d-43b4-8b3b-2c1d322e03b1",
+  "name": "Mendy Stern",
+  "youTubeChannelId": "UCce7d4j6AIPnneHCtJFF33w",
+  "episodes": [
+    {
+      "id": "896251d2-ae3d-4d3f-9ddb-7acdb4300fcd",
+      "title": "Mendy Levy, an X Lev Tahor victim who escaped the cult exposes the truth and tells his story.",
+      "release": "2025-12-04T06:48:42Z",
+      "duration": "00:45:18",
+      "explicit": false,
+      "youTubeId": "MeVkaooiW9k",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MeVkaooiW9k"
+      }
+    },
+    {
+      "id": "932740c3-894e-429c-9c23-10f3f0298089",
+      "title": "Is Lev Tahor a cult? Professor Gabriel Cavaglion (from Oxford university).",
+      "release": "2025-12-04T03:43:07Z",
+      "duration": "00:30:36",
+      "explicit": false,
+      "youTubeId": "bWYHoVW7-5g",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bWYHoVW7-5g"
+      }
+    }
+  ]
+}

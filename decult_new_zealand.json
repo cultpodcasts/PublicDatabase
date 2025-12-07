@@ -4,6 +4,21 @@
   "youTubeChannelId": "UC1_9gc1wQN0XmPq-h2PeNaw",
   "episodes": [
     {
+      "id": "0f33984e-d93a-4410-b433-5cf01b1ff77f",
+      "title": "Parliamentary inquiry in Victoria",
+      "description": "Watch the full parliamentary inquiry in Victoria into the recruitment methods of cults on our YouTube channel",
+      "release": "2025-11-29T19:00:11Z",
+      "duration": "00:01:58",
+      "explicit": false,
+      "youTubeId": "46dcOpxSWbg",
+      "subjects": [
+        "Legislation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=46dcOpxSWbg"
+      }
+    },
+    {
       "id": "dcea687f-8546-406c-a741-a80fa448482c",
       "title": "Human rights and mental health violations",
       "description": "\u201CWe\u2019re looking at human rights and mental health violations\u201D - Anke speaking at the parliamentary inquiry in Victoria into cults.",

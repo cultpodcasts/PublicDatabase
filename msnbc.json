@@ -1,10 +1,25 @@
 {
   "id": "5f5f5d30-b43e-4de5-8e6b-bb9c7ddd2eb8",
-  "name": "MSNBC",
+  "name": "MS NOW",
   "spotifyId": "5gk6MjKBnAZLdhF7Doj7FV",
   "appleId": 1638974657,
   "youTubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
   "episodes": [
+    {
+      "id": "8e6a3578-87a5-4078-940b-92b0fdfd6866",
+      "title": "50 Cent speaks on incriminating videos \u0026 secret sources for Diddy Netflix doc in Melber intv",
+      "description": "50 Cent and director Alexandria Stapleton join MS NOW\u2019s Ari Melber on \u201CThe Beat\u201D to discuss their new multi-part Netflix documentary series, \u201CSean Combs: The Reckoning,\u201D which includes never-before-seen footage released just days before Combs\u2019 arrest. (The Beat\u0027s YouTube: https://ms.now/ari)\n\n\u00BB Subscribe to MS NOW: https://www.youtube.com/@msnow\n\nMS NOW is the go-to destination for domestic and international breaking news, and best-in-class opinion journalism.\u00A0For more context and news coverage of the most important stories of our day click here: https://www.ms.now/\n\n#50cent #diddy #netflix",
+      "release": "2025-12-04T01:31:57Z",
+      "duration": "00:18:37",
+      "explicit": false,
+      "youTubeId": "Oox6dDmdsyk",
+      "subjects": [
+        "Sean Combs"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Oox6dDmdsyk"
+      }
+    },
     {
       "id": "def60b46-0dc8-42c2-b6be-439976026ca2",
       "title": "BREAKING: Prince Andrew to lose \u0027prince\u0027 title and leave Windsor Mansion",

@@ -5,6 +5,24 @@
   "appleId": 1540321271,
   "episodes": [
     {
+      "id": "9ec0fbb4-1bf2-48d0-a82e-13b819c69b80",
+      "title": "Episode 12: The Detective Sergeant",
+      "description": "Detective Sergeant James Brannigan is able to speak to this series for the first time.  He reveals how a call from journalist Tanya Fowles  leads him to review the evidence gathered so far by his police colleagues into the murder.  The more he uncovers, the more he believes an investigation is needed. He\u0027s just got to convince his senior officers.",
+      "release": "2025-12-06T13:00:00Z",
+      "duration": "00:13:08",
+      "explicit": false,
+      "spotifyId": "3NHpOXmGzf3Wt7dKxJaJMJ",
+      "appleId": 1000739980350,
+      "subjects": [
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3NHpOXmGzf3Wt7dKxJaJMJ",
+        "apple": "https://podcasts.apple.com/podcast/episode-12-the-detective-sergeant/id1540321271?i=1000739980350",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002myvm"
+      }
+    },
+    {
       "id": "4805fd43-55e5-45ad-8854-30c5b0bf5cd8",
       "title": "Episode 11: The Recap",
       "description": "Jonathan Creswell very nearly gets away with murder. He tells police Katie Simpson had tried to take her own life. He\u0027s the hero who\u0027d tried to save her. But he is lying. He\u0027s eventually charged with her rape and murder. Now new witnesses say they\u0027d tried to warn police of her killer\u0027s behaviours.",

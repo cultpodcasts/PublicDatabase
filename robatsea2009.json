@@ -1,0 +1,22 @@
+{
+  "id": "6a901f65-0425-4406-b30a-c1f3f446c186",
+  "name": "robatsea2009",
+  "youTubeChannelId": "UCioQmyB0WnsT9jwMczLpI7g",
+  "episodes": [
+    {
+      "id": "f9cf0b28-5edf-4bd6-a411-a1e944e151d1",
+      "title": "KGO News  Scene 1978 Jonestown",
+      "description": "A 1978 KGO News Scene special report on the Jonestown tragedy.",
+      "release": "2009-09-20T23:41:58Z",
+      "duration": "00:07:35",
+      "explicit": true,
+      "youTubeId": "OapPeL-69Ns",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=OapPeL-69Ns"
+      }
+    }
+  ]
+}

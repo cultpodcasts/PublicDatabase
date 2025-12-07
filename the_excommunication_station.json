@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "84f069b9-ff49-4e54-b004-0d43e831dab3",
+      "title": "Poison Tulips : Pilgrims Progress Part 1",
+      "description": "This week, we guest host on a new sister show which spun out our discord, Poison Tulips.",
+      "release": "2025-12-03T06:48:00Z",
+      "duration": "01:44:19.7220000",
+      "explicit": true,
+      "spotifyId": "3D2MUW7wDnUGo399hZvwBs",
+      "appleId": 1000739460784,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3D2MUW7wDnUGo399hZvwBs",
+        "apple": "https://podcasts.apple.com/podcast/poison-tulips-pilgrims-progress-part-1/id1573190999?i=1000739460784"
+      }
+    },
+    {
       "id": "30954962-3206-41d7-885a-81bade6bd772",
       "title": "234. Ron Ormond and Early Christian Movies",
       "description": "Sorry, audio issue with the first one, fixed in this one.",

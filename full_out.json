@@ -1,0 +1,25 @@
+{
+  "id": "e2ce3df3-6cf0-4db0-bb65-fbddbb53938d",
+  "name": "Full Out",
+  "spotifyId": "0T10HL33H29rLeANI3cqM8",
+  "appleId": 1844143719,
+  "youTubeChannelId": "UC-fFF827UhBDgTErozEceDQ",
+  "episodes": [
+    {
+      "id": "d05bab8a-6527-4aaf-8562-a65ea0897dca",
+      "title": "Did I Join a Cult?",
+      "description": "Flying Solo, Brittany reflects on one of her more questionable decisions: going on a silent date. Yes, you heard that right. But what is a silent date? Well tune it to learn all about it and maybe how to avoid one. Listen and watch Full Out wherever you get your podcasts (Spotify, YouTube, Apple, Amazon, etc.). Follow us on Instagram and TikTok at FullOutPod. Remember: go Full Out.",
+      "release": "2025-11-30T11:00:28Z",
+      "duration": "00:29:21.7700000",
+      "explicit": true,
+      "spotifyId": "6wUqIEwcYUgf3IucpjiKBH",
+      "appleId": 1000738982135,
+      "youTubeId": "O-JyRI3r0ac",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6wUqIEwcYUgf3IucpjiKBH",
+        "apple": "https://podcasts.apple.com/podcast/did-i-join-a-cult/id1844143719?i=1000738982135",
+        "youtube": "https://www.youtube.com/watch?v=O-JyRI3r0ac"
+      }
+    }
+  ]
+}

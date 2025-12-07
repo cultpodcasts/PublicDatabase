@@ -1,0 +1,25 @@
+{
+  "id": "4697fdba-bde4-4226-b1fd-29e30979eeb6",
+  "name": "The Optimal Life",
+  "spotifyId": "59Wn8oGNEAxFmbDVKSKFFn",
+  "appleId": 1326524012,
+  "episodes": [
+    {
+      "id": "32e64a31-1b4d-4513-84e8-dbedcb41ad69",
+      "title": "478. Peter Young :: Abandoned by his Daughter",
+      "description": "Peter Young returned to the podcast to talk about his continued familial battles after the release of his book, \u0022 Stop the Tall Man, Save the Tiger ,\u0022 and the abandonment he has experienced from his daughter. Listen to Peter\u0027s first appearance on the podcast: Ep. 316 - Peter Young :: Escaping a Cult",
+      "release": "2025-11-29T14:51:00Z",
+      "duration": "00:34:23.5200000",
+      "explicit": true,
+      "spotifyId": "7H6xMsdo3W3Lsqu3QQ7VXB",
+      "appleId": 1000738899477,
+      "subjects": [
+        "Family Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7H6xMsdo3W3Lsqu3QQ7VXB",
+        "apple": "https://podcasts.apple.com/podcast/478-peter-young-abandoned-by-his-daughter/id1326524012?i=1000738899477"
+      }
+    }
+  ]
+}

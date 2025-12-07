@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCwWrCryuLBlmvjCcydtAUwg",
   "episodes": [
     {
+      "id": "f32965f7-4ae1-4e41-9e31-31584d6922eb",
+      "title": "Personal Story : Susanna Matingou",
+      "release": "2025-12-06T20:24:10Z",
+      "duration": "00:31:50",
+      "explicit": false,
+      "youTubeId": "5bBsmzE-DhY",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5bBsmzE-DhY"
+      }
+    },
+    {
+      "id": "39dac772-5842-4ca3-89d8-22de44136a74",
+      "title": "Personal Story with Safe Church Task Force",
+      "release": "2025-11-29T19:33:45Z",
+      "duration": "00:49:29",
+      "explicit": false,
+      "youTubeId": "jo_GOjtUJrM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jo_GOjtUJrM"
+      }
+    },
+    {
       "id": "90fdaac5-c644-485f-a7d7-947adb36c663",
       "title": "Personal Story : Cynthia Liles",
       "release": "2025-11-22T19:44:20Z",
