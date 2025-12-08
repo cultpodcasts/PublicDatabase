@@ -15,12 +15,15 @@
       "explicit": false,
       "spotifyId": "7gzm8WMD93Ch2pWBWqCwCM",
       "appleId": 1000740064657,
+      "youTubeId": "bvMFN6fCwa8",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7gzm8WMD93Ch2pWBWqCwCM",
-        "apple": "https://podcasts.apple.com/podcast/the-dark-theology-radicalizing-young-white-men/id1493726980?i=1000740064657"
+        "apple": "https://podcasts.apple.com/podcast/the-dark-theology-radicalizing-young-white-men/id1493726980?i=1000740064657",
+        "youtube": "https://www.youtube.com/watch?v=bvMFN6fCwa8"
       }
     },
     {

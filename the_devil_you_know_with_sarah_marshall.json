@@ -5,6 +5,23 @@
   "appleId": 1844686289,
   "episodes": [
     {
+      "id": "48baea75-e32b-429b-83ce-5c76458e644b",
+      "title": "Episode 8: Where Are We Now?",
+      "description": "Now that we know where we\u2019ve been, where are we going? As the Satanic Panic receded from view, we almost forgot it had happened at all \u2013 until it came back. How do today\u2019s moral panics compare to the one we just learned about? And what can we learn from the tragedy at Jonestown?",
+      "release": "2025-12-08T09:10:00Z",
+      "duration": "00:58:28",
+      "explicit": false,
+      "spotifyId": "54euNw09QoE9sjA6fPyCmN",
+      "appleId": 1000732363545,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/54euNw09QoE9sjA6fPyCmN",
+        "apple": "https://podcasts.apple.com/podcast/episode-8-where-are-we-now/id1844686289?i=1000732363545"
+      }
+    },
+    {
       "id": "d889ef7a-310c-4959-82ad-e81a666cc60b",
       "title": "A second helping from Satan: Satanic Injustice",
       "description": "How did the U.S. legal system allow the Satanic Panic to proliferate as rapidly as it did? In this bonus episode, Sarah chats with journalist Josie Duffy Rice (Justice In America, The Appeal) who has written extensively about prisons, prosecutors and criminal justice.",

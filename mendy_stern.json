@@ -4,6 +4,20 @@
   "youTubeChannelId": "UCce7d4j6AIPnneHCtJFF33w",
   "episodes": [
     {
+      "id": "2310cffe-dc81-4bcf-a60f-96bb36cb8144",
+      "title": "Yoel Levy, an X Lev Tahor victim tells his escape journey and call for help to take out his brother.",
+      "release": "2025-12-04T06:49:29Z",
+      "duration": "00:35:38",
+      "explicit": false,
+      "youTubeId": "j0AFs0fyT8Y",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=j0AFs0fyT8Y"
+      }
+    },
+    {
       "id": "896251d2-ae3d-4d3f-9ddb-7acdb4300fcd",
       "title": "Mendy Levy, an X Lev Tahor victim who escaped the cult exposes the truth and tells his story.",
       "release": "2025-12-04T06:48:42Z",
@@ -18,6 +32,34 @@
       }
     },
     {
+      "id": "a56c53d0-3f43-4835-b1f5-b6d50e4ccc26",
+      "title": "Deep dive into the adult life of Lev Tahor founder Shlome Helbrantz.",
+      "release": "2025-12-04T06:45:42Z",
+      "duration": "00:42:33",
+      "explicit": false,
+      "youTubeId": "L24mGUvtlv8",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=L24mGUvtlv8"
+      }
+    },
+    {
+      "id": "d1ccbbf4-58dd-4dc9-b7ff-414b85754f64",
+      "title": "Yoelish Goldman \u0026 Nisin Malka who are currently on bail in Guatemala.",
+      "release": "2025-12-04T06:39:31Z",
+      "duration": "00:00:20",
+      "explicit": false,
+      "youTubeId": "h0qIJ1eRoSg",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=h0qIJ1eRoSg"
+      }
+    },
+    {
       "id": "932740c3-894e-429c-9c23-10f3f0298089",
       "title": "Is Lev Tahor a cult? Professor Gabriel Cavaglion (from Oxford university).",
       "release": "2025-12-04T03:43:07Z",
@@ -29,6 +71,34 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=bWYHoVW7-5g"
+      }
+    },
+    {
+      "id": "07bcb50f-2371-4302-93f2-31dffaa17ad2",
+      "title": "The story of Yisruel Amir, an X Lev Tahor member.",
+      "release": "2025-12-04T02:57:49Z",
+      "duration": "00:04:11",
+      "explicit": false,
+      "youTubeId": "IWIz9_0J1hw",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=IWIz9_0J1hw"
+      }
+    },
+    {
+      "id": "e59a21a5-f156-49f8-adb5-d22989f1be1f",
+      "title": "Former Lev Tahor member (still in support) being confronted by Mendy Levy, former Lev Tahor victim.",
+      "release": "2025-12-04T02:48:42Z",
+      "duration": "00:00:40",
+      "explicit": false,
+      "youTubeId": "YJPQGVFe7nE",
+      "subjects": [
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=YJPQGVFe7nE"
       }
     }
   ]
