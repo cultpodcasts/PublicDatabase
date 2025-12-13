@@ -1,0 +1,25 @@
+{
+  "id": "1cd947e8-9df7-49f5-824a-2bbfb455b913",
+  "name": "Fringe Beyond Limits",
+  "spotifyId": "4Y7FFrLsOiHXhOzrsFMLuh",
+  "appleId": 1744485065,
+  "episodes": [
+    {
+      "id": "589f35cb-0df7-4ae7-8e3b-20e02ac43cdc",
+      "title": "The Family that \u0027Preyed\u0027 Together: Secrets of the Children of God",
+      "description": "In this episode of Fringe Beyond Limits the hosts discuss the rise and horrific abuses of the Children of God cult, led by David Berg. They cover his manipulative Mo Letters, the practice of \u0022flirty fishing,\u0022 the sexualization of children, celebrity ties, raids and legal battles, survivor testimonies, and the movement\u0027s attempts to rebrand as The Family International. The conversation mixes dark humor and shock with empathy for survivors, exploring how promises of belonging and prophecy turned into control, abuse, and long-lasting trauma. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2025-12-09T02:15:00Z",
+      "duration": "00:59:07.6110000",
+      "explicit": true,
+      "spotifyId": "7docQCXRjxaIS57950HqIX",
+      "appleId": 1000740333218,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7docQCXRjxaIS57950HqIX",
+        "apple": "https://podcasts.apple.com/podcast/the-family-that-preyed-together-secrets-of/id1744485065?i=1000740333218"
+      }
+    }
+  ]
+}

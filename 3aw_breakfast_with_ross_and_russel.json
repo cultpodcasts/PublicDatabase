@@ -1,0 +1,26 @@
+{
+  "id": "d75dab1c-b1f2-455a-aa31-9081569e3b16",
+  "name": "3AW Breakfast with Ross and Russel",
+  "spotifyId": "3UcWnFnqogTLwLUbVQ3aD6",
+  "appleId": 289570515,
+  "episodes": [
+    {
+      "id": "50bcdf8a-ce5a-40a0-976d-81145a3aee74",
+      "title": "Why Peter Ford has described Oprah Winfrey\u0027s Australian shows as being \u0027cult-like\u0027",
+      "description": "Entertainment reporter Peter Ford has discussed Oprah Winfrey\u0027s recent shows in Australia.\nSee omnystudio.com/listener for privacy information.",
+      "release": "2025-12-08T20:55:19Z",
+      "duration": "00:01:12",
+      "explicit": false,
+      "spotifyId": "7zwWmD8KtrRWPLWdgr0cEv",
+      "appleId": 1000740291973,
+      "subjects": [
+        "Spiritual Narcissist",
+        "Sister Aimee"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7zwWmD8KtrRWPLWdgr0cEv",
+        "apple": "https://podcasts.apple.com/podcast/why-peter-ford-has-described-oprah-winfreys-australian/id289570515?i=1000740291973"
+      }
+    }
+  ]
+}

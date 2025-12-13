@@ -1,0 +1,25 @@
+{
+  "id": "ddc1a4a4-7794-4394-a70d-cfcb295d7037",
+  "name": "The Second Captains Podcast",
+  "spotifyId": "3cVxiqqm1r9bA5OOcgnXTK",
+  "appleId": 647893016,
+  "episodes": [
+    {
+      "id": "2685e236-e634-45c7-8f24-235238850a97",
+      "title": "Salah Week, Ken Called It, Chess Cult",
+      "description": "We had a brilliant chat with Danny Rensch, the co-founder of\u00A0chess.com, which went from being a successful start-up to a billion\u00A0dollar company during the pandemic, thanks largely to people being stuck at home. As a kid, Danny was a prodigy, a national champion in the US, who ultimately became disillusioned with the sport.\u00A0But his story is far more complicated than that, given he grew up in a cult called the Church of Immortal Consciousness.",
+      "release": "2025-12-11T16:23:39Z",
+      "duration": "00:23:11",
+      "explicit": false,
+      "spotifyId": "6K6pInyGiK631wcmO2ePwa",
+      "appleId": 1000740869089,
+      "subjects": [
+        "Church of Immortal Consciousness"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6K6pInyGiK631wcmO2ePwa",
+        "apple": "https://podcasts.apple.com/podcast/salah-week-ken-called-it-chess-cult/id647893016?i=1000740869089"
+      }
+    }
+  ]
+}

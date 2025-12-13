@@ -5,6 +5,24 @@
   "appleId": 1540321271,
   "episodes": [
     {
+      "id": "aafe38ee-13ba-46cc-97e5-7daf5d8c9cf8",
+      "title": "Episode 13: Do the Right Thing",
+      "description": "Detective Sergeant James Brannigan has one last chance to convince his bosses to launch an investigation into Katie\u0027s death. Working on his own, he compiles a 20-page report of all the evidence so far. He says there are questions that need answers. He hopes senior officers will now decide the death needs to be looked at by a Major Investigations Team. But it is only when a young officer speaks up that the decision to have another look is made.",
+      "release": "2025-12-13T13:00:00Z",
+      "duration": "00:11:36.9200000",
+      "explicit": true,
+      "spotifyId": "6HllbIR0yOxVp5aZZK4gw0",
+      "appleId": 1000741121981,
+      "subjects": [
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6HllbIR0yOxVp5aZZK4gw0",
+        "apple": "https://podcasts.apple.com/podcast/episode-13-do-the-right-thing/id1540321271?i=1000741121981",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002n7js"
+      }
+    },
+    {
       "id": "9ec0fbb4-1bf2-48d0-a82e-13b819c69b80",
       "title": "Episode 12: The Detective Sergeant",
       "description": "Detective Sergeant James Brannigan is able to speak to this series for the first time.  He reveals how a call from journalist Tanya Fowles  leads him to review the evidence gathered so far by his police colleagues into the murder.  The more he uncovers, the more he believes an investigation is needed. He\u0027s just got to convince his senior officers.",

@@ -1,0 +1,23 @@
+{
+  "id": "ad55bc21-e9be-4253-a188-cf49ff632988",
+  "name": "AF Films",
+  "youTubeChannelId": "UCELptb-H__X3sapuE7ee9Fw",
+  "episodes": [
+    {
+      "id": "4baf51e4-96b9-4f8e-bfb2-915fa83bc7e5",
+      "title": "BBC Panorama: Nailbomber",
+      "description": "The story of David Copeland, the neo-nazi nailbomber, and his campaign of terror in London in 1999. The programme confronts neo-nazi leaders who inspired him to do it.",
+      "release": "2000-06-30T19:00:00Z",
+      "duration": "00:52:25",
+      "explicit": false,
+      "youTubeId": "vhf-NwlIVtc",
+      "subjects": [
+        "_London",
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=vhf-NwlIVtc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "056f46d1-55b6-4a41-b95d-f9d219696861",
+  "name": "VIRGIN.BEAUTY.B!TCH Podcast",
+  "spotifyId": "0yCAlDJZGech2jp9lh5UVL",
+  "appleId": 1753335098,
+  "youTubeChannelId": "UCiZI6-4uG4nWFo8Y6_rjhGA",
+  "episodes": [
+    {
+      "id": "1f358c36-d621-4442-bcd3-08a32e32d261",
+      "title": "Peggy Sharr: A Mother\u0027s Cult Vs. A Daughter\u0027s Courage!",
+      "description": "Peggy Sharr is a licensed clinical psychotherapist, author, and survivor whose remarkable life story forms the heart of her book, \u0022Surviving the Family Kingdom.\u0022 Raised in her mother\u0027s cult, a chaotic and abusive environment, Peggy endured years of trauma, spiritual manipulation, and family dysfunction. Despite facing immense adversity, including being denied a basic education, Peggy found the courage and strength to rebuild her life, pursue higher learning, raise a functional family, and ultimately become a therapist dedicated to helping others heal.",
+      "release": "2025-12-08T18:26:08Z",
+      "duration": "00:44:53",
+      "explicit": false,
+      "spotifyId": "15rRRcMKcZVvRDdu6nYyzQ",
+      "appleId": 1000740125947,
+      "youTubeId": "wC1ozxMKXHw",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/15rRRcMKcZVvRDdu6nYyzQ",
+        "apple": "https://podcasts.apple.com/podcast/vbb-357-peggy-sharr-a-mothers-cult-vs-a-daughters-courage/id1753335098?i=1000740125947",
+        "youtube": "https://www.youtube.com/watch?v=wC1ozxMKXHw"
+      }
+    }
+  ]
+}

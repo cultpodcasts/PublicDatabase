@@ -1,0 +1,72 @@
+{
+  "id": "bc15daf1-e70b-41e0-8ada-e7e53a1a0ae7",
+  "name": "VICE Culture Club",
+  "spotifyId": "3hmlQurCVYQxbQ4KtLHObK",
+  "appleId": 1852305487,
+  "youTubeChannelId": "UCn8zNIfYAQNdrFRrr8oibKw",
+  "youTubePlaylistId": "PLDbSvEZka6GFMiOYPWT_-Ztwy-lD8vU6a",
+  "episodes": [
+    {
+      "id": "ab5c7bdd-8016-421a-b4ac-5dc66107c89e",
+      "title": "Cult Expert On Sex, Power, Ranking Cults And Swifties (Episode 3 Part 2)",
+      "description": "\u00A0\u00A0In part 2 of this interview we will dig into the world of cults with cult survivor and expert Daniella Mestyanek Young.\u00A0 She answers questions from our Vice Instagram audience and goes through a long list of companies, religions and movements to give us her opinion on what is a cult or not.",
+      "release": "2025-12-09T16:15:00Z",
+      "duration": "00:47:15",
+      "explicit": false,
+      "spotifyId": "3ByOE2QUncRGtV0JX3lvIh",
+      "appleId": 1000740436674,
+      "youTubeId": "lBtzePrJwuY",
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology",
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ByOE2QUncRGtV0JX3lvIh",
+        "apple": "https://podcasts.apple.com/podcast/cult-expert-on-sex-power-ranking-cults-and-swifties/id1852305487?i=1000740436674",
+        "youtube": "https://www.youtube.com/watch?v=lBtzePrJwuY"
+      }
+    },
+    {
+      "id": "5f269cfa-8ed1-495c-b81c-d67a304beb9b",
+      "title": "Children Of God Sex Cult Survivor Daniella Mestyanek Young (VIDEO) Episode 4 Part 1",
+      "description": "We sat down with Daniella Mestyanek Young she is a Cult Expert, Cult Survivor, U.S. Army Veteran, Harvard grad in the study of organizational psychology and author of two books on cults. Her memoir Uncultured came out in 2022 covering her experience growing up in the Children of God cult \u0026 comparing it to her time in the U.S. Army as an intelligence officer. \u00A0 She now has a new book coming out in January called \u0022The Culting of America\u0022 where she better defines what a cult is using a 10 part framework.",
+      "release": "2025-12-09T16:00:00Z",
+      "duration": "00:44:55",
+      "explicit": false,
+      "spotifyId": "5VciowpfXzsQZ9dSfFYaZK",
+      "appleId": 1000740433134,
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5VciowpfXzsQZ9dSfFYaZK",
+        "apple": "https://podcasts.apple.com/podcast/children-of-god-sex-cult-survivor-daniella-mestyanek/id1852305487?i=1000740433134"
+      }
+    },
+    {
+      "id": "f44b9656-77ca-405c-8ac6-f30225ffc2b7",
+      "title": "Children Of God Sex Cult Survivor Daniella Mestyanek Young (Episode 3 Part 1)",
+      "description": "We sat down with Daniella Mestyanek Young she is a Cult Expert, Cult Survivor, U.S. Army Veteran, Harvard grad in the study of organizational psychology and author of two books on cults. Her memoir Uncultured came out in 2022 covering her experience growing up in the Children of God cult \u0026 comparing it to her time in the U.S. Army as an intelligence officer. \u00A0 She now has a new book coming out in January called \u0022The Culting of America\u0022 where she better defines what a cult is using a 10 part framework.",
+      "release": "2025-12-09T16:00:00Z",
+      "duration": "00:45:10",
+      "explicit": false,
+      "spotifyId": "3AcWqDiQVqeS4XM407Hpi5",
+      "appleId": 1000740432963,
+      "youTubeId": "W-X5zq4-z78",
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3AcWqDiQVqeS4XM407Hpi5",
+        "apple": "https://podcasts.apple.com/podcast/children-of-god-sex-cult-survivor-daniella-mestyanek/id1852305487?i=1000740432963",
+        "youtube": "https://www.youtube.com/watch?v=W-X5zq4-z78"
+      }
+    }
+  ]
+}

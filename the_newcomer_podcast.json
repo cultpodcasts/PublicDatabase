@@ -1,0 +1,28 @@
+{
+  "id": "293324f9-fc6d-4137-ba64-b99308702d04",
+  "name": "The Newcomer Podcast",
+  "spotifyId": "34NxWrRHHAU5uWG5RfnZIP",
+  "appleId": 1582647825,
+  "youTubeChannelId": "UCga450aodxNOxMEF3a_EmBQ",
+  "episodes": [
+    {
+      "id": "eeb2915f-00af-4d96-a08b-e2ef290433ba",
+      "title": "Inside the Sex Cult That Fooled Silicon Valley",
+      "description": "Investigative journalist Ellen Huet joins the show to discuss her stunning new book on OneTaste, the wellness startup that rose to Silicon Valley fame before spiraling into allegations of manipulation, coercion, and cult-like control. We unpack how a company selling \u201Cfemale empowerment\u201D turned into one of tech\u2019s most disturbing cautionary tales, and what its downfall reveals about power, charisma, and the blind spots of the startup world.This conversation goes deeper than the headlines and asks a larger question:How does a community built on self-improvement end up crossing the line into harm?If you follow the intersection of tech, power, psychology, and accountability, this is one you won\u2019t want to miss.",
+      "release": "2025-12-08T20:04:20Z",
+      "duration": "00:34:54",
+      "explicit": false,
+      "spotifyId": "1HP8p4nwFJfdmN5PUWERcA",
+      "appleId": 1000740284851,
+      "youTubeId": "ALbq5NCVl_0",
+      "subjects": [
+        "Onetaste"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1HP8p4nwFJfdmN5PUWERcA",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-sex-cult-that-fooled-silicon-valley/id1582647825?i=1000740284851",
+        "youtube": "https://www.youtube.com/watch?v=ALbq5NCVl_0"
+      }
+    }
+  ]
+}

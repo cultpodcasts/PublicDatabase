@@ -1,0 +1,28 @@
+{
+  "id": "2df4ccd2-16de-4f9b-8a84-f4e07847540a",
+  "name": "What\u2018s Your Position?",
+  "spotifyId": "1FljRpGiQmm3KvsUmUC4MC",
+  "appleId": 1527204340,
+  "youTubeChannelId": "UC2vkhJJGd-9Yz0peaeY6CPg",
+  "episodes": [
+    {
+      "id": "e2c14097-84db-4669-95d6-2a0f045aa911",
+      "title": "FULL FRONTAL: I was In a Cult; \u0022Teen Mania\u0022 Survivors talk purity, brainwashing and life on the other side",
+      "description": "In this Full Frontal with Matt and Corey\u2014two former insiders of Teen Mania, the evangelical youth empire that packed stadiums, preached purity, and operated with the psychological control of a cult. With an estimated 10,000 cults currently active in the U.S. and cult survivors reporting PTSD at rates over ten times higher than the general population, this conversation gets real about how \u201Cjust a youth group\u201D can become spiritual warfare with a side of sexual repression.\n\nTogether, they dive into the hype of Acquire the Fire, the brutal discipline of the Honor Academy, and the purity culture rules that taught millions of teens that their bodies were dangerous and desire was demonic. But it\u2019s not all trauma\u2014there\u2019s laughter, liberation, and the sexy, joyful truth of what happens when you finally reclaim your pleasure. This episode is messy, honest, political, hilarious, and deeply human. Come for the cult tea, stay for the healing.",
+      "release": "2025-12-12T18:00:00Z",
+      "duration": "02:12:07",
+      "explicit": false,
+      "spotifyId": "2QBhQELcHBUX5DNfGuUg3g",
+      "appleId": 1000741035975,
+      "youTubeId": "vEz0DuJluss",
+      "subjects": [
+        "Teen Mania Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2QBhQELcHBUX5DNfGuUg3g",
+        "apple": "https://podcasts.apple.com/podcast/full-frontal-i-was-in-a-cult-teen-mania-survivors/id1527204340?i=1000741035975",
+        "youtube": "https://www.youtube.com/watch?v=vEz0DuJluss"
+      }
+    }
+  ]
+}

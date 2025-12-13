@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "1Bsgs5whiHG3GA605HSafe",
       "appleId": 1000740075786,
+      "youTubeId": "Rl4g43npDs0",
       "subjects": [
         "Catholicism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Bsgs5whiHG3GA605HSafe",
-        "apple": "https://podcasts.apple.com/podcast/65-happy-new-year-december-deconstruction-advent-edition/id1755663974?i=1000740075786"
+        "apple": "https://podcasts.apple.com/podcast/65-happy-new-year-december-deconstruction-advent-edition/id1755663974?i=1000740075786",
+        "youtube": "https://www.youtube.com/watch?v=Rl4g43npDs0"
       }
     },
     {

@@ -5,6 +5,23 @@
   "appleId": 1667989249,
   "episodes": [
     {
+      "id": "62a00ca5-2a23-4d81-a2a5-88bd82068f34",
+      "title": "Epstein survivors speak out",
+      "description": "Survivors Annie Farmer and Liz Stein open up about breaking the culture of silence, coping with public spotlight, and combating sex trafficking.",
+      "release": "2025-12-12T17:00:53Z",
+      "duration": "00:49:59.8490000",
+      "explicit": false,
+      "spotifyId": "2g7ODuxJICFJKpf4cySrqi",
+      "appleId": 1000741040847,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2g7ODuxJICFJKpf4cySrqi",
+        "apple": "https://podcasts.apple.com/podcast/epstein-survivors-speak-out/id1667989249?i=1000741040847"
+      }
+    },
+    {
       "id": "c8f88769-2bf1-4d64-b2c1-27479fa761b1",
       "title": "Fawning and the dangers of people-pleasing",
       "description": "Clinical psychologist Ingrid Clayton used fawning as a coping strategy growing up in a scary home. It helped her in those frightening moments but came at a terrible price.",

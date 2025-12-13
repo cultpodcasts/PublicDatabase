@@ -1,0 +1,25 @@
+{
+  "id": "d3273245-e46a-4031-9242-3327d34ad515",
+  "name": "The Phoenix Files",
+  "spotifyId": "51qKvWhsPjH6mwykarC4dm",
+  "appleId": 1769139521,
+  "youTubeChannelId": "UCI7OxAsCm0qFRr3em08l-xw",
+  "youTubePlaylistId": "PLUEPRD1aQHFoY8QsJfU24H8fpc3EvH30n",
+  "episodes": [
+    {
+      "id": "b53299da-dcf1-46e5-aab3-7c7f7d864213",
+      "title": "Our host is in a cult? | The Phoenix News | S2EP5",
+      "description": "Cults aren\u2019t just stories from the past. They are real-life organizations that still pull people in today. In this episode of The Phoenix Files, Markus and Vani dive into the unsettling world of cults, how they recruit, and how they continue to keep people isolated from the outside. Keep watching to find out which cult The Phoenix is a part of! \n\nCanadian Mental Health Association (CMHA): Offers crisis support lines across various provinces.\n\nNational Crisis Line: 1-833-456-4566 (Quebec: 1-866-277-3553)",
+      "release": "2025-12-12T00:13:37Z",
+      "duration": "00:23:15",
+      "explicit": false,
+      "youTubeId": "aihhCKSw9SQ",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aihhCKSw9SQ"
+      }
+    }
+  ]
+}

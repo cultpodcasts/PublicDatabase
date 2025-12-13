@@ -15,12 +15,14 @@
       "explicit": false,
       "spotifyId": "2MmcjaQT4HYZnDNvan41Aj",
       "appleId": 1000739755552,
+      "youTubeId": "-Tlitf2WCRk",
       "subjects": [
         "Zizians"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2MmcjaQT4HYZnDNvan41Aj",
-        "apple": "https://podcasts.apple.com/podcast/vegan-hipsters-start-their-own-murdering-cult-the/id1519456164?i=1000739755552"
+        "apple": "https://podcasts.apple.com/podcast/vegan-hipsters-start-their-own-murdering-cult-the/id1519456164?i=1000739755552",
+        "youtube": "https://www.youtube.com/watch?v=-Tlitf2WCRk"
       }
     },
     {

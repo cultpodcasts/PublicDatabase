@@ -5,6 +5,24 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "c1eda899-74d3-4420-9b19-d74c43cb34fb",
+      "title": "235. AC Green Part I W/ Gavi from Leaving Eden",
+      "description": "This week, Gavi from The Leaving Eden Podcast to talk about evangelical NBA player, AC Green and the cult known as Maranatha Campus Ministries",
+      "release": "2025-12-10T06:36:00Z",
+      "duration": "02:15:26",
+      "explicit": false,
+      "spotifyId": "0xgNl4NBMaJDnZ4Mu7dneE",
+      "appleId": 1000740571632,
+      "subjects": [
+        "Maranatha Campus Ministries",
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0xgNl4NBMaJDnZ4Mu7dneE",
+        "apple": "https://podcasts.apple.com/podcast/235-ac-green-part-i-w-gavi-from-leaving-eden/id1573190999?i=1000740571632"
+      }
+    },
+    {
       "id": "84f069b9-ff49-4e54-b004-0d43e831dab3",
       "title": "Poison Tulips : Pilgrims Progress Part 1",
       "description": "This week, we guest host on a new sister show which spun out our discord, Poison Tulips.",

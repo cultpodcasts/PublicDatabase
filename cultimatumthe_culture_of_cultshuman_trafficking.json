@@ -14,6 +14,7 @@
       "explicit": true,
       "spotifyId": "1HpPiYv5UtMTd9UK6EsLFA",
       "appleId": 1000740064422,
+      "youTubeId": "nt7qN8xIYaY",
       "subjects": [
         "Evangelicalism",
         "Cult Recovery",
@@ -21,7 +22,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1HpPiYv5UtMTd9UK6EsLFA",
-        "apple": "https://podcasts.apple.com/podcast/divorcing-religion-what-happens-when-you-walk-away/id1744145655?i=1000740064422"
+        "apple": "https://podcasts.apple.com/podcast/divorcing-religion-what-happens-when-you-walk-away/id1744145655?i=1000740064422",
+        "youtube": "https://www.youtube.com/watch?v=nt7qN8xIYaY"
       }
     },
     {
