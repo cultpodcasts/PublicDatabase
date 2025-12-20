@@ -3,7 +3,26 @@
   "name": "KEMPIRE",
   "spotifyId": "2Vc9qrpg8lucrQqWuNaThD",
   "appleId": 1510062385,
+  "youTubeChannelId": "UCiP6ifT3o0eIv4qsNPZGUCw",
   "episodes": [
+    {
+      "id": "4f8c0b2e-cc41-44ec-8de1-98cc51a4cc24",
+      "title": "RHOSLC: Mary Cosby\u0027s Cult Doc",
+      "release": "2025-12-17T23:34:00Z",
+      "duration": "00:53:52.2870000",
+      "explicit": false,
+      "spotifyId": "7DPngtF90cGTHus973bx5Z",
+      "appleId": 1000741759326,
+      "youTubeId": "5mcpWq24_i0",
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7DPngtF90cGTHus973bx5Z",
+        "apple": "https://podcasts.apple.com/podcast/rhoslc-mary-cosbys-cult-doc-my-big-fat-greek-mothers/id1510062385?i=1000741759326",
+        "youtube": "https://www.youtube.com/watch?v=5mcpWq24_i0"
+      }
+    },
     {
       "id": "20f61055-3e84-471f-bad0-a75e3c6676c0",
       "title": "HOT TOPICS: Mary Cosby\u0027s CULT Documentary Trailer",
@@ -12,12 +31,14 @@
       "explicit": false,
       "spotifyId": "6vUrryktK21xJXqGok9ofF",
       "appleId": 1000736606551,
+      "youTubeId": "KtNoT_V4bIo",
       "subjects": [
         "Faith Temple Pentecostal Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6vUrryktK21xJXqGok9ofF",
-        "apple": "https://podcasts.apple.com/podcast/hot-topics-mary-cosbys-cult-documentary-trailer-tiktoker/id1510062385?i=1000736606551"
+        "apple": "https://podcasts.apple.com/podcast/hot-topics-mary-cosbys-cult-documentary-trailer-tiktoker/id1510062385?i=1000736606551",
+        "youtube": "https://www.youtube.com/watch?v=KtNoT_V4bIo"
       }
     }
   ]

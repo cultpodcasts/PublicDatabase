@@ -1,0 +1,28 @@
+{
+  "id": "b5d1f7b4-2006-47cb-9c2b-13b04e32e356",
+  "name": "Let\u0027s Talk",
+  "spotifyId": "4Qw854Gsb2pdlDABEMI8So",
+  "appleId": 1798210253,
+  "youTubeChannelId": "UCnUetE1u_sqGAPVZQZsD_hA",
+  "episodes": [
+    {
+      "id": "e5a6ca3a-a5e0-433c-82bc-f419eb3815c3",
+      "title": "Let\u0027s Talk about Escaping a Religious Cult ",
+      "description": "In this episode of Let\u2019s Talk, Lindsay Tornambe shares how she was brought into a religious cult by her parents and later chosen by the cult leader to fulfill his duties. WARNING: EXPLICIT CONTENT Lindsay\u2019s story is a testimony to the truth that God never abandons us and works through our lives in mysterious ways.",
+      "release": "2025-12-17T19:25:42Z",
+      "duration": "01:57:17.4400000",
+      "explicit": false,
+      "spotifyId": "0weIcOYd5SgCNoPs8GGd3V",
+      "appleId": 1000741732167,
+      "youTubeId": "U2u16Ol7TF0",
+      "subjects": [
+        "The Way International"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0weIcOYd5SgCNoPs8GGd3V",
+        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-escaping-a-religious-cult/id1798210253?i=1000741732167",
+        "youtube": "https://www.youtube.com/watch?v=U2u16Ol7TF0"
+      }
+    }
+  ]
+}

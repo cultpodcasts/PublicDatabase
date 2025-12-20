@@ -1,0 +1,25 @@
+{
+  "id": "6c367342-9ffc-408b-95b3-bf82fe3ef96f",
+  "name": "The Most Dramatic Podcast Ever",
+  "spotifyId": "1DE8pixvPpW1EN8pNRhssr",
+  "appleId": 1466080869,
+  "episodes": [
+    {
+      "id": "3cc30570-353f-4de1-b87d-f26fcca6b223",
+      "title": "Leaders of Secretive California Cult Charged with Murdering Members",
+      "description": "The husband and wife leaders of \u201CHis Way Spirit Led Assemblies\u201D were charged with murder along with two other members after the death of a 4-year-old boy and a 40-year-old man. Police say the murders happened more than 10 years apart, and there is another member who has been missing since 2019. Former members of the group who managed to escape, describe the bizarre and at times frightening atmosphere they lived in, for years. See omnystudio.com/listener for privacy information.",
+      "release": "2025-12-17T18:00:00Z",
+      "duration": "00:17:05.6450000",
+      "explicit": false,
+      "spotifyId": "1ikNLWmcBz3O5Z8QV1kCkc",
+      "appleId": 1000741720713,
+      "subjects": [
+        "His Way Spirit Led Assemblies"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ikNLWmcBz3O5Z8QV1kCkc",
+        "apple": "https://podcasts.apple.com/podcast/leaders-of-secretive-california-cult-charged/id1466080869?i=1000741720713"
+      }
+    }
+  ]
+}

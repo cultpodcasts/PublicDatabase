@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "415e2c15-b869-4671-bbd2-6dd4007e49cf",
+      "title": "236. AC Green Part II",
+      "description": "We are joined again this week by Gavi of The Leaving Eden Podcast to finish up our AC Green series.",
+      "release": "2025-12-17T12:10:41Z",
+      "duration": "02:31:08",
+      "explicit": false,
+      "spotifyId": "13qISTwp4EmyswOEzgvBq3",
+      "appleId": 1000741677776,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/13qISTwp4EmyswOEzgvBq3",
+        "apple": "https://podcasts.apple.com/podcast/236-ac-green-part-ii/id1573190999?i=1000741677776"
+      }
+    },
+    {
       "id": "c1eda899-74d3-4420-9b19-d74c43cb34fb",
       "title": "235. AC Green Part I W/ Gavi from Leaving Eden",
       "description": "This week, Gavi from The Leaving Eden Podcast to talk about evangelical NBA player, AC Green and the cult known as Maranatha Campus Ministries",

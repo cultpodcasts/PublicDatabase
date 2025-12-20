@@ -13,10 +13,12 @@
       "youTubeId": "zG8JB9Mz5zg",
       "subjects": [
         "Israel United in Christ",
-        "Black Hebrew Israelites"
+        "Black Hebrew Israelites",
+        "_London"
       ],
       "urls": {
-        "youtube": "https://www.youtube.com/watch?v=zG8JB9Mz5zg"
+        "youtube": "https://www.youtube.com/watch?v=zG8JB9Mz5zg",
+        "bbc": "https://www.bbc.com/news/av-embeds/49567548/vpid/p07mqwf5"
       }
     }
   ]

@@ -13,12 +13,14 @@
       "explicit": false,
       "spotifyId": "7F14iEKhnro5kI50NFSTZY",
       "appleId": 1000682315171,
+      "youTubeId": "6YLuP_5gTkc",
       "subjects": [
         "International Churches Of Christ"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7F14iEKhnro5kI50NFSTZY",
-        "apple": "https://podcasts.apple.com/podcast/30-how-i-overcame-my-narcissistic-patterns-and/id1740207191?i=1000682315171"
+        "apple": "https://podcasts.apple.com/podcast/30-how-i-overcame-my-narcissistic-patterns-and/id1740207191?i=1000682315171",
+        "youtube": "https://www.youtube.com/watch?v=6YLuP_5gTkc"
       }
     }
   ]

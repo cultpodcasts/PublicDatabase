@@ -30,6 +30,7 @@
       "release": "2025-06-24T01:00:00Z",
       "duration": "00:54:02.3180000",
       "explicit": false,
+      "spotifyId": "59w2AbIbftF8QMRZ5x5LPm",
       "appleId": 1000714274598,
       "subjects": [
         "Providence",
@@ -37,6 +38,7 @@
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/59w2AbIbftF8QMRZ5x5LPm",
         "apple": "https://podcasts.apple.com/podcast/how-i-became-a-brainwashed-cult-bride/id94688506?i=1000714274598"
       }
     }

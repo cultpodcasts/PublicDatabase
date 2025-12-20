@@ -1,0 +1,25 @@
+{
+  "id": "787f760c-72c8-42f8-b7cc-0a3b9e5cda0b",
+  "name": "The spiked podcast",
+  "spotifyId": "3lqKAh7WX6F1kGU1mo0U6e",
+  "appleId": 883247497,
+  "youTubeChannelId": "UCRK4_2FGAAmajCaB8ZefJHw",
+  "youTubePlaylistId": "PLVn-8t2Os9w7fUG45a7TKtLPj6UaprAjD",
+  "episodes": [
+    {
+      "id": "425edad0-04ad-44ea-b950-6a76e7d8899d",
+      "title": "How Sandie Peggie took on the trans cult",
+      "description": "Ella Whelan, Tom Slater and Fraser Myers on the battle for women\u2019s spaces.\n\nThis is a clip from the latest episode of the spiked podcast. Watch the full thing here: anva.com/design/DAGc8PXodxo/OsNYk949n-6HQcEDNcMQww/edit\n\n*About spiked:*\n\nFounded in 2000, _spiked_ was a pioneer of 21st-century journalism \u2013 the first online-only political magazine in the UK. \n\nNow edited by Tom Slater, _spiked_ reaches millions around the world with hard-hitting articles, incisive essays and a growing roster of podcasts and videos.\n\nThe _spiked_ story so far: https://youtu.be/JwulwsiwmKo?si=bZbvKE269MxTk3KE \n\n*Support spiked:*\n\nWe would not exist without the support of our audience. Our donation-funded model means we have no corporate ties or interests to appease.\n\nBecome a supporter: https://www.spiked-online.com/support/\n\n*Sign up to our newsletters:*\nhttps://www.spiked-online.com/newsletters/",
+      "release": "2025-12-13T15:30:41Z",
+      "duration": "00:13:19",
+      "explicit": false,
+      "youTubeId": "uG_ZMKsnhwI",
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=uG_ZMKsnhwI"
+      }
+    }
+  ]
+}

@@ -3,7 +3,46 @@
   "name": "Moms and Mysteries: A True Crime Podcast",
   "spotifyId": "303T7nUCtV8DnNid7PC4Ea",
   "appleId": 1261679921,
+  "youTubeChannelId": "UCXSpWirZTuThDvIyPE8sxNg",
   "episodes": [
+    {
+      "id": "c48e50f6-ccf3-4d16-ace8-d8c2b9e456d7",
+      "title": "NXIVM: Justice \u002B Allison After NXIVM (Part 2)",
+      "description": "The polished facade of NXIVM has shattered, and in Part 2, we take you inside the federal courthouse where its leaders finally face justice. We explore the harrowing trial of Keith Raniere, built on the brave testimony of the women who escaped his control. From the secret master-slave sorority known as DOS to the shocking details of branding, blackmail, and psychological abuse, the full truth of the cult is laid bare. We cover the verdicts, the sentences, and the downfall of the man who called himself \u0022Vanguard.\u0022 But what happens after the headlines fade? To discuss the case\u0027s complex legacy, we are joined by a special guest: Natalie, the host of the popular podcast \u0022Allison After NXIVM.\u0022 She shares her unique insights into the story, the people involved, and the long road to recovery for those who lived through it. Find more information about \u0022Allison After NXIVM\u0022 here Thank you to this week\u0027s sponsors! IQBAR is offering our special podcast listeners 20% off all IQBAR products\u2014including the sampler pack\u2014plus FREE shipping. Text MOMS to 64000. Message and data rates may apply. See terms for details. Give the gift of confidence this holiday season with Nutrafol. Right now, Nutrafol is offering our listeners $10 off your first month\u0027s subscription plus free shipping when you go to Nutrafol.com com and use promo code MOMS. It\u0027s time to get your own personal stylist with DailyLook. Head to DailyLook.com to take your style quiz and use code MOMS for 50% off your first order. #truecrime #truecrimepodcast #momsandmysteries #nxivm #keithraniere #trial #dos #allisonafternxivm #justice #cult New episodes every Tuesday and Thursday! Follow us on Instagram: @momsandmysteries Join our Patreon: \u2060patreon.com/momsandmysteries \u2060 Visit our website: \u2060momsandmysteries.com",
+      "release": "2025-12-18T05:00:00Z",
+      "duration": "01:16:08.7380000",
+      "explicit": false,
+      "spotifyId": "332qUQQu81WRYobMd9iOoL",
+      "appleId": 1000741789826,
+      "youTubeId": "5DWhX1Njwsc",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/332qUQQu81WRYobMd9iOoL",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-justice-allison-after-nxivm-part-2/id1261679921?i=1000741789826",
+        "youtube": "https://www.youtube.com/watch?v=5DWhX1Njwsc"
+      }
+    },
+    {
+      "id": "23c4c978-375a-49dc-a7b3-5660bcbed0d5",
+      "title": "NXIVM: The Promise of Empowerment (Part 1)",
+      "description": "Imagine thinking you signed up for a self-improvement course, only to wake up inside a secret hierarchy where starvation, blackmail, and branding were sold as empowerment. This is the story of NXIVM, the so-called leadership program that unraveled into one of the most disturbing criminal enterprises in modern history. In Part 1, we pull back the curtain on how Keith Raniere, a man who called himself \u0022Vanguard,\u0022 and his partner Nancy Salzman built a multi-million dollar empire on the promise of human potential. We explore the early days of their Executive Success Programs (ESP), the manipulative techniques used to lure in thousands of followers\u2014including celebrities and business leaders\u2014and the slow, deliberate process of indoctrination. How did a group that started with corporate retreats and PowerPoint presentations devolve into a destructive cult? We trace the origins of the abuse, the creation of a master-slave sorority, and the psychological tactics that kept its members loyal, even as the darkness closed in. Thank you to this week\u0027s sponsors! Find gifts so good you\u0027ll want to keep them with Quince! Go to Quince.com/moms for free shipping on your order and 365-day returns. Now available in Canada, too. Head to Wayfair.com right now to shop all things home. #truecrime #truecrimepodcast #momsandmysteries #nxivm #keithraniere #cult #nancysalzman #selfhelp #esp #vanguard New episodes every Tuesday and Thursday! Follow us on Instagram: @momsandmysteries Join our Patreon: patreon.com/momsandmysteries Visit our website: momsandmysteries.com",
+      "release": "2025-12-16T05:00:00Z",
+      "duration": "00:50:26.3110000",
+      "explicit": false,
+      "spotifyId": "4GKVytrqfHKVtgV7JUspq6",
+      "appleId": 1000741473179,
+      "youTubeId": "eYPjQnKPTyo",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4GKVytrqfHKVtgV7JUspq6",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-the-promise-of-empowerment-part-1/id1261679921?i=1000741473179",
+        "youtube": "https://www.youtube.com/watch?v=eYPjQnKPTyo"
+      }
+    },
     {
       "id": "e46478f3-b0b2-4445-b429-6aca11556f7a",
       "title": "The Krugersdorp Killings: Cult, Con Artists, and the Woman Who Claimed to Speak for God",
@@ -13,12 +52,14 @@
       "explicit": false,
       "spotifyId": "1PXsXhVAzkSpTsomTMjW8h",
       "appleId": 1000732754044,
+      "youTubeId": "Tw-vICO4D3Q",
       "subjects": [
         "Electus per Deus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1PXsXhVAzkSpTsomTMjW8h",
-        "apple": "https://podcasts.apple.com/podcast/the-krugersdorp-killings-cult-con-artists-and-the/id1261679921?i=1000732754044"
+        "apple": "https://podcasts.apple.com/podcast/the-krugersdorp-killings-cult-con-artists-and-the/id1261679921?i=1000732754044",
+        "youtube": "https://www.youtube.com/watch?v=Tw-vICO4D3Q"
       }
     }
   ]

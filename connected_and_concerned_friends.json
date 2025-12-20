@@ -4,6 +4,20 @@
   "youTubeChannelId": "UCwWrCryuLBlmvjCcydtAUwg",
   "episodes": [
     {
+      "id": "6c58bdcd-1a13-4710-9476-7e3cb87c85d5",
+      "title": "Personal Story : James Mitchell",
+      "release": "2025-12-13T16:52:38Z",
+      "duration": "00:45:02",
+      "explicit": false,
+      "youTubeId": "EZlOem4meJk",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=EZlOem4meJk"
+      }
+    },
+    {
       "id": "f32965f7-4ae1-4e41-9e31-31584d6922eb",
       "title": "Personal Story : Susanna Matingou",
       "release": "2025-12-06T20:24:10Z",

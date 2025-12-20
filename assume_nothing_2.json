@@ -5,6 +5,24 @@
   "appleId": 1540321271,
   "episodes": [
     {
+      "id": "6737c3d9-d663-4712-b31b-55e341d9329c",
+      "title": "Episode 14: Curiosities",
+      "description": "A woman says she\u0027s visited by men who she says tell her there is no point in pursuing Jonathan Creswell after she reported him for stealing her horse. Another is told police couldn\u0027t arrest him when she\u0027d reported him for indecent exposure at the yard where they worked. And for the first time, journalist Tanya Fowles reveals details of a call she received trying to put her off the story.",
+      "release": "2025-12-20T13:00:00Z",
+      "duration": "00:13:16.4990000",
+      "explicit": true,
+      "spotifyId": "4WKGDpII7tNqbWCSllNWEM",
+      "appleId": 1000742109153,
+      "subjects": [
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4WKGDpII7tNqbWCSllNWEM",
+        "apple": "https://podcasts.apple.com/podcast/episode-14-curiosities/id1540321271?i=1000742109153",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002n7jv"
+      }
+    },
+    {
       "id": "aafe38ee-13ba-46cc-97e5-7daf5d8c9cf8",
       "title": "Episode 13: Do the Right Thing",
       "description": "Detective Sergeant James Brannigan has one last chance to convince his bosses to launch an investigation into Katie\u0027s death. Working on his own, he compiles a 20-page report of all the evidence so far. He says there are questions that need answers. He hopes senior officers will now decide the death needs to be looked at by a Major Investigations Team. But it is only when a young officer speaks up that the decision to have another look is made.",

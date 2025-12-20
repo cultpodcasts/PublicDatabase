@@ -4,6 +4,23 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "b06b3a1d-2d00-46d5-9e14-5960d04c8cbf",
+      "title": "EP# 152 ~ Por qu\u00E9 y c\u00F3mo me sal\u00ED del Opus Dei Cap\u00EDtulo 1 ~ Castalio 8/7/2009",
+      "description": "Por qu\u00E9 y c\u00F3mo me sal\u00ED del Opus Dei",
+      "release": "2025-12-16T00:00:00",
+      "duration": "00:15:03.7430000",
+      "explicit": false,
+      "spotifyId": "5Z3y4tNDDwkPywtEmFTBKE",
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Z3y4tNDDwkPywtEmFTBKE"
+      }
+    },
+    {
       "id": "377fb558-58ae-454f-845c-94682f6cc1b3",
       "title": "EP# 151 ~ SECTAS DESTRUCTIVAS y opus dei ~ escriBa 28/4/2006",
       "description": "SECTAS DESTRUCTIVAS y opus dei",

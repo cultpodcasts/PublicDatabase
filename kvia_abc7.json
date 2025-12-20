@@ -1,0 +1,22 @@
+{
+  "id": "ed41ed3d-2dc9-46a1-8607-624064975bcc",
+  "name": "KVIA ABC-7",
+  "youTubeChannelId": "UCu3-J9APpJZlz_RF_zkoyJg",
+  "episodes": [
+    {
+      "id": "9b566262-8b3c-41ca-bb9c-1880fee6548a",
+      "title": "ABC-7 AT 4: 764",
+      "description": "Read more: https://kvia.com",
+      "release": "2025-12-19T07:00:38Z",
+      "duration": "00:03:21",
+      "explicit": false,
+      "youTubeId": "btWpouzJORo",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=btWpouzJORo"
+      }
+    }
+  ]
+}
