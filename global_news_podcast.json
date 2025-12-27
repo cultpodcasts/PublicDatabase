@@ -1,0 +1,42 @@
+{
+  "id": "fa05814c-d75e-45c6-9a70-54c2786ed886",
+  "name": "BBC Global News Podcast",
+  "spotifyId": "3wBfqov60qDZbEVjPHo0a8",
+  "appleId": 135067274,
+  "episodes": [
+    {
+      "id": "3803c26f-e0ad-4bda-b04a-12c6119057b7",
+      "title": "Epstein files: New revelations about Trump",
+      "description": "In a newly released email, a US government investigator says that President Donald Trump flew on Jeffrey Epstein\u2019s plane many more times than was previously reported. Also: Ukraine says it\u0027s suffering widespread power cuts after another night of deadly Russian air attacks; US regulators approve a pill version of the weight loss drug Wegovy; we hear what it\u0027s like to have a baby in Bethlehem; and how can you ensure that you\u0027ll keep your New Year\u0027s resolutions? The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health \u2013 we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk Picture Credit: US Department of Justice/PA",
+      "release": "2025-12-23T16:43:00Z",
+      "duration": "00:29:45.6520000",
+      "explicit": false,
+      "spotifyId": "5Cop3TsCQT7MKlRKHrcxTL",
+      "appleId": 1000742486785,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Cop3TsCQT7MKlRKHrcxTL",
+        "apple": "https://podcasts.apple.com/podcast/epstein-files-new-revelations-about-trump/id135067274?i=1000742486785"
+      }
+    },
+    {
+      "id": "8d079c94-e5ee-48a8-9a48-411283685e45",
+      "title": "First batch of Epstein files released",
+      "description": "After months of political wrangling, parts of the long-awaited Epstein files have been released by the US Justice Department. The trove consists of thousands of documents related to the late sex-offender. Pictures include the former US President Bill Clinton, Andrew Mountbatten-Windsor - Britain\u0027s former prince, musicians Mick Jagger and Michael Jackson. Being named or pictured in the files is not an indication of wrongdoing. The justice department did not release all existing files, and the published ones were heavily redacted, prompting frustrated reactions from survivors of Epstein\u0027s abuse. Also: the US carries out dozens of strikes against the Islamic State group in Syria. Anti-government youth protesters in South Korea are taking cues from the American right\u0027s MAGA movement. Italy announces a fee for tourists to visit the Trevi Fountain in Rome. Putin vows revenge on Ukraine after an oil tanker was blown up in the Mediterranean Sea. Palestinians tell the BBC they were sexually abused in Israeli prisons. And how a lost radio play by Tennessee Williams was found more than four decades after his death, and has now been heard for the first time. The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health \u2013 we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
+      "release": "2025-12-20T04:51:00Z",
+      "duration": "00:31:57.9100000",
+      "explicit": false,
+      "spotifyId": "7K0oaGQc0sXt66JO0wZPTY",
+      "appleId": 1000742079643,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7K0oaGQc0sXt66JO0wZPTY",
+        "apple": "https://podcasts.apple.com/podcast/first-batch-of-epstein-files-released/id135067274?i=1000742079643"
+      }
+    }
+  ]
+}

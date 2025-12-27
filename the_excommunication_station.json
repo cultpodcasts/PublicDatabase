@@ -5,6 +5,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "989bbcb2-25b4-472d-9b89-4788e113907f",
+      "title": "LOST EPISODE: 234: Ron Ormond",
+      "description": "Newer episode that was taken down.",
+      "release": "2025-12-27T17:45:21Z",
+      "duration": "01:51:53.4950000",
+      "explicit": true,
+      "spotifyId": "5yqnT5XnQ0xoK1H4LVK195",
+      "appleId": 1000742883385,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5yqnT5XnQ0xoK1H4LVK195",
+        "apple": "https://podcasts.apple.com/podcast/lost-episode-234-ron-ormond/id1573190999?i=1000742883385"
+      }
+    },
+    {
+      "id": "c83a5f67-d9ce-429e-890a-614b4068be07",
+      "title": "237. Pastor Ed W/ Josiah Hesse",
+      "description": "This week, we have Josiah Hesse back on to discuss his new book, On Fire For God, and the strange tail of Pastor Edmund Lopes.",
+      "release": "2025-12-23T05:02:00Z",
+      "duration": "01:47:29.9460000",
+      "explicit": true,
+      "spotifyId": "47iEPh4UAEIeVQDXmwEMj7",
+      "appleId": 1000742418925,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/47iEPh4UAEIeVQDXmwEMj7",
+        "apple": "https://podcasts.apple.com/podcast/237-pastor-ed-w-josiah-hesse/id1573190999?i=1000742418925"
+      }
+    },
+    {
       "id": "415e2c15-b869-4671-bbd2-6dd4007e49cf",
       "title": "236. AC Green Part II",
       "description": "We are joined again this week by Gavi of The Leaving Eden Podcast to finish up our AC Green series.",

@@ -1,0 +1,37 @@
+{
+  "id": "9777c8d4-6b90-4384-8589-c5e18960a3f7",
+  "name": "swilliamism",
+  "youTubeChannelId": "UCldfvyaPuBSpw8iDmUgZwnA",
+  "episodes": [
+    {
+      "id": "81798abf-7937-45b7-b538-01a4168d14d8",
+      "title": "Hidden in Plain Sight: The Cult Next Door",
+      "description": "There are a lot of Masons in London. An awful lot. In fact, London outranks every other place on Earth in terms of the density of Freemasons",
+      "release": "2025-12-26T17:00:29Z",
+      "duration": "00:32:26",
+      "explicit": false,
+      "youTubeId": "CBy8f7HRT-I",
+      "subjects": [
+        "_London"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=CBy8f7HRT-I"
+      }
+    },
+    {
+      "id": "8e96a212-dbe1-4fb6-b2fd-b8fc142435b6",
+      "title": "Occult Symbols in London",
+      "description": "De(duck)tion",
+      "release": "2015-04-23T22:56:25Z",
+      "duration": "00:25:07",
+      "explicit": false,
+      "youTubeId": "5ARIQLgwvGc",
+      "subjects": [
+        "_London"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5ARIQLgwvGc"
+      }
+    }
+  ]
+}

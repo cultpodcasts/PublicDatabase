@@ -1,0 +1,23 @@
+{
+  "id": "f524c733-65b7-4c99-ae49-c2c55fa4fc4b",
+  "name": "The World Today",
+  "appleId": 297778505,
+  "episodes": [
+    {
+      "id": "407c02c7-e02f-4c4e-b0ce-8cdde2bdc08c",
+      "title": "Fighting radicalisation in young people",
+      "description": "As part of its reforms the federal government wants to introduce a new aggravating offence aimed at adults who seek to radicalise and influence children.\n\nThe Attorney General Michelle Rowland says since 2001, 120 people have been convicted of terrorism offences and ten of them were children.\n\nDr Levi West is an internationally recognised authority on terrorism and counter-terrorism and has been researching radicalisation.",
+      "release": "2025-12-23T01:30:00Z",
+      "duration": "00:25:28",
+      "explicit": false,
+      "appleId": 1000742404463,
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/nsw-laws-set-for-court-challenge/id297778505?i=1000742404463"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "43847fa5-ae4b-41fc-b71c-cd5b6f300846",
+  "name": "Start Here",
+  "spotifyId": "6f1qkZMOcZqT5UkPqG4U7L",
+  "appleId": 1355180130,
+  "youTubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+  "youTubePlaylistId": "PLQOa26lW-uI-uZ7wLxisxt_yg3Pta-NkL",
+  "episodes": [
+    {
+      "id": "dbf11eb5-520d-4b15-98af-e9c9ff7fa6e8",
+      "title": "Epstein Files: Investigating Potential \u2018Co-Conspirators\u2019",
+      "description": "The DOJ releases a new tranche of Jeffrey Epstein files. A new report shows the economy has been growing faster than anticipated. And Californians prep for severe flooding on Christmas. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2025-12-24T10:30:00Z",
+      "duration": "00:30:14.2040000",
+      "explicit": false,
+      "spotifyId": "4zax5fym7kklyQphKqHHov",
+      "appleId": 1000742579818,
+      "youTubeId": "W7IhGUyFRy4",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4zax5fym7kklyQphKqHHov",
+        "apple": "https://podcasts.apple.com/podcast/epstein-files-investigating-potential-co-conspirators/id1355180130?i=1000742579818",
+        "youtube": "https://www.youtube.com/watch?v=W7IhGUyFRy4"
+      }
+    }
+  ]
+}

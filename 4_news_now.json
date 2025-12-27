@@ -1,0 +1,22 @@
+{
+  "id": "288e275e-2a6d-48d9-9fdd-88b55b36633c",
+  "name": "4 News Now",
+  "youTubeChannelId": "UCyw-NpaizmAD_5qQJ4MieVg",
+  "episodes": [
+    {
+      "id": "3cbcc4c1-939d-4cb6-9845-737a71ec4fa6",
+      "title": "Survivors seek answers as DOJ reviews Epstein Files",
+      "release": "2025-12-25T03:33:50Z",
+      "duration": "00:02:35",
+      "explicit": false,
+      "youTubeId": "_NSmfJF9pe0",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_NSmfJF9pe0"
+      }
+    }
+  ]
+}

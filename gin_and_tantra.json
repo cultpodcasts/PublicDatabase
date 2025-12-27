@@ -6,6 +6,25 @@
   "youTubeChannelId": "UCV8Bci_ybARSmvAbFLtk17w",
   "episodes": [
     {
+      "id": "bd6ad6bd-978f-43c7-a7e8-ba5c52ce5b22",
+      "title": "Faith, Doubt and the Shadows of Belief",
+      "description": "in this episode, we step into the tension between faith and doubt, tradition and evolution, and devotion and toxicity in religious tradition. We examine how religion changes overtime and what happens when living faith hardens into ideology.",
+      "release": "2025-12-23T16:16:22Z",
+      "duration": "00:46:58.6020000",
+      "explicit": true,
+      "spotifyId": "5yy3wbv0Zn4sBdtCY0PoqP",
+      "appleId": 1000742484868,
+      "youTubeId": "qPTEi9rMPjE",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5yy3wbv0Zn4sBdtCY0PoqP",
+        "apple": "https://podcasts.apple.com/podcast/faith-doubt-and-the-shadows-of-belief/id1522699382?i=1000742484868",
+        "youtube": "https://www.youtube.com/watch?v=qPTEi9rMPjE"
+      }
+    },
+    {
       "id": "63b84ce2-ea5f-499b-bc66-c2013a4fd6b9",
       "title": "Breaking the Spell of Division",
       "description": "In this episode we discuss overcoming division, unifying with friends, agreeing to disagree, vulnerability and doing it in person.",

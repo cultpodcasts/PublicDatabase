@@ -1,0 +1,22 @@
+{
+  "id": "ba9c732d-139f-4df4-9c45-d801d7e5d478",
+  "name": "Life Will Be the Death of Me with Chelsea Handler",
+  "spotifyId": "36dG1lyd2BWhDrt8jITbdd",
+  "appleId": 1462096941,
+  "episodes": [
+    {
+      "id": "0fab7e69-c913-4662-ba78-cff7eb1b79f8",
+      "title": "Having a Felch with Toni Collette",
+      "description": "Actress Toni Collette (Wayward, Goodbye June) joins Chelsea to talk about ... finding her inner creep for her role as a cult leader. ",
+      "release": "2025-12-25T08:05:00Z",
+      "duration": "00:51:25.4010000",
+      "explicit": true,
+      "spotifyId": "3t78zi25joVzWfTibZTvuF",
+      "appleId": 1000742675136,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3t78zi25joVzWfTibZTvuF",
+        "apple": "https://podcasts.apple.com/podcast/having-a-felch-with-toni-collette/id1462096941?i=1000742675136"
+      }
+    }
+  ]
+}
