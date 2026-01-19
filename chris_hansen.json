@@ -1,8 +1,30 @@
 {
   "id": "f2ae4274-7a5f-4651-860c-2ab9a686d0c7",
-  "name": "Chris Hansen",
+  "name": "Have A Seat with Chris Hansen",
+  "spotifyId": "6ia78zSNRXH9n35pd4yNYf",
+  "appleId": 1543252280,
   "youTubeChannelId": "UCgKTJAN-IrVyX-jIJ5INEhA",
   "episodes": [
+    {
+      "id": "c78fb3ca-7d92-4a25-ba41-8beb89f9c751",
+      "title": "Epstein Survivor Reveals SHOCKING Details About Human Trafficking Experience",
+      "description": "On this episode of Have a Seat with Chris Hansen, Chris is joined by Jeffery Epstein victim and survivor Juliette Bryant. Bryant recounts, in disturbing detail, meeting Epstein and other high profile figures, what happened when he and his staff took her from South Africa to the U.S., and her time on both Epstein\u2019s private Caribbean island and ranch in New Mexico.  Bryant also shares rarely seen photos and reveals how life is for her today.  \n\nPhoto Credits\nhttps://x.com/JulietteBryant\nanniefarmer.com / Rob Bergman\n\nHave A Seat with Chris Hansen\u2014the all-new platform from America\u2019s most relentless crime fighting journalist.\n \nEvery Monday, Hansen takes you back inside the stings that shocked the nation on Predators I\u2019ve Caught\u2014with never-before-heard details and new revelations.  Sponsored by Home Title Lock, 24/7 monitoring to detect any tampering with your title or mortgage.  And by TruthFinder.com.  To get the answers you\u2019re looking for and to discover information on potential predators, go to www.TruthFinder.com/predator   Biographies of our predators are found at To Catch A Predator Wiki.\n \nThen, pull up a chair on Wednesday for Have A Seat with Chris Hansen, his weekly in-depth interview series where the biggest names in law enforcement, justice, and survival tell their stories.\n \nTwo shows. One mission. Have A Seat with Chris Hansen. Relentless. Uncompromising. Always watching.\n \nChris Hansen Bio\nI have been a reporter and Author for more nearly 40 years. I have tackled some of the toughest topics in some of the most difficult places. From Local News in Detroit Michigan, to Dateline NBC, to Investigation discovery, to Crime Watch Daily I am back on my new show, exclusively on TruBlu Streaming Network called Takedown With Chris Hansen. Check it out at https://www.watchtrublu.com Thank you everyone for your continued support!\n\nTruBluwatchtrublu.com\nTwitter twitter.com/chrishansen\nInstagram instagram.com/officialchrishansen\nFacebook: facebook.com/HaveASeatWithChrisHansen\nBluesky: bsky.app/profile/realchrishansen.bsky.social",
+      "release": "2026-01-14T19:30:06Z",
+      "duration": "00:43:59",
+      "explicit": false,
+      "spotifyId": "1qKWer6AIxjj3WbZsAK1mB",
+      "appleId": 1000745088068,
+      "youTubeId": "HnlhJZPEaRk",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1qKWer6AIxjj3WbZsAK1mB",
+        "apple": "https://podcasts.apple.com/podcast/epstein-survivor-reveals-shocking-details-about-human/id1543252280?i=1000745088068",
+        "youtube": "https://www.youtube.com/watch?v=HnlhJZPEaRk"
+      }
+    },
     {
       "id": "c061c2c6-7846-433b-a04b-27f9bfa1cf52",
       "title": "\u0022It\u0027s Devastating\u0022 - Epstein Survivor on Ghislaine Maxwell\u0027s \u0022Special Treatment\u0022",
@@ -26,12 +48,36 @@
       "release": "2025-12-24T19:30:06Z",
       "duration": "00:34:07",
       "explicit": false,
+      "spotifyId": "7IOqURNCZU70n5GjM2GkRg",
+      "appleId": 1000742550738,
       "youTubeId": "cphxqZfqq70",
       "subjects": [
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7IOqURNCZU70n5GjM2GkRg",
+        "apple": "https://podcasts.apple.com/podcast/trafficking-is-a-global-epidemic-epstein-survivors/id1543252280?i=1000742550738",
         "youtube": "https://www.youtube.com/watch?v=cphxqZfqq70"
+      }
+    },
+    {
+      "id": "e27398f0-4d6d-4b54-8247-fab0a923b00b",
+      "title": "Inside Epstein\u2019s network: Why justice failed victims for decades | Marci Hamilton | Have A Seat Ep. 15",
+      "description": "On this episode, Chris Hansen has a seat with Child USA Founder and CEO, Professor Marci Hamilton, a leading expert on clergy sex abuse and child sex abuse statutes of limitation. As author of Justice Denied: What America Must Do to Protect Its Children, Hamilton is at the forefront of crimes against children reform in the United States. Hansen and Hamilton dive into the Jeffrey Epstein and Ghislaine Maxwell cases, what the public can hope to learn when the full files are released and how we must put victims first, no matter how much time as passed when crimes against them were committed. Home Title Lock: Go to https://hometitlelock.com/chrishansen and use promo code HANSEN to get a FREE title history report and a FREE TRIAL of their Triple Lock Protection! For details visit https://hometitlelock.com/warranty ExpressVPN: Go to https://expressvpn.com/CHRISHANSEN and find out how you can get up to 4 extra months thanks to our sponsor, ExpressVPN! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-12-10T05:01:00Z",
+      "duration": "00:46:48.2410000",
+      "explicit": false,
+      "spotifyId": "42jEbkGlxuN4MCvlE3edHk",
+      "appleId": 1000740540815,
+      "youTubeId": "HRPBcFmVhdI",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/42jEbkGlxuN4MCvlE3edHk",
+        "apple": "https://podcasts.apple.com/podcast/inside-epsteins-network-why-justice-failed-victims/id1543252280?i=1000740540815",
+        "youtube": "https://www.youtube.com/watch?v=HRPBcFmVhdI"
       }
     }
   ]

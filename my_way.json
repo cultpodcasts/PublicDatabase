@@ -1,0 +1,22 @@
+{
+  "id": "440b6d78-e078-4e1e-90e0-dbd1a172d234",
+  "name": "My Way",
+  "youTubeChannelId": "UClk_yzcCKOvebKLf9YNK1mQ",
+  "episodes": [
+    {
+      "id": "b58d5794-59a5-493c-a1da-7658f05bb602",
+      "title": "How I Lost Myself to a Cult",
+      "description": "Hii! This is my first video using my own voice. Sorry for the pronounciation, English is not my first language. \nIf you have recently left a high control group. This is for you!",
+      "release": "2026-01-02T03:44:36Z",
+      "duration": "00:07:17",
+      "explicit": false,
+      "youTubeId": "3_-yoQgQh5Q",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3_-yoQgQh5Q"
+      }
+    }
+  ]
+}

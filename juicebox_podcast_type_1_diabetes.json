@@ -1,0 +1,42 @@
+{
+  "id": "4b7e1c3a-4459-44ae-a5c3-796c87db0ffd",
+  "name": "Juicebox Podcast: Type 1 Diabetes",
+  "spotifyId": "6FwAQqskhhjzvvoVvKa7rd",
+  "appleId": 962416631,
+  "episodes": [
+    {
+      "id": "55a19d86-98cc-4ddd-abf7-305f1a32d295",
+      "title": "#1735 To The Moon And Back - Part 2",
+      "description": "In Part 2, Laurel shares her son\u0027s diagnosis story and explores how growing up in a cult impacts her approach to parenting and diabetes management.",
+      "release": "2026-01-12T05:01:00Z",
+      "duration": "00:51:05.2080000",
+      "explicit": false,
+      "spotifyId": "2L0DVqMIDis6iyKXDMzPdb",
+      "appleId": 1000744757977,
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2L0DVqMIDis6iyKXDMzPdb",
+        "apple": "https://podcasts.apple.com/podcast/1735-to-the-moon-and-back-part-2/id962416631?i=1000744757977"
+      }
+    },
+    {
+      "id": "5c6b8624-85bf-49d1-ba23-5709d2db4135",
+      "title": "#1733 To The Moon And Back - Part 1",
+      "description": "Born into the Unification Church, Laurel candidly discusses growing up in a cult, mass weddings, and why she eventually left to protect her children. This is Part 1 of 2.",
+      "release": "2026-01-10T05:01:00Z",
+      "duration": "00:52:34.7290000",
+      "explicit": false,
+      "spotifyId": "42nAr7iUYf1xMC2QSaa7LV",
+      "appleId": 1000744559867,
+      "subjects": [
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/42nAr7iUYf1xMC2QSaa7LV",
+        "apple": "https://podcasts.apple.com/podcast/1733-to-the-moon-and-back-part-1/id962416631?i=1000744559867"
+      }
+    }
+  ]
+}

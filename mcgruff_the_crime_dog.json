@@ -1,0 +1,44 @@
+{
+  "id": "7c069d4c-38a4-449b-9761-9a1c554db146",
+  "name": "True Crime Prevention Podcast",
+  "spotifyId": "4wKLQUO52CXyS1W9kVGQd4",
+  "appleId": 1821901931,
+  "youTubeChannelId": "UCPlwhtmov3g3iogtiCw4HWA",
+  "episodes": [
+    {
+      "id": "7b170a88-ad8e-46da-90c7-5de93fb61750",
+      "title": "Gabby Petito\u0027s Mother Speaks Out | True Crime Prevention Podcast",
+      "description": "When 22-year-old Gabby Petito went missing during a cross-country road trip, the nation watched \u2014 and mourned \u2014 as her story became a tragic symbol of intimate partner violence hiding in plain sight.\n\nIn this powerful and deeply personal episode of the True Crime Prevention Podcast, we are joined by Gabby\u2019s mother, Nichole Schmidt, who speaks candidly about Gabby\u2019s life, the warning signs that were missed, and the urgent lessons every family, friend, and community needs to hear.\n\nThis conversation goes beyond headlines and true crime curiosity. Niki shares how Gabby\u2019s story has become a mission \u2014 raising awareness about domestic violence, coercive control, and early red flags, and empowering others to speak up before it\u2019s too late.\n\n\uD83D\uDD39 What warning signs should never be ignored\n\uD83D\uDD39 How loved ones can intervene safely\n\uD83D\uDD39 What Gabby\u2019s case reveals about gaps in awareness and response\n\uD83D\uDD39 How prevention, education, and conversation can save lives\n\nGabby\u2019s story should never have ended this way. By listening, learning, and acting, we can help prevent the next tragedy.\n\nSubscribe for more real stories, real voices, and real solutions to prevent crime before it happens.",
+      "release": "2026-01-08T11:30:00Z",
+      "duration": "00:45:25.5000000",
+      "explicit": false,
+      "spotifyId": "75uqTznDen3uZc3QBEFCJG",
+      "appleId": 1000744281452,
+      "youTubeId": "Envs9wQ0EKA",
+      "subjects": [
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/75uqTznDen3uZc3QBEFCJG",
+        "apple": "https://podcasts.apple.com/podcast/gabby-petitos-mother-speaks-out-true-crime-prevention/id1821901931?i=1000744281452",
+        "youtube": "https://www.youtube.com/watch?v=Envs9wQ0EKA"
+      }
+    },
+    {
+      "id": "7f808204-7768-453e-ae79-49b72cb34e83",
+      "title": "Surviving Jeffrey Epstein: Jess Michaels Tells Her Story",
+      "description": "\u201CThis didn\u2019t happen in secret.\u201D\n\nIn this clip from the True Crime Prevention Podcast, Jess Michaels speaks candidly about her experiences with Jeffrey Epstein \u2014 and the systems, silence, and enablers that allowed the abuse to continue.\n\nThis is not speculation or rumor. This is a survivor\u2019s firsthand account, shared to expose the truth and prevent future exploitation.\n\n\uD83D\uDC49 Watch the full episode for the complete conversation, context, and prevention-focused discussion.\n\nIf you or someone you know is experiencing abuse or exploitation, help is available.\n\n#JeffreyEpstein #JessMichaels #SurvivorStory #TrueCrime #HumanTraffickingAwareness #CrimePrevention #BelieveSurvivors #TrueCrimePodcast",
+      "release": "2026-01-01T17:01:15Z",
+      "duration": "00:15:06",
+      "explicit": false,
+      "youTubeId": "mZR1yCOj8B0",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mZR1yCOj8B0"
+      }
+    }
+  ]
+}

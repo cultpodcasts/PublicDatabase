@@ -4,6 +4,21 @@
   "youTubeChannelId": "UCialgSZ939oOc5xyGEL7jSA",
   "episodes": [
     {
+      "id": "7a792ae5-fafc-4897-9b2d-91fbea5c673d",
+      "title": "1978 Footage -  ABC Jonestown Aftermath at Dover Air Force Base",
+      "description": "ABC Press conference footage of a Dover AFB defense spokesman discussing the arrival of bodies from Jonestown, Guyana. November 23, 1978.",
+      "release": "2025-12-27T22:55:58Z",
+      "duration": "00:14:19",
+      "explicit": false,
+      "youTubeId": "Y7yVHr7pOf8",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Y7yVHr7pOf8"
+      }
+    },
+    {
       "id": "290f7810-3366-4de7-bb5e-d776169a3ba2",
       "title": "Jonestown 10 Years Later | Evening Magazine 1988",
       "description": "1988 Evening Magazine Jonestown anniversary program with Ray Murray and Nancy Glass. Features interviews with Grace Stoen, Jackie Speier, and Tim Reiterman.",

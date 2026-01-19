@@ -6,6 +6,21 @@
   "youTubeChannelId": "UC1ICXUC92McH31ZuvGNhxBw",
   "episodes": [
     {
+      "id": "edc677cf-6ace-43f7-b8e7-8e37ccef4591",
+      "title": "Grid 2: Electric Boogaloo (feat. @FundieFridays )",
+      "description": "Join the channel to get access to ad free early videos \u0026 exclusive content:\nhttps://www.youtube.com/channel/UC1ICXUC92McH31ZuvGNhxBw/join\n\nLet\u0027s connect:\nInstagram: https://www.instagram.com/jordanandmckay\nDiscord: https://discord.gg/zgc9ZsFwZ4\nPatreon: https://www.patreon.com/jordanandmckay\nBluesky: https://bsky.app/profile/jordanandmckay.bsky.social\nTikTok: https://www.tiktok.com/@jordanandmckay?\nBusiness inquiries: jordanandmckay@gmail.com\n\nPodcast format:\nSpotify: http://tinyurl.com/eksfx8dm\nApple: http://tinyurl.com/4navxtwz\n\nSend us mail:\nPO BOX 1196\nBrighton, CO 80601",
+      "release": "2026-01-01T07:44:44Z",
+      "duration": "03:45:28",
+      "explicit": false,
+      "youTubeId": "e8DP4TzvU6o",
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=e8DP4TzvU6o"
+      }
+    },
+    {
       "id": "8ca11d93-8438-4945-af79-e5fb372838cf",
       "title": "Exmormons REACT to New Kevin Franke Interview",
       "description": "You can go to my sponsor https://aura.com/jordanandmckay to try 14 days for free. That\u2019s enough\ntime for Aura to start scrubbing your personal info off these data broker sites, without you\nlifting a finger.\n\nJoin the channel to get access to ad free early videos \u0026 exclusive content:\nhttps://www.youtube.com/channel/UC1ICXUC92McH31ZuvGNhxBw/join\n\nLet\u0027s connect:\nInstagram: https://www.instagram.com/jordanandmckay\nDiscord: https://discord.gg/zgc9ZsFwZ4\nPatreon: https://www.patreon.com/jordanandmckay\nBluesky: https://bsky.app/profile/jordanandmckay.bsky.social\nTikTok: https://www.tiktok.com/@jordanandmckay?\nBusiness inquiries: jordanandmckay@gmail.com\n\nPodcast format:\nSpotify: http://tinyurl.com/eksfx8dm\nApple: http://tinyurl.com/4navxtwz\n\nSend us mail:\nPO BOX 1196\nBrighton, CO 80601",
@@ -42,11 +57,15 @@
       "release": "2025-11-20T01:00:06Z",
       "duration": "01:27:32",
       "explicit": false,
+      "spotifyId": "2rpWNMu6evZoiF7T31Z5zr",
+      "appleId": 1000737274728,
       "youTubeId": "FqF3RMxyOo4",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2rpWNMu6evZoiF7T31Z5zr",
+        "apple": "https://podcasts.apple.com/podcast/new-8-passengers-documentary-behind-the-scenes/id1601498738?i=1000737274728",
         "youtube": "https://www.youtube.com/watch?v=FqF3RMxyOo4"
       }
     },
@@ -57,11 +76,15 @@
       "release": "2025-11-09T02:51:15Z",
       "duration": "01:10:35",
       "explicit": false,
+      "spotifyId": "7jbIwAax6C36Ab59yiq2Dc",
+      "appleId": 1000745505562,
       "youTubeId": "pqgmq2Ti9Ic",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7jbIwAax6C36Ab59yiq2Dc",
+        "apple": "https://podcasts.apple.com/podcast/exmormons-react-to-cringe-mormon-tiktoks/id1601498738?i=1000745505562",
         "youtube": "https://www.youtube.com/watch?v=pqgmq2Ti9Ic"
       }
     },
@@ -72,11 +95,15 @@
       "release": "2025-11-01T00:00:06Z",
       "duration": "00:48:14",
       "explicit": false,
+      "spotifyId": "4xONiaVdXcFVI64wzfWbDM",
+      "appleId": 1000745505684,
       "youTubeId": "GyFSwyJH_SY",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4xONiaVdXcFVI64wzfWbDM",
+        "apple": "https://podcasts.apple.com/podcast/mormons-ghosts-what-do-they-really-believe-some-wild/id1601498738?i=1000745505684",
         "youtube": "https://www.youtube.com/watch?v=GyFSwyJH_SY"
       }
     },
@@ -87,11 +114,15 @@
       "release": "2025-10-18T00:00:06Z",
       "duration": "01:25:04",
       "explicit": false,
+      "spotifyId": "4Q88Y6vt8InMSGIuZQQSuA",
+      "appleId": 1000745505440,
       "youTubeId": "lRBj6qUqeyo",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4Q88Y6vt8InMSGIuZQQSuA",
+        "apple": "https://podcasts.apple.com/podcast/exmormons-react-to-unhinged-mormon-truth-or-dare/id1601498738?i=1000745505440",
         "youtube": "https://www.youtube.com/watch?v=lRBj6qUqeyo"
       }
     },
@@ -102,11 +133,15 @@
       "release": "2025-10-10T00:00:06Z",
       "duration": "01:36:18",
       "explicit": false,
+      "spotifyId": "2qZr4B46xK6BoAbardaZBC",
+      "appleId": 1000745505572,
       "youTubeId": "ih4OJQQ1y9k",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2qZr4B46xK6BoAbardaZBC",
+        "apple": "https://podcasts.apple.com/podcast/exmormons-react-to-mormon-dating-show/id1601498738?i=1000745505572",
         "youtube": "https://www.youtube.com/watch?v=ih4OJQQ1y9k"
       }
     },
@@ -1589,11 +1624,15 @@
       "release": "2023-05-10T19:00:11Z",
       "duration": "01:09:18",
       "explicit": false,
+      "spotifyId": "4OjEDcqz6EE9rid0dubufd",
+      "appleId": 1000612541555,
       "youTubeId": "rM1mIeadgQI",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4OjEDcqz6EE9rid0dubufd",
+        "apple": "https://podcasts.apple.com/podcast/answering-your-questions-about-mormonism-and-us/id1601498738?i=1000612541555",
         "youtube": "https://www.youtube.com/watch?v=rM1mIeadgQI"
       }
     },
@@ -2162,12 +2201,16 @@
       "release": "2022-09-19T19:00:13Z",
       "duration": "01:11:18",
       "explicit": false,
+      "spotifyId": "3YEkpCJSkuN60ADexGvfQZ",
+      "appleId": 1000579968871,
       "youTubeId": "bpaDG_H5eNU",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints",
         "Institute In Basic Life Principles"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3YEkpCJSkuN60ADexGvfQZ",
+        "apple": "https://podcasts.apple.com/podcast/the-duggar-family-and-mormons-more-in-common-than-you-think/id1601498738?i=1000579968871",
         "youtube": "https://www.youtube.com/watch?v=bpaDG_H5eNU"
       }
     },
@@ -2223,11 +2266,15 @@
       "release": "2022-08-29T19:00:15Z",
       "duration": "01:29:49",
       "explicit": false,
+      "spotifyId": "6mGGwQBClfh4UYknr08AH1",
+      "appleId": 1000577716469,
       "youTubeId": "D5BFbN5nq7M",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6mGGwQBClfh4UYknr08AH1",
+        "apple": "https://podcasts.apple.com/podcast/knorpp-and-south-are-no-longer-feminists/id1601498738?i=1000577716469",
         "youtube": "https://www.youtube.com/watch?v=D5BFbN5nq7M"
       }
     },
@@ -2253,11 +2300,15 @@
       "release": "2022-08-22T19:00:09Z",
       "duration": "01:09:27",
       "explicit": false,
+      "spotifyId": "0DysKPsoidelErm4AN20ed",
+      "appleId": 1000576988137,
       "youTubeId": "0J6yfVre2UM",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0DysKPsoidelErm4AN20ed",
+        "apple": "https://podcasts.apple.com/podcast/ex-mormons-break-down-the-second-coming-of-jesus/id1601498738?i=1000576988137",
         "youtube": "https://www.youtube.com/watch?v=0J6yfVre2UM"
       }
     },
@@ -2283,11 +2334,15 @@
       "release": "2022-08-15T19:00:12Z",
       "duration": "01:06:24",
       "explicit": false,
+      "spotifyId": "4N44EV5okvqxuvc7OLZ7l1",
+      "appleId": 1000576167202,
       "youTubeId": "tUDY1Euv5sQ",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4N44EV5okvqxuvc7OLZ7l1",
+        "apple": "https://podcasts.apple.com/podcast/we-joined-a-mormon-dating-app-dating-profile-bio-reactions/id1601498738?i=1000576167202",
         "youtube": "https://www.youtube.com/watch?v=tUDY1Euv5sQ"
       }
     },
@@ -2328,11 +2383,15 @@
       "release": "2022-07-25T19:00:13Z",
       "duration": "01:27:09",
       "explicit": false,
+      "spotifyId": "4xo87j6ilO7fo4xGFPR3E6",
+      "appleId": 1000571133975,
       "youTubeId": "Xbw5O6mVLsM",
       "subjects": [
         "Connexions"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4xo87j6ilO7fo4xGFPR3E6",
+        "apple": "https://podcasts.apple.com/podcast/has-8-passengers-ruby-franke-started-a-cult/id1601498738?i=1000571133975",
         "youtube": "https://www.youtube.com/watch?v=Xbw5O6mVLsM"
       }
     },
@@ -2394,11 +2453,15 @@
       "release": "2022-07-11T19:00:13Z",
       "duration": "01:00:27",
       "explicit": false,
+      "spotifyId": "11y1zdQSyby0xvCblV3EA7",
+      "appleId": 1000569588116,
       "youTubeId": "QwdQVPs3beg",
       "subjects": [
         "Brittany Dawn"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/11y1zdQSyby0xvCblV3EA7",
+        "apple": "https://podcasts.apple.com/podcast/what-in-the-christian-influencer-reacting-to-brittany/id1601498738?i=1000569588116",
         "youtube": "https://www.youtube.com/watch?v=QwdQVPs3beg"
       }
     },

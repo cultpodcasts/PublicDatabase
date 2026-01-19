@@ -1,0 +1,28 @@
+{
+  "id": "9f075d85-2b3b-4ab2-8df2-8cdd604e06b4",
+  "name": "Talk Nerdy with Cara Santa Maria",
+  "spotifyId": "7dqKb3vWJ0bpysM4iuJf6o",
+  "appleId": 832350989,
+  "youTubeChannelId": "UCgHbkA7wofzA9b7_sO3dzJA",
+  "episodes": [
+    {
+      "id": "5cc26334-19ee-4d4d-a079-98a8958c0b0f",
+      "title": "Corporate Sex Cult w/ Ellen Huet",
+      "description": "In this episode of Talk Nerdy, Cara is joined by Bloomberg investigative journalist , and author, Ellen Huet. They discuss her 2025 book about OneTaste, Empire of Orgasm: Sex, Power, and the Downfall of a Wellness Cult . Follow Ellen: @ellenhuet",
+      "release": "2026-01-19T09:04:22Z",
+      "duration": "01:11:54.2000000",
+      "explicit": false,
+      "spotifyId": "65nllYpLWnAGml3HQjz2JD",
+      "appleId": 1000745717809,
+      "youTubeId": "nOQ_aKcQ_IQ",
+      "subjects": [
+        "Onetaste"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/65nllYpLWnAGml3HQjz2JD",
+        "apple": "https://podcasts.apple.com/podcast/corporate-sex-cult-w-ellen-huet/id832350989?i=1000745717809",
+        "youtube": "https://www.youtube.com/watch?v=nOQ_aKcQ_IQ"
+      }
+    }
+  ]
+}

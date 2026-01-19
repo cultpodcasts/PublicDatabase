@@ -1,0 +1,36 @@
+{
+  "id": "8a776c88-e8f0-4c5e-bee3-b4e6230338a5",
+  "name": "TMZ",
+  "youTubeChannelId": "UCK7IIV6Q2junGSdYK3BmZMg",
+  "episodes": [
+    {
+      "id": "99839adb-a165-430e-b6f3-69a72ecbf617",
+      "title": "Celebrity Sex Cult EXPOSED (Graphic) | TMZ",
+      "release": "2026-01-13T00:07:49Z",
+      "duration": "00:07:09",
+      "explicit": false,
+      "youTubeId": "NuY4vAAs4jQ",
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=NuY4vAAs4jQ"
+      }
+    },
+    {
+      "id": "64c2c793-a027-48f7-9db5-701df61f773a",
+      "title": "EPSTEIN FILES BOMBSHELL... This Story Blew Our Minds... | TMZ",
+      "release": "2026-01-10T00:24:56Z",
+      "duration": "00:08:38",
+      "explicit": false,
+      "youTubeId": "ZmbVSn-dAfw",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZmbVSn-dAfw"
+      }
+    }
+  ]
+}

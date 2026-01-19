@@ -4,6 +4,53 @@
   "spotifyId": "6J1dVGgjqqeq7nIyPv7ck3",
   "episodes": [
     {
+      "id": "dd0a55b2-5462-4fd8-9fb2-999164ecc178",
+      "title": "EP# 156 ~ Discernimiento y manipulaci\u00F3n ~ Daneel 29/11/2013",
+      "description": "Discernimiento y manipulaci\u00F3n",
+      "release": "2026-01-14T00:00:00",
+      "duration": "00:05:48.1360000",
+      "explicit": false,
+      "spotifyId": "5mdvMlqJ7XKHdFhUgnYQAq",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5mdvMlqJ7XKHdFhUgnYQAq"
+      }
+    },
+    {
+      "id": "d7c0a913-3660-4a0f-ae4c-fa46db66a630",
+      "title": "EP# 155 ~ Yo estudi\u00E9 en Ayalde ~ Ixthys 31/01/2004",
+      "description": "Yo estudi\u00E9 en Ayalde",
+      "release": "2026-01-07T00:00:00",
+      "duration": "00:06:40.2650000",
+      "explicit": false,
+      "spotifyId": "0S4uKrIgmQTCe8tcJz74MM",
+      "subjects": [
+        "Opus Dei"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0S4uKrIgmQTCe8tcJz74MM"
+      }
+    },
+    {
+      "id": "80b2f0d3-80c8-4c3e-a7a5-8643bbb2ec63",
+      "title": "EP# 154 ~ Por qu\u00E9 y c\u00F3mo me sal\u00ED del Opus Dei Cap\u00EDtulo 3 ~ Castalio 8/7/2009",
+      "description": "Por qu\u00E9 y c\u00F3mo me sal\u00ED del Opus Dei",
+      "release": "2025-12-30T00:00:00",
+      "duration": "00:09:01.3960000",
+      "explicit": false,
+      "spotifyId": "1XKML9Q1MzGFoQ4fzgzL2I",
+      "subjects": [
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1XKML9Q1MzGFoQ4fzgzL2I"
+      }
+    },
+    {
       "id": "b4a2c818-4012-44ba-a29c-bef2cfc3a467",
       "title": "EP# 153 ~ Por qu\u00E9 y c\u00F3mo me sal\u00ED del Opus Dei Cap\u00EDtulo 2 ~ Castalio 8/7/2009",
       "description": "Por qu\u00E9 y c\u00F3mo me sal\u00ED del Opus Dei",

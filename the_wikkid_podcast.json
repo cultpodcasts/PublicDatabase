@@ -5,6 +5,40 @@
   "appleId": 1553393341,
   "episodes": [
     {
+      "id": "9ebe27e8-082a-407c-9c67-8f4ebc4093c6",
+      "title": "Episode 1: The Scorecard",
+      "description": "Subtractive virtue. Trying to live The Good Life by removing things from yours.",
+      "release": "2026-01-18T00:00:00Z",
+      "duration": "00:30:24",
+      "explicit": false,
+      "spotifyId": "5BrbrAf8HO1fOGdJrLFurX",
+      "appleId": 1000745581694,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5BrbrAf8HO1fOGdJrLFurX",
+        "apple": "https://podcasts.apple.com/podcast/episode-1-the-scorecard/id1553393341?i=1000745581694"
+      }
+    },
+    {
+      "id": "26844ab2-bcbd-4a73-ae41-f26cc3f829a8",
+      "title": "Episode 2: Faith, Belief and Indoctrination",
+      "description": "In which I argue that faith isn\u0027t a blind guess, nor it is wishing, and that indoctrination is something others do, for their own benefit, and not yours, to force the appearance of faith when it isn\u0027t occurring. Tom Wadsworth\u0027s views on \u0022worship\u0022 are gone into a bit.",
+      "release": "2026-01-18T00:00:00Z",
+      "duration": "00:59:42",
+      "explicit": false,
+      "spotifyId": "44uk3gL3O7CV4jUROmXRDh",
+      "appleId": 1000745583916,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/44uk3gL3O7CV4jUROmXRDh",
+        "apple": "https://podcasts.apple.com/podcast/episode-2-faith-belief-and-indoctrination/id1553393341?i=1000745583916"
+      }
+    },
+    {
       "id": "2f5d9a4b-ff36-4c01-8242-30899d12c680",
       "title": "Episode 71: In The Eyes Of God",
       "description": "Drums recorded in shipping containers. Jonathan Haidt says we\u0027re 90% chimps and 20% bees. Laws and rules as weaponized disgust responses. Being a different person with an entirely different set of values, priorities and ethics when part of a group, as opposed to as a private individual. The Doctrine of Separation. Taught overtly or only by example, does your group live as if other Christians are in no way connected to them? Barber Shop Quartet mentors. Eating chocolate, reading murder mysteries and staying up all night. Additional Musicians George Turcotte: drums Adam Cavanagh: bass and saxaphone Debbie Michelin: backing vocal",

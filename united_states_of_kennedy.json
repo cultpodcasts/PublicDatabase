@@ -1,0 +1,25 @@
+{
+  "id": "e9bc253a-4162-4799-9f71-41b67162db9b",
+  "name": "United States of Kennedy",
+  "spotifyId": "5CLlVB1sfdmQ4gjJMPsRzq",
+  "appleId": 1822242601,
+  "episodes": [
+    {
+      "id": "4e245b6d-4a16-474d-aba9-3aaf433b140e",
+      "title": "Catholicism and the Kennedys",
+      "description": "The Kennedys are the most famous Catholic family in America, and their religious background shaped both their personal lives and their careers in politics. We\u2019re joined by Matthew Sitman, co-host of the podcast Know Your Enemy, to chat about Joe Kennedy\u2019s complicated relationship with the Catholic Church, anti-Catholic sentiment during JFK\u2019s election, a Gary Wills book on the Kennedys we\u2019ve been devouring, and more. See omnystudio.com/listener for privacy information.",
+      "release": "2026-01-12T11:00:00Z",
+      "duration": "01:04:07.4710000",
+      "explicit": false,
+      "spotifyId": "5gvqlSGfdRJU4G4X0aEoGf",
+      "appleId": 1000744804011,
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5gvqlSGfdRJU4G4X0aEoGf",
+        "apple": "https://podcasts.apple.com/podcast/catholicism-and-the-kennedys/id1822242601?i=1000744804011"
+      }
+    }
+  ]
+}

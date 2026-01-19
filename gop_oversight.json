@@ -1,0 +1,39 @@
+{
+  "id": "744afc8a-79a8-4aa8-9eec-1d4b0c02e8e9",
+  "name": "GOP Oversight",
+  "youTubeChannelId": "UCn8TJ6Tyq2aGvhybME_itDQ",
+  "episodes": [
+    {
+      "id": "69b41b3a-00aa-4edd-b30e-5f492f763735",
+      "title": "BREAKING: Exclusive Footage of Hillary Clinton\u0027s Empty-Chair Deposition on Epstein Investigation",
+      "description": "Learn more at https://oversight.house.gov/",
+      "release": "2026-01-14T20:18:39Z",
+      "duration": "00:07:16",
+      "explicit": false,
+      "youTubeId": "WsObCyj_G7s",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WsObCyj_G7s"
+      }
+    },
+    {
+      "id": "e8a01486-b34f-4699-9c87-73a5ce6968f8",
+      "title": "BREAKING: Exclusive Footage of Bill Clinton\u0027s Empty-Chair Deposition on Epstein Investigation",
+      "description": "Learn more at https://oversight.house.gov/",
+      "release": "2026-01-13T20:53:42Z",
+      "duration": "00:09:04",
+      "explicit": false,
+      "youTubeId": "8_Ai2EbATYw",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8_Ai2EbATYw"
+      }
+    }
+  ]
+}

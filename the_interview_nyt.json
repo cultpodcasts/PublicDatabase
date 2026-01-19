@@ -1,0 +1,43 @@
+{
+  "id": "9979be96-2017-453a-ba35-91d674a7adea",
+  "name": "The Interview (NYT)",
+  "spotifyId": "7cDVEBbn8tM4vCEFM4TFA2",
+  "appleId": 1624946521,
+  "youTubeChannelId": "UCPwWvr4tFnmOLpjzmIbDMgQ",
+  "episodes": [
+    {
+      "id": "82071e9e-b195-4e82-b6a8-383198d6be46",
+      "title": "Tina Brown on Ghislaine Maxwell, the Royals and the Worst People in Media Right Now | The Interview",
+      "description": "Tina Brown was one of the most prominent media figures in the 1980s and \u201990s, serving as the top editor at Vanity Fair and then The New Yorker. She later launched The Daily Beast, which ran one of the first national series on the convicted sex offender Jeffrey Epstein. She answered questions about that coverage, her career, the royal family and more on \u201CThe Interview\u201D with Lulu Garcia-Navarro.\n\nRead more: https://www.nytimes.com/2025/11/15/magazine/tina-brown-interview.html\n\n\u201CThe Interview\u201D features conversations with the world\u2019s most fascinating people. Each week, co-hosts David Marchese and Lulu Garcia-Navarro talk to compelling, influential figures in culture, politics, business, sports and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us. \nSubscribe to \u201CThe Interview\u201D: https://www.youtube.com/@theinterviewpodcast\nSubscribe to New York Times audio: https://bit.ly/3Qz3GZu\nDownload the New York Times app: https://bit.ly/4gZdoip\n#theinterview",
+      "release": "2026-01-03T13:45:09Z",
+      "duration": "00:45:48",
+      "explicit": false,
+      "youTubeId": "X9sfKRdydX0",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=X9sfKRdydX0"
+      }
+    },
+    {
+      "id": "b61f4bd3-1888-4aa4-b5f2-82f1df042e88",
+      "title": "Tina Brown on Epstein, the \u00DCber-Rich and Her Most Burning Resentments",
+      "description": "The longtime editor and chronicler of the elite says she\u2019s liberated and is letting it rip.",
+      "release": "2025-11-15T00:00:00",
+      "duration": "00:48:38.2690000",
+      "explicit": false,
+      "spotifyId": "1B1mR0J0mBpG65yZWxiFCB",
+      "appleId": 1000736852753,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1B1mR0J0mBpG65yZWxiFCB",
+        "apple": "https://podcasts.apple.com/podcast/tina-brown-on-epstein-the-%C3%BCber-rich-and-her-most/id1624946521?i=1000736852753"
+      }
+    }
+  ]
+}

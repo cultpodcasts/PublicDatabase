@@ -1,0 +1,22 @@
+{
+  "id": "351ca5f5-3f8f-4b2c-b931-734bd64efb9f",
+  "name": "Manny\u0027s TV Talk",
+  "youTubeChannelId": "UCx-SnTv7jegleuKF84XYJbw",
+  "episodes": [
+    {
+      "id": "007058c0-e4a2-4a90-97db-3aa1779a940e",
+      "title": "Documentary Exposes Mary Cosby! HORRIBLE Stories: The Cult of the Real Housewife #bravo #rhoslc",
+      "description": "The Cult of the Real Housewife is a new three-part TLC docuseries premiering January 1, 2026, investigating allegations of spiritual and financial misconduct surrounding Mary Cosby, star of The Real Housewives of Salt Lake City (RHOSLC), and her Faith Temple Pentecostal Church.",
+      "release": "2026-01-02T05:49:54Z",
+      "duration": "00:35:48",
+      "explicit": false,
+      "youTubeId": "v0MDoWnqCqw",
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=v0MDoWnqCqw"
+      }
+    }
+  ]
+}

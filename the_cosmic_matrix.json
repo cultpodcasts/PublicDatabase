@@ -1,0 +1,28 @@
+{
+  "id": "79d9125f-c837-496b-815e-074d1c26355f",
+  "name": "The Cosmic Matrix",
+  "spotifyId": "5QLAWzdoBMChezb69KYh5o",
+  "appleId": 1452122496,
+  "youTubeChannelId": "UCmHcilIdNyjdsuiE6vDRAEQ",
+  "episodes": [
+    {
+      "id": "1a556f9f-4290-45fe-9e07-dbbe7bfb9dd8",
+      "title": "Sarah Landry \u2013 The Nithyananda Cult and Red Flags in Spiritual Communities | TCM #25 (Part 1)",
+      "description": "Laura Matsue speaks to Sarah Landry, an ex-member of Nithyananda\u2019s Hindu cult, who is currently facing charges of rape and child abuse. Based on her experiences in this cult, she shares about what she witnessed within this cult, the mind control techniques that were used, and more...",
+      "release": "2020-01-16T23:59:30Z",
+      "duration": "01:02:08.9790000",
+      "explicit": false,
+      "spotifyId": "2CKndD5cFLJrDexVJTyGpf",
+      "appleId": 1000462850990,
+      "youTubeId": "Xqv7WkX5yVY",
+      "subjects": [
+        "Nithyananda"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2CKndD5cFLJrDexVJTyGpf",
+        "apple": "https://podcasts.apple.com/podcast/sarah-landry-the-nithyananda-cult-and-red-flags/id1452122496?i=1000462850990",
+        "youtube": "https://www.youtube.com/watch?v=Xqv7WkX5yVY"
+      }
+    }
+  ]
+}

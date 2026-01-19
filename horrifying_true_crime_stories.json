@@ -1,0 +1,25 @@
+{
+  "id": "bd1fbcc5-9ab2-4043-9bb4-be23f83f7c50",
+  "name": "Horrifying True Crime Stories",
+  "spotifyId": "2r3EenUHJQH4v8ECFst4L3",
+  "appleId": 1754867917,
+  "episodes": [
+    {
+      "id": "ac1c641b-76e6-4e78-bf66-875e9d910838",
+      "title": "True Crime Documentary - Delphi Murders The Case Against Richard Allen",
+      "description": "True Crime Documentary - Delphi Murders The Case Against Richard Allen",
+      "release": "2026-01-07T03:50:07Z",
+      "duration": "00:44:22.2130000",
+      "explicit": true,
+      "spotifyId": "5hs4guRwU95sdmEQvZhnag",
+      "appleId": 1000744067447,
+      "subjects": [
+        "Richard Allen"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5hs4guRwU95sdmEQvZhnag",
+        "apple": "https://podcasts.apple.com/podcast/true-crime-documentary-delphi-murders-the-case/id1754867917?i=1000744067447"
+      }
+    }
+  ]
+}

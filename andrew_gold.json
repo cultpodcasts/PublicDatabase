@@ -195,7 +195,6 @@
       "explicit": false,
       "spotifyId": "32TaExU1bZBj3m10zc5NJc",
       "appleId": 1000634957188,
-      "youTubeId": "F9cARI2hmUo",
       "subjects": [
         "Scientology",
         "Jehovah\u0027s Witnesses",
@@ -206,8 +205,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/32TaExU1bZBj3m10zc5NJc",
-        "apple": "podcasts.apple.com/podcast/the-celebrities-who-joined-cults-jon-atack/id1515932214?i=1000634957188",
-        "youtube": "https://www.youtube.com/watch?v=F9cARI2hmUo"
+        "apple": "https://podcasts.apple.com/podcast/the-celebrities-who-joined-cults-jon-atack/id1515932214?i=1000634957188"
       }
     },
     {

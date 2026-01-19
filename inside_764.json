@@ -6,6 +6,95 @@
   "youTubeChannelId": "UC7awEObYFNEs23ErljB7StA",
   "episodes": [
     {
+      "id": "988cbdc4-b845-4ccb-a098-68daa395bde9",
+      "title": "Episode 6: Interview with an ex of a 764 member: The Kyle Spitze Story",
+      "description": "Inside 764 Episode 6 tells the true story of Chloe, a survivor who unknowingly dated a member of the 764 online cult - and later helped bring about his arrest. After discovering her ex-boyfriend was exploiting minors through encrypted platforms linked to 764, Chloe tried to report him to local authorities and was ignored. As the scale of the abuse became clear, she took her evidence directly to the FBI, triggering an investigation that led to his arrest in February 2024. This episode is part of an investigative journalism series examining online grooming, digital exploitation, and the systems struggling to keep children safe. Listener discretion is advised.",
+      "release": "2026-01-07T18:00:00Z",
+      "duration": "00:23:34.5410000",
+      "explicit": false,
+      "spotifyId": "6mqfS1afxmrhij02LqSoZZ",
+      "appleId": 1000744165156,
+      "youTubeId": "4l6-hVjshZI",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6mqfS1afxmrhij02LqSoZZ",
+        "apple": "https://podcasts.apple.com/podcast/episode-6-interview-with-an-ex-of-a-764/id1857511887?i=1000744165156",
+        "youtube": "https://www.youtube.com/watch?v=4l6-hVjshZI"
+      }
+    },
+    {
+      "id": "c7cacd70-a521-4eac-95ad-9fb3faeaf488",
+      "title": "Blair\u0027s 764 rabbit hole",
+      "release": "2026-01-03T15:42:48Z",
+      "duration": "00:01:54",
+      "explicit": false,
+      "youTubeId": "JzzBWfMk4zI",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JzzBWfMk4zI"
+      }
+    },
+    {
+      "id": "9a35206c-5121-4cb5-8ebe-717b6beb8e7c",
+      "title": "Cadenheads encounter with the police before becoming a cult leader of 764",
+      "release": "2026-01-01T13:33:38Z",
+      "duration": "00:00:56",
+      "explicit": false,
+      "youTubeId": "saTcvpqa8xw",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=saTcvpqa8xw"
+      }
+    },
+    {
+      "id": "b474baeb-7348-4b84-afc5-d4c5eecdd1f8",
+      "title": "The sinnister ideological roots of 764",
+      "release": "2025-12-29T13:15:36Z",
+      "duration": "00:00:51",
+      "explicit": false,
+      "youTubeId": "oRsIBLVbwbM",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oRsIBLVbwbM"
+      }
+    },
+    {
+      "id": "3bd34fb5-b192-4f44-af1d-cddbd1a9f278",
+      "title": "The ultimate goal of the 764 cult",
+      "release": "2025-12-28T14:34:19Z",
+      "duration": "00:00:49",
+      "explicit": false,
+      "youTubeId": "b7YaNNZmmfQ",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=b7YaNNZmmfQ"
+      }
+    },
+    {
+      "id": "34bf2bdc-f3b0-45aa-863a-1f96bdcfcdf4",
+      "title": "How Jason lost his daughter to 764",
+      "release": "2025-12-27T12:49:54Z",
+      "duration": "00:01:58",
+      "explicit": false,
+      "youTubeId": "seea2zOHbB4",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=seea2zOHbB4"
+      }
+    },
+    {
       "id": "6c1bec5e-9218-42e7-b86a-726d6bde9a5b",
       "title": "The disturbing world of 764 live streams",
       "release": "2025-12-26T12:53:17Z",

@@ -1,0 +1,28 @@
+{
+  "id": "5aa1ec63-527c-4d42-b9c7-a3748a281548",
+  "name": "MORBID MONDAYS",
+  "spotifyId": "64qwQ50l4j6iifb1BkCZCq",
+  "appleId": 1850608073,
+  "youTubeChannelId": "UChnS7kH1_YQYynQdBHS8iTg",
+  "episodes": [
+    {
+      "id": "66a7bd81-e94e-4a73-9b55-e03e9c1d1cd6",
+      "title": "Morbid Mondays - Episode 15 - I was raised in a cult!",
+      "description": "Today is a special day for Morbid Mondays! We have our first guest speaker! My Wife (Borat voice) is joining us to tell us about Mary Baker Eddie, the founder of Christian Science!\n\n\nTW: cults, medical neglect, child death/neglect/abuse.\n\n\nJoin our ko-fi! Your money will now be given to the imp that rattles the chains at the start of this show. It\u0027s hard work and he appreciates your kindness. https://ko-fi.com/morbidmondays\n\n\nSupport the show (https://ko-fi.com/morbidmondays)",
+      "release": "2026-01-04T21:58:26Z",
+      "duration": "01:24:08",
+      "explicit": false,
+      "spotifyId": "2wkTUQ1cnIvZ1Qhlttj7Iv",
+      "appleId": 1000743737113,
+      "youTubeId": "g6AEBuMn7Yo",
+      "subjects": [
+        "Christian Science"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2wkTUQ1cnIvZ1Qhlttj7Iv",
+        "apple": "https://podcasts.apple.com/podcast/morbid-mondays-episode-15-i-was-raised-in-a-cult/id1850608073?i=1000743737113",
+        "youtube": "https://www.youtube.com/watch?v=g6AEBuMn7Yo"
+      }
+    }
+  ]
+}

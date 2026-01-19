@@ -1,0 +1,25 @@
+{
+  "id": "56508982-eab2-4c07-b7ba-08dc4364ec08",
+  "name": "IN TOO DEEP",
+  "spotifyId": "68ooUrTKyVkcOvgHTZKBjq",
+  "appleId": 1486651954,
+  "episodes": [
+    {
+      "id": "6a22cc10-58b5-4bc1-96ce-8e7b308aa2fe",
+      "title": "200 - BX",
+      "description": "BX is a private investigator and online content creator. Within the last two years, BX has uncovered and exposed a dark online satanic cult known as 764. When she first discovered them, they were relatively unkown, and through her fearless work to uncover the individuals involved, the group has now become a top priority for the FBI, leading to over two dozen arrests. Trigger warning: disturbing subjects X: @bx_on_x",
+      "release": "2026-01-04T21:00:00Z",
+      "duration": "01:31:51.4410000",
+      "explicit": true,
+      "spotifyId": "593Vwj2pwdIgTzjdCZaLpy",
+      "appleId": 1000743737245,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/593Vwj2pwdIgTzjdCZaLpy",
+        "apple": "https://podcasts.apple.com/podcast/200-bx/id1486651954?i=1000743737245"
+      }
+    }
+  ]
+}

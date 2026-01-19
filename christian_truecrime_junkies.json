@@ -1,0 +1,25 @@
+{
+  "id": "df61dbf6-8f68-4f63-b191-71dd77a623db",
+  "name": "Christian True-Crime Junkies!",
+  "spotifyId": "7viZdI13y7cJCICIWrLnF0",
+  "appleId": 1837250927,
+  "episodes": [
+    {
+      "id": "f10315b5-e7e3-4234-bdc6-0a243fabd6fd",
+      "title": "Fleeing From My Abusive Church: Our Co-Host Shares Her Story",
+      "description": "When spiritual authority crosses into control, how do you recognize it\u2014and why is it so hard to name while you\u0027re inside it? In this episode of Christian True-Crime Junkies (which coincides with Spiritual Abuse Prevention Month), Jaime sits down with Alana for Part 1 of a 3-part interview exploring Alana\u0027s experience in a Christian cult during her college years. What began as a faith community rooted in belonging and purpose slowly revealed patterns of manipulation, control, and spiritual abuse. Through Alana\u0027s firsthand account, we begin unpacking how high-control religious environments form, why intelligent and faith-seeking young adults are especially vulnerable, and how Scripture, obedience, and \u0022submission\u0022 can be weaponized to silence questions and override personal discernment. This first conversation lays the groundwork for understanding grooming, coercive leadership, and the subtle red flags that are often dismissed\u2014or only recognized in hindsight.",
+      "release": "2026-01-13T05:42:00Z",
+      "duration": "00:46:26.7340000",
+      "explicit": false,
+      "spotifyId": "74K9bYKM9LCQdpVYeBLhjN",
+      "appleId": 1000744941618,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74K9bYKM9LCQdpVYeBLhjN",
+        "apple": "https://podcasts.apple.com/podcast/fleeing-from-my-abusive-church-our-co-host-shares-her-story/id1837250927?i=1000744941618"
+      }
+    }
+  ]
+}

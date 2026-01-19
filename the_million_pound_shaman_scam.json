@@ -1,0 +1,36 @@
+{
+  "id": "d4d91ff9-057e-4ce2-8167-6b8da99776bd",
+  "name": "The Million Pound Shaman Scam",
+  "episodes": [
+    {
+      "id": "19397827-52c8-4f01-ac77-aeab8824bd47",
+      "title": "Episode 1",
+      "description": "In 2008, veteran Sunday Times journalist Tim Rayment receives a tip about an incredibly bizarre crime. The tale: an elite London community ensnared in a dark web of spiritual manipulation, South American shamanism and millions of pounds in \u0027sacrificial offerings\u0027.\n\nAt the centre of it all are a charming healer, a secretive woman and an invisible man named Papa Freddie. And the deeper Tim digs, the stranger it gets.",
+      "release": "2026-01-04T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "subjects": [
+        "_London",
+        "Juliette D\u0027Souza"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002phhn/the-million-pound-shaman-scam-series-1-episode-1"
+      }
+    },
+    {
+      "id": "6b282a02-9a22-4f3f-9269-9dad97cebb17",
+      "title": "Episode 2",
+      "description": "A woman posing as a healer. A web of lies spun across one of London\u2019s wealthiest postcodes. And dozens of vulnerable victims, left not only penniless but emotionally broken.\n\nAt the centre of it all: Juliette D\u2019Souza - a woman who claimed to have connections to shamans who could speak to spirits, cure illness, and rewrite fate. In truth, she was orchestrating one of the most disturbing faith frauds Britain had ever seen.\n\nNow, journalist Tim Rayment\u0027s fresh investigation reveals some shocking revelations about D\u2019Souza as her penniless and distraught victims fight to bring this dangerous fraudster to justice.",
+      "release": "2026-01-04T00:00:00",
+      "duration": "00:59:00",
+      "explicit": false,
+      "subjects": [
+        "Juliette D\u0027Souza",
+        "_London"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002phhq/the-million-pound-shaman-scam-series-1-episode-2"
+      }
+    }
+  ]
+}

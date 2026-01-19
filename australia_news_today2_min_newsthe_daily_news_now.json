@@ -1,0 +1,25 @@
+{
+  "id": "9683dac8-77f3-4e85-b1fc-2fe185cc7147",
+  "name": "Australia News Today | 2 Min News | The Daily News Now!",
+  "spotifyId": "0lGmBrAzgEzBmzd0pGOqCJ",
+  "appleId": 1850753992,
+  "episodes": [
+    {
+      "id": "989404b8-7d8a-45e9-882d-07ff2717c217",
+      "title": "Cult Members Eligible for Parole in Child\u0027s Faith-Driven Death",
+      "description": "In a chilling turn of events, members of the Saints cult, convicted for the manslaughter of eight-year-old Elizabeth Struhs, are now eligible for parole. Elizabeths father, Jason, and others like her brother Zachary and Samantha Schoenfisch, received sentences of six years, with time served allowing them to apply for parole. The cult, led by Brendan Stevens, withheld Elizabeths insulin, believing in divine healing instead, leading to her agonizing death. Child safety advocate Hetty Johnston deems this outright torture and questions the justice served to the victims.The Daily News Now! - Every city. Every story. Powered by AI. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-01-02T06:37:32Z",
+      "duration": "00:01:48",
+      "explicit": false,
+      "spotifyId": "0lGmBrAzgEzBmzd0pGOqCJ",
+      "appleId": 1000743485079,
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0lGmBrAzgEzBmzd0pGOqCJ",
+        "apple": "https://podcasts.apple.com/podcast/cult-members-eligible-for-parole-in-childs-faith-driven/id1850753992?i=1000743485079"
+      }
+    }
+  ]
+}

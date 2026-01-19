@@ -1,0 +1,25 @@
+{
+  "id": "3997e77f-b884-45f5-90ed-4e11d2aca148",
+  "name": "The Voracious Reader podcast",
+  "spotifyId": "12sD8MQ28mSvnRclZyLcfw",
+  "appleId": 1824334826,
+  "episodes": [
+    {
+      "id": "afa721c8-5a19-4635-b320-03fd887fd9e7",
+      "title": "The Flower Child\u2014The Survivor of an Infamous Cult Remembers",
+      "description": "Come join The Voracious Reader in the back booth while she digs into the memoir \u2018Member of the Family\u2019 by Dianne Lake, a deep dive account from the inside of the Manson Family!",
+      "release": "2026-01-07T00:35:37Z",
+      "duration": "00:35:11",
+      "explicit": false,
+      "spotifyId": "3hI2RkaRrMUNBzSd9UpWQy",
+      "appleId": 1000744049460,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3hI2RkaRrMUNBzSd9UpWQy",
+        "apple": "https://podcasts.apple.com/podcast/the-flower-child-the-survivor-of-an-infamous-cult-remembers/id1824334826?i=1000744049460"
+      }
+    }
+  ]
+}

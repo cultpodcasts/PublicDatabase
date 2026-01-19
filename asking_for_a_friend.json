@@ -5,17 +5,35 @@
   "appleId": 1782963274,
   "episodes": [
     {
+      "id": "7b94975e-9c9e-498a-a522-76c1d6c3d425",
+      "title": "S02 E03 Christmas and Cognitive Dissonance",
+      "description": "\u0027When Prophecy Fails: a Social and Psychological Study of a Modern Group That Predicted the Destruction of the World\u0027 by Leon Festinger, Henry Riecken, Stanley Schachter\u00A0\nTo contact us please email:\u00A0askingforafriendquestions@outlook.com We will respect your anonymity.\nMusic: \u0027You\u0027re Not Who You Say You Are\u0027 by Ancient Modesto, Written by Simon Endeacott, Produced by Ian David c Four Monkeys Records",
+      "release": "2026-01-04T16:09:48Z",
+      "duration": "01:06:34",
+      "explicit": false,
+      "appleId": 1000743704849,
+      "subjects": [
+        "Cult Psychology",
+        "The Seekers"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/s02-e03-christmas-and-cognitive-dissonance/id1782963274?i=1000743704849"
+      }
+    },
+    {
       "id": "b7e545c2-b070-4c41-a77d-ed5cf01aa44c",
       "title": "S02 E02 Apostate Member of the Governing Body",
       "description": "\u0027Crisis of Conscience\u0027 by Ray Franz: https://friendsofraymondfranz.com/\n\u0027The Four Presidents of the Watchtower\u0027 by Edmond C Gruss: https://books.google.co.uk/books?id=jFDi5jGsyV8C\u0026printsec=frontcover\u0026redir_esc=y#v=onepage\u0026q\u0026f=false\nPodcast interview with Howie Routledge Tran on JW Community Podcast: https://jwcommunitypodcast.simplecast.com/episodes/1a18bbfa\n$100 million lawsuit against WTS: https://www.youtube.com/watch?v=wSeEfJJPSBo\nLink to court document: https://storage.courtlistener.com/recap/gov.uscourts.nysd.652986/gov.uscourts.nysd.652986.1.0.pdf\nTo contact us please email:\u00A0askingforafriendquestions@outlook.com We will respect your anonymity.\nMusic: \u0027You\u0027re Not Who You Say You Are\u0027 by Ancient Modesto, Written by Simon Endeacott, Produced by Ian David c Four Monkeys Records",
       "release": "2025-12-13T20:50:45Z",
       "duration": "01:09:51",
       "explicit": false,
+      "spotifyId": "4Cfaq8RpzbQfSSOy5O4tEv",
       "appleId": 1000741159491,
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4Cfaq8RpzbQfSSOy5O4tEv",
         "apple": "https://podcasts.apple.com/podcast/s02-e02-apostate-member-of-the-governing-body/id1782963274?i=1000741159491"
       }
     },

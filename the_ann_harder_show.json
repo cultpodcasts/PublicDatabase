@@ -1,0 +1,28 @@
+{
+  "id": "0c694871-9df2-468d-a7d8-9d6c1d1e06a1",
+  "name": "The Ann Harder Show",
+  "spotifyId": "2EbY6RwicbScpooN9rkX65",
+  "appleId": 1503546409,
+  "youTubeChannelId": "UCy6i1tDWxZVIqDw-cZrP9vA",
+  "episodes": [
+    {
+      "id": "dda7e307-c94f-4615-aefe-b89f3ccef3a7",
+      "title": "The Ann Harder Show - Keith Brown, Author and Cult survivor, Music by Robby Abel",
+      "description": "Keith Brown, Cult survivor and author of Counterfeit Culture, about her escape from what she believes is a cult and how it\u0027s affected her and her family\u0027s lives. We get some great music from Robby Abel, and a new Act Locally Waco with Elizabeth Riley. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-12-31T12:00:00Z",
+      "duration": "01:00:06.8310000",
+      "explicit": false,
+      "spotifyId": "0MFCA0OFMggRX6sUBf6XN2",
+      "appleId": 1000743308099,
+      "youTubeId": "85ORKH2d2vg",
+      "subjects": [
+        "Homestead Heritage"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0MFCA0OFMggRX6sUBf6XN2",
+        "apple": "https://podcasts.apple.com/podcast/the-ann-harder-show-keith-brown-author-and-cult/id1503546409?i=1000743308099",
+        "youtube": "https://www.youtube.com/watch?v=85ORKH2d2vg"
+      }
+    }
+  ]
+}

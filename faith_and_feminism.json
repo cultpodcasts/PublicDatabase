@@ -5,6 +5,37 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "31fb4f72-06bc-4452-888a-f035304276bb",
+      "title": "When Everything Feels On Fire: Faith, Anxiety, and the Politics of the Nervous System",
+      "description": "In this episode, we speak with Sara Billups the author of Nervous Systems about anxiety as an embodied, collective experience shaping our bodies, churches, and politics. We explore spiritual and somatic practices that calm chronic stress and help us move toward grounded, compassionate, and faithful engagement with the world.",
+      "release": "2026-01-13T16:36:00Z",
+      "duration": "01:01:53.0080000",
+      "explicit": false,
+      "spotifyId": "0GYa9XI0UCwKLau0zZuslx",
+      "appleId": 1000745014649,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0GYa9XI0UCwKLau0zZuslx",
+        "apple": "https://podcasts.apple.com/podcast/when-everything-feels-on-fire-faith-anxiety-and/id1438368947?i=1000745014649"
+      }
+    },
+    {
+      "id": "01d9e708-5d92-40ca-87e0-c9dcbcdf73aa",
+      "title": "Christian \u0022Charity\u0022 That Trafficked Children",
+      "description": "Explore a deep dive into adoption fraud and human trafficking with whistleblower Lauren Farrell. Learn how to identify red flags in nonprofits and churches, and understand the intersection of faith, exploitation, and the fight for justice.",
+      "release": "2026-01-06T18:16:00Z",
+      "duration": "00:59:11.0030000",
+      "explicit": false,
+      "spotifyId": "1hYvz6aeHnTmXjQxwz0Qmz",
+      "appleId": 1000744013636,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1hYvz6aeHnTmXjQxwz0Qmz",
+        "apple": "https://podcasts.apple.com/podcast/christian-charity-that-trafficked-children/id1438368947?i=1000744013636"
+      }
+    },
+    {
       "id": "3e9dc8a1-49cf-46bf-80f5-3cb0520e9b45",
       "title": "Suicide and the Communion of Saints",
       "description": "Content warning: discussion of suicide Rhonda Mawhood Lee is a priest, spiritual director, and daughter whose mother died by suicide. She knows about complicated grief. Having grown up in a family haunted by self-inflicted death for multiple generations, Rhonda has asked and re-asked the questions for which there are no easy answers. With clarity and candor, she reflects on the unintended consequences of many traditional Christian teachings around suicide. In search of a better way, Lee turns to the communion of saints\u2014a theologically rich concept that Christians can draw on to reframe their relationships with people who have died by suicide, and with those who are at risk of ending their own lives.",

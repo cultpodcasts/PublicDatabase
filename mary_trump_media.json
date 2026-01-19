@@ -1,0 +1,51 @@
+{
+  "id": "d3554b60-400e-419a-9bba-710af9569d8d",
+  "name": "Mary Trump Daily",
+  "spotifyId": "6amagVYgZduzl2ivecEvxY",
+  "appleId": 1785081636,
+  "youTubeChannelId": "UCSzRlpPbZTA6b8weTKnSHlA",
+  "youTubePlaylistId": "PLApnnEs8uyIl8Bb3ajkdBtkTXgB6tQaKI",
+  "episodes": [
+    {
+      "id": "848a18db-930e-4a69-ab58-1c83705fdb83",
+      "title": "Trump Builds Personality Cult as Democracy Crumbles Part 2",
+      "description": "Part 2 of Mary Trump and Ruth Ben Ghiat exposing how Donald Trump is remaking America in his image\u2014renaming institutions, flooding culture with propaganda, and accelerating an authoritarian power grab. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-12-30T21:00:00Z",
+      "duration": "00:13:58.2690000",
+      "explicit": false,
+      "spotifyId": "16oAeMzYbC52XhJT6T1jra",
+      "appleId": 1000743227867,
+      "youTubeId": "rLDh4sHZd7g",
+      "subjects": [
+        "Political Cult",
+        "Qanon",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/16oAeMzYbC52XhJT6T1jra",
+        "apple": "https://podcasts.apple.com/podcast/trump-builds-personality-cult-as-democracy-crumbles-part-2/id1785081636?i=1000743227867",
+        "youtube": "https://www.youtube.com/watch?v=rLDh4sHZd7g"
+      }
+    },
+    {
+      "id": "9dee2bc1-ba33-4dd1-8344-18ab78a0889d",
+      "title": "Trump Builds Personality Cult as Democracy Crumbles",
+      "description": "Mary Trump and Ruth Ben Ghiat expose how Donald Trump is remaking America in his image\u2014renaming institutions, flooding culture with propaganda, and accelerating an authoritarian power grab.\n\nSubscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 \nJoin memberships for exclusive perks:\nhttps://www.youtube.com/channel/UCSzRlpPbZTA6b8weTKnSHlA/join\n\nConnect with Mary:\nSpotify: https://open.spotify.com/show/6amagVYgZduzl2ivecEvxY\nApple Podcasts: https://podcasts.apple.com/us/podcast/mary-trump-daily/id1785081636\nSubstack: https://www.marytrump.org \nTwitch: https://www.twitch.tv/marytrump\nBluesky: https://bsky.app/profile/did:plc:dkcsbqdaipybdturs2pzftwt\nTwitter:  https://www.twitter.com/maryltrump \nTiktok: https://www.tiktok.com/@mltrump \nThreads: https://www.threads.net/@mary_l_trump",
+      "release": "2025-12-29T21:00:51Z",
+      "duration": "00:13:36",
+      "explicit": false,
+      "spotifyId": "7hQgFTTpihQHPCqZl6hhdA",
+      "appleId": 1000743106495,
+      "youTubeId": "dTA6F8ndAl8",
+      "subjects": [
+        "_America",
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7hQgFTTpihQHPCqZl6hhdA",
+        "apple": "https://podcasts.apple.com/podcast/trump-builds-personality-cult-as-democracy-crumbles/id1785081636?i=1000743106495",
+        "youtube": "https://www.youtube.com/watch?v=dTA6F8ndAl8"
+      }
+    }
+  ]
+}

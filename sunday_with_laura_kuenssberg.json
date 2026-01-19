@@ -1,0 +1,22 @@
+{
+  "id": "a95d5131-916a-4cd7-b474-33992cdada32",
+  "name": "Sunday with Laura Kuenssberg",
+  "episodes": [
+    {
+      "id": "616cbb8d-75a1-43de-b841-f30794055437",
+      "title": "Lord Mandelson Speaks to the BBC",
+      "description": "Lord Mandelson sits down with Laura Kuenssberg in his first interview since he was sacked as UK ambassador to the US.",
+      "release": "2026-01-11T00:00:00",
+      "duration": "00:30:00",
+      "explicit": false,
+      "youTubeId": "5MGWAaabfZI",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5MGWAaabfZI",
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/l0057v0w/lord-mandelson-speaks-to-the-bbc"
+      }
+    }
+  ]
+}

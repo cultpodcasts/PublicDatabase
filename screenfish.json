@@ -1,0 +1,28 @@
+{
+  "id": "5b46b268-8343-416c-9885-923f17c4a517",
+  "name": "ScreenFish",
+  "spotifyId": "7n6R38P1LpfV54v4SKUOIL",
+  "appleId": 993460195,
+  "youTubeChannelId": "UC89hdJ1S6iylNAiDXp16WAQ",
+  "episodes": [
+    {
+      "id": "d4517c6c-eeb6-4288-b6f2-8834d49ec4a3",
+      "title": "28 Years Later: The Bone Temple\u0027s Nia DaCosta Breaks Down Identity, Cults, and Finding Hope After the Collapse",
+      "description": "In this ScreenFish podcast interview, Nia DaCosta breaks down the creative challenges of directing 28 Years Later: The Bone Temple, the middle chapter of the iconic franchise. She reflects on collaborating with Danny Boyle and Alex Garland, crafting character arcs that bridge past and future, and staging the film\u2019s unforgettable musical sequence. In this 1on1, DaCosta also explores themes of identity, cult psychology, hope, and humanity\u2014asking what we hold onto when the foundations of the world collapse.\u00A028 YEARS LATER: THE BONE TEMPLE is in theatres on Friday, January 16th, 2026",
+      "release": "2026-01-14T17:00:00Z",
+      "duration": "00:06:06",
+      "explicit": false,
+      "spotifyId": "7fetkzgKeqVtYCjFsdPZsT",
+      "appleId": 1000745165541,
+      "youTubeId": "SHKStGxUKYc",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fetkzgKeqVtYCjFsdPZsT",
+        "apple": "https://podcasts.apple.com/podcast/28-years-later-the-bone-temples-nia-dacosta-breaks/id993460195?i=1000745165541",
+        "youtube": "https://www.youtube.com/watch?v=SHKStGxUKYc"
+      }
+    }
+  ]
+}

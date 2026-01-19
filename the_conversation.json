@@ -1,0 +1,23 @@
+{
+  "id": "09ce6dd3-b09e-45da-8563-300b008ce862",
+  "name": "The Conversation",
+  "youTubeChannelId": "UCQfzgoCt72pQNpkvnHjNvog",
+  "episodes": [
+    {
+      "id": "0b4e23cf-8cd6-4346-a082-24afa39060bd",
+      "title": "Rebecca Moore reads letter from her sister explaining why she joined Peoples Temple",
+      "description": "Rebecca Moore reads from a letter her sister Annie Moore wrote to her, in which Annie explains why she joined Peoples Temple. Annie Moore died on November 18, 1978 in the Jonestown Massacre.",
+      "release": "2018-11-15T22:08:35Z",
+      "duration": "00:01:06",
+      "explicit": false,
+      "youTubeId": "AVFzqof3Afs",
+      "subjects": [
+        "Peoples Temple",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=AVFzqof3Afs"
+      }
+    }
+  ]
+}

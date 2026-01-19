@@ -3,6 +3,7 @@
   "name": "L.A. Not So Confidential: The Premier Forensic Psychology Podcast",
   "spotifyId": "21dpgZ5V9I9m2RI8tB8Nr2",
   "appleId": 1293032240,
+  "youTubeChannelId": "UCtvmmYgrZ-hSbw7sWuzC9rQ",
   "episodes": [
     {
       "id": "b35b911a-c824-4dd0-9d24-c01e4df8b0e5",
@@ -13,12 +14,247 @@
       "explicit": true,
       "spotifyId": "2Hv13vNNtgKbAz6gE72qck",
       "appleId": 1000703713501,
+      "youTubeId": "rJ7YwhCEVkU",
       "subjects": [
         "Zizians"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2Hv13vNNtgKbAz6gE72qck",
-        "apple": "https://podcasts.apple.com/podcast/205-behind-the-couch-true-crime-in-the-news/id1293032240?i=1000703713501"
+        "apple": "https://podcasts.apple.com/podcast/205-behind-the-couch-true-crime-in-the-news/id1293032240?i=1000703713501",
+        "youtube": "https://www.youtube.com/watch?v=rJ7YwhCEVkU"
+      }
+    },
+    {
+      "id": "20ecdafd-e8f6-4ae6-8750-7b2881245854",
+      "title": "185. Folie a Deux Revisited",
+      "description": "In this episode, the docs refer back to their original episode #28 \u00A0on the phenomenon of shared delusion. \u00A0What do the Slenderman attack, Lori Vallow and Chad Daybed and Ruby Franke have in common? All of them exhibit significantly altered thinking and beliefs that unfortunately caused tragedy and trauma to the children in their path.\n\nCrooked Timber YouTube video on Mormon influencers\n\nYeah No Yeah podcast\n\n\nCrimeCon UK September 2024: Tickets\n\nBerkshire Podcast Festival October 2024: Tickets\n\nJoin our Patreon family!\n\nYou can find all of our resources on our website:\u00A0https://www.la-not-so-confidential.com/\u00A0\n\nL.A. Not So Confidential is proud to be part of the\u00A0Crawlspace Media Network",
+      "release": "2024-06-26T08:31:08Z",
+      "duration": "01:45:55",
+      "explicit": false,
+      "spotifyId": "6qCszPgRvYYq7ln85T6Gxl",
+      "appleId": 1000660287853,
+      "subjects": [
+        "Chad Daybell",
+        "Connexions",
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6qCszPgRvYYq7ln85T6Gxl",
+        "apple": "https://podcasts.apple.com/podcast/185-folie-a-deux-revisited/id1293032240?i=1000660287853"
+      }
+    },
+    {
+      "id": "b6e98602-18e0-47cd-9dfa-541d87dbf596",
+      "title": "176. Sovereign Citizens Part 2: Research \u0026 Criminality",
+      "description": "This week the docs dive into the subject of \u0022Sovereign Citizens,\u0022 individuals or groups in the United States, and increasingly, around the globe who adhere to a fringe legal theory asserting that they are not subject to the authority of government entities. In Part 2, the docs review the research literature and discuss Sovereign Citizens\u0027 engagement with law enforcement, court systems and the general public and the mental gymnastics have moved this once fringe movement into violence.\n\nPart 1 dropped on February 7th.\n\nDr. Newmann Presentation\n\nDiscussion with Dr. Delatorre on Delusion vs. Extreme Beliefs Pretend Podcast Series on Sovereign Citizens Oregon Takeover/ Standoff Arrests\u00A0\n\nYou can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0\n\nL.A. Not So Confidential is proud to be part of the Crawlspace Media Network",
+      "release": "2024-02-21T09:00:00Z",
+      "duration": "01:11:02",
+      "explicit": false,
+      "spotifyId": "3lKMTrLuUHNI3OZxL5d96V",
+      "appleId": 1000646228220,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3lKMTrLuUHNI3OZxL5d96V",
+        "apple": "https://podcasts.apple.com/podcast/176-sovereign-citizens-part-2-research-criminality/id1293032240?i=1000646228220"
+      }
+    },
+    {
+      "id": "ec9bca06-9639-40a4-a633-1b134200d2a3",
+      "title": "174. Sovereign Citizens Part 1: Ideology",
+      "description": "This week the docs dive into the subject of \u0022Sovereign Citizens,\u0022 individuals or groups in the United States, and increasingly, around the globe who adhere to a fringe legal theory asserting that they are not subject to the authority of government entities. In Part 1, the docs discuss the history of the Sovereign Citizen movement and the basics of the ideology that lends to wild and frustrating antics. Part 2 will drop on February 21st.  Strawman Video Pretend Podcast Series on Sovereign Citizens   You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0  L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2024-02-08T16:14:00Z",
+      "duration": "01:05:22",
+      "explicit": false,
+      "spotifyId": "4JzZmaIQigodpJKaeLdpzq",
+      "appleId": 1000644572550,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4JzZmaIQigodpJKaeLdpzq",
+        "apple": "https://podcasts.apple.com/podcast/174-sovereign-citizens-part-1-ideology/id1293032240?i=1000644572550"
+      }
+    },
+    {
+      "id": "9505c688-adec-47b0-816e-f2d7c8311686",
+      "title": "129. Documentary Review: Sins of Our Mother",
+      "description": "This week the docs recount \u0026 review the Netflix docuseries, Sins of Our Mother. This series dives into the timeline of Lori Vallow\u0027s descent into the extremist religiosity and delusional thinking that cost many people their lives, including her children. The docs review the types of filicide and praise the show for the narrative led by the surviving family members.   You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0  L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2023-02-22T13:00:00Z",
+      "duration": "01:18:27",
+      "explicit": false,
+      "spotifyId": "0nXR8AaUcH8xSSY3aYt4jp",
+      "appleId": 1000600998010,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0nXR8AaUcH8xSSY3aYt4jp",
+        "apple": "https://podcasts.apple.com/podcast/129-documentary-review-sins-of-our-mother/id1293032240?i=1000600998010"
+      }
+    },
+    {
+      "id": "dd7d6212-e6c6-4f07-8b5d-2a7b6d7bb47b",
+      "title": "94. Zzyzx Road: Cults, Quacks, \u0026 Concoctions",
+      "description": "The doctors cover the strange history of a man with a mission, who turned a blank piece of desert landscape into a Shangri-la for all in the the 1940\u0027s. Curtis H. Springer was deemed the King of Quacks but that didn\u0027t stop him from preying on those down on their luck. You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0 L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2022-04-27T08:00:00Z",
+      "duration": "00:56:16",
+      "explicit": false,
+      "spotifyId": "0yLjbBGgeNK4UTmcS7O38A",
+      "appleId": 1000558838105,
+      "youTubeId": "VCO6ii-KF0Q",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0yLjbBGgeNK4UTmcS7O38A",
+        "apple": "https://podcasts.apple.com/podcast/94-zzyzx-road-cults-quacks-concoctions/id1293032240?i=1000558838105",
+        "youtube": "https://www.youtube.com/watch?v=VCO6ii-KF0Q"
+      }
+    },
+    {
+      "id": "332f557c-c854-4a7e-b0c1-57f40a40ffd9",
+      "title": "89. Parental Alienation Syndrome isn\u2019t a thing. Except that it is. Well, sort of\u2026",
+      "description": "Here we go again. Is it time to just do away with \u0022syndromes\u0022 that aren\u0027t evidence-based? \u2063 \u2063 The pseudo term, Parental Alienation Syndrome (PAS), has been the label given to a set of problematic behaviors that can be very troubling for divorcing families. \u2063 \u2063 Additionally, we cover the Mia Farrow and Woody Allen case, which was the first case to thrust PAS into the public eye, as well as a sinister case that ends in murder.\u00A0 You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0 L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2022-02-16T12:48:00Z",
+      "duration": "01:23:04",
+      "explicit": false,
+      "spotifyId": "1dVq7ZHPx54c0tRA0y0tk6",
+      "appleId": 1000551275764,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1dVq7ZHPx54c0tRA0y0tk6",
+        "apple": "https://podcasts.apple.com/podcast/89-parental-alienation-syndrome-isnt-a-thing-except/id1293032240?i=1000551275764"
+      }
+    },
+    {
+      "id": "5bc5918c-93f0-4647-b034-46edc212a974",
+      "title": "80. The Psychological Tactics of MLMs",
+      "description": "The docs finally cover the psychological tactics of MLMs and compare and contrast them to cults. We also discuss positively skewed cognitive distortions and depictions of MLMs in some of our favorite TV shows.\u00A0 Mentions:\u00A0 Swindled: https://swindledpodcast.com/ The Dream: https://www.stitcher.com/show/the-dream Die-Alogue: https://www.rebekahsebastian.com/ LulaRich: https://www.amazon.com/LuLaRich-Season-1-Official-Trailer/dp/B09CG5YJ77/ref=sr_1_1?crid=K5MTR0MZKGOZ\u0026dchild=1\u0026keywords=lularich\u0026qid=1633527650\u0026s=instant-video\u0026sprefix=lula%2Cinstant-video%2C231\u0026sr=1-1 You can find all of our resources on our website: https://www.la-not-so-confidential.com/ L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2021-10-06T12:00:00Z",
+      "duration": "02:02:13",
+      "explicit": false,
+      "spotifyId": "7t7D2J5LnWp9dsJ5GiJ1dP",
+      "appleId": 1000537726383,
+      "subjects": [
+        "Multi-Level Marketing"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7t7D2J5LnWp9dsJ5GiJ1dP",
+        "apple": "https://podcasts.apple.com/podcast/80-the-psychological-tactics-of-mlms/id1293032240?i=1000537726383"
+      }
+    },
+    {
+      "id": "6ca69736-abef-45c8-9a20-fe5d5525eec5",
+      "title": "70. Munchausen Syndrome (Factitious Disorder), Part 2",
+      "description": "Part 2 will cover the case of DeeDee Blancharde and her daughter Gypsy Rose Blancharde, as well as the robust choices of film \u0026 TV depictions of Factitious Disorder by Proxy. In Part 1 of this two-parter, the docs covered the historical context of the term Munchausen Syndrome and Munchausen Syndrome by Proxy, break down how it fits into the DSM-5 and the actual diagnostic term, Factitious Disorder. They also look at rates and risk factors, as well as the differences in behaviors with female and male perpetrators. You can find all of our resources on our website: https://www.la-not-so-confidential.com/ L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2021-05-06T11:56:00Z",
+      "duration": "01:01:12",
+      "explicit": false,
+      "spotifyId": "55jx9c6hxN6VTvI4z2L1Db",
+      "appleId": 1000520450979,
+      "subjects": [
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/55jx9c6hxN6VTvI4z2L1Db",
+        "apple": "https://podcasts.apple.com/podcast/70-munchausen-syndrome-factitious-disorder-part-2/id1293032240?i=1000520450979"
+      }
+    },
+    {
+      "id": "6aa14af5-0bdc-4fc5-9bb3-eb9cbbe61bab",
+      "title": "69. Munchausen Syndrome (Factitious Disorder), Part 1",
+      "description": "In Part 1 of this two-parter, the docs cover the historical context of the term Munchausen Syndrome and Munchausen Syndrome by Proxy, break down how it fits into the DSM-5 and the actual diagnostic term, Factitious Disorder. They also look at rates and risk factors, as well as the differences in behaviors with female and male perpetrators.\u00A0 Part 2 will cover the case of DeeDee Blancharde and her daughter Gypsy Rose Blancharde, as well as the robust choices of film \u0026 TV depictions of Factitious Disorder by Proxy.\u00A0 You can find all of our resources on our website: https://www.la-not-so-confidential.com/ L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2021-05-05T12:00:00Z",
+      "duration": "01:02:35",
+      "explicit": false,
+      "spotifyId": "0mX6seRwfetFZQd1LUTg8v",
+      "appleId": 1000520269692,
+      "subjects": [
+        "One-on-one"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0mX6seRwfetFZQd1LUTg8v",
+        "apple": "https://podcasts.apple.com/podcast/69-munchausen-syndrome-factitious-disorder-part-1/id1293032240?i=1000520269692"
+      }
+    },
+    {
+      "id": "c1041dab-32a0-4fb3-8cfe-3dc2686fbcb5",
+      "title": "45. QAnon \u0026 The Psychology of Conspiracy Theories",
+      "description": "Down the rabbit hole we go...Let us introduce you to the conspiracy theories of QAnon and the timely COVID \u0022connections,\u0022 while exploring how \u0026 why seemingly average people can fall for conspiracy theories.\u00A0 Mentions:\u00A0 QAnon Anonymous podcast: https://www.stitcher.com/podcast/qanon-anonymous/e/55750815 Reply All podcast: https://gimletmedia.com/shows/reply-all Yeah No Yeah podcast: https://anchor.fm/yeah-no-yeah/episodes/Covid-19-and-the-Plague-of-Celebs-on-Social-Media-Imagine-Shutting-Up-eddnss You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0 L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2020-05-27T12:00:00Z",
+      "duration": "01:27:17",
+      "explicit": false,
+      "spotifyId": "1CzOfZcjbrgMrFrLkWmKSg",
+      "appleId": 1000475929135,
+      "youTubeId": "QPVzKcxaADg",
+      "subjects": [
+        "Qanon",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1CzOfZcjbrgMrFrLkWmKSg",
+        "apple": "https://podcasts.apple.com/podcast/45-qanon-the-psychology-of-conspiracy-theories/id1293032240?i=1000475929135",
+        "youtube": "https://www.youtube.com/watch?v=QPVzKcxaADg"
+      }
+    },
+    {
+      "id": "89a9b531-b79e-47e9-93a1-599bb68d8d1d",
+      "title": "29. Stockholm Syndrome Revisited",
+      "description": "After coming upon some further research, the doctors bring you this follow-up to episode #27 on Stockholm Syndrome. Please listen to the prior episode first for a historical perspective and what preliminary research says about the phenomenon. This episode highlights the evolution of the term and how it is most often being applied to forensic cases today that involve prolonged entrapment\u00A0 Mentions:\u00A0\u00A0 True Crime Podcast Festival- tickets on sale now for 2020! http://truecrimepodcastfestival.com/ Getting Off Podcast https://podcasts.apple.com/us/podcast/getting-off/id1309689589 Crawlspace Media- new and improved website! http://crawlspace-media.com/ Yellow Tape True Crime Trivia https://www.yellowtapetruecrime.com/ The Friend Bar https://www.thefriendbar.com/ You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0 L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2019-09-25T20:30:00Z",
+      "duration": "00:59:14",
+      "explicit": false,
+      "spotifyId": "5u2PGHPtdWXnoVROxedjJP",
+      "appleId": 1000451218679,
+      "youTubeId": "Milhm2dMO6Y",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5u2PGHPtdWXnoVROxedjJP",
+        "apple": "https://podcasts.apple.com/podcast/29-stockholm-syndrome-revisited/id1293032240?i=1000451218679",
+        "youtube": "https://www.youtube.com/watch?v=Milhm2dMO6Y"
+      }
+    },
+    {
+      "id": "f14ef459-b101-4c46-9095-e048e6eea2eb",
+      "title": "28. Folie A Deux: The Madness of Two",
+      "description": "Dr. Scott \u0026 Dr. Shiloh provide a quick recap of Delusional Disorder before getting into the definition of a shared delusion or psychosis: Folie A Deux, also known as The Madness of Two. The docs talk about the bizarre true stories of The Eriksson Twins and the Slender Man assault. They also review an X-Files episode on the phenomenon as well as the movies Bug and Heavenly Creatures.\u00A0 Mentions:\u00A0 Death By Champagne\u00A0https://deathbychampagne.podbean.com/ Getting Off https://www.facebook.com/gettingoffpod/ Hong Kong Confidential\u00A0http://www.hongkongconfidential.net/ Florida Men\u00A0https://floridamenpodcast.com/ You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0 L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2019-09-11T12:39:00Z",
+      "duration": "01:38:29",
+      "explicit": false,
+      "spotifyId": "0aPIRIZ1MZvVRa6NfbBWqR",
+      "appleId": 1000449380867,
+      "youTubeId": "zyy2SgBF6hw",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0aPIRIZ1MZvVRa6NfbBWqR",
+        "apple": "https://podcasts.apple.com/podcast/28-folie-a-deux-the-madness-of-two/id1293032240?i=1000449380867",
+        "youtube": "https://www.youtube.com/watch?v=zyy2SgBF6hw"
+      }
+    },
+    {
+      "id": "acea363b-8794-46ab-97ff-0b272e39fef2",
+      "title": "7. California Cults",
+      "description": "Dr. Scott and Dr. Shiloh discuss the history of cults in Southern California and highlight some of the more historical and infamous groups from the Golden State. Dr. Scott tells his own story about being approached by the leader of Buddhafield (of Holy Hell fame) \u0026 Dr. Shiloh gives us some insight into the psychological profile of someone who joins a cult.  You can find all of our resources on our website: https://www.la-not-so-confidential.com/\u00A0  L.A. Not So Confidential is proud to be part of the Crawlspace Media Network. http://crawlspace-media.com/",
+      "release": "2018-04-28T18:10:00Z",
+      "duration": "01:31:40",
+      "explicit": false,
+      "spotifyId": "4VfvsCqP4XIxcbidjTTZoW",
+      "appleId": 1000410147529,
+      "youTubeId": "puEX7qXo1UA",
+      "subjects": [
+        "Buddhafield",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4VfvsCqP4XIxcbidjTTZoW",
+        "apple": "https://podcasts.apple.com/podcast/7-california-cults/id1293032240?i=1000410147529",
+        "youtube": "https://www.youtube.com/watch?v=puEX7qXo1UA"
       }
     }
   ]

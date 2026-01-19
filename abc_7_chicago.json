@@ -1,0 +1,22 @@
+{
+  "id": "cf68bf5c-5f17-459b-be60-b06d7cb01ef4",
+  "name": "ABC 7 Chicago",
+  "youTubeChannelId": "UC_vFLohxs5PkAxlk7Y6jEtw",
+  "episodes": [
+    {
+      "id": "b28a8eef-68a3-454c-aab2-f76758d18428",
+      "title": "Actor accused of sexually abusing teen girls, leading cult",
+      "description": "\u0027Dances with Wolves\u0027 actor Nathan Chasing Horse is accused of grooming young girls and women for sex as leader of a cult known as The Circle.\n\nFull story: https://abc7chicago.com/actor-nathan-chasing-horse-arrested-cult-the-circle/12762776/",
+      "release": "2023-02-02T20:14:55Z",
+      "duration": "00:01:59",
+      "explicit": false,
+      "youTubeId": "n_BPWPFF_nU",
+      "subjects": [
+        "Nathan Lee Chasing His Horse"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=n_BPWPFF_nU"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a7569b11-9b6e-4a49-b064-8a27b34d4e0d",
+  "name": "The B List",
+  "spotifyId": "0zzZY8l9ANRKyjsDq71hwf",
+  "appleId": 1493424449,
+  "episodes": [
+    {
+      "id": "602104d2-a7b1-4b36-840e-565dfeb9fcdc",
+      "title": "New Years Eve with Johnathan Lawhorne",
+      "description": "Is Meredith OK you guys? Friend of the podcast Johnathan Lawhorne joins me to try to figure that out, and we wrap up 2025 with a recap of Stacey Rusch\u0027s rise to reality tv fame (a Vanity Fair call out?!), that Mary Cosby cult documentary, pepper spray Tok, Nicki Minaj\u0027s predictable MAGA rebrand and a lot more. Advertising Inquiries: https://redcircle.com/brands Privacy \u0026 Opt-Out: https://redcircle.com/privacy",
+      "release": "2025-12-31T22:41:25Z",
+      "duration": "00:37:46.3310000",
+      "explicit": false,
+      "spotifyId": "6GAfVP1WM4Ng7a2ZCaBcXa",
+      "appleId": 1000743364285,
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6GAfVP1WM4Ng7a2ZCaBcXa",
+        "apple": "https://podcasts.apple.com/podcast/new-years-eve-with-johnathan-lawhorne/id1493424449?i=1000743364285"
+      }
+    }
+  ]
+}

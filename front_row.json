@@ -1,0 +1,23 @@
+{
+  "id": "1c93ac87-4b85-4105-9cc5-da0346c522a2",
+  "name": "Front Row",
+  "spotifyId": "5haIHLCm4SqaLuyUuPJWw2",
+  "appleId": 134045372,
+  "episodes": [
+    {
+      "id": "7e5b1df5-feaa-41e5-8817-c80630058cb0",
+      "title": "French pianist RIOPY [grew] up in a cult.",
+      "description": "French pianist RIOPY first taught himself to play piano while growing up in a cult. After running away he was able to pursue a career in music, culminating in an album that topped the classical charts for years. His new album Be Love sees the artist sing for the first time. ",
+      "release": "2026-01-07T20:08:00Z",
+      "duration": "00:42:23.7520000",
+      "explicit": false,
+      "spotifyId": "2X7ArtJYDQ7Rw6AcWFXVxI",
+      "appleId": 1000744181155,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2X7ArtJYDQ7Rw6AcWFXVxI",
+        "apple": "https://podcasts.apple.com/podcast/american-ira-sach-on-his-latest-film-peter-hujars-day/id134045372?i=1000744181155",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002pfbw"
+      }
+    }
+  ]
+}

@@ -3,6 +3,7 @@
   "name": "Stuff You Should Know",
   "spotifyId": "0ofXAdFIQQRsCYj9754UFx",
   "appleId": 278981407,
+  "youTubeChannelId": "UC153FxlFIVmE6YhH2XlSPeA",
   "episodes": [
     {
       "id": "d3b3ebf8-cab2-4a94-9254-c5b0e4f3e126",
@@ -70,6 +71,20 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/19sAntIW7wqg5pEIVf8GZx",
         "apple": "https://podcasts.apple.com/podcast/jonestown/id278981407?i=1000642077221"
+      }
+    },
+    {
+      "id": "8c215cc2-2e62-42e5-9010-ff654eac3020",
+      "title": "Cults: Who is this \u0022The Leader?\u0022",
+      "description": "Cults are conventionally understood to be unestablished, non-mainstream religious groups that follow a single leader. So what does it take to be the leader? Tune in as Josh and Chuck take a closer look at cults. Learn more about your ad-choices at https://www.iheartpodcastnetwork.com See omnystudio.com/listener for privacy information.",
+      "release": "2011-03-08T00:00:00",
+      "duration": "00:53:46.9060000",
+      "explicit": false,
+      "spotifyId": "2h9lYEwZKLx0Il4pDJ2Nes",
+      "youTubeId": "kw6lOltAhLc",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2h9lYEwZKLx0Il4pDJ2Nes",
+        "youtube": "https://www.youtube.com/watch?v=kw6lOltAhLc"
       }
     }
   ]

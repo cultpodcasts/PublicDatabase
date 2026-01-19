@@ -6,6 +6,42 @@
   "youTubeChannelId": "UCiP6ifT3o0eIv4qsNPZGUCw",
   "episodes": [
     {
+      "id": "958a9632-af0f-4e55-bb99-e4b27d9456d5",
+      "title": "RHOSLC: Mary Cosby Cult Doc BACKLASH, Sisters of Salt, A Greek Tragedy \u002B Reunion Trailer Recap",
+      "release": "2026-01-07T20:00:00Z",
+      "duration": "01:09:52.3650000",
+      "explicit": false,
+      "spotifyId": "7rcmkuqoDO16Mv5opUk7Ke",
+      "appleId": 1000744180556,
+      "youTubeId": "mehpxJMJkeI",
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7rcmkuqoDO16Mv5opUk7Ke",
+        "apple": "https://podcasts.apple.com/podcast/rhoslc-mary-cosby-cult-doc-backlash-sisters-of-salt/id1510062385?i=1000744180556",
+        "youtube": "https://www.youtube.com/watch?v=mehpxJMJkeI"
+      }
+    },
+    {
+      "id": "f19ba9f1-e000-4460-8e87-3137765c8fac",
+      "title": "HOT TOPICS: Mary Cosby Cult Doc",
+      "release": "2026-01-04T02:25:27Z",
+      "duration": "01:31:43",
+      "explicit": false,
+      "spotifyId": "1nSBFcCxdvLBzp5C7MtsZh",
+      "appleId": 1000743557029,
+      "youTubeId": "Sa4dCfT9wOs",
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1nSBFcCxdvLBzp5C7MtsZh",
+        "apple": "https://podcasts.apple.com/podcast/hot-topics-mary-cosby-cult-doc-mendeecees-vs-funky/id1510062385?i=1000743557029",
+        "youtube": "https://www.youtube.com/watch?v=Sa4dCfT9wOs"
+      }
+    },
+    {
       "id": "4f8c0b2e-cc41-44ec-8de1-98cc51a4cc24",
       "title": "RHOSLC: Mary Cosby\u0027s Cult Doc",
       "release": "2025-12-17T23:34:00Z",

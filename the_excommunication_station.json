@@ -5,6 +5,51 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "f0e2f432-7d88-4a5c-8723-7b67a91498bc",
+      "title": "240. Cult Therapy",
+      "description": "This week, we are joined by the lead singer and creator of the band Cult Therapy, Jason to talk about their album Get Fucked, Sinner. It gets heavy as we talk abuse, death and trauma but also redemption and moving on.",
+      "release": "2026-01-14T06:31:00Z",
+      "duration": "01:57:57.9560000",
+      "explicit": true,
+      "spotifyId": "47VZHhQ84EOsw0CVulBaHE",
+      "appleId": 1000745099447,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/47VZHhQ84EOsw0CVulBaHE",
+        "apple": "https://podcasts.apple.com/podcast/240-cult-therapy/id1573190999?i=1000745099447"
+      }
+    },
+    {
+      "id": "c4264563-cb05-49e0-bc10-326fb3b1411d",
+      "title": "239. Y2K Part II",
+      "description": "This week we are once again joined by Alec of Poison Tulips to finish up our dive into the Y2K panic.",
+      "release": "2026-01-07T06:01:00Z",
+      "duration": "02:14:05.8190000",
+      "explicit": true,
+      "spotifyId": "09Qq4efX8wUSDy2dZ7b4Ng",
+      "appleId": 1000744081526,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/09Qq4efX8wUSDy2dZ7b4Ng",
+        "apple": "https://podcasts.apple.com/podcast/239-y2k-part-ii/id1573190999?i=1000744081526"
+      }
+    },
+    {
+      "id": "bd11abc8-fdc6-4bcb-9adc-43d29d912bda",
+      "title": "238. Y2K Part I W/ Alec Of Poison Tulips",
+      "description": "We dive into the evangelical panic of y2k",
+      "release": "2025-12-31T06:32:00Z",
+      "duration": "01:50:05",
+      "explicit": false,
+      "spotifyId": "7a5LypUMgifN8N6Q6UaWFz",
+      "appleId": 1000743280501,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7a5LypUMgifN8N6Q6UaWFz",
+        "apple": "https://podcasts.apple.com/podcast/238-y2k-part-i-w-alec-of-poison-tulips/id1573190999?i=1000743280501"
+      }
+    },
+    {
       "id": "989bbcb2-25b4-472d-9b89-4788e113907f",
       "title": "LOST EPISODE: 234: Ron Ormond",
       "description": "Newer episode that was taken down.",
