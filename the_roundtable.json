@@ -1,0 +1,27 @@
+{
+  "id": "1e70cf22-6fcc-4e52-9f00-a4b4ea0567bf",
+  "name": "The Roundtable",
+  "spotifyId": "7l01uPfxbHLKgsZnVug2SK",
+  "appleId": 1124477585,
+  "episodes": [
+    {
+      "id": "54696f21-a1bc-4fd8-b570-19049ee25852",
+      "title": "Daniella Mestyanek Young\u0027s new book is \u0022The\u00A0Culting\u00A0of\u00A0America\u0022",
+      "description": "Most of us think we\u2019d never fall for a cult. But toxic groups don\u2019t just exist on the fringe. They thrive in boardrooms, group chats, fitness classes, political rallies, religious groups, and corporate retreats\u2014anywhere we seek identity, purpose, and belonging.The new book, \u0022The Culting of America,\u0022 cult survivor, scholar, and former Army intelligence officer Daniella Mestyanek Young\u2014author of the bestselling memoir Uncultured looks to dismantle the illusion that cults are rare or easy to spot.",
+      "release": "2026-01-20T16:12:00Z",
+      "duration": "00:15:13.4030000",
+      "explicit": false,
+      "spotifyId": "2fgOAW0YqisCvTwo95APd9",
+      "appleId": 1000745922068,
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2fgOAW0YqisCvTwo95APd9",
+        "apple": "https://podcasts.apple.com/podcast/daniella-mestyanek-youngs-new-book-is-the-culting/id1124477585?i=1000745922068"
+      }
+    }
+  ]
+}

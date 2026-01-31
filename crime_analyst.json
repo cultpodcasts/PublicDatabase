@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "6bKm9URMMndkb0ERcq177l",
       "appleId": 1000745701351,
+      "youTubeId": "5gcL-r8JYxI",
       "subjects": [
         "Solid Rock Ministries"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bKm9URMMndkb0ERcq177l",
-        "apple": "https://podcasts.apple.com/podcast/mica-francis-analyzing-the-federal-charges-against/id1545830333?i=1000745701351"
+        "apple": "https://podcasts.apple.com/podcast/mica-francis-analyzing-the-federal-charges-against/id1545830333?i=1000745701351",
+        "youtube": "https://www.youtube.com/watch?v=5gcL-r8JYxI"
       }
     },
     {

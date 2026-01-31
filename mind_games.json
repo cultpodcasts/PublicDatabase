@@ -1,0 +1,44 @@
+{
+  "id": "355f7384-365b-4631-8a91-452c27a8f9ff",
+  "name": "Mind Games",
+  "spotifyId": "2dGSXbJAMN3HVPDJC9ZFkq",
+  "appleId": 1869037215,
+  "episodes": [
+    {
+      "id": "5e625d3a-dd08-4051-acac-c53044e295eb",
+      "title": "The Drummer with the Knives",
+      "description": "1970s Santa Cruz, California\u2013a world of barefoot psychology students, mountain communes, and underground therapy sessions led by a charismatic but troubled young man: Richard Bandler. We go back to the moment Neuro-Linguistic Programming was born, and meet a teenage misfit rocker whose talent for persuasion came with a dangerous edge. We hear from the Bandler\u2019s early followers, including one woman who ended up tied to a burning cross in a therapy game gone wrong. As the origins of NLP come into focus, another question emerges: how did a fringe experiment in an alternative college town grow into a global force for both transformation and manipulation? See omnystudio.com/listener for privacy information.",
+      "release": "2026-01-27T08:15:00Z",
+      "duration": "00:39:42.4980000",
+      "explicit": false,
+      "spotifyId": "6M5J51VTMdz3yF1i4s25bN",
+      "appleId": 1000746822112,
+      "subjects": [
+        "Cult Psychology",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6M5J51VTMdz3yF1i4s25bN",
+        "apple": "https://podcasts.apple.com/podcast/the-drummer-with-the-knives/id1869037215?i=1000746822112"
+      }
+    },
+    {
+      "id": "46a3746b-08f7-4c07-ba4f-f8a4121d37bf",
+      "title": "The Guru\u2019s Guru",
+      "description": "What if someone told you that you could skip years of therapy with a few mental tricks? It sounded impossible\u2026 until we found Neuro-Linguistic Programming. NLP is a form of hypnosis beloved by everyone from sex cults to the U.S. military to fortune 500 companies\u2013yet almost no one knows it exists.\u00A0\n Long before she co-founded NXIVM, hypnotist Nancy Salzman encountered NLP as a radical method for reprogramming the mind. Her story leads us to its inventor, Richard Bandler, a volatile, self-made guru. As we dig into how it took hold in so many places, we face an unsettling possibility: NLP might actually work.\nSee omnystudio.com/listener for privacy information.",
+      "release": "2026-01-20T08:05:00Z",
+      "duration": "00:42:52",
+      "explicit": false,
+      "spotifyId": "6pqXHczx0B764LXxbZn9Mm",
+      "appleId": 1000745862638,
+      "subjects": [
+        "NXIVM",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6pqXHczx0B764LXxbZn9Mm",
+        "apple": "https://podcasts.apple.com/podcast/the-gurus-guru/id1869037215?i=1000745862638"
+      }
+    }
+  ]
+}

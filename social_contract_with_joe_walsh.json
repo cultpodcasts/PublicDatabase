@@ -1,0 +1,31 @@
+{
+  "id": "1d042a3d-3b08-43ca-8205-a435d6d87293",
+  "name": "Social Contract with Joe Walsh",
+  "spotifyId": "0S8Tsi41xw1l4izhpdLyPZ",
+  "appleId": 1590913798,
+  "youTubeChannelId": "UC-KA1iDz_5dLPquH62igDOw",
+  "episodes": [
+    {
+      "id": "50ec05cd-c531-4682-b507-176a8e910d6b",
+      "title": "He Grew Up In A Doomsday Cult. We Discussed Cults/Authoritarianism Today",
+      "description": "I sat down Sean Prophet, who grew up in a large religious cult that became a doomsday cult. His experience gives him an amazing perspective on what\u2019s going on today with Trump and MAGA. His book \u201CMy Cult, Your Cult\u201D came out last year. Fascinating conversation.",
+      "release": "2026-01-22T15:25:30Z",
+      "duration": "00:53:57",
+      "explicit": false,
+      "spotifyId": "0XzKAVvwHmjx3SqLCx6A85",
+      "appleId": 1000746269122,
+      "youTubeId": "ZLxUZFrzoJU",
+      "subjects": [
+        "Church Universal and Triumphant",
+        "Political Cult",
+        "Qanon",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0XzKAVvwHmjx3SqLCx6A85",
+        "apple": "https://podcasts.apple.com/podcast/he-grew-up-in-a-doomsday-cult-we-discussed-cults/id1590913798?i=1000746269122",
+        "youtube": "https://www.youtube.com/watch?v=ZLxUZFrzoJU"
+      }
+    }
+  ]
+}

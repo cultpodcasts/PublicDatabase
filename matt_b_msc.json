@@ -4,6 +4,105 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "de421621-09e9-47a7-92c5-24aa3bcbb3ab",
+      "title": "Going Up Against the British Government : The Sadeghi Family\u0026#39;s Fight for Asylum",
+      "release": "2026-01-30T16:36:29Z",
+      "duration": "00:19:59",
+      "explicit": false,
+      "youTubeId": "mFv_Z0SVHic",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mFv_Z0SVHic"
+      }
+    },
+    {
+      "id": "f1b0d0c0-22f5-4cf0-88eb-fbe9102ea1e4",
+      "title": "Should we separate Human Rights from Humanitarianism? Prof Stephen Hopgood claims so",
+      "release": "2026-01-23T11:09:21Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "youTubeId": "a2p9Hk5whIw",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=a2p9Hk5whIw"
+      }
+    },
+    {
+      "id": "0f46dcd0-cf5c-49d8-a0a9-292599ccdcc7",
+      "title": "Are humanitarian and human rights workers any different? Prof Stephen Hopgood explains",
+      "release": "2026-01-23T11:07:51Z",
+      "duration": "00:01:17",
+      "explicit": false,
+      "youTubeId": "qy-k-Aa-rqc",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qy-k-Aa-rqc"
+      }
+    },
+    {
+      "id": "bf2f0df0-4e46-4407-a154-821e55411b17",
+      "title": "How are the International Criminal Court and the International Committee of the Red Cross similar?",
+      "description": "w/ Stephen Hopgood",
+      "release": "2026-01-21T12:33:15Z",
+      "duration": "00:01:02",
+      "explicit": false,
+      "youTubeId": "PS8FEeH2pwk",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PS8FEeH2pwk"
+      }
+    },
+    {
+      "id": "87667cf0-c130-4055-905e-ef76bdd10624",
+      "title": "Decolonization 2.0: Transforming Humanitarian Aid and Civil Society",
+      "release": "2026-01-21T12:22:05Z",
+      "duration": "00:01:11",
+      "explicit": false,
+      "youTubeId": "3kEV221RkeM",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3kEV221RkeM"
+      }
+    },
+    {
+      "id": "0c8e1180-a963-4010-b9e0-ed7e4073338a",
+      "title": "Reclaiming the Political: Prof Stephen Hopgood\u0026#39;s Case for Repoliticizing Humanitarianism",
+      "release": "2026-01-21T12:17:55Z",
+      "duration": "00:05:57",
+      "explicit": false,
+      "youTubeId": "IAO_n5cUGno",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=IAO_n5cUGno"
+      }
+    },
+    {
+      "id": "9c2fb077-96e0-4b89-91fe-90ec4d961c21",
+      "title": "Insights into International Development: w/ Oxfam-America\u0026#39;s Vice-President for Policy and Advocacy",
+      "release": "2026-01-20T00:10:36Z",
+      "duration": "00:26:33",
+      "explicit": false,
+      "youTubeId": "2DrBEFMGHOk",
+      "subjects": [
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2DrBEFMGHOk"
+      }
+    },
+    {
       "id": "a0ef5152-3c3b-4da0-90e0-bfe9dc15567d",
       "title": "How and why has M\u00E9decins sans Fronti\u00E8res expanded its medical activities over time?",
       "description": "M\u00E9decins sans Fronti\u00E8res/Doctors without Borders",
@@ -3689,34 +3788,6 @@
       }
     },
     {
-      "id": "2ec10c25-e1db-443d-8a8d-6b85fb1fa7de",
-      "title": "What does a \u0026quot;Scientology Expert Witness\u0026quot; do? Claire Headley explains",
-      "release": "2025-03-15T22:05:02Z",
-      "duration": "00:02:17",
-      "explicit": false,
-      "youTubeId": "349H0ULreE8",
-      "subjects": [
-        "Scientology"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=349H0ULreE8"
-      }
-    },
-    {
-      "id": "9fb4b7cf-7d7b-43b5-8ab3-ecc6b0d43b74",
-      "title": "What can litigating Scientology achieve? Ex-Scientologists Marc and Claire Headley share",
-      "release": "2025-03-15T21:47:16Z",
-      "duration": "00:02:39",
-      "explicit": false,
-      "youTubeId": "rsnN-whBLJ8",
-      "subjects": [
-        "Scientology"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=rsnN-whBLJ8"
-      }
-    },
-    {
       "id": "85adbcdc-4733-45bc-b99a-3355aa789573",
       "title": "What do American judges need to use on Scientology? Just a bit of common sense!",
       "release": "2025-03-15T21:41:06Z",
@@ -3812,20 +3883,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=ZF4_PJyjE_I"
-      }
-    },
-    {
-      "id": "a3232247-cf8d-4293-b5ba-56c4fd8b7804",
-      "title": "Waking up from Scientology: Marc Headley\u0026#39;s Story",
-      "release": "2025-03-14T11:33:47Z",
-      "duration": "00:05:21",
-      "explicit": false,
-      "youTubeId": "EyXiBIJPZuY",
-      "subjects": [
-        "Scientology"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=EyXiBIJPZuY"
       }
     },
     {

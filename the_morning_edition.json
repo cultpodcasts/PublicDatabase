@@ -1,0 +1,29 @@
+{
+  "id": "0579336d-ee03-4fc4-bc36-4bc4076e2052",
+  "name": "The Morning Edition",
+  "spotifyId": "1v0tWOA2mdi5WU9hvjJ3da",
+  "appleId": 1436450976,
+  "youTubeChannelId": "UCi-nUi67HVFEtpaFsjRj_NA",
+  "youTubePlaylistId": "PLrLulycax3584BxKI1ZqSySsouknCWiUa",
+  "episodes": [
+    {
+      "id": "145111bc-7282-47a7-9c3d-62718edebbd2",
+      "title": "Nude processing sessions and alleged sexual abuse: The cult still operating in Australia",
+      "description": "She was given the pseudonym XC, by a court, to protect her identity. And she\u2019s never spoken publicly about her experience. But the court documents from her case against Ken Dyers reveal a harrowing set of allegations. At the age of 14, she says that Dyers, the leader of the performing arts and social organisation, Kenja, sexually abused her. And she alleges that nine other members of his organisation \u2013 all but one of them, women \u2013 helped him do it. Dyers was in his early 80s at the time. Today, investigations reporter Harriet Alexander, on why Kenja \u2013 which police have called a cult \u2013 is still operating in cities across Australia. And a warning this episode may be distressing to some listeners. Subscribe to The Age \u0026 SMH: https://subscribe.smh.com.au/ See omnystudio.com/listener for privacy information.",
+      "release": "2026-01-26T18:00:00Z",
+      "duration": "00:20:46.7720000",
+      "explicit": true,
+      "spotifyId": "68Q5B7sP1G7yYL3lenNxjn",
+      "appleId": 1000746731614,
+      "youTubeId": "Gn8qPZKm4Gw",
+      "subjects": [
+        "Kenja Communication"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/68Q5B7sP1G7yYL3lenNxjn",
+        "apple": "https://podcasts.apple.com/podcast/nude-processing-sessions-and-alleged-sexual-abuse/id1436450976?i=1000746731614",
+        "youtube": "https://www.youtube.com/watch?v=Gn8qPZKm4Gw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1963287b-5452-4559-af97-d419507c598f",
+  "name": "NY POSTcast",
+  "spotifyId": "1s6lzR4dg0o5ei5P5SiBLM",
+  "appleId": 1820479072,
+  "youTubeChannelId": "UCWdq3D2NfJUgDP68QgJWEaA",
+  "episodes": [
+    {
+      "id": "881c3c18-5188-4765-a25b-13b50ceda7b1",
+      "title": " Maxwell: 25 Epstein Accomplices Inked \u201CSecret Settlements\u201D",
+      "description": "Ghislaine Maxwell\u2019s latest attempt at freedom includes a claim that 25 of Jeffrey Epstein\u2019s co-conspirators got secret sweetheart settlements. She keeps trying, will her claims work this time? Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-01-30T11:00:00Z",
+      "duration": "00:10:48.8030000",
+      "explicit": false,
+      "spotifyId": "6rzJJgICcdeucC4Zld5dVR",
+      "appleId": 1000747336076,
+      "youTubeId": "7sZKw_n4o6g",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6rzJJgICcdeucC4Zld5dVR",
+        "apple": "https://podcasts.apple.com/podcast/homan-at-the-helm-in-minnesota-maxwell-25-epstein/id1820479072?i=1000747336076",
+        "youtube": "https://www.youtube.com/watch?v=7sZKw_n4o6g"
+      }
+    }
+  ]
+}

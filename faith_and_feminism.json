@@ -5,6 +5,41 @@
   "appleId": 1438368947,
   "episodes": [
     {
+      "id": "1fae541e-c82a-4d9d-8c6e-225b3f3c6189",
+      "title": "Beyond Facts: Why MAGA Women Choose Alternate Realities",
+      "description": "Wellness, faith, and \u0022just asking questions\u0022 have become gateways to extremism. In this episode, The Conspiracists author Noelle Cook breaks down why some women are being radicalized in plain sight\u2014and why shame, facts, and debunking keep failing.",
+      "release": "2026-01-27T21:11:00Z",
+      "duration": "01:23:32.7680000",
+      "explicit": false,
+      "spotifyId": "39Wtk9zOnwS2XkV6PEhnXE",
+      "appleId": 1000746919470,
+      "subjects": [
+        "Political Cult",
+        "Qanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/39Wtk9zOnwS2XkV6PEhnXE",
+        "apple": "https://podcasts.apple.com/podcast/beyond-facts-why-maga-women-choose-alternate-realities/id1438368947?i=1000746919470"
+      }
+    },
+    {
+      "id": "56839e24-164d-4297-800d-bb027647a82b",
+      "title": "Love Your Neighbor Is a Threat: Why Empathy Undermines Christian Nationalism",
+      "description": "In this episode, I interview Katherine Douglass and Brittany Tausen of\u00A0Love Your Neighbor about how psychology helps explain why so many churches struggle with empathy, accountability, and actual love\u2014especially in times of political polarization and social harm. We talk about trauma, reactivity, power, and why unexamined theology often protects institutions instead of people.",
+      "release": "2026-01-21T15:52:00Z",
+      "duration": "01:09:04",
+      "explicit": false,
+      "spotifyId": "4hNUlpbYYqjU9DuqBOefbG",
+      "appleId": 1000746071434,
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4hNUlpbYYqjU9DuqBOefbG",
+        "apple": "https://podcasts.apple.com/podcast/love-your-neighbor-is-a-threat-why-empathy/id1438368947?i=1000746071434"
+      }
+    },
+    {
       "id": "31fb4f72-06bc-4452-888a-f035304276bb",
       "title": "When Everything Feels On Fire: Faith, Anxiety, and the Politics of the Nervous System",
       "description": "In this episode, we speak with Sara Billups the author of Nervous Systems about anxiety as an embodied, collective experience shaping our bodies, churches, and politics. We explore spiritual and somatic practices that calm chronic stress and help us move toward grounded, compassionate, and faithful engagement with the world.",

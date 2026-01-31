@@ -1,6 +1,8 @@
 {
   "id": "6ae3b63e-8da4-4799-ad32-c589bdfb6340",
   "name": "The Way Forward",
+  "spotifyId": "4Pwk2YkC2jnXqSGzsPPrWF",
+  "appleId": 1544492743,
   "youTubeChannelId": "UCrozL7-rFf0JkTWit3gQvvA",
   "episodes": [
     {
@@ -10,11 +12,15 @@
       "release": "2024-07-03T23:00:06Z",
       "duration": "03:24:02",
       "explicit": false,
+      "spotifyId": "28Zte3k0oIsYh9TqWxv0Cy",
+      "appleId": 1000661013381,
       "youTubeId": "ygzPGR1he0w",
       "subjects": [
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/28Zte3k0oIsYh9TqWxv0Cy",
+        "apple": "https://podcasts.apple.com/podcast/ep-104-memoirs-of-a-child-sex-slave-quest-for/id1544492743?i=1000661013381",
         "youtube": "https://www.youtube.com/watch?v=ygzPGR1he0w"
       }
     }

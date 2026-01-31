@@ -859,11 +859,15 @@
       "release": "2024-03-17T15:00:56Z",
       "duration": "00:56:09",
       "explicit": false,
+      "spotifyId": "2A8yhCrT89CVqLehHbvsaL",
+      "appleId": 1000746056092,
       "youTubeId": "uzrF-6s_Oss",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2A8yhCrT89CVqLehHbvsaL",
+        "apple": "https://podcasts.apple.com/podcast/making-the-documentary-a-conversation-with-zoe/id1867524433?i=1000746056092",
         "youtube": "https://www.youtube.com/watch?v=uzrF-6s_Oss"
       }
     },

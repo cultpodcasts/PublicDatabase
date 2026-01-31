@@ -1,0 +1,37 @@
+{
+  "id": "51841f24-d043-44c0-9146-9e15f221a550",
+  "name": "Las Vegas Review-Journal",
+  "youTubeChannelId": "UCKk6TkLfOoXs2T4vfvdGlnw",
+  "episodes": [
+    {
+      "id": "b251e69d-6dea-42a9-a5c3-19d1933066f3",
+      "title": "Las Vegas News | 7@7 PM for Friday, January 30, 2026",
+      "description": "A verdict is reached in the case of the \u0027Dancing with Wolves\u0027 actor accused of sexual assault, Southern Nevada food pantries saw a surge in need last year, a specialized hospital in Henderson is the first of its kind in Nevada and more on 7@7.",
+      "release": "2026-01-31T03:00:05Z",
+      "duration": "00:08:33",
+      "explicit": false,
+      "youTubeId": "pLw4D93jwnM",
+      "subjects": [
+        "Nathan Lee Chasing His Horse"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pLw4D93jwnM"
+      }
+    },
+    {
+      "id": "a1557b97-327a-4669-b12a-a38b28b7b900",
+      "title": "Verdict in Nathan Chasing Horse case",
+      "description": "A verdict has been reached in the sexual assault trial of alleged cult leader Nathan Chasing Horse in Las Vegas.",
+      "release": "2026-01-30T21:44:57Z",
+      "duration": "00:09:56",
+      "explicit": false,
+      "youTubeId": "XLa6vqq6zjk",
+      "subjects": [
+        "Nathan Lee Chasing His Horse"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XLa6vqq6zjk"
+      }
+    }
+  ]
+}

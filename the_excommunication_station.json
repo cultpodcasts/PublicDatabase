@@ -5,6 +5,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "8435f368-95a9-4683-9227-3e484ac3aec9",
+      "title": "242. The Jesus People Part II",
+      "description": "We finish up our broad over view of the Jesus People up to when they fizzle out around 1972-1973.",
+      "release": "2026-01-28T00:17:00Z",
+      "duration": "01:45:27",
+      "explicit": false,
+      "spotifyId": "1chFKxUH7GpTISe62ADxLo",
+      "appleId": 1000746938366,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1chFKxUH7GpTISe62ADxLo",
+        "apple": "https://podcasts.apple.com/podcast/242-the-jesus-people-part-ii/id1573190999?i=1000746938366"
+      }
+    },
+    {
+      "id": "388e3855-6654-492d-b055-66819cdd12d9",
+      "title": "241. The Jesus People Part I",
+      "description": "This week, we start our long deep dive into The Jesus People.",
+      "release": "2026-01-21T06:39:00Z",
+      "duration": "01:55:18.8180000",
+      "explicit": true,
+      "spotifyId": "2AvpWFjQZoGmBI8YUYO06j",
+      "appleId": 1000746004886,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2AvpWFjQZoGmBI8YUYO06j",
+        "apple": "https://podcasts.apple.com/podcast/241-the-jesus-people-part-i/id1573190999?i=1000746004886"
+      }
+    },
+    {
       "id": "f0e2f432-7d88-4a5c-8723-7b67a91498bc",
       "title": "240. Cult Therapy",
       "description": "This week, we are joined by the lead singer and creator of the band Cult Therapy, Jason to talk about their album Get Fucked, Sinner. It gets heavy as we talk abuse, death and trauma but also redemption and moving on.",

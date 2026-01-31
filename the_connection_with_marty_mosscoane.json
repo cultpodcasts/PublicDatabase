@@ -5,6 +5,24 @@
   "appleId": 1667989249,
   "episodes": [
     {
+      "id": "c6cf3592-01c2-404a-86fd-92a6160fd218",
+      "title": "The neuroscience of extremes: altruism and psychopathy",
+      "description": "Neuroscientist Abigail Marsh on extraordinary altruism\u2014people who risk their lives to help strangers\u2014and its opposite: psychopathy, little or no capacity for empathy.",
+      "release": "2026-01-23T17:00:09Z",
+      "duration": "00:49:59.9800000",
+      "explicit": false,
+      "spotifyId": "1HioQXq53QRxu4xZcBzaM1",
+      "appleId": 1000746370286,
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1HioQXq53QRxu4xZcBzaM1",
+        "apple": "https://podcasts.apple.com/podcast/the-neuroscience-of-extremes-altruism-and-psychopathy/id1667989249?i=1000746370286"
+      }
+    },
+    {
       "id": "62a00ca5-2a23-4d81-a2a5-88bd82068f34",
       "title": "Epstein survivors speak out",
       "description": "Survivors Annie Farmer and Liz Stein open up about breaking the culture of silence, coping with public spotlight, and combating sex trafficking.",

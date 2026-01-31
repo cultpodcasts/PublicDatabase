@@ -1,0 +1,25 @@
+{
+  "id": "aac8c7f5-ce94-47a8-a225-078d522a7dbf",
+  "name": "The Wise Mind Happy Hour",
+  "spotifyId": "6sZMTvjGyTYIjXYOFHUAJx",
+  "appleId": 1788700321,
+  "episodes": [
+    {
+      "id": "b6107ce1-adce-4afc-ad13-9c99979b466e",
+      "title": "how wise is it to do another CULT ep? (feat. James Hruska, LCSW)",
+      "description": "Cults are all around us...on TV, on our phones, and maybe even we\u0027re in one. James Hruska (LCSW) joins us for this rousing discussion about hit HBO cult docuseries \u0022The Vow\u0022 and the affiliated NXIVM cult founded by Keith Raniere. - music by blanket forts -",
+      "release": "2026-01-26T12:00:00Z",
+      "duration": "01:32:07.4800000",
+      "explicit": false,
+      "spotifyId": "4b8ppb46Rn5y4DE5qONQxw",
+      "appleId": 1000746688305,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4b8ppb46Rn5y4DE5qONQxw",
+        "apple": "https://podcasts.apple.com/podcast/how-wise-is-it-to-do-another-cult-ep-feat-james-hruska-lcsw/id1788700321?i=1000746688305"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "9bddde72-c5cb-499b-895a-6a5b825905a9",
+  "name": "KOVR-TV",
+  "episodes": [
+    {
+      "id": "778935fd-a208-4c5f-84bb-c9ca266cfcf4",
+      "title": "Cults",
+      "description": "SCREENER with timecode.Description: KOVR-TV special report on cults and why people join them.  Includes interviews and discussion of the need to belong, drug and alcohol issues, and escaping abusive relationships.\u00A0Source: HD scan of the original 16mm film elements by California Revealed.Written on original container and film leader: \u0022KOVR00127 Cults\u0022Copyright:\u00A0Rights are owned by the Center for Sacramento History (CSH). CSH has given the Internet Archive permission to provide access to the digitized work online. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of CSH. In addition, the reproduction of some materials may be restricted by terms of gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing, and trademarks. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.For additional information see California Revealed.",
+      "release": "2019-12-13T02:18:16",
+      "duration": "00:28:25",
+      "explicit": false,
+      "subjects": [
+        "_America",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "internetArchive": "https://archive.org/details/casacsh_000612"
+      }
+    }
+  ]
+}

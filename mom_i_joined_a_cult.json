@@ -5,6 +5,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "a461b4d3-2ae4-43b0-94da-ed6a08e70251",
+      "title": "Julius Caesar - Season 13 Episode 3",
+      "description": "Gunnar tries to convince everyone that Julius Caesar is the most influential person in history.",
+      "release": "2026-01-25T18:18:59Z",
+      "duration": "00:58:02",
+      "explicit": false,
+      "spotifyId": "3kv1OiS684W9yfPq1Gn00U",
+      "appleId": 1000746585705,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3kv1OiS684W9yfPq1Gn00U",
+        "apple": "https://podcasts.apple.com/podcast/julius-caesar-season-13-episode-3/id1565633523?i=1000746585705"
+      }
+    },
+    {
       "id": "63a28fe8-8650-4962-aca2-cfbe73e66c07",
       "title": "Rasputin - Season 13 Episode 2",
       "description": "Thor tries to convince the world that Rasputin is one of the most influential people of all time. Gunnar is not buying what he is selling.",

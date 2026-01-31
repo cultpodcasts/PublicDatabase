@@ -1,0 +1,42 @@
+{
+  "id": "d57e5b26-44ff-4d5e-88b5-b8845a83cc69",
+  "name": "Amy Robach \u0026 T.J. Holmes Present",
+  "spotifyId": "7e0Gtnlpmlo2FiHakJa43x",
+  "appleId": 1814651371,
+  "episodes": [
+    {
+      "id": "77611bce-ffd0-4ec1-a361-3a3ab6d196ab",
+      "title": "The NXIVM Sex Cult Scandal: Branded, Breaking Free and Blowing the Whistle (With Survivor Sarah Edmondson)",
+      "description": "What happens when loyalty turns into blackmail? Sarah Edmondson takes us inside the moment NXIVM crossed an irreversible line: being branded in a room of women bound by fear and secrecy. Sarah describes what led to her breaking point, the risks of speaking out, and how she transformed from devoted insider to whistleblower.\n You can pre-order Sarah Edmondson\u0027s new book here: https://checkout.square.site/merchant/MLR16M1R576DP/checkout/25UI2OVABMV3RD4YF55WQ755\nSee omnystudio.com/listener for privacy information.",
+      "release": "2026-01-27T00:19:10Z",
+      "duration": "00:45:27",
+      "explicit": false,
+      "spotifyId": "6m00z8YOVFmsqbYRgE5zHo",
+      "appleId": 1000746775623,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6m00z8YOVFmsqbYRgE5zHo",
+        "apple": "https://podcasts.apple.com/podcast/the-nxivm-sex-cult-scandal-branded-breaking-free/id1814651371?i=1000746775623"
+      }
+    },
+    {
+      "id": "bb44d11f-4f48-4be0-9fea-33f1e1d4cbc0",
+      "title": "Killer Thriller: The NXIVM Sex Cult Scandal: Getting Sucked In (With Survivor Sarah Edmondson)",
+      "description": "A cult movie that got it wrong. A women\u2019s \u201Csisterhood\u201D that wasn\u2019t what it seemed. And a commitment that came with collateral. On this episode of Killer Thriller, Sarah Edmondson joins us to unpack the reality behind the NXIVM dramatization, how a five-day course turned skepticism into belief, and the moment loyalty crossed into something far more dangerous.\n You can pre-order Sarah Edmondson\u0027s new book here: https://checkout.square.site/merchant/MLR16M1R576DP/checkout/25UI2OVABMV3RD4YF55WQ755\nSee omnystudio.com/listener for privacy information.",
+      "release": "2026-01-23T23:30:23Z",
+      "duration": "00:43:11",
+      "explicit": false,
+      "spotifyId": "3QPURxWXAUsxUAnKtLcJnQ",
+      "appleId": 1000746403972,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3QPURxWXAUsxUAnKtLcJnQ",
+        "apple": "https://podcasts.apple.com/podcast/killer-thriller-the-nxivm-sex-cult-scandal-getting/id1814651371?i=1000746403972"
+      }
+    }
+  ]
+}

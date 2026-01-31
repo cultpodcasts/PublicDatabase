@@ -5,18 +5,37 @@
   "appleId": 1782963274,
   "episodes": [
     {
+      "id": "ed76e21f-0e9d-491f-b114-913625b06cba",
+      "title": "S02 E04 A Numbers Game",
+      "description": "To contact us please email:\u00A0askingforafriendquestions@outlook.com We will respect your anonymity.\nMusic: \u0027You\u0027re Not Who You Say You Are\u0027 by Ancient Modesto, Written by Simon Endeacott, Produced by Ian David c Four Monkeys Records",
+      "release": "2026-01-24T14:35:30Z",
+      "duration": "00:57:15",
+      "explicit": false,
+      "spotifyId": "2THwxnjKfSDfSZqtvbHCI5",
+      "appleId": 1000746471384,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2THwxnjKfSDfSZqtvbHCI5",
+        "apple": "https://podcasts.apple.com/podcast/s02-e04-a-numbers-game/id1782963274?i=1000746471384"
+      }
+    },
+    {
       "id": "7b94975e-9c9e-498a-a522-76c1d6c3d425",
       "title": "S02 E03 Christmas and Cognitive Dissonance",
       "description": "\u0027When Prophecy Fails: a Social and Psychological Study of a Modern Group That Predicted the Destruction of the World\u0027 by Leon Festinger, Henry Riecken, Stanley Schachter\u00A0\nTo contact us please email:\u00A0askingforafriendquestions@outlook.com We will respect your anonymity.\nMusic: \u0027You\u0027re Not Who You Say You Are\u0027 by Ancient Modesto, Written by Simon Endeacott, Produced by Ian David c Four Monkeys Records",
       "release": "2026-01-04T16:09:48Z",
       "duration": "01:06:34",
       "explicit": false,
+      "spotifyId": "0KgRYrmML36nXQO4KMtX4V",
       "appleId": 1000743704849,
       "subjects": [
         "Cult Psychology",
         "The Seekers"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0KgRYrmML36nXQO4KMtX4V",
         "apple": "https://podcasts.apple.com/podcast/s02-e03-christmas-and-cognitive-dissonance/id1782963274?i=1000743704849"
       }
     },
