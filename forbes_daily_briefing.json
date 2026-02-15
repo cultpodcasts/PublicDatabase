@@ -1,0 +1,30 @@
+{
+  "id": "420cd2cc-1400-4720-94a1-897da70b15bf",
+  "name": "Forbes Daily Briefing",
+  "spotifyId": "5GhJLwu2j8sbaLKykBko7x",
+  "appleId": 1660983645,
+  "youTubeChannelId": "UCmh7afBz-uWwOSSNTqUBAhg",
+  "youTubePlaylistId": "PLpndQ-APwbNUJCjVL0Kd9C1j3_DBlfVN0",
+  "episodes": [
+    {
+      "id": "2012efce-27d0-4d87-9b6c-118b2348f07d",
+      "title": "Inside Jeffrey Epstein\u2019s Secretive Silicon Valley Investments",
+      "description": "Thanks to his relationships to tech billionaires like Peter Thiel and Elon Musk, Epstein had access to a number of lucrative tech investments. But he walked away from several deals with major startups that could have netted him hundreds of millions, the new cache of DOJ emails show. \nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2026-02-07T05:00:00Z",
+      "duration": "00:05:15",
+      "explicit": false,
+      "spotifyId": "1PEmsnmv68DLKZZpfrxoxj",
+      "appleId": 1000748626159,
+      "youTubeId": "CsMDpQSKXpw",
+      "subjects": [
+        "_America",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1PEmsnmv68DLKZZpfrxoxj",
+        "apple": "https://podcasts.apple.com/podcast/inside-jeffrey-epsteins-secretive-silicon-valley-investments/id1660983645?i=1000748626159",
+        "youtube": "https://www.youtube.com/watch?v=CsMDpQSKXpw"
+      }
+    }
+  ]
+}

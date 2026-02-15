@@ -5,6 +5,23 @@
   "appleId": 1667989249,
   "episodes": [
     {
+      "id": "b6d4f4eb-ce4b-4581-8ca5-f044fb76f410",
+      "title": "Rethinking PTSD and the new science of resilience",
+      "description": "Psychologist George Bonanno says we have overestimated the debilitating power of post-traumatic stress disorder and underestimated our resilience.",
+      "release": "2026-02-13T17:00:56Z",
+      "duration": "00:50:13.7200000",
+      "explicit": false,
+      "spotifyId": "6DPyLaj16Rg2hcSbkba5fj",
+      "appleId": 1000749634496,
+      "subjects": [
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6DPyLaj16Rg2hcSbkba5fj",
+        "apple": "https://podcasts.apple.com/podcast/rethinking-ptsd-and-the-new-science-of-resilience/id1667989249?i=1000749634496"
+      }
+    },
+    {
       "id": "c6cf3592-01c2-404a-86fd-92a6160fd218",
       "title": "The neuroscience of extremes: altruism and psychopathy",
       "description": "Neuroscientist Abigail Marsh on extraordinary altruism\u2014people who risk their lives to help strangers\u2014and its opposite: psychopathy, little or no capacity for empathy.",

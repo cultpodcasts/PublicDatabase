@@ -1,0 +1,45 @@
+{
+  "id": "8b20b098-b620-41dd-b3e5-791ec5fbd638",
+  "name": "Deep Dive",
+  "spotifyId": "7p1kwebNivv0G1O6mKXnEa",
+  "appleId": 1839194711,
+  "episodes": [
+    {
+      "id": "20a00ae6-0dca-4f19-81e9-ef3a0a365f6b",
+      "title": "The Epstein Files: Was Epstein A Russian Agent?",
+      "description": "Following the explosive revelations in the latest release of Epstein files, historian Andrew Lownie joins Sarah Vine to unpack what we know. The conversation covers the evidence that Epstein ran a blackmail operation with Russian intelligence connections, the wider royal family\u0027s knowledge of Andrew Mountbatten Windsor\u0027s activities, institutional cover-ups, and whether King Charles will address the crisis. Lownie argues this scandal surpasses Profumo in scale and represents a grave threat to public trust in British institutions. A Daily Mail Production. Seriously Popular. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-02-07T06:00:00Z",
+      "duration": "00:32:45.5050000",
+      "explicit": false,
+      "spotifyId": "0X8Bg6uUROHUXLFskgsJsJ",
+      "appleId": 1000748631653,
+      "subjects": [
+        "Human Trafficking",
+        "_America",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0X8Bg6uUROHUXLFskgsJsJ",
+        "apple": "https://podcasts.apple.com/podcast/the-epstein-files-was-epstein-a-russian-agent/id1839194711?i=1000748631653"
+      }
+    },
+    {
+      "id": "f261ecc6-61c8-4ee0-91c7-55e7338f750d",
+      "title": "The Fall Of The House Of York: Entitled",
+      "description": "Paper trails, a dead woman\u2019s revelatory memoir, spies, paying peppercorn rates on his palatial home, a spectacularly misjudged Newsnight interview, how did this once favoured son fall like a dying star from the sky? Forget Edward and Mrs Simpson, it\u2019ll take more than stepping back from the Royal spotlight to escape the allegations and shadows cast by Epstein and his island. In this latest episode Sarah Vine is joined by Andrew Lownie, historian, and author of the revelatory Entitled: The Rise and Fall of the House of York to try to answer some of the questions surrounding Prince Andrew. Presenter: Sarah Vine and Andrew Lownie Producer: Philip Wilding Editor: Alex Graham Executive Producer: Bella Soames A Daily Mail Production. Seriously Popular. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2025-10-29T16:22:53Z",
+      "duration": "00:34:35.9500000",
+      "explicit": false,
+      "spotifyId": "0kMfrfenCZq7jR5s5soTqI",
+      "appleId": 1000734073089,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0kMfrfenCZq7jR5s5soTqI",
+        "apple": "https://podcasts.apple.com/podcast/the-fall-of-the-house-of-york-entitled/id1839194711?i=1000734073089"
+      }
+    }
+  ]
+}

@@ -3,22 +3,25 @@
   "name": "Surviving Podcast",
   "spotifyId": "0kCN6uh73b15zv2mOhr2az",
   "appleId": 1572182113,
+  "youTubeChannelId": "UCAArGtiULHr2cE9c1phqPwg",
   "episodes": [
     {
-      "id": "57bd19a2-0713-4631-9e3e-9221751bc3e9",
-      "title": "The Process of Healing: Ashley Easter 30 Days of Courage",
-      "description": "Can laughter be a lifeline after enduring trauma? Join us as we sit down with Ashley Easter to uncover the power of humor in reclaiming joy and control. Ashley\u0027s story is both heartbreaking and uplifting, as she navigates the absurdity of her past life in a fundamentalist religious cult. Her small acts of rebellion and the discovery of humor as a coping mechanism provide a fresh perspective on finding light amid darkness. This conversation is a testament to the resilience of the human spirit ...",
-      "release": "2024-09-19T04:00:00Z",
-      "duration": "01:00:32",
-      "explicit": false,
-      "spotifyId": "7zLMoLRIi5aqUzamvoBEFb",
-      "appleId": 1000670006924,
+      "id": "325dce01-b81c-4844-812f-d246ef5e86be",
+      "title": "The Prayer Closet: A Survivor Breaks Her Silence on Cult Abuse",
+      "description": "\u0022They told us it was God\u0027s will... but it was actually a nightmare.\u0022 In this episode of Surviving Ish, David sits down with Heather Ford for a conversation that is as raw as it is heartbreaking. Heather finally shares the full, unfiltered truth about her childhood spent inside a restrictive religious cult\u2014from the \u0022prayer closet\u0022 punishments to the dramatic escape that changed everything. But the nightmare didn\u0027t end when the cult did. Heather opens up about the trauma of the foster care system, her sister Nicole\u2019s tragic legacy, and her daily battle with OCD and Fetal Alcohol Syndrome. This isn\u0027t just a story about trauma; it\u2019s a testament to the human spirit\u0027s ability to reclaim its voice. #CultSurvivor #TrueStory #ReligiousAbuse #SurvivingIsh #HeatherFord #FosterCareTrauma #OCDRecovery #EscapingACult #Documentary #InspirationalStories #FetalAlcoholSyndrome https://us.amazon.com/Barbie-Pink-Wall-Secrets-Abuse-ebook/dp/B0GHBX3DKB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.B40aV9BxTb7HoES7zJtPedc4u26gb3CG9yEcO2sct43PS2swVqMDg08_d6Pi6j0qETTgYULzgdgPnDCfo0EcqjXVDxRS7CmkKQsBPxLCRs4PHV72TINB1s8R2N_3OW3vHOboSCGQ4WaL1Z26swR4-hXEef1NCusVrh35y0jVZSz4Lh-JGRuvDrJ1bYMQLS3JJ4E8UvRpqi2HHiLQRwYrQDslBVbPY6fPZIy3jiB8Uwg.x8aYmNj01XZ5JyRfzDCbC9jRirEb_HWAAeWT2pun3Sg\u0026dib_tag=se\u0026qid=1770077913\u0026refinements=p_27%3AHeather\u0026#43;Ford\u0026s=digital-text\u0026sr=1-6 Support the show",
+      "release": "2026-02-05T05:00:00Z",
+      "duration": "01:08:56.5940000",
+      "explicit": true,
+      "spotifyId": "5uhTUckmZ09UoDbPjj5r3R",
+      "appleId": 1000748317114,
+      "youTubeId": "erIKnGyQdx4",
       "subjects": [
-        "Independent Fundamentalist Baptist"
+        "Cult Recovery"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7zLMoLRIi5aqUzamvoBEFb",
-        "apple": "https://podcasts.apple.com/podcast/the-process-of-healing-ashley-easter-30-days-of-courage/id1572182113?i=1000670006924"
+        "spotify": "https://open.spotify.com/episode/5uhTUckmZ09UoDbPjj5r3R",
+        "apple": "https://podcasts.apple.com/podcast/the-prayer-closet-a-survivor-breaks-her-silence-on/id1572182113?i=1000748317114",
+        "youtube": "https://www.youtube.com/watch?v=erIKnGyQdx4"
       }
     },
     {

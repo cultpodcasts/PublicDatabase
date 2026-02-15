@@ -5,6 +5,34 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "4f68c1f4-7e06-4cf1-af3e-7e0123fbbc1e",
+      "title": "Finnstagram - Season 13 Episode 5",
+      "description": "Finn walks us through the making of his album \u0022The Universe as Layers\u0022 that will be coming out 02/27/2026. You can rate his influential potential by going to thenicecult.com .",
+      "release": "2026-02-08T18:48:30Z",
+      "duration": "01:19:15.5160000",
+      "explicit": false,
+      "spotifyId": "4GInn6Fo5gVnTPWhUAeE5Y",
+      "appleId": 1000748798070,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4GInn6Fo5gVnTPWhUAeE5Y",
+        "apple": "https://podcasts.apple.com/podcast/finnstagram-season-13-episode-5/id1565633523?i=1000748798070"
+      }
+    },
+    {
+      "id": "a0d5d4eb-303e-4e93-96c3-08fc303f2dc9",
+      "title": "John Lennon - Season 13 Episode 4",
+      "description": "Nathan brings John Lennon into the fold of the most influential people of all time.",
+      "release": "2026-02-01T17:44:47Z",
+      "duration": "00:58:50.7100000",
+      "explicit": false,
+      "spotifyId": "2vtjx03cGOt0rGgPnLeyvJ",
+      "appleId": 1000747585370,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2vtjx03cGOt0rGgPnLeyvJ",
+        "apple": "https://podcasts.apple.com/podcast/john-lennon-season-13-episode-4/id1565633523?i=1000747585370"
+      }
+    },
+    {
       "id": "a461b4d3-2ae4-43b0-94da-ed6a08e70251",
       "title": "Julius Caesar - Season 13 Episode 3",
       "description": "Gunnar tries to convince everyone that Julius Caesar is the most influential person in history.",

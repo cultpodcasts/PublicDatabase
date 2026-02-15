@@ -4,8 +4,51 @@
   "spotifyId": "7ovPJlPBbP55F7I0v9J0z6",
   "appleId": 1781636710,
   "youTubeChannelId": "UCQXHTFnQYFTqN0MqmNh9EIA",
-  "youTubePlaylistId": "PLz_B0PFGIn4dP8PQoiH-X5FAYSgacE2b4",
+  "youTubePlaylistId": "PL4Z-TOtZ0iINe4GgjWj4Y5jtm7bG0mpvd",
   "episodes": [
+    {
+      "id": "c45b51f3-41d5-463c-85fe-08b98e4d8769",
+      "title": "The Epstein Files: Fact or Fiction?",
+      "description": "Social media has been rife with speculation about what is in the Epstein Files with stories of cannibalism, designer babies, and references to torture. But what is actually true? What more do we know? The episode answers the questions listeners most want answers to. And we hear about the latest legal developments from US lawyer Arick Fudali, who represents 11 survivors of Jeffery Epstein. What does justice now look like for them? Host: Anoushka Mutanda-Dougherty Series Producer: Jim Frank Senior Impact Producer: Daniel Raza Production Coordinator: Hattie Valentine Technical Producer: Cameron Ward Editor: Lisa Baxter Assistant Commissioning Producer: Rechmial Miller Commissioning Producer: Adam Eland Assistant Commissioner: Will Drysdale Commissioning Editor: Rhian Roberts",
+      "release": "2026-02-12T14:45:00Z",
+      "duration": "00:21:04.2480000",
+      "explicit": false,
+      "spotifyId": "5Lqb9wXIoVxvTNNBDxGCou",
+      "appleId": 1000749443485,
+      "youTubeId": "rOHD1F4KSh4",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Lqb9wXIoVxvTNNBDxGCou",
+        "apple": "https://podcasts.apple.com/podcast/the-epstein-files-fact-or-fiction/id1781636710?i=1000749443485",
+        "youtube": "https://www.youtube.com/watch?v=rOHD1F4KSh4",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002qpgc"
+      }
+    },
+    {
+      "id": "6ee0be30-8af2-4bbe-a00e-5399ee9ea39d",
+      "title": "Jay-Z and the Epstein files",
+      "description": "The latest release from the Epstein files has once again thrown the spotlight on numerous famous names such as Bill Gates, Andrew Mountbatten-Windsor and President Trump. But within the millions of documents, other famous names have appeared, so what does it actually mean if your name is connected to the files? One of those mentioned is rapper Jay-Z, included after an FBI tip off many years ago. It\u2019s provoked a big social media interest but is this really a significant development?\n\nAnd in a series of shocking social media posts, rapper Nicki Minaj has made some wild allegations about child abuse involving Jay-Z. In the past Jay-Z has always strongly denied any wrongdoing.\n\nFame Under Fire gets the legal lowdown from resident trial attorney Shaun Kent and separates the fact from the fiction.\n\n0:00 Intro\n2:15 Misinformation and The Epstein Files?\n4:25 Why have sections been redacted?\n5:55 Finding Jay-Z\u2019s name in The Epstein Files\n8:59 Does this tell us anything?\n11:25 Nicki Minaj\u2019s response\n14:23 Is \u2018allegedly\u2019 a legal protection?\n20:10 What happens next - Will Jay-Z sue?\n24:17 Outro\n\n-------------------------------------------------------------------------------------------------------------------------\n\nSubscribe and \uD83D\uDD14 to BBC Sounds YouTube: https://www.youtube.com/c/bbcsounds?sub_confirmation=1\n\nListen to Fame Under Fire on BBC Sounds: https://www.bbc.co.uk/sounds/brand/p0k61syt \n\nWatch Fame Under Fire: https://www.youtube.com/playlist?list=PL4Z-TOtZ0iINe4GgjWj4Y5jtm7bG0mpvd\n\nFresh on BBC Sounds playlist: https://www.youtube.com/playlist?list=PL4Z-TOtZ0iIMjIcANQ9ScCDCmN6PE5GP3\n\n-------------------------------------------------------------------------------------------------------------------------\n#JayZ #JeffreyEpstein #NickiMinaj\n\nWe are BBC Sounds. The home of binge-worthy podcasts, music curated by music lovers and live radio.",
+      "release": "2026-02-05T15:42:00Z",
+      "duration": "00:26:47.1310000",
+      "explicit": true,
+      "spotifyId": "2HscHzPFgrSEjY3RM0KI80",
+      "appleId": 1000748392684,
+      "youTubeId": "NV4WkqorUdI",
+      "subjects": [
+        "Human Trafficking",
+        "_America",
+        "Sean Combs"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2HscHzPFgrSEjY3RM0KI80",
+        "apple": "https://podcasts.apple.com/podcast/jay-z-and-the-epstein-files/id1781636710?i=1000748392684",
+        "youtube": "https://www.youtube.com/watch?v=NV4WkqorUdI",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002qpgb"
+      }
+    },
     {
       "id": "e45aca40-0f76-4a2b-97c4-da667a39810b",
       "title": "Diddy given more than four years in jail",

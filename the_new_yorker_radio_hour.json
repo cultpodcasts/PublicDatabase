@@ -1,0 +1,30 @@
+{
+  "id": "63475b13-6fa4-42f2-ad2c-59ccaac33666",
+  "name": "The New Yorker Radio Hour",
+  "spotifyId": "4ZTHlQzCm7ipnRn1ypnl1Z",
+  "appleId": 1050430296,
+  "youTubeChannelId": "UCsD-Qms-AkXDrsU962OicLw",
+  "youTubePlaylistId": "PLo1TdazaYsopEyBiaUfAlyJxM0LMKuEtp",
+  "episodes": [
+    {
+      "id": "3901d59b-34ed-47e1-b205-e03e526c5bb9",
+      "title": "What Donald Trump and \u201CEveryone\u201D Knew About Jeffrey Epstein",
+      "description": "In January, the Justice Department released over three million documents, including many redacted e-mails, related to Jeffrey Epstein. \u201CShould we share the Julie Brown text with Alan [Dershowitz],\u201D Epstein wrote in one note to a lawyer. \u201CShe is going to start trouble. Asking for victims etc.\u201D Brown\u2019s reporting on Epstein for the Miami Herald, and her revelations about the federal plea deal he received, had an enormous impact on public perception of Epstein and his ties to Trump. Brown joins David Remnick to discuss the latest tranche of redacted e-mails, which show, as she reported , that Trump knew about his friend\u2019s crimes far earlier than he has admitted. Brown and Remnick also talk about Epstein\u2019s relationship with Commerce Secretary Howard Lutnick, and why she does not believe that Epstein died by suicide. New episodes of The New Yorker Radio Hour drop every Tuesday and Friday. Join host David Remnick as he discusses the latest in politics, news, and current events in conversation with political leaders, newsmakers, innovators, New Yorker staff writers, authors, actors, and musicians.",
+      "release": "2026-02-13T18:40:00Z",
+      "duration": "00:35:42.0930000",
+      "explicit": false,
+      "spotifyId": "4alYgv38LqUTBg4f9kjXjK",
+      "appleId": 1000749641848,
+      "youTubeId": "ySTt2AeeWQw",
+      "subjects": [
+        "_America",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4alYgv38LqUTBg4f9kjXjK",
+        "apple": "https://podcasts.apple.com/podcast/what-donald-trump-and-everyone-knew-about-jeffrey-epstein/id1050430296?i=1000749641848",
+        "youtube": "https://www.youtube.com/watch?v=ySTt2AeeWQw"
+      }
+    }
+  ]
+}

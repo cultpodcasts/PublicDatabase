@@ -4,6 +4,38 @@
   "youTubeChannelId": "UCt5Dw7ePnn0AqPqRF8Xpjkw",
   "episodes": [
     {
+      "id": "7a41428c-aaf8-4cb8-82f0-9104c226458a",
+      "title": "Capturan a miembro de Lev Tahor requerido por M\u00E9xico por trata de personas",
+      "description": "La aprehensi\u00F3n se realiz\u00F3 en la zona 9 capitalina.",
+      "release": "2026-02-07T02:30:14Z",
+      "duration": "00:00:51",
+      "explicit": false,
+      "youTubeId": "JR7I0qT3-0s",
+      "subjects": [
+        "Human Trafficking",
+        "Lev Tahor"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JR7I0qT3-0s"
+      }
+    },
+    {
+      "id": "8cfe8dab-4648-4bab-a753-05009857bf86",
+      "title": "Quinto extraditable del a\u00F1o es capturado en Zona 9 Capitalina",
+      "description": "El detenido, de origen israel\u00ED, permanece en la Torre de Tribunales a la espera de audiencia.",
+      "release": "2026-02-06T22:24:45Z",
+      "duration": "00:02:01",
+      "explicit": false,
+      "youTubeId": "htwyjrtr2aA",
+      "subjects": [
+        "Lev Tahor",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=htwyjrtr2aA"
+      }
+    },
+    {
       "id": "404abf3c-1e2b-44e8-997d-0c4d41a34c34",
       "title": "Solo dos menores siguen bajo resguardo estatal tras caso de la secta Lev Tahor",
       "description": "La mayor\u00EDa de menores fue reintegrada tras medidas de protecci\u00F3n y abrigo residencial",

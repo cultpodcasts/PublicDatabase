@@ -1,0 +1,25 @@
+{
+  "id": "2fb82cd7-9a23-4ba4-8519-da27d4ccb6ed",
+  "name": "Their Eyes Were Watching TV",
+  "spotifyId": "6cl4n07R7zxzXBFwGMHov7",
+  "appleId": 1590788401,
+  "episodes": [
+    {
+      "id": "2703904e-f31a-48b6-b372-6f6f6fe9743a",
+      "title": "The Cult of the Real Housewife: Mary Scamdalene",
+      "description": "This week we\u0027re discussing the TLC docuseries \u0022The Cult of the Real Housewife.\u0022 This doc centers around Mary Cosby, of \u0022The Real Housewives of Salt Lake City\u0022 fame, and her controversial church, Faith Temple Pentecostal. And baybeeee, our girl puts the \u0022Christ\u0022 in Christian Dior! From allegedly demanding astronomical tithes from her congregants, to marrying her step-grandfather (because her grandmother insisted on it??), Mary\u0027s life has been under intense scrutiny since RHOSLC premiered. But nothing has loomed larger than the accusations that her church is a cult and its members view Mary as God. Through interviews with relatives \u0026 former church members, and actual audio \u0026 video clips from church services, this docuseries attempts to shine a light on the [allegedly] harmful nature of Faith Temple Pentecostal Church, and the ministry of Mary and Robert Cosby, Sr. \u0022The Cult of the Real Housewife\u0022 is available to stream on HBOMax.",
+      "release": "2026-01-31T07:17:37Z",
+      "duration": "01:44:28.3430000",
+      "explicit": true,
+      "spotifyId": "0657jqaUcniujnYnTljBfc",
+      "appleId": 1000747448559,
+      "subjects": [
+        "Faith Temple Pentecostal Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0657jqaUcniujnYnTljBfc",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-the-real-housewife-mary-scamdalene/id1590788401?i=1000747448559"
+      }
+    }
+  ]
+}

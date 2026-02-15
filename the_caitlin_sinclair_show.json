@@ -1,0 +1,30 @@
+{
+  "id": "f5cc1b5d-36ba-4653-9446-fdca775f9c1d",
+  "name": "The Caitlin Sinclair Show",
+  "spotifyId": "47j9BV2PZlByRM9MuIhZuH",
+  "appleId": 1873995277,
+  "youTubeChannelId": "UC2a35q7eyzkfoIusBzdH4Hw",
+  "youTubePlaylistId": "PLbJbsiKs77FwzXPMtTMD7TWBf23f25DX4",
+  "episodes": [
+    {
+      "id": "008c7dc6-57a8-40ab-aaf5-855123bc7b23",
+      "title": "What the Epstein Files Reveal About America\u2019s Elite",
+      "description": "Millions of documents related to the Jeffrey Epstein case dropped... and it has sparked new questions, renewed scrutiny, and a political firestorm that reaches across party lines. Former Donald Trump attorney Christina Bobb joins Caitlin Sinclair on this episode to break down what was actually released on America\u0027s elite, why the timing matters, and how the fallout could affect both Republicans and Democrats. It\u2019s sharp, unapologetic, and impossible to ignore. If you\u2019ve felt like today\u2019s conversations about the world have moved on without you, you\u2019re in the right place \u2014 welcome to The Caitlin Sinclair Show. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "release": "2026-02-09T20:00:00Z",
+      "duration": "00:27:23.9900000",
+      "explicit": false,
+      "spotifyId": "4kZojO6SSNIPYFf65nBFLy",
+      "appleId": 1000748965556,
+      "youTubeId": "0lGetQkRzao",
+      "subjects": [
+        "_America",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4kZojO6SSNIPYFf65nBFLy",
+        "apple": "https://podcasts.apple.com/podcast/what-the-epstein-files-reveal-about-americas-elite/id1873995277?i=1000748965556",
+        "youtube": "https://www.youtube.com/watch?v=0lGetQkRzao"
+      }
+    }
+  ]
+}

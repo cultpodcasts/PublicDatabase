@@ -1,0 +1,25 @@
+{
+  "id": "36b1c176-05b6-40e6-bd24-a0c215ac0001",
+  "name": "Seattle\u2019s Morning News w/ Charlie Harger \u0026 Manda Factor",
+  "spotifyId": "1zaw2Ni11SKkSGCzefjtFc",
+  "appleId": 403637599,
+  "episodes": [
+    {
+      "id": "b06b8a6f-9e3c-42ca-8b78-cd9efc28de1f",
+      "title": "Gardens of Evil: Inside the Zion Society Cult",
+      "description": "Mike King and Aaron Mason on their new true crime series, \u0022Gardens of Evil: Inside the Zion Society Cult\u0022",
+      "release": "2026-02-05T16:30:32Z",
+      "duration": "00:48:44.8000000",
+      "explicit": false,
+      "spotifyId": "2Wq0ppoOLVtMMuyJKYSwAl",
+      "appleId": 1000748403763,
+      "subjects": [
+        "Zion Community"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Wq0ppoOLVtMMuyJKYSwAl",
+        "apple": "https://podcasts.apple.com/podcast/the-state-income-tax-proposal/id403637599?i=1000748403763"
+      }
+    }
+  ]
+}

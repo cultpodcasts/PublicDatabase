@@ -3,7 +3,25 @@
   "name": "BBC Global News Podcast",
   "spotifyId": "3wBfqov60qDZbEVjPHo0a8",
   "appleId": 135067274,
+  "youTubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
+  "youTubePlaylistId": "PLS3XGZxi7cBVxavyXYaH8jyXjmS4FKCSf",
   "episodes": [
+    {
+      "id": "457c747c-a465-480f-9b7f-b931e98c8232",
+      "title": "Epstein files: UK fallout over Andrew and Mandelson | Global News Podcast",
+      "description": "Photos of Andrew Mountbatten-Windsor, formerly Prince Andrew have been scattered around an English village ahead of a visit by his brother, King Charles. Copies of an image, released in the Epstein files, that appears to show Andrew on all fours over an unidentified woman, were found in the area, which was hosting his brother King Charles and Queen Camilla.\n\nMeanwhile, UK Prime Minister Keir Starmer has apologised to victims of Jeffrey Epstein over his controversial decision to appoint Peter Mandelson as ambassador to the United States - despite his friendship with the late sex-offender. As pressure grows on the prime minister within his party and parliament, Mr Starmer said he was sorry for having believed lies by Lord Mandelson, whose name has appeared in the latest batch of Epstein files.\n\nWe speak to our UK political correspondent Rob Watson about the fallout within the UK Royal Family and the UK government and ask what will happen next.\n\nSubscribe to the Global News Podcast wherever you get your podcasts or find more episodes here: https://bbc.in/GlobalNewsPodcast\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#JeffreyEpstein #UK #BBCNews",
+      "release": "2026-02-05T20:45:04Z",
+      "duration": "00:09:43",
+      "explicit": false,
+      "youTubeId": "mJtUO6yY84Y",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mJtUO6yY84Y"
+      }
+    },
     {
       "id": "3803c26f-e0ad-4bda-b04a-12c6119057b7",
       "title": "Epstein files: New revelations about Trump",

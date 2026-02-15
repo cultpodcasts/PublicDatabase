@@ -1,0 +1,26 @@
+{
+  "id": "e0308988-1e8c-4e2e-bf07-4dca73844265",
+  "name": "The Chris \u0026 Joe Show",
+  "spotifyId": "1JPEr7hmt2UDAMBORszrY1",
+  "appleId": 1728951966,
+  "episodes": [
+    {
+      "id": "57497f4f-f3ce-4b2e-8bc1-658173563400",
+      "title": "Inside the Zion Society Cult\u00A0",
+      "description": "From the terrifying true crime unfolding in our back yard to one that went on for years under our noses. Mike King is the detective who lead an investigation that broke up a cult.\u00A0",
+      "release": "2026-02-04T22:38:03Z",
+      "duration": "00:10:38",
+      "explicit": false,
+      "spotifyId": "1OWos5zcS00sYYkrff3fUZ",
+      "appleId": 1000748277241,
+      "subjects": [
+        "Zion Community",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1OWos5zcS00sYYkrff3fUZ",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-zion-society-cult/id1728951966?i=1000748277241"
+      }
+    }
+  ]
+}

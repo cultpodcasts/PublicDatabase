@@ -4,12 +4,30 @@
   "youTubeChannelId": "UCrcW5RwDkuS5RUMM_RNLvmw",
   "episodes": [
     {
+      "id": "4ba440f6-fcb7-4efe-9058-1fdf178ff676",
+      "title": "Panorama - Knife Crime: What Happened to Our Boys?",
+      "description": "Kelyan Bokassa was\u00A0murdered\u00A0on a bus in broad daylight in Woolwich in south east London in January 2025. He was 14 years old. A few weeks earlier, his friend, 15-year-old Daejaun Campbell, was also murdered in a knife attack on a nearby street. Both boys were being exploited by criminal gangs. Their mothers tell Panorama they knew their sons were in danger, and that they desperately tried to get help. But they say the authorities failed them. The local council says it\u0027s working hard to tackle knife crime, and that it is committed to learning from what happened.\n\nSo how did Kelyan and Daejaun slip through the cracks of a system which is meant to keep children safe? Reporter Frankie McCamley traces the lives of two lost boys and follows the mothers left behind, who now want answers.",
+      "release": "2026-02-09T20:00:00",
+      "duration": "00:58:00",
+      "explicit": false,
+      "subjects": [
+        "_London",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002r7tb/panorama-knife-crime-what-happened-to-our-boys"
+      }
+    },
+    {
       "id": "8d3a65bf-d9d7-4597-93fc-690d29058bfd",
       "title": "Cancer Conspiracy Theories: Why Did Our Sister Die?",
       "description": "Marianna Spring investigates the rise of health conspiracy theories. Are social media companies\u2019 algorithms pushing potentially harmful content at vulnerable patients?",
       "release": "2025-06-23T20:00:00",
       "duration": "00:29:00",
       "explicit": false,
+      "subjects": [
+        "Cult Psychology"
+      ],
       "urls": {
         "bbc": "https://www.bbc.co.uk/iplayer/episode/m002f2c4/panorama-cancer-conspiracy-theories-why-did-our-sister-die"
       }

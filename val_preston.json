@@ -97,21 +97,6 @@
       }
     },
     {
-      "id": "9cfc20f6-9432-4842-827c-2c8749f3fb07",
-      "title": "Susan \u0026 Tony Alamo - Religious Cult Documentary 1971 #susanalamo #preaching",
-      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use",
-      "release": "2025-02-07T13:12:09Z",
-      "duration": "00:35:09",
-      "explicit": false,
-      "youTubeId": "TvxeX9vK7c0",
-      "subjects": [
-        "Alamo Christian Foundation"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=TvxeX9vK7c0"
-      }
-    },
-    {
       "id": "a60b5bcf-f51d-4eef-9896-dcdad190e84b",
       "title": "The Wave (1981) full movie",
       "description": "American High School students learn how easy it is to be seduced by the same social forces which led to the horrors of Nazi Germany. Based on a true story",
@@ -181,7 +166,8 @@
       "explicit": false,
       "youTubeId": "IThVzuOXxdc",
       "subjects": [
-        "Manson Family"
+        "Manson Family",
+        "Ed Gein"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=IThVzuOXxdc"

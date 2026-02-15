@@ -1,0 +1,30 @@
+{
+  "id": "c1f6343b-aa7f-48ca-932b-7d5ef6b8cccf",
+  "name": "ABC News Daily",
+  "spotifyId": "1D4A4NKKF0axPvAS7h31Lu",
+  "appleId": 1349523628,
+  "youTubeChannelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+  "youTubePlaylistId": "PLn2RjxYNpcazZe2QhC7vAjasGOYFNifcT",
+  "episodes": [
+    {
+      "id": "ed331670-5aeb-4106-902e-06397a6bd97e",
+      "title": "Will the Epstein files bring down the British PM?",
+      "description": "Donald Trump was Jeffrey Epstein\u2019s one time friend and his name appears countless times in the Epstein files. But it\u2019s not the US president who\u2019s currently fighting for his political survival. Instead, it\u2019s the British leader Keir Starmer who\u2019s on very shaky ground, even though he\u2019s not in the documents. Today, professor of politics at Deakin University, Simon Tormey, on how he became so deeply embroiled in the controversy. Featured: Simon Tormey, Executive Dean of Arts and Education and Professor of Politics at Deakin University Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-02-12T15:00:00Z",
+      "duration": "00:14:53.4660000",
+      "explicit": false,
+      "spotifyId": "5VOrs4u3PHeSf4IAjpqKlr",
+      "appleId": 1000749445799,
+      "youTubeId": "iiX-FrgVbag",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5VOrs4u3PHeSf4IAjpqKlr",
+        "apple": "https://podcasts.apple.com/podcast/will-the-epstein-files-bring-down-the-british-pm/id1349523628?i=1000749445799",
+        "youtube": "https://www.youtube.com/watch?v=iiX-FrgVbag"
+      }
+    }
+  ]
+}

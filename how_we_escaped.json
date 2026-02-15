@@ -1,0 +1,25 @@
+{
+  "id": "58ccd286-2508-493f-8f9e-a685ea185913",
+  "name": "How We Escaped",
+  "spotifyId": "6qtZIVa0coHh6Q9OSbL5gC",
+  "appleId": 1874694247,
+  "youTubeChannelId": "UCqcsYitrOCmL4pRq6WjMHcA",
+  "episodes": [
+    {
+      "id": "c320d553-804e-46b7-bb0a-9ce12b370b48",
+      "title": "The Nameless Church ",
+      "description": "Deborah was born into a nameless church \u2014 a high-control group that rejected labels, claiming they were simply \u201Csaints gathered to the name of the Lord Jesus Christ.\u201D In this episode, Deborah recounts her years inside this insular community and traces the difficult path that ultimately led her to freedom. Visit our show\u0027s website: HowWeEscaped.com -------------------------------------- Credits: \u0022Ether Vox\u0022 Kevin MacLeod (incompetech.com) Licensed underCreative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/ \u0022ComfortableMystery 3\u0022 Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/ Beautiful AmbientMelody by PatrickLieberkind -- https://freesound.org/s/341541/ -- License: Attribution 4.0 CALL FROM JAPAN AIRLINES IN LAX AIRPORT by _CAZAPROD_ --https://freesound.org/s/432060/ -- License: Creative Commons 0",
+      "release": "2026-02-04T19:41:32Z",
+      "duration": "01:58:27.6820000",
+      "explicit": true,
+      "spotifyId": "5DzMHpJBPeriTtKRhJQyrY",
+      "appleId": 1000748256505,
+      "youTubeId": "16FhhX99BEA",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5DzMHpJBPeriTtKRhJQyrY",
+        "apple": "https://podcasts.apple.com/podcast/the-nameless-church/id1874694247?i=1000748256505",
+        "youtube": "https://www.youtube.com/watch?v=16FhhX99BEA"
+      }
+    }
+  ]
+}

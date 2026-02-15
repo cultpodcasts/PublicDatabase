@@ -1,0 +1,25 @@
+{
+  "id": "057c5152-cd66-489c-a547-10efc760071b",
+  "name": "Whicker\u0027s World",
+  "episodes": [
+    {
+      "id": "1039b66d-fd07-4fd0-9bbf-38a828058503",
+      "title": "The Most Beautiful Brainwashing There Ever Was...",
+      "description": "1973",
+      "release": "2022-06-28T09:08:16",
+      "duration": "00:25:34",
+      "explicit": false,
+      "youTubeId": "8pTYDMot6Bg",
+      "subjects": [
+        "Alamo Christian Foundation",
+        "Children Of God",
+        "Calvary Chapel",
+        "Jesus People USA"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8pTYDMot6Bg",
+        "internetArchive": "https://archive.org/details/the-most-beautiful-brainwashing-there-ever-was...-1971"
+      }
+    }
+  ]
+}

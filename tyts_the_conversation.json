@@ -12,6 +12,8 @@
       "release": "2025-12-20T04:24:35Z",
       "duration": "00:41:38",
       "explicit": false,
+      "spotifyId": "2JV6EQu0btwFbIqpCbfr9h",
+      "appleId": 1000748394307,
       "youTubeId": "a3ZQYFh-AF0",
       "subjects": [
         "Cult-Expert",
@@ -19,6 +21,8 @@
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2JV6EQu0btwFbIqpCbfr9h",
+        "apple": "https://podcasts.apple.com/podcast/cult-scholar-answers-the-question-what-is-the-point-of-a-cult/id907525523?i=1000748394307",
         "youtube": "https://www.youtube.com/watch?v=a3ZQYFh-AF0"
       }
     }

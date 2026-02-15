@@ -1,0 +1,25 @@
+{
+  "id": "6e15b363-c2de-4fea-a40a-bcd27a244368",
+  "name": "Frightday",
+  "spotifyId": "14ioP0zfFczK8hKPsDUmko",
+  "appleId": 951360425,
+  "episodes": [
+    {
+      "id": "0ec0b356-4bd4-4808-a9fb-8fef8b146db7",
+      "title": "Behind the Screams: Did Byron Join a Cult? (Excerpt)",
+      "description": "This is a preview of the content you can expect when you support us by joining the Frightday Society at http://thefrightdaysociety.org. Byron has returned from hims 10 Day Vipassana silent meditation retreat, east of Austin, TX...and now it\u0027s time to unpack.",
+      "release": "2026-02-11T21:04:00Z",
+      "duration": "00:17:01.9360000",
+      "explicit": false,
+      "spotifyId": "6IUqOwX11LmAzX6mM51Qoc",
+      "appleId": 1000749320491,
+      "subjects": [
+        "S. N. Goenka"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6IUqOwX11LmAzX6mM51Qoc",
+        "apple": "https://podcasts.apple.com/podcast/behind-the-screams-did-byron-join-a-cult-excerpt/id951360425?i=1000749320491"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f3ebaa36-e322-4eeb-9a18-2ea79428e38c",
+  "name": "Trauma Bond with Theresa Bateman",
+  "spotifyId": "0poQDYkhKF8xxgP3mBiP0U",
+  "appleId": 1855332934,
+  "youTubeChannelId": "UCKzYz2fJUhUfH4lYZr1ljvg",
+  "episodes": [
+    {
+      "id": "faf82e60-eac3-4c42-88c5-38be19c232aa",
+      "title": "Closeted in the Doomsday Cult: Trauma Bond with Brent Peters",
+      "description": "Join Theresa as she explores the rich tapestry of Brent Peter\u2019s life. From his experience as a teen in a doomsday cult to the sublime moment of accepting his gayness while half drunk on sacramental wine, this episode is for all those perpetually curious.",
+      "release": "2026-02-13T07:38:26Z",
+      "duration": "01:11:58",
+      "explicit": false,
+      "spotifyId": "6Xt0GK2nJqJFASX6usEVV7",
+      "appleId": 1000741323514,
+      "youTubeId": "1gqGB41CL6k",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6Xt0GK2nJqJFASX6usEVV7",
+        "apple": "https://podcasts.apple.com/podcast/closeted-in-the-doomsday-cult-trauma-bond-with-brent-peters/id1855332934?i=1000741323514",
+        "youtube": "https://www.youtube.com/watch?v=1gqGB41CL6k"
+      }
+    }
+  ]
+}

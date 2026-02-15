@@ -1,0 +1,26 @@
+{
+  "id": "76ff21c4-ad89-48bd-b5a1-2f75f2b84c05",
+  "name": "Listen to the Story",
+  "spotifyId": "63oU7DqDPX5fgnWYuJ3Alo",
+  "appleId": 1578781150,
+  "episodes": [
+    {
+      "id": "cd4041cf-b505-4268-a86a-0d7b4459ce59",
+      "title": "The Georgia Pastor Accused of Defrauding the VA of Nearly $24 Million",
+      "description": "The founder of House of Prayer held himself out as a prophet. Former members of the church say he used fundamentalist teachings to manipulate them. By\u00A0Chris Pomorski\nSee omnystudio.com/listener for privacy information.",
+      "release": "2026-02-13T11:00:00Z",
+      "duration": "00:48:23",
+      "explicit": false,
+      "spotifyId": "3EvSUZGnAUyCG2PYp0P5od",
+      "appleId": 1000749581384,
+      "subjects": [
+        "House Of Prayer Christian Church",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3EvSUZGnAUyCG2PYp0P5od",
+        "apple": "https://podcasts.apple.com/podcast/the-georgia-pastor-accused-of-defrauding-the-va/id1578781150?i=1000749581384"
+      }
+    }
+  ]
+}

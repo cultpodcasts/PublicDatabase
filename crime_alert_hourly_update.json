@@ -1,0 +1,28 @@
+{
+  "id": "871ca2d2-14e8-4668-bdb1-b75ec54a4c7a",
+  "name": "Crime Alert Hourly Update",
+  "spotifyId": "5r4p8Dp9rtbmzxEGKv4Juo",
+  "appleId": 1415787912,
+  "youTubeChannelId": "UCq1fed30v1mFa0JsHfBlXiQ",
+  "episodes": [
+    {
+      "id": "9bc8d64a-77bc-472a-8369-cedbb1b0bace",
+      "title": "Vanished: Six Missouri Residents Connected to \u2018Cosmic Cult,\u2019 Investigators Reveal | Crime Alert 1...",
+      "description": "Authorities in Missouri are actively searching for a group of six individuals, including four adults and two children, who have been missing since July. New evidence suggests potential links to a cult known as the \u0027University of Cosmic Intelligence.\u0027\n\n\nSee omnystudio.com/listener (https://omnystudio.com/listener)  for privacy information.",
+      "release": "2026-02-06T17:28:52Z",
+      "duration": "00:09:32",
+      "explicit": false,
+      "spotifyId": "5LbGLW0epSf7M2LLhiW98O",
+      "appleId": 1000748564518,
+      "youTubeId": "KPoKnp7swlw",
+      "subjects": [
+        "University of Cosmic Intelligence"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5LbGLW0epSf7M2LLhiW98O",
+        "apple": "https://podcasts.apple.com/podcast/vanished-six-missouri-residents-connected-to-cosmic/id1415787912?i=1000748564518",
+        "youtube": "https://www.youtube.com/watch?v=KPoKnp7swlw"
+      }
+    }
+  ]
+}

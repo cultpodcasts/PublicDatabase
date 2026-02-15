@@ -1,0 +1,32 @@
+{
+  "id": "1de98526-0306-4344-8db4-b07bfc8be95b",
+  "name": "The Intelligence from The Economist",
+  "spotifyId": "12zKAMNyS2GNentUzxq9QN",
+  "appleId": 1449631195,
+  "youTubeChannelId": "UC0p5jTq6Xx_DosDFxVXnWaQ",
+  "youTubePlaylistId": "PL0KWoY2XZKw7QvGF-xryV2K7uPG1Y0xjh",
+  "episodes": [
+    {
+      "id": "304ddc61-36b3-4069-8eba-ba46d30a1817",
+      "title": "Why are so many people joining cults?",
+      "description": "Is the internet helping cults thrive? The Economist\u2019s News editor, Carla Subirana Art\u00FAs, and co-host of The Intelligence podcast, Rosie Blau, explore how social media has helped cults gain large numbers of new followers.  \n\n00:00 \u2013 How is the internet changing how cults operate?\n01:06 \u2013 How many cults actually exist today?\n02:06 \u2013 What actually is a cult?\n04:57 \u2013 How dangerous are online cults?\n05:31 \u2013 What can be done to stop cults?",
+      "release": "2026-02-05T10:32:11Z",
+      "duration": "00:07:32",
+      "explicit": false,
+      "spotifyId": "1hZt0rAnIZBHZ5P28pKFTu",
+      "appleId": 1000748355174,
+      "youTubeId": "SfG0PeMS2tQ",
+      "subjects": [
+        "Cult Psychology",
+        "Opus Dei",
+        "Catholicism",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1hZt0rAnIZBHZ5P28pKFTu",
+        "apple": "https://podcasts.apple.com/podcast/nukes-of-hazard-us-russia-arms-treaty-expires/id1449631195?i=1000748355174",
+        "youtube": "https://www.youtube.com/watch?v=SfG0PeMS2tQ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "0c656fa8-bbbb-4e00-b3a7-da96e620c7d9",
+  "name": "The News Agents - USA",
+  "spotifyId": "7BUOVxdCXnRJ1pc8O3kC70",
+  "appleId": 1692381473,
+  "youTubeChannelId": "UCVbgFf27--l2zYAneDEgyJA",
+  "youTubePlaylistId": "PLVzgIU3p2cohIT9TC78zn309rzrXmlvim",
+  "episodes": [
+    {
+      "id": "56c5dcf9-851c-4255-9f6e-7518e304e954",
+      "title": "Why are the Epstein files revealing more about the victims than the villains?",
+      "description": "In an exclusive interview with Emily, Amy Wallace - who co-authored Virginia Giuffre\u0027s posthumous memoir - warns that lives are being put in danger by the way that the US department of justice has handled the Epstein files. Why are victims\u0027 names appearing unredacted but possible perpetrators are having their names concealed, and testimony against them omitted entirely? Donald Trump has told America to move on and focus on something \u0022people care about\u0022. Does the President\u0027s feeble attempt to draw a line under the Epstein files only strengthen the resolve to get to the bottom of the scandal and bring about justice? The News Agents USA is brought to you by HSBC UK - https://www.hsbc.co.uk/",
+      "release": "2026-02-04T18:04:00Z",
+      "duration": "00:27:25.4530000",
+      "explicit": false,
+      "spotifyId": "34gk7Jl3VKPCudk7wdqWJO",
+      "appleId": 1000748242748,
+      "youTubeId": "lEa64m6Pk3Q",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/34gk7Jl3VKPCudk7wdqWJO",
+        "apple": "https://podcasts.apple.com/podcast/why-are-the-epstein-files-revealing-more-about/id1692381473?i=1000748242748",
+        "youtube": "https://www.youtube.com/watch?v=lEa64m6Pk3Q"
+      }
+    }
+  ]
+}

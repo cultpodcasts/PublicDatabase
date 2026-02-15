@@ -1,0 +1,30 @@
+{
+  "id": "b9fb84df-3550-4e19-bc4a-99e245c22440",
+  "name": "Le Grand Dossier",
+  "spotifyId": "2kWT6gQeQfi1TTxgGw34ki",
+  "appleId": 1828675780,
+  "youTubeChannelId": "UCewhc0fvja891XkpIPGRMxQ",
+  "youTubePlaylistId": "PLdzIP_iC3tqvMRCr0LX_NOJJ-ttmHJDS9",
+  "episodes": [
+    {
+      "id": "1b691b98-b095-4ff4-9250-ec5de67628a5",
+      "title": "Affaire Epstein : r\u00E9v\u00E9lations sur un scandale fran\u00E7ais\uFF5CLCI",
+      "description": "Parmi les milliers de documents publi\u00E9s par la justice am\u00E9ricaine apparaissent les noms de musiciens fran\u00E7ais, tels qu\u2019un pianiste ou encore un chef d\u2019orchestre : Fr\u00E9d\u00E9ric Chaslin. Chaque jour, de nouvelles empreintes de Jeffrey Epstein sont retrouv\u00E9es. Jusqu\u2019o\u00F9 ce scandale va\u2011t\u2011il nous mener ?",
+      "release": "2026-02-12T17:10:49Z",
+      "duration": "01:08:54.8900000",
+      "explicit": false,
+      "spotifyId": "3iC5xnFfIl2INkf7X1qJ6W",
+      "appleId": 1000749506568,
+      "youTubeId": "ihFbls_1pG8",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3iC5xnFfIl2INkf7X1qJ6W",
+        "apple": "https://podcasts.apple.com/podcast/le-grand-dossier-du-jeudi-12-f%C3%A9vrier-2026/id1828675780?i=1000749506568",
+        "youtube": "https://www.youtube.com/watch?v=ihFbls_1pG8"
+      }
+    }
+  ]
+}

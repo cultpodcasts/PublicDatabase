@@ -3,6 +3,7 @@
   "name": "The Opperman Report",
   "spotifyId": "6jULai3JCSiCzoQWfuZk4F",
   "appleId": 975926302,
+  "youTubeChannelId": "UCBe7qzGO2R3Am8sisHya-Zg",
   "episodes": [
     {
       "id": "8b04b3c9-202d-4e25-97f7-f43e4b8b4bc8",
@@ -47,13 +48,15 @@
       "explicit": false,
       "spotifyId": "5WmJSKNk3X341NaY11SQMn",
       "appleId": 1000718379604,
+      "youTubeId": "gnfQY3lWGX8",
       "subjects": [
         "Process Church of the Final Judgement",
         "David Berkowitz"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5WmJSKNk3X341NaY11SQMn",
-        "apple": "https://podcasts.apple.com/podcast/mike-codella-nypd-investigated-son-of-sam-process/id975926302?i=1000718379604"
+        "apple": "https://podcasts.apple.com/podcast/mike-codella-nypd-investigated-son-of-sam-process/id975926302?i=1000718379604",
+        "youtube": "https://www.youtube.com/watch?v=gnfQY3lWGX8"
       }
     },
     {

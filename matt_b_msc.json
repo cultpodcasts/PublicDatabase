@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "30e2b5c7-c366-43d3-8b5f-aafb4771d1cc",
+      "title": "\u0026quot;Keep Them Out\u0026quot;: A Documentary about Middle-English Attitudes to Refugees",
+      "release": "2026-02-01T13:48:57Z",
+      "duration": "00:49:09",
+      "explicit": false,
+      "youTubeId": "7Fb_kuJsczw",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=7Fb_kuJsczw"
+      }
+    },
+    {
+      "id": "6aa2e767-daf3-422e-b26a-7074c90e0c6b",
+      "title": "Going Up Against the British Government: A Torture Victim\u0026#39;s Struggle for Asylum",
+      "release": "2026-01-31T14:47:51Z",
+      "duration": "00:12:03",
+      "explicit": false,
+      "youTubeId": "xhGViyEcW8U",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xhGViyEcW8U"
+      }
+    },
+    {
       "id": "de421621-09e9-47a7-92c5-24aa3bcbb3ab",
       "title": "Going Up Against the British Government : The Sadeghi Family\u0026#39;s Fight for Asylum",
       "release": "2026-01-30T16:36:29Z",

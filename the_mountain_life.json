@@ -1,0 +1,28 @@
+{
+  "id": "3286703d-8e54-412c-9e90-b11b0e03ae7d",
+  "name": "The Mountain Life",
+  "spotifyId": "1Qua3s4F90b9VJ3ut6wj6v",
+  "appleId": 1384743665,
+  "episodes": [
+    {
+      "id": "3df1c36c-ca18-4254-9427-0f71182980ab",
+      "title": "Cults are everywhere - and you\u0027re probably in one whether you know it or not",
+      "description": "Whether you\u2019re part of a charismatic company culture, church, fandom, or political movement, you\u0027re likely invested far more deeply than you realize, according to author Daniella Mestyanek Young in her new book \u0022The Culting of America.\u0022",
+      "release": "2026-02-11T19:15:51Z",
+      "duration": "00:25:24",
+      "explicit": false,
+      "spotifyId": "6QcQ9JjVXKxECecFXv14DA",
+      "appleId": 1000749307878,
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "_America",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6QcQ9JjVXKxECecFXv14DA",
+        "apple": "https://podcasts.apple.com/podcast/cults-are-everywhere-and-youre-probably-in-one/id1384743665?i=1000749307878"
+      }
+    }
+  ]
+}

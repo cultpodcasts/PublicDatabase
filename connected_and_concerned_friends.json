@@ -4,6 +4,20 @@
   "youTubeChannelId": "UCwWrCryuLBlmvjCcydtAUwg",
   "episodes": [
     {
+      "id": "784b99c2-fffd-4d41-bab4-ba21bcfc3e8e",
+      "title": "Personal Story : Andrew Jacques",
+      "release": "2026-01-31T21:29:39Z",
+      "duration": "01:01:15",
+      "explicit": false,
+      "youTubeId": "iPMVfgZhWDM",
+      "subjects": [
+        "Two By Twos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iPMVfgZhWDM"
+      }
+    },
+    {
       "id": "196a8d4a-8545-4041-be90-8d20c9b1f922",
       "title": "Personal Story : Paul Svendsen",
       "release": "2026-01-31T02:36:05Z",
@@ -74,20 +88,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=EZlOem4meJk"
-      }
-    },
-    {
-      "id": "f32965f7-4ae1-4e41-9e31-31584d6922eb",
-      "title": "Personal Story : Susanna Matingou",
-      "release": "2025-12-06T20:24:10Z",
-      "duration": "00:31:50",
-      "explicit": false,
-      "youTubeId": "5bBsmzE-DhY",
-      "subjects": [
-        "Two By Twos"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=5bBsmzE-DhY"
       }
     },
     {

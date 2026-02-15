@@ -1,0 +1,52 @@
+{
+  "id": "1272b6b1-e0bb-42f2-b4a9-550e0db48882",
+  "name": "FOX Carolina News",
+  "youTubeChannelId": "UCEm0gdukLIfI9P-LzLy2DIQ",
+  "episodes": [
+    {
+      "id": "fec728a5-bd56-40f9-bfb6-97ac478cc79c",
+      "title": "Independent counsel to investigate alleged misconduct in Word of Faith Fellowship proceedings",
+      "description": "Word of Faith Fellowship, based in Rutherford County, has been accused of operating as a cult over the last several years.\r\n\r\nFor more Local News from WHNS: https://www.foxcarolina.com/\r\nFor more YouTube Content: https://www.youtube.com/channel/UCEm0gdukLIfI9P-LzLy2DIQ",
+      "release": "2026-01-01T04:41:27Z",
+      "duration": "00:01:09",
+      "explicit": false,
+      "youTubeId": "Yftzt8uvAis",
+      "subjects": [
+        "Word of Faith Fellowship"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Yftzt8uvAis"
+      }
+    },
+    {
+      "id": "5c427f5c-9798-4831-bdef-6f4b7ca6e239",
+      "title": "WNC CULT COURT FILING",
+      "description": "WNC CULT COURT FILING\r\n  \r\n For more Local News from WHNS:  https://www.foxcarolina.com/\r\n For more YouTube Content: https://www.youtube.com/channel/UCEm0gdukLIfI9P-LzLy2DIQ",
+      "release": "2025-12-04T04:10:46Z",
+      "duration": "00:02:20",
+      "explicit": false,
+      "youTubeId": "l4UScVPir5E",
+      "subjects": [
+        "Word of Faith Fellowship"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=l4UScVPir5E"
+      }
+    },
+    {
+      "id": "f1de2532-095a-4fab-a187-a33a962b3796",
+      "title": "Lawyer Lori breaks down the Daybell case",
+      "description": "Lawyer Lori breaks down the Daybell case\r\n  \r\n For more Local News from WHNS:  https://www.foxcarolina.com/\r\n For more YouTube Content: https://www.youtube.com/channel/UCEm0gdukLIfI9P-LzLy2DIQ",
+      "release": "2023-03-29T17:08:23Z",
+      "duration": "00:05:52",
+      "explicit": false,
+      "youTubeId": "xSNc7Y7glvo",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xSNc7Y7glvo"
+      }
+    }
+  ]
+}

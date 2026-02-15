@@ -5,6 +5,40 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "db22667a-8e83-4919-a341-6850c25001d2",
+      "title": "244. Children Of God Part II",
+      "description": "We come back to one of the worst cults of all time.",
+      "release": "2026-02-11T00:50:00Z",
+      "duration": "01:58:08.6400000",
+      "explicit": true,
+      "spotifyId": "03Scrlb2LuV7zh2TxqDpkK",
+      "appleId": 1000749165545,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/03Scrlb2LuV7zh2TxqDpkK",
+        "apple": "https://podcasts.apple.com/podcast/244-children-of-god-part-ii/id1573190999?i=1000749165545"
+      }
+    },
+    {
+      "id": "80353d2b-3572-4fab-8a35-41fc669dc03f",
+      "title": "243. The Children Of God Part I",
+      "description": "We start our dive into Jesus People communes and cults with the most notorious, The Children Of God",
+      "release": "2026-02-04T02:00:00Z",
+      "duration": "01:18:01.5340000",
+      "explicit": true,
+      "spotifyId": "7MxOtPKpaWge9A0Y4eEvO8",
+      "appleId": 1000747954364,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7MxOtPKpaWge9A0Y4eEvO8",
+        "apple": "https://podcasts.apple.com/podcast/243-the-children-of-god-part-i/id1573190999?i=1000747954364"
+      }
+    },
+    {
       "id": "8435f368-95a9-4683-9227-3e484ac3aec9",
       "title": "242. The Jesus People Part II",
       "description": "We finish up our broad over view of the Jesus People up to when they fizzle out around 1972-1973.",

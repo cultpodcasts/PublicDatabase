@@ -3,7 +3,25 @@
   "name": "Mission Implausible",
   "spotifyId": "2Kwc4A42HNyRWR4LkRPPql",
   "appleId": 1728340033,
+  "youTubeChannelId": "UCpEzI0Ux6kAuvb_tummcQLQ",
   "episodes": [
+    {
+      "id": "c7d3102c-dd85-42e2-b7c4-0c6849d0f42c",
+      "title": "The Hawaiian Cult that raised Tulsi Gabbard (with Chistine Gralow)",
+      "description": "Our current Director of National Intelligence Tulsi Gabbard was born into The Science of Identity Foundation, a secretive, authoritarian religious group led by guru Chris Butler. What are the beliefs of The SIF and how did they influence Gabbard\u0027s political career? Some believe that she\u0027s still under their direction, if not outright control. If so, the international criminal investigations of the organization, along with the local Hawaiian suspicions of it, raises serious national security questions for someone in that role. Then why does it appear that even a standard FBI background check of Gabbard was skipped? The reporting on Gabbard\u0027s origins had been sparse... until now. Watch Mission Implausible on YouTube: https://www.youtube.com/@MissionImplausiblePod",
+      "release": "2026-02-08T08:05:00Z",
+      "duration": "00:37:06.9120000",
+      "explicit": false,
+      "spotifyId": "0ZzPt8skN99Z09H3E0SP5f",
+      "appleId": 1000748741998,
+      "subjects": [
+        "Science of Identity Foundation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ZzPt8skN99Z09H3E0SP5f",
+        "apple": "https://podcasts.apple.com/podcast/the-hawaiian-cult-that-raised-tulsi-gabbard-with/id1728340033?i=1000748741998"
+      }
+    },
     {
       "id": "aa4d6c1a-0501-4397-87fd-f555664e8f6c",
       "title": "Opus Dei: A Real Conspiracy (with Gareth Gore) - Part Two",

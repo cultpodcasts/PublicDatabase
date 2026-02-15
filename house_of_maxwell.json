@@ -1,0 +1,63 @@
+{
+  "id": "83ef6d31-668f-4689-acd1-c2234628c98c",
+  "name": "House of Maxwell",
+  "youTubeChannelId": "UCMTx_OGd-g4dVvhRKVUu9aQ",
+  "episodes": [
+    {
+      "id": "497fa10a-94ed-4e26-a04a-e6d488e68251",
+      "title": "The Family Business | House of Maxwell | BBC Select",
+      "description": "It\u0027s all part of the family business. This clip from House of Maxwell, a 3-part documentary on BBC Select, focuses on Ghislaine Maxwell, her brothers Ian and Kevin and their relationships with their father, Robert Maxwell. \n\nOne family, decades of scandal. House of Maxwell explores the rise and fall of fraudulent media mogul Robert Maxwell, who drowned in 1991, and examines the actions of his socialite daughter Ghislaine, who was convicted for recruiting and grooming underage girls for her billionaire partner Jeffrey Epstein.\n\nInterspersing archive footage and accounts of business partners and friends with details of Ghislaine\u2019s trial, the series probes the lives of this disgraced family over a 50-year period.\n\nWatch House of Maxwell on BBC Select in the US: https://bit.ly/3NNdqMd. \n\nFollow us on social media \uD83D\uDCF2\uD83D\uDCBB @BBCSelect\n\n#BBCSelect #Maxwell #Scandal",
+      "release": "2022-05-18T19:20:35Z",
+      "duration": "00:03:12",
+      "explicit": false,
+      "youTubeId": "xaxTV7ZGeAM",
+      "subjects": [
+        "Human Trafficking",
+        "Cult Psychology",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xaxTV7ZGeAM"
+      }
+    },
+    {
+      "id": "06aceb89-3891-480a-a4d6-5e197bbbb028",
+      "title": "Series 1: Episode 1",
+      "description": "When Ghislaine Maxwell was convicted of grooming and trafficking underage girls, she became a household name with her face on front pages of newspapers all over the world. But she wasn\u2019t always the most notorious member of the Maxwell family. \n \nThis episode tells the story of how her father Robert started the extraordinary saga that is the Maxwell family story and the formative influence he had on the lives of Ghislaine and his other children. Secret tapes reveal for the first time the shockwaves his disappearance at sea sent through his business empire as news spread that millions in investors\u2019 money had seemingly vanished with him. \n \nIn the early 1980s, when Ghislaine was still in her twenties, Robert finally achieved his dream of owning a major British newspaper, bringing his children into the heart of his rapidly growing empire. This story is told using never-seen-before archive and testimony from those who worked closely with Maxwell and his family, many of whom have never spoken before. They describe how Maxwell\u2019s intense rivalry with Rupert Murdoch drove his ruthless ambitions to be one of the world\u2019s greatest media moguls. It led to an extraordinary spending spree to try to crack America. With his daughter Ghislaine at his side in New York, Maxwell was lauded as he rescued one of the city\u2019s most iconic newspapers. The rise of the Maxwells seemed unstoppable.  \n \nBut behind the grandeur and illusions of grand success, all is not as it seems. When the news breaks of Robert\u2019s mysterious disappearance off his yacht in the Canary Islands, Ghislaine and her mother travel to Tenerife and are met by a media frenzy.\n \nBut there\u2019s another problem. Unreleased secret recordings of executives within his businesses show the rising panic as they began to realise there are huge holes in Robert\u2019s company finances. It is the beginning of a scandal that will change the lives of all of the Maxwells forever.",
+      "release": "2022-04-04T21:00:00",
+      "duration": "00:58:00",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/p0b64mbt/house-of-maxwell-series-1-episode-1"
+      }
+    },
+    {
+      "id": "d819e406-f6c0-4f35-ac04-8233b14d054b",
+      "title": "Series 1: Episode 2",
+      "description": "With the shocking news that Robert Maxwell\u2019s body has been found in the sea, the family is left reeling. Devastated daughter Ghislaine prepares to address the world\u2019s media.",
+      "release": "2022-04-04T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/p0b64n6s/house-of-maxwell-series-1-episode-2"
+      }
+    },
+    {
+      "id": "79849ffd-3951-4e8e-9780-130184a26b23",
+      "title": "Series 1: Episode 3",
+      "description": "The story of the latest in a long line of scandals to engulf the Maxwell family: the trial of Ghislaine Maxwell.",
+      "release": "2022-04-04T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/p0b64nww/house-of-maxwell-series-1-episode-3"
+      }
+    }
+  ]
+}

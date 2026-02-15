@@ -1,0 +1,23 @@
+{
+  "id": "35b226ed-0a09-49f3-859e-dbd1a77afc4a",
+  "name": "KTVN 2 News Nevada",
+  "youTubeChannelId": "UCaLjq8bBXAA7lLlHaGHvI8w",
+  "episodes": [
+    {
+      "id": "78a55202-1720-404b-aec4-b8634c0e2b72",
+      "title": "Recent Epstein files release drawing attention all over the world",
+      "description": "The scandal forcing Britain\u0027s Prime Minister to answer tough questions about his leadership.",
+      "release": "2026-02-06T01:29:43Z",
+      "duration": "00:02:17",
+      "explicit": false,
+      "youTubeId": "rL4MoB1c23M",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=rL4MoB1c23M"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ac71cee6-9554-42ee-a233-7936562a211d",
+  "name": "TRUMP100",
+  "spotifyId": "7nBcCiQRNzLsgMdj6UqVGw",
+  "appleId": 1488434518,
+  "youTubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+  "youTubePlaylistId": "PLG8IrydigQfdD9CriJBZbS8Z5a0HzC6uA",
+  "episodes": [
+    {
+      "id": "bdf8d8ca-2989-4399-a898-2ac72706b8e7",
+      "title": "Why are we not talking about Donald Trump in the Epstein Files?",
+      "description": "The fallout from the release of more than three million documents on Friday by the Department of Justice. The Epstein files\u2026 with fresh questions aimed at Andrew Mountbatten-Windsor and Lord Peter Mandelson. Plus - what\u2019s Trump\u2019s involvement in the files? Plus - the Trump Kennedy Center? \u0022Closed for refurbishment,\u0022 so says the president. Why? And the Grammys get political. You can watch all episodes on our YouTube channel . Email us on trump100@sky.uk with your comments and questions.",
+      "release": "2026-02-03T04:20:00Z",
+      "duration": "00:25:31.6370000",
+      "explicit": false,
+      "spotifyId": "1cW7TGSz0ZEPsrT7nv8M03",
+      "appleId": 1000747807897,
+      "youTubeId": "o8CfBFmpzAE",
+      "subjects": [
+        "_America",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1cW7TGSz0ZEPsrT7nv8M03",
+        "apple": "https://podcasts.apple.com/podcast/why-are-we-not-talking-about-donald-trump-in-the/id1488434518?i=1000747807897",
+        "youtube": "https://www.youtube.com/watch?v=o8CfBFmpzAE"
+      }
+    }
+  ]
+}

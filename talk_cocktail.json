@@ -1,0 +1,30 @@
+{
+  "id": "41fb8422-bd10-4fe7-b842-0d5a9adf8aee",
+  "name": "Talk Cocktail",
+  "spotifyId": "4DATSd0wBXFBFdTU6bxFTq",
+  "appleId": 1454980433,
+  "episodes": [
+    {
+      "id": "9e330144-d09f-4bdf-8bb8-941ff779f2f9",
+      "title": "Are We All in Cults Now?",
+      "description": "Daniella Mestyanek Young escaped a notorious sex cult, then joined the Army where she studied terrorists\u2014and recognized the same coercive tactics everywhere. The author of The Culting of America, she reveals in our podcast how cult dynamics pervade American life, from MAGA\u0027s authoritarian tribalism to corporate culture. We\u0027re obsessed with AI threats, she argues, while missing the real danger: human manipulation operating at scale through social media and political movements demanding absolute loyalty. Get full access to Talk Cocktail Podcast at jeffschechtman.substack.com/subscribe",
+      "release": "2026-02-04T20:11:32Z",
+      "duration": "00:31:22.7730000",
+      "explicit": false,
+      "spotifyId": "7gtRAnuCkv2s5rvPiTTBY9",
+      "appleId": 1000748259500,
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "Cult Psychology",
+        "Political Cult",
+        "Qanon",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7gtRAnuCkv2s5rvPiTTBY9",
+        "apple": "https://podcasts.apple.com/podcast/are-we-all-in-cults-now/id1454980433?i=1000748259500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "7c85ae9e-9c2b-4fc8-bc80-503d44e0ad83",
+  "name": "Leicestershire Police",
+  "youTubeChannelId": "UCT_Yy4FinvkmpEJzwuDRtJQ",
+  "episodes": [
+    {
+      "id": "985a16e5-12da-4726-a02e-cbc4216c77de",
+      "title": "Footage of a police interview with Jon Ruben",
+      "release": "2026-02-06T16:58:33Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "youTubeId": "pLdCG4CVnxc",
+      "subjects": [
+        "Church Of England"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pLdCG4CVnxc"
+      }
+    }
+  ]
+}
