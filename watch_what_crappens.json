@@ -1,0 +1,22 @@
+{
+  "id": "4e59f1c4-e531-4879-8953-6d31830b8612",
+  "name": "Watch What Crappens",
+  "spotifyId": "3iSZPuQ8T8Msh0N33ZD7No",
+  "appleId": 498130432,
+  "episodes": [
+    {
+      "id": "2e69fa50-476a-40d9-af8c-bfce0cd88a21",
+      "title": "#3226 RHOBH S15E10: Cult Following",
+      "description": "The Real Housewives of Beverly Hills explores Amanda\u2019s journey into and out of a Florida cult while the Hamptons crew parties in Montauk. Then, Denise returns to the show for a sobering scene with Erika and Sutton. To watch this recap on video, listen to our bonus episodes, and get ad free listening, go to Patreon.com/watchwhatcrappens. Find bonus episodes at patreon.com/watchwhatcrappens and follow us on Instagram @watchwhatcrappens @ronniekaram @benmandelker Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-02-20T21:02:07Z",
+      "duration": "01:13:44.1500000",
+      "explicit": true,
+      "spotifyId": "3lduMYEsamzqBb4gNby3F3",
+      "appleId": 1000750718423,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3lduMYEsamzqBb4gNby3F3",
+        "apple": "https://podcasts.apple.com/podcast/3226-rhobh-s15e10-cult-following/id498130432?i=1000750718423"
+      }
+    }
+  ]
+}

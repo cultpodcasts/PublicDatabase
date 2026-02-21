@@ -5,6 +5,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "b03baccf-13bb-4f5b-8ee6-e564f76e2d4f",
+      "title": "245. Children Of God Part III",
+      "description": "We finish up our series on The Children Of God and it gets super dark...",
+      "release": "2026-02-17T23:16:18Z",
+      "duration": "01:30:52.5380000",
+      "explicit": true,
+      "spotifyId": "5i4LvMWbt3Tf7e17rfiByY",
+      "appleId": 1000750229648,
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5i4LvMWbt3Tf7e17rfiByY",
+        "apple": "https://podcasts.apple.com/podcast/245-children-of-god-part-iii/id1573190999?i=1000750229648"
+      }
+    },
+    {
       "id": "db22667a-8e83-4919-a341-6850c25001d2",
       "title": "244. Children Of God Part II",
       "description": "We come back to one of the worst cults of all time.",

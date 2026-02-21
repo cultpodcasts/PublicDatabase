@@ -1,0 +1,50 @@
+{
+  "id": "c70c3b9e-0709-4a6a-95dd-e042ea218735",
+  "name": "The Headlines",
+  "spotifyId": "0pymDUChxmrkH41tOT33Uc",
+  "appleId": 1758855019,
+  "youTubeChannelId": "UCkdnY2hNC0sdlVXPtWuNQ8g",
+  "youTubePlaylistId": "PLdMrbgYfVl-via0c6GiFIzvBEujhy4o2i",
+  "episodes": [
+    {
+      "id": "0febf1a4-5063-4a2b-b0cb-764b8e2d3e8a",
+      "title": "Former Prince Andrew Is Arrested Over Epstein Ties",
+      "description": "U.K. Police Arrest Former Prince Andrew Over Epstein Ties, BBC Reports (https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein) , by Megan Specia",
+      "release": "2026-02-19T12:25:17Z",
+      "duration": "00:10:19",
+      "explicit": false,
+      "spotifyId": "0efucXvIT6Z0O7UGbN2EFe",
+      "appleId": 1000750470513,
+      "youTubeId": "Qz7P-fpH_cE",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0efucXvIT6Z0O7UGbN2EFe",
+        "apple": "https://podcasts.apple.com/podcast/an-a-i-fight-at-the-pentagon-and-former/id1758855019?i=1000750470513",
+        "youtube": "https://www.youtube.com/watch?v=Qz7P-fpH_cE"
+      }
+    },
+    {
+      "id": "cc600a3a-b31e-4283-9ba8-5937fae9beb2",
+      "title": "The Expanding Fallout From the Epstein Files",
+      "description": "Citing Epstein Connection, Steps Down as Hyatt\u2019s Executive Chairman , by Rebecca Davis O\u2019Brien",
+      "release": "2026-02-17T11:00:00Z",
+      "duration": "00:08:51.7480000",
+      "explicit": false,
+      "spotifyId": "0GepH5MTlsDKc4afaaJAyF",
+      "appleId": 1000750139153,
+      "youTubeId": "AEKBf1LPPNI",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0GepH5MTlsDKc4afaaJAyF",
+        "apple": "https://podcasts.apple.com/podcast/the-expanding-fallout-from-the-epstein-files/id1758855019?i=1000750139153",
+        "youtube": "https://www.youtube.com/watch?v=AEKBf1LPPNI"
+      }
+    }
+  ]
+}

@@ -750,11 +750,15 @@
       "release": "2024-06-02T19:30:00Z",
       "duration": "00:45:27",
       "explicit": false,
+      "spotifyId": "3uViOf4toYXNnm4e0Lvbdr",
+      "appleId": 1000750323342,
       "youTubeId": "--d2wq9WIUw",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3uViOf4toYXNnm4e0Lvbdr",
+        "apple": "https://podcasts.apple.com/podcast/portrait-of-avery-fox-production-trauma-and-truth/id1867524433?i=1000750323342",
         "youtube": "https://www.youtube.com/watch?v=--d2wq9WIUw"
       }
     },

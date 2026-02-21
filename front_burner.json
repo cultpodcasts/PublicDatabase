@@ -1,0 +1,30 @@
+{
+  "id": "07d8e2fb-d083-43c7-b9d0-54e05862a1b0",
+  "name": "Front Burner",
+  "spotifyId": "1qL9keKtruUmZ1hPkhHZL1",
+  "appleId": 1439621628,
+  "youTubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+  "youTubePlaylistId": "PLeyJPHbRnGaaAgINkiIQmNjTVRMB8RGI9",
+  "episodes": [
+    {
+      "id": "6a218ebf-bb80-4b32-8426-be02726f3198",
+      "title": "Epstein fallout: ex-Prince Andrew arrested",
+      "description": "On Thursday, former Prince Andrew was arrested by U.K. police. After years of controversy, scandal and allegations of sexual assault, Andrew Mountbatten-Windsor was taken into custody on suspicion of misconduct in public office. The arrest is related to his decades-long friendship with Jeffrey Epstein, and the former prince is alleged to have sent confidential government documents to the convicted sex offender. Today, Andrew Lownie, a historian and the author of Entitled: The Rise and Fall of the House of York, joins the show. We get into the details of the arrest, the long-standing ties between the former prince and Epstein and what recently released documents reveal.",
+      "release": "2026-02-20T09:10:00Z",
+      "duration": "00:23:10.4710000",
+      "explicit": false,
+      "spotifyId": "3nUIibbB7V433oZLD6EllA",
+      "appleId": 1000750634991,
+      "youTubeId": "THAEc0VEEiI",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3nUIibbB7V433oZLD6EllA",
+        "apple": "https://podcasts.apple.com/podcast/epstein-fallout-ex-prince-andrew-arrested/id1439621628?i=1000750634991",
+        "youtube": "https://www.youtube.com/watch?v=THAEc0VEEiI"
+      }
+    }
+  ]
+}

@@ -12,6 +12,8 @@
       "release": "2026-02-14T01:58:52Z",
       "duration": "00:57:36",
       "explicit": false,
+      "spotifyId": "69Mt6pWeVLgAHlF7ok9ZNL",
+      "appleId": 1000749781677,
       "youTubeId": "iot9fkrZbJo",
       "subjects": [
         "_America",
@@ -19,6 +21,8 @@
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/69Mt6pWeVLgAHlF7ok9ZNL",
+        "apple": "https://podcasts.apple.com/podcast/how-kelvin-pierce-escaped-an-american-nazi/id1534364303?i=1000749781677",
         "youtube": "https://www.youtube.com/watch?v=iot9fkrZbJo"
       }
     },

@@ -1,0 +1,30 @@
+{
+  "id": "00a005b2-3f79-4c3c-add3-e7aab2792116",
+  "name": "Sky News Daily",
+  "spotifyId": "3RdXZrbbG3NydLsPYmRSJy",
+  "appleId": 951048357,
+  "youTubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+  "youTubePlaylistId": "PLG8IrydigQffW6a9KQhdtl8C1DwiUD6cb",
+  "episodes": [
+    {
+      "id": "b8f1434d-5a72-47d4-a110-340c55d01a62",
+      "title": "Andrew arrested: Can it get any worse for the Royal Family?",
+      "description": "Andrew Mountbatten-Windsor has been arrested on suspicion of misconduct in public office on his 66th birthday following revelations in the Epstein files.\nThe former prince\u2019s links with paedophile financier Jeffrey Epstein have been known for years - so has the Royal Family done enough to investigate any potential wrongdoing?\nAndrew has always denied any allegations of illegality in connection with Epstein.\nNiall is joined by Sky\u2019s royal correspondent, Rhiannon Mills, to discuss the crisis and what\u2019s next for the Royal Family.\nProducers: Emily Hulme, Tom Gillespie\nEditor: Wendy Parker",
+      "release": "2026-02-19T15:45:00Z",
+      "duration": "00:20:27",
+      "explicit": false,
+      "spotifyId": "2zKMFojjG6KUfD56taBsj8",
+      "appleId": 1000750530486,
+      "youTubeId": "Rb2USgUh6f8",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2zKMFojjG6KUfD56taBsj8",
+        "apple": "https://podcasts.apple.com/podcast/andrew-arrested-can-it-get-any-worse-for-the-royal-family/id951048357?i=1000750530486",
+        "youtube": "https://www.youtube.com/watch?v=Rb2USgUh6f8"
+      }
+    }
+  ]
+}

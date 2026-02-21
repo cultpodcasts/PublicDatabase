@@ -1,0 +1,23 @@
+{
+  "id": "b66afe38-6030-4644-a4ea-aedcf53f08f5",
+  "name": "CGTN Podcasts",
+  "youTubeChannelId": "UC1eR9aaMv2XX3Y5TVznkj1g",
+  "episodes": [
+    {
+      "id": "bb164d0d-daf5-4307-b609-c3753aea10fc",
+      "title": "Norwegian police search ex-PM Jagland\u0027s properties over links to Epstein",
+      "description": "Documents suggest that Jagland or his family stayed or vacationed with Epstein between 2011 and \u002718, despite Epstein\u0027s earlier conviction for crimes against children.",
+      "release": "2026-02-13T08:09:40Z",
+      "duration": "00:04:46",
+      "explicit": false,
+      "youTubeId": "oUFTULtjP6A",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oUFTULtjP6A"
+      }
+    }
+  ]
+}

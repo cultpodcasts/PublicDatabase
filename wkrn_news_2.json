@@ -1,0 +1,22 @@
+{
+  "id": "dacc9dbd-7102-47d6-931f-4ec77846f244",
+  "name": "WKRN News 2",
+  "youTubeChannelId": "UCEKJzGwBMDpmK51v5JIezUw",
+  "episodes": [
+    {
+      "id": "d809bedc-deb3-4b42-a398-35a95b6eab4b",
+      "title": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct",
+      "description": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct",
+      "release": "2026-02-19T10:39:43Z",
+      "duration": "00:00:56",
+      "explicit": false,
+      "youTubeId": "TCLuyQD5_pU",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TCLuyQD5_pU"
+      }
+    }
+  ]
+}

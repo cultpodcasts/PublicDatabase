@@ -1065,6 +1065,9 @@
       "explicit": false,
       "spotifyId": "6fbsKKCG38tJYHN3CgvXZ4",
       "appleId": 1000495001902,
+      "subjects": [
+        "People Of Praise"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6fbsKKCG38tJYHN3CgvXZ4",
         "apple": "https://podcasts.apple.com/podcast/s2-e29-amy-coney-barrett/id1413525072?i=1000495001902"

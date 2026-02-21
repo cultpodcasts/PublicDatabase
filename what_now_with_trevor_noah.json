@@ -1,0 +1,35 @@
+{
+  "id": "f5db25d3-32dc-4a9c-941e-9bebf0d99907",
+  "name": "What Now? with Trevor Noah",
+  "spotifyId": "122imavATqSE7eCyXIcqZL",
+  "appleId": 1710609544,
+  "youTubeChannelId": "UC8bTQzxgvKkXDAaWkeuUlkg",
+  "youTubePlaylistId": "PL2Rl3eOQecWpPOjDLis_vmysnR9QwWY2p",
+  "episodes": [
+    {
+      "id": "35ea9b0d-c6c7-414c-986c-68256d0d3857",
+      "title": "Dr. Steven Hassan: Are You In a Cult?",
+      "description": "In a conversation that\u2019s equal parts psychological thriller and masterclass in influence, Trevor and Eugene sit down with world-renowned cult expert Dr. Steven Hassan. Recruited into the Unification Church (aka the Moonies) as a college student, Hassan rose through its ranks before ultimately breaking free \u2014 an experience that reshaped his life\u2019s work and inspired his bestselling book The Cult of Trump. From fringe groups to social media echo chambers, the trio unpack how and why ordinary people get swept into systems of extreme belief, the ways loyalty is engineered, and what separates healthy persuasion from manipulation. They also explore why the line between conviction and control is thinner and closer to home than we think. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2026-02-19T05:00:00Z",
+      "duration": "01:46:33.2340000",
+      "explicit": true,
+      "spotifyId": "1N4CLsYrK0QrlE2ZciBaIB",
+      "appleId": 1000750432272,
+      "youTubeId": "0UlvAUByG3A",
+      "subjects": [
+        "Cult-Expert",
+        "Unification Church",
+        "Political Cult",
+        "Qanon",
+        "_America",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1N4CLsYrK0QrlE2ZciBaIB",
+        "apple": "https://podcasts.apple.com/podcast/dr-steven-hassan-are-you-in-a-cult/id1710609544?i=1000750432272",
+        "youtube": "https://www.youtube.com/watch?v=0UlvAUByG3A"
+      }
+    }
+  ]
+}

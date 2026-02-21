@@ -1,0 +1,21 @@
+{
+  "id": "43a85c6f-1c0b-40a7-ad23-5abb3954f36c",
+  "name": "The Cozy Corner",
+  "youTubeChannelId": "UCsbOy3nMD5BRKmFB5VRJ8tQ",
+  "episodes": [
+    {
+      "id": "c0d16c12-7a54-4c9b-9b4a-3c08265fddfa",
+      "title": "The Chinese \u0022Cult\u0022 That Infiltrated America\u2026",
+      "release": "2026-02-16T20:18:38Z",
+      "duration": "00:12:28",
+      "explicit": false,
+      "youTubeId": "GRBPPDryKBE",
+      "subjects": [
+        "Falun Gong"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GRBPPDryKBE"
+      }
+    }
+  ]
+}

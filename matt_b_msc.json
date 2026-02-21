@@ -4,6 +4,48 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "5532f60d-a4ec-4b66-8070-7db881bcc07d",
+      "title": "Why Do We Hate? An Evolutionary Explanation",
+      "release": "2026-02-20T16:44:05Z",
+      "duration": "00:07:16",
+      "explicit": false,
+      "youTubeId": "LjarPJwV3yg",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LjarPJwV3yg"
+      }
+    },
+    {
+      "id": "b629bcf8-3166-4752-9aa4-b850ea47b3dc",
+      "title": "Why Do We Hate? A Neurobiological Explanation for Hate",
+      "release": "2026-02-16T20:47:26Z",
+      "duration": "00:03:33",
+      "explicit": true,
+      "youTubeId": "XTri8jMdAIs",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XTri8jMdAIs"
+      }
+    },
+    {
+      "id": "acfe2a26-70df-49ee-91c2-ebdcb87dd276",
+      "title": "Why Do We Hate? The Role of Blatant Dehumanization",
+      "release": "2026-02-16T19:10:21Z",
+      "duration": "00:01:12",
+      "explicit": false,
+      "youTubeId": "-mhohhVB_OI",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-mhohhVB_OI"
+      }
+    },
+    {
       "id": "30e2b5c7-c366-43d3-8b5f-aafb4771d1cc",
       "title": "\u0026quot;Keep Them Out\u0026quot;: A Documentary about Middle-English Attitudes to Refugees",
       "release": "2026-02-01T13:48:57Z",

@@ -5,6 +5,40 @@
   "appleId": 1553393341,
   "episodes": [
     {
+      "id": "16f37487-8a57-4575-a67f-3f9bb838d8d7",
+      "title": "The Necessity of the Negative",
+      "description": "How are you going to hope if you don\u0027t want to have a long, hard look at something things that could do with fixing?",
+      "release": "2026-02-18T00:00:00Z",
+      "duration": "00:29:16",
+      "explicit": false,
+      "spotifyId": "0FNUMsrpGCU7ox6AmoXY47",
+      "appleId": 1000750237702,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0FNUMsrpGCU7ox6AmoXY47",
+        "apple": "https://podcasts.apple.com/podcast/the-necessity-of-the-negative/id1553393341?i=1000750237702"
+      }
+    },
+    {
+      "id": "26ebf0d8-c579-4ae9-af04-15e18e179ceb",
+      "title": "My Enemy, My Self",
+      "description": "Is spirituality really about finally winning, or surrendering, a battle with one\u0027s self?",
+      "release": "2026-02-18T00:00:00Z",
+      "duration": "00:34:50",
+      "explicit": false,
+      "spotifyId": "6j5DsgLHEJBrRrpM6Hzjge",
+      "appleId": 1000750238454,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6j5DsgLHEJBrRrpM6Hzjge",
+        "apple": "https://podcasts.apple.com/podcast/my-enemy-my-self/id1553393341?i=1000750238454"
+      }
+    },
+    {
       "id": "9ebe27e8-082a-407c-9c67-8f4ebc4093c6",
       "title": "Episode 1: The Scorecard",
       "description": "Subtractive virtue. Trying to live The Good Life by removing things from yours.",

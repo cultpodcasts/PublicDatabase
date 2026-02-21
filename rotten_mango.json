@@ -32,12 +32,14 @@
       "explicit": false,
       "spotifyId": "2lFXBk3GvZhipfFspQpmRz",
       "appleId": 1000749270498,
+      "youTubeId": "h29n8cwg8eE",
       "subjects": [
         "Onetaste"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2lFXBk3GvZhipfFspQpmRz",
-        "apple": "https://podcasts.apple.com/podcast/part-3-woman-creates-sex-cult-in-silicon-valley-that/id1517954480?i=1000749270498"
+        "apple": "https://podcasts.apple.com/podcast/part-3-woman-creates-sex-cult-in-silicon-valley-that/id1517954480?i=1000749270498",
+        "youtube": "https://www.youtube.com/watch?v=h29n8cwg8eE"
       }
     },
     {

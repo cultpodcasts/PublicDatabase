@@ -1,0 +1,23 @@
+{
+  "id": "4f7a525e-76f6-49ed-a77f-0a1db5692392",
+  "name": "News 5 Cleveland",
+  "youTubeChannelId": "UCAAmkc2sRESFoEtiKRTaTRA",
+  "episodes": [
+    {
+      "id": "31ab1dfb-e09d-49dc-8a1c-b2b643bedac1",
+      "title": "U.S. House Oversight Democrats spoke after deposing Les Wexner",
+      "description": "Democrats on the U.S. House Oversight Committee are holding a press conference on Wednesday in central Ohio at noon after deposing retail billionaire Les Wexner about his ties to Jeffrey Epstein.",
+      "release": "2026-02-19T00:00:00Z",
+      "duration": "00:03:16",
+      "explicit": false,
+      "youTubeId": "mfXT1CQcq74",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mfXT1CQcq74"
+      }
+    }
+  ]
+}
