@@ -1,0 +1,60 @@
+{
+  "id": "7c29bfe2-6420-4089-bf03-7d9f477eb729",
+  "name": "Blooped Podcast",
+  "spotifyId": "0EGOwUZ7tGMRMZf6remhn5",
+  "youTubeChannelId": "UCL9MYeAMA88OUVn1uYjAW6Q",
+  "episodes": [
+    {
+      "id": "646c8504-51ca-438c-8270-55bfe78c70f7",
+      "title": "Blooped Live with Vanessa \u0026 Vilas: Vilas\u0027s Story",
+      "description": "A recording from Vanessa \u0026 Vilas\u0027s live video\n\nhttps://thebloopedpodcast.substack.com/p/blooped-live-with-vanessa-and-vilas-72a?utm_source=youtube",
+      "release": "2026-03-04T23:12:09Z",
+      "duration": "01:20:01.5410000",
+      "explicit": false,
+      "spotifyId": "6nVtpirCFSnGl69iftDhYi",
+      "youTubeId": "0ig5rS4_xE8",
+      "subjects": [
+        "Hare Krishnas"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6nVtpirCFSnGl69iftDhYi",
+        "youtube": "https://www.youtube.com/watch?v=0ig5rS4_xE8"
+      }
+    },
+    {
+      "id": "ce0fdb1c-65f5-4d5f-87a8-a65d1169d62a",
+      "title": "Blooped Live with Vanessa \u0026 Vilas",
+      "description": "A recording from Vanessa \u0026 Vilas\u0027s live video\n\nhttps://thebloopedpodcast.substack.com/p/blooped-live-with-vanessa-and-vilas?utm_source=youtube",
+      "release": "2026-02-25T22:54:28Z",
+      "duration": "01:09:46.8540000",
+      "explicit": false,
+      "spotifyId": "72XdRMhI9TwikvuRexfHqO",
+      "youTubeId": "iCi2FNz1YY0",
+      "subjects": [
+        "Hare Krishnas"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72XdRMhI9TwikvuRexfHqO",
+        "youtube": "https://www.youtube.com/watch?v=iCi2FNz1YY0"
+      }
+    },
+    {
+      "id": "974a1383-5277-46f9-81c3-0e781572b5ef",
+      "title": "We Grew Up in a Cult. This Is Where It Begins. | Ep.01",
+      "description": "Blooped\u0027s 1st Live: From Cultic Upbringing to Collective Liberation with Vanessa and Vilas\n__________________________________________________________________________________________\n\nWe walked out of hell and never looked back. Now, we\u2019re building the rooms where women can finally exhale.\n\nWelcome to Blooped\u2014the podcast for women who\u2019ve walked out of cults and high-control systems and no longer agree with playing small. From periods to politics, power to personal autonomy, friends and fellow survivors Vanessa \u0026 Vilas explore the radical act of disagreement and non-tolerance for systems of abuse. \n\nReal stories. Brave conversations. Zero Kool-Aid.\n\nJoin us LIVE every Wednesday at 4pm on Substack or on Apple an Spotify. \n\nHave a story to share, message us at bloopedpodcast@haregmail.com Subject: Share my Story. \n\nDon\u0027t forget to subscribe to our channel, and follow us on substack: https://thebloopedpodcast.substack.com",
+      "release": "2026-02-23T05:13:17Z",
+      "duration": "00:43:01",
+      "explicit": false,
+      "spotifyId": "5PYgOuEAnrXjB0mIfNsK2u",
+      "youTubeId": "uJ6Z6LM7XuU",
+      "subjects": [
+        "Hare Krishnas",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5PYgOuEAnrXjB0mIfNsK2u",
+        "youtube": "https://www.youtube.com/watch?v=uJ6Z6LM7XuU"
+      }
+    }
+  ]
+}

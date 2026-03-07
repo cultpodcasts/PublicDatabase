@@ -1,0 +1,28 @@
+{
+  "id": "3925596c-d234-45f5-87c4-3891d53d7a10",
+  "name": "The Pete Kaliner Show",
+  "spotifyId": "1uaEmfA3ZwwDD4eW766SDS",
+  "appleId": 517293050,
+  "youTubeChannelId": "UCbK0cst80OBNHKi42kXRmqw",
+  "episodes": [
+    {
+      "id": "8ee27281-c5a4-42d6-9cde-40352e312a92",
+      "title": "An update on the 764 Cult",
+      "description": "AP Dillon is a reporter for the North State Journal. Read her reporting at NSJonline.com. She publishes a Substack.com newsletter called More To The Story . She joins me to discuss the latest in the government\u0027s effort to crack down on the 764 Cult that targets kids through online platforms like Roblox and Discord.",
+      "release": "2026-02-23T20:06:48Z",
+      "duration": "00:34:25.2810000",
+      "explicit": false,
+      "spotifyId": "7b3KFWNsiaSXDV1RoqnavA",
+      "appleId": 1000751071257,
+      "youTubeId": "4KDD2uiHvc0",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7b3KFWNsiaSXDV1RoqnavA",
+        "apple": "https://podcasts.apple.com/podcast/an-update-on-the-764-cult-another-attempt-on-trumps/id517293050?i=1000751071257",
+        "youtube": "https://www.youtube.com/watch?v=4KDD2uiHvc0"
+      }
+    }
+  ]
+}

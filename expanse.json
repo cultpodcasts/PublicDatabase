@@ -1,0 +1,42 @@
+{
+  "id": "bd259982-cb60-4686-b51e-3c8b0a757f30",
+  "name": "Expanse",
+  "spotifyId": "0cRfmcyDWDfIAtPEVZ9mKS",
+  "appleId": 1635088231,
+  "episodes": [
+    {
+      "id": "58004ded-f998-4639-b6ea-0cd05310e28c",
+      "title": "01 Expanse: The Nannup Four | The people in the blue house",
+      "description": "When three adults and a child disappear without a trace from the isolated bush community of Nannup in 2007, it sparks disturbing theories about what might have happened. What was going on in the little blue house, and could understanding that hold the key to the disappearance? Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-03-02T15:00:00Z",
+      "duration": "00:30:28.1530000",
+      "explicit": false,
+      "spotifyId": "7qaY1kVtVKtBD8CeRsJwsT",
+      "appleId": 1000752614482,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7qaY1kVtVKtBD8CeRsJwsT",
+        "apple": "https://podcasts.apple.com/podcast/01-expanse-the-nannup-four-the-people-in-the-blue-house/id1635088231?i=1000752614482"
+      }
+    },
+    {
+      "id": "069ad323-a739-48bf-a5f4-7086b8852feb",
+      "title": "INTRODUCING \u2014 Expanse: The Nannup Four",
+      "description": "When four people disappeared from a blue farmhouse on the outskirts of the Western Australian town of Nannup in 2007, they left behind the scatterings of a life, a note pinned to their door and a question: was the disappearance a choice... or murder? Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-02-23T15:00:00Z",
+      "duration": "00:04:01.8930000",
+      "explicit": false,
+      "spotifyId": "42Y4tQlBOlcVsQvFmyYZ8D",
+      "appleId": 1000751033688,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/42Y4tQlBOlcVsQvFmyYZ8D",
+        "apple": "https://podcasts.apple.com/podcast/introducing-expanse-the-nannup-four/id1635088231?i=1000751033688"
+      }
+    }
+  ]
+}

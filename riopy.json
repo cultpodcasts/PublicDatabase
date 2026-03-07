@@ -1,0 +1,25 @@
+{
+  "id": "9e967e72-ab8a-4332-ae34-5cdf540b8041",
+  "name": "RIOPY",
+  "spotifyId": "3bYvMKybKh2IP4xWlKCGTf",
+  "appleId": 1839229315,
+  "youTubeChannelId": "UC1pJ-uL_yTocm5ZmHXXz_wA",
+  "episodes": [
+    {
+      "id": "b238248d-d490-4ba7-a90a-58aa29bf3eb0",
+      "title": "The Journey - from repressive cult to world-renowned composer \u0026 performer (plus, new music)",
+      "description": "Hear RIOPY\u0027s story, and his new composition Piano 17. He sets out his hopes for this new podcast series, how he brings the world of music, neuroscience, creativity, and meditation together - and how, ultimately, everything is LOVE. Stream \u0027Piano 17\u0027 here: https://riopy.lnk.to/piano17 Find out more about RIOPY at https://riopy.com",
+      "release": "2025-09-30T04:00:00Z",
+      "duration": "00:33:41.4330000",
+      "explicit": false,
+      "spotifyId": "0cp57zcXCRDw4Tm3GmGLNs",
+      "appleId": 1000729214614,
+      "youTubeId": "sv4DMGrne-I",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0cp57zcXCRDw4Tm3GmGLNs",
+        "apple": "https://podcasts.apple.com/podcast/the-journey-from-repressive-cult-to-world-renowned/id1839229315?i=1000729214614",
+        "youtube": "https://www.youtube.com/watch?v=sv4DMGrne-I"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "4497d83c-1846-4e7a-961c-6f9c77443cbe",
+  "name": "Aftercult",
+  "spotifyId": "6cP9JteiUr22lPtBlHrplP",
+  "appleId": 1877537008,
+  "episodes": [
+    {
+      "id": "10b60c6c-9d12-48fd-a233-cc7700e386c6",
+      "title": "3: Carli McConkey \u0026 Universal Knowledge",
+      "description": "Dave speaks with Carli McConkey about her 13.5 years in the New Age personal development business Universal Knowledge (formerly Life Integration Programmes, Survivor Principles) run by Natasha Lakaev. Carli shares a personal account of the abuse she suffered within the organisation and her long public legal battle to hold Lakaev to account and prevent harm to others. The impact of prolonged coercive control in a cult environment is discussed, including its capacity to render once-autonomous individuals subservient to a charismatic leader and their ideology.",
+      "release": "2026-03-02T15:00:00Z",
+      "duration": "01:12:16.5610000",
+      "explicit": true,
+      "spotifyId": "5G15pHpEogzaveGbBp61ln",
+      "appleId": 1000752620282,
+      "subjects": [
+        "Universal Knowledge"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5G15pHpEogzaveGbBp61ln",
+        "apple": "https://podcasts.apple.com/podcast/3-carli-mcconkey-universal-knowledge/id1877537008?i=1000752620282"
+      }
+    },
+    {
+      "id": "3abdfb49-86b2-42e3-aefd-ffa8ab58c715",
+      "title": "2: Sarah Blasko \u0026 Pentecostalism, Hillsong, etc",
+      "description": "Dave speaks to Sarah Blasko about her experiences growing up in a variety of churches, driven by her once-atheist father\u0027s search for answers in Christianity. Sarah reflects on her experiences in Hillsong (formerly Christian Life Centre) and Redeemer Baptist Church, among others, and the genesis of her music career in the church.",
+      "release": "2026-02-18T19:00:00Z",
+      "duration": "01:13:10.3220000",
+      "explicit": true,
+      "spotifyId": "5Rmqc1SDxYPKOiMcp7uWNE",
+      "appleId": 1000750361030,
+      "subjects": [
+        "Evangelicalism",
+        "Hillsong"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Rmqc1SDxYPKOiMcp7uWNE",
+        "apple": "https://podcasts.apple.com/podcast/2-sarah-blasko-pentecostalism-hillsong-etc/id1877537008?i=1000750361030"
+      }
+    },
+    {
+      "id": "4ab17889-6554-4549-945e-7e7d11ef71ed",
+      "title": "1: Dave Mullins \u0026 The Gnostic Movement",
+      "description": "Aftercult host Dave Mullins reflects on his 10 year experience in The Gnostic Movement, from roughly 1996-2006, and dives into its history and influences. Dave explains the aims of the series, touching on what he has learned over recent years in the process of interviewing former cult members from other cultic organisations. www.aftercultpod.com",
+      "release": "2026-02-11T22:44:56Z",
+      "duration": "00:33:14.0410000",
+      "explicit": false,
+      "spotifyId": "1Jsf898lx4NGzlh85sbf5T",
+      "appleId": 1000749871322,
+      "subjects": [
+        "New Gnostic Church",
+        "The New Gnostic Society"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Jsf898lx4NGzlh85sbf5T",
+        "apple": "https://podcasts.apple.com/podcast/1-dave-mullins-the-gnostic-movement/id1877537008?i=1000749871322"
+      }
+    }
+  ]
+}

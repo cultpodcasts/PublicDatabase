@@ -6,6 +6,21 @@
   "youTubeChannelId": "UCA04PrhGZx1KBOC0mFk7N0g",
   "episodes": [
     {
+      "id": "d2308288-7d5e-49ed-88a7-3ee3603a9bb6",
+      "title": "Kumare (2011, Kino Lorber)",
+      "description": "Follow us on the socials at @cultfavoritepod. Special thanks to the REL Digital Lab in the Departmentof Religious Studies at the University of Alabama for production assistance. The views expressed in this episode are our own asexperts and researchers in religious studies and do not represent theUniversity of Alabama. Theme music produced with Udio.",
+      "release": "2026-03-02T00:00:00",
+      "duration": "01:01:13.5570000",
+      "explicit": true,
+      "spotifyId": "4xtGnU60AEQF1qaWTXGrbI",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4xtGnU60AEQF1qaWTXGrbI"
+      }
+    },
+    {
       "id": "8c75e5c1-85f4-44c3-b713-e20306b6ba0d",
       "title": "The Cult of the Real Housewife (2026, HBOMax)",
       "description": "Follow us on the socials at @cultfavoritepod.\n\n\nSpecial thanks to the REL Digital Lab in the Department of Religious Studies at the University of Alabama for production assistance. \n\n\nThe views expressed in this episode are our own as experts and researchers in religious studies and do not represent the University of Alabama.\n\n\nTheme music produced with Udio.",
@@ -14,14 +29,12 @@
       "explicit": true,
       "spotifyId": "2jQvPEUiQVuSqIwkUpSkiH",
       "appleId": 1000748886477,
-      "youTubeId": "LFJKDc9pEIg",
       "subjects": [
         "Faith Temple Pentecostal Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2jQvPEUiQVuSqIwkUpSkiH",
-        "apple": "https://podcasts.apple.com/podcast/the-cult-of-the-real-housewife-2026-hbomax/id1758534607?i=1000748886477",
-        "youtube": "https://www.youtube.com/watch?v=LFJKDc9pEIg"
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-the-real-housewife-2026-hbomax/id1758534607?i=1000748886477"
       }
     },
     {
@@ -50,12 +63,14 @@
       "explicit": false,
       "spotifyId": "5Uzt8L4JXPsEZEdejDHZXH",
       "appleId": 1000743039582,
+      "youTubeId": "jBgxdlVFbL0",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5Uzt8L4JXPsEZEdejDHZXH",
-        "apple": "https://podcasts.apple.com/podcast/from-the-archives-episode-10-the-secret-lives/id1758534607?i=1000743039582"
+        "apple": "https://podcasts.apple.com/podcast/from-the-archives-episode-10-the-secret-lives/id1758534607?i=1000743039582",
+        "youtube": "https://www.youtube.com/watch?v=jBgxdlVFbL0"
       }
     },
     {
@@ -162,9 +177,11 @@
       "explicit": true,
       "spotifyId": "15aslCdizr4CjOe73zu6UM",
       "appleId": 1000725601450,
+      "youTubeId": "bsp6ZKFei3A",
       "urls": {
         "spotify": "https://open.spotify.com/episode/15aslCdizr4CjOe73zu6UM",
-        "apple": "https://podcasts.apple.com/podcast/trainwreck-the-cult-of-american-apparel-netflix-2025/id1758534607?i=1000725601450"
+        "apple": "https://podcasts.apple.com/podcast/trainwreck-the-cult-of-american-apparel-netflix-2025/id1758534607?i=1000725601450",
+        "youtube": "https://www.youtube.com/watch?v=bsp6ZKFei3A"
       }
     },
     {

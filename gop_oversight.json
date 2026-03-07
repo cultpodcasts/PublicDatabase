@@ -4,6 +4,38 @@
   "youTubeChannelId": "UCn8TJ6Tyq2aGvhybME_itDQ",
   "episodes": [
     {
+      "id": "79423594-d64a-4f51-b03e-4b3ae38c3178",
+      "title": "The Deposition of Secretary Hillary Clinton on the Epstein Probe",
+      "description": "The House Committee on Oversight and Government Reform releases video of the February 26, 2026 deposition of former Secretary of State Hillary Clinton.\n\nLearn more at https://oversight.house.gov/",
+      "release": "2026-03-02T20:45:03Z",
+      "duration": "04:35:12",
+      "explicit": false,
+      "youTubeId": "siiAk6WXc0M",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=siiAk6WXc0M"
+      }
+    },
+    {
+      "id": "0329c564-cc90-4a74-8ac1-540243fa234a",
+      "title": "The Deposition of President Bill Clinton on the Epstein Probe",
+      "description": "The House Committee on Oversight and Government Reform releases video of the February 27, 2026 deposition of former President Bill Clinton.\n\nLearn more at https://oversight.house.gov/",
+      "release": "2026-03-02T20:45:02Z",
+      "duration": "04:33:19",
+      "explicit": false,
+      "youTubeId": "rgJrYKAl6T0",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=rgJrYKAl6T0"
+      }
+    },
+    {
       "id": "a287e16f-6d29-41ef-acb7-8890b97fe6e4",
       "title": "The Deposition of Les Wexner on the Epstein Probe",
       "description": "Learn more at https://oversight.house.gov/",

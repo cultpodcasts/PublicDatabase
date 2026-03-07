@@ -1,0 +1,28 @@
+{
+  "id": "396e46b6-bdd8-4a14-93c8-a6b6df814703",
+  "name": "The Reasoned Reality Podcast",
+  "spotifyId": "2nh9WQScivOhdYTiovRaBo",
+  "appleId": 1868228327,
+  "youTubeChannelId": "UCsFTu3141Oapj26kmjTug6Q",
+  "episodes": [
+    {
+      "id": "1472151d-adb4-4987-88c9-f58429301f6a",
+      "title": "Surviving Doug Wilson\u0027s cult: Margaret Bronson",
+      "description": "In this episode, we delve into the harrowing realities of growing up in extremist religious environments, the tactics used to control and manipulate members, and the brave journey out of these harmful systems. Margaret Bronson shares her personal story of deconstruction, the impact of cult-like teachings, and how she\u0027s now working tirelessly to support survivors and expose dangerous ideologies.Main Topics: The psychological and physical impact of cult-like religious communities How access to misinterpreted Scripture fuels fear and control Strategies for deconstructing belief systems and healing trauma The importance of supporting survivors through community, advocacy, and funding The rise of Christian nationalism and its implications for society and policy Practical ways listeners can get involved to help dismantle harmful systems Deconstructing Doulas Margaret Bronson The Whole Story CNN Stay Connected Reasoned Reality Reasoned Reality substack Joe Smith Therealjoesmith Substack",
+      "release": "2026-03-01T21:11:06Z",
+      "duration": "01:23:30.9600000",
+      "explicit": false,
+      "spotifyId": "7fHg3tlRvP5Kiv7r1J7b6v",
+      "appleId": 1000752353569,
+      "youTubeId": "QnfherDMntM",
+      "subjects": [
+        "Douglas Wilson"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7fHg3tlRvP5Kiv7r1J7b6v",
+        "apple": "https://podcasts.apple.com/podcast/surviving-doug-wilsons-cult-margaret-bronson/id1868228327?i=1000752353569",
+        "youtube": "https://www.youtube.com/watch?v=QnfherDMntM"
+      }
+    }
+  ]
+}

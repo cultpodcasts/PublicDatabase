@@ -1,0 +1,29 @@
+{
+  "id": "c1d1618d-5058-4ce4-9a42-e1df50064c6b",
+  "name": "PBS Washington Week with The Atlantic",
+  "spotifyId": "1avWxTKbGXvtJPpOSxDwBU",
+  "appleId": 83324702,
+  "youTubeChannelId": "UC2s0uKOc2WgB9eGta7cUUEA",
+  "episodes": [
+    {
+      "id": "71fcdacf-8f2e-43bc-aa1b-f466927344f1",
+      "title": "DOJ faces pushback for withholding Epstein files mentioning Trump, Trump\u2019s allies under scrutiny for Epstein ties",
+      "description": "The aftershocks of Jeffrey Epstein\u0027s crimes are rumbling once again, and all roads lead through President Trump\u2019s Justice Department. Join guest moderator Vivian Salama, Andrew Desiderio of Punchbowl News, Sarah Fitzpatrick of The Atlantic, Stephen Hayes of The Dispatch and Tarini Parti of The Wall Street Journal to discuss this and more.\n",
+      "release": "2026-02-28T01:46:36Z",
+      "duration": "00:24:10",
+      "explicit": false,
+      "spotifyId": "7hVjj019wCSnX4fY1ofZ3v",
+      "appleId": 1000752045706,
+      "youTubeId": "H27FA3Gusnk",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7hVjj019wCSnX4fY1ofZ3v",
+        "apple": "https://podcasts.apple.com/podcast/washington-week-with-the-atlantic-full-episode-2-27-26/id83324702?i=1000752045706",
+        "youtube": "https://www.youtube.com/watch?v=H27FA3Gusnk"
+      }
+    }
+  ]
+}

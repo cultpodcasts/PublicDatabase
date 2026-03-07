@@ -1,0 +1,145 @@
+{
+  "id": "a1cdab13-e133-496d-871f-5bcc90dfcbac",
+  "name": "Fallen Angel",
+  "spotifyId": "3397uUH3REZOl5DRGVmoQn",
+  "appleId": 1833077699,
+  "episodes": [
+    {
+      "id": "4ba690b9-3d97-4f95-a380-e831bb34d9c0",
+      "title": "Episode 8 - The Secret",
+      "description": "Feeling pressure to evolve, Victoria\u0027s Secret confronts its checkered past and attempts an ambitious brand overhaul. Meanwhile, women who were once beholden to the brand\u0027s fantasy grapple with the residual damage.",
+      "release": "2025-08-14T19:58:00Z",
+      "duration": "00:29:27.1570000",
+      "explicit": true,
+      "spotifyId": "4D8ppp2A4ME4zlk64gBmwU",
+      "appleId": 1000721994943,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4D8ppp2A4ME4zlk64gBmwU",
+        "apple": "https://podcasts.apple.com/podcast/episode-8-the-secret/id1833077699?i=1000721994943"
+      }
+    },
+    {
+      "id": "270eba93-24ec-4189-9881-6f74ca606fca",
+      "title": "Episode 7 - King Slayer",
+      "description": "Several new and inclusionary lingerie brands crop up as the culture shifts to focus on what women want. After years of dominating the market, can Victoria\u0027s Secret keep up?",
+      "release": "2025-08-14T19:55:00Z",
+      "duration": "00:32:30.7200000",
+      "explicit": false,
+      "spotifyId": "6ZanFyrZzSxUQWDkLxMqlI",
+      "appleId": 1000721994913,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ZanFyrZzSxUQWDkLxMqlI",
+        "apple": "https://podcasts.apple.com/podcast/episode-7-king-slayer/id1833077699?i=1000721994913"
+      }
+    },
+    {
+      "id": "4fd7d91b-6b0a-4d44-9d39-c9b948d5e9af",
+      "title": "Episode 6 - Trick Mirror",
+      "description": "Victoria\u0027s Secret continues its reign with the introduction of their youth line, PINK, and the diamond-encrusted Fantasy Bra. But some employees suspect that the glossy image is a mirage, signifying a possible turning point in the brand\u0027s vision.",
+      "release": "2025-08-14T19:54:00Z",
+      "duration": "00:36:48.1300000",
+      "explicit": true,
+      "spotifyId": "13QrcomNCaGW4wtiNSZicj",
+      "appleId": 1000721994979,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/13QrcomNCaGW4wtiNSZicj",
+        "apple": "https://podcasts.apple.com/podcast/episode-6-trick-mirror/id1833077699?i=1000721994979"
+      }
+    },
+    {
+      "id": "e12ab671-c0f5-42d5-ab61-b781801f456b",
+      "title": "Episode 5 - Wings",
+      "description": "Victoria\u0027s Secret heads into the world of high fashion and introduces an elite and exclusive tier of models called Angels. Behind the scenes, models eager to maintain Angel status fear what will happen if their wings are stripped away.",
+      "release": "2025-08-14T19:53:00Z",
+      "duration": "00:33:58.3600000",
+      "explicit": true,
+      "spotifyId": "5KMoLFkdGWm2lgNnNLLyVu",
+      "appleId": 1000721994730,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5KMoLFkdGWm2lgNnNLLyVu",
+        "apple": "https://podcasts.apple.com/podcast/episode-5-wings/id1833077699?i=1000721994730"
+      }
+    },
+    {
+      "id": "b54ca139-1bba-40b8-a333-4ce1efa512b7",
+      "title": "Episode 2 - Emotional Content",
+      "description": "An entrepreneur discovers a gap in the lingerie marketplace and creates a store built on the allure of a fictional British noblewoman named Victoria. But it\u2019s not until eccentric Ohioan businessman Les Wexner acquires the brand that Victoria\u0027s Secret grows into the global sensation it is today.",
+      "release": "2025-08-14T19:52:00Z",
+      "duration": "00:32:56.0060000",
+      "explicit": true,
+      "spotifyId": "6peITnrajM765T1OXnv52X",
+      "appleId": 1000721994849,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6peITnrajM765T1OXnv52X",
+        "apple": "https://podcasts.apple.com/podcast/episode-2-emotional-content/id1833077699?i=1000721994849"
+      }
+    },
+    {
+      "id": "a75ff0ce-f3a0-49e2-9218-1827c9680099",
+      "title": "Episode 4 - Money and Meat",
+      "description": "Back in the \u002780s and \u002790s, the modeling industry was largely fueled by young women but ruled by middle-aged men. These industry gatekeepers claimed they were discovering major talent, but some models say that, behind closed doors, it felt like they were being hunted for sport.",
+      "release": "2025-08-14T19:46:00Z",
+      "duration": "00:26:54.9150000",
+      "explicit": true,
+      "spotifyId": "3XMdao56f7JYO5xG4AvZAj",
+      "appleId": 1000721994944,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3XMdao56f7JYO5xG4AvZAj",
+        "apple": "https://podcasts.apple.com/podcast/episode-4-money-and-meat/id1833077699?i=1000721994944"
+      }
+    },
+    {
+      "id": "fa5ffdfd-f280-468c-966f-3e37a42e3b65",
+      "title": "Episode 3 - Fantasy Town, USA",
+      "description": "After acquiring Victoria\u0027s Secret, Les Wexner creates his own idyllic fantasy town in New Albany, Ohio, drawing the interest of many members of the local elite. Soon, Wexner would attract a New York money manager named Jeffrey Epstein.",
+      "release": "2025-08-14T19:38:00Z",
+      "duration": "00:32:52.0350000",
+      "explicit": true,
+      "spotifyId": "69wN1zKRDPoG4huOCSbxN2",
+      "appleId": 1000721994848,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/69wN1zKRDPoG4huOCSbxN2",
+        "apple": "https://podcasts.apple.com/podcast/episode-3-fantasy-town-usa/id1833077699?i=1000721994848"
+      }
+    },
+    {
+      "id": "de2169ac-e0a6-441f-b19e-548334470bd1",
+      "title": "Episode 1 - Thong Song",
+      "description": "Victoria\u2019s Secret is a cultural phenomenon, known for its glitzy annual fashion shows, mass-market success, and superstar models known as \u0022Angels.\u0022 But behind the glittering facade of fierce female empowerment, the multibillion-dollar lingerie megabrand was built on something else entirely.",
+      "release": "2025-08-14T19:30:00Z",
+      "duration": "00:29:35.5690000",
+      "explicit": true,
+      "spotifyId": "6LdAW3ifV8zpJgaWD79HOx",
+      "appleId": 1000721991066,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6LdAW3ifV8zpJgaWD79HOx",
+        "apple": "https://podcasts.apple.com/podcast/episode-1-thong-song/id1833077699?i=1000721991066"
+      }
+    }
+  ]
+}

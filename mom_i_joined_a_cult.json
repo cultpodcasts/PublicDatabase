@@ -5,6 +5,37 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "ca2352d9-2be2-4e3a-b77c-de60130bf79e",
+      "title": "Brigham Young - Season 13 Episode 8",
+      "description": "Thor lets us know why Brother Brigham is in the top runners for the most influential people of all time.",
+      "release": "2026-03-01T23:43:35Z",
+      "duration": "01:13:06.2030000",
+      "explicit": false,
+      "spotifyId": "7xLkAZIIsKn5K3XF4zwIDO",
+      "appleId": 1000752366998,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7xLkAZIIsKn5K3XF4zwIDO",
+        "apple": "https://podcasts.apple.com/podcast/brigham-young-season-13-episode-8/id1565633523?i=1000752366998"
+      }
+    },
+    {
+      "id": "597766c1-f951-4e89-aeac-89d29bd4db41",
+      "title": "Cleopatra VII - Season 13 Episode 7",
+      "description": "Join us and see why Cleopatra VII scored higher than anyone so far this season. Let us know if you agree by going to thenicecult.com",
+      "release": "2026-02-21T23:23:48Z",
+      "duration": "00:52:02.7120000",
+      "explicit": false,
+      "spotifyId": "3wOvq1nigBWXV1cjRaTwfX",
+      "appleId": 1000750825638,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3wOvq1nigBWXV1cjRaTwfX",
+        "apple": "https://podcasts.apple.com/podcast/cleopatra-vii-season-13-episode-7/id1565633523?i=1000750825638"
+      }
+    },
+    {
       "id": "d98ddb26-fed7-4252-9c82-a635991916d7",
       "title": "Mao Zedong - Season 13 Episode 6",
       "description": "Thor walks us through one of the most influential leaders of all time. Join us as we as we compare Mao to others we have placed on the list. \nYou can rate him yourself by going the thenicecult.com",

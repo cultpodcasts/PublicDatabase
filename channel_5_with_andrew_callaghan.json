@@ -1,0 +1,29 @@
+{
+  "id": "757eb29f-5442-416d-abb4-9b82aef3124c",
+  "name": "Channel 5 with Andrew Callaghan",
+  "spotifyId": "4SbtpR4je34P6yjTjaKPzN",
+  "appleId": 1812326992,
+  "youTubeChannelId": "UC-AQKm7HUNMmxjdS371MSwg",
+  "episodes": [
+    {
+      "id": "84cf3f94-1fc0-448c-8db0-2905f20e3f9e",
+      "title": "The Fight to Release the Epstein Files ft. Congressman Ro Khanna",
+      "description": "Here is our sit-down with Congressman Ro Khanna, who was one of the lawmakers behind the Epstein Transparency Act. Enjoy. ",
+      "release": "2026-02-21T17:16:17Z",
+      "duration": "01:19:33",
+      "explicit": false,
+      "spotifyId": "6QkqEUeAyTMXqdq7VFcgRO",
+      "appleId": 1000750708591,
+      "youTubeId": "Qubwe2jKdik",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6QkqEUeAyTMXqdq7VFcgRO",
+        "apple": "https://podcasts.apple.com/podcast/interviewing-the-congressman-behind-the-epstein-file/id1812326992?i=1000750708591",
+        "youtube": "https://www.youtube.com/watch?v=Qubwe2jKdik"
+      }
+    }
+  ]
+}

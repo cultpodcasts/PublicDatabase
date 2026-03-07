@@ -1,0 +1,29 @@
+{
+  "id": "ce4a3a56-7f49-4b94-81d6-3c8a90814768",
+  "name": "The Opinions",
+  "spotifyId": "581OhiIm69lqSyNRbBkXnf",
+  "appleId": 1762898126,
+  "youTubeChannelId": "UCLeLSfPzJOVujakCo4EnYgQ",
+  "episodes": [
+    {
+      "id": "a0d4625f-7308-4bc8-a969-4172f879b334",
+      "title": "Iran, Epstein and the Abuse of Power: Two Stories, One Pattern",
+      "description": "Power \u2014 and the abuse of it \u2014 is defining the current news cycle. On this week\u2019s round table of \u201CThe Opinions,\u201D the Times Opinion politics writer Michelle Cottle is joined by the columnists Nicholas Kristof and David French to discuss President Trump\u2019s aggressive foreign policy, including the buildup of ships in the Middle East, and what the fallout from the Epstein files misses. Thoughts? Email us at theopinions@nytimes.com. This episode of \u201CThe Opinions\u201D was produced by Vishakha Darbha. It was edited by Alison Bruzek and Kaari Pitkin. Mixing by Carole Sabouraud. Video editing by Lisa Angell. The postproduction manager is Mike Puretz. Original music by Carole Sabouraud and Pat McCusker. Fact-checking by Mary Marge Locker and Kate Sinclair. Audience strategy by Shannon Busta and Kristina Samulewski. The director of Opinion Video is Jonah M. Kessel. The deputy director of Opinion Shows is Alison Bruzek. The director of Opinion Shows is Annie-Rose Strasser. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2026-02-21T12:00:00Z",
+      "duration": "00:32:48.3520000",
+      "explicit": false,
+      "spotifyId": "7vbKTRphFhME0XwXYQAG5J",
+      "appleId": 1000750782996,
+      "youTubeId": "887dKFlygAQ",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7vbKTRphFhME0XwXYQAG5J",
+        "apple": "https://podcasts.apple.com/podcast/iran-epstein-and-the-abuse-of-power-two-stories-one-pattern/id1762898126?i=1000750782996",
+        "youtube": "https://www.youtube.com/watch?v=887dKFlygAQ"
+      }
+    }
+  ]
+}

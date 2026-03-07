@@ -1,0 +1,30 @@
+{
+  "id": "b98ac28a-332d-493f-a92d-43bc5eb32222",
+  "name": "Think from KERA",
+  "spotifyId": "0RsQx7ostb7RMy01mw92GT",
+  "appleId": 121493643,
+  "youTubeChannelId": "UCRsRIXSBgzZo8NCJgGlYb5g",
+  "episodes": [
+    {
+      "id": "42981be5-eb95-4262-b2d5-6e3a0bfc8a50",
+      "title": "If you were in a cult would you know it? (Featuring Daniella Mestyanek Young) | Think with Krys Boyd",
+      "description": "Cults are something other people join, right? Think again; you might be in one. Daniella Mestyanek Young is a cult survivor, U.S. Army veteran and Harvard-trained organizational psychologist and she joins host Krys Boyd to discuss recognizing the language of cults, the us-versus-them rhetoric and lauding of charismatic leaders, to be better able to reduce their power, and why she feels every organization falls within a \u201Cspectrum of cultiness.\u201D Her book is \u201CThe Culting of America: What Makes a Cult and Why We Love Them.\u201D",
+      "release": "2026-03-05T19:15:20Z",
+      "duration": "00:47:09",
+      "explicit": false,
+      "spotifyId": "2r3ZexIBGkzcTDz7uxf1zQ",
+      "appleId": 1000753099586,
+      "youTubeId": "yEZno-gaQsw",
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2r3ZexIBGkzcTDz7uxf1zQ",
+        "apple": "https://podcasts.apple.com/podcast/if-you-were-in-a-cult-would-you-know-it/id121493643?i=1000753099586",
+        "youtube": "https://www.youtube.com/watch?v=yEZno-gaQsw"
+      }
+    }
+  ]
+}

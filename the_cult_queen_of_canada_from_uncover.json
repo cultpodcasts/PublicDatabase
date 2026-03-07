@@ -1,0 +1,48 @@
+{
+  "id": "912072b2-1c0c-4c0e-9218-a39ec6771f0d",
+  "name": "The Cult Queen of Canada from Uncover",
+  "spotifyId": "5asD2sDYXsiUCtYi7VUO49",
+  "appleId": 1364665348,
+  "youTubeChannelId": "UC8rLel5fzQV-pN7pUOF31gQ",
+  "youTubePlaylistId": "PLuMdLmjdG8ddP-uCa51Hyav7TDuiVIH0t",
+  "episodes": [
+    {
+      "id": "cb270dc8-fcf8-49e4-be38-2af0ee9e680f",
+      "title": "S36 E2: All About Romana | The Cult Queen of Canada",
+      "description": "Rachel Browne explores the true identity of \u0022Queen Romana,\u0022 a serial hustler and QAnon influencer who mobilized her \u0022digital soldiers\u0022 with \u0022Royal Decrees.\u0022 We track her chaotic cross-country \u0022Royal Tour\u0022 and find out why it ended in Richmound. Hear episodes early and ad-free on our Apple Podcasts channel , or hear all episodes now on our YouTube .",
+      "release": "2026-03-02T09:10:00Z",
+      "duration": "00:39:32.6500000",
+      "explicit": false,
+      "spotifyId": "31cbkClxJNwifvF75P14GO",
+      "appleId": 1000750713431,
+      "youTubeId": "r_Ng-e5u1aY",
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/31cbkClxJNwifvF75P14GO",
+        "apple": "https://podcasts.apple.com/podcast/s36-e2-all-about-romana-the-cult-queen-of-canada/id1364665348?i=1000750713431",
+        "youtube": "https://www.youtube.com/watch?v=r_Ng-e5u1aY"
+      }
+    },
+    {
+      "id": "bafeecb7-4b04-4603-8689-b42596c42577",
+      "title": "S36 E1: The Queen Comes to Town | The Cult Queen of Canada",
+      "description": "The prairie town of Richmound is shattered when \u0022Queen of Canada\u0022 Romana Didulo and her cult occupy the local school. As the mayor struggles, locals organize a tense protest against the cult\u0027s intimidation and death threats, revealing deep divisions in the community.",
+      "release": "2026-02-23T09:10:00Z",
+      "duration": "00:37:47.8720000",
+      "explicit": false,
+      "spotifyId": "4TtXIlwPbmN74HjY3K22Vx",
+      "appleId": 1000750713247,
+      "youTubeId": "ue7VsUtsm9M",
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4TtXIlwPbmN74HjY3K22Vx",
+        "apple": "https://podcasts.apple.com/podcast/s36-e1-the-queen-comes-to-town-the-cult-queen-of-canada/id1364665348?i=1000750713247",
+        "youtube": "https://www.youtube.com/watch?v=ue7VsUtsm9M"
+      }
+    }
+  ]
+}

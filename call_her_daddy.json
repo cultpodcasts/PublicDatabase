@@ -7,22 +7,39 @@
   "youTubePlaylistId": "PLGqHFvYjXKcipJd5WZKt-oG4Xaau9aR4D",
   "episodes": [
     {
+      "id": "e8f81d97-3ddd-475a-aa7d-4093fb7cecfd",
+      "title": "Bethany Joy Lenz: One Tree Hill \u0026 Escaping a Cult (FBF)",
+      "description": "Join Alex in the studio for an exclusive interview with Bethany Joy Lenz where she reveals that the whole time the world was watching her on One Tree Hill, she was stuck in an abusive and controlling cult behind the scenes. She shares what led her to this group, what her OTH castmates thought about it, how she escaped, and what it was like starting over again. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2026-02-27T08:00:00Z",
+      "duration": "01:27:02.4000000",
+      "explicit": true,
+      "spotifyId": "2GPruuxGeLsegSfrAIUBr0",
+      "appleId": 1000751114362,
+      "youTubeId": "fLKcJuwpM5M",
+      "subjects": [
+        "The Big House Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2GPruuxGeLsegSfrAIUBr0",
+        "apple": "https://podcasts.apple.com/podcast/bethany-joy-lenz-one-tree-hill-escaping-a-cult-fbf/id1418960261?i=1000751114362",
+        "youtube": "https://www.youtube.com/watch?v=fLKcJuwpM5M"
+      }
+    },
+    {
       "id": "833f955a-eec0-4a1a-b889-13359684579a",
       "title": "Bethany Joy Lenz: One Tree Hill \u0026 Escaping a Cult",
       "description": "Join Alex in the studio for an exclusive interview with Bethany Joy Lenz where she reveals that the whole time the world was watching her on One Tree Hill, she was stuck in an abusive and controlling cult behind the scenes. She shares what led her to this group, what her OTH castmates thought about it, how she escaped, and what it was like starting over again. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "release": "2024-10-16T07:00:00Z",
       "duration": "01:28:48.1280000",
       "explicit": true,
-      "spotifyId": "7oBL6muiAa2k0patL2Nxru",
       "appleId": 1000673228314,
-      "youTubeId": "oqopiYph23A",
+      "youTubeId": "fLKcJuwpM5M",
       "subjects": [
         "The Big House Family"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/7oBL6muiAa2k0patL2Nxru",
         "apple": "https://podcasts.apple.com/podcast/bethany-joy-lenz-one-tree-hill-escaping-a-cult/id1418960261?i=1000673228314",
-        "youtube": "https://www.youtube.com/watch?v=oqopiYph23A"
+        "youtube": "https://www.youtube.com/watch?v=fLKcJuwpM5M"
       }
     }
   ]

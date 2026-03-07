@@ -3,7 +3,64 @@
   "name": "Surviving the Black Church Podcast",
   "spotifyId": "0pdsUzPGwhIgPsYdv0jcRb",
   "appleId": 1678625882,
+  "youTubeChannelId": "UCrAHUQ4hDYd6uApbvTg6jWg",
+  "youTubePlaylistId": "PLNJ3OHTs2PT7bMTXbiFSLkbcEfr62D8EA",
   "episodes": [
+    {
+      "id": "a126f8cd-b175-42c7-b5b2-f8a7be44b065",
+      "title": "Impact of Christian Nationalism Part I",
+      "description": "Summary The Surviving the Black Church Podcast sheds light on religious trauma and dismantles oppressive systems within the Black Church. The urgency of the conversation is highlighted by the personal experiences of the hosts and the need to address the impact of Christian nationalism. The historical origins of Christian nationalism are explored, tracing back to the Roman Empire, colonialism, and the Puritans, and its impact on American society is discussed in detail. The conversation delves into the impetus of separation of church and state, the characteristics and traits of Christian nationalism, the Seven Mountain Mandate, and the impact of Christian nationalism on society. It explores the historical threads weaving into present-day reality and the dangerous ideologies that undermine pluralism and threaten democracy. The conversation delves into the impact of Christian nationalism on the Black church, highlighting the historical significance and the tension within the relationship. It also explores the recruitment of Black church leaders by Christian nationalists, shedding light on the intersectionality between the two and the historical context of this alliance. Takeaways * Religious trauma and Christian nationalism * The historical origins of Christian nationalism Separation of church and state * Christian nationalism and its impact on society Impact of Christian Nationalism on the Black Church * Recruitment of Black Church Leaders by Christian Nationalists Chapters * 00:00 Introduction to Surviving the Black Church Podcast * 04:57 The Origins of Christian Nationalism * 31:56 The Impetus of Separation of Church and State * 39:48 The Seven Mountain Mandate * 59:39 Impact of Christian Nationalism on Society * 01:06:43 The Impact of Christian Nationalism on the Black Church",
+      "release": "2026-03-01T14:00:00Z",
+      "duration": "01:35:00.9890000",
+      "explicit": false,
+      "spotifyId": "5echOoy9JDavVrhhPXCdvD",
+      "appleId": 1000752317629,
+      "youTubeId": "c25NMhcasN4",
+      "subjects": [
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5echOoy9JDavVrhhPXCdvD",
+        "apple": "https://podcasts.apple.com/podcast/impact-of-christian-nationalism-part-i/id1678625882?i=1000752317629",
+        "youtube": "https://www.youtube.com/watch?v=c25NMhcasN4"
+      }
+    },
+    {
+      "id": "258fb39a-b138-42de-b545-46fde993a692",
+      "title": "The Impact of Christian Nationalism Part II",
+      "description": "Most Black folks have unknowingly been caught in a generational trauma bond with Christian nationalism\u2014an invisible leash rooted in centuries of systemic oppression. But what if understanding its origins could free us from its grip? This powerful episode dives deep into how faith, history, and politics intertwine to shape the ongoing trauma within our communities and explores concrete pathways to healing and liberation. You\u0027ll discover how Christian nationalism became a tool of control starting from slavery, how it fostered a psychological and spiritual dependency, and why this trauma bond persists today in our churches, politics, and collective psyche. Nikki G. and Jonathon unpack the insidious ways this alliance has redefined faith\u2014using scripture as a weapon, promoting respectability politics, and diverting our focus from systemic justice to individual salvation. They break down the history of religious manipulation from the plantation era, through Jim Crow, to modern political movements, revealing how these forces have suppressed our collective voice and perpetuated inequality. We explore the duality of the Black church as both a sanctuary of resilience and a perpetuator of trauma\u2014shaped by idealized narratives of obedience and survival. Understand the psychological toll of linking faith with oppression, from internalized shame to addiction, and learn how to recognize the signs of this toxic attachment. Most importantly, this episode provides practical tools to untangle this deeply embedded trauma bond: reclaim your spirituality, challenge harmful ideologies, and foster a community rooted in justice, love, and self-care. This is essential listening for Black individuals craving liberation, faith leaders seeking to heal their communities, and anyone committed to truth and transformation. By confronting the roots of our pain, we can break free from the cycles of control and step into a future where faith uplifts and empowers\u2014not oppresses. Join the conversation\u2014because healing begins when we finally see the full picture. Reclaim your power, restore your faith, and rewrite the story of our collective freedom.",
+      "release": "2026-03-01T14:00:00Z",
+      "duration": "01:31:40.0550000",
+      "explicit": false,
+      "spotifyId": "7CBcFRkXRzrVjtjNRvHHQx",
+      "appleId": 1000752317716,
+      "youTubeId": "d77Ht2H2F6g",
+      "subjects": [
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7CBcFRkXRzrVjtjNRvHHQx",
+        "apple": "https://podcasts.apple.com/podcast/the-impact-of-christian-nationalism-part-ii/id1678625882?i=1000752317716",
+        "youtube": "https://www.youtube.com/watch?v=d77Ht2H2F6g"
+      }
+    },
+    {
+      "id": "edbfce1f-67d5-4fd5-a67f-9380a7685a5c",
+      "title": "Welcome Back and Season 2 Overview",
+      "release": "2026-03-01T00:00:00Z",
+      "duration": "01:01:33.4790000",
+      "explicit": true,
+      "spotifyId": "0tJHYwByieciIkLYTLLRDB",
+      "appleId": 1000752162405,
+      "youTubeId": "9SqbFRzREOk",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0tJHYwByieciIkLYTLLRDB",
+        "apple": "https://podcasts.apple.com/podcast/welcome-back-and-season-2-overview/id1678625882?i=1000752162405",
+        "youtube": "https://www.youtube.com/watch?v=9SqbFRzREOk"
+      }
+    },
     {
       "id": "3e25a939-3ddd-497a-a1bc-97603a0054a0",
       "title": "Recapping Season 1 of Surviving the Black Church Podcast",
@@ -13,13 +70,15 @@
       "explicit": false,
       "spotifyId": "6T143tOaQ4k4R9zQSAlxDd",
       "appleId": 1000617917579,
+      "youTubeId": "WEH3ZK_0FI4",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6T143tOaQ4k4R9zQSAlxDd",
-        "apple": "https://podcasts.apple.com/podcast/recapping-season-1-of-surviving-the-black-church-podcast/id1678625882?i=1000617917579"
+        "apple": "https://podcasts.apple.com/podcast/recapping-season-1-of-surviving-the-black-church-podcast/id1678625882?i=1000617917579",
+        "youtube": "https://www.youtube.com/watch?v=WEH3ZK_0FI4"
       }
     },
     {
@@ -31,13 +90,15 @@
       "explicit": false,
       "spotifyId": "0Pw5Ku2LQoZ295jbMc3whT",
       "appleId": 1000617082921,
+      "youTubeId": "Wm-fDWIIZr0",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0Pw5Ku2LQoZ295jbMc3whT",
-        "apple": "https://podcasts.apple.com/podcast/mental-health-stigma-the-black-church/id1678625882?i=1000617082921"
+        "apple": "https://podcasts.apple.com/podcast/mental-health-stigma-the-black-church/id1678625882?i=1000617082921",
+        "youtube": "https://www.youtube.com/watch?v=Wm-fDWIIZr0"
       }
     },
     {
@@ -49,13 +110,15 @@
       "explicit": false,
       "spotifyId": "5FNKxCrcteUg8KWCb414Zs",
       "appleId": 1000616076611,
+      "youTubeId": "G91a4CH8JSo",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5FNKxCrcteUg8KWCb414Zs",
-        "apple": "https://podcasts.apple.com/podcast/coping-mechanisms-after-religious-trauma/id1678625882?i=1000616076611"
+        "apple": "https://podcasts.apple.com/podcast/coping-mechanisms-after-religious-trauma/id1678625882?i=1000616076611",
+        "youtube": "https://www.youtube.com/watch?v=G91a4CH8JSo"
       }
     },
     {
@@ -67,13 +130,15 @@
       "explicit": false,
       "spotifyId": "6bnaIt4kIb52bS0wyUnNfF",
       "appleId": 1000614309237,
+      "youTubeId": "bv-bAiOk1i8",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6bnaIt4kIb52bS0wyUnNfF",
-        "apple": "https://podcasts.apple.com/podcast/has-religious-abuse-become-the-norm-within-the/id1678625882?i=1000614309237"
+        "apple": "https://podcasts.apple.com/podcast/has-religious-abuse-become-the-norm-within-the/id1678625882?i=1000614309237",
+        "youtube": "https://www.youtube.com/watch?v=bv-bAiOk1i8"
       }
     },
     {
@@ -85,13 +150,15 @@
       "explicit": false,
       "spotifyId": "19LaN6X5kwOUjhCU2ZYnsD",
       "appleId": 1000613381865,
+      "youTubeId": "7ljlDBzftN8",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/19LaN6X5kwOUjhCU2ZYnsD",
-        "apple": "https://podcasts.apple.com/podcast/has-religious-abuse-become-the-norm-within-the/id1678625882?i=1000613381865"
+        "apple": "https://podcasts.apple.com/podcast/has-religious-abuse-become-the-norm-within-the/id1678625882?i=1000613381865",
+        "youtube": "https://www.youtube.com/watch?v=7ljlDBzftN8"
       }
     },
     {
@@ -103,13 +170,15 @@
       "explicit": false,
       "spotifyId": "1Utl6UHBJfphflm9iTe4Ch",
       "appleId": 1000612492451,
+      "youTubeId": "R4wgfbGGT5U",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1Utl6UHBJfphflm9iTe4Ch",
-        "apple": "https://podcasts.apple.com/podcast/similarities-of-narcissistic-families-and/id1678625882?i=1000612492451"
+        "apple": "https://podcasts.apple.com/podcast/similarities-of-narcissistic-families-and/id1678625882?i=1000612492451",
+        "youtube": "https://www.youtube.com/watch?v=R4wgfbGGT5U"
       }
     },
     {
@@ -121,13 +190,15 @@
       "explicit": false,
       "spotifyId": "51UHkEw6k6edP1t2M0D4Cj",
       "appleId": 1000611560810,
+      "youTubeId": "g4jSPng6tOc",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/51UHkEw6k6edP1t2M0D4Cj",
-        "apple": "https://podcasts.apple.com/podcast/similarities-of-narcissistic-families-and/id1678625882?i=1000611560810"
+        "apple": "https://podcasts.apple.com/podcast/similarities-of-narcissistic-families-and/id1678625882?i=1000611560810",
+        "youtube": "https://www.youtube.com/watch?v=g4jSPng6tOc"
       }
     },
     {
@@ -139,13 +210,15 @@
       "explicit": false,
       "spotifyId": "6Yjb8trgUFduQbQwIpcvUJ",
       "appleId": 1000610682844,
+      "youTubeId": "J3C4pt7djY0",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6Yjb8trgUFduQbQwIpcvUJ",
-        "apple": "https://podcasts.apple.com/podcast/characteristics-of-religious-abusive-leaders-in/id1678625882?i=1000610682844"
+        "apple": "https://podcasts.apple.com/podcast/characteristics-of-religious-abusive-leaders-in/id1678625882?i=1000610682844",
+        "youtube": "https://www.youtube.com/watch?v=J3C4pt7djY0"
       }
     },
     {
@@ -157,13 +230,15 @@
       "explicit": false,
       "spotifyId": "7kzsQWtoUSdTG5RsZin26n",
       "appleId": 1000609598197,
+      "youTubeId": "F4KGx5hdDME",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7kzsQWtoUSdTG5RsZin26n",
-        "apple": "https://podcasts.apple.com/podcast/church-hurt-vs-religious-trauma-part-2/id1678625882?i=1000609598197"
+        "apple": "https://podcasts.apple.com/podcast/church-hurt-vs-religious-trauma-part-2/id1678625882?i=1000609598197",
+        "youtube": "https://www.youtube.com/watch?v=F4KGx5hdDME"
       }
     },
     {
@@ -175,13 +250,15 @@
       "explicit": false,
       "spotifyId": "3PSBMQuel0dAZ7mrHsgXlq",
       "appleId": 1000608565215,
+      "youTubeId": "gvinDyx8Gcw",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3PSBMQuel0dAZ7mrHsgXlq",
-        "apple": "https://podcasts.apple.com/podcast/church-hurt-vs-religious-trauma-part-1/id1678625882?i=1000608565215"
+        "apple": "https://podcasts.apple.com/podcast/church-hurt-vs-religious-trauma-part-1/id1678625882?i=1000608565215",
+        "youtube": "https://www.youtube.com/watch?v=gvinDyx8Gcw"
       }
     },
     {
@@ -193,13 +270,15 @@
       "explicit": false,
       "spotifyId": "6VDqgyd6pJZxgRZfF5wlB0",
       "appleId": 1000607498948,
+      "youTubeId": "6eTROIfsJ7g",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6VDqgyd6pJZxgRZfF5wlB0",
-        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-religious-trauma-part-2/id1678625882?i=1000607498948"
+        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-religious-trauma-part-2/id1678625882?i=1000607498948",
+        "youtube": "https://www.youtube.com/watch?v=6eTROIfsJ7g"
       }
     },
     {
@@ -211,13 +290,15 @@
       "explicit": false,
       "spotifyId": "2CzW5F11Tqy9ciJYjF6QG7",
       "appleId": 1000606432085,
+      "youTubeId": "u-FifTjwBso",
       "subjects": [
         "Psychology",
         "Cult Recovery"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2CzW5F11Tqy9ciJYjF6QG7",
-        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-religious-trauma-part-1/id1678625882?i=1000606432085"
+        "apple": "https://podcasts.apple.com/podcast/lets-talk-about-religious-trauma-part-1/id1678625882?i=1000606432085",
+        "youtube": "https://www.youtube.com/watch?v=u-FifTjwBso"
       }
     },
     {

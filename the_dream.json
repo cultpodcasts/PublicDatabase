@@ -5,6 +5,23 @@
   "appleId": 1435743296,
   "episodes": [
     {
+      "id": "74156438-13ea-4c67-be25-31c418148cad",
+      "title": "Magic Little Pills",
+      "description": "Can powders, pills and juices deliver on the promise to live longer and look younger? A",
+      "release": "2026-02-26T21:53:05Z",
+      "duration": "00:31:09.0870000",
+      "explicit": false,
+      "spotifyId": "37hZpfPbecMFspPgIPbTo0",
+      "appleId": 1000751816928,
+      "subjects": [
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37hZpfPbecMFspPgIPbTo0",
+        "apple": "https://podcasts.apple.com/podcast/magic-little-pills/id1435743296?i=1000751816928"
+      }
+    },
+    {
       "id": "49350fb1-923f-4709-92a3-fe7d9970d022",
       "title": "The Antidote to Trickery",
       "description": "None of us are immune to cults, scammers and, according to today\u0027s guest, the wiles of the malignant narcissist. Diane Benscoter is a former cult member having joined the Moonies in the 1970s. She now runs a nonprofit called Antidote aimed at helping victims and their families escape. You can find more about her work here. Hosted on Acast. See acast.com/privacy for more information.",
