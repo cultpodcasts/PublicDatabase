@@ -1527,12 +1527,14 @@
       "release": "2025-07-06T01:03:32Z",
       "duration": "00:38:15",
       "explicit": false,
+      "spotifyId": "3V6jyLhY6Iu1vkcwN91zXf",
       "youTubeId": "Lsu_uoC9nXE",
       "subjects": [
         "Opus Dei",
         "Catholicism"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3V6jyLhY6Iu1vkcwN91zXf",
         "youtube": "https://www.youtube.com/watch?v=Lsu_uoC9nXE"
       }
     },

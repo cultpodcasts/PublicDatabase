@@ -1,0 +1,32 @@
+{
+  "id": "655c46d9-7351-4db5-b95f-a55ad5af4e95",
+  "name": "The Edge",
+  "spotifyId": "6sWovjqo2jBAs8VAVDUpUh",
+  "appleId": 1518165577,
+  "youTubeChannelId": "UCcw5Io_cywGjcjpvLWgcueg",
+  "episodes": [
+    {
+      "id": "0f16de4f-d1fb-44f5-b7a0-c6d70d7bea68",
+      "title": "#32 Cults with Poulomi Saha",
+      "description": "Wild Wild Country. Escaping NXIVM. The Path. Holy Hell. That\u2019s just a few of the vast and growing collection of documentaries, podcasts, docuseries exploring the history and legacy of cults. What explains this explosion of interest? Associate professor of English and resident cult expert Poulomi Saha joins Editor-in-Chief Pat Joseph live onstage to discuss America\u2019s long enthrallment with\u2014and participation in\u2014cults.\u00A0\nFurther reading:\u00A0\nWatch the full live conversation with Poulomi Saha on YouTubeBuy your tickets for \u201CAlone in the Algorithm: Human Connection in the Age of AI\u201D with Berkeley Professor Jodi Halpern and technologist Jaron Lanier on March 26\u00A0This episode was produced by Coby McDonald.\u00A0\nSpecial thanks to Alex Filippenko, Pat Joseph, and Nat Alcantara. Art by Michiko Toki and original music by Mogli Maureal. Additional music from Blue Dot Sessions.\n\n\nSupport the show",
+      "release": "2026-03-11T13:00:00Z",
+      "duration": "01:04:45",
+      "explicit": false,
+      "spotifyId": "61qDmjfs5lyvCLwzn7eSGE",
+      "appleId": 1000754659511,
+      "youTubeId": "CjptwMirx8U",
+      "subjects": [
+        "Bhagwan Shree Rajneesh",
+        "Buddhafield",
+        "Cult-Expert",
+        "NXIVM",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/61qDmjfs5lyvCLwzn7eSGE",
+        "apple": "https://podcasts.apple.com/podcast/32-cults-with-poulomi-saha/id1518165577?i=1000754659511",
+        "youtube": "https://www.youtube.com/watch?v=CjptwMirx8U"
+      }
+    }
+  ]
+}

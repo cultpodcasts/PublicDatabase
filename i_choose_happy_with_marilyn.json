@@ -1,0 +1,25 @@
+{
+  "id": "2c427d30-64e2-48a9-be3e-219a463e265f",
+  "name": "I Choose Happy with Marilyn",
+  "spotifyId": "43LoEd2yJWTrGCjwPSED3K",
+  "appleId": 1831043949,
+  "youTubeChannelId": "UCJ_qWTcj98aBwNbHO84oD2A",
+  "episodes": [
+    {
+      "id": "12653662-f691-4d6f-83bc-f07692515ae8",
+      "title": "Ep1: The Cult Next Door: Healing, Manipulation, And The Fight to Break Free",
+      "description": "When Aundria Adams ran away from an abusive home at 16, she thought she\u0027d finally found safety. But what began as a quest for healing led her straight into the arms of a manipulative therapist who was running a cult in plain sight. In this gripping episode, Aundria shares how she escaped both her childhood trauma and a hidden web of psychological abuse\u2014breaking the cycle not just for herself, but for her family. It\u0027s a harrowing story of betrayal, resilience, and ultimately, reclaiming joy. ------ Connect with Marilyn and be a part of the conversation in the I Choose Happy private Facebook group. This is your safe space to share and be inspired. Please join today by clicking here . ------ Find out more about Marilyn at marilyngetasbyrne.com . ------ I Choose Happy is made possible by The Comfy, a Shark Tank sensation whose wearable blankets make life happier. Find out for yourself with 20% off your first order with the code ichoosehappy at TheComfy.com .",
+      "release": "2025-08-04T16:14:17Z",
+      "duration": "00:45:36.7080000",
+      "explicit": false,
+      "spotifyId": "5NPkRXnBppSa3ThLuTsnW3",
+      "appleId": 1000720613636,
+      "youTubeId": "cOuDufSV1AI",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5NPkRXnBppSa3ThLuTsnW3",
+        "apple": "https://podcasts.apple.com/podcast/ep1-the-cult-next-door-healing-manipulation-and-the/id1831043949?i=1000720613636",
+        "youtube": "https://www.youtube.com/watch?v=cOuDufSV1AI"
+      }
+    }
+  ]
+}

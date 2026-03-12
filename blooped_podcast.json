@@ -5,6 +5,23 @@
   "youTubeChannelId": "UCL9MYeAMA88OUVn1uYjAW6Q",
   "episodes": [
     {
+      "id": "66a377bd-b566-4f88-9b36-c361a5b32e7f",
+      "title": "Live with Vanessa \u0026 Vilas",
+      "description": "To hear more, visit thebloopedpodcast.substack.com",
+      "release": "2026-03-11T00:00:00",
+      "duration": "01:13:49.7660000",
+      "explicit": false,
+      "spotifyId": "5xwIjJhqC6PqMM49ach5fl",
+      "youTubeId": "AmRdp1lNKgk",
+      "subjects": [
+        "Hare Krishnas"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5xwIjJhqC6PqMM49ach5fl",
+        "youtube": "https://www.youtube.com/watch?v=AmRdp1lNKgk"
+      }
+    },
+    {
       "id": "646c8504-51ca-438c-8270-55bfe78c70f7",
       "title": "Blooped Live with Vanessa \u0026 Vilas: Vilas\u0027s Story",
       "description": "A recording from Vanessa \u0026 Vilas\u0027s live video\n\nhttps://thebloopedpodcast.substack.com/p/blooped-live-with-vanessa-and-vilas-72a?utm_source=youtube",

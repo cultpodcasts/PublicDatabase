@@ -5,6 +5,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "d42792e0-7021-40cd-9f6f-cc587ca4234d",
+      "title": "Brother of Jared Story Part 1",
+      "description": "The Brother of Jared tells his story of his early years in the church and his mission to Argentina.",
+      "release": "2026-03-08T10:00:00Z",
+      "duration": "00:59:41.8050000",
+      "explicit": true,
+      "spotifyId": "5juIRK5MuycL352nELQsYl",
+      "appleId": 1000753940965,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5juIRK5MuycL352nELQsYl",
+        "apple": "https://podcasts.apple.com/podcast/brother-of-jared-story-part-1/id1555494727?i=1000753940965"
+      }
+    },
+    {
       "id": "f759e622-4bdb-48d4-8e0c-27572afb947f",
       "title": "A Silenced Woman\u0027s Voice",
       "description": "Samantha Sorensen returns to discuss her book, \u0022Non-Consensual Morality: A Silenced Woman\u0027s Voice from the Dark.\u0022 TW: This episode includes topics of SA that may not be suitable for some viewers.",

@@ -3,7 +3,27 @@
   "name": "THE ANTI AA CONCEPT",
   "spotifyId": "5aeuvJ5C6KayoCMr9NiiNt",
   "appleId": 1841807712,
+  "youTubeChannelId": "UCpJr8K5PzwRtRt0Ktb-ssyQ",
   "episodes": [
+    {
+      "id": "f75ce3d8-ff76-4848-8683-84ad0040524f",
+      "title": "AA\u0027s Biggest Lies Start Right Here. The Truth About Bill Wilson And The Big Book.",
+      "description": "This video questions the authenticity of The Big Book used in Alcoholics Anonymous meetings, suggesting it contains falsehoods. We aim to expose the first lie presented in the book\u0027s initial chapters, drawing parallels to fundamentalist religious worldviews and challenging the traditional views of Alcoholics Anonymous addiction recovery. Many ask, \u0022 is AA a cult?\u0022 and this discussion contributes to that ongoing debate. BOOKS FOR RECOVERY AND REINVENTION THE SMALL BOOK: HOW I BEAT ALCOHOLISM AND WHY ALCOHOLICS ANONYMOUS DOESN\u0027T WORK. THE SHEPHERD AND THE RUNNINGWOLF: A PATH TO FORGIVENESS ON THE PACIFIC CREST TRAIL REINVENTION OF SELF: HOW TO CHANGE YOUR LIFE AND BEING FOREVER",
+      "release": "2026-03-07T14:00:00Z",
+      "duration": "00:10:43.3430000",
+      "explicit": false,
+      "spotifyId": "1A8aM2wQ2W1o2KcNUs9irY",
+      "appleId": 1000753775305,
+      "youTubeId": "Z0WVSlpBX5E",
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1A8aM2wQ2W1o2KcNUs9irY",
+        "apple": "https://podcasts.apple.com/podcast/aas-biggest-lies-start-right-here-the-truth-about/id1841807712?i=1000753775305",
+        "youtube": "https://www.youtube.com/watch?v=Z0WVSlpBX5E"
+      }
+    },
     {
       "id": "5c79624c-c147-4cfd-9dfd-724062757fb1",
       "title": "Ready To Be Sober Or Not Ready To Be Sober? How Do You Know When It\u0027s Time To Quit Drinking?",
@@ -13,12 +33,14 @@
       "explicit": false,
       "spotifyId": "75mLG3TEKZPRaE1fFitfDw",
       "appleId": 1000744590139,
+      "youTubeId": "b0-zefcu23Q",
       "subjects": [
         "Alcoholics Anonymous"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/75mLG3TEKZPRaE1fFitfDw",
-        "apple": "https://podcasts.apple.com/podcast/ready-to-be-sober-or-not-ready-to-be-sober-how-do-you/id1841807712?i=1000744590139"
+        "apple": "https://podcasts.apple.com/podcast/ready-to-be-sober-or-not-ready-to-be-sober-how-do-you/id1841807712?i=1000744590139",
+        "youtube": "https://www.youtube.com/watch?v=b0-zefcu23Q"
       }
     },
     {
@@ -30,12 +52,14 @@
       "explicit": false,
       "spotifyId": "5sV6jFHXEM16mLLKHLbLrM",
       "appleId": 1000739980657,
+      "youTubeId": "pi_sf05H978",
       "subjects": [
         "Alcoholics Anonymous"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5sV6jFHXEM16mLLKHLbLrM",
-        "apple": "https://podcasts.apple.com/podcast/aa-is-a-high-control-group-the-secret-dark-side-of/id1841807712?i=1000739980657"
+        "apple": "https://podcasts.apple.com/podcast/aa-is-a-high-control-group-the-secret-dark-side-of/id1841807712?i=1000739980657",
+        "youtube": "https://www.youtube.com/watch?v=pi_sf05H978"
       }
     }
   ]

@@ -1,8 +1,27 @@
 {
   "id": "e6419082-7b89-4d46-b6ac-437864e374d3",
-  "name": "Cara Cordoni",
+  "name": "Fool\u0027s Gold: Discernment in the Age of Grift",
+  "spotifyId": "4K33wltK6PizkA6yzxyeLs",
+  "appleId": 1871791383,
   "youTubeChannelId": "UCD1NXf-w1uruXKsY8rZsZZA",
   "episodes": [
+    {
+      "id": "c705bb12-fb42-4f92-9e39-4746320ed762",
+      "title": "Anya Kamenetz on Investigative Journalism and ISTA",
+      "description": "Award-winning journalist Anya Kamenetz joins Cara to discuss her February 2024 New York Magazine investigation of The International School of Temple Arts, ISTA. Anya explains how she came to the story through friends who loved ISTA, attending an ISTA-adjacent retreat, and hearing whispers of a \u0022Me Too problem\u0022 the organization was supposedly addressing. What began as a story about accountability done right became something else as facts emerged during the year-long reporting process. Anya walks through the challenges of trauma-informed interviewing with seven survivors, the editorial process at a major publication (fact-checkers, lawyers, revisions), and ISTA\u0027s responses both public and private. She addresses accusations of bias and \u0022bait and switch.\u0022 Cara and Anya name what survivors received from ISTA\u2019s Accountability efforts versus what perpetrators got, the devastating impact of ISTA\u0027s post-publication response, and why Anya regrets editors cut her disclosure of attending an ISTA-like retreat, herself. Content Note: Discussion of sexual assault, organizational harm, and cult dynamics. Read Anya\u0027s ISTA investigation Listen to her article on YouTube ABOUT ANYA KAMENETZ: Anya Kamenetz is an award-winning journalist, author, and speaker who has worked for National Public Radio and contributed to The New Yorker, New York Magazine, the New York Times, the Atlantic and many other publications. As an advisor to Climate Mental Health Network, she co-created the Climate Emotions Wheel. Her Substack The Golden Hour and her forthcoming book Falling In Love With The World Again (Bloomsbury, 2027) explore how to cope and thrive in a time of rapid change and intersecting crises. Website: http://anyakamenetz.net/ Substack: thegoldenhour.substack.com RESOURCES: Safer Sex-Positive and Spiritual Communities: 3SC.Community ICSA (International Cultic Studies Association): ICSA.org CONNECT: Conversations like these helped me get through the darkest times, and I hope they help us get through dark times together. If this episode resonates with you, I\u0027d love to hear from you. Questions or feedback: foolsgoldpodcast@proton.me Schedule a 30 min curiosity call with Cara: calendly.com/caracordonicoaching Substack: https://caracordoni.substack.com/ Instagram: @caracordoni Like what you\u0027re hearing? Subscribe, share with someone who might benefit, and leave a review. Your engagement helps others find these conversations, especially because this is a new show. CREDITS: Graphics: Paxton Scarberry Music: \u0022Midnight Rendezvous\u0022 by Sasha Ende (ende.app) Licensed under CC BY-NC 4.0",
+      "release": "2026-03-10T13:00:00Z",
+      "duration": "00:54:31.6270000",
+      "explicit": true,
+      "spotifyId": "7K2LGICBBvhSXx4G6TUTYU",
+      "appleId": 1000754471112,
+      "subjects": [
+        "International School of Temple Arts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7K2LGICBBvhSXx4G6TUTYU",
+        "apple": "https://podcasts.apple.com/podcast/anya-kamenetz-on-investigative-journalism-and-ista/id1871791383?i=1000754471112"
+      }
+    },
     {
       "id": "29fe4910-ee1c-4e71-9cc2-1e76ce65a58e",
       "title": "Journalist Anke Richter\u0027s Cult Trips",
@@ -10,6 +29,8 @@
       "release": "2026-03-03T15:06:01Z",
       "duration": "01:08:22",
       "explicit": true,
+      "spotifyId": "4neJ4QFQZdYusiCjPZTRn3",
+      "appleId": 1000752895276,
       "youTubeId": "0iutjMsXpeA",
       "subjects": [
         "International School of Temple Arts",
@@ -18,6 +39,8 @@
         "Centrepoint"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4neJ4QFQZdYusiCjPZTRn3",
+        "apple": "https://podcasts.apple.com/podcast/journalist-anke-richter-on-ista-and-cultic-patterns/id1871791383?i=1000752895276",
         "youtube": "https://www.youtube.com/watch?v=0iutjMsXpeA"
       }
     },
@@ -28,11 +51,15 @@
       "release": "2026-02-24T00:03:55Z",
       "duration": "01:02:58",
       "explicit": true,
+      "spotifyId": "5jDeaEHGDi55eLcxVzQ4te",
+      "appleId": 1000751546912,
       "youTubeId": "syhXgfopDEI",
       "subjects": [
         "International School of Temple Arts"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5jDeaEHGDi55eLcxVzQ4te",
+        "apple": "https://podcasts.apple.com/podcast/ellie-wildes-journey-former-ista-facilitator/id1871791383?i=1000751546912",
         "youtube": "https://www.youtube.com/watch?v=syhXgfopDEI"
       }
     },
@@ -43,11 +70,15 @@
       "release": "2026-02-17T16:00:12Z",
       "duration": "00:51:24",
       "explicit": true,
+      "spotifyId": "7vpCnjvhHvjY71jY3hXhtA",
+      "appleId": 1000750171249,
       "youTubeId": "9CUgKHwWdzY",
       "subjects": [
         "International School of Temple Arts"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/7vpCnjvhHvjY71jY3hXhtA",
+        "apple": "https://podcasts.apple.com/podcast/my-ista-journey-pt-2-with-jack-rikess/id1871791383?i=1000750171249",
         "youtube": "https://www.youtube.com/watch?v=9CUgKHwWdzY"
       }
     },
@@ -58,11 +89,15 @@
       "release": "2026-02-11T21:06:40Z",
       "duration": "00:21:35",
       "explicit": false,
+      "spotifyId": "0HRoOh0NAnCEGEKR9XQuvC",
+      "appleId": 1000749317694,
       "youTubeId": "_xhoVnVz02w",
       "subjects": [
         "International School of Temple Arts"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0HRoOh0NAnCEGEKR9XQuvC",
+        "apple": "https://podcasts.apple.com/podcast/reading-the-news-ista-in-cyprus-sacred-sexuality-or/id1871791383?i=1000749317694",
         "youtube": "https://www.youtube.com/watch?v=_xhoVnVz02w"
       }
     },
@@ -73,6 +108,8 @@
       "release": "2026-02-10T17:01:18Z",
       "duration": "01:12:18",
       "explicit": true,
+      "spotifyId": "3tE6LBRm7OySwAULfOQkIv",
+      "appleId": 1000749138313,
       "youTubeId": "oABwsLSv0qw",
       "subjects": [
         "Corporate Cult",
@@ -80,6 +117,8 @@
         "Monat"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3tE6LBRm7OySwAULfOQkIv",
+        "apple": "https://podcasts.apple.com/podcast/commercial-cults-with-anti-mlm-guest-julie-anderson/id1871791383?i=1000749138313",
         "youtube": "https://www.youtube.com/watch?v=oABwsLSv0qw"
       }
     },
@@ -90,11 +129,15 @@
       "release": "2026-02-02T20:20:55Z",
       "duration": "00:54:52",
       "explicit": true,
+      "spotifyId": "3OwidbsjSQt3mN71ROOWCa",
+      "appleId": 1000747870751,
       "youTubeId": "VibzzpHsBk4",
       "subjects": [
         "International School of Temple Arts"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3OwidbsjSQt3mN71ROOWCa",
+        "apple": "https://podcasts.apple.com/podcast/my-ista-journey-pt-1-with-jack-rikess/id1871791383?i=1000747870751",
         "youtube": "https://www.youtube.com/watch?v=VibzzpHsBk4"
       }
     }

@@ -1,0 +1,24 @@
+{
+  "id": "029f025d-3911-41d3-a889-40e1018628e2",
+  "name": "BagFuel",
+  "spotifyId": "0QOqqK1zkAF0uJ4acp78Up",
+  "appleId": 1644768837,
+  "youTubeChannelId": "UCSB9yH6OPJruJsgAtVtCjiw",
+  "episodes": [
+    {
+      "id": "50529a06-4d92-4feb-9256-5794b99cebbd",
+      "title": "\u201CMy Mom Joined a CULT and Left Me Behind\u201D : Mimi Faust Says Scientology Turned Her Mom Against Her",
+      "description": "Mimi Faust opens up about being pushed out of Church of Scientology and the painful moment her mother chose to remain in the religion while leaving her behind.",
+      "release": "2026-03-10T21:00:37Z",
+      "duration": "00:12:09",
+      "explicit": false,
+      "youTubeId": "VfQU46vChj0",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VfQU46vChj0"
+      }
+    }
+  ]
+}

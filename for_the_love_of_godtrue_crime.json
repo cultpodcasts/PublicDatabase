@@ -1,0 +1,42 @@
+{
+  "id": "4a89ba55-7764-4c7e-84cd-910b5799e430",
+  "name": "For The Love of God - True Crime",
+  "spotifyId": "30MDGjmmshJikWosVhJpLO",
+  "appleId": 1877104573,
+  "episodes": [
+    {
+      "id": "882f7319-5185-44aa-8ee1-1bfcbf4b8c3f",
+      "title": "The Road to Jonestown: Jim Jones",
+      "description": "Jim Jones promised equality, healing, and a better world. Thousands believed him. What started as a church quickly became something much darker \u2014 a movement built on loyalty, fear, and absolute control. In this episode of For the Love of God, we explore the rise of Jim Jones and the Peoples Temple, and how belief slowly transformed into something dangerous. This is the story of how a religious movement turned into one of the most disturbing tragedies in modern history",
+      "release": "2026-03-10T00:57:22Z",
+      "duration": "00:24:19.4870000",
+      "explicit": false,
+      "spotifyId": "2kR3jyfPFWPEp8ye2JN97Y",
+      "appleId": 1000754242944,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2kR3jyfPFWPEp8ye2JN97Y",
+        "apple": "https://podcasts.apple.com/podcast/the-road-to-jonestown-jim-jones/id1877104573?i=1000754242944"
+      }
+    },
+    {
+      "id": "d79865af-3fc5-4669-b061-9bd07aa0f9a4",
+      "title": "The Believer: Lori Vallow",
+      "description": "The podcast episode delves into the weaponization of religious beliefs and the manipulation and control exerted by individuals like Chad Daybell. It explores the tragic events that unfold and the aftermath, including the disappearance of individuals involved. The conversation delves into the disturbing events surrounding the disappearance of Tylee and JJ, Lori\u0027s disturbing behavior, the suspicious deaths of Tammy Daybell and Charles, the discovery of JJ and Tylee\u0027s remains, and the evolution of dangerous beliefs. It highlights the role of leaders in making beliefs dangerous and the impact of belief systems on individuals and society.\n\nTakeaways\nAbuse of religious beliefsManipulation and control Belief becomes dangerous when it stops being personal and starts being directive.Religion becomes lethal not because people believe, but because leaders decide what that belief means.\nChapters\n00:00 The Weaponization of Religious Beliefs07:59 The Influence of Chad Dapau25:19 The Tragic Events Unfold33:15 The Aftermath and Disappearance01:02:07 The Evolution of Dangerous Beliefs",
+      "release": "2026-02-13T13:51:50Z",
+      "duration": "00:45:18",
+      "explicit": false,
+      "spotifyId": "6oaUSDKYs88kspZ1lHDB52",
+      "appleId": 1000749599957,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6oaUSDKYs88kspZ1lHDB52",
+        "apple": "https://podcasts.apple.com/podcast/the-believer-lori-vallow/id1877104573?i=1000749599957"
+      }
+    }
+  ]
+}
