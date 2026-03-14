@@ -1,0 +1,25 @@
+{
+  "id": "be0831f6-fde7-49e7-abeb-f6b80cfd50dc",
+  "name": "TED Talks Daily",
+  "spotifyId": "1VXcH8QHkjRcTCEd88U3ti",
+  "appleId": 160904630,
+  "episodes": [
+    {
+      "id": "ec470ff7-ca48-48be-8b63-d822366a4131",
+      "title": "The sneaky language tricks cults use to influence you | Amanda Montell",
+      "description": "In the age of social media and wellness trends, the comments section is as good as a cult compound, says linguist and cultural commentator Amanda Montell. Using Taylor Swift\u2019s throng of devoted Swifties as her guide, she exposes three sneaky language tactics that cults use to influence us (for better or for worse), revealing why none of us are as cult-proof as we\u2019d like to think. (Following the talk, Elise Hu, host of TED Talks Daily, interviews Montell on parasocial relationships and how to have productive conversations with cult members by recognizing their humanity.) Learn more about our flagship conference happening this April at attend.ted.com/podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-03-13T15:00:00Z",
+      "duration": "00:28:02.7820000",
+      "explicit": false,
+      "spotifyId": "21MvL6qq07rfQKThw68MKJ",
+      "appleId": 1000755117509,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/21MvL6qq07rfQKThw68MKJ",
+        "apple": "https://podcasts.apple.com/podcast/the-sneaky-language-tricks-cults-use-to-influence-you/id160904630?i=1000755117509"
+      }
+    }
+  ]
+}

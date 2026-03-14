@@ -11,11 +11,13 @@
       "release": "2026-03-08T22:17:00Z",
       "duration": "00:48:22",
       "explicit": false,
+      "spotifyId": "4xt0xbqOZk3xxlT73Mc75n",
       "appleId": 1000753917143,
       "subjects": [
         "Amish"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4xt0xbqOZk3xxlT73Mc75n",
         "apple": "https://podcasts.apple.com/podcast/why-is-amish-crime-happening/id1440513300?i=1000753917143"
       }
     },

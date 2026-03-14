@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "f03609bf-a466-49c8-9bc0-03c0ccd7e637",
+      "title": "248. Larry Norman Part III",
+      "description": "we are back to continue our Larry Norman Series",
+      "release": "2026-03-11T01:00:01Z",
+      "duration": "02:09:28.5810000",
+      "explicit": true,
+      "spotifyId": "7zxLGCTA0LTbkz7qhLJPKh",
+      "appleId": 1000754583717,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7zxLGCTA0LTbkz7qhLJPKh",
+        "apple": "https://podcasts.apple.com/podcast/248-larry-norman-part-iii/id1573190999?i=1000754583717"
+      }
+    },
+    {
       "id": "105c3066-104d-4bbd-b985-e0bb077cfa37",
       "title": "247. Larry Norman Part II",
       "description": "We are back with part II of Larry Norman.",

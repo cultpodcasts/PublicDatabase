@@ -3,7 +3,20 @@
   "name": "Watch What Crappens",
   "spotifyId": "3iSZPuQ8T8Msh0N33ZD7No",
   "appleId": 498130432,
+  "youTubeChannelId": "UCGst9wCLerp9yCPZWbgPHLw",
   "episodes": [
+    {
+      "id": "ef2ed656-df64-4bf4-94b1-846c0b62f615",
+      "title": "RHOBH S15E0: Cult Following",
+      "description": "The Real Housewives of Beverly Hills explores Amanda\u2019s journey into and out of a Florida cult while the Hamptons crew parties in Montauk. Then, Denise returns to the show for a sobering scene with Erika and Sutton. To watch this recap on video, listen to our bonus episodes, and get ad free listening,, go to Patreon.com/watchwhatcrappens. \n\n#WatchWhatCrappens #BenMandelker #RonnieKaram #Bravo #real housewives podcast #real housewives of beverly hills #comedy #improv #kyle richards #sutton stracke #Rachel zoe",
+      "release": "2026-02-27T18:10:07Z",
+      "duration": "01:10:20",
+      "explicit": false,
+      "youTubeId": "oz8o-cd4e3Y",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oz8o-cd4e3Y"
+      }
+    },
     {
       "id": "2e69fa50-476a-40d9-af8c-bfce0cd88a21",
       "title": "#3226 RHOBH S15E10: Cult Following",

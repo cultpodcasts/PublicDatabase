@@ -143,11 +143,13 @@
       "release": "2026-02-13T19:36:22Z",
       "duration": "00:54:08",
       "explicit": false,
+      "spotifyId": "0HiyJ5lUAlRujgmaX91AIE",
       "youTubeId": "OmLUPvrU4jI",
       "subjects": [
         "Twelve Tribes"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0HiyJ5lUAlRujgmaX91AIE",
         "youtube": "https://www.youtube.com/watch?v=OmLUPvrU4jI"
       }
     },

@@ -1,0 +1,29 @@
+{
+  "id": "c1955441-b7a2-4040-8a7e-19722da62193",
+  "name": "PoliticsJOE Podcast",
+  "spotifyId": "5lQvnCGAnCB4P7yRgZXzei",
+  "appleId": 1683091379,
+  "youTubeChannelId": "UCyzkxMLeZDcd_Qhzh6uMgbg",
+  "youTubePlaylistId": "PLO2mmhF3LwFXOOR3fo1tIKQ-ncbeiW4QR",
+  "episodes": [
+    {
+      "id": "b2574cce-4eac-4562-8684-d89420710096",
+      "title": "Going deep on the Mandelson files",
+      "description": "Following the Humble Address that forced the government to publish internal material surrounding Peter Mandelson\u2019s appointment and dismissal as UK ambassador to the United States, the first tranche of files has dropped and Ava and Laura are here to break them down. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-03-12T14:49:39Z",
+      "duration": "00:23:36.3850000",
+      "explicit": false,
+      "spotifyId": "5oQXfIiDg4il6hEKOC7eNt",
+      "appleId": 1000754862477,
+      "youTubeId": "w8yRIQS2huc",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5oQXfIiDg4il6hEKOC7eNt",
+        "apple": "https://podcasts.apple.com/podcast/going-deep-on-the-mandelson-files/id1683091379?i=1000754862477",
+        "youtube": "https://www.youtube.com/watch?v=w8yRIQS2huc"
+      }
+    }
+  ]
+}

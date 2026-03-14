@@ -14,12 +14,14 @@
       "explicit": true,
       "spotifyId": "3Yu4IaL79tjrA4FsVd5sS3",
       "appleId": 1000754790457,
+      "youTubeId": "mOTcjQufmsw",
       "subjects": [
         "One-on-one"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3Yu4IaL79tjrA4FsVd5sS3",
-        "apple": "https://podcasts.apple.com/podcast/revisiting-kowalski-part-four-the-aftermath/id1615637188?i=1000754790457"
+        "apple": "https://podcasts.apple.com/podcast/revisiting-kowalski-part-four-the-aftermath/id1615637188?i=1000754790457",
+        "youtube": "https://www.youtube.com/watch?v=mOTcjQufmsw"
       }
     },
     {
