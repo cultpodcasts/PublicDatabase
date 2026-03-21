@@ -4,7 +4,41 @@
   "spotifyId": "2riu762c6sWfiCsr39713l",
   "appleId": 1867524433,
   "youTubeChannelId": "UCQ0mL4j5mMgNczW3QqJrz3A",
+  "youTubePlaylistId": "PLdlNr4RMQjYuBe98_4mOuCkA4dwhaBCdb",
   "episodes": [
+    {
+      "id": "9f1b6a39-e957-4153-9553-a13f3a708f98",
+      "title": "Mimi Wilcox talks editing Escaping Twin Fames on Netflix",
+      "description": "Hey everyone, welcome to JassI Stories. Today we\u0027re joined by Mimi Wilcox, a talented editor for \u0022Escaping Twin Flames\u0022 on Netflix! She gives us insight into the complex world of video editing, sharing how she organizes footage chronologically and much more. Like, Subscribe and Share with a friend!\n\nListen on Buzzsprout to Podcast: https://www.buzzsprout.com/2555357/episodes/18571478\nFollow and listen on Spotify Link: https://open.spotify.com/show/2riu762c6sWfiCsr39713l?si=bfc81398608c43c5",
+      "release": "2026-03-18T19:00:18Z",
+      "duration": "00:37:23",
+      "explicit": false,
+      "youTubeId": "Kgsjg-PPuxg",
+      "subjects": [
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Kgsjg-PPuxg"
+      }
+    },
+    {
+      "id": "5e6c4314-f2c1-46ad-a3db-dfe60f38372d",
+      "title": "Interview with Cult Expert Dr.Lalich on the Making of Escaping Twin Flames",
+      "description": "In this powerful episode of Jessi\u0027s Stories: Unheard Voices, host Jesse sits down with Dr. Janja Lalich, cult expert and sociology professor emerita, to discuss cult dynamics, control tactics, and the journey to recovery. Dr. Lalich shares her personal experience in a left-wing political cult and her expertise as featured in Netflix\u0027s \u0022Escaping Twin Flames.\u0022 From discussing the manipulative tactics used by Jeff and Shaleia Divine to exploring how cults can be legally challenged, this conversation offers invaluable insights for survivors, families, and anyone seeking to understand cultic influence. Dr. Lalich also reveals details about her upcoming memoir and ongoing work to educate courts on coercive control. Music By: AJ Music Group Lyrics: Jessi Hersey Artwork By: Zummi",
+      "release": "2026-03-18T13:00:00Z",
+      "duration": "00:20:54.5820000",
+      "explicit": false,
+      "spotifyId": "6gcRb03gchk2H2EHru6zqN",
+      "appleId": 1000755961885,
+      "subjects": [
+        "Twin Flames Universe",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6gcRb03gchk2H2EHru6zqN",
+        "apple": "https://podcasts.apple.com/podcast/interview-with-cult-expert-dr-lalich-on-the/id1867524433?i=1000755961885"
+      }
+    },
     {
       "id": "5c5ad9fd-5bb5-4f63-883a-f51b7368ffaf",
       "title": "BTS Escaping Twin Flames with Zoe Story Producer",

@@ -7,6 +7,25 @@
   "youTubePlaylistId": "PLuMdLmjdG8ddP-uCa51Hyav7TDuiVIH0t",
   "episodes": [
     {
+      "id": "f0387054-5afc-473d-a16d-20e109d8da52",
+      "title": "S36 E4: Clowns | The Cult Queen of Canada",
+      "description": "Clowns burn a flag, the Mayor plugs a sewer, and Richmound turns on itself. The conflict moves to the ballot box when a local gives cult members voting rights via a property deed, setting the stage for a dramatic mayoral election that could see the town taken over.",
+      "release": "2026-03-16T08:10:00Z",
+      "duration": "00:31:25",
+      "explicit": false,
+      "spotifyId": "5mpVhoo2mUTgNYmP0PIbgD",
+      "appleId": 1000750713510,
+      "youTubeId": "3C_3APj4gtE",
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5mpVhoo2mUTgNYmP0PIbgD",
+        "apple": "https://podcasts.apple.com/podcast/s36-e4-clowns-the-cult-queen-of-canada/id1364665348?i=1000750713510",
+        "youtube": "https://www.youtube.com/watch?v=3C_3APj4gtE"
+      }
+    },
+    {
       "id": "f805d189-da87-4343-a780-1f3353c836f5",
       "title": "S36 E3: The Other Side | The Cult Queen of Canada",
       "description": "An unexpected victory quickly unravels when a hidden network of cult supporters in Richmound is exposed. Violent conflict erupts between neighbors, revealing a dark side to the divided community as the battle for the town escalates.",

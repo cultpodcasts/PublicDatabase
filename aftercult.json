@@ -5,6 +5,23 @@
   "appleId": 1877537008,
   "episodes": [
     {
+      "id": "a38d4cfe-a9e1-4167-8ea1-97032f0e4fed",
+      "title": "5: Ben Shenton \u0026 The Family",
+      "description": "Dave speaks with Ben Shenton about his upbringing in Australia\u0027s most notorious cult, The Family, founded by Anne Hamilton-Byrne, who claimed to be a Christ figure. Ben reflects on the influences that shaped Anne and her cult, as well as his experiences both in and after the cult. Ben\u0027s world was turned upside down at 15 years of age when police raided their home in 1987, bringing to light an illegal adoption scheme which forced the children to reckon with their past and future.",
+      "release": "2026-03-16T15:00:00Z",
+      "duration": "01:09:45.5730000",
+      "explicit": false,
+      "spotifyId": "1JCA9DCuZHWjRx91EhNSwT",
+      "appleId": 1000755594198,
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1JCA9DCuZHWjRx91EhNSwT",
+        "apple": "https://podcasts.apple.com/podcast/5-ben-shenton-the-family/id1877537008?i=1000755594198"
+      }
+    },
+    {
       "id": "223d027a-d47a-400f-99e9-8e40514fb37f",
       "title": "4: Laura Muir \u0026 Shincheonji",
       "description": "Dave speaks with Laura Muir about the deceptive recruitment process that saw her devote five years to the Korean doomsday church Shincheonji, founded by Lee Man Hee who claims to be an apocalyptic prophet. Laura reflects on her time in the church as an evangelist and the process of discarding her former beliefs and moving forward.",

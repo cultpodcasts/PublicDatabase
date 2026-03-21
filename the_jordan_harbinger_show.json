@@ -31,12 +31,14 @@
       "explicit": false,
       "spotifyId": "6ab5ecbIwnPWpqYeNBp2ey",
       "appleId": 1000751159331,
+      "youTubeId": "Z9NinbCQ9lU",
       "subjects": [
         "Church of Immortal Consciousness"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ab5ecbIwnPWpqYeNBp2ey",
-        "apple": "https://podcasts.apple.com/podcast/1289-danny-rensch-how-chess-freed-me-from-life-in-a/id1344999619?i=1000751159331"
+        "apple": "https://podcasts.apple.com/podcast/1289-danny-rensch-how-chess-freed-me-from-life-in-a/id1344999619?i=1000751159331",
+        "youtube": "https://www.youtube.com/watch?v=Z9NinbCQ9lU"
       }
     },
     {

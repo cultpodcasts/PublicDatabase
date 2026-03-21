@@ -1,0 +1,31 @@
+{
+  "id": "124a4836-65ba-4ce4-9319-924974c09e22",
+  "name": "Conversations",
+  "spotifyId": "0Bcb7SEWGnzxN5c2BPybYa",
+  "appleId": 1758821960,
+  "youTubeChannelId": "UCGRQH5DevaBD6QT8KgTN2Lw",
+  "youTubePlaylistId": "PL1jmhGj-gjGFiJu6Zm0F-tSt2LiaG2Fki",
+  "episodes": [
+    {
+      "id": "de612b18-f90c-487d-8c05-7773ed20017c",
+      "title": "\u201CThe Culting of America \u2013 What Makes a Cult, and Why We Love Them\u201D",
+      "description": "On this edition of Conversations Daniella Mestyanek Young talks about \u201CThe Culting of America \u2013 What Makes a Cult, and Why We Love Them.\u201D",
+      "release": "2026-03-16T11:00:00Z",
+      "duration": "00:14:47.7730000",
+      "explicit": false,
+      "spotifyId": "4MAQZxdbXwL03arOmkGahH",
+      "appleId": 1000755557219,
+      "youTubeId": "M6snIB6DASI",
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4MAQZxdbXwL03arOmkGahH",
+        "apple": "https://podcasts.apple.com/podcast/the-culting-of-america-what-makes-a-cult-and-why-we-love-them/id1758821960?i=1000755557219",
+        "youtube": "https://www.youtube.com/watch?v=M6snIB6DASI"
+      }
+    }
+  ]
+}

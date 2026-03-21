@@ -1,0 +1,30 @@
+{
+  "id": "06100030-9a75-4b70-b352-958d2ac085d3",
+  "name": "Bloomberg Businessweek",
+  "spotifyId": "3LGyb7VLIhcCP27ajT0JKQ",
+  "appleId": 393107187,
+  "youTubeChannelId": "UChF5O40UBqAc82I7-i5ig6A",
+  "youTubePlaylistId": "PLe4PRejZgr0NDtGW4nghKtCxl6SCdFJfq",
+  "episodes": [
+    {
+      "id": "875bcccf-f317-4261-b080-54a7de8da1eb",
+      "title": "The Epstein Class Needs to Make Amends",
+      "description": "The sense of growing hostility toward business leaders and others in power is everywhere, coinciding with dueling populist political movements, and has been heightened by the refusal of many former Epstein pals to take responsibility for associating with him. The Epstein files have exposed a code of elite silence around a sex offender, and many of America\u0027s business icons and politicians must stop minimizing their roles in what happened and start making real amends to move forward. Max Chafkin, Bloomberg Businessweek Senior Reporter and co-host of the Everybody\u2019s Business podcast writes about how the Epstein files fallout is a crisis for elites \u2014and an opportunity. He speaks with Bloomberg\u0027s Carol Massar and Tim Stenovec. See omnystudio.com/listener for privacy information.",
+      "release": "2026-03-20T12:00:00Z",
+      "duration": "00:11:28.0390000",
+      "explicit": false,
+      "spotifyId": "2NfgzyE2rESj9Mi8ksR4so",
+      "appleId": 1000756322657,
+      "youTubeId": "xzNelHqsQKU",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2NfgzyE2rESj9Mi8ksR4so",
+        "apple": "https://podcasts.apple.com/podcast/the-epstein-class-needs-to-make-amends/id393107187?i=1000756322657",
+        "youtube": "https://www.youtube.com/watch?v=xzNelHqsQKU"
+      }
+    }
+  ]
+}

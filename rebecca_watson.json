@@ -4,6 +4,20 @@
   "youTubeChannelId": "UCFJxE0l3cVYU4kHzi4qVEkw",
   "episodes": [
     {
+      "id": "cd206e82-38ad-430d-b4bf-da3acf3bc8f6",
+      "title": "Inside Hugh Jackman\u0027s Weird Cult",
+      "release": "2026-03-19T14:59:26Z",
+      "duration": "00:24:03",
+      "explicit": false,
+      "youTubeId": "Corqql0QGHE",
+      "subjects": [
+        "School of Philosophy and Economic Science"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Corqql0QGHE"
+      }
+    },
+    {
       "id": "829d2539-7000-48b0-9f2a-7721a8507104",
       "title": "The Cult Behind the ShamWow Guy\u0027s Congressional Run",
       "release": "2026-02-19T17:01:27Z",

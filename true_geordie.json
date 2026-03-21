@@ -93,12 +93,14 @@
       "explicit": true,
       "spotifyId": "5SPGZatOHkBe7quqbdd8v8",
       "appleId": 1000642212931,
+      "youTubeId": "5HNCixEtUP4",
       "subjects": [
         "Connexions"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5SPGZatOHkBe7quqbdd8v8",
-        "apple": "https://podcasts.apple.com/podcast/how-the-8-passengers-youtube-mom-ruby-franke/id1157693037?i=1000642212931"
+        "apple": "https://podcasts.apple.com/podcast/how-the-8-passengers-youtube-mom-ruby-franke/id1157693037?i=1000642212931",
+        "youtube": "https://www.youtube.com/watch?v=5HNCixEtUP4"
       }
     },
     {

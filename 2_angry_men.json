@@ -1,0 +1,30 @@
+{
+  "id": "ca26c58e-add0-4dac-a27a-64429e0fc763",
+  "name": "2 Angry Men",
+  "spotifyId": "0aZ6n4TmdiZWuTYSzmqIoy",
+  "appleId": 1728521271,
+  "youTubeChannelId": "UCK7IIV6Q2junGSdYK3BmZMg",
+  "youTubePlaylistId": "PLIPm6JAyEJ_dXRy9Md3YVyz_u_SWuVbXC",
+  "episodes": [
+    {
+      "id": "65b1e805-8c73-4543-868b-2cf5f8174a2e",
+      "title": "How Jeffrey Epstein Killed A Vanity Expos\u00E9",
+      "description": "Harvey Levin and Mark Geragos dive into the Jeffrey Epstein case, discussing how Epstein allegedly leveraged money, status, and influence to exploit the weaknesses of those around him. ",
+      "release": "2026-03-14T16:30:00Z",
+      "duration": "00:34:25.3190000",
+      "explicit": false,
+      "spotifyId": "4zvoO9XxtRaofopA0lEfpD",
+      "appleId": 1000755292425,
+      "youTubeId": "Uj05x_skovs",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4zvoO9XxtRaofopA0lEfpD",
+        "apple": "https://podcasts.apple.com/podcast/how-jeffrey-epstein-killed-a-vanity-expos%C3%A9/id1728521271?i=1000755292425",
+        "youtube": "https://www.youtube.com/watch?v=Uj05x_skovs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "82a5a3e5-0f08-4eae-83e8-7baca9939ef9",
+  "name": "What The Hack?",
+  "spotifyId": "0G33AvACZMPUvxZxjtOlyV",
+  "appleId": 1571482669,
+  "youTubeChannelId": "UCeSj4eKYbQqqKbQxfUlCGvw",
+  "episodes": [
+    {
+      "id": "0750e1dc-c073-4da2-aabc-61b31612cdf4",
+      "title": "Episode 94: Trust Me Hosts Lola and Meagan Explore the Hinterlands of Cults and Scams",
+      "description": "Lola Blanc and Meagan Grainger are the hosts of Trust Me, a podcast about cults and scams, and are this week\u2019s guests. They\u0027re here to help us figure out the gooey center of the Venn diagram formed by cults, cult leaders and scam artists. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2023-04-25T07:00:00Z",
+      "duration": "00:48:37.9550000",
+      "explicit": false,
+      "spotifyId": "78HRtN3otsb8Wh9Nlukcvz",
+      "appleId": 1000610521192,
+      "youTubeId": "cZtKQS9-Jz0",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/78HRtN3otsb8Wh9Nlukcvz",
+        "apple": "https://podcasts.apple.com/podcast/trust-me-hosts-lola-and-meagan-explore-the/id1571482669?i=1000610521192",
+        "youtube": "https://www.youtube.com/watch?v=cZtKQS9-Jz0"
+      }
+    }
+  ]
+}

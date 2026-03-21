@@ -1,9 +1,28 @@
 {
   "id": "bd259982-cb60-4686-b51e-3c8b0a757f30",
-  "name": "Expanse",
+  "name": "Expanse: The Nannup Four",
   "spotifyId": "0cRfmcyDWDfIAtPEVZ9mKS",
   "appleId": 1635088231,
+  "youTubeChannelId": "UCxcrzzhQDj5zKJbXfIscCtg",
+  "youTubePlaylistId": "PLDTPrMoGHssBabkHzoDvVb4FLQEAlkW_-",
   "episodes": [
+    {
+      "id": "4cd13325-a968-4252-a7a4-7dd78c4ebdd6",
+      "title": "03 Expanse: The Nannup Four | Down the rabbit hole",
+      "description": "Dominique travels across the country to meet the two people who might be able to help her understand how Chantelle came to be living a reclusive life in a hidden corner of Western Australia, alongside a self-styled spiritual guru 18 years her senior. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-03-16T15:00:00Z",
+      "duration": "00:33:38.1680000",
+      "explicit": false,
+      "spotifyId": "7uURyyBzt20huTfbU8R3sm",
+      "appleId": 1000755592550,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7uURyyBzt20huTfbU8R3sm",
+        "apple": "https://podcasts.apple.com/podcast/03-expanse-the-nannup-four-down-the-rabbit-hole/id1635088231?i=1000755592550"
+      }
+    },
     {
       "id": "fb91f6a6-3911-4bb6-86f6-923f192ad0ce",
       "title": "02 Expanse: The Nannup Four | Selling snake oil",
@@ -13,12 +32,14 @@
       "explicit": false,
       "spotifyId": "4Q2Nc5DDoqZadEi4vzjt7d",
       "appleId": 1000754035010,
+      "youTubeId": "K8R0osy93Ws",
       "subjects": [
         "The Truth Fellowship"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4Q2Nc5DDoqZadEi4vzjt7d",
-        "apple": "https://podcasts.apple.com/podcast/02-expanse-the-nannup-four-selling-snake-oil/id1635088231?i=1000754035010"
+        "apple": "https://podcasts.apple.com/podcast/02-expanse-the-nannup-four-selling-snake-oil/id1635088231?i=1000754035010",
+        "youtube": "https://www.youtube.com/watch?v=K8R0osy93Ws"
       }
     },
     {
@@ -30,12 +51,14 @@
       "explicit": false,
       "spotifyId": "7qaY1kVtVKtBD8CeRsJwsT",
       "appleId": 1000752614482,
+      "youTubeId": "4KrjfppPNOw",
       "subjects": [
         "The Truth Fellowship"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7qaY1kVtVKtBD8CeRsJwsT",
-        "apple": "https://podcasts.apple.com/podcast/01-expanse-the-nannup-four-the-people-in-the-blue-house/id1635088231?i=1000752614482"
+        "apple": "https://podcasts.apple.com/podcast/01-expanse-the-nannup-four-the-people-in-the-blue-house/id1635088231?i=1000752614482",
+        "youtube": "https://www.youtube.com/watch?v=4KrjfppPNOw"
       }
     },
     {

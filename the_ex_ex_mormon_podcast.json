@@ -5,6 +5,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "858515d9-2d27-4dd6-af8c-8c206f74412f",
+      "title": "Brother of Jared Story Part 2",
+      "description": "Brother of Jared concludes his story of leaving the church. Here is our email, contact us if you\u0027re interested in being interviewed! exexmormon@gmail.com",
+      "release": "2026-03-15T10:00:00Z",
+      "duration": "00:59:44.9920000",
+      "explicit": true,
+      "spotifyId": "4Rkq2vgr3F3PnyR8JjYkjF",
+      "appleId": 1000755479352,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4Rkq2vgr3F3PnyR8JjYkjF",
+        "apple": "https://podcasts.apple.com/podcast/brother-of-jared-story-part-2/id1555494727?i=1000755479352"
+      }
+    },
+    {
       "id": "d42792e0-7021-40cd-9f6f-cc587ca4234d",
       "title": "Brother of Jared Story Part 1",
       "description": "The Brother of Jared tells his story of his early years in the church and his mission to Argentina.",

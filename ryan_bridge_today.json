@@ -1,0 +1,26 @@
+{
+  "id": "9dc513ea-d586-47b9-8ddd-dfb226f50836",
+  "name": "Ryan Bridge TODAY",
+  "spotifyId": "5AixNpPGcJSPnlauEjOvM7",
+  "appleId": 1852901169,
+  "youTubeChannelId": "UCG0xyRVgb5Yf1lvQxkRrYYQ",
+  "youTubePlaylistId": "PLO_uNRr_HlWTBFt8T0L6cEeabl3wMGvEc",
+  "episodes": [
+    {
+      "id": "f019d687-ebef-4636-8443-6da7a9ce777b",
+      "title": "Deculting New Zealand: Cult survivors form secret support groups | Ryan Bridge TODAY",
+      "description": "Decult director Anke Richter says the support groups help survivors reclaim their lives.",
+      "release": "2026-03-19T00:00:18Z",
+      "duration": "00:05:06",
+      "explicit": false,
+      "youTubeId": "8rtbqJ6JT5M",
+      "subjects": [
+        "Cult Recovery",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8rtbqJ6JT5M"
+      }
+    }
+  ]
+}

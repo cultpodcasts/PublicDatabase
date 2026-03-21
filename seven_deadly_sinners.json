@@ -583,6 +583,9 @@
       "explicit": true,
       "spotifyId": "3KDkm1oYiq9jglSDr70OBm",
       "appleId": 1000576011977,
+      "subjects": [
+        "Sylvia Browne"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3KDkm1oYiq9jglSDr70OBm",
         "apple": "https://podcasts.apple.com/podcast/gluttony-sylvia-browne/id1515042150?i=1000576011977"

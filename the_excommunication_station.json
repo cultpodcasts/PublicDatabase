@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "32c20301-208e-46b4-881e-b8f312c961df",
+      "title": "249. Larry Norman Part IV: Goodbye My Friends",
+      "description": "We end our series on Larry Norman.",
+      "release": "2026-03-18T01:18:01Z",
+      "duration": "01:40:57.4300000",
+      "explicit": true,
+      "spotifyId": "39SsmLbLWTXAan2NVBT8yp",
+      "appleId": 1000755873373,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/39SsmLbLWTXAan2NVBT8yp",
+        "apple": "https://podcasts.apple.com/podcast/249-larry-norman-part-iv-goodbye-my-friends/id1573190999?i=1000755873373"
+      }
+    },
+    {
       "id": "f03609bf-a466-49c8-9bc0-03c0ccd7e637",
       "title": "248. Larry Norman Part III",
       "description": "we are back to continue our Larry Norman Series",

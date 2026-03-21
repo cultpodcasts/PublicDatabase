@@ -1,0 +1,25 @@
+{
+  "id": "2422b44e-08ed-4717-9540-3afba5307445",
+  "name": "Forgotten Felonies",
+  "spotifyId": "5cBlktdCDGiSoqQN5undcy",
+  "appleId": 1802057911,
+  "episodes": [
+    {
+      "id": "a985c3dd-368e-4203-876c-856d032a147f",
+      "title": "Edmund Creffield: The Rise of the Army of Holiness in Corvallis, Oregon",
+      "description": "In the early 1900s, a young German preacher arrived in Corvallis, Oregon with a message he believed came directly from God.\nWithin weeks, he had gathered a devoted circle of followers who called themselves God\u2019s Anointed. Others had a different name for them: The Holy Rollers.\nTheir intense prayer meetings, strange teachings, and bizarre behavior quickly made them the talk of the town\u2014and not in a good way. What began as a small religious movement would soon spiral into scandal, insanity, murder, and one of the strangest chapters in Oregon history.\nIn this Forgotten Felony, we begin the story of Edmund Creffield and the rise of the Army of Holiness.\nThis is the first episode covering the wild tale of what later became known as the Bride of Christ Cult.",
+      "release": "2026-03-15T00:00:00Z",
+      "duration": "01:19:03",
+      "explicit": false,
+      "spotifyId": "6KzUUK5GnLZe3HK5CjVxsc",
+      "appleId": 1000755334900,
+      "subjects": [
+        "Edmund Creffield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KzUUK5GnLZe3HK5CjVxsc",
+        "apple": "https://podcasts.apple.com/podcast/edmund-creffield-the-rise-of-the-army-of/id1802057911?i=1000755334900"
+      }
+    }
+  ]
+}

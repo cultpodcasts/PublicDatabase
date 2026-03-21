@@ -5,6 +5,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "056e0482-03a9-4d08-8657-ab62aa25e337",
+      "title": "Mahatma Gandhi - Season 13 Episode 9",
+      "description": "After some prompting, AI helps us understand why Mahatma Gandhi is one of the greatest influencers of all time.",
+      "release": "2026-03-14T20:40:02Z",
+      "duration": "00:52:52",
+      "explicit": false,
+      "spotifyId": "5ADG2Acng0YxaU9KOFeRpi",
+      "appleId": 1000755314576,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ADG2Acng0YxaU9KOFeRpi",
+        "apple": "https://podcasts.apple.com/podcast/mahatma-gandhi-season-13-episode-9/id1565633523?i=1000755314576"
+      }
+    },
+    {
       "id": "ca2352d9-2be2-4e3a-b77c-de60130bf79e",
       "title": "Brigham Young - Season 13 Episode 8",
       "description": "Thor lets us know why Brother Brigham is in the top runners for the most influential people of all time.",
