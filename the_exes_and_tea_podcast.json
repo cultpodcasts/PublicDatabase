@@ -1,10 +1,29 @@
 {
   "id": "c2e8def7-f7fd-48fa-b3fb-eeaebec16711",
-  "name": "The Exes and Tea Podcast",
+  "name": "The Steap Talk Podcast",
   "spotifyId": "6U18Xq1vyirkevyGG7mhD6",
   "appleId": 1685499064,
   "youTubeChannelId": "UCl6FocmFzM4TyXLBpL7KbnA",
   "episodes": [
+    {
+      "id": "18c54451-ec03-4247-8abe-a78eefb46c81",
+      "title": "Welcome to the New Show",
+      "description": "DISCLAIMER: We are not here to defame anyone, all names of individuals we discuss have been changed, we\u0027re speaking on personal opinions based on personal experiences. All content is being used for Fair Use and Commentary purposes. All things said are alleged.** Email: dani@exesandteapodcast.com Instagram: @steaptalkpodcast Tiktok: @steaptalkpodcast Youtube: The Steap Talk Podcast",
+      "release": "2026-03-25T19:00:00Z",
+      "duration": "00:12:06.0870000",
+      "explicit": true,
+      "spotifyId": "5pJ4lADcJnGJuHgjLCWXe1",
+      "appleId": 1000757348969,
+      "youTubeId": "gcKL8UrQQ3w",
+      "subjects": [
+        "Amway"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5pJ4lADcJnGJuHgjLCWXe1",
+        "apple": "https://podcasts.apple.com/podcast/welcome-to-the-new-show/id1685499064?i=1000757348969",
+        "youtube": "https://www.youtube.com/watch?v=gcKL8UrQQ3w"
+      }
+    },
     {
       "id": "fda6beb7-fe39-4c41-add9-8dd2820c9ecf",
       "title": "Amway Panel #3 Feat. Meggan, Stephen, \u0026 Hope",

@@ -1,0 +1,24 @@
+{
+  "id": "fa0d99a5-b7a5-41f2-96c4-e76e14c17c20",
+  "name": "Triple M Breakfast with Beau, Cat and Woodsy",
+  "spotifyId": "2cr4PYINWszJeVRahg0fBd",
+  "appleId": 326181133,
+  "episodes": [
+    {
+      "id": "d5454bb7-ee5f-471b-94cc-b8fc1aaa233d",
+      "title": "MINI | Former Cult Member EXPOSES Shocking Secrets From Inside The Yellow Deli",
+      "release": "2026-03-24T22:10:00Z",
+      "duration": "00:09:33",
+      "explicit": false,
+      "spotifyId": "6yAvXLdlucXrYSmltuZkJd",
+      "appleId": 1000757138288,
+      "subjects": [
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6yAvXLdlucXrYSmltuZkJd",
+        "apple": "https://podcasts.apple.com/podcast/mini-former-cult-member-exposes-shocking-secrets-from/id326181133?i=1000757138288"
+      }
+    }
+  ]
+}

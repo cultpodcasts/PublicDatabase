@@ -33,6 +33,7 @@
       "explicit": false,
       "spotifyId": "7qvRBqjlUp5ENXCyZoYkH6",
       "appleId": 1000691100320,
+      "youTubeId": "2Kxu2DITooI",
       "subjects": [
         "Cult-Expert",
         "Psychology",
@@ -41,7 +42,8 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7qvRBqjlUp5ENXCyZoYkH6",
-        "apple": "https://podcasts.apple.com/podcast/guest-host-jamie-marich-phd-interviews-janja-lalich/id899009517?i=1000691100320"
+        "apple": "https://podcasts.apple.com/podcast/guest-host-jamie-marich-phd-interviews-janja-lalich/id899009517?i=1000691100320",
+        "youtube": "https://www.youtube.com/watch?v=2Kxu2DITooI"
       }
     }
   ]

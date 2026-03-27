@@ -5,6 +5,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "b1e3cf51-fc90-4ed7-99af-4fcfb060f638",
+      "title": "Heavenly Mother\u0027s Story",
+      "description": "Brother of Jared interviews Heavenly Mother about her story. Trigger warning some disturbing topics are mentioned, no graphic detail but suicidal ideation is mentioned and SA.",
+      "release": "2026-03-22T10:00:00Z",
+      "duration": "00:59:23.4150000",
+      "explicit": true,
+      "spotifyId": "3FSo3PUHzvtU4CiARN6DMf",
+      "appleId": 1000756678397,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3FSo3PUHzvtU4CiARN6DMf",
+        "apple": "https://podcasts.apple.com/podcast/heavenly-mothers-story/id1555494727?i=1000756678397"
+      }
+    },
+    {
       "id": "858515d9-2d27-4dd6-af8c-8c206f74412f",
       "title": "Brother of Jared Story Part 2",
       "description": "Brother of Jared concludes his story of leaving the church. Here is our email, contact us if you\u0027re interested in being interviewed! exexmormon@gmail.com",

@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "072cac3c-f2f4-4e3f-923b-25c7975bb852",
+      "title": "250. The Shepherding Movement Part I",
+      "description": "We cant talk about Lonnie Frisbee or the Jesus People without our next subject. This Week we start our deep dive into the Charismatic world and the Shepherding Movement.",
+      "release": "2026-03-25T01:12:00Z",
+      "duration": "01:41:59.7320000",
+      "explicit": true,
+      "spotifyId": "1gZRUKPsU8eU34WQw1l8mN",
+      "appleId": 1000757159890,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1gZRUKPsU8eU34WQw1l8mN",
+        "apple": "https://podcasts.apple.com/podcast/250-the-shepherding-movement-part-i/id1573190999?i=1000757159890"
+      }
+    },
+    {
       "id": "32c20301-208e-46b4-881e-b8f312c961df",
       "title": "249. Larry Norman Part IV: Goodbye My Friends",
       "description": "We end our series on Larry Norman.",

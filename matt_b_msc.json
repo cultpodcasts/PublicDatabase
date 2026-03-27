@@ -4,6 +4,48 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "479a8dcb-e1c9-46e6-93e9-6bb013f647f2",
+      "title": "The Role of Music in the American neo-Nazi movement",
+      "release": "2026-03-24T11:58:28Z",
+      "duration": "00:01:50",
+      "explicit": false,
+      "youTubeId": "YjJP__MafLA",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=YjJP__MafLA"
+      }
+    },
+    {
+      "id": "2ef66a4d-1b1c-4ee4-a670-a4d50f37002d",
+      "title": "Infiltrating American Neo-Nazi Groups: w/ police detective David Gletty",
+      "release": "2026-03-23T17:06:34Z",
+      "duration": "00:04:32",
+      "explicit": false,
+      "youTubeId": "lVPB9fZryds",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lVPB9fZryds"
+      }
+    },
+    {
+      "id": "23385d7c-2d52-4e4b-8450-3efd1f5dee72",
+      "title": "How did the American neo-Nazi movement begin?",
+      "release": "2026-03-21T13:41:16Z",
+      "duration": "00:02:40",
+      "explicit": false,
+      "youTubeId": "XIuSMusoFYI",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XIuSMusoFYI"
+      }
+    },
+    {
       "id": "020915e0-8263-4ac6-8619-59b94fca5669",
       "title": "Operation Paperclip: The Secret American Govt. Mission to Recruit Nazi Scientists",
       "release": "2026-03-20T07:21:04Z",

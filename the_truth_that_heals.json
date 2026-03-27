@@ -6,6 +6,25 @@
   "youTubeChannelId": "UCDspcPEdITAadgtJGBMvzZA",
   "episodes": [
     {
+      "id": "04b25d73-f390-41fe-9889-2ac68f912128",
+      "title": "Lydia Knight Interview",
+      "release": "2026-03-27T12:00:00Z",
+      "duration": "00:49:05.7990000",
+      "explicit": false,
+      "spotifyId": "5IHS3k1kD71Ah0HzCITO22",
+      "appleId": 1000757707751,
+      "youTubeId": "pBhKxMDGWVc",
+      "subjects": [
+        "Cult Recovery",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5IHS3k1kD71Ah0HzCITO22",
+        "apple": "https://podcasts.apple.com/podcast/lydia-knight-interview/id1559758565?i=1000757707751",
+        "youtube": "https://www.youtube.com/watch?v=pBhKxMDGWVc"
+      }
+    },
+    {
       "id": "91cbd6d2-ed3f-4875-9074-24ce45b1101a",
       "title": "Why All Religious Communities Must Address Abuse",
       "description": "I believe that instead of silencing victims, it\u2019s okay to listen.\n\nIf you would like to support my work and podcast please buy me a coffee at:\nbuymeacoffee.com/truththath7",

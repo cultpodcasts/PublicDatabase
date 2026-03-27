@@ -3,7 +3,40 @@
   "name": "Today, Explained",
   "spotifyId": "3pXx5SXzXwJxnf4A5pWN2A",
   "appleId": 1346207297,
+  "youTubeChannelId": "UCLXo7UDZvByw2ixzpQCufnA",
+  "youTubePlaylistId": "PLJ8cMiYb3G5f8RNdwPlEzy5eSfISHoP5l",
   "episodes": [
+    {
+      "id": "e5aec162-776b-4dc2-9e53-87a659a6030f",
+      "title": "The book of Mormon influence",
+      "description": "From TikTok to reality TV, Mormons are having a big moment in pop culture.\n\nThis episode was produced by Dustin DeSoto and Avishay Artsy, edited by Amina Al-Sadi, fact-checked by Melissa Hirsch, engineered by Patrick Boyd, and hosted by Jonquilyn Hill. \n\nListen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at \u2060vox.com/today-explained-podcast.\u2060 \nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2026-03-22T12:00:00Z",
+      "duration": "00:30:48",
+      "explicit": false,
+      "spotifyId": "5O8N4q9kUgbDWwNQLDNcg0",
+      "appleId": 1000756578857,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5O8N4q9kUgbDWwNQLDNcg0",
+        "apple": "https://podcasts.apple.com/podcast/the-book-of-mormon-influence/id1346207297?i=1000756578857"
+      }
+    },
+    {
+      "id": "417a4246-fea7-4319-a440-cd7e8c73d296",
+      "title": "The cult of abusive chefs",
+      "description": "One of the most influential chefs in the world has been accused of tormenting his staff physically and psychologically. This episode was produced by Avishay Artsy, edited by Jolie Myers, fact-checked by Andrea L\u00F3pez-Cruzado, engineered by Patrick Boyd and David Tatasciore, and hosted by Sean Rameswaram. Chef Rene Redzepi in Copenhagen. Photo by Thibault Savary / AFP via Getty Images. Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at \u2060vox.com/today-explained-podcast.\u2060 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2026-03-20T18:00:00Z",
+      "duration": "00:23:09.0350000",
+      "explicit": true,
+      "spotifyId": "6vjOYNCnxUuGaaQ8vFkna0",
+      "appleId": 1000756371877,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6vjOYNCnxUuGaaQ8vFkna0",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-abusive-chefs/id1346207297?i=1000756371877"
+      }
+    },
     {
       "id": "d7aad938-4e3a-46c2-ac63-9ab6b9802bca",
       "title": "The Zizian \u0022death cult\u0022",

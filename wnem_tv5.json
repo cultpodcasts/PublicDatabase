@@ -1,0 +1,22 @@
+{
+  "id": "6e80b351-e3b0-496e-a720-270aaafb96dd",
+  "name": "WNEM TV5",
+  "youTubeChannelId": "UCmi4tHXXktvPxxcvfi2vpLQ",
+  "episodes": [
+    {
+      "id": "d6c88cc3-462b-4aa9-9a39-26698764dde6",
+      "title": "Epstein survivor turning pain into advocacy",
+      "release": "2026-03-25T00:31:27Z",
+      "duration": "00:21:58",
+      "explicit": false,
+      "youTubeId": "QG0zKYiE_Ps",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QG0zKYiE_Ps"
+      }
+    }
+  ]
+}

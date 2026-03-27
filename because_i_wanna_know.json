@@ -5,6 +5,22 @@
   "appleId": 1523921573,
   "episodes": [
     {
+      "id": "c9eb2d45-8e5e-4159-9b25-5067da562f1a",
+      "title": "301: Kristin Watson Left a Religious Cult",
+      "release": "2026-03-23T09:00:00Z",
+      "duration": "00:50:09.6000000",
+      "explicit": false,
+      "spotifyId": "6UMYz6AkJ3128On1IbKoKn",
+      "appleId": 1000756728051,
+      "subjects": [
+        "Independent Fundamentalist Baptist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6UMYz6AkJ3128On1IbKoKn",
+        "apple": "https://podcasts.apple.com/podcast/kristin-watson-left-a-religious-cult/id1523921573?i=1000756728051"
+      }
+    },
+    {
       "id": "39d1eac8-a6b9-407d-872e-fba9adf0c85d",
       "title": "259: Leah Escaped the Twin Flames Cult",
       "description": "To donate to the show via, \u0022Buy Me A Coffee\u0022 or to buy one of my books, click here: https://linktr.ee/AuthorLeslieFear",

@@ -1,0 +1,25 @@
+{
+  "id": "ac8cc027-6551-4a61-999d-cd69dbfb1213",
+  "name": "Parre\u0027apy Podcast",
+  "spotifyId": "0ZkjbwPnN2oOgdBCvqaqfg",
+  "appleId": 1837083498,
+  "episodes": [
+    {
+      "id": "c52580e5-e825-43df-8f58-343933cfe0fc",
+      "title": "SCARY PARRE PODCAST | Episode 1: Jim Jones \u2013 The Cult Leader Who Built Jonestown",
+      "description": "In Episode 1 of the Scary Parre Podcast High-Profile Cult Leaders Miniseries, we take a deep dive into the disturbing rise and fall of Jim Jones, the infamous leader of the Peoples Temple and mastermind behind the Jonestown massacre. What started as a message of hope, unity, and equality turned into one of the deadliest cult tragedies in modern history. In this episode, we explore how Jim Jones used charisma, fear, manipulation, and psychological control to gain power over hundreds of followers \u2014 ultimately leading to the deaths of more than 900 people in Jonestown, Guyana. We break down: \u2728 Jim Jones\u2019 early life and obsession with power \u2728 The creation of the Peoples Temple \u2728 How he manipulated and controlled his followers \u2728 The move to Jonestown \u2728 The final tragic events that shocked the world This episode is chilling, heartbreaking, and a powerful reminder of how dangerous blind devotion can become.",
+      "release": "2026-03-24T23:55:56Z",
+      "duration": "00:58:51.1360000",
+      "explicit": true,
+      "spotifyId": "3F3LuNfZ3Wix1a6QAayf7T",
+      "appleId": 1000757150816,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3F3LuNfZ3Wix1a6QAayf7T",
+        "apple": "https://podcasts.apple.com/podcast/scary-parre-podcast-episode-1-jim-jones-the-cult/id1837083498?i=1000757150816"
+      }
+    }
+  ]
+}

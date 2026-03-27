@@ -96,6 +96,7 @@
       "release": "2026-02-06T07:08:00Z",
       "duration": "00:36:54",
       "explicit": false,
+      "spotifyId": "15jRwNmfj0VYzuNM1VreUd",
       "youTubeId": "HBu72SsW3dk",
       "subjects": [
         "Opus Dei",
@@ -103,6 +104,7 @@
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/15jRwNmfj0VYzuNM1VreUd",
         "youtube": "https://www.youtube.com/watch?v=HBu72SsW3dk"
       }
     },

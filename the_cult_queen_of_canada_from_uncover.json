@@ -7,6 +7,25 @@
   "youTubePlaylistId": "PLuMdLmjdG8ddP-uCa51Hyav7TDuiVIH0t",
   "episodes": [
     {
+      "id": "73641147-9250-450c-96b6-68cd9780a51f",
+      "title": "S36 E5: Election Day | The Cult Queen of Canada",
+      "description": "It\u0027s Election Day in Richmound. The town votes for a new mayor in a desperate battle to heal the divide caused by Queen Romana\u0027s cult. Amidst the high-stakes political maneuvering, the cult\u0027s true danger is revealed through one vulnerable family.",
+      "release": "2026-03-23T08:10:00Z",
+      "duration": "00:36:18.7430000",
+      "explicit": false,
+      "spotifyId": "0cDsxuYdxp3XAe89zKUXB3",
+      "appleId": 1000750713595,
+      "youTubeId": "DoCW4fr46ac",
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0cDsxuYdxp3XAe89zKUXB3",
+        "apple": "https://podcasts.apple.com/podcast/s36-e5-election-day-the-cult-queen-of-canada/id1364665348?i=1000750713595",
+        "youtube": "https://www.youtube.com/watch?v=DoCW4fr46ac"
+      }
+    },
+    {
       "id": "f0387054-5afc-473d-a16d-20e109d8da52",
       "title": "S36 E4: Clowns | The Cult Queen of Canada",
       "description": "Clowns burn a flag, the Mayor plugs a sewer, and Richmound turns on itself. The conflict moves to the ballot box when a local gives cult members voting rights via a property deed, setting the stage for a dramatic mayoral election that could see the town taken over.",
