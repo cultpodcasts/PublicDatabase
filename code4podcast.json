@@ -1,0 +1,25 @@
+{
+  "id": "ef2987f4-ce2a-47dc-bcb6-aa603e49b5f3",
+  "name": "Code4Podcast",
+  "spotifyId": "2tQ4tcxx6uACDk2ehY2sGv",
+  "appleId": 1869116495,
+  "episodes": [
+    {
+      "id": "c5f9656c-71e9-4d39-968a-74120a1cc5f1",
+      "title": "From Trauma to Triumph: Amanda\u0027s 11-Year Fight for Freedom",
+      "description": "Amanda shares her harrowing 11-year experience in a behavioral modification facility, her journey of survival, and her path to becoming a law enforcement officer. This episode sheds light on the troubled teen industry, psychological trauma, and resilience.\n\nSound Bites: \n\n\u0022They talk to you like you\u0027re animals.\u0022\n\u0022You don\u0027t deserve to be loved.\u0022\n\u0022Nobody should have to go through that.\u0022\n\nChapters: \n\n00:00 Introduction and Background\n01:53 Childhood and Family Dynamics\n04:15 Transition to Law Enforcement\n04:58 Experiences in Behavioral Modification Facilities\n10:36 Life Inside the Facility\n20:39 Daily Life and Education\n27:31 Psychological Impact and Coping Mechanisms\n34:26 Survival and Suffering: A Harrowing Experience\n36:36 Endurance and Fear: The Reality of Abuse\n37:35 Isolation and Longing: The Impact of Separation\n38:53 Craving Connection: The Need for Affection\n40:36 The Longest Stay: Understanding Institutionalization\n41:59 Family Dynamics: The Complicated Relationship with Dad\n44:05 The Day of Freedom: Transitioning Out of Isolation\n47:03 Navigating Newfound Freedom: The Struggles of Adjustment\n48:46 Catching Up: The Challenge of Reintegrating into Society\n53:47 Finding Positives: Coping Mechanisms and Skills Learned\n56:23 Parenting Fears: The Impact of Past Trauma on Future Choices\n57:41 Faith and Reflection: Navigating Religious Beliefs\n58:06 Struggles with Faith and Spirituality\n01:01:08 Transforming Pain into Purpose\n01:03:18 The Journey into Fitness and Self-Discovery\n01:06:28 Career Path and Law Enforcement Insights\n01:09:53 Future Aspirations and Impact on Society\n01:15:55 Emotional Healing and Self-Acceptance",
+      "release": "2026-04-01T05:00:00Z",
+      "duration": "01:15:34",
+      "explicit": false,
+      "spotifyId": "11ioZ0CNIZ7rXk8AoadsxV",
+      "appleId": 1000758583493,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/11ioZ0CNIZ7rXk8AoadsxV",
+        "apple": "https://podcasts.apple.com/podcast/from-trauma-to-triumph-amandas-11-year-fight-for-freedom/id1869116495?i=1000758583493"
+      }
+    }
+  ]
+}

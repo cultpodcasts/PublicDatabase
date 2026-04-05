@@ -1,0 +1,39 @@
+{
+  "id": "1667f989-1fa8-4a81-ae1a-a44969310b5d",
+  "name": "Albert Speer",
+  "episodes": [
+    {
+      "id": "20ab2413-b6d6-4b9a-b148-7c786831d4eb",
+      "title": "Hitler\u2019s Architect of Lies",
+      "description": "Leading German historian Heike G\u00F6rtemaker introduces a never-before-broadcast BBC interview conducted in 1971 with Albert Speer, Hitler\u0027s architect and armaments minister. \n\nDr G\u00F6rtemaker examines how the man once called \u2018the Nazi who said sorry\u2019 in truth never deserved that title, and she explains how Speer, perhaps Hitler\u2019s closest friend, helped to create the image of the F\u00FChrer that perpetuates to this day. She outlines the many ways Speer lied to interviewers over the years, twisting the truth to absolve himself in the public\u2019s eyes, even falsely claiming that he had at the end been plotting to kill Hitler himself.",
+      "release": "2025-06-30T21:00:00",
+      "duration": "00:18:00",
+      "explicit": false,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002fcv3/albert-speer-hitlers-architect-of-lies"
+      }
+    },
+    {
+      "id": "e3427336-6234-455c-bb76-b94a3ad85cc8",
+      "title": "The Unseen Interrogation",
+      "description": "In an interview conducted in 1971, which has never been broadcast in its entirety before, Hitler\u0027s architect and armaments minister, Albert Speer, is cross-examined by Michael Charlton, Hugh Trevor-Roper and George Ball, Speer\u0027s American interrogator at the end of the war.\n",
+      "release": "2025-06-30T00:00:00",
+      "duration": "01:17:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002fcv1/albert-speer-the-unseen-interrogation"
+      }
+    },
+    {
+      "id": "2ccd00d0-a11b-4635-9124-595e8f3371f8",
+      "title": "The Nazi Who Said Sorry",
+      "description": "Programme looking at Albert Speer, Hitler\u0027s architect, arms minister and only friend. After the war, he became the Nazi who said sorry, even for the crimes he claimed had been kept secret from him. Was his remorse genuine, or did he know more than he admitted, still proud of his meteoric career under Hitler?",
+      "release": "1996-05-02T00:00:00",
+      "duration": "00:59:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/b0074rb4/albert-speer-the-nazi-who-said-sorry"
+      }
+    }
+  ]
+}

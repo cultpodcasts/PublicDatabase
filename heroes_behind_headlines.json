@@ -1,0 +1,27 @@
+{
+  "id": "10cf9aca-2091-423d-acd2-161c8c299376",
+  "name": "Heroes Behind Headlines",
+  "spotifyId": "4vVN7qke1XOidSTbqCDKlo",
+  "appleId": 1604942951,
+  "episodes": [
+    {
+      "id": "56bf2243-9d02-49a4-bad9-c2fcb3927bd0",
+      "title": "Cult Deprogrammer Speaks!",
+      "description": "Mark Blocksom found himself inside Synanon in the 80s, a notorious rehab program criticized for abusing its members, and was rescued by friends who were actively working to help deprogram members of the bigger cults at that time, including the Moonies and Hare Krishna. They hired Mark to help share his experiences, but what he gravitated to were the actual rescues of cult victims, which were generally illegal kidnappings requested by family members. Mark shares his adventures and the inner satisfaction and the global fame he earned doing this work. His own life story was more complicated, and while he ultimately prevailed over his personal battles, he recently passed away. Rest in peace, Mark. Your good heart inspires us. Heroes Behind Headlines Executive Producer Ralph Pezzullo Produced \u0026 Engineered by Mike Dawson Music provided by ExtremeMusic.com",
+      "release": "2026-03-30T04:00:00Z",
+      "duration": "00:59:00.3490000",
+      "explicit": false,
+      "spotifyId": "08cyFeNxikiRJQSAWCU4Es",
+      "appleId": 1000758143825,
+      "subjects": [
+        "Hare Krishnas",
+        "Synanon",
+        "Unification Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/08cyFeNxikiRJQSAWCU4Es",
+        "apple": "https://podcasts.apple.com/podcast/cult-deprogrammer-speaks/id1604942951?i=1000758143825"
+      }
+    }
+  ]
+}

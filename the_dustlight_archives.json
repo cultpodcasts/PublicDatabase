@@ -1,0 +1,25 @@
+{
+  "id": "67fff7d9-ac83-46ea-9b3b-f2fd553b6306",
+  "name": "The Dustlight Archives",
+  "spotifyId": "2HvJ05x12LNAHf88LfD2iz",
+  "appleId": 1856012961,
+  "episodes": [
+    {
+      "id": "552d3928-295a-4b54-bdfb-202d8968d522",
+      "title": "NXIVM: Episode 4: The Bronfmans, Frank Parlato, and Money Laundering Part 1",
+      "description": "In which we discuss the history of the Bronfman family, the mysterious background of Sara and Clare\u0027s mother, and exactly how they were laundering money through NXIVM",
+      "release": "2026-03-31T16:00:00Z",
+      "duration": "00:41:56.6460000",
+      "explicit": true,
+      "spotifyId": "7x91OBgGY0WlZ6QRPkM5tR",
+      "appleId": 1000758463977,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7x91OBgGY0WlZ6QRPkM5tR",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-4-the-bronfmans-frank-parlato-and/id1856012961?i=1000758463977"
+      }
+    }
+  ]
+}

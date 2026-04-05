@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "d41b87b9-c923-472d-99e8-e3be66825c4f",
+      "title": "251. The Shepherding Movement Part II",
+      "description": "We are back with our part 2 of 3 episodes on The Shepherding Movement.",
+      "release": "2026-04-01T00:52:00Z",
+      "duration": "01:50:03.5460000",
+      "explicit": true,
+      "spotifyId": "5KOoqy6DznojTcgStkoWXa",
+      "appleId": 1000758551406,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5KOoqy6DznojTcgStkoWXa",
+        "apple": "https://podcasts.apple.com/podcast/251-the-shepherding-movement-part-ii/id1573190999?i=1000758551406"
+      }
+    },
+    {
       "id": "072cac3c-f2f4-4e3f-923b-25c7975bb852",
       "title": "250. The Shepherding Movement Part I",
       "description": "We cant talk about Lonnie Frisbee or the Jesus People without our next subject. This Week we start our deep dive into the Charismatic world and the Shepherding Movement.",

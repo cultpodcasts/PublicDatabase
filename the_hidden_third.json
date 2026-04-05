@@ -1,0 +1,30 @@
+{
+  "id": "8675b8f2-e770-4325-b356-71ea2f7565c0",
+  "name": "The Hidden Third",
+  "spotifyId": "3n1BBoj3BgVuEYaiZ6SotF",
+  "appleId": 1845989117,
+  "youTubeChannelId": "UCoCiI8nJacn8gDiHxr6aQGA",
+  "episodes": [
+    {
+      "id": "5af605fd-6299-4515-9fa4-0208d8bd4437",
+      "title": "Jeffrey Epstein Survivor",
+      "description": "At 21, Lisa Phillips was assaulted by Jeffrey Epstein, an ordeal that marked the start of years of grooming and manipulation. In this conversation with Mariana, she opens up about the trauma she endured, the system that enabled it, and her ongoing fight for justice.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2025-12-03T12:00:00Z",
+      "duration": "01:40:12",
+      "explicit": false,
+      "spotifyId": "3r5CkUEQ7xJr1rTyW008YH",
+      "appleId": 1000739495259,
+      "youTubeId": "tmx-ujlcRqM",
+      "subjects": [
+        "Human Trafficking",
+        "Cult Psychology",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3r5CkUEQ7xJr1rTyW008YH",
+        "apple": "https://podcasts.apple.com/podcast/jeffrey-epstein-survivor/id1845989117?i=1000739495259",
+        "youtube": "https://www.youtube.com/watch?v=tmx-ujlcRqM"
+      }
+    }
+  ]
+}

@@ -5,6 +5,34 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "a1c3a741-e647-46b6-9b5c-47f1ad4da624",
+      "title": "Chief Joseph - Season 13 Episode 12",
+      "description": "The most widely respected Native American makes it on our list of the most influential people of all time. Join us as Thor walks us through why Chief Joseph deservers to be at the top of the list.",
+      "release": "2026-04-04T01:42:55Z",
+      "duration": "01:20:23.7130000",
+      "explicit": false,
+      "spotifyId": "4b9Mrcjup8ltIaYcY91xmu",
+      "appleId": 1000759151270,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4b9Mrcjup8ltIaYcY91xmu",
+        "apple": "https://podcasts.apple.com/podcast/chief-joseph-season-13-episode-12/id1565633523?i=1000759151270"
+      }
+    },
+    {
+      "id": "fdb4a95f-ce24-443a-a916-750393f18b63",
+      "title": "Joan of Arc - Season 13 Episode 11",
+      "description": "This 13 year old would inspire even the harshest of critics. Join us while Nathan pleads the case for Joan of Arc to be at the top of the worlds greatest influencers.",
+      "release": "2026-03-29T15:57:35Z",
+      "duration": "00:54:43",
+      "explicit": false,
+      "spotifyId": "6ETnPqo4GsAMQdtaiw42Ef",
+      "appleId": 1000758056032,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ETnPqo4GsAMQdtaiw42Ef",
+        "apple": "https://podcasts.apple.com/podcast/joan-of-arc-season-13-episode-11/id1565633523?i=1000758056032"
+      }
+    },
+    {
       "id": "40f6791c-cb22-44dc-8255-683385d74484",
       "title": "Amanirena Kandake- Season 13 Episode 10",
       "description": "Find out why this influencer is on our list, even though you may never have heard her name.",

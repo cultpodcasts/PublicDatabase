@@ -13,12 +13,16 @@
       "release": "2026-03-26T21:45:29Z",
       "duration": "00:21:23",
       "explicit": false,
+      "spotifyId": "10ZqA5cDkxrdMwGmgyyyoG",
+      "appleId": 1000758907389,
       "youTubeId": "Z7umco64GI0",
       "subjects": [
         "Human Trafficking",
         "_America"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/10ZqA5cDkxrdMwGmgyyyoG",
+        "apple": "https://podcasts.apple.com/podcast/exposing-epsteins-saudi-9-11-connection/id1878378731?i=1000758907389",
         "youtube": "https://www.youtube.com/watch?v=Z7umco64GI0"
       }
     },

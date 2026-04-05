@@ -1,0 +1,25 @@
+{
+  "id": "1c4460ff-04e9-44f9-9420-41f3da94a9f1",
+  "name": "How Is This Better?",
+  "spotifyId": "5XsXk5qEOxjyWSOkKaNoPn",
+  "appleId": 1815792142,
+  "episodes": [
+    {
+      "id": "d6dd87b2-0ad7-4833-843e-0c8eb1b4176a",
+      "title": "How Mormons Captured Pop Culture",
+      "description": "Mormonism is having a pop culture glow-up. But did it happen by accident? In this episode, Akilah Hughes digs into the rise of Mormon influencers, the explosion of \u201CMomTok,\u201D and the broader cultural moment putting LDS aesthetics front and center. With reporting from New York Magazine\u2019s Bridget Read, we explore how Mormon women helped shape modern influencer culture, and why that\u2019s now paying off in a massive way. Ex-Mormon podcaster Shelise Ann Sola joins to unpack what life inside a high-control religion can actually look like, and what gets lost when that experience is repackaged as aspirational content. From the church\u2019s controversial history to its quiet influence on tech and media, this episode asks a bigger question: What happens when a belief system becomes a brand and we all start buying in? Follow How Is This Better? wherever you get your podcasts. Check out Bridget\u0027s work including her story about this second \u0022Mormon moment\u0022 Check Shelise\u0027s Cults to Consciousness show. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-04-03T08:41:00Z",
+      "duration": "00:32:23.9140000",
+      "explicit": false,
+      "spotifyId": "1KUKNJTszbwiYVPhPddXW4",
+      "appleId": 1000759014269,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1KUKNJTszbwiYVPhPddXW4",
+        "apple": "https://podcasts.apple.com/podcast/how-mormons-captured-pop-culture/id1815792142?i=1000759014269"
+      }
+    }
+  ]
+}

@@ -890,11 +890,15 @@
       "release": "2024-03-31T15:00:17Z",
       "duration": "00:25:34",
       "explicit": false,
+      "spotifyId": "47Xt2Ltbn25MkWDGT2H3sC",
+      "appleId": 1000758652955,
       "youTubeId": "PMQPXlcVxvk",
       "subjects": [
         "Twin Flames Universe"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/47Xt2Ltbn25MkWDGT2H3sC",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-cult-documentary-a-producer-mike-untold-story/id1867524433?i=1000758652955",
         "youtube": "https://www.youtube.com/watch?v=PMQPXlcVxvk"
       }
     },

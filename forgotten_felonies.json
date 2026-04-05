@@ -3,7 +3,28 @@
   "name": "Forgotten Felonies",
   "spotifyId": "5cBlktdCDGiSoqQN5undcy",
   "appleId": 1802057911,
+  "youTubeChannelId": "UC1Fpk-sg0DCPpc1A93ZGDxA",
   "episodes": [
+    {
+      "id": "66b7b4a3-85c4-4cc3-9b70-ffccc299d727",
+      "title": "Edmund Creffield: The Bride of Christ Cult",
+      "description": "This is the second episode following Edmund Creffield and the cult he began in Corvallis, OR, after her arrived in late 1902. In this episode, he was finally caught. After months in hiding, Edmund Creffield is pulled from beneath a house\u2014filthy, frail, and barely able to stand\u2014and brought into custody at last. For the people of Corvallis, it feels like the end of something that never should have begun. But in the courtroom, Creffield refuses to break. When Creffield walks out of prison, it all starts over again. This time things are much more dramatic and at least one part of the story comes to a violent end.",
+      "release": "2026-03-28T23:00:00Z",
+      "duration": "01:07:56.4080000",
+      "explicit": false,
+      "spotifyId": "6DowA57S0HxmeX0hzHw5yx",
+      "appleId": 1000757961252,
+      "youTubeId": "ekbya9qmaAE",
+      "subjects": [
+        "Edmund Creffield",
+        "Bride Of Christ Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6DowA57S0HxmeX0hzHw5yx",
+        "apple": "https://podcasts.apple.com/podcast/edmund-creffield-the-bride-of-christ-cult/id1802057911?i=1000757961252",
+        "youtube": "https://www.youtube.com/watch?v=ekbya9qmaAE"
+      }
+    },
     {
       "id": "a985c3dd-368e-4203-876c-856d032a147f",
       "title": "Edmund Creffield: The Rise of the Army of Holiness in Corvallis, Oregon",

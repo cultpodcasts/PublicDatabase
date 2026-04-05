@@ -1,6 +1,8 @@
 {
   "id": "414f2a72-b095-4e52-a13e-103853147866",
   "name": "Church of the Larger Fellowship - CLFUU",
+  "spotifyId": "0yStvWI242QOvoKb7FH700",
+  "appleId": 1709207506,
   "youTubeChannelId": "UCvbYzzmQRKL5-cC4DKM8PJA",
   "episodes": [
     {
@@ -10,6 +12,8 @@
       "release": "2026-03-20T05:20:36Z",
       "duration": "01:01:46",
       "explicit": false,
+      "spotifyId": "4ri4jZjFhY1RD5FAAWuwRS",
+      "appleId": 1000759100892,
       "youTubeId": "nhWXZ3NXoOQ",
       "subjects": [
         "Children Of God",
@@ -18,6 +22,8 @@
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4ri4jZjFhY1RD5FAAWuwRS",
+        "apple": "https://podcasts.apple.com/podcast/a-s13-special-episode-ft-knitting-cult-lady/id1709207506?i=1000759100892",
         "youtube": "https://www.youtube.com/watch?v=nhWXZ3NXoOQ"
       }
     }

@@ -4,6 +4,17 @@
   "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
   "episodes": [
     {
+      "id": "5b892184-c560-48f3-966a-5e65f11ccc47",
+      "title": "Could the body stop keeping the score?",
+      "release": "2026-04-04T22:56:38Z",
+      "duration": "01:07:36",
+      "explicit": false,
+      "youTubeId": "U_CmeCUFIs4",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=U_CmeCUFIs4"
+      }
+    },
+    {
       "id": "2f2126e6-5ebb-4f85-a388-1306e4d219d9",
       "title": "Putting Cults in Context: What makes a cult turn violent?",
       "description": "Why do people turn on one another in the name of religion?",
@@ -35,7 +46,8 @@
       "explicit": false,
       "youTubeId": "egZsPWm6m30",
       "subjects": [
-        "Catholicism"
+        "Catholicism",
+        "Evangelicalism"
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=egZsPWm6m30"

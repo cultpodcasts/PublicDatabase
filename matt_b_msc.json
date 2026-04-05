@@ -4,6 +4,128 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "ddde6842-04b0-4aac-b12f-d907bf3e2632",
+      "title": "Do neo-Nazi Tom Metzger care about alienating the general public?",
+      "release": "2026-04-04T11:00:46Z",
+      "duration": "00:03:12",
+      "explicit": false,
+      "youTubeId": "U-Jvap3u26c",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=U-Jvap3u26c"
+      }
+    },
+    {
+      "id": "186c02eb-4cc9-4556-9183-71e9b2c8dddb",
+      "title": "How does an American neo-Nazi feel about labels?",
+      "release": "2026-04-03T16:16:19Z",
+      "duration": "00:02:35",
+      "explicit": false,
+      "youTubeId": "yhK4XVenhmw",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=yhK4XVenhmw"
+      }
+    },
+    {
+      "id": "e9eb508e-8032-4a74-8ecb-3072ac81192b",
+      "title": "How empathic can a neo-Nazi be? Louis Theroux finds out",
+      "release": "2026-04-02T18:17:17Z",
+      "duration": "00:01:56",
+      "explicit": false,
+      "youTubeId": "larfVHlfZbQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=larfVHlfZbQ"
+      }
+    },
+    {
+      "id": "53abb84c-da25-40d4-b71e-6600fb93dcae",
+      "title": "Why does neo-Nazi Tom Metzger have non-white friends?",
+      "release": "2026-04-01T16:31:21Z",
+      "duration": "00:04:39",
+      "explicit": false,
+      "youTubeId": "vWhhhQiquOQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=vWhhhQiquOQ"
+      }
+    },
+    {
+      "id": "32964297-0aaa-4c82-89ad-8723336d1825",
+      "title": "What does \u0026quot;on the fence\u0026quot; mean to neo-Nazis?",
+      "release": "2026-03-31T20:34:30Z",
+      "duration": "00:01:11",
+      "explicit": false,
+      "youTubeId": "3AOS65ek0nI",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3AOS65ek0nI"
+      }
+    },
+    {
+      "id": "f1066344-11dd-4bc9-8f6f-6c70d00e2f4f",
+      "title": "What If... a neo-Nazi thinks you\u0026#39;re a Jew? Louis Theroux find out (Part II)",
+      "release": "2026-03-31T11:44:09Z",
+      "duration": "00:03:59",
+      "explicit": false,
+      "youTubeId": "whm9FCuEGQA",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=whm9FCuEGQA"
+      }
+    },
+    {
+      "id": "729f2434-563c-4fd5-a1eb-66a09f378107",
+      "title": "What If... a neo-Nazi thinks you\u0026#39;re a Jew?!? Louis Theroux find out (Part I)",
+      "release": "2026-03-31T11:43:24Z",
+      "duration": "00:04:55",
+      "explicit": false,
+      "youTubeId": "pDCO08-XN8g",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pDCO08-XN8g"
+      }
+    },
+    {
+      "id": "52e0f528-bd57-4e19-b663-818db607d2ff",
+      "title": "\u0026quot;Ethnic Cleansing\u0026quot; : A Video Game for White Nationalists",
+      "release": "2026-03-30T09:33:08Z",
+      "duration": "00:01:09",
+      "explicit": false,
+      "youTubeId": "5RWxNLi-Opo",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5RWxNLi-Opo"
+      }
+    },
+    {
+      "id": "b7473a5a-aa6d-4d2a-ae2b-3698c467ebe6",
+      "title": "What is a \u0026quot;JAP\u0026quot; ? A White Nationalist explains",
+      "description": "JAP = Jewish American Princess",
+      "release": "2026-03-30T09:20:12Z",
+      "duration": "00:00:59",
+      "explicit": false,
+      "youTubeId": "2L40VQEYp10",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2L40VQEYp10"
+      }
+    },
+    {
+      "id": "91cee090-8bf3-479a-8df4-d3608d111c58",
+      "title": "Can neo-Nazi Tom Metzger stop saying the \u0026#39;n\u0026#39; word? w/ Louis Theroux",
+      "release": "2026-03-29T13:28:16Z",
+      "duration": "00:01:43",
+      "explicit": false,
+      "youTubeId": "dadu9e3VaaU",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dadu9e3VaaU"
+      }
+    },
+    {
+      "id": "4d45443d-abe4-4e14-a889-70bc77cca527",
+      "title": "Why Do You Hate? Louis Theroux asks American neo-Nazi Tom Metzger",
+      "release": "2026-03-29T13:27:04Z",
+      "duration": "00:00:40",
+      "explicit": false,
+      "youTubeId": "kFxwkK7IhlY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kFxwkK7IhlY"
+      }
+    },
+    {
       "id": "479a8dcb-e1c9-46e6-93e9-6bb013f647f2",
       "title": "The Role of Music in the American neo-Nazi movement",
       "release": "2026-03-24T11:58:28Z",

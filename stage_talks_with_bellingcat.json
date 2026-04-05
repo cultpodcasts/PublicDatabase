@@ -4,6 +4,23 @@
   "spotifyId": "6FTTUanItsumtHPtZjwOP8",
   "episodes": [
     {
+      "id": "fec6aeae-191b-4c33-8ec1-a0321dcd4019",
+      "title": "\u0022Tracking The Traffickers\u0022 with Foeke Postma",
+      "description": "This week we spoke with Foeke Postma of Bellingcat about the online trade of rare and protected species. He found traffickers not operating on the dark web, nor hidden forums but in plain sight- on social media platforms. Many of them used coded language to avoid detection. In this talk he discusses his investigative methods, what platforms could do more of to stop these networks and how you can help protect these vulnerable animals in small ways. The talk was hosted by Charlotte Maher on April 2nd 2026. Music featured is courtesy of Artlist. Recorded live in our Discord Server: https://discord.com/invite/bellingcat Links: Foeke\u0027s investigations on this topic: Indonesian trafficker: https://www.bellingcat.com/news/2026/03/19/how-wildlife-traffickers-are-using-coded-language-to-sell-protected-animals-on-facebook/ Mongabay\u0027s coverage: https://news.mongabay.com/2026/03/facebook-shuts-indonesia-groups-after-mongabay-and-bellingcat-report-illegal-wildlife-trade/ Malaysian trafficker: https://www.bellingcat.com/news/2025/02/11/the-hunt-for-malaysias-elusive-wildlife-trafficker/ Dubai trade: https://www.bellingcat.com/news/middle-east/2021/02/08/how-instagram-celebrities-promote-dubais-underground-animal-trade/ Digital tips: Facebook bookmarklets: https://tools.myosint.training/ Wildlife specific organisations: Cities: https://trade.cites.org/ Pitch to Bellingcat: submissions@bellingcat.com Mental hygiene guide: https://www.bellingcat.com/resources/2022/11/23/how-to-maintain-mental-hygiene-as-an-open-source-researcher/ Link to Discord environment/wildlife topic channel: https://discord.gg/GQDsGvXJdf",
+      "release": "2026-04-02T23:12:06Z",
+      "duration": "00:59:03.7110000",
+      "explicit": false,
+      "spotifyId": "4usX8m3Hp4idGDBeGwOsaR",
+      "appleId": 1000758939462,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4usX8m3Hp4idGDBeGwOsaR",
+        "apple": "https://podcasts.apple.com/podcast/tracking-the-traffickers-with-foeke-postma/id1842893341?i=1000758939462"
+      }
+    },
+    {
       "id": "2b134e43-20b9-4bb2-a663-85eb58b9fdbf",
       "title": "\u0022Researching the Troubled Teen Industry\u0022 with Bellingcat Discord community member Allison Jenkins",
       "description": "This week\u0027s live Stage Talk was slightly different, we were joined by a Discord community member/open source researcher, Allison Jenkins. Allison was speaking on an ongoing project that she was looking for support on. Allison has lived experience of the Troubled Teen Industry and realised there was a lack of comprehensive and easy to access information on the industry for concerned parents or for potential future accountability. So over the last few years she has been building a publicly accessible information database on the institutions and companies involved in the industry, using open source techniques. At the time of the talk Allison was having difficulty finishing the project and getting it ready for public view, due to funding and resource restrictions. If you want to help Allison with her work, join our Discord server and ask for further information: www.discord.gg/bellingcat Links that were mentioned in the chat: The background article on the TTI: https://www.motherjones.com/politics/2007/08/cult-spawned-tough-love-teen-industry/ https://xjdp.aspi.org.au/ WASP: https://en.wikipedia.org/wiki/World_Wide_Association_of_Specialty_Programs_and_Schools Allison (and her ArchivEye tool) is featured in the article of the 2023 Bellingcat Hackathon here: https://www.bellingcat.com/resources/2023/06/16/third-hackathon-open-source-tools/ Project from the Bellingcat hackathon: https://github.com/eastrd/ArchivEye The talk was hosted by Charlotte Maher on Thursday the 11th of April in the Bellingcat discord server. Music courtesy of Artlist.",

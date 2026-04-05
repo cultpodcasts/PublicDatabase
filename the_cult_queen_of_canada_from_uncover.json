@@ -7,6 +7,42 @@
   "youTubePlaylistId": "PLuMdLmjdG8ddP-uCa51Hyav7TDuiVIH0t",
   "episodes": [
     {
+      "id": "291a8ffe-c4b2-4df9-962e-11cbede2c932",
+      "title": "Crime Story: Rachel Browne on how online extremism bleeds into everyday life",
+      "description": "In the rural prairie town of Richmound, Saskatchewan, an abandoned school became the unlikely stage for a 21st-century crisis. When Romana Didulo, a cult leader who calls herself \u201CQueen of Canada,\u201D arrived with her followers and turned the school into her royal court, the town was thrust into a surreal standoff. In this episode of Crime Story, investigative journalist Rachel Browne sits down with Crime Story host, Kathleen Goldhar to uncover how online extremism bled into everyday life and divided the town. You can listen to more incredible tales of true crime every week on Crime Story. Find more Crime Story episodes in your favourite podcast app, or here: https://link.mgln.ai/CSxCQOC",
+      "release": "2026-03-30T17:10:00Z",
+      "duration": "00:36:15.9210000",
+      "explicit": false,
+      "spotifyId": "5JUVk6MKgz6f5NWxVKi07O",
+      "appleId": 1000758265900,
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5JUVk6MKgz6f5NWxVKi07O",
+        "apple": "https://podcasts.apple.com/podcast/crime-story-rachel-browne-on-how-online-extremism-bleeds/id1364665348?i=1000758265900"
+      }
+    },
+    {
+      "id": "be551167-095a-469f-8296-0c756482b994",
+      "title": "S36 E6: The Royal Raid | The Cult Queen of Canada",
+      "description": "A shocking RCMP raid on the Kingdom of Canada\u0027s Richmound school brings the years-long standoff to a dramatic climax. Arrests, legal maneuvering, and a final eviction decide the fate of Queen Romana and her followers.",
+      "release": "2026-03-30T04:10:00Z",
+      "duration": "00:28:19",
+      "explicit": false,
+      "spotifyId": "4kyBZhlbU2pWddZCoq0GKa",
+      "appleId": 1000750713801,
+      "youTubeId": "K-CV73u-l14",
+      "subjects": [
+        "Romana Didulo"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4kyBZhlbU2pWddZCoq0GKa",
+        "apple": "https://podcasts.apple.com/podcast/s36-e6-the-royal-raid-the-cult-queen-of-canada/id1364665348?i=1000750713801",
+        "youtube": "https://www.youtube.com/watch?v=K-CV73u-l14"
+      }
+    },
+    {
       "id": "73641147-9250-450c-96b6-68cd9780a51f",
       "title": "S36 E5: Election Day | The Cult Queen of Canada",
       "description": "It\u0027s Election Day in Richmound. The town votes for a new mayor in a desperate battle to heal the divide caused by Queen Romana\u0027s cult. Amidst the high-stakes political maneuvering, the cult\u0027s true danger is revealed through one vulnerable family.",

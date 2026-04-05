@@ -4,6 +4,36 @@
   "youTubeChannelId": "UCDvbvhI7ZERvBJQR6ZKLOfA",
   "episodes": [
     {
+      "id": "9f05daa9-7edf-4aa0-a979-52506882a922",
+      "title": "What if the problem isn\u2019t the sheep\u2026 but the shepherds?",
+      "description": "based on ezekiel 34",
+      "release": "2026-03-29T16:00:00Z",
+      "duration": "00:12:44",
+      "explicit": false,
+      "youTubeId": "Od3tcD2O5GI",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Od3tcD2O5GI"
+      }
+    },
+    {
+      "id": "a8623885-bab7-4e9f-8343-792bb2de04cf",
+      "title": "\u201CThey changed the Blood doctrine\u2014but left people in the dark\u201D",
+      "description": "they changed it but a week later no documentation updates etc",
+      "release": "2026-03-28T12:45:00Z",
+      "duration": "00:14:59",
+      "explicit": false,
+      "youTubeId": "64IkEGHWDAQ",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=64IkEGHWDAQ"
+      }
+    },
+    {
       "id": "45df5352-0372-4ec3-becb-657d9c37246f",
       "title": "\u201CI got invited to the JW Memorial 2026",
       "release": "2026-03-27T14:00:00Z",
