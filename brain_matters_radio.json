@@ -1,0 +1,26 @@
+{
+  "id": "d8a3f0fe-c346-4ab1-b4d2-293419df7aeb",
+  "name": "Brain Matters Radio",
+  "spotifyId": "7eYhwPlt63cO8QbvvMXcry",
+  "appleId": 1551856748,
+  "episodes": [
+    {
+      "id": "ba7c20d8-80bd-41e5-8423-0d084d0cc885",
+      "title": "Brain Matters S13.E07: The Psychological Aspects of Cults",
+      "description": "Dr Guenther interviews Rick Alan Ross, one of the nation\u2019s leading experts on cults, coercive persuasion, and controversial movements and he is the founder and executive director of the Cult Education Institute, an organization dedicated to researching, documenting, and educating the public about cults and their impact.\n\nThe post Brain Matters S13.E07: The Psychological Aspects of Cults first appeared on Capstone Voices Podcasting Network.",
+      "release": "2026-04-07T19:00:01Z",
+      "duration": "00:55:50",
+      "explicit": false,
+      "spotifyId": "6csWa8FKstBojnaecq4bhh",
+      "appleId": 1000760104857,
+      "subjects": [
+        "Cult-Expert",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6csWa8FKstBojnaecq4bhh",
+        "apple": "https://podcasts.apple.com/podcast/brain-matters-s13-e07-the-psychological-aspects-of-cults/id1551856748?i=1000760104857"
+      }
+    }
+  ]
+}

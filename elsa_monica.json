@@ -1,0 +1,63 @@
+{
+  "id": "ac766ff4-423d-4fca-bb18-d477d9b6cce8",
+  "name": "Elsa Monica",
+  "youTubeChannelId": "UC9t-E38G3tGV99Ygu6Syckw",
+  "episodes": [
+    {
+      "id": "5e4ceed1-24ee-4fda-a4bf-8a42570d5fbf",
+      "title": "Ministry of Evil: The Twisted Cult of Tony Alamo S01E04",
+      "release": "2026-04-07T20:03:14Z",
+      "duration": "00:44:16",
+      "explicit": false,
+      "youTubeId": "jvwMxqhhyJI",
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jvwMxqhhyJI"
+      }
+    },
+    {
+      "id": "94b88e65-e986-4a51-beb4-a737cdbad785",
+      "title": "Ministry of Evil: The Twisted Cult of Tony Alamo S01E03",
+      "release": "2026-04-07T20:02:06Z",
+      "duration": "00:42:57",
+      "explicit": false,
+      "youTubeId": "1hTgCbVlaGQ",
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1hTgCbVlaGQ"
+      }
+    },
+    {
+      "id": "b91ca792-8040-442a-a7ae-8d1b0039f7d2",
+      "title": "Ministry of Evil: The Twisted Cult of Tony Alamo S01E02",
+      "release": "2026-04-07T20:01:50Z",
+      "duration": "00:43:00",
+      "explicit": false,
+      "youTubeId": "c0CLWqX03Xo",
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=c0CLWqX03Xo"
+      }
+    },
+    {
+      "id": "78d0c298-5aee-4e19-97e2-21417a46e446",
+      "title": "Ministry of Evil: The Twisted Cult of Tony Alamo S01E01",
+      "release": "2026-04-07T20:01:37Z",
+      "duration": "00:42:51",
+      "explicit": false,
+      "youTubeId": "DrCyBI5rt_k",
+      "subjects": [
+        "Alamo Christian Foundation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DrCyBI5rt_k"
+      }
+    }
+  ]
+}

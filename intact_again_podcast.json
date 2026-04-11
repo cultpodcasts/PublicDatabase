@@ -1,0 +1,25 @@
+{
+  "id": "811a5e66-bcd1-4643-8b9d-5da9eb969cb4",
+  "name": "Intact Again Podcast",
+  "spotifyId": "3QBzFKLYRvoNPz1iZr54Or",
+  "appleId": 1756018705,
+  "youTubeChannelId": "UCftsBdbvkbDMcLH0TexlUvw",
+  "episodes": [
+    {
+      "id": "1238ca56-5fe6-403c-8052-06a6fb5e7003",
+      "title": "Escaping a Cult: Nitro\u0027s Journey to Restoration",
+      "description": "In this episode of the Intact Again podcast, we meet Nitro, who shares his personal journey from being circumcised within an authoritarian doomsday cult to reclaiming what was lost through foreskin restoration. Raised in a religious organization that viewed circumcision as a divine command and refused most valid medical interventions, Nitro describes the impact this had on his life. He escaped the cult after becoming aware of its harmful and false beliefs and moved to a country where circumcision was less common. Here, Nitro learned he narrowly missed dying from a life-threatening untreated condition and not only began his restoration process but also achieved a CI9, achieving both physical and personal recovery. This is a tale of challenging dogma and embracing personal growth.",
+      "release": "2026-04-05T14:42:59Z",
+      "duration": "01:08:16.5160000",
+      "explicit": true,
+      "spotifyId": "3P1otYFGggOx04qB8AXzWB",
+      "appleId": 1000759390027,
+      "youTubeId": "tS4R55oH3zw",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3P1otYFGggOx04qB8AXzWB",
+        "apple": "https://podcasts.apple.com/podcast/escaping-a-cult-nitros-journey-to-restoration/id1756018705?i=1000759390027",
+        "youtube": "https://www.youtube.com/watch?v=tS4R55oH3zw"
+      }
+    }
+  ]
+}

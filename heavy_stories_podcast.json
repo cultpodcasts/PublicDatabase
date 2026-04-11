@@ -1,0 +1,25 @@
+{
+  "id": "91e4ad62-de55-4c5c-96e2-f574a05e5252",
+  "name": "Heavy Stories Podcast",
+  "spotifyId": "2GDS4RsyCv4gcz3fsj2gFL",
+  "appleId": 1881380024,
+  "episodes": [
+    {
+      "id": "72b44abb-ad29-4592-906f-7cec53f59cc0",
+      "title": "HOW KIM SONG STERNKOPF ESCAPED FROM CULTS: M\u00F8l singer talks childhood under narcissistic preachers, oppressive communities, moving 50 times, discovering music, breaking from organised religion",
+      "description": "Kim Song Sternkopf is the lead singer of Danish genre-testing black metal band M\u00F8l. On episode six of Heavy Stories, he talks about his childhood growing up in oppressive cults, where what he read and listened to was heavily monitored and he was prophesied as a \u201Cchosen one\u201D. His family moved house more than 50 times as they transitioned from community to community, sometimes giving up everything they had to worship under new, narcissistic preachers. He remembers the psychological effect that this all had on him and his four siblings, how his parents\u2019 search for \u201Cmeaning\u201D was manipulated by leaders, and how he finally broke the cycle in his mid-to-late 20s. He also discusses the impact of his recent diagnosis with ADHD as well as his band\u2019s brand new album, Dreamcrush. (Image: Rolf Meldegaard)",
+      "release": "2026-04-06T04:02:00Z",
+      "duration": "01:03:32.4800000",
+      "explicit": false,
+      "spotifyId": "2NNEjricJGTVlnLHbBvPBM",
+      "appleId": 1000759474158,
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2NNEjricJGTVlnLHbBvPBM",
+        "apple": "https://podcasts.apple.com/podcast/how-kim-song-sternkopf-escaped-from-cults-m%C3%B8l-singer/id1881380024?i=1000759474158"
+      }
+    }
+  ]
+}

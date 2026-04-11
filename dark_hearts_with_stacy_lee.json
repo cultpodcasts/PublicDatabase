@@ -703,11 +703,15 @@
       "release": "2024-03-14T17:00:07Z",
       "duration": "00:34:07",
       "explicit": false,
+      "spotifyId": "4vjEzTghJ65cXFfz2eysf5",
+      "appleId": 1000760210907,
       "youTubeId": "BtHMChRV6GY",
       "subjects": [
         "Universe People"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4vjEzTghJ65cXFfz2eysf5",
+        "apple": "https://podcasts.apple.com/podcast/cosmic-people-of-light-cult-sexy-aliens-paranoia-and-racism/id1751330081?i=1000760210907",
         "youtube": "https://www.youtube.com/watch?v=BtHMChRV6GY"
       }
     },

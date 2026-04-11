@@ -4,6 +4,52 @@
   "youTubeChannelId": "UCQKFF3F2P0enb5RUybSvQAQ",
   "episodes": [
     {
+      "id": "01bdde91-8290-4a30-8052-b5619be639d5",
+      "title": "My Uncle is the Leader of Scientology",
+      "description": "Thank you",
+      "release": "2026-04-09T19:43:17Z",
+      "duration": "00:01:07",
+      "explicit": false,
+      "youTubeId": "zH1QRGmIXvU",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zH1QRGmIXvU"
+      }
+    },
+    {
+      "id": "e4c912d3-fde5-4968-8bc5-7f1e74423144",
+      "title": "My Uncle is the Leader of Scientology",
+      "description": "Cops and government doing Scientology\u2019s dirty work",
+      "release": "2026-04-08T19:31:22Z",
+      "duration": "00:01:42",
+      "explicit": false,
+      "youTubeId": "r7q_DS02u9o",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=r7q_DS02u9o"
+      }
+    },
+    {
+      "id": "36abe247-360a-419b-87e8-93e8859be211",
+      "title": "My Uncle is the Leader of Scientology",
+      "description": "#pambondi",
+      "release": "2026-04-05T20:52:50Z",
+      "duration": "00:02:08",
+      "explicit": false,
+      "youTubeId": "Q2Z1FvJpxds",
+      "subjects": [
+        "Scientology",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Q2Z1FvJpxds"
+      }
+    },
+    {
       "id": "ddcff1bb-a197-4cd4-88d8-c8056019c3b7",
       "title": "My Uncle is the Leader of Scientology",
       "description": "#pambondi",

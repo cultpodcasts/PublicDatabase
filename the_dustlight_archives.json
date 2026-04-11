@@ -5,6 +5,23 @@
   "appleId": 1856012961,
   "episodes": [
     {
+      "id": "512e314c-ab60-4dcf-a019-d1e27bd34a60",
+      "title": "NXIVM: Episode 5: The Bronfmans, Frank Parlato, and Money Laundering Part 2",
+      "description": "In which we discuss the Bronfman relationship with the Salinas family that goes back a lot longer than either would care to admit, the Bronfman relationship with Frank Parlato which goes back longer than either would care to admit, and the Bronfman relationship with Keith Raniere\u0027s legal team which *checks notes* goes back further than either of them would care to admit Music by DiffuseTensor",
+      "release": "2026-04-07T17:00:00Z",
+      "duration": "00:38:50.6850000",
+      "explicit": true,
+      "spotifyId": "1aMhhugZazscLSHeKITvDR",
+      "appleId": 1000760088206,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1aMhhugZazscLSHeKITvDR",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-5-the-bronfmans-frank-parlato-and/id1856012961?i=1000760088206"
+      }
+    },
+    {
       "id": "552d3928-295a-4b54-bdfb-202d8968d522",
       "title": "NXIVM: Episode 4: The Bronfmans, Frank Parlato, and Money Laundering Part 1",
       "description": "In which we discuss the history of the Bronfman family, the mysterious background of Sara and Clare\u0027s mother, and exactly how they were laundering money through NXIVM",
@@ -19,6 +36,58 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/7x91OBgGY0WlZ6QRPkM5tR",
         "apple": "https://podcasts.apple.com/podcast/nxivm-episode-4-the-bronfmans-frank-parlato-and/id1856012961?i=1000758463977"
+      }
+    },
+    {
+      "id": "9dd66921-a9ea-4c00-9bca-775e924bc49a",
+      "title": "NXIVM: Episode 3: The Cafritz Family, DC Real Estate, And Charles Manson",
+      "description": "In which we begin our look at the first of several powerful and strange families in the NXIVM cult, as well as a direct connection to Charles Manson",
+      "release": "2026-03-24T17:00:00Z",
+      "duration": "00:34:01",
+      "explicit": false,
+      "spotifyId": "4bWC3T7494HyzHz5sKGY3C",
+      "appleId": 1000757100204,
+      "subjects": [
+        "Manson Family",
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4bWC3T7494HyzHz5sKGY3C",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-3-the-cafritz-family-dc-real-estate/id1856012961?i=1000757100204"
+      }
+    },
+    {
+      "id": "1ee030de-340c-4ca9-a0de-eeb1111818c2",
+      "title": "NXIVM: Episode 2: Nancy Salzman, Lauren Salzman, and NeuroLinguistic Programming",
+      "description": "In which we familiarize ourselves with the history of NLP before jumping in to the exceedingly odd relationship of Nancy and Lauren Salzman",
+      "release": "2026-03-17T15:00:00Z",
+      "duration": "00:47:43",
+      "explicit": false,
+      "spotifyId": "0njBkUOJYWdKZ7eDxP9oPO",
+      "appleId": 1000755784585,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0njBkUOJYWdKZ7eDxP9oPO",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-2-nancy-salzman-lauren-salzman-and/id1856012961?i=1000755784585"
+      }
+    },
+    {
+      "id": "c7175341-6767-4088-ad16-00fd9322d446",
+      "title": "NXIVM: Prologue: Mexico, The Salinas Family, and NAFTA",
+      "description": "In which we tell some stories of stolen elections, gangsterism, child murders, and political assassinations from recent Mexican history in order to have proper context for the rest of the series",
+      "release": "2026-02-24T17:00:00Z",
+      "duration": "01:02:35",
+      "explicit": false,
+      "spotifyId": "3SQlxxc6ZdysvE1ISCNXzI",
+      "appleId": 1000751219988,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3SQlxxc6ZdysvE1ISCNXzI",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-prologue-mexico-the-salinas-family-and-nafta/id1856012961?i=1000751219988"
       }
     }
   ]

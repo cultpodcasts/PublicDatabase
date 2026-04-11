@@ -1,0 +1,51 @@
+{
+  "id": "f946f267-1692-4a7b-80ea-f9ff76352240",
+  "name": "Follow the Leighder",
+  "spotifyId": "2h2Xpnj4jaVyFOxHVyrhat",
+  "appleId": 1862693816,
+  "youTubeChannelId": "UC_EhOliHP2p0nxC8KtnFYIA",
+  "episodes": [
+    {
+      "id": "ed97d8a1-7489-4ef5-811b-61ed07d3015b",
+      "title": "Chattin\u0027 with Dr. Steven Hassan, Cult Expert",
+      "description": "Dr. Steven Hassan, a cult expert, shares his insights on authoritarian mind control, his experience with cults, and the cult of Trump. We talk about his best-selling book, Cult of Trump, and his resource center, Freedom of the Mind. Follow him on socials at @cultexpert.",
+      "release": "2026-04-09T17:00:00Z",
+      "duration": "00:54:02.7620000",
+      "explicit": false,
+      "spotifyId": "3zR74y2IOonckH4cIQIY2R",
+      "appleId": 1000760498189,
+      "youTubeId": "4R5suNY0KRM",
+      "subjects": [
+        "Cult-Expert",
+        "Political Cult",
+        "Qanon",
+        "Cult Psychology",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3zR74y2IOonckH4cIQIY2R",
+        "apple": "https://podcasts.apple.com/podcast/chattin-with-dr-steven-hassan-cult-expert/id1862693816?i=1000760498189",
+        "youtube": "https://www.youtube.com/watch?v=4R5suNY0KRM"
+      }
+    },
+    {
+      "id": "47a493ed-3fff-42e1-83a7-560788c1fbcc",
+      "title": "Chattin\u0027 with Daniella Young, Knitting Cult Lady",
+      "description": "I chat with Daniella Mestyanek Young, Knitting Cult Lady, about the rise of authoritarian leadership, the long game of cult movements, and the need for a reckoning of religion and cultural practices. She studied organizational psychology at Harvard after serving as an intelligence officer in the US Army.\n\nFollow her on socials: @knittingcultlady",
+      "release": "2026-04-07T17:00:00Z",
+      "duration": "01:04:09.1420000",
+      "explicit": false,
+      "spotifyId": "0cIc1WtA0GboMH7pTIGd5Y",
+      "appleId": 1000760088572,
+      "youTubeId": "DtR-Cu4Bpvc",
+      "subjects": [
+        "Children Of God"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0cIc1WtA0GboMH7pTIGd5Y",
+        "apple": "https://podcasts.apple.com/podcast/chattin-with-daniella-young-knitting-cult-lady/id1862693816?i=1000760088572",
+        "youtube": "https://www.youtube.com/watch?v=DtR-Cu4Bpvc"
+      }
+    }
+  ]
+}

@@ -11,8 +11,15 @@
       "release": "2026-04-05T12:00:00Z",
       "duration": "02:05:35",
       "explicit": false,
+      "spotifyId": "5mmkIBnh8wGfZKkpXD8M7A",
       "appleId": 1000759376444,
+      "subjects": [
+        "Christadelphians",
+        "Jehovah\u0027s Witnesses",
+        "Cult Recovery"
+      ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5mmkIBnh8wGfZKkpXD8M7A",
         "apple": "https://podcasts.apple.com/podcast/s4-ep-44-fellowship-with-craig/id1775771759?i=1000759376444"
       }
     },

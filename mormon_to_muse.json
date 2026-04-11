@@ -13,8 +13,10 @@
       "release": "2026-04-05T11:00:00Z",
       "duration": "00:21:30",
       "explicit": false,
+      "spotifyId": "41JS6412cBLnfiVx3n1Q5x",
       "appleId": 1000759371113,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/41JS6412cBLnfiVx3n1Q5x",
         "apple": "https://podcasts.apple.com/podcast/after-mormonism-how-to-rebuild-your-identity-when-you/id1817729811?i=1000759371113"
       }
     },

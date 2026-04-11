@@ -1,0 +1,25 @@
+{
+  "id": "a5220a2a-4f12-4a14-b101-2de35e65aed4",
+  "name": "FOX Nation Investigates Podcast",
+  "spotifyId": "6MJd7S4i7IpLWpLomSOBWZ",
+  "appleId": 1788082019,
+  "episodes": [
+    {
+      "id": "5b38d787-b15b-42d5-80b1-67aaee1a9519",
+      "title": "David Berkowitz: Son of Sam",
+      "description": "David Berkowitz, known as the Son of Sam, terrorized NY in the 1970s. He brought the city to its knees, killing seven and wounding six, all as rumors of ties to a satanic cult emerged. John Douglas sat down with Berkowitz to separate fact from fiction.\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2026-04-07T16:00:00Z",
+      "duration": "00:31:38",
+      "explicit": false,
+      "spotifyId": "1a8ab0nxuIHBGqOcokkRxC",
+      "appleId": 1000760077405,
+      "subjects": [
+        "David Berkowitz"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1a8ab0nxuIHBGqOcokkRxC",
+        "apple": "https://podcasts.apple.com/podcast/david-berkowitz-son-of-sam/id1788082019?i=1000760077405"
+      }
+    }
+  ]
+}

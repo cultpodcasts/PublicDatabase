@@ -1,0 +1,32 @@
+{
+  "id": "dec9fdc7-98d3-4140-9a0e-72036028436d",
+  "name": "Lunch on The Way",
+  "spotifyId": "3k0zI4F5PihJ1kyMbUGDzb",
+  "appleId": 1650659247,
+  "youTubeChannelId": "UCRFDms3WfdIhC54XG04Z0LA",
+  "episodes": [
+    {
+      "id": "933c2e7a-890c-48e5-9670-bef0b49f088c",
+      "title": "EXPOSING Shincheonji and the Rise of Cults in New Zealand with Lindy",
+      "description": "In this conversation, Graeme and Joey speak with Lindy from the Olive Leaf Network about the rise of Shincheonji and World Mission Society Church of God in New Zealand.\u00A0\n\n00:00 Introduction\n02:44 Shincheonji cult targets churches\n05:09 Lindy\u0027s Story of Leaving PBCC\n14:32 Defining \u0022cult\u0022 and \u0022high demand religious group\u0022\n26:49 Shincheonji\u0027s deceitful recruitment strategy\n41:44 What motivates Shincheonji members to deceive?\n44:04 Joey\u0027s encounter with WMSCG member\n48:32 WMSCG have been growing\n60:00 More about Olive Leaf Network\nPodcast hosts are Greame Flett, Jonathan Hoskin, and Joey Millington.\n\nThe opinions expressed in this podcast are solely those of the individuals expressing and do not reflect the opinions and beliefs of any affiliated organisations or ministries.",
+      "release": "2026-04-06T21:00:00Z",
+      "duration": "01:12:12",
+      "explicit": false,
+      "spotifyId": "6w2TUfiz2URGAr0AxVGlI6",
+      "appleId": 1000759915474,
+      "youTubeId": "P0mTE8UKGbw",
+      "subjects": [
+        "Shincheonji Church of Jesus",
+        "Plymouth Brethren Christian Church",
+        "World Mission Society Church of God",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6w2TUfiz2URGAr0AxVGlI6",
+        "apple": "https://podcasts.apple.com/podcast/exposing-shincheonji-and-the-rise-of-cults-in/id1650659247?i=1000759915474",
+        "youtube": "https://www.youtube.com/watch?v=P0mTE8UKGbw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "572fa085-149a-45cb-aba8-d205fec35982",
+  "name": "The White House",
+  "youTubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
+  "episodes": [
+    {
+      "id": "8f364f7d-ec4a-4bf3-bb7b-4d9cd501c4b6",
+      "title": "A Statement by First Lady Melania Trump",
+      "description": "The White House",
+      "release": "2026-04-09T18:40:08Z",
+      "duration": "00:06:04",
+      "explicit": false,
+      "youTubeId": "vyn-_Tsl5A0",
+      "subjects": [
+        "_America",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=vyn-_Tsl5A0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c38ae8c9-6816-46ab-929b-13572dcc4725",
+  "name": "Surviving x Zo Pod",
+  "spotifyId": "06uo9pz2mJMKGtSNQGM8Oz",
+  "appleId": 1824186061,
+  "youTubeChannelId": "UCwypVwafxWsfXlV8wmsQgQQ",
+  "episodes": [
+    {
+      "id": "e3a9ea29-c267-4a94-b3c9-460e32746ea1",
+      "title": "Growing up in a Fundamentalist Christian Cult, Beatings \u0026 Quiverfull Teachings Ft Jo Beth",
+      "description": "New York creative \u0026 Jo Beth shares her journey of growing up in a fundamentalist Christian environment untangling control, trauma \u0026  perfectionism. Living with ADHD \u0026 a dysregulated nervous system, she speaks openly about rebuilding a life \u0026 career while still healing. This episode is about creative reclamation, authenticity \u0026  rising while putting the pieces back together.",
+      "release": "2026-04-09T13:06:48Z",
+      "duration": "00:54:48",
+      "explicit": false,
+      "spotifyId": "3rwwlOW5vDcrs4bztixwIJ",
+      "appleId": 1000760463499,
+      "youTubeId": "3XKJOh4RGlE",
+      "subjects": [
+        "Christian Fundamentalist",
+        "Quiverfull"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rwwlOW5vDcrs4bztixwIJ",
+        "apple": "https://podcasts.apple.com/podcast/growing-up-in-a-fundamentalist-christian-cult/id1824186061?i=1000760463499",
+        "youtube": "https://www.youtube.com/watch?v=3XKJOh4RGlE"
+      }
+    }
+  ]
+}

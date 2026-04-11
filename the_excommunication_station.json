@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a04c9f5c-1fd0-4cee-be41-c57e41b70bcd",
+      "title": "252. Shepherding Movement Part III",
+      "description": "We finish up the shepherding movement",
+      "release": "2026-04-08T03:10:05Z",
+      "duration": "02:39:43.3600000",
+      "explicit": true,
+      "spotifyId": "2ouEgyM6CuKGaL6jGwKI7D",
+      "appleId": 1000760168926,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2ouEgyM6CuKGaL6jGwKI7D",
+        "apple": "https://podcasts.apple.com/podcast/252-shepherding-movement-part-iii/id1573190999?i=1000760168926"
+      }
+    },
+    {
       "id": "d41b87b9-c923-472d-99e8-e3be66825c4f",
       "title": "251. The Shepherding Movement Part II",
       "description": "We are back with our part 2 of 3 episodes on The Shepherding Movement.",
@@ -1588,7 +1602,7 @@
       "id": "66a48ddc-96fd-4660-b467-163328769afe",
       "title": "151: Kansas City Prophets Part II W/ Jay from Your Music Saved Us",
       "description": "This week we finish up the tale of the Kansas City Prophets and the madness that led to the Toronto Blessing. We are also joined by Jay from Your Music Saved Us as he tells us his stories of being at IHOPKC.\n\nwww.excompod.com",
-      "release": "2024-04-24T09:49:35Z",
+      "release": "2024-04-17T05:40:48Z",
       "duration": "01:33:11",
       "explicit": false,
       "spotifyId": "1xANaeRx6biPAXKo6Low5J",
@@ -1615,23 +1629,6 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5oQgl2yV63u7y7rY2hB2oY",
-        "apple": "https://podcasts.apple.com/podcast/150-kansas-city-prophets-part-i-feat-jay-from-your/id1573190999?i=1000652702110"
-      }
-    },
-    {
-      "id": "4c226003-1188-4d50-9cff-ce613a4f6f96",
-      "title": "151: Kansas City Prophets Part II W/ Jay from Your Music Saved Us",
-      "description": "This week we finish up the tale of the Kansas City Prophets and the madness that led to the Toronto Blessing. We are also joined by Jay from Your Music Saved Us as he tells us his stories of being at IHOPKC. www.excompod.com",
-      "release": "2024-04-17T05:40:48Z",
-      "duration": "01:33:11.3390000",
-      "explicit": true,
-      "spotifyId": "1xANaeRx6biPAXKo6Low5J",
-      "appleId": 1000652702110,
-      "subjects": [
-        "International House of Prayer Kansas City"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/1xANaeRx6biPAXKo6Low5J",
         "apple": "https://podcasts.apple.com/podcast/150-kansas-city-prophets-part-i-feat-jay-from-your/id1573190999?i=1000652702110"
       }
     },

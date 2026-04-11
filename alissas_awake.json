@@ -12,11 +12,15 @@
       "release": "2026-04-05T10:01:20Z",
       "duration": "01:25:26",
       "explicit": false,
+      "spotifyId": "5wNbX5yWpXXkc0WNOwKV8y",
+      "appleId": 1000760293124,
       "youTubeId": "wuSzsJPEWBE",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5wNbX5yWpXXkc0WNOwKV8y",
+        "apple": "https://podcasts.apple.com/podcast/from-cult-to-cam-girl-i-didnt-realize-i-needed-healing/id1883410040?i=1000760293124",
         "youtube": "https://www.youtube.com/watch?v=wuSzsJPEWBE"
       }
     },
@@ -51,23 +55,6 @@
         "spotify": "https://open.spotify.com/episode/1GjAFijaLDsT84ZtOSZITL",
         "apple": "https://podcasts.apple.com/podcast/i-have-suffered-lifelong-consequences-after-a-short/id1883410040?i=1000758105068",
         "youtube": "https://www.youtube.com/watch?v=jobEaNX23UM"
-      }
-    },
-    {
-      "id": "cf0f315a-c1d2-412e-88ca-f32ff9eec427",
-      "title": "\u0022I Was Indoctrinated Behind My Parents Back\u0022 | Carolina\u0027s Story",
-      "description": "Today I had the privilege of sitting down with Carolina as she shares her story of how she was indoctrinated from a baby without her own parents ever being Jehovah\u0027s Witnesses. Though she was never baptized she discusses the manipulation, control, and indoctrination she experienced from a young age, the long-term effects on her mental health, and the importance of setting boundaries. She wanted to share her story to warn parents about the dangers of allowing your children around Jehovah\u0027s Witnesses, even when you believe you have clear boundaries in place.",
-      "release": "2026-03-23T20:25:19Z",
-      "duration": "01:11:48",
-      "explicit": false,
-      "spotifyId": "1RCDVFoIdIsoJldsqQqQH1",
-      "appleId": 1000756849171,
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ],
-      "urls": {
-        "spotify": "https://open.spotify.com/episode/1RCDVFoIdIsoJldsqQqQH1",
-        "apple": "https://podcasts.apple.com/podcast/i-was-indoctrinated-behind-my-parents-back-carolinas-story/id1883410040?i=1000756849171"
       }
     },
     {

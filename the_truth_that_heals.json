@@ -6,6 +6,46 @@
   "youTubeChannelId": "UCDspcPEdITAadgtJGBMvzZA",
   "episodes": [
     {
+      "id": "792b6a21-268c-41e4-89d7-f8605f485be7",
+      "title": "Christian Nationalism and MLMs antimlm kid",
+      "description": "anti MLM kid",
+      "release": "2026-04-10T12:00:00Z",
+      "duration": "01:13:53",
+      "explicit": false,
+      "spotifyId": "2Ohiraho5EZgkWkCbEUb4c",
+      "appleId": 1000760663731,
+      "youTubeId": "5HOI7TFyFRI",
+      "subjects": [
+        "Multi-Level Marketing",
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Ohiraho5EZgkWkCbEUb4c",
+        "apple": "https://podcasts.apple.com/podcast/ep-139-antimlm-kid/id1559758565?i=1000760663731",
+        "youtube": "https://www.youtube.com/watch?v=5HOI7TFyFRI"
+      }
+    },
+    {
+      "id": "4a2db6d7-5bf4-4461-8edc-e47cd54b7f08",
+      "title": "eva brown leaving the kingdom hall",
+      "description": "Eva Brown",
+      "release": "2026-04-08T12:00:00Z",
+      "duration": "01:26:52",
+      "explicit": false,
+      "spotifyId": "4XeY5VYk8vCtMjXLW28f1g",
+      "appleId": 1000760248319,
+      "youTubeId": "cUyitPqRNbw",
+      "subjects": [
+        "Cult Recovery",
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4XeY5VYk8vCtMjXLW28f1g",
+        "apple": "https://podcasts.apple.com/podcast/ep-138-eva-brown-leaving-the-kingdom-hall/id1559758565?i=1000760248319",
+        "youtube": "https://www.youtube.com/watch?v=cUyitPqRNbw"
+      }
+    },
+    {
       "id": "04b25d73-f390-41fe-9889-2ac68f912128",
       "title": "Lydia Knight Interview",
       "release": "2026-03-27T12:00:00Z",
