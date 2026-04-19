@@ -1,0 +1,28 @@
+{
+  "id": "27faaf98-f86a-467a-b3ab-adf9c722c85e",
+  "name": "Wheel of Crime",
+  "spotifyId": "3gMr0rXSiJvsPhAsdHbvqA",
+  "appleId": 1440252912,
+  "youTubeChannelId": "UC2UgCElQDDKvrqbUmpvkCcA",
+  "episodes": [
+    {
+      "id": "693e2458-62a2-460d-ad68-93edbee69cb0",
+      "title": "Horror From Down Under: The Family Cult",
+      "description": "Send us Fan Mail (https://www.buzzsprout.com/221526/fan_mail/new) \n\n\nToday on Wheel of Crime, Jenn and Em dive into The Family Cult, a disturbing Australian New Age group led by Anne Hamilton-Byrne. Claiming to be the reincarnation of Jesus, she built a secretive and controlling community that hid shocking abuse behind a spiritual facade.\u00A0\n\n\nSupport the show (https://www.patreon.com/Wheelofcrime)",
+      "release": "2026-04-17T23:38:42Z",
+      "duration": "00:50:40",
+      "explicit": false,
+      "spotifyId": "1Dxrey9U24TKAbVOr7N5Ew",
+      "appleId": 1000761947830,
+      "youTubeId": "QmpWKfTkbwg",
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Dxrey9U24TKAbVOr7N5Ew",
+        "apple": "https://podcasts.apple.com/podcast/horror-from-down-under-the-family-cult/id1440252912?i=1000761947830",
+        "youtube": "https://www.youtube.com/watch?v=QmpWKfTkbwg"
+      }
+    }
+  ]
+}

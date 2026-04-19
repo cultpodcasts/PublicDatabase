@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a7660793-0cd8-491f-b095-c5e9f8345bcc",
+      "title": "253. Lonnie Frisbee Part I",
+      "description": "We start our deep dive into the face of The Jesus People, Lonnie Frisbee.",
+      "release": "2026-04-15T00:49:44Z",
+      "duration": "01:45:21.8420000",
+      "explicit": true,
+      "spotifyId": "72EnUrHrQaUxtjiUDqq3gP",
+      "appleId": 1000761422774,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/72EnUrHrQaUxtjiUDqq3gP",
+        "apple": "https://podcasts.apple.com/podcast/253-lonnie-frisbee-part-i/id1573190999?i=1000761422774"
+      }
+    },
+    {
       "id": "a04c9f5c-1fd0-4cee-be41-c57e41b70bcd",
       "title": "252. Shepherding Movement Part III",
       "description": "We finish up the shepherding movement",

@@ -4,6 +4,36 @@
   "youTubeChannelId": "UCQKFF3F2P0enb5RUybSvQAQ",
   "episodes": [
     {
+      "id": "c3606e18-7af2-4ca1-ac38-7e2993f81361",
+      "title": "My Uncle is the Leader of Scientology",
+      "description": "#thetestaments #thehandmaidstale #margaretatwood #juneosborne #auntlydia #elizabethmoss",
+      "release": "2026-04-16T17:51:14Z",
+      "duration": "00:00:34",
+      "explicit": false,
+      "youTubeId": "VkoKiLpeX7s",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VkoKiLpeX7s"
+      }
+    },
+    {
+      "id": "5fead037-b8b7-43a5-87b1-4f62d940619d",
+      "title": "My Uncle is the Leader of Scientology",
+      "description": "#thetestaments #thehandmaidstale #margaretatwood #juneosborne #auntlydia #elizabethmoss",
+      "release": "2026-04-13T19:25:51Z",
+      "duration": "00:00:31",
+      "explicit": false,
+      "youTubeId": "0zSp2xQKAf8",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0zSp2xQKAf8"
+      }
+    },
+    {
       "id": "01bdde91-8290-4a30-8052-b5619be639d5",
       "title": "My Uncle is the Leader of Scientology",
       "description": "Thank you",

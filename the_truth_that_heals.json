@@ -6,6 +6,21 @@
   "youTubeChannelId": "UCDspcPEdITAadgtJGBMvzZA",
   "episodes": [
     {
+      "id": "0334ef97-81b5-4811-8617-b929267930af",
+      "title": "Peter Young Update",
+      "description": "Peter Young",
+      "release": "2026-04-13T12:00:00Z",
+      "duration": "00:43:09",
+      "explicit": false,
+      "youTubeId": "5RI2CRXIXqw",
+      "subjects": [
+        "Family Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5RI2CRXIXqw"
+      }
+    },
+    {
       "id": "792b6a21-268c-41e4-89d7-f8605f485be7",
       "title": "Christian Nationalism and MLMs antimlm kid",
       "description": "anti MLM kid",

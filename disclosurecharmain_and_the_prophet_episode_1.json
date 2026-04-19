@@ -1,0 +1,39 @@
+{
+  "id": "e6e2b898-1134-42e7-be89-4f5cd0672fe6",
+  "name": "Disclosure - Charmain and the Prophet",
+  "episodes": [
+    {
+      "id": "ca8b4949-e493-4e79-bf2c-83d89ec69269",
+      "title": "Episode 1",
+      "description": "A single mum from Scotland\u0027s east coast embarks on a whirlwind romance with a Ghanaian preacher. They quickly marry, and she takes his side as the first lady of his church. But lives are torn apart when tragedy strikes.\n\nReporter Myles Bonnar meets friends and family to try to find out what happened to Charmain.",
+      "release": "2026-04-13T20:00:00",
+      "duration": "00:29:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002v46b/disclosure-charmain-and-the-prophet-episode-1"
+      }
+    },
+    {
+      "id": "19681be1-18a3-4bf1-b9e3-d127df844a89",
+      "title": "Episode 2",
+      "description": "Reporter Myles Bonnar travels to Ghana to look into Charmain\u0027s death. There, he interrogates the police investigation that was carried out at the time and meets those who were at the scene, as he searches for the truth about what happened in room 112.",
+      "release": "2026-04-13T00:00:00",
+      "duration": "00:29:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002v7zd/disclosure-charmain-and-the-prophet-episode-2"
+      }
+    },
+    {
+      "id": "7c9faa3b-aec5-49b8-9e0d-d626158d3ed1",
+      "title": "Episode 3",
+      "description": "More than a decade on from her death, reporter Myles Bonnar runs the case by a veteran detective and investigates Eric Adusah\u0027s past, uncovering hidden truths. With so many questions about what happened to Charmain, he tracks the Prophet down in search of answers.",
+      "release": "2026-04-13T00:00:00",
+      "duration": "00:29:00",
+      "explicit": false,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002v7zp/disclosure-charmain-and-the-prophet-episode-3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "8445dc9e-02df-4ae4-819f-74494a6306d5",
+  "name": "The Dog Walk",
+  "spotifyId": "2IxT3BBofLxwxWzOygLeEK",
+  "appleId": 1448532887,
+  "youTubeChannelId": "UCC0N8SvRTdBobYO--JJeNjw",
+  "episodes": [
+    {
+      "id": "007cd6ba-4dea-4e7f-9885-10ee2faa721b",
+      "title": "Congressman Ro Khanna On The Release Of The Remaining Epstein Files",
+      "description": "On today\u0027s show we are joined by sitting congressmen Ro Khanna to talk about his extensive work in the case of releasing the remaining Epstein files and holding those guilty accountable. You can find every episode of this show on Apple Podcasts, Spotify or YouTube. Prime Members can listen ad-free on Amazon Music. For more, visit barstool.link/thedogwalk",
+      "release": "2026-04-16T10:00:00Z",
+      "duration": "00:47:14.7290000",
+      "explicit": true,
+      "spotifyId": "4XPvOcuyEYToCdxcrq9egr",
+      "appleId": 1000761790655,
+      "youTubeId": "QWtasSk-KRA",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4XPvOcuyEYToCdxcrq9egr",
+        "apple": "https://podcasts.apple.com/podcast/thursday-4-16-2026-congressman-ro-khanna-on-the/id1448532887?i=1000761790655",
+        "youtube": "https://www.youtube.com/watch?v=QWtasSk-KRA"
+      }
+    }
+  ]
+}

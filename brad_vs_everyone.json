@@ -1,0 +1,25 @@
+{
+  "id": "7ca09d55-6ca1-4c65-9efd-0f9c861df5a8",
+  "name": "Brad vs Everyone",
+  "spotifyId": "2ycYkC1OneXeNlbnTX8jDz",
+  "appleId": 1751785203,
+  "episodes": [
+    {
+      "id": "1d3ffee7-9848-4dcb-9f05-427135e9ff0b",
+      "title": "BONUS: I joined Dr. Drew to break down the Supreme Court\u0027s \u0022conversion therapy\u0022 case!",
+      "description": "I joined Dr. Drew to discuss the Supreme Court\u0027s controversial ruling in the \u0022conversion therapy\u0022 case. Support My Show: https://linktr.ee/bradpolumbo See omnystudio.com/listener for privacy information.",
+      "release": "2026-04-11T21:00:00Z",
+      "duration": "00:16:25.4950000",
+      "explicit": false,
+      "spotifyId": "5UhdrjtJdqeXz8uUkicE3T",
+      "appleId": 1000760856108,
+      "subjects": [
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5UhdrjtJdqeXz8uUkicE3T",
+        "apple": "https://podcasts.apple.com/podcast/bonus-i-joined-dr-drew-to-break-down-the-supreme/id1751785203?i=1000760856108"
+      }
+    }
+  ]
+}

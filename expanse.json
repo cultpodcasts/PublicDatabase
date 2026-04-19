@@ -7,17 +7,39 @@
   "youTubePlaylistId": "PLDTPrMoGHssBabkHzoDvVb4FLQEAlkW_-",
   "episodes": [
     {
+      "id": "8121948d-a4c2-4e54-bd4b-1ccda96a33a9",
+      "title": "BONUS | Who was Tony Popic?",
+      "description": "Since the podcast started rolling out, a lot of people have got in touch with information. Two people have been able to shed light on some previously unknown parts of the story.",
+      "release": "2026-04-13T16:00:00Z",
+      "duration": "00:24:12",
+      "explicit": false,
+      "spotifyId": "0xnuKhjgRMW8JBpsebWoDD",
+      "appleId": 1000761127415,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0xnuKhjgRMW8JBpsebWoDD",
+        "apple": "https://podcasts.apple.com/podcast/bonus-who-was-tony-popic/id1635088231?i=1000761127415"
+      }
+    },
+    {
       "id": "06000a4a-965f-43e8-bfe3-9a9d7c38e906",
       "title": "06 Expanse: The Nannup Four | Northcliffe",
-      "description": "A family friend and former policeman continues to search for answers for Jim and Cath McDougall decades after the Nannup four vanished. The family and friends of Chantelle McDougall try to find their own answers, as one last glimmer of hope emerges.",
+      "description": "A family friend and former policeman continues to search for answers for Jim and Cath McDougall decades after the Nannup four vanished. The family and friends of Chantelle McDougall try to find their own answers, as one last glimmer of hope emerges.\n\nThis is the final episode of a bizarre Australian disappearance: What happened to cult leader Gary Felton, Antonio Popic, Chantelle \u0026 Leela McDougall?\n\nSubscribe: https://ab.co/3yqPOZ5   Read more here:\n\nWelcome to ABC News In-depth, where you\u0027ll find our long-form journalism and other videos to help you understand what\u0027s going on in the world around you.\n\nWatch more ABC News content ad-free on ABC iview: https://ab.co/2OB7Mk1\n\nFor more from ABC News, click here: https://ab.co/2kxYCZY\n\nGet breaking news and livestreams from our ABC News channel: https://www.youtube.com/user/NewsOnABC\nLike ABC News on Facebook: http://facebook.com/abcnews.au\nFollow ABC News on Instagram: http://instagram.com/abcnews_au\nFollow ABC News on Twitter: http://twitter.com/abcnews\n\nNote: In most cases, our captions are auto-generated.\n\n#ABCNewsIndepth #ABCNewsAustralia",
       "release": "2026-04-06T16:00:00Z",
       "duration": "00:35:26",
       "explicit": false,
       "spotifyId": "6jZeEkb2cunuMli4uUQLbH",
       "appleId": 1000759857483,
+      "youTubeId": "5QpJGBrpMa8",
+      "subjects": [
+        "The Truth Fellowship"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6jZeEkb2cunuMli4uUQLbH",
-        "apple": "https://podcasts.apple.com/podcast/06-expanse-the-nannup-four-northcliffe/id1635088231?i=1000759857483"
+        "apple": "https://podcasts.apple.com/podcast/06-expanse-the-nannup-four-northcliffe/id1635088231?i=1000759857483",
+        "youtube": "https://www.youtube.com/watch?v=5QpJGBrpMa8"
       }
     },
     {

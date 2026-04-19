@@ -1,0 +1,28 @@
+{
+  "id": "7e540f3e-c656-46e7-8ae9-bc7698ad852d",
+  "name": "Dude! That\u2019s Crazy!",
+  "spotifyId": "1sQ6rqS1i42iZYgyIkaWAM",
+  "appleId": 1837061361,
+  "youTubeChannelId": "UCv00DW9vM2drlizybAXlfwA",
+  "episodes": [
+    {
+      "id": "56f7d7f5-3199-44ef-8a45-86ccbfead656",
+      "title": "28 - Fort Stockton Had A Cult Leader?!",
+      "description": "Hey Everybody!! I bet you didn\u0027t know that Fort Stockton was the birthplace of a prolific cult leader! We\u0027ll tell you about it. We also ramble about other subjects such as school, medicine, and delicious apple cobbler! Also, we don\u0027t hate teachers!",
+      "release": "2026-04-13T11:00:00Z",
+      "duration": "00:51:53.2070000",
+      "explicit": false,
+      "spotifyId": "3zk5vAkxqlaGMIbTwyLgbK",
+      "appleId": 1000761084221,
+      "youTubeId": "WUT4jIeA-nU",
+      "subjects": [
+        "Conscious Development of Body, Mind and Soul"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3zk5vAkxqlaGMIbTwyLgbK",
+        "apple": "https://podcasts.apple.com/podcast/28-fort-stockton-had-a-cult-leader/id1837061361?i=1000761084221",
+        "youtube": "https://www.youtube.com/watch?v=WUT4jIeA-nU"
+      }
+    }
+  ]
+}

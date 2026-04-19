@@ -1,0 +1,22 @@
+{
+  "id": "4c208cdf-7c0a-417c-a5b2-223a006cd42f",
+  "name": "Rays Movie Reviews",
+  "youTubeChannelId": "UCDAI6JzhBtmLKwu5aUKLLsA",
+  "episodes": [
+    {
+      "id": "99e97024-bb70-446b-a107-176d3ba7aa50",
+      "title": "The Architecture of a Cult / Dissecting Paul Thomas Anderson\u2019s  - The Master (2012)",
+      "description": "If you enjoyed this deep dive, please like and subscribe for more thoughtful explorations of films and TV shows. Drop a comment below and let me know what movies you want to see next!",
+      "release": "2026-04-12T22:23:39Z",
+      "duration": "00:05:20",
+      "explicit": false,
+      "youTubeId": "VzFFGZovG8o",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VzFFGZovG8o"
+      }
+    }
+  ]
+}

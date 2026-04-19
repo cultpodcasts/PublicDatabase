@@ -1,0 +1,110 @@
+{
+  "id": "08cc92e8-fada-44fd-af40-81bace16844f",
+  "name": "Cult Classics",
+  "spotifyId": "2Z1W6uCzSzxRFChButFKet",
+  "appleId": 1888851344,
+  "episodes": [
+    {
+      "id": "5d3e8790-2aad-4321-8166-c39a45dbdcfa",
+      "title": "Heaven\u0027s Gate: The UFO Cult That Castrated Itself Into the Stars",
+      "description": "In 1997, 39 members of Heaven\u0027s Gate were found dead in matching Nikes, awaiting a spaceship behind the Hale-Bopp comet. How did Marshall Applewhite convince educated adults to castrate themselves and die for an alien rapture?",
+      "release": "2026-04-15T22:54:07Z",
+      "duration": "00:20:31",
+      "explicit": false,
+      "spotifyId": "48Nuwk1uqH0ILEitZdPOGx",
+      "appleId": 1000761672582,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/48Nuwk1uqH0ILEitZdPOGx",
+        "apple": "https://podcasts.apple.com/podcast/heavens-gate-the-ufo-cult-that-castrated-itself-into/id1888851344?i=1000761672582"
+      }
+    },
+    {
+      "id": "6936641d-67c7-4b7d-8b40-89e722e0b1ec",
+      "title": "What Really Went Dwon in Waco",
+      "description": "what went down in waco, talk about how bad it was but maybe also talk about how government maybe overreacted with violence",
+      "release": "2026-04-12T20:47:09Z",
+      "duration": "00:21:22",
+      "explicit": false,
+      "spotifyId": "7yFkVI1qvM1fs6VUFvszwL",
+      "appleId": 1000760978923,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7yFkVI1qvM1fs6VUFvszwL",
+        "apple": "https://podcasts.apple.com/podcast/what-really-went-dwon-in-waco/id1888851344?i=1000760978923"
+      }
+    },
+    {
+      "id": "30c0ed49-f1ac-4d4f-b438-7c316da75881",
+      "title": "The Polygamist Prophet: Warren Jeffs the FLDS",
+      "description": "Deep dive into the FLDS under Warren Jeffs\u2014polygamous child marriages, armed compounds, and how one man convinced thousands he spoke directly to God before the FBI brought him down.",
+      "release": "2026-04-11T23:00:30Z",
+      "duration": "00:22:56.5310000",
+      "explicit": false,
+      "spotifyId": "6JJIHSOOiD9ANyXKPftkoT",
+      "appleId": 1000760866276,
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6JJIHSOOiD9ANyXKPftkoT",
+        "apple": "https://podcasts.apple.com/podcast/the-polygamist-prophet-warren-jeffs-the-flds/id1888851344?i=1000760866276"
+      }
+    },
+    {
+      "id": "25408405-f7e6-4f0b-9196-ee118eb7de99",
+      "title": "The Manson Girls: Why They Killed for Charlie",
+      "description": "The Manson Girls: Why They Killed for Charlie",
+      "release": "2026-04-11T21:04:10Z",
+      "duration": "00:21:06.6750000",
+      "explicit": false,
+      "spotifyId": "3d861ng1pXIcdjmbhd9DAG",
+      "appleId": 1000760856309,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3d861ng1pXIcdjmbhd9DAG",
+        "apple": "https://podcasts.apple.com/podcast/the-manson-girls-why-they-killed-for-charlie/id1888851344?i=1000760856309"
+      }
+    },
+    {
+      "id": "c5371098-9677-4287-8a8c-5b856ce879e1",
+      "title": "Drink the Kool-Aid: How Jim Jones Turned Paradise Into a Mass Grave",
+      "description": "Over 900 people died in a Guyanese jungle on Jim Jones\u0027s command. How did a charismatic Indiana preacher weaponize racial justice, socialism, and God into the deadliest mass suicide in American history?",
+      "release": "2026-04-08T22:51:35Z",
+      "duration": "00:21:42.0860000",
+      "explicit": false,
+      "spotifyId": "5pPhsC2YwxWTaD64Tcprrz",
+      "appleId": 1000760352693,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5pPhsC2YwxWTaD64Tcprrz",
+        "apple": "https://podcasts.apple.com/podcast/drink-the-kool-aid-how-jim-jones-turned-paradise-into/id1888851344?i=1000760352693"
+      }
+    },
+    {
+      "id": "d21a8c30-ba15-41ff-8111-a532f24d049e",
+      "title": "Jared Leto\u0027s Cult Island",
+      "description": "Deep dive into allegations surrounding Jared Leto\u0027s inner circle, dubbed a \u0027cult\u0027 by former members. Explores how celebrity worship enables control, with dramatic readings of survivor testimonies and insider accounts surfacing in recent years.",
+      "release": "2026-04-01T22:51:56Z",
+      "duration": "00:21:23.6110000",
+      "explicit": false,
+      "spotifyId": "0sCoMOZtJDG7HDfppFyEcL",
+      "appleId": 1000758738770,
+      "subjects": [
+        "Jared Leto"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0sCoMOZtJDG7HDfppFyEcL",
+        "apple": "https://podcasts.apple.com/podcast/jared-letos-cult-island/id1888851344?i=1000758738770"
+      }
+    }
+  ]
+}

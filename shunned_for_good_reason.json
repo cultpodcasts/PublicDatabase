@@ -4,6 +4,31 @@
   "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
   "episodes": [
     {
+      "id": "1a0d8dee-99d6-4f47-aa68-04a4d96a0cff",
+      "title": "Where are we now? QAnon",
+      "release": "2026-04-19T00:44:40Z",
+      "duration": "01:30:22",
+      "explicit": false,
+      "youTubeId": "2InH43OneVE",
+      "subjects": [
+        "Qanon"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=2InH43OneVE"
+      }
+    },
+    {
+      "id": "c6d803d2-a3f6-44ae-9c8c-0a9b7dfa1077",
+      "title": "How did we get here? Temperance and Prohibition ",
+      "release": "2026-04-19T00:42:27Z",
+      "duration": "01:28:52",
+      "explicit": false,
+      "youTubeId": "yWBx037NemA",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=yWBx037NemA"
+      }
+    },
+    {
       "id": "5b892184-c560-48f3-966a-5e65f11ccc47",
       "title": "Could the body stop keeping the score?",
       "release": "2026-04-04T22:56:38Z",

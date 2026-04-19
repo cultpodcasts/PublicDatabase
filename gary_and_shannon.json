@@ -1,0 +1,26 @@
+{
+  "id": "9799bdb7-ae04-4f4d-9013-155e8bad9aae",
+  "name": "Gary and Shannon",
+  "spotifyId": "50478GplSaeHTvTYqmJcaM",
+  "appleId": 1049059569,
+  "episodes": [
+    {
+      "id": "1a14e6ea-a40a-495f-a0dc-172014fe8230",
+      "title": "A Cult Story Unfolds",
+      "description": "#TrueCrimeTuesday dives into a disturbing cult story \u2192 a new \u201Cprophet\u201D rises after Warren Jeffs, leading to manipulation, abuse, and a federal case - it\u0027s available on Netflix now called Trust Me: The False Profit ",
+      "release": "2026-04-14T19:07:01Z",
+      "duration": "00:33:10.7790000",
+      "explicit": false,
+      "spotifyId": "5AdA3eidzJUDf2zWXzad7V",
+      "appleId": 1000761370545,
+      "subjects": [
+        "FLDS Church",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5AdA3eidzJUDf2zWXzad7V",
+        "apple": "https://podcasts.apple.com/podcast/swalwell-collapses-headlines-stack-a-cult-story-unfolds/id1049059569?i=1000761370545"
+      }
+    }
+  ]
+}
