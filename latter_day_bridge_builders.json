@@ -12,8 +12,10 @@
       "release": "2026-04-19T13:00:00Z",
       "duration": "00:25:07",
       "explicit": false,
+      "spotifyId": "1wU6mMrgGaNSILlvd09xLv",
       "appleId": 1000762244511,
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1wU6mMrgGaNSILlvd09xLv",
         "apple": "https://podcasts.apple.com/podcast/31-juliets-mission-experience/id1638628704?i=1000762244511"
       }
     },

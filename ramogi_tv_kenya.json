@@ -1,0 +1,22 @@
+{
+  "id": "7b1b9c63-9eaf-435f-9869-14c79e42b2ad",
+  "name": "Ramogi TV Kenya",
+  "youTubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ",
+  "episodes": [
+    {
+      "id": "aa2ca01e-1ea2-4127-9aef-31489ee0800f",
+      "title": "Apis jamin buche: Nonro ewi nek ma Shakahola oserumo",
+      "description": "#RamogiTV",
+      "release": "2026-04-24T10:30:04Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "youTubeId": "kPV6GCgBf9o",
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kPV6GCgBf9o"
+      }
+    }
+  ]
+}

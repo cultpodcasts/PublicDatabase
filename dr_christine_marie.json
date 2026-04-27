@@ -1,0 +1,52 @@
+{
+  "id": "0daf8254-2540-415d-8524-a9e07dfcf54b",
+  "name": "Dr. Christine Marie",
+  "youTubeChannelId": "UCGVcDqvVjOaR8S61EivUOkg",
+  "episodes": [
+    {
+      "id": "ee774687-0cd9-4cf7-aaf8-ec7615d50bd9",
+      "title": "Trafficking   New Legal Framework",
+      "release": "2018-02-27T18:04:48Z",
+      "duration": "00:00:55",
+      "explicit": false,
+      "youTubeId": "NEbrc-lzV_k",
+      "subjects": [
+        "Human Trafficking",
+        "Legislation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=NEbrc-lzV_k"
+      }
+    },
+    {
+      "id": "f596adcb-2dc6-4c54-a6fa-e18d1e2626c6",
+      "title": "Trafficking Talk 1",
+      "description": "Intro to trafficking talk given in Salt Lake City, Ut.",
+      "release": "2018-02-27T16:53:37Z",
+      "duration": "00:02:13",
+      "explicit": false,
+      "youTubeId": "RlhrwbuzAoA",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RlhrwbuzAoA"
+      }
+    },
+    {
+      "id": "4afe402e-3226-49be-b635-454f889523ad",
+      "title": "The First Christmas comes to FLDS Community",
+      "description": "Mrs. Gingerbread (the one with the puppet) brainstormed \u0026 organized a first-ever fun-filled Christmas event for children and parents in the FLDS communities of Hildale, Ut and Colorado City, AZ. Sponsors and others on the organizing committee include Voices for Dignity, Sound Choices Coalition, Lindsay Winebarger, Church for the Nations, MoviesMakeADifference, A Shield and Refuge, Premier Pediatrics, Lindsay Hansen Park, and SafetyNet - as well as Geri Rohbuck, Margaret Cooke, \u0026 Clinton Holm worked, hand-in-hand with Leona Bateman, founder of The Girlfriends Club in Short Creek, to create the first community-wide Christmas event in the history of the town. Santa Claus came to town!",
+      "release": "2016-01-20T15:12:49Z",
+      "duration": "00:00:33",
+      "explicit": false,
+      "youTubeId": "-NHHP9c79ZE",
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-NHHP9c79ZE"
+      }
+    }
+  ]
+}

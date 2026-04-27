@@ -11,11 +11,13 @@
       "release": "2026-04-19T13:00:00Z",
       "duration": "00:27:24",
       "explicit": false,
+      "spotifyId": "3TZ4RSNbvRCTeyBROYiu7K",
       "appleId": 1000762244213,
       "subjects": [
         "Christian Centre Academy"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3TZ4RSNbvRCTeyBROYiu7K",
         "apple": "https://podcasts.apple.com/podcast/cubicles-for-christ/id1690729722?i=1000762244213"
       }
     },

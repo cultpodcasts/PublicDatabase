@@ -1,0 +1,22 @@
+{
+  "id": "3f7c10ba-7b80-4583-85a5-3db6f3d9b238",
+  "name": "The trASHE Podcast",
+  "youTubeChannelId": "UC4ccKl3gLEAq5J4s9lcsmSw",
+  "episodes": [
+    {
+      "id": "bdfffd31-9c33-4089-935c-56aea87ace7f",
+      "title": "Will Allen",
+      "description": "Will Allen is a former member of the Buddhafield cult and the director of the acclaimed documentary Holy Hell. The film uses footage Allen shot during his capacity as the group\u0027s videographer to give the viewer an inside look at his 22 years in the cult.",
+      "release": "2026-04-24T17:47:48Z",
+      "duration": "00:50:35",
+      "explicit": false,
+      "youTubeId": "kizhPwjocCk",
+      "subjects": [
+        "Buddhafield"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kizhPwjocCk"
+      }
+    }
+  ]
+}

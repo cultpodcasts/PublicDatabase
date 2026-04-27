@@ -1,0 +1,28 @@
+{
+  "id": "f566f9d6-42b1-4a1e-9ce2-3a190472be52",
+  "name": "The Housewife Did It Podcast",
+  "spotifyId": "3lepZskzOdlxCl9w3TI9Hk",
+  "appleId": 1685866281,
+  "youTubeChannelId": "UCGdHSwXdX5mQDFhqT5Suu7A",
+  "episodes": [
+    {
+      "id": "42845f0d-9daf-46d3-bc1e-c883f163d640",
+      "title": "True Crime S3 Episode 14: Twelve Tribes",
+      "description": "In the late 1960s and early 1970s, the West Coast had been overtaken by an evangelical Protestant movement called the Jesus Movement. It spread across the Americas, Europe, Australia, and New Zealand. In 1972, it also spread to Chattanooga, Tennessee, in the form of a group that has gone by many names: Vine Christian Community Church, Northeast Kingdom Community Church, the Messianic Communities, the Community Apostolic Order, and now, the Twelve Tribes. Follow us on Instagram, TikTok, and Threads: @housewifediditpod Check out our website and merch at https://the-housewife-did-it.square.site We have an exciting opportunity for EVRY-one! Visit Evryjewels.com and use discount code MARY788 on any orders, including sale items! We have a new partnership to announce. We are now working with Doich Foods - they have gluten free, low sugar, edible/snacking cookie dough. You can get 20% off all purchases with our code HDI20 at Doichfoods.com Sources: Wikipedia The Yellow Deli website Twelve Tribes website",
+      "release": "2026-04-21T05:12:00Z",
+      "duration": "01:20:33.9890000",
+      "explicit": true,
+      "spotifyId": "1KvLPKoq3MX5DcKUeYtZMe",
+      "appleId": 1000762521087,
+      "youTubeId": "PYARsWOoI4g",
+      "subjects": [
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1KvLPKoq3MX5DcKUeYtZMe",
+        "apple": "https://podcasts.apple.com/podcast/true-crime-s3-episode-14-twelve-tribes/id1685866281?i=1000762521087",
+        "youtube": "https://www.youtube.com/watch?v=PYARsWOoI4g"
+      }
+    }
+  ]
+}

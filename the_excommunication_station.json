@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "c310983c-3296-4af4-bd02-17801dbe7747",
+      "title": "Lonnie Frisbee Part II",
+      "description": "We continue our dive into Lonnie Frisbee with guest Josiah Hesse.",
+      "release": "2026-04-22T01:23:00Z",
+      "duration": "02:01:07.6310000",
+      "explicit": true,
+      "spotifyId": "0n0mmENMuT5fRKmekopjuj",
+      "appleId": 1000762985976,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0n0mmENMuT5fRKmekopjuj",
+        "apple": "https://podcasts.apple.com/podcast/lonnie-frisbee-part-ii/id1573190999?i=1000762985976"
+      }
+    },
+    {
       "id": "a7660793-0cd8-491f-b095-c5e9f8345bcc",
       "title": "253. Lonnie Frisbee Part I",
       "description": "We start our deep dive into the face of The Jesus People, Lonnie Frisbee.",

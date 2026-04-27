@@ -1,0 +1,21 @@
+{
+  "id": "e0ab69fe-42f4-4012-8c82-c7426c87cc83",
+  "name": "Inooro TV",
+  "youTubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw",
+  "episodes": [
+    {
+      "id": "fe7b2246-1fdc-4ada-ad24-e75525810ce5",
+      "title": "Ciira wa Shakahola g\u0169cokereeria",
+      "release": "2026-04-24T10:13:30Z",
+      "duration": "00:00:58",
+      "explicit": false,
+      "youTubeId": "jJ06DfEvZ04",
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jJ06DfEvZ04"
+      }
+    }
+  ]
+}

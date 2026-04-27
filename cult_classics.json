@@ -5,6 +5,23 @@
   "appleId": 1888851344,
   "episodes": [
     {
+      "id": "d8d3df1e-edcb-417b-9417-4027e84ec454",
+      "title": "The Manson Family: How a Failed Musician Started a Murder Spree",
+      "description": "Charles Manson never killed anyone himself \u2014 yet orchestrated some of America\u0027s most infamous murders. Explore how a charismatic ex-con built a desert commune of devoted killers through manipulation, drugs, and apocalyptic race war prophecy.",
+      "release": "2026-04-22T22:54:35Z",
+      "duration": "00:22:31",
+      "explicit": false,
+      "spotifyId": "22QnGCS9kXQL7Q2yWcnopY",
+      "appleId": 1000763152645,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/22QnGCS9kXQL7Q2yWcnopY",
+        "apple": "https://podcasts.apple.com/podcast/the-manson-family-how-a-failed-musician-started/id1888851344?i=1000763152645"
+      }
+    },
+    {
       "id": "5d3e8790-2aad-4321-8166-c39a45dbdcfa",
       "title": "Heaven\u0027s Gate: The UFO Cult That Castrated Itself Into the Stars",
       "description": "In 1997, 39 members of Heaven\u0027s Gate were found dead in matching Nikes, awaiting a spaceship behind the Hale-Bopp comet. How did Marshall Applewhite convince educated adults to castrate themselves and die for an alien rapture?",

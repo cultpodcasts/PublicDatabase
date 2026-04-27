@@ -1,0 +1,25 @@
+{
+  "id": "7bf06295-3291-4c4f-b0bc-54591a141bf9",
+  "name": "Bouchard en parle",
+  "spotifyId": "7xhwn9gEjeL4MsrQ1RHNH0",
+  "appleId": 1762653676,
+  "episodes": [
+    {
+      "id": "ec3e6553-d4c7-4d4e-8dbc-3f57847b368c",
+      "title": "23 avril 2026, 2e heure: Philippe se prot\u00E8ge contre l\u0027infob\u00E9sit\u00E9",
+      "description": "Le groupe 764 s\u00E8me l\u0027horreur en ligne / On est gav\u00E9 d\u0027informations / Fouiller dans l\u0027ordi de l\u0027autre Voir https://www.cogecomedia.com/vie-privee pour notre politique de vie priv\u00E9e",
+      "release": "2026-04-23T17:33:00Z",
+      "duration": "00:34:25.9720000",
+      "explicit": false,
+      "spotifyId": "0NtaSpHKq9tmAnrgcUdBjS",
+      "appleId": 1000763289554,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0NtaSpHKq9tmAnrgcUdBjS",
+        "apple": "https://podcasts.apple.com/podcast/23-avril-2026-2e-heure-philippe-se-prot%C3%A8ge-contre-linfob%C3%A9sit%C3%A9/id1762653676?i=1000763289554"
+      }
+    }
+  ]
+}

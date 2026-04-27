@@ -1,0 +1,17 @@
+{
+  "id": "1496f7d4-ba47-4249-b23f-df86dca77c5a",
+  "name": "Inside the Rage Machine",
+  "episodes": [
+    {
+      "id": "ac049a09-0dec-4a1a-80b6-f15f48509371",
+      "title": "Inside the Rage Machine",
+      "description": "New whistleblowers and insiders from social media companies speak out to reveal how algorithms designed to connect people have been helping to tear them apart. With new testimony and documents, they expose a machine thriving on outrage and division as part of a business model, with radicalisation, real-world violence and fractured societies some of the consequences of a system built to shape how users think, feel and see the world.",
+      "release": "2026-03-16T21:00:00",
+      "duration": "01:00:00",
+      "explicit": true,
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002sw4z/inside-the-rage-machine"
+      }
+    }
+  ]
+}
