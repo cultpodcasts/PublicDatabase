@@ -4,6 +4,128 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "e2577561-0e8d-4cc1-b4d6-ac2d854236d9",
+      "title": "Meet \u0026#39;Tai\u0026#39; : Microsoft\u0026#39;s Racist AI Bot! How did it happen?",
+      "release": "2026-05-15T17:15:48Z",
+      "duration": "00:01:11",
+      "explicit": false,
+      "youTubeId": "X0dPtxLi_Mk",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=X0dPtxLi_Mk"
+      }
+    },
+    {
+      "id": "66989568-c135-4ab6-a3d3-b682f8a4987c",
+      "title": "How did the movie \u0026quot;Crazy Rich Asians\u0026quot; depict Western racism toward South-East Asians?",
+      "release": "2026-05-14T22:13:50Z",
+      "duration": "00:02:45",
+      "explicit": false,
+      "youTubeId": "cr3PZ3V07Zc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=cr3PZ3V07Zc"
+      }
+    },
+    {
+      "id": "8e4ef0ac-a725-4d7d-b591-b7cd68f59256",
+      "title": "How did the movie \u0026quot;Cruel Intentions\u0026quot; (1999) depict racism?",
+      "release": "2026-05-12T14:59:03Z",
+      "duration": "00:04:50",
+      "explicit": false,
+      "youTubeId": "gKCHgFnDVgY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gKCHgFnDVgY"
+      }
+    },
+    {
+      "id": "5e32c099-b576-41a8-a44f-5626afd73b6e",
+      "title": "Is the British countryside racist? w/ the \u0026quot;Black Farmer\u0026quot; Wilfred Emmanuel-Jones",
+      "release": "2026-05-07T16:30:15Z",
+      "duration": "00:08:08",
+      "explicit": false,
+      "youTubeId": "mYte48P5VJM",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mYte48P5VJM"
+      }
+    },
+    {
+      "id": "6d2c385b-ce24-42a5-9b7e-af36da66d83c",
+      "title": "Is South Afrikaner Eddie von Maltitz racist? w/ Louis Theroux (Part II)",
+      "release": "2026-05-06T07:08:53Z",
+      "duration": "00:03:00",
+      "explicit": false,
+      "youTubeId": "X6RARxITppY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=X6RARxITppY"
+      }
+    },
+    {
+      "id": "4622a730-da0b-4c2e-a678-6b561f968cdd",
+      "title": "Is South Afrikaner Eddie von Maltitz racist? w/ Louis Theroux (Part I)",
+      "release": "2026-05-06T07:08:20Z",
+      "duration": "00:05:55",
+      "explicit": false,
+      "youTubeId": "RCf7CST6JE0",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RCf7CST6JE0"
+      }
+    },
+    {
+      "id": "127a7453-9a67-4e52-89e8-0179135b0c5b",
+      "title": "Who is South Afrikaaner supporter of apartheid Eugene Terreblanche? w/ Louis Theroux",
+      "release": "2026-05-05T09:30:03Z",
+      "duration": "00:09:07",
+      "explicit": false,
+      "youTubeId": "D3bv5cS5Izc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=D3bv5cS5Izc"
+      }
+    },
+    {
+      "id": "503b32e9-9827-4646-b193-fccc5f9df55a",
+      "title": "Recovering from Racism and Hate: ex-skinhead Frank Meeink explains",
+      "release": "2026-05-01T15:01:27Z",
+      "duration": "00:01:10",
+      "explicit": false,
+      "youTubeId": "hS0KlyP8v1w",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hS0KlyP8v1w"
+      }
+    },
+    {
+      "id": "6ee94295-27f7-48f9-a1d5-fb47ed3d9c61",
+      "title": "In \u0026amp; Out of Violent White Supremacy: ex-skinhead Arno Michaelis tells his story",
+      "description": "w/ documentary film-maker Deeyah Khan",
+      "release": "2026-04-30T15:00:09Z",
+      "duration": "00:03:38",
+      "explicit": false,
+      "youTubeId": "4fVzFdFYkqY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=4fVzFdFYkqY"
+      }
+    },
+    {
+      "id": "1886b30d-9673-466f-83ac-c57e39c6a0b4",
+      "title": "Is White Supremacist Richard Spencer a Sociopath?",
+      "release": "2026-04-29T05:44:04Z",
+      "duration": "00:02:34",
+      "explicit": false,
+      "youTubeId": "6cQpyso0R14",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=6cQpyso0R14"
+      }
+    },
+    {
+      "id": "b2f6e6c0-3b77-47e6-a3d6-e99169f5a63f",
+      "title": "Early Origins of a White Nationalist: Peter Tefft",
+      "release": "2026-04-28T09:01:56Z",
+      "duration": "00:03:31",
+      "explicit": false,
+      "youTubeId": "YYfgpLYHKSg",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=YYfgpLYHKSg"
+      }
+    },
+    {
       "id": "4019b74b-21cd-4c8e-9978-51f8b4af1b67",
       "title": "Why are there \u0026quot;white militias\u0026quot; and \u0026quot;black militants\u0026quot; ? Daryl Davis explains",
       "release": "2026-04-27T09:50:11Z",

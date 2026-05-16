@@ -1,0 +1,36 @@
+{
+  "id": "2781631b-f890-45b4-bffe-7a958ce0e142",
+  "name": "New Possibilities",
+  "youTubeChannelId": "UCk535X5g0IKsQaN3toyWqwg",
+  "episodes": [
+    {
+      "id": "fcadc8ad-7b77-4256-96ac-c7dd8ff90509",
+      "title": "The NatureBoy Cult - Part 2 ",
+      "description": "#natureboy #cults",
+      "release": "2026-05-11T00:27:59Z",
+      "duration": "00:09:27",
+      "explicit": false,
+      "youTubeId": "XAkB9KLrqt0",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XAkB9KLrqt0"
+      }
+    },
+    {
+      "id": "da8768e8-b8a0-46cc-b07e-ff96731f2645",
+      "title": "Re: NatureBoy Cult",
+      "release": "2026-05-07T03:37:38Z",
+      "duration": "00:08:48",
+      "explicit": false,
+      "youTubeId": "ONhl8a5ZqnU",
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ONhl8a5ZqnU"
+      }
+    }
+  ]
+}

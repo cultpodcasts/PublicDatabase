@@ -5,6 +5,25 @@
   "appleId": 1667989249,
   "episodes": [
     {
+      "id": "9962346f-185e-4d97-97ed-6aa5f2dc7bbf",
+      "title": "Repairing the roots of moral injury",
+      "description": "Psychologist Michael Valdovinos felt the pain of moral injury when serving in Afghanistan. His book is Moral Injuries: When Good Conscience Suffers in a World of Hurt",
+      "release": "2026-05-01T16:00:36Z",
+      "duration": "00:49:59.8760000",
+      "explicit": false,
+      "spotifyId": "60UkBlouZxtYCsPDkTqGAW",
+      "appleId": 1000765640137,
+      "subjects": [
+        "Psychology",
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/60UkBlouZxtYCsPDkTqGAW",
+        "apple": "https://podcasts.apple.com/podcast/repairing-the-roots-of-moral-injury/id1667989249?i=1000765640137"
+      }
+    },
+    {
       "id": "b6d4f4eb-ce4b-4581-8ca5-f044fb76f410",
       "title": "Rethinking PTSD and the new science of resilience",
       "description": "Psychologist George Bonanno says we have overestimated the debilitating power of post-traumatic stress disorder and underestimated our resilience.",

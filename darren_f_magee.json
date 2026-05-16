@@ -12,12 +12,16 @@
       "release": "2026-03-02T18:25:14Z",
       "duration": "00:44:28",
       "explicit": false,
+      "spotifyId": "6SfEo1VI1OqnSuc6dEV9J5",
+      "appleId": 1000765795651,
       "youTubeId": "4mDBK9JTXMY",
       "subjects": [
         "Cult Psychology",
         "Corporate Cult"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6SfEo1VI1OqnSuc6dEV9J5",
+        "apple": "https://podcasts.apple.com/podcast/the-workplace-cults-hiding-in-plain-sight/id1737445865?i=1000765795651",
         "youtube": "https://www.youtube.com/watch?v=4mDBK9JTXMY"
       }
     },

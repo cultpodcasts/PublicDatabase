@@ -1,0 +1,25 @@
+{
+  "id": "7df1592a-bfd0-4b63-aafd-2fc4bb7732b2",
+  "name": "Learning English For Work",
+  "spotifyId": "3wSLMyngTcRLDyI5PKLdmx",
+  "appleId": 1726947236,
+  "episodes": [
+    {
+      "id": "4a293603-8bb8-4202-9dfc-536eb5b9b7dd",
+      "title": "Office English: Career development",
+      "description": "Do you have goals for your career? In this episode of Office English, Pippa and Phil talk about training, promotions and networking. Get a free transcript for this episode: www.bbc.co.uk/learningenglish/english/features/office-english/260511 Try the Leadership series. From visionaries to cults and the unexpected power of ordinary individuals, we explore the many sides of leadership: https://www.bbc.co.uk/learningenglish/english/features/leadership Learn a new English phrase or expression with our podcast \u0027The English We Speak\u0027: https://www.bbc.co.uk/learningenglish/features/the-english-we-speak",
+      "release": "2026-05-11T11:10:00Z",
+      "duration": "00:08:08.4110000",
+      "explicit": false,
+      "spotifyId": "1g5puymnhO53axa1BP8SSN",
+      "appleId": 1000767181517,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1g5puymnhO53axa1BP8SSN",
+        "apple": "https://podcasts.apple.com/podcast/office-english-career-development/id1726947236?i=1000767181517"
+      }
+    }
+  ]
+}

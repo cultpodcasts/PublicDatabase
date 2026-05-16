@@ -1,0 +1,28 @@
+{
+  "id": "9ad38231-7f47-494f-86e7-d65f642a6854",
+  "name": "Piqued Podcast",
+  "spotifyId": "0QZlZm6CdDj9t0FE0U0NRV",
+  "appleId": 1843207944,
+  "episodes": [
+    {
+      "id": "855fc58e-c40d-40eb-96d6-2b07024239b4",
+      "title": "Cults",
+      "description": "Watching Hulu doc \u201CThe Cult of NatureBoy\u201D sent me and Charlie in to veritable orbit and it sparked an interest in what causes some people to view certain people as magnetic and charismatic when to us they seem unhinged or just plain creepy. We have watched many a cult documentary in our time and I\u2019m always struck by how unsavory or inept some of these cult leaders seem. How do they amass a following? What draws people to them? Where in our lives have we maybe encountered cult dynamics and can we relate to some of the lack of direction that can cloud people\u2019s judgement enough to be vulnerable to indoctrination? You don\u2019t have to follow someone to the jungle to be in a cultish dynamic. There are cults of politics, personality, some friend groups and romantic relationships operate with the same construct of isolation, control and group think. Are we drinking the kool-aid? #cults #cultmemebers #nxivm #netflix #hulu #documentary #viral #followers #indoctrination #freethinker #natureboy #manson #osho #selfhelp #seekers #selfimprovement #interview #rabbithole",
+      "release": "2026-05-05T05:00:00Z",
+      "duration": "00:58:16.5000000",
+      "explicit": false,
+      "spotifyId": "0UpLWA3E9SiUA9ULLZqCNl",
+      "appleId": 1000766173154,
+      "subjects": [
+        "Carbon Nation",
+        "Bhagwan Shree Rajneesh",
+        "Cult Psychology",
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0UpLWA3E9SiUA9ULLZqCNl",
+        "apple": "https://podcasts.apple.com/podcast/cults/id1843207944?i=1000766173154"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8d6aecf0-74bf-4197-9054-a7496063779d",
+  "name": "Le Titre \u00E0 la une",
+  "spotifyId": "0WjH88Utuz9qOS9FzUp1xu",
+  "appleId": 1642691028,
+  "episodes": [
+    {
+      "id": "e6bee099-3565-4407-85fa-e643758b3fc9",
+      "title": "\u0022Les hommes de la rue du Bac\u0022: l\u0027horreur d\u0027un r\u00E9seau p\u00E9docriminel d\u00E9voil\u00E9 50 ans apr\u00E8s",
+      "description": "Dans une longue enqu\u00EAte en six volets, le journal Lib\u00E9ration l\u00E8ve le voile sur un r\u00E9seau p\u00E9docriminel pr\u00E9sum\u00E9. Une enqu\u00EAte sign\u00E9e Willy Le Devin, \u00E0 qui s\u2019est confi\u00E9 In\u00E8s Chatin. Victime pr\u00E9sum\u00E9e de ces hommes, des intellectuels, qui auraient agi \u00E0 Paris dans les ann\u00E9es 1970 \u00E0 1980. Dans cette enqu\u00EAte, In\u00E8s Chatin t\u00E9moigne d\u2019une enfance vol\u00E9e, de viols et s\u00E9vices sexuels qui auraient \u00E9t\u00E9 commis entre ses 4 et ses 13 ans par un groupe d\u2019hommes proches de son p\u00E8re adoptif. Son nom : Jean-Fran\u00E7ois Lemaire, \u0022un m\u00E9decin fascin\u00E9 par le pouvoir et les soci\u00E9t\u00E9s secr\u00E8tes\u0022. Un ami tr\u00E8s proche de Gabriel Matzneff, cit\u00E9 lui aussi par In\u00E8s. Une enqu\u00EAte pr\u00E9liminaire est en cours et d\u2019autres victimes potentielles ont pris contact les avocats d\u2019In\u00E8s Chatin. Invit\u00E9e du Titre \u00E0 la une : Maitre Marie Grimaud, avocate d\u2019In\u00E8s Chatin.",
+      "release": "2024-06-26T16:31:32Z",
+      "duration": "00:19:28.9530000",
+      "explicit": false,
+      "spotifyId": "4cBdPzjSFjlifpXmgbmgNV",
+      "appleId": 1000660339921,
+      "subjects": [
+        "Fourth Way"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4cBdPzjSFjlifpXmgbmgNV",
+        "apple": "https://podcasts.apple.com/podcast/les-hommes-de-la-rue-du-bac-lhorreur-dun-r%C3%A9seau/id1642691028?i=1000660339921"
+      }
+    }
+  ]
+}

@@ -5,6 +5,37 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a8d4da02-61e5-421b-98c0-a4aa1e695e79",
+      "title": "256. The Christ Family Part !",
+      "description": "This week we start our talk about the cult, The Christ Family",
+      "release": "2026-05-06T01:51:19Z",
+      "duration": "01:40:33.5280000",
+      "explicit": true,
+      "spotifyId": "7q3GDFaEVrfsONuIo9bVD8",
+      "appleId": 1000766356564,
+      "subjects": [
+        "Christ\u0027s Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7q3GDFaEVrfsONuIo9bVD8",
+        "apple": "https://podcasts.apple.com/podcast/256-the-christ-family-part/id1573190999?i=1000766356564"
+      }
+    },
+    {
+      "id": "db2bff16-c25c-4dde-858a-377ac9020feb",
+      "title": "255. Lonnie Frisbee Part III",
+      "description": "We finish up our talk on Lonnie Frisbee",
+      "release": "2026-04-29T03:01:32Z",
+      "duration": "02:21:50.6940000",
+      "explicit": true,
+      "spotifyId": "2kZTfXmHsXeq1tJR1VjB6h",
+      "appleId": 1000764228919,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2kZTfXmHsXeq1tJR1VjB6h",
+        "apple": "https://podcasts.apple.com/podcast/255-lonnie-frisbee-partiii/id1573190999?i=1000764228919"
+      }
+    },
+    {
       "id": "c310983c-3296-4af4-bd02-17801dbe7747",
       "title": "Lonnie Frisbee Part II",
       "description": "We continue our dive into Lonnie Frisbee with guest Josiah Hesse.",

@@ -1,0 +1,26 @@
+{
+  "id": "c6e82078-0a09-4d3b-9c3b-8abc936874b4",
+  "name": "Ski in-Sell Out!",
+  "spotifyId": "1cVCYXfZfCI75L9VGbB3za",
+  "appleId": 1846424006,
+  "episodes": [
+    {
+      "id": "17cd8fe0-c4fb-434c-8187-cb9153104ee9",
+      "title": "24 - Oops I Worked For A CULT - Joel Zarrow",
+      "description": "Joel Zarrow, President \u0026 CEO of the Park City Community Foundation, joins us for one of our favorite conversations yet. We talk about growing up in California before it became \u201CCalabasas,\u201D turning down a job on Seinfeld, traveling through Thailand, education policy, nonprofit leadership, cult-like consulting firms, community building, and the strange emotional tension of living in a place like Park City. This episode digs into something bigger than real estate: What actually makes a town feel like a community? We talk about wealth, belonging, philanthropy, traffic, identity, affordable housing, relationships, and the reality that people are just people \u2014 whether they live in a studio apartment or a house in The Colony. Joel brings honesty, perspective, and humility to a conversation that feels incredibly relevant right now. This one\u2019s about place. And the people trying to hold onto what makes it special.",
+      "release": "2026-05-12T20:36:40Z",
+      "duration": "00:58:40.7970000",
+      "explicit": true,
+      "spotifyId": "2LkxXDShgpGaKAuiEDXr2g",
+      "appleId": 1000767462370,
+      "subjects": [
+        "_America",
+        "Corporate Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2LkxXDShgpGaKAuiEDXr2g",
+        "apple": "https://podcasts.apple.com/podcast/24-oops-i-worked-for-a-cult-joel-zarrow/id1846424006?i=1000767462370"
+      }
+    }
+  ]
+}

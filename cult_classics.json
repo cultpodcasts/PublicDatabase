@@ -5,6 +5,41 @@
   "appleId": 1888851344,
   "episodes": [
     {
+      "id": "d18f5027-d008-4da8-a09e-86ee6a7833e9",
+      "title": "The Branch Davidians: 51 Days Until Waco Burned to the Ground",
+      "description": "David Koresh stockpiled weapons, took child brides, and declared himself the final prophet. When the ATF came knocking, a 51-day standoff ended in flames that killed 76 people \u2014 including 25 children. Who really lit the match?",
+      "release": "2026-05-06T22:54:29Z",
+      "duration": "00:21:20",
+      "explicit": false,
+      "spotifyId": "61EKECcp2A2CPB7kgbtkKz",
+      "appleId": 1000766523121,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/61EKECcp2A2CPB7kgbtkKz",
+        "apple": "https://podcasts.apple.com/podcast/the-branch-davidians-51-days-until-waco-burned-to-the-ground/id1888851344?i=1000766523121"
+      }
+    },
+    {
+      "id": "bf69879c-9976-4e67-9496-370c776eef40",
+      "title": "NXIVM: The Self-Help Empire That Branded Women Like Cattle",
+      "description": "Keith Raniere sold personal growth seminars to celebrities and executives. Behind the curtain, he ran a secret sorority where women were starved, blackmailed, and branded with his initials. A corporate cult hiding in plain sight.",
+      "release": "2026-04-29T22:58:16Z",
+      "duration": "00:19:52",
+      "explicit": false,
+      "spotifyId": "2LW3uLQvF9mUyfmmviCy5D",
+      "appleId": 1000764586709,
+      "subjects": [
+        "NXIVM",
+        "Self-Help"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2LW3uLQvF9mUyfmmviCy5D",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-the-self-help-empire-that-branded-women-like-cattle/id1888851344?i=1000764586709"
+      }
+    },
+    {
       "id": "d8d3df1e-edcb-417b-9417-4027e84ec454",
       "title": "The Manson Family: How a Failed Musician Started a Murder Spree",
       "description": "Charles Manson never killed anyone himself \u2014 yet orchestrated some of America\u0027s most infamous murders. Explore how a charismatic ex-con built a desert commune of devoted killers through manipulation, drugs, and apocalyptic race war prophecy.",

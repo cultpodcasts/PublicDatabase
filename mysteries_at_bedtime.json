@@ -1,0 +1,25 @@
+{
+  "id": "6b684e4e-53f3-4a17-85ec-cb7311f36783",
+  "name": "Mysteries at Bedtime",
+  "spotifyId": "5SEDpfqCmgWqIgwTjr77TD",
+  "appleId": 1821790998,
+  "episodes": [
+    {
+      "id": "db98b81c-a0a8-4947-baf4-391c22650bc3",
+      "title": "The Baby in White Robes: The 42-Year Search for Holly Clouse",
+      "description": "January 12, 1981. A dog wandered into the woods north of Houston and returned home carrying a decomposed human arm. Search parties found two bodies. A young man, bound and beaten to death. A young woman, strangled and posed in prayer. For 40 years, they remained unidentified. Buried in anonymous graves. Forgotten. Until genetic genealogy finally gave them their names: Harold Dean Clouse Junior, 21, and Tina Gail Linn Clouse, 17. A young couple from Florida who had moved to Texas with their one-year-old daughter, Holly. But when the families learned the truth, they asked one question investigators had never considered: where is the baby? No infant\u0027s body had been found with Dean and Tina. No Baby Doe cases matched. Had she been taken by the killers? Was she still alive? The search led to barefoot women in white robes, a nomadic religious cult called the Christ Family, and a baby left at an Arizona church. This is the story of a 42-year mystery, a daughter who grew up not knowing her own name, and a reunion that defied all odds. You can get early and ad free access to this show and more here Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-05-05T15:00:00Z",
+      "duration": "00:28:43.3500000",
+      "explicit": false,
+      "spotifyId": "5UhT6YTqgLrAWKftPcrpTn",
+      "appleId": 1000763756780,
+      "subjects": [
+        "Christ\u0027s Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5UhT6YTqgLrAWKftPcrpTn",
+        "apple": "https://podcasts.apple.com/podcast/the-baby-in-white-robes-the-42-year-search-for-holly-clouse/id1821790998?i=1000763756780"
+      }
+    }
+  ]
+}

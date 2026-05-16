@@ -1,0 +1,28 @@
+{
+  "id": "b3cfd9b7-d1b9-4767-bdfa-b885ce06da3b",
+  "name": "PowerWomen Podcast",
+  "spotifyId": "64rsuCP9g2bkpMjz025mlO",
+  "appleId": 1447273067,
+  "youTubeChannelId": "UCNNC4Lki2k8OlJDV6clBhgA",
+  "episodes": [
+    {
+      "id": "a4aa07c5-0315-426b-9e54-323d8b3ac458",
+      "title": "Episode 121: Epstein, Grooming, Trafficking and the Survivor PowerWomen creating change! Part 1 of 4",
+      "description": "Lara Blume McGee and Sharlene Rochard, survivors of Jeffrey Epstein, sit down with Claire Brown to discuss their harrowing experiences, how they escaped Epstein\u2019s abuse, and the lasting trauma caused by one of history\u2019s most notorious sex traffickers.\n\nThis is the first of four segments sharing their journey and truth.\n\nIf you or someone you know may be a victim of human trafficking, help is available. Visit The National Human Trafficking Hotline\u00A0to report trafficking, get support, and learn more about the warning signs:\u00A0https://humantraffickinghotline.org/en/report-trafficking",
+      "release": "2026-05-12T09:00:03Z",
+      "duration": "00:22:38",
+      "explicit": false,
+      "appleId": 1000767333321,
+      "youTubeId": "15wD9pWrAXw",
+      "subjects": [
+        "Human Trafficking",
+        "Cult Psychology",
+        "_America"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/episode-121-epstein-grooming-trafficking-and-the/id1447273067?i=1000767333321",
+        "youtube": "https://www.youtube.com/watch?v=15wD9pWrAXw"
+      }
+    }
+  ]
+}

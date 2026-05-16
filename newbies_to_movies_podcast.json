@@ -1,0 +1,25 @@
+{
+  "id": "5b66704c-8639-458f-af00-5e42adff6114",
+  "name": "Newbies To Movies Podcast",
+  "spotifyId": "0JnMt0SpHcRW19hFz7h0mn",
+  "appleId": 1832358707,
+  "episodes": [
+    {
+      "id": "f96cafbb-c145-4220-90bb-c87443e141b9",
+      "title": "EP.40 Amanda Seyfried",
+      "description": "In this episode of the Newbies to Movies Podcast, hosts Tyler and Justin are joined by special guest Laura for a deep dive into the career of Amanda Seyfried, contrasting her lighter musical roles with more intense acting projects. The discussion centers on the 2025 folk-horror musical The Testament of Ann Lee, analyzing her lauded performance as the Shaker leader and the film\u0027s unique approach to movement and song, while balancing it with a nostalgic look back at her role in Mamma Mia!. The episode concludes with a fun, competitive draft where the team selects their top musical movies, showcasing a range of cinematic picks. Send us Fan Mail",
+      "release": "2026-05-12T04:00:00Z",
+      "duration": "01:12:51.9050000",
+      "explicit": false,
+      "spotifyId": "0SKOFVRX4stt3DHtOeWzlG",
+      "appleId": 1000767317284,
+      "subjects": [
+        "Shakers"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0SKOFVRX4stt3DHtOeWzlG",
+        "apple": "https://podcasts.apple.com/podcast/ep-40-amanda-seyfried/id1832358707?i=1000767317284"
+      }
+    }
+  ]
+}

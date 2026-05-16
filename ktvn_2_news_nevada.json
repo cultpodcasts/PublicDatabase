@@ -4,6 +4,37 @@
   "youTubeChannelId": "UCaLjq8bBXAA7lLlHaGHvI8w",
   "episodes": [
     {
+      "id": "b05c9aa1-0d06-4470-9e93-74a375027b57",
+      "title": "Jeffrey Epstein survivors testify",
+      "description": "Survivors of Jeffrey Epstein\u0027s crimes testified at an unofficial field hearing in Florida today.",
+      "release": "2026-05-13T00:48:33Z",
+      "duration": "00:01:58",
+      "explicit": false,
+      "youTubeId": "dzhkwl3B1gY",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=dzhkwl3B1gY"
+      }
+    },
+    {
+      "id": "8a65a2eb-ea32-420c-abb5-1c1195c6e191",
+      "title": "\u2018Dances With Wolves\u2019 actor Nathan Chasing Horse sentenced to life in prison for sexual assault",
+      "description": "A Nevada judge sentenced \u201CDances With Wolves\u201D actor Nathan Chasing Horse on Monday to life in prison for sexually assaulting Indigenous women and girls.",
+      "release": "2026-04-28T05:02:20Z",
+      "duration": "00:00:31",
+      "explicit": false,
+      "youTubeId": "3jrLeSDAhHE",
+      "subjects": [
+        "Nathan Lee Chasing His Horse"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3jrLeSDAhHE"
+      }
+    },
+    {
       "id": "51ada0fb-6264-4a8d-9e0f-0ebd33324a60",
       "title": "Gates Foundation launching an investigation into its ties to Jeffrey Epstein",
       "description": "The foundation says it has commissioned an external review to examine past engagement with Epstein.",

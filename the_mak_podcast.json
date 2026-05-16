@@ -1,0 +1,27 @@
+{
+  "id": "04f99b5d-f233-41e9-b751-fee782c8860b",
+  "name": "The M.A.K Podcast",
+  "spotifyId": "3ocabtKZTbyi22ot8j9wHr",
+  "appleId": 1880177307,
+  "episodes": [
+    {
+      "id": "f9660420-3c80-4564-b725-a270d34f466e",
+      "title": "The Incel Pipeline \u0026 Cult Mentality",
+      "description": "Send us Fan Mail\nAsaad \u0026 Kemistree confront incel culture, toxic masculinity, and the growing normalization of misogyny online. The two challenge harmful ideologies, ask what\u2019s really causing this shift in men, and discuss how healing, accountability, and rejection all play a role.\nLater, after discussing Hulu\u2019s The Cult of Natureboy, the conversation expands into cult psychology, manipulation, and one bigger question: Is modern American society a cult itself?",
+      "release": "2026-05-13T15:00:00Z",
+      "duration": "01:25:47",
+      "explicit": false,
+      "spotifyId": "01fqyqJ226SAqdVLYsyCDI",
+      "appleId": 1000767595307,
+      "subjects": [
+        "Carbon Nation",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/01fqyqJ226SAqdVLYsyCDI",
+        "apple": "https://podcasts.apple.com/podcast/the-incel-pipeline-cult-mentality/id1880177307?i=1000767595307"
+      }
+    }
+  ]
+}

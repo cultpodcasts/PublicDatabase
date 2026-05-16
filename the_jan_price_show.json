@@ -1,0 +1,25 @@
+{
+  "id": "47921f77-ee74-464e-af1f-8a205a4bc738",
+  "name": "The Jan Price Show",
+  "spotifyId": "01KJvG3TFnzubTcqLMRDvu",
+  "appleId": 1481806480,
+  "episodes": [
+    {
+      "id": "74e15d3f-7f09-4d36-a6fd-a4cc2732b1b8",
+      "title": "Geoffrey Levin on \u0022Brothers Broken\u0022 | Music, Scientology \u0026 Family Trauma Explored",
+      "description": "Director Geoffrey Levin joins The Jan Price Show All About Movies to discuss his award-winning documentary \u0022Brothers Broken.\u0022 The film tells the powerful true story of two brothers from the hit 1960s rock band PEOPLE! whose lives, careers, and relationships were shattered by Scientology. Decades later, they reunite to confront their shared trauma, break free from years of indoctrination, and begin the difficult journey toward healing and reconciliation. Blending music history, emotional storytelling, and a deeper look into cult manipulation, \u0022Brothers Broken\u0022 explores the lasting impact of belief systems, family estrangement, and the resilience required to reclaim one\u2019s identity. The documentary offers an intimate portrait of survival, forgiveness, and the enduring bond between brothers. \u0026#x1f3a5; \u2060Watch the trailer\u2060 \u0026#x1f3ac; \u2060Watch on VOD\u2060 \u0026#x1f3a7; \u2060More episodes\u2060 Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-05-09T17:00:00Z",
+      "duration": "00:29:45.2600000",
+      "explicit": false,
+      "spotifyId": "084NEZZ1WIJ4qocTfFwJKt",
+      "appleId": 1000766968520,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/084NEZZ1WIJ4qocTfFwJKt",
+        "apple": "https://podcasts.apple.com/podcast/geoffrey-levin-on-brothers-broken-music-scientology/id1481806480?i=1000766968520"
+      }
+    }
+  ]
+}

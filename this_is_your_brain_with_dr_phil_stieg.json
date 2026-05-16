@@ -1,0 +1,32 @@
+{
+  "id": "cf609b73-75b7-4037-ad98-f65682a2cfd8",
+  "name": "This Is Your Brain With Dr. Phil Stieg",
+  "spotifyId": "6j4TSawhf8OkdsX4otbbhS",
+  "appleId": 1457049580,
+  "youTubeChannelId": "UC7nkWaw1K910Cpfy7hKZDjQ",
+  "youTubePlaylistId": "PLIl0H3DjSOvz_8vVFHEJ_gC3dt_A2fn5t",
+  "episodes": [
+    {
+      "id": "26bdf237-1c49-4fe5-b5f3-9c57a5a59c62",
+      "title": "Tell-Tale Signs That You Are in a Cult",
+      "description": "Cults and high-control groups influence beliefs and fundamentally reshape identity, decision-making, and autonomy. In this episode, Dr. Phil Stieg sits down with sociologist and cult expert Dr. Janja Lalich, Professor and author of Take Back Your Life, to explore the psychology behind cults. Drawing from decades of research as well as her own personal experience of spending a decade in a political cult, she discusses how indoctrination alters a person\u0027s sense of self, why anyone can become vulnerable under the right circumstances, and the road to recovery after leaving. For more information, transcripts, and all episodes, please visit https://thisisyourbrain.com For more about Weill Cornell Medicine Neurological Surgery, please visit https://neurosurgery.weillcornell.org",
+      "release": "2026-03-06T05:00:00Z",
+      "duration": "00:33:44.7850000",
+      "explicit": false,
+      "spotifyId": "52ZsbXEp4Hr3Dpag7sVKza",
+      "appleId": 1000753508568,
+      "youTubeId": "qp0FxX576ak",
+      "subjects": [
+        "Cult-Expert",
+        "Political Cult",
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/52ZsbXEp4Hr3Dpag7sVKza",
+        "apple": "https://podcasts.apple.com/podcast/tell-tale-signs-that-you-are-in-a-cult/id1457049580?i=1000753508568",
+        "youtube": "https://www.youtube.com/watch?v=qp0FxX576ak"
+      }
+    }
+  ]
+}

@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "6548b586-c303-47e0-bffe-325dc29c64f3",
+      "title": "A Day in the Life: High Priest of IDMR",
+      "release": "2026-05-16T02:55:01Z",
+      "duration": "00:01:04",
+      "explicit": false,
+      "youTubeId": "0uX9rJ6NAj8",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0uX9rJ6NAj8"
+      }
+    },
+    {
+      "id": "a4ac3c8f-7448-4ca0-9bcf-211af8fede5a",
+      "title": "IDMR Night to be Remembered",
+      "release": "2026-05-02T16:30:16Z",
+      "duration": "00:02:17",
+      "explicit": false,
+      "youTubeId": "pqcssjllAL8",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pqcssjllAL8"
+      }
+    },
+    {
       "id": "057dd3e3-f4c8-4140-b578-87b151c0baac",
       "title": "IDMR Dean: The Vision Year is Not Up for Debate!",
       "release": "2026-03-29T13:00:43Z",

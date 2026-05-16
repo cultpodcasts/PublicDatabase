@@ -1,0 +1,42 @@
+{
+  "id": "a3527554-28a1-4f82-a149-5a58e6c1f36f",
+  "name": "Untraditionally Lala",
+  "spotifyId": "33m3ZKxQ4mRZI4OSWqNICG",
+  "appleId": 1494722390,
+  "episodes": [
+    {
+      "id": "5512ff43-6000-4eec-91c9-0ddeeb66039a",
+      "title": "Clearing the Air After the Cult Episode",
+      "description": "Lala addresses fan reactions to her comments on Mormonism. She and Easton unpack their family experiences, growing up around the church and the line between belief and pressure. See omnystudio.com/listener for privacy information.",
+      "release": "2026-05-04T11:00:00Z",
+      "duration": "00:14:05.5570000",
+      "explicit": false,
+      "spotifyId": "0ANaalOyPR8GalmwsLIauI",
+      "appleId": 1000766033624,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ANaalOyPR8GalmwsLIauI",
+        "apple": "https://podcasts.apple.com/podcast/clearing-the-air-after-the-cult-episode/id1494722390?i=1000766033624"
+      }
+    },
+    {
+      "id": "f2f92623-4fd2-46d4-83b1-4194716982d5",
+      "title": "How Easy it is to End Up in a Cult",
+      "description": "After watching the False Prophet documentary, Lala and Easton deep dive cult leaders, underage exploitation, their own experiences with Mormonism and what they really think happens when you die. See omnystudio.com/listener for privacy information.",
+      "release": "2026-04-27T11:00:00Z",
+      "duration": "00:28:09.8350000",
+      "explicit": false,
+      "spotifyId": "1Uq6FAu9OAUQW2Q7OHOWBI",
+      "appleId": 1000763794762,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Uq6FAu9OAUQW2Q7OHOWBI",
+        "apple": "https://podcasts.apple.com/podcast/how-easy-it-is-to-end-up-in-a-cult/id1494722390?i=1000763794762"
+      }
+    }
+  ]
+}

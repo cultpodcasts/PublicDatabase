@@ -1,0 +1,29 @@
+{
+  "id": "419e94f7-ca77-41a3-9a6a-9182f6a7ee8e",
+  "name": "Ella",
+  "youTubeChannelId": "UC2sAlK4aPiG4Np535SUpOFg",
+  "episodes": [
+    {
+      "id": "7ac7e802-be0a-44a9-8df4-c175b4250e79",
+      "title": "I Went To A Cult (episode 2)",
+      "release": "2026-05-09T00:29:06Z",
+      "duration": "00:27:20",
+      "explicit": false,
+      "youTubeId": "g4FNHI_lP0I",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=g4FNHI_lP0I"
+      }
+    },
+    {
+      "id": "51669acd-cffc-4d90-a802-ccc93927f579",
+      "title": "I Went To A Cult (episode 1)",
+      "release": "2026-05-01T13:21:11Z",
+      "duration": "00:20:09",
+      "explicit": false,
+      "youTubeId": "d0fIAgmpZag",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=d0fIAgmpZag"
+      }
+    }
+  ]
+}

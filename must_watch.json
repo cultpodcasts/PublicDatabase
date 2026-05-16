@@ -1,0 +1,25 @@
+{
+  "id": "7c2b08d1-3010-4403-a4cf-4e0dfd8adbf5",
+  "name": "Must Watch",
+  "spotifyId": "08mb2HM2lC2R8lDYihOjAq",
+  "appleId": 1446766292,
+  "episodes": [
+    {
+      "id": "074778f5-e8f6-480e-8276-ae4c322708e0",
+      "title": "UNCHOSEN",
+      "description": "Naga Munchetty is joined by Hayley Campbell and Scott Bryan to review the week\u2019s biggest TV and streaming releases. On this week\u2019s podcast, the trio discuss the new Netflix cult drama Unchosen. Created and written by Julie Gearey, and inspired by real-life experiences in high-control religious communities in the UK, it follows a fictional ultra conservative patriarchal community in rural England run by Mr. Phillips, played by Christopher Eccleston.",
+      "release": "2026-05-04T12:32:00Z",
+      "duration": "00:44:27.4150000",
+      "explicit": false,
+      "spotifyId": "3Mopcb2pN9EGzp2TMzYp2E",
+      "appleId": 1000766045565,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Mopcb2pN9EGzp2TMzYp2E",
+        "apple": "https://podcasts.apple.com/podcast/the-cage-unchosen-secret-service/id1446766292?i=1000766045565"
+      }
+    }
+  ]
+}

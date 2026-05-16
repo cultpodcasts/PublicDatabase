@@ -1,0 +1,33 @@
+{
+  "id": "0934babc-8b0e-4375-a8b6-f5940b92fd2d",
+  "name": "Anything Evil Podcast",
+  "spotifyId": "2tJXzv1VKiozUlHZ4XukxI",
+  "appleId": 1849585243,
+  "youTubeChannelId": "UC4NC1j0JBVFhbnFBGl96JMg",
+  "episodes": [
+    {
+      "id": "285ff860-b917-42db-931d-e8a5de425c62",
+      "title": "Episode 25- Cults",
+      "description": "This episode explores some of the deadliest cults in modern history, including the Manson Family, Peoples Temple, Heaven\u2019s Gate, Aum Shinrikyo, and the Fundamentalist Church of Jesus Christ of Latter-Day Saints. We examine how charismatic leaders use psychological tactics, isolation, fear, and belief systems to gain control over large groups of people. How do hundreds\u2014or even thousands\u2014become convinced to follow? We unpack the patterns, warning signs, and real-world consequences behind these movements",
+      "release": "2026-05-01T09:00:55Z",
+      "duration": "01:19:30.3770000",
+      "explicit": true,
+      "spotifyId": "7ygK3Pv1v1lJEUUETwyT3h",
+      "appleId": 1000765282633,
+      "youTubeId": "Wh_iAgL6wzs",
+      "subjects": [
+        "Aum Shinrikyo",
+        "FLDS Church",
+        "Heaven\u0027s Gate",
+        "Manson Family",
+        "Peoples Temple",
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7ygK3Pv1v1lJEUUETwyT3h",
+        "apple": "https://podcasts.apple.com/podcast/episode-25-cults/id1849585243?i=1000765282633",
+        "youtube": "https://www.youtube.com/watch?v=Wh_iAgL6wzs"
+      }
+    }
+  ]
+}

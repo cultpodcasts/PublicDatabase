@@ -1,0 +1,31 @@
+{
+  "id": "c6a7c280-a3d8-4d13-afee-cd1fe90c39e8",
+  "name": "The manshift podcast",
+  "spotifyId": "6W3r5FGysibLuG9bShLjA9",
+  "appleId": 1854458418,
+  "youTubeChannelId": "UCJmHCG5elKYd0e9spsZFLaA",
+  "episodes": [
+    {
+      "id": "01b1cbaa-bded-47a6-a5a4-10de2e17a66e",
+      "title": "From Cult Survivor to Author | Peter Young Podcast Interview",
+      "description": "how you can support the podcast -https://tiptopjar.com/manshift\n\n\nWhat happens when you realize your entire life has been controlled by a cult? In this powerful podcast episode, Peter Young shares his story of escaping a cult, overcoming manipulation and fear, and rebuilding his identity after years of psychological control.\n\nWe talk about cult psychology, indoctrination, mental health, trauma recovery, faith, personal growth, and the journey of finding freedom after leaving a controlling environment. Peter also discusses the book he wrote about his experience and the lessons he learned along the way.\n\nIf you\u2019re interested in stories about resilience, recovery, psychology, self-improvement, or true life experiences, this episode is for you.\n\n\uD83D\uDD14 Subscribe for more conversations about mental health, personal growth, life stories, and overcoming adversity.\n\n#CultSurvivor #Podcast #MentalHealth #SelfImprovement #TraumaRecovery #CultPsychology #PersonalGrowth #LifeStory #Healing #Motivation",
+      "release": "2026-05-07T14:23:26Z",
+      "duration": "00:41:26",
+      "explicit": false,
+      "spotifyId": "1NFTGFA6M0bMliUIG27UpI",
+      "appleId": 1000766632992,
+      "youTubeId": "GLzhW-dd8_Q",
+      "subjects": [
+        "Family Cult",
+        "Psychology",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1NFTGFA6M0bMliUIG27UpI",
+        "apple": "https://podcasts.apple.com/podcast/peter-young-on-surviving-a-cult-and-finding-freedom/id1854458418?i=1000766632992",
+        "youtube": "https://www.youtube.com/watch?v=GLzhW-dd8_Q"
+      }
+    }
+  ]
+}

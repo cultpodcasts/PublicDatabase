@@ -1,0 +1,25 @@
+{
+  "id": "504f7393-7540-4307-b6f1-cfbe1c750aa5",
+  "name": "My Therapist Said",
+  "spotifyId": "0Ljq5pUJNlwRwIUiVTnHmP",
+  "appleId": 1777512045,
+  "episodes": [
+    {
+      "id": "c802e4ed-e853-452e-ad49-c5d32b926e5a",
+      "title": "Grief, But Keep It Moving",
+      "description": "A very Friday episode. We\u2019re talking trash TV (including Trust Me on Netflix), cult documentaries, life feeling like it\u2019s either falling apart or falling into place (who knows), and how to remind yourself you\u2019re still doing okay in the middle of it. Also\u2026 a childhood story that truly didn\u2019t need to happen to me, but did. New episodes every Wednesday and Friday.Follow along on IG \u0026 TikTok: @mytherapistsaidpod \u0026#x1f49a;\u0026#x1f3a7;",
+      "release": "2026-05-01T07:22:00Z",
+      "duration": "00:45:34.4250000",
+      "explicit": true,
+      "spotifyId": "2WuVz9EgnIyzQE0I88uJjs",
+      "appleId": 1000765169579,
+      "subjects": [
+        "FLDS Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2WuVz9EgnIyzQE0I88uJjs",
+        "apple": "https://podcasts.apple.com/podcast/grief-but-keep-it-moving/id1777512045?i=1000765169579"
+      }
+    }
+  ]
+}

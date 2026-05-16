@@ -1,0 +1,31 @@
+{
+  "id": "9c8e62b5-417f-4006-8c93-87469d4ab59f",
+  "name": "The Brian Lehrer Show",
+  "spotifyId": "39nL5PQP2w5PBhnN9wGmHG",
+  "appleId": 73331636,
+  "youTubeChannelId": "UCbysmY4hyViQAAYEzOR-uCQ",
+  "youTubePlaylistId": "PLUQrcRVuC9YIMlbibLKzrGte1kR7r4Aph",
+  "episodes": [
+    {
+      "id": "2f687a32-a63d-41c3-ac45-5ccb96187d72",
+      "title": "Justice for Epstein Victims Through NYS",
+      "description": "Zellnor Myrie, New York State Senator (D-20, parts of central Brooklyn including Crown Heights, Prospect Heights and Park Slope), talks about his bill that would allow survivors of sexual abuse by Jeffrey Epstein to seek damages from the Epstein estate, plus other budget-related news of the day. Photo: State Sen. Zellnor Myrie, center, questions New York State Police Superintendent Steven G. James, Daniel Martuscello III, commissioner of the state Department of Corrections and Community Supervision and Joseph Popcun, deputy commissioner of the New York Division of Criminal Justice Services, during a joint legislative budget hearing on public protection on Thursday, Feb. 12, 2026, at the Legislative Office Building in Albany, N.Y. (Will Waldron/Albany Times Union via Getty Images)",
+      "release": "2026-05-05T16:02:39Z",
+      "duration": "00:19:52.9600000",
+      "explicit": false,
+      "spotifyId": "4a4KtlIPM5a9xydxUT11Yw",
+      "appleId": 1000766266093,
+      "youTubeId": "-8ZMpeIECzE",
+      "subjects": [
+        "Human Trafficking",
+        "_America",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4a4KtlIPM5a9xydxUT11Yw",
+        "apple": "https://podcasts.apple.com/podcast/justice-for-epstein-victims-through-nys/id73331636?i=1000766266093",
+        "youtube": "https://www.youtube.com/watch?v=-8ZMpeIECzE"
+      }
+    }
+  ]
+}

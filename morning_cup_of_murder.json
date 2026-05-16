@@ -1,0 +1,42 @@
+{
+  "id": "365deb86-517d-4d3f-adb8-c1e2b4b3abf3",
+  "name": "Morning Cup of Murder",
+  "spotifyId": "15iWCbU7QoO23EndPEO6aN",
+  "appleId": 1462365038,
+  "episodes": [
+    {
+      "id": "d84d1564-f686-4477-9841-552d53477451",
+      "title": "The Apocalypse and the Cult in the Cave - May 16 2026",
+      "description": "May 16th: Last Members of True Russian Orthodox Church Leave Cave (2008) Belief in something can sometimes cloud even the best of judgments. On May 16th 2008 the last of a group of women left the caves after months of believing the apocalypse was coming. Women who put their lives in danger based on the belief in one man who called himself a profit. Today\u2019s episode is re-working/re-recording of a Patreon episode from 2020 about the True Russian Orthodox Church. Better known to some as a cult. Wikipedia, telegraph.co.uk , CBC News, religonnewsblog.com , culteducationinstitute.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-05-16T05:00:00Z",
+      "duration": "00:08:47.6990000",
+      "explicit": false,
+      "spotifyId": "4JtOvwSEmWh2dhWXlHGGve",
+      "appleId": 1000768077252,
+      "subjects": [
+        "True Russian Orthodox Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4JtOvwSEmWh2dhWXlHGGve",
+        "apple": "https://podcasts.apple.com/podcast/the-apocalypse-and-the-cult-in-the-cave-may-16-2026/id1462365038?i=1000768077252"
+      }
+    },
+    {
+      "id": "35ca6b7e-94bf-455a-8d0a-d2f6f1a524c2",
+      "title": "The Brides of Christ Church Cult - May 7 2026",
+      "description": "May 7th: Edmund Creffield Assassinated (1906) Having faith in someone can sometimes lead you astray. On May 7th 1906 a man was assassinated by someone who was fed up with his antics. Ones that, many believed, led an entire group astray and created an incredibly toxic, and dangerous, environment. https://en.wikipedia.org/wiki/Edmund_Creffield#Assassination , https://www.historylink.org/File/4263 , https://www.oregonencyclopedia.org/articles/creffield_edmund_and_the_brides_of_christ_church/ , https://mchumor.com/edmundcreffield.com/ , https://www.nydailynews.com/2019/06/23/franz-edmund-creffield-and-the-cult-of-personality/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-05-07T05:00:00Z",
+      "duration": "00:14:25.5670000",
+      "explicit": false,
+      "spotifyId": "38rU2SvPZ1L82vHhoLS28x",
+      "appleId": 1000766563083,
+      "subjects": [
+        "Edmund Creffield"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/38rU2SvPZ1L82vHhoLS28x",
+        "apple": "https://podcasts.apple.com/podcast/the-brides-of-christ-church-cult-may-7-2026/id1462365038?i=1000766563083"
+      }
+    }
+  ]
+}

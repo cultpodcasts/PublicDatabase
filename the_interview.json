@@ -1,0 +1,26 @@
+{
+  "id": "21f5e0d2-97f1-45cd-a9bf-b80aa25567ac",
+  "name": "The Interview",
+  "spotifyId": "3OLU3WKNozcvpcmgO7PEax",
+  "appleId": 494517111,
+  "episodes": [
+    {
+      "id": "6682ab72-9e47-43ed-8694-096da5cfb619",
+      "title": "The Epstein survivors speak",
+      "description": "Victoria Derbyshire speaks to survivors of paedophile Jeffrey Epstein, the disgraced financier who died in prison in 2019 while awaiting a trial for sex trafficking.\nThe interview took place in Washington DC, two weeks before Melania Trump, US First Lady, gave an unexpected press conference at the White House where she called for congressional hearings for the Epstein survivors.\nMillions of documents, emails and photographs are now in the public domain and show Epstein\u2019s connections to high profile figures from politics, business and royalty.\nIn this interview, which some listeners may find upsetting, Chauntae Davies, Joanna Harrison, Jena-Lisa Jones, Wendy Pesante and Lisa Phillips share their experiences, and discuss the impact that the abuse has had on their lives. \nThank you to the Newsnight team for their help in making this programme.\nIf you\u2019ve been affected by this programme, you can reach out to Befrienders Worldwide for help by visiting befrienders.org \nThe Interview brings you conversations with people shaping our world, from all over the world. You can listen on the BBC World Service on Mondays, Wednesdays and Fridays at 0800 GMT. Or you can listen to The Interview as a podcast, out three times a week on BBC Sounds or wherever you get your podcasts. \nPresenter: Victoria Derbyshire\nProducers: Katherine Hodgson, Charlotte Sexton, Carys Nally and Ben Cooper\nEditor: Damon Rose\nGet in touch with us on email TheInterview@bbc.co.uk and use the hashtag #TheInterviewBBC on social media.",
+      "release": "2026-04-16T23:30:00Z",
+      "duration": "00:22:58",
+      "explicit": false,
+      "spotifyId": "23uMT9ujI1qipUMeY6BqOj",
+      "appleId": 1000761902876,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/23uMT9ujI1qipUMeY6BqOj",
+        "apple": "https://podcasts.apple.com/podcast/the-epstein-survivors-speak/id494517111?i=1000761902876"
+      }
+    }
+  ]
+}

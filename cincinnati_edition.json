@@ -1,0 +1,30 @@
+{
+  "id": "c73c4b6d-c5ef-4d43-b056-50fd5035589f",
+  "name": "Cincinnati Edition",
+  "spotifyId": "4aetSHH7mt72NAy039WfAD",
+  "appleId": 1153761183,
+  "youTubeChannelId": "UCuuh_XCzD0n4PdB5i2fYvsw",
+  "youTubePlaylistId": "PLBi4P2oDyslHt-E6tPHnYO5_kZViTUFzo",
+  "episodes": [
+    {
+      "id": "000b3954-971f-4f60-9f38-89ded6bfbfd6",
+      "title": "Rep. Thomas Massie talks Trump, the \u0027Big Beautiful Bill\u0027 and the Epstein Files",
+      "description": "On Cincinnati Edition, he also discusses his primary challenger and why the president is backing his opponent.",
+      "release": "2026-05-13T17:58:15Z",
+      "duration": "00:47:57",
+      "explicit": false,
+      "spotifyId": "4DGVd5mR5KGawstT8Ega1C",
+      "appleId": 1000767620948,
+      "youTubeId": "jPuFi6hwAgg",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4DGVd5mR5KGawstT8Ega1C",
+        "apple": "https://podcasts.apple.com/podcast/rep-thomas-massie-talks-trump-the-big-beautiful-bill/id1153761183?i=1000767620948",
+        "youtube": "https://www.youtube.com/watch?v=jPuFi6hwAgg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "75e8440e-fc7f-493a-8414-17a773dcdc80",
+  "name": "ABC24 Memphis",
+  "youTubeChannelId": "UCwG8tm-dZVur_4S1DnGMaeA",
+  "episodes": [
+    {
+      "id": "f47ca58d-4707-4f7b-a0c1-34cad46beb07",
+      "title": "EXCLUSIVE | Wife of Memphis nonprofit founder arrested on Epstein Island speaks out",
+      "description": "Jessica Owen, the wife of the Memphis native who was \u0027hogtied\u0027 on Epstein Island, speaks with ABC24.",
+      "release": "2026-04-30T07:59:10Z",
+      "duration": "00:19:55",
+      "explicit": false,
+      "youTubeId": "WHKJ4W0zIpc",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WHKJ4W0zIpc"
+      }
+    },
+    {
+      "id": "a0b668bb-a18e-4859-8004-eb8548725d4e",
+      "title": "Memphis man charged with trespassing on Epstein Island; his wife talked to ABC24",
+      "description": "The wife of the Memphis nonprofit owner charged with trespassing on Epstein Island spoke with ABC24\u0027s Lauren Turman.",
+      "release": "2026-04-30T04:08:20Z",
+      "duration": "00:02:35",
+      "explicit": false,
+      "youTubeId": "ib3FBBDqk1s",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ib3FBBDqk1s"
+      }
+    }
+  ]
+}

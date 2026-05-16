@@ -1,0 +1,29 @@
+{
+  "id": "58fcf2da-9da0-4646-986b-fe8744b9facb",
+  "name": "All Across America",
+  "spotifyId": "5rRGcglEyErNKLMdwffPz5",
+  "appleId": 1610894712,
+  "youTubeChannelId": "UC2cnpNnraGA-v74BP6escWQ",
+  "episodes": [
+    {
+      "id": "deddb6ed-3650-46a5-8100-1a1ec2ebbd3a",
+      "title": "#104 \u2013 Daniella Mestyanek Young, College Park, Maryland",
+      "description": "Daniella grew up as a third-generation member of the Children of God cult. After leaving the cult, she served as an intelligence officer in the U.S. Army, completing two combat deployments to Afghanistan. Daniella is the author of \u0022Uncultured,\u0022 and her most recent book, \u0022The Culting of America.\u0022",
+      "release": "2026-05-01T04:00:00Z",
+      "duration": "01:00:46.4580000",
+      "explicit": false,
+      "spotifyId": "2SNVPohnyl4UB89XXkHAOZ",
+      "appleId": 1000765044464,
+      "youTubeId": "h7MQ-LXgTZY",
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2SNVPohnyl4UB89XXkHAOZ",
+        "apple": "https://podcasts.apple.com/podcast/104-daniella-mestyanek-young-college-park-maryland/id1610894712?i=1000765044464",
+        "youtube": "https://www.youtube.com/watch?v=h7MQ-LXgTZY"
+      }
+    }
+  ]
+}

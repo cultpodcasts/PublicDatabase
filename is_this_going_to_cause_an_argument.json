@@ -1,0 +1,25 @@
+{
+  "id": "49156385-18f5-4cb4-88b2-91259c69ad5b",
+  "name": "Is This Going To Cause An Argument",
+  "spotifyId": "2SfYu3hm5X7ZNXLAyaby97",
+  "appleId": 1081072067,
+  "episodes": [
+    {
+      "id": "4c295046-0721-4428-a5a4-6cc165c4e4aa",
+      "title": "S11 Ep18: Join My Cult",
+      "description": "Tank and Angel discuss this past mothers day as well as black people and cults. Be sure to check out our sponsor: Tumble",
+      "release": "2026-05-14T16:30:13Z",
+      "duration": "01:08:29.6640000",
+      "explicit": false,
+      "spotifyId": "56sNh6iJ4nlqzgu0hsesza",
+      "appleId": 1000767788120,
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/56sNh6iJ4nlqzgu0hsesza",
+        "apple": "https://podcasts.apple.com/podcast/join-my-cult/id1081072067?i=1000767788120"
+      }
+    }
+  ]
+}

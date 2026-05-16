@@ -5,6 +5,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "2072e651-f0ac-42b3-ba99-7b8b05b9f0e1",
+      "title": "Sacrament was Terrible",
+      "description": "Brother of Jared and Heavenly Mother lament on the first hour of church, the most important, Sacrament meeting",
+      "release": "2026-05-10T10:00:00Z",
+      "duration": "00:59:50",
+      "explicit": false,
+      "spotifyId": "4ifECsI9BsWgoxLV4kK2Q0",
+      "appleId": 1000767109527,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ifECsI9BsWgoxLV4kK2Q0",
+        "apple": "https://podcasts.apple.com/podcast/sacrament-was-terrible/id1555494727?i=1000767109527"
+      }
+    },
+    {
       "id": "594cf312-3437-4a04-b64e-f32e476abf38",
       "title": "General Conference will Love Bomb You",
       "description": "The Brother of Jared and Heavenly Mother recap GA but focus mostly on the tactic the church uses to reactivate, convert, or keep you in, commonly referred to as \u0022love bombing\u0022",

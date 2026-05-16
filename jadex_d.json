@@ -1,0 +1,25 @@
+{
+  "id": "ae84eb1d-f047-4a96-b1be-4dff5d0f9a84",
+  "name": "Jade \u002B X. D.",
+  "spotifyId": "1gEVSPOb99YtK1GkCgpXRs",
+  "appleId": 1578749770,
+  "episodes": [
+    {
+      "id": "12cb25e4-6c59-4be3-acea-204574a81355",
+      "title": "Sh!tting In The Woods: The Story of Nature Boy featuring @TyreakToldYou\u2069!",
+      "description": "We\u0027re discussing Hulu\u0027s latest doc The Cult of Nature Boy with our friend and social media celebrity Tyreak! Follow Tyreak on all platforms ===\u003E @TyreakToldYou",
+      "release": "2026-05-08T09:00:23Z",
+      "duration": "01:39:01.1280000",
+      "explicit": true,
+      "spotifyId": "6W8sqy5XqOHAMPzwMC12HW",
+      "appleId": 1000766764886,
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6W8sqy5XqOHAMPzwMC12HW",
+        "apple": "https://podcasts.apple.com/podcast/sh-tting-in-the-woods-the-story-of-nature/id1578749770?i=1000766764886"
+      }
+    }
+  ]
+}

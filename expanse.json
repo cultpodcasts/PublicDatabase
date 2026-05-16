@@ -7,6 +7,24 @@
   "youTubePlaylistId": "PLDTPrMoGHssBabkHzoDvVb4FLQEAlkW_-",
   "episodes": [
     {
+      "id": "21ffbfc5-bfce-4c69-ba8f-8b552347fbf6",
+      "title": "Behind the scenes | S6 host Dominique Bayens in conversation",
+      "description": "What goes into making a season of Expanse? What considerations are made when telling the stories of people\u0027s lives? Host of Expanse: The Nannup Four, Dominique Bayens, sits down with fellow podcast host Phil Vine to take you behind the curtain.",
+      "release": "2026-04-27T16:00:00Z",
+      "duration": "00:20:22",
+      "explicit": false,
+      "spotifyId": "0bAYgfuVLw19f5k3qTYZ1d",
+      "appleId": 1000763833593,
+      "subjects": [
+        "The Truth Fellowship",
+        "Aiping Wang"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0bAYgfuVLw19f5k3qTYZ1d",
+        "apple": "https://podcasts.apple.com/podcast/behind-the-scenes-s6-host-dominique-bayens-in-conversation/id1635088231?i=1000763833593"
+      }
+    },
+    {
       "id": "ba5becea-5092-4b96-95c7-6cb69e89ffc9",
       "title": "BONUS | Inside the Nannup Four police investigation",
       "description": "It has been months in the making, but police are opening up the files on the missing Nannup Four for Expanse host Dominique Bayens, and there\u0027s news on another search.",

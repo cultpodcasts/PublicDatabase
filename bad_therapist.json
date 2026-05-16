@@ -1,0 +1,25 @@
+{
+  "id": "fc0c5d33-a6ab-4d85-bc90-6828430a2b9e",
+  "name": "Bad Therapist",
+  "spotifyId": "4sTJqujWRNqXnOC1pmT6FU",
+  "appleId": 1780035004,
+  "episodes": [
+    {
+      "id": "158e6033-9612-4de3-885f-f23444167e85",
+      "title": "Elisabeth K\u00FCbler-Ross",
+      "description": "Rachel and Ash explore the work of Elizabeth K\u00FCbler-Ross and her five stages of death/grief. A scammy cult is involved, because a scammy cult always seems to be involved. SOURCES: Elizabeth K\u00FCbler-Ross - On Death and Dying (1969) Elizabeth K\u00FCbler-Ross - On Life After Death (1991) Elizabeth K\u00FCbler-Ross - The Wheel of Life: A Memoir (1997) Jessica Weisberg - Asking for a Friend: Three Centuries of Advice on Life, Love, Money, and Other Burning Questions from a Nation Obsessed (2007) \u0022Doctor Noted for Work with the Dying Involved in Controversy Over Seances,\u0022 Los Angeles Times, October 15, 1979 Produced by Zoe Kurland. Music by Flock of Dimes.",
+      "release": "2026-04-29T11:00:00Z",
+      "duration": "01:05:05.1360000",
+      "explicit": false,
+      "spotifyId": "6z8FKAhcYgByaClmZSYx0L",
+      "appleId": 1000764381410,
+      "subjects": [
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6z8FKAhcYgByaClmZSYx0L",
+        "apple": "https://podcasts.apple.com/podcast/elisabeth-k%C3%BCbler-ross/id1780035004?i=1000764381410"
+      }
+    }
+  ]
+}

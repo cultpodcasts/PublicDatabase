@@ -701,6 +701,9 @@
       "explicit": true,
       "spotifyId": "2PZ1Wa2f6kgWI3kHYvVlQK",
       "appleId": 1000490389363,
+      "subjects": [
+        "Carbon Nation"
+      ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2PZ1Wa2f6kgWI3kHYvVlQK",
         "apple": "https://podcasts.apple.com/podcast/episode-34-carbonation-natureboy/id1369740428?i=1000490389363"

@@ -1,0 +1,60 @@
+{
+  "id": "5318d847-84a4-4e18-a935-beb1316e843e",
+  "name": "Medical Media Mixer",
+  "spotifyId": "00GCeZxxErGThUXtoX9iDq",
+  "appleId": 1787208464,
+  "youTubeChannelId": "UCqfLbFT7yge6FWnKadVs0XA",
+  "episodes": [
+    {
+      "id": "30b30d8d-8039-4daa-af46-21b0299aebe5",
+      "title": "Ep 71 The Reforma: Inside the Troubled Teen Industry \u2014 Reform Schools, Real Harm, and the Fight for Reform",
+      "description": "In Episode 71, we\u0027re shaking up a Reforma cocktail and diving into one of the most disturbing \u2014 and underreported \u2014 corners of American institutional life: the troubled teen industry. Inspired by Netflix\u0027s psychological thriller Wayward (starring Toni Collette), the 2020 Paris Hilton documentary This Is Paris, and a wave of recent documentaries including Hell Camp: Teen Nightmare, The Program: Cons, Cults, and Kidnapping, and the Amazon Prime series Boys School, we\u0027re pulling back the curtain on so-called \u0022therapeutic boarding schools,\u0022 wilderness programs, boot camps, and reform schools that have operated \u2014 often with little oversight \u2014 for decades. We\u0027ll explore the roots of the troubled teen industry, the psychological tactics used on children, the documented patterns of physical and emotional abuse, the long-term mental health consequences for survivors, and the legal and legislative efforts finally pushing for accountability. Because when the \u0022treatment\u0022 causes more trauma than the problem it claims to fix, that\u0027s not medicine \u2014 that\u0027s harm.\nSources \u0026amp; Further Reading:\n\n\uD83C\uDF79 Reforma Cocktail Recipe \u2014 Imbibe Magazine\n\uD83D\uDCFA Wayward \u2014 Wikipedia\n\uD83C\uDFAC This Is Paris Documentary \u2014 Wikipedia\n\uD83D\uDD25 Hell Camp: Teen Nightmare \u2014 Netflix\n\uD83D\uDCD6 Reform School \u2014 Wikipedia\n\uD83D\uDE94 Scared Straight! \u2014 Wikipedia\n\uD83C\uDFAC The Program: Cons, Cults, and Kidnapping \u2014 Netflix\n\uD83D\uDCD6 The Program: Cons, Cults, and Kidnapping \u2014 Wikipedia\n\uD83D\uDCFA Boys School \u2014 Prime Video\n\u2696\uFE0F Troubled Teen Industry Abuse Litigation Group \u2014 Justice.org\n\uD83D\uDCC4 COPS Resource Center \u2014 Reform Programs PDF",
+      "release": "2026-05-11T09:00:00Z",
+      "duration": "00:47:17.4580000",
+      "explicit": true,
+      "spotifyId": "06r9svMv2qIt8eZZfKASKb",
+      "appleId": 1000767166065,
+      "youTubeId": "w1ok2VroN5w",
+      "subjects": [
+        "Troubled Teen Industry",
+        "Legislation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/06r9svMv2qIt8eZZfKASKb",
+        "apple": "https://podcasts.apple.com/podcast/ep-71-the-reforma-inside-the-troubled-teen/id1787208464?i=1000767166065",
+        "youtube": "https://www.youtube.com/watch?v=w1ok2VroN5w"
+      }
+    },
+    {
+      "id": "b22a9ef5-d778-4111-b9d9-c3e3ef9549d9",
+      "title": "Ep 69 The Kool-Aid Shooter: Sexy Cults and Not so Sexy Cults -The Psychology of Cults Explained",
+      "description": "From Jonestown to NXIVM, from Heaven\u0027s Gate to the FLDS \u2014 cults have captivated our screens and our imaginations for decades. But what actually makes someone vulnerable to cult recruitment, and what keeps them from leaving? In Episode 69, Tara and Nicole crack open the psychology behind cult dynamics, exploring how charismatic leaders exploit conformity bias, trauma bonding, love bombing, and isolation to maintain control over their followers. Drawing from an incredible lineup of documentaries and films \u2014 including Wild Wild Country, The Vow, Keep Sweet: Pray and Obey, Jonestown, Holy Hell, The Way Down, The Synanon Fix, Dancing for the Devil, Stolen Youth, Sins of Our Mother, Escaping Twin Flames, The Deep End, Love Has Won, The Garden, and the fictional but chillingly real-feeling Sound of My Voice and Martha Marcy May Marlene \u2014 this episode breaks down the warning signs, the social science, and the path to recovery. Paired this week with a Kool-Aid Shooter (don\u0027t worry, this one\u0027s safe to drink). Cocktail recipe drops the weekend before \u2014 follow us so you don\u0027t miss it! Sources: Kool-Aid Shooter Recipe \u2013 The Spruce Eats \u0022Drinking the Kool-Aid\u0022 \u2013 Wikipedia Sound of My Voice \u2013 Wikipedia Martha Marcy May Marlene \u2013 Wikipedia Churches, Denominations, Sects, and Cults \u2013 EBSCO Research What Makes a Cult Leader? \u2013 People Leave Cults Psychological Impact of Cult Involvement \u2013 PMC/NIH Asch Conformity Experiments \u2013 Wikipedia Hawthorne Effect \u2013 Wikipedia New episodes every Monday \u2192 Hit that subscribe button! \u0026#x1f514; \u2B50\uFE0F Rate and Review \u0026#x1f378; Cocktail recipes drop on socials every weekend before the episode airs \u0026#x1f379; If you love the podcast, please join our \u0026#x1f4b3; Patreon to support our continued success! If you don\u0027t want to commit to a monthly contribution, you can always donate on \u2615\uFE0F Buy Me a Coffee \u0026#x1f3b6; Music Credits: Music by Vlad Krotov, Sound Effect by Akiva Vita For updates visit our \u0026#x1f4bb; Website",
+      "release": "2026-04-27T10:42:38Z",
+      "duration": "01:16:54.7910000",
+      "explicit": true,
+      "spotifyId": "2NymNAiJBeBNlBRLVLzPYq",
+      "appleId": 1000763778235,
+      "youTubeId": "1QOyQUKUW5M",
+      "subjects": [
+        "FLDS Church",
+        "Cult Psychology",
+        "NXIVM",
+        "Peoples Temple",
+        "Psychology",
+        "7M Films",
+        "Bhagwan Shree Rajneesh",
+        "Buddhafield",
+        "Heaven\u0027s Gate",
+        "Love Has Won",
+        "One-on-one",
+        "Synanon",
+        "Twin Flames Universe"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2NymNAiJBeBNlBRLVLzPYq",
+        "apple": "https://podcasts.apple.com/podcast/ep-69-the-kool-aid-shooter-sexy-cults-and-not-so/id1787208464?i=1000763778235",
+        "youtube": "https://www.youtube.com/watch?v=1QOyQUKUW5M"
+      }
+    }
+  ]
+}

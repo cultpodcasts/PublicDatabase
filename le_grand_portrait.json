@@ -1,0 +1,26 @@
+{
+  "id": "5ab15ecd-8db7-440b-a99e-4d278fe7e015",
+  "name": "Le Grand portrait",
+  "spotifyId": "3mI1FSqvVAfA2UXAQTDeWx",
+  "appleId": 1642290489,
+  "episodes": [
+    {
+      "id": "b78c5ac7-be59-42ca-b757-34bebad58d76",
+      "title": "\u0022Les Hommes de la rue du Bac\u0022 : In\u00E8s Chatin brise le silence sur son enfance vol\u00E9e",
+      "description": "dur\u00E9e : 00:21:06  - Le Grand portrait   - par : Sonia Devillers - Pour la premi\u00E8re fois, In\u00E8s Chatin prend la parole publiquement. Victime de p\u00E9docriminalit\u00E9 dans son enfance, elle a accept\u00E9 de t\u00E9moigner. Son r\u00E9cit, gla\u00E7ant, est au c\u0153ur d\u0027un livre sign\u00E9 par le journaliste de Lib\u00E9ration Willy Le Devin, \u0022Les Hommes de la rue du Bac\u0022, publi\u00E9 chez JC Latt\u00E8s.   - r\u00E9alisation : Lucie Lemarchand, Alexandre Gilardi, Perrine Malinge, Mathilde Khlat, Am\u00E9lie Stadelmann, Joachim Taieb, Capucine Aubert, Alexandra Brouillet, Cl\u00E9a Journault \n\nVous aimez ce podcast ? Pour \u00E9couter tous les \u00E9pisodes sans limite, rendez-vous sur Radio France",
+      "release": "2026-04-07T07:07:10Z",
+      "duration": "00:21:06",
+      "explicit": false,
+      "spotifyId": "0qEKrY0if2aju02H8qWWqA",
+      "appleId": 1000759991731,
+      "subjects": [
+        "Fourth Way",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0qEKrY0if2aju02H8qWWqA",
+        "apple": "https://podcasts.apple.com/podcast/les-hommes-de-la-rue-du-bac-in%C3%A8s-chatin-brise-le/id1642290489?i=1000759991731"
+      }
+    }
+  ]
+}

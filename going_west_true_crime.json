@@ -3,6 +3,7 @@
   "name": "Going West: True Crime",
   "spotifyId": "064ffm3t4EQWhM0WQP90W0",
   "appleId": 1448151398,
+  "youTubeChannelId": "UCH22T-6PcAxISJxd-wcwlEA",
   "episodes": [
     {
       "id": "d8ed5499-3497-4930-8a55-6dbf572697db",
@@ -19,6 +20,25 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/1G1sTUB1K6xYF1wibYdUc8",
         "apple": "https://podcasts.apple.com/podcast/veronica-butler-jilian-kelley-525/id1448151398?i=1000720189783"
+      }
+    },
+    {
+      "id": "df0f7606-8af7-4051-b97e-00b3293d4ff9",
+      "title": "Celina Mays // 462",
+      "description": "In December of 1996, a 12-year-old girl went missing from her New Jersey home overnight. Her family fell under suspicion when they took 24 hours to report the disappearance, and then weeks to publicize it. But investigators were even more wary of her family when it was revealed that they operated a religious cult, and later, were casually informed that this 12-year-old victim was pregnant. This is the story of Celina Mays. Learn more about your ad choices. Visit podcastchoices.com/adchoices Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2024-12-20T08:01:00Z",
+      "duration": "00:50:41.0970000",
+      "explicit": false,
+      "spotifyId": "0Iz0Z36fP1B6vN2L8UInvT",
+      "appleId": 1000681109193,
+      "youTubeId": "g8RJxGea7iw",
+      "subjects": [
+        "Gospel of Christ Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Iz0Z36fP1B6vN2L8UInvT",
+        "apple": "https://podcasts.apple.com/podcast/celina-mays-462/id1448151398?i=1000681109193",
+        "youtube": "https://www.youtube.com/watch?v=g8RJxGea7iw"
       }
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "id": "6decffd9-66d6-46da-8a5e-046ad58a622b",
+  "name": "Nightline",
+  "spotifyId": "2wKApk5p4EjIFqNwY8U8vR",
+  "appleId": 73331713,
+  "episodes": [
+    {
+      "id": "58f409e6-9485-4c93-b244-665accb1dfd7",
+      "title": "Full Episode for Friday May 1, 2026",
+      "description": "The cult of Nature Boy. The rising social media star luring his followers with false promises of a Black Utopia. Masking the sinister truth. Plus, Adrien Brody\u2019s Broadway debut. And Madonna\u0027s new debut. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2026-05-02T05:00:00Z",
+      "duration": "00:21:56.3620000",
+      "explicit": false,
+      "spotifyId": "74jIiWQwAxawOuPxpvP2Ao",
+      "appleId": 1000765718077,
+      "subjects": [
+        "Carbon Nation"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/74jIiWQwAxawOuPxpvP2Ao",
+        "apple": "https://podcasts.apple.com/podcast/full-episode-for-friday-may-1-2026/id73331713?i=1000765718077"
+      }
+    }
+  ]
+}

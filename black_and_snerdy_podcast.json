@@ -1,0 +1,29 @@
+{
+  "id": "fc8983dd-ac78-4b0c-91f8-e443c65a52a2",
+  "name": "Black and Snerdy Podcast",
+  "spotifyId": "3L4venFIYu0kDs1NAiNVY8",
+  "appleId": 1587454984,
+  "youTubeChannelId": "UCEIwG_QRWoUFZZH9g-OVvkA",
+  "episodes": [
+    {
+      "id": "c353f3f7-ec31-4a5a-b394-4b3b88edccb4",
+      "title": "Ep 186: Context and Guardrails",
+      "description": "On this episode of Black and Snerdy, Ode (\u2060@thatsod.e\u2060 / \u2060@thatsod_e\u2060) and Mo \u0022Kid\u0022 Licorish (\u2060@licorishislegit\u2060) examine the disturbing criminal case involving the artist David (D4VD) and the tragic death of Celeste Rivas Hernandez. They detail how online platforms like Discord and Twitch created the environment for alleged grooming and discuss the broader implications of parasocial relationships in the digital age. The conversation shifts to the rise and fall of Eligio Bishop, also known as Nature Boy, as they recount the history of the Carbon Nation cult, its international expulsions, and the documented accounts of forced labor and manipulation found in \u0022Hood Horrors\u0022 and Hulu documentaries. Along the way, they analyze a viral misinformation post about Heritage Foundation president Kevin Roberts and introduce a new segment where Ode attempts to recap the hit anime Jujutsu Kaisen for a very skeptical Mo.",
+      "release": "2026-05-08T22:00:00Z",
+      "duration": "01:01:33.7170000",
+      "explicit": true,
+      "spotifyId": "3gTYWzOutWh0RI8qd2jaV5",
+      "appleId": 1000766855173,
+      "youTubeId": "BJHIdF6-MHs",
+      "subjects": [
+        "Carbon Nation",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3gTYWzOutWh0RI8qd2jaV5",
+        "apple": "https://podcasts.apple.com/podcast/ep-186-context-and-guardrails/id1587454984?i=1000766855173",
+        "youtube": "https://www.youtube.com/watch?v=BJHIdF6-MHs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "14ab0633-0ee5-43ff-a193-5b79b16762fb",
+  "name": "The Nicky Gordo Show",
+  "youTubeChannelId": "UCK6fjOcQ8fW3fAa-6O4DiZQ",
+  "episodes": [
+    {
+      "id": "8fbb2c5f-0cf7-4f39-9149-9c9e5cb991ae",
+      "title": "I Debated A Scientologist \u0026 He Crashed Out",
+      "description": "Nicky Gordo sits down with a high level scientologist and it all spirals down.",
+      "release": "2026-05-08T18:00:28Z",
+      "duration": "00:55:39",
+      "explicit": false,
+      "youTubeId": "ZSds_L4zHBA",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZSds_L4zHBA"
+      }
+    }
+  ]
+}
