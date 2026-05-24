@@ -1,0 +1,37 @@
+{
+  "id": "3fa75fad-fd47-4de2-9fa7-e8cd4aa2e3b5",
+  "name": "Megan Morgan",
+  "spotifyId": "0NW9n4wUW9l3p1as8lPf0d",
+  "youTubeChannelId": "UCac6yRKlKB67KdppBw0pISQ",
+  "episodes": [
+    {
+      "id": "026c05a3-609b-41e2-b35a-00fac9ec4142",
+      "title": "Cette secte dont vous n\u0027avez JAMAIS entendu parler...",
+      "description": "Vous voulez me supporter un peu plus encore ? N\u0027h\u00E9sitez pas a booster la video ou encore laisser un petit \u0022Merci\u0022 mon\u00E9taire. \n\nA tr\u00E8s vite pour d\u0027autres vid\u00E9os \uD83D\uDDA4",
+      "release": "2026-05-24T14:08:12Z",
+      "duration": "00:34:20",
+      "explicit": false,
+      "youTubeId": "jtp20OTWuxM",
+      "subjects": [
+        "Order of St Charbel"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=jtp20OTWuxM"
+      }
+    },
+    {
+      "id": "248d7485-1aa8-4c11-84c4-5f99bc1de19f",
+      "title": "La secte des Sexton - Ces 12 enfants ont v\u00E9cu L\u2019ENFER..",
+      "description": "Cette tr\u00E8s grande famille d\u2019apparence tout \u00E0 fait normale cache en r\u00E9alit\u00E9 de tr\u00E8s, tr\u00E8s sombres secrets. Entre abus, violences, inceste et meurtre, absolument toutes les horreurs possibles ont \u00E9t\u00E9 commises. Suivez moi sur youtube : https://www.youtube.com/@MeganMorgan Suivez moi sur instagram : https://www.instagram.com/meganmorgan.yt/ Vous voulez me supporter un peu plus encore ? Vous pouvez me payer un caf\u00E9, ca me ferai super plaisir : https://www.buymeacoffee.com/MeganMorgan A tr\u00E8s vite \u0026#x1f5a4;",
+      "release": "2026-04-28T00:00:00",
+      "duration": "00:41:38.5680000",
+      "explicit": true,
+      "spotifyId": "2YK8A6yavv5djUP8YhYOzw",
+      "youTubeId": "pVVbX5y0fkQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2YK8A6yavv5djUP8YhYOzw",
+        "youtube": "https://www.youtube.com/watch?v=pVVbX5y0fkQ"
+      }
+    }
+  ]
+}

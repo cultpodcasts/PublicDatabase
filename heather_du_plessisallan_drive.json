@@ -1,0 +1,25 @@
+{
+  "id": "0be4f33b-6892-47a4-bf68-5eb2bfb91b9b",
+  "name": "Heather du Plessis-Allan Drive",
+  "spotifyId": "7sc3DflAaLkAerSK1HnFxJ",
+  "appleId": 1228993643,
+  "episodes": [
+    {
+      "id": "fb1f9ef3-083b-4b23-89c2-14b8d91ee2bb",
+      "title": "Peter Lineham: Massey University Emeritus Professor of religion on the Plymouth Brethren Christian Church ordering a pet cull",
+      "description": "Kiwi members of a religious sect may be putting down pets, on a directive from leaders. The Plymouth Brethren Christian Church has told followers to get rid of their animals after a young family member of leader, Bruce Hales, was attacked by a dog. Reportedly, many have already done so. Massey University religious studies expert, Peter Lineham, says members are being required to declare what they\u2019ve done with pets at church meetings this month. \u0022We can expect possibly some people who love their dogs more than God will leave the Brethren over this.\u0022 LISTEN ABOVE See omnystudio.com/listener for privacy information.",
+      "release": "2026-05-19T06:03:08Z",
+      "duration": "00:02:48.4630000",
+      "explicit": false,
+      "spotifyId": "1Xh34YZrUvqL0bOIv8BcLD",
+      "appleId": 1000768515896,
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Xh34YZrUvqL0bOIv8BcLD",
+        "apple": "https://podcasts.apple.com/podcast/peter-lineham-massey-university-emeritus-professor/id1228993643?i=1000768515896"
+      }
+    }
+  ]
+}

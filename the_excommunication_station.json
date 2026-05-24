@@ -5,6 +5,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a272905b-a912-49ff-966e-6a39e01f755e",
+      "title": "257. The Christ Family Part II",
+      "description": "We finish up our series on The Jesus People cult, The Christ Family.",
+      "release": "2026-05-19T15:12:48Z",
+      "duration": "01:21:54.5210000",
+      "explicit": true,
+      "spotifyId": "3jsRTbocEHsGkO1efipmgh",
+      "appleId": 1000768582933,
+      "subjects": [
+        "Christ\u0027s Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3jsRTbocEHsGkO1efipmgh",
+        "apple": "https://podcasts.apple.com/podcast/257-the-christ-family-part-ii/id1573190999?i=1000768582933"
+      }
+    },
+    {
       "id": "a8d4da02-61e5-421b-98c0-a4aa1e695e79",
       "title": "256. The Christ Family Part !",
       "description": "This week we start our talk about the cult, The Christ Family",

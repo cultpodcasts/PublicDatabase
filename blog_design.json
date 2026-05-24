@@ -1,0 +1,21 @@
+{
+  "id": "e3d588aa-4c90-4721-9d13-82e0a1e0b469",
+  "name": "Blog Design",
+  "youTubeChannelId": "UC4yH-d337s1Tmp285sIUUUA",
+  "episodes": [
+    {
+      "id": "6d2213c0-33ae-4e43-ba4c-1d4dd93cb390",
+      "title": "Apollo Quiboloy Senate Hearing October 23, 2024",
+      "release": "2024-10-22T23:35:56Z",
+      "duration": "05:10:45",
+      "explicit": false,
+      "youTubeId": "GjNKNz6IDkU",
+      "subjects": [
+        "Apollo Quiboloy"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GjNKNz6IDkU"
+      }
+    }
+  ]
+}

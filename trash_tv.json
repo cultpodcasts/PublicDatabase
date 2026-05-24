@@ -1,0 +1,21 @@
+{
+  "id": "59cfcb56-7d58-4b09-b52f-3b9bd5e057a0",
+  "name": "Trash TV",
+  "youTubeChannelId": "UCv2il4uNw-tEgep6XydfGDg",
+  "episodes": [
+    {
+      "id": "915c30ff-3684-482d-8bb1-8efe77e32d11",
+      "title": "Religious Cult Who Kidnaps Children #JerrySpringer",
+      "release": "2026-05-23T03:48:29Z",
+      "duration": "00:38:32",
+      "explicit": false,
+      "youTubeId": "GpOSV5ZjVGo",
+      "subjects": [
+        "Twelve Tribes"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GpOSV5ZjVGo"
+      }
+    }
+  ]
+}

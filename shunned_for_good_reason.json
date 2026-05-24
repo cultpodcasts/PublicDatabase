@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
   "episodes": [
     {
+      "id": "05843589-adf7-464c-998e-01782246a696",
+      "title": "Where are we now? Hillsong part 2",
+      "release": "2026-05-17T01:13:54Z",
+      "duration": "01:31:33",
+      "explicit": false,
+      "youTubeId": "LqeORlllMNA",
+      "subjects": [
+        "Hillsong"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=LqeORlllMNA"
+      }
+    },
+    {
+      "id": "f3849b51-55f7-446f-93d3-0e924e742c6f",
+      "title": "Where are we now? Hillsong part 1",
+      "release": "2026-05-17T00:43:43Z",
+      "duration": "01:09:44",
+      "explicit": false,
+      "youTubeId": "D69HcKQ9lEw",
+      "subjects": [
+        "Hillsong"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=D69HcKQ9lEw"
+      }
+    },
+    {
       "id": "1a0d8dee-99d6-4f47-aa68-04a4d96a0cff",
       "title": "Where are we now? QAnon",
       "release": "2026-04-19T00:44:40Z",

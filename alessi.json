@@ -1,6 +1,7 @@
 {
   "id": "4c9f348c-0ae8-48a0-81e1-22c75fa7c301",
   "name": "Alessi",
+  "spotifyId": "7t16uk5PR62Fa1lmqtbvQv",
   "youTubeChannelId": "UCyLKzv5fKxGmVQg3cMJJzyQ",
   "episodes": [
     {
@@ -10,11 +11,13 @@
       "release": "2026-01-23T16:30:12Z",
       "duration": "00:17:56",
       "explicit": false,
+      "spotifyId": "1LEWYoJwiuOJ37fOlOALCX",
       "youTubeId": "S4qbZpK42yk",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1LEWYoJwiuOJ37fOlOALCX",
         "youtube": "https://www.youtube.com/watch?v=S4qbZpK42yk"
       }
     },
@@ -25,11 +28,13 @@
       "release": "2026-01-16T16:30:07Z",
       "duration": "00:23:37",
       "explicit": false,
+      "spotifyId": "04CI3NHNn8Sp3DibC3Zfab",
       "youTubeId": "GW4F7My3HM4",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/04CI3NHNn8Sp3DibC3Zfab",
         "youtube": "https://www.youtube.com/watch?v=GW4F7My3HM4"
       }
     },
@@ -40,11 +45,13 @@
       "release": "2026-01-09T16:30:06Z",
       "duration": "00:19:19",
       "explicit": false,
+      "spotifyId": "3ep5eEdEONhO6wxjzbNuue",
       "youTubeId": "OV2vcZ8FPYE",
       "subjects": [
         "FLDS Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3ep5eEdEONhO6wxjzbNuue",
         "youtube": "https://www.youtube.com/watch?v=OV2vcZ8FPYE"
       }
     }

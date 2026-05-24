@@ -1,0 +1,26 @@
+{
+  "id": "6981b270-8a6e-432c-9c25-80a39645c17e",
+  "name": "Ready to Talk with Emma Barnett",
+  "spotifyId": "6V4zzdFAPfgL9cG1xNxOAS",
+  "appleId": 1850427885,
+  "episodes": [
+    {
+      "id": "77cf93b4-e379-42e4-b1a3-fcda266c0f65",
+      "title": "My Ex-Husband Controlled My Life with Ruth Dodsworth",
+      "description": "Weather presenter Ruth Dodsworth\u0027s ex-husband was jailed in 2021 for coercive control and stalking her. Even though he is now free, he was given a lifetime restraining order stopping him from contacting Ruth or their two children. At times he would contact her up to 200 times a day while she was at work, but Ruth was unable to tell people the truth about her relationship. It took one extreme night for the police to become involved. Years on, Ruth is still learning to be fully free. In Ready to Talk with Emma Barnett, the award-winning interviewer speaks to people you will know and people you should know about the experiences that are shaping their lives. If you want to join the conversation you can email the team at readytotalk@bbc.co.uk, or you can send a WhatsApp message or voice note to 08000 556 101.",
+      "release": "2026-05-15T05:00:00Z",
+      "duration": "00:50:18.5530000",
+      "explicit": false,
+      "spotifyId": "0AWhsgbfXODsdMH7dtXKSx",
+      "appleId": 1000767892378,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0AWhsgbfXODsdMH7dtXKSx",
+        "apple": "https://podcasts.apple.com/podcast/my-ex-husband-controlled-my-life-with-ruth-dodsworth/id1850427885?i=1000767892378",
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0nl7b6p"
+      }
+    }
+  ]
+}

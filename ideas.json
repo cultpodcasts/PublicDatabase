@@ -1,0 +1,26 @@
+{
+  "id": "e542e895-bcae-4898-951d-3d33687f333e",
+  "name": "Ideas",
+  "spotifyId": "4fPOc0PUGWN4yG83E4SPNR",
+  "appleId": 151485663,
+  "episodes": [
+    {
+      "id": "3c384cbf-17a4-4e50-8e69-ebd14f56fd80",
+      "title": "What North Korea\u2019s personality cult has to do with Jesus",
+      "description": "North Korea is no place for evangelical Christians today but peel back the decades and you\u2019ll find Christianity at the heart of the Kim family\u2019s rise to power. Journalist Jonathan Cheng has spent a decade and a half piecing together the crucial role evangelical Christianity played in North Korea\u2019s Kim dynasty \u2014 especially in the upbringing of Kim Il Sung, the first leader of the country who\u0027s seen today as an immortal and sacred figure. Cheng\u0027s book is called Korean Messiah. Jonathan Cheng is the China bureau chief for The Wall Street Journal, and was previously the Korea bureau chief, running coverage of the Korean peninsula, including politics and society in both North and South Korea. He has traveled to North Korea twice.",
+      "release": "2026-05-19T18:10:00Z",
+      "duration": "00:54:08.7440000",
+      "explicit": false,
+      "spotifyId": "1NICHLVus5WWtwwzCQwd3P",
+      "appleId": 1000768605689,
+      "subjects": [
+        "Evangelicalism",
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1NICHLVus5WWtwwzCQwd3P",
+        "apple": "https://podcasts.apple.com/podcast/what-north-koreas-personality-cult-has-to-do-with-jesus/id151485663?i=1000768605689"
+      }
+    }
+  ]
+}
