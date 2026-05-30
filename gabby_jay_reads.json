@@ -1,0 +1,21 @@
+{
+  "id": "2be49329-0683-4bdf-988e-fb7e1ebb145c",
+  "name": "Gabby Jay Reads",
+  "youTubeChannelId": "UCwLaj_LQh7WL-ZzLB2r1gsQ",
+  "episodes": [
+    {
+      "id": "d09ea4a2-0071-43e3-a656-d8ad915d3a90",
+      "title": "Therapist Take on Cults: The True Happiness Company by Veena Dinavahi ",
+      "release": "2026-05-27T04:00:16Z",
+      "duration": "00:16:30",
+      "explicit": false,
+      "youTubeId": "L9Vexx-b3go",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=L9Vexx-b3go"
+      }
+    }
+  ]
+}

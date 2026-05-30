@@ -4,6 +4,17 @@
   "youTubeChannelId": "UCBCGirh7td4xAkm3ts6on3Q",
   "episodes": [
     {
+      "id": "b8322b5b-4011-4337-a808-a292e126106b",
+      "title": "One of the Most Bizarre Cult You\u0027ll Hear ",
+      "release": "2026-05-29T20:00:16Z",
+      "duration": "00:08:13",
+      "explicit": false,
+      "youTubeId": "VVVciZCyY60",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VVVciZCyY60"
+      }
+    },
+    {
       "id": "ed866ccb-1b09-485b-b328-803ab0493969",
       "title": "Japan\u2019s MOST Dangerous Cult",
       "release": "2025-11-19T02:35:01Z",
@@ -24,6 +35,9 @@
       "duration": "00:10:38",
       "explicit": false,
       "youTubeId": "HVvObw7pj8o",
+      "subjects": [
+        "Aum Shinrikyo"
+      ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=HVvObw7pj8o"
       }

@@ -1,0 +1,28 @@
+{
+  "id": "9378440d-3790-4a39-b6dc-c71584df2918",
+  "name": "3 Takeaways",
+  "spotifyId": "1cw6HEpup8F2WP9t9At9La",
+  "appleId": 1526080983,
+  "youTubeChannelId": "UC4lbnIkclwmDYxHEj9dL49w",
+  "episodes": [
+    {
+      "id": "ff60cade-e12d-44bf-9670-e30e8d1887cf",
+      "title": "The Religious Cult Behind North Korea\u2019s Power (#303)",
+      "description": "We think of North Korea as a communist dictatorship. But Jonathan Cheng, the Wall Street Journal\u2019s China Bureau Chief and former Korea Bureau Chief, says that misses the real story. He argues North Korea functions more like a religion - complete with rituals, worship, and a ruling family treated like immortals. Once you hear it, you can\u2019t unsee it. His new book is Korean Messiah.",
+      "release": "2026-05-26T05:00:00Z",
+      "duration": "00:19:57.7400000",
+      "explicit": false,
+      "spotifyId": "4fHDEnXcwK2pdP8CAme83Y",
+      "appleId": 1000769588068,
+      "youTubeId": "R_owwp_2ATk",
+      "subjects": [
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4fHDEnXcwK2pdP8CAme83Y",
+        "apple": "https://podcasts.apple.com/podcast/the-religious-cult-behind-north-koreas-power-303/id1526080983?i=1000769588068",
+        "youtube": "https://www.youtube.com/watch?v=R_owwp_2ATk"
+      }
+    }
+  ]
+}

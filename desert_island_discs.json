@@ -1,0 +1,22 @@
+{
+  "id": "484b63f1-24d2-4e31-a065-04b76aaa6bce",
+  "name": "Desert Island Discs",
+  "spotifyId": "2T28kNzyAOX64ahUz5oyXa",
+  "appleId": 342735925,
+  "episodes": [
+    {
+      "id": "9ad1cee5-9081-4a8b-9516-ab96bf9d3e79",
+      "title": "Emily Watson, actor",
+      "description": "Emily Watson is an award-winning actor, widely regarded as one of the finest character actors of her generation.\n\nShe began her career on stage with the Royal Shakespeare Company before rising to prominence in 1996, when she was cast as Bess McNeill in Lars von Trier\u2019s Breaking the Waves. The role earned her an Academy Award nomination. She received a second Oscar nomination for Hilary and Jackie, for which she learned to play the cello to portray Jacqueline du Pr\u00E9.\n\nWatson has built a reputation for a level of commitment that is as intense as it is acclaimed. She describes her craft not merely as a profession but as a profound internal necessity, stating: \u0022I love the sense of creating and inhabiting something. That feeling of making it feel magically real. That\u0027s the addiction\u0022.\n\nShe grew up in London and was a passionate reader before leaving home to study English at Bristol University.   Her parents were members of the School of Economic Science which proscribed that followers eschew TV and popular culture.   Emily joined in with the university drama productions and followed her passion, with her parents\u2019 blessing, to pursue a career in acting.  \n\nEmily Watson lives in London with her husband, and they have two children. \n\nPresenter  Lauren Laverne\nProducer   Sarah Taylor\n\nDesert Island Discs has cast other actors away over the years including Emily\u2019s fellow actor from Hamnet, Jessie Buckley. The writer, Maggie O\u2019Farrell is in there too along with Emily\u2019s friend from university, the writer David Nicholls.  You can hear their programmes if you search through BBC Sounds or our own Desert Island Discs website.",
+      "release": "2026-05-24T00:00:00Z",
+      "duration": "00:57:00",
+      "explicit": false,
+      "subjects": [
+        "School of Philosophy and Economic Science"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002wsnz"
+      }
+    }
+  ]
+}

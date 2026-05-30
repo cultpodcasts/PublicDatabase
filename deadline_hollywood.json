@@ -1,0 +1,23 @@
+{
+  "id": "2d0b5ee4-bfdd-4f17-b0e3-0f34a8a15bc1",
+  "name": "Deadline Hollywood",
+  "youTubeChannelId": "UC0fTbhgouDMneMzSluKaXAA",
+  "episodes": [
+    {
+      "id": "f4b33420-8f51-4ddc-b573-539a10804ae3",
+      "title": "Marion Cotillard \u0026 Denis M\u00E9nochet on cult psychology and their intense \u2018Karma\u2019 process",
+      "description": "Connect with Deadline online!\nhttps://www.facebook.com/deadline/\nhttps://twitter.com/DEADLINE\nhttps://www.instagram.com/deadline/\nhttps://www.youtube.com/Deadline",
+      "release": "2026-05-26T16:53:24Z",
+      "duration": "00:08:33",
+      "explicit": false,
+      "youTubeId": "anxHuFs4qrs",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=anxHuFs4qrs"
+      }
+    }
+  ]
+}

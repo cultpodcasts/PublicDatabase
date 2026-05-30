@@ -5,6 +5,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "cdb9a143-88e8-4499-a928-30b40e3ca4e5",
+      "title": "Helen Keller - Season 13 Episode 19",
+      "description": "Thor tells us why he thinks Helen Keller should be on the list of the most influential people in history. Let us know if you agree",
+      "release": "2026-05-29T02:19:37Z",
+      "duration": "00:41:01.7100000",
+      "explicit": false,
+      "spotifyId": "5Lms5RErhxFBz1cwAM6Q3k",
+      "appleId": 1000770103738,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Lms5RErhxFBz1cwAM6Q3k",
+        "apple": "https://podcasts.apple.com/podcast/helen-keller-season-13-episode-19/id1565633523?i=1000770103738"
+      }
+    },
+    {
       "id": "d6819e8a-5a91-45cc-a196-52e83903fe3c",
       "title": "Shakespeare - Season 13 Episode 18",
       "description": "Brian, the Nice Cult Knight, argues that Shakespeare would be the most influential person in history. Let us know if you agree.",

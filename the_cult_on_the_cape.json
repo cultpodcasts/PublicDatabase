@@ -6,6 +6,24 @@
   "youTubeChannelId": "UC1hYXZi0_9KdI4z0qtSCIkQ",
   "episodes": [
     {
+      "id": "48570919-77f5-47e3-ba65-a24f0ed52c07",
+      "title": "Episode 29 Born Inside - Part 2",
+      "description": "In Part 2 of Bryan Catlin\u2019s powerful story, Bryan shares what happened after he fled the Community of Jesus \u2014 terrified, exhausted, and completely unprepared for the outside world. What followed was a mental health crisis, arrest, hospitalization, and ultimately the beginning of rebuilding a life from scratch.\nBryan speaks candidly about fear, isolation, survival, and the lifelong effects of growing up in a high-control environment. He also shares the people who helped save him \u2014 a social worker who understood cult dynamics, a father who kept showing up, friends who opened their homes, and the woman who would eventually become his wife.\nThis episode is a raw and deeply human conversation about trauma, forgiveness, family estrangement, parenting after coercive control, and learning how to trust yourself after a lifetime of being told who you were supposed to be.\nAt its heart, this is a story about survival, healing, and building a life that finally belongs to you.",
+      "release": "2026-05-26T10:00:00Z",
+      "duration": "00:55:03",
+      "explicit": false,
+      "spotifyId": "0O0y00Z3F1n16c3ZKiDQZO",
+      "appleId": 1000769625547,
+      "subjects": [
+        "Community of Jesus",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0O0y00Z3F1n16c3ZKiDQZO",
+        "apple": "https://podcasts.apple.com/podcast/episode-29-born-inside-part-2/id1853708779?i=1000769625547"
+      }
+    },
+    {
       "id": "3ee99c8d-2b76-42fb-990e-ec9402ffe0d4",
       "title": "Episode 9 Defiance Lane: A House, a Trust, and the Cost of Obedience",
       "description": "The story of Sr. Madeleine",
@@ -274,12 +292,14 @@
       "explicit": false,
       "spotifyId": "6ShQONg57a6sjFMoz79YwB",
       "appleId": 1000751177372,
+      "youTubeId": "S4E_crV6Ve8",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ShQONg57a6sjFMoz79YwB",
-        "apple": "https://podcasts.apple.com/podcast/episode-18-the-reluctant-nun/id1853708779?i=1000751177372"
+        "apple": "https://podcasts.apple.com/podcast/episode-18-the-reluctant-nun/id1853708779?i=1000751177372",
+        "youtube": "https://www.youtube.com/watch?v=S4E_crV6Ve8"
       }
     },
     {
@@ -291,12 +311,14 @@
       "explicit": false,
       "spotifyId": "7yKGRpktKCKPVriKgUzeka",
       "appleId": 1000750141252,
+      "youTubeId": "VqqLHEu4Ehg",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7yKGRpktKCKPVriKgUzeka",
-        "apple": "https://podcasts.apple.com/podcast/episode-17-from-cape-cod-to-colombia/id1853708779?i=1000750141252"
+        "apple": "https://podcasts.apple.com/podcast/episode-17-from-cape-cod-to-colombia/id1853708779?i=1000750141252",
+        "youtube": "https://www.youtube.com/watch?v=VqqLHEu4Ehg"
       }
     },
     {
@@ -308,14 +330,14 @@
       "explicit": false,
       "spotifyId": "58USHyCjsmsUnuqFQs0YbE",
       "appleId": 1000749067776,
-      "youTubeId": "aWendRGhyiU",
+      "youTubeId": "jIwWBuY5VVs",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/58USHyCjsmsUnuqFQs0YbE",
         "apple": "https://podcasts.apple.com/podcast/episode-16-the-apology/id1853708779?i=1000749067776",
-        "youtube": "https://www.youtube.com/watch?v=aWendRGhyiU"
+        "youtube": "https://www.youtube.com/watch?v=jIwWBuY5VVs"
       }
     },
     {
@@ -327,12 +349,14 @@
       "explicit": false,
       "spotifyId": "3OO69CR1hnRsQATs1yXKon",
       "appleId": 1000747850506,
+      "youTubeId": "eLsB9c_ex4Q",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3OO69CR1hnRsQATs1yXKon",
-        "apple": "https://podcasts.apple.com/podcast/episode-15-she-must-be-somebodys-baby-part-2/id1853708779?i=1000747850506"
+        "apple": "https://podcasts.apple.com/podcast/episode-15-she-must-be-somebodys-baby-part-2/id1853708779?i=1000747850506",
+        "youtube": "https://www.youtube.com/watch?v=eLsB9c_ex4Q"
       }
     },
     {
@@ -511,14 +535,14 @@
       "explicit": false,
       "spotifyId": "6iIhyZ9x5yud4oLrvX11L9",
       "appleId": 1000737855290,
-      "youTubeId": "TKq4479IHXI",
+      "youTubeId": "IpvE9c_OflE",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6iIhyZ9x5yud4oLrvX11L9",
         "apple": "https://podcasts.apple.com/podcast/episode-6-the-epilogue-is-just-the-beginning/id1853708779?i=1000737855290",
-        "youtube": "https://www.youtube.com/watch?v=TKq4479IHXI"
+        "youtube": "https://www.youtube.com/watch?v=IpvE9c_OflE"
       }
     },
     {

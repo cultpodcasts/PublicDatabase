@@ -12,11 +12,15 @@
       "release": "2026-04-08T19:30:27Z",
       "duration": "00:58:01",
       "explicit": false,
+      "spotifyId": "5M4Kvj7qRFdd0P0gZ44bsj",
+      "appleId": 1000770038452,
       "youTubeId": "jXUiodz90Ic",
       "subjects": [
         "Benyamin Ben-Michaeil"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5M4Kvj7qRFdd0P0gZ44bsj",
+        "apple": "https://podcasts.apple.com/podcast/cult-mum-killed-her-own-baby-believing-she-was-evil/id1621252969?i=1000770038452",
         "youtube": "https://www.youtube.com/watch?v=jXUiodz90Ic"
       }
     },

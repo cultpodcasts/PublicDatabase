@@ -1,9 +1,26 @@
 {
   "id": "24e5c0b5-fcad-4681-822e-17659c9fe538",
-  "name": "The Excommunication Station",
+  "name": "James Dobson\u0027s B*****d Kids",
   "spotifyId": "5WYfTqA2EK48nfcdC1PL8S",
   "appleId": 1573190999,
   "episodes": [
+    {
+      "id": "a3f32fc0-24de-439a-ab00-b1121331875d",
+      "title": "258. The Shakers Part I",
+      "description": "We start our series on The Shakers",
+      "release": "2026-05-27T12:01:01Z",
+      "duration": "01:51:05.1160000",
+      "explicit": true,
+      "spotifyId": "6OgW2jgS46YQ5g4lwSg8p9",
+      "appleId": 1000769820438,
+      "subjects": [
+        "Shakers"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6OgW2jgS46YQ5g4lwSg8p9",
+        "apple": "https://podcasts.apple.com/podcast/258-the-shakers-part-i/id1573190999?i=1000769820438"
+      }
+    },
     {
       "id": "a272905b-a912-49ff-966e-6a39e01f755e",
       "title": "257. The Christ Family Part II",

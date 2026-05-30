@@ -1,0 +1,26 @@
+{
+  "id": "7f1a880a-e973-416b-8bd0-ec8d31e7f6f9",
+  "name": "The Weeknight",
+  "spotifyId": "0O4XHSLSITIw1x1xLMbXEs",
+  "appleId": 1810557439,
+  "episodes": [
+    {
+      "id": "648a051e-c6e1-4fca-97d0-3bb8c7d5bea3",
+      "title": "\u2018Cult-like behavior\u0027",
+      "description": "May 26, 2026, 7pm: Donald Trump is facing questions about his physical and mental fitness after visiting Walter Reed medical center for a third physical in his second term. MS Now Political Analyst Cornell Belcher and Eugene Daniels, co-host of \u0022The Weekend,\u0022 join The Weeknight to respond. And, voters are heading to the polls in Texas for a competitive GOP Senate runoff between incumbent John Cornyn and Trump-backed Ken Paxton. MS NOW National Reporter Rosa Flores joins with the latest from Cornyn HQ. Also at the table: Texas Democratic Party Chair Kendal Scudder. For more, follow us on Instagram and BlueSky @weeknightmsnow and @ms.now. To listen to this show and other MS podcasts without ads, sign up for MS NOW Premium on Apple Podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2026-05-27T00:27:59Z",
+      "duration": "00:42:04.0290000",
+      "explicit": false,
+      "spotifyId": "1obAd8nU7Z9znT5Idx1oHT",
+      "appleId": 1000769735360,
+      "subjects": [
+        "_America",
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1obAd8nU7Z9znT5Idx1oHT",
+        "apple": "https://podcasts.apple.com/podcast/cult-like-behavior/id1810557439?i=1000769735360"
+      }
+    }
+  ]
+}

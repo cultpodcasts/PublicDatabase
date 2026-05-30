@@ -1,0 +1,25 @@
+{
+  "id": "46e27799-9773-410f-ac05-ce4d033cf237",
+  "name": "ColdCaseDetective",
+  "spotifyId": "5CTs6p0E8NUP8aBaabVlqs",
+  "appleId": 1507935359,
+  "episodes": [
+    {
+      "id": "82b446da-9d83-44c5-a13b-e661331d0a84",
+      "title": "The Ripper Crew: The Scariest Satanic Cult Imaginable | True Crime Documentary",
+      "description": "Illinois is no stranger to violent criminals. From John Wayne Gacy to HH Holmes, the midwestern state has seen the rise of some of the worst, most heinous offenders. But perhaps one of the most terrifying stories to hang over Illinois is that of the Ripper Crew, a group of men who terrorized the state\u2019s streets during the 1980s, and preyed on vulnerable, unaccompanied women. The Ripper Crew was made up of four men. Robin Gecht, born in 1953; Edward Spreitzer, born in 1961; and two brothers, Andrew and Thomas Kokoraleis. Thomas had been born in 1961, and his younger brother followed two years later. From the outside, it appeared that the men bonded over a shared interest in carrying out torture and mutilation; their disturbed minds were motivated by a bizarre and depraved ritual they carried out inside what Gecht described as their \u201Csatanic chapel.\u201D But according to three of the Crew, they were only following Gecht\u2019s orders, afraid of what he would do to them if they said no.",
+      "release": "2026-05-29T11:00:00Z",
+      "duration": "00:22:09.3450000",
+      "explicit": false,
+      "spotifyId": "4bguj7tk1HST1FxuhE0iUg",
+      "appleId": 1000770167003,
+      "subjects": [
+        "Ripper Crew"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4bguj7tk1HST1FxuhE0iUg",
+        "apple": "https://podcasts.apple.com/podcast/the-ripper-crew-the-scariest-satanic-cult-imaginable/id1507935359?i=1000770167003"
+      }
+    }
+  ]
+}

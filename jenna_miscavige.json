@@ -4,6 +4,50 @@
   "youTubeChannelId": "UCQKFF3F2P0enb5RUybSvQAQ",
   "episodes": [
     {
+      "id": "812a63da-04ab-4c5e-aea3-b727130a75be",
+      "title": "I Escaped Scientology- Ask Me Anything",
+      "description": "#speedrun",
+      "release": "2026-05-29T22:09:28Z",
+      "duration": "00:01:08",
+      "explicit": false,
+      "youTubeId": "nZIXShwSurM",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nZIXShwSurM"
+      }
+    },
+    {
+      "id": "68704071-74dd-4e10-8360-480470f2c76f",
+      "title": "My Uncle is the Leader of Scientology",
+      "release": "2026-05-28T19:42:05Z",
+      "duration": "00:01:58",
+      "explicit": false,
+      "youTubeId": "0fBcTjNf4Yk",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0fBcTjNf4Yk"
+      }
+    },
+    {
+      "id": "9eea1e2d-e90d-42ff-b6c6-05733c09f8cd",
+      "title": "My Uncle is the Leader of Scientology",
+      "description": "#tomcruise #hollywood",
+      "release": "2026-05-27T18:53:13Z",
+      "duration": "00:01:20",
+      "explicit": false,
+      "youTubeId": "tlYwMKdNoMc",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tlYwMKdNoMc"
+      }
+    },
+    {
       "id": "500f5b49-3bcc-470f-9926-fb2267b5376c",
       "title": "My Uncle is the Leader of Scientology",
       "description": "Scientology in Hollywood, California is still closed. Week 3 \uD83D\uDE01 \n\n#speedrun",
