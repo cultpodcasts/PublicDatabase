@@ -1,0 +1,30 @@
+{
+  "id": "b88d9bd0-3d2a-4e51-86e9-10d441d9f16f",
+  "name": "The Jimmy Rex Show",
+  "spotifyId": "5WnMcspVpoLt8edxraLzzd",
+  "appleId": 1315033271,
+  "youTubeChannelId": "UChxa975PEoHBhJOVMRg7n6Q",
+  "episodes": [
+    {
+      "id": "4ae4175c-004c-4987-8e1c-b1f068d06391",
+      "title": "Dr. Christine Marie - Star of Netflix\u2019s #1 Show \u201CTrust Me\u201D and How She Infiltrated a Cult",
+      "description": "In this episode of The Jimmy Rex Show, Jimmy sits down with Dr. Christine Marie, the psychologist featured in Netflix\u2019s hit documentary Trust Me, which became the #1 show on Netflix. Dr. Christine shares the incredible story of how she and her husband infiltrated the group led by self-proclaimed prophet Sam Bateman, gathered evidence against him, and helped expose years of abuse and coercive control inside a fundamentalist religious community. The conversation explores cult psychology, manipulation, religious authority, trauma, coercive control, deconstruction, and why intelligent people can find themselves trapped in destructive belief systems. They also discuss political cults, social influence, human behavior, and the psychology behind belonging and belief. This is a fascinating look inside one of the most shocking cult investigations in recent history. Follow Dr. Christine Marie: IG",
+      "release": "2026-06-04T15:53:43Z",
+      "duration": "00:50:51.2640000",
+      "explicit": false,
+      "spotifyId": "0W5Y7esOOwqEokAJpo015c",
+      "appleId": 1000771183071,
+      "youTubeId": "UkHMEAxibG0",
+      "subjects": [
+        "FLDS Church",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0W5Y7esOOwqEokAJpo015c",
+        "apple": "https://podcasts.apple.com/podcast/694-dr-christine-marie-star-of-netflixs-1-show-trust/id1315033271?i=1000771183071",
+        "youtube": "https://www.youtube.com/watch?v=UkHMEAxibG0"
+      }
+    }
+  ]
+}

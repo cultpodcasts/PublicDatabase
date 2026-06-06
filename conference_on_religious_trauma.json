@@ -12,6 +12,8 @@
       "release": "2026-05-29T22:24:01Z",
       "duration": "00:55:57",
       "explicit": false,
+      "spotifyId": "5Y2S7M5Ho9jrKVlDeP1JQN",
+      "appleId": 1000770443615,
       "youTubeId": "MTHesDOryl0",
       "subjects": [
         "Cult-Expert",
@@ -27,6 +29,8 @@
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5Y2S7M5Ho9jrKVlDeP1JQN",
+        "apple": "https://podcasts.apple.com/podcast/sex-power-with-dr-janja-lalich-exploitation-of-women/id1645878058?i=1000770443615",
         "youtube": "https://www.youtube.com/watch?v=MTHesDOryl0"
       }
     },

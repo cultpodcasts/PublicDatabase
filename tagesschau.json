@@ -1,8 +1,46 @@
 {
   "id": "641f8d8b-5ad4-4850-9f2e-33ed849fe095",
   "name": "tagesschau",
+  "spotifyId": "1WA1U25dsygLz3GjTfLHS3",
+  "appleId": 340159582,
   "youTubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
   "episodes": [
+    {
+      "id": "811c8801-14b1-4045-8aac-085340b49900",
+      "title": "\uD83C\uDF0D tagesschau24 Top-Thema, 2.6.26 | Wie Epstein Frauen in die Falle lockte",
+      "description": "Das tagesschau24 Top-Thema mit einer kompakten Vertiefung und gezielter Einordnung, u. a. mit Liveschalten von ARD-Korrespondent:innen weltweit.\n\ntagesschau24 ist der digitale Informationskanal der ARD. Hier gibt es t\u00E4glich aktuelle Nachrichten aus Politik, Wirtschaft, Sport, Kultur und Wissenschaft. Unsere ARD-Korrespondent:innen im In- und Ausland ordnen das Geschehen ein - Expert:innen bewerten die Ereignisse. Ob Pressekonferenzen, internationale Gipfeltreffen oder Breaking-News-Fall \u2013 tagesschau24 h\u00E4lt die Zuschauer:innen auf dem Laufenden, schnell und zuverl\u00E4ssig.\n\nAlle aktuellen Informationen, weitere Nachrichten und tagesschau24 im Livestream: https://www.tagesschau.de/\n\nAlle Sendungen, Livestreams, Dokumentation und Reportagen auch in der ARD-Mediathek: https://www.ardmediathek.de/tagesschau\n\n#tagesschau #nachrichten #epstein",
+      "release": "2026-06-02T18:33:46Z",
+      "duration": "00:14:21",
+      "explicit": false,
+      "youTubeId": "TjHfof24oFg",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TjHfof24oFg"
+      }
+    },
+    {
+      "id": "e93267f4-0f0d-45cc-b849-224c2c4f0910",
+      "title": "Epstein-Akten: Die \u201CModel-Masche\u201D in Europa I 11KM - der tagesschau-Podcast",
+      "description": "Mara ist Anfang 20, tr\u00E4umt von einer Karriere als internationales Model \u2013 und ger\u00E4t in die F\u00E4nge von Jeffrey Epstein. Der missbraucht sie ihren Aussagen zufolge \u00FCber Jahre hinweg. Und Mara ist kein Einzelfall: In dieser 11KM-Folge erz\u00E4hlt NDR-Journalistin Anna Kl\u00FChspies, wie sich der Sexualstraft\u00E4ter #Epstein mithilfe von Modelscouts systematisch auf die Jagd nach jungen Frauen gemacht hat und wieso die Modelbranche ein idealer N\u00E4hrboden f\u00FCr seine Machenschaften war. Anna hat sich gemeinsam mit ihren Kolleginnen und Kollegen von NDR, WDR und SZ durch die Epstein-Files gearbeitet und sich auf die Spurensuche nach Komplizen Epsteins begeben. Die Recherche hat sie nach Paris, New York und sogar zu Epsteins Karibikinsel gef\u00FChrt.  \n \nHier geht\u2019s zum Team Recherche-Film \u201CEpstein Files \u2013 Jagd nach Models in Europa\u201D von Anna Kl\u00FChspies, Elena Kuch, Annette Kammerer, Jana Heck und Sebastian Just: \nhttps://1.ard.de/Epsteins_Jagd?cp=11km \n\nMehr zum Epstein-Skandal findet ihr hier: \nhttps://1.ard.de/11KM_Podcast_Epstein \n\nDiese und viele weitere Folgen von 11KM findet ihr \u00FCberall da, wo es Podcasts gibt, auch hier in ARD Sounds: \nhttps://www.ardsounds.de/sendung/11km-der-tagesschau-podcast/urn:ard:show:4549910994dc2464/  \n\nAn dieser Folge waren beteiligt: \nFolgenautor: Jonas Helm \nMitarbeit: Lukas Waschb\u00FCsch, Marc Hoffmann \nHost: Nadja Mitzkat \nProduktion: Timo Lindemann, Emilian Grimm, Christine Dreyer und Marie-Noelle Svihla  \nPlanung: Laura Stuhlmacher, Nicole Dienemann und Hardy Funk \nDistribution: Kerstin Ammermann \nRedaktionsleitung: Yasemin Y\u00FCksel und Fumiko Lipp \n\n11KM: der tagesschau-Podcast wird produziert von BR24 und NDR Info. Die redaktionelle Verantwortung f\u00FCr diese Episode liegt beim BR.",
+      "release": "2026-06-02T04:16:39Z",
+      "duration": "00:28:56",
+      "explicit": false,
+      "spotifyId": "3MUuzPcnYoIAlpzgJGo432",
+      "appleId": 1000770703288,
+      "youTubeId": "0XhX-FhdtI4",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3MUuzPcnYoIAlpzgJGo432",
+        "apple": "https://podcasts.apple.com/podcast/epstein-akten-die-model-masche-in-europa/id1669788598?i=1000770703288",
+        "youtube": "https://www.youtube.com/watch?v=0XhX-FhdtI4"
+      }
+    },
     {
       "id": "7ed2751f-d406-468c-8b79-116f82f58462",
       "title": "Epstein-Fall: Opfer sprechen bei Anh\u00F6rung \u00FCber Manipulation",

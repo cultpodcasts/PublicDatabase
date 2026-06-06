@@ -1,0 +1,20 @@
+{
+  "id": "3634cb07-6369-41cd-850d-ea487b4a2262",
+  "name": "BBC Sunday",
+  "episodes": [
+    {
+      "id": "559e3b2d-68ad-42e2-8a05-9f08a77dc935",
+      "title": "Scientology buildings vacant",
+      "description": "Why are some historic buildings owned by the Church of Scientology lying empty after they were purchased ten years ago? Geoff Bird has been to see one of the properties in Manchester.\n\nProducers;\nDavid Cook\nHelen Lee\n\nSeries Producer:\nAmanda Hancox.",
+      "release": "2016-05-29T00:00:00Z",
+      "duration": "00:44:00",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/sounds/play/b07cmjkx"
+      }
+    }
+  ]
+}

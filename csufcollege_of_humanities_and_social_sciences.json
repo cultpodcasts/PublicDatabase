@@ -1,0 +1,26 @@
+{
+  "id": "870de792-0984-433a-8d40-56877cf05dd5",
+  "name": "CSUF - College of Humanities and Social Sciences",
+  "spotifyId": "1HeVqIkxpPj9W6bvAJ74Tp",
+  "youTubeChannelId": "UCkkH1IHDXQGqMravEx9MchA",
+  "episodes": [
+    {
+      "id": "5e0aea89-fba1-4c1d-a9a9-4743e7efc6c6",
+      "title": "The Hidden Dimensions of the Epstein Case",
+      "description": "Dr. Siobhan Brooks unpacks the intersections of race, power, consent, and accountability through a deeper look at the Epstein files and the realities many women, especially Black women, have faced for decades. A powerful conversation on who is protected, who is ignored, and how systems continue to shape both.",
+      "release": "2026-06-01T19:36:26Z",
+      "duration": "00:52:27",
+      "explicit": false,
+      "spotifyId": "0USCpbKXQ9RGLHBrRC0WKc",
+      "youTubeId": "3j15UTTwp40",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0USCpbKXQ9RGLHBrRC0WKc",
+        "youtube": "https://www.youtube.com/watch?v=3j15UTTwp40"
+      }
+    }
+  ]
+}

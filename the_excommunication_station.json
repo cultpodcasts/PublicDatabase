@@ -5,6 +5,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "81471ea7-1ae1-4019-8db6-8a5c26550483",
+      "title": "259. The Shakers Part II",
+      "description": "This week finish up our dive into The Shakers. We discuss art, furniture and a story out of Philadelphia.",
+      "release": "2026-06-03T01:00:00Z",
+      "duration": "01:58:34.5790000",
+      "explicit": true,
+      "spotifyId": "30lFMFOuCWtCQSYWzvELrW",
+      "appleId": 1000770868302,
+      "subjects": [
+        "Shakers"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/30lFMFOuCWtCQSYWzvELrW",
+        "apple": "https://podcasts.apple.com/podcast/259-the-shakers-part-ii/id1573190999?i=1000770868302"
+      }
+    },
+    {
       "id": "a3f32fc0-24de-439a-ab00-b1121331875d",
       "title": "258. The Shakers Part I",
       "description": "We start our series on The Shakers",

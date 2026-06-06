@@ -1,0 +1,28 @@
+{
+  "id": "00354aaa-8def-48f7-9557-8c1057635128",
+  "name": "In Creative Company",
+  "spotifyId": "4Jd6V4g8BhQBo7wIl2SlM5",
+  "appleId": 1538119214,
+  "youTubeChannelId": "UCmjvv4c36biTEBkq4vWp5ZQ",
+  "episodes": [
+    {
+      "id": "ffb2857d-f968-4a63-87f2-a664ec80e4de",
+      "title": "Episode 1389: Chris Smith, Bring Me the Beauties: A Model Cult",
+      "description": "Q\u0026A on the documentary series Bring Me the Beauties: A Model Cult with director Chris Smith. Hoyt Richards, at 16 years old, meets an enigmatic Manhattan socialite on a Nantucket beach and is pulled into his spiritual group, Eternal Values.",
+      "release": "2026-06-02T23:50:23Z",
+      "duration": "00:21:47.2390000",
+      "explicit": true,
+      "spotifyId": "7wJoxnzw1eCm1Q8CmM3Gsa",
+      "appleId": 1000770856787,
+      "youTubeId": "IS8G2d-mud0",
+      "subjects": [
+        "Eternal Values"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7wJoxnzw1eCm1Q8CmM3Gsa",
+        "apple": "https://podcasts.apple.com/podcast/episode-1389-chris-smith-bring-me-the-beauties-a-model-cult/id1538119214?i=1000770856787",
+        "youtube": "https://www.youtube.com/watch?v=IS8G2d-mud0"
+      }
+    }
+  ]
+}

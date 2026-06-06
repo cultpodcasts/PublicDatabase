@@ -1,0 +1,25 @@
+{
+  "id": "697b7f2c-7bf0-49a5-95eb-b2c4a75ee46a",
+  "name": "This Just In",
+  "spotifyId": "4IwZ9kfznHSoBaNsV9whJ2",
+  "appleId": 1801552669,
+  "episodes": [
+    {
+      "id": "cfd0624c-cb0b-43f9-be0f-4257d290913b",
+      "title": "The Waco Siege Redux ",
+      "description": "In this episode, 65, Richard and Bryan decided to revisit episode 2 of the TJI podcast, The Waco Siege. It is a story that lives on and had all the elements of high drama, sex, guns, law enforcement, cults, and news coverage that didn\u0027t quit for weeks. Richard Ray was there and gives us his first person view of the situation. The podcast rewind will continue in the upcoming weeks with \u0022The Fiery End\u0022 and \u0022Untold Stories\u0022. Episode 65 is sure to reach a wider audience. Comments are always welcome. You can find the TJI podcast on Spotify, Apple Podcasts, and YouTube (http://bit.ly/4fD6UsH)",
+      "release": "2026-06-03T04:59:00Z",
+      "duration": "00:44:12.6940000",
+      "explicit": false,
+      "spotifyId": "1VcFZGwibMNKu7YwFqaDhN",
+      "appleId": 1000770891151,
+      "subjects": [
+        "Branch Davidians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1VcFZGwibMNKu7YwFqaDhN",
+        "apple": "https://podcasts.apple.com/podcast/the-waco-siege-redux/id1801552669?i=1000770891151"
+      }
+    }
+  ]
+}

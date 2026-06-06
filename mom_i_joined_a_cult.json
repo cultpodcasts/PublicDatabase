@@ -5,6 +5,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "75c866aa-006e-4ade-bd09-45da0b7cc308",
+      "title": "Sir Isaac Newton - Season 13 Episode 20",
+      "description": "Nathan brings arguably the best mathematician ever to the table of the greatest influencers of all time. See how he compares.",
+      "release": "2026-06-05T13:13:00Z",
+      "duration": "00:46:32.2220000",
+      "explicit": false,
+      "spotifyId": "2w7Ey2AJ9vn8fh9kpjtvzh",
+      "appleId": 1000771323999,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2w7Ey2AJ9vn8fh9kpjtvzh",
+        "apple": "https://podcasts.apple.com/podcast/sir-isaac-newton-season-13-episode-20/id1565633523?i=1000771323999"
+      }
+    },
+    {
       "id": "cdb9a143-88e8-4499-a928-30b40e3ca4e5",
       "title": "Helen Keller - Season 13 Episode 19",
       "description": "Thor tells us why he thinks Helen Keller should be on the list of the most influential people in history. Let us know if you agree",

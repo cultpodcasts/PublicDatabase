@@ -1,6 +1,7 @@
 {
   "id": "aed4bd23-838e-4563-9b86-59504ddbb933",
   "name": "Tyler Oliveira",
+  "spotifyId": "54EhShqrm0kj6ayxJiqk44",
   "youTubeChannelId": "UCY8SLLJjWpS4sx1dEqECaIw",
   "episodes": [
     {
@@ -10,11 +11,13 @@
       "release": "2025-12-21T14:21:37Z",
       "duration": "00:58:17",
       "explicit": false,
+      "spotifyId": "0AFevU0udQplHVknYfOPyL",
       "youTubeId": "NCsg4NWK_4I",
       "subjects": [
         "Scientology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0AFevU0udQplHVknYfOPyL",
         "youtube": "https://www.youtube.com/watch?v=NCsg4NWK_4I"
       }
     },

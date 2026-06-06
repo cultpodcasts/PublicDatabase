@@ -1,0 +1,28 @@
+{
+  "id": "b34e7ec3-4145-4173-ab68-fa76a3ae8976",
+  "name": "Desperately Seeking the \u002780s: NY Edition",
+  "spotifyId": "0kRqxBnU1MytY4sZwY918j",
+  "appleId": 1611358832,
+  "youTubeChannelId": "UCJXikBMqiQos9NMP-SeEWAA",
+  "episodes": [
+    {
+      "id": "026eb0aa-485b-4df6-bee5-d5d6a6ee3a92",
+      "title": "Cult of Beauty \u002B Guerilla Galleries",
+      "description": "Meg tells of Hoyt Richards\u2019 life as a supermodel and loyal follower of oddball Frederick von Mierers. Jessica charts upstart gallerist Gracie Mansion\u2019s path from Alphabet City to People Magazine fame. Please check out our website , follow us on Instagram , on Facebook , and... WRITE US A REVIEW HERE We\u0027d LOVE to hear from you! Let us know if you have any ideas for stories HERE Thank you for listening! Love, Meg and Jessica",
+      "release": "2026-06-02T04:00:00Z",
+      "duration": "00:57:46.0800000",
+      "explicit": true,
+      "spotifyId": "1McUwbp6Ic39CFmLOqfGaX",
+      "appleId": 1000770703851,
+      "youTubeId": "ePRSwft98PU",
+      "subjects": [
+        "Eternal Values"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1McUwbp6Ic39CFmLOqfGaX",
+        "apple": "https://podcasts.apple.com/podcast/cult-of-beauty-guerilla-galleries/id1611358832?i=1000770703851",
+        "youtube": "https://www.youtube.com/watch?v=ePRSwft98PU"
+      }
+    }
+  ]
+}

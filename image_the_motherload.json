@@ -1,0 +1,29 @@
+{
+  "id": "85bed5ec-04e6-411b-b825-c8f3415739a0",
+  "name": "IMAGE The Motherload",
+  "spotifyId": "0ylHQyL2Iy4zBvCBRqE7YL",
+  "appleId": 1806044747,
+  "youTubeChannelId": "UCXtJ6aF08yWq1LCshUwQ_qw",
+  "episodes": [
+    {
+      "id": "617eb11f-50fb-4cbb-8085-f5f0d35ca982",
+      "title": "From a cult to unfiltered motherhood with Laura O\u2019Connell",
+      "description": "This week on IMAGE The Motherload, Dominique is joined by Laura O\u2019Connell, a familiar face to many as the creator behind the viral Irish midwife sketches on Instagram, and co-host of the podcast Oh Right, Yeah. In this episode, Laura shares the story behind the humour. She opens up about growing up in a religious group, the loss of her mother at a young age, and how those early experiences shaped her sense of self. She also speaks candidly about an unplanned pregnancy, postpartum depression, and her experience of anxiety, including a period in psychiatric care last year. Together, Dominique and Laura explore the pressure many mothers feel to keep going, even when they are struggling, and the difficulty of slowing down in a world that rewards constant doing. This is an honest, layered conversation about mental health, motherhood, identity and what it means to ask for help. Listen now to IMAGE The Motherload, powered by Peugeot and sponsored by Liffey Valley, Avoca, Revive Active, Aptamil Advanced and Tigers Childcare.",
+      "release": "2026-06-02T05:35:00Z",
+      "duration": "01:03:11.6160000",
+      "explicit": false,
+      "spotifyId": "13zVImuc1FVeFPlIEnVMsG",
+      "appleId": 1000770715719,
+      "youTubeId": "DS6dVOtShWc",
+      "subjects": [
+        "_Ireland",
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/13zVImuc1FVeFPlIEnVMsG",
+        "apple": "https://podcasts.apple.com/podcast/from-a-cult-to-unfiltered-motherhood-with-laura-oconnell/id1806044747?i=1000770715719",
+        "youtube": "https://www.youtube.com/watch?v=DS6dVOtShWc"
+      }
+    }
+  ]
+}

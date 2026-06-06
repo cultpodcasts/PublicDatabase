@@ -6,12 +6,55 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "3235610b-bb58-418c-90ab-29170c60b717",
+      "title": "Our search for meaning with Joe Szimhart",
+      "description": "Joe is a leading cult specialist with decades of experience. Today\u0027s discussion kicks off with a discussion of the origins of much of the \u0027New Age\u0027 in the Russian Empire - Blavatsky, Gurdjieff, Ouspensky, and Roerich were among the founders of our contemporary cultic groups. Throughout history, some of the most powerful and influential people have been believers in the occult. Abe Lincoln held a seance in an attempt to contact a deceased child. William James, the founder of modern psychology, also created both the British and the American Societies for Psychical Research (along with Mark Twain). The denial of death and the search for meaning are at the heart of the human inquiry. Joe and Jon make positive reflections on these topics. Buy Jon\u0027s latest book, If Scientology Ruled the World And listen to a free sample",
+      "release": "2026-06-06T06:00:00Z",
+      "duration": "00:40:01.2160000",
+      "explicit": false,
+      "spotifyId": "1glKhF5esYWPilz2LLsYit",
+      "appleId": 1000771423296,
+      "youTubeId": "O3BaV_uvafw",
+      "subjects": [
+        "Church Universal and Triumphant",
+        "Cult-Expert",
+        "Theosophical Society",
+        "Fourth Way"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1glKhF5esYWPilz2LLsYit",
+        "apple": "https://podcasts.apple.com/podcast/our-search-for-meaning-with-joe-szimhart/id1534364303?i=1000771423296",
+        "youtube": "https://www.youtube.com/watch?v=O3BaV_uvafw"
+      }
+    },
+    {
+      "id": "7154473e-4112-4a75-ac69-4d224ceb8f32",
+      "title": "Scientology defector Amir Essalhi is asking questions! - part two",
+      "description": "In part two of this two-part talk, recent Scientology defector Amir Essalhi talks with Jon about Jon\u0027s books, Scientology, its founder, L. Ron Hubbard, and its current leader, David Miscavige. Amir describes Scientology leader David Miscavige\u0027s premature aging and shares examples of his cruelty and greed.\n\nNOTE: this is part two of a two-part talk. Part one is here: https://youtu.be/aClmN8Td7eg\n\nLinks:\n \nJon\u2019s papers: \n\nNever believe a hypnotist - https://jonatack.co.uk/never-believe-a-hypnotist/\n\nTotal Freedom Trap - https://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/Fishman/atack-freedom-trap.html\n\nPossible Origins of Dianetics and Scientology - https://jonatack.co.uk/possible-origins-for-dianetics-and-scientology/",
+      "release": "2026-06-03T22:42:32Z",
+      "duration": "01:18:04",
+      "explicit": false,
+      "spotifyId": "118LoPxpn71REMv9Iwmglz",
+      "appleId": 1000763577874,
+      "youTubeId": "EV6zGZXZnBk",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/118LoPxpn71REMv9Iwmglz",
+        "apple": "https://podcasts.apple.com/podcast/scientology-defector-amir-essalhi-is-asking-questions/id1534364303?i=1000763577874",
+        "youtube": "https://www.youtube.com/watch?v=EV6zGZXZnBk"
+      }
+    },
+    {
       "id": "ace85bea-f0c5-474c-b02f-4117fbb0e583",
       "title": "Surviving Stolen Youth with Felicia Rosario, MD",
       "description": "Felicia came to international fame when she helped to convict Larry Ray for sixy years. The documentary Stolen Youth shows how she was lured into the Sarah Lawrence cult after two of her siblings had joined. \n\nAfter asking Jon a couple of questions about Tom Cruise and Scientology, Felicia describes her recruitment while she was interning as a doctor at the University of South California. Felicia had full scholarships to both Harvard and Columbia. She testified against Ray at his trial after almost ten years in his cult. Her recovery is nothing short of amazing. She now works helping other survivors, consulting to litigation and working against human trafficking.\n\nSee the documentary, \u0022Stolen Youth\u0022, here:\nhttps://www.hulu.com/series/stolen-youth-inside-the-cult-at-sarah-lawrence-0336ebcf-9f28-4a55-993b-012aedd47325?cmp=\n\nand learn more about the Bear-Fedio index here: \nhttps://www.neurology.org/doi/10.1212/wnl.34.5.591\n\nbuy Jon\u0027s latest book, If Scientology Ruled the World, here: \nhttps://mybook.to/8CIggd\nAnd listen to a free sample here: https://www.youtube.com/playlist?list=PLOprfY0DnRsbcKUUlDl2FAyL9kPbVtrlu",
       "release": "2026-05-30T06:00:02Z",
       "duration": "01:07:02",
       "explicit": false,
+      "spotifyId": "3VdkZrBDNMSzseRivGSfR6",
+      "appleId": 1000770449024,
       "youTubeId": "mo00V-tm4q0",
       "subjects": [
         "Larry Ray",
@@ -19,10 +62,11 @@
         "Psychology",
         "Cult Psychology",
         "Cult Recovery",
-        "Cult Psychology",
         "Human Trafficking"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3VdkZrBDNMSzseRivGSfR6",
+        "apple": "https://podcasts.apple.com/podcast/surviving-stolen-youth-with-felicia-rosario-md/id1534364303?i=1000770449024",
         "youtube": "https://www.youtube.com/watch?v=mo00V-tm4q0"
       }
     },

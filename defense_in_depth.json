@@ -1,0 +1,28 @@
+{
+  "id": "8fe40085-1284-4f5a-a5c5-31ccf361642a",
+  "name": "Defense in Depth",
+  "spotifyId": "158C90JWnCxBXAX7HfWxIM",
+  "appleId": 1450197741,
+  "youTubeChannelId": "UC9ksdhUaDEEyltTxBc2AzfQ",
+  "episodes": [
+    {
+      "id": "19bf5728-f6da-40d2-a0ee-5b5038741538",
+      "title": "Has Cybersecurity Become a Cult?",
+      "description": "All links and images can be found on CISO Series We think of cybersecurity as a discipline. But when do ideas like best practices and NIST frameworks change into a system of belief? Check out this post for the discussion that is the basis of our conversation on this week\u0027s episode co-hosted by David Spark , the producer of CISO Series , and Davi Ottenheimer, principal, Flying Penguin. Joining is Joshua Copeland , director of security, Crescendo . In this episode: Tools, not religion The case for structured discipline The management problem underneath Fix the damn holes A huge thanks to our sponsor, ThreatLocker ThreatLocker delivers Zero Trust Network Access and Zero Trust Cloud Access that verifies both user and device before granting access to specific applications. No broad access, nothing exposed, and no reliance on credentials alone. It\u0027s a smarter way to control access and reduce risk. Learn more at ThreatLocker.com/CISO.",
+      "release": "2026-06-04T10:00:00Z",
+      "duration": "00:33:56.0880000",
+      "explicit": false,
+      "spotifyId": "1DEIVocmCvByEwdEwmQ6qN",
+      "appleId": 1000771143358,
+      "youTubeId": "mqg_ZzVg6K8",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1DEIVocmCvByEwdEwmQ6qN",
+        "apple": "https://podcasts.apple.com/podcast/has-cybersecurity-become-a-cult/id1450197741?i=1000771143358",
+        "youtube": "https://www.youtube.com/watch?v=mqg_ZzVg6K8"
+      }
+    }
+  ]
+}

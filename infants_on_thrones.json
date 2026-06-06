@@ -1,0 +1,26 @@
+{
+  "id": "b82ba33e-0e1a-4fad-829a-1b43c5594252",
+  "name": "Infants on Thrones",
+  "spotifyId": "7qy109jDrjCOQCBGfiXKIJ",
+  "appleId": 545198958,
+  "episodes": [
+    {
+      "id": "880eb8b5-33ec-4c6d-bcb1-19b9b4e45bf4",
+      "title": "Ep 941 - Welcome to the Dojo of Sound: Demons, Witches, and the Friend I Used to Know",
+      "description": "Glenn Ostlund\u0027s Psychology Today Profile A message from an old friend became an unexpected mirror. After a New Moon ritual, Glenn received a warning that he had opened demonic portals through witchcraft and that only repentance could save him. Rather than debating theology, this episode explores certainty, folklore, nervous systems, cult dynamics, spiritual identity, and the stories we use to make sense of reality. What happens when two people who once admired each other find themselves living inside entirely different worlds?",
+      "release": "2026-06-01T18:54:01Z",
+      "duration": "00:39:10.6590000",
+      "explicit": false,
+      "spotifyId": "4kpn6jRq501uIFY45rOjMv",
+      "appleId": 1000770626915,
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4kpn6jRq501uIFY45rOjMv",
+        "apple": "https://podcasts.apple.com/podcast/ep-941-welcome-to-the-dojo-of-sound-demons/id545198958?i=1000770626915"
+      }
+    }
+  ]
+}

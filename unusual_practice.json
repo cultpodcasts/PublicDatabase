@@ -1,0 +1,25 @@
+{
+  "id": "3e3e0f5b-f57d-43d0-8def-9026e7127fa5",
+  "name": "Unusual Practice",
+  "spotifyId": "6NYyT89krj4kseHRZqCahj",
+  "appleId": 1783807095,
+  "episodes": [
+    {
+      "id": "df510182-e363-4322-a8ba-955b28828bb8",
+      "title": "Nobody joins a Cult : The psyche of how people get trapped",
+      "description": "Nobody joins a cult. They think they\u0027re joining a community. By the time they realise the difference... it\u0027s already too late. In this episode of Unusual Practice, Charli breaks down the truth in cult psychology: the people who get recruited aren\u0027t broken, damaged, or gullible. Research shows they\u0027re typically intelligent, middle-class, and caught in an ordinary moment of vulnerability, a breakup, a move, a loss. They\u0027re you. They\u0027re me. We\u0027re going into the mechanics of love bombing, information control, identity destruction, and why leaving feels psychologically impossible even when you can see what\u0027s happening. And then, we\u0027re applying all of it to the communities, wellness spaces, and online movements you\u0027re probably already in. The question isn\u0027t whether you\u0027d recognise a cult. It\u0027s whether you already would have. Hit play... Quietly ;)",
+      "release": "2026-06-02T06:07:00Z",
+      "duration": "00:26:39.0850000",
+      "explicit": false,
+      "spotifyId": "0TWoQysNC5EVxZUc86MtT2",
+      "appleId": 1000770719449,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0TWoQysNC5EVxZUc86MtT2",
+        "apple": "https://podcasts.apple.com/podcast/nobody-joins-a-cult-the-psyche-of-how-people-get-trapped/id1783807095?i=1000770719449"
+      }
+    }
+  ]
+}

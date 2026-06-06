@@ -1,0 +1,26 @@
+{
+  "id": "4b9c3390-94b3-4aa9-b6e2-d1977329354e",
+  "name": "The Arkin\u0027s Hearth",
+  "spotifyId": "1XNRpnjgkXrmhTaQF9OVU0",
+  "appleId": 1877433076,
+  "episodes": [
+    {
+      "id": "4b600b63-8cc5-4558-9d4e-5980169c3d2f",
+      "title": "The Strong City Cult",
+      "description": "In this episode of The Arkin\u2019s Hearth, we explore the disturbing story of Strong City and the Lord Our Righteousness Church, a secluded religious group led by Wayne Bent, also known as Michael Travesser. What began as an apocalyptic breakaway movement from the Seventh-day Adventist Church evolved into a high-control cult centered around Bent\u2019s claims of divine authority and messianic identity. Art By the Pixie If you need help in the US Text 988 Support Right Now Free, Private and Confidential Support 24/7 by Phone, Text or Chat For anonymous, confidential help available 24/7, call the National Domestic Violence Hotline at 1-800-799-7233 (SAFE) or 1-800-787-3224 (TTY) now. References Bowman, M. (2011). Apocalypse in the desert: The Lord Our Righteousness Church and Strong City. Nova Religio, 15(2), 5-26. https://doi.org/10.1525/nr.2011.15.2.5 BBC. (2007). The End of the World Cult [Television documentary]. BBC Two. https://www.bbc.co.uk/programmes/b008q4ff (Now avaliable in Vimeo) State of New Mexico v. Wayne Bent, No. D-818-CR-200800013 (N.M. 2008).",
+      "release": "2026-05-30T20:48:28Z",
+      "duration": "00:36:47.9300000",
+      "explicit": true,
+      "spotifyId": "0qPvnYbNTWHyic3ntIyPvu",
+      "appleId": 1000770356105,
+      "subjects": [
+        "Lord Our Righteousness Church",
+        "Seventh-day Adventist Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0qPvnYbNTWHyic3ntIyPvu",
+        "apple": "https://podcasts.apple.com/podcast/the-strong-city-cult/id1877433076?i=1000770356105"
+      }
+    }
+  ]
+}

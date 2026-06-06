@@ -1,0 +1,23 @@
+{
+  "id": "c3d09890-9d4a-49cc-8518-ed7ec6c92598",
+  "name": "Le Figaro",
+  "youTubeChannelId": "UCCDz_XYeKWd0OIyjp95dqyQ",
+  "episodes": [
+    {
+      "id": "6b1142be-902c-498d-8399-3c011f789ff2",
+      "title": "Affaire Epstein : les secrets fran\u00E7ais du pr\u00E9dateur",
+      "description": "Fr\u00E9d\u00E9ric Ploquin, sp\u00E9cialiste du grand banditisme, est l\u0027invit\u00E9 d\u0027Anne-Emmanuelle Isaac dans Points de Vue.",
+      "release": "2026-06-03T13:08:37Z",
+      "duration": "00:16:37",
+      "explicit": false,
+      "youTubeId": "0ovrXWEE5p8",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0ovrXWEE5p8"
+      }
+    }
+  ]
+}
