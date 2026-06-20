@@ -5,6 +5,40 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "011a6fd8-776d-4080-8e9b-ce1d3144e2b7",
+      "title": "261. COBU Part II",
+      "description": "We continue our series on the Church Of Bible Understanding or COBU and their leader Stewart Traill.",
+      "release": "2026-06-16T22:26:26Z",
+      "duration": "01:40:22",
+      "explicit": false,
+      "spotifyId": "5Bf2f57sqDHEdjmwlFO256",
+      "appleId": 1000773031544,
+      "subjects": [
+        "Church of Bible Understanding"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Bf2f57sqDHEdjmwlFO256",
+        "apple": "https://podcasts.apple.com/podcast/261-cobu-part-ii/id1573190999?i=1000773031544"
+      }
+    },
+    {
+      "id": "ffe45122-de9d-40fb-b4d5-542efd864876",
+      "title": "260. The Church Of Bible Understanding Cult",
+      "description": "This week, we dive into one of the most manipulative cults Ive ever come across, The Church Of Bible Understanding.",
+      "release": "2026-06-10T01:04:00Z",
+      "duration": "01:44:28.7080000",
+      "explicit": true,
+      "spotifyId": "14QDuRzUNpLyYA6basf8sD",
+      "appleId": 1000771953909,
+      "subjects": [
+        "Church of Bible Understanding"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/14QDuRzUNpLyYA6basf8sD",
+        "apple": "https://podcasts.apple.com/podcast/260-the-church-of-bible-understanding-cult/id1573190999?i=1000771953909"
+      }
+    },
+    {
       "id": "81471ea7-1ae1-4019-8db6-8a5c26550483",
       "title": "259. The Shakers Part II",
       "description": "This week finish up our dive into The Shakers. We discuss art, furniture and a story out of Philadelphia.",

@@ -1,0 +1,20 @@
+{
+  "id": "e94a5ab5-5849-41a8-b6a9-b5aad1c9b7c6",
+  "name": "BBC Newcastle",
+  "episodes": [
+    {
+      "id": "8a22856c-cb5b-49bb-8de3-85d2421312cc",
+      "title": "How Northumberland woman escaped a cult",
+      "description": "Sarah Seed shares how she was raised in a cult and how life is after escaping.",
+      "release": "2024-09-13T12:00:00",
+      "duration": "00:17:30",
+      "explicit": false,
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/sounds/play/p0jqc492"
+      }
+    }
+  ]
+}

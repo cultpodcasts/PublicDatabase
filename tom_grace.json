@@ -1,0 +1,22 @@
+{
+  "id": "a6de989a-c1f6-41e0-847e-597acfba4845",
+  "name": "Tom Grace",
+  "youTubeChannelId": "UCJPHSm74Xtweop07TngOIDw",
+  "episodes": [
+    {
+      "id": "c45afc8c-87e1-493b-9067-28b2542d3e94",
+      "title": "ACA Exclusive Brethren Feb 2011",
+      "description": "A recent escapee from the Exclusive Brethren tells of the price of leaving her family",
+      "release": "2011-02-26T07:22:46Z",
+      "duration": "00:05:30",
+      "explicit": false,
+      "youTubeId": "hpLjmbG-WMw",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hpLjmbG-WMw"
+      }
+    }
+  ]
+}

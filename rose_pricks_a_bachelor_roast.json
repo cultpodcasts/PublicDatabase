@@ -1,0 +1,42 @@
+{
+  "id": "2c9a129f-ead6-4cdb-85bf-2654a3cdba24",
+  "name": "Rose Pricks: A Bachelor Roast",
+  "spotifyId": "1wI4pByoF9ezQIknixSI9S",
+  "appleId": 1123347203,
+  "episodes": [
+    {
+      "id": "c377b141-72d5-4cb4-a59d-2aab3077340e",
+      "title": "Pricks Daily: Bring Me the Beauties Cult Part Two",
+      "description": "More on this nutty cult from the 80s, 90s and a little bit right now. Male models, aliens, all the things. This is part two! Lumi Gummies are available nationwide! Go to LumiGummies.com and use code ROSEPRICKS for 30% off your order.",
+      "release": "2026-06-19T11:00:02Z",
+      "duration": "00:30:45.1410000",
+      "explicit": false,
+      "spotifyId": "6YLXPSLcDHDMrzuWpkINSe",
+      "appleId": 1000773400963,
+      "subjects": [
+        "Eternal Values"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6YLXPSLcDHDMrzuWpkINSe",
+        "apple": "https://podcasts.apple.com/podcast/pricks-daily-bring-me-the-beauties-cult-part-two/id1123347203?i=1000773400963"
+      }
+    },
+    {
+      "id": "c8434739-9215-42b5-8caf-f53c1a14d630",
+      "title": "Pricks Daily: Bring Me the Beauties Cult Part One",
+      "description": "HBO\u0027s Bring Me the Beauties documetary about a male model cult has everything: aliens, sex and Studio 54. Join us! Lumi Gummies are available nationwide! Go to LumiGummies.com and use code ROSEPRICKS for 30% off your order.",
+      "release": "2026-06-18T11:00:02Z",
+      "duration": "00:34:25.3400000",
+      "explicit": false,
+      "spotifyId": "0n706M9iNb60hjsvBnDR55",
+      "appleId": 1000773256254,
+      "subjects": [
+        "Eternal Values"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0n706M9iNb60hjsvBnDR55",
+        "apple": "https://podcasts.apple.com/podcast/pricks-daily-bring-me-the-beauties-cult-part-one/id1123347203?i=1000773256254"
+      }
+    }
+  ]
+}

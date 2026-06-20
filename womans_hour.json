@@ -5,6 +5,24 @@
   "appleId": 130950322,
   "episodes": [
     {
+      "id": "f738a941-294c-4e5b-acfc-e44c86eb2981",
+      "title": "Swinging investigation",
+      "description": "A new BBC podcast asks whether women are always safe on swinging websites. Swingers, an investigation from journalist Catrin Nye, explores serious concerns within the swinging community and asks if abuse can exist behind the language of sexual freedom. Nuala speaks to Catrin Nye and Rachel Horman Brown KC, a lawyer whose practice focuses on domestic abuse. \n\nPresented by: Nuala McGovern\nProduced by: Sarah Jane Griffiths",
+      "release": "2026-06-16T10:47:00Z",
+      "duration": "00:57:21",
+      "explicit": false,
+      "spotifyId": "7kSkzoVzaCErX9dFNFnhjF",
+      "appleId": 1000772950209,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7kSkzoVzaCErX9dFNFnhjF",
+        "apple": "https://podcasts.apple.com/podcast/jo-cox-10-years-on-actor-geraldine-james-swinging-investigation/id130950322?i=1000772950209",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m002xrns"
+      }
+    },
+    {
       "id": "cd9c3426-e443-4b83-939a-b19643a69282",
       "title": "The Bad Guru",
       "description": "From [0:25:50] -A new BBC podcast has uncovered some shocking allegations of grooming, trafficking and sexual exploitation linked to a yoga movement. The Bad Guru podcast follows Miranda who joined a yoga class in the UK which she discovered had links to the Atman Federation, an international yoga movement led by the Romanian guru Gregorian Bivalaru. After becoming part of the wider movement, Miranda says that she was groomed and sexually exploited. Clare hears from Miranda and from the podcast\u2019s presenter, investigative journalist Cat McShane. Presenter: Clare McDonnell Producer: Laura Northedge",

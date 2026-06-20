@@ -1,0 +1,35 @@
+{
+  "id": "620da1a8-d7a5-4fb2-a770-7446e73dd1ff",
+  "name": "Department of Emotions",
+  "youTubeChannelId": "UCQrYztqBsqS8C1uH7oipHBw",
+  "episodes": [
+    {
+      "id": "5cd31a70-0856-4623-9c8f-c284caef21fc",
+      "title": "How And Why I Left a Destructive Cult (Pt. 2)",
+      "release": "2026-06-16T14:52:25Z",
+      "duration": "00:15:32",
+      "explicit": false,
+      "youTubeId": "ObEgi-0Ue_Y",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ObEgi-0Ue_Y"
+      }
+    },
+    {
+      "id": "018a8abc-99e7-4d4b-a39c-5c42fd88a908",
+      "title": "How And Why I Left a Destructive Cult (Pt. 1)",
+      "release": "2026-06-15T15:15:36Z",
+      "duration": "00:19:33",
+      "explicit": false,
+      "youTubeId": "BKPQap4Q1Eo",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BKPQap4Q1Eo"
+      }
+    }
+  ]
+}

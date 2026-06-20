@@ -1,0 +1,38 @@
+{
+  "id": "bddf811b-5a23-4973-b9ec-f955e98a4503",
+  "name": "Life with Lydi",
+  "youTubeChannelId": "UCqRH0_OawF0L-RceR0IRWGg",
+  "episodes": [
+    {
+      "id": "6cfba4e9-855a-4ac7-869c-5c325728b185",
+      "title": "Was I in a cult? Religious Trauma, Purity Culture, Modesty",
+      "description": "Come along with me on my journey of unpacking childhood trauma, yapping, and fun facts (depending on my mood).\n\nDJ YouTube: @Getlittywithlydi \nIG: @lyd.i.i\nTik Tok: @toxiccwaist",
+      "release": "2026-06-09T04:16:11Z",
+      "duration": "00:24:59",
+      "explicit": false,
+      "youTubeId": "Taz0MxWMza0",
+      "subjects": [
+        "Purity Culture",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Taz0MxWMza0"
+      }
+    },
+    {
+      "id": "7d4af8ce-7517-44e2-8329-495fde2af683",
+      "title": "Religious Trauma: Part ?",
+      "release": "2026-06-04T04:39:30Z",
+      "duration": "00:21:12",
+      "explicit": false,
+      "youTubeId": "foncl3ZhHh0",
+      "subjects": [
+        "Cult Recovery",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=foncl3ZhHh0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5d0e4258-c60c-48d6-9994-d7ae4cbb9a33",
+  "name": "Here\u0027s the Scoop",
+  "spotifyId": "2gXjYWGzbOiONamY4rY4xI",
+  "appleId": 1820996352,
+  "youTubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
+  "youTubePlaylistId": "PL0tDb4jw6kPzhS2BwDpb8uHDuLZ1GfAQE",
+  "episodes": [
+    {
+      "id": "932daf96-c68f-4774-b43d-9000a5cd0563",
+      "title": "Bill Gates Accuses Epstein of Possible Blackmail",
+      "description": "Billionaire Bill Gates is the latest powerful figure in Jeffrey Epstein\u2019s orbit to testify on Capitol Hill about his connections to the late convicted sex offender. During a closed-door six-hour meeting, Gates accused Epstein of holding Gates\u2019 extramarital affairs over him to try to re-engage and said he hoped his testimony would help the victims of Epstein\u2019s abuse. NBC News anchor and senior Washington correspondent Hallie Jackson explains what we learned about the Gates-Epstein relationship and whether acting Attorney General Todd Blanche might be called to testify in the future. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "release": "2026-06-11T21:22:14Z",
+      "duration": "00:22:47.6400000",
+      "explicit": false,
+      "spotifyId": "4DCJwfl6FUj0PXgImicXqK",
+      "appleId": 1000772272342,
+      "youTubeId": "VlLSVlX0W1M",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4DCJwfl6FUj0PXgImicXqK",
+        "apple": "https://podcasts.apple.com/podcast/why-trump-backed-down-on-iran-bill-gates-accuses-epstein/id1820996352?i=1000772272342",
+        "youtube": "https://www.youtube.com/watch?v=VlLSVlX0W1M"
+      }
+    }
+  ]
+}

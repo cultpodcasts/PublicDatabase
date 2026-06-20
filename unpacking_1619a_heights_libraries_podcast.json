@@ -1,0 +1,29 @@
+{
+  "id": "cb3470b4-f52a-4256-bbcb-5eb7645ffb1b",
+  "name": "Unpacking 1619 - A Heights Libraries Podcast",
+  "spotifyId": "0KX7peDa92tf5YCGVrxeAS",
+  "appleId": 1617874172,
+  "youTubeChannelId": "UCMiWVeT7atVy0_sPmdUUf6A",
+  "episodes": [
+    {
+      "id": "8d0d837e-b6be-49f2-97c3-2bd7252ba3bc",
+      "title": "Episode 110 \u2013 Doomsday Cults and America with Jane Borden",
+      "description": "Jane Borden discusses her book, Cults Like Us: Why Doomsday Thinking Drives America. She explains why the doomsday beliefs of our Puritan founders still drive American culture. Tracing threads of our latent Puritan indoctrination through eugenic cults, prosperity gospel, and the current rise in far-right extremism, she proposes that the United States might just be [\u2026]",
+      "release": "2026-06-09T00:00:00",
+      "duration": "00:51:00.1170000",
+      "explicit": false,
+      "spotifyId": "5cLRU1A5LMvKcn7tlyU2h9",
+      "appleId": 1000771804192,
+      "youTubeId": "yhXJy-KVNo4",
+      "subjects": [
+        "_America",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5cLRU1A5LMvKcn7tlyU2h9",
+        "apple": "https://podcasts.apple.com/podcast/episode-110-doomsday-cults-and-america-with-jane-borden/id1617874172?i=1000771804192",
+        "youtube": "https://www.youtube.com/watch?v=yhXJy-KVNo4"
+      }
+    }
+  ]
+}

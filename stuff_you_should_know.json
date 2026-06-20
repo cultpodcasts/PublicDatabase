@@ -6,6 +6,21 @@
   "youTubeChannelId": "UC153FxlFIVmE6YhH2XlSPeA",
   "episodes": [
     {
+      "id": "b8f8daaf-c7a2-4436-8e6e-11cc2832fe0b",
+      "title": "Short Stuff: The Coconut Cult",
+      "description": "Why we love short stuff - because we can tell stories like this one. A man goes to an island to start a commune of sorts that subsists entirely on coconuts. It didn\u0027t go well.\u00A0\n\n\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\n\nSee omnystudio.com/listener (https://omnystudio.com/listener)  for privacy information.",
+      "release": "2026-06-08T09:54:49Z",
+      "duration": "00:18:50",
+      "explicit": false,
+      "youTubeId": "t7wt_h78zQ0",
+      "subjects": [
+        "August Engelhardt"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=t7wt_h78zQ0"
+      }
+    },
+    {
       "id": "d3b3ebf8-cab2-4a94-9254-c5b0e4f3e126",
       "title": "Who are the Zizians?",
       "description": "The story of the Zizians is an unusual one. Are they a cult? Or are they simply a group who wants a better world? And why have six deaths in three states been linked to them? See omnystudio.com/listener for privacy information.",
@@ -71,6 +86,25 @@
       "urls": {
         "spotify": "https://open.spotify.com/episode/19sAntIW7wqg5pEIVf8GZx",
         "apple": "https://podcasts.apple.com/podcast/jonestown/id278981407?i=1000642077221"
+      }
+    },
+    {
+      "id": "159c0500-a175-4608-9651-cbd0bbaa4a97",
+      "title": "SYSK Selects: How Cult Deprogramming Works",
+      "description": "The fear of cults in the 1970s drove Americans to look the other way on kidnappings, abuse and torture of cult members by deprogrammers \u2013 but did it even work? Find out in this classic episode. Learn more about your ad-choices at https://www.iheartpodcastnetwork.com See omnystudio.com/listener for privacy information.",
+      "release": "2020-02-22T10:00:00Z",
+      "duration": "00:38:14.1780000",
+      "explicit": false,
+      "spotifyId": "7oA8yqJH0CXBIdsLDt8SQP",
+      "appleId": 1000466353882,
+      "youTubeId": "MvFdS0eUnn8",
+      "subjects": [
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7oA8yqJH0CXBIdsLDt8SQP",
+        "apple": "https://podcasts.apple.com/podcast/sysk-selects-how-cult-deprogramming-works/id278981407?i=1000466353882",
+        "youtube": "https://www.youtube.com/watch?v=MvFdS0eUnn8"
       }
     },
     {

@@ -1,0 +1,52 @@
+{
+  "id": "3e1d0d81-1eb8-46f0-b5ca-783d454ea679",
+  "name": "MrBrucieBear",
+  "youTubeChannelId": "UC4owidM8o2gDkZsaP7-qCDw",
+  "episodes": [
+    {
+      "id": "1e0239f2-c89b-4231-b549-d80338014f4a",
+      "title": "Justice for a former Exclusive Brethren",
+      "description": "When the Exclusive Brethren found out Craig Hoyle was gay, a church doctor put him on drugs to change his sexuality. He\u0027s now out of the church, and Dr Mark Craddock has been called to account for the way Craig was treated. (Aired 22 Oct 2010)",
+      "release": "2015-08-30T22:26:31Z",
+      "duration": "00:05:19",
+      "explicit": false,
+      "youTubeId": "_xqxTocjjOA",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_xqxTocjjOA"
+      }
+    },
+    {
+      "id": "3a037f7b-9e26-485d-bc4c-d3cc34061990",
+      "title": "Exposing the Exclusive Brethren - Today Tonight",
+      "description": "When the Exclusive Brethren found out Craig Hoyle was gay, a church doctor put him on drugs to try and change his sexuality. Jackie Quist from Today Tonight talks to Craig about his experiences, and confronts Dr Mark Craddock. (Aired 08 Mar 2010)",
+      "release": "2015-08-30T21:53:56Z",
+      "duration": "00:11:45",
+      "explicit": false,
+      "youTubeId": "g7QHiEofaiE",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=g7QHiEofaiE"
+      }
+    },
+    {
+      "id": "2287bf67-2bd1-4c86-901d-8bdd6cf52068",
+      "title": "Leaving the Exclusive Brethren - 60 Minutes",
+      "description": "60 Minutes New Zealand interviewed Craig Hoyle about his experiences growing up in the Exclusive Brethren not long after he was excommunicated from the church for being gay. He speaks to Sarah Hall about what it was like to grow up in the sect. (Aired 7 Dec 2009)",
+      "release": "2015-08-30T21:37:22Z",
+      "duration": "00:16:31",
+      "explicit": false,
+      "youTubeId": "EXdxn1W_xk8",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=EXdxn1W_xk8"
+      }
+    }
+  ]
+}

@@ -5,6 +5,34 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "2517d9f9-7ed4-4d80-b7d6-1cc6ce4ca2fb",
+      "title": "Queen Elizabeth I - Season 13 Episode 22",
+      "description": "Finn argues that Queen Elizabeth I is the most influential person in history. Listen and let us know if you agree",
+      "release": "2026-06-19T13:02:00Z",
+      "duration": "00:43:04.2180000",
+      "explicit": false,
+      "spotifyId": "7GPP5LCVA4ICtny24rG85Z",
+      "appleId": 1000773414338,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7GPP5LCVA4ICtny24rG85Z",
+        "apple": "https://podcasts.apple.com/podcast/queen-elizabeth-i-season-13-episode-22/id1565633523?i=1000773414338"
+      }
+    },
+    {
+      "id": "3a39c5c8-147d-402b-befd-c72a24d843ca",
+      "title": "Gangas Khan - Season 13 Episode 21",
+      "description": "Nathan brings Gangas Khan to the table of the most influential people of all time. It may surprise you where he is placed on the list.",
+      "release": "2026-06-12T13:00:00Z",
+      "duration": "00:42:45.2240000",
+      "explicit": false,
+      "spotifyId": "1SJkCILIN8SOahydxWWZWC",
+      "appleId": 1000771164794,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1SJkCILIN8SOahydxWWZWC",
+        "apple": "https://podcasts.apple.com/podcast/gangas-khan-season-13-episode-21/id1565633523?i=1000771164794"
+      }
+    },
+    {
       "id": "75c866aa-006e-4ade-bd09-45da0b7cc308",
       "title": "Sir Isaac Newton - Season 13 Episode 20",
       "description": "Nathan brings arguably the best mathematician ever to the table of the greatest influencers of all time. See how he compares.",

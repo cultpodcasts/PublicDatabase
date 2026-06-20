@@ -1,0 +1,26 @@
+{
+  "id": "4a54fd56-984a-4e3b-8c45-11edf9081770",
+  "name": "Martyr, She Wrote",
+  "spotifyId": "1URvSuuhq0HynlY29CLuqd",
+  "appleId": 1644003708,
+  "episodes": [
+    {
+      "id": "027147aa-efdc-4dab-bf95-bddf50ad2967",
+      "title": "Religious Trauma in the Black Community with Nikki G \u0026 Jonathon Carrington",
+      "description": "Joining me are Nikki G and Jonathon Carrington, the two co-hosts of the Surviving the Black Church Podcast and founders of the Black Religious Trauma Recovery Network. We have a great conversation about the unique experiences black survivors of religious trauma and Christian Nationalism and how to start recognizing and healing from it. Learn more about Nikki and Jonathon\u0027s work: Surviving the Black Church Podcast Black Religious Trauma Recovery Network @survivingtheblackchurch",
+      "release": "2026-06-12T15:00:00Z",
+      "duration": "01:10:35.2870000",
+      "explicit": false,
+      "spotifyId": "3zVuyGH0I2tpel6pxyb68n",
+      "appleId": 1000772380426,
+      "subjects": [
+        "Cult Recovery",
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3zVuyGH0I2tpel6pxyb68n",
+        "apple": "https://podcasts.apple.com/podcast/religious-trauma-in-the-black-community-with-nikki/id1644003708?i=1000772380426"
+      }
+    }
+  ]
+}

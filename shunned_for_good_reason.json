@@ -1,8 +1,65 @@
 {
   "id": "f0ee5d05-cc3b-4737-bd45-255c3a0da35a",
   "name": "Shunned for Good Reason",
+  "spotifyId": "0GeVdmuLXklftvLoxXyFae",
   "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
   "episodes": [
+    {
+      "id": "10765c94-96fe-406b-b73b-75fff5f82e84",
+      "title": "Episode 38: Where are we now and how did we get here: Resilience and Rebuilding ",
+      "release": "2026-06-07T01:26:00Z",
+      "duration": "01:23:32",
+      "explicit": false,
+      "spotifyId": "35kAqmuwByKGhB219BqHQR",
+      "youTubeId": "2G1JKfBH4FM",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/35kAqmuwByKGhB219BqHQR",
+        "youtube": "https://www.youtube.com/watch?v=2G1JKfBH4FM"
+      }
+    },
+    {
+      "id": "9fa69c1e-9400-4458-86c7-6d1d27b8288a",
+      "title": "Episode 37: Evangelicalism vs. LGBT",
+      "release": "2026-05-30T00:00:00",
+      "duration": "01:07:09.5180000",
+      "explicit": false,
+      "spotifyId": "7no9ltt6vbMxISwfTPDsso",
+      "youTubeId": "tmc4YH1y39o",
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7no9ltt6vbMxISwfTPDsso",
+        "youtube": "https://www.youtube.com/watch?v=tmc4YH1y39o"
+      }
+    },
+    {
+      "id": "ae3f3810-4937-40fe-944c-163887570eb2",
+      "title": "Episode 36: Purity Culture",
+      "release": "2026-05-30T00:00:00",
+      "duration": "01:09:45.4690000",
+      "explicit": false,
+      "spotifyId": "5vt060VJ7jHJo6SIqkhdZp",
+      "youTubeId": "RLbXWrWi3SQ",
+      "subjects": [
+        "Purity Culture"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5vt060VJ7jHJo6SIqkhdZp",
+        "youtube": "https://www.youtube.com/watch?v=RLbXWrWi3SQ"
+      }
+    },
+    {
+      "id": "c8448d02-3e71-4787-bf8e-e293137610f9",
+      "title": "Episode 35: Veggie Tales",
+      "release": "2026-05-23T00:00:00",
+      "duration": "01:08:42.3310000",
+      "explicit": false,
+      "spotifyId": "4yOD5wF5EYODsaGPxfAQ4r",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4yOD5wF5EYODsaGPxfAQ4r"
+      }
+    },
     {
       "id": "05843589-adf7-464c-998e-01782246a696",
       "title": "Where are we now? Hillsong part 2",
@@ -32,16 +89,136 @@
       }
     },
     {
+      "id": "f7d75258-373e-47a3-96cd-69272aa02cee",
+      "title": "Episode 34: How did we get here? Communism",
+      "release": "2026-05-16T00:00:00",
+      "duration": "01:13:35.3470000",
+      "explicit": false,
+      "spotifyId": "4AjhZx0FXNvyxdJ3x6adXx",
+      "youTubeId": "jF66kk2uTzA",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4AjhZx0FXNvyxdJ3x6adXx",
+        "youtube": "https://www.youtube.com/watch?v=jF66kk2uTzA"
+      }
+    },
+    {
+      "id": "2259c6c1-61bf-41dc-abd8-38ed7b2a8df6",
+      "title": "Episode 33: Where are we now? COVID versus Evangelicalism",
+      "release": "2026-05-16T00:00:00",
+      "duration": "01:18:52.7350000",
+      "explicit": false,
+      "spotifyId": "28BKOuOxtAbWxz7fdA7j1J",
+      "youTubeId": "9ekl7hyr6As",
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/28BKOuOxtAbWxz7fdA7j1J",
+        "youtube": "https://www.youtube.com/watch?v=9ekl7hyr6As"
+      }
+    },
+    {
+      "id": "0dc20662-0605-4974-a0ea-56410db1b84d",
+      "title": "Episode 32: Where are we now? Evangelicalism and Sexuality",
+      "release": "2026-05-09T00:00:00",
+      "duration": "01:33:24.7020000",
+      "explicit": false,
+      "spotifyId": "2GXEapoInbnzclZttplSlO",
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2GXEapoInbnzclZttplSlO"
+      }
+    },
+    {
+      "id": "f90e4fac-69e6-4797-b3f4-53c398113ca4",
+      "title": "Episode 31: How did we get here? KKK",
+      "release": "2026-05-09T00:00:00",
+      "duration": "01:36:00.1300000",
+      "explicit": false,
+      "spotifyId": "6m9rDkynX8rBuY10s1dgN9",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6m9rDkynX8rBuY10s1dgN9"
+      }
+    },
+    {
+      "id": "1fbe99ad-8389-477b-81c4-fe65a84964dd",
+      "title": "Episode 30: Where are we now and how did we get here? Megachurch worship part 2",
+      "release": "2026-05-06T00:00:00",
+      "duration": "01:31:11.3730000",
+      "explicit": false,
+      "spotifyId": "2DeYMuX4vLMmCgl0j86cvp",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2DeYMuX4vLMmCgl0j86cvp"
+      }
+    },
+    {
+      "id": "12ba2a29-877f-4833-b2d4-e16ca7ebbbd4",
+      "title": "Episode 29: Where are we now and how did we get here? Megachurch worship part 1",
+      "release": "2026-05-06T00:00:00",
+      "duration": "01:09:34.1320000",
+      "explicit": false,
+      "spotifyId": "47YKbxb0fQWrfzZAh51Fuz",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/47YKbxb0fQWrfzZAh51Fuz"
+      }
+    },
+    {
+      "id": "6a785535-c847-473b-9ff7-3a3c938edab8",
+      "title": "Episode 28: How did we get here: Nativism",
+      "release": "2026-04-26T00:00:00",
+      "duration": "01:28:32.7310000",
+      "explicit": false,
+      "spotifyId": "4o2ZBuMbBqugOGjRRUAbKV",
+      "youTubeId": "5AnrAjw0jDk",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4o2ZBuMbBqugOGjRRUAbKV",
+        "youtube": "https://www.youtube.com/watch?v=5AnrAjw0jDk"
+      }
+    },
+    {
+      "id": "a2762395-8eee-4b9d-9d1f-35b62555207a",
+      "title": "Bonus Episode: first jobs",
+      "release": "2026-04-26T00:00:00",
+      "duration": "01:32:37.0540000",
+      "explicit": false,
+      "spotifyId": "56dxkuqI8dz5RFa3srYKIX",
+      "youTubeId": "XcOb_LOX3N0",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/56dxkuqI8dz5RFa3srYKIX",
+        "youtube": "https://www.youtube.com/watch?v=XcOb_LOX3N0"
+      }
+    },
+    {
+      "id": "376b06b3-8865-4310-8122-9142ab618aa4",
+      "title": "Episode 27: Where are we now? SBC abuse",
+      "release": "2026-04-26T00:00:00",
+      "duration": "01:37:56.3750000",
+      "explicit": false,
+      "spotifyId": "37jhZHLb7RCLYDPcurwBGH",
+      "youTubeId": "lATKrgFB1T0",
+      "subjects": [
+        "Southern Baptist Convention"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37jhZHLb7RCLYDPcurwBGH",
+        "youtube": "https://www.youtube.com/watch?v=lATKrgFB1T0"
+      }
+    },
+    {
       "id": "1a0d8dee-99d6-4f47-aa68-04a4d96a0cff",
       "title": "Where are we now? QAnon",
       "release": "2026-04-19T00:44:40Z",
       "duration": "01:30:22",
       "explicit": false,
+      "spotifyId": "2TBCD9EE6BeSKALUMofPME",
       "youTubeId": "2InH43OneVE",
       "subjects": [
         "Qanon"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2TBCD9EE6BeSKALUMofPME",
         "youtube": "https://www.youtube.com/watch?v=2InH43OneVE"
       }
     },
@@ -51,9 +228,37 @@
       "release": "2026-04-19T00:42:27Z",
       "duration": "01:28:52",
       "explicit": false,
+      "spotifyId": "4DOXZAWGem754Vv1AUEKCM",
       "youTubeId": "yWBx037NemA",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4DOXZAWGem754Vv1AUEKCM",
         "youtube": "https://www.youtube.com/watch?v=yWBx037NemA"
+      }
+    },
+    {
+      "id": "7c0d3977-7597-47cb-b2ff-f3fcb13848cd",
+      "title": "Episode 24: How did we get here? Cotton Mather and the Salem Witch Trials",
+      "release": "2026-04-11T00:00:00",
+      "duration": "01:41:52.2610000",
+      "explicit": false,
+      "spotifyId": "1m2n7JY8NJBAtHzu4dOxN7",
+      "youTubeId": "rtVcX-txJgo",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1m2n7JY8NJBAtHzu4dOxN7",
+        "youtube": "https://www.youtube.com/watch?v=rtVcX-txJgo"
+      }
+    },
+    {
+      "id": "6ae021d5-739f-4f86-9569-813ae134f663",
+      "title": "Episode 23: Where are we now? Christian nationalist thought",
+      "release": "2026-04-11T00:00:00",
+      "duration": "01:19:05.6130000",
+      "explicit": false,
+      "spotifyId": "4jOWWozIl3t4Y5ksvpFrOZ",
+      "youTubeId": "GyjU6c_gTk4",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4jOWWozIl3t4Y5ksvpFrOZ",
+        "youtube": "https://www.youtube.com/watch?v=GyjU6c_gTk4"
       }
     },
     {
@@ -62,9 +267,276 @@
       "release": "2026-04-04T22:56:38Z",
       "duration": "01:07:36",
       "explicit": false,
+      "spotifyId": "3BWdb093wOgHcRMyIT6VRT",
       "youTubeId": "U_CmeCUFIs4",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3BWdb093wOgHcRMyIT6VRT",
         "youtube": "https://www.youtube.com/watch?v=U_CmeCUFIs4"
+      }
+    },
+    {
+      "id": "89248af4-f3a6-4292-a183-8ab3dcbd05ed",
+      "title": "Episode 22: Out of body experience/Huckleberry Sawyer",
+      "release": "2026-04-04T00:00:00",
+      "duration": "01:43:04.8820000",
+      "explicit": false,
+      "spotifyId": "6NMYL5IWujJQosGMgrSFyl",
+      "youTubeId": "kOU395yUGbQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6NMYL5IWujJQosGMgrSFyl",
+        "youtube": "https://www.youtube.com/watch?v=kOU395yUGbQ"
+      }
+    },
+    {
+      "id": "630e11e8-e8a7-4f81-bd5f-3deb4c0d7513",
+      "title": "Episode 20: Creepy Smells",
+      "release": "2026-03-28T00:00:00",
+      "duration": "01:08:42.4090000",
+      "explicit": false,
+      "spotifyId": "2WcTCRpSUdMEbui5UtrQdc",
+      "youTubeId": "J87hJjFYHDE",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2WcTCRpSUdMEbui5UtrQdc",
+        "youtube": "https://www.youtube.com/watch?v=J87hJjFYHDE"
+      }
+    },
+    {
+      "id": "75216475-f842-477d-9372-0248179d0164",
+      "title": "Episode 19: Burnout",
+      "release": "2026-03-28T00:00:00",
+      "duration": "01:25:24.1270000",
+      "explicit": false,
+      "spotifyId": "3ihsdX88l6cjLDFFYFtUUA",
+      "youTubeId": "x1I_NSLRNHU",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3ihsdX88l6cjLDFFYFtUUA",
+        "youtube": "https://www.youtube.com/watch?v=x1I_NSLRNHU"
+      }
+    },
+    {
+      "id": "3aee50c3-7e1a-4f8c-8868-54b8533028e1",
+      "title": "Episode 18: Tess Goes to Prom",
+      "release": "2026-03-28T00:00:00",
+      "duration": "01:02:15.4580000",
+      "explicit": false,
+      "spotifyId": "18b7GhnCD2nH0uaxsbC88a",
+      "youTubeId": "h1M1qYiA_HY",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/18b7GhnCD2nH0uaxsbC88a",
+        "youtube": "https://www.youtube.com/watch?v=h1M1qYiA_HY"
+      }
+    },
+    {
+      "id": "54f99256-402c-478f-93e5-56fa004897f1",
+      "title": "Episode 17: Prosocial Recovery",
+      "release": "2026-02-14T00:00:00",
+      "duration": "00:56:32.0260000",
+      "explicit": false,
+      "spotifyId": "3qQGPWjOennhAqAQHigT9s",
+      "youTubeId": "bbSFxHb2L5s",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3qQGPWjOennhAqAQHigT9s",
+        "youtube": "https://www.youtube.com/watch?v=bbSFxHb2L5s"
+      }
+    },
+    {
+      "id": "2b008fc1-7348-45ef-8f3d-9759f3f7be3d",
+      "title": "Episode 16: Prosocial Community",
+      "release": "2026-02-14T00:00:00",
+      "duration": "01:13:32.2120000",
+      "explicit": false,
+      "spotifyId": "1X9LNrQixV8yFmYcdux34k",
+      "youTubeId": "jyuiIfRvAx8",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1X9LNrQixV8yFmYcdux34k",
+        "youtube": "https://www.youtube.com/watch?v=jyuiIfRvAx8"
+      }
+    },
+    {
+      "id": "1b8f11b7-a0aa-4557-bfc6-e280854d46e3",
+      "title": "Episode 15: Helpmeet",
+      "release": "2026-01-31T00:00:00",
+      "duration": "01:30:23.5690000",
+      "explicit": false,
+      "spotifyId": "4tvMubIoRaUJmEdFk3b1LL",
+      "youTubeId": "TlxXRKn6P4Y",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4tvMubIoRaUJmEdFk3b1LL",
+        "youtube": "https://www.youtube.com/watch?v=TlxXRKn6P4Y"
+      }
+    },
+    {
+      "id": "577f9d6b-29ac-4189-a784-e3e8cbf34781",
+      "title": "Episode 14: Casey has questions part 2",
+      "release": "2026-01-18T00:00:00",
+      "duration": "01:47:15.6570000",
+      "explicit": false,
+      "spotifyId": "2AvmaLS9cNXpehAKDpSK30",
+      "youTubeId": "jv1hNeuDGZY",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2AvmaLS9cNXpehAKDpSK30",
+        "youtube": "https://www.youtube.com/watch?v=jv1hNeuDGZY"
+      }
+    },
+    {
+      "id": "8973a6bf-74ec-4e0d-95b4-35d2c4063693",
+      "title": "Principal dilemma",
+      "release": "2026-01-17T00:00:00",
+      "duration": "00:51:35.2750000",
+      "explicit": false,
+      "spotifyId": "5CdC3ztEDpAS8oNTJ6j6km",
+      "youTubeId": "VqCde6B7RYQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5CdC3ztEDpAS8oNTJ6j6km",
+        "youtube": "https://www.youtube.com/watch?v=VqCde6B7RYQ"
+      }
+    },
+    {
+      "id": "77381216-b0e5-42ef-817e-ec6d1d133916",
+      "title": "Episode 13: Casey has questions",
+      "release": "2026-01-17T00:00:00",
+      "duration": "01:19:48.4540000",
+      "explicit": false,
+      "spotifyId": "5mbRseoUxOQ6GFrH7uGyJc",
+      "youTubeId": "35-5u_Bt1p8",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5mbRseoUxOQ6GFrH7uGyJc",
+        "youtube": "https://www.youtube.com/watch?v=35-5u_Bt1p8"
+      }
+    },
+    {
+      "id": "6584133b-18c8-4ed6-8c10-0784a82773f6",
+      "title": "Episode 12: Principal dilemma",
+      "release": "2026-01-17T00:00:00",
+      "duration": "00:51:35.2750000",
+      "explicit": false,
+      "spotifyId": "36O8T743HKQZuQUrGZLlfD",
+      "youTubeId": "VqCde6B7RYQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/36O8T743HKQZuQUrGZLlfD",
+        "youtube": "https://www.youtube.com/watch?v=VqCde6B7RYQ"
+      }
+    },
+    {
+      "id": "5105ab04-ac56-4cd7-99e8-532b9638fe2a",
+      "title": "Episode 11.5: Bonus episode: The world is ending",
+      "release": "2026-01-14T00:00:00",
+      "duration": "00:41:46.3960000",
+      "explicit": false,
+      "spotifyId": "140dANpCzFDbMEg58ftlDS",
+      "youTubeId": "7JjXtKh4pjI",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/140dANpCzFDbMEg58ftlDS",
+        "youtube": "https://www.youtube.com/watch?v=7JjXtKh4pjI"
+      }
+    },
+    {
+      "id": "6a42759b-31cc-44f6-a0ea-8ebcaca3fea7",
+      "title": "Episode 11: Foot Trauma Part 2",
+      "release": "2026-01-09T00:00:00",
+      "duration": "00:46:54.9020000",
+      "explicit": false,
+      "spotifyId": "5hJBBPFfF699fWsK4qcxum",
+      "youTubeId": "GO7hyTu6Mp4",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5hJBBPFfF699fWsK4qcxum",
+        "youtube": "https://www.youtube.com/watch?v=GO7hyTu6Mp4"
+      }
+    },
+    {
+      "id": "c4361929-a6a1-46b2-948e-26753d799894",
+      "title": "Episode 10: Foot Trauma Part 1",
+      "description": "Tess broke her foot... again",
+      "release": "2026-01-01T00:00:00",
+      "duration": "00:48:44.6170000",
+      "explicit": false,
+      "spotifyId": "7ahwyd1rPwxQIT6Ut8sufg",
+      "youTubeId": "GO7hyTu6Mp4",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7ahwyd1rPwxQIT6Ut8sufg",
+        "youtube": "https://www.youtube.com/watch?v=GO7hyTu6Mp4"
+      }
+    },
+    {
+      "id": "9bac9bb7-056b-4c08-998e-f72d78ba69ae",
+      "title": "Episode 9: Prosocial: Clarinets",
+      "release": "2025-11-09T00:00:00",
+      "duration": "01:09:31.7810000",
+      "explicit": false,
+      "spotifyId": "3OQQFOvUDIPQJ9ZvHgvNIE",
+      "youTubeId": "NpYolPvMibc",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3OQQFOvUDIPQJ9ZvHgvNIE",
+        "youtube": "https://www.youtube.com/watch?v=NpYolPvMibc"
+      }
+    },
+    {
+      "id": "4be434c5-346a-4826-bb95-45c6b3e71b89",
+      "title": "Episode 8: Prosocial: Rending",
+      "release": "2025-11-09T00:00:00",
+      "duration": "00:48:54.4650000",
+      "explicit": false,
+      "spotifyId": "1my4k6m9jhPzQLRnNcMH3w",
+      "youTubeId": "CKj-PIfUDuI",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1my4k6m9jhPzQLRnNcMH3w",
+        "youtube": "https://www.youtube.com/watch?v=CKj-PIfUDuI"
+      }
+    },
+    {
+      "id": "c2b1f283-a77e-4714-aabf-c414c1776c44",
+      "title": "Episode 7: Death of a Folk Hero",
+      "release": "2025-10-25T00:00:00",
+      "duration": "01:12:56.7640000",
+      "explicit": false,
+      "spotifyId": "7nVLslzN0O9pd8WjdZYJxh",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7nVLslzN0O9pd8WjdZYJxh"
+      }
+    },
+    {
+      "id": "35f156d5-e6b7-444d-bdfb-c249ef917ae9",
+      "title": "Episode 6: Cognitive dissonance and public healthcare",
+      "release": "2025-10-24T00:00:00",
+      "duration": "01:05:19.8040000",
+      "explicit": false,
+      "spotifyId": "3jWdMOxqLnIPAul2Fl0Xf2",
+      "youTubeId": "Uq3s9XBWCfs",
+      "subjects": [
+        "Cult Psychology",
+        "The Seekers"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3jWdMOxqLnIPAul2Fl0Xf2",
+        "youtube": "https://www.youtube.com/watch?v=Uq3s9XBWCfs"
+      }
+    },
+    {
+      "id": "f660a0a4-e5a7-435a-86b0-f8cf060c6802",
+      "title": "Episode 5: What is shunning? And what is a good reason? part 2",
+      "description": "An exploration of why we are no longer welcome in our community, and how that fact is justified.",
+      "release": "2025-10-17T00:00:00",
+      "duration": "00:49:47.2320000",
+      "explicit": false,
+      "spotifyId": "6ML521PUJxACndSXQ0wrvo",
+      "youTubeId": "k0CapspxnYU",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6ML521PUJxACndSXQ0wrvo",
+        "youtube": "https://www.youtube.com/watch?v=k0CapspxnYU"
+      }
+    },
+    {
+      "id": "61a51a49-801a-43c5-8013-ff969b08bd6f",
+      "title": "Episode 4: What is shunning? And what is a good reason? Part 1",
+      "description": "An exploration of why we are no longer welcome in our community, and how that fact is justified.",
+      "release": "2025-10-17T00:00:00",
+      "duration": "00:42:29.1070000",
+      "explicit": false,
+      "spotifyId": "4DPHRKhUkBuG8nlKR8d1kj",
+      "youTubeId": "h1w511in-2M",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4DPHRKhUkBuG8nlKR8d1kj",
+        "youtube": "https://www.youtube.com/watch?v=h1w511in-2M"
       }
     },
     {
@@ -116,6 +588,40 @@
       "youTubeId": "U7-94F8cAiQ",
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=U7-94F8cAiQ"
+      }
+    },
+    {
+      "id": "40729c48-e5b2-4de1-a051-2d175b5d5efc",
+      "title": "Episode 3: Oh ** We Missed the Rapture Again - Oct 4, 2025",
+      "description": "It\u0027s not even the first time I\u0027ve missed the Rapture this century",
+      "release": "2025-10-05T00:00:00",
+      "duration": "00:54:50.3310000",
+      "explicit": false,
+      "spotifyId": "5aihzMnMFZEr6TVjQ4n9gO",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5aihzMnMFZEr6TVjQ4n9gO"
+      }
+    },
+    {
+      "id": "35a61d10-96b8-42dd-afd4-2139c5f8d4ba",
+      "title": "Episode 2: Old fashioned",
+      "release": "2025-09-27T00:00:00",
+      "duration": "00:33:34.9550000",
+      "explicit": false,
+      "spotifyId": "0A7gF2v8jESMXySH5cPoyS",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0A7gF2v8jESMXySH5cPoyS"
+      }
+    },
+    {
+      "id": "07a38d8b-36df-4c64-84ae-4c907ca64a8b",
+      "title": "Episode 1: Enemy of the State",
+      "release": "2025-09-27T00:00:00",
+      "duration": "00:28:19.6830000",
+      "explicit": false,
+      "spotifyId": "7cWU5IJEiS1dBZNJQ9Dlkn",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7cWU5IJEiS1dBZNJQ9Dlkn"
       }
     }
   ]

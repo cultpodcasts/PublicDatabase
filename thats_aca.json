@@ -1,0 +1,29 @@
+{
+  "id": "772c9185-0a85-4054-8ae4-5733d2e9029d",
+  "name": "That\u0027s ACA",
+  "spotifyId": "7jOTPgmuWttdpmiO7wXYQS",
+  "appleId": 1821376327,
+  "youTubeChannelId": "UCX15yQQOgUllNFd8wNRV1KQ",
+  "youTubePlaylistId": "PLNi4IaCUUtj9j0L0T7TMySIlHrGb03vfX",
+  "episodes": [
+    {
+      "id": "a5439048-afb1-4f3c-8423-0ec5dcb44355",
+      "title": "Inside \u0027The Saints\u0027 - special guest Pippa Bradshaw",
+      "description": "Elizabeth Struhs was only 8-years-old when she died. Her parents and other members of their cult \u0027The Saints\u0027 are now in prison over her death. Denying the child who was a type 1 diabetic, access to health care. Instead believing she would be healed through prayer and by God. A Current Affair Reporter Pippa Bradshaw has been following the case right from the beginning and and is also host of award winning podcast \u0027The Saints\u0027. We delve into the ins and outs of the case and the next part in the saga. See omnystudio.com/listener for privacy information.",
+      "release": "2026-06-07T21:30:00Z",
+      "duration": "00:36:34.7550000",
+      "explicit": false,
+      "spotifyId": "0DCEF6oLPG2n9CwNGTdmTv",
+      "appleId": 1000771589828,
+      "youTubeId": "KD2sBi7_CQk",
+      "subjects": [
+        "The Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0DCEF6oLPG2n9CwNGTdmTv",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-saints-special-guest-pippa-bradshaw/id1821376327?i=1000771589828",
+        "youtube": "https://www.youtube.com/watch?v=KD2sBi7_CQk"
+      }
+    }
+  ]
+}

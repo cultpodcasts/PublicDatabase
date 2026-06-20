@@ -1,0 +1,25 @@
+{
+  "id": "1f55c2cd-c2d4-4098-950b-3e10d45b9094",
+  "name": "Best of the Spectator",
+  "spotifyId": "7mO6JVScL5NttNQnfWaj1J",
+  "appleId": 793236670,
+  "episodes": [
+    {
+      "id": "e2bbeb38-f5c5-4560-a45d-1aa625d2e15d",
+      "title": "Holy Smoke: Mexico, the Catholic Church \u0026 the rise of the cartel cults",
+      "description": "Friend of Holy Smoke Fr. Alexander Lucie-Smith joins Damian Thompson to talk about the complicated relationship between the drug cartels in Mexico and the Catholic Church. The violence of the cartels has led to a flourishing of shrines \u2013 and also cults \u2013 which have seen Catholic and pagan beliefs fuse together, and which are not always condemned by all church leaders. What motivates the Mexicans who turn to these beliefs? And what does Mexico tell us about corruption across the wider Church? Produced by Patrick Gibbons. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-06-08T09:00:00Z",
+      "duration": "00:28:09.7820000",
+      "explicit": false,
+      "spotifyId": "0UgjnFUfD6dBtXEFtfWSQh",
+      "appleId": 1000771660399,
+      "subjects": [
+        "Catholicism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0UgjnFUfD6dBtXEFtfWSQh",
+        "apple": "https://podcasts.apple.com/podcast/holy-smoke-mexico-the-catholic-church-the-rise/id793236670?i=1000771660399"
+      }
+    }
+  ]
+}

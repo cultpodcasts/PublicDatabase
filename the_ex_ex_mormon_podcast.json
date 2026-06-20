@@ -5,6 +5,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "b9e299c3-7b58-4404-a257-0ffaadd4887e",
+      "title": "Sunday School and Current Events",
+      "description": "Heavenly Mother and The Brother of Jare share some current events in church member news while remembering the second hour of church.",
+      "release": "2026-06-07T10:00:00Z",
+      "duration": "00:55:13",
+      "explicit": false,
+      "spotifyId": "0ePDNGtbRmM09BdKu7wkj3",
+      "appleId": 1000771600227,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ePDNGtbRmM09BdKu7wkj3",
+        "apple": "https://podcasts.apple.com/podcast/sunday-school-and-current-events/id1555494727?i=1000771600227"
+      }
+    },
+    {
       "id": "2072e651-f0ac-42b3-ba99-7b8b05b9f0e1",
       "title": "Sacrament was Terrible",
       "description": "Brother of Jared and Heavenly Mother lament on the first hour of church, the most important, Sacrament meeting",

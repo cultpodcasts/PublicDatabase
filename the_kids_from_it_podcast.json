@@ -4,6 +4,30 @@
   "youTubeChannelId": "UCE6tvTcszoJ8WxQnZnXBLGA",
   "episodes": [
     {
+      "id": "acdcc3ea-1b35-491b-9a56-1ebfbb9e0c6f",
+      "title": "Donald Trump LOVES Your Economic Suffering",
+      "description": "Not a good look Donny",
+      "release": "2026-06-12T00:01:09Z",
+      "duration": "01:28:13",
+      "explicit": false,
+      "youTubeId": "MAikyyUp5C8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MAikyyUp5C8"
+      }
+    },
+    {
+      "id": "92b2134f-3d83-4f7a-ab6d-5264150260cc",
+      "title": "Donald Trump LOVES Your Economic Suffering \uD83D\uDCF1",
+      "description": "Not a good look Donny",
+      "release": "2026-06-12T00:01:09Z",
+      "duration": "01:28:10",
+      "explicit": false,
+      "youTubeId": "me1gbnxW88o",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=me1gbnxW88o"
+      }
+    },
+    {
       "id": "dec9cbd8-88c3-4d33-875a-3a0eda9d0ad3",
       "title": "Will Trump Backing a Criminal Candidate Turn Texas Blue?",
       "release": "2026-05-29T12:16:19Z",
