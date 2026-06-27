@@ -4,6 +4,94 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "df327908-04e3-4c4a-8c31-4c5974189df7",
+      "title": "How does Donald Trump see the world?",
+      "release": "2026-06-27T11:00:24Z",
+      "duration": "00:01:34",
+      "explicit": false,
+      "youTubeId": "oZt_QLcUNyc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=oZt_QLcUNyc"
+      }
+    },
+    {
+      "id": "2631c6e3-c4b5-45b4-88cc-69bf37de1519",
+      "title": "How does a lack of empathy define Donald Trump?",
+      "release": "2026-06-27T10:00:02Z",
+      "duration": "00:02:13",
+      "explicit": false,
+      "youTubeId": "ik3_MzgHW-Q",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ik3_MzgHW-Q"
+      }
+    },
+    {
+      "id": "0d7f3254-d72f-4657-9659-44a392aef15a",
+      "title": "Why has Donald Trump never seen his nephew William?",
+      "release": "2026-06-27T09:00:22Z",
+      "duration": "00:01:08",
+      "explicit": false,
+      "youTubeId": "mBHxRQznNd0",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mBHxRQznNd0"
+      }
+    },
+    {
+      "id": "e17ff2c0-c1ca-4f74-ace2-80dc124288ce",
+      "title": "What does the Trump World Tower look down on?",
+      "release": "2026-06-26T18:52:48Z",
+      "duration": "00:00:34",
+      "explicit": false,
+      "youTubeId": "bJxYrp4W9eU",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bJxYrp4W9eU"
+      }
+    },
+    {
+      "id": "5c1fa20c-ec72-420a-b211-b0a11c919d32",
+      "title": "Inside the Trump Family: w/ journalist Emily Maitlis",
+      "release": "2026-06-26T18:51:32Z",
+      "duration": "00:09:38",
+      "explicit": false,
+      "youTubeId": "XxzLiILoxNc",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XxzLiILoxNc"
+      }
+    },
+    {
+      "id": "b8fc4637-1da4-4bb5-a8b9-29f423dc0718",
+      "title": "The Making of Donald Trump: A Story of Arrested Development",
+      "release": "2026-06-26T13:08:34Z",
+      "duration": "00:06:51",
+      "explicit": false,
+      "youTubeId": "Xp6NN94mn5g",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Xp6NN94mn5g"
+      }
+    },
+    {
+      "id": "dcff167e-0dcf-43c1-a219-d7c3960966fd",
+      "title": "Where did Donald Trump grow up?",
+      "release": "2026-06-26T13:02:07Z",
+      "duration": "00:01:05",
+      "explicit": false,
+      "youTubeId": "BXVMfqJRuBY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BXVMfqJRuBY"
+      }
+    },
+    {
+      "id": "ff35bd97-f7e2-430a-a08a-3daf8848275b",
+      "title": "The Turner Diaries: how did they inspire the terrorist attack in Oklahoma?",
+      "release": "2026-06-21T09:00:39Z",
+      "duration": "00:03:06",
+      "explicit": false,
+      "youTubeId": "zsaIflvK4fY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zsaIflvK4fY"
+      }
+    },
+    {
       "id": "9ea028ef-96bd-4a1b-905b-73723e9c0cc0",
       "title": "Fmr. British Prime Minister Liz Truss blames the Civil Service for her failed premiership!",
       "description": "w/ podcast Andrew Gold",

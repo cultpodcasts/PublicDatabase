@@ -1,0 +1,22 @@
+{
+  "id": "6aa22a49-fb90-4552-aac6-3d89da2e78f0",
+  "name": "Family Lore",
+  "spotifyId": "7ejphnzHEK4r1Yd5PZfpOY",
+  "episodes": [
+    {
+      "id": "d874d27e-8dd3-4b7d-9b66-c150d6747525",
+      "title": "Remaking The World",
+      "description": "David Belden was born into the upper echelons of Moral Re-Armament, a spiritual movement that hoped to save the world. It wasn\u0027t until later in his life that David realized he was in a cult.",
+      "release": "2026-06-24T00:00:00",
+      "duration": "00:30:44.8190000",
+      "explicit": false,
+      "spotifyId": "0Gbznv6WbNbt86XMpQy7ch",
+      "subjects": [
+        "Moral Re-Armament"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Gbznv6WbNbt86XMpQy7ch"
+      }
+    }
+  ]
+}

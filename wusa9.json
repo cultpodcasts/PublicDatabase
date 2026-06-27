@@ -82,6 +82,21 @@
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=C96Mr_fa2w0"
       }
+    },
+    {
+      "id": "996b44ac-c89a-4890-84cb-deca777ed426",
+      "title": "Warning to parents: Extremist group recruits minors on gaming platforms, FBI says",
+      "description": "The FBI warns of the 764 network, an extremist group targeting minors via gaming platforms, coercing them into harmful acts. Parents are urged to stay vigilant.",
+      "release": "2025-11-26T01:24:41Z",
+      "duration": "00:03:14",
+      "explicit": false,
+      "youTubeId": "1CQaXIppC3M",
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1CQaXIppC3M"
+      }
     }
   ]
 }

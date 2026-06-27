@@ -1,0 +1,26 @@
+{
+  "id": "7d067b23-ab42-4822-b5a9-8c81a561f740",
+  "name": "Un jour, une vie",
+  "spotifyId": "4jtfWqjTPXKuuUJmjfwX72",
+  "appleId": 459464113,
+  "youTubeChannelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+  "youTubePlaylistId": "PLRwgXecE0bRN3_0kvjCJZgXq7zuhWq7hk",
+  "episodes": [
+    {
+      "id": "00653859-a8a0-47ff-83b2-856bf243a321",
+      "title": "Beno\u00EEt, le d\u00E9tective qui infiltre les sectes",
+      "description": "Alors que les d\u00E9rives sectaires continuent de progresser en France, notre invit\u00E9 du jour exerce un m\u00E9tier hors du commun. Beno\u00EEt est d\u00E9tective priv\u00E9 et s\u0027est sp\u00E9cialis\u00E9 dans l\u0027infiltration de groupes soup\u00E7onn\u00E9s de manipulation mentale. Son travail ? Cr\u00E9er de fausses identit\u00E9s, gagner la confiance des membres et s\u0027immerger dans ces communaut\u00E9s pour comprendre ce qui s\u0027y passe r\u00E9ellement. Parmi ses r\u00E9centes missions, il a notamment infiltr\u00E9 un groupe pr\u00F4nant le \u00AB pranisme \u00BB, qui pr\u00E9tend permettre de vivre sans manger ni boire. Ce matin, il va nous raconter les coulisses de ces infiltrations. H\u00E9berg\u00E9 par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d\u0027informations.",
+      "release": "2026-06-23T08:00:00Z",
+      "duration": "00:26:40.5250000",
+      "explicit": false,
+      "spotifyId": "5M9MqR70DqZdDQMBSsP8Wx",
+      "appleId": 1000773857524,
+      "youTubeId": "TMSVFO90QAQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5M9MqR70DqZdDQMBSsP8Wx",
+        "apple": "https://podcasts.apple.com/podcast/beno%C3%AEt-le-d%C3%A9tective-qui-infiltre-les-sectes/id459464113?i=1000773857524",
+        "youtube": "https://www.youtube.com/watch?v=TMSVFO90QAQ"
+      }
+    }
+  ]
+}

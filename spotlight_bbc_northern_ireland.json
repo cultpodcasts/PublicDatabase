@@ -3,6 +3,34 @@
   "name": "Spotlight (BBC Northern Ireland)",
   "episodes": [
     {
+      "id": "5a1592ae-19ee-4c7a-8b86-b37e4d233cee",
+      "title": "Spotlight - Politician, Predator and Paedophile",
+      "description": "Sir Jeffrey Donaldson \u2013 the secret sex abuser who used faith and fidelity as a mask. Mandy McAuley investigates how Donaldson became an MP, the leader of unionism, and a knight of the realm while hiding that he was a child abuser. In the wake of his conviction on 18 charges of abuse, including rape, Spotlight reveals risky behaviours hidden from public view. ",
+      "release": "2026-06-26T21:00:00",
+      "duration": "00:57:00",
+      "explicit": true,
+      "subjects": [
+        "Spiritual Narcissist"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002ypp6/spotlight-politician-predator-and-paedophile"
+      }
+    },
+    {
+      "id": "e327daba-eed2-4b23-b3e3-7a65dcfc7df9",
+      "title": "Spotlight - Faith and Failings",
+      "description": "Allegations from inside the Church of Ireland: former workers in the church tell Lyndsey Telford about concerns over the handling of safeguarding cases that span decades. ",
+      "release": "2026-06-09T22:40:00",
+      "duration": "00:37:00",
+      "explicit": true,
+      "subjects": [
+        "_Ireland"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m002x9xx/spotlight-faith-and-failings"
+      }
+    },
+    {
       "id": "593e895d-2018-41ab-a2c3-526bb5e914e7",
       "title": "Katie: Coerced and Killed",
       "description": "Katie Simpson\u2019s love for horses brought her into the orbit of Jonathan Creswell, a showjumper-turned-horse trainer with a dark history of coercive control and violence against women. When he claimed to be the Good Samaritan who found the 21-year-old after she attempted suicide, some were immediately suspicious. But for months police seemed to take his story at face value. Jennifer O\u2019Leary investigates Katie\u2019s terrible death and how his lies almost went undetected. \n\nThis programme has been updated to reflect updated Public Prosecution Service information about an aspect of an account given in court",

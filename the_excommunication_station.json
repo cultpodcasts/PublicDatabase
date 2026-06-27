@@ -5,6 +5,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "67472d76-4a0a-42c0-a6e5-a0840f64bc1e",
+      "title": "262. COBU Part III",
+      "description": "This week, we finish up our series on The Church Of Bible Understanding.",
+      "release": "2026-06-24T00:35:00Z",
+      "duration": "01:31:43.7130000",
+      "explicit": true,
+      "spotifyId": "1Q341K13ES8G8870n8REVJ",
+      "appleId": 1000773959509,
+      "subjects": [
+        "Church of Bible Understanding"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1Q341K13ES8G8870n8REVJ",
+        "apple": "https://podcasts.apple.com/podcast/262-cobu-part-iii/id1573190999?i=1000773959509"
+      }
+    },
+    {
       "id": "011a6fd8-776d-4080-8e9b-ce1d3144e2b7",
       "title": "261. COBU Part II",
       "description": "We continue our series on the Church Of Bible Understanding or COBU and their leader Stewart Traill.",

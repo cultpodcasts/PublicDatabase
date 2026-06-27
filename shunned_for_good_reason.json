@@ -5,6 +5,19 @@
   "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
   "episodes": [
     {
+      "id": "0d0ac969-5193-469c-a90e-01e769a4c790",
+      "title": "Episode 39: Power and Control",
+      "release": "2026-06-20T19:36:42Z",
+      "duration": "01:35:02",
+      "explicit": false,
+      "spotifyId": "4PeJXzJ1wNEqN0PZhU0vmv",
+      "youTubeId": "UlYOZ5WoUlE",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4PeJXzJ1wNEqN0PZhU0vmv",
+        "youtube": "https://www.youtube.com/watch?v=UlYOZ5WoUlE"
+      }
+    },
+    {
       "id": "10765c94-96fe-406b-b73b-75fff5f82e84",
       "title": "Episode 38: Where are we now and how did we get here: Resilience and Rebuilding ",
       "release": "2026-06-07T01:26:00Z",

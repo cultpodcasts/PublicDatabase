@@ -1,0 +1,21 @@
+{
+  "id": "a43080e5-6b16-421d-9cff-bbac7f61959a",
+  "name": "PlayStation Network",
+  "youTubeChannelId": "UCr8k1wt3XIiB1Zv5j7HIIMA",
+  "episodes": [
+    {
+      "id": "b2f62f44-61ef-4924-9dc6-6b35f42a19f8",
+      "title": "Heaven And Hell - The Centrepoint Story  [NZ DOCO]",
+      "release": "2025-08-26T07:42:23Z",
+      "duration": "01:35:24",
+      "explicit": false,
+      "youTubeId": "sjkVbQAOcfE",
+      "subjects": [
+        "Centrepoint"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=sjkVbQAOcfE"
+      }
+    }
+  ]
+}

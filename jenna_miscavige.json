@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCQKFF3F2P0enb5RUybSvQAQ",
   "episodes": [
     {
+      "id": "9526129e-9905-48c3-9b65-11dde1a16938",
+      "title": "My Uncle is the Leader of Scientology",
+      "release": "2026-06-25T19:15:15Z",
+      "duration": "00:00:31",
+      "explicit": false,
+      "youTubeId": "UXRGBdHuDfM",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=UXRGBdHuDfM"
+      }
+    },
+    {
+      "id": "4c1c9eb8-ac38-425d-bad4-4ae4eaa599d6",
+      "title": "My Uncle is the Leader of Scientology",
+      "release": "2026-06-22T21:55:10Z",
+      "duration": "00:00:25",
+      "explicit": false,
+      "youTubeId": "L7TnV9KHO0Q",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=L7TnV9KHO0Q"
+      }
+    },
+    {
       "id": "812a63da-04ab-4c5e-aea3-b727130a75be",
       "title": "I Escaped Scientology- Ask Me Anything",
       "description": "#speedrun",

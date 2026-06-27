@@ -5,6 +5,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "9f38a623-db69-498b-85de-d2bfc4f9a5cb",
+      "title": "Johnny Appleseed - Season 13 Episode 23",
+      "description": "Thor tries to convince us that Johnny Appleseed should be on the list of the greatest influencers of all time. Find out where he is placed on the list and let us know if you agree.",
+      "release": "2026-06-26T14:10:00Z",
+      "duration": "00:45:02.2220000",
+      "explicit": false,
+      "spotifyId": "3DVnN8Fzx6zpHhDOptNmdz",
+      "appleId": 1000774354794,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3DVnN8Fzx6zpHhDOptNmdz",
+        "apple": "https://podcasts.apple.com/podcast/johnny-appleseed-season-13-episode-23/id1565633523?i=1000774354794"
+      }
+    },
+    {
       "id": "2517d9f9-7ed4-4d80-b7d6-1cc6ce4ca2fb",
       "title": "Queen Elizabeth I - Season 13 Episode 22",
       "description": "Finn argues that Queen Elizabeth I is the most influential person in history. Listen and let us know if you agree",

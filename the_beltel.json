@@ -1,0 +1,28 @@
+{
+  "id": "edc8c382-1e45-47b9-aea4-c82f448e2271",
+  "name": "The BelTel",
+  "spotifyId": "0APbk8WmDsaEocbdaqrOzf",
+  "appleId": 1620386537,
+  "episodes": [
+    {
+      "id": "5004763a-852d-4947-9504-f2625a04494c",
+      "title": "\u2018Don\u2019t call Jeffrey Epstein a paedophile\u2019 - top Northern Ireland lawyer part of 2011 effort to defend Epstein\u2019s reputation",
+      "description": "\u2018Don\u2019t call Jeffrey Epstein a paedophile\u2019 \u2013 that was the demand of a top NI lawyer to a London newspaper in 2011. Paul Tweed was brought in to try and limit the damage to the sex-offender\u0027s reputation after he was released from prison. The Belfast solicitor is one of the best-known libel lawyers in the UK and Ireland. He has told the Belfast Telegraph that he \u201Ccategorically rejects the suggestion that he acted in any way inappropriately\u201D, saying he acted within his professional and regulatory obligations. The Belfast Telegraph\u2019s Northern Ireland editor Sam McBride joins Ciar\u00E1n Dunbar in the studio. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-02-20T08:28:25Z",
+      "duration": "00:45:04.9790000",
+      "explicit": false,
+      "spotifyId": "0Z8YlxKS7uPLyMmv3yI9E9",
+      "appleId": 1000750632721,
+      "subjects": [
+        "Human Trafficking",
+        "_Ireland",
+        "_America",
+        "_London"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Z8YlxKS7uPLyMmv3yI9E9",
+        "apple": "https://podcasts.apple.com/podcast/dont-call-jeffrey-epstein-a-paedophile-top-northern/id1620386537?i=1000750632721"
+      }
+    }
+  ]
+}
