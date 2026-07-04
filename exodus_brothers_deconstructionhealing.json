@@ -14,12 +14,14 @@
       "explicit": false,
       "spotifyId": "13Nj6vdoXQkSX5W3hWY88Q",
       "appleId": 1000765912355,
+      "youTubeId": "mNb-SH5gKbc",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/13Nj6vdoXQkSX5W3hWY88Q",
-        "apple": "https://podcasts.apple.com/podcast/the-robinette-sisters-surviving-exorcisms-abuse-and/id1793694535?i=1000765912355"
+        "apple": "https://podcasts.apple.com/podcast/the-robinette-sisters-surviving-exorcisms-abuse-and/id1793694535?i=1000765912355",
+        "youtube": "https://www.youtube.com/watch?v=mNb-SH5gKbc"
       }
     },
     {
@@ -31,12 +33,14 @@
       "explicit": false,
       "spotifyId": "1cJYpaRxK5gEFqXac5G36L",
       "appleId": 1000762314665,
+      "youTubeId": "8R_LJ723Yu0",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1cJYpaRxK5gEFqXac5G36L",
-        "apple": "https://podcasts.apple.com/podcast/bry-troyer-exodus-international-coming-out-and/id1793694535?i=1000762314665"
+        "apple": "https://podcasts.apple.com/podcast/bry-troyer-exodus-international-coming-out-and/id1793694535?i=1000762314665",
+        "youtube": "https://www.youtube.com/watch?v=8R_LJ723Yu0"
       }
     },
     {
@@ -67,12 +71,14 @@
       "explicit": false,
       "spotifyId": "2E13rYfrmXjQas2kBssRKT",
       "appleId": 1000755448249,
+      "youTubeId": "0pH5tidRGkE",
       "subjects": [
         "Evangelicalism"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2E13rYfrmXjQas2kBssRKT",
-        "apple": "https://podcasts.apple.com/podcast/cast-out-by-the-church-pastors-wife-alisa-oganisians-story/id1793694535?i=1000755448249"
+        "apple": "https://podcasts.apple.com/podcast/cast-out-by-the-church-pastors-wife-alisa-oganisians-story/id1793694535?i=1000755448249",
+        "youtube": "https://www.youtube.com/watch?v=0pH5tidRGkE"
       }
     },
     {

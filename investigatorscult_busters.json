@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "8554d145-f8c2-4372-8c35-4a4fecdd6cf6",
+      "title": "IDMR Goes to the Movies with Dr. Kinley",
+      "release": "2026-06-28T22:35:30Z",
+      "duration": "00:02:31",
+      "explicit": false,
+      "youTubeId": "a1pH6zBv3WI",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=a1pH6zBv3WI"
+      }
+    },
+    {
+      "id": "d4ea5287-7673-47f7-9543-89400c557fb7",
+      "title": "IDMR Goes to the Movies with Dr. Kinley",
+      "release": "2026-06-27T13:56:23Z",
+      "duration": "00:02:31",
+      "explicit": false,
+      "youTubeId": "1EfVcwQx0Zc",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1EfVcwQx0Zc"
+      }
+    },
+    {
       "id": "7c669485-2692-4da2-9c3f-b8b88c0d797e",
       "title": "Dr. Kinley Defends \u201CHonorary Doctorate\u201D",
       "release": "2026-06-19T22:00:03Z",

@@ -3,7 +3,28 @@
   "name": "The BelTel",
   "spotifyId": "0APbk8WmDsaEocbdaqrOzf",
   "appleId": 1620386537,
+  "youTubeChannelId": "UC8DDYNnDrXYKSsVJ58rUumw",
+  "youTubePlaylistId": "PLre110uxMY--ma5kUN8e9o6U-n_StsAM9",
   "episodes": [
+    {
+      "id": "07a54218-d6a5-4942-8962-3186433a0b58",
+      "title": "Affairs, gay saunas, and drinking excessively: Former MLA on the Jeffrey Donaldson he knew",
+      "description": "Jeffrey Donaldson was an \u201Cunmitigated liar\u201D and was living a double life while working in Westminster \u2013 according to former DUP MLA Jim Wells. In the days following Jeffrey Donaldson\u2019s guilty verdict for child sex offences, more information has arisen about the disgraced MPs personal life \u2013 including affairs, the use of gay saunas, and drinking to excess. Former MLA and DUP member Jim Wells joined Olivia Peden. Hosted on Acast. See acast.com/privacy for more information.",
+      "release": "2026-06-29T17:40:02Z",
+      "duration": "00:25:47.8330000",
+      "explicit": false,
+      "spotifyId": "3d76wCPLoC6Wk9bB3hIG4F",
+      "appleId": 1000774736146,
+      "youTubeId": "rZDUlICPJow",
+      "subjects": [
+        "Spiritual Narcissist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3d76wCPLoC6Wk9bB3hIG4F",
+        "apple": "https://podcasts.apple.com/podcast/affairs-gay-saunas-and-drinking-excessively-former/id1620386537?i=1000774736146",
+        "youtube": "https://www.youtube.com/watch?v=rZDUlICPJow"
+      }
+    },
     {
       "id": "5004763a-852d-4947-9504-f2625a04494c",
       "title": "\u2018Don\u2019t call Jeffrey Epstein a paedophile\u2019 - top Northern Ireland lawyer part of 2011 effort to defend Epstein\u2019s reputation",

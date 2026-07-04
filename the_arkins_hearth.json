@@ -3,6 +3,7 @@
   "name": "The Arkin\u0027s Hearth",
   "spotifyId": "1XNRpnjgkXrmhTaQF9OVU0",
   "appleId": 1877433076,
+  "youTubeChannelId": "UC3zKYHu1kvE16i6wlBd0CVQ",
   "episodes": [
     {
       "id": "4b600b63-8cc5-4558-9d4e-5980169c3d2f",
@@ -13,13 +14,15 @@
       "explicit": true,
       "spotifyId": "0qPvnYbNTWHyic3ntIyPvu",
       "appleId": 1000770356105,
+      "youTubeId": "Ywhg8YlEG6Q",
       "subjects": [
         "Lord Our Righteousness Church",
         "Seventh-day Adventist Church"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0qPvnYbNTWHyic3ntIyPvu",
-        "apple": "https://podcasts.apple.com/podcast/the-strong-city-cult/id1877433076?i=1000770356105"
+        "apple": "https://podcasts.apple.com/podcast/the-strong-city-cult/id1877433076?i=1000770356105",
+        "youtube": "https://www.youtube.com/watch?v=Ywhg8YlEG6Q"
       }
     }
   ]

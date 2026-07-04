@@ -1,6 +1,8 @@
 {
   "id": "0e0c8a75-f788-4b9f-af91-8f326d2f014b",
   "name": "The Curious Introvert",
+  "spotifyId": "54nwUMOiDrqAcRmNHLasDf",
+  "appleId": 1483941440,
   "youTubeChannelId": "UCXJNWGESV-dRb4VdPq-Z1SQ",
   "episodes": [
     {
@@ -10,11 +12,15 @@
       "release": "2026-05-04T11:00:45Z",
       "duration": "01:06:06",
       "explicit": false,
+      "spotifyId": "2OZXa92dCkY6zIdh2f1sXj",
+      "appleId": 1000765983294,
       "youTubeId": "RTjZ4vsAReU",
       "subjects": [
         "Onetaste"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/2OZXa92dCkY6zIdh2f1sXj",
+        "apple": "https://podcasts.apple.com/podcast/ep-342-the-cult-that-sold-orgasms/id1483941440?i=1000765983294",
         "youtube": "https://www.youtube.com/watch?v=RTjZ4vsAReU"
       }
     }

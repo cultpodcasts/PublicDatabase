@@ -1,0 +1,37 @@
+{
+  "id": "f2f772d1-1c7c-4ba9-bfdd-8a59d4bc75f7",
+  "name": "Chase. Lor",
+  "youTubeChannelId": "UCD3Xxav6k08lP0xpwjJpnlA",
+  "episodes": [
+    {
+      "id": "4984bce5-ab1f-481a-9cd0-8f011530f5d8",
+      "title": "They said I couldn\u0027t go to high school! I was raised in a cult: Part 2",
+      "description": "Hi! So sorry that I was reading off the paper most of the time. I still hope you enjoyed!",
+      "release": "2026-06-29T20:33:45Z",
+      "duration": "00:47:52",
+      "explicit": false,
+      "youTubeId": "PeHtvN3XTPM",
+      "subjects": [
+        "Mennonite"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PeHtvN3XTPM"
+      }
+    },
+    {
+      "id": "bd691864-9a8e-4596-b8ec-fdde881dbe13",
+      "title": "I was raised in a cult: Part 1",
+      "description": "Hello! I am so sorry for how long I have been gone, and hopefully this video is interesting!",
+      "release": "2026-06-28T20:50:42Z",
+      "duration": "00:31:08",
+      "explicit": false,
+      "youTubeId": "mzj5fh2fs_4",
+      "subjects": [
+        "Mennonite"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mzj5fh2fs_4"
+      }
+    }
+  ]
+}
