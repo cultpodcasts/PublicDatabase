@@ -1,0 +1,30 @@
+{
+  "id": "7308cc66-d217-4704-8217-c4c8bc6c7b23",
+  "name": "MindMatters",
+  "spotifyId": "4stGguKa2mQmB6Ky3wHlri",
+  "appleId": 1562743269,
+  "youTubeChannelId": "UCeH9HSg4UnTBF34Y5ozW9xA",
+  "episodes": [
+    {
+      "id": "203ce991-ce05-4d09-8f1d-d9e474cd42f4",
+      "title": "Predators in High Places with Dr. Karen Mitchell",
+      "description": "Today on MindMatters, Dr. Karen Mitchell , founder and CEO of the Kalmor Institute , shares insights from her pioneering PhD research on the \u0022 persistent predatory personality .\u0022 Unlike previous studies that relied primarily on incarcerated populations or graduate students, Dr. Mitchell\u0027s work draws from the extensive experiences of practitioners who have dedicated their careers to working with individuals exhibiting dark triad traits and psychopathic tendencies. Her research includes data from professionals with an average of 22 years\u0027 experience in fields such as child sex abuse, domestic violence, cults, terrorism, toxic leadership, including an FBI agent with the highest number of serial killer cases. By canvassing these unique perspectives, her work offers a fresh approach to understanding and identifying the persistent predatory personality, highlighting the limitations of existing models like the Psychopathy Checklist developed by Robert Hare.",
+      "release": "2024-08-16T19:00:00Z",
+      "duration": "01:36:05.3810000",
+      "explicit": false,
+      "spotifyId": "1V6ZOoOY9uO8fDqFA4y4JE",
+      "appleId": 1000665663214,
+      "youTubeId": "fwYVzICB5rE",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1V6ZOoOY9uO8fDqFA4y4JE",
+        "apple": "https://podcasts.apple.com/podcast/predators-in-high-places-with-dr-karen-mitchell/id1562743269?i=1000665663214",
+        "youtube": "https://www.youtube.com/watch?v=fwYVzICB5rE"
+      }
+    }
+  ]
+}

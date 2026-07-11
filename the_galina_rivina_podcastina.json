@@ -4,5 +4,25 @@
   "spotifyId": "23ioO0VDzfMfpwYlkiGplO",
   "appleId": 1540880350,
   "youTubeChannelId": "UCZ4QfCvkLKd7L4UZ_KNi6Iw",
-  "episodes": []
+  "episodes": [
+    {
+      "id": "feda2814-a79d-4c02-8ca8-6ce330b125e0",
+      "title": "#175: Amanda Rae - Escaping A Cult: Polygamy, Fraud, \u0026 Siblings Marrying Each Other",
+      "description": "Amanda Rae Grant joins me to share what it was like to escape the Kingston Clan; a polygamous cult in Utah, known as the mafia of polygamists for their involvement in tax fraud, child labor, and incest.\u00A0\n\nShe shares the connection between them and FLDS cults like Warren Jeffs, how they justify incest and test member\u0027s blood to marry them, when she started to realize she was in a cult, how she deprogrammed and escaped, how it led to a disastrous marriage, why women are often the victims in cults, the brainwashing tactics used by cult leaders, what it was like to adjust to life after escaping, how it shaped her beliefs, the hardest part of leaving, and much more.\n\nFor access to exclusive content, follow the show on Patreon:\nhttps://www.patreon.com/c/Podcastina\n\nConnect:\nGalina Rivina - https://www.instagram.com/thumbgalina\n\nAmanda Rae -\u00A0 https://www.instagram.com/amandaraegrant/?hl=en\n\n\u00A0\n\nPlease subscribe to the channel if you haven\u0027t already. Full episodes every Monday and Thursday.",
+      "release": "2026-07-09T05:51:00Z",
+      "duration": "01:17:15",
+      "explicit": false,
+      "spotifyId": "7vqBAsggLrPN4gknhQr70e",
+      "appleId": 1000776078561,
+      "youTubeId": "3V_aGgE0hHg",
+      "subjects": [
+        "Latter Day Church of Christ"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7vqBAsggLrPN4gknhQr70e",
+        "apple": "https://podcasts.apple.com/podcast/175-amanda-rae-escaping-a-cult-polygamy-fraud/id1540880350?i=1000776078561",
+        "youtube": "https://www.youtube.com/watch?v=3V_aGgE0hHg"
+      }
+    }
+  ]
 }

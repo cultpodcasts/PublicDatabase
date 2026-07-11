@@ -1,0 +1,26 @@
+{
+  "id": "ca0f277e-bb99-4b48-acba-a3b2a0984e02",
+  "name": "Scandal Queens",
+  "spotifyId": "6A2SMYUyC0KrTglfSfjIfx",
+  "appleId": 1752721745,
+  "episodes": [
+    {
+      "id": "047545b4-2c4f-428d-a85b-148c60ed1f29",
+      "title": "The Duggars (Part I): A Quiverfull of BS",
+      "description": "What do you think? Send me a text \u0026#x1f4f1; They were Christian royalty on American reality tv. Now, the Duggars are a stain on the evangelical movement. How did a backwoods family from Arkansas become one of the most recognizable household names in the country? How did they climb from free housing to a $25M a year empire that fueled a political campaign? In this episode, we\u0027re talking the history of the infamous Duggar clan. Where they came from, who they are, and how they produced two monsters among their brood of 19 children (and counting). Support the show Love this episode? Follow Scandal Queens on Instagram and TikTok for the dish on more toxic celebrities. Or, join me on Patreon for more deep dives.",
+      "release": "2026-07-08T07:00:00Z",
+      "duration": "01:12:33.9330000",
+      "explicit": true,
+      "spotifyId": "7o7vlpFpmecmAXGY2fkNRQ",
+      "appleId": 1000775920565,
+      "subjects": [
+        "Quiverfull",
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7o7vlpFpmecmAXGY2fkNRQ",
+        "apple": "https://podcasts.apple.com/podcast/the-duggars-part-i-a-quiverfull-of-bs/id1752721745?i=1000775920565"
+      }
+    }
+  ]
+}

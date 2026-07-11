@@ -13,11 +13,15 @@
       "release": "2026-07-02T22:06:48Z",
       "duration": "00:16:04",
       "explicit": false,
+      "spotifyId": "3qxepOTy3Euw7T5FOsMUiR",
+      "appleId": 1000775245562,
       "youTubeId": "D7wXlvpRrLw",
       "subjects": [
         "Independent Fundamentalist Baptist"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3qxepOTy3Euw7T5FOsMUiR",
+        "apple": "https://podcasts.apple.com/podcast/savanna-faith-stone-the-latest-tradwife-influencer/id1493726980?i=1000775245562",
         "youtube": "https://www.youtube.com/watch?v=D7wXlvpRrLw"
       }
     },

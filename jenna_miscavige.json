@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCQKFF3F2P0enb5RUybSvQAQ",
   "episodes": [
     {
+      "id": "efaebf08-287e-40e1-bd95-330eb379838c",
+      "title": "My Uncle is the Leader of Scientology",
+      "release": "2026-07-09T19:45:37Z",
+      "duration": "00:01:24",
+      "explicit": false,
+      "youTubeId": "0Gb_kxz3dDo",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0Gb_kxz3dDo"
+      }
+    },
+    {
+      "id": "91e42100-1a6a-4832-81ca-a7e34e5ca291",
+      "title": "My Uncle is the Leader of Scientology",
+      "release": "2026-07-08T21:07:04Z",
+      "duration": "00:01:22",
+      "explicit": false,
+      "youTubeId": "nIfumacII90",
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=nIfumacII90"
+      }
+    },
+    {
       "id": "0ad055c6-437b-4ea5-89bf-83d8cac8edba",
       "title": "My Uncle is the Leader of Scientology",
       "description": "#patrickrenna #thesandlot #sandlot #yourekillinmesmalls #90strend",

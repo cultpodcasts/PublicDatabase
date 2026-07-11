@@ -1,0 +1,29 @@
+{
+  "id": "8712bbde-4efe-4a73-867c-7e78476a744d",
+  "name": "Dominion of Fear",
+  "spotifyId": "5JOxBoNUweN5kgZ85nU2t1",
+  "appleId": 1878685678,
+  "youTubeChannelId": "UCXuPcI7K2wcu259lHhiA-FQ",
+  "episodes": [
+    {
+      "id": "cf3fd759-79ef-475f-b473-a054b0151980",
+      "title": "The Psychology of Cults: Why Smart People Join \u0026 Can\u0027t Leave",
+      "description": "Nobody joins a cult. They join a community that finally gets them. Dr. Nika breaks down the exact psychological playbook high-control groups use to recruit normal, intelligent people, \u0026 why leaving feels like destroying everything that matters. Music from YouTube Audio Library: At Depth by Lish Grooves #CultPsychology #LoveBombing #MindControl",
+      "release": "2026-07-07T10:00:00Z",
+      "duration": "00:34:02.3830000",
+      "explicit": false,
+      "spotifyId": "0Hd1pbl670uDhgxrg2E8tm",
+      "appleId": 1000775777501,
+      "youTubeId": "OIpe9mtGVpE",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Hd1pbl670uDhgxrg2E8tm",
+        "apple": "https://podcasts.apple.com/podcast/the-psychology-of-cults-why-smart-people-join-cant-leave/id1878685678?i=1000775777501",
+        "youtube": "https://www.youtube.com/watch?v=OIpe9mtGVpE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "d0e24245-9bda-4464-a2fd-5c2fee34b999",
+  "name": "The Jess Rowe Big Talk Show",
+  "spotifyId": "0bePfbDfNsZsv8PzXdYiyE",
+  "appleId": 1582086299,
+  "youTubeChannelId": "UCesqtyngSCqxLvqN8nj1uTQ",
+  "episodes": [
+    {
+      "id": "cf2fa27e-f346-42d0-886d-8514d6d03f54",
+      "title": "Leaving A Cult: Bek Condello\u2019s Remarkable Story of Rebuilding Her Life",
+      "description": "For most of Bek Condello\u0027s life, she had everything decided for her, and controlled by someone else. Growing up in a closed-off doomsday Pentecostal church, she experienced abuse and coercive control until she found the courage to upend her life and leave, cutting her off from everyone and everything she knew. Her story of bravery and resilience will floor you, and today Bek is living her best life, and has authored her first book, Can You Handle A Girl Like Me. Bek\u0027s story is a reminder that it\u0027s never too late to start the life you want. You can buy Bek\u0027s book Can You Handle A Girl Like Me via Penguin: https://www.penguin.com.au/books/can-you-handle-a-girl-like-me-9781761357886 This episode touches on themes of suicide and abuse. If you need help, Lifeline is always there on 13 11 14 or at lifeline.org.au Watch this episode on YouTube: https://youtu.be/lYa_F4L9Uhw Follow Jess Rowe on Instagram: https://www.instagram.com/jessjrowe/ And TikTok: https://www.tiktok.com/@craphousewife See omnystudio.com/listener for privacy information.",
+      "release": "2026-07-08T17:00:00Z",
+      "duration": "00:40:22.4910000",
+      "explicit": false,
+      "spotifyId": "0ZslXpKztmbGOceCRTbYkd",
+      "appleId": 1000775995992,
+      "youTubeId": "lYa_F4L9Uhw",
+      "subjects": [
+        "Cult Psychology",
+        "Evangelicalism",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0ZslXpKztmbGOceCRTbYkd",
+        "apple": "https://podcasts.apple.com/podcast/leaving-a-cult-bek-condellos-remarkable-story/id1582086299?i=1000775995992",
+        "youtube": "https://www.youtube.com/watch?v=lYa_F4L9Uhw"
+      }
+    }
+  ]
+}

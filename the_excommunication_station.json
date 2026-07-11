@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "a8fc5e00-4da2-4fe0-b4a6-6e18690b7d8a",
+      "title": "All Saved Freak Band PT.1",
+      "description": "ASFB",
+      "release": "2026-07-08T01:34:41Z",
+      "duration": "01:47:53.6130000",
+      "explicit": true,
+      "spotifyId": "6vuyImfm3iSSq80vOIQiBU",
+      "appleId": 1000775892499,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6vuyImfm3iSSq80vOIQiBU",
+        "apple": "https://podcasts.apple.com/podcast/all-saved-freak-band-pt-1/id1573190999?i=1000775892499"
+      }
+    },
+    {
       "id": "4e70c74e-b665-4a7d-80b4-96ccead51a52",
       "title": "263. Project 21:12",
       "description": "This week we are joined by the creators of Project 21:12.",

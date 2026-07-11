@@ -1,0 +1,50 @@
+{
+  "id": "01b90d59-a33b-4daf-81e9-41dd515cf789",
+  "name": "Virginia I The Age \u0026 SMH Investigates",
+  "spotifyId": "3cKRj5sSkriNSLqQSuZyLt",
+  "appleId": 1616444281,
+  "youTubeChannelId": "UCi-nUi67HVFEtpaFsjRj_NA",
+  "youTubePlaylistId": "PLK3-MGARB4sc",
+  "episodes": [
+    {
+      "id": "f9aa76fd-4306-48cb-8810-cf75dfc475ee",
+      "title": "Virginia | Ep 1: Escaping Epstein",
+      "description": "Virginia falls in love with Robbie Giuffre, who whisks her away to Australia. The birth of their daughter a few years later, sparks Virginia into action. No longer will she be silent about her abuse at the hands of Jeffrey Epstein and his circle of high-powered friends. See omnystudio.com/listener for privacy information.",
+      "release": "2026-07-10T19:17:37Z",
+      "duration": "00:39:17.0540000",
+      "explicit": false,
+      "spotifyId": "2Q23qYIbl1hWQ5QdslpHAS",
+      "appleId": 1000776299654,
+      "youTubeId": "UHuo3RJ_rFQ",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2Q23qYIbl1hWQ5QdslpHAS",
+        "apple": "https://podcasts.apple.com/podcast/virginia-ep-1-escaping-epstein/id1616444281?i=1000776299654",
+        "youtube": "https://www.youtube.com/watch?v=UHuo3RJ_rFQ"
+      }
+    },
+    {
+      "id": "eb012f95-a324-4cb5-8719-211e58a8f4c8",
+      "title": "Introducing Virginia",
+      "description": "Virginia Giuffre was fearless in taking down some of the world\u2019s most powerful people. As Jeffrey Epstein\u2019s most prominent victim, she helped expose his crimes and hold his friends to account, including the man formerly known as Prince Andrew. But despite her heroic battle in the most notorious sex trafficking case of the 21st century, few know about one of her toughest fights. It was one she fought privately at home in Australia.\nFollow The Age and SMH Investigates to be first to listen to new episodes of Virginia from Walkley-award winning journalist Melissa Fyfe and WA Today reporter Carla Hildebrandt.\nSee omnystudio.com/listener for privacy information.",
+      "release": "2026-06-18T13:55:00Z",
+      "duration": "00:01:34",
+      "explicit": false,
+      "spotifyId": "059m2zaImDQCv4JfB06daj",
+      "appleId": 1000773275943,
+      "youTubeId": "R3_E9kuoyN0",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/059m2zaImDQCv4JfB06daj",
+        "apple": "https://podcasts.apple.com/podcast/introducing-virginia/id1616444281?i=1000773275943",
+        "youtube": "https://www.youtube.com/watch?v=R3_E9kuoyN0"
+      }
+    }
+  ]
+}

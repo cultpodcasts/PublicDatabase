@@ -5,6 +5,24 @@
   "appleId": 1754867917,
   "episodes": [
     {
+      "id": "a3cec71d-438f-47f9-81e8-e36b32ef6713",
+      "title": "True Crime Documentary - Wayne Bent\uFF1A Inside America\u2019s Doomsday Cult",
+      "description": "True Crime Documentary - Wayne Bent\u0026#xff1a; Inside America\u2019s Doomsday Cult",
+      "release": "2026-07-06T16:55:02Z",
+      "duration": "00:42:59.9290000",
+      "explicit": true,
+      "spotifyId": "04fP0JR1u6Xna0ExGotuHR",
+      "appleId": 1000775677980,
+      "subjects": [
+        "Lord Our Righteousness Church",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/04fP0JR1u6Xna0ExGotuHR",
+        "apple": "https://podcasts.apple.com/podcast/true-crime-documentary-wayne-bent-inside-americas-doomsday/id1754867917?i=1000775677980"
+      }
+    },
+    {
       "id": "ac1c641b-76e6-4e78-bf66-875e9d910838",
       "title": "True Crime Documentary - Delphi Murders The Case Against Richard Allen",
       "description": "True Crime Documentary - Delphi Murders The Case Against Richard Allen",

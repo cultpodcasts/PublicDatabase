@@ -1,0 +1,22 @@
+{
+  "id": "8a9571ef-fdc4-407d-845d-d43437df9e95",
+  "name": "Mel White",
+  "youTubeChannelId": "UC-z2znuoS7MtL9zSkyfClww",
+  "episodes": [
+    {
+      "id": "10c1fec1-0344-47f6-9172-6ad9d2848d73",
+      "title": "Deceived  - The Jonestown Tragedy |  Documentary by Mel White",
+      "description": "Features exclusive interviews with members of Jim Jones church--the ones who were spared the Jonestown massacre.",
+      "release": "2017-01-10T18:25:49Z",
+      "duration": "00:45:32",
+      "explicit": false,
+      "youTubeId": "FQ-FkTLPrAw",
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=FQ-FkTLPrAw"
+      }
+    }
+  ]
+}

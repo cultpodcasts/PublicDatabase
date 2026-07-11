@@ -1,0 +1,25 @@
+{
+  "id": "c0302955-ec8f-4094-bb52-7acf8e395ffa",
+  "name": "15 Minutes of Infamy",
+  "spotifyId": "033eAQIkaPHUq2KvhRT3Hi",
+  "appleId": 1896791216,
+  "episodes": [
+    {
+      "id": "fb27c90a-9d95-489e-b58a-8014f98457ce",
+      "title": "Raising the Immortal Baby",
+      "description": "Baby Jean is not immortal. She\u0027s just a girl a cult leader thinks is The One. This is the strange story of the rise and fall of a cult known as the Royal Fraternity of Master Metaphysicians, and its charismatic leader, James Bernard Shafer.",
+      "release": "2026-07-06T00:00:00Z",
+      "duration": "00:15:00.0320000",
+      "explicit": false,
+      "spotifyId": "50vG5CchSVUV9vre3PeYc4",
+      "appleId": 1000775575665,
+      "subjects": [
+        "Royal Fraternity of Master Metaphysicians"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/50vG5CchSVUV9vre3PeYc4",
+        "apple": "https://podcasts.apple.com/podcast/raising-the-immortal-baby/id1896791216?i=1000775575665"
+      }
+    }
+  ]
+}

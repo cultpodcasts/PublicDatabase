@@ -4,6 +4,125 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "97ee8a53-4890-40a8-a72e-28440ae1407b",
+      "title": "How is Donald Trump responsible for his neighbours\u0027 water?",
+      "release": "2026-07-10T10:41:21Z",
+      "duration": "00:05:22",
+      "explicit": false,
+      "youTubeId": "K6ZHx42IkeA",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=K6ZHx42IkeA"
+      }
+    },
+    {
+      "id": "956aaf53-3094-4c39-9506-5bb18d5797cb",
+      "title": "How did Donald Trump buy off Scottish newspapers?",
+      "release": "2026-07-09T21:09:49Z",
+      "duration": "00:01:40",
+      "explicit": false,
+      "youTubeId": "VLv8dEzm2mI",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VLv8dEzm2mI"
+      }
+    },
+    {
+      "id": "24c39929-e70b-4945-b05a-c2c5f115fddc",
+      "title": "Why did Aberdeen\u0027s Robert Gordon University award Donald Trump an honorary degree?",
+      "release": "2026-07-09T21:08:34Z",
+      "duration": "00:04:56",
+      "explicit": false,
+      "youTubeId": "-9IFmIxDV54",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-9IFmIxDV54"
+      }
+    },
+    {
+      "id": "767c9cc9-bb40-4504-8fd0-3fd545b45aec",
+      "title": "FACT CHECK: Did Trump protect or destroy the Menie sand dunes in Scotland?",
+      "release": "2026-07-09T21:01:07Z",
+      "duration": "00:12:33",
+      "explicit": false,
+      "youTubeId": "e5AibXTspm8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=e5AibXTspm8"
+      }
+    },
+    {
+      "id": "0e8a1059-62b1-41c2-a9b4-ac6ee986ccf5",
+      "title": "Donald Trump\u0027s Art of the Deal: what is \u0022Truthful Hyperbole\u0022 ?",
+      "release": "2026-07-09T20:37:22Z",
+      "duration": "00:05:31",
+      "explicit": false,
+      "youTubeId": "O3LaK96JJSY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=O3LaK96JJSY"
+      }
+    },
+    {
+      "id": "c716521f-affc-4351-9c35-905011259df1",
+      "title": "How does Donald Trump keep winning at golf?!?",
+      "release": "2026-07-08T06:31:12Z",
+      "duration": "00:03:47",
+      "explicit": false,
+      "youTubeId": "QyarHxLXVyo",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=QyarHxLXVyo"
+      }
+    },
+    {
+      "id": "b4760145-9ee4-4430-a509-e0aaf2d98175",
+      "title": "FACT CHECK: Did Trump really oppose the Iraq War in 2003?",
+      "release": "2026-07-07T07:36:19Z",
+      "duration": "00:01:31",
+      "explicit": false,
+      "youTubeId": "gkGMU3YaNwQ",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gkGMU3YaNwQ"
+      }
+    },
+    {
+      "id": "b324aa89-627a-4d32-9c2e-8814898d3544",
+      "title": "Did Donald Trump knowingly lie about the response to 9/11?",
+      "release": "2026-07-07T07:34:06Z",
+      "duration": "00:02:37",
+      "explicit": false,
+      "youTubeId": "a2D3oFuSaa0",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=a2D3oFuSaa0"
+      }
+    },
+    {
+      "id": "8565fd3c-6660-40e0-a08c-dc06bdbd8ca5",
+      "title": "Trump\u0027s \u0022sollipstic reality\u0022 : Dr Robert J Lifton explains",
+      "release": "2026-07-06T11:20:29Z",
+      "duration": "00:04:58",
+      "explicit": false,
+      "youTubeId": "XbYEmyAUkTA",
+      "subjects": [
+        "Cult-Expert",
+        "_America",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XbYEmyAUkTA"
+      }
+    },
+    {
+      "id": "f85ebe96-68ca-4735-8844-e9f519fc4380",
+      "title": "The Making of Donald Trump: Christian pastor Norman Vincent Peale\u0027s \u0022Positive Thinking\u0022",
+      "release": "2026-07-06T11:16:55Z",
+      "duration": "00:01:58",
+      "explicit": false,
+      "youTubeId": "MUqZ0vDtwYw",
+      "subjects": [
+        "Cult Psychology",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MUqZ0vDtwYw"
+      }
+    },
+    {
       "id": "06cdc39f-50d6-4072-b7d6-0858250bdcd7",
       "title": "The \u0022Goldwater Rule\u0022 in Psychiatry: what is it and what is it NOT ?",
       "release": "2026-07-04T00:32:29Z",
