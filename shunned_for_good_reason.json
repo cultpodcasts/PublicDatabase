@@ -5,6 +5,19 @@
   "youTubeChannelId": "UCzT48CAH5Myl3EjKZVfvMmA",
   "episodes": [
     {
+      "id": "cbf9aa29-41cc-4b8f-ae0f-2902cc69fe96",
+      "title": "The Window of Tolerance",
+      "release": "2026-07-11T18:31:16Z",
+      "duration": "01:03:40.3560000",
+      "explicit": false,
+      "spotifyId": "6PqiMTrfRIvLkNSr3Xzdq6",
+      "youTubeId": "no1JlvXt-JE",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6PqiMTrfRIvLkNSr3Xzdq6",
+        "youtube": "https://www.youtube.com/watch?v=no1JlvXt-JE"
+      }
+    },
+    {
       "id": "0d0ac969-5193-469c-a90e-01e769a4c790",
       "title": "Episode 39: Power and Control",
       "release": "2026-06-20T19:36:42Z",

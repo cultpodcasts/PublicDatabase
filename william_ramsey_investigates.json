@@ -234,12 +234,14 @@
       "explicit": false,
       "spotifyId": "2mvGXDwPOBYUztwrdTvaqp",
       "appleId": 1000703551284,
+      "youTubeId": "QuKyLnUE6-A",
       "subjects": [
         "Cult-Expert"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2mvGXDwPOBYUztwrdTvaqp",
-        "apple": "https://podcasts.apple.com/podcast/psychiatrist-louis-jolyon-west-with-author-and/id1388815042?i=1000703551284"
+        "apple": "https://podcasts.apple.com/podcast/psychiatrist-louis-jolyon-west-with-author-and/id1388815042?i=1000703551284",
+        "youtube": "https://www.youtube.com/watch?v=QuKyLnUE6-A"
       }
     },
     {

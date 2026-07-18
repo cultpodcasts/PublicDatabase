@@ -1,0 +1,25 @@
+{
+  "id": "d84b1455-c415-4986-952d-5e2b7043348e",
+  "name": "At The Extremes",
+  "spotifyId": "7vhrYzMtIYpFGeER579SQD",
+  "appleId": 1785037788,
+  "episodes": [
+    {
+      "id": "26d01c8e-79f9-4f26-810f-4ff008a274c2",
+      "title": "Episode 98: Cult Break Part 1 - Synanon",
+      "description": "This week the guys chat about the week that was and a cult. Join us wont you? Links: Balogun Sees Red Trump Talks Red Cards Belgium Does The trump Islamic Republic Of Japan Pearl Harbor? Theyre Scum Airforce One Isnt Safe... Verbal Stret Fight Mother Jones Grunge Ear Worm: California Dreamin\u0027- The Mamas and the Papas",
+      "release": "2026-07-13T19:09:23Z",
+      "duration": "01:48:18.8440000",
+      "explicit": true,
+      "spotifyId": "3XyF29BVGsoKrkLQcE9hJx",
+      "appleId": 1000776649154,
+      "subjects": [
+        "Synanon"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3XyF29BVGsoKrkLQcE9hJx",
+        "apple": "https://podcasts.apple.com/podcast/episode-98-cult-break-part-1-synanon/id1785037788?i=1000776649154"
+      }
+    }
+  ]
+}

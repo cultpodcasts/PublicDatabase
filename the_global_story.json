@@ -1,0 +1,30 @@
+{
+  "id": "cbd46f4c-73d9-40ef-b43e-116500b0efd8",
+  "name": "The Global Story",
+  "spotifyId": "5mcWBCBMSCLddYdYOH9Er2",
+  "appleId": 1715473158,
+  "youTubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
+  "youTubePlaylistId": "@PLS3XGZxi7cBXo0K8Ts08kgyNwYll5n89O",
+  "episodes": [
+    {
+      "id": "060b7eec-7c90-4387-8e06-1c7a32712a53",
+      "title": "Jeffrey Epstein, Howard Lutnick, and the disgraced former prince",
+      "description": "In an exclusive investigation, a whistleblower has told the BBC how he unearthed evidence suggesting that US Commerce Secretary Howard Lutnick failed to disclose a business relationship with the paedophile financier, Jeffrey Epstein.\nSimon Andriesz was a trader at one of Lutnick\u2019s Wall Street firms, but it wasn\u2019t until the Epstein files were released earlier this year that he says he confirmed a longstanding suspicion that his boss was misrepresenting his relationship with Epstein.\nBBC financial investigations correspondent Andy Verity joins us to unpack the new investigation. \nListen to Andy\u2019s full report on File on 4 Investigates: www.bbc.co.uk/programmes/m002yx47 \n \nRead more about Andy\u2019s investigation: www.bbc.co.uk/news/articles/c9q28dlyxrzo    \nProducers: Sam Chantarasak and Xandra Ellin\nExecutive producer: James Shield\nMix: Travis Evans\nDigital producer: Tom Bage\nSenior news editor: China Collins \nPhoto: US Commerce Secretary Howard Lutnick sits to testify before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies hearing to examine a review of broadband deployment funding at the Department of Commerce, February 10, 2026. Credit: Elizabeth Frantz/Reuters.",
+      "release": "2026-07-15T09:00:00Z",
+      "duration": "00:26:19",
+      "explicit": false,
+      "spotifyId": "6X68Iy1NL4DoN0H4LYfk9t",
+      "appleId": 1000776883833,
+      "youTubeId": "68ZYBdo-AuE",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6X68Iy1NL4DoN0H4LYfk9t",
+        "apple": "https://podcasts.apple.com/podcast/jeffrey-epstein-howard-lutnick-and-the-disgraced/id1715473158?i=1000776883833",
+        "youtube": "https://www.youtube.com/watch?v=68ZYBdo-AuE"
+      }
+    }
+  ]
+}

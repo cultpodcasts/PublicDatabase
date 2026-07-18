@@ -1,0 +1,29 @@
+{
+  "id": "917cd2be-9ec6-46d9-8eea-021b7c3605f5",
+  "name": "Beans \u0026 Banter",
+  "spotifyId": "0LHySs6ez0UXucvsg7oqm1",
+  "appleId": 1865245611,
+  "youTubeChannelId": "UCPFcj1FgEDJFTWWsTkFWdXQ",
+  "episodes": [
+    {
+      "id": "680d6a83-8bdf-4645-89f5-9c779bde12d4",
+      "title": "The Cult Episode",
+      "description": "Send us Fan Mail Warning: This video discusses sexual abuse, molestation, and spiritual abuse. It may include difficult or triggering subject matter. Viewer discretion is advised. Please take care while watching, and don\u0027t hesitate to pause or stop if needed. This is the episode you\u0027ve all been waiting for. We won\u0027t lie, this is a tough watch. In this episode, we start to scratch the surface of the Two by Twos cult that NiCole and our guest Amber grew up in. We will be producing a longer series on this so stay tuned for more on that. For now, grab a coffee, pull up a seat, and buckle up as we dive into the Two by Twos cult. Support the show Connect with us! Website Facebook Instagram TikTok YouTube beansandbanterpod@gmail.com",
+      "release": "2026-07-14T04:00:00Z",
+      "duration": "01:32:23.3040000",
+      "explicit": true,
+      "spotifyId": "7LcoEBUqVoTUzp0TVzYEOY",
+      "appleId": 1000776703641,
+      "youTubeId": "cf4YYp5Zpdo",
+      "subjects": [
+        "Two By Twos",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7LcoEBUqVoTUzp0TVzYEOY",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-episode/id1865245611?i=1000776703641",
+        "youtube": "https://www.youtube.com/watch?v=cf4YYp5Zpdo"
+      }
+    }
+  ]
+}

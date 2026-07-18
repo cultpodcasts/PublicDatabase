@@ -108,10 +108,12 @@
       "release": "2017-01-26T21:00:00",
       "duration": "00:58:00",
       "explicit": true,
+      "youTubeId": "C1czfQCvCuI",
       "subjects": [
         "Lambeth Slavery Case"
       ],
       "urls": {
+        "youtube": "https://www.youtube.com/watch?v=C1czfQCvCuI",
         "bbc": "https://www.bbc.co.uk/iplayer/episode/b08c3vrx/the-cult-next-door"
       }
     },

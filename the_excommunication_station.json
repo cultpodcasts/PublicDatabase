@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "4f845645-186a-4b04-bc52-81638638e3bf",
+      "title": "264. The All Saved Freak Band Cult Part II",
+      "description": "We dive further into the band, its members and the cult.",
+      "release": "2026-07-14T19:07:20Z",
+      "duration": "01:55:26.2890000",
+      "explicit": true,
+      "spotifyId": "0zxDjUDDgvv9whDbMnGhFO",
+      "appleId": 1000776806217,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0zxDjUDDgvv9whDbMnGhFO",
+        "apple": "https://podcasts.apple.com/podcast/264-the-all-saved-freak-band-cult-part-ii/id1573190999?i=1000776806217"
+      }
+    },
+    {
       "id": "a8fc5e00-4da2-4fe0-b4a6-6e18690b7d8a",
       "title": "All Saved Freak Band PT.1",
       "description": "ASFB",
