@@ -1,0 +1,54 @@
+{
+  "id": "8f4a28d4-c3c2-4677-b106-8bddac52fbc3",
+  "name": "Black Honey",
+  "youTubeChannelId": "UCS5nYcOjwL8YRimWNIQhswQ",
+  "episodes": [
+    {
+      "id": "5161ea15-8885-4bb7-9b2f-528d37e98921",
+      "title": "Every Notorious Asian Cult In Modern History",
+      "description": "Every Notorious Asian Cult In Modern History",
+      "release": "2026-07-24T15:00:29Z",
+      "duration": "00:40:33",
+      "explicit": false,
+      "youTubeId": "F1ulD0zZqyM",
+      "subjects": [
+        "Eastern Lightning",
+        "Dhammakaya",
+        "Milah Abraham",
+        "Dera Sacha Sauda",
+        "Nithyananda",
+        "Aum Shinrikyo",
+        "Providence",
+        "Grace Road Church",
+        "Yoo Byung-eun",
+        "Shincheonji Church of Jesus"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=F1ulD0zZqyM"
+      }
+    },
+    {
+      "id": "a6d3edfe-82eb-4af7-b36e-491c2ba3ac32",
+      "title": "How Every Notorious Cult Leader Died",
+      "description": "How Every Notorious Cult Leader Died",
+      "release": "2026-07-17T15:00:38Z",
+      "duration": "00:26:06",
+      "explicit": false,
+      "youTubeId": "aBZA8S7hpJE",
+      "subjects": [
+        "Aum Shinrikyo",
+        "Love Has Won",
+        "Branch Davidians",
+        "Children Of God",
+        "Manson Family",
+        "Scientology",
+        "Heaven\u0027s Gate",
+        "Peoples Temple",
+        "Adolfo Constanzo"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=aBZA8S7hpJE"
+      }
+    }
+  ]
+}

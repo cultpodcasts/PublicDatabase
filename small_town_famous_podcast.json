@@ -1,0 +1,22 @@
+{
+  "id": "e043bd02-0ae4-4ee2-97ee-a4334b94b13a",
+  "name": "Small Town Famous podcast",
+  "youTubeChannelId": "UC6cGISm15liDnFRg__8syjw",
+  "episodes": [
+    {
+      "id": "2f8565ff-e9b5-451a-a33f-d3f347188d91",
+      "title": "Small Town Famous podcast 16: Growing Up In A Cult with Davey Jackson",
+      "description": "Thanks for watching! Make sure to check out and support our sponsors!\n\nThe Comic Relief \u0026 Stoned Ape Clothing Company!",
+      "release": "2026-07-22T12:00:06Z",
+      "duration": "00:33:16",
+      "explicit": false,
+      "youTubeId": "XXUZDrfmRGg",
+      "subjects": [
+        "Institute In Basic Life Principles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XXUZDrfmRGg"
+      }
+    }
+  ]
+}

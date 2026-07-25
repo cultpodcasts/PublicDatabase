@@ -4,6 +4,40 @@
   "youTubeChannelId": "UCJp7gd3QZvweXGnevptxJng",
   "episodes": [
     {
+      "id": "f4fa0664-a357-45ac-95e0-64e7241417d7",
+      "title": "Andrew and Tristan Tate held in Miami as U.K. extradition case moves forward",
+      "description": "A federal judge ordered Andrew and Tristan Tate to remain in custody as British authorities seek their extradition on multiple criminal charges.",
+      "release": "2026-07-20T22:07:33Z",
+      "duration": "00:00:56",
+      "explicit": false,
+      "youTubeId": "Ae9tzj34UZg",
+      "subjects": [
+        "Human Trafficking",
+        "Hustler\u0027s University",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Ae9tzj34UZg"
+      }
+    },
+    {
+      "id": "e5b910d4-27ff-4e76-9c55-df323ecb683a",
+      "title": "Andrew and Tristan Tate arrested in Miami, charges to be unsealed",
+      "description": "Andrew and Tristan Tate were arrested in Miami. Federal charges will be unsealed next week as the brothers face extradition.",
+      "release": "2026-07-20T10:51:12Z",
+      "duration": "00:01:09",
+      "explicit": false,
+      "youTubeId": "3pDf-zoUj_k",
+      "subjects": [
+        "Human Trafficking",
+        "Hustler\u0027s University",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3pDf-zoUj_k"
+      }
+    },
+    {
       "id": "18a91c5a-99f9-438c-8775-f5b8bf343a88",
       "title": "Billionaire investor Leon Black testifies before House panel on Epstein ties",
       "description": "Investor Leon Black voluntarily testified before the House Oversight Committee about his relationship with Jeffrey Epstein, denying allegations of abuse.",

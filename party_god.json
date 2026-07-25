@@ -1,0 +1,28 @@
+{
+  "id": "6f632503-2992-44c3-8dc9-558fc8269b5f",
+  "name": "Party God",
+  "spotifyId": "7oNq2SsyY1zP9UqbH9J9Is",
+  "appleId": 1840992742,
+  "youTubeChannelId": "UCiRK6zk0YzaK1OgUSc7boKQ",
+  "episodes": [
+    {
+      "id": "86d58e8a-ac72-4c5d-b21a-5f24d21e4abf",
+      "title": "Zolita Escapes a Cult",
+      "description": "Zolita \u0026 Devon bond over surviving a Kundalini cult. Zolita accidentally gives herself lip filler at Berghain, and teaches us how to find romance on the dance floor. In the pregame, Devon sends a break-up text, and Elle dallies in feminism. Follow us on: YouTube: / @partygodpod Instagram: / partygodpod TikTok: / partygodpod",
+      "release": "2026-07-21T18:00:02Z",
+      "duration": "01:18:25.9200000",
+      "explicit": true,
+      "spotifyId": "2oFxDsaJRfFz7I2AWGLBA1",
+      "appleId": 1000777758457,
+      "youTubeId": "MTqFZf2QAfI",
+      "subjects": [
+        "Yoga Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2oFxDsaJRfFz7I2AWGLBA1",
+        "apple": "https://podcasts.apple.com/podcast/zolita-escapes-a-cult/id1840992742?i=1000777758457",
+        "youtube": "https://www.youtube.com/watch?v=MTqFZf2QAfI"
+      }
+    }
+  ]
+}

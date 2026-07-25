@@ -1,6 +1,7 @@
 {
   "id": "16fba4f9-a565-4108-a780-c8bb14cdc477",
   "name": "The Evergreen",
+  "spotifyId": "5VZkPBbzD3OinDgA80P8Y3",
   "appleId": 1726962330,
   "youTubeChannelId": "UC2itzMBo0R0kHZ8cF7nrcaA",
   "episodes": [
@@ -11,6 +12,7 @@
       "release": "2024-07-08T12:00:00Z",
       "duration": "00:32:20",
       "explicit": false,
+      "spotifyId": "6lOgY0F7UvoFYLuacFtv67",
       "appleId": 1000661523303,
       "youTubeId": "yIK-0YTRa5c",
       "subjects": [
@@ -18,6 +20,7 @@
         "Bhagwan Shree Rajneesh"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/6lOgY0F7UvoFYLuacFtv67",
         "apple": "https://podcasts.apple.com/podcast/is-there-a-cult-in-ashland/id1726962330?i=1000661523303",
         "youtube": "https://www.youtube.com/watch?v=yIK-0YTRa5c"
       }

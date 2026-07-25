@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "2738442e-c6ee-4279-823f-c7df9e133204",
+      "title": "265. The All Saved Freak Band Part III",
+      "description": "Chaz is flying solo to finish up the series on The All Saved Freak Band",
+      "release": "2026-07-21T20:30:15Z",
+      "duration": "01:07:09",
+      "explicit": false,
+      "spotifyId": "3rJRL7C6aFi52sOsx6qI0e",
+      "appleId": 1000777779433,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3rJRL7C6aFi52sOsx6qI0e",
+        "apple": "https://podcasts.apple.com/podcast/265-the-all-saved-freak-band-part-iii/id1573190999?i=1000777779433"
+      }
+    },
+    {
       "id": "4f845645-186a-4b04-bc52-81638638e3bf",
       "title": "264. The All Saved Freak Band Cult Part II",
       "description": "We dive further into the band, its members and the cult.",

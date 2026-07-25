@@ -174,11 +174,15 @@
       "release": "2022-04-25T19:53:05Z",
       "duration": "00:17:44",
       "explicit": false,
+      "spotifyId": "40HtbM5zAh2Nb7RQTJVhiE",
+      "appleId": 1000718414949,
       "youTubeId": "nd6dwkqVlaY",
       "subjects": [
         "Jared Leto"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/40HtbM5zAh2Nb7RQTJVhiE",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-jared-leto-philion/id1802687005?i=1000718414949",
         "youtube": "https://www.youtube.com/watch?v=nd6dwkqVlaY"
       }
     }

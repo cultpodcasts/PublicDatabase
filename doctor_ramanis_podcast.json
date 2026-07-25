@@ -1,0 +1,26 @@
+{
+  "id": "645cc062-674d-449a-a48b-fab733da4cc5",
+  "name": "Doctor Ramani\u2019s Podcast",
+  "spotifyId": "5FbcoTzLxRVAM02EB6aBds",
+  "appleId": 6785119151,
+  "episodes": [
+    {
+      "id": "2e166f24-fe09-487b-881c-0d7ab62efb00",
+      "title": "Ep.1443 ~ How being in a CULT is JUST LIKE being in a NARCISSISTIC relationship  ~ Dr. Ramani",
+      "description": "Ep.1443 ~ How being in a CULT is JUST LIKE being in a NARCISSISTIC relationship ~ Dr. Ramani",
+      "release": "2026-07-18T23:36:00Z",
+      "duration": "00:06:20.3880000",
+      "explicit": false,
+      "spotifyId": "7vAZcAAO2gODCWdRvuZaF2",
+      "appleId": 1000777374929,
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7vAZcAAO2gODCWdRvuZaF2",
+        "apple": "https://podcasts.apple.com/podcast/ep-1443-how-being-in-a-cult-is-just-like-being-in/id6785119151?i=1000777374929"
+      }
+    }
+  ]
+}

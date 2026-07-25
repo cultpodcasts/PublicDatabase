@@ -1,0 +1,22 @@
+{
+  "id": "d7f974ed-e548-4c21-8471-c2ceda02e9d1",
+  "name": "Channel 3000 / News 3 Now",
+  "youTubeChannelId": "UCeX20-rTnN46DUD6C7IplWg",
+  "episodes": [
+    {
+      "id": "beca76af-5360-400f-bef9-66226bb22ac4",
+      "title": "Tate brothers arrested",
+      "release": "2026-07-20T22:07:34Z",
+      "duration": "00:00:33",
+      "explicit": false,
+      "youTubeId": "zDmuJz05xNw",
+      "subjects": [
+        "Human Trafficking",
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zDmuJz05xNw"
+      }
+    }
+  ]
+}

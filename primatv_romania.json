@@ -1,0 +1,23 @@
+{
+  "id": "e3408262-938e-479e-9d57-3e08ca7269ee",
+  "name": "PrimaTV Romania",
+  "youTubeChannelId": "UC6Sn1XzRBCBl8UMyAb8_5PA",
+  "episodes": [
+    {
+      "id": "dde294fa-b39c-4486-91d4-86e1c899ec3a",
+      "title": "Focus 22 - 21 iulie. Fra\u021Bii Tate contest\u0103 cererea de extr\u0103dare",
+      "description": "Aplicatia PRIMAPLAY este disponibila pe:\n\niOS https://apps.apple.com/ro/app/prima-play/id1575747704?l=ro\nAndroid https://play.google.com/store/apps/details?id=ro.primaplay.app",
+      "release": "2026-07-22T19:39:27Z",
+      "duration": "00:36:00",
+      "explicit": false,
+      "youTubeId": "o69ah3YroFM",
+      "subjects": [
+        "Human Trafficking",
+        "Hustler\u0027s University"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=o69ah3YroFM"
+      }
+    }
+  ]
+}

@@ -4,6 +4,20 @@
   "youTubeChannelId": "UCn5EuyeqOOLWpjTd2SMcjUQ",
   "episodes": [
     {
+      "id": "c906a077-84b3-4275-ab43-37bb3033f350",
+      "title": "IDMR General Assembly: Weirder Than We Thought",
+      "release": "2026-07-25T00:31:26Z",
+      "duration": "00:00:47",
+      "explicit": false,
+      "youTubeId": "TuXZbHE9-jw",
+      "subjects": [
+        "Institute of Divine Metaphysical Research"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TuXZbHE9-jw"
+      }
+    },
+    {
       "id": "8e1213a6-bac2-42c7-97d3-dc7ee7dc6e11",
       "title": "IDMR General Assembly Coverage: Cliff Henries Q\u0026A What Happened?",
       "release": "2026-07-17T23:10:13Z",

@@ -4,6 +4,21 @@
   "youTubeChannelId": "UCkG-Qb6gZarPn1m5dY6XLbQ",
   "episodes": [
     {
+      "id": "afd69617-f80b-4963-847f-6a05fa579e3c",
+      "title": "Who joins a cult and why (full-length without intro)",
+      "description": "The psychology and tactics that draw people into cults and who is most susceptible",
+      "release": "2026-07-23T06:14:47Z",
+      "duration": "00:31:00",
+      "explicit": false,
+      "youTubeId": "_kpF15manUw",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=_kpF15manUw"
+      }
+    },
+    {
       "id": "d4f767d1-d313-4a86-a5c9-caf58e6a5ac4",
       "title": "Coercive control in cults (full length)",
       "description": "The powerful advantage of coercive control within Cult history",

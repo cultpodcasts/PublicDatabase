@@ -1,0 +1,42 @@
+{
+  "id": "625ce894-5158-4d9f-b8c3-de2e96206d5d",
+  "name": "Recovery From Alcoholics Anonymous",
+  "spotifyId": "033EQHAilVam9MBh2lEKPr",
+  "appleId": 6784533061,
+  "episodes": [
+    {
+      "id": "33a6951b-0fae-48d4-95f9-1df9e12ae1b9",
+      "title": "Soft Cults \u0026 the Empathy Buzz: An Autopsy",
+      "description": "This week, I have a very special guest from all the way down in Phoenix, Arizona\u2014David Riu! He talks about his childhood in a Christian cult, struggling with opiate dependency and homelessness, recovering from substance abuse disorder, getting trapped in the \u0022soft cult\u0022 of AA, and leaving the program. He teaches me about harm reduction, Recovery Dharma, SMART recovery, and treatments to overcome drug dependency. He also reflects on witnessing and experiencing 13 steppers, religious coercion, and how the empathy buzz is something powerful. If you haven\u0027t listened to any episodes, I highly encourage you to start here.",
+      "release": "2026-07-24T17:00:00Z",
+      "duration": "01:09:04.4690000",
+      "explicit": true,
+      "spotifyId": "1ScnesIklxGA6YEfHF4Azl",
+      "appleId": 1000778220604,
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ScnesIklxGA6YEfHF4Azl",
+        "apple": "https://podcasts.apple.com/podcast/soft-cults-the-empathy-buzz-an-autopsy/id6784533061?i=1000778220604"
+      }
+    },
+    {
+      "id": "f3d313f5-d0fa-43c4-b507-75a97af7468c",
+      "title": "Alcoholics Anonymous: An Autopsy",
+      "description": "On the premier episode of In Recovery from Alcoholics Anonymous, we\u0027re exposing the dirty truth about 12-step meetings. Ever felt put in unnecessary shame cycles, guilt-tripped about your imperfect program, told your trauma was your fault, or been assigned a personality that doesn\u0027t fit? You\u0027re not crazy; we\u0027ve experienced it too. For non-members who couldn\u0027t get past the God-stuff, or non addicts who want to know more about what happens in these rooms, we won\u0027t mince words. Welcome to In Recovery From Alcoholics Anonymous, where cross-talk is welcome.",
+      "release": "2026-06-26T04:00:00Z",
+      "duration": "00:29:24.0700000",
+      "explicit": false,
+      "spotifyId": "1x4NiUfsrU4PpewZKeUhwH",
+      "appleId": 1000774281292,
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1x4NiUfsrU4PpewZKeUhwH",
+        "apple": "https://podcasts.apple.com/podcast/alcoholics-anonymous-an-autopsy/id6784533061?i=1000774281292"
+      }
+    }
+  ]
+}
