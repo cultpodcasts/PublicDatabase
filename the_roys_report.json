@@ -13,8 +13,12 @@
       "release": "2026-07-25T17:28:20Z",
       "duration": "01:45:39",
       "explicit": false,
+      "spotifyId": "1O7YLAsD1dnGbr0JXOvHQs",
+      "appleId": 1000778340552,
       "youTubeId": "7D_mStBw7aU",
       "urls": {
+        "spotify": "https://open.spotify.com/episode/1O7YLAsD1dnGbr0JXOvHQs",
+        "apple": "https://podcasts.apple.com/podcast/eyewitnesses-ryken-misled-public/id1470242499?i=1000778340552",
         "youtube": "https://www.youtube.com/watch?v=7D_mStBw7aU"
       }
     },

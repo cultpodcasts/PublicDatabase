@@ -1,8 +1,29 @@
 {
   "id": "81fd308a-3b5c-4eed-95f9-d7403341d047",
   "name": "H3 Podcast",
+  "spotifyId": "7ydBWzs9BSRh97tsCjOhby",
+  "appleId": 1186098620,
   "youTubeChannelId": "UCLtREJY21xRfCuEKvdki1Kw",
   "episodes": [
+    {
+      "id": "57501263-62f3-4dfe-9682-8c49e55ff398",
+      "title": "Jared Leto Accused By 9 Underaged Girls - H3 Show #290",
+      "description": "TEDDY FRESH...http://teddyfresh.com\nH3H3 SHOP...http://h3h3shop.com\nLearn more about H3 Lore...http://h3lore.com\nBusiness Inquiries: tom@h3h3productions.com\n\nFollow The Podcast Socials:\nhttps://www.instagram.com/h3_podcast\nhttps://www.tiktok.com/@h3_podcast\n\nFollow Teddy Fresh Social Media:\nhttps://teddyfresh.com\nhttps://instagram.com/teddyfresh\nhttps://twitter.com/teddyfresh\n\n0:00 Intro\n3:00 Ethan Takes a Call\n4:40 Ethan Vs Fly\n6:20 ABs Is Back From Shambhala\n24:10 Ethan LOVES Everquest\n49:00 Topic Introductions\n57:50  Viewer Calls About BigNik\n59:15 More Everquest Talk\n1:04:20 The EDP Documentary \n1:26:20 Jared Leto Accusations\n2:00:45 The Crew Tries Sloppy Joe\n2:14:00 Finishing The Jared Leto Segment\n2:34:10 Ninja Had a Baby\n2:34:45 Howie\u0027s Unhinged TikTok Live\n2:36:00 David Climbed With Jarel Leto\n2:44:30 Caller Calls Out Ethan \n2:46:20 Trump vs Lindsey Graham\n2:59:30 David\u0027s Thoughts On Jared Leto \n3:01:40 More Insane Trump Clips\n3:04:40 Pakistani Trump Just Dropped\n3:10:55 Tai lopez Showering Hack\n3:12:00 Smoking Fajitas\n3:14:40 Elbow Feedback\n3:16:00 Superchats \u0026 Members!",
+      "release": "2026-07-29T22:15:45Z",
+      "duration": "03:31:05",
+      "explicit": false,
+      "spotifyId": "0TgGwEZDP5mpB9iDAgeeUP",
+      "appleId": 1000778998388,
+      "youTubeId": "8txIERmZlsk",
+      "subjects": [
+        "Jared Leto"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0TgGwEZDP5mpB9iDAgeeUP",
+        "apple": "https://podcasts.apple.com/podcast/jared-leto-accused-by-9-underaged-girls-h3-show-290/id1186098620?i=1000778998388",
+        "youtube": "https://www.youtube.com/watch?v=8txIERmZlsk"
+      }
+    },
     {
       "id": "24947d74-59b8-4a28-96c3-8857afd7e6ea",
       "title": "Scientology Exposed By TikToker - Off The Rails #91",

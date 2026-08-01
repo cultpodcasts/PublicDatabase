@@ -5,6 +5,40 @@
   "appleId": 6784533061,
   "episodes": [
     {
+      "id": "5d51c471-5616-4597-ba65-87033750ba85",
+      "title": "OCD Collides with 12 Steps: An Autopsy with Guest Darcie",
+      "description": "Alcoholics Anonymous (AA) and Obsessive-Compulsive Disorder (OCD) clash because the peer-led, moral-inventory framework of AA can accidentally trigger or feed OCD cycles rather than treat the underlying anxiety. The rigid, dogmatic rules of 12-step programs often morph into new compulsions for someone with untreated OCD. Excessive rumination on program literature, rigidly counting meeting attendance, or repeating steps are parallel with classic OCD ritualistic loops. AA\u0027s focus on profound personal inventory and powerlessness can exacerbate the severe guilt, scrupulosity, and self-blame inherent in OCD.\nEnter Darcie, a woman with a long history of OCD, whose alcoholism entered more recently. Meeting attendance and feedback loops made her head spin. The oversaturated discussion of drinking made her think more about drinking and less about a \u0022white light.\u0022 Between that, a traumatic brain injury, and interpreting life after gastric bypass surgery, she\u0027s had to piece together her past and understand her biology faster than lightning. And she\u0027s doing it.",
+      "release": "2026-07-31T16:00:00Z",
+      "duration": "01:00:17",
+      "explicit": false,
+      "spotifyId": "6pckS6Y08Gtbzce7aHluQd",
+      "appleId": 1000779299739,
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6pckS6Y08Gtbzce7aHluQd",
+        "apple": "https://podcasts.apple.com/podcast/ocd-collides-with-12-steps-an-autopsy-with-guest-darcie/id6784533061?i=1000779299739"
+      }
+    },
+    {
+      "id": "fce04e70-2e48-42cf-8f55-d65381c20988",
+      "title": "The Doctor\u0027s Opinion: An Autopsy",
+      "description": "I\u0027m doubling up this week with a surprise Big Book reading. The Doctor\u0027s Opinion...a great PR resource, a terrible step for medical science. In 1938, on the heels of the Big Book release, Bill W. asked Dr. William D Silkworth\u2014his drunk hospital doctor\u2014to write a letter of recommendation for Alcoholics Anonymous. He happily did, as he was happy with Alcoholics Anonymous\u0027s impact on chronic alcoholism. He wrote that a power greater than oneself was his medically educated advice to recovery. His name was not published in the first edition, as he didn\u0027t want American medicine boards to see his writing and lose faith in his expertise. But his name was published in the second edition in 1955\u2014four years after Silkworth\u0027s death.",
+      "release": "2026-07-30T16:00:00Z",
+      "duration": "00:46:53",
+      "explicit": false,
+      "spotifyId": "1wjv0mHOdMgW9BwbTMSuab",
+      "appleId": 1000779137206,
+      "subjects": [
+        "Alcoholics Anonymous"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1wjv0mHOdMgW9BwbTMSuab",
+        "apple": "https://podcasts.apple.com/podcast/the-doctors-opinion-an-autopsy/id6784533061?i=1000779137206"
+      }
+    },
+    {
       "id": "33a6951b-0fae-48d4-95f9-1df9e12ae1b9",
       "title": "Soft Cults \u0026 the Empathy Buzz: An Autopsy",
       "description": "This week, I have a very special guest from all the way down in Phoenix, Arizona\u2014David Riu! He talks about his childhood in a Christian cult, struggling with opiate dependency and homelessness, recovering from substance abuse disorder, getting trapped in the \u0022soft cult\u0022 of AA, and leaving the program. He teaches me about harm reduction, Recovery Dharma, SMART recovery, and treatments to overcome drug dependency. He also reflects on witnessing and experiencing 13 steppers, religious coercion, and how the empathy buzz is something powerful. If you haven\u0027t listened to any episodes, I highly encourage you to start here.",

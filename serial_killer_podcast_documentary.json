@@ -1,0 +1,26 @@
+{
+  "id": "664caa7e-3fdb-478d-8794-a785ef07274b",
+  "name": "Serial Killer Podcast Documentary",
+  "spotifyId": "2aH4sGqXwzce6XSCi95GrO",
+  "appleId": 1679146071,
+  "episodes": [
+    {
+      "id": "7ad3d684-7e7b-47f7-84cc-f772f7b24e82",
+      "title": "True Crime Documentary - Wayne Bent\uFF1A Inside America\u2019s Doomsday Cult",
+      "description": "True Crime Documentary - Wayne Bent\u0026#xff1a; Inside America\u0027s Doomsday Cult",
+      "release": "2026-07-26T16:50:02Z",
+      "duration": "00:42:59.9290000",
+      "explicit": true,
+      "spotifyId": "4ZkIxdDeV9uVqHYCGEteXH",
+      "appleId": 1000778428602,
+      "subjects": [
+        "Lord Our Righteousness Church",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4ZkIxdDeV9uVqHYCGEteXH",
+        "apple": "https://podcasts.apple.com/podcast/true-crime-documentary-wayne-bent-inside-americas-doomsday/id1679146071?i=1000778428602"
+      }
+    }
+  ]
+}

@@ -5,6 +5,40 @@
   "appleId": 1123347203,
   "episodes": [
     {
+      "id": "ef45ca84-74ee-4e1c-b1cd-b8fc1420ed06",
+      "title": "The Cult of Jared Leto Part One",
+      "description": "We TOLD you this guy was a twerp...okay some kind of monster. We have the latest in allegations and it\u0027s not looking good.",
+      "release": "2026-07-30T11:00:03Z",
+      "duration": "00:27:56.5590000",
+      "explicit": false,
+      "spotifyId": "186b2DkEgDA5uQSJlzurRg",
+      "appleId": 1000779099961,
+      "subjects": [
+        "Jared Leto"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/186b2DkEgDA5uQSJlzurRg",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-jared-leto-part-one/id1123347203?i=1000779099961"
+      }
+    },
+    {
+      "id": "a876647b-6f08-460b-8cb9-3ac9e9a1d675",
+      "title": "The Cult of Jared Leto Part Two",
+      "description": "This jerk! Plus Stef sneaks in some Usher news. This is part two of a two-parter, so check it out!",
+      "release": "2026-07-30T11:00:02Z",
+      "duration": "00:23:19.3710000",
+      "explicit": false,
+      "spotifyId": "2zMXZWvdDhjQsWjSBNQckj",
+      "appleId": 1000779100154,
+      "subjects": [
+        "Jared Leto"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2zMXZWvdDhjQsWjSBNQckj",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-of-jared-leto-part-two/id1123347203?i=1000779100154"
+      }
+    },
+    {
       "id": "c377b141-72d5-4cb4-a59d-2aab3077340e",
       "title": "Pricks Daily: Bring Me the Beauties Cult Part Two",
       "description": "More on this nutty cult from the 80s, 90s and a little bit right now. Male models, aliens, all the things. This is part two! Lumi Gummies are available nationwide! Go to LumiGummies.com and use code ROSEPRICKS for 30% off your order.",

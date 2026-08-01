@@ -1,0 +1,23 @@
+{
+  "id": "d92e81f8-aa70-4605-bf11-c6e826e74dc2",
+  "name": "WXYZ-TV Detroit | Channel 7",
+  "youTubeChannelId": "UC6HyKpYWmX4zsy6_bJZIK7A",
+  "episodes": [
+    {
+      "id": "428f353b-4444-460c-9355-9c4f5106c5ad",
+      "title": "Investigation reveals reported sexual misconduct at Michigan school supported by Epstein",
+      "description": "Two people who attended a prestigious Michigan fine arts school reported conduct of a sexual nature by Jeffrey Epstein, a major donor, according to an investigation that also uncovered dozens of allegations spanning decades against nearly 50 other people.",
+      "release": "2026-07-30T03:16:59Z",
+      "duration": "00:02:40",
+      "explicit": false,
+      "youTubeId": "Y9W_NDVhLbA",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Y9W_NDVhLbA"
+      }
+    }
+  ]
+}

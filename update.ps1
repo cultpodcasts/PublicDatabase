@@ -38,14 +38,14 @@ function Invoke-ExternalCommand {
 }
 
 $repoRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
-$publisherBasePath = Join-Path $repoRoot '..\cultpodcasts\RedditPodcastPoster\Console-Apps\cultPodcasts.DatabasePublisher\bin\Debug\net10.0\CultPodcasts.DatabasePublisher'
+$publisherBasePath = Join-Path $repoRoot '..\cultpodcasts\RedditPodcastPoster\artifacts\tools\CultPodcasts.DatabasePublisher'
 $publisherPath = @(
-    $publisherBasePath,
-    "$publisherBasePath.exe"
+    "$publisherBasePath.exe",
+    $publisherBasePath
 ) | Where-Object { Test-Path -LiteralPath $_ -PathType Leaf } | Select-Object -First 1
 
 if (-not $publisherPath) {
-    throw "Could not find CultPodcasts.DatabasePublisher next to this repo. Expected '$publisherBasePath' or '$publisherBasePath.exe'."
+    throw "Could not find CultPodcasts.DatabasePublisher next to this repo. Expected '$publisherBasePath.exe' or '$publisherBasePath'."
 }
 
 $commitMessage = 'New episodes {0}' -f $CommitDate.ToString('d MMMM yyyy', [System.Globalization.CultureInfo]::GetCultureInfo('en-GB'))
