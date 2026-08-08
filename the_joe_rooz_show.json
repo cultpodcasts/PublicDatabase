@@ -3,6 +3,7 @@
   "name": "The Joe Rooz Show",
   "spotifyId": "5Gxf7UTMseRStektjuCw9v",
   "appleId": 1781723831,
+  "youTubeChannelId": "UCqZvHxj-KgIzjuCxQSiNFXw",
   "episodes": [
     {
       "id": "a816e062-a26e-487c-98fa-2aeea210b895",
@@ -13,12 +14,14 @@
       "explicit": false,
       "spotifyId": "2l6Wr7lu2jfJ6KHWrRH5dy",
       "appleId": 1000779355580,
+      "youTubeId": "0UKK80ZuqhE",
       "subjects": [
         "Manson Family"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2l6Wr7lu2jfJ6KHWrRH5dy",
-        "apple": "https://podcasts.apple.com/podcast/inside-the-minds-of-serial-killers-cults/id1781723831?i=1000779355580"
+        "apple": "https://podcasts.apple.com/podcast/inside-the-minds-of-serial-killers-cults/id1781723831?i=1000779355580",
+        "youtube": "https://www.youtube.com/watch?v=0UKK80ZuqhE"
       }
     }
   ]

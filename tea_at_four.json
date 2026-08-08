@@ -4,5 +4,21 @@
   "spotifyId": "3GPlwdY9f5XaioLlohju30",
   "appleId": 1683356145,
   "youTubeChannelId": "UC3vHhUX0DaV5vd-J2dmI3yA",
-  "episodes": []
+  "episodes": [
+    {
+      "id": "23dfe5c6-5384-4e78-8fbb-001cb72b2303",
+      "title": "I Have Dissociative Identity Disorder: Living With 30 Alters",
+      "description": "Bo has lived with Dissociative Identity Disorder (DID) for years, but before her diagnosis she thought she had narcolepsy because she would regularly \u0022black out\u0022 with no memory of what had happened. \n\nIn this episode of Tea At Four, hosts Lauren and Billy sit down with Bo to unpack the reality of living with DID, from the trauma that caused different parts of her identity to form, to the misconceptions she faces every day online. She explains how many alters she lives with, and how some of her alters have their own names, memories, ages, accents and even beliefs. Bo opens up about how her alters helped protect her from traumatic memories, what dating is like when different alters have different relationships, and why the internet needs to stop \u0022fake claiming\u0022 people living with the disorder.\n\nThis is one of the most honest and eye-opening conversations we\u0027ve had about Dissociative Identity Disorder, trauma, memory and what it\u0027s really like to share your mind with different parts of yourself.",
+      "release": "2026-08-06T15:00:35Z",
+      "duration": "00:45:26",
+      "explicit": false,
+      "youTubeId": "5sy4f4G8lhk",
+      "subjects": [
+        "Dissociative Identity Disorder"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5sy4f4G8lhk"
+      }
+    }
+  ]
 }

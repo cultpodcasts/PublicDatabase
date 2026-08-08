@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "243175e5-ad8c-46cd-bc2b-1f2dbd08d7e2",
+      "title": "267. The Love Israel Family Part II",
+      "description": "We finish up our series on the Love Israel Family. Sorry for all the ADHD rants, I cut out about 45 minutes.",
+      "release": "2026-08-05T01:15:00Z",
+      "duration": "01:44:43.2590000",
+      "explicit": false,
+      "spotifyId": "1seb4B8egO9CKxfVlZiH60",
+      "appleId": 1000779972526,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1seb4B8egO9CKxfVlZiH60",
+        "apple": "https://podcasts.apple.com/podcast/267-the-love-israel-family-part-ii/id1573190999?i=1000779972526"
+      }
+    },
+    {
       "id": "0bd86b7f-711e-418a-a158-3fda71341baa",
       "title": "266. The Love Israel Family Part I",
       "description": "This is our last Jesus People cult!",

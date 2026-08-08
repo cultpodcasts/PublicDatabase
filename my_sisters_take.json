@@ -1,8 +1,30 @@
 {
   "id": "a46b85e0-14a6-4bd2-93f1-0f272054b94f",
   "name": "My Sisters Take",
+  "spotifyId": "033N7ZvfuOzd8bRNF0tL6y",
+  "appleId": 6789656893,
   "youTubeChannelId": "UCsQ5DyH2qO7nojvTMFdxzog",
   "episodes": [
+    {
+      "id": "e51fb570-ccc0-4d05-9f6c-8ed5dffe6069",
+      "title": "My Sisters Take Episode 8 : The \u201CNice\u201D Ministers",
+      "description": "Not every dangerous leader looks dangerous.\n\nIn this episode of My Sister\u2019s Take, we talk about the final two ordained ministers in the cult we grew up in - people we\u2019ll call Buttercup and The Lawyer.\n\nTo many, they seemed different. Softer. Kinder. More approachable than the ministers who came before them.\n\nBut as we learned, abuse doesn\u2019t always arrive with yelling, intimidation, or obvious cruelty.\n\nSometimes it wears a smile.\nSometimes it sounds reasonable.\nSometimes it feels safe- until you realize the same system of control is still operating beneath the surface.\n\nWe share our experiences of how manipulation can evolve, how power protects itself, and why \u201Cnice\u201D doesn\u2019t always mean harmless.\n\nIf you\u2019ve ever questioned your own experiences because someone \u201Cseemed like a good person,\u201D this conversation is for you.\n\n\uD83C\uDF99\uFE0F Subscribe to follow our story as we continue uncovering what it was like growing up inside a high-control religious group- and what healing has looked like on the other side. \n\nSubscribe Here: https://www.youtube.com/channel/UCsQ5DyH2qO7nojvTMFdxzog?sub_confirmation=1\n\nBefore we dive in \u2014 a few things to keep in mind. My Sisters Take is a personal storytelling podcast. Everything we share is based on our own lived experiences growing up in a high-control group. We\u0027re not doctors, therapists, or lawyers \u2014 just two sisters finally telling our story. Some episodes touch on heavy topics like religious trauma, spiritual abuse, physical abuse and cult life, so please check in with yourself as you listen. Your mental health matters more than any episode. If something we share brings up difficult emotions, please reach out to a qualified mental health professional.\n\nMy Sisters Take provides a platform for hosts and guests to share their personal experiences and opinions. The views expressed are solely those of the individual speaking and do not necessarily reflect the views of the podcast, its hosts, or producers. Any allegations or claims discussed are based on personal accounts and have not been independently verified. All individuals mentioned are presumed innocent until proven guilty in a court of law. My Sisters Take assumes no legal responsibility for statements made by guests or hosts during any episode.\n\n\u00A9 2026 My Sister Take. All rights reserved. This is an original work and may not be copied, reposted, or redistributed without permission.",
+      "release": "2026-08-02T14:40:54Z",
+      "duration": "00:26:08",
+      "explicit": false,
+      "spotifyId": "1YGm1GryKqhk04WHMOGko7",
+      "appleId": 1000779549449,
+      "youTubeId": "0C-zwhFigYc",
+      "subjects": [
+        "Cult Recovery",
+        "Church of Immortal Consciousness"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1YGm1GryKqhk04WHMOGko7",
+        "apple": "https://podcasts.apple.com/podcast/the-nice-ministers-episode-8/id6789656893?i=1000779549449",
+        "youtube": "https://www.youtube.com/watch?v=0C-zwhFigYc"
+      }
+    },
     {
       "id": "cdabae4f-88d0-45f9-b596-69fd9717841e",
       "title": "We Were Born and Raised in an Cult | Official Podcast Trailer | My Sister\u2019s Take",
@@ -26,12 +48,16 @@
       "release": "2026-07-18T02:18:26Z",
       "duration": "00:31:31",
       "explicit": false,
+      "spotifyId": "0rkGJdlITRUeLTl0ObB39h",
+      "appleId": 1000777575702,
       "youTubeId": "GGhxyWmxu8g",
       "subjects": [
         "Cult Recovery",
         "Church of Immortal Consciousness"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0rkGJdlITRUeLTl0ObB39h",
+        "apple": "https://podcasts.apple.com/podcast/trunchbull-the-cult-bully-episode-7/id6789656893?i=1000777575702",
         "youtube": "https://www.youtube.com/watch?v=GGhxyWmxu8g"
       }
     },
@@ -42,12 +68,16 @@
       "release": "2026-07-10T03:30:00Z",
       "duration": "00:38:19",
       "explicit": false,
+      "spotifyId": "4iGiKRVeLHLuhFhd6W95rs",
+      "appleId": 1000776648286,
       "youTubeId": "bbylF_RBYrU",
       "subjects": [
         "Church of Immortal Consciousness",
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4iGiKRVeLHLuhFhd6W95rs",
+        "apple": "https://podcasts.apple.com/podcast/the-queen-of-control-episode-6/id6789656893?i=1000776648286",
         "youtube": "https://www.youtube.com/watch?v=bbylF_RBYrU"
       }
     },
@@ -58,12 +88,16 @@
       "release": "2026-07-03T02:24:56Z",
       "duration": "00:21:18",
       "explicit": false,
+      "spotifyId": "4V0WHAH3IVzlaozHBRUFRt",
+      "appleId": 1000776648287,
       "youTubeId": "o-NlzUQDVU8",
       "subjects": [
         "Church of Immortal Consciousness",
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4V0WHAH3IVzlaozHBRUFRt",
+        "apple": "https://podcasts.apple.com/podcast/the-enforcer-dr-death-episode-5/id6789656893?i=1000776648287",
         "youtube": "https://www.youtube.com/watch?v=o-NlzUQDVU8"
       }
     },
@@ -74,11 +108,15 @@
       "release": "2026-06-26T03:30:30Z",
       "duration": "00:45:04",
       "explicit": false,
+      "spotifyId": "76hsigICXvWqwC4iuw0sPe",
+      "appleId": 1000776646491,
       "youTubeId": "f1-DTpNO4N0",
       "subjects": [
         "Church of Immortal Consciousness"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/76hsigICXvWqwC4iuw0sPe",
+        "apple": "https://podcasts.apple.com/podcast/our-truth-about-trina-kamp-the-cult-leader-episode-4/id6789656893?i=1000776646491",
         "youtube": "https://www.youtube.com/watch?v=f1-DTpNO4N0"
       }
     },
@@ -89,12 +127,16 @@
       "release": "2026-06-18T04:01:25Z",
       "duration": "00:40:57",
       "explicit": false,
+      "spotifyId": "0BdSAgi9RZk3eC4NMpEV8P",
+      "appleId": 1000776646388,
       "youTubeId": "GyLFu5q_0uk",
       "subjects": [
         "Church of Immortal Consciousness",
         "Cult Recovery"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/0BdSAgi9RZk3eC4NMpEV8P",
+        "apple": "https://podcasts.apple.com/podcast/grandfather-figures-and-cult-leaders-episode-3/id6789656893?i=1000776646388",
         "youtube": "https://www.youtube.com/watch?v=GyLFu5q_0uk"
       }
     },
@@ -105,12 +147,16 @@
       "release": "2026-06-10T04:09:14Z",
       "duration": "00:38:39",
       "explicit": false,
+      "spotifyId": "4yv8DuJEZ8dx8rVw0tKsNY",
+      "appleId": 1000776642658,
       "youTubeId": "rMwLtC--hC4",
       "subjects": [
         "Cult Recovery",
         "Church of Immortal Consciousness"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4yv8DuJEZ8dx8rVw0tKsNY",
+        "apple": "https://podcasts.apple.com/podcast/foundations-of-the-cult-episode-2/id6789656893?i=1000776642658",
         "youtube": "https://www.youtube.com/watch?v=rMwLtC--hC4"
       }
     },
@@ -121,12 +167,16 @@
       "release": "2026-06-10T03:58:19Z",
       "duration": "00:20:26",
       "explicit": false,
+      "spotifyId": "4br7neqlqQxxpjld0BzL6S",
+      "appleId": 1000776290302,
       "youTubeId": "fCTStUWvagU",
       "subjects": [
         "Cult Recovery",
         "Church of Immortal Consciousness"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4br7neqlqQxxpjld0BzL6S",
+        "apple": "https://podcasts.apple.com/podcast/everybody-loves-a-cult-story-our-cult-expose-episode-1/id6789656893?i=1000776290302",
         "youtube": "https://www.youtube.com/watch?v=fCTStUWvagU"
       }
     }

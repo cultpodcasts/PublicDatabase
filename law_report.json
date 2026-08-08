@@ -1,0 +1,23 @@
+{
+  "id": "019e4d50-7e33-4ca2-b9ff-6d1baaf2134b",
+  "name": "Law Report",
+  "appleId": 74849126,
+  "episodes": [
+    {
+      "id": "08678ccc-a891-4dc9-84d4-4ed9497eff48",
+      "title": "How should the law respond to cults and groups that coerce and control?",
+      "description": "The Victorian parliament has published a groundbreaking inquiry into the recruitment methods and impacts of cults and organised fringe groups.\nAmong the inquiry\u0027s recommendations are world-first laws to criminalise coercive control behaviours by groups.\u00A0",
+      "release": "2026-08-04T05:30:00Z",
+      "duration": "00:29:05",
+      "explicit": false,
+      "appleId": 1000779821840,
+      "subjects": [
+        "Cult Psychology",
+        "Legislation"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/how-should-the-law-respond-to-cults-and-groups/id74849126?i=1000779821840"
+      }
+    }
+  ]
+}

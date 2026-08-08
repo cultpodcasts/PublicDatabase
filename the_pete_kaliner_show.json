@@ -14,14 +14,12 @@
       "explicit": false,
       "spotifyId": "7b3KFWNsiaSXDV1RoqnavA",
       "appleId": 1000751071257,
-      "youTubeId": "4KDD2uiHvc0",
       "subjects": [
         "The Order of Nine Angles"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7b3KFWNsiaSXDV1RoqnavA",
-        "apple": "https://podcasts.apple.com/podcast/an-update-on-the-764-cult-another-attempt-on-trumps/id517293050?i=1000751071257",
-        "youtube": "https://www.youtube.com/watch?v=4KDD2uiHvc0"
+        "apple": "https://podcasts.apple.com/podcast/an-update-on-the-764-cult-another-attempt-on-trumps/id517293050?i=1000751071257"
       }
     }
   ]

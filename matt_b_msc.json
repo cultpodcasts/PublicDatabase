@@ -4,6 +4,95 @@
   "youTubeChannelId": "UCN57TkEAZXhaW2MpiK-GEYQ",
   "episodes": [
     {
+      "id": "6538142a-c584-4efe-b290-4485562961f6",
+      "title": "\u0022Peacemaker\u0022 and \u0022Unifier\u0022 : how did these end up in Trump\u0027s inaugration speech?",
+      "release": "2026-08-07T22:44:37Z",
+      "duration": "00:03:19",
+      "explicit": false,
+      "youTubeId": "ID3Y2btRxlk",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ID3Y2btRxlk"
+      }
+    },
+    {
+      "id": "260063c9-a586-4230-bc26-c749f51498b9",
+      "title": "The QAnon-Steve Bannon Connection: what is it?",
+      "description": "QAnon-Jim Watkins-8Chan-Bill Barr-Steve Bannon",
+      "release": "2026-08-06T17:30:21Z",
+      "duration": "00:02:22",
+      "explicit": false,
+      "youTubeId": "K0ccA5RcLdk",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=K0ccA5RcLdk"
+      }
+    },
+    {
+      "id": "eb3b1bec-7d56-4cc7-bcf4-1bc0a94ce393",
+      "title": "What does Trump advisor \u0026 MAGA ideologue Steve Bannon really believe?",
+      "release": "2026-08-06T15:00:10Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "youTubeId": "3eQYA1HNoAg",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=3eQYA1HNoAg"
+      }
+    },
+    {
+      "id": "c5581e74-5723-4986-b63f-ec7c2251504c",
+      "title": "The Roasting of Donald Trump by Barack Obama: how did Trump respond?",
+      "release": "2026-08-05T10:22:50Z",
+      "duration": "00:02:59",
+      "explicit": false,
+      "youTubeId": "KysWYG-KBu0",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KysWYG-KBu0"
+      }
+    },
+    {
+      "id": "1f3f5f90-5a2b-47c4-aa0f-1b822fe64995",
+      "title": "The Roasting of Donald Trump by Gilbert Godfried: how did Trump react?",
+      "release": "2026-08-05T10:20:56Z",
+      "duration": "00:02:46",
+      "explicit": false,
+      "youTubeId": "DCdgbuZbiek",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DCdgbuZbiek"
+      }
+    },
+    {
+      "id": "a78aa3de-3535-47d8-afeb-c0bbb2d959c3",
+      "title": "Did Donald Trump expect to win the 2016 presidential election?",
+      "release": "2026-08-02T10:47:27Z",
+      "duration": "00:00:49",
+      "explicit": false,
+      "youTubeId": "O5gfpix2Stk",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=O5gfpix2Stk"
+      }
+    },
+    {
+      "id": "4be4b63b-cbbd-420d-9d33-06f3ccf3856c",
+      "title": "Did Donald Trump expect to win the 2015 Republican Primaries? Trump responds",
+      "release": "2026-08-02T10:45:16Z",
+      "duration": "00:01:04",
+      "explicit": false,
+      "youTubeId": "x9LjRB3eqqw",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=x9LjRB3eqqw"
+      }
+    },
+    {
+      "id": "f01f2652-17fe-475a-b8e0-13a37bb4e9b5",
+      "title": "How Christian is Donald Trump really? Trump responds",
+      "release": "2026-08-01T16:18:42Z",
+      "duration": "00:01:26",
+      "explicit": false,
+      "youTubeId": "97h1kqU5OI0",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=97h1kqU5OI0"
+      }
+    },
+    {
       "id": "3d1a6b80-d004-4437-8374-5ae7c381eaec",
       "title": "Who is Donald Trump\u0027s favorite American President?",
       "release": "2026-08-01T10:56:39Z",
@@ -3325,20 +3414,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=ISjIetigJVU"
-      }
-    },
-    {
-      "id": "22644af6-8d91-49ba-91d0-427515060a72",
-      "title": "How did Lauren Drain wake up from the Westboro Baptist Church?",
-      "release": "2025-09-21T14:49:51Z",
-      "duration": "00:09:28",
-      "explicit": false,
-      "youTubeId": "5-SoYo9aopo",
-      "subjects": [
-        "Westboro Baptist Church"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=5-SoYo9aopo"
       }
     },
     {

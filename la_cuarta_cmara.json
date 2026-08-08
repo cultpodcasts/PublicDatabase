@@ -4,6 +4,17 @@
   "youTubeChannelId": "UCMwGGXl8rd_lf-wpVuthQLg",
   "episodes": [
     {
+      "id": "5c2f6e2c-b022-4ef7-8be1-68a8e250c669",
+      "title": "6 de agosto de 2026",
+      "release": "2026-08-06T11:44:09Z",
+      "duration": "00:02:39",
+      "explicit": false,
+      "youTubeId": "ucuixxzY2is",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ucuixxzY2is"
+      }
+    },
+    {
       "id": "6d5a7d53-117c-4191-85c5-3f4644a49f10",
       "title": "Testimonio de un exgnostico parte 1 \u0022Secretos oscuros de la gnosis\u0022",
       "release": "2026-06-29T13:12:16Z",
