@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "4f5da4fe-d7dd-4078-876b-43a5ff34962e",
+      "title": "268. Tim Tebow Part I",
+      "description": "The long awaited Tim Tebow series starts now!",
+      "release": "2026-08-11T22:46:46Z",
+      "duration": "01:50:53.5440000",
+      "explicit": true,
+      "spotifyId": "3BtmtEQPRQoOV3CjfALy9d",
+      "appleId": 1000782829619,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3BtmtEQPRQoOV3CjfALy9d",
+        "apple": "https://podcasts.apple.com/podcast/268-tim-tebow-part-i/id1573190999?i=1000782829619"
+      }
+    },
+    {
       "id": "243175e5-ad8c-46cd-bc2b-1f2dbd08d7e2",
       "title": "267. The Love Israel Family Part II",
       "description": "We finish up our series on the Love Israel Family. Sorry for all the ADHD rants, I cut out about 45 minutes.",

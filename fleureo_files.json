@@ -52,12 +52,16 @@
       "release": "2026-05-06T21:00:31Z",
       "duration": "00:39:49",
       "explicit": false,
+      "spotifyId": "09sKstXk1MpFPK8XhadBFS",
+      "appleId": 1000781290775,
       "youTubeId": "JPyeYMO6-_U",
       "subjects": [
         "Cult Psychology",
         "Teal Swan"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/09sKstXk1MpFPK8XhadBFS",
+        "apple": "https://podcasts.apple.com/podcast/teal-swan-how-spiritual-gurus-exploit-cult-dynamics/id1766288807?i=1000781290775",
         "youtube": "https://www.youtube.com/watch?v=JPyeYMO6-_U"
       }
     },

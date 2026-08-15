@@ -1,0 +1,30 @@
+{
+  "id": "c213a1f5-9af8-4245-bb1d-d29da68a38d2",
+  "name": "Thema des Tages",
+  "spotifyId": "7aw1FEIxIpuF4FA5BU45ok",
+  "appleId": 1476058919,
+  "youTubeChannelId": "UCgau4awdKG2ni2Ib4jvUqFA",
+  "youTubePlaylistId": "PLDBikf3JZecE-cTUbPqEKHYeKL51uQtbO",
+  "episodes": [
+    {
+      "id": "fd7161cc-824d-4306-8fb3-45931696bcb0",
+      "title": "Epstein-Skandal: Kommen Trump und die Mitt\u00E4ter davon? | Sandra Navidi",
+      "description": "US-Expertin Sandra Navidi \u00FCber mysteri\u00F6se Todesf\u00E4lle und das Erbe dieses beispiellosen Skandals Unterst\u00FCtzt uns: Mit einem STANDARD-Abo f\u00FCr nur je 3 Euro in den ersten 3 Monaten Thema des Tages LIVE am 14.9. - jetzt Tickets sichern: Thema des Tages: Amerikas Schicksalswahl - bei Theater im Park Der Hauptt\u00E4ter ist tot. Zwei seiner Opfer nehmen sich das Leben. Dann stirbt zuerst einer der engsten Komplizen und jetzt ein weiterer. Die einzig verurteilte Mitt\u00E4terin schweigt im Gef\u00E4ngnis. Beschuldigte Promis d\u00FCrfen sich in Anh\u00F6rungen reinwaschen. Und der in den Fall verstrickte Pr\u00E4sident Donald Trump macht alles, um nicht dar\u00FCber sprechen zu m\u00FCssen. Neue Ermittlungen: Fehlanzeige. Es hat den Anschein als w\u00FCrde der Fall um den Kindersch\u00E4nder Jeffrey Epstein sukzessive begraben werden. Was es damit auf sich hat und ob die verbliebenen T\u00E4ter dieses beispiellosen Skandals jemals zur Rechenschaft gezogen werden, dar\u00FCber sprechen wir mit der deutsch-amerikanischen Anw\u00E4ltin und Bestsellerautorin Sandra Navidi.",
+      "release": "2026-08-14T03:30:00Z",
+      "duration": "00:46:59.7090000",
+      "explicit": false,
+      "spotifyId": "0tPdpBr6v7za5Z3hdYyNZV",
+      "appleId": 1000783242253,
+      "youTubeId": "5BXCGZGXaSk",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0tPdpBr6v7za5Z3hdYyNZV",
+        "apple": "https://podcasts.apple.com/podcast/epstein-skandal-kommen-trump-und-die-mitt%C3%A4ter-davon/id1476058919?i=1000783242253",
+        "youtube": "https://www.youtube.com/watch?v=5BXCGZGXaSk"
+      }
+    }
+  ]
+}

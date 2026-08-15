@@ -1,0 +1,25 @@
+{
+  "id": "d7b82b56-aade-4345-861b-beebb5f9010a",
+  "name": "The Petty Agenda",
+  "spotifyId": "033x5mpwzG5m5qDBwiYo13",
+  "appleId": 1896917960,
+  "episodes": [
+    {
+      "id": "3ca88fd8-95cb-448e-b695-7d455db91a73",
+      "title": "Episode 9 - Lies, Deceit \u0026 Cult Vibes of Scientology",
+      "description": "As usual, catch up with us on this week\u0027s latest pop culture, and chaos in our lives. This weeks topic is Scientology - its origins, celebrity culture, and controversial practices. We discuss Leah Remini, Elizabeth Moss, Danny Masterson, and Rebecca Minkoff. Send us Fan Mail",
+      "release": "2026-08-14T11:00:00Z",
+      "duration": "00:55:23.3760000",
+      "explicit": true,
+      "spotifyId": "6kQGBywsR6fsTBJBhwKKJd",
+      "appleId": 1000783299182,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6kQGBywsR6fsTBJBhwKKJd",
+        "apple": "https://podcasts.apple.com/podcast/episode-9-lies-deceit-cult-vibes-of-scientology/id1896917960?i=1000783299182"
+      }
+    }
+  ]
+}

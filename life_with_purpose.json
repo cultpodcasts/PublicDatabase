@@ -1,0 +1,23 @@
+{
+  "id": "ac3b2dca-587d-4a4b-a01b-4d787b320b6b",
+  "name": "Life with Purpose",
+  "youTubeChannelId": "UCsv5FjhwS0ftEmi0vrSli5g",
+  "episodes": [
+    {
+      "id": "277c9c2d-a4c1-4fc6-9280-5fdd75c7ca69",
+      "title": "What is it like to grow up in a cult?",
+      "description": "#narcissism",
+      "release": "2026-08-13T03:26:24Z",
+      "duration": "00:06:01",
+      "explicit": false,
+      "youTubeId": "YXozlfC-uZ4",
+      "subjects": [
+        "Cult Psychology",
+        "Family Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=YXozlfC-uZ4"
+      }
+    }
+  ]
+}

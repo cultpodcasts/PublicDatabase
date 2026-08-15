@@ -6,6 +6,38 @@
   "youTubeChannelId": "UC1hYXZi0_9KdI4z0qtSCIkQ",
   "episodes": [
     {
+      "id": "2fd81bfd-95be-4af8-b6b9-08bf64d15e30",
+      "title": "Stand for Truth - Kathi Rose Hooton",
+      "description": "Welcome to The Cult on the Cape, a podcast series dedicated to the discussion of the Community of Jesus. The host, Bonnie Zampino, is a survivor of the Community, and is a cofounder of Rock Harbor Truth. Rock Harbor Truth is a non-profit organization dedicated to informing the public of the history and continued actions of the Community of Jesus, as well as providing a platform for those who have been hurt by the Community, so that they may share their voices and heal.\n\nWe hope that this series not only helps survivors speak but also helps you learn of this group and what they have done for decades and continue to do now. Thank you for listening. Even by simply listening to an episode of the podcast, you are helping to make a difference.\n\nFind more about us here:\nhttps://rockharbortruth.org/\nhttps://www.facebook.com/p/Rock-Harbor-Truth-61559941887908/\n\nListen on other platforms:\nhttps://open.spotify.com/show/6JnIrHq9MiKi6DNxsXdRUs\nhttps://podcasts.apple.com/us/podcast/the-cult-on-the-cape/id1853708779\nhttps://music.amazon.com/podcasts/f6fd10f4-4862-48f1-a746-294dab43b7c2/the-cult-on-the-cape",
+      "release": "2026-08-14T17:44:09Z",
+      "duration": "00:09:17",
+      "explicit": false,
+      "youTubeId": "qIKmrSPxZEE",
+      "subjects": [
+        "Community of Jesus"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=qIKmrSPxZEE"
+      }
+    },
+    {
+      "id": "a3fda9f3-8a19-4dad-8c2a-ff1d597ed4dc",
+      "title": "Episode 38 Voices from The Stand",
+      "description": "On Sunday, survivors, allies, and community members gathered on Cape Cod for Stand for Truth \u2014 a public show of support for those harmed by the Community of Jesus and those still inside.\nIn this special episode of The Cult on the Cape, we bring you the voices from that day.\nYou\u2019ll hear from an ally and survivor of sexual abuse who fought for justice, saw her abuser sentenced to 42 years in prison, and spoke about what it means to find your voice \u2014 and to help others find theirs. You\u2019ll also hear directly from two survivors of the Community of Jesus as they share their experiences and the lasting impact those experiences have had on their lives.\nFor decades, many survivors were taught to stay silent.\nNow, they are speaking.\nThese are the voices of Stand for Truth.",
+      "release": "2026-08-13T03:00:00Z",
+      "duration": "00:26:08",
+      "explicit": false,
+      "spotifyId": "32H5pscz3bkaDbLh4ofoW1",
+      "appleId": 1000783066343,
+      "subjects": [
+        "Community of Jesus"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/32H5pscz3bkaDbLh4ofoW1",
+        "apple": "https://podcasts.apple.com/podcast/episode-38-voices-from-the-stand/id1853708779?i=1000783066343"
+      }
+    },
+    {
       "id": "d383f412-0dbc-4014-9ff1-a791e35705ab",
       "title": "Episode 37 We Were An Experiment Part 2",
       "description": "After spending her entire life inside the Community of Jesus, Magdelene Leon\u2014known to many as Katie Buddington\u2014believed her future had already been decided.\nIn Part 2 of her story, she shares what it was like to take her vows as a novice and later as a permanently professed sister, despite a growing sense that something wasn\u0027t right. She describes the impossible choices faced by those raised in high-control groups, the fear of leaving everything they have ever known, and the quiet determination it took to begin imagining a different life.\nShe reflects on the moment she realized the outside world wasn\u0027t what she\u0027d been taught to fear, why so many people try to leave \u0022the right way,\u0022 and what it has taken to rebuild her identity after decades of control.\nThis episode is an honest conversation about autonomy, faith, healing, and the extraordinary courage required to choose yourself when you\u0027ve been taught your entire life not to.\nContent Note: This episode contains discussions of religious coercion, emotional abuse, family separation, and trauma.",
@@ -14,12 +46,14 @@
       "explicit": false,
       "spotifyId": "52GQdxqjpvuAmrknH3SrgH",
       "appleId": 1000779860273,
+      "youTubeId": "vREfIAwrE_I",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/52GQdxqjpvuAmrknH3SrgH",
-        "apple": "https://podcasts.apple.com/podcast/episode-37-we-were-an-experiment-part-2/id1853708779?i=1000779860273"
+        "apple": "https://podcasts.apple.com/podcast/episode-37-we-were-an-experiment-part-2/id1853708779?i=1000779860273",
+        "youtube": "https://www.youtube.com/watch?v=vREfIAwrE_I"
       }
     },
     {
@@ -31,12 +65,14 @@
       "explicit": false,
       "spotifyId": "5xPAg1xw7E3kpYujj9ogEc",
       "appleId": 1000778687806,
+      "youTubeId": "sLx_xD8KhYg",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5xPAg1xw7E3kpYujj9ogEc",
-        "apple": "https://podcasts.apple.com/podcast/episode-36-we-were-an-experiment-part-1/id1853708779?i=1000778687806"
+        "apple": "https://podcasts.apple.com/podcast/episode-36-we-were-an-experiment-part-1/id1853708779?i=1000778687806",
+        "youtube": "https://www.youtube.com/watch?v=sLx_xD8KhYg"
       }
     },
     {
@@ -46,13 +82,17 @@
       "release": "2026-07-21T10:00:00Z",
       "duration": "00:52:29",
       "explicit": false,
+      "spotifyId": "5sjfsMR1C1DRY1pVnTzqCr",
       "appleId": 1000777698796,
+      "youTubeId": "2hY521XIJeI",
       "subjects": [
         "Cult Psychology",
         "Community of Jesus"
       ],
       "urls": {
-        "apple": "https://podcasts.apple.com/podcast/episode-35-when-faith-becomes-control-part-2/id1853708779?i=1000777698796"
+        "spotify": "https://open.spotify.com/episode/5sjfsMR1C1DRY1pVnTzqCr",
+        "apple": "https://podcasts.apple.com/podcast/episode-35-when-faith-becomes-control-part-2/id1853708779?i=1000777698796",
+        "youtube": "https://www.youtube.com/watch?v=2hY521XIJeI"
       }
     },
     {
@@ -64,13 +104,15 @@
       "explicit": false,
       "spotifyId": "2RdxvKM1VxhuZ1fNWtLlAS",
       "appleId": 1000776743060,
+      "youTubeId": "oopDmlhPqbc",
       "subjects": [
         "Community of Jesus",
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2RdxvKM1VxhuZ1fNWtLlAS",
-        "apple": "https://podcasts.apple.com/podcast/episode-34-when-faith-becomes-control-part-1/id1853708779?i=1000776743060"
+        "apple": "https://podcasts.apple.com/podcast/episode-34-when-faith-becomes-control-part-1/id1853708779?i=1000776743060",
+        "youtube": "https://www.youtube.com/watch?v=oopDmlhPqbc"
       }
     },
     {

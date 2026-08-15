@@ -1,8 +1,26 @@
 {
   "id": "91fbb1a1-e886-44f6-a555-c41b5840d4f5",
-  "name": "exJW Recovery",
+  "name": "The Happy Ex-Jehovah\u0027s Witness Podcast",
+  "spotifyId": "0346BDMQoYH1365RGiKvi0",
   "youTubeChannelId": "UCZqEQx64h0xsNym0y_TK5eQ",
   "episodes": [
+    {
+      "id": "651076f6-3ea6-49f2-96f6-1b1f7c169c96",
+      "title": "The Happy Ex-Jehovah\u0027s Witness Podcast - Ep.1: Rose",
+      "description": "I\u0027m a Psychologist and an ex-Jehovah\u0027s Witness. And I want to know what it is the happy ex-Jehovah\u0027s Witness differently from other ex-Jehovah\u0027s Witnesses who might be finding it more difficult to adjust positively in the real world since leaving the religion.\nIn this first episode, I interview Rose from the UK who was a Jehovah\u0027s Witness for 31 years. She relates her experiences, what happened when she left, and what brought her to where she is now - happy, content and thriving.",
+      "release": "2026-08-15T07:00:35Z",
+      "duration": "01:12:17",
+      "explicit": false,
+      "spotifyId": "6su6OfuWLa5j9QvNpVkbXJ",
+      "youTubeId": "sf3QcY5HkKs",
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6su6OfuWLa5j9QvNpVkbXJ",
+        "youtube": "https://www.youtube.com/watch?v=sf3QcY5HkKs"
+      }
+    },
     {
       "id": "bbe24d97-fc33-4d55-827c-e2d5ce6369dc",
       "title": "Ex-Cult Member Explains How To Make New Friends From Scratch",

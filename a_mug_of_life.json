@@ -1,0 +1,22 @@
+{
+  "id": "68f8aad3-9c36-41a8-8d87-72db1fc79c4e",
+  "name": "A Mug Of Life",
+  "youTubeChannelId": "UCn4DUXvpvJ3EFj_ynKB1e_Q",
+  "episodes": [
+    {
+      "id": "ede748a1-6f31-4521-b9f8-a946c5af49d7",
+      "title": "I Was Raised In A Cult",
+      "description": "Thank You Katy for sitting down and having a tea with me and telling your extraordinary story.",
+      "release": "2026-08-11T15:50:07Z",
+      "duration": "00:27:49",
+      "explicit": false,
+      "youTubeId": "bjqw1zkNkwM",
+      "subjects": [
+        "Lambeth Slavery Case"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bjqw1zkNkwM"
+      }
+    }
+  ]
+}

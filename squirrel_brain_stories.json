@@ -6,6 +6,26 @@
   "youTubeChannelId": "UCa6-lAOj5NWrkhXjs-nTWPQ",
   "episodes": [
     {
+      "id": "0ff2b17b-eca0-4f2f-a5c1-892c69c38685",
+      "title": "Episode 34: Survivors Reunion (Part 1: Introduction)",
+      "description": "In Part 1 of a special 6-part reunion series, host AngelaCargill sits down with fellow survivors Niko, Beth, and Theresa.\nGrowing up together inside the \u0022Peach House\u0022 cult, the groupreconnects after years apart to lay the groundwork for their shared story, comparing their earliest memories and piecing together the reality of their childhoods.\n\u00A0\nKey Discussion Highlights\nThe Mechanics of Isolation: How members were keptdivided from the outside world and from each other, restricting basic peer interactions and personal choices. Forced Labor \u0026 Sleep Deprivation: The daily tollof required tasks, constant activity, and 5:00 AM routines designed to exhaust members and discourage questioning. Loss \u0026 Discovery of Autonomy: The long-termpsychological impact of growing up without agency, the fear of expressing personal thoughts or feelings, and the ongoing process of finding one\u0027s own voice in adulthood. Educational Neglect: Navigating the complete lack offormal schooling, self-teaching from manuals, and overcoming systemic barriers to education. Community Normalization: How high-control groups hide in plain sight within normal neighborhoods by marketing themselves as charitable or religious organizations. \u00A0\nContent Warning: This episode contains discussions ofinstitutional abuse, coercive control, corporal punishment, and child neglect. Listener discretion is strongly advised.",
+      "release": "2026-08-09T20:16:44Z",
+      "duration": "00:59:45",
+      "explicit": false,
+      "spotifyId": "54h6Pkdcyn9M5N9cd3yjcV",
+      "appleId": 1000781283257,
+      "youTubeId": "aZHeCEkAQBw",
+      "subjects": [
+        "Back To The Cross Ministry",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/54h6Pkdcyn9M5N9cd3yjcV",
+        "apple": "https://podcasts.apple.com/podcast/episode-34-survivors-reunion-part-1-introduction/id1851877715?i=1000781283257",
+        "youtube": "https://www.youtube.com/watch?v=aZHeCEkAQBw"
+      }
+    },
+    {
       "id": "7525e81e-9c93-46eb-8c5a-558bda7945d6",
       "title": "Episode 33: Life in Hawaii Under Manuel \u201CMemo\u201D Taboada",
       "description": "In Episode 33 of Squirrel Brain Stories, Angela and Adria are joined by Niko and returning guest Michael, Angela\u2019s brother, to continue unpacking life inside the cult after the group\u2019s split and relocation to Hawaii.Michael and Niko share firsthand memories of the Hawaii homes, including the control dynamics, isolation, medical neglect, constant surveillance, spiritual manipulation, poverty, food insecurity, forced outreach, and the way members were turned against one another to maintain obedience.The conversation also explores Michael\u2019s recovery after a traumatic brain injury, the lack of stability for children inside the group, the racial and cultural dynamics between Portland and Hawaii, and the long-term effects of growing up in an environment where abuse, secrecy, and survival became normalized.This episode continues the larger story of Manuel \u201CMemo\u201D Taboada\u2019s group through the voices of those who lived it.Content Warning: This episode discusses cult abuse, child abuse, sexual abuse, trauma, coercive control, medical vulnerability, neglect, and survivor experiences. Listener discretion is advised.",
@@ -14,12 +34,15 @@
       "explicit": false,
       "spotifyId": "5d7KDBYWucoMXMKbDWMGsY",
       "appleId": 1000772722066,
+      "youTubeId": "_RyWDneXLAY",
       "subjects": [
-        "Cult Psychology"
+        "Cult Psychology",
+        "Back To The Cross Ministry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5d7KDBYWucoMXMKbDWMGsY",
-        "apple": "https://podcasts.apple.com/podcast/episode-33-life-in-hawaii-under-manuel-memo-taboada/id1851877715?i=1000772722066"
+        "apple": "https://podcasts.apple.com/podcast/episode-33-life-in-hawaii-under-manuel-memo-taboada/id1851877715?i=1000772722066",
+        "youtube": "https://www.youtube.com/watch?v=_RyWDneXLAY"
       }
     },
     {
@@ -188,21 +211,6 @@
         "spotify": "https://open.spotify.com/episode/2BfAL0pueJqMF02y5Z4yww",
         "apple": "https://podcasts.apple.com/podcast/the-domestic-urban-cult-immigration-exploitation/id1851877715?i=1000761927383",
         "youtube": "https://www.youtube.com/watch?v=mF9wqpLEcDc"
-      }
-    },
-    {
-      "id": "2e1d4b19-815c-4030-b48f-36f550744521",
-      "title": "Justice Delayed is Justice Denied",
-      "release": "2026-04-15T02:51:38Z",
-      "duration": "00:03:01",
-      "explicit": false,
-      "youTubeId": "tvp27YBBGTU",
-      "subjects": [
-        "Back To The Cross Ministry",
-        "Human Trafficking"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=tvp27YBBGTU"
       }
     },
     {

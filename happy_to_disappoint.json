@@ -12,11 +12,13 @@
       "release": "2026-08-08T01:30:14Z",
       "duration": "01:17:24",
       "explicit": false,
+      "appleId": 1000783021281,
       "youTubeId": "XGqRtjwnBMM",
       "subjects": [
         "The Living Word Fellowship"
       ],
       "urls": {
+        "apple": "https://podcasts.apple.com/podcast/s2-e8-the-living-word-vs-the-letter/id1811505214?i=1000783021281",
         "youtube": "https://www.youtube.com/watch?v=XGqRtjwnBMM"
       }
     },
