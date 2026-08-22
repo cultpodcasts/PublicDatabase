@@ -1,0 +1,28 @@
+{
+  "id": "ccbb686a-8f5b-4d26-a796-a07477014bdb",
+  "name": "Asheville News Today | 2 Min News | The Daily News Now!",
+  "spotifyId": "033GoZ24iHjp47TM3geXFE",
+  "appleId": 6787801067,
+  "episodes": [
+    {
+      "id": "9b59528a-ce39-40df-a865-4a11e022d73d",
+      "title": "Cult-Like Behavior in Everyday America | Asheville News",
+      "description": "Daniella Mestyanek Young, author of Uncultured and former cult survivor, teams up with Amy Reed to unveil The Culting of America, a bold new book exposing how cult-like dynamics secretly shape everyday American life. Through their \u201Ccultiness spectrum,\u201D they decode the slippery slope from community to control, loyalty to exploitation, and good leadership to manipulation \u2014 all while revealing how these patterns show up everywhere, from radical groups to trusted institutions. Join them live at Malaprop\u0027s on August 26th at 6 PM for free, but RSVP now to secure your spot. Listen in comfort: Get a discount on a Soli Pillow: http://solipillow.com/discount/dnn. Advertise on DNN: advertise@thednn.ai This is an automated, high-level news summary based on public reporting. Report issues to feedback@thednn.ai. View sources \u0026 latest updates: https://sources.thednn.ai/5322f02189b09233",
+      "release": "2026-08-20T19:03:18Z",
+      "duration": "00:01:19.9000000",
+      "explicit": false,
+      "spotifyId": "6bJSiosAfIPuHrTHImOrG1",
+      "appleId": 1000784652190,
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "_America",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6bJSiosAfIPuHrTHImOrG1",
+        "apple": "https://podcasts.apple.com/podcast/cult-like-behavior-in-everyday-america-asheville-news/id6787801067?i=1000784652190"
+      }
+    }
+  ]
+}

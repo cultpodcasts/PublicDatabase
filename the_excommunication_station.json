@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "0716f166-0879-4106-8913-882f1aea4f14",
+      "title": "269. Tim Tebow Part II",
+      "description": "We are back with more Tim Tebow.",
+      "release": "2026-08-19T22:15:19Z",
+      "duration": "01:46:30.9610000",
+      "explicit": true,
+      "spotifyId": "1hFflDu0MQmXvOE3DxdhLE",
+      "appleId": 1000784431387,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1hFflDu0MQmXvOE3DxdhLE",
+        "apple": "https://podcasts.apple.com/podcast/269-tim-tebow-part-ii/id1573190999?i=1000784431387"
+      }
+    },
+    {
       "id": "4f5da4fe-d7dd-4078-876b-43a5ff34962e",
       "title": "268. Tim Tebow Part I",
       "description": "The long awaited Tim Tebow series starts now!",
