@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "f695f1b6-d95d-4534-8642-777361bcc2bf",
+      "title": "270. Tim Tebow Part III: Circumcision Expert",
+      "description": "This episode is messed up.",
+      "release": "2026-08-25T21:49:09Z",
+      "duration": "02:23:47.3310000",
+      "explicit": true,
+      "spotifyId": "0Qd60GouN0qDOYdi7Mxj6r",
+      "appleId": 1000785836897,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0Qd60GouN0qDOYdi7Mxj6r",
+        "apple": "https://podcasts.apple.com/podcast/270-tim-tebow-part-iii-circumcision-expert/id1573190999?i=1000785836897"
+      }
+    },
+    {
       "id": "0716f166-0879-4106-8913-882f1aea4f14",
       "title": "269. Tim Tebow Part II",
       "description": "We are back with more Tim Tebow.",

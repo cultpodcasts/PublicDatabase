@@ -3,7 +3,27 @@
   "name": "7am",
   "spotifyId": "7A58JjoBja1ykDVvZPSEXC",
   "appleId": 1461999702,
+  "youTubeChannelId": "UCAv6NwVTJgyq0b_wxvsbNHw",
   "episodes": [
+    {
+      "id": "693bcef0-da9f-47a3-913b-437eaa53d3d9",
+      "title": "The \u201Ccult\u201D church accused of paying far-right activists for election stunts",
+      "description": "Last year, the Prime Minister was ambushed in his hotel lobby by far-right figures boasting of being fed \u201Cprivate intel\u201D during the last election campaign. The incident was one of about a dozen stunts targeting Labor, the Greens and some Independents. It turns out, this wasn\u0027t just about influencers trying to generate content. It was actually a co-ordinated campaign allegedly paid for by a wealthy Christian sect. Today, investigative journalist at The Age Sherryn Groch on the Exclusive Brethren, its bags of cash, and connections to the Liberal Party. If you enjoy 7am, the best way you can support us is by making a contribution at 7ampodcast.com.au/support. Socials: Stay in touch with us on Instagram Guest: Investigative journalist at The Age \u0026 SMH Sherryn Groch Photo: AAP Image/Mick Tsikas See omnystudio.com/listener for privacy information.",
+      "release": "2026-08-24T19:00:00Z",
+      "duration": "00:17:53.0840000",
+      "explicit": false,
+      "spotifyId": "3TaKjTQwnnr7xCgRlMZaJ1",
+      "appleId": 1000785410891,
+      "youTubeId": "9wwQR9XZ3XQ",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3TaKjTQwnnr7xCgRlMZaJ1",
+        "apple": "https://podcasts.apple.com/podcast/the-cult-church-accused-of-paying-far-right/id1461999702?i=1000785410891",
+        "youtube": "https://www.youtube.com/watch?v=9wwQR9XZ3XQ"
+      }
+    },
     {
       "id": "e708828b-f773-408b-9154-582d61e0c11d",
       "title": "Inside the Neo-Nazi compound funded by millionaires",

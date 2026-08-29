@@ -1,0 +1,42 @@
+{
+  "id": "a1a13ab7-1293-4179-888d-2a1e48e64652",
+  "name": "Dark Australia",
+  "spotifyId": "033ij8uaWlfSRRZLeQuH4w",
+  "appleId": 1896784690,
+  "episodes": [
+    {
+      "id": "ae5bba61-fe13-40fa-8b49-437744b1c7df",
+      "title": "The Family: Australia\u0027s Most Dangerous Cult (PART 2)",
+      "description": "In Part Two of The Family, the world Anne Hamilton-Byrne built begins to collapse. After years of isolation, control, punishment and psychological conditioning, some of the children start to question the life they have been forced to accept. Leeanne Creese escapes. Sarah Moore is pushed out. Both begin speaking to police. Then, on 14 August 1987, authorities raid Kai Lama. For the children inside, rescue does not feel like rescue. They have been taught to fear the outside world, distrust police and believe Anne is their mother, their spiritual authority, and the centre of their future. What follows is the unraveling of one of Australia\u0027s most disturbing cult stories, including the removal of the children, the investigation that became Operation Forest, the international hunt for Anne and Bill Hamilton-Byrne, and the legal outcome that left many survivors feeling justice had barely arrived at all. This episode also looks beyond Anne herself, focusing on the people who escaped her control, rebuilt their identities and spent the rest of their lives trying to understand what had been done to them.",
+      "release": "2026-08-23T21:00:00Z",
+      "duration": "00:41:48.0940000",
+      "explicit": false,
+      "spotifyId": "2J3jtaVfbVnSg9gjilBMtt",
+      "appleId": 1000785348176,
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2J3jtaVfbVnSg9gjilBMtt",
+        "apple": "https://podcasts.apple.com/podcast/the-family-australias-most-dangerous-cult-part-2/id1896784690?i=1000785348176"
+      }
+    },
+    {
+      "id": "cfeea2e7-c1e4-43de-be36-aa2de47d2339",
+      "title": "The Family: Australia\u0027s Most Dangerous Cult (PART 1)",
+      "description": "Behind the gates of a secluded property near Lake Eildon, a group of children were being raised almost entirely apart from the outside world. They dressed alike. Their hair was dyed the same colour. They were told they were brothers and sisters. And at the centre of their world was a woman they were taught to call mother. Her name was Anne Hamilton-Byrne. In Part One of this Dark Australia investigation, we trace the extraordinary rise of The Family from Hamilton-Byrne\u0027s beginnings as a charismatic yoga teacher to the creation of a secretive movement that attracted doctors, nurses, academics and wealthy professionals. We examine the beliefs that held the group together, the network that helped Hamilton-Byrne acquire children, and the isolated world created for them at a property known as Uptop. Behind the carefully constructed image of a perfect family, something far darker was taking place. This is the story of how The Family began and how one woman gained extraordinary control over the lives of those who followed her. Part One of a Dark Australia investigation into The Family. This episode contains discussions of child abuse, coercive control, drug use and other themes that some listeners may find distressing. Listener discretion is advised.",
+      "release": "2026-08-16T21:00:00Z",
+      "duration": "00:29:53.3320000",
+      "explicit": false,
+      "spotifyId": "7KEj6lYnWy48PZxhiJfan3",
+      "appleId": 1000783696429,
+      "subjects": [
+        "Santiniketan Park Association"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7KEj6lYnWy48PZxhiJfan3",
+        "apple": "https://podcasts.apple.com/podcast/the-family-australias-most-dangerous-cult-part-1/id1896784690?i=1000783696429"
+      }
+    }
+  ]
+}

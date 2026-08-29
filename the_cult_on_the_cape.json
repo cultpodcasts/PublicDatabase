@@ -6,6 +6,23 @@
   "youTubeChannelId": "UC1hYXZi0_9KdI4z0qtSCIkQ",
   "episodes": [
     {
+      "id": "07dffd3b-16e0-40a0-82dd-ac8f4cf9e351",
+      "title": "Episode 40 When God Becomes Your First Abuser",
+      "description": "Becky Hathaway Dirksen was seven years old when her family moved to Grenville Christian College to live the life mandated by the Community of Jesus. What followed was a childhood governed by rigid schedules, forced labor, constant correction, family separation, and spiritual teachings that equated suffering with holiness and love with giving up what mattered most.\nIn Part One of her story, Becky describes trying desperately to become the \u201Cgood\u201D person Grenville demanded\u2014while never knowing exactly what was wrong with who she already was. She reflects on the lasting damage of being taught to distrust herself, the loneliness of being sent to Bermuda as an unpaid worker, and the dream of horses and Montana that became her imagined path to freedom.\nBecky eventually left determined to begin her life. But, as she explains, appearing resilient is not the same as escaping unharmed: \u201CThe fallout comes later.\u201D",
+      "release": "2026-08-25T10:00:00Z",
+      "duration": "01:06:28",
+      "explicit": false,
+      "spotifyId": "29ZZZDufzIrCHa3IDmgPej",
+      "appleId": 1000785755837,
+      "subjects": [
+        "Community of Jesus"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/29ZZZDufzIrCHa3IDmgPej",
+        "apple": "https://podcasts.apple.com/podcast/episode-40-when-god-becomes-your-first-abuser/id1853708779?i=1000785755837"
+      }
+    },
+    {
       "id": "5961dcd2-740a-4e85-bf50-107d94f517b6",
       "title": "Episode 39 A Disney Horror Movie",
       "description": "Author Heather King came to the Community of Jesus expecting a Benedictine retreat. Then she Googled \u201CCommunity of Jesus Cult.\u201D",
@@ -14,12 +31,14 @@
       "explicit": false,
       "spotifyId": "5TAdJFIC3EGW6JUeazPVQy",
       "appleId": 1000784116322,
+      "youTubeId": "kb2A1cC0O5k",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5TAdJFIC3EGW6JUeazPVQy",
-        "apple": "https://podcasts.apple.com/podcast/episode-39-a-disney-horror-movie/id1853708779?i=1000784116322"
+        "apple": "https://podcasts.apple.com/podcast/episode-39-a-disney-horror-movie/id1853708779?i=1000784116322",
+        "youtube": "https://www.youtube.com/watch?v=kb2A1cC0O5k"
       }
     },
     {
@@ -61,12 +80,14 @@
       "explicit": false,
       "spotifyId": "32H5pscz3bkaDbLh4ofoW1",
       "appleId": 1000783066343,
+      "youTubeId": "Oo3BtNcBzZo",
       "subjects": [
         "Community of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/32H5pscz3bkaDbLh4ofoW1",
-        "apple": "https://podcasts.apple.com/podcast/episode-38-voices-from-the-stand/id1853708779?i=1000783066343"
+        "apple": "https://podcasts.apple.com/podcast/episode-38-voices-from-the-stand/id1853708779?i=1000783066343",
+        "youtube": "https://www.youtube.com/watch?v=Oo3BtNcBzZo"
       }
     },
     {

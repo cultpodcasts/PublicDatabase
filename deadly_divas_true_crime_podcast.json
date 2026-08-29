@@ -1,0 +1,25 @@
+{
+  "id": "7cb22a07-49c8-45da-9134-b94d4269d38c",
+  "name": "Deadly Divas True Crime Podcast",
+  "spotifyId": "4lGIMk0BFjsHCegHWEefZt",
+  "appleId": 1877110738,
+  "episodes": [
+    {
+      "id": "12f796c4-36ea-4f97-9882-ba38e7428466",
+      "title": "Episode 37: The TikTok Dance Cult",
+      "description": "Tina leads this episode into the unsettling world of 7M Films, Shekinah Church, and the man at the center of it all: Robert Shinn. What appeared on social media to be a group of talented young dancers living their dreams in Los Angeles would eventually become the subject of disturbing allegations involving control, manipulation, financial exploitation, and isolation from family members. The story exploded when the family of TikTok dancer Miranda Derrick went public, claiming they had essentially lost their daughter and sister after she became involved with Shinn\u0027s organizations. Soon, former members began coming forward with allegations of their own \u2014 painting a much darker picture of what was happening behind the perfectly choreographed TikTok videos. The allegations became the subject of the Netflix documentary Dancing for the Devil: The 7M TikTok Cult \u2014 but the story didn\u0027t end when the cameras stopped rolling. In July 2025, federal agents executed search warrants at multiple properties connected to Robert Shinn and Shekinah Church as part of an ongoing criminal investigation. Join us as we break down the disturbing allegations surrounding the so-called TikTok dance cult, hear what former members and families say happened behind the scenes, and examine the questions that still remain unanswered. Support the show Don\u0027t forget to send us your feedback and ideas for future episode content at contact@deadlydivaspodcast.com!",
+      "release": "2026-08-28T12:00:00Z",
+      "duration": "00:50:55.6730000",
+      "explicit": true,
+      "spotifyId": "3Ys7SqJUgQZlefpo7QJXae",
+      "appleId": 1000786496278,
+      "subjects": [
+        "7M Films"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Ys7SqJUgQZlefpo7QJXae",
+        "apple": "https://podcasts.apple.com/podcast/episode-37-the-tiktok-dance-cult/id1877110738?i=1000786496278"
+      }
+    }
+  ]
+}

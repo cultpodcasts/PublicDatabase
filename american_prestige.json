@@ -1,0 +1,26 @@
+{
+  "id": "a78e7d76-61ac-4786-9a1e-b647ccc6d5fd",
+  "name": "American Prestige",
+  "spotifyId": "0Wz2pPtdadgOOCEHEKKw7f",
+  "appleId": 1574741668,
+  "episodes": [
+    {
+      "id": "5d1615b8-3d35-4082-bc67-3f73bea564bb",
+      "title": "E263 - North Korea\u2019s Roots in Christianity w/ Jonathan Cheng",
+      "description": "Danny and Derek speak with Jonathan Cheng, China bureau chief for The Wall Street Journal, about the Christian origins of North Korea\u0027s founding ideology and the subsequent personality cult. The discussion explores missionary Samuel Moffat\u0027s work in Pyongyang, the conversion of Kim Il-sung\u0027s family to Christianity, Christian nationalism during Japanese colonial rule, the turn toward socialism, Kim\u0027s postwar personality cult, and how Christianity informs the Kim family\u0027s rule today. Be sure to grab a copy of Jonathan\u0027s book Korean Messiah: Kim Il Sung and the Christian Roots of North Korea\u0027s Personality Cult . Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-08-26T09:00:00Z",
+      "duration": "01:08:47.5560000",
+      "explicit": false,
+      "spotifyId": "2CEhj363HmCABr4GUVI1Vx",
+      "appleId": 1000785976475,
+      "subjects": [
+        "Christian Fundamentalist",
+        "Political Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2CEhj363HmCABr4GUVI1Vx",
+        "apple": "https://podcasts.apple.com/podcast/e263-north-koreas-roots-in-christianity-w-jonathan-cheng/id1574741668?i=1000785976475"
+      }
+    }
+  ]
+}

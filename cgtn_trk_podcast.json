@@ -1,0 +1,25 @@
+{
+  "id": "b4f62f8f-56d8-4063-baf8-63bc0861c5f5",
+  "name": "CGTN T\u00FCrk Podcast",
+  "spotifyId": "62HUq6lVIcsmnsvfTtK1j6",
+  "appleId": 1896786197,
+  "episodes": [
+    {
+      "id": "12e6c62a-4e11-411c-9871-4e4bf5459779",
+      "title": "Adnan Oktar \u00D6rg\u00FCt\u00FC eski \u00FCyesi \u00D6zkan Mamati, \u00F6rg\u00FCt\u00FCn i\u00E7 y\u00FCz\u00FCn\u00FC anlatt\u0131",
+      "description": "Ge\u00E7mi\u015Fte Adnan Oktar Su\u00E7 \u00D6rg\u00FCt\u00FC i\u00E7erisinde yer alan \u00D6zkan Mamati,CGTN T\u00DCRK \u00D6zel yay\u0131n\u0131nda \u00F6rg\u00FCt\u00FCn i\u00E7 y\u00FCz\u00FCn\u00FC anlatt\u0131. Mamati, \u00F6rg\u00FCt\u00FCn siyasi ba\u011Flar\u0131n\u0131 a\u00E7\u0131klad\u0131. \u00D6rg\u00FCt\u00FCn hala ayakta oldu\u011Funu belirten Mamati, 2018-2024 y\u0131llar\u0131 i\u00E7in \u00F6rg\u00FCte y\u00F6nelik soru\u015Fturma y\u00FCr\u00FCt\u00FCld\u00FC\u011F\u00FCn\u00FC ve yeni bir dava a\u00E7\u0131ld\u0131\u011F\u0131n\u0131 s\u00F6yledi.",
+      "release": "2024-02-15T09:36:00Z",
+      "duration": "00:14:19.5360000",
+      "explicit": true,
+      "spotifyId": "23c0cvT0djHKH27QmtKhen",
+      "appleId": 1000768884283,
+      "subjects": [
+        "Adnan Oktar"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/23c0cvT0djHKH27QmtKhen",
+        "apple": "https://podcasts.apple.com/podcast/adnan-oktar-%C3%B6rg%C3%BCt%C3%BC-eski-%C3%BCyesi-%C3%B6zkan-mamati-%C3%B6rg%C3%BCt%C3%BCn/id1896786197?i=1000768884283"
+      }
+    }
+  ]
+}

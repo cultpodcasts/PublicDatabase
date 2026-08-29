@@ -1,0 +1,29 @@
+{
+  "id": "77a73e04-b9b7-4885-bbb0-cd8ef8e3a0b2",
+  "name": "In Home OutDoors",
+  "youTubeChannelId": "UCbQoZTL1gGHhW2Qij3UjCdw",
+  "episodes": [
+    {
+      "id": "46cffad0-266c-49b4-8b6b-fc1854346082",
+      "title": "It\u0027s time to tell my story | Leaving a cult | Part two",
+      "release": "2026-08-26T04:42:02Z",
+      "duration": "00:46:52",
+      "explicit": false,
+      "youTubeId": "Vmvu4M4uH3s",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Vmvu4M4uH3s"
+      }
+    },
+    {
+      "id": "359a09fe-7a93-4c22-b347-33082ec30321",
+      "title": "It\u0027s time to tell my story | Living in a cult | Part one",
+      "release": "2026-08-26T01:33:06Z",
+      "duration": "01:01:49",
+      "explicit": false,
+      "youTubeId": "U6RsI2czrC8",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=U6RsI2czrC8"
+      }
+    }
+  ]
+}

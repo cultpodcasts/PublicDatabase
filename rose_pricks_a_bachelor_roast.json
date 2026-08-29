@@ -5,6 +5,23 @@
   "appleId": 1123347203,
   "episodes": [
     {
+      "id": "a166624a-952c-432e-acc2-9131bb7bc6bf",
+      "title": "So Many Awful Men, So Little Time (Including Russell Brand)",
+      "description": "Spencer Pratt, Reggie Watts (yes again) and Russell Brand. Do these men ever stop being little jerk faces?",
+      "release": "2026-08-28T11:00:02Z",
+      "duration": "00:30:01.5690000",
+      "explicit": false,
+      "spotifyId": "0OJVhkbDLTMao4W7t0SZCZ",
+      "appleId": 1000786489650,
+      "subjects": [
+        "Spiritual Narcissist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0OJVhkbDLTMao4W7t0SZCZ",
+        "apple": "https://podcasts.apple.com/podcast/so-many-awful-men-so-little-time-including-russell-brand/id1123347203?i=1000786489650"
+      }
+    },
+    {
       "id": "ef45ca84-74ee-4e1c-b1cd-b8fc1420ed06",
       "title": "The Cult of Jared Leto Part One",
       "description": "We TOLD you this guy was a twerp...okay some kind of monster. We have the latest in allegations and it\u0027s not looking good.",

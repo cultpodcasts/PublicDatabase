@@ -1,0 +1,26 @@
+{
+  "id": "375d89f4-c07e-4076-bf6d-0a5629925c02",
+  "name": "That Florida Feeling Podcast",
+  "spotifyId": "2uFnS0ZNBfYLcdAwOIy7S7",
+  "appleId": 1571028139,
+  "episodes": [
+    {
+      "id": "dc6d32af-1a19-4435-b99d-19151a7f2fc1",
+      "title": "  Yahweh Ben Yahweh: Preacher, Leader, or Cult?",
+      "description": "In this episode, we explore the rise of Yahweh Ben Yahweh and the Nation of Yahweh, a controversial movement that gained influence in Miami. We take a look at its beliefs, leadership, rise to power, and the dark events that ultimately surrounded the organization.",
+      "release": "2026-08-28T19:12:17Z",
+      "duration": "00:38:39.8300000",
+      "explicit": false,
+      "spotifyId": "1MQV2LDUXTPdVjHkzZIGYb",
+      "appleId": 1000786551038,
+      "subjects": [
+        "Black Hebrew Israelites",
+        "Nation of Yahweh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1MQV2LDUXTPdVjHkzZIGYb",
+        "apple": "https://podcasts.apple.com/podcast/yahweh-ben-yahweh-preacher-leader-or-cult/id1571028139?i=1000786551038"
+      }
+    }
+  ]
+}
