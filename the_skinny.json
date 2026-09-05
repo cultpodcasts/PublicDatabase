@@ -1,0 +1,25 @@
+{
+  "id": "a16161b4-c08e-46ee-831f-a69ede3a6aa9",
+  "name": "The Skinny",
+  "spotifyId": "2bCOo5zopGEEATUDSqFlM6",
+  "appleId": 1668204078,
+  "episodes": [
+    {
+      "id": "2fbf511a-fbb5-41b4-9eed-fc7900fd6183",
+      "title": "Save The Garden discusses push to challenge Scientology\u0027s Garden Avenue takeover in downtown Clearwater",
+      "description": "Wrap-up of the week\u0027s news.",
+      "release": "2026-08-28T15:06:00Z",
+      "duration": "00:54:59.0040000",
+      "explicit": false,
+      "spotifyId": "6KzaBTaSNrVJ7J0KEj6BBw",
+      "appleId": 1000786549583,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6KzaBTaSNrVJ7J0KEj6BBw",
+        "apple": "https://podcasts.apple.com/podcast/save-the-garden-discusses-push-to-challenge/id1668204078?i=1000786549583"
+      }
+    }
+  ]
+}

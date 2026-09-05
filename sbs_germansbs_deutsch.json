@@ -1,0 +1,33 @@
+{
+  "id": "fabba8bc-df4e-4dee-a318-ce40dd0a4c97",
+  "name": "SBS German - SBS Deutsch",
+  "spotifyId": "46Ea3Xwmx5S0IbDtFyv143",
+  "appleId": 81200244,
+  "youTubeChannelId": "UCmOZTyhea2luossld9Qpu9Q",
+  "youTubePlaylistId": "PLA65Ww7iGS2oUv4TgfA3L7s2Mpucjglr1",
+  "episodes": [
+    {
+      "id": "8ceb6b37-7301-4e71-af67-7e9639dc74f0",
+      "title": "Warning against sects and cults that operate in secret - Warnung vor Sekten und Kulte, die im Verborgenen agieren",
+      "description": "Cults, spiritual movements, and other highly controlling groups make headlines time and again when it comes out how they abuse the trust of their members. Anke Richter is an award-winning journalist who has worked extensively on this topic. Here is an interesting experience report: - Sekten, spirituelle Bewegungen und andere hochgradig kontrollierende Gruppierungen kommen immer wieder in die Schlagzeilen, wenn rauskommt, wie sie das Vertrauen ihrer Mitglieder missbrauchen. Anke Richter ist eine preisgekr\u00F6nte Journalistin, die sich ausf\u00FChrlich mit diesem Thema besch\u00E4ftigt hat. Hier folgt ihr interessanter Erfahrungsbericht:",
+      "release": "2026-09-02T08:37:00Z",
+      "duration": "00:21:36.9600000",
+      "explicit": false,
+      "spotifyId": "57C0fV5UeZIisR2ORK8dll",
+      "appleId": 1000787374639,
+      "youTubeId": "70omxsMnfoc",
+      "subjects": [
+        "Agama Yoga",
+        "Bhagwan Shree Rajneesh",
+        "Centrepoint",
+        "Cult-Expert",
+        "International School of Temple Arts"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/57C0fV5UeZIisR2ORK8dll",
+        "apple": "https://podcasts.apple.com/podcast/warning-against-sects-and-cults-that-operate-in/id81200244?i=1000787374639",
+        "youtube": "https://www.youtube.com/watch?v=70omxsMnfoc"
+      }
+    }
+  ]
+}

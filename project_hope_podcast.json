@@ -1187,16 +1187,12 @@
       "release": "2021-02-03T07:00:00Z",
       "duration": "00:50:27.1320000",
       "explicit": false,
-      "spotifyId": "4q03gcwLAhRyLePRfE8HJR",
       "appleId": 1000507538129,
-      "youTubeId": "MBT8lSkC8GY",
       "subjects": [
         "Zendik Farm"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4q03gcwLAhRyLePRfE8HJR",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-helen-zuman-on-zendik-farm-mating-in-captivity/id1539680073?i=1000507538129",
-        "youtube": "https://www.youtube.com/watch?v=MBT8lSkC8GY"
+        "apple": "https://podcasts.apple.com/podcast/ep-13-helen-zuman-on-zendik-farm-mating-in-captivity/id1539680073?i=1000507538129"
       }
     },
     {

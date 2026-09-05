@@ -1,0 +1,25 @@
+{
+  "id": "18f98d57-5fab-44e8-91c3-59a0f598ac4a",
+  "name": "Mysteries and Histories",
+  "spotifyId": "3CKW6iL2Fe68Ajwjseiv1m",
+  "appleId": 1557940210,
+  "episodes": [
+    {
+      "id": "261220e5-888a-4ee6-acf7-22174458753b",
+      "title": "The UFO Cult that Led to 39 deaths: Heaven\u0027s Gate",
+      "description": "In March 1997, deputies entered a rented mansion in Rancho Santa Fe, California, and found 39 members of Heaven\u0027s Gate dead by suicide. They were dressed alike in black clothing and Nike trainers, lying in neatly prepared beds, one of the most unsettling mass deaths in modern U.S. history. The group, led by Marshall Applewhite, believed human bodies were temporary \u201Ccontainers.\u201D As Comet Hale, Bopp passed Earth, Applewhite convinced followers that an alien spacecraft hidden behind it would carry them to a higher existence, if they abandoned their bodies first. Over several days, the members took phenobarbital mixed with applesauce or pudding, drank vodka, and used plastic bags to ensure death. The victims, 21 women and 18 men, aged 26 to 72, included Applewhite himself. Authorities found no evidence that they had been physically forced, but the case remains a devastating example of how coercive belief and isolation can lead ordinary people toward an extraordinary tragedy.",
+      "release": "2026-09-02T17:00:00Z",
+      "duration": "00:56:53.4180000",
+      "explicit": false,
+      "spotifyId": "6fpzl3Ljlh33sTn48tDcxZ",
+      "appleId": 1000787452870,
+      "subjects": [
+        "Heaven\u0027s Gate"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6fpzl3Ljlh33sTn48tDcxZ",
+        "apple": "https://podcasts.apple.com/podcast/the-ufo-cult-that-led-to-39-deaths-heavens-gate/id1557940210?i=1000787452870"
+      }
+    }
+  ]
+}

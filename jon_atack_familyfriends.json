@@ -6,17 +6,42 @@
   "youTubeChannelId": "UCI4tcSMV2kEh3BooY_XFSYQ",
   "episodes": [
     {
+      "id": "8cec64d3-3f38-422a-9fac-d9ee3dbd70ea",
+      "title": "consensual non-monogamy - a talk with Michelle Haslam, PhD",
+      "description": "Michelle is a clinical psychologist who returns to the channel after a hiatus of some years to share some pointers for anyone who wishes to try out consensual non-monogamy, open relationships, or polyamory. Be prepared for a new vocabulary and some challenges to fixed beliefs!\n\nHere\u0027s Michelle\u0027s piece in LinkedIn:\nhttps://www.linkedin.com/pulse/when-radical-inclusion-isnt-enough-reflections-from-burning-haslam-xwfje/\n\nSpike\u0027s note:\nApparently, the \u0022frog in the pot\u0022 analogy, while a good metaphor for coercive control, is indeed a myth, and the real story is so, so, SO much worse. Here\u0027s a decent retelling of what really happened:\n\nhttps://bradwillis.substack.com/p/the-fable-of-the-slowly-boiling-frog",
+      "release": "2026-09-05T06:00:39Z",
+      "duration": "01:14:23",
+      "explicit": false,
+      "spotifyId": "5252o90xTOVhQAvA9NIUhl",
+      "appleId": 1000787971221,
+      "youTubeId": "G1M3lUUUw1s",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology",
+        "New Kadampa Tradition"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5252o90xTOVhQAvA9NIUhl",
+        "apple": "https://podcasts.apple.com/podcast/consensual-non-monogamy-a-talk-with-michelle-haslam-phd/id1534364303?i=1000787971221",
+        "youtube": "https://www.youtube.com/watch?v=G1M3lUUUw1s"
+      }
+    },
+    {
       "id": "497038bb-1c38-4d3b-94d6-ae4f35db9f19",
       "title": "How do YOU want to be remembered? with Steve Moffic, MD",
       "description": "Our friend Steve Moffic, MD, joins Jon to discuss a survey listing the top twenty behaviors people would like to be remembered for, and, of course, they add their own comments, additions, and observations on mortality and life, war and peace, and the nature of humanity. \n\nPlease tell us in the comments what you would most like to be remembered for!\n\nLinks:\nHere is the list that inspired this conversation:\nhttps://www.womanandhome.com/life/news-entertainment/how-people-want-to-be-remembered-after-death-revealed-in-fascinating-survey/\n\nDr. Zimbardo\u0027s Heroic Imagination project: \nhttps://www.heroicimagination.org\n\nIra Chaleff\u0027s Intelligent Disobedience:\nhttps://irachaleffauthor.com/category/intelligent-disobedience/\n\nand the song Spike wrote to teach kids about Intelligent Disobedience through \u0022Blink, Think, Choice, Voice\u0022 \nhttps://irachaleffauthor.com/blink-think-choice-voice-song/",
       "release": "2026-08-29T06:00:39Z",
       "duration": "01:08:54",
       "explicit": false,
+      "spotifyId": "4ctqzNqjXurUm4CuB4Uvv7",
+      "appleId": 1000786696196,
       "youTubeId": "fWqBX5vz9lM",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/4ctqzNqjXurUm4CuB4Uvv7",
+        "apple": "https://podcasts.apple.com/podcast/how-do-you-want-to-be-remembered-with-steve-moffic-md/id1534364303?i=1000786696196",
         "youtube": "https://www.youtube.com/watch?v=fWqBX5vz9lM"
       }
     },
@@ -7178,7 +7203,8 @@
       "subjects": [
         "Scientology",
         "Cult-Expert",
-        "Transcendental Meditation"
+        "Transcendental Meditation",
+        "Jagadguru Kripalu Parishat"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/1O6097u579MXYSPEhpnKwa",

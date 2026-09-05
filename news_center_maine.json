@@ -4,6 +4,38 @@
   "youTubeChannelId": "UCQAUoXXSGHSntpTPvWwvXbg",
   "episodes": [
     {
+      "id": "ac01bd66-2829-4cbf-a334-967e171496eb",
+      "title": "Maine Supreme Court gives father final say on daughter\u0027s religious involvement",
+      "description": "Attorneys are reacting to a Maine high court ruling that upheld the father\u0027s final decision-making power in his daughter\u0027s involvement at Calvary Chapel in Westbrook",
+      "release": "2026-09-03T21:08:16Z",
+      "duration": "00:02:35",
+      "explicit": false,
+      "youTubeId": "0ixaxKYwX7I",
+      "subjects": [
+        "Calvary Chapel",
+        "Legislation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0ixaxKYwX7I"
+      }
+    },
+    {
+      "id": "52835583-0fc2-4bbb-aa5b-ee9a5481284a",
+      "title": "Attorneys from both sides of a parental rights case are speaking out",
+      "description": "Matthew Bradeen requested sole authority after the mother took their daughter to Calvary Chapel without his knowledge.",
+      "release": "2026-09-03T20:10:32Z",
+      "duration": "00:01:25",
+      "explicit": false,
+      "youTubeId": "RdWqAH8G870",
+      "subjects": [
+        "Calvary Chapel",
+        "Legislation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RdWqAH8G870"
+      }
+    },
+    {
       "id": "5584ae5f-cb18-4234-873d-a8c66ad5a7ec",
       "title": "Segway inventor steps down over Jeffrey Epstein association",
       "description": "Dean Kamen resigned from an electric plane company\u0027s board of directors after he appeared in recently released Epstein files.",
@@ -17,6 +49,38 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=JsorcVPV31Y"
+      }
+    },
+    {
+      "id": "d5a635a3-4564-439d-9b21-57b22425bc84",
+      "title": "Maine mom says district court ruling violates parental, religious rights",
+      "description": "Emily Bickford is taking her case to the Maine Supreme Court after a ruling stated her daughter\u0027s father had the right to restrict the girl from attending church.",
+      "release": "2025-11-14T04:32:43Z",
+      "duration": "00:01:12",
+      "explicit": false,
+      "youTubeId": "lDgCIGjD0O8",
+      "subjects": [
+        "Calvary Chapel",
+        "Legislation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lDgCIGjD0O8"
+      }
+    },
+    {
+      "id": "f4781bda-a277-4e9d-8ecb-af9d441ef6c3",
+      "title": "Maine Supreme Court hears arguments in case on religious freedom and parental rights",
+      "description": "The case was brought by a woman who believes a lower court overreached when it gave her co-parent veto power over what church their daughter could attend.",
+      "release": "2025-11-13T23:39:03Z",
+      "duration": "00:02:38",
+      "explicit": false,
+      "youTubeId": "50GhsNoraTw",
+      "subjects": [
+        "Legislation",
+        "Calvary Chapel"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=50GhsNoraTw"
       }
     }
   ]

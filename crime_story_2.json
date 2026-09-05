@@ -15,13 +15,15 @@
       "explicit": false,
       "spotifyId": "5DgOwGKZt2OLBaeK56yDIF",
       "appleId": 1000779377454,
+      "youTubeId": "4ojU31AW-to",
       "subjects": [
         "Human Trafficking",
         "_America"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5DgOwGKZt2OLBaeK56yDIF",
-        "apple": "https://podcasts.apple.com/podcast/6-6-jeffrey-epstein-un-p%C3%A9docriminel-pass%C3%A9-entre-les/id1658362786?i=1000779377454"
+        "apple": "https://podcasts.apple.com/podcast/6-6-jeffrey-epstein-un-p%C3%A9docriminel-pass%C3%A9-entre-les/id1658362786?i=1000779377454",
+        "youtube": "https://www.youtube.com/watch?v=4ojU31AW-to"
       }
     },
     {
@@ -33,13 +35,15 @@
       "explicit": false,
       "spotifyId": "5gm6bEppPdTHuoQ6zH5JFt",
       "appleId": 1000779377498,
+      "youTubeId": "MOupRwYoNeM",
       "subjects": [
         "Human Trafficking",
         "_America"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5gm6bEppPdTHuoQ6zH5JFt",
-        "apple": "https://podcasts.apple.com/podcast/5-6-jeffrey-epstein-un-p%C3%A9docriminel-pass%C3%A9-entre-les/id1658362786?i=1000779377498"
+        "apple": "https://podcasts.apple.com/podcast/5-6-jeffrey-epstein-un-p%C3%A9docriminel-pass%C3%A9-entre-les/id1658362786?i=1000779377498",
+        "youtube": "https://www.youtube.com/watch?v=MOupRwYoNeM"
       }
     },
     {

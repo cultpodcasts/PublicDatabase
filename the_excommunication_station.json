@@ -5,6 +5,23 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "39215320-e2bb-492e-8d08-572e538c2245",
+      "title": "271. Tim Tebow Part IV: Jesus Goes Pro",
+      "description": "This week, we cover Tebow\u0027s draft, his time with the broncos and how the evangelical and sports world felt about him.",
+      "release": "2026-09-02T00:04:00Z",
+      "duration": "02:27:39.1150000",
+      "explicit": true,
+      "spotifyId": "0WSwsVQOOuUec3A0IYFwJK",
+      "appleId": 1000787273736,
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0WSwsVQOOuUec3A0IYFwJK",
+        "apple": "https://podcasts.apple.com/podcast/271-tim-tebow-part-iv-jesus-goes-pro/id1573190999?i=1000787273736"
+      }
+    },
+    {
       "id": "f695f1b6-d95d-4534-8642-777361bcc2bf",
       "title": "270. Tim Tebow Part III: Circumcision Expert",
       "description": "This episode is messed up.",

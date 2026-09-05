@@ -5,6 +5,125 @@
   "appleId": 1543664307,
   "episodes": [
     {
+      "id": "d812d3fa-b474-480b-9b2b-c7475dce1a3f",
+      "title": "Imagino que estabas pidi\u00E9ndome tu dosis de activismo",
+      "description": "Vamos al directo",
+      "release": "2026-09-01T21:12:16Z",
+      "duration": "02:00:09",
+      "explicit": false,
+      "spotifyId": "64nbylAaSQ1IBbr0RckCSG",
+      "appleId": 1000787253599,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/64nbylAaSQ1IBbr0RckCSG",
+        "apple": "https://podcasts.apple.com/podcast/imagino-que-estabas-pidi%C3%A9ndome-tu-dosis-de-activismo/id1543664307?i=1000787253599"
+      }
+    },
+    {
+      "id": "ea39b821-7bf3-44b3-ac35-537eb48465a9",
+      "title": "Aqu\u00ED tu dosis de ex testigos de jehova",
+      "description": "Te hago falta por las noches y los sabes",
+      "release": "2026-09-01T21:06:51Z",
+      "duration": "02:16:11",
+      "explicit": false,
+      "spotifyId": "1ZkUhxtLjQu6Kc6GVW0VFi",
+      "appleId": 1000787253548,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ZkUhxtLjQu6Kc6GVW0VFi",
+        "apple": "https://podcasts.apple.com/podcast/aqu%C3%AD-tu-dosis-de-ex-testigos-de-jehova/id1543664307?i=1000787253548"
+      }
+    },
+    {
+      "id": "787e8774-74ce-40dd-8626-05ff5d28ca00",
+      "title": "Un podcast intenso lleno de debate. Los testigos de jehova",
+      "description": "Creo que es mas que necesario llegar de esta manera",
+      "release": "2026-08-31T12:53:46Z",
+      "duration": "02:19:02",
+      "explicit": false,
+      "spotifyId": "0H9DPGGU1XjizbahQPKa6v",
+      "appleId": 1000786981376,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0H9DPGGU1XjizbahQPKa6v",
+        "apple": "https://podcasts.apple.com/podcast/un-podcast-intenso-lleno-de-debate-los-testigos-de-jehova/id1543664307?i=1000786981376"
+      }
+    },
+    {
+      "id": "2d9fae7c-9c14-47b6-9310-6f4c3adc93dc",
+      "title": "Hazte un favor. Sal de los testigos de jehova",
+      "description": "Es mi podcast en vivo",
+      "release": "2026-08-30T09:46:39Z",
+      "duration": "01:30:54",
+      "explicit": false,
+      "spotifyId": "7hJTN9tVYmD6aJryYHIO3S",
+      "appleId": 1000786802295,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7hJTN9tVYmD6aJryYHIO3S",
+        "apple": "https://podcasts.apple.com/podcast/hazte-un-favor-sal-de-los-testigos-de-jehova/id1543664307?i=1000786802295"
+      }
+    },
+    {
+      "id": "f1b50a87-463d-444d-9d86-6a9e5ad96152",
+      "title": "Al final todo depende de lo que quieres hacer",
+      "description": "Es mi podcast en vivo",
+      "release": "2026-08-30T09:43:58Z",
+      "duration": "02:04:17",
+      "explicit": false,
+      "spotifyId": "2yO4c9reYbvtg96BBcIveK",
+      "appleId": 1000786802458,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2yO4c9reYbvtg96BBcIveK",
+        "apple": "https://podcasts.apple.com/podcast/al-final-todo-depende-de-lo-que-quieres-hacer/id1543664307?i=1000786802458"
+      }
+    },
+    {
+      "id": "398fb94d-4206-4363-8660-b1eaf9ff0d9c",
+      "title": "Si quieres salir de los testigos este es tu podcast",
+      "description": "Es mi podcast en vivo",
+      "release": "2026-08-30T09:41:23Z",
+      "duration": "01:34:59",
+      "explicit": false,
+      "spotifyId": "2BReFEitcQymyQ1fk2bFx5",
+      "appleId": 1000786802495,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2BReFEitcQymyQ1fk2bFx5",
+        "apple": "https://podcasts.apple.com/podcast/si-quieres-salir-de-los-testigos-este-es-tu-podcast/id1543664307?i=1000786802495"
+      }
+    },
+    {
+      "id": "c9b5f0a9-573a-4e50-9bc8-612a398dc04e",
+      "title": "Abre la mente y sal de los testigos de jehova",
+      "description": "Es mi podcast en vivo",
+      "release": "2026-08-30T09:35:05Z",
+      "duration": "01:59:19",
+      "explicit": false,
+      "spotifyId": "3u3owRPWM8kPBNy0DTCVIv",
+      "appleId": 1000786802403,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3u3owRPWM8kPBNy0DTCVIv",
+        "apple": "https://podcasts.apple.com/podcast/abre-la-mente-y-sal-de-los-testigos-de-jehova/id1543664307?i=1000786802403"
+      }
+    },
+    {
       "id": "b432baf9-0300-4895-9bf5-e197056b1b1a",
       "title": "Familias destruidas por los testigos de jehova",
       "description": "Directo con participaci\u00F3n del p\u00FAblico",

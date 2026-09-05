@@ -3,7 +3,28 @@
   "name": "Nightline",
   "spotifyId": "2wKApk5p4EjIFqNwY8U8vR",
   "appleId": 73331713,
+  "youTubePlaylistId": "PLQOa26lW-uI_b0ggofdCTxmMRln1v6_2p",
   "episodes": [
+    {
+      "id": "ec5d8160-4098-4f84-bbef-846b518a7852",
+      "title": "Full Episode for Friday August 28, 2026",
+      "description": "Charles Manson\u0027s granddaughter. Imagine learning that you\u0027ve descended from a madman. One woman\u0027s journey to understand the mastermind behind one of America\u0027s most notorious killing sprees. Can evil be inherited? Plus, outrageous dorm rooms. Parents spending up to $20,000. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "release": "2026-08-29T05:00:00Z",
+      "duration": "00:21:45.5470000",
+      "explicit": false,
+      "spotifyId": "1MN6WbWOlQpNTHBMixsREM",
+      "appleId": 1000786611827,
+      "youTubeId": "uyy6edA1l1k",
+      "subjects": [
+        "Manson Family",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1MN6WbWOlQpNTHBMixsREM",
+        "apple": "https://podcasts.apple.com/podcast/full-episode-for-friday-august-28-2026/id73331713?i=1000786611827",
+        "youtube": "https://www.youtube.com/watch?v=uyy6edA1l1k"
+      }
+    },
     {
       "id": "58f409e6-9485-4c93-b244-665accb1dfd7",
       "title": "Full Episode for Friday May 1, 2026",

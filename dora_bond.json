@@ -1,0 +1,18 @@
+{
+  "id": "b782d546-8829-4426-b6c9-e37e4650e1cd",
+  "name": "Dora Bond",
+  "youTubeChannelId": "UCEx2azupDKG9_Y7nvmww4uQ",
+  "episodes": [
+    {
+      "id": "dde0d7b4-dbed-4261-94bb-c79b06640aa9",
+      "title": "The Great Escape (from a cult)",
+      "release": "2026-08-29T18:18:04Z",
+      "duration": "00:09:28",
+      "explicit": false,
+      "youTubeId": "OsSniwuzqlg",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=OsSniwuzqlg"
+      }
+    }
+  ]
+}

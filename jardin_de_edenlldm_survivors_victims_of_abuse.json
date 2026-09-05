@@ -4,6 +4,34 @@
   "youTubeChannelId": "UCkBoK_s1d7RGFhCsind_M3w",
   "episodes": [
     {
+      "id": "3387c4b5-0f55-48fe-9052-307234379337",
+      "title": "JARDIN DE EDEN #2",
+      "release": "2026-09-01T10:33:56Z",
+      "duration": "00:18:38",
+      "explicit": false,
+      "youTubeId": "XpQjdQxvZEU",
+      "subjects": [
+        "La Luz Del Mundo"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XpQjdQxvZEU"
+      }
+    },
+    {
+      "id": "fa9f2380-fc16-4b03-b486-ee3cbf43c08b",
+      "title": "JARDIN DE EDEN",
+      "release": "2026-08-30T03:44:47Z",
+      "duration": "00:39:08",
+      "explicit": false,
+      "youTubeId": "E29ANgDViKY",
+      "subjects": [
+        "La Luz Del Mundo"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=E29ANgDViKY"
+      }
+    },
+    {
       "id": "c5fe9548-1edf-4231-a7cc-a319d4b4345e",
       "title": "Se puede mal etender!?  Y bueno, solo para aclarar..",
       "release": "2026-08-04T05:29:53Z",

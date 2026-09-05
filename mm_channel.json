@@ -1,0 +1,21 @@
+{
+  "id": "3f071fed-68b3-400b-8cd5-44b755aeb755",
+  "name": "MM Channel",
+  "youTubeChannelId": "UC0RNoEHZsJiO5kL0xaqnoLQ",
+  "episodes": [
+    {
+      "id": "bacd6fd1-6788-4dfa-b2c4-f5d6eefe686b",
+      "title": "Secret Rulers of the World - The Legend of Ruby Ridge - Jon Ronson",
+      "release": "2015-04-07T01:59:04Z",
+      "duration": "00:49:34",
+      "explicit": false,
+      "youTubeId": "g0PxzoTHJJg",
+      "subjects": [
+        "Ruby Ridge"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=g0PxzoTHJJg"
+      }
+    }
+  ]
+}
