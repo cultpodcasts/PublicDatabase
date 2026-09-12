@@ -1,0 +1,22 @@
+{
+  "id": "e00b7eb5-22d2-44cf-8b4e-c5f0d51a8126",
+  "name": "A24",
+  "youTubeChannelId": "UCuPivVjnfNo4mb3Oog_frZg",
+  "episodes": [
+    {
+      "id": "290db96a-54ed-41e3-b3f4-f1ee385a57d0",
+      "title": "You Can See Everything | Official Teaser HD | A24",
+      "description": "A documentary by Nathan Fielder and Lance Oppenheim. YOU CAN SEE EVERYTHING \u2013 In theaters this October.\n\n",
+      "release": "2026-09-07T00:30:04Z",
+      "duration": "00:01:18",
+      "explicit": false,
+      "youTubeId": "GGJSRFWALTI",
+      "subjects": [
+        "Theranos"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=GGJSRFWALTI"
+      }
+    }
+  ]
+}

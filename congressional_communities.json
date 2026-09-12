@@ -1,0 +1,28 @@
+{
+  "id": "89294a94-102f-4bfc-92e2-3c27435e2520",
+  "name": "Congressional Communities",
+  "spotifyId": "0341k733Yn36hVL3KC45vB",
+  "appleId": 6797884561,
+  "youTubeChannelId": "UCTm54xHNCTK81B_80xvznxw",
+  "episodes": [
+    {
+      "id": "b71e81f0-a4fa-42f1-986f-ca8f689c2172",
+      "title": "Why Your Algorithm Might Be Acting Like a Cult Leader",
+      "description": "What actually pulls someone out of an extremist mindset, and what pulls them in? Alex Clark and Dan Carracino sit down with Heather Rosso, a PhD candidate in Peace and Conflict Resolution at George Mason University, whose research spans lone actor violence, polarization, and disinformation. Heather explains why polarization isn\u0027t really about two sides clashing, but about people drifting so far apart they lose the ability to meet in the middle, and why the antidote, again and again, comes down to one person reaching out. She connects the dots between extremist recruitment, cults, intimate partner violence, and even online scams, and argues that the algorithms shaping our feeds function a lot like cults. Please visit congressionalcommunities.org to learn more about your community. Hosts: Dan Carracino, Alex Clark Executive Producer: Alex Clark Music: Aditya Shrestha Animation: Seventy Seven Lab",
+      "release": "2026-09-08T09:00:00Z",
+      "duration": "00:39:37.4560000",
+      "explicit": false,
+      "spotifyId": "3E4qShUmvsw73KxO2gPO7u",
+      "appleId": 1000788429040,
+      "youTubeId": "508QW2OcOVE",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3E4qShUmvsw73KxO2gPO7u",
+        "apple": "https://podcasts.apple.com/podcast/why-your-algorithm-might-be-acting-like-a-cult-leader/id6797884561?i=1000788429040",
+        "youtube": "https://www.youtube.com/watch?v=508QW2OcOVE"
+      }
+    }
+  ]
+}

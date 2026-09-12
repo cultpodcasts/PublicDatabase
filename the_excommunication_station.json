@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "32ce1293-f812-4bcf-9f4b-dbb84157b595",
+      "title": "272. Tim Tebow Part V: Aaron Hernandez",
+      "description": "This week we sadly cover the death of Aaron Hernandez among other things with Tim Tebow",
+      "release": "2026-09-09T12:48:33Z",
+      "duration": "02:01:46.6840000",
+      "explicit": true,
+      "spotifyId": "5ALXiIBytGe452MKrX8J98",
+      "appleId": 1000788680747,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5ALXiIBytGe452MKrX8J98",
+        "apple": "https://podcasts.apple.com/podcast/272-tim-tebow-part-v-aaron-hernandez/id1573190999?i=1000788680747"
+      }
+    },
+    {
       "id": "39215320-e2bb-492e-8d08-572e538c2245",
       "title": "271. Tim Tebow Part IV: Jesus Goes Pro",
       "description": "This week, we cover Tebow\u0027s draft, his time with the broncos and how the evangelical and sports world felt about him.",

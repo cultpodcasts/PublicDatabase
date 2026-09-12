@@ -5,6 +5,23 @@
   "appleId": 1555494727,
   "episodes": [
     {
+      "id": "9106b357-4ddd-4454-90a4-89b0e8e442e0",
+      "title": "The Holy Ghost?!",
+      "description": "Methuselah and Heavenly Mother meet to discuss what is up with the Holy Ghost otherwise known as The Holy Spirit.",
+      "release": "2026-09-08T10:00:00Z",
+      "duration": "00:55:26",
+      "explicit": false,
+      "spotifyId": "3T6Lw2dEHs5rHCe4qumFAf",
+      "appleId": 1000788562626,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3T6Lw2dEHs5rHCe4qumFAf",
+        "apple": "https://podcasts.apple.com/podcast/the-holy-ghost/id1555494727?i=1000788562626"
+      }
+    },
+    {
       "id": "b9e299c3-7b58-4404-a257-0ffaadd4887e",
       "title": "Sunday School and Current Events",
       "description": "Heavenly Mother and The Brother of Jare share some current events in church member news while remembering the second hour of church.",

@@ -1,0 +1,30 @@
+{
+  "id": "fb4400bf-b699-4188-be0f-36a257c57632",
+  "name": "Le faiseur d\u0027anges",
+  "episodes": [
+    {
+      "id": "293fe03f-ddf0-4ed7-a0b7-e65abb8994f9",
+      "title": "\u00ABVatti\u00BB et ses anges (Episode 1)",
+      "description": "Dans la communaut\u00E9 religieuse suisse de Methernitha, Paul Baumann, alias Vatti, met en sc\u00E8ne de faux miracles pour asseoir son emprise. K\u00E4thi, autrefois v\u00E9n\u00E9r\u00E9e comme un \u0022ange vivant\u0022, r\u00E9v\u00E8le la manipulation. Une s\u00E9rie gla\u00E7ante sur la chute d\u0027un gourou et les victimes qui osent briser le silence apr\u00E8s des d\u00E9cennies d\u0027abus et de contr\u00F4le.",
+      "release": "2026-08-24T18:40:00Z",
+      "duration": "00:47:16",
+      "explicit": false,
+      "subjects": [
+        "Methernitha"
+      ],
+      "urls": {}
+    },
+    {
+      "id": "5ae3414e-f309-4ec7-940a-57ecf98c41a2",
+      "title": "Vatti et ses anges",
+      "description": "Comment une communaut\u00E9 religieuse suisse a-t-elle pu dissimuler si longtemps ses secrets ?",
+      "release": "2026-01-01T00:00:00Z",
+      "duration": "00:47:17",
+      "explicit": false,
+      "subjects": [
+        "Methernitha"
+      ],
+      "urls": {}
+    }
+  ]
+}

@@ -5,6 +5,24 @@
   "appleId": 151485663,
   "episodes": [
     {
+      "id": "8ede05cd-0714-421d-a4b7-64c886bb6f6e",
+      "title": "What Mussolini\u0027s rise and fall reveals about modern authoritarianism",
+      "description": "In 1922, Benito Mussolini took power in Italy. Sustained by a cult of personality and iron-fisted suppression of dissent, Mussolini transformed the nation into a single-party state. Nahlah Ayed and panelists discuss the legacy of Italian fascism and its relevance today.",
+      "release": "2026-09-07T04:10:00Z",
+      "duration": "00:54:08.5610000",
+      "explicit": false,
+      "spotifyId": "2eYXgKeBUqwpcKUuU7MRE8",
+      "appleId": 1000788232497,
+      "subjects": [
+        "Political Cult",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2eYXgKeBUqwpcKUuU7MRE8",
+        "apple": "https://podcasts.apple.com/podcast/what-mussolinis-rise-and-fall-reveals-about-modern/id151485663?i=1000788232497"
+      }
+    },
+    {
       "id": "3c384cbf-17a4-4e50-8e69-ebd14f56fd80",
       "title": "What North Korea\u2019s personality cult has to do with Jesus",
       "description": "North Korea is no place for evangelical Christians today but peel back the decades and you\u2019ll find Christianity at the heart of the Kim family\u2019s rise to power. Journalist Jonathan Cheng has spent a decade and a half piecing together the crucial role evangelical Christianity played in North Korea\u2019s Kim dynasty \u2014 especially in the upbringing of Kim Il Sung, the first leader of the country who\u0027s seen today as an immortal and sacred figure. Cheng\u0027s book is called Korean Messiah. Jonathan Cheng is the China bureau chief for The Wall Street Journal, and was previously the Korea bureau chief, running coverage of the Korean peninsula, including politics and society in both North and South Korea. He has traveled to North Korea twice.",

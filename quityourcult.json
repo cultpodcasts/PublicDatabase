@@ -4,6 +4,17 @@
   "youTubeChannelId": "UCnqB030coG1f5i9-XUTuAyA",
   "episodes": [
     {
+      "id": "35581f55-a9cf-41bb-9efb-70592572756b",
+      "title": "Wedding Video",
+      "release": "2026-09-11T23:12:18Z",
+      "duration": "02:26:15",
+      "explicit": false,
+      "youTubeId": "Yfe2h_9_A_I",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Yfe2h_9_A_I"
+      }
+    },
+    {
       "id": "293296bd-5fb9-4324-ab29-a16fd4b554c6",
       "title": "QYC 223",
       "release": "2025-07-12T02:52:22Z",

@@ -5,6 +5,20 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "3d1e034d-2128-4b61-b529-fb86412e1020",
+      "title": "Isis - Season 14 Episode 6",
+      "description": "You may be surprised by this gods powers and reach.",
+      "release": "2026-09-11T11:06:00Z",
+      "duration": "00:41:49.7050000",
+      "explicit": false,
+      "spotifyId": "3Bj4q4ZIRc68o6aNN6QXU8",
+      "appleId": 1000789033744,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3Bj4q4ZIRc68o6aNN6QXU8",
+        "apple": "https://podcasts.apple.com/podcast/isis-season-14-episode-6/id1565633523?i=1000789033744"
+      }
+    },
+    {
       "id": "3cfc03ee-25cf-49dd-9bcc-f7eaf9eb36d5",
       "title": "Baal - Season 14 Episode 5",
       "description": "Join us this week as we test the powers of Baal. Let us know if you agree with his placement.",

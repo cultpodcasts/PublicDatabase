@@ -4,6 +4,21 @@
   "youTubeChannelId": "UCCj956IF62FbT7Gouszaj9w",
   "episodes": [
     {
+      "id": "096c74c6-874a-4ac7-a66e-8b4ffcc12e3e",
+      "title": "Britain\u0027s Forgotten Girls",
+      "description": "Young girls across Britain are being groomed, trafficked and sexually exploited by drug gangs. The authorities have been warned repeatedly, yet the same failures continue. Through the testimony of survivors, whistleblowers and those who raised the alarm, this film investigates why this exploitation has been allowed to continue for over two decades.",
+      "release": "2026-09-09T21:00:00",
+      "duration": "01:02:00",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "bbc": "https://www.bbc.co.uk/iplayer/episode/m0031c4c/britains-forgotten-girls"
+      }
+    },
+    {
       "id": "c826d840-49e8-48de-9573-b0dcdd5d3b83",
       "title": "Al Fayed: Predator at Harrods",
       "description": "A BBC investigation into allegations of rape and attempted rape by Mohamed Al Fayed, the former owner of Harrods. Did the luxury store protect a billionaire predator? ",

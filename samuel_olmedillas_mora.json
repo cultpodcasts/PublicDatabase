@@ -5,6 +5,57 @@
   "appleId": 1543664307,
   "episodes": [
     {
+      "id": "75555756-6b70-4c74-9288-5927a07b1f8c",
+      "title": "Los testigos quieren atraparte",
+      "description": "Huye de los testigos",
+      "release": "2026-09-07T16:08:39Z",
+      "duration": "01:05:26",
+      "explicit": false,
+      "spotifyId": "7sKoBm2q9ANZxGMoTy4m5Z",
+      "appleId": 1000788330516,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7sKoBm2q9ANZxGMoTy4m5Z",
+        "apple": "https://podcasts.apple.com/podcast/los-testigos-quieren-atraparte/id1543664307?i=1000788330516"
+      }
+    },
+    {
+      "id": "9cdfd1ae-4bc9-42c9-b644-ee84e9c251f4",
+      "title": "Puedes salir hoy mismo. Los testigos llegaran lejos fuera de la secta",
+      "description": "Sal de ahi hoy mismo",
+      "release": "2026-09-07T16:07:15Z",
+      "duration": "01:40:39",
+      "explicit": false,
+      "spotifyId": "6kM8bDS0BmbHmabDMkQgWh",
+      "appleId": 1000788330475,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6kM8bDS0BmbHmabDMkQgWh",
+        "apple": "https://podcasts.apple.com/podcast/puedes-salir-hoy-mismo-los-testigos-llegaran-lejos/id1543664307?i=1000788330475"
+      }
+    },
+    {
+      "id": "d5e95686-57a2-4c19-9260-77b06edced1b",
+      "title": "Nueva charla dinamica sobre por que no entrar con los testigos de jehova",
+      "description": "Fuera testigos estais a tiempo",
+      "release": "2026-09-07T16:04:55Z",
+      "duration": "02:58:57",
+      "explicit": false,
+      "spotifyId": "0dQDorJaICVX5q3UEXpvF2",
+      "appleId": 1000788329499,
+      "subjects": [
+        "Jehovah\u0027s Witnesses"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0dQDorJaICVX5q3UEXpvF2",
+        "apple": "https://podcasts.apple.com/podcast/nueva-charla-dinamica-sobre-por-que-no-entrar-con-los/id1543664307?i=1000788329499"
+      }
+    },
+    {
       "id": "d812d3fa-b474-480b-9b2b-c7475dce1a3f",
       "title": "Imagino que estabas pidi\u00E9ndome tu dosis de activismo",
       "description": "Vamos al directo",

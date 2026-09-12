@@ -1,0 +1,25 @@
+{
+  "id": "0f529d85-0a89-48de-9762-439f8af7ea15",
+  "name": "Queer Projection",
+  "spotifyId": "7k1BQuN05RnXxy6yEScXbG",
+  "appleId": 1826650497,
+  "episodes": [
+    {
+      "id": "8a46492f-0fc6-48ae-987e-a361e605ce8e",
+      "title": "The Master",
+      "description": "Back again with PTA! Is this a Scientology movie? A war-trauma movie? A barely hidden gay romance? Do you drink paint thinner because you can\u0027t stop touching people? Have you ever built an entire cosmology to feed your ego (and your desire to touch people)? Well if you can\u0027t keep your hands, your mania, or your world-view to yourself, this is the movie for you. Enjoy (we sure did)!",
+      "release": "2026-09-09T12:00:00Z",
+      "duration": "00:55:37.2970000",
+      "explicit": true,
+      "spotifyId": "5Apq77yOs67wLWqd7zMvki",
+      "appleId": 1000788676460,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5Apq77yOs67wLWqd7zMvki",
+        "apple": "https://podcasts.apple.com/podcast/the-master/id1826650497?i=1000788676460"
+      }
+    }
+  ]
+}

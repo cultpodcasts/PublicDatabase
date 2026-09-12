@@ -3,7 +3,28 @@
   "name": "The Front",
   "spotifyId": "56oUlYWXspZD9xJxb5lLXW",
   "appleId": 1614339406,
+  "youTubeChannelId": "UChjd5M1K5Y3vQLgmIveZyzg",
+  "youTubePlaylistId": "PLfDC8EeZJyt1IVjv5bCRbFBkTl-VYpJyf",
   "episodes": [
+    {
+      "id": "bb7a00cd-8a93-4aeb-a098-3f8f5c33e686",
+      "title": "The doco turning Theranos fraudster Elizabeth Holmes into a horror baddie",
+      "description": "Production house A24 released a trailer this week for You Can See Everything that broke the internet. A24 is known for horror, while host Nathan Fielder is famous for comedy. Together, they promise an intimate look into Elizabeth Holmes\u0027 final 36 days of freedom, in a documentary bound to be more than the sum of its parts. Read more about this story at theaustralian.com.au and see the video by subscribing to our YouTube channel . You can view the trailer for You Can See Everything here. The weekend edition of The Front is co-produced by Claire Harvey and Jasper Leak. The host is Claire Harvey. Audio production and editing by Jasper Leak who also composed our theme. See omnystudio.com/listener for privacy information.",
+      "release": "2026-09-11T17:00:00Z",
+      "duration": "00:15:03.3400000",
+      "explicit": false,
+      "spotifyId": "5OGRgv1m6iZRirrfSnD7SD",
+      "appleId": 1000789071330,
+      "youTubeId": "Hei4LBLRT1U",
+      "subjects": [
+        "Theranos"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5OGRgv1m6iZRirrfSnD7SD",
+        "apple": "https://podcasts.apple.com/podcast/the-doco-turning-theranos-fraudster-elizabeth-holmes/id1614339406?i=1000789071330",
+        "youtube": "https://www.youtube.com/watch?v=Hei4LBLRT1U"
+      }
+    },
     {
       "id": "1cdd6d17-eed6-4245-bbf5-34178240a4b9",
       "title": "Andrew Mountbatten-Windsor: dodgy landlord?",
