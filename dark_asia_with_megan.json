@@ -12,11 +12,15 @@
       "release": "2026-07-20T11:23:21Z",
       "duration": "00:24:13",
       "explicit": false,
+      "spotifyId": "3p6g5ZBDMTirGDFZ68AbHI",
+      "appleId": 1000789537712,
       "youTubeId": "2VZeTfH6smc",
       "subjects": [
         "Unification Church"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/3p6g5ZBDMTirGDFZ68AbHI",
+        "apple": "https://podcasts.apple.com/podcast/one-assassination-exposed-one-of-the-worlds/id1697095332?i=1000789537712",
         "youtube": "https://www.youtube.com/watch?v=2VZeTfH6smc"
       }
     },

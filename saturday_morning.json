@@ -3,5 +3,23 @@
   "name": "Saturday Morning",
   "spotifyId": "6GmbCqZQKrAqBi2TOYmpVP",
   "appleId": 175135787,
-  "episodes": []
+  "episodes": [
+    {
+      "id": "a21e8306-3877-4819-b74a-c80aef998660",
+      "title": "Liz Cameron on surviving a cult",
+      "description": "She was approached by an undercover recruiter in a Canberra bookshop in 2011, and within months she was deep in the belly of the beast of the Providence movement, a Korean religious group that\u0027s been accused of cult-like behaviour. Now on the other side of her time with Providence, Liz Cameron has written books and spoken publicly about what it\u0027s like to be brainwashed. She speaks with Saturday Morning ahead of her appearance at Decult 2026 in Christchurch next month.",
+      "release": "2026-09-18T22:05:00Z",
+      "duration": "00:25:04.3200000",
+      "explicit": false,
+      "spotifyId": "4gGtsFLT9r7Cx3wCznBWaL",
+      "appleId": 1000790598468,
+      "subjects": [
+        "Providence"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4gGtsFLT9r7Cx3wCznBWaL",
+        "apple": "https://podcasts.apple.com/podcast/liz-cameron-on-surviving-a-cult/id175135787?i=1000790598468"
+      }
+    }
+  ]
 }

@@ -1,8 +1,30 @@
 {
   "id": "e0ce0d7b-ebd5-4a0c-b2f5-5c5ac0cd9ed2",
   "name": "Graceful Atheist",
+  "spotifyId": "4JBhCa3Ly3dCwQrneaRMJS",
+  "appleId": 1456800368,
   "youTubeChannelId": "UCRtAxlF1RkT3MqRcYZFKfXg",
   "episodes": [
+    {
+      "id": "638ff19a-e095-4df9-8feb-b1ad93f44adb",
+      "title": "Stella McCormick: Surviving a Single Family Cult",
+      "description": "Author Stella McCormick has written a powerful memoir, Deliver Us From Mother: Faith, Fear, and the Family Cult That Broke Me. The story she tells in the book and shares with us on the podcast is one of surviving a single family cult, purity culture, sexual assault and desconstruction.Stella is more than a survivor. She has thrived. Today she is a sexual assault advocate for the Army where she helps other victims of sexual assault process their experience.LinksStella on TikTokhttps://www.tiktok.com/@stella_mccormickAmazon Paid LinksAs an Amazon Associate, I earn from qualifying purchases.Amazon Commissions Earned:Deliver Us From Mother: Faith, Fear, and the Family Cult That Broke Mehttps://amzn.to/4yzxb0YInteractShow Noteshttps://gracefulatheist.com/2026/09/14/stella-mccormick-surviving-a-single-family-cult/Join the Deconversion Anonymous Facebook group!Support the podcastPatreon https://www.patreon.com/gracefulatheistPaypal: paypal.me/gracefulatheistDeconversionhttps://gracefulatheist.com/2017/12/03/deconversion-how-to/Secular Gracehttps://gracefulatheist.com/2016/10/21/secular-grace/",
+      "release": "2026-09-14T07:01:55Z",
+      "duration": "01:11:25",
+      "explicit": false,
+      "spotifyId": "4NqLi6bok5FRgRyv3mkNyR",
+      "appleId": 1000789505963,
+      "youTubeId": "YVYRO6c9aYM",
+      "subjects": [
+        "Family Cult",
+        "Purity Culture"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4NqLi6bok5FRgRyv3mkNyR",
+        "apple": "https://podcasts.apple.com/podcast/stella-mccormick-surviving-a-single-family-cult/id1456800368?i=1000789505963",
+        "youtube": "https://www.youtube.com/watch?v=YVYRO6c9aYM"
+      }
+    },
     {
       "id": "bd69db4f-c366-4e1b-a5bd-dd94e9bd9a7c",
       "title": "Amanda: Deconversion From An Unnamed Cult",

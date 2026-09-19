@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "7a12cd83-97f8-4a52-a7ce-c005fb0b9e05",
+      "title": "273. Tim Tebow Part 666: The Finale",
+      "description": "We finish up our tebow series this week",
+      "release": "2026-09-15T23:08:21Z",
+      "duration": "02:01:32.8130000",
+      "explicit": true,
+      "spotifyId": "6FMptIRU8k9DJUSRFBr8kL",
+      "appleId": 1000789865370,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6FMptIRU8k9DJUSRFBr8kL",
+        "apple": "https://podcasts.apple.com/podcast/273-tim-tebow-part-666-the-finale/id1573190999?i=1000789865370"
+      }
+    },
+    {
       "id": "32ce1293-f812-4bcf-9f4b-dbb84157b595",
       "title": "272. Tim Tebow Part V: Aaron Hernandez",
       "description": "This week we sadly cover the death of Aaron Hernandez among other things with Tim Tebow",

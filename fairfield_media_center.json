@@ -1,0 +1,21 @@
+{
+  "id": "3a4a9cb8-f638-4879-a76a-045bcbd27aa9",
+  "name": "Fairfield Media Center",
+  "youTubeChannelId": "UCM2Yfzag4ItKlasmR7hxZWQ",
+  "episodes": [
+    {
+      "id": "bc0d04fb-5e55-4e54-a505-08ee6c3f7370",
+      "title": "LB SHRIVER 4-26-13",
+      "release": "2013-04-30T15:44:16Z",
+      "duration": "01:36:20",
+      "explicit": false,
+      "youTubeId": "Us8rF5Q_F6g",
+      "subjects": [
+        "Transcendental Meditation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Us8rF5Q_F6g"
+      }
+    }
+  ]
+}

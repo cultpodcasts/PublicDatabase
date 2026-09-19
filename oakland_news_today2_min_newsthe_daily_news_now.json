@@ -1,0 +1,25 @@
+{
+  "id": "1ab36722-fdba-4978-9bc8-cd736da7256a",
+  "name": "Oakland News Today | 2 Min News | The Daily News Now!",
+  "spotifyId": "1dtZtQU16BcbAlCpwNg0tO",
+  "appleId": 1849240233,
+  "episodes": [
+    {
+      "id": "b5859a5d-ff04-4928-980d-0f4fd0755e44",
+      "title": "Bruce Davis, Manson Cult Killer, Dies in Prison | Oakland News",
+      "description": "Bruce Davis, the convicted killer linked to 1969 murders orchestrated by Charles Manson, has died in prison at age 73\u2014his final days spent behind bars after decades of denied parole from governors who deemed his crimes too heinous to forgive. Listen in comfort: Get a discount on a Soli Pillow: http://solipillow.com/discount/dnn. Advertise on DNN: advertise@thednn.ai This is an automated, high-level news summary based on public reporting. Sources: https://abc7news.com/post/bruce-davis-ex-charles-manson-follower-was-repeatedly-denied-parole-dies-authorities-say/19830639/ More coverage \u0026 latest updates: https://sources.thednn.ai/2ae6811c70968631 Report issues to feedback@thednn.ai.",
+      "release": "2026-09-14T20:18:22Z",
+      "duration": "00:01:08.0200000",
+      "explicit": false,
+      "spotifyId": "3wqSegJyoNCqNgrAnX6gMM",
+      "appleId": 1000789619961,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3wqSegJyoNCqNgrAnX6gMM",
+        "apple": "https://podcasts.apple.com/podcast/bruce-davis-manson-cult-killer-dies-in-prison-oakland-news/id1849240233?i=1000789619961"
+      }
+    }
+  ]
+}

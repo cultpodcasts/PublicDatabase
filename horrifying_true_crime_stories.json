@@ -5,6 +5,23 @@
   "appleId": 1754867917,
   "episodes": [
     {
+      "id": "191c069a-49d1-4f3c-8f85-c8d8a619cdd3",
+      "title": "Serial Killer Documentary - Zahid Zaman\uFF1A The Ring Leader of Death",
+      "description": "Serial Killer Documentary - Zahid Zaman\u0026#xff1a; The Ring Leader of Death",
+      "release": "2026-09-15T18:05:02Z",
+      "duration": "00:43:15.0500000",
+      "explicit": true,
+      "spotifyId": "0AmISPpVySoPEmE6KGWVnd",
+      "appleId": 1000789823678,
+      "subjects": [
+        "Zahid Zaman"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0AmISPpVySoPEmE6KGWVnd",
+        "apple": "https://podcasts.apple.com/podcast/serial-killer-documentary-zahid-zaman-the-ring-leader/id1754867917?i=1000789823678"
+      }
+    },
+    {
       "id": "a3cec71d-438f-47f9-81e8-e36b32ef6713",
       "title": "True Crime Documentary - Wayne Bent\uFF1A Inside America\u2019s Doomsday Cult",
       "description": "True Crime Documentary - Wayne Bent\u0026#xff1a; Inside America\u2019s Doomsday Cult",
