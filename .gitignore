@@ -1,1 +1,3 @@
 update.cmd
+# Staged files an interrupted publisher run can leave behind (RedditPodcastPoster #1040).
+*.json.tmp
