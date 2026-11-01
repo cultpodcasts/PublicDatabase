@@ -1,0 +1,25 @@
+{
+  "id": "7fe6d16d-348e-4b00-a00c-3a902a3eb504",
+  "name": "Murder Files Unsealed",
+  "spotifyId": "6c35M3wH4mVx1hje2TgAvr",
+  "appleId": 1717817874,
+  "episodes": [
+    {
+      "id": "d3c343d9-b544-4bcd-b82f-6e58e5398376",
+      "title": "Inside the Jesus Army Cult",
+      "description": "A new BBC documentary series investigates the Jesus Army, a notoriously abusive evangelical cult founded in Northamptonshire in 1969 that ultimately disbanded following exposure of widespread crimes. Filmmaker Ellena Wood interviewed dozens of traumatized survivors who detailed intense psychological manipulation, physical violence, and sexual abuse that affected roughly one in six children living in the group\u0027s communal houses. Investigations revealed that the cult\u0027s late leader, Noel Stanton, and senior church officials systematically covered up these offenses for years rather than addressing them. Although the organization has since apologized and established a financial redress scheme compensating victims with modest damages, survivors continue to grapple with the profound, lifelong impacts of spiritual and physical abuse. Become a supporter of this podcast: https://www.spreaker.com/podcast/murder-files-unsealed--6017387/support . Content Warning: This podcast contains discussions of homicide, violence, abuse, and other graphic themes related to real-life criminal events. It is intended for mature audiences and listener discretion is advised. This episode includes AI-generated content.",
+      "release": "2026-10-17T15:52:15Z",
+      "duration": "00:44:25.5570000",
+      "explicit": false,
+      "spotifyId": "38Vd2JB4pjRFNAY53RHjtd",
+      "appleId": 1000796817515,
+      "subjects": [
+        "Jesus Army"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/38Vd2JB4pjRFNAY53RHjtd",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-jesus-army-cult/id1717817874?i=1000796817515"
+      }
+    }
+  ]
+}

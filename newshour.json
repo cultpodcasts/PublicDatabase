@@ -1,0 +1,26 @@
+{
+  "id": "160522c3-a6b3-4969-86fa-1ff0398308f4",
+  "name": "Newshour",
+  "spotifyId": "5qbXje6KaVOHwjsHNTELjA",
+  "appleId": 356157099,
+  "episodes": [
+    {
+      "id": "20d65748-1a46-4568-b840-3733933c953d",
+      "title": "Kenyan doomsday cult leader murdered 190 children",
+      "description": "A Kenyan court has found the doomsday cult leader Paul Mackenzie and 29 accomplices guilty of the murder of 190 children and one adult. Also on the programme: the French government imposes overnight curfews in parts of central Paris and other major cities in a bid to end the violence and looting that has scarred France since Saturday; and as the western Canadian province of Alberta votes in a referendum on independence, we hear from one of the leaders of the separatist movement. (Photo: Paul Mackenzie, a Kenyan cult leader accused of ordering his followers, who were members of the Good News International Church, to starve themselves to death in Shakahola forest, appears in court for his judgement at the Mombasa High Court, Kenya 19 October 2026. Credit: Reuters/Laban Walloga)",
+      "release": "2026-10-19T21:11:00Z",
+      "duration": "00:47:27.7380000",
+      "explicit": false,
+      "spotifyId": "7GVs2fKs3bUXqQLuMixXeG",
+      "appleId": 1000797152773,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7GVs2fKs3bUXqQLuMixXeG",
+        "apple": "https://podcasts.apple.com/podcast/kenyan-doomsday-cult-leader-murdered-190-children/id356157099?i=1000797152773",
+        "bbc": "https://www.bbc.co.uk/sounds/play/w1730bn8gmx6srk"
+      }
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 {
   "id": "32383926-8e88-4508-8e9c-808fc507e603",
   "name": "Real Stories",
+  "spotifyId": "033oOyPbVg1In513t4nuKM",
+  "appleId": 1896838478,
   "youTubeChannelId": "UCu4XcDBdnZkV6-5z2f16M0g",
   "episodes": [
     {
@@ -40,11 +42,15 @@
       "release": "2026-01-20T17:01:11Z",
       "duration": "01:20:17",
       "explicit": false,
+      "spotifyId": "5d5N8oEnBTNypiZwsevCfQ",
+      "appleId": 1000793329655,
       "youTubeId": "eWZ9jXI1d2I",
       "subjects": [
         "Aum Shinrikyo"
       ],
       "urls": {
+        "spotify": "https://open.spotify.com/episode/5d5N8oEnBTNypiZwsevCfQ",
+        "apple": "https://podcasts.apple.com/podcast/inside-the-shocking-legacy-of-the-aum-cult/id1896838478?i=1000793329655",
         "youtube": "https://www.youtube.com/watch?v=eWZ9jXI1d2I"
       }
     },
@@ -209,6 +215,28 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=hXpLVmL2esw"
+      }
+    },
+    {
+      "id": "b8c64080-9bc3-469a-b780-8a3134b8e46c",
+      "title": "Cult Witness (Cult Documentary) | Real Stories",
+      "description": "At the age of 19 Samuel Stefan, consumed by crisis, was drawn into a cult. It would be 10 years before he was able to escape.\n\nUsing a technique called \u2018love-bombing\u2019 cults prey on the vulnerable, recruiting new members with love and warmth. After a period of brain-washing, members are forbidden to leave, enslaved through psychological control, and in Samuel\u2019s case, even violence. He was finally able to escape in the dead of night, persued by other members and seek help.\n\nCult Witness is an intelligent exploration of how cults attract and manipulate their followers, sharing the disturbing firsthand experiences of Cult Witness director Samuel Stefan and six others who have freed themselves from cults: Jill Mytton (The Exclusive Brethren), Jim Bergin and Judy Garvey (The Gentle Wind Project), Lea Saskia Laasner (The Janus Project), and Celeste Jones and Amoreena Winkler (The Children of God).\n\nAnalytical insights into the cult experience are provided by leadership expert Betty Sue Flowers; Benjamin Zablocki, chair of the Department of Sociology at Rutgers University; UCLA Professor Emeritus Bertram Raven, an expert on interpersonal influence and social power relationships; psychotherapist Miguel Perlado, who specializes in cult-related problems; and Urs Eschmann, a specialist in legal issues involving cults.\n\nCult Witness unravels the hidden world of cults; the hold they have on their victims, the reasons people form and fall prey to them and what takes place within.\n\nWant to watch more full-length Documentaries? \nClick here: http://bit.ly/1GOzpIu\n\nFollow us on Twitter for more - https://twitter.com/realstoriesdocs\nInstagram - @realstoriesdocs\n\nContent licensed from Sideways Film. Any queries, please contact us at: owned-enquiries@littledotstudios.com\n\nFor more content from Sideways Film and for licensing enquiries: http://www.sidewaysfilm.com/",
+      "release": "2016-08-20T16:30:01Z",
+      "duration": "00:56:25",
+      "explicit": false,
+      "appleId": 1000793348330,
+      "youTubeId": "clS6USdnB58",
+      "subjects": [
+        "Children Of God",
+        "Cult-Expert",
+        "Cult Psychology",
+        "Gentle Wind Project",
+        "Plymouth Brethren Christian Church",
+        "Psychology"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/cult-witness-cult-documentary-real-stories/id1896838478?i=1000793348330",
+        "youtube": "https://www.youtube.com/watch?v=clS6USdnB58"
       }
     }
   ]

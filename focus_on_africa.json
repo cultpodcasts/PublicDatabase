@@ -1,0 +1,25 @@
+{
+  "id": "7963eca8-b18b-423c-ab96-120886e9908a",
+  "name": "Focus on Africa",
+  "spotifyId": "1PjUeY1xaiDHjroJ09Fop6",
+  "appleId": 263570559,
+  "episodes": [
+    {
+      "id": "536b4f6a-4050-4d24-8e6e-aded3cf442ac",
+      "title": "Kenyan cult leader guilty of 191 murders",
+      "description": "Kenyan high court finds cult leader Paul MacKenzie guilty over the death of 190 children and one adult. Mackenzie ordered members of his cult to starve their children to death so they could \u0022meet Jesus\u0022. In 2023, more than four hundred bodies were discovered in mass graves in the forest where his church was located. We hear from one of the first responders onsite in 2023. Also, the World Bank is reporting that Sub-Saharan Africa\u0027s economy should grow by 4.3% this year, higher than the UN projection for the whole world, which is 2.6%. But young people tell us the figures do not translate to jobs for them. Presenter: Nkechi Ogbonna Producers: Blessing Aderogba, Ayuba lliya, Keikantse Shumba and Bella Twine Technical Producer: Herbert Masua Senior Producer: Daniel Dadzie Editors: Charles Gitonga and Maryam Abdalla",
+      "release": "2026-10-20T15:00:00Z",
+      "duration": "00:22:59.0820000",
+      "explicit": false,
+      "spotifyId": "1TKJmyTk9E13vUKndLUAiA",
+      "appleId": 1000797276760,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1TKJmyTk9E13vUKndLUAiA",
+        "apple": "https://podcasts.apple.com/podcast/kenyan-cult-leader-guilty-of-191-murders/id263570559?i=1000797276760"
+      }
+    }
+  ]
+}

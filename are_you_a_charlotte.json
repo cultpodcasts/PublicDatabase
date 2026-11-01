@@ -1,0 +1,25 @@
+{
+  "id": "eea0890f-baa0-406f-a9bb-5c470d315d89",
+  "name": "Are You A Charlotte?",
+  "spotifyId": "4ITz12m7f0YmcHmJU3vbDq",
+  "appleId": 1784946892,
+  "episodes": [
+    {
+      "id": "8dddf6fb-fc5d-4ef7-bf0f-f5e75a30c189",
+      "title": "When Love Turns Toxic: Carrie, Berger \u0026 Cults with Bethany Joy Lenz... (S6 E5 \u0022Lights, Camera, Relationship)",
+      "description": "Bethany Joy Lenz joins Kristin and they unpack Carrie and Berger\u0027s disastrous motorcycle date. The conversation takes a deeper turn when Joy opens up about spending 10 years in a cult and shares the red flags everyone should know, from love bombing to being cut off from outside perspectives. See omnystudio.com/listener for privacy information.",
+      "release": "2026-10-19T20:47:17Z",
+      "duration": "00:32:50.8580000",
+      "explicit": false,
+      "spotifyId": "7bnfchWbwMIiNIl0epN3Co",
+      "appleId": 1000797149591,
+      "subjects": [
+        "The Big House Family"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7bnfchWbwMIiNIl0epN3Co",
+        "apple": "https://podcasts.apple.com/podcast/when-love-turns-toxic-carrie-berger-cults-with-bethany/id1784946892?i=1000797149591"
+      }
+    }
+  ]
+}

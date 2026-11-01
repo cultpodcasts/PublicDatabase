@@ -4,6 +4,17 @@
   "youTubeChannelId": "UCnqB030coG1f5i9-XUTuAyA",
   "episodes": [
     {
+      "id": "d725c4ed-7e87-4a5a-8fe5-5adfa8ef2abb",
+      "title": "Vows. A Lake Wedding.",
+      "release": "2026-10-21T20:32:06Z",
+      "duration": "00:13:47",
+      "explicit": false,
+      "youTubeId": "E27kXH3_nqw",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=E27kXH3_nqw"
+      }
+    },
+    {
       "id": "35581f55-a9cf-41bb-9efb-70592572756b",
       "title": "Wedding Video",
       "release": "2026-09-11T23:12:18Z",

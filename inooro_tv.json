@@ -4,6 +4,35 @@
   "youTubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw",
   "episodes": [
     {
+      "id": "31988930-ca42-477d-bbdf-5e468eb7f97a",
+      "title": "M\u0129\u0129r\u0129 8 ya ngero ya Shakahola g\u0169k\u0169\u0169r\u0129kana",
+      "release": "2026-10-16T10:50:43Z",
+      "duration": "00:02:43",
+      "explicit": false,
+      "youTubeId": "-pArwXQJYUk",
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=-pArwXQJYUk"
+      }
+    },
+    {
+      "id": "2f3d1a60-65c9-4e81-ab98-26fbdeefca77",
+      "title": "Thirikari ya Kilifi k\u0169rekereria m\u0129r\u0129 ya Shakahola mak\u0129ria ya 400 m\u0169ing\u0129 \u0169k\u0129heo thik\u0169 21 \u0169m\u0129oe",
+      "release": "2026-09-22T09:44:23Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "youTubeId": "N-HGIvxwdYY",
+      "subjects": [
+        "Good News International Ministries",
+        "New Foundation Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=N-HGIvxwdYY"
+      }
+    },
+    {
       "id": "fe7b2246-1fdc-4ada-ad24-e75525810ce5",
       "title": "Ciira wa Shakahola g\u0169cokereeria",
       "release": "2026-04-24T10:13:30Z",

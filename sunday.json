@@ -1,0 +1,27 @@
+{
+  "id": "358151ee-345f-4cdc-9a7b-075f682005db",
+  "name": "Sunday",
+  "spotifyId": "0hV8Zjgg0AHFiwGW5EwHed",
+  "appleId": 261786794,
+  "episodes": [
+    {
+      "id": "52cea3d9-75e6-4a8e-ab3f-458049d7c6d3",
+      "title": "Chris Brain, Choral Evensong, Tammy Sandhu",
+      "description": "On Friday Chris Brain, former leader of a Church group aimed at young people, was found guilty of one count of rape and four charges of sexual assault. It follows a separate trial last year. The verdicts mean Brain has now been convicted of a total of 22 sexual offences against 13 women. Julie Etchingham speaks to Andrew Graystone, theologian and advocate for survivors of abuse in the church This week marks one hundred years of BBC Choral Evensong, one of the longest-running music broadcasts anywhere in the world. Since 1926, generations of listeners have discovered cathedral and collegiate choirs through the programme, whether from great churches and cathedrals across Britain or from further afield. Leading next week\u0027s special centenary broadcast from Westminster Abbey is the Abbey\u0027s organist and master of the choristers, Andrew Nethsingha. He tells Julie Etchingham what it means to him personally to be leading this historic broadcast. Tammy Sandhu, after 20 years in the diplomatic service, has just become the UK\u0027s ambassador to the Holy See. Born in Leicester, ambassador Sandhu is the first woman from an ethnic minority background to hold the prestigious role. Tammy tells us what she has made of Vatican City so far. The Catholic and Anglican Archbishops of Armagh, the Primates of all Ireland have been speaking to Sunday about two of the biggest challenges of their time: AI and the continuing standoff in Drumcree. Presenter: Julie Etchingham Producers: Bara\u0027atu Ibrahim \u0026 Katy Booth Studio Managers: Jonathan Esp \u0026 Ben Houghton Editor: Catherine Murray",
+      "release": "2026-10-04T07:31:00Z",
+      "duration": "00:43:17.1980000",
+      "explicit": false,
+      "spotifyId": "7e9FwFqQTrbzXcp3QVZtMy",
+      "appleId": 1000793062819,
+      "subjects": [
+        "Church Of England",
+        "Nine O\u0027Clock Service"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7e9FwFqQTrbzXcp3QVZtMy",
+        "apple": "https://podcasts.apple.com/podcast/chris-brain-choral-evensong-tammy-sandhu/id261786794?i=1000793062819",
+        "bbc": "https://www.bbc.co.uk/sounds/play/m0032f8f"
+      }
+    }
+  ]
+}

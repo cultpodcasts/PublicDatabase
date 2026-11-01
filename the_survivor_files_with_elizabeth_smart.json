@@ -1,0 +1,22 @@
+{
+  "id": "199ca703-b443-45ac-9d10-9a52dc753b8e",
+  "name": "The Survivor Files with Elizabeth Smart",
+  "spotifyId": "0344HY9XGigCMcRGwBDv9H",
+  "appleId": 6799944065,
+  "episodes": [
+    {
+      "id": "a01a78fc-06ec-4fe8-b69e-41169fc4fcec",
+      "title": "Cornell Case: The Survivors\u0027 Take with Kimberly Corban and JoDee Neil",
+      "description": "As the sexual assault allegations at Cornell University dominate the headlines, Elizabeth and fellow survivors Kimberly Corban and JoDee Neil engage in a challenging conversation about consent, reporting, bystanders, and what people still getting wrong about trauma. Plus the \u0022Three D\u0022 rules for protecting young people at college parties. See omnystudio.com/listener for privacy information.",
+      "release": "2026-10-08T09:30:00Z",
+      "duration": "00:34:56.6660000",
+      "explicit": false,
+      "spotifyId": "6w2SOA5OrOEeHeAXmjCQ1w",
+      "appleId": 1000793839666,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6w2SOA5OrOEeHeAXmjCQ1w",
+        "apple": "https://podcasts.apple.com/podcast/cornell-case-the-survivors-take-with-kimberly-corban/id6799944065?i=1000793839666"
+      }
+    }
+  ]
+}

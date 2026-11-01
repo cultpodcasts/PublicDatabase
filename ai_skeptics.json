@@ -1,0 +1,29 @@
+{
+  "id": "93f5c75d-b320-4a86-a2b7-79efb5022656",
+  "name": "AI Skeptics",
+  "spotifyId": "1xttr9ANR9BKDnayVoyUWN",
+  "appleId": 1865976746,
+  "youTubeChannelId": "UC46Eu-ifygD3GnzjoM-Xvmw",
+  "episodes": [
+    {
+      "id": "148366b0-c2e0-4f66-8ccd-a367603ab959",
+      "title": "The Consensual Non-consent Sex Cult Episode (with Sherry Wong and Tom Adams)",
+      "description": "The Consensual Non-consent Sex Cult Episode (with Sherry Wong and Tom Adams)",
+      "release": "2026-10-26T10:00:00Z",
+      "duration": "00:40:22.7700000",
+      "explicit": false,
+      "spotifyId": "1FGtktWbzzjx2i4RlzXPIn",
+      "appleId": 1000798157560,
+      "youTubeId": "YxG88GaTyPs",
+      "subjects": [
+        "Cult Psychology",
+        "Corporate Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1FGtktWbzzjx2i4RlzXPIn",
+        "apple": "https://podcasts.apple.com/podcast/the-consensual-non-consent-sex-cult-episode-with/id1865976746?i=1000798157560",
+        "youtube": "https://www.youtube.com/watch?v=YxG88GaTyPs"
+      }
+    }
+  ]
+}

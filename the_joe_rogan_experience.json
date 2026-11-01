@@ -1,10 +1,30 @@
 {
   "id": "1b9c8096-f66f-4921-a84e-52ee1e863dff",
   "name": "The Joe Rogan Experience",
-  "spotifyId": "1LMmQF9PH8LjYrktU0Oq5Y",
+  "spotifyId": "4rOoJ6Egrf8K2IrywzwOMk",
   "appleId": 360084272,
   "youTubeChannelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
   "episodes": [
+    {
+      "id": "798b0a68-989e-4922-a9e4-af8add8f24f9",
+      "title": "Joe Rogan Experience #2567 - Mariana van Zeller",
+      "description": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \u0022Trafficked with Mariana van Zeller,\u0022 \u0022The OxyContin Express,\u0022 and \u0022Inside Secret America.\u0022 She is also the host of \u0022The Hidden Third\u0022 podcast. Her latest documentary special, \u0022Super Scam Me,\u0022 premieres October 17 on National Geographic and will be available to stream on Disney\u002B and Hulu.\n\nhttps://www.natgeotv.com/za/programs/natgeo/super-scam-me\nhttps://www.youtube.com/channel/UCoCiI8nJacn8gDiHxr6aQGA\nhttps://www.patreon.com/cw/TheHiddenThird\nhttps://www.imdb.com/name/nm2447662/\nhttps://marianavanzeller.me\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\nDon\u2019t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.",
+      "release": "2026-10-16T17:00:29Z",
+      "duration": "02:24:18",
+      "explicit": false,
+      "spotifyId": "24C6qd4r0IKDGkytUzYUnM",
+      "appleId": 1000796699147,
+      "youTubeId": "7SzYbqsUSog",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/24C6qd4r0IKDGkytUzYUnM",
+        "apple": "https://podcasts.apple.com/podcast/2567-mariana-van-zeller/id360084272?i=1000796699147",
+        "youtube": "https://www.youtube.com/watch?v=7SzYbqsUSog"
+      }
+    },
     {
       "id": "a27e021b-0faa-4638-844b-5c519cb9615f",
       "title": "Joe Rogan Experience #1861 - Dave Mustaine",

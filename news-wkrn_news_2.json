@@ -1,0 +1,65 @@
+{
+  "id": "dacc9dbd-7102-47d6-931f-4ec77846f244",
+  "name": "WKRN News 2",
+  "reports": [
+    {
+      "id": "ab0141dc-90fe-439d-ac46-f41bd2ccd43c",
+      "title": "Memphis based nonprofit leader tied up on Epstein Island",
+      "description": "The leader of a Memphis-based nonprofit is now speaking out after being found tied up on an island associated with Jeffrey Epstein.",
+      "release": "2026-04-30T20:17:27Z",
+      "duration": "00:01:04",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BCy7Fs7_L8Q"
+      }
+    },
+    {
+      "id": "825edfd2-8c31-4059-b8b3-85eeccc5b086",
+      "title": "Justice Department reviewing Epstein files release",
+      "description": "The Department of Justice\u0027s watchdog will investigate how the department handled the release of the heavily redacted Epstein files.",
+      "release": "2026-04-23T20:13:01Z",
+      "duration": "00:00:25",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Mc9u9BSKJuU"
+      }
+    },
+    {
+      "id": "b7d876f8-39ce-42cc-843b-d388860c1462",
+      "title": "Peter Mandelson arrested after probe into Epstein ties",
+      "description": "Peter Mandelson arrested after probe into Epstein ties",
+      "release": "2026-02-23T17:47:36Z",
+      "duration": "00:00:52",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xucIubiruz8"
+      }
+    },
+    {
+      "id": "d809bedc-deb3-4b42-a398-35a95b6eab4b",
+      "title": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct",
+      "description": "Andrew Mountbatten-Windsor arrested on suspicion of misconduct",
+      "release": "2026-02-19T10:39:43Z",
+      "duration": "00:00:56",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=TCLuyQD5_pU"
+      }
+    }
+  ]
+}

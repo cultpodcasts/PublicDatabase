@@ -1,0 +1,29 @@
+{
+  "id": "8d186135-6a26-46ff-a359-6ab27a0eda6e",
+  "name": "Talking Central Florida",
+  "spotifyId": "2jAlUxZLFaq5XJzjmTG7h0",
+  "appleId": 1875365101,
+  "youTubeChannelId": "UCkFG8eydh0zUlJ6cC_-nvJA",
+  "episodes": [
+    {
+      "id": "1afd7579-8633-4430-86fb-2a8e30560b7d",
+      "title": "Full Episode: Journalist Julie K. Brown on Covering the Epstein Case",
+      "description": "This week on Talking Central Florida, a conversation with the award-winning Miami Herald reporter Julie K. Brown.\n\nHost Steve Mort talks with Brown about her extensive reporting on the sex trafficker Jeffrey Epstein, her ongoing coverage of the Epstein story, what survivors continue to tell her, and what she thinks future accountability might look like.\n\nJulie Brown will join the Orlando Sentinel\u2019s Scott Maxwell for a live conversation on October 7 at a First Amendment Foundation event in Winter Park.\n\nShow notes:\n\nJulie K. Brown\u2019s Miami Herald reporting: https://www.miamiherald.com/profile/218644665/\n\nThe Epstein Files by Julie K. Brown (Substack): https://jkbjournalist.substack.com\n\nTickets to Winter Park event: https://flpress.com/press_release/first-amendment-foundation/",
+      "release": "2026-09-23T22:30:09Z",
+      "duration": "00:29:53",
+      "explicit": false,
+      "spotifyId": "2liGACYLnCoNUyQBYT1j4J",
+      "appleId": 1000791361385,
+      "youTubeId": "qv4XO3SFCGs",
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2liGACYLnCoNUyQBYT1j4J",
+        "apple": "https://podcasts.apple.com/podcast/journalist-julie-k-brown-on-covering-the-epstein-case/id1875365101?i=1000791361385",
+        "youtube": "https://www.youtube.com/watch?v=qv4XO3SFCGs"
+      }
+    }
+  ]
+}

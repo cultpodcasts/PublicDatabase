@@ -1,0 +1,26 @@
+{
+  "id": "6fd0f20c-3707-4a91-99de-f5d13ec08728",
+  "name": "Battleground America Podcast",
+  "spotifyId": "5hWY5HBN27hHUs6jeZ3N0i",
+  "appleId": 1526144971,
+  "episodes": [
+    {
+      "id": "b5b50385-26e5-467e-ae1b-5cb17997c349",
+      "title": "Anthropic: A Cult That Wants to Rule the World?",
+      "description": "The New York Post and Silicon Valley insiders warn Anthropic isn\u0027t just a company, but a cult that has a quasi-religious relationship to its chatbot, Claude. If Democrats get their way, this cult will control much of what you see, hear and know. Plus, America\u0027s enemies are using oil as their preferred weapon to help Democrats win the midterms. (Please subscribe \u0026 share.)",
+      "release": "2026-09-21T14:22:00Z",
+      "duration": "00:18:51.3630000",
+      "explicit": false,
+      "spotifyId": "3JvlDCob4ePFY3Syof6S37",
+      "appleId": 1000790953211,
+      "subjects": [
+        "_America",
+        "Corporate Cult"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3JvlDCob4ePFY3Syof6S37",
+        "apple": "https://podcasts.apple.com/podcast/anthropic-a-cult-that-wants-to-rule-the-world/id1526144971?i=1000790953211"
+      }
+    }
+  ]
+}

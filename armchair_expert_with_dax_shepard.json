@@ -38,6 +38,25 @@
         "apple": "https://podcasts.apple.com/podcast/ellen-huet-on-wellness-cults/id1345682353?i=1000745921881",
         "youtube": "https://www.youtube.com/watch?v=dovKx3XR2Iw"
       }
+    },
+    {
+      "id": "7d04fdd0-26ac-4d81-ba0f-8420108457eb",
+      "title": "Armchair Anonymous: Cult",
+      "description": "Dax and Monica talk to Armcherries! In today\u0027s episode, Armcherries tell us about a time they escaped a cult. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "release": "2024-03-15T07:30:00Z",
+      "duration": "01:15:29.4490000",
+      "explicit": true,
+      "spotifyId": "45B4tiBf2ihbUg7GWhxIkh",
+      "appleId": 1000666945181,
+      "youTubeId": "f74D5t8EScA",
+      "subjects": [
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/45B4tiBf2ihbUg7GWhxIkh",
+        "apple": "https://podcasts.apple.com/podcast/armchair-anonymous-cult/id1345682353?i=1000666945181",
+        "youtube": "https://www.youtube.com/watch?v=f74D5t8EScA"
+      }
     }
   ]
 }

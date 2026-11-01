@@ -1,0 +1,35 @@
+{
+  "id": "ed41ed3d-2dc9-46a1-8607-624064975bcc",
+  "name": "KVIA ABC-7",
+  "reports": [
+    {
+      "id": "c8c64a1e-2ec1-47dd-953d-3b34157b29f4",
+      "title": "New Mexico sues DOJ for allegedly blocking access to Epstein files in Zorro Ranch investigation",
+      "description": "Read more: https://kvia.com",
+      "release": "2026-08-08T06:00:14Z",
+      "duration": "00:00:42",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=O5QAvfjd4VM"
+      }
+    },
+    {
+      "id": "9b566262-8b3c-41ca-bb9c-1880fee6548a",
+      "title": "ABC-7 AT 4: 764",
+      "description": "Read more: https://kvia.com",
+      "release": "2025-12-19T07:00:38Z",
+      "duration": "00:03:21",
+      "explicit": false,
+      "subjects": [
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=btWpouzJORo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9997fc62-5aa0-409c-89ce-0912f3cfba3d",
+  "name": "Chris Williamson\u2019s Podcast",
+  "spotifyId": "033Izp6JJBSJqzYM7R968y",
+  "appleId": 6786722944,
+  "episodes": [
+    {
+      "id": "161f3042-0e2b-4332-ae82-edec209772a6",
+      "title": "Conspiracy Theories In New Age Cults Derek Beres ~ Chris Williamson",
+      "description": "Conspiracy Theories In New Age Cults Derek Beres ~ Chris Williamson",
+      "release": "2026-10-30T09:45:01Z",
+      "duration": "00:07:33.3430000",
+      "explicit": false,
+      "spotifyId": "1ZjnxNt4EKicZGIiYNrOlP",
+      "appleId": 1000798870730,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1ZjnxNt4EKicZGIiYNrOlP",
+        "apple": "https://podcasts.apple.com/podcast/conspiracy-theories-in-new-age-cults-derek-beres-chris/id6786722944?i=1000798870730"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "195a6e80-33af-470b-8c70-c6aa590ceee5",
+  "name": "Dr Monique Ryan MP",
+  "youTubeChannelId": "UCEaITXatwcggPjb_NJLCXVw",
+  "episodes": [
+    {
+      "id": "7ada9a0e-74ac-4911-8b8e-bd5348e0d06a",
+      "title": "Joint Standing Committee on Electoral Matters; Plymouth Brethren Christian Church",
+      "release": "2026-10-16T06:02:57Z",
+      "duration": "00:09:07",
+      "explicit": false,
+      "youTubeId": "lcjaPplhDVE",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lcjaPplhDVE"
+      }
+    },
+    {
+      "id": "22494123-568d-48a0-8cdd-cedaff55ea75",
+      "title": "Joint Standing Committee on Electoral Matters; Plymouth Brethren Christian Church",
+      "release": "2026-10-16T05:59:56Z",
+      "duration": "00:09:23",
+      "explicit": false,
+      "youTubeId": "KbVxKSEx9Rg",
+      "subjects": [
+        "Plymouth Brethren Christian Church"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KbVxKSEx9Rg"
+      }
+    }
+  ]
+}

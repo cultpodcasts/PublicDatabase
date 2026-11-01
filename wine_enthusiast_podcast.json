@@ -1,0 +1,25 @@
+{
+  "id": "e7fbc99b-5e83-4f88-a1cc-d6c6883d5031",
+  "name": "Wine Enthusiast Podcast",
+  "spotifyId": "5hL6IHhnYA2QAtWIDRGrxL",
+  "appleId": 1168716155,
+  "episodes": [
+    {
+      "id": "04e8ff88-6beb-4706-bb09-990d3f2588a4",
+      "title": "Episode 227: An Infamous Cult Nearly Upended Oregon Wine",
+      "description": "The Rajneeshees, the 1980s religious group known for taking over a small town and poisoning salad bars, were well on their way to usurping the state\u0027s wine industry, too. Read more at https://www.wineenthusiast.com/culture/podcasts/wine-enthusiast-podcast/rajneeshpuram-wine/ . Is there a guest you want us to interview? A topic you want us to cover? We want to hear from you! Email us at podcast@wineenthusiast.com . Remember to rate and review us on Apple Podcasts, Spotify, or wherever you listen to podcasts. For more episodes, check out our website: https://www.wineenthusiast.com/wine-enthusiast-podcast/ Go to WineEnthusiast.com for the latest beverage industry coverage and all the tools you need to bring your love of wine to life. FOLLOW US: TikTok: @wineenthusiast Instagram: @wineenthusiast Facebook: @WineEnthusiast",
+      "release": "2026-10-21T12:45:00Z",
+      "duration": "00:41:21.5540000",
+      "explicit": false,
+      "spotifyId": "0i9NOktdp6dr2zqgRBCS1D",
+      "appleId": 1000797438144,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0i9NOktdp6dr2zqgRBCS1D",
+        "apple": "https://podcasts.apple.com/podcast/episode-227-an-infamous-cult-nearly-upended-oregon-wine/id1168716155?i=1000797438144"
+      }
+    }
+  ]
+}

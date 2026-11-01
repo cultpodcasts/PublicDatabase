@@ -1,0 +1,23 @@
+{
+  "id": "6ea3216b-0b53-491c-83c9-71f22ef1d869",
+  "name": "The UIUC Talkshow Clips",
+  "youTubeChannelId": "UCsYaroLyA2pOJbzRk1nuXhw",
+  "episodes": [
+    {
+      "id": "1ef0c7c7-1569-4715-a702-c2f1193d7eb0",
+      "title": "How an Unquestioned Belief Can Lead People Into a Cult",
+      "description": "UIUC Talkshow Full Episode: https://youtu.be/-3OD-jGz444\n\n*GUEST BIO:* Daniel Simons is a psychology professor at the University of Illinois Urbana-Champaign who studies visual attention and the limits of awareness.",
+      "release": "2026-10-06T12:45:34Z",
+      "duration": "00:06:17",
+      "explicit": false,
+      "youTubeId": "N0Mf4z5fxVU",
+      "subjects": [
+        "Psychology",
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=N0Mf4z5fxVU"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fcfc4d23-eb4c-446c-b103-f56e78a76909",
+  "name": "WVTM 13 News",
+  "reports": [
+    {
+      "id": "3c214852-d2e6-4405-9606-457c576b4895",
+      "title": "\u0027Jaw dropping\u0027: Alabama billboard demands accountability from President Trump over Epstein files",
+      "description": "\u0027Jaw dropping\u0027: Alabama billboard demands accountability from President Trump over Epstein files\n\nWVTM13 is your home for Alabama breaking news and weather. For your latest Alabama news and weather visit: https://www.wvtm13.com/\n\nFor licensing inquiries: https://www.wvtm13.com/licensing",
+      "release": "2026-02-17T12:30:06Z",
+      "duration": "00:02:30",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=8huckZjtr0s"
+      }
+    },
+    {
+      "id": "fb32b6f4-aea3-4a42-9ef3-9d085b5faec4",
+      "title": "DOJ records allege Jeffrey Epstein helped arrange University of Alabama guest speaker",
+      "description": "DOJ records allege Jeffrey Epstein helped arrange University of Alabama guest speaker\n\nWVTM13 is your home for Alabama breaking news and weather. For your latest Alabama news and weather visit: https://www.wvtm13.com/\n\nFor licensing inquiries: https://www.wvtm13.com/licensing",
+      "release": "2026-02-14T00:25:42Z",
+      "duration": "00:00:49",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=bL1nKnNhWdY"
+      }
+    }
+  ]
+}

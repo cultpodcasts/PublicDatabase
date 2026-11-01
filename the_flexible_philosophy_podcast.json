@@ -5,6 +5,25 @@
   "youTubeChannelId": "UCtQbHj9CwwUnlWX7DO8R6rA",
   "episodes": [
     {
+      "id": "715e936c-2fe7-4f35-9166-dc7bd2e79660",
+      "title": "#35 Navigating therapy models with guest Adam Stanford",
+      "description": "In this episode of Flexible Philosophy, we welcome Denver therapist Adam Stanford, a fellow clinician we met through a therapist Facebook group, to discuss all things therapy. We talk about DBT\u0027s Buddhist influences and why its skills can benefit anyone. The conversation expands into how therapy modalities overlap and evolve, arguing for an eclectic, flexible approach over rigid model fidelity, with examples from CBT, DBT, EMDR, and Gottman training. Adam highlights Babette Rothschild\u0027s somatic trauma work, nervous system monitoring, and cautions about overstating what is \u201Cproven,\u201D including discussion of critiques of polyvagal theory while valuing its clinical impact. Listen to the end to hear Adam\u0027s fav film and tv recs for exploring existentialism!",
+      "release": "2026-09-24T16:35:34Z",
+      "duration": "00:34:11.4560000",
+      "explicit": false,
+      "spotifyId": "3SRYBt05gFwbrRzwZyuIC5",
+      "youTubeId": "EApLD2Thhbo",
+      "subjects": [
+        "Cult Recovery",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3SRYBt05gFwbrRzwZyuIC5",
+        "youtube": "https://www.youtube.com/watch?v=EApLD2Thhbo"
+      }
+    },
+    {
       "id": "d8d3a791-f0ad-4a70-8a9e-b20da8721655",
       "title": "Season 3 Returns!",
       "description": "Jennifer and Aleesa come back from summer with \u0022regularly scheduled program\u0022. We discuss Aleesa quitting caffeine to reduce anxiety, experiencing withdrawal headaches, chiropractic help, afternoon crashes, and navigating decaf, matcha, and sugar cravings. Jennifer describes a summer highlight of building a chicken coop, getting chickens, and their first eggs\u2014alongside stress from overcommitting to a farm, home renovation, selling a house, and relaunching a practice. They preview future topics and briefly reflect on evangelical culture prompts from the \u201CDeath of a Pastor\u0027s Wife\u201D documentary, leading to a \u201Cmaps for life require edits\u201D analogy about skepticism, certainty, and the risks of never revising or endlessly discarding beliefs.",
@@ -490,6 +509,7 @@
       "duration": "00:47:51",
       "explicit": false,
       "spotifyId": "0RCfL3T3thrBNcV5QxfDOU",
+      "youTubeId": "kQ7tKZQiezQ",
       "subjects": [
         "Cult Psychology",
         "Word of Faith Fellowship"

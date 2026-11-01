@@ -14,7 +14,6 @@
       "explicit": true,
       "spotifyId": "6ShRwQZ6AsztpTh4cZCUNP",
       "appleId": 1000655158651,
-      "youTubeId": "ZU_cpUPG_kU",
       "subjects": [
         "Church Universal and Triumphant",
         "The Hearts Center",
@@ -22,8 +21,7 @@
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6ShRwQZ6AsztpTh4cZCUNP",
-        "apple": "https://podcasts.apple.com/podcast/ep-41-uriah-wesman-was-in-three-cults/id1691215052?i=1000655158651",
-        "youtube": "https://www.youtube.com/watch?v=ZU_cpUPG_kU"
+        "apple": "https://podcasts.apple.com/podcast/ep-41-uriah-wesman-was-in-three-cults/id1691215052?i=1000655158651"
       }
     }
   ]

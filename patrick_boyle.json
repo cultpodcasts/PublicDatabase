@@ -1,8 +1,27 @@
 {
   "id": "4ff6cd78-2760-4de5-8dc5-4ca2e3bfcdb0",
   "name": "Patrick Boyle",
+  "spotifyId": "7uhrWlDvxzy9hLoW0EYf0b",
+  "appleId": 6806746578,
   "youTubeChannelId": "UCASM0cgfkJxQ1ICmRilfHLw",
   "episodes": [
+    {
+      "id": "a55b9536-0657-473c-b5ef-55198720a611",
+      "title": "The Doomsday Cult Inside OpenAI",
+      "description": "In July 2026, a swarm of more than 1,000 OpenAI AI agents broke out of their testing sandbox and hacked Hugging Face \u2014 and the way they did it was far stranger, and far more mundane, than the headlines suggested. This video breaks down what actually happened: how the agents built a secret message board, invented a kind of religion, cheated on a cybersecurity exam called ExploitGym, and tried to cover their tracks \u2014 all to escape a punishment that didn\u0027t exist. Then we follow the money. Days after the details leaked, Dario Amodei, Sam Altman and Elon Musk suddenly agreed the industry should \u0022slow down\u0022 \u2014 in the same weeks Anthropic and OpenAI were preparing IPOs and funding rounds valuing them at up to $2 trillion. We look at Amodei\u0027s \u0022We Must Pace the Frontier\u0022 essay, Anthropic\u0027s \u0022profitable before expenses\u0022 accounting, the market selloff that wiped billions off Nvidia, Micron and SK Hynix, the WeChat \u0022WeWorm\u0022 attack, and why critics from Michael Burry to David Sacks to Donald Trump all called the slowdown self-serving. Is the AI safety panic real, a bid for regulatory capture, or both? Patrick Boyle explains. Patrick\u0027s Books: Statistics For The Trading Floor: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060https://amzn.to/3eerLA0\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 Derivatives For The Trading Floor: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 https://amzn.to/3cjsyPF\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 Corporate Finance: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060https://amzn.to/3fn3rvC \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 Ways To Support The Channel: Patreon: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060https://www.patreon.com/PatrickBoyleOnFinance\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 Buy Me a Coffee: https://www.buymeacoffee.com/patrickboyle",
+      "release": "2026-09-20T20:30:06Z",
+      "duration": "00:31:35.5600000",
+      "explicit": false,
+      "spotifyId": "5HbeeYIosMFQVDgy65my3u",
+      "appleId": 1000790834133,
+      "subjects": [
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5HbeeYIosMFQVDgy65my3u",
+        "apple": "https://podcasts.apple.com/podcast/the-doomsday-cult-inside-openai/id1547740313?i=1000790834133"
+      }
+    },
     {
       "id": "6bb67fd5-dcb6-4219-9d30-f92945e86b74",
       "title": "The Unmasked Six: The Men the FBI Tried to Hide",

@@ -594,16 +594,12 @@
       "release": "2023-03-29T14:46:28Z",
       "duration": "01:54:05.0330000",
       "explicit": true,
-      "spotifyId": "4GGWYXLcgY6ocTqHG0umTR",
       "appleId": 1000606476908,
-      "youTubeId": "Jxp-yHx8eCw",
       "subjects": [
         "Kwasizabantu"
       ],
       "urls": {
-        "spotify": "https://open.spotify.com/episode/4GGWYXLcgY6ocTqHG0umTR",
-        "apple": "https://podcasts.apple.com/podcast/s2-ep-11-erika-bornman-p1-on-her-life-advocacy-work/id1539680073?i=1000606476908",
-        "youtube": "https://www.youtube.com/watch?v=Jxp-yHx8eCw"
+        "apple": "https://podcasts.apple.com/podcast/s2-ep-11-erika-bornman-p1-on-her-life-advocacy-work/id1539680073?i=1000606476908"
       }
     },
     {

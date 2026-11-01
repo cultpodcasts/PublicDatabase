@@ -1,0 +1,21 @@
+{
+  "id": "588d6990-8ef4-4a77-bbdb-f9662be6e30a",
+  "name": "Muki TV",
+  "youTubeChannelId": "UC_izeKcBiKfOvhykUG42YuA",
+  "episodes": [
+    {
+      "id": "e8642f39-0f26-4c75-8704-a505cba1b0ae",
+      "title": "Shakahola cult leader Paul Mackenzie Convicted over massive graves in his church",
+      "release": "2026-10-19T09:18:47Z",
+      "duration": "00:10:02",
+      "explicit": false,
+      "youTubeId": "RiUuSdNYADo",
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RiUuSdNYADo"
+      }
+    }
+  ]
+}

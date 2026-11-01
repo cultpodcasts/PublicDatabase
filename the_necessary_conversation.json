@@ -1,0 +1,31 @@
+{
+  "id": "b0c744f9-9dcd-4f93-9733-3b22a71b363c",
+  "name": "The Necessary Conversation",
+  "spotifyId": "3hkMl04iMcdayIhxFbL9WT",
+  "appleId": 1640311112,
+  "youTubeChannelId": "UCeny7bIu5FsrZ8C55dSmWSw",
+  "episodes": [
+    {
+      "id": "a2850191-d2cc-4d94-8503-a8a6554d1d4f",
+      "title": "Special Guest: Dr. Steve Hassan",
+      "description": "On this special Friday episode Mary Lou, Haley and Chad are joined by Dr. Steven Hassan, author of The Cult of Trump. Instagram: https://www.instagram.com/cultexpert/ Substack: https://stevenhassan.substack.com YouTube: https://www.youtube.com/@drstevenhassan Facebook: https://www.facebook.com/dr.steven.hassan Twitter/X: https://x.com/CultExpert BlueSky: https://bsky.app/profile/cultexpert.freedomofmind.com TikTok: https://www.tiktok.com/@cultexpert LinkedIn: https://www.linkedin.com/in/stevenhassan/ Threads: https://www.threads.com/@cultexpert If you have a question for anyone on the show, record it in a 1 minute or under audio or video clip and send it to: thenecessaryconversationpod@gmail.com",
+      "release": "2026-10-09T22:00:00Z",
+      "duration": "01:06:58.8080000",
+      "explicit": false,
+      "spotifyId": "30nOKFW6z2uhrjkmfnuzX5",
+      "appleId": 1000794545569,
+      "youTubeId": "FeSrMg01I_E",
+      "subjects": [
+        "Cult-Expert",
+        "Political Cult",
+        "Qanon",
+        "_America"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/30nOKFW6z2uhrjkmfnuzX5",
+        "apple": "https://podcasts.apple.com/podcast/special-guest-dr-steve-hassan/id1640311112?i=1000794545569",
+        "youtube": "https://www.youtube.com/watch?v=FeSrMg01I_E"
+      }
+    }
+  ]
+}

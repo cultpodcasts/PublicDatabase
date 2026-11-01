@@ -1,0 +1,58 @@
+{
+  "id": "d406459f-cc79-4a0b-8167-f4ab64f98af5",
+  "name": "Background Briefing",
+  "spotifyId": "6PtJW6iHwcPFV3JgKlYTIO",
+  "appleId": 73330306,
+  "episodes": [
+    {
+      "id": "d07bdba1-7b57-4c85-a2e9-1a9b0607ca58",
+      "title": "02 The Unbreakable Cult | The recruiter",
+      "description": "Helen doesn\u0027t know her psychologist is devoted to the cult of Universal Medicine. So when she finally seeks help for her childhood trauma, she thinks she can trust this registered health professional. Soon, she\u0027s been referred to spiritual healers, sent to a masseuse for \u0022esoteric breast massage\u0022 and put on the path to meeting cult leader Serge Benhayon.",
+      "release": "2026-10-29T13:00:00Z",
+      "duration": "00:33:34",
+      "explicit": false,
+      "spotifyId": "0xyNYPsFBf0TjE8pbOEbFo",
+      "appleId": 1000798842226,
+      "subjects": [
+        "Universal Medicine",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0xyNYPsFBf0TjE8pbOEbFo",
+        "apple": "https://podcasts.apple.com/podcast/02-the-unbreakable-cult-the-recruiter/id73330306?i=1000798842226"
+      }
+    },
+    {
+      "id": "783b6bb0-a10e-4788-9c51-71f772da170f",
+      "title": "01 The Unbreakable Cult | Hands on",
+      "description": "When Serge Benhayon had a spiritual epiphany sitting on the toilet nearly 30 years ago, he says he became possessed with all the knowledge of the universe. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-10-22T13:00:00Z",
+      "duration": "00:35:37.1850000",
+      "explicit": false,
+      "spotifyId": "7eQlAlXh9N0VDCorVn5Lv9",
+      "appleId": 1000797734614,
+      "subjects": [
+        "Universal Medicine"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7eQlAlXh9N0VDCorVn5Lv9",
+        "apple": "https://podcasts.apple.com/podcast/01-the-unbreakable-cult-hands-on/id73330306?i=1000797734614"
+      }
+    },
+    {
+      "id": "571b0ae0-8b0c-438c-a6bc-ea973772b22c",
+      "title": "INTRODUCING... The Unbreakable Cult",
+      "description": "Serge Benhayon has been leading a cult out of the Byron Bay hinterland \u2014 just south of the Queensland border \u2014 for more than a decade. He was found by a jury to be a charlatan who swindles cancer patients. Yet every time he comes under attack, his followers close ranks around him. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-10-19T00:00:00Z",
+      "duration": "00:02:36.3360000",
+      "explicit": false,
+      "spotifyId": "7JQQhpVGyZeC7aU5T5I35a",
+      "subjects": [
+        "Universal Medicine"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7JQQhpVGyZeC7aU5T5I35a"
+      }
+    }
+  ]
+}

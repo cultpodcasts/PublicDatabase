@@ -1,0 +1,19 @@
+{
+  "id": "897bb6a4-01c5-4cdd-90f5-ef0598637661",
+  "name": "Eye Investigations",
+  "imdbId": "tt39398650",
+  "tmdbId": 255311,
+  "episodes": [
+    {
+      "id": "b06d447d-1318-4279-83c3-b7af9de285a7",
+      "title": "Catching My Teacher",
+      "description": "Two former students lift the lid on sexual abuse and cover-ups at Islamic boarding schools in Indonesia. BBC Eye tracks down their teachers evading justice.",
+      "release": "2026-09-21T00:00:00Z",
+      "duration": "00:54:00",
+      "explicit": false,
+      "urls": {
+        "bbcIplayer": "https://www.bbc.co.uk/iplayer/episode/m0031lyg"
+      }
+    }
+  ]
+}

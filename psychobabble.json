@@ -1,0 +1,50 @@
+{
+  "id": "545d664f-bae8-4dea-a67c-4af7c57ee304",
+  "name": "Psychobabble",
+  "spotifyId": "0bhfvlkw5nuHJ63jqo5bCU",
+  "appleId": 1677100656,
+  "youTubeChannelId": "UCZlHNlu2CVjcPy9sA8iBHkQ",
+  "episodes": [
+    {
+      "id": "276f0ba7-100d-434f-9df1-e75f4f133b80",
+      "title": "#98.  They Feel Sorry for Elizabeth Holmes. Here\u0027s What They Miss",
+      "description": "Elizabeth Holmes was convicted of deliberately deceiving investors. Why is the conversation now about feeling sorry for her? Her new documentary, You Can See Everything, presents a softer image: a mother facing separation from her children. In this episode of Psychobabble, I examine that sympathetic portrait alongside her conduct, her deposition footage, and the evidence of deliberate fraud. Using the triarchic model of psychopathy\u2014boldness, meanness, and disinhibition\u2014I explore the personality traits behind deception, exploitation, intimidation, and calculated image management. Did Holmes believe her own claims? What does her response to scrutiny reveal about accountability? And why do motherhood and allegations of abuse change how people interpret her actions? A closer look at Elizabeth Holmes, female psychopathic traits, and the behavior that sympathy can lead people to overlook. Subscribe to Psychobabble with Spier for more psychological case analysis and honest discussion of female psychology. Please leave a rating and a review! That would help me a lot!",
+      "release": "2026-10-29T12:30:00Z",
+      "duration": "00:28:08.6400000",
+      "explicit": false,
+      "spotifyId": "1z7rBvRuRKamvMBs5w2PLP",
+      "appleId": 1000798708491,
+      "youTubeId": "WW9_BjE20ZA",
+      "subjects": [
+        "Theranos",
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1z7rBvRuRKamvMBs5w2PLP",
+        "apple": "https://podcasts.apple.com/podcast/98-they-feel-sorry-for-elizabeth-holmes-heres-what-they-miss/id1677100656?i=1000798708491",
+        "youtube": "https://www.youtube.com/watch?v=WW9_BjE20ZA"
+      }
+    },
+    {
+      "id": "5bfa8caf-4172-413f-b6d7-b12c09f8a212",
+      "title": "#95. Why Female Psychopaths Are So Hard to Recognize",
+      "description": "I\u0027m joined by Dr Fiona Girkin, a researcher specialising in female psychopathy and dark personality traits, whose doctoral research examined workplace bullying in the community services sector. We discuss relational aggression, weaponised victimhood, revenge, parental alienation and the difference between everyday selfishness and calculated abuse. We also explore whether feminism, social media and a lack of accountability are rewarding destructive behaviour and how to recognise warning signs in workplaces, friendships and romantic relationships.",
+      "release": "2026-10-19T14:51:00Z",
+      "duration": "00:58:13.2330000",
+      "explicit": false,
+      "spotifyId": "6T84fuGBmS5AMoWR0LldpJ",
+      "appleId": 1000797094220,
+      "youTubeId": "19HJd4YJ5t8",
+      "subjects": [
+        "Cult Psychology",
+        "Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6T84fuGBmS5AMoWR0LldpJ",
+        "apple": "https://podcasts.apple.com/podcast/95-why-female-psychopaths-are-so-hard-to-recognize/id1677100656?i=1000797094220",
+        "youtube": "https://www.youtube.com/watch?v=19HJd4YJ5t8"
+      }
+    }
+  ]
+}

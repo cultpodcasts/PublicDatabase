@@ -5,6 +5,58 @@
   "appleId": 1856012961,
   "episodes": [
     {
+      "id": "7f73d451-da60-41ce-ba74-1f44fdb3d824",
+      "title": "NXIVM: Episode 13: Emiliano Salinas, Prorsus Capital, and What It All Means RE-UPLOAD",
+      "description": "In which we try to wrap this series in to some sort of a satisfying bow.\nMusic by DiffuseTensor\nPlease head over to the Patreon if you would like to support me and my work:\n\n\nhttps://patreon.com/TheDustlightArchives?utm_medium=unknown\u0026utm_source=join_link\u0026utm_campaign=creatorshare_creator\u0026utm_content=copyLink",
+      "release": "2026-10-29T15:00:00Z",
+      "duration": "00:53:35",
+      "explicit": false,
+      "spotifyId": "25coYowRM62Zt42GIEHGno",
+      "appleId": 1000798731193,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/25coYowRM62Zt42GIEHGno",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-13-emiliano-salinas-prorsus-capital-and/id1856012961?i=1000798731193"
+      }
+    },
+    {
+      "id": "a046edb0-ad37-494b-a01d-40ab33283e97",
+      "title": "NXIVM: Episode 13: Emiliano Salinas, Prorsus Capital, and What it all means",
+      "description": "In which we close out our NXIVM series and hopefully tie it all in to some sort of a satisfying bow",
+      "release": "2026-10-27T20:00:00Z",
+      "duration": "00:54:55",
+      "explicit": false,
+      "spotifyId": "1iBPT4rPv69avZQa9XZWoQ",
+      "appleId": 1000798417257,
+      "subjects": [
+        "NXIVM"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1iBPT4rPv69avZQa9XZWoQ",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-13-emiliano-salinas-prorsus-capital-and/id1856012961?i=1000798417257"
+      }
+    },
+    {
+      "id": "09ee9258-6174-416a-baaf-bc81726799e6",
+      "title": "NXIVM: Episode 12: Rainbow Cultural Gardens, The LeBarons, and Data Harvesting",
+      "description": "In which we discuss NXIVM\u0027s creepy behavior modification school for young children, the Mormon offshoot cult that crossed paths with NXIVM, and the nature of data harvesting",
+      "release": "2026-10-06T17:00:00Z",
+      "duration": "00:51:01",
+      "explicit": false,
+      "spotifyId": "0wa82Zj88GUcOpPUYk8ZZH",
+      "appleId": 1000793495979,
+      "subjects": [
+        "NXIVM",
+        "Church of the Firstborn (LeBaron family)"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0wa82Zj88GUcOpPUYk8ZZH",
+        "apple": "https://podcasts.apple.com/podcast/nxivm-episode-12-rainbow-cultural-gardens-the/id1856012961?i=1000793495979"
+      }
+    },
+    {
       "id": "c56d6b8f-d4ce-4de3-ae44-2aad77632f24",
       "title": "NXIVM: Interlude: Interfor, CanaProbe, and Rick Alan Ross",
       "description": "In which we discuss the various PI firms, mercenary groups, and scam artists around NXIVM",

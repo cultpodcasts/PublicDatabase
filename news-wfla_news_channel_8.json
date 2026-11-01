@@ -1,0 +1,48 @@
+{
+  "id": "9e2425a7-926e-4139-ba1f-90959c431b52",
+  "name": "WFLA News Channel 8",
+  "reports": [
+    {
+      "id": "091bb38d-ea18-4e8d-bd65-2d541ca31825",
+      "title": "Clearwater group fights road transfer to Church of Scientology",
+      "description": "Clearwater group fights road transfer to Church of Scientology",
+      "release": "2026-09-17T15:00:34Z",
+      "duration": "00:01:38",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=zLq1USute0I"
+      }
+    },
+    {
+      "id": "97156222-9665-418b-956e-cbb5b386db67",
+      "title": "Church of Scientology backs out of deal to buy downtown Clearwater street",
+      "description": "The Church of Scientology withdrew its application asking the City of Clearwater to vacate a downtown street ahead of the scheduled city council vote. Read more on WFLA.com",
+      "release": "2025-05-15T16:57:40Z",
+      "duration": "00:00:51",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=FFTEDUB2bXY"
+      }
+    },
+    {
+      "id": "539023e2-d85c-4102-8537-9adf9ca4d77d",
+      "title": "Clearwater Police accused of showing favor to Church of Scientology",
+      "description": "The Clearwater Police Chief took to Facebook over the weekend, releasing a video where he answers allegations of being \u0022used\u0022 and showing favor to the Church of Scientology, based in downtown Clearwater.",
+      "release": "2019-02-05T04:22:51Z",
+      "duration": "00:01:59",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=BERMGgRGqc0"
+      }
+    }
+  ]
+}

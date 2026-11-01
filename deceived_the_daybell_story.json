@@ -1,0 +1,59 @@
+{
+  "id": "582a1f09-e116-401f-be96-504374bf75ff",
+  "name": "Deceived: The Daybell Story",
+  "spotifyId": "3SROBsMtRBBjSyszg86Gyn",
+  "appleId": 6823835230,
+  "episodes": [
+    {
+      "id": "c34aa8ab-a119-4426-9f1d-7f28f3baa2f9",
+      "title": "Ep 2: Hawaii",
+      "description": "An anonymous tip sends Nate Eaton to the beaches of Kauai in search of Lori Vallow and Chad Daybell to confront them with the question at the heart of the case: Where are the children JJ Vallow \u0026 Tylee Ryan? And a new interview with an Idaho police officer who flew out to Hawaii offers a revealing look at the woman at the center of the case. Want to listen ad-free and get next week\u0027s episode early? Join the Deceived Insider Club to get these benefits and exclusive bonus content. If you enjoy Deceived, please try these other great shows from KSL Podcasts : COLD , The Letter , Ransom , Stranger Becomes Neighbor",
+      "release": "2026-10-29T09:10:00Z",
+      "duration": "00:39:27.0330000",
+      "explicit": false,
+      "spotifyId": "7wokrihibmK1sKgKwQCaLC",
+      "appleId": 1000798678067,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7wokrihibmK1sKgKwQCaLC",
+        "apple": "https://podcasts.apple.com/podcast/hawaii/id6823835230?i=1000798678067"
+      }
+    },
+    {
+      "id": "0e2d8326-b50c-403e-b91a-d4498c2c8049",
+      "title": "Ep 1: Warning Signs",
+      "description": "A promising first date. Troubling stories of an estranged wife. Then, silence. Nancy Jo Hancock recalls her evening with Charles Vallow \u2013 and a discovery months later that cast their date in a different light. Months later, in eastern Idaho, journalist Nate Eaton follows a strange missing-children case and begins uncovering a troubling web of deaths, disappearances, and extreme beliefs. Want to listen ad-free and get next week\u0027s episode early? Join the Deceived Insider Club to get these benefits and exclusive bonus content. If you enjoy Deceived, please try these other great shows from KSL Podcasts : COLD , The Letter , Ransom , Stranger Becomes Neighbor",
+      "release": "2026-10-29T09:00:00Z",
+      "duration": "00:31:23.9510000",
+      "explicit": false,
+      "spotifyId": "04WqXjP0UMozPtyrKKicf0",
+      "appleId": 1000798673470,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/04WqXjP0UMozPtyrKKicf0",
+        "apple": "https://podcasts.apple.com/podcast/warning-signs/id6823835230?i=1000798673470"
+      }
+    },
+    {
+      "id": "d1314f12-5d46-4af9-8e76-cdc0306dc3ba",
+      "title": "Introducing Deceived: The Daybell Story",
+      "description": "What started as a search for two missing children exposed a chilling story of murder, spiritual manipulation and fractured families. Join journalist Nate Eaton in his investigation into the case of Lori Vallow and Chad Daybell through the experiences of the people who lived it. From KSL Podcasts , Deceived: The Daybell Story premieres October 29th. Follow now so you don\u0027t miss an episode.",
+      "release": "2026-10-16T01:09:41Z",
+      "duration": "00:03:16.7800000",
+      "explicit": false,
+      "spotifyId": "5QVydVxBf6MW0qM4gVQktx",
+      "appleId": 1000796751483,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5QVydVxBf6MW0qM4gVQktx",
+        "apple": "https://podcasts.apple.com/podcast/introducing-deceived-the-daybell-story/id6823835230?i=1000796751483"
+      }
+    }
+  ]
+}

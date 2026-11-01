@@ -3,6 +3,7 @@
   "name": "Forensic Nurse Files",
   "spotifyId": "3L7dAvCLIdfUBYgPScfXYA",
   "appleId": 1676718083,
+  "youTubeChannelId": "UCpEpsUd32Hv5xMNpnWOTvwA",
   "episodes": [
     {
       "id": "ab79ccb7-3202-4e8b-9709-9e4fe492c324",
@@ -13,12 +14,14 @@
       "explicit": true,
       "spotifyId": "2eyEf8ERfA075YbkShmR6Z",
       "appleId": 1000771286982,
+      "youTubeId": "KJR8IdFGk4k",
       "subjects": [
         "Back To The Cross Ministry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2eyEf8ERfA075YbkShmR6Z",
-        "apple": "https://podcasts.apple.com/podcast/63-nikos-story-inside-the-peach-house-cult-part-3/id1676718083?i=1000771286982"
+        "apple": "https://podcasts.apple.com/podcast/63-nikos-story-inside-the-peach-house-cult-part-3/id1676718083?i=1000771286982",
+        "youtube": "https://www.youtube.com/watch?v=KJR8IdFGk4k"
       }
     },
     {
@@ -30,12 +33,14 @@
       "explicit": true,
       "spotifyId": "6c5GOyqQLZjJ2K0WJeEY1u",
       "appleId": 1000770138315,
+      "youTubeId": "wq6_jVnJdHs",
       "subjects": [
         "Back To The Cross Ministry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6c5GOyqQLZjJ2K0WJeEY1u",
-        "apple": "https://podcasts.apple.com/podcast/62-nikos-story-inside-the-peach-house-cult-part-2/id1676718083?i=1000770138315"
+        "apple": "https://podcasts.apple.com/podcast/62-nikos-story-inside-the-peach-house-cult-part-2/id1676718083?i=1000770138315",
+        "youtube": "https://www.youtube.com/watch?v=wq6_jVnJdHs"
       }
     },
     {
@@ -47,12 +52,33 @@
       "explicit": true,
       "spotifyId": "0sSibPLCGtmjOW5xY84IV5",
       "appleId": 1000769045102,
+      "youTubeId": "tMBp_JYulY0",
       "subjects": [
         "Back To The Cross Ministry"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/0sSibPLCGtmjOW5xY84IV5",
-        "apple": "https://podcasts.apple.com/podcast/61-nikos-story-inside-the-peach-house-cult-part-1/id1676718083?i=1000769045102"
+        "apple": "https://podcasts.apple.com/podcast/61-nikos-story-inside-the-peach-house-cult-part-1/id1676718083?i=1000769045102",
+        "youtube": "https://www.youtube.com/watch?v=tMBp_JYulY0"
+      }
+    },
+    {
+      "id": "408e0ddf-87e9-4bba-be60-fe2a8c8d80f9",
+      "title": "56. Shattering the Secret: From Victim to Advocate - Angela\u0027s Story Part 1",
+      "description": "This is part 1 of 3 as Angela shares her journey as a cult survivor. She details her experiences of abuse, trafficking, and her fight for freedom. This episode sheds light on the dark realities of cults, human trafficking, and the resilience needed to escape and heal. Angela shares her harrowing journey through cult abuse, domestic violence, and human trafficking, highlighting systemic failures and her ongoing fight for justice and awareness. Her story offers vital insights into trauma, resilience, and the importance of advocacy.\n\n\nAngela\u0027s Podcast - Squirrel Brain Stories:\nhttps://open.spotify.com/show/3ExeitUrpNJD0f8gEyQwNv?si=3FGLmSGkRZ-lp3HbUxF0Nw\n\n\nSuicide \u0026 Crisis Lifeline:\nCall or text 988 from any phone in the United States\nTraining Institute on Strangulation Prevention:\nhttps://www.strangulationtraininginstitute.com/\nAmerican Foundation for Suicide Prevention:\nhttps://afsp.org/\nRape, Abuse and Incest National Network (RAINN):\nhttps://www.rainn.org/\nNational Center for Victims of Crime:\nhttps://victimsofcrime.org\nVictim Connect Resource Center:\nhttps://victimconnect.org\nNational Crime Victim Bar Association:\nhttps://victimbar.org\nSubstance Abuse and Mental Health Service Administration (SAMHSA):\nhttps://www.samhsa.gov/find-help/national-helpline\nNational Alliance on Mental Illness (NAMI):\nhttps://www.nami.org/help\n\n\nHOW TO REACH US:\nWebsite: forensicnursefiles.com\nGmail: forensicnursefilespod@gmail.com\nIG/Facebook: @forensicnursefiles\nTiktok: @forensicnursefilespod\n\n\nAre you a nurse or healthcare provider in the forensics field? Are you a victim of assault? Reach out to us! We would love to feature you or your story anonymously on an episode!",
+      "release": "2026-04-17T07:00:00Z",
+      "duration": "00:44:40",
+      "explicit": false,
+      "spotifyId": "6JrPCXuhzu6aUWmHZb1zkD",
+      "appleId": 1000761953704,
+      "youTubeId": "BNrbgJPBUtY",
+      "subjects": [
+        "Human Trafficking"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6JrPCXuhzu6aUWmHZb1zkD",
+        "apple": "https://podcasts.apple.com/podcast/56-shattering-the-secret-from-victim-to-advocate/id1676718083?i=1000761953704",
+        "youtube": "https://www.youtube.com/watch?v=BNrbgJPBUtY"
       }
     }
   ]

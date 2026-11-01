@@ -3,7 +3,120 @@
   "name": "Unspun",
   "spotifyId": "15RSHn7XuDynmjQuc3AhGQ",
   "appleId": 1883830810,
+  "youTubeChannelId": "UCwvRm5Q2tRs7CwSOjMC2VbA",
   "episodes": [
+    {
+      "id": "3a53782b-b0a6-429f-9bb0-91f8059dd198",
+      "title": "EP 17 - Jaya Book Interview",
+      "description": "Today Alisa asks Jaya about what it was like to write his upcoming memoir \u0022Saving Sentient Beings\u0022.",
+      "release": "2026-10-19T22:00:00Z",
+      "duration": "00:46:49",
+      "explicit": false,
+      "spotifyId": "0xplEUVq9QnRpSQVm1KUjS",
+      "appleId": 1000797156846,
+      "youTubeId": "bBBm_JBeEHQ",
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0xplEUVq9QnRpSQVm1KUjS",
+        "apple": "https://podcasts.apple.com/podcast/ep-17-jaya-book-interview/id1883830810?i=1000797156846",
+        "youtube": "https://www.youtube.com/watch?v=bBBm_JBeEHQ"
+      }
+    },
+    {
+      "id": "e0bcf0e2-a146-4428-82dc-3667d643815d",
+      "title": "EP 16 - Nicola Ranson Part 2",
+      "description": "For 10 years Nicola Ranson was a disciple of the guru, Bhagwan Shree Rajneesh (AKA Osho) from India to Oregon until the commune collapsed amid criminal activity. She became a somatic psychotherapist specialising in trauma and has worked with many cult survivors. Nicola taught Counselling Psychology for 17 years on the adjunct faculty at National University. Her memoir, A Slice of Orange: loving and leaving the Osho/Rajneesh cult will be published by Unsolicited Press this December.",
+      "release": "2026-10-05T23:00:00Z",
+      "duration": "00:54:55",
+      "explicit": false,
+      "appleId": 1000793334299,
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "apple": "https://podcasts.apple.com/podcast/ep-16-nicola-ranson-part-2/id1883830810?i=1000793334299"
+      }
+    },
+    {
+      "id": "4cffd462-dcb0-425b-92b3-594c70309250",
+      "title": "How Cult Trauma Impacts Healing: A Cult Survivor Turned Therapist | Unspun",
+      "description": "EP 16 \u2014 Nicola Ranson Part 2\n\nFor 10 years Nicola Ranson was a disciple of the guru, Bhagwan Shree Rajneesh (AKA Osho) from India to Oregon until the commune collapsed amid criminal activity. She became a somatic psychotherapist specialising in trauma and has worked with many cult survivors. Nicola taught Counselling Psychology for 17 years on the adjunct faculty at National University. Her memoir, A Slice of Orange: loving and leaving the Osho/Rajneesh cult will be published by Unsolicited Press this December.",
+      "release": "2026-10-05T20:33:34Z",
+      "duration": "00:46:35",
+      "explicit": false,
+      "spotifyId": "0pVqUpxiYadcNpxuKB1w4C",
+      "appleId": 1000791199253,
+      "youTubeId": "b38JOuT5ydw",
+      "subjects": [
+        "Bhagwan Shree Rajneesh",
+        "Psychology",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0pVqUpxiYadcNpxuKB1w4C",
+        "apple": "https://podcasts.apple.com/podcast/ep-15-nicola-ranson-part-1/id1883830810?i=1000791199253",
+        "youtube": "https://www.youtube.com/watch?v=b38JOuT5ydw"
+      }
+    },
+    {
+      "id": "cc5dacb2-641e-4f00-8a54-22d1fc494ddc",
+      "title": "Bonus Decult Episode - Aaron Strong ex Pentecostal",
+      "description": "Decult 2026 will be here next month. We are lucky enough to talk to the conference\u0027s very first speaker Aaron Strong.\nAaron Sharp is a psychologist and former member of high-control Pentecostal churches. He became involved with the Potter\u2019s House Christian Fellowship at around 15 years of age and remained within high-control Pentecostal environments for approximately 25 years. After leaving in his early 40s, he began the difficult process of rebuilding his identity, beliefs and direction in life. In 2016, he began studying psychology at university and went on to complete postgraduate training in professional and clinical psychology. He is now a registered psychologist completing the Clinical Psychology Registrar Program in Australia. His professional interests include religious trauma, coercive control and recovery from high-control groups. Aaron also speaks publicly about his own experience of indoctrination, leaving, and rebuilding a life after religion. In 2026, he is speaking at the DECULT Conference in Christchurch, New Zealand, about his journey into, through and out of high-control religion.\nDECULT 2026 speaker profile: \nhttps://decult.net/speaker/aaron-sharp/\nNew Directions Psychology: https://www.newdirectionspsychology.com.au/",
+      "release": "2026-09-27T04:13:07Z",
+      "duration": "01:30:20",
+      "explicit": false,
+      "spotifyId": "2lwIfYYG18KTZns2IiF9vk",
+      "appleId": 1000791827855,
+      "youTubeId": "DErhQId8CGY",
+      "subjects": [
+        "Psychology",
+        "Evangelicalism",
+        "Potter\u0027s House Christian Fellowship",
+        "Cult Psychology",
+        "Cult Recovery"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2lwIfYYG18KTZns2IiF9vk",
+        "apple": "https://podcasts.apple.com/podcast/bonus-decult-episode-aaron-strong-ex-pentecostal/id1883830810?i=1000791827855",
+        "youtube": "https://www.youtube.com/watch?v=DErhQId8CGY"
+      }
+    },
+    {
+      "id": "1a9fbb80-5e94-4cc0-8c54-051ba29db870",
+      "title": "EP 15 - Nicola Ranson Part 1",
+      "description": "For 10 years Nicola Ranson was a disciple of the guru, Bhagwan Shree Rajneesh (AKA Osho) from India to Oregon until the commune collapsed amid criminal activity. She became a somatic psychotherapist specialising in trauma and has worked with many cult survivors. Nicola taught Counselling Psychology for 17 years on the adjunct faculty at National University. Her memoir, A Slice of Orange: loving and leaving the Osho/Rajneesh cult will be published by Unsolicited Press this December",
+      "release": "2026-09-23T01:16:43Z",
+      "duration": "00:47:36",
+      "explicit": false,
+      "spotifyId": "7k65MRTspw583knYZ8nElI",
+      "appleId": 1000791199253,
+      "youTubeId": "jkdd-BwYgBE",
+      "subjects": [
+        "Bhagwan Shree Rajneesh"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7k65MRTspw583knYZ8nElI",
+        "apple": "https://podcasts.apple.com/podcast/ep-15-nicola-ranson-part-1/id1883830810?i=1000791199253",
+        "youtube": "https://www.youtube.com/watch?v=jkdd-BwYgBE"
+      }
+    },
+    {
+      "id": "37037159-1339-4272-b0e0-ae2d13df2976",
+      "title": "EP 14 - Bec Sonkkila Part 2",
+      "description": "Bec Sonkkila survived six years in the MISA yoga cult. Rebuilding her dismantled identity became her life\u0027s work. Today, she is an international recovery and relationship coach specialising in coercive control and post-cult identity. Using somatic practices, hypnotherapy and lived experience, Bec helps clients distinguish genuine connection from compliance. She splits her time between New Zealand, Australia and Finland, and is writing a book about finding a self you can trust.",
+      "release": "2026-09-23T01:12:25Z",
+      "duration": "00:46:01",
+      "explicit": false,
+      "spotifyId": "7Ebj0Q1AbtQazRIyiWWxmE",
+      "appleId": 1000791199469,
+      "subjects": [
+        "Gregorian Bivolaru"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/7Ebj0Q1AbtQazRIyiWWxmE",
+        "apple": "https://podcasts.apple.com/podcast/ep-14-bec-sonkkila-part-2/id1883830810?i=1000791199469"
+      }
+    },
     {
       "id": "9e1b312c-42ed-4c55-8fda-b851b1950011",
       "title": "Post-Decult Survivor Community Day Explainer",
@@ -13,9 +126,11 @@
       "explicit": false,
       "spotifyId": "7u3mQNu5rm6hcRYJBYyC3w",
       "appleId": 1000789694633,
+      "youTubeId": "-Ez9IoCTp2Y",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7u3mQNu5rm6hcRYJBYyC3w",
-        "apple": "https://podcasts.apple.com/podcast/post-decult-survivor-community-day-explainer/id1883830810?i=1000789694633"
+        "apple": "https://podcasts.apple.com/podcast/post-decult-survivor-community-day-explainer/id1883830810?i=1000789694633",
+        "youtube": "https://www.youtube.com/watch?v=-Ez9IoCTp2Y"
       }
     },
     {
@@ -27,12 +142,14 @@
       "explicit": false,
       "spotifyId": "3CulnL8JAr5qOXnc3hkBcs",
       "appleId": 1000785928151,
+      "youTubeId": "RXcBrxmGfRs",
       "subjects": [
         "Gregorian Bivolaru"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3CulnL8JAr5qOXnc3hkBcs",
-        "apple": "https://podcasts.apple.com/podcast/ep-13-bec-sonkkila/id1883830810?i=1000785928151"
+        "apple": "https://podcasts.apple.com/podcast/ep-13-bec-sonkkila/id1883830810?i=1000785928151",
+        "youtube": "https://www.youtube.com/watch?v=RXcBrxmGfRs"
       }
     },
     {
@@ -44,13 +161,15 @@
       "explicit": false,
       "spotifyId": "7vSa0p7nEwK9e37jmmphir",
       "appleId": 1000782092812,
+      "youTubeId": "NBuhOl1cs6w",
       "subjects": [
         "Cult Psychology",
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7vSa0p7nEwK9e37jmmphir",
-        "apple": "https://podcasts.apple.com/podcast/ep-12-zara-murphy/id1883830810?i=1000782092812"
+        "apple": "https://podcasts.apple.com/podcast/ep-12-zara-murphy/id1883830810?i=1000782092812",
+        "youtube": "https://www.youtube.com/watch?v=NBuhOl1cs6w"
       }
     },
     {
@@ -62,12 +181,14 @@
       "explicit": false,
       "spotifyId": "7drmcWifjagILbZ7xuoUJh",
       "appleId": 1000778818793,
+      "youTubeId": "RDVo6ghI0AY",
       "subjects": [
         "Cult Psychology"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7drmcWifjagILbZ7xuoUJh",
-        "apple": "https://podcasts.apple.com/podcast/ep-11-reflection/id1883830810?i=1000778818793"
+        "apple": "https://podcasts.apple.com/podcast/ep-11-reflection/id1883830810?i=1000778818793",
+        "youtube": "https://www.youtube.com/watch?v=RDVo6ghI0AY"
       }
     },
     {
@@ -79,9 +200,11 @@
       "explicit": false,
       "spotifyId": "7BSV7L3RO2X1246AYgE7IC",
       "appleId": 1000776836254,
+      "youTubeId": "2OjfvKVo0KU",
       "urls": {
         "spotify": "https://open.spotify.com/episode/7BSV7L3RO2X1246AYgE7IC",
-        "apple": "https://podcasts.apple.com/podcast/ep-10-grace-tempest/id1883830810?i=1000776836254"
+        "apple": "https://podcasts.apple.com/podcast/ep-10-grace-tempest/id1883830810?i=1000776836254",
+        "youtube": "https://www.youtube.com/watch?v=2OjfvKVo0KU"
       }
     },
     {
@@ -93,12 +216,14 @@
       "explicit": false,
       "spotifyId": "2NtktUmFHcobQRH7sWHftG",
       "appleId": 1000774801108,
+      "youTubeId": "T_9khjDDDy8",
       "subjects": [
         "Two By Twos"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2NtktUmFHcobQRH7sWHftG",
-        "apple": "https://podcasts.apple.com/podcast/ep-9-tristan-phipps-ex-2x2/id1883830810?i=1000774801108"
+        "apple": "https://podcasts.apple.com/podcast/ep-9-tristan-phipps-ex-2x2/id1883830810?i=1000774801108",
+        "youtube": "https://www.youtube.com/watch?v=T_9khjDDDy8"
       }
     },
     {
@@ -110,12 +235,14 @@
       "explicit": false,
       "spotifyId": "4ONsjq0JGLAVbikvXAnmBY",
       "appleId": 1000772913236,
+      "youTubeId": "9Ciq4A72gq4",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4ONsjq0JGLAVbikvXAnmBY",
-        "apple": "https://podcasts.apple.com/podcast/ep-8-rusty-exjw/id1883830810?i=1000772913236"
+        "apple": "https://podcasts.apple.com/podcast/ep-8-rusty-exjw/id1883830810?i=1000772913236",
+        "youtube": "https://www.youtube.com/watch?v=9Ciq4A72gq4"
       }
     },
     {
@@ -127,12 +254,14 @@
       "explicit": false,
       "spotifyId": "6WFWCE3VP2zDuLr9w0pOT6",
       "appleId": 1000772307451,
+      "youTubeId": "HLHAT6-WtRY",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/6WFWCE3VP2zDuLr9w0pOT6",
-        "apple": "https://podcasts.apple.com/podcast/ep-7-royden-gibbs-exjw/id1883830810?i=1000772307451"
+        "apple": "https://podcasts.apple.com/podcast/ep-7-royden-gibbs-exjw/id1883830810?i=1000772307451",
+        "youtube": "https://www.youtube.com/watch?v=HLHAT6-WtRY"
       }
     },
     {
@@ -144,12 +273,14 @@
       "explicit": false,
       "spotifyId": "3x3CX5umzQMXHgr0Q412dd",
       "appleId": 1000768509364,
+      "youTubeId": "tx__ywuKSzE",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3x3CX5umzQMXHgr0Q412dd",
-        "apple": "https://podcasts.apple.com/podcast/ep-6-jonas-skogstroll-exjw/id1883830810?i=1000768509364"
+        "apple": "https://podcasts.apple.com/podcast/ep-6-jonas-skogstroll-exjw/id1883830810?i=1000768509364",
+        "youtube": "https://www.youtube.com/watch?v=tx__ywuKSzE"
       }
     },
     {
@@ -161,12 +292,14 @@
       "explicit": false,
       "spotifyId": "4PQoPU1ld09EPLWFZ9Ssce",
       "appleId": 1000766173813,
+      "youTubeId": "gyuZzLoNXQM",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/4PQoPU1ld09EPLWFZ9Ssce",
-        "apple": "https://podcasts.apple.com/podcast/ep-5-jennie-burt-exjw/id1883830810?i=1000766173813"
+        "apple": "https://podcasts.apple.com/podcast/ep-5-jennie-burt-exjw/id1883830810?i=1000766173813",
+        "youtube": "https://www.youtube.com/watch?v=gyuZzLoNXQM"
       }
     },
     {
@@ -178,12 +311,14 @@
       "explicit": false,
       "spotifyId": "21spNLYspABTHNYA6fuovK",
       "appleId": 1000762519218,
+      "youTubeId": "FQ7W1hi62-g",
       "subjects": [
         "Jehovah\u0027s Witnesses"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/21spNLYspABTHNYA6fuovK",
-        "apple": "https://podcasts.apple.com/podcast/ep-4-scott-homan-21-april-2025/id1883830810?i=1000762519218"
+        "apple": "https://podcasts.apple.com/podcast/ep-4-scott-homan-21-april-2025/id1883830810?i=1000762519218",
+        "youtube": "https://www.youtube.com/watch?v=FQ7W1hi62-g"
       }
     },
     {
@@ -195,12 +330,14 @@
       "explicit": false,
       "spotifyId": "7sBTdXYO81JLEdTbfXsfnp",
       "appleId": 1000759931561,
+      "youTubeId": "XZFu7Sdgpi4",
       "subjects": [
         "Shincheonji Church of Jesus"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/7sBTdXYO81JLEdTbfXsfnp",
-        "apple": "https://podcasts.apple.com/podcast/ep-3-laura-muir-7-apr-2026/id1883830810?i=1000759931561"
+        "apple": "https://podcasts.apple.com/podcast/ep-3-laura-muir-7-apr-2026/id1883830810?i=1000759931561",
+        "youtube": "https://www.youtube.com/watch?v=XZFu7Sdgpi4"
       }
     },
     {
@@ -212,9 +349,11 @@
       "explicit": false,
       "spotifyId": "38M2YHQJLB3OGRPp4nx5Yw",
       "appleId": 1000756927692,
+      "youTubeId": "-6ON4Tu9p6Y",
       "urls": {
         "spotify": "https://open.spotify.com/episode/38M2YHQJLB3OGRPp4nx5Yw",
-        "apple": "https://podcasts.apple.com/podcast/unspun-episode-2-alisa-woodruff/id1883830810?i=1000756927692"
+        "apple": "https://podcasts.apple.com/podcast/unspun-episode-2-alisa-woodruff/id1883830810?i=1000756927692",
+        "youtube": "https://www.youtube.com/watch?v=-6ON4Tu9p6Y"
       }
     },
     {
@@ -226,12 +365,14 @@
       "explicit": false,
       "spotifyId": "3CKo6KjrgaeWxR3Wj6INCk",
       "appleId": 1000754110967,
+      "youTubeId": "R0jzCVLgYXQ",
       "subjects": [
         "Falun Gong"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3CKo6KjrgaeWxR3Wj6INCk",
-        "apple": "https://podcasts.apple.com/podcast/episode-1-ex-falun-gong-survivor-jaya-mangalam-gibson/id1883830810?i=1000754110967"
+        "apple": "https://podcasts.apple.com/podcast/episode-1-ex-falun-gong-survivor-jaya-mangalam-gibson/id1883830810?i=1000754110967",
+        "youtube": "https://www.youtube.com/watch?v=R0jzCVLgYXQ"
       }
     }
   ]

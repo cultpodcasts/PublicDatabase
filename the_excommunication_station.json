@@ -5,6 +5,90 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "f5287ef7-ff2b-4119-9f1e-981f7311c8d0",
+      "title": "Carman Part III: Dominion Of The Land",
+      "description": "This week, we are joined again by This Fire podcast and we go into the start of Carman\u0022s dominant run of the CCM world.",
+      "release": "2026-10-27T15:52:41Z",
+      "duration": "02:31:02.3210000",
+      "explicit": true,
+      "spotifyId": "1QMgk2EOcJx1ZQysZsX5P9",
+      "appleId": 1000798381923,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1QMgk2EOcJx1ZQysZsX5P9",
+        "apple": "https://podcasts.apple.com/podcast/carman-part-iii-dominion-of-the-land/id1573190999?i=1000798381923"
+      }
+    },
+    {
+      "id": "a3302d04-4d07-4e4c-bdb6-a1ee2772c870",
+      "title": "278. Carman Part II",
+      "description": "We Continue our talk about Carman",
+      "release": "2026-10-20T19:01:31Z",
+      "duration": "02:26:57.2150000",
+      "explicit": true,
+      "spotifyId": "0kMQvp5eMTNvuFFKYJAVW4",
+      "appleId": 1000797311554,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0kMQvp5eMTNvuFFKYJAVW4",
+        "apple": "https://podcasts.apple.com/podcast/278-carman-part-ii/id1573190999?i=1000797311554"
+      }
+    },
+    {
+      "id": "5855d033-3c32-4eec-a70d-f7b1414c8b2d",
+      "title": "277. Carman Part I: Some O Dat",
+      "description": "We are joined by This Fire Podcast to start our series on Carman",
+      "release": "2026-10-14T00:39:43Z",
+      "duration": "01:59:48.4270000",
+      "explicit": true,
+      "spotifyId": "6V5eUWKwHik0kaYEYStszW",
+      "appleId": 1000796230049,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6V5eUWKwHik0kaYEYStszW",
+        "apple": "https://podcasts.apple.com/podcast/277-carman-part-i-some-o-dat/id1573190999?i=1000796230049"
+      }
+    },
+    {
+      "id": "a67d41a4-940f-4e48-a103-ef2706e5340c",
+      "title": "276. Speaking In Tongues III",
+      "description": "We finish up our talk on tongues",
+      "release": "2026-10-09T00:26:31Z",
+      "duration": "02:27:11.4780000",
+      "explicit": true,
+      "spotifyId": "37uwTvNZtyJYdFeyMIDcAk",
+      "appleId": 1000793959003,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/37uwTvNZtyJYdFeyMIDcAk",
+        "apple": "https://podcasts.apple.com/podcast/276-speaking-in-tongues-iii/id1573190999?i=1000793959003"
+      }
+    },
+    {
+      "id": "7fbc98ca-e647-4579-a902-c5415bbad80c",
+      "title": "275. Speaking In Tongues Part II",
+      "description": "Chrissy is taking the wheel again for our series on speaking in tongues.",
+      "release": "2026-10-01T03:22:39Z",
+      "duration": "01:51:01.0410000",
+      "explicit": false,
+      "spotifyId": "58vmHn07WfhY8Mv9pnR9EI",
+      "appleId": 1000792501080,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/58vmHn07WfhY8Mv9pnR9EI",
+        "apple": "https://podcasts.apple.com/podcast/275-speaking-in-tongues-part-ii/id1573190999?i=1000792501080"
+      }
+    },
+    {
+      "id": "310d0111-6a08-4150-8f75-55247c80099e",
+      "title": "274. Speaking In Tongues Part I",
+      "description": "Chrissy takes the wheel for this series",
+      "release": "2026-09-23T02:09:14Z",
+      "duration": "01:55:27.2550000",
+      "explicit": false,
+      "spotifyId": "6O9oANplyBN5DkEQUYNK4N",
+      "appleId": 1000791206894,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6O9oANplyBN5DkEQUYNK4N",
+        "apple": "https://podcasts.apple.com/podcast/274-speaking-in-tongues-part-i/id1573190999?i=1000791206894"
+      }
+    },
+    {
       "id": "7a12cd83-97f8-4a52-a7ce-c005fb0b9e05",
       "title": "273. Tim Tebow Part 666: The Finale",
       "description": "We finish up our tebow series this week",

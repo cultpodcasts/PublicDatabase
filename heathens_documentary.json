@@ -1,0 +1,22 @@
+{
+  "id": "3d274c19-5b5f-4ea4-a663-bd5a12d692e1",
+  "name": "Heathens Documentary",
+  "youTubeChannelId": "UCT6287MJP9QqEtfzxahjb1Q",
+  "episodes": [
+    {
+      "id": "5333602b-ffed-4b83-9e6c-5f748c800726",
+      "title": "Heathens | Official Trailer",
+      "description": "Five strangers meet at a secluded mountain retreat, each hiding a loss of religious faith that jeopardizes family, community and security. Inspired by music and kinship, the \u201CHeathens\u201D resolve to reclaim their lives\u2014and return home to learn, one by one, just how much the truth will cost them.",
+      "release": "2026-10-09T00:16:03Z",
+      "duration": "00:02:22",
+      "explicit": false,
+      "youTubeId": "0npyYVx-99c",
+      "subjects": [
+        "Evangelicalism"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0npyYVx-99c"
+      }
+    }
+  ]
+}

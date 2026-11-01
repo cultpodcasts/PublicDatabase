@@ -1,9 +1,29 @@
 {
   "id": "6b9654ce-893a-4892-8e67-8502fd802f03",
   "name": "You Can\u0027t Unhear",
+  "spotifyId": "1Ta6I8EnkOmGoC5XqurJiC",
   "appleId": 1895902238,
   "youTubeChannelId": "UCr8tRNrhzEYi22zNra3Q8pg",
   "episodes": [
+    {
+      "id": "54ecb5c2-b92f-45a1-afff-2714aca0562e",
+      "title": "31 Women Started Speaking Out.. Inside Koh Phangan\u0027s Alleged Yoga S*x Cult",
+      "description": "On the tropical Thai island of Koh Phangan, Agama Yoga became one of the world\u0027s largest tantric yoga schools, attracting students searching for spirituality, healing and personal transformation. Then former students began speaking out.\nIn 2018, fourteen women told the Guardian that Agama founder Narcis Tarcau, known as Swami Vivekananda Saraswati, had sexually assaulted or raped students under the guise of spiritual healing. Former members described an environment where sex with teachers was allegedly encouraged, criticism was blamed on negative karma, and vulnerable students were taught to distrust their own boundaries.\nThis episode examines the allegations, the culture surrounding Agama and how spiritual authority allegedly became a powerful tool of control.",
+      "release": "2026-10-08T11:00:23Z",
+      "duration": "00:15:57",
+      "explicit": false,
+      "spotifyId": "5YdLdClJt53B2YjVBzJswp",
+      "appleId": 1000793850049,
+      "youTubeId": "u1NkoL-Q_RY",
+      "subjects": [
+        "Agama Yoga"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/5YdLdClJt53B2YjVBzJswp",
+        "apple": "https://podcasts.apple.com/podcast/31-women-started-speaking-out-inside-koh-phangans-alleged/id1895902238?i=1000793850049",
+        "youtube": "https://www.youtube.com/watch?v=u1NkoL-Q_RY"
+      }
+    },
     {
       "id": "fe1dd0ae-c655-4971-bdee-5a0b0f24a55f",
       "title": "Last Episode of The Belief Trap! The Altamira Boys - Brazil\u0027s Cult of Child K*llers",

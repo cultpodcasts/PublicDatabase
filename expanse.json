@@ -7,6 +7,40 @@
   "youTubePlaylistId": "PLDTPrMoGHssBabkHzoDvVb4FLQEAlkW_-",
   "episodes": [
     {
+      "id": "2feeb71d-4034-406b-bb2e-624082047745",
+      "title": "S7 E01 | The crash",
+      "description": "It\u2019s a pitch black and freezing August night in 1981 when a pilot overhears the terrifying final minutes of flight VH-MDX over radio.",
+      "release": "2026-11-01T15:00:00Z",
+      "duration": "00:30:54",
+      "explicit": false,
+      "spotifyId": "0vBuHW7SnK8lfZssZqUcmD",
+      "appleId": 1000799234681,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/0vBuHW7SnK8lfZssZqUcmD",
+        "apple": "https://podcasts.apple.com/podcast/s7-e01-the-crash/id1635088231?i=1000799234681"
+      }
+    },
+    {
+      "id": "ff056937-847d-4067-80ae-7b5fd4eb1b04",
+      "title": "UPDATE | Expanse: The Nannup Four - A new search",
+      "description": "It\u0027s been a busy few months for host Dominique Bayens, working alongside search organisers and chasing down loose ends. It all comes together with some crucial new information coming to light as a community-led search for the missing Nannup four kicks off.",
+      "release": "2026-10-05T15:00:00Z",
+      "duration": "00:24:34",
+      "explicit": false,
+      "spotifyId": "1YwOUD1lndMf3ugKTh0JHR",
+      "appleId": 1000793270688,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1YwOUD1lndMf3ugKTh0JHR",
+        "apple": "https://podcasts.apple.com/podcast/update-expanse-the-nannup-four-a-new-search/id1635088231?i=1000793270688"
+      }
+    },
+    {
       "id": "480b212a-742e-4907-a8d2-6eea50ea9371",
       "title": "UPDATE | Expanse: The Nannup Four - Hope on the horizon",
       "description": "Host of season 6, Expanse: The Nannup Four, Dominique Bayens has been following the developments of the case of four people who disappeared from the isolated town of Nannup. Learn more about your ad choices. Visit megaphone.fm/adchoices",

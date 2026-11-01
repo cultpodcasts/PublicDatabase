@@ -1,0 +1,88 @@
+{
+  "id": "44014d5f-6d01-4519-9746-c7a5a19a7a55",
+  "name": "Surviving Jeffrey Epstein",
+  "imdbId": "tt10713688",
+  "tvdbId": 386372,
+  "tmdbId": 106282,
+  "episodes": [
+    {
+      "id": "7aae896a-1108-4467-b644-8759506a9b47",
+      "title": "Surviving Jeffrey Epstein: Trailer",
+      "description": "Survivors of Jeffrey Epstein share shocking stories of how the billionaire lured them, as teenagers, to his home through an elaborate series of female recruiters they thought they could trust.\n\nSurviving Jeffrey Epstein starts 23 May at 21:00 on #SABC2",
+      "release": "2026-05-17T09:37:14Z",
+      "duration": "00:00:31",
+      "explicit": false,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=MmAXCU81Y84"
+      }
+    },
+    {
+      "id": "bde3d347-80d4-4a39-9b13-7a179d980094",
+      "title": "Avenged",
+      "description": "With Jeffrey Epstein deceased, the survivors continue to seek justice and finally see a glimmer of hope with the shocking arrest of alleged co-conspirator Ghislaine Maxwell.",
+      "release": "2020-08-10",
+      "duration": "00:44:04",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "channel4": "https://www.channel4.com/programmes/surviving-jeffrey-epstein/on-demand/79702-004",
+        "youtube": "https://www.youtube.com/watch?v=gta9VrUTxTc"
+      }
+    },
+    {
+      "id": "e6bd590e-b3e3-4848-883e-c1767e69c607",
+      "title": "No Way Out",
+      "description": "Over the course of three decades, Epstein\u0027s sex trafficking operation became a well-oiled machine. Survivors reveal their experiences that took place on Epstein\u0027s private island.",
+      "release": "2020-08-10",
+      "duration": "00:51:08",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "channel4": "https://www.channel4.com/programmes/surviving-jeffrey-epstein/on-demand/79702-003",
+        "youtube": "https://www.youtube.com/watch?v=RAEjXoUd1Zg"
+      }
+    },
+    {
+      "id": "8475c3d4-073f-4c06-8d10-c39846f8dee7",
+      "title": "Lured",
+      "description": "Survivors reveal how Jeffrey Epstein lured young teenagers to his home through an elaborate series of female recruiters they thought they could trust.",
+      "release": "2020-08-09",
+      "duration": "00:51:13",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "channel4": "https://www.channel4.com/programmes/surviving-jeffrey-epstein/on-demand/79702-001",
+        "youtube": "https://www.youtube.com/watch?v=taNfeQnNyTU"
+      }
+    },
+    {
+      "id": "b286a759-da21-4818-95d5-2b02ba4ecd34",
+      "title": "Trapped",
+      "description": "Survivors untangle the complex and insidious sex trafficking scheme that ensnared them as trusting young women pursuing their dreams.",
+      "release": "2020-08-09",
+      "duration": "00:50:47",
+      "explicit": true,
+      "subjects": [
+        "Human Trafficking",
+        "_America"
+      ],
+      "urls": {
+        "channel4": "https://www.channel4.com/programmes/surviving-jeffrey-epstein/on-demand/79702-002",
+        "youtube": "https://www.youtube.com/watch?v=vL1SElTWzFA"
+      }
+    }
+  ]
+}

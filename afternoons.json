@@ -1,0 +1,26 @@
+{
+  "id": "4acc9edf-a9ab-420f-9729-102276c9a1b1",
+  "name": "Afternoons",
+  "spotifyId": "6djiaShS06LnDKEr4ZInqA",
+  "appleId": 175135505,
+  "episodes": [
+    {
+      "id": "0701320b-3578-4df6-827c-59cf5cb1e336",
+      "title": "Bringing experiences of cults into the open",
+      "description": "Later this month The Decult conference is happening in Christchurch. The first such event was held in 2024 and it successfully brought together people with lived experiences of cults .. including Gloriavale and Destiny Church. Some of them telling their stories on stage for the first time. One of the people taking part this year is Ganesh Cherian, a former bishop in the Church of Jesus Christ of Latter-day Saints. Ganesh is with Jesse.",
+      "release": "2026-10-08T00:30:00Z",
+      "duration": "00:10:42.9360000",
+      "explicit": false,
+      "spotifyId": "45swXaVU3fG3vvZQdcpdLF",
+      "appleId": 1000793772124,
+      "subjects": [
+        "The Church Of Jesus Christ Of Latter-Day Saints",
+        "Gloriavale"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/45swXaVU3fG3vvZQdcpdLF",
+        "apple": "https://podcasts.apple.com/podcast/bringing-experiences-of-cults-into-the-open/id175135505?i=1000793772124"
+      }
+    }
+  ]
+}

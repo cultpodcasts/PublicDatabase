@@ -1,0 +1,22 @@
+{
+  "id": "b79702fb-ff57-4fe5-995a-7bd027106c90",
+  "name": "Way Up With Angela Yee",
+  "spotifyId": "4N2IHfmpw9bePgZNyKN3Ec",
+  "appleId": 1670193102,
+  "episodes": [
+    {
+      "id": "30112cbb-45ed-4983-adec-c613e4053d09",
+      "title": "WUWY: Her Family Is In A Cult! \u002B Tanya Weddemire \u0026 Kyla McMillan Talk The Armory Show.",
+      "description": "Tanya Weddemire and Kyla McMillan make art feel welcoming and accessible Tell us your explosive family secrets. See omnystudio.com/listener for privacy information.",
+      "release": "2026-09-22T19:38:59Z",
+      "duration": "00:40:01.3320000",
+      "explicit": false,
+      "spotifyId": "1mEfitgIJluTnmRopec9nz",
+      "appleId": 1000791163369,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1mEfitgIJluTnmRopec9nz",
+        "apple": "https://podcasts.apple.com/podcast/wuwy-her-family-is-in-a-cult-tanya-weddemire-kyla/id1670193102?i=1000791163369"
+      }
+    }
+  ]
+}

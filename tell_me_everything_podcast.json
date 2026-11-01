@@ -1,0 +1,28 @@
+{
+  "id": "8699d377-ed8d-4c4d-82d3-8a38492fc9a3",
+  "name": "Tell Me Everything Podcast",
+  "spotifyId": "34eGM90d26akLTygjclDyt",
+  "appleId": 1883067118,
+  "youTubeChannelId": "UCt_BkOFQEwX5FEuCN5WrT4w",
+  "episodes": [
+    {
+      "id": "44a1b46f-1bff-4823-85bb-343a48c90d04",
+      "title": "Tell Me Everything | The Psychology of Cults | with Mike King",
+      "description": "In this bonus episode, Sam hears from Mike King, host of the upcoming Psychology of Cults show coming through Regina and Saskatoon on November 4 and 5. Mike is a cult investigator and former police officer based out Utah. He shares some quick insights about society\u0027s fascination with cults and what the audience can expect.",
+      "release": "2026-10-31T10:00:13Z",
+      "duration": "00:04:28",
+      "explicit": false,
+      "spotifyId": "2V6z8HWq83COQsDAiEWNGQ",
+      "appleId": 1000799049282,
+      "youTubeId": "UoE22tGECNQ",
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2V6z8HWq83COQsDAiEWNGQ",
+        "apple": "https://podcasts.apple.com/podcast/the-psychology-of-cults-with-mike-king/id1883067118?i=1000799049282",
+        "youtube": "https://www.youtube.com/watch?v=UoE22tGECNQ"
+      }
+    }
+  ]
+}
