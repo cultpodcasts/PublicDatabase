@@ -1,0 +1,48 @@
+{
+  "id": "7b1b9c63-9eaf-435f-9869-14c79e42b2ad",
+  "name": "Ramogi TV Kenya",
+  "reports": [
+    {
+      "id": "8e67c98a-1fa0-4590-aba6-d4ed36f0ab7d",
+      "title": "Paul Mackenzie kod achije mamoko nitiere e nyim doho; iseyogi gi nek mar jopiny e bungu ma Shakahola",
+      "description": "#RAMOGITVLIVE",
+      "release": "2026-11-06T09:00:25Z",
+      "duration": "00:05:51",
+      "explicit": false,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Haf3le4RBnQ"
+      }
+    },
+    {
+      "id": "f4e83d73-2a76-4ea7-8c47-2dbcef622ea2",
+      "title": "Oganda omii ndalo 21 mar kawo ringre wedegi mane okwany Shakahola",
+      "description": "#RamogiTV",
+      "release": "2026-09-21T16:15:46Z",
+      "duration": "00:02:07",
+      "explicit": false,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1axatTHP-QM"
+      }
+    },
+    {
+      "id": "aa2ca01e-1ea2-4127-9aef-31489ee0800f",
+      "title": "Apis jamin buche: Nonro ewi nek ma Shakahola oserumo",
+      "description": "#RamogiTV",
+      "release": "2026-04-24T10:30:04Z",
+      "duration": "00:01:14",
+      "explicit": false,
+      "subjects": [
+        "Good News International Ministries"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kPV6GCgBf9o"
+      }
+    }
+  ]
+}

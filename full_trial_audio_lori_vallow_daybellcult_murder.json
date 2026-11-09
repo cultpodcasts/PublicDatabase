@@ -1,0 +1,24 @@
+{
+  "id": "433aa689-86cd-4ebf-9098-645f522cc129",
+  "name": "Full Trial Audio: Lori Vallow Daybell - Cult Murder",
+  "spotifyId": "7p6rDzkprQNlvvobNBldmN",
+  "appleId": 1749174489,
+  "episodes": [
+    {
+      "id": "68d02bed-d6e8-43f0-a36b-27a05e62566e",
+      "title": "ID Supreme Court Hearing - 2 Nov 2026",
+      "release": "2026-11-02T22:19:43Z",
+      "duration": "01:02:39.0400000",
+      "explicit": false,
+      "spotifyId": "1juI7TjcTnNAmW5wU4aLN1",
+      "appleId": 1000799484790,
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/1juI7TjcTnNAmW5wU4aLN1",
+        "apple": "https://podcasts.apple.com/podcast/id-supreme-court-hearing-2-nov-2026/id1749174489?i=1000799484790"
+      }
+    }
+  ]
+}

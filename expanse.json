@@ -7,6 +7,23 @@
   "youTubePlaylistId": "PLDTPrMoGHssBabkHzoDvVb4FLQEAlkW_-",
   "episodes": [
     {
+      "id": "9fe0a012-b33b-4ac8-bd64-53b25cd623c5",
+      "title": "02 Expanse: Disappearing in the Devil\u0027s Triangle | The pieces",
+      "description": "Flight VH-MDX appears to have vanished, and authorities launch a massive search across the unforgiving Barrington Tops landscape to find it. With freezing temperatures setting in and survival experts giving the men just days to live, every hour counts.",
+      "release": "2026-11-08T15:00:00Z",
+      "duration": "00:31:46",
+      "explicit": false,
+      "spotifyId": "11lxaksPSnvH5lGYPpWEcR",
+      "appleId": 1000800575337,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/11lxaksPSnvH5lGYPpWEcR",
+        "apple": "https://podcasts.apple.com/podcast/02-expanse-disappearing-in-the-devils-triangle-the-pieces/id1635088231?i=1000800575337"
+      }
+    },
+    {
       "id": "2feeb71d-4034-406b-bb2e-624082047745",
       "title": "S7 E01 | The crash",
       "description": "It\u2019s a pitch black and freezing August night in 1981 when a pilot overhears the terrifying final minutes of flight VH-MDX over radio.",

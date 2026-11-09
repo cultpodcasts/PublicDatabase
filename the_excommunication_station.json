@@ -5,6 +5,20 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "13c31e69-2471-4c5d-869f-2f5095060e80",
+      "title": "Carman Part IV; A2J",
+      "description": "This Fire Podcast joins us again to continue our Carman series.",
+      "release": "2026-11-04T00:55:48Z",
+      "duration": "02:31:55.4290000",
+      "explicit": true,
+      "spotifyId": "02WhXUoSIn8LNwZyEOfhUq",
+      "appleId": 1000799723729,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/02WhXUoSIn8LNwZyEOfhUq",
+        "apple": "https://podcasts.apple.com/podcast/carman-part-iv-a2j/id1573190999?i=1000799723729"
+      }
+    },
+    {
       "id": "f5287ef7-ff2b-4119-9f1e-981f7311c8d0",
       "title": "Carman Part III: Dominion Of The Land",
       "description": "This week, we are joined again by This Fire podcast and we go into the start of Carman\u0022s dominant run of the CCM world.",

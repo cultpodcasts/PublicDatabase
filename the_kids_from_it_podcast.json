@@ -4,6 +4,28 @@
   "youTubeChannelId": "UCE6tvTcszoJ8WxQnZnXBLGA",
   "episodes": [
     {
+      "id": "e1c9659b-7ae0-4a4d-81e8-e5da46d2f35e",
+      "title": "Election  Live Stream with Nick Powers \uD83D\uDCF1",
+      "release": "2026-11-04T02:23:18Z",
+      "duration": "01:47:37",
+      "explicit": false,
+      "youTubeId": "ZRW80GerJGU",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZRW80GerJGU"
+      }
+    },
+    {
+      "id": "569a4e91-95fe-4672-bd7b-4ca5bad0528e",
+      "title": "Election  Live Stream with Nick Powers",
+      "release": "2026-11-04T02:23:18Z",
+      "duration": "01:47:39",
+      "explicit": false,
+      "youTubeId": "0DqQj8KBZrY",
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0DqQj8KBZrY"
+      }
+    },
+    {
       "id": "2c63d233-3462-4cb6-95e2-dbbb3b93f088",
       "title": "Trump CANCELS Livestream Execution of Nadal Hasan",
       "release": "2026-10-16T00:00:58Z",

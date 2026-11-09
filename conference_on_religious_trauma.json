@@ -14,13 +14,15 @@
       "explicit": false,
       "spotifyId": "2oKwJWltHFktH2W7ewGhpY",
       "appleId": 1000798266152,
+      "youTubeId": "Hu7NrbjAvRQ",
       "subjects": [
         "Evangelicalism",
         "_America"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/2oKwJWltHFktH2W7ewGhpY",
-        "apple": "https://podcasts.apple.com/podcast/susan-huckle-the-earth-is-flat/id1645878058?i=1000798266152"
+        "apple": "https://podcasts.apple.com/podcast/susan-huckle-the-earth-is-flat/id1645878058?i=1000798266152",
+        "youtube": "https://www.youtube.com/watch?v=Hu7NrbjAvRQ"
       }
     },
     {
@@ -32,12 +34,14 @@
       "explicit": false,
       "spotifyId": "3VD307oVJrpqc6LqM2eSJR",
       "appleId": 1000798263581,
+      "youTubeId": "GjkfgrgaMtM",
       "subjects": [
         "The Church Of Jesus Christ Of Latter-Day Saints"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/3VD307oVJrpqc6LqM2eSJR",
-        "apple": "https://podcasts.apple.com/podcast/chris-miller-belief-belonging-and-death/id1645878058?i=1000798263581"
+        "apple": "https://podcasts.apple.com/podcast/chris-miller-belief-belonging-and-death/id1645878058?i=1000798263581",
+        "youtube": "https://www.youtube.com/watch?v=GjkfgrgaMtM"
       }
     },
     {
