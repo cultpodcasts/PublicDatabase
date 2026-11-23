@@ -5,6 +5,34 @@
   "appleId": 1573190999,
   "episodes": [
     {
+      "id": "4a78aae1-c8f3-4ebd-9e1d-d7ba3666f798",
+      "title": "Carman Part VI",
+      "description": "This Fire joins us again",
+      "release": "2026-11-18T01:25:51Z",
+      "duration": "02:18:07.5040000",
+      "explicit": true,
+      "spotifyId": "6cbCjpgWDvsS1kv0J6vqUL",
+      "appleId": 1000802607840,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/6cbCjpgWDvsS1kv0J6vqUL",
+        "apple": "https://podcasts.apple.com/podcast/carman-part-vi/id1573190999?i=1000802607840"
+      }
+    },
+    {
+      "id": "d6682135-6bc0-4241-90e2-47044ed9171a",
+      "title": "Carman Part V: The Standard",
+      "description": "This week, we dive into Carman\u0027s Dominionist/Christian Nationalist masterpiece, The Standard",
+      "release": "2026-11-11T00:00:00Z",
+      "duration": "02:41:24.2970000",
+      "explicit": true,
+      "spotifyId": "4oFR5Zs1279dMEc3aw4SK6",
+      "appleId": 1000801106577,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4oFR5Zs1279dMEc3aw4SK6",
+        "apple": "https://podcasts.apple.com/podcast/carman-part-v-the-standard/id1573190999?i=1000801106577"
+      }
+    },
+    {
       "id": "13c31e69-2471-4c5d-869f-2f5095060e80",
       "title": "Carman Part IV; A2J",
       "description": "This Fire Podcast joins us again to continue our Carman series.",

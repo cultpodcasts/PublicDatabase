@@ -6,6 +6,21 @@
   "youTubeChannelId": "UCXUknDOXvmm6A-IgWdG8Vlw",
   "episodes": [
     {
+      "id": "85a94a5b-6558-4940-bf7a-c1b0f98652a6",
+      "title": "We\u0027re tryin\u0022",
+      "description": "Silver Linings Podcast is a safe place for people to come and hear our family perspective on the Chad \u0026 Lori trials, but also to figure out the trauma in their own lives and to find resources to help them with that trauma.",
+      "release": "2026-11-15T05:38:53Z",
+      "duration": "01:05:28",
+      "explicit": false,
+      "youTubeId": "9JWqfZzuC9o",
+      "subjects": [
+        "Chad Daybell"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=9JWqfZzuC9o"
+      }
+    },
+    {
       "id": "32f1ac2e-8dcf-4780-87a1-41e7a8cde5ae",
       "title": "Reactions from THE Interview - Lori\u0027s Lies",
       "release": "2025-07-05T13:25:56Z",

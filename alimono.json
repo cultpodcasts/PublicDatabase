@@ -4,81 +4,6 @@
   "youTubeChannelId": "UCialgSZ939oOc5xyGEL7jSA",
   "episodes": [
     {
-      "id": "7a792ae5-fafc-4897-9b2d-91fbea5c673d",
-      "title": "1978 Footage -  ABC Jonestown Aftermath at Dover Air Force Base",
-      "description": "ABC Press conference footage of a Dover AFB defense spokesman discussing the arrival of bodies from Jonestown, Guyana. November 23, 1978.",
-      "release": "2025-12-27T22:55:58Z",
-      "duration": "00:14:19",
-      "explicit": false,
-      "youTubeId": "Y7yVHr7pOf8",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=Y7yVHr7pOf8"
-      }
-    },
-    {
-      "id": "290f7810-3366-4de7-bb5e-d776169a3ba2",
-      "title": "Jonestown 10 Years Later | Evening Magazine 1988",
-      "description": "1988 Evening Magazine Jonestown anniversary program with Ray Murray and Nancy Glass. Features interviews with Grace Stoen, Jackie Speier, and Tim Reiterman.",
-      "release": "2025-11-18T12:00:17Z",
-      "duration": "00:10:42",
-      "explicit": true,
-      "youTubeId": "9NHcpqAdtDA",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=9NHcpqAdtDA"
-      }
-    },
-    {
-      "id": "9240356f-f0e0-4df7-ba19-6142c64f45b8",
-      "title": "1988 Survivors Return to Jonestown | A Current Affair",
-      "description": "1988 Fox News A Current Affair: Return to Jonestown with Survivor Thomas Bogue. \n\n Produced by Andrea Spiegel and reporter David Lee Miller.",
-      "release": "2025-11-13T13:15:08Z",
-      "duration": "00:14:43",
-      "explicit": false,
-      "youTubeId": "PSlJUD2jLms",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=PSlJUD2jLms"
-      }
-    },
-    {
-      "id": "cfc2a2a8-bdd4-4972-bed3-ea8c167bf89e",
-      "title": "NBC Jonestown Survivor Interview: Tim and Mike Carter and Mike Prokes, 1978",
-      "description": "Interview by NBC correspondent Andrea Mitchell with Jonestown survivors Tim and Mike Carter and Mike Prokes at Guyana\u0027s Park Hotel. 11/25/1978.",
-      "release": "2025-09-22T13:15:03Z",
-      "duration": "00:06:51",
-      "explicit": false,
-      "youTubeId": "9tju0Fn6Ezk",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=9tju0Fn6Ezk"
-      }
-    },
-    {
-      "id": "3637ca20-547b-4ae6-9061-a37c31916ca5",
-      "title": "Jonestown Survivor: Stephan Jones Press Conference, 1978",
-      "description": "Press conference with the son of Jim Jones, Stephan Jones, in Guyana. Also features survivors Paula Adams, Lee Ingram, and  Touchette. 11/21/1978",
-      "release": "2025-03-04T02:17:55Z",
-      "duration": "00:20:56",
-      "explicit": false,
-      "youTubeId": "lxATkgvfzqY",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=lxATkgvfzqY"
-      }
-    },
-    {
       "id": "6e25ec0d-6d41-4bcb-8c98-cbc9c3561364",
       "title": "Jonestown Survivor: Odell Rhodes speaks out on Jonestown and Christine Miller. 11/24/1978",
       "release": "2025-01-05T00:47:49Z",
@@ -90,36 +15,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=DmYEYi8J_6U"
-      }
-    },
-    {
-      "id": "0fb61119-db3d-408a-be75-203af5a862c8",
-      "title": "Rare Jonestown Interview: Stephan Jones, Jim Jones\u0027 Son, Press Conference 1978",
-      "description": "Jonestown Survivor Interview: News Press Conference with Stephan Jones, the surviving biological son of Jim Jones, Paula Adams, Deborah Touchette, and Lee Ingram. 11/21/1978",
-      "release": "2025-01-02T18:45:44Z",
-      "duration": "00:20:29",
-      "explicit": false,
-      "youTubeId": "Y4xXJfHmWQo",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=Y4xXJfHmWQo"
-      }
-    },
-    {
-      "id": "ac06c95c-3b58-45cd-9f97-f0e16438883c",
-      "title": "State Department Speaks out on Jonestown: Press Conference, 1978",
-      "description": "An early State Department news press conference on Leo Ryan\u0027s visit to Guyana and the Jonestown incident by spokesman Tom Reston, 11/19/1978. \n\nSpokesman Tom Reston is the brother of novelist James Reston Jr., who published Our Father Who Art in Hell, an 1981 investigation into Jonestown.",
-      "release": "2024-12-27T16:00:47Z",
-      "duration": "00:17:40",
-      "explicit": false,
-      "youTubeId": "qy9TnalKq5U",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=qy9TnalKq5U"
       }
     },
     {
@@ -237,36 +132,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=bvkNrBcXesk"
-      }
-    },
-    {
-      "id": "4646d7af-1ea5-4774-9834-99b1afcbae58",
-      "title": "Rare NBC Jonestown 1978 Survivor Interviews - Larry Layton, Tim Carter,  Mike Prokes",
-      "description": "November 22, 1978, NBC broadcast featuring brief interviews with survivors Larry Layton, Tim and Mike Carter, and Mike Prokes in Port Kaituma.",
-      "release": "2024-03-19T02:12:52Z",
-      "duration": "00:02:56",
-      "explicit": false,
-      "youTubeId": "Mky1YgMdvpk",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=Mky1YgMdvpk"
-      }
-    },
-    {
-      "id": "6453677e-8cda-43ae-a705-ea2c079c666f",
-      "title": "ABC CBS Jonestown Massacre Survivor Interviews - 1979 Anniversary",
-      "description": "A compilation of 1979 ABC and CBS Jonestown Massacre interviews with survivor Tim Carter, Steven Katsaris, Fred Lewis, and others.",
-      "release": "2024-03-17T03:04:42Z",
-      "duration": "00:10:50",
-      "explicit": false,
-      "youTubeId": "thwH6SLWA5I",
-      "subjects": [
-        "Peoples Temple"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=thwH6SLWA5I"
       }
     }
   ]

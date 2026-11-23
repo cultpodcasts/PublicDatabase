@@ -4,22 +4,6 @@
   "youTubeChannelId": "UCOhZgrwvRWrSSfaIKGw2mvg",
   "episodes": [
     {
-      "id": "d9cd611f-dafb-44c1-86c1-299865bdadc5",
-      "title": "TV3\u0027s MidWeek on the House of Prayer (14/11/13)",
-      "description": "TV3\u0027s MidWeek take another look at the House of Prayer.",
-      "release": "2013-11-14T01:20:11Z",
-      "duration": "00:11:03",
-      "explicit": false,
-      "youTubeId": "0uwKRuL1l-0",
-      "subjects": [
-        "House of Prayer Achill",
-        "_Ireland"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=0uwKRuL1l-0"
-      }
-    },
-    {
       "id": "1bb008a4-918c-4669-9ad3-1b7a7eb01670",
       "title": "Tony Quinn \u0026 Steve Collins infomercial",
       "description": "http://dialogueireland.wordpress.com/2012/08/06/katie-taylor-avoided-tony-quinn-for-her-preparations-steve-collins-did-not/",
@@ -34,22 +18,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=l9pJQxZVAiw"
-      }
-    },
-    {
-      "id": "8f7aa4ae-92c6-4e61-84f8-23be18db1440",
-      "title": "PrimeTime on the House of Prayer",
-      "description": "RTE Primtetime coverage of the House of Prayer from 2008.",
-      "release": "2011-07-31T19:58:59Z",
-      "duration": "00:16:33",
-      "explicit": false,
-      "youTubeId": "4OwDwc6E-TE",
-      "subjects": [
-        "_Ireland",
-        "House of Prayer Achill"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=4OwDwc6E-TE"
       }
     },
     {
@@ -102,22 +70,6 @@
       }
     },
     {
-      "id": "12297849-687a-41d1-bc82-b23c10e3855d",
-      "title": "Primetime on My Shopping Genie pyramid scheme part 2 of 2",
-      "description": "RTE Primetime have a look at a modern incarnation of a classic con that has come to Ireland.\r\n\r\nPart 1: http://www.youtube.com/watch?v=fUALfAs_ECU",
-      "release": "2010-09-24T14:13:56Z",
-      "duration": "00:08:16",
-      "explicit": false,
-      "youTubeId": "ac_OkctLKWI",
-      "subjects": [
-        "Multi-Level Marketing",
-        "_Ireland"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=ac_OkctLKWI"
-      }
-    },
-    {
       "id": "db2114f5-2538-4912-be4c-34efc5f20a21",
       "title": "Joe Coleman on The Late Late Show part 2 of 3",
       "description": "Part 1: http://www.youtube.com/watch?v=BOvN43mOpTg\r\nPart 2: http://www.youtube.com/watch?v=lXDbRl4hzdk\r\nPart 3: http://www.youtube.com/watch?v=R-dpAuDSVKU",
@@ -160,22 +112,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=R-dpAuDSVKU"
-      }
-    },
-    {
-      "id": "0da80856-2761-40f5-b87d-f99c73379c04",
-      "title": "Dateline looks at how to manipulate",
-      "description": ".",
-      "release": "2010-03-19T20:03:36Z",
-      "duration": "00:05:00",
-      "explicit": false,
-      "youTubeId": "DTxZtNtFmew",
-      "subjects": [
-        "Cult Psychology",
-        "Psychology"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=DTxZtNtFmew"
       }
     }
   ]

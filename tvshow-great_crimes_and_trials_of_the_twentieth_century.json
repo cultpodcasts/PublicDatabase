@@ -1,0 +1,20 @@
+{
+  "id": "1bc0878c-aea5-463e-98c7-6b91a313e97c",
+  "name": "Great Crimes and Trials of the Twentieth Century",
+  "episodes": [
+    {
+      "id": "fbee2dc4-ae58-4554-ad9d-546ddcde4b4d",
+      "title": "The Jonestown Massacre",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2023-02-08T09:56:49Z",
+      "duration": "00:26:02",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=5ubqrjzi11Q"
+      }
+    }
+  ]
+}

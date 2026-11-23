@@ -1,0 +1,19 @@
+{
+  "id": "684eee04-b353-406f-a55b-147c8ba0ade6",
+  "name": "The Morning Show",
+  "episodes": [
+    {
+      "id": "54675ec5-821c-46b3-af2b-f83069210609",
+      "title": "TV3s Morning Show on Christina Gallagher part 1 of 2",
+      "release": "2015-04-03T06:20:48Z",
+      "duration": "00:09:42",
+      "explicit": false,
+      "subjects": [
+        "House of Prayer Achill"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1n1SoiVRUis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "80733287-a5b4-4f51-aad9-337bd3f2b330",
+  "name": "In Search of...",
+  "episodes": [
+    {
+      "id": "0a3eca44-7393-45a6-87fb-8db5d95ffaac",
+      "title": "Jim Jones",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2022-11-21T09:43:14Z",
+      "duration": "00:22:28",
+      "explicit": true,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=32W1s1-2Yng"
+      }
+    }
+  ]
+}

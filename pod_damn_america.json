@@ -1,0 +1,25 @@
+{
+  "id": "fcd7122f-10de-4c5b-b3ed-48b7cae23576",
+  "name": "Pod Damn America",
+  "spotifyId": "57k2bVatkzfDjA4TfHFXGX",
+  "appleId": 1271019505,
+  "episodes": [
+    {
+      "id": "632ea9bd-01ff-4544-a64f-64518523b48c",
+      "title": "(preview) Escaping Scientology w/Ian Rafalko",
+      "description": "In one of the most personal Pod Damn Americas yet, Anders talks with someone from a past life: former Scientologist and anti-cult activist Ian Rafalko. Son of YouTube chiropractor Dr. Berg and brother of someone who was once very important to Anders, Ian talks about being raised in Scientology, its abusive practices, Dr. Berg\u0027s relationship with RFK jr., the movie \u0022Digger\u0022, Tom Cruise, becoming radicalized and more. For the full episode and more, subscribe to our bonus feed at Patreon.com/poddamnamerica",
+      "release": "2026-11-14T04:11:27Z",
+      "duration": "00:02:02.0690000",
+      "explicit": true,
+      "spotifyId": "2zfpxsTtl6vv9O7T9oA2lH",
+      "appleId": 1000801866009,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2zfpxsTtl6vv9O7T9oA2lH",
+        "apple": "https://podcasts.apple.com/podcast/preview-escaping-scientology-w-ian-rafalko/id1271019505?i=1000801866009"
+      }
+    }
+  ]
+}

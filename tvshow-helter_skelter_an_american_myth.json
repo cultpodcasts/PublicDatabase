@@ -1,0 +1,51 @@
+{
+  "id": "1d0174bb-ae13-45a3-b172-013d46f9912c",
+  "name": "Helter Skelter: An American Myth",
+  "imdbId": "tt12115298",
+  "tvdbId": 380462,
+  "tmdbId": 105147,
+  "episodes": [
+    {
+      "id": "927ff8be-e64a-43ae-828f-a8aeb27b635a",
+      "title": "Episode 3",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2023-06-21T15:40:37Z",
+      "duration": "00:59:03",
+      "explicit": false,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=at_G5wefgh4"
+      }
+    },
+    {
+      "id": "40f72a2d-9015-4df4-aa66-7d5ab0926470",
+      "title": "Episode 2",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2023-06-21T15:26:22Z",
+      "duration": "00:55:26",
+      "explicit": false,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=RtnpCg5-XUg"
+      }
+    },
+    {
+      "id": "55a7ca1f-f719-476f-9780-74aa3a06b377",
+      "title": "Episode 1",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2023-06-21T14:15:06Z",
+      "duration": "00:54:25",
+      "explicit": false,
+      "subjects": [
+        "Manson Family"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=x28h0KJtVyA"
+      }
+    }
+  ]
+}

@@ -6,6 +6,22 @@
   "youTubeChannelId": "UCGhyTXTIM9kdTJ1jW-Ckb5g",
   "episodes": [
     {
+      "id": "81340a64-797e-4e5e-ac70-fc74250980d3",
+      "title": "Women As Property, with Mick Larson",
+      "description": "Mick Larson is a documentary filmmaker and podcast producer from Kansas. His upcoming film, Some Form of Punishment: Forced Birth in America, and his podcast series Women As Property trace how ancient patriarchal strategies still shape American politics and abortion law. \nHis earlier work includes What Would Jesus Do on Election Day? and Kansas vs. Darwin. \n\nMick has also spent 30 years in live sports broadcasting and just completed his 13th season covering the LA Dodgers.\n\nIn this very interesting conversation, Mick shares thought-provoking clips and insights from Women As Property.\nFIND MICK:\nForcedbirth.com",
+      "release": "2026-11-11T08:00:29Z",
+      "duration": "00:57:21",
+      "explicit": false,
+      "youTubeId": "kuKQqSeiN8M",
+      "subjects": [
+        "Cult Recovery",
+        "_America"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kuKQqSeiN8M"
+      }
+    },
+    {
       "id": "118ecb4c-62aa-4f9b-8b54-f50cbc67685e",
       "title": "Susan Huckle: The Earth is Flat?!",
       "description": "Susan grew up as a homeschooled Pentecostal kid on California\u0027s central coast, immersed in End Times theology and waiting for the Rapture to arrive at any moment. As an adult, her faith began to unravel just as her mother became increasingly drawn into conspiracy theories, eventually declaring herself a flat-earther. Those experiences led Susan to write The Earth Is Flat?! And Other Things My Mother Taught Me, where she explores faith, doubt, family, identity, and a question many of us have faced: Can relationships survive when loved ones no longer share the same reality? Support the show",
@@ -53,13 +69,15 @@
       "explicit": false,
       "spotifyId": "5K6TBzpWqC9JbVSqKctSfu",
       "appleId": 1000798262966,
+      "youTubeId": "t4jo0HChnIE",
       "subjects": [
         "Cult Recovery",
         "Family Cult"
       ],
       "urls": {
         "spotify": "https://open.spotify.com/episode/5K6TBzpWqC9JbVSqKctSfu",
-        "apple": "https://podcasts.apple.com/podcast/stella-mccormick-the-family-cult-that-broke-me/id1645878058?i=1000798262966"
+        "apple": "https://podcasts.apple.com/podcast/stella-mccormick-the-family-cult-that-broke-me/id1645878058?i=1000798262966",
+        "youtube": "https://www.youtube.com/watch?v=t4jo0HChnIE"
       }
     },
     {

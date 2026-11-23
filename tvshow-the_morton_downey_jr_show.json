@@ -1,0 +1,23 @@
+{
+  "id": "f9e243f2-5f35-4287-8bb2-bb493217ae20",
+  "name": "The Morton Downey Jr. Show",
+  "imdbId": "tt0149493",
+  "tvdbId": 276921,
+  "tmdbId": 27234,
+  "episodes": [
+    {
+      "id": "4ba1c4e5-2995-429b-9886-8cde2791b5f6",
+      "title": "Morton Downey Jr Show: Cults (1988) #cults",
+      "description": "https://x.com/orbitaskew / https://rumble.com/c/c-6351363\nhttps://youtube.com/playlist?list=PLrC8ebjskXIGGvnBepzgshH8mr6QpaTtj\u0026si=L-HsfmSL1nWrtK2c / https://youtu.be/s_kSWWnjsuw?si=CFPO0xDHZ17TSEBU",
+      "release": "2026-07-23T12:06:19Z",
+      "duration": "00:46:21",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=S0mTtO5LINQ"
+      }
+    }
+  ]
+}

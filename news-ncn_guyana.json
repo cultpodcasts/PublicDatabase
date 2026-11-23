@@ -1,0 +1,19 @@
+{
+  "id": "5c66f8b1-2b1a-41cd-b265-61b65e3b554c",
+  "name": "NCN Guyana",
+  "reports": [
+    {
+      "id": "0d515905-f24b-425b-896b-a104c98a82fb",
+      "title": "Jonestown - The Journey Back 48 Years",
+      "release": "2026-11-20T15:39:40Z",
+      "duration": "00:25:48",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=vwwPNKMD8WE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "106bc45e-e05d-4a00-a937-35ad17dd9c33",
+  "name": "Affaires sensibles",
+  "imdbId": "tt22875704",
+  "tvdbId": 410000,
+  "tmdbId": 134594,
+  "episodes": [
+    {
+      "id": "5b9fa180-8de1-48f1-95e9-ac4e250f6897",
+      "title": "OKC : les enfants martyrs face \u00E0 leur gourou en replay - Affaires sensibles",
+      "description": "C\u2019est l\u2019histoire d\u2019une centaine d\u2019enfants confi\u00E9s par leurs parents \u00E0 une communaut\u00E9 bouddhiste, baptis\u00E9e OKC. La promesse ? Une enfance id\u00E9ale au c\u0153ur d\u2019un ...",
+      "release": "2026-11-21T16:46:25Z",
+      "duration": "00:46:25",
+      "explicit": false,
+      "subjects": [
+        "Ogyen Kunzang Ch\u00F6ling"
+      ],
+      "urls": {
+        "franceTv": "https://www.france.tv/france-2/affaires-sensibles/9105219-okc-les-enfants-martyrs-face-a-leur-gourou.html"
+      }
+    }
+  ]
+}

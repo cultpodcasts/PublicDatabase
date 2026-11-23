@@ -1,0 +1,62 @@
+{
+  "id": "4f8aa556-02ac-4a05-8cbc-1245eaa800ad",
+  "name": "ZDF",
+  "reports": [
+    {
+      "id": "41216d55-f8ff-49f2-b145-7677b1947e7b",
+      "title": "Scientology on the Net (English Subbed) - ZDF - Heute Journal 26.06.2011- Scientology im Netz",
+      "description": "Just click the \u0022CC\u0022 button on the player on the\uFEFF down right corner for english subs\nEin weiterer Bericht von Stephanie Gargosch \u00FCber Scientologys verst\u00E4rkt im Internet stattfindende Mitgliederwerbung. Ausgestrahlt in \u0022Heute\u0022 auf ZDF.\n\nAnother report by Stephanie Gargosch on Scientology\u0027s increasing efforts to recruit over the Internet. Broadcast on \u0022Heute\u0022, the news format of Germany\u0027s second major TV station \u0022ZDF\u0022.",
+      "release": "2011-06-26T17:07:43Z",
+      "duration": "00:03:02",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=otZYeEIrho4"
+      }
+    },
+    {
+      "id": "85e6e0a6-720e-40c5-bf22-2add136f2ff7",
+      "title": "Scientology Plan, ZDF Documentary Part 3 (English subtitles)",
+      "description": "part 3\r\nby Stephanie Gargosch, broadcaster ZDF TV 2009\r\n\r\nIn the Sea Org and want to blow?\r\nUS \u0026 Canada 1-866-973-2674\r\nUK 0208 864 4940",
+      "release": "2009-05-18T02:22:58Z",
+      "duration": "00:10:02",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=iR5kw9ljVjQ"
+      }
+    },
+    {
+      "id": "9f347691-cb5f-43a9-8d32-2a2d73b23a5d",
+      "title": "Scientology Plan,  ZDF Documentary Part 2 (English subtitles)",
+      "description": "part 2, by Stephanie Gargosch, broadcaster ZDF TV 2009\r\n\r\nIn the Sea Org and want to blow?\r\nUS \u0026 Canada 1-866-973-2674\r\nUK 0208 864 4940",
+      "release": "2009-05-18T02:14:38Z",
+      "duration": "00:10:03",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=KF9GZQr0KgI"
+      }
+    },
+    {
+      "id": "c777b105-fe7f-43b8-98cc-8f4c238333f9",
+      "title": "Scientology Plan, ZDF Documentary Part 1 (English subtitles)",
+      "description": "by Stephanie Gargosch, broadcaster ZDF TV 2009\r\n\r\nIn the Sea Org and want to blow?  \r\nUS \u0026 Canada 1-866-973-2674\r\nUK 0208 864 4940",
+      "release": "2009-05-18T02:03:19Z",
+      "duration": "00:10:05",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=WQ6FuzFpbjw"
+      }
+    }
+  ]
+}

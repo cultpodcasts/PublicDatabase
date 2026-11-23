@@ -4,7 +4,27 @@
   "spotifyId": "0fHYs1EMOAj4lFvOkLG8ZZ",
   "appleId": 1769673691,
   "youTubeChannelId": "UCo5E9pEhK_9kWG7-5HHcyRg",
+  "youTubePlaylistId": "PLMD8umRLJkKwZaomgZHvA01RcXY5ntpRZ",
   "episodes": [
+    {
+      "id": "101037b9-c021-4024-ab10-2c6b0087ebe5",
+      "title": "Ruby Franke ON BLAST Ahead of Parole Hearing",
+      "description": "Former mom-fluencer Ruby Franke and her associate, Jodi Hildebrandt, were convicted of abusing Franke\u0027s children after their online fame came crashing down. Now, Ruby\u0027s daughter is speaking out as both women prepare to face the parole board, raising questions about whether they should be released. Court TV\u0027s Vinnie Politan Investigates. Go to https://quo.com/VPI to get 20% off your first 6 months! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "release": "2026-11-19T23:30:00Z",
+      "duration": "00:46:21.9300000",
+      "explicit": false,
+      "spotifyId": "79Jfhs2L2wBwscgla7r2XS",
+      "appleId": 1000803020954,
+      "youTubeId": "WU409wX3jWo",
+      "subjects": [
+        "Connexions"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/79Jfhs2L2wBwscgla7r2XS",
+        "apple": "https://podcasts.apple.com/podcast/ruby-franke-on-blast-ahead-of-parole-hearing/id1769673691?i=1000803020954",
+        "youtube": "https://www.youtube.com/watch?v=WU409wX3jWo"
+      }
+    },
     {
       "id": "534428c9-257a-4f49-bb50-c5bf64202914",
       "title": "What We Really Know About Diddy\u0027s Freak-Offs | Vinnie Politan Investigates Podcast",

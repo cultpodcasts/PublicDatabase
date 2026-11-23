@@ -1,0 +1,30 @@
+{
+  "id": "7f80543d-3260-4ec6-bd43-db681d12026d",
+  "name": "The Dismantling Doctrine Podcast",
+  "spotifyId": "1jF2pOD8s4iTWmDfnbrZD8",
+  "appleId": 1199559501,
+  "youTubeChannelId": "UC43ozAm7iK0LpCb9p3TCdvw",
+  "episodes": [
+    {
+      "id": "c41ca44d-6870-4029-af7d-6fb3738d973e",
+      "title": "Deliver us from Mother: Faith, Fear, and The Family Cult that Broke Me (with Stella McCormick)",
+      "description": "Can a single family function as a cult?\n\nIn this episode, I spoke with Stella McCormick, author of Deliver Us From Mother: Faith, Fear, and the Family Cult That Broke Me, about growing up in a controlling fundamentalist Christian household. Drawing parallels with my upbringing in Bill Gothard\u2019s IBLP movement, Stella describes how fear, isolation, enforced conformity, and a family narrative of spiritual superiority shaped her childhood\u2014and how recognizing those patterns helped her name the abuse.\n\nStella also shares her journey toward independence, from defying her mother\u2019s demands about her education to questioning the beliefs that had defined her life. Together, we explore the unsettling process of religious deconstruction, the challenge of building an identity outside a high-control environment, and the freedom of discovering that kindness and a meaningful life don\u2019t require a religious label.",
+      "release": "2026-11-18T20:00:09Z",
+      "duration": "00:50:12",
+      "explicit": false,
+      "spotifyId": "28wmUrAPjDImjyj4JNTLAZ",
+      "appleId": 1000802740676,
+      "youTubeId": "tep9CMrHLgY",
+      "subjects": [
+        "Institute In Basic Life Principles",
+        "Family Cult",
+        "Christian Fundamentalist"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/28wmUrAPjDImjyj4JNTLAZ",
+        "apple": "https://podcasts.apple.com/podcast/deliver-us-from-mother-faith-fear-and-the-family/id1199559501?i=1000802740676",
+        "youtube": "https://www.youtube.com/watch?v=tep9CMrHLgY"
+      }
+    }
+  ]
+}

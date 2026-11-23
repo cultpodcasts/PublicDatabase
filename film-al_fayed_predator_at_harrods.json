@@ -1,0 +1,16 @@
+{
+  "id": "c826d840-49e8-48de-9573-b0dcdd5d3b83",
+  "name": "Al Fayed: Predator at Harrods",
+  "description": "A BBC investigation into allegations of rape and attempted rape by Mohamed Al Fayed, the former owner of Harrods. Did the luxury store protect a billionaire predator? ",
+  "release": "2024-09-19T00:00:00Z",
+  "duration": "01:30:00",
+  "explicit": true,
+  "imdbId": "tt33423099",
+  "tmdbId": 1359077,
+  "subjects": [
+    "Mohamed Al-Fayed"
+  ],
+  "urls": {
+    "bbcIplayer": "https://www.bbc.co.uk/iplayer/episode/m0023ff5/al-fayed-predator-at-harrods"
+  }
+}

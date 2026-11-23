@@ -1,0 +1,19 @@
+{
+  "id": "c0bf9761-8379-4a7f-8213-046b838700a9",
+  "name": "Everyman",
+  "episodes": [
+    {
+      "id": "7e24092d-7d0d-46e2-979f-fb643e492151",
+      "title": "Mission to Kill",
+      "release": "2025-04-06T18:16:07Z",
+      "duration": "00:48:43",
+      "explicit": false,
+      "subjects": [
+        "Church of the First Born of the Lamb of God"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=kvajZehNOM0"
+      }
+    }
+  ]
+}

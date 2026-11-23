@@ -1,0 +1,48 @@
+{
+  "id": "6863db49-019c-4ed5-b010-cd41d46d28e6",
+  "name": "A Current Affair",
+  "reports": [
+    {
+      "id": "9240356f-f0e0-4df7-ba19-6142c64f45b8",
+      "title": "1988 Survivors Return to Jonestown | A Current Affair",
+      "description": "1988 Fox News A Current Affair: Return to Jonestown with Survivor Thomas Bogue. \n\n Produced by Andrea Spiegel and reporter David Lee Miller.",
+      "release": "2025-11-13T13:15:08Z",
+      "duration": "00:14:43",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=PSlJUD2jLms"
+      }
+    },
+    {
+      "id": "72cc65dd-3905-4862-b73f-8b0c38481f6d",
+      "title": "Zen Master Rama 2 - A Current Affair Expose",
+      "description": "This is a piece from A Current Affair on Zen Master Rama, aka Atmandana, aka Frederick Lenz, noted computer guru and \u0022American Buddhism\u0022 cult leader.\r\n\r\nFrederick Lenz/Zen Master Rama died in 1998 at the age of 48.\r\n\r\nThis video is offered for educational purposes only.  No infringement is intended.",
+      "release": "2010-07-03T03:17:31Z",
+      "duration": "00:09:48",
+      "explicit": false,
+      "subjects": [
+        "Zen Master Rama"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=phM7TTjpv8Q"
+      }
+    },
+    {
+      "id": "6de63654-064b-4411-b0a0-18cabc5ffd5c",
+      "title": "Zen Master Rama 1 - A Current Affair Expose",
+      "description": "This is a piece from A Current Affair on Zen Master Rama, aka Atmandana, aka Frederick Lenz, noted computer guru and \u0022American Buddhism\u0022 cult leader.\r\n\r\nFrederick Lenz/Zen Master Rama died in 1998 at the age of 48.\r\n\r\nThis video is offered for educational purposes only.  No infringement is intended.",
+      "release": "2010-07-03T02:38:33Z",
+      "duration": "00:09:51",
+      "explicit": false,
+      "subjects": [
+        "Zen Master Rama"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ZckF7L2fOsE"
+      }
+    }
+  ]
+}

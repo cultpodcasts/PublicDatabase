@@ -1,0 +1,22 @@
+{
+  "id": "fe0ef7ad-1a2d-417a-b91d-769a84c605d4",
+  "name": "EWU Bodycam",
+  "spotifyId": "5e3BmJAX5DZ4ApO4a8yN1r",
+  "appleId": 6820718508,
+  "episodes": [
+    {
+      "id": "29f3c216-2800-494b-978d-3ceadf246d76",
+      "title": "You Won_t BELIEVE Our Experience In A Polygamy Cult Town",
+      "description": "Discover what happens when you visit a polygamy cult town in this eye-opening true crime documentary. Explore the secrets, control, and criminal allegations that have surrounded the community, as investigators, victims, and former members speak out. This gripping story examines the evidence, the investigation, and the pursuit of justice, revealing a hidden world few ever see up close.",
+      "release": "2026-11-14T22:20:02Z",
+      "duration": "01:36:15.1510000",
+      "explicit": false,
+      "spotifyId": "2TpPqa0WLK7Cj5wcswg86A",
+      "appleId": 1000801976123,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/2TpPqa0WLK7Cj5wcswg86A",
+        "apple": "https://podcasts.apple.com/podcast/you-won-t-believe-our-experience-in-a-polygamy-cult-town/id6820718508?i=1000801976123"
+      }
+    }
+  ]
+}

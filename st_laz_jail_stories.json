@@ -1,0 +1,25 @@
+{
+  "id": "cde05890-a372-4f4f-b7dc-6f39461e4344",
+  "name": "St. Laz Jail stories",
+  "spotifyId": "1AKUgmICaMT6ChCnT4a6Ix",
+  "appleId": 6816152351,
+  "episodes": [
+    {
+      "id": "340b5084-203a-45ef-b808-f369da20c948",
+      "title": "Kidnapped and taken to Elan School a cult for kids - Joe Nobody",
+      "description": "Joe Nobody speaks about the abuse he suffered as a child at the infamous Elan School in Maine",
+      "release": "2026-11-11T04:00:00Z",
+      "duration": "00:58:02.6970000",
+      "explicit": true,
+      "spotifyId": "4qny9Lwrorsz1JMnrAZwDI",
+      "appleId": 1000801136683,
+      "subjects": [
+        "Troubled Teen Industry"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4qny9Lwrorsz1JMnrAZwDI",
+        "apple": "https://podcasts.apple.com/podcast/kidnapped-and-taken-to-elan-school-a-cult-for-kids-joe-nobody/id6816152351?i=1000801136683"
+      }
+    }
+  ]
+}

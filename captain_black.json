@@ -4,20 +4,6 @@
   "youTubeChannelId": "UCkQRjqK4MDth4tUi19Ae0Yg",
   "episodes": [
     {
-      "id": "3bac47e4-517e-4668-8d79-7d8040f4056f",
-      "title": "Dateline JW",
-      "release": "2016-10-10T08:31:54Z",
-      "duration": "00:24:55",
-      "explicit": false,
-      "youTubeId": "oKWWO3Xa-bE",
-      "subjects": [
-        "Jehovah\u0027s Witnesses"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=oKWWO3Xa-bE"
-      }
-    },
-    {
       "id": "5061847a-5ffe-492a-b15c-d80fa04ab786",
       "title": "WAYNE BENT",
       "release": "2016-10-08T18:32:43Z",
@@ -175,34 +161,6 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=bAWomQqKpmY"
-      }
-    },
-    {
-      "id": "8357dbda-1afd-4850-9d43-3ff899d6d214",
-      "title": "Nancy Grace FLDS part 1",
-      "release": "2014-05-11T08:41:29Z",
-      "duration": "00:10:50",
-      "explicit": false,
-      "youTubeId": "Ro-6dv0x8sM",
-      "subjects": [
-        "FLDS Church"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=Ro-6dv0x8sM"
-      }
-    },
-    {
-      "id": "8b968e6e-c96d-4856-baff-d8834b052765",
-      "title": "NANCY GRACE FLDS 2",
-      "release": "2014-05-11T08:36:44Z",
-      "duration": "00:31:12",
-      "explicit": false,
-      "youTubeId": "z65NSNR2Qbk",
-      "subjects": [
-        "FLDS Church"
-      ],
-      "urls": {
-        "youtube": "https://www.youtube.com/watch?v=z65NSNR2Qbk"
       }
     },
     {

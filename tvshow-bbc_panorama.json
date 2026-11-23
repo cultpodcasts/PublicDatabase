@@ -1,6 +1,6 @@
 {
   "id": "069bc621-347b-40cf-89d6-82b257f458a7",
-  "name": "BBC Panorama",
+  "name": "Panorama",
   "imdbId": "tt0199257",
   "tvdbId": 80748,
   "tmdbId": 5675,
@@ -101,6 +101,20 @@
       }
     },
     {
+      "id": "6b2c7c4c-0c10-4ddb-a5d6-190e449b15e7",
+      "title": "BBC Panorama Exposing of fake Spac Nation",
+      "description": "Panorama. Greg McKenzie investigates accusations of financial irregularities against the Salvation Proclaimers Anointed Church",
+      "release": "2020-04-05T11:29:37Z",
+      "duration": "00:26:35",
+      "explicit": false,
+      "subjects": [
+        "SPAC Nation"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=DZpIavpdWYc"
+      }
+    },
+    {
       "id": "92d6ed14-7807-499f-8964-93d4231b640f",
       "title": "The Prince and the Epstein Scandal - BBC Panorama",
       "description": "\u0022I implore the people in the UK to stand up beside me.\u201D\n\nVirginia Giuffre says she was trafficked as a teenager and asks the British public to not accept this \u0022as being OK.\u201D\n\nThe Duke of York emphatically denies any form of sexual contact or relationship with Virginia Giuffre.",
@@ -130,6 +144,20 @@
       }
     },
     {
+      "id": "03bab9fa-916c-4825-8703-18bee1f1198c",
+      "title": "Panorama 2010 part 3 of 4",
+      "description": "John Sweeney returns.\r\n\r\nCredit to http://www.youtube.com/user/MrsEvilOfScientology\r\n\r\n\r\nPart 1: http://www.youtube.com/watch?v=bcGnSPbRKkw\r\nPart 2: http://www.youtube.com/watch?v=Qcx1MHX5YPU\r\nPart 3: http://www.youtube.com/watch?v=XVtk2GwINBY\r\nPart 4: http://www.youtube.com/watch?v=1WnKRT4GWjU",
+      "release": "2010-09-28T23:01:44Z",
+      "duration": "00:15:01",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=XVtk2GwINBY"
+      }
+    },
+    {
       "id": "5e15e54a-af54-4326-99f3-6e558f7dea63",
       "title": "The Secrets Of Scientology",
       "description": "Reporter John Sweeney\u0027s last investigation into the Church of Scientology resulted in an explosive confrontation with church officials. This time, in a Panorama Special, one of those officials has turned whistleblower to help him reveal the dark secrets of the church,which boasts Hollywood A-listers Tom Cruise and John Travolta among its devotees.\n\nhttps://www.bbc.co.uk/programmes/b00v1ykr\n\nhttps://en.wikipedia.org/wiki/The_Secrets_of_Scientology",
@@ -141,6 +169,104 @@
       ],
       "urls": {
         "internetArchive": "https://archive.org/details/the-secrets-of-scientology-bbc-panorama-28-sept-2010"
+      }
+    },
+    {
+      "id": "cd75de7f-89fc-43be-a011-95f68ec12843",
+      "title": "Panorama -- Bridge to Total Freedom, 1987 -- part 3 of 5",
+      "description": "The original Panorama episode on the cult.\r\n\r\nPart 1:\r\nhttp://ie.youtube.com/watch?v=hTp6pmUGSMg\r\nPart 2:\r\nhttp://ie.youtube.com/watch?v=v8FEE93-K3s\r\nPart 3:\r\nhttp://ie.youtube.com/watch?v=ya_2HtYEXCg\r\nPart 4:\r\nhttp://ie.youtube.com/watch?v=otdFNb8ulUc\r\nPart 5:\r\nhttp://ie.youtube.com/watch?v=VNyzC-F9yT8",
+      "release": "2008-08-20T10:18:37Z",
+      "duration": "00:10:03",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=ya_2HtYEXCg"
+      }
+    },
+    {
+      "id": "b00ea5e0-5bb7-4a57-96f7-75da0a65e489",
+      "title": "Panorama -- Bridge to Total Freedom, 1987 -- part 1 of 5",
+      "description": "The original Panorama episode on the cult.\r\n\r\nPart 1:\r\nhttp://ie.youtube.com/watch?v=hTp6pmUGSMg\r\nPart 2:\r\nhttp://ie.youtube.com/watch?v=v8FEE93-K3s\r\nPart 3:\r\nhttp://ie.youtube.com/watch?v=ya_2HtYEXCg\r\nPart 4:\r\nhttp://ie.youtube.com/watch?v=otdFNb8ulUc\r\nPart 5:\r\nhttp://ie.youtube.com/watch?v=VNyzC-F9yT8",
+      "release": "2008-08-20T08:35:10Z",
+      "duration": "00:10:07",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=hTp6pmUGSMg"
+      }
+    },
+    {
+      "id": "d7dd188e-f477-472e-b60f-e1ce5107472f",
+      "title": "Panorama -- Bridge to Total Freedom, 1987 -- part 5 of 5",
+      "description": "The original Panorama episode on the cult.\r\n\r\nPart 1:\r\nhttp://ie.youtube.com/watch?v=hTp6pmUGSMg\r\nPart 2:\r\nhttp://ie.youtube.com/watch?v=v8FEE93-K3s\r\nPart 3:\r\nhttp://ie.youtube.com/watch?v=ya_2HtYEXCg\r\nPart 4:\r\nhttp://ie.youtube.com/watch?v=otdFNb8ulUc\r\nPart 5:\r\nhttp://ie.youtube.com/watch?v=VNyzC-F9yT8",
+      "release": "2008-08-19T09:48:59Z",
+      "duration": "00:06:39",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=VNyzC-F9yT8"
+      }
+    },
+    {
+      "id": "b70a6ff0-fc49-46b5-81e3-c89e18d19b2e",
+      "title": "Panorama -- Bridge to Total Freedom, 1987 -- part 4 of 5",
+      "description": "The original Panorama episode on the cult.\r\n\r\nPart 1:\r\nhttp://ie.youtube.com/watch?v=hTp6pmUGSMg\r\nPart 2:\r\nhttp://ie.youtube.com/watch?v=v8FEE93-K3s\r\nPart 3:\r\nhttp://ie.youtube.com/watch?v=ya_2HtYEXCg\r\nPart 4:\r\nhttp://ie.youtube.com/watch?v=otdFNb8ulUc\r\nPart 5:\r\nhttp://ie.youtube.com/watch?v=VNyzC-F9yT8",
+      "release": "2008-08-19T08:54:33Z",
+      "duration": "00:07:25",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=otdFNb8ulUc"
+      }
+    },
+    {
+      "id": "66af020e-dfd1-44a0-ad9f-06c9d73a576f",
+      "title": "Panorama -- Bridge to Total Freedom, 1987 -- part 2 of 5",
+      "description": "The original Panorama episode on the cult.\r\n\r\nPart 1:\r\nhttp://ie.youtube.com/watch?v=hTp6pmUGSMg\r\nPart 2:\r\nhttp://ie.youtube.com/watch?v=v8FEE93-K3s\r\nPart 3:\r\nhttp://ie.youtube.com/watch?v=ya_2HtYEXCg\r\nPart 4:\r\nhttp://ie.youtube.com/watch?v=otdFNb8ulUc\r\nPart 5:\r\nhttp://ie.youtube.com/watch?v=VNyzC-F9yT8",
+      "release": "2008-08-19T03:29:00Z",
+      "duration": "00:10:03",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=v8FEE93-K3s"
+      }
+    },
+    {
+      "id": "85309c1b-368b-4313-adcc-6fc830f4e18d",
+      "title": "Panorama\u0027s Scientology and Me replay July 13 in Australia",
+      "description": "SP\u0027s at Foxtel?\r\nCoincidental that C.I on Foxtel are showing John Sweeney\u0027s \u0022Scientology and Me\u0022 the day after global protests about the cult of scientology?\r\n\r\nDoesnt matter which of the above is most liekly. Well over 2 million households now have PayTV and C.I is a very popular channel. \r\n\r\nThis 60 second promo that is currently running will induce many to want to watch the cult of scientology in action. Free to air Channel 7 aired John Sweeney\u0027s report over a year ago, and it caused quite a flap for the cult. Can this history repeat itself?\r\nIt *is* going to be a bad week for the cult of swcientology in Australia, starting Monday night at 6.30pm and Today Tonight",
+      "release": "2008-07-04T09:00:33Z",
+      "duration": "00:01:01",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=vBid-v4DVIA"
+      }
+    },
+    {
+      "id": "fc7a1aee-020b-4b20-b0af-1bec5712ad79",
+      "title": "Panorama - Scientology and Me - Editor\u0027s View - BBC One",
+      "description": "BBC Panorama editor Sandy Smith sets out the scene surrounding John Sweeney\u0027s investigation of Scientology.\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
+      "release": "2007-05-15T09:00:41Z",
+      "duration": "00:06:32",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Md0zPchNeQ0"
       }
     },
     {
@@ -158,6 +284,34 @@
       }
     },
     {
+      "id": "7109a7d5-97fe-4c73-ab16-30e998c0e4b3",
+      "title": "Panorama - Scientology and Me - Tommy Walks Away - BBC One",
+      "description": "Subscribe and \uD83D\uDD14 to the BBC \uD83D\uDC49 https://bit.ly/BBCYouTubeSub\nWatch the BBC first on iPlayer \uD83D\uDC49 https://bbc.in/iPlayer-Home http://www.bbc.co.uk/panorama\r\nTommy Davis (Spokesperson of the Church of Scientology) and John Sweeney (BBC Panorama).\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
+      "release": "2007-05-14T12:23:29Z",
+      "duration": "00:01:25",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=gE3Y4JwJ0jM"
+      }
+    },
+    {
+      "id": "8ae6fad0-4b68-4880-b0ec-14b89bb27e92",
+      "title": "Panorama  - John Sweeney losing his temper - BBC One",
+      "description": "Subscribe and \uD83D\uDD14 to the BBC \uD83D\uDC49 https://bit.ly/BBCYouTubeSub\nWatch the BBC first on iPlayer \uD83D\uDC49 https://bbc.in/iPlayer-Home http://www.bbc.co.uk/panorama\r\nBBC One Panorama - Scientology and Me - BBC reporter John Sweeney losing his temper.\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the \u0027Are all programmes that are broadcast available on BBC iPlayer?\u0027 FAQ \uD83D\uDC49 https://bbc.in/2m8ks6v.",
+      "release": "2007-05-14T12:07:39Z",
+      "duration": "00:00:47",
+      "explicit": false,
+      "subjects": [
+        "Scientology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=mjlo4u_8g60"
+      }
+    },
+    {
       "id": "67b0df04-bc71-4510-b4c6-6d3c797de081",
       "title": "\u0027The definition of religion (...) is not defined by John Sweeney.\u0027",
       "description": "Tommy Davis (Spokesperson of the Church of Scientology) and John Sweeney (BBC Panorama).",
@@ -169,6 +323,21 @@
       ],
       "urls": {
         "youtube": "https://www.youtube.com/watch?v=0HGM8DSnYh0"
+      }
+    },
+    {
+      "id": "4baf51e4-96b9-4f8e-bfb2-915fa83bc7e5",
+      "title": "BBC Panorama: Nailbomber",
+      "description": "The story of David Copeland, the neo-nazi nailbomber, and his campaign of terror in London in 1999. The programme confronts neo-nazi leaders who inspired him to do it.",
+      "release": "2000-06-30T19:00:00Z",
+      "duration": "00:52:25",
+      "explicit": false,
+      "subjects": [
+        "_London",
+        "The Order of Nine Angles"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=vhf-NwlIVtc"
       }
     }
   ]

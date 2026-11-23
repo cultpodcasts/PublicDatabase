@@ -3,6 +3,20 @@
   "name": "News24",
   "reports": [
     {
+      "id": "991b49cc-fee4-4ba3-8174-cd6a60ddc401",
+      "title": "\u2018They were going to dismember his body\u2019: The disturbing discovery inside a US death cult",
+      "description": "Journalist and Author Andy Ngo reveals the most disturbing detail he uncovered while researching the Zizian death cult, including an alleged plan to dismember a victim\u2019s body.",
+      "release": "2026-11-17T06:34:40Z",
+      "duration": "00:08:04",
+      "explicit": false,
+      "subjects": [
+        "Zizians"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=4uXyoWG1bIk"
+      }
+    },
+    {
       "id": "f2543638-46cd-4353-b99f-a3f0ba115c29",
       "title": "Scottish police investigate Andrew\u2019s Balmoral visit with Epstein and Maxwell",
       "description": "Police in Scotland have confirmed they are investigating former Prince Andrew\u2019s visits to the King\u2019s Balmoral estate alongside Jeffrey Epstein and Ghislaine Maxwell.",

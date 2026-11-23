@@ -1,0 +1,22 @@
+{
+  "id": "2938d567-4c5c-4e09-8d71-ec061bade5ba",
+  "name": "Frontline Scotland",
+  "episodes": [
+    {
+      "id": "d02df558-9197-47ea-9fb6-44bd2f939087",
+      "title": "The Memory Thief: The Story of Dr Ewen Cameron",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use",
+      "release": "2025-11-09T14:01:15Z",
+      "duration": "00:29:02",
+      "explicit": false,
+      "subjects": [
+        "Cult Psychology",
+        "Cult-Expert",
+        "Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=xW3lPfiJt6k"
+      }
+    }
+  ]
+}

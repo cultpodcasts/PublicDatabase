@@ -1,0 +1,17 @@
+{
+  "id": "eaad6e4a-a081-4c6d-990d-366d888fc367",
+  "name": "The Cult Next Door",
+  "description": "The extraordinary story of a strange cult, which came to light in 2013 when news broke about three women emerging from a small flat in south London after decades in captivity.",
+  "release": "2017-01-26T21:00:00Z",
+  "duration": "00:58:00",
+  "explicit": true,
+  "imdbId": "tt6450274",
+  "tmdbId": 438852,
+  "subjects": [
+    "Lambeth Slavery Case"
+  ],
+  "urls": {
+    "bbcIplayer": "https://www.bbc.co.uk/iplayer/episode/b08c3vrx/the-cult-next-door",
+    "youtube": "https://www.youtube.com/watch?v=C1czfQCvCuI"
+  }
+}

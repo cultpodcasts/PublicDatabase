@@ -1,0 +1,107 @@
+{
+  "id": "186fdd0d-649d-40cc-87ed-75a7a312a299",
+  "name": "Virgin Media News (TV3 News)",
+  "reports": [
+    {
+      "id": "61f2bf1b-18d1-4fb6-94ac-ebc969db7c15",
+      "title": "TV3s Midweek on cults 3 of 3",
+      "release": "2015-04-03T06:21:02Z",
+      "duration": "00:09:34",
+      "explicit": false,
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=lFJxMzkkYIA"
+      }
+    },
+    {
+      "id": "f9c8261b-0396-4767-aca8-91ad38afea94",
+      "title": "TV3s Midweek on cults 2 of 3",
+      "release": "2015-04-03T06:20:56Z",
+      "duration": "00:09:33",
+      "explicit": false,
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=c92maGzmS5I"
+      }
+    },
+    {
+      "id": "e2cd456d-3150-4f81-b186-813de50a985e",
+      "title": "TV3s Midweek on cults 1 of 3",
+      "release": "2015-04-03T06:20:28Z",
+      "duration": "00:09:27",
+      "explicit": false,
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Fk813qC2f0A"
+      }
+    },
+    {
+      "id": "d9cd611f-dafb-44c1-86c1-299865bdadc5",
+      "title": "TV3\u0027s MidWeek on the House of Prayer (14/11/13)",
+      "description": "TV3\u0027s MidWeek take another look at the House of Prayer.",
+      "release": "2013-11-14T01:20:11Z",
+      "duration": "00:11:03",
+      "explicit": false,
+      "subjects": [
+        "House of Prayer Achill",
+        "_Ireland"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0uwKRuL1l-0"
+      }
+    },
+    {
+      "id": "360df03c-e7f1-45bf-929a-f664b1462e49",
+      "title": "TV3 2020 expose of Tony Quinn   part 3 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=1Vl5qhd3Ap0"
+      }
+    },
+    {
+      "id": "9953ca2b-18c4-4f30-86d9-05eeca401e44",
+      "title": "TV3 2020 expose of Tony Quinn   part 4 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=pjpwOlFPVTA"
+      }
+    },
+    {
+      "id": "bfce8af5-4b72-42f1-9b26-9963518bc260",
+      "title": "TV3 2020 expose of Tony Quinn   part 1 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:53",
+      "explicit": false,
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=tL5KzIlKEso"
+      }
+    },
+    {
+      "id": "f512d936-b03b-44ec-a06b-578fd1c1c613",
+      "title": "TV3 2020 expose of Tony Quinn   part 2 of 4",
+      "release": "2001-03-02T00:00:00Z",
+      "duration": "00:08:58",
+      "explicit": false,
+      "subjects": [
+        "EDUCO",
+        "Yoga Cult"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=JLmm6ZF9X7I"
+      }
+    }
+  ]
+}

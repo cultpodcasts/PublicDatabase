@@ -1,0 +1,20 @@
+{
+  "id": "6ba88deb-cb5f-41f7-bcae-703ca8d4a0eb",
+  "name": "Investigative Reports",
+  "episodes": [
+    {
+      "id": "19fec37a-1f44-456a-a843-1c9493bd0b4b",
+      "title": "Jonestown: Mystery of a Massacre",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2023-05-27T21:24:37Z",
+      "duration": "00:56:15",
+      "explicit": false,
+      "subjects": [
+        "Peoples Temple"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=Gs1aqrw4RwA"
+      }
+    }
+  ]
+}

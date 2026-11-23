@@ -7,6 +7,40 @@
   "youTubePlaylistId": "PLDTPrMoGHssBabkHzoDvVb4FLQEAlkW_-",
   "episodes": [
     {
+      "id": "6f09dcd9-2836-4370-8a35-2aacacd595b6",
+      "title": "04 Expanse: Disappearing in the Devil\u0027s Triangle | The chase",
+      "description": "As new leads emerge into why flight VH-MDX has never been found, Keely begins\u00A0to wonder if the answer to this decades-long mystery are tied up in another story that played out in the exact same place three decades later - the manhunt through the Barringtons for notorious fugitive Malcolm Naden, who was on the run for seven years.",
+      "release": "2026-11-22T15:00:00Z",
+      "duration": "00:28:36",
+      "explicit": false,
+      "spotifyId": "29fqjgEx3FFcga6ySuG43R",
+      "appleId": 1000803432008,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/29fqjgEx3FFcga6ySuG43R",
+        "apple": "https://podcasts.apple.com/podcast/04-expanse-disappearing-in-the-devils-triangle-the-chase/id1635088231?i=1000803432008"
+      }
+    },
+    {
+      "id": "22c596ca-7bc3-4928-bbc5-e045fa38006c",
+      "title": "03 Expanse: Disappearing in the Devil\u0027s Triangle | The theories",
+      "description": "As the search ends without answers, questions about why flight VH-MDX was flying over the Barrington Tops on a dark and freezing night begin to mount. Questions\u00A0emerge which grow into something else entirely. This is how a web of conspiracies started to swirl around VH-MDX.\u00A0While the theories grow louder, Yvonne Pembroke is trying to survive a very different reality. Seven months after her fianc\u00E9 disappears, Yvonne gives birth to her and Phillip\u2019s child alone, in a cloud of grief. Her mental health spirals until she faces total collapse.",
+      "release": "2026-11-15T15:00:00Z",
+      "duration": "00:33:51",
+      "explicit": false,
+      "spotifyId": "4qOwLndVYsJWAwNRex3F8P",
+      "appleId": 1000802086639,
+      "subjects": [
+        "The Truth Fellowship"
+      ],
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/4qOwLndVYsJWAwNRex3F8P",
+        "apple": "https://podcasts.apple.com/podcast/03-expanse-disappearing-in-the-devils-triangle/id1635088231?i=1000802086639"
+      }
+    },
+    {
       "id": "9fe0a012-b33b-4ac8-bd64-53b25cd623c5",
       "title": "02 Expanse: Disappearing in the Devil\u0027s Triangle | The pieces",
       "description": "Flight VH-MDX appears to have vanished, and authorities launch a massive search across the unforgiving Barrington Tops landscape to find it. With freezing temperatures setting in and survival experts giving the men just days to live, every hour counts.",

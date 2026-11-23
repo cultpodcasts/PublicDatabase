@@ -1,0 +1,23 @@
+{
+  "id": "3eb51135-abc5-4d09-9126-ad26719079af",
+  "name": "In Search of History",
+  "imdbId": "tt1658998",
+  "tvdbId": 265762,
+  "tmdbId": 44237,
+  "episodes": [
+    {
+      "id": "7c0e8073-a669-4fe5-868d-c506875cd97a",
+      "title": "Hitler and the Occult",
+      "description": "Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+      "release": "2024-01-01T16:17:20Z",
+      "duration": "00:43:03",
+      "explicit": false,
+      "subjects": [
+        "Cult Psychology"
+      ],
+      "urls": {
+        "youtube": "https://www.youtube.com/watch?v=0MZDcdnojHM"
+      }
+    }
+  ]
+}

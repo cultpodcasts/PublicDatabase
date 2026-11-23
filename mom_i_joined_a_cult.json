@@ -5,6 +5,34 @@
   "appleId": 1565633523,
   "episodes": [
     {
+      "id": "30918f08-3e59-44fd-b083-e81a2909ee26",
+      "title": "Lumaluma - Season 14 Episode 14",
+      "description": "This may be the oldest and longest worshiped God on this planet. Finn brings us one from down under. Let us know what you think of this God.",
+      "release": "2026-11-18T13:00:00Z",
+      "duration": "00:46:00.0630000",
+      "explicit": false,
+      "spotifyId": "3LIgesATXXZK3wx7eisFnz",
+      "appleId": 1000802706203,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/3LIgesATXXZK3wx7eisFnz",
+        "apple": "https://podcasts.apple.com/podcast/lumaluma-season-14-episode-14/id1565633523?i=1000802706203"
+      }
+    },
+    {
+      "id": "960984e5-7c0a-46c8-a23c-09a1d320d937",
+      "title": "Zao Jun - Season 14 Episode 13",
+      "description": "This God just may be your best friend in the kitchen.",
+      "release": "2026-11-11T13:53:00Z",
+      "duration": "00:51:02.7810000",
+      "explicit": false,
+      "spotifyId": "28VFbbMzAxKjMKKKCMMeDr",
+      "appleId": 1000801218944,
+      "urls": {
+        "spotify": "https://open.spotify.com/episode/28VFbbMzAxKjMKKKCMMeDr",
+        "apple": "https://podcasts.apple.com/podcast/zao-jun-season-14-episode-13/id1565633523?i=1000801218944"
+      }
+    },
+    {
       "id": "c6f7780c-b4d0-48f1-9577-47df4d4f5da2",
       "title": "Hades \u0026 Persophone - Season 14 Episode 12",
       "description": "It is a full house in this episode. Grace and Wilder join us. Gunnar is grumpy, so The Nice Cults decides to record on a different day.",

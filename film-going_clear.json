@@ -1,0 +1,16 @@
+{
+  "id": "ba24e566-9e40-4352-832e-33783b7a4c55",
+  "name": "Going Clear",
+  "description": "The film profiles eight former members of the Church of Scientology, shining a light on how they attract true believers and the things they do in the name of religion.",
+  "release": "2015-03-29T00:00:00Z",
+  "duration": "01:59:54",
+  "explicit": false,
+  "imdbId": "tt4257858",
+  "tmdbId": 318224,
+  "subjects": [
+    "Scientology"
+  ],
+  "urls": {
+    "internetArchive": "https://archive.org/details/goingclear_202003/Documentaries/Going\u002BClear\u002B-\u002BScientology\u002Band\u002Bthe\u002BPrison\u002Bof\u002BBelief\u002B(2015\u002B1080p).mp4"
+  }
+}
